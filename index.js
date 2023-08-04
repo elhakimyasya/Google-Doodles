@@ -12,8 +12,10 @@ const fetchData = async () => {
         const data = response.data;
 
         const distFolder = path.join(__dirname, 'dist');
+
+        // Check if the 'dist' folder exists, if not, create it
         if (!fs.existsSync(distFolder)) {
-            fs.mkdirSync(distFolder);
+            fs.mkdirSync(distFolder, { recursive: true });
         }
 
         const fileName = `doodles_${currentYear}_${currentMonth}.json`;
