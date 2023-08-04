@@ -16,15 +16,16 @@ jobs:
       - name: Install dependencies
         run: npm install axios
 
-      - name: Fetch data and commit changes
+      - name: Set up git
         run: |
-          npm install # Install dependencies again in the action's environment
-          node index.js
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions"
+
+      - name: Fetch data and commit changes
+        run: node index.js
 
       - name: Commit changes
         run: |
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
           git add .
           git commit -m "Auto-fetch doodles data [skip ci]"
           git push
