@@ -19,7 +19,15 @@ jobs:
           node-version: '14'  # Use Node.js version compatible with your code
 
       - name: Install Dependencies
-        run: npm install axios
+        run: npm install
 
       - name: Run Data Fetch Script
         run: node index.js
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "Yasya El Hakim"
+          git config --global user.email "yasyaelhakim@gmail.com"
+          git add .
+          git commit -m "Update doodles data [skip ci]"
+          git push
