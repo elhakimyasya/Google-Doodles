@@ -21,7 +21,8 @@ jobs:
 
       - name: Commit changes
         run: |
-
+          git config --local user.email "yasyaelhakim@gmail.com"
+          git config --local user.name "github-actions[elhakimyasya]"
           git add .
           git commit -m "Auto-fetch doodles data [skip ci]"
           git push
