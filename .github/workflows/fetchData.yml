@@ -10,22 +10,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Install dependencies
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'  # Use Node.js version compatible with your code
+
+      - name: Install Dependencies
         run: npm install axios
 
-      - name: Set up git
-        run: |
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "GitHub Actions"
-
-      - name: Fetch data and commit changes
+      - name: Run Data Fetch Script
         run: node index.js
-
-      - name: Commit changes
-        run: |
-          git add .
-          git commit -m "Auto-fetch doodles data [skip ci]"
-          git push
