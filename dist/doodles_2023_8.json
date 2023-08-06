@@ -1,5 +1,1003 @@
 [
   {
+    "name": "jamaica-independence-day-2023",
+    "title": "Jamaica Independence Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/jamaica-independence-day-2023-6753651837109913.4-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/QgK7CBVTEE19dOffkhzGSISEPYYkkKWr9t5jzTu_X122LZLX0dyA7U20QyWIL4wzhEWaClia_swzh1yJz-q-G9AaVv4uuoPtuiV6QHnpTjgZ3aQ4S0rB",
+    "high_res_url": "//www.google.com/logos/doodles/2023/jamaica-independence-day-2023-6753651837109913.4-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      8,
+      6
+    ],
+    "translations": {
+      "en": {
+        "query": "Jamaica Independence Day",
+        "hover_text": "Jamaica Independence Day 2023",
+        "share_text": "Happy Independence Day, Jamaica! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": "Jamaika se onafhanklikheidsdag 2023",
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": "Dita e Pavarësisë së Xhamajkës, 2023",
+        "share_text": ""
+      },
+      "am": {
+        "query": null,
+        "hover_text": "የጃማይካ ነጻነት ቀን 2023",
+        "share_text": ""
+      },
+      "ar": {
+        "query": null,
+        "hover_text": "عيد استقلال جامايكا 2023",
+        "share_text": ""
+      },
+      "hy": {
+        "query": null,
+        "hover_text": "Ճամայկայի անկախության օր 2023",
+        "share_text": ""
+      },
+      "az": {
+        "query": null,
+        "hover_text": "2023 Yamaykanın Müstəqillik Günü",
+        "share_text": ""
+      },
+      "bn": {
+        "query": null,
+        "hover_text": "জামাইকার স্বাধীনতা দিবস ২০২৩",
+        "share_text": ""
+      },
+      "eu": {
+        "query": null,
+        "hover_text": "2023ko Jamaikako Independentzia Eguna",
+        "share_text": ""
+      },
+      "be": {
+        "query": null,
+        "hover_text": "Дзень незалежнасці Ямайкі 2023",
+        "share_text": ""
+      },
+      "bs": {
+        "query": null,
+        "hover_text": "Dan nezavisnosti Jamajke 2023.",
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bg": {
+        "query": null,
+        "hover_text": "Ден на независимостта на Ямайка 2023 г.",
+        "share_text": ""
+      },
+      "my": {
+        "query": null,
+        "hover_text": "၂၀၂၃ ဂျမေကာ လွတ်လပ်ရေးနေ့",
+        "share_text": ""
+      },
+      "ca": {
+        "query": null,
+        "hover_text": "Dia de la Independència de Jamaica 2023",
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": "Dan neovisnosti Jamajke 2023.",
+        "share_text": ""
+      },
+      "cs": {
+        "query": null,
+        "hover_text": "Den nezávislosti Jamajky 2023",
+        "share_text": ""
+      },
+      "da": {
+        "query": null,
+        "hover_text": "Jamaicas uafhængighedsdag 2023",
+        "share_text": ""
+      },
+      "nl": {
+        "query": null,
+        "hover_text": "Onafhankelijkheidsdag Jamaica 2023",
+        "share_text": ""
+      },
+      "et": {
+        "query": null,
+        "hover_text": "Jamaica 2023. aasta iseseisvuspäev",
+        "share_text": ""
+      },
+      "fi": {
+        "query": null,
+        "hover_text": "Jamaikan itsenäisyyspäivä 2023",
+        "share_text": ""
+      },
+      "fr": {
+        "query": null,
+        "hover_text": "Fête de l'Indépendance de la Jamaïque 2023",
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": "Día da Independencia de Xamaica 2023",
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": "იამაიკის დამოუკიდებლობის დღე — 2023",
+        "share_text": ""
+      },
+      "de": {
+        "query": null,
+        "hover_text": "Unabhängigkeitstag Jamaika 2023",
+        "share_text": ""
+      },
+      "el": {
+        "query": null,
+        "hover_text": "Ημέρα Ανεξαρτησίας της Τζαμάικα 2023",
+        "share_text": ""
+      },
+      "gu": {
+        "query": null,
+        "hover_text": "જમૈકાનો સ્વતંત્રતા દિવસ 2023",
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": "יום העצמאות של ג'מייקה 2023",
+        "share_text": ""
+      },
+      "hi": {
+        "query": null,
+        "hover_text": "जमैका का स्वतंत्रता दिवस 2023",
+        "share_text": ""
+      },
+      "hu": {
+        "query": null,
+        "hover_text": "Jamaica függetlenségének napja, 2023",
+        "share_text": ""
+      },
+      "is": {
+        "query": null,
+        "hover_text": "Sjálfstæðisdagur Jamaíku 2023",
+        "share_text": ""
+      },
+      "id": {
+        "query": null,
+        "hover_text": "Hari Kemerdekaan Jamaika 2023",
+        "share_text": ""
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": "Festa dell'indipendenza della Giamaica 2023",
+        "share_text": ""
+      },
+      "ja": {
+        "query": null,
+        "hover_text": "2023 年ジャマイカ独立記念日",
+        "share_text": ""
+      },
+      "kn": {
+        "query": null,
+        "hover_text": "ಜಮೈಕಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2023",
+        "share_text": ""
+      },
+      "kk": {
+        "query": null,
+        "hover_text": "Ямайканың Тәуелсіздік күні – 2023",
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": "ទិវា​បុណ្យ​ឯករាជ្យជាតិ​ហ្សាម៉ាអ៊ីក​ឆ្នាំ 2023",
+        "share_text": ""
+      },
+      "ko": {
+        "query": null,
+        "hover_text": "2023년 자메이카 독립기념일",
+        "share_text": ""
+      },
+      "ky": {
+        "query": null,
+        "hover_text": "Ямайканын Эгемендүүлүк күнү — 2023",
+        "share_text": ""
+      },
+      "lo": {
+        "query": null,
+        "hover_text": "ວັນປະກາດເອກະລາດຈາໄມກາ 2023",
+        "share_text": ""
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lv": {
+        "query": null,
+        "hover_text": "Jamaikas Neatkarības diena — 2023",
+        "share_text": ""
+      },
+      "lt": {
+        "query": null,
+        "hover_text": "Jamaikos nepriklausomybės diena, 2023 m.",
+        "share_text": ""
+      },
+      "mk": {
+        "query": null,
+        "hover_text": "Ден на независноста на Јамајка, 2023 г.",
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": "Hari Kemerdekaan Jamaica 2023",
+        "share_text": ""
+      },
+      "ml": {
+        "query": null,
+        "hover_text": "ജമൈക്കൻ സ്വാതന്ത്ര്യദിനം 2023",
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": "जमैकाचा स्वातंत्र्यदिन २०२३",
+        "share_text": ""
+      },
+      "mn": {
+        "query": null,
+        "hover_text": "2023 оны Ямайка Улсын Тусгаар тогтнолын өдөр",
+        "share_text": ""
+      },
+      "ne": {
+        "query": null,
+        "hover_text": "जमैकाको स्वतन्त्रता दिवस २०२३",
+        "share_text": ""
+      },
+      "no": {
+        "query": null,
+        "hover_text": "Jamaicas uavhengighetsdag 2023",
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": "روز استقلال جامائیکا - ۲۰۲۳",
+        "share_text": ""
+      },
+      "pl": {
+        "query": null,
+        "hover_text": "Dzień Niepodległości Jamajki 2023",
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": null,
+        "hover_text": "ਜਮੈਕਾ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ 2023",
+        "share_text": ""
+      },
+      "ro": {
+        "query": null,
+        "hover_text": "Ziua Independenței în Jamaica – 2023",
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": "День независимости Ямайки – 2023",
+        "share_text": ""
+      },
+      "sr": {
+        "query": null,
+        "hover_text": "Дан независности Јамајке 2023.",
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": "ජැමෙයිකාවේ නිදහස් දිනය 2023",
+        "share_text": ""
+      },
+      "sk": {
+        "query": null,
+        "hover_text": "Deň nezávislosti Jamajky 2023",
+        "share_text": ""
+      },
+      "sl": {
+        "query": null,
+        "hover_text": "Dan neodvisnosti Jamajke 2023",
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": "Día de la Independencia de Jamaica 2023",
+        "share_text": ""
+      },
+      "sw": {
+        "query": null,
+        "hover_text": "Sikukuu ya Uhuru wa Jamaika 2023",
+        "share_text": ""
+      },
+      "sv": {
+        "query": null,
+        "hover_text": "Jamaicas självständighetsdag 2023",
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": "ஜமைக்காவின் சுதந்திர தினம் 2023",
+        "share_text": ""
+      },
+      "te": {
+        "query": null,
+        "hover_text": "జమైకా స్వాతంత్య్ర దినోత్సవం 2023",
+        "share_text": ""
+      },
+      "th": {
+        "query": null,
+        "hover_text": "วันประกาศอิสรภาพของจาเมกาปี 2023",
+        "share_text": ""
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": "Jamaika Bağımsızlık Günü 2023",
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": "День незалежності Ямайки у 2023 році",
+        "share_text": ""
+      },
+      "ur": {
+        "query": null,
+        "hover_text": "جمائیکا کا یوم آزادی 2023",
+        "share_text": ""
+      },
+      "uz": {
+        "query": null,
+        "hover_text": "Yamayka Mustaqillik kuni – 2023",
+        "share_text": ""
+      },
+      "vi": {
+        "query": null,
+        "hover_text": "Ngày Quốc khánh Jamaica năm 2023",
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": "Usuku Lokuzimela lwase-Jamaica lwango-2023",
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Jamaica Independence Day",
+    "share_text": "Happy Independence Day, Jamaica! #GoogleDoodle"
+  },
+  {
+    "name": "bolivia-independence-day-2023",
+    "title": "Bolivia Independence Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/bolivia-independence-day-2023-6753651837109912-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/_giYOxn4VcGgtIxhBr-8dJ5igjBcoWiRLuFIxx6u-2nzBPmTbYjBgyLAec_Pp7149srjBdu5Db8SR6CKuaS8afd5e9dBixCybRFFmSja_rLSUOCNkDHbHA",
+    "high_res_url": "//www.google.com/logos/doodles/2023/bolivia-independence-day-2023-6753651837109912-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      8,
+      6
+    ],
+    "translations": {
+      "en": {
+        "query": "Bolivia Independence Day",
+        "hover_text": "Bolivia Independence Day 2023",
+        "share_text": "Happy Independence Day, Bolivia! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": "Bolivië se onafhanklikheidsdag 2023",
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": "Dita e Pavarësisë së Bolivisë, 2023",
+        "share_text": ""
+      },
+      "am": {
+        "query": null,
+        "hover_text": "የቦሊቪያ ነጻነት ቀን 2023",
+        "share_text": ""
+      },
+      "ar": {
+        "query": null,
+        "hover_text": "عيد استقلال بوليفيا 2023",
+        "share_text": ""
+      },
+      "hy": {
+        "query": null,
+        "hover_text": "Բոլիվիայի անկախության օր 2023",
+        "share_text": ""
+      },
+      "az": {
+        "query": null,
+        "hover_text": "2023 Boliviyanın Müstəqillik Günü",
+        "share_text": ""
+      },
+      "bn": {
+        "query": null,
+        "hover_text": "বলিভিয়ার স্বাধীনতা দিবস ২০২৩",
+        "share_text": ""
+      },
+      "eu": {
+        "query": null,
+        "hover_text": "2023ko Boliviako Independentzia Eguna",
+        "share_text": ""
+      },
+      "be": {
+        "query": null,
+        "hover_text": "Дзень незалежнасці Балівіі 2023",
+        "share_text": ""
+      },
+      "bs": {
+        "query": null,
+        "hover_text": "Dan nezavisnosti Bolivije 2023.",
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bg": {
+        "query": null,
+        "hover_text": "Ден на независимостта на Боливия 2023 г.",
+        "share_text": ""
+      },
+      "my": {
+        "query": null,
+        "hover_text": "၂၀၂၃ ဘိုလီးဗီးယား လွတ်လပ်ရေးနေ့",
+        "share_text": ""
+      },
+      "ca": {
+        "query": null,
+        "hover_text": "Dia de la Independència de Bolívia 2023",
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": "Dan neovisnosti Bolivije 2023.",
+        "share_text": ""
+      },
+      "cs": {
+        "query": null,
+        "hover_text": "Den nezávislosti Bolívie 2023",
+        "share_text": ""
+      },
+      "da": {
+        "query": null,
+        "hover_text": "Bolivias uafhængighedsdag 2023",
+        "share_text": ""
+      },
+      "nl": {
+        "query": null,
+        "hover_text": "Onafhankelijkheidsdag Bolivia 2023",
+        "share_text": ""
+      },
+      "et": {
+        "query": null,
+        "hover_text": "Boliivia 2023. aasta iseseisvuspäev",
+        "share_text": ""
+      },
+      "fi": {
+        "query": null,
+        "hover_text": "Bolivian itsenäisyyspäivä 2023",
+        "share_text": ""
+      },
+      "fr": {
+        "query": null,
+        "hover_text": "Fête de l'Indépendance de la Bolivie 2023",
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": "Día da Independencia de Bolivia 2023",
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": "ბოლივიის დამოუკიდებლობის დღე — 2023",
+        "share_text": ""
+      },
+      "de": {
+        "query": null,
+        "hover_text": "Unabhängigkeitstag Bolivien 2023",
+        "share_text": ""
+      },
+      "el": {
+        "query": null,
+        "hover_text": "Ημέρα Ανεξαρτησίας της Βολιβίας 2023",
+        "share_text": ""
+      },
+      "gu": {
+        "query": null,
+        "hover_text": "બોલિવિયાનો સ્વતંત્રતા દિવસ 2023",
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": "יום העצמאות של בוליביה 2023",
+        "share_text": ""
+      },
+      "hi": {
+        "query": null,
+        "hover_text": "बोलिविया का स्वतंत्रता दिवस 2023",
+        "share_text": ""
+      },
+      "hu": {
+        "query": null,
+        "hover_text": "Bolívia függetlenségének napja, 2023",
+        "share_text": ""
+      },
+      "is": {
+        "query": null,
+        "hover_text": "Þjóðhátíðardagur Bólivíu 2023",
+        "share_text": ""
+      },
+      "id": {
+        "query": null,
+        "hover_text": "Hari Kemerdekaan Bolivia 2023",
+        "share_text": ""
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": "Festa dell'indipendenza della Bolivia 2023",
+        "share_text": ""
+      },
+      "ja": {
+        "query": null,
+        "hover_text": "2023 年ボリビア独立記念日",
+        "share_text": ""
+      },
+      "kn": {
+        "query": null,
+        "hover_text": "ಬೊಲಿವಿಯಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2023",
+        "share_text": ""
+      },
+      "kk": {
+        "query": null,
+        "hover_text": "Боливияның Тәуелсіздік күні – 2023",
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": "ទិវា​បុណ្យ​ឯករាជ្យជាតិ​បូលីវីឆ្នាំ 2023",
+        "share_text": ""
+      },
+      "ko": {
+        "query": null,
+        "hover_text": "2023년 볼리비아 독립기념일",
+        "share_text": ""
+      },
+      "ky": {
+        "query": null,
+        "hover_text": "Боливиянын эгемендүүлүк күнү — 2023",
+        "share_text": ""
+      },
+      "lo": {
+        "query": null,
+        "hover_text": "ວັນປະກາດເອກະລາດໂບລິເວຍ 2023",
+        "share_text": ""
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Bolivia",
+        "hover_text": "Día de la Independencia de Bolivia 2023",
+        "share_text": "Día de la Independencia de Bolivia. #GoogleDoodle"
+      },
+      "lv": {
+        "query": null,
+        "hover_text": "Bolīvijas Neatkarības diena — 2023",
+        "share_text": ""
+      },
+      "lt": {
+        "query": null,
+        "hover_text": "Bolivijos nepriklausomybės diena, 2023 m.",
+        "share_text": ""
+      },
+      "mk": {
+        "query": null,
+        "hover_text": "Ден на независноста на Боливија, 2023 г.",
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": "Hari Kemerdekaan Bolivia 2023",
+        "share_text": ""
+      },
+      "ml": {
+        "query": null,
+        "hover_text": "ബൊളീവിയൻ സ്വാതന്ത്യ്ര ദിനം 2023",
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": "बोलिव्हियाचा स्वातंत्र्यदिन २०२३",
+        "share_text": ""
+      },
+      "mn": {
+        "query": null,
+        "hover_text": "2023 оны Боливи Улсын Тусгаар тогтнолын өдөр",
+        "share_text": ""
+      },
+      "ne": {
+        "query": null,
+        "hover_text": "बोलिभियाको स्वतन्त्रता दिवस २०२३",
+        "share_text": ""
+      },
+      "no": {
+        "query": null,
+        "hover_text": "Bolivias uavhengighetsdag 2023",
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": "روز استقلال بولیوی - ۲۰۲۳",
+        "share_text": ""
+      },
+      "pl": {
+        "query": null,
+        "hover_text": "Dzień Niepodległości Boliwii 2023",
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": null,
+        "hover_text": "ਬੋਲੀਵੀਆ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ 2023",
+        "share_text": ""
+      },
+      "ro": {
+        "query": null,
+        "hover_text": "Ziua Independenței în Bolivia – 2023",
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": "День независимости Боливии – 2023",
+        "share_text": ""
+      },
+      "sr": {
+        "query": null,
+        "hover_text": "Дан независности Боливије 2023.",
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": "බොලිවියාවේ නිදහස් දිනය 2023",
+        "share_text": ""
+      },
+      "sk": {
+        "query": null,
+        "hover_text": "Deň nezávislosti Bolívie 2023",
+        "share_text": ""
+      },
+      "sl": {
+        "query": null,
+        "hover_text": "Dan neodvisnosti Bolivije 2023",
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": "Día de la Independencia de Bolivia 2023",
+        "share_text": ""
+      },
+      "sw": {
+        "query": null,
+        "hover_text": "Sikukuu ya Uhuru wa Bolivia 2023",
+        "share_text": ""
+      },
+      "sv": {
+        "query": null,
+        "hover_text": "Bolivias självständighetsdag 2023",
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": "பொலிவியாவின் சுதந்திர தினம் 2023",
+        "share_text": ""
+      },
+      "te": {
+        "query": null,
+        "hover_text": "బొలీవియా స్వాతంత్య్ర దినోత్సవం 2023",
+        "share_text": ""
+      },
+      "th": {
+        "query": null,
+        "hover_text": "วันประกาศอิสรภาพของโบลิเวียปี 2023",
+        "share_text": ""
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": "Bolivya Bağımsızlık Günü 2023",
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": "День незалежності Болівії у 2023 році",
+        "share_text": ""
+      },
+      "ur": {
+        "query": null,
+        "hover_text": "بولیویا کا یوم آزادی 2023",
+        "share_text": ""
+      },
+      "uz": {
+        "query": null,
+        "hover_text": "Boliviya Mustaqillik kuni – 2023",
+        "share_text": ""
+      },
+      "vi": {
+        "query": null,
+        "hover_text": "Ngày quốc khánh Bolivia năm 2023",
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": "Usuku Lokuzimela lwase-Bolivia lwango-2023",
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Bolivia Independence Day",
+    "share_text": "Happy Independence Day, Bolivia! #GoogleDoodle"
+  },
+  {
     "name": "willy-de-bruyns-109th-birthday",
     "title": "Willy De Bruyn's 109th Birthday",
     "url": "//www.google.com/logos/doodles/2023/willy-de-bruyns-109th-birthday-6753651837109910.2-law.gif",
@@ -788,9 +1786,9 @@
         "share_text": "अल्टिना शिनासीचा 116 वा वाढदिवस #GoogleDoodle"
       },
       "mn": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Алтина Шинаси",
+        "hover_text": "Алтина Шинасигийн мэндэлсний 116 жилийн ой",
+        "share_text": "Алтина Шинасигийн мэндэлсний 116 жилийн ой! #GoogleDoodle"
       },
       "ne": {
         "query": "AltIA Schinasi",
@@ -963,14 +1961,14 @@
         "share_text": ""
       },
       "uk": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Алтіна Шинасі",
+        "hover_text": "116 років від дня народження Алтіни Шинасі",
+        "share_text": "116 років від дня народження Алтіни Шинасі! #GoogleDoodle"
       },
       "ur": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Altina Schinasi",
+        "hover_text": "Altina Schinasi کی 116 ویں سالگرہ",
+        "share_text": "Altina Schinasi کی 116 ویں سالگرہ! GoogleDoodle#"
       },
       "uz": {
         "query": "Altina Schinasi",
