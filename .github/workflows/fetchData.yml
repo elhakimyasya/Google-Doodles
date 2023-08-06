@@ -24,10 +24,13 @@ jobs:
       - name: Run Data Fetch Script
         run: node index.js
 
-      - name: Commit and Push Changes
+      - name: Set Commit Message
         run: |
+          # Set the commit message with the current date in DD/MM/YYYY format
+          COMMIT_MESSAGE="Update Doodles Data ($(date +'%d/%m/%Y'))"
+          echo "$COMMIT_MESSAGE" > commit_message.txt
           git config --global user.name "Yasya El Hakim"
           git config --global user.email "yasyaelhakim@gmail.com"
           git add .
-          git commit -m "Update doodles data [skip ci]"
+          git commit -F commit_message.txt
           git push
