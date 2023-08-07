@@ -1,5 +1,504 @@
 [
   {
+    "name": "celebrating-the-bishan-otter-family",
+    "title": "Celebrating the Bishan Otter Family",
+    "url": "//www.google.com/logos/doodles/2023/celebrating-the-bishan-otter-family-6753651837109911.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/9jskU6xylMrugp6Uekfq3LCZ7I71zWnBYGOMdx47mnuGnje8Rjw9rEHWV-4sD0YJFa5Q1Zie3d4AJYN0dfClXt7oHkr2qDK2QqWB6GvVcopx6BpsFXyU",
+    "high_res_url": "//www.google.com/logos/doodles/2023/celebrating-the-bishan-otter-family-6753651837109911.2-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      8,
+      7
+    ],
+    "translations": {
+      "en": {
+        "query": "Bishan Otter Family",
+        "hover_text": "Celebrating the Bishan Otter Family",
+        "share_text": "Celebrating the Bishan Otter Family! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Bishan-otterfamilie",
+        "hover_text": "Ter viering van die Bishan-otterfamilie",
+        "share_text": "Ter viering van die Bishan-otterfamilie! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Familja e vidrave të Bishanit",
+        "hover_text": "Festojmë me familjen e vidrave të Bishanit!",
+        "share_text": "Festojmë me familjen e vidrave të Bishanit! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የቢሻን ኦተር ቤተሰብ",
+        "hover_text": "የቢሻን ኦተር ቤተሰብን በማክበር ላይ",
+        "share_text": "የቢሻን ኦተር ቤተሰብን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عائلة ثعالب الماء المقيمة في منطقة بيشان في سنغافورة",
+        "hover_text": "الاحتفال بعائلة ثعالب الماء المقيمة في منطقة بيشان في سنغافورة",
+        "share_text": "نحتفل اليوم بعائلة ثعالب الماء المقيمة في منطقة بيشان في سنغافورة. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Բիշան Օտտերի ընտանիք",
+        "hover_text": "Տոնենք Բիշան Օտտերի ընտանիքի օրը",
+        "share_text": "Տոնենք Բիշան Օտտերի ընտանիքի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Bishan Susamuru Ailəsi",
+        "hover_text": "Bishan Susamuru Ailəsi günü",
+        "share_text": "Bishan Susamuru Ailəsi günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "বিশান ওটার ফ্যামিলি",
+        "hover_text": "বিশান ওটার ফ্যামিলির ঐতিহ্য উদযাপন করা হচ্ছে",
+        "share_text": "বিশান ওটার ফ্যামিলির ঐতিহ্য উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Bishan igaraba-familia",
+        "hover_text": "Bishan igaraba-familiaren omenez",
+        "share_text": "Bishan igaraba-familiaren omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Сям'я выдраў Бішан",
+        "hover_text": "Ушаноўваем сям'ю выдраў Бішан",
+        "share_text": "Ушаноўваем сям'ю выдраў Бішан! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Bišanska porodica vidri",
+        "hover_text": "Slavimo bišansku porodicu vidri",
+        "share_text": "Slavimo bišansku porodicu vidri! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bg": {
+        "query": "Семейството видри бишан",
+        "hover_text": "Честване на семейството видри бишан",
+        "share_text": "Честване на семейството видри бишан! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဘိရှန်ဖျံမိသားစု",
+        "hover_text": "‘ဘိရှန်ဖျံမိသားစု’ ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "‘ဘိရှန်ဖျံမိသားစု’ ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Família de llúdrigues de Bishan",
+        "hover_text": "Homenatge a la família de llúdrigues de Bishan",
+        "share_text": "Homenatge a la família de llúdrigues de Bishan #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": "Obitelj vidri iz Bishana",
+        "hover_text": "Slavimo obitelj vidri iz Bishana",
+        "share_text": "Slavimo obitelj vidri iz Bishana! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Vydří rodinka Bišan",
+        "hover_text": "Oslava vydří rodinky Bišan",
+        "share_text": "Oslava vydří rodinky Bišan! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Bishan Otter Family",
+        "hover_text": "Vi hylder Bishan Otter Family",
+        "share_text": "Vi hylder Bishan Otter Family #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Bishan-otterfamilie",
+        "hover_text": "Doodle ter ere van de Bishan-otterfamilie",
+        "share_text": "Een doodle ter ere van de Bishan-otterfamilie! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Bishani saarmapere",
+        "hover_text": "Hoiame au sees Bishani saarmaperet",
+        "share_text": "Hoiame au sees Bishani saarmaperet! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Bishanin saukkoperhe",
+        "hover_text": "Bishanin saukkoperhe",
+        "share_text": "Bishanin saukkoperhe #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Famille de loutres Bishan",
+        "hover_text": "La famille de loutres Bishan à l'honneur",
+        "share_text": "La famille de loutres Bishan à l'honneur ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": "Londras da familia Bishan",
+        "hover_text": "Homenaxe ás londras da familia Bishan",
+        "share_text": "Homenaxe ás londras da familia Bishan! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ბიშანის წავის ოჯახი",
+        "hover_text": "აღვნიშნავთ ბიშანის წავის ოჯახის დღეს",
+        "share_text": "აღვნიშნავთ ბიშანის წავის ოჯახის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Bishan-Otterfamilie",
+        "hover_text": "Zur Feier der Bishan-Otterfamilie",
+        "share_text": "Zur Feier der Bishan-Otterfamilie! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Οικογένεια ενυδρίδων Bishan",
+        "hover_text": "Τιμούμε την οικογένεια ενυδρίδων Bishan",
+        "share_text": "Τιμούμε την οικογένεια ενυδρίδων Bishan! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "Bishan Otter પરિવાર",
+        "hover_text": "Bishan Otter પરિવારની ઉજવણી કરી રહ્યાં છીએ",
+        "share_text": "Bishan Otter પરિવારની ઉજવણી કરી રહ્યાં છીએ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Bishan Otter Family",
+        "hover_text": "מחווה למשפחת הלוטרות מפארק בישן",
+        "share_text": "מחווה למשפחת הלוטרות מפארק בישן. GoogleDoodle#"
+      },
+      "hi": {
+        "query": "बिशन ऑटर फ़ैमिली",
+        "hover_text": "बिशन ऑटर फ़ैमिली का शानदार सफ़र",
+        "share_text": "बिशन ऑटर फ़ैमिली का शानदार सफ़र! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A bishani vidracsalád",
+        "hover_text": "A bishani vidracsalád ünneplése",
+        "share_text": "A bishani vidracsalád ünneplése #GoogleDoodle"
+      },
+      "is": {
+        "query": "Bishan-otrafjölskyldan",
+        "hover_text": "Við heiðrum Bishan-otrafjölskylduna!",
+        "share_text": "Við heiðrum Bishan-otrafjölskylduna! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Keluarga Berang-Berang Bishan",
+        "hover_text": "Merayakan Keluarga Berang-Berang Bishan",
+        "share_text": "Merayakan Keluarga Berang-Berang Bishan #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Bishan Otter Family",
+        "hover_text": "In onore della Bishan Otter Family",
+        "share_text": "In onore della Bishan Otter Family! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ビシャンのカワウソ ファミリー",
+        "hover_text": "ビシャンのカワウソ ファミリーを称えて",
+        "share_text": "ビシャンのカワウソ ファミリーを称えて #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಬಿಷನ್ ನೀರುನಾಯಿ ವಂಶ",
+        "hover_text": "ಇಂದಿನ ಡೂಡಲ್ ಬಿಷನ್ ನೀರುನಾಯಿ ವಂಶಕ್ಕೆ ಅರ್ಪಣೆ",
+        "share_text": "ಇಂದಿನ ಡೂಡಲ್ ಬಿಷನ್ ನೀರುನಾಯಿ ವಂಶಕ್ಕೆ ಅರ್ಪಣೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Бишан кәмшаты отбасы күні",
+        "hover_text": "Бишан кәмшаты отбасы күні құтты болсын!",
+        "share_text": "Бишан кәмшаты отбасы күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "គ្រួសារភេ Bishan",
+        "hover_text": "អបអរសាទរគ្រួសារភេ Bishan",
+        "share_text": "អបអរសាទរគ្រួសារភេ Bishan! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "비샨 수달 가족",
+        "hover_text": "비샨 수달 가족을 기억하며",
+        "share_text": "비샨 수달 가족을 기억하며 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Бишан кундуздары",
+        "hover_text": "Бишан кундуздарынын күнү",
+        "share_text": "Бишан кундуздарынын күнү! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Bishan Otter Familiy",
+        "hover_text": "ວັນສະເຫຼີມສະຫຼອງ Bishan Otter Familiy",
+        "share_text": "ວັນສະເຫຼີມສະຫຼອງ Bishan Otter Familiy! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lv": {
+        "query": "Singapūras Bišanas ūdru ģimene",
+        "hover_text": "Bišanas ūdru ģimenes godināšana",
+        "share_text": "Godinām Bišanas ūdru ģimeni! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Bišano ūdrų šeima",
+        "hover_text": "Bišano ūdrų šeimos minėjimas",
+        "share_text": "Bišano ūdrų šeimos minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Bishan Otter Familiy",
+        "hover_text": "Во чест на Bishan Otter Familiy",
+        "share_text": "Во чест на Bishan Otter Familiy! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Keluarga Memerang Bishan",
+        "hover_text": "Meraikan Keluarga Memerang Bishan",
+        "share_text": "Meraikan Keluarga Memerang Bishan! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ബിഷാൻ നീർനായ കുടുംബം",
+        "hover_text": "ബിഷാൻ നീർനായ കുടുംബത്തെ ആദരിക്കുന്നു",
+        "share_text": "ബിഷാൻ നീർനായ കുടുംബത്തെ ആദരിക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "बिशान ऑटर कुटुंब",
+        "hover_text": "बिशान ऑटर कुटुंबाच्या सन्मानार्थ",
+        "share_text": "बिशान ऑटर कुटुंबाच्या सन्मानार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Бишан халиуны гэр бүл",
+        "hover_text": "Бишан халиуны гэр бүлийн өдрийг тэмдэглэж байна",
+        "share_text": "Бишан халиуны гэр бүлийн өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Bishan Otter Familiy",
+        "hover_text": "Bishan Otter Familiy को सम्झना",
+        "share_text": "Bishan Otter Familiy को सम्झना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Bishan-oterfamilien",
+        "hover_text": "Vi feirer Bishan-oterfamilien",
+        "share_text": "Vi feirer Bishan-oterfamilien! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "خانواده سمور آبی بیشان",
+        "hover_text": "بزرگداشت خانواده سمور آبی بیشان",
+        "share_text": "بزرگداشت خانواده سمور آبی بیشان! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Rodzina wydr z Bishan",
+        "hover_text": "Podziwiamy rodzinę wydr z Bishan",
+        "share_text": "Podziwiamy rodzinę wydr z Bishan #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": "ਬਿਸ਼ਨ ਓਟਰ ਪਰਿਵਾਰ",
+        "hover_text": "ਬਿਸ਼ਨ ਓਟਰ ਪਰਿਵਾਰ ਦੀ ਸਿਫ਼ਤ ਵਿੱਚ",
+        "share_text": "ਬਿਸ਼ਨ ਓਟਰ ਪਰਿਵਾਰ ਦੀ ਸਿਫ਼ਤ ਵਿੱਚ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Familia de vidre Bishan",
+        "hover_text": "În cinstea familiei de vidre Bishan",
+        "share_text": "În cinstea familiei de vidre Bishan! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Семейство выдр Бишан",
+        "hover_text": "День семейства выдр Бишан",
+        "share_text": "День семейства выдр Бишан #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Породица глатких индијских видри из Бишана",
+        "hover_text": "Славимо породицу глатких индијских видри из Бишана",
+        "share_text": "Славимо породицу глатких индијских видри из Бишана! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "බිෂාන් ඔටර් පවුල",
+        "hover_text": "බිෂාන් ඔටර් පවුල සමරමින්",
+        "share_text": "බිෂාන් ඔටර් පවුල සමරමින්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Rodina vydier Bishan",
+        "hover_text": "Oslavujeme rodinu vydier Bishan",
+        "share_text": "Oslavujeme rodinu vydier Bishan. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Družina vider iz Bishana",
+        "hover_text": "Slavimo družino vider iz Bishana",
+        "share_text": "Slavimo družino vider iz Bishana! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Familia de nutrias Bishan",
+        "hover_text": "Homenaje a la familia de nutrias Bishan",
+        "share_text": "Hoy rendimos homenaje a la familia de nutrias Bishan #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Familia ya Fisimaji Inayopatikana Bishan",
+        "hover_text": "Tunaenzi Familia ya Fisimaji Inayopatikana Bishan",
+        "share_text": "Tunaenzi Familia ya Fisimaji Inayopatikana Bishan! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Utterfamiljen från Bishan",
+        "hover_text": "En hyllning till utterfamiljen från Bishan",
+        "share_text": "En hyllning till utterfamiljen från Bishan #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "சிங்கப்பூர் நீர்நாய்கள்",
+        "hover_text": "சிங்கப்பூர் நீர்நாய்களைக் கொண்டாடுவோம்",
+        "share_text": "சிங்கப்பூர் நீர்நாய்களைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "బిషాన్ ఓటర్ ఫ్యామిలీ",
+        "hover_text": "బిషాన్ ఓటర్ ఫ్యామిలీ సంబరాలు",
+        "share_text": "బిషాన్ ఓటర్ ఫ్యామిలీ సంబరాలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "ครอบครัวนาก Bishan",
+        "hover_text": "วันเฉลิมฉลองครอบครัวนาก Bishan",
+        "share_text": "วันเฉลิมฉลองครอบครัวนาก Bishan #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Bishan Su Samuru Ailesi",
+        "hover_text": "Bishan Su Samuru Ailesi Kutlaması",
+        "share_text": "Bishan Su Samuru Ailesi Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Сім’я видр Бішан",
+        "hover_text": "Відзначаємо день сім’ї видр Бішан",
+        "share_text": "Відзначаємо день сім’ї видр Бішан! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Bishan Otter فیملی",
+        "hover_text": "Bishan Otter فیملی کا جشن",
+        "share_text": "Bishan Otter فیملی کا جشن! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Bishan qunduz oilasi",
+        "hover_text": "Bishan qunduz oilasi kuni",
+        "share_text": "Bishan qunduz oilasi kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Họ rái cá Bishan!",
+        "hover_text": "Tôn vinh Họ rái cá Bishan!",
+        "share_text": "Tôn vinh Họ rái cá Bishan! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Umndeni wakwa-Bishan Otter",
+        "hover_text": "Sibungaza Umndeni wakwa-Bishan Otter",
+        "share_text": "Sibungaza Umndeni wakwa-Bishan Otter! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Bishan Otter Family",
+    "share_text": "Celebrating the Bishan Otter Family! #GoogleDoodle"
+  },
+  {
     "name": "jamaica-independence-day-2023",
     "title": "Jamaica Independence Day 2023",
     "url": "//www.google.com/logos/doodles/2023/jamaica-independence-day-2023-6753651837109913.4-law.gif",
