@@ -1,5 +1,504 @@
 [
   {
+    "name": "fathers-day-2023-aug-08",
+    "title": "Father's Day 2023 (Aug 08)",
+    "url": "//www.google.com/logos/doodles/2023/fathers-day-2023-aug-08-6753651837109914-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/VtMKHNvjOp61gLbn-TMbqBCBC8JZzyTJD1Vzyrg1ztuqP48ObyLw301nPq4Igf8ItBvs35tS8QnNNxjI_Uxqp8ExnT94nQtQ5AJ7U4EmlTrHohlkLGMO1k8",
+    "high_res_url": "//www.google.com/logos/doodles/2023/fathers-day-2023-aug-08-6753651837109914-2xa.gif",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2023,
+      8,
+      8
+    ],
+    "translations": {
+      "en": {
+        "query": "Father's Day",
+        "hover_text": "Father's Day 2023 (Aug 08)",
+        "share_text": "Happy Father's Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": "Vadersdag 2023 (8 Augustus)",
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": "Dita e Babait, 2023 (8 gusht)",
+        "share_text": ""
+      },
+      "am": {
+        "query": null,
+        "hover_text": "የአባቶች ቀን 2023 (ኦገስት 08)",
+        "share_text": ""
+      },
+      "ar": {
+        "query": null,
+        "hover_text": "عيد الأب 2023 (8 آب/أغسطس)",
+        "share_text": ""
+      },
+      "hy": {
+        "query": null,
+        "hover_text": "Հայրերի օր 2023 (օգոստոսի 8)",
+        "share_text": ""
+      },
+      "az": {
+        "query": null,
+        "hover_text": "2023 Atalar Günü (8 avqust)",
+        "share_text": ""
+      },
+      "bn": {
+        "query": null,
+        "hover_text": "পিতৃদিবস ২০২৩ (০৮ আগস্ট)",
+        "share_text": ""
+      },
+      "eu": {
+        "query": null,
+        "hover_text": "2023ko Aitaren Eguna (abuztuaren 8a)",
+        "share_text": ""
+      },
+      "be": {
+        "query": null,
+        "hover_text": "Дзень бацькі 2023 (8 жніўня)",
+        "share_text": ""
+      },
+      "bs": {
+        "query": null,
+        "hover_text": "Dan očeva 2023. (8. aug)",
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bg": {
+        "query": null,
+        "hover_text": "Ден на бащата 2023 г. (8 август)",
+        "share_text": ""
+      },
+      "my": {
+        "query": null,
+        "hover_text": "၂၀၂၃ အဖေများနေ့ (သြဂုတ် ၈)",
+        "share_text": ""
+      },
+      "ca": {
+        "query": null,
+        "hover_text": "Dia del Pare 2023 (8 d'agost)",
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": "八八父親節",
+        "hover_text": "2023 父親節",
+        "share_text": "父親節快樂! #GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": "Dan očeva 2023. (8. kolovoza)",
+        "share_text": ""
+      },
+      "cs": {
+        "query": null,
+        "hover_text": "Den otců 2023 (8. srpna)",
+        "share_text": ""
+      },
+      "da": {
+        "query": null,
+        "hover_text": "Fars dag 2023 (8. august)",
+        "share_text": ""
+      },
+      "nl": {
+        "query": null,
+        "hover_text": "Vaderdag 2023 (8 augustus)",
+        "share_text": ""
+      },
+      "et": {
+        "query": null,
+        "hover_text": "2023. aasta isadepäev (8. august)",
+        "share_text": ""
+      },
+      "fi": {
+        "query": null,
+        "hover_text": "Isänpäivä 2023 (8.8.)",
+        "share_text": ""
+      },
+      "fr": {
+        "query": null,
+        "hover_text": "Fête des Pères 2023 (8 août)",
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": "Día do Pai 2023 (8 de agosto)",
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": "მამის დღე – 2023 (8 აგვისტო)",
+        "share_text": ""
+      },
+      "de": {
+        "query": null,
+        "hover_text": "Vatertag 2023 (8. August)",
+        "share_text": ""
+      },
+      "el": {
+        "query": null,
+        "hover_text": "Ημέρα του Πατέρα 2023 (8 Αυγούστου)",
+        "share_text": ""
+      },
+      "gu": {
+        "query": null,
+        "hover_text": "ફાધર્સ ડે 2023 (ઑગસ્ટ 08)",
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": "יום האב 2023 (8 באוגוסט)",
+        "share_text": ""
+      },
+      "hi": {
+        "query": null,
+        "hover_text": "फ़ादर्स डे 2023 (8 अगस्त)",
+        "share_text": ""
+      },
+      "hu": {
+        "query": null,
+        "hover_text": "Apák napja, 2023 (augusztus 8.)",
+        "share_text": ""
+      },
+      "is": {
+        "query": null,
+        "hover_text": "Feðradagurinn 2023 (8. ágúst)",
+        "share_text": ""
+      },
+      "id": {
+        "query": null,
+        "hover_text": "Hari Ayah 2023 (8 Agustus)",
+        "share_text": ""
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": "Festa del papà 2023 (8 agosto)",
+        "share_text": ""
+      },
+      "ja": {
+        "query": null,
+        "hover_text": "2023 年父の日（8 月 8 日）",
+        "share_text": ""
+      },
+      "kn": {
+        "query": null,
+        "hover_text": "ತಂದೆಯಂದಿರ ದಿನ 2023 (ಆಗಸ್ಟ್ 08)",
+        "share_text": ""
+      },
+      "kk": {
+        "query": null,
+        "hover_text": "Әкелер күні – 2023 (8 тамыз)",
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": "ទិវារំលឹកគុណឪពុកឆ្នាំ 2023 (ថ្ងៃទី 08 ខែសីហា)",
+        "share_text": ""
+      },
+      "ko": {
+        "query": null,
+        "hover_text": "2023년 아버지의 날(8월 8일)",
+        "share_text": ""
+      },
+      "ky": {
+        "query": null,
+        "hover_text": "Аталар күнү – 2023 (8-август)",
+        "share_text": ""
+      },
+      "lo": {
+        "query": null,
+        "hover_text": "ວັນພໍ່ປີ 2023 (08 ສິງຫາ)",
+        "share_text": ""
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lv": {
+        "query": null,
+        "hover_text": "Tēva diena — 2023 (8. augusts)",
+        "share_text": ""
+      },
+      "lt": {
+        "query": null,
+        "hover_text": "Tėvo diena, 2023 m. (rugpjūčio 8 d.)",
+        "share_text": ""
+      },
+      "mk": {
+        "query": null,
+        "hover_text": "Ден на таткото, 2023 г. (8 авг.)",
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": "Hari Bapa 2023 (08 Ogos)",
+        "share_text": ""
+      },
+      "ml": {
+        "query": null,
+        "hover_text": "പിതൃദിനം 2023 (ഓഗസ്റ്റ് 08)",
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": "फादर्स डे २०२३ (८ ऑगस्ट)",
+        "share_text": ""
+      },
+      "mn": {
+        "query": null,
+        "hover_text": "2023 оны Аавуудын өдөр (8-р сарын 8)",
+        "share_text": ""
+      },
+      "ne": {
+        "query": null,
+        "hover_text": "बुवाको मुख हेर्ने दिन २०२३ (अगस्ट ८)",
+        "share_text": ""
+      },
+      "no": {
+        "query": null,
+        "hover_text": "Farsdagen 2023 (8. august)",
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": "روز پدر ۲۰۲۳ (۸ اوت)",
+        "share_text": ""
+      },
+      "pl": {
+        "query": null,
+        "hover_text": "Dzień Ojca 2023 (8 sierpnia)",
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": null,
+        "hover_text": "ਪਿਤਾ ਦਿਵਸ 2023 (ਅਗਸਤ 08)",
+        "share_text": ""
+      },
+      "ro": {
+        "query": null,
+        "hover_text": "Ziua Tatălui 2023 (8 august)",
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": "День отца – 2023 (8 августа)",
+        "share_text": ""
+      },
+      "sr": {
+        "query": null,
+        "hover_text": "Дан очева 2023. (8. август)",
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": "පියවරුන්ගේ දිනය 2023 (අගෝස්තු 08)",
+        "share_text": ""
+      },
+      "sk": {
+        "query": null,
+        "hover_text": "Deň otcov 2023 (8. august)",
+        "share_text": ""
+      },
+      "sl": {
+        "query": null,
+        "hover_text": "Dan očetov 2023 (8. avgust)",
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": "Día del Padre 2023 (8 de agosto)",
+        "share_text": ""
+      },
+      "sw": {
+        "query": null,
+        "hover_text": "Siku ya Akina Baba 2023 (Agosti 8)",
+        "share_text": ""
+      },
+      "sv": {
+        "query": null,
+        "hover_text": "Fars dag 2023 (8 augusti)",
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": "தந்தையர் தினம் 2023 (ஆகஸ்ட் 08)",
+        "share_text": ""
+      },
+      "te": {
+        "query": null,
+        "hover_text": "ఫాదర్స్ డే 2023 (ఆగస్ట్ 08)",
+        "share_text": ""
+      },
+      "th": {
+        "query": null,
+        "hover_text": "วันพ่อปี 2023 (8 สิงหาคม)",
+        "share_text": ""
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": "Babalar Günü 2023 (8 Ağustos)",
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": "День батька у 2023 році (8 серпня)",
+        "share_text": ""
+      },
+      "ur": {
+        "query": null,
+        "hover_text": "یوم پدر 2023 (اگست 08)",
+        "share_text": ""
+      },
+      "uz": {
+        "query": null,
+        "hover_text": "Otalar kuni 2023 (8-avgust)",
+        "share_text": ""
+      },
+      "vi": {
+        "query": null,
+        "hover_text": "Ngày của Cha năm 2023 (ngày 8 tháng 8)",
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": "Usuku loBaba lwango-2023 (08 Aga)",
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Father's Day",
+    "share_text": "Happy Father's Day! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-the-bishan-otter-family",
     "title": "Celebrating the Bishan Otter Family",
     "url": "//www.google.com/logos/doodles/2023/celebrating-the-bishan-otter-family-6753651837109911.2-l.png",
@@ -2030,9 +2529,9 @@
         "share_text": "የአልቲና ሽናሲ 116ኛ የልደት ቀን! #GoogleDoodle"
       },
       "ar": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "ألتينا شيناسي",
+        "hover_text": "الذكرى 116 لميلاد \"ألتينا شيناسي\"",
+        "share_text": "نحتفل اليوم بالذكرى 116 لميلاد \"ألتينا شيناسي\". ‎#GoogleDoodle"
       },
       "hy": {
         "query": null,
@@ -2225,9 +2724,9 @@
         "share_text": ""
       },
       "ko": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Altina Schinasi",
+        "hover_text": "Altina Schinasi 탄생 116주년",
+        "share_text": "Altina Schinasi 탄생 116주년 #GoogleDoodle"
       },
       "ky": {
         "query": null,
@@ -2295,9 +2794,9 @@
         "share_text": "AltIA Schinasi 116 औं जन्मदिन #GoogleDoodle"
       },
       "no": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Altina Schinasi",
+        "hover_text": "Altina Schinasis 116-årsdag",
+        "share_text": "Altina Schinasis 116-årsdag! #GoogleDoodle"
       },
       "nn": {
         "query": null,
