@@ -1,5 +1,504 @@
 [
   {
+    "name": "singapore-national-day-2023",
+    "title": "Singapore National Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/singapore-national-day-2023-6753651837109915.4-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/fdgSY91EX8RixSxvE13y3fMLqT8HuENx93cQawsNYa6oqxLzAFtMXLZ28B7XW_kThpcEtPkxTcQST5S57vHfNXpdXcs9qAc3SBUGNCtJAXz1k0eRX0TahQ",
+    "high_res_url": "//www.google.com/logos/doodles/2023/singapore-national-day-2023-6753651837109915-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      8,
+      9
+    ],
+    "translations": {
+      "en": {
+        "query": "Singapore National Day",
+        "hover_text": "Singapore National Day 2023",
+        "share_text": "Happy National Day, Singapore! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": "Singapoer se nasionale dag 2023",
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": "Dita Kombëtare e Singaporit, 2023",
+        "share_text": ""
+      },
+      "am": {
+        "query": null,
+        "hover_text": "የሲንጋፖር ብሔራዊ ቀን 2023",
+        "share_text": ""
+      },
+      "ar": {
+        "query": null,
+        "hover_text": "العيد الوطني لسنغافورة 2023",
+        "share_text": ""
+      },
+      "hy": {
+        "query": null,
+        "hover_text": "Սինգապուրի ազգային օր 2023",
+        "share_text": ""
+      },
+      "az": {
+        "query": null,
+        "hover_text": "2023 Sinqapurun Müstəqillik Günü",
+        "share_text": ""
+      },
+      "bn": {
+        "query": null,
+        "hover_text": "সিঙ্গাপুরের জাতীয় দিবস ২০২৩",
+        "share_text": ""
+      },
+      "eu": {
+        "query": null,
+        "hover_text": "2023ko Singapurko Egun Nazionala",
+        "share_text": ""
+      },
+      "be": {
+        "query": null,
+        "hover_text": "Нацыянальны дзень Сінгапура 2023",
+        "share_text": ""
+      },
+      "bs": {
+        "query": null,
+        "hover_text": "Dan državnosti Singapura 2023.",
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bg": {
+        "query": null,
+        "hover_text": "Национален празник на Сингапур 2023 г.",
+        "share_text": ""
+      },
+      "my": {
+        "query": null,
+        "hover_text": "၂၀၂၃ စင်္ကာပူ အမျိုးသားနေ့",
+        "share_text": ""
+      },
+      "ca": {
+        "query": null,
+        "hover_text": "Dia Nacional de Singapur 2023",
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": "Dan državnosti Singapura 2023.",
+        "share_text": ""
+      },
+      "cs": {
+        "query": null,
+        "hover_text": "Den singapurské státnosti 2023",
+        "share_text": ""
+      },
+      "da": {
+        "query": null,
+        "hover_text": "Singapores nationaldag 2023",
+        "share_text": ""
+      },
+      "nl": {
+        "query": null,
+        "hover_text": "Nationale feestdag Singapore 2023",
+        "share_text": ""
+      },
+      "et": {
+        "query": null,
+        "hover_text": "Singapuri 2023. aasta rahvuspüha",
+        "share_text": ""
+      },
+      "fi": {
+        "query": null,
+        "hover_text": "Singaporen kansallispäivä 2023",
+        "share_text": ""
+      },
+      "fr": {
+        "query": null,
+        "hover_text": "Fête nationale de Singapour 2023",
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": "Día Nacional de Singapur 2023",
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": "სინგაპურის ეროვნული დღესასწაული — 2023",
+        "share_text": ""
+      },
+      "de": {
+        "query": null,
+        "hover_text": "Nationalfeiertag Singapur 2023",
+        "share_text": ""
+      },
+      "el": {
+        "query": null,
+        "hover_text": "Εθνική Ημέρα Σιγκαπούρης 2023",
+        "share_text": ""
+      },
+      "gu": {
+        "query": null,
+        "hover_text": "સિંગાપોરનો રાષ્ટ્રીય દિવસ 2023",
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": "החג הלאומי של סינגפור 2023",
+        "share_text": ""
+      },
+      "hi": {
+        "query": null,
+        "hover_text": "सिंगापुर का राष्ट्रीय दिवस 2023",
+        "share_text": ""
+      },
+      "hu": {
+        "query": null,
+        "hover_text": "Szingapúr nemzeti ünnepe, 2023",
+        "share_text": ""
+      },
+      "is": {
+        "query": null,
+        "hover_text": "Þjóðhátíðardagur Singapúr 2023",
+        "share_text": ""
+      },
+      "id": {
+        "query": null,
+        "hover_text": "Hari Nasional Singapura 2023",
+        "share_text": ""
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": "Festa nazionale di Singapore 2023",
+        "share_text": ""
+      },
+      "ja": {
+        "query": null,
+        "hover_text": "2023 年シンガポール建国記念日",
+        "share_text": ""
+      },
+      "kn": {
+        "query": null,
+        "hover_text": "ಸಿಂಗಾಪುರ್ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ 2023",
+        "share_text": ""
+      },
+      "kk": {
+        "query": null,
+        "hover_text": "Сингапурдың Ұлттық күні – 2023",
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": "ទិវា​បុណ្យជាតិ​សិង្ហបុរី​ឆ្នាំ 2023",
+        "share_text": ""
+      },
+      "ko": {
+        "query": null,
+        "hover_text": "2023년 싱가포르 국경일",
+        "share_text": ""
+      },
+      "ky": {
+        "query": null,
+        "hover_text": "Сингапурдун Улуттук күнү – 2023",
+        "share_text": ""
+      },
+      "lo": {
+        "query": null,
+        "hover_text": "ວັນຊາດສິງກະໂປປີ 2023",
+        "share_text": ""
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lv": {
+        "query": null,
+        "hover_text": "Singapūras Nacionālie svētki — 2023",
+        "share_text": ""
+      },
+      "lt": {
+        "query": null,
+        "hover_text": "Singapūro nacionalinė diena, 2023 m.",
+        "share_text": ""
+      },
+      "mk": {
+        "query": null,
+        "hover_text": "Ден на државноста на Сингапур, 2023 г.",
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": "Hari Kebangsaan Singapura 2023",
+        "share_text": ""
+      },
+      "ml": {
+        "query": null,
+        "hover_text": "സിംഗപ്പൂർ ദേശീയ ദിനം 2023",
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": "सिंगापूरचा राष्ट्रिय दिन २०२३",
+        "share_text": ""
+      },
+      "mn": {
+        "query": null,
+        "hover_text": "2023 оны Сингапур Улсын Үндэсний баярын өдөр",
+        "share_text": ""
+      },
+      "ne": {
+        "query": null,
+        "hover_text": "सिङ्गापुरको राष्ट्रिय दिवस २०२३",
+        "share_text": ""
+      },
+      "no": {
+        "query": null,
+        "hover_text": "Singapores nasjonaldag 2023",
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": "روز ملی سنگاپور - ۲۰۲۳",
+        "share_text": ""
+      },
+      "pl": {
+        "query": null,
+        "hover_text": "Święto Narodowe Singapuru 2023",
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": null,
+        "hover_text": "ਸਿੰਗਾਪੁਰ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ 2023",
+        "share_text": ""
+      },
+      "ro": {
+        "query": null,
+        "hover_text": "Ziua Națională în Singapore – 2023",
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": "День независимости Сингапура – 2023",
+        "share_text": ""
+      },
+      "sr": {
+        "query": null,
+        "hover_text": "Дан државности Сингапура 2023.",
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": "සිංගප්පූරුවේ ජාතික දිනය 2023",
+        "share_text": ""
+      },
+      "sk": {
+        "query": null,
+        "hover_text": "Deň nezávislosti Singapuru 2023",
+        "share_text": ""
+      },
+      "sl": {
+        "query": null,
+        "hover_text": "Singapurski dan državnosti 2023",
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": "Día Nacional de Singapur 2023",
+        "share_text": ""
+      },
+      "sw": {
+        "query": null,
+        "hover_text": "Sikukuu ya Kitaifa ya Singapoo 2023",
+        "share_text": ""
+      },
+      "sv": {
+        "query": null,
+        "hover_text": "Singapores nationaldag 2023",
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "சிங்கப்பூர் தேசிய தினம்",
+        "hover_text": "சிங்கப்பூர் தேசிய தினம் 2023",
+        "share_text": "சிங்கப்பூருக்கு தேசிய தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": null,
+        "hover_text": "సింగపూర్ జాతీయ దినోత్సవం 2023",
+        "share_text": ""
+      },
+      "th": {
+        "query": null,
+        "hover_text": "วันชาติสิงคโปร์ปี 2023",
+        "share_text": ""
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": "Singapur Ulusal Günü 2023",
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": "Національний день Сінгапуру у 2023 році",
+        "share_text": ""
+      },
+      "ur": {
+        "query": null,
+        "hover_text": "سنگاپور کا قومی دن 2023",
+        "share_text": ""
+      },
+      "uz": {
+        "query": null,
+        "hover_text": "Singapur Milliy bayrami 2023",
+        "share_text": ""
+      },
+      "vi": {
+        "query": null,
+        "hover_text": "Ngày quốc khánh Singapore năm 2023",
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": "Usuku Lukazwelonke lwase-Singapore lango-2023",
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Singapore National Day",
+    "share_text": "Happy National Day, Singapore! #GoogleDoodle"
+  },
+  {
     "name": "fathers-day-2023-aug-08",
     "title": "Father's Day 2023 (Aug 08)",
     "url": "//www.google.com/logos/doodles/2023/fathers-day-2023-aug-08-6753651837109914-l.png",
@@ -2514,9 +3013,9 @@
         "share_text": "Altina Schinasi's 116th Birthday! #GoogleDoodle"
       },
       "af": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Altina Schinasi",
+        "hover_text": "Altina Schinasi se 116de verjaarsdag",
+        "share_text": "Altina Schinasi se 116de verjaarsdag! #GoogleDoodle"
       },
       "sq": {
         "query": "Altina Schinasi",
@@ -2534,9 +3033,9 @@
         "share_text": "نحتفل اليوم بالذكرى 116 لميلاد \"ألتينا شيناسي\". ‎#GoogleDoodle"
       },
       "hy": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Ալթինա Շինասի",
+        "hover_text": "Ալթինա Շինասիի ծննդյան 116-ամյակը",
+        "share_text": "Ալթինա Շինասիի ծննդյան 116-ամյակը #GoogleDoodle"
       },
       "az": {
         "query": "Altina Schinasi",
@@ -2549,19 +3048,19 @@
         "share_text": "অ্যালটিনা শিনাসির ১১৬তম জন্মদিন! #GoogleDoodle"
       },
       "eu": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Altina Schinasi",
+        "hover_text": "Altina Schinasiren jaiotzaren 116. urteurrena",
+        "share_text": "Altina Schinasiren jaiotzaren 116. urteurrena #GoogleDoodle"
       },
       "be": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Алтына Шынасі",
+        "hover_text": "116 гадоў з дня нараджэння Алтыны Шынасі",
+        "share_text": "116 гадоў з дня нараджэння Алтыны Шынасі! #GoogleDoodle"
       },
       "bs": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Altina Schinasi",
+        "hover_text": "116 godina od rođenja Altine Schinasi",
+        "share_text": "116 godina od rođenja Altine Schinasi! #GoogleDoodle"
       },
       "en-GB": {
         "query": "Altina Schinasi",
@@ -2569,9 +3068,9 @@
         "share_text": "Altina Schinasi's 116th Birthday #GoogleDoodle"
       },
       "bg": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Алтина Шинази",
+        "hover_text": "116 години от рождението на Алтина Шинази",
+        "share_text": "116 години от рождението на Алтина Шинази! #GoogleDoodle"
       },
       "my": {
         "query": "Altina Schinasi",
@@ -2579,9 +3078,9 @@
         "share_text": "Altina Schinasi ၏ ၁၁၆ နှစ်မြောက်မွေးနေ့။ #GoogleDoodle"
       },
       "ca": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Altina Schinasi",
+        "hover_text": "116è aniversari del naixement d'Altina Schinasi",
+        "share_text": "116è aniversari del naixement d'Altina Schinasi #GoogleDoodle"
       },
       "zh-HK": {
         "query": "阿爾蒂娜·斯奇納西",
@@ -2599,19 +3098,19 @@
         "share_text": "阿尔蒂娜·希纳西116岁诞辰！#GoogleDoodle"
       },
       "hr": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Altina Schinasi",
+        "hover_text": "116. godišnjica rođenja Altine Schinasi",
+        "share_text": "116. godišnjica rođenja Altine Schinasi! #GoogleDoodle"
       },
       "cs": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Altina Schinasi",
+        "hover_text": "116. výročí narození Altiny Schinasi",
+        "share_text": "Slavíme 116. výročí narození Altiny Schinasi! #GoogleDoodle"
       },
       "da": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Altina Schinasi",
+        "hover_text": "Altina Schinasis 116-års fødselsdag",
+        "share_text": "Altina Schinasis 116-års fødselsdag #GoogleDoodle"
       },
       "nl": {
         "query": "Altina Schinasi",
@@ -2624,9 +3123,9 @@
         "share_text": "Altina Schinasi 116. sünniaastapäev! #GoogleDoodle"
       },
       "fi": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Altina Schinasi",
+        "hover_text": "116 vuotta Altina Schinasin syntymäpäivästä",
+        "share_text": "116 vuotta Altina Schinasin syntymäpäivästä #GoogleDoodle"
       },
       "fr": {
         "query": "Altina Schinasi",
@@ -2639,14 +3138,14 @@
         "share_text": ""
       },
       "gl": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Altina Schinasi",
+        "hover_text": "116.º aniversario do nacemento de Altina Schinasi",
+        "share_text": "116.º aniversario do nacemento de Altina Schinasi! #GoogleDoodle"
       },
       "ka": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "ალტინა სკინაზი",
+        "hover_text": "116 წელი ალტინა სკინაზის დაბადებიდან",
+        "share_text": "116 წელი ალტინა სკინაზის დაბადებიდან! #GoogleDoodle"
       },
       "de": {
         "query": "Altina Schinasi",
@@ -2654,9 +3153,9 @@
         "share_text": "116. Geburtstag von Altina Schinasi! #GoogleDoodle"
       },
       "el": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Altina Schinasi",
+        "hover_text": "116 χρόνια από τη γέννηση της Altina Schinasi",
+        "share_text": "116 χρόνια από τη γέννηση της Altina Schinasi! #GoogleDoodle"
       },
       "gu": {
         "query": "આલ્ટિના શિનાસી",
@@ -2669,9 +3168,9 @@
         "share_text": ""
       },
       "iw": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Altina Schinasi",
+        "hover_text": "116 שנים להולדת אלטינה שינאסי",
+        "share_text": "116 שנים להולדת אלטינה שינאסי GoogleDoodle#"
       },
       "hi": {
         "query": "अल्टिना शिनासी",
@@ -2679,9 +3178,9 @@
         "share_text": "Altina Schinasi का 116 वां जन्मदिन #GoogleDoodle"
       },
       "hu": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Altina Schinasi",
+        "hover_text": "Altina Schinasi születésének 116. évfordulója",
+        "share_text": "Altina Schinasi születésének 116. évfordulója! #GoogleDoodle"
       },
       "is": {
         "query": "Altina Schinasi",
@@ -2689,9 +3188,9 @@
         "share_text": "116 ár frá fæðingu Altinu Schinasi! #GoogleDoodle"
       },
       "id": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Altina Schinasi",
+        "hover_text": "Ulang Tahun Ke-116 Altina Schinasi",
+        "share_text": "Ulang Tahun Ke-116 Altina Schinasi #GoogleDoodle"
       },
       "ga": {
         "query": "Altina Schinasi",
@@ -2704,9 +3203,9 @@
         "share_text": "116 ° compleanno di Altina Schinasi! #GoogleDoodle"
       },
       "ja": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "アルティナ・シナシ",
+        "hover_text": "アルティナ・シナシ生誕 116 周年",
+        "share_text": "アルティナ・シナシ生誕 116 周年 #GoogleDoodle"
       },
       "kn": {
         "query": "ಅಲ್ಟಿನಾ ಶಿನಾಸಿ",
@@ -2714,14 +3213,14 @@
         "share_text": "ಅಲ್ಟಿನಾ ಶಿನಾಸಿ ಅವರ 116 ನೇ ಹುಟ್ಟುಹಬ್ಬ #GoogleDoodle"
       },
       "kk": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Альтина Шинази",
+        "hover_text": "Альтина Шиназидің 116 жылдығы",
+        "share_text": "Альтина Шиназидің 116 жылдығы! #GoogleDoodle"
       },
       "km": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Altina Schinasi",
+        "hover_text": "ខួបកំណើតគម្រប់ 116 ឆ្នាំរបស់ Altina Schinasi",
+        "share_text": "ខួបកំណើតគម្រប់ 116 ឆ្នាំរបស់ Altina Schinasi! #GoogleDoodle"
       },
       "ko": {
         "query": "Altina Schinasi",
@@ -2729,9 +3228,9 @@
         "share_text": "Altina Schinasi 탄생 116주년 #GoogleDoodle"
       },
       "ky": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Алтина Шинаси",
+        "hover_text": "Алтина Шинасинин 116 жаш мааракеси",
+        "share_text": "Алтина Шинасинин 116 жаш мааракеси! #GoogleDoodle"
       },
       "lo": {
         "query": "Altina Schinasi",
@@ -2749,14 +3248,14 @@
         "share_text": "Altinas Šinasi 116. dzimšanas diena! #GoogleDoodle"
       },
       "lt": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Altina Schinasi",
+        "hover_text": "116-osios Altina Schinasi gimimo metinės",
+        "share_text": "116-osios Altina Schinasi gimimo metinės! #GoogleDoodle"
       },
       "mk": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Altina Schinasi",
+        "hover_text": "116. роденден на Altina Schinasi",
+        "share_text": "116. роденден на Altina Schinasi! #GoogleDoodle"
       },
       "mg": {
         "query": null,
@@ -2819,9 +3318,9 @@
         "share_text": ""
       },
       "fa": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "آلتینا شیناسی",
+        "hover_text": "صدوشانزدهمین زادروز آلتینا شیناسی",
+        "share_text": "صدوشانزدهمین زادروز آلتینا شیناسی! ‎#GoogleDoodle"
       },
       "pl": {
         "query": "Altina Schinasi",
@@ -2844,9 +3343,9 @@
         "share_text": "ਅਲਟੀਨਾ ਸਿਨਾਸੀ ਦਾ 116 ਵੇਂ ਜਨਮਦਿਨ #GoogleDoodle"
       },
       "ro": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Altina Schinasi",
+        "hover_text": "116 ani de la nașterea Altinei Schinasi",
+        "share_text": "116 ani de la nașterea Altinei Schinasi! #GoogleDoodle"
       },
       "ro-MD": {
         "query": null,
@@ -2854,9 +3353,9 @@
         "share_text": ""
       },
       "ru": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Алтина Шинаси",
+        "hover_text": "116 лет со дня рождения Алтины Шинаси",
+        "share_text": "116 лет со дня рождения Алтины Шинаси #GoogleDoodle"
       },
       "sr": {
         "query": "Алтина Шинаси",
@@ -2884,19 +3383,19 @@
         "share_text": ""
       },
       "si": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "අල්ටිනා ෂිනාසි",
+        "hover_text": "අල්ටිනා ෂිනාසිගේ 116 වෙනි උපන් දිනය",
+        "share_text": "අල්ටිනා ෂිනාසිගේ 116 වෙනි උපන් දිනය! #GoogleDoodle"
       },
       "sk": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Altina Schinasiová",
+        "hover_text": "116. výročie narodenia Altiny Schinasiovej",
+        "share_text": "116. výročie narodenia Altiny Schinasiovej. #GoogleDoodle"
       },
       "sl": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Altina Schinasi",
+        "hover_text": "116. rojstni dan Altine Schinasi",
+        "share_text": "116. rojstni dan Altine Schinasi! #GoogleDoodle"
       },
       "so": {
         "query": null,
@@ -2914,14 +3413,14 @@
         "share_text": "¡116º aniversario del nacimiento de Altina Schinasi! #GoogleDoodle"
       },
       "sw": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Altina Schinasi",
+        "hover_text": "Miaka 116 Tangu Kuzaliwa kwa Altina Schinasi",
+        "share_text": "Miaka 116 Tangu Kuzaliwa kwa Altina Schinasi! #GoogleDoodle"
       },
       "sv": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Altina Schinasi",
+        "hover_text": "Altina Schinasi 116 år",
+        "share_text": "Altina Schinasi 116 år #GoogleDoodle"
       },
       "tg": {
         "query": null,
@@ -2939,9 +3438,9 @@
         "share_text": "ఆల్టినా స్కినాశీ 116వ జన్మదినం! #GoogleDoodle"
       },
       "th": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Altina Schinasi",
+        "hover_text": "วันเกิดปีที่ 116 ของ Altina Schinasi",
+        "share_text": "วันเกิดปีที่ 116 ของ Altina Schinasi #GoogleDoodle"
       },
       "tn": {
         "query": null,
@@ -2949,9 +3448,9 @@
         "share_text": ""
       },
       "tr": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Altina Schinasi",
+        "hover_text": "Altina Schinasi'nin 116. Doğum Günü",
+        "share_text": "Altina Schinasi'nin 116. Doğum Günü #GoogleDoodle"
       },
       "tk": {
         "query": null,
