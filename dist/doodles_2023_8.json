@@ -1,5 +1,504 @@
 [
   {
+    "name": "margit-nordins-126th-birthday",
+    "title": "Margit Nordin's 126th Birthday",
+    "url": "//www.google.com/logos/doodles/2023/margit-nordins-126th-birthday-6753651837109917-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/aYB8gwslZ1IicL7cTjH66SXnFQ3eRoJPrzSGGmEca_XCC1BvqkXe4MiV6KR17Rs-QsBH2d-gGeDum4K0ud74mU_JTBhsrMuiKEzHSrsoq3eymRu9xEr_vg",
+    "high_res_url": "//www.google.com/logos/doodles/2023/margit-nordins-126th-birthday-6753651837109917-2xa.gif",
+    "high_res_width": 850,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      8,
+      10
+    ],
+    "translations": {
+      "en": {
+        "query": "Margit Nordin",
+        "hover_text": "Margit Nordin's 126th Birthday",
+        "share_text": "Margit Nordin's 126th Birthday! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Margit Nordin",
+        "hover_text": "Margit Nordin se 126e verjaarsdag",
+        "share_text": "Margit Nordin se 126e verjaarsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Margit Nordin",
+        "hover_text": "126-vjetori i lindjes së Margit Nordin",
+        "share_text": "126-vjetori i lindjes së Margit Nordin! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ማርጊት ኖርዲን",
+        "hover_text": "የማርጊት ኖርዲን 126ኛ ልደት",
+        "share_text": "የማርጊት ኖርዲን 126ኛ ልደት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "مارغيت نوردين",
+        "hover_text": "الذكرى 126 لميلاد \"مارغيت نوردين\"",
+        "share_text": "يصادف اليوم الذكرى 126 لميلاد \"مارغيت نوردين\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Մարգիտ Նորդին",
+        "hover_text": "Մարգիտ Նորդինի ծննդյան 126-ամյակը",
+        "share_text": "Տոնե՛նք Մարգիտ Նորդինի ծննդյան 126-ամյակը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Margit Nordin",
+        "hover_text": "Margit Nordin'in 126-cı ildönümü",
+        "share_text": "Margit Nordin'in 126-cı ildönümü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "মার্গিট নর্ডিন",
+        "hover_text": "মার্গিট নর্ডিনের ১২৬তম জন্মদিন",
+        "share_text": "মার্গিট নর্ডিনের ১২৬তম জন্মদিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Margit Nordin",
+        "hover_text": "Margit Nordinen jaiotzaren 126. urteurrena",
+        "share_text": "Margit Nordinen jaiotzaren 126. urteurrena #GoogleDoodle"
+      },
+      "be": {
+        "query": "Маргіт Нордзін",
+        "hover_text": "126 гадоў з дня нараджэння Маргіт Нордзін",
+        "share_text": "126 гадоў з дня нараджэння Маргіт Нордзін! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Margit Nordin",
+        "hover_text": "126 godina od rođenja Margite Nordin!",
+        "share_text": "126 godina od rođenja Margite Nordin! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Margit Nordin",
+        "hover_text": "Margit Nordin's 126th Birthday",
+        "share_text": "Margit Nordin's 126th Birthday #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Маргит Нордин",
+        "hover_text": "126 години от рождението на Маргит Нордин",
+        "share_text": "126 години от рождението на Маргит Нордин! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Margit Nordin",
+        "hover_text": "Margit Nordin ၏ ၁၂၆ နှစ်မြောက်မွေးနေ့",
+        "share_text": "Margit Nordin ၏ ၁၂၆ နှစ်မြောက်မွေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Margit Nordin",
+        "hover_text": "126è aniversari del naixement de Margit Nordin",
+        "share_text": "126è aniversari del naixement de Margit Nordin #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": "Margit Nordin",
+        "hover_text": "126. godišnjica rođenja Margit Nordin",
+        "share_text": "126. godišnjica rođenja Margit Nordin! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Margit Nordin",
+        "hover_text": "126. výročí narození Margit Nordin",
+        "share_text": "126. výročí narození Margit Nordin! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Margit Nordin",
+        "hover_text": "Margit Nordins 126-års fødselsdag",
+        "share_text": "Margit Nordins 126-års fødselsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Margit Nordin",
+        "hover_text": "126e geboortedag van Margit Nordin",
+        "share_text": "De 126e geboortedag van Margit Nordin! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Margit Nordin",
+        "hover_text": "Margit Nordini 126. sünniaastapäev",
+        "share_text": "Margit Nordini 126. sünniaastapäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Margit Nordin",
+        "hover_text": "126 vuotta Margit Nordinin syntymästä",
+        "share_text": "126 vuotta Margit Nordinin syntymästä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Margit Nordin",
+        "hover_text": "Il y a 126 ans naissait Margit Nordin",
+        "share_text": "126e anniversaire de Margit Nordin #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": "Margit Nordin",
+        "hover_text": "126.º aniversario do nacemento de Margit Nordin",
+        "share_text": "126.º aniversario do nacemento de Margit Nordin! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მარგიტ ნორდინი",
+        "hover_text": "126 წელი მარგიტ ნორდინის დაბადებიდან",
+        "share_text": "126 წელი მარგიტ ნორდინის დაბადებიდან! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Margit Nordin",
+        "hover_text": "126. Geburtstag von Margit Nordin",
+        "share_text": "126. Geburtstag von Margit Nordin! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Margit Nordin",
+        "hover_text": "126 χρόνια από τη γέννηση της Margit Nordin",
+        "share_text": "126 χρόνια από τη γέννηση της Margit Nordin! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "માર્ગિટ નૉર્ડિન",
+        "hover_text": "માર્ગિટ નૉર્ડિનનો 126મો જન્મદિવસ",
+        "share_text": "માર્ગિટ નૉર્ડિનનો 126મો જન્મદિવસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "מרגיט נורדין",
+        "hover_text": "126 שנים להולדת מרגיט נורדין",
+        "share_text": "126 שנים להולדת מרגיט נורדין! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "मार्गिट नॉर्डिन",
+        "hover_text": "मार्गिट नॉर्डिन का 126वां जन्मदिन",
+        "share_text": "मार्गिट नॉर्डिन का 126वां जन्मदिन! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Margit Nordin",
+        "hover_text": "Margit Nordin születésének 126. évfordulója",
+        "share_text": "Margit Nordin születésének 126. évfordulója #GoogleDoodle"
+      },
+      "is": {
+        "query": "Margit Nordin",
+        "hover_text": "126 ár frá fæðingu Margit Nordin",
+        "share_text": "126 ár frá fæðingu Margit Nordin! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Margit Nordin",
+        "hover_text": "Ulang Tahun Ke-126 Margit Nordin",
+        "share_text": "Ulang Tahun Ke-126 Margit Nordin #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Margit Nordin",
+        "hover_text": "126ú Breithlá Margit Nordin",
+        "share_text": "126ú Breithlá Margit Nordin #GoogleDoodle"
+      },
+      "it": {
+        "query": "Margit Nordin",
+        "hover_text": "126° anniversario della nascita di Margit Nordin",
+        "share_text": "126° anniversario della nascita di Margit Nordin! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "マルギット・ノルディン",
+        "hover_text": "マルギット・ノルディン生誕 126 周年",
+        "share_text": "マルギット・ノルディン生誕 126 周年 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಮಾರ್ಜಿಟ್ ನಾರ್ಡಿನ್",
+        "hover_text": "ಮಾರ್ಜಿಟ್ ನಾರ್ಡಿನ್ ಅವರ 126ನೇ ಜನ್ಮದಿನ",
+        "share_text": "ಮಾರ್ಜಿಟ್ ನಾರ್ಡಿನ್ ಅವರ 126ನೇ ಜನ್ಮದಿನ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Маргит Нордин",
+        "hover_text": "Маргит Нординнің 126 жылдығы",
+        "share_text": "Маргит Нординнің 126 жылдығы #GoogleDoodle"
+      },
+      "km": {
+        "query": "Margit Nordin",
+        "hover_text": "ខួបកំណើតគម្រប់ 126 ឆ្នាំរបស់ Margit Nordin",
+        "share_text": "ខួបកំណើតគម្រប់ 126 ឆ្នាំរបស់ Margit Nordin! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Margit Nordin",
+        "hover_text": "Margit Nordin 탄생 126주년",
+        "share_text": "Margit Nordin 탄생 126주년 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Маргит Нордин",
+        "hover_text": "Маргит Нординдин 126 жаш мааракеси",
+        "share_text": "Маргит Нординдин 126 жаш мааракеси! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Margit Nordin",
+        "hover_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 126 ປີຂອງ Margit Nordin",
+        "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 126 ປີຂອງ Margit Nordin! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lv": {
+        "query": "Margita Nordina",
+        "hover_text": "Margitas Nordinas 126. dzimšanas diena",
+        "share_text": "Margitas Nordinas 126. dzimšanas diena! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Margit Nordin",
+        "hover_text": "126-asis Margit Nordin gimtadienis",
+        "share_text": "126-asis Margit Nordin gimtadienis! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Margit Nordin",
+        "hover_text": "126. роденден на Margit Nordin",
+        "share_text": "126. роденден на Margit Nordin! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Margit Nordin",
+        "hover_text": "Ulang Tahun Kelahiran Margit Nordin yang ke-126",
+        "share_text": "Ulang Tahun Kelahiran Margit Nordin yang ke-126! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "മാർജീറ്റ് നോർഡിൻ",
+        "hover_text": "മാർജീറ്റ് നോർഡിന്റെ 126-ാം ജന്മദിനം",
+        "share_text": "മാർജീറ്റ് നോർഡിന്റെ 126-ാം ജന്മദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "मार्गित नॉर्डिन",
+        "hover_text": "मार्गित नॉर्डिन यांचा १२६ वा स्मृतिदिन",
+        "share_text": "मार्गित नॉर्डिन यांचा १२६ वा स्मृतिदिन! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Маргит Нордин",
+        "hover_text": "Маргит Нордины мэндэлсний 126 жилийн ой",
+        "share_text": "Маргит Нордины мэндэлсний 126 жилийн ой! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Margit Nordin",
+        "hover_text": "Margit Nordin को १२६ औँ जन्मजयन्ती",
+        "share_text": "Margit Nordin को १२६ औँ जन्मजयन्ती! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Margit Nordin",
+        "hover_text": "Margit Nordins 126-årsdag",
+        "share_text": "Margit Nordins 126-årsdag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "مارگیت نوردین",
+        "hover_text": "صدوبیست‌وششمین زادروز مارگیت نوردین",
+        "share_text": "صدوبیست‌وششمین زادروز مارگیت نوردین! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Margit Nordin",
+        "hover_text": "Margit Nordin –126 rocznica urodzin",
+        "share_text": "Margit Nordin –126 rocznica urodzin #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": "Margit Nordin",
+        "hover_text": "ਮਾਰਗਿਟ ਨੌਰਡਿਨ ਦਾ 126ਵਾਂ ਜਨਮਦਿਨ",
+        "share_text": "ਮਾਰਗਿਟ ਨੌਰਡਿਨ ਦਾ 126ਵਾਂ ਜਨਮਦਿਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Margit Nordin",
+        "hover_text": "126 de ani de la nașterea lui Margit Nordin",
+        "share_text": "126 de ani de la nașterea lui Margit Nordin! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Маргит Нордин",
+        "hover_text": "126 лет со дня рождения Маргит Нордин",
+        "share_text": "126 лет со дня рождения Маргит Нордин #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Маргит Нордин",
+        "hover_text": "126 година од рођења Маргит Нордин",
+        "share_text": "126 година од рођења Маргит Нордин! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "මාර්ගිට් නෝර්ඩින්",
+        "hover_text": "මාර්ගිට් නෝර්ඩින්ගේ 126 වෙනි උපන් දිනය",
+        "share_text": "මාර්ගිට් නෝර්ඩින්ගේ 126 වෙනි උපන් දිනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Margit Nordinová",
+        "hover_text": "126. výročie narodenia Margit Nordinovej",
+        "share_text": "126. výročie narodenia Margit Nordinovej. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Margit Nordin",
+        "hover_text": "126. rojstni dan Margit Nordin",
+        "share_text": "126. rojstni dan Margit Nordin! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Margit Nordin",
+        "hover_text": "126.º aniversario del nacimiento de Margit Nordin",
+        "share_text": "Hoy es el 126.º aniversario del nacimiento de Margit Nordin #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Margit Nordin",
+        "hover_text": "Maadhimisho ya Miaka 126 Tangu Kuzaliwa kwa Margit Nordin",
+        "share_text": "Maadhimisho ya Miaka 126 Tangu Kuzaliwa kwa Margit Nordin! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Margit Nordin ",
+        "hover_text": "Margit Nordin 126 år ",
+        "share_text": "Margit Nordin 126 år "
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Margit Nordin",
+        "hover_text": "மார்கிட் நார்டினின் 126வது பிறந்தநாள்",
+        "share_text": "மார்கிட் நார்டினின் 126வது பிறந்தநாள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "మార్గిట్ నార్డిన్",
+        "hover_text": "మార్గిట్ నార్డిన్ 126వ జయంతి",
+        "share_text": "మార్గిట్ నార్డిన్ 126వ జయంతి! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Margit Nordin",
+        "hover_text": "วันเกิดปีที่ 126 ของ Margit Nordin",
+        "share_text": "วันเกิดปีที่ 126 ของ Margit Nordin #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Margit Nordin",
+        "hover_text": "Margit Nordin'in 126. Doğum Günü",
+        "share_text": "Margit Nordin'in 126. Doğum Günü #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Маргіт Нордін",
+        "hover_text": "126 років від дня народження Маргіт Нордін",
+        "share_text": "126 років від дня народження Маргіт Нордін! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Margit Nordin",
+        "hover_text": "Margit Nordin کی 126 ویں سالگرہ",
+        "share_text": "Margit Nordin کی 126 ویں سالگرہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Margit Nordin",
+        "hover_text": "Margit Nordin tavalludining 126 yilligi",
+        "share_text": "Margit Nordin tavalludining 126 yilligi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Margit Nordin",
+        "hover_text": "Kỷ niệm 126 năm ngày sinh của Margit Nordin",
+        "share_text": "Kỷ niệm 126 năm ngày sinh của Margit Nordin! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Margit Nordin",
+        "hover_text": "Usuku Lokuzalwa luka-Margit Nordin Lweminyaka eyi-126!",
+        "share_text": "Usuku Lokuzalwa luka-Margit Nordin Lweminyaka eyi-126! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Margit Nordin",
+    "share_text": "Margit Nordin's 126th Birthday! #GoogleDoodle"
+  },
+  {
     "name": "singapore-national-day-2023",
     "title": "Singapore National Day 2023",
     "url": "//www.google.com/logos/doodles/2023/singapore-national-day-2023-6753651837109915.4-l.png",
