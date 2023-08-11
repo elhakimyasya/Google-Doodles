@@ -1,5 +1,1502 @@
 [
   {
+    "name": "mountain-day-2023",
+    "title": "Mountain Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/mountain-day-2023-6753651837110068-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/Eq5vg9hQgAtMQs6BshqaS0G-BVVQBiYEpGtNTXmK0EPxKHtc0ZLv2MaF1In4xmLmI02NFM5wLCiZmtQsnKZU98dp-k7ey7SYFkZRArGIUnTuRsfmbgxanA",
+    "high_res_url": "//www.google.com/logos/doodles/2023/mountain-day-2023-6753651837110068-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      8,
+      11
+    ],
+    "translations": {
+      "en": {
+        "query": "Mountain Day",
+        "hover_text": "Mountain Day 2023",
+        "share_text": "Happy Mountain Day, Japan! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Bergdag",
+        "hover_text": "Bergdag 2023",
+        "share_text": "Gelukkige Bergdag, Japan! #GoogleDoodle"
+      },
+      "sq": {
+        "query": null,
+        "hover_text": "Dita e Maleve, 2023",
+        "share_text": "Gëzuar Ditën e Maleve, Japoni! #GoogleDoodle"
+      },
+      "am": {
+        "query": null,
+        "hover_text": "የተራራ ቀን 2023",
+        "share_text": "መልካም የተራራ ቀን፣ ጃፓን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": null,
+        "hover_text": "يوم الجبال 2023",
+        "share_text": "نحتفل بيوم الجبال في اليابان. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": null,
+        "hover_text": "Լեռների օր 2023",
+        "share_text": "Շնորհավո՛ր Լեռների օրը, Ճապո՛նիա։ #GoogleDoodle"
+      },
+      "az": {
+        "query": null,
+        "hover_text": "2023 Dağlar Günü",
+        "share_text": "Dağlar Gününüz Mübarək, Yaponiya! #GoogleDoodle"
+      },
+      "bn": {
+        "query": null,
+        "hover_text": "মাউন্টেন ডে ২০২৩",
+        "share_text": "হ্যাপি মাউন্টেন ডে, জাপান! #GoogleDoodle"
+      },
+      "eu": {
+        "query": null,
+        "hover_text": "2023ko Mendien Eguna",
+        "share_text": "Mendien Egun zoriontsua izan, Japonia! #GoogleDoodle"
+      },
+      "be": {
+        "query": null,
+        "hover_text": "Міжнародны дзень гор 2023",
+        "share_text": "З Міжнародным днём гор, Японія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": null,
+        "hover_text": "Dan planina 2023.",
+        "share_text": "Sretan Dan planina, Japane! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bg": {
+        "query": null,
+        "hover_text": "Ден на планините 2023 г.",
+        "share_text": "Честит Ден на планините на Япония! #GoogleDoodle"
+      },
+      "my": {
+        "query": null,
+        "hover_text": "၂၀၂၃ တောင်တန်းများနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် တောင်တန်းများနေ့ ဖြစ်ပါစေ ဂျပန်။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": null,
+        "hover_text": "Dia de la Muntanya 2023",
+        "share_text": "Feliç Dia de la Muntanya, Japó! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": "Dan planina 2023.",
+        "share_text": "Sretan Dan planina, Japane! #GoogleDoodle"
+      },
+      "cs": {
+        "query": null,
+        "hover_text": "Den hor 2023",
+        "share_text": "Šťastný Den hor, Japonsko! #GoogleDoodle"
+      },
+      "da": {
+        "query": null,
+        "hover_text": "Bjergdag 2023",
+        "share_text": "Vi fejrer Japans bjergdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": null,
+        "hover_text": "Dag van de Bergen 2023",
+        "share_text": "Fijne Dag van de Bergen, Japan! #GoogleDoodle"
+      },
+      "et": {
+        "query": null,
+        "hover_text": "2023. aasta mäepäev",
+        "share_text": "Head mäepäeva, Jaapan! #GoogleDoodle"
+      },
+      "fi": {
+        "query": null,
+        "hover_text": "Vuoristopäivä 2023",
+        "share_text": "Hyvää vuoristopäivää, Japani! #GoogleDoodle"
+      },
+      "fr": {
+        "query": null,
+        "hover_text": "Journée de la montagne 2023",
+        "share_text": "Bonne journée de la montagne au Japon ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": "Día das Montañas 2023",
+        "share_text": "Feliz Día das Montañas, Xapón! #GoogleDoodle"
+      },
+      "ka": {
+        "query": null,
+        "hover_text": "მთების დღე — 2023",
+        "share_text": "იაპონიას 2023 წლის მთების დღეს ვულოცავთ! #GoogleDoodle"
+      },
+      "de": {
+        "query": null,
+        "hover_text": "Tag der Berge 2023",
+        "share_text": "Alles Gute zum Tag der Berge in Japan! #GoogleDoodle"
+      },
+      "el": {
+        "query": null,
+        "hover_text": "Ημέρα Βουνού 2023",
+        "share_text": "Ευτυχισμένη Ημέρα Βουνού, Ιαπωνία! #GoogleDoodle"
+      },
+      "gu": {
+        "query": null,
+        "hover_text": "માઉન્ટેન ડે 2023",
+        "share_text": "માઉન્ટેન ડેની શુભેચ્છા, જાપાન! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": "יום ההרים 2023",
+        "share_text": "יום הרים שמח ליפן! GoogleDoodle#"
+      },
+      "hi": {
+        "query": null,
+        "hover_text": "पर्वत दिवस 2023",
+        "share_text": "पर्वत दिवस की शुभकामनाएं, जापान! #GoogleDoodle"
+      },
+      "hu": {
+        "query": null,
+        "hover_text": "A hegyek napja, 2023",
+        "share_text": "Kellemes hegyek napját, Japán! #GoogleDoodle"
+      },
+      "is": {
+        "query": null,
+        "hover_text": "Fjalladagurinn 2023",
+        "share_text": "Gleðilegan fjalladag, Japan! #GoogleDoodle"
+      },
+      "id": {
+        "query": null,
+        "hover_text": "Hari Gunung 2023",
+        "share_text": "Selamat Hari Gunung, Jepang! #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": "Giornata della montagna 2023",
+        "share_text": "Felice giornata della montagna, Giappone! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "山の日",
+        "hover_text": "2023 年 山の日",
+        "share_text": "山の日を祝おう #GoogleDoodle"
+      },
+      "kn": {
+        "query": null,
+        "hover_text": "ಮೌಂಟೇನ್ ಡೇ 2023",
+        "share_text": "ಮೌಂಟೇನ್ ಡೇ ಶುಭಾಶಯಗಳು, ಜಪಾನ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": null,
+        "hover_text": "Тау күні – 2023",
+        "share_text": "Тау күні құтты болсын, Жапония! #GoogleDoodle"
+      },
+      "km": {
+        "query": null,
+        "hover_text": "ទិវាបុណ្យភ្នំឆ្នាំ 2023",
+        "share_text": "អបអរទិវាបុណ្យភ្នំ​នៅជប៉ុន! #GoogleDoodle"
+      },
+      "ko": {
+        "query": null,
+        "hover_text": "2023년 산의 날",
+        "share_text": "일본 산의 날을 기념합니다. #GoogleDoodle"
+      },
+      "ky": {
+        "query": null,
+        "hover_text": "Тоолор күнү — 2023",
+        "share_text": "Тоолор күнүң менен, Жапония! #GoogleDoodle"
+      },
+      "lo": {
+        "query": null,
+        "hover_text": "ວັນພູເຂົາປີ 2023",
+        "share_text": "ສຸກສັນວັນພູເຂົາໃນຍີ່ປຸ່ນ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lv": {
+        "query": null,
+        "hover_text": "Kalnu diena — 2023",
+        "share_text": "Sveicam Kalnu dienā, Japāna! #GoogleDoodle"
+      },
+      "lt": {
+        "query": null,
+        "hover_text": "Kalnų diena, 2023 m.",
+        "share_text": "Sveikiname Japoniją su Kalnų diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": null,
+        "hover_text": "Ден на планината, 2023 г.",
+        "share_text": "Среќен Ден на планината, Јапонија! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": "Hari Gunung 2023",
+        "share_text": "Selamat Hari Gunung, Jepun! #GoogleDoodle"
+      },
+      "ml": {
+        "query": null,
+        "hover_text": "മൗണ്ടൻ ദിനം 2023",
+        "share_text": "മൗണ്ടൻ ദിനാശംസകൾ ജപ്പാൻ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": "माउंटन डे २०२३",
+        "share_text": "जपानला माउंटन डे च्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": null,
+        "hover_text": "2023 оны Уулын өдөр",
+        "share_text": "Японы ард иргэдэд Уулын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": null,
+        "hover_text": "हिमालय दिवस २०२३",
+        "share_text": "हिमालय दिवसको शुभकामना, जापान! #GoogleDoodle"
+      },
+      "no": {
+        "query": null,
+        "hover_text": "Fjelldagen 2023",
+        "share_text": "Gratulerer med fjelldagen, Japan! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": "روز کوهستان - ۲۰۲۳",
+        "share_text": "روز کوهستان در ژاپن مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": null,
+        "hover_text": "Międzynarodowy Dzień Terenów Górskich 2023",
+        "share_text": "Obchodzimy Dzień Terenów Górskich w Japonii #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": null,
+        "hover_text": "ਪਰਬਤ ਦਿਵਸ 2023",
+        "share_text": "ਪਰਬਤ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਜਪਾਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": null,
+        "hover_text": "Ziua Muntelui – 2023",
+        "share_text": "La mulți ani de Ziua Muntelui, Japonia! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": "День гор – 2023",
+        "share_text": "День гор в Японии #GoogleDoodle"
+      },
+      "sr": {
+        "query": null,
+        "hover_text": "Дан планина 2023.",
+        "share_text": "Честитамо Дан планина Јапану! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": "කඳුකර දිනය 2023",
+        "share_text": "ප්‍රීතිමත් කඳුකර දිනයක්, ජපානය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": null,
+        "hover_text": "Deň hôr 2023",
+        "share_text": "Šťastný Deň hôr, Japonsko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": null,
+        "hover_text": "Dan gora 2023",
+        "share_text": "Vesel dan gora, Japonska! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": "Día de las Montañas 2023",
+        "share_text": "¡Feliz Día de las Montañas, Japón! #GoogleDoodle"
+      },
+      "sw": {
+        "query": null,
+        "hover_text": "Siku ya Milima 2023",
+        "share_text": "Heri ya Siku ya Milima, Japani! #GoogleDoodle"
+      },
+      "sv": {
+        "query": null,
+        "hover_text": "Nationella bergsdagen 2023",
+        "share_text": "Vi firar nationella bergsdagen i Japan! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": "மலைகள் தினம் 2023",
+        "share_text": "மலைகள் தின வாழ்த்துகள், ஜப்பான்! #GoogleDoodle"
+      },
+      "te": {
+        "query": null,
+        "hover_text": "మౌంటెన్ డే 2023",
+        "share_text": "జపాన్ దేశ ప్రజలకు మౌంటెన్ డే శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": null,
+        "hover_text": "วันภูเขาปี 2023",
+        "share_text": "สุขสันต์วันภูเขาในญี่ปุ่น #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": "Dağ Günü 2023",
+        "share_text": "Japonya Dağ Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": "День гір у 2023 році",
+        "share_text": "Вітаємо з Днем гір, Японіє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": null,
+        "hover_text": "یوم پہاڑ 2023",
+        "share_text": "یوم پہاڑ مبارک ہو، جاپان! GoogleDoodle#"
+      },
+      "uz": {
+        "query": null,
+        "hover_text": "Togʻlar kuni 2023",
+        "share_text": "Togʻlar kuni bilan, Yaponiya! #GoogleDoodle"
+      },
+      "vi": {
+        "query": null,
+        "hover_text": "Ngày của Núi năm 2023",
+        "share_text": "Chào mừng Ngày của Núi tại Nhật Bản! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": "Usuku Lwentaba lwango-2023",
+        "share_text": "Sinifisela Usuku Oluhle Lwentaba, Japan! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Mountain Day",
+    "share_text": "Happy Mountain Day, Japan! #GoogleDoodle"
+  },
+  {
+    "name": "ecuador-independence-day-2023",
+    "title": "Ecuador Independence Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/ecuador-independence-day-2023-6753651837109916-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/f__-hl0blxcCIRKCygPpBxDHq8dQGxX2Q5qLTHFpABZztC9aBfT9OnrfgoRmk2jY9sElhZadrbxvIiPbx9Egrj-seRKwqi06drujFKEtPvLZVu_f0GPSHw",
+    "high_res_url": "//www.google.com/logos/doodles/2023/ecuador-independence-day-2023-6753651837109916-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      8,
+      10
+    ],
+    "translations": {
+      "en": {
+        "query": "Ecuador Independence Day",
+        "hover_text": "Ecuador Independence Day 2023",
+        "share_text": "Happy Independence Day, Ecuador! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": "Ecuador se onafhanklikheidsdag 2023",
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": "Dita e Pavarësisë së Ekuadorit, 2023",
+        "share_text": ""
+      },
+      "am": {
+        "query": null,
+        "hover_text": "የኤኳዶር ነጻነት ቀን 2023",
+        "share_text": ""
+      },
+      "ar": {
+        "query": null,
+        "hover_text": "عيد استقلال الإكوادور 2023",
+        "share_text": ""
+      },
+      "hy": {
+        "query": null,
+        "hover_text": "Էկվադորի անկախության օր 2023",
+        "share_text": ""
+      },
+      "az": {
+        "query": null,
+        "hover_text": "2023 Ekvadorun Müstəqillik Günü",
+        "share_text": ""
+      },
+      "bn": {
+        "query": null,
+        "hover_text": "ইকুয়েডরের স্বাধীনতা দিবস ২০২৩",
+        "share_text": ""
+      },
+      "eu": {
+        "query": null,
+        "hover_text": "2023ko Ekuadorko Independentzia Eguna",
+        "share_text": ""
+      },
+      "be": {
+        "query": null,
+        "hover_text": "Дзень незалежнасці Эквадора – 2023",
+        "share_text": ""
+      },
+      "bs": {
+        "query": null,
+        "hover_text": "Dan nezavisnosti Ekvadora 2023.",
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bg": {
+        "query": null,
+        "hover_text": "Ден на независимостта на Еквадор 2023 г.",
+        "share_text": ""
+      },
+      "my": {
+        "query": null,
+        "hover_text": "၂၀၂၃ အီကွေဒေါ လွတ်လပ်ရေးနေ့",
+        "share_text": ""
+      },
+      "ca": {
+        "query": null,
+        "hover_text": "Dia de la Independència de l'Equador 2023",
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": "Dan neovisnosti Ekvadora 2023.",
+        "share_text": ""
+      },
+      "cs": {
+        "query": null,
+        "hover_text": "Den nezávislosti Ekvádoru 2023",
+        "share_text": ""
+      },
+      "da": {
+        "query": null,
+        "hover_text": "Ecuadors uafhængighedsdag 2023",
+        "share_text": ""
+      },
+      "nl": {
+        "query": null,
+        "hover_text": "Onafhankelijkheidsdag Ecuador 2023",
+        "share_text": ""
+      },
+      "et": {
+        "query": null,
+        "hover_text": "Ecuadori 2023. aasta iseseisvuspäev",
+        "share_text": ""
+      },
+      "fi": {
+        "query": null,
+        "hover_text": "Ecuadorin itsenäisyyspäivä 2023",
+        "share_text": ""
+      },
+      "fr": {
+        "query": null,
+        "hover_text": "Fête de l'Indépendance de l'Équateur 2023",
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": "Día da Independencia de Ecuador 2023",
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": "ეკვადორის დამოუკიდებლობის დღე — 2023",
+        "share_text": ""
+      },
+      "de": {
+        "query": null,
+        "hover_text": "Unabhängigkeitstag Ecuador 2023",
+        "share_text": ""
+      },
+      "el": {
+        "query": null,
+        "hover_text": "Ημέρα Ανεξαρτησίας του Ισημερινού 2023",
+        "share_text": ""
+      },
+      "gu": {
+        "query": null,
+        "hover_text": "એક્વાડોરનો સ્વતંત્રતા દિવસ 2023",
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": "יום העצמאות של אקוודור 2023",
+        "share_text": ""
+      },
+      "hi": {
+        "query": null,
+        "hover_text": "इक्वाडोर का स्वतंत्रता दिवस 2023",
+        "share_text": ""
+      },
+      "hu": {
+        "query": null,
+        "hover_text": "Ecuador függetlenségének napja, 2023",
+        "share_text": ""
+      },
+      "is": {
+        "query": null,
+        "hover_text": "Sjálfstæðisdagur Ekvador 2023",
+        "share_text": ""
+      },
+      "id": {
+        "query": null,
+        "hover_text": "Hari Kemerdekaan Ekuador 2023",
+        "share_text": ""
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": "Festa dell'indipendenza dell'Ecuador 2023",
+        "share_text": ""
+      },
+      "ja": {
+        "query": null,
+        "hover_text": "2023 年エクアドル独立記念日",
+        "share_text": ""
+      },
+      "kn": {
+        "query": null,
+        "hover_text": "ಈಕ್ವಡಾರ್ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2023",
+        "share_text": ""
+      },
+      "kk": {
+        "query": null,
+        "hover_text": "Эквадордың Тәуелсіздік күні – 2023",
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": "ទិវាបុណ្យឯករាជ្យជាតិអេក្វាទ័រឆ្នាំ 2023",
+        "share_text": ""
+      },
+      "ko": {
+        "query": null,
+        "hover_text": "2023년 에콰도르 독립 기념일",
+        "share_text": ""
+      },
+      "ky": {
+        "query": null,
+        "hover_text": "Эквадордун Эгемендүүлүк күнү – 2023",
+        "share_text": ""
+      },
+      "lo": {
+        "query": null,
+        "hover_text": "ວັນປະກາດເອກະລາດເອກົວດໍ 2023",
+        "share_text": ""
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Ecuador ",
+        "hover_text": "Día de la Independencia de Ecuador 2023",
+        "share_text": "Día de la Independencia de Ecuador. #GoogleDoodle"
+      },
+      "lv": {
+        "query": null,
+        "hover_text": "Ekvadoras Neatkarības diena — 2023",
+        "share_text": ""
+      },
+      "lt": {
+        "query": null,
+        "hover_text": "Ekvadoro nepriklausomybės diena, 2023 m.",
+        "share_text": ""
+      },
+      "mk": {
+        "query": null,
+        "hover_text": "Ден на независноста на Еквадор, 2023 г.",
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": "Hari Kemerdekaan Ecuador 2023",
+        "share_text": ""
+      },
+      "ml": {
+        "query": null,
+        "hover_text": "ഇക്വഡോർ സ്വാതന്ത്ര്യ ദിനം 2023",
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": "इक्वेडोरचा स्वातंत्र्यदिन २०२३",
+        "share_text": ""
+      },
+      "mn": {
+        "query": null,
+        "hover_text": "2023 оны Эквадор Улсын Тусгаар тогтнолын өдөр",
+        "share_text": ""
+      },
+      "ne": {
+        "query": null,
+        "hover_text": "इक्वेडरको स्वतन्त्रता दिवस २०२३",
+        "share_text": ""
+      },
+      "no": {
+        "query": null,
+        "hover_text": "Ecuadors frigjøringsdag 2023",
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": "روز استقلال اکوادور - ۲۰۲۳",
+        "share_text": ""
+      },
+      "pl": {
+        "query": null,
+        "hover_text": "Dzień Niepodległości Ekwadoru 2023",
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": null,
+        "hover_text": "ਏਕੁਆਦੋਰ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ 2023",
+        "share_text": ""
+      },
+      "ro": {
+        "query": null,
+        "hover_text": "Ziua Independenței în Ecuador – 2023",
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": "День независимости Эквадора – 2023",
+        "share_text": ""
+      },
+      "sr": {
+        "query": null,
+        "hover_text": "Дан независности Еквадора 2023.",
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": "ඉක්වදෝරයේ නිදහස් දිනය 2023",
+        "share_text": ""
+      },
+      "sk": {
+        "query": null,
+        "hover_text": "Deň nezávislosti Ekvádoru 2023",
+        "share_text": ""
+      },
+      "sl": {
+        "query": null,
+        "hover_text": "Dan neodvisnosti Ekvadorja 2023",
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": "Día de la Independencia de Ecuador 2023",
+        "share_text": ""
+      },
+      "sw": {
+        "query": null,
+        "hover_text": "Sikukuu ya Uhuru wa Ekwado 2023",
+        "share_text": ""
+      },
+      "sv": {
+        "query": null,
+        "hover_text": "Ecuadors självständighetsdag 2023",
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": "ஈக்வெடாரின் சுதந்திர தினம் 2023",
+        "share_text": ""
+      },
+      "te": {
+        "query": null,
+        "hover_text": "ఈక్వెడార్ స్వాతంత్య్ర దినోత్సవం 2023",
+        "share_text": ""
+      },
+      "th": {
+        "query": null,
+        "hover_text": "วันประกาศอิสรภาพของเอกวาดอร์ปี 2023",
+        "share_text": ""
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": "Ekvador Bağımsızlık Günü 2023",
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": "День незалежності Еквадору у 2023 році",
+        "share_text": ""
+      },
+      "ur": {
+        "query": null,
+        "hover_text": "ایکواڈور کا یوم آزادی 2023",
+        "share_text": ""
+      },
+      "uz": {
+        "query": null,
+        "hover_text": "Ekvador Mustaqillik kuni 2023",
+        "share_text": ""
+      },
+      "vi": {
+        "query": null,
+        "hover_text": "Ngày Quốc khánh Ecuador năm 2023",
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": "Usuku Lokuzimela lwase-Ecuador lwango-2023",
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Ecuador Independence Day",
+    "share_text": "Happy Independence Day, Ecuador! #GoogleDoodle"
+  },
+  {
+    "name": "2023-womens-world-cup-quarter-finals-aug-10-11",
+    "title": "2023 Women's World Cup Quarter Finals (Aug 10-11)",
+    "url": "//www.google.com/logos/doodles/2023/2023-womens-world-cup-quarter-finals-aug-10-11-6753651837110067-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/MNz1ya_a_GrmLgjwV_jUgMQ6K0EKJTWRDfQei2dTTbXqXmEY05PnGWR5aRUhVSvaoLeYrEZ0nHO8ibr3VEQwyTkTZG3FuK86uRMyxOx69_-k_pVvOdJOxQ",
+    "high_res_url": "//www.google.com/logos/doodles/2023/2023-womens-world-cup-quarter-finals-aug-10-11-6753651837110067-2xa.gif",
+    "high_res_width": 1076,
+    "high_res_height": 410,
+    "run_date_array": [
+      2023,
+      8,
+      10
+    ],
+    "translations": {
+      "en": {
+        "query": "Women's World Cup",
+        "hover_text": "2023 Women's World Cup Quarter Finals (Aug 10-11)",
+        "share_text": "Let the Quarter Finals begin! #GoogleDoodle"
+      },
+      "af": {
+        "query": "2023 Vrouewêreldbeker Sokkertoernooi",
+        "hover_text": "Kwarteindrondte van die 2023 Vrouewêreldbeker Sokkertoernooi",
+        "share_text": "Hier begin die kwarteindrondte nou! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Kupa e Botës në Futboll për Femra, 2023",
+        "hover_text": "Çerekfinalet e Kupës së Botës për Femra, 2023",
+        "share_text": "Le të fillojnë çerekfinalet!#GoogleDoodle"
+      },
+      "am": {
+        "query": "የእግር ኳስ የሴቶች የዓለም ዋንጫ 2023",
+        "hover_text": "የ2023 የሴቶች የዓለም ዋንጫ ሩብ ፍጻሜዎች",
+        "share_text": "የሩብ ፍጻሜው ውድድር ይጀምር! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "كأس العالم لكرة القدم للسيدات لعام 2023",
+        "hover_text": "الدور الربع النهائي في كأس العالم للسيدات لعام 2023",
+        "share_text": "ليبدأ الدور الربع النهائي! #GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ֆուտբոլի կանանց աշխարհի առաջնություն 2023",
+        "hover_text": "2023 Կանանց աշխարհի առաջնության քառորդ եզրափակիչ",
+        "share_text": "Թող քառորդ եզրափակիչն սկսվի՛ #GoogleDoodle"
+      },
+      "az": {
+        "query": "2023 Qadınlar üzrə Dünya Futbol Çempionatı",
+        "hover_text": "2023 Qadınlar üzrə Dünya Çempionatının 1/4 Finalı",
+        "share_text": "1/4 Final Oyunları başlasın! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "মহিলা ফুটবল বিশ্বকাপ ২০২৩",
+        "hover_text": "মহিলা বিশ্বকাপ ২০২৩ - কোয়ার্টার ফাইনাল",
+        "share_text": "এবার কোয়ার্টার ফাইনাল শুরু!#GoogleDoodle"
+      },
+      "eu": {
+        "query": "2023ko Emakumeen Munduko Futbol Txapelketa",
+        "hover_text": "2023ko Emakumeen Munduko Txapelketako final-laurdenak",
+        "share_text": "Has daitezela final-laurdenak! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Чэмпіянат свету па футболе сярод жанчын 2023",
+        "hover_text": "Чэмпіянат свету па футболе сярод жанчын 2023 — чвэрцьфіналы",
+        "share_text": "Чвэрцьфіналы пачынаюцца! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Svjetsko prvenstvo u fudbalu za žene 2023.",
+        "hover_text": "Četvrtfinale Svjetskog prvenstva u fudbalu za žene 2023.",
+        "share_text": "Neka četvrtfinale počne!#Google Doodle"
+      },
+      "en-GB": {
+        "query": "Football Women's World Cup 2023",
+        "hover_text": "2023 Women's World Cup Quarter Finals",
+        "share_text": "Let the Quarter Finals begin! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Световно първенство по футбол за жени 2023 г.",
+        "hover_text": "Световно първенство за жени 2023 г. – четвъртфинали",
+        "share_text": "Нека четвъртфиналите започнат! #GoogleDoodle"
+      },
+      "my": {
+        "query": "၂၀၂၃ အမျိုးသမီးကမ္ဘာ့ဖလား ဘောလုံးပွဲ",
+        "hover_text": "၂၀၂၃ အမျိုးသမီးကမ္ဘာ့ဖလား ကွာတားဖိုင်နယ်",
+        "share_text": "ကွာတားဖိုင်နယ် စလိုက်ရအောင်။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Copa del Món Femenina de futbol 2023",
+        "hover_text": "Quarts de final de la Copa del Món Femenina 2023 ",
+        "share_text": "Que comencin els quarts de final! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "2023 年女子世界杯足球賽",
+        "hover_text": "2023 年女子世界杯八強賽",
+        "share_text": "八強賽即將開始！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "2023 年女子世界杯足球賽",
+        "hover_text": "2023 年女子世界杯八強賽",
+        "share_text": "八強賽即將開始！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "2023 女子世界杯足球赛",
+        "hover_text": "2023 女子世界杯八强赛",
+        "share_text": "八强赛即将打响！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Svjetsko prvenstvo u nogometu za žene 2023.",
+        "hover_text": "Četvrtfinale Svjetskog prventstva u nogometu za žene 2023.",
+        "share_text": "Neka četvrtfinale započne!#Google Doodle"
+      },
+      "cs": {
+        "query": "Mistrovství světa ve fotbale žen 2023",
+        "hover_text": "Mistrovství světa ve fotbale žen 2023 – čtvrtfinále",
+        "share_text": "Jde se do čtvrtfinále! #GoogleDoodle"
+      },
+      "da": {
+        "query": "VM i fodbold for kvinder 2023",
+        "hover_text": "Kvartfinaler ved VM i kvindefodbold 2023",
+        "share_text": "Lad kvartfinalerne begynde!#GoogleDoodle"
+      },
+      "nl": {
+        "query": "WK voetbal vrouwen 2023",
+        "hover_text": "Kwartfinales WK voetbal vrouwen 2023",
+        "share_text": "Laat de kwartfinales beginnen! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Naiste jalgpalli maailmameistrivõistlused 2023",
+        "hover_text": "2023. a naiste jalgpalli MMi veerandfinaalid",
+        "share_text": "Veerandfinaalid võivad alata! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Jalkapallon naisten MM-kisat 2023",
+        "hover_text": "Jalkapallon naisten MM-kisat 2023, puolivälierät",
+        "share_text": "Puolivälierät käyntiin!#GoogleDoodle"
+      },
+      "fr": {
+        "query": "Coupe du monde féminine de football 2023",
+        "hover_text": "Quarts de finale de la Coupe du monde féminine 2023",
+        "share_text": "C'est le début des quarts de finale ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Coupe du monde féminine de soccer 2023",
+        "hover_text": "Quarts de finale de la Coupe du monde féminine 2023",
+        "share_text": "Que les quarts de finale commencent! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Copa Mundial Feminina de fútbol 2023",
+        "hover_text": "Cuartos de final da Copa Mundial Feminina 2023",
+        "share_text": "Que comecen os cuartos de final! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ფეხბურთის ქალთა მსოფლიო ჩემპიონატი 2023",
+        "hover_text": "ქალთა მსოფლიო ჩემპიონატი 2023 — მეოთხედფინალი",
+        "share_text": "მეოთხედფინალი დაიწყო! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Fußball-Weltmeisterschaft der Frauen 2023",
+        "hover_text": "Fußball-Weltmeisterschaft der Frauen 2023 – Viertelfinale",
+        "share_text": "Auf in die Viertelfinal-Runde! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Παγκόσμιο Κύπελλο Ποδοσφαίρου Γυναικών 2023",
+        "hover_text": "Προημιτελικοί Παγκοσμίου Κυπέλλου Γυναικών 2023",
+        "share_text": "Ας αρχίσουν οι προημιτελικοί! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "મહિલા ફૂટબૉલ વિશ્વ કપ 2023",
+        "hover_text": "મહિલા વિશ્વ કપ 2023 - કવાર્ટર ફાઇનલ",
+        "share_text": "ચાલો, કવાર્ટર ફાઇનલ શરૂ કરીએ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "גביע העולם בכדורגל נשים 2023",
+        "hover_text": "גביע העולם בכדורגל נשים 2023: רבע הגמר",
+        "share_text": "רבע הגמר מתחיל!\r#GoogleDoodle"
+      },
+      "hi": {
+        "query": "महिला फ़ुटबॉल विश्व कप 2023",
+        "hover_text": "महिला विश्व कप 2023 क्वार्टर फ़ाइनल",
+        "share_text": "क्वॉर्टर फ़ाइनल शुरू करते हैं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A 2023-as női labdarúgó-világbajnokság",
+        "hover_text": "A 2023-as női labdarúgó-világbajnokság negyeddöntői",
+        "share_text": "Kezdődjenek a negyeddöntők!#GoogleDoodle"
+      },
+      "is": {
+        "query": "HM kvenna 2023",
+        "hover_text": "Undanúrslit heimsmeistaramóts kvenna 2023 (10.–11. ágúst)",
+        "share_text": "Hefjum leik! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Piala Dunia Sepak Bola Wanita 2023",
+        "hover_text": "Perempat Final Piala Dunia Wanita 2023",
+        "share_text": "Mulai Perempat Final!#GoogleDoodle"
+      },
+      "ga": {
+        "query": "Corn Domhanda na mBan",
+        "hover_text": "Cluiche Ceathrú Ceannais Chorn Domhanda na mBan 2023",
+        "share_text": "Lig do na Cluichí Ceathrú Ceannais tosú! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Coppa del Mondo di calcio femminile 2023",
+        "hover_text": "Quarti di finale della Coppa del Mondo femminile 2023",
+        "share_text": "Che i quarti di finale abbiano inizio! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "2023 女子サッカーワールドカップ ",
+        "hover_text": "2023 FIFA女子ワールドカップ - 準々決勝",
+        "share_text": "準々決勝戦を応援しよう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಮಹಿಳಾ ಫುಟ್‍ಬಾಲ್ ವಿಶ್ವಕಪ್ 2023",
+        "hover_text": "ಮಹಿಳಾ ವಿಶ್ವಕಪ್ 2023 ಕ್ವಾರ್ಟರ್ ಫೈನಲ್",
+        "share_text": "ಕ್ವಾರ್ಟರ್ ಫೈನಲ್ ಪ್ರಾರಂಭಿಸೋಣ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "2023 ж. футболдан әйелдер арасындағы әлем чемпионаты",
+        "hover_text": "2023 ж. әйелдер арасындағы әлем чемпионаты – ширек финал",
+        "share_text": "Ширек финал қызықты өтсін! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការប្រកួតបាល់ទាត់ស្ត្រីពាន​រង្វាន់​ពិភពលោកឆ្នាំ 2023",
+        "hover_text": "ការប្រកួតបាល់ទាត់ស្ត្រីពិភពលោកឆ្នាំ 2023 វគ្គប្រាំបីក្រុមចុងក្រោយ",
+        "share_text": "វគ្គប្រាំបីក្រុមចុងក្រោយចាប់ផ្ដើមហើយ! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "축구 여자 월드컵 2023",
+        "hover_text": "2023 여자 월드컵 8강전",
+        "share_text": "여자 월드컵 8강전 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Аялдардын дүйнөлүк ФЧ 2023",
+        "hover_text": "Аялдардын дүйнөлүк ФЧ 2023 – чейрек финал",
+        "share_text": "Чейрек финал башталды! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ບານເຕະໂລກແມ່ຍິງ 2023",
+        "hover_text": "ການແຂ່ງຂັນກ່ອນຮອບສຸດທ້າຍຂອງເວີຄັບແມ່ຍິງ 2023",
+        "share_text": "ເລີ່ມຮອບກ່ອນຮອບສຸດທ້າຍກັນເລີຍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Copa Mundial de Fútbol Femenil 2023",
+        "hover_text": "Cuartos de Final de la Copa Mundial Femenil 2023",
+        "share_text": "¡Que comiencen los Cuartos de Final! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Pasaules kauss futbolā sievietēm 2023",
+        "hover_text": "2023. gada Pasaules kausa izcīņa sievietēm ceturtdaļfināli",
+        "share_text": "Sāksim ceturtdaļfinālu! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "2023 m. pasaulio moterų futbolo čempionatas",
+        "hover_text": "2023 m. moterų pasaulio taurės ketvirtfinalis",
+        "share_text": "Tegu ketvirtfinalis prasideda! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Светско фудбалско првенство за жени 2023 г.",
+        "hover_text": "Светско првенство за жени 2023 г. – Четвртфинале",
+        "share_text": "Четвртфиналето може да започне! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Piala Dunia Bola Sepak Wanita 2023",
+        "hover_text": "Pusingan Suku AkhirPiala Dunia Wanita 2023",
+        "share_text": "Mulakan Pusingan Suku Akhir!#GoogleDoodle"
+      },
+      "ml": {
+        "query": "2023 വനിതാ ഫുട്‌ബോൾ ലോകകപ്പ്",
+        "hover_text": "2023 വനിതാ ലോകകപ്പ് ക്വാർട്ടർ ഫൈനലുകൾ",
+        "share_text": "ക്വാർട്ടർ ഫൈനലുകൾ തുടങ്ങട്ടെ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "महिला फुटबॉल विश्वचषक २०२३",
+        "hover_text": "महिला विश्वचषक २०२३ उपांत्यपूर्व फेरी",
+        "share_text": "उपांत्यपूर्व फेरी सुरू करू या!#GoogleDoodle"
+      },
+      "mn": {
+        "query": "2023 оны Эмэгтэйчүүдийн хөлбөмбөгийн дэлхийн аварга шалгаруулах тэмцээн",
+        "hover_text": "2023 оны Эмэгтэйчүүдийн хөлбөмбөгийн дэлхийн аварга шалгаруулах тэмцээний шөвгийн наймын тоглолтууд",
+        "share_text": "Шөвгийн наймын тоглолтыг эхлүүлцгээе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "फुटबलको महिला विश्व कप, २०२३",
+        "hover_text": "महिला विश्व कप, २०२३- क्वाटर फाइनल",
+        "share_text": "क्वाटर फाइनल सुरु हुन दिनुहोस्! #GoogleDoodle"
+      },
+      "no": {
+        "query": "VM i fotball for kvinner 2023",
+        "hover_text": "VM i fotball for kvinner 2023 – Kvartfinaler",
+        "share_text": "På tide med kvartfinaler! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "جام جهانی فوتبال زنان ۲۰۲۳",
+        "hover_text": "مسابقات یک‌چهارم نهایی جام جهانی فوتبال زنان ۲۰۲۳",
+        "share_text": "مسابقات یک‌چهارم نهایی را شروع کنیم! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Mistrzostwa Świata w Piłce Nożnej Kobiet 2023",
+        "hover_text": "Ćwierćfinały Mistrzostw Świata Kobiet 2023",
+        "share_text": "Rozpoczynamy ćwierćfinały! #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Copa do Mundo de Futebol Feminino 2023",
+        "hover_text": "Quartas de final da Copa do Mundo Feminina 2023",
+        "share_text": "Que comecem as quartas de final! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Mundial de Futebol Feminino de 2023",
+        "hover_text": "Quartos de final do Mundial Feminino de 2023",
+        "share_text": "Que comecem os quartos de final! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਮਹਿਲਾ ਫੁੱਟਬਾਲ ਵਿਸ਼ਵ ਕੱਪ 2023",
+        "hover_text": "ਮਹਿਲਾ ਵਿਸ਼ਵ ਕੱਪ 2023 ਕੁਆਰਟਰ ਫ਼ਾਈਨਲ",
+        "share_text": "ਕੁਆਰਟਰ ਫ਼ਾਈਨਲ ਦਾ ਆਗਾਜ਼ ਕਰਦੇ ਹਾਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Campionatul Mondial de Fotbal Feminin 2023",
+        "hover_text": "Campionatul Mondial de Fotbal Feminin 2023 – Sferturi de finală",
+        "share_text": "Încep sferturile de finală! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "ЧМ по футболу среди женщин 2023",
+        "hover_text": "ЧМ по футболу среди женщин 2023 – четвертьфинал",
+        "share_text": "Четвертьфинал начинается! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Светско првенство у фудбалу за жене 2023.",
+        "hover_text": "Четвртфинале Светског првенства у фудбалу за жене 2023.",
+        "share_text": "Нека четвртфинале почне!#GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "පාපන්දු කාන්තා ලෝක කුසලානය 2023",
+        "hover_text": "2023 කාන්තා ලෝක කුසලාන අර්ධ අවසන් පූර්ව වටය",
+        "share_text": "අර්ධ අවසන් පූර්ව වටය ආරම්භ කරමු! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Majstrovstvá sveta vo futbale žien 2023",
+        "hover_text": "Majstrovstvá sveta vo futbale žien 2023 - štvrťfinále",
+        "share_text": "Ide sa do štvrťfinále!#GoogleDoodle"
+      },
+      "sl": {
+        "query": "Svetovno prvenstvo v nogometu za ženske 2023",
+        "hover_text": "Četrtfinale svetovnega prvenstva v nogometu za ženske 2023",
+        "share_text": "Naj se četrtfinale začne!#GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Copa Mundial Femenina de Fútbol 2023",
+        "hover_text": "Cuartos de final de la Copa Mundial Femenina 2023",
+        "share_text": "¡Empiezan los cuartos de final! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Kombe la Dunia la Kandanda ya Wanawake 2023",
+        "hover_text": "Robo Fainali za Kombe la Dunia la Wanawake 2023",
+        "share_text": "Acha Robo Fainali ianze! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Fotbolls-VM för damer 2023",
+        "hover_text": "Kvartsfinaler i fotbolls-VM för damer 2023",
+        "share_text": "Dags för kvartsfinaler! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "பெண்கள் கால்பந்து உலகக் கோப்பை 2023",
+        "hover_text": "2023 பெண்கள் உலகக் கோப்பை  காலிறுதிப் போட்டிகள்",
+        "share_text": "காலிறுதிப் போட்டிகள் ஆரம்பிக்கட்டும்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "మహిళల ఫుట్‌బాల్ ప్రపంచ కప్ 2023",
+        "hover_text": "2023 మహిళల ప్రపంచ కప్ క్వార్టర్ ఫైనల్స్",
+        "share_text": "క్వార్టర్ ఫైనల్స్ ప్రారంభం! #GoogleDoodle"
+      },
+      "th": {
+        "query": "ฟุตบอลโลกหญิงปี 2023",
+        "hover_text": "ฟุตบอลโลกหญิงปี 2023 รอบก่อนรองชนะเลิศ",
+        "share_text": "รอบก่อนรองชนะเลิศกำลังจะเริ่มขึ้นแล้ว! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Futbol Kadınlar Dünya Kupası 2023",
+        "hover_text": "2023 Kadınlar Dünya Kupası Çeyrek Final",
+        "share_text": "Çeyrek Final başlasın! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Чемпіонат світу з футболу серед жінок – 2023",
+        "hover_text": "Чвертьфінали ЧС із футболу серед жінок у 2023 році",
+        "share_text": "Початок чвертьфінальних матчів! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "خواتین کا فٹ بال ورلڈ کپ 2023\r",
+        "hover_text": "خواتین کا ورلڈ کپ 2023 کوارٹر فائنلز",
+        "share_text": "کوارٹر فائنلز شروع کرتے ہیں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Futbol – Ayollar JCH 2023",
+        "hover_text": "Ayollar JCH 2023 chorak finallari",
+        "share_text": "Chorak finallarni boshlaymiz! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Giải vô địch bóng đá nữ thế giới 2023",
+        "hover_text": "Tứ kết World Cup nữ 2023",
+        "share_text": "Lượt trận tứ kết bắt đầu! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Indebe Yomhlaba Yabesimame Yebhola Likanobhutshuzwayo yowezi-2023",
+        "hover_text": "Indebe Yomhlaba Yabesimame yowezi-2023 - Amakotafayinali",
+        "share_text": "Makaqale Amakotafayinali! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Women's World Cup",
+    "share_text": "Let the Quarter Finals begin! #GoogleDoodle"
+  },
+  {
     "name": "margit-nordins-126th-birthday",
     "title": "Margit Nordin's 126th Birthday",
     "url": "//www.google.com/logos/doodles/2023/margit-nordins-126th-birthday-6753651837109917-law.gif",
@@ -3028,7 +4525,7 @@
         "share_text": "የዊሊ ዴ ብረይን 109ኛ የልደት ቀን! #GoogleDoodle"
       },
       "ar": {
-        "query": null,
+        "query": "",
         "hover_text": "الذكرى 109 لميلاد \"ويلي دي بروين\"",
         "share_text": "نحيي اليوم الذكرى 109 لميلاد \"ويلي دي بروين\". ‎#GoogleDoodle"
       },
@@ -3982,9 +5479,9 @@
         "share_text": ""
       },
       "zu": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "U-Altina Schinasi",
+        "hover_text": "Usuku Lokuzalwa luka-Altina Schinasi Lweminyaka eyi-116",
+        "share_text": "Usuku Lokuzalwa luka-Altina Schinasi Lweminyaka eyi-116 #GoogleDoodle"
       }
     },
     "translated_blog_posts": {},
