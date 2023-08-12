@@ -1,5 +1,1502 @@
 [
   {
+    "name": "2023-womens-world-cup-quarter-finals-aug-12",
+    "title": "2023 Women's World Cup Quarter Finals (Aug 12)",
+    "url": "//www.google.com/logos/doodles/2023/2023-womens-world-cup-quarter-finals-aug-12-6753651837110161-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/C2MMRcSQBzlszdWzQy_putQq06W71RBuHTQTJQ6uhrSaL7XrEkAlr15egK88oSwHLPnYpKXJrGz_ndK51iqyEBoQZ2jeiwHs-BMI3cOZuPHzfZUP6Pml",
+    "high_res_url": "//www.google.com/logos/doodles/2023/2023-womens-world-cup-quarter-finals-aug-12-6753651837110161-2xa.gif",
+    "high_res_width": 1076,
+    "high_res_height": 410,
+    "run_date_array": [
+      2023,
+      8,
+      12
+    ],
+    "translations": {
+      "en": {
+        "query": "2023 Women's World Cup",
+        "hover_text": "2023 Women's World Cup Quarter Finals (Aug 12)",
+        "share_text": "Let the Quarter Finals begin! #GoogleDoodle"
+      },
+      "af": {
+        "query": "2023 Vrouewêreldbeker Sokkertoernooi",
+        "hover_text": "Kwarteindrondte van die 2023 Vrouewêreldbeker Sokkertoernooi",
+        "share_text": "Hier begin die kwarteindrondte nou! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Kupa e Botës në Futboll për Femra, 2023",
+        "hover_text": "Çerekfinalet e Kupës së Botës për Femra, 2023",
+        "share_text": "Le të fillojnë çerekfinalet!#GoogleDoodle"
+      },
+      "am": {
+        "query": "የእግር ኳስ የሴቶች የዓለም ዋንጫ 2023",
+        "hover_text": "የ2023 የሴቶች የዓለም ዋንጫ ሩብ ፍጻሜዎች",
+        "share_text": "የሩብ ፍጻሜው ውድድር ይጀምር! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "كأس العالم لكرة القدم للسيدات لعام 2023",
+        "hover_text": "الدور الربع النهائي في كأس العالم للسيدات لعام 2023",
+        "share_text": "ليبدأ الدور الربع النهائي! #GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ֆուտբոլի կանանց աշխարհի առաջնություն 2023",
+        "hover_text": "2023 Կանանց աշխարհի առաջնության քառորդ եզրափակիչ",
+        "share_text": "Թող քառորդ եզրափակիչն սկսվի՛ #GoogleDoodle"
+      },
+      "az": {
+        "query": "2023 Qadınlar üzrə Dünya Futbol Çempionatı",
+        "hover_text": "2023 Qadınlar üzrə Dünya Çempionatının 1/4 Finalı",
+        "share_text": "1/4 Final Oyunları başlasın! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "মহিলা ফুটবল বিশ্বকাপ ২০২৩",
+        "hover_text": "মহিলা বিশ্বকাপ ২০২৩ - কোয়ার্টার ফাইনাল",
+        "share_text": "এবার কোয়ার্টার ফাইনাল শুরু!#GoogleDoodle"
+      },
+      "eu": {
+        "query": "2023ko Emakumeen Munduko Futbol Txapelketa",
+        "hover_text": "2023ko Emakumeen Munduko Txapelketako final-laurdenak",
+        "share_text": "Has daitezela final-laurdenak! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Чэмпіянат свету па футболе сярод жанчын 2023",
+        "hover_text": "Чэмпіянат свету па футболе сярод жанчын 2023 — чвэрцьфіналы",
+        "share_text": "Чвэрцьфіналы пачынаюцца! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Svjetsko prvenstvo u fudbalu za žene 2023.",
+        "hover_text": "Četvrtfinale Svjetskog prvenstva u fudbalu za žene 2023.",
+        "share_text": "Neka četvrtfinale počne!#Google Doodle"
+      },
+      "en-GB": {
+        "query": "Football Women's World Cup 2023",
+        "hover_text": "2023 Women's World Cup Quarter Finals",
+        "share_text": "Let the Quarter Finals begin! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Световно първенство по футбол за жени 2023 г.",
+        "hover_text": "Световно първенство за жени 2023 г. – четвъртфинали",
+        "share_text": "Нека четвъртфиналите започнат! #GoogleDoodle"
+      },
+      "my": {
+        "query": "၂၀၂၃ အမျိုးသမီးကမ္ဘာ့ဖလား ဘောလုံးပွဲ",
+        "hover_text": "၂၀၂၃ အမျိုးသမီးကမ္ဘာ့ဖလား ကွာတားဖိုင်နယ်",
+        "share_text": "ကွာတားဖိုင်နယ် စလိုက်ရအောင်။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Copa del Món Femenina de futbol 2023",
+        "hover_text": "Quarts de final de la Copa del Món Femenina 2023 ",
+        "share_text": "Que comencin els quarts de final! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "2023 年女子世界杯足球賽",
+        "hover_text": "2023 年女子世界杯八強賽",
+        "share_text": "八強賽即將開始！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "2023 年女子世界杯足球賽",
+        "hover_text": "2023 年女子世界杯八強賽",
+        "share_text": "八強賽即將開始！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "2023 女子世界杯足球赛",
+        "hover_text": "2023 女子世界杯八强赛",
+        "share_text": "八强赛即将打响！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Svjetsko prvenstvo u nogometu za žene 2023.",
+        "hover_text": "Četvrtfinale Svjetskog prventstva u nogometu za žene 2023.",
+        "share_text": "Neka četvrtfinale započne!#Google Doodle"
+      },
+      "cs": {
+        "query": "Světový pohár žen ve fotbale 2023",
+        "hover_text": "Světový pohár žen 2023 – čtvrtfinále",
+        "share_text": "Nechť čtvrtfinále začne! #GoogleDoodle"
+      },
+      "da": {
+        "query": "VM i fodbold for kvinder 2023",
+        "hover_text": "Kvartfinaler ved VM i kvindefodbold 2023",
+        "share_text": "Lad kvartfinalerne begynde!#GoogleDoodle"
+      },
+      "nl": {
+        "query": "WK voetbal vrouwen 2023",
+        "hover_text": "Kwartfinales WK voetbal vrouwen 2023",
+        "share_text": "Laat de kwartfinales beginnen! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Naiste jalgpalli maailmameistrivõistlused 2023",
+        "hover_text": "2023. a naiste jalgpalli MMi veerandfinaalid",
+        "share_text": "Veerandfinaalid võivad alata! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Jalkapallon naisten MM-kisat 2023",
+        "hover_text": "Jalkapallon naisten MM-kisat 2023, puolivälierät",
+        "share_text": "Puolivälierät käyntiin!#GoogleDoodle"
+      },
+      "fr": {
+        "query": "Coupe du monde féminine de football 2023",
+        "hover_text": "Quarts de finale de la Coupe du monde féminine 2023",
+        "share_text": "C'est le début des quarts de finale ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Coupe du monde féminine de soccer 2023",
+        "hover_text": "Quarts de finale de la Coupe du monde féminine 2023",
+        "share_text": "Que les quarts de finale commencent! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Copa Mundial Feminina de fútbol 2023",
+        "hover_text": "Cuartos de final da Copa Mundial Feminina 2023",
+        "share_text": "Que comecen os cuartos de final! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ფეხბურთის ქალთა მსოფლიო ჩემპიონატი 2023",
+        "hover_text": "ქალთა მსოფლიო ჩემპიონატი 2023 — მეოთხედფინალი",
+        "share_text": "მეოთხედფინალი დაიწყო! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Fußball-Weltmeisterschaft der Frauen 2023",
+        "hover_text": "Fußball-Weltmeisterschaft der Frauen 2023 – Viertelfinale",
+        "share_text": "Auf in die Viertelfinal-Runde! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Παγκόσμιο Κύπελλο Ποδοσφαίρου Γυναικών 2023",
+        "hover_text": "Προημιτελικοί Παγκοσμίου Κυπέλλου Γυναικών 2023",
+        "share_text": "Ας αρχίσουν οι προημιτελικοί! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "મહિલા ફૂટબૉલ વિશ્વ કપ 2023",
+        "hover_text": "મહિલા વિશ્વ કપ 2023 - કવાર્ટર ફાઇનલ",
+        "share_text": "ચાલો, કવાર્ટર ફાઇનલ શરૂ કરીએ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "גביע העולם בכדורגל נשים 2023",
+        "hover_text": "גביע העולם בכדורגל נשים 2023: רבע הגמר",
+        "share_text": "רבע הגמר מתחיל!\r#GoogleDoodle"
+      },
+      "hi": {
+        "query": "महिला फ़ुटबॉल विश्व कप 2023",
+        "hover_text": "महिला विश्व कप 2023 क्वार्टर फ़ाइनल",
+        "share_text": "क्वॉर्टर फ़ाइनल शुरू करते हैं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A 2023-as női labdarúgó-világbajnokság",
+        "hover_text": "A 2023-as női labdarúgó-világbajnokság negyeddöntői",
+        "share_text": "Kezdődjenek a negyeddöntők!#GoogleDoodle"
+      },
+      "is": {
+        "query": "Heimsmeistaramót kvenna í fótbolta 2023",
+        "hover_text": "Fjórðungsúrslit í Heimsmeistaramóti kvenna 2023",
+        "share_text": "Byrjum fjórðungsúrslitin! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Piala Dunia Sepak Bola Wanita 2023",
+        "hover_text": "Perempat Final Piala Dunia Wanita 2023",
+        "share_text": "Mulai Perempat Final!#GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Coppa del Mondo di calcio femminile 2023",
+        "hover_text": "Quarti di finale della Coppa del Mondo femminile 2023",
+        "share_text": "Che i quarti di finale abbiano inizio! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "2023 女子サッカーワールドカップ ",
+        "hover_text": "2023 FIFA女子ワールドカップ - 準々決勝",
+        "share_text": "準々決勝戦を応援しよう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಮಹಿಳಾ ಫುಟ್‍ಬಾಲ್ ವಿಶ್ವಕಪ್ 2023",
+        "hover_text": "ಮಹಿಳಾ ವಿಶ್ವಕಪ್ 2023 ಕ್ವಾರ್ಟರ್ ಫೈನಲ್",
+        "share_text": "ಕ್ವಾರ್ಟರ್ ಫೈನಲ್ ಪ್ರಾರಂಭಿಸೋಣ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "2023 ж. футболдан әйелдер арасындағы әлем чемпионаты",
+        "hover_text": "2023 ж. әйелдер арасындағы әлем чемпионаты – ширек финал",
+        "share_text": "Ширек финал қызықты өтсін! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការប្រកួតបាល់ទាត់ស្ត្រីពាន​រង្វាន់​ពិភពលោកឆ្នាំ 2023",
+        "hover_text": "ការប្រកួតបាល់ទាត់ស្ត្រីពិភពលោកឆ្នាំ 2023 វគ្គប្រាំបីក្រុមចុងក្រោយ",
+        "share_text": "វគ្គប្រាំបីក្រុមចុងក្រោយចាប់ផ្ដើមហើយ! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "축구 여자 월드컵 2023",
+        "hover_text": "2023 여자 월드컵 8강전",
+        "share_text": "여자 월드컵 8강전 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Аялдардын дүйнөлүк ФЧ 2023",
+        "hover_text": "Аялдардын дүйнөлүк ФЧ 2023 – чейрек финал",
+        "share_text": "Чейрек финал башталды! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ບານເຕະໂລກແມ່ຍິງ 2023",
+        "hover_text": "ການແຂ່ງຂັນກ່ອນຮອບສຸດທ້າຍຂອງເວີຄັບແມ່ຍິງ 2023",
+        "share_text": "ເລີ່ມຮອບກ່ອນຮອບສຸດທ້າຍກັນເລີຍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Copa Mundial de Fútbol Femenil 2023",
+        "hover_text": "Cuartos de Final de la Copa Mundial Femenil 2023",
+        "share_text": "¡Que comiencen los Cuartos de Final! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Pasaules kauss futbolā sievietēm 2023",
+        "hover_text": "2023. gada Pasaules kausa izcīņa sievietēm ceturtdaļfināli",
+        "share_text": "Sāksim ceturtdaļfinālu! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "2023 m. pasaulio moterų futbolo čempionatas",
+        "hover_text": "2023 m. moterų pasaulio taurės ketvirtfinalis",
+        "share_text": "Tegu ketvirtfinalis prasideda! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Светско фудбалско првенство за жени 2023 г.",
+        "hover_text": "Светско првенство за жени 2023 г. – Четвртфинале",
+        "share_text": "Четвртфиналето може да започне! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Piala Dunia Bola Sepak Wanita 2023",
+        "hover_text": "Pusingan Suku AkhirPiala Dunia Wanita 2023",
+        "share_text": "Mulakan Pusingan Suku Akhir!#GoogleDoodle"
+      },
+      "ml": {
+        "query": "2023 വനിതാ ഫുട്‌ബോൾ ലോകകപ്പ്",
+        "hover_text": "2023 വനിതാ ലോകകപ്പ് ക്വാർട്ടർ ഫൈനലുകൾ",
+        "share_text": "ക്വാർട്ടർ ഫൈനലുകൾ തുടങ്ങട്ടെ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "महिला फुटबॉल विश्वचषक २०२३",
+        "hover_text": "महिला विश्वचषक २०२३ उपांत्यपूर्व फेरी",
+        "share_text": "उपांत्यपूर्व फेरी सुरू करू या!#GoogleDoodle"
+      },
+      "mn": {
+        "query": "2023 оны Эмэгтэйчүүдийн хөлбөмбөгийн дэлхийн аварга шалгаруулах тэмцээн",
+        "hover_text": "2023 оны Эмэгтэйчүүдийн хөлбөмбөгийн дэлхийн аварга шалгаруулах тэмцээний шөвгийн наймын тоглолтууд",
+        "share_text": "Шөвгийн наймын тоглолтыг эхлүүлцгээе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "फुटबलको महिला विश्व कप, २०२३",
+        "hover_text": "महिला विश्व कप, २०२३- क्वाटर फाइनल",
+        "share_text": "क्वाटर फाइनल सुरु हुन दिनुहोस्! #GoogleDoodle"
+      },
+      "no": {
+        "query": "VM i fotball for kvinner 2023",
+        "hover_text": "VM i fotball for kvinner 2023 – Kvartfinaler",
+        "share_text": "På tide med kvartfinaler! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "جام جهانی فوتبال زنان ۲۰۲۳",
+        "hover_text": "مسابقات یک‌چهارم نهایی جام جهانی فوتبال زنان ۲۰۲۳",
+        "share_text": "مسابقات یک‌چهارم نهایی را شروع کنیم! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Mistrzostwa Świata w Piłce Nożnej Kobiet 2023",
+        "hover_text": "Ćwierćfinały Mistrzostw Świata Kobiet 2023",
+        "share_text": "Rozpoczynamy ćwierćfinały! #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Copa do Mundo de Futebol Feminino 2023",
+        "hover_text": "Quartas de final da Copa do Mundo Feminina 2023",
+        "share_text": "Que comecem as quartas de final! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Mundial de Futebol Feminino de 2023",
+        "hover_text": "Quartos de final do Mundial Feminino de 2023",
+        "share_text": "Que comecem os quartos de final! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਮਹਿਲਾ ਫੁੱਟਬਾਲ ਵਿਸ਼ਵ ਕੱਪ 2023",
+        "hover_text": "ਮਹਿਲਾ ਵਿਸ਼ਵ ਕੱਪ 2023 ਕੁਆਰਟਰ ਫ਼ਾਈਨਲ",
+        "share_text": "ਕੁਆਰਟਰ ਫ਼ਾਈਨਲ ਦਾ ਆਗਾਜ਼ ਕਰਦੇ ਹਾਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Campionatul Mondial de Fotbal Feminin 2023",
+        "hover_text": "Campionatul Mondial de Fotbal Feminin 2023 – Sferturi de finală",
+        "share_text": "Încep sferturile de finală! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "ЧМ по футболу среди женщин 2023",
+        "hover_text": "ЧМ по футболу среди женщин 2023 – четвертьфинал",
+        "share_text": "Четвертьфинал начинается! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Светско првенство у фудбалу за жене 2023.",
+        "hover_text": "Четвртфинале Светског првенства у фудбалу за жене 2023.",
+        "share_text": "Нека четвртфинале почне!#GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "පාපන්දු කාන්තා ලෝක කුසලානය 2023",
+        "hover_text": "2023 කාන්තා ලෝක කුසලාන අර්ධ අවසන් පූර්ව වටය",
+        "share_text": "අර්ධ අවසන් පූර්ව වටය ආරම්භ කරමු! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Ženský svetový pohár vo futbale 2023",
+        "hover_text": "Štvrťfinále ženského svetového pohára 2023",
+        "share_text": "Ide sa do štvrťfinále!#GoogleDoodle"
+      },
+      "sl": {
+        "query": "Svetovno prvenstvo v nogometu za ženske 2023",
+        "hover_text": "Četrtfinale svetovnega prvenstva v nogometu za ženske 2023",
+        "share_text": "Naj se četrtfinale začne!#GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Copa Mundial Femenina de Fútbol 2023",
+        "hover_text": "Cuartos de final de la Copa Mundial Femenina 2023",
+        "share_text": "¡Empiezan los cuartos de final! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Kombe la Dunia la Kandanda ya Wanawake 2023",
+        "hover_text": "Robo Fainali za Kombe la Dunia la Wanawake 2023",
+        "share_text": "Acha Robo Fainali ianze! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Fotbolls-VM för damer 2023",
+        "hover_text": "Kvartsfinaler i fotbolls-VM för damer 2023",
+        "share_text": "Dags för kvartsfinaler! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "பெண்கள் கால்பந்து உலகக் கோப்பை 2023",
+        "hover_text": "2023 பெண்கள் உலகக் கோப்பை  காலிறுதிப் போட்டிகள்",
+        "share_text": "காலிறுதிப் போட்டிகள் ஆரம்பிக்கட்டும்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "మహిళల ఫుట్‌బాల్ ప్రపంచ కప్ 2023",
+        "hover_text": "2023 మహిళల ప్రపంచ కప్ క్వార్టర్ ఫైనల్స్",
+        "share_text": "క్వార్టర్ ఫైనల్స్ ప్రారంభం! #GoogleDoodle"
+      },
+      "th": {
+        "query": "ฟุตบอลโลกหญิงปี 2023",
+        "hover_text": "ฟุตบอลโลกหญิงปี 2023 รอบก่อนรองชนะเลิศ",
+        "share_text": "รอบก่อนรองชนะเลิศกำลังจะเริ่มขึ้นแล้ว! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Futbol Kadınlar Dünya Kupası 2023",
+        "hover_text": "2023 Kadınlar Dünya Kupası Çeyrek Final",
+        "share_text": "Çeyrek Final başlasın! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Чемпіонат світу з футболу серед жінок – 2023",
+        "hover_text": "Чвертьфінали ЧС із футболу серед жінок у 2023 році",
+        "share_text": "Початок чвертьфінальних матчів! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "خواتین کا فٹ بال ورلڈ کپ 2023\r",
+        "hover_text": "خواتین کا ورلڈ کپ 2023 کوارٹر فائنلز",
+        "share_text": "کوارٹر فائنلز شروع کرتے ہیں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Futbol – Ayollar JCH 2023",
+        "hover_text": "Ayollar JCH 2023 chorak finallari",
+        "share_text": "Chorak finallarni boshlaymiz! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Giải vô địch bóng đá nữ thế giới 2023",
+        "hover_text": "Tứ kết World Cup nữ 2023",
+        "share_text": "Lượt trận tứ kết bắt đầu! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Indebe Yomhlaba Yabesimame Yebhola Likanobhutshuzwayo yowezi-2023",
+        "hover_text": "Indebe Yomhlaba Yabesimame yowezi-2023 - Amakotafayinali",
+        "share_text": "Makaqale Amakotafayinali! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "2023 Women's World Cup",
+    "share_text": "Let the Quarter Finals begin! #GoogleDoodle"
+  },
+  {
+    "name": "fatima-meers-95th-birthday",
+    "title": "Fatima Meer's 95th Birthday",
+    "url": "//www.google.com/logos/doodles/2023/fatima-meers-95th-birthday-6753651837109918.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/TWkLhQXLlsNcsMB5DDCYeVVpfBmqfKZKb5ZzJZ1Wocxff3BitEgbL3fiHqUyhj_VcHPfx6vhVw0ibs6kro1l_thDjWJDS3REhBqaow7JdUrMbYloUG-wmQ",
+    "high_res_url": "//www.google.com/logos/doodles/2023/fatima-meers-95th-birthday-6753651837109918.3-2xa.gif",
+    "high_res_width": 800,
+    "high_res_height": 320,
+    "run_date_array": [
+      2023,
+      8,
+      12
+    ],
+    "translations": {
+      "en": {
+        "query": "Fatima Meer",
+        "hover_text": "Fatima Meer's 95th Birthday",
+        "share_text": "Fatima Meer's 95th Birthday! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Fatima Meer",
+        "hover_text": "Fatima Meer se 95e verjaarsdag",
+        "share_text": "Fatima Meer se 95e verjaarsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Fatima Meer",
+        "hover_text": "95-vjetori i lindjes së Fatima Meer",
+        "share_text": "95-vjetori i lindjes së Fatima Meer! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ፋጢማ ሚር",
+        "hover_text": "የፋጢማ ሚር 95ኛ የልደት ቀን",
+        "share_text": "የፋጢማ ሚር 95ኛ የልደት ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "فاطمة مير",
+        "hover_text": "الذكرى 95 لميلاد \"فاطمة مير\"",
+        "share_text": "نحيي اليوم الذكرى 95 لميلاد \"فاطمة مير\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ֆաթիմա Միր",
+        "hover_text": "Ֆաթիմա Միրի ծննդյան 95-ամյակը",
+        "share_text": "Ֆաթիմա Միրի ծննդյան 95-ամյակը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Fatima Meer",
+        "hover_text": "Fatima Meer'in 95-ci ildönümü",
+        "share_text": "Fatima Meer'in 95-ci ildönümü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ফতিমা মীর",
+        "hover_text": "ফতিমা মীরের ৯৫তম জন্মদিন",
+        "share_text": "ফতিমা মীরের ৯৫তম জন্মদিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Fatima Meer",
+        "hover_text": "Fatima Meeren jaiotzaren 95. urteurrena",
+        "share_text": "Fatima Meeren jaiotzaren 95. urteurrena #GoogleDoodle"
+      },
+      "be": {
+        "query": "Фаціма Меер",
+        "hover_text": "95 гадоў з дня нараджэння Фацімы Меер",
+        "share_text": "95 гадоў з дня нараджэння Фацімы Меер! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Fatima Meer",
+        "hover_text": "95 godina od rođenja Fatime Meer",
+        "share_text": "95 godina od rođenja Fatime Meer! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bg": {
+        "query": "Фатима Мир",
+        "hover_text": "95 години от рождението на Фатима Мир",
+        "share_text": "95 години от рождението на Фатима Мир! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Fatima Meer",
+        "hover_text": "Fatima Meer ၏ ၉၅ နှစ်မြောက်မွေးနေ့",
+        "share_text": "Fatima Meer ၏ ၉၅ နှစ်မြောက်မွေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Fatima Meer",
+        "hover_text": "95è aniversari del naixement de Fatima Meer",
+        "share_text": "95è aniversari del naixement de Fatima Meer #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": "Fatima Meer",
+        "hover_text": "95. godišnjica rođenja Fatime Meer",
+        "share_text": "95. godišnjica rođenja Fatime Meer! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Fatima Meer",
+        "hover_text": "95. výročí Fatimy Meer",
+        "share_text": "95. výročí Fatimy Meer! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Fatima Meer",
+        "hover_text": "Fatima Meers 95-års fødselsdag",
+        "share_text": "Fatima Meers 95-års fødselsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Fatima Meer",
+        "hover_text": "95e geboortedag van Fatima Meer",
+        "share_text": "De 95e geboortedag van Fatima Meer! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Fatima Meer",
+        "hover_text": "Fatima Meer’ 95. sünniaastapäev",
+        "share_text": "Fatima Meer’ 95. sünniaastapäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Fatima Meer",
+        "hover_text": "95 vuotta Fatima Meerin syntymästä",
+        "share_text": "95 vuotta Fatima Meerin syntymästä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fatima Meer",
+        "hover_text": "Il y a 95 ans naissait Fatima Meer",
+        "share_text": "95e anniversaire de Fatima Meer #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": "Fatima Meer",
+        "hover_text": "95.º aniversario do nacemento de Fatima Meer",
+        "share_text": "95.º aniversario do nacemento de Fatima Meer! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ფატიმა მირი",
+        "hover_text": "95 წელი ფატიმა მირის დაბადებიდან",
+        "share_text": "95 წელი ფატიმა მირის დაბადებიდან! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Fatima Meer",
+        "hover_text": "95. Geburtstag von Fatima Meer",
+        "share_text": "95. Geburtstag von Fatima Meer! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Fatima Meer",
+        "hover_text": "95 χρόνια από τη γέννηση της Fatima Meer",
+        "share_text": "95 χρόνια από τη γέννηση της Fatima Meer! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ફાતિમા મીર",
+        "hover_text": "ફાતિમા મીરનો 95મો જન્મદિવસ",
+        "share_text": "ફાતિમા મીરનો 95મો જન્મદિવસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Fatima Meer",
+        "hover_text": "95 שנים להולדת פטימה מיר",
+        "share_text": "95 שנים להולדת פטימה מיר GoogleDoodle#"
+      },
+      "hi": {
+        "query": "फ़ातिमा मीर",
+        "hover_text": "फ़ातिमा मीर की 95वीं जयंती",
+        "share_text": "फ़ातिमा मीर की 95वीं जयंती! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Fatima Meer",
+        "hover_text": "Fatima Meer születésének 95. évfordulója",
+        "share_text": "Fatima Meer születésének 95. évfordulója #GoogleDoodle"
+      },
+      "is": {
+        "query": "Fatima Meer",
+        "hover_text": "95 ár frá fæðingu Fatimu Meer",
+        "share_text": "95 ár frá fæðingu Fatimu Meer! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Fatima Meer",
+        "hover_text": "Ulang Tahun Ke-95 Fatima Meer",
+        "share_text": "Ulang Tahun Ke-95 Fatima Meer #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Fatima Meer",
+        "hover_text": "95° anniversario della nascita di Fatima Meer",
+        "share_text": "95° anniversario della nascita di Fatima Meer! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ファティマ・ミーア",
+        "hover_text": "ファティマ・ミーア生誕 95 周年",
+        "share_text": "ファティマ・ミーア生誕 95 周年 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಫಾತಿಮ ಮೀರ್",
+        "hover_text": "ಫಾತಿಮಾ ಮೀರ್ ಅವರ 95ನೇ ಜನ್ಮದಿನದ ಸವಿನೆನಪಲ್ಲಿ",
+        "share_text": "ಫಾತಿಮಾ ಮೀರ್ ಅವರ 95ನೇ ಜನ್ಮದಿನದ ಸವಿನೆನಪಲ್ಲಿ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Фатима Мир",
+        "hover_text": "Фатима Мирдің 95 жылдығы",
+        "share_text": "Фатима Мирдің 95 жылдығы #GoogleDoodle"
+      },
+      "km": {
+        "query": "Fatima Meer",
+        "hover_text": "ខួបកំណើតគម្រប់ 95 ឆ្នាំរបស់ Fatima Meer",
+        "share_text": "ខួបកំណើតគម្រប់ 95 ឆ្នាំរបស់ Fatima Meer! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Fatima Meer",
+        "hover_text": "Fatima Meer 탄생 95주년",
+        "share_text": "Fatima Meer 탄생 95주년 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Фатима Мир",
+        "hover_text": "Фатима Мирдин 95 жаш мааракеси",
+        "share_text": "Фатима Мирдин 95 жаш мааракеси! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Fatima Meer",
+        "hover_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 95 ປີຂອງ Fatima Meer",
+        "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 95 ປີຂອງ Fatima Meer! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lv": {
+        "query": "Fatima Mēra",
+        "hover_text": "Fatimas Mēras 95. dzimšanas diena",
+        "share_text": "Fatimas Mēras 95. dzimšanas diena! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Fatima Meer",
+        "hover_text": "95-asis Fatimos Meer gimtadienis",
+        "share_text": "95-asis Fatimos Meer gimtadienis! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Fatima Meer",
+        "hover_text": "95. роденден на Fatima Meer",
+        "share_text": "95. роденден на Fatima Meer! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Fatima Meer",
+        "hover_text": "Ulang Tahun Kelahiran Fatima Meer yang ke-95",
+        "share_text": "Ulang Tahun Kelahiran Fatima Meer yang ke-95! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഫാത്തിമാ മീർ",
+        "hover_text": "ഫാത്തിമാ മീറിന്റെ 95-ാം ജന്മദിനം",
+        "share_text": "ഫാത്തിമാ മീറിന്റെ 95-ാം ജന്മദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "फातिमा मीर",
+        "hover_text": "फातिमा मीर यांचा ९५ वा स्मृतिदिन",
+        "share_text": "फातिमा मीर यांचा ९५ वा स्मृतिदिन! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Фатима Меер",
+        "hover_text": "Фатима Меерийн мэндэлсний 95 жилийн ой",
+        "share_text": "Фатима Меерийн мэндэлсний 95 жилийн ой! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Fatima Meer",
+        "hover_text": "Fatima Meer को ९५ औँ जन्मजयन्ती",
+        "share_text": "Fatima Meer को ९५ औँ जन्मजयन्ती! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Fatima Meer",
+        "hover_text": "Fatima Meers 95-årsdag",
+        "share_text": "Fatima Meers 95-årsdag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "فاطمه می‌یر",
+        "hover_text": "نودوپنجمین زادروز فاطمه می‌یر",
+        "share_text": "نودوپنجمین زادروز فاطمه می‌یر! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Fatima Meer",
+        "hover_text": "Fatima Meer – 95 rocznica urodzin",
+        "share_text": "Fatima Meer – 95 rocznica urodzin #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": "Fatima Meer",
+        "hover_text": "ਫ਼ਾਤਿਮਾ ਮੀਰ ਦਾ 95ਵਾਂ ਜਨਮਦਿਨ",
+        "share_text": "ਫ਼ਾਤਿਮਾ ਮੀਰ ਦਾ 95ਵਾਂ ਜਨਮਦਿਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Fatima Meer",
+        "hover_text": "95 de ani de la nașterea Fatimei Meer",
+        "share_text": "95 de ani de la nașterea Fatimei Meer! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Фатима Мир",
+        "hover_text": "95 лет со дня рождения Фатимы Мир",
+        "share_text": "95 лет со дня рождения Фатимы Мир #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Фатима Мер",
+        "hover_text": "95 година од рођења Фатиме Мер",
+        "share_text": "95 година од рођења Фатиме Мер! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ෆාතිමා මීර්",
+        "hover_text": "ෆාතිමා මීර්ගේ 95 වැනි උපන් දිනය",
+        "share_text": "ෆාතිමා මීර්ගේ 95 වැනි උපන් දිනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Fatima Meerová",
+        "hover_text": "95. výročie narodenia Fatimy Meerovej",
+        "share_text": "95. výročie narodenia Fatimy Meerovej. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Fatima Meer",
+        "hover_text": "95. rojstni dan Fatime Meer",
+        "share_text": "95. rojstni dan Fatime Meer! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Fatima Meer",
+        "hover_text": "95.º aniversario del nacimiento de Fatima Meer",
+        "share_text": "Hoy es el 95.º aniversario del nacimiento de Fatima Meer #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Fatima Meer",
+        "hover_text": "Maadhimisho ya Miaka 95 Tangu Kuzaliwa Kwa Fatima Meer",
+        "share_text": "Maadhimisho ya Miaka 95 Tangu Kuzaliwa Kwa Fatima Meer! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Fatima Meer",
+        "hover_text": "Fatima Meer 95 år",
+        "share_text": "Fatima Meer 95 år! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஃபாத்திமா மீர்",
+        "hover_text": "ஃபாத்திமா மீரின் 95வது பிறந்தநாள்",
+        "share_text": "ஃபாத்திமா மீரின் 95வது பிறந்தநாள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఫాతిమా మీర్",
+        "hover_text": "ఫాతిమా మీర్ 95వ జయంతి",
+        "share_text": "ఫాతిమా మీర్ 95వ జయంతి! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Fatima Meer",
+        "hover_text": "วันเกิดปีที่ 95 ของ Fatima Meer",
+        "share_text": "วันเกิดปีที่ 95 ของ Fatima Meer #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Fatima Meer",
+        "hover_text": "Fatima Meer'ın 95. Doğum Günü",
+        "share_text": "Fatima Meer'ın 95. Doğum Günü #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Фатіма Мір",
+        "hover_text": "95 років від дня народження Фатіми Мір",
+        "share_text": "95 років від дня народження Фатіми Мір! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "فاطمہ میر",
+        "hover_text": "فاطمہ میر کی 95 ویں سالگرہ",
+        "share_text": "فاطمہ میر کی 95 ویں سالگرہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Fatima Meer",
+        "hover_text": "Fatima Meer tavalludining 95 yilligi",
+        "share_text": "Fatima Meer tavalludining 95 yilligi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Fatima Meer",
+        "hover_text": "Kỷ niệm 95 năm ngày sinh của Fatima Meer",
+        "share_text": "Kỷ niệm 95 năm ngày sinh của Fatima Meer! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Fatima Meer",
+        "hover_text": "Usuku Lokuzalwa lukaFatima Meer Lweminyaka engama-95",
+        "share_text": "Usuku Lokuzalwa lukaFatima Meer Lweminyaka engama-95! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Fatima Meer",
+    "share_text": "Fatima Meer's 95th Birthday! #GoogleDoodle"
+  },
+  {
+    "name": "mothers-day-2023-aug-12",
+    "title": "Mother's Day 2023 (Aug 12)",
+    "url": "//www.google.com/logos/doodles/2023/mothers-day-2023-aug-12-6753651837109919-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/eUCCdEw2zuLJaQPHCsgRymfnM6BRuKS7LrFa7AgMHi24xjaysd77GxLp3EjChp9gDoGEyzfYnclM-vZrMOh6WUXW38EU93C__EE9NtsqFV7M11SPulxLyA",
+    "high_res_url": "//www.google.com/logos/doodles/2023/mothers-day-2023-aug-12-6753651837109919.2-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      8,
+      12
+    ],
+    "translations": {
+      "en": {
+        "query": "Mother's Day",
+        "hover_text": "Mother's Day 2023 (Aug 12)",
+        "share_text": "Happy Mother's Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": "Moedersdag 2023 (12 Aug.)",
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": "Dita e Nënës, 2023 (12 gusht)",
+        "share_text": ""
+      },
+      "am": {
+        "query": null,
+        "hover_text": "የእናቶች ቀን 2023 (ኦገስት 12)",
+        "share_text": ""
+      },
+      "ar": {
+        "query": null,
+        "hover_text": "عيد الأم 2023 (12 آب/أغسطس)",
+        "share_text": ""
+      },
+      "hy": {
+        "query": null,
+        "hover_text": "Մայրերի օր 2023 (օգոստոսի 12)",
+        "share_text": ""
+      },
+      "az": {
+        "query": null,
+        "hover_text": "2023 Analar Günü (12 avqust)",
+        "share_text": ""
+      },
+      "bn": {
+        "query": null,
+        "hover_text": "মাতৃ দিবস ২০২৩ (১২ আগস্ট)",
+        "share_text": ""
+      },
+      "eu": {
+        "query": null,
+        "hover_text": "2023ko Amaren Eguna (abuztuaren 12a)",
+        "share_text": ""
+      },
+      "be": {
+        "query": null,
+        "hover_text": "Дзень маці 2023 (12 жніўня)",
+        "share_text": ""
+      },
+      "bs": {
+        "query": null,
+        "hover_text": "Dan majki 2023. (12. aug)",
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bg": {
+        "query": null,
+        "hover_text": "Ден на майката 2023 г. (12 август)",
+        "share_text": ""
+      },
+      "my": {
+        "query": null,
+        "hover_text": "၂၀၂၃ အမေများနေ့ (ဩဂုတ် ၁၂)",
+        "share_text": ""
+      },
+      "ca": {
+        "query": null,
+        "hover_text": "Dia de la Mare 2023 (12 d'agost)",
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": "Majčin dan 2023. (12. kolovoza)",
+        "share_text": ""
+      },
+      "cs": {
+        "query": null,
+        "hover_text": "Den matek 2023 (12. srpna)",
+        "share_text": ""
+      },
+      "da": {
+        "query": null,
+        "hover_text": "Mors dag 2023 (12. august)",
+        "share_text": ""
+      },
+      "nl": {
+        "query": null,
+        "hover_text": "Moederdag 2023 (12 augustus)",
+        "share_text": ""
+      },
+      "et": {
+        "query": null,
+        "hover_text": "2023. aasta emadepäev (12. aug)",
+        "share_text": ""
+      },
+      "fi": {
+        "query": null,
+        "hover_text": "Äitienpäivä 2023 (12.8.)",
+        "share_text": ""
+      },
+      "fr": {
+        "query": null,
+        "hover_text": "Fête des Mères 2023 (12 août)",
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": "Día da Nai 2023 (12 de agosto)",
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": "დედის დღე — 2023 (12 აგვისტო)",
+        "share_text": ""
+      },
+      "de": {
+        "query": null,
+        "hover_text": "Muttertag 2023 (12. August)",
+        "share_text": ""
+      },
+      "el": {
+        "query": null,
+        "hover_text": "Γιορτή της Μητέρας 2023 (12 Αυγούστου)",
+        "share_text": ""
+      },
+      "gu": {
+        "query": null,
+        "hover_text": "મધર્સ ડે 2023 (12 ઑગસ્ટ)",
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": "יום האם 2023 (12 באוגוסט)",
+        "share_text": ""
+      },
+      "hi": {
+        "query": null,
+        "hover_text": "मदर्स डे 2023 (12 अगस्त)",
+        "share_text": ""
+      },
+      "hu": {
+        "query": null,
+        "hover_text": "Anyák napja, 2023 (augusztus 12.)",
+        "share_text": ""
+      },
+      "is": {
+        "query": null,
+        "hover_text": "Mæðradagurinn 2023 (12. ágúst)",
+        "share_text": ""
+      },
+      "id": {
+        "query": null,
+        "hover_text": "Hari Ibu 2023 (12 Agustus)",
+        "share_text": ""
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": "Festa della mamma 2023 (12 agosto)",
+        "share_text": ""
+      },
+      "ja": {
+        "query": null,
+        "hover_text": "2023 年母の日（8 月 12 日）",
+        "share_text": ""
+      },
+      "kn": {
+        "query": null,
+        "hover_text": "ತಾಯಂದಿರ ದಿನ 2023 (ಆಗಸ್ಟ್ 12)",
+        "share_text": ""
+      },
+      "kk": {
+        "query": null,
+        "hover_text": "Аналар күні – 2023 (12 тамыз)",
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": "ទិវារំលឹកគុណម្ដាយឆ្នាំ 2023 (ថ្ងៃទី 12 ខែសីហា)",
+        "share_text": ""
+      },
+      "ko": {
+        "query": null,
+        "hover_text": "2023년 어머니날(8월 12일)",
+        "share_text": ""
+      },
+      "ky": {
+        "query": null,
+        "hover_text": "Энелер күнү — 2023 (12-август)",
+        "share_text": ""
+      },
+      "lo": {
+        "query": null,
+        "hover_text": "ວັນແມ່ປີ 2023 (12 ສິງຫາ)",
+        "share_text": ""
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lv": {
+        "query": null,
+        "hover_text": "Mātes diena — 2023. gada 12. augusts",
+        "share_text": ""
+      },
+      "lt": {
+        "query": null,
+        "hover_text": "Motinos diena, 2023 m. (rugpjūčio 12 d.)",
+        "share_text": ""
+      },
+      "mk": {
+        "query": null,
+        "hover_text": "Ден на мајката, 2023 г. (12 авг.)",
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": "Hari Ibu 2023 (12 Ogos)",
+        "share_text": ""
+      },
+      "ml": {
+        "query": null,
+        "hover_text": "മാതൃദിനം 2023 (ഓഗസ്റ്റ് 12)",
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": "मदर्स डे २०२३ (१२ ऑगस्ट)",
+        "share_text": ""
+      },
+      "mn": {
+        "query": null,
+        "hover_text": "2023 оны Ээжүүдийн өдөр (8-р сарын 12)",
+        "share_text": ""
+      },
+      "ne": {
+        "query": null,
+        "hover_text": "आमाको मुख हेर्ने दिन २०२३ (अगस्ट १२)",
+        "share_text": ""
+      },
+      "no": {
+        "query": null,
+        "hover_text": "Morsdag 2023 (12. august)",
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": "روز مادر ۲۰۲۳ (۱۲ اوت)",
+        "share_text": ""
+      },
+      "pl": {
+        "query": null,
+        "hover_text": "Dzień Matki 2023 (12 sierpnia)",
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": null,
+        "hover_text": "ਮਾਂ ਦਿਵਸ 2023 (12 ਅਗਸਤ)",
+        "share_text": ""
+      },
+      "ro": {
+        "query": null,
+        "hover_text": "Ziua Mamei – 2023 (12 aug)",
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": "День матери – 2023 (12 августа)",
+        "share_text": ""
+      },
+      "sr": {
+        "query": null,
+        "hover_text": "Дан мајки 2023. (12. август)",
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": "මව්වරුන්ගේ දිනය 2023 (අගෝස්තු 12)",
+        "share_text": ""
+      },
+      "sk": {
+        "query": null,
+        "hover_text": "Deň matiek 2023 (12. august)",
+        "share_text": ""
+      },
+      "sl": {
+        "query": null,
+        "hover_text": "Materinski dan 2023 (12. avgust)",
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": "Día de la Madre 2023 (12 de agosto)",
+        "share_text": ""
+      },
+      "sw": {
+        "query": null,
+        "hover_text": "Siku ya Akina Mama 2023 (Tarehe 12 Agosti)",
+        "share_text": ""
+      },
+      "sv": {
+        "query": null,
+        "hover_text": "Mors dag 2023 (12 augusti)",
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": "அன்னையர் தினம் 2023 (ஆகஸ்ட் 12)",
+        "share_text": ""
+      },
+      "te": {
+        "query": null,
+        "hover_text": "మదర్స్ డే 2023 (ఆగస్ట్ 12)",
+        "share_text": ""
+      },
+      "th": {
+        "query": "วันแม่",
+        "hover_text": "วันแม่ปี 2023 (12 สิงหาคม)",
+        "share_text": "สุขสันต์วันแม่ #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": "Anneler Günü 2023 (12 Ağustos)",
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": "День матері у 2023 році (12 серпня)",
+        "share_text": ""
+      },
+      "ur": {
+        "query": null,
+        "hover_text": "یوم مادر 2023 (12 اگست)",
+        "share_text": ""
+      },
+      "uz": {
+        "query": null,
+        "hover_text": "Onalar kuni 2023 (12-avgust)",
+        "share_text": ""
+      },
+      "vi": {
+        "query": null,
+        "hover_text": "Ngày của Mẹ năm 2023 (ngày 12 tháng 8)",
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": "Usuku LoMama lwango-2023 (Agasti 12)",
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Mother's Day",
+    "share_text": "Happy Mother's Day! #GoogleDoodle"
+  },
+  {
     "name": "mountain-day-2023",
     "title": "Mountain Day 2023",
     "url": "//www.google.com/logos/doodles/2023/mountain-day-2023-6753651837110068-l.png",
