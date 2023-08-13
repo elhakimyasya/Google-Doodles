@@ -1,5 +1,1003 @@
 [
   {
+    "name": "glucks-128th-birthday",
+    "title": "Gluck’s 128th Birthday",
+    "url": "//www.google.com/logos/doodles/2023/glucks-128th-birthday-6753651837110069.3-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/Q2jKa4yDSBZrchBull8pRXn-VYoFdXUB5-ROX8tjTv8DHxO0sixrN2Xiiv2_b8Dd1_nXZLKLiEDGT0QlOIuEUfDs26dxYewoTlKkvw0rywKiAenBL2UC7mc",
+    "high_res_url": "//www.google.com/logos/doodles/2023/glucks-128th-birthday-6753651837110069.2-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      8,
+      13
+    ],
+    "translations": {
+      "en": {
+        "query": "Gluck",
+        "hover_text": "Gluck’s 128th Birthday",
+        "share_text": "Gluck’s 128th Birthday! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Gluck",
+        "hover_text": "Gluck se 128e verjaarsdag",
+        "share_text": "Gluck se 128e verjaarsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Gluck",
+        "hover_text": "128-vjetori i lindjes së Gluck",
+        "share_text": "128-vjetori i lindjes së Gluck! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ግላክ",
+        "hover_text": "የግላክ 128ኛ ልደት",
+        "share_text": "የግላክ 128ኛ ልደት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "غلاك",
+        "hover_text": "الذكرى 128 لميلاد \"غلاك\"",
+        "share_text": "نحيي اليوم الذكرى 128 لميلاد \"غلاك\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Գլաք",
+        "hover_text": "Գլաքի ծննդյան 128-ամյակը",
+        "share_text": "Տոնե՛նք Գլաքի ծննդյան 128-ամյակը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Gluck",
+        "hover_text": "Gluck’un 128-ci ildönümü",
+        "share_text": "Gluck’un 128-ci ildönümü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "গ্লুক",
+        "hover_text": "গ্লুকের ১২৮তম জন্মদিন",
+        "share_text": "গ্লুকের ১২৮তম জন্মদিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Gluck",
+        "hover_text": "Glucken jaiotzaren 128. urteurrena",
+        "share_text": "Glucken jaiotzaren 128. urteurrena #GoogleDoodle"
+      },
+      "be": {
+        "query": "Глюк",
+        "hover_text": "128 гадоў з дня нараджэння Глюк (Ханны Глюкштэйн)",
+        "share_text": "128 гадоў з дня нараджэння Глюк! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Gluck",
+        "hover_text": "128 godina od rođenja Glucka",
+        "share_text": "128 godina od rođenja Glucka! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Gluck artist",
+        "hover_text": "Gluck’s 128th Birthday",
+        "share_text": "Gluck’s 128th Birthday #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Глук",
+        "hover_text": "128 години от рождението на Глук",
+        "share_text": "128 години от рождението на Глук! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Gluck",
+        "hover_text": "Gluck ၏ ၁၂၈ နှစ်မြောက်မွေးနေ့",
+        "share_text": "Gluck ၏ ၁၂၈ နှစ်မြောက်မွေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Gluck",
+        "hover_text": "128è aniversari del naixement de Gluck",
+        "share_text": "128è aniversari del naixement de Gluck #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": "Gluck",
+        "hover_text": "128. godišnjica Gluckova rođenja",
+        "share_text": "128. godišnjica Gluckova rođenja! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Gluck",
+        "hover_text": "128. výročí narození Glucka",
+        "share_text": "128. výročí narození Glucka! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Gluck",
+        "hover_text": "Glucks 128-års fødselsdag",
+        "share_text": "Glucks 128-års fødselsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Gluck",
+        "hover_text": "128e geboortedag van Gluck",
+        "share_text": "De 128e geboortedag van Gluck! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Gluck",
+        "hover_text": "Glucki 128. sünniaastapäev",
+        "share_text": "Glucki 128. sünniaastapäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Gluck",
+        "hover_text": "128 vuotta Gluckin syntymästä",
+        "share_text": "128 vuotta Gluckin syntymästä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Gluck",
+        "hover_text": "Il y a 128 ans naissait Gluck",
+        "share_text": "128e anniversaire de Gluck #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": "Gluck",
+        "hover_text": "128.º aniversario do nacemento de Gluck",
+        "share_text": "128.º aniversario do nacemento de Gluck! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "გლუკი",
+        "hover_text": "128 წელი გლუკის დაბადებიდან",
+        "share_text": "128 წელი გლუკის დაბადებიდან! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Gluck",
+        "hover_text": "128. Geburtstag von Gluck",
+        "share_text": "128. Geburtstag von Gluck! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Gluck",
+        "hover_text": "128 χρόνια από τη γέννηση του Gluck",
+        "share_text": "128 χρόνια από τη γέννηση του Gluck! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ગ્લક",
+        "hover_text": "ગ્લકનો 128મો જન્મદિવસ",
+        "share_text": "ગ્લકનો 128મો જન્મદિવસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "גלוק",
+        "hover_text": "128 שנים להולדת גלוק",
+        "share_text": "128 שנים להולדת גלוק GoogleDoodle#"
+      },
+      "hi": {
+        "query": "ग्लूक",
+        "hover_text": "ग्लूक का 128वां जन्मदिन",
+        "share_text": "ग्लूक का 128वां जन्मदिन! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Gluck",
+        "hover_text": "Gluck születésének 128. évfordulója",
+        "share_text": "Gluck születésének 128. évfordulója #GoogleDoodle"
+      },
+      "is": {
+        "query": "Gluck",
+        "hover_text": "128 ár frá fæðingu Gluck",
+        "share_text": "128 ár frá fæðingu Gluck! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Gluck",
+        "hover_text": "Ulang Tahun Ke-128 Gluck",
+        "share_text": "Ulang Tahun Ke-128 Gluck #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Gluck artist",
+        "hover_text": "128ú Breithlá Gluck",
+        "share_text": "128ú Breithlá Gluck #GoogleDoodle"
+      },
+      "it": {
+        "query": "Gluck",
+        "hover_text": "128° anniversario della nascita di Gluck",
+        "share_text": "128° anniversario della nascita di Gluck! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "グルック",
+        "hover_text": "グルック生誕 128 周年",
+        "share_text": "グルック生誕 128 周年 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಗ್ಲುಕ್",
+        "hover_text": "ಗ್ಲುಕ್ ಅವರ 128ನೇ ಜನ್ಮದಿನ",
+        "share_text": "ಗ್ಲುಕ್ ಅವರ 128ನೇ ಜನ್ಮದಿನ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Глюк",
+        "hover_text": "Глюктің 128 жылдығы",
+        "share_text": "Глюктің 128 жылдығы #GoogleDoodle"
+      },
+      "km": {
+        "query": "Gluck",
+        "hover_text": "ខួបកំណើត​គម្រប់ 128 ឆ្នាំ​របស់ Gluck",
+        "share_text": "ខួបកំណើត​គម្រប់ 128 ឆ្នាំ​របស់ Gluck! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Gluck",
+        "hover_text": "Gluck 탄생 128주년",
+        "share_text": "Gluck 탄생 128주년 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Глюк",
+        "hover_text": "Глюктун 128 жаш мааракеси",
+        "share_text": "Глюктун 128 жаш мааракеси! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Gluck",
+        "hover_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 128 ປີຂອງ Gluck",
+        "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 128 ປີຂອງ Gluck! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Gluck",
+        "hover_text": "El cumpleaños 128 cumpleaños de Gluck",
+        "share_text": "El cumpleaños 128 cumpleaños de Gluck! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "“Gluck”",
+        "hover_text": "Hannas Glukšteinas (“Gluck”) 128. dzimšanas diena",
+        "share_text": "Hannas Glukšteinas (“Gluck”) 128. dzimšanas diena! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Gluckas",
+        "hover_text": "128-asis Glucko gimtadienis",
+        "share_text": "128-asis Glucko gimtadienis! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Gluck",
+        "hover_text": "128. роденден на Gluck",
+        "share_text": "128. роденден на Gluck! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Gluck",
+        "hover_text": "Ulang Tahun Kelahiran Gluck yang ke-128",
+        "share_text": "Ulang Tahun Kelahiran Gluck yang ke-128! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഗ്ലൂക്ക്",
+        "hover_text": "ഗ്ലൂക്കിന്റെ 128-ാം ജന്മദിനം",
+        "share_text": "ഗ്ലൂക്കിന്റെ 128-ാം ജന്മദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "ग्लक",
+        "hover_text": "ग्लक यांचा १२८ वा स्मृतिदिन",
+        "share_text": "ग्लक यांचा १२८ वा स्मृतिदिन! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Глюк",
+        "hover_text": "Глюкийн мэндэлсний 128 жилийн ой",
+        "share_text": "Глюкийн мэндэлсний 128 жилийн ой! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Gluck",
+        "hover_text": "Gluck को १२८ औँ जन्मजयन्ती",
+        "share_text": "Gluck को १२८ औँ जन्मजयन्ती! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Gluck",
+        "hover_text": "Glucks 128-årsdag",
+        "share_text": "Glucks 128-årsdag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "گلوک",
+        "hover_text": "صدوبیست‌وهشتمین زادروز گلوک",
+        "share_text": "صدوبیست‌وهشتمین زادروز گلوک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Gluck",
+        "hover_text": "Gluck – 128 rocznica urodzin",
+        "share_text": "Gluck – 128 rocznica urodzin #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": "Gluck",
+        "hover_text": "ਗਲੱਕ ਦਾ 128ਵਾਂ ਜਨਮਦਿਨ",
+        "share_text": "ਗਲੱਕ ਦਾ 128ਵਾਂ ਜਨਮਦਿਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Gluck",
+        "hover_text": "128 de ani de la nașterea lui Gluck",
+        "share_text": "128 de ani de la nașterea lui Gluck! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Ханна Глюкштейн",
+        "hover_text": "128 лет со дня рождения Ханны Глюкштейн",
+        "share_text": "128 лет со дня рождения Ханны Глюкштейн #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Глук",
+        "hover_text": "128 година од рођења Глук",
+        "share_text": "128 година од рођења Глук! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ග්ලුක්",
+        "hover_text": "ග්ලුක්ගේ 128 වැනි උපන් දිනය",
+        "share_text": "ග්ලුක්ගේ 128 වැනි උපන් දිනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Gluck",
+        "hover_text": "128. výročie narodenia Glucka",
+        "share_text": "128. výročie narodenia Glucka. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Gluck",
+        "hover_text": "Gluckin 128. rojstni dan",
+        "share_text": "Gluckin 128. rojstni dan! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Gluck",
+        "hover_text": "128.º aniversario del nacimiento de Gluck",
+        "share_text": "Hoy es el 128.º aniversario del nacimiento de Gluck #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Gluck",
+        "hover_text": "Maadhimisho ya Miaka 128 Tangu Kuzaliwa kwa Gluck",
+        "share_text": "Maadhimisho ya Miaka 128 Tangu Kuzaliwa kwa Gluck! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Gluck",
+        "hover_text": "Gluck 128 år",
+        "share_text": "Gluck 128 år #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Gluck",
+        "hover_text": "க்ளக்கின் 128வது பிறந்தநாள்",
+        "share_text": "க்ளக்கின் 128வது பிறந்தநாள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "గ్లక్",
+        "hover_text": "గ్లక్ 128వ జయంతి",
+        "share_text": "గ్లక్ 128వ జయంతి! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Gluck",
+        "hover_text": "วันเกิดปีที่ 128 ของ Gluck",
+        "share_text": "วันเกิดปีที่ 128 ของ Gluck #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Gluck",
+        "hover_text": "Gluck'un 128. Doğum Günü",
+        "share_text": "Gluck'un 128. Doğum Günü. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Глюк",
+        "hover_text": "128 років від дня народження Глюка",
+        "share_text": "128 років від дня народження Глюка! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Gluck",
+        "hover_text": "Gluck کی 128 ویں سالگرہ",
+        "share_text": "Gluck کی 128 ویں سالگرہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Gluck",
+        "hover_text": "Gluck tavalludining 128 yilligi",
+        "share_text": "Gluck tavalludining 128 yilligi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Gluck",
+        "hover_text": "Kỷ niệm 128 năm ngày sinh của Gluck",
+        "share_text": "Kỷ niệm 128 năm ngày sinh của Gluck! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Gluck",
+        "hover_text": "Usuku Lokuzalwa luka-Gluck Lweminyaka eyi-128",
+        "share_text": "Usuku Lokuzalwa luka-Gluck Lweminyaka eyi-128! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Gluck",
+    "share_text": "Gluck’s 128th Birthday! #GoogleDoodle"
+  },
+  {
+    "name": "sridevis-60th-birthday",
+    "title": "Sridevi's 60th Birthday",
+    "url": "//www.google.com/logos/doodles/2023/sridevis-60th-birthday-6753651837110070-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/4C-A5EEiOi2ac1ro_BRaLa3jsizljt0GubU7EOVxUjpWtfg4e2Mh7T0ksJ8BnXJb0BCFO8OUi94va0JOoKfUTk5w9QXdKOyftEtfdMxBKD6wmhNxNeC6TO8",
+    "high_res_url": "//www.google.com/logos/doodles/2023/sridevis-60th-birthday-6753651837110070-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2023,
+      8,
+      13
+    ],
+    "translations": {
+      "en": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "Sridevi's 60th Birthday",
+        "share_text": "Sridevi's 60th Birthday! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "Sridevi se 60e verjaarsdag",
+        "share_text": "Sridevi se 60e verjaarsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "60-vjetori i lindjes së Sridevi",
+        "share_text": "60-vjetori i lindjes së Sridevi! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ስሪዴቪ (ሽሪ አማ ያንገር አያፓን)",
+        "hover_text": "የስሪዴቪ 60ኛ ልደት",
+        "share_text": "የስሪዴቪ 60ኛ ልደት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "سريديفي (شري أما يانغر أيابان)",
+        "hover_text": "الذكرى 60 لميلاد \"سريديفي\"",
+        "share_text": "يصادف اليوم الذكرى 60 لميلاد \"سريديفي\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Շրիդևի (Շրի Ամմա Յանգեր Այյապան)",
+        "hover_text": "Շրիդևիի ծննդյան 60-ամյակը",
+        "share_text": "Տոնե՛նք Շրիդևիի ծննդյան 60-ամյակը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "Sridevi'nin 60-cı ildönümü",
+        "share_text": "Sridevi'nin 60-cı ildönümü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "শ্রীদেবী (শ্রী আম্মা ইয়াঙ্গার আয়াপ্পান)",
+        "hover_text": "শ্রীদেবীর ৬০তম জন্মদিন",
+        "share_text": "শ্রীদেবীর ৬০তম জন্মদিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "Srideviren jaiotzaren 60. urteurrena",
+        "share_text": "Srideviren jaiotzaren 60. urteurrena #GoogleDoodle"
+      },
+      "be": {
+        "query": "Шрыдэві (Шры Ама Янгер Аяпан)",
+        "hover_text": "60 гадоў з дня нараджэння Шрыдэві",
+        "share_text": "60 гадоў з дня нараджэння Шрыдэві! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "60 godina od rođenja Sridevi",
+        "share_text": "60 godina od rođenja Sridevi! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "Sridevi's 60th Birthday",
+        "share_text": "Sridevi's 60th Birthday #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Шридеви (Шри Ама Янгер Аяпан)",
+        "hover_text": "60 години от рождението на Шридеви",
+        "share_text": "60 години от рождението на Шридеви! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "Sridevi ၏ နှစ် ၆၀ ပြည့်မွေးနေ့",
+        "share_text": "Sridevi ၏ နှစ် ၆၀ ပြည့်မွေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "60è aniversari del naixement de Sridevi",
+        "share_text": "60è aniversari del naixement de Sridevi #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "60. godišnjica Sridevina rođenja!",
+        "share_text": "60. godišnjica Sridevina rođenja! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Srídeví (Shree Amma Yanger Ayyappan)",
+        "hover_text": "60. výročí narození Srídeví",
+        "share_text": "60. výročí narození Srídeví! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "Sridevis 60-års fødselsdag",
+        "share_text": "Sridevis 60-års fødselsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Sridevi (Shree Amma Yanger Ayyapan)",
+        "hover_text": "60e geboortedag van Sridevi",
+        "share_text": "De 60e geboortedag van Sridevi! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "Sridevi 60. sünniaastapäev",
+        "share_text": "Sridevi 60. sünniaastapäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "60 vuotta Sridevin syntymästä",
+        "share_text": "60 vuotta Sridevin syntymästä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Sridevi (Shree Amma Yanger Ayyapan)",
+        "hover_text": "Il y a 60 ans naissait Sridevi",
+        "share_text": "60e anniversaire de Sridevi #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "60e anniversaire de Sridevi",
+        "share_text": "60e anniversaire de Sridevi #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "60.º aniversario do nacemento de Sridevi",
+        "share_text": "60.º aniversario do nacemento de Sridevi! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "სრიდევი (შრი ამა იანგერ აიაპანი)",
+        "hover_text": "60 წელი სრიდევის დაბადებიდან",
+        "share_text": "60 წელი სრიდევის დაბადებიდან! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "60. Geburtstag von Sridevi",
+        "share_text": "60. Geburtstag von Sridevi! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "60 χρόνια από τη γέννηση της Sridevi",
+        "share_text": "60 χρόνια από τη γέννηση της Sridevi! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "શ્રીદેવી (શ્રી અમ્મા યંગર અય્યપા)",
+        "hover_text": "શ્રીદેવીનો 60મો જન્મદિવસ",
+        "share_text": "શ્રીદેવીનો 60મો જન્મદિવસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "סרידבי (שרי אמה יאנגר איאפן)",
+        "hover_text": "60 שנים להולדת סרידבי",
+        "share_text": "60 שנים להולדת סרידבי GoogleDoodle#"
+      },
+      "hi": {
+        "query": "श्रीदेवी (श्री अम्मा यंगर अय्यप्पन)",
+        "hover_text": "श्रीदेवी का 60वां जन्मदिन",
+        "share_text": "श्रीदेवी का 60वां जन्मदिन! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "Sridevi születésének 60. évfordulója",
+        "share_text": "Sridevi születésének 60. évfordulója #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "60 ár frá fæðingu Sridevi",
+        "share_text": "60 ár frá fæðingu Sridevi! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "Ulang Tahun Ke-60 Sridevi",
+        "share_text": "Ulang Tahun Ke-60 Sridevi #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "60° anniversario della nascita di Sridevi",
+        "share_text": "60° anniversario della nascita di Sridevi! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "シュリデヴィ（シュリー・アンマ・ヤンガー・アイヤッパン）",
+        "hover_text": "シュリデヴィ生誕 60 周年",
+        "share_text": "シュリデヴィ生誕 60 周年 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಶ್ರೀದೇವಿ (ಶ್ರೀ ಅಮ್ಮ ಯಂಗೇರ್ ಅಯ್ಯಪ್ಪನ್)",
+        "hover_text": "ಶ್ರೀದೇವಿ ಅವರ 60ನೇ ಜನ್ಮದಿನ",
+        "share_text": "ಶ್ರೀದೇವಿ ಅವರ 60ನೇ ಜನ್ಮದಿನ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Шридеви (Шри Амма Янгер Айяппан)",
+        "hover_text": "Шридевидің 60 жылдығы",
+        "share_text": "Шридевидің 60 жылдығы #GoogleDoodle"
+      },
+      "km": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "ខួបកំណើត​គម្រប់ 60 ឆ្នាំ​របស់ Sridevi",
+        "share_text": "ខួបកំណើត​គម្រប់ 60 ឆ្នាំ​របស់ Sridevi! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Sridevi(Shree Amma Yanger Ayyappan)",
+        "hover_text": "Sridevi 탄생 60주년",
+        "share_text": "Sridevi 탄생 60주년 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Шридеви (Шри Амма Янгер Айяппан)",
+        "hover_text": "Шридевинин 60 жаш мааракеси",
+        "share_text": "Шридевинин 60 жаш мааракеси! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 60 ປີຂອງ Sridevi",
+        "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 60 ປີຂອງ Sridevi! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lv": {
+        "query": "Šridevi (Šrī Amma Jangera Ajapana)",
+        "hover_text": "Šridevi 60. dzimšanas diena",
+        "share_text": "Šridevi 60. dzimšanas diena! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "60-asis Sridevi gimtadienis",
+        "share_text": "60-asis Sridevi gimtadienis! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "60. роденден на Sridevi",
+        "share_text": "60. роденден на Sridevi! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "Ulang Tahun Kelahiran Sridevi yang ke-60",
+        "share_text": "Ulang Tahun Kelahiran Sridevi yang ke-60! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ശ്രീദേവി (ശ്രീ അമ്മ യാംഗർ അയ്യപ്പൻ)",
+        "hover_text": "ശ്രീദേവിയുടെ അറുപതാം ജന്മദിനം",
+        "share_text": "ശ്രീദേവിയുടെ അറുപതാം ജന്മദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "श्रीदेवी (श्री अम्मा यंगर अय्यपन)",
+        "hover_text": "श्रीदेवी यांचा ६० वा स्मृतिदिन",
+        "share_text": "श्रीदेवी यांचा ६० वा स्मृतिदिन! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Шридевиг (Шрее Амма Яангер Айяаппан)",
+        "hover_text": "Шридевигийн мэндэлсний 60 жилийн ой",
+        "share_text": "Шридевигийн мэндэлсний 60 жилийн ой! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "Sridevi को ६० औँ जन्मजयन्ती",
+        "share_text": "Sridevi को ६० औँ जन्मजयन्ती! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "Sridevis 60-årsdag",
+        "share_text": "Sridevis 60-årsdag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "سری‌دِیوی (شری آما یانگر آیاپان)",
+        "hover_text": "شصتمین زادروز سری‌دِیوی",
+        "share_text": "شصتمین زادروز سری‌دِیوی! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "Sridevi – 60 rocznica urodzin",
+        "share_text": "Sridevi – 60 rocznica urodzin #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Sridevi ((Shree Amma Yanger Ayyappan)",
+        "hover_text": "60º Aniversário de Sridevi ",
+        "share_text": "60º Aniversário de Sridevi! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": "ਸ੍ਰੀਦੇਵੀ (ਸ੍ਰੀ ਅੰਮਾ ਯਾਂਗਰ ਅਯੱਪਨ)",
+        "hover_text": "ਸ੍ਰੀਦੇਵੀ ਦਾ 60ਵਾਂ ਜਨਮਦਿਨ",
+        "share_text": "ਸ੍ਰੀਦੇਵੀ ਦਾ 60ਵਾਂ ਜਨਮਦਿਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "60 de ani de la nașterea lui Sridevi",
+        "share_text": "60 de ani de la nașterea lui Sridevi! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Шридеви (Шри Амма Янгер Айяпан)",
+        "hover_text": "60 лет со дня рождения Шридеви",
+        "share_text": "60 лет со дня рождения Шридеви #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Шридеви (Шри Ама Јангер Ајпан)",
+        "hover_text": "60 година од рођења Шридеви",
+        "share_text": "60 година од рођења Шридеви! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ශ්‍රීදේවි (ශ්‍රී අම්මා යැංගර් අයියප්පන්)",
+        "hover_text": "ශ්‍රීදේවිගේ 60 වැනි උපන් දිනය",
+        "share_text": "ශ්‍රීදේවිගේ 60 වැනි උපන් දිනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappanová)",
+        "hover_text": "60. výročie narodenia Sridevi",
+        "share_text": "60. výročie narodenia Sridevi. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "60. rojstni dan Sridevi",
+        "share_text": "60. rojstni dan Sridevi! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "60.º aniversario del nacimiento de Sridevi",
+        "share_text": "Hoy es el 60.º aniversario del nacimiento de Sridevi #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "Maadhimisho ya Miaka 60 Tangu Kuzaliwa kwa Sridevi",
+        "share_text": "Maadhimisho ya Miaka 60 Tangu Kuzaliwa kwa Sridevi! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "Sridevi 60 år",
+        "share_text": "Sridevi 60 år #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஸ்ரீதேவி",
+        "hover_text": "ஸ்ரீதேவியின் 60வது பிறந்தநாள்",
+        "share_text": "ஸ்ரீதேவியின் 60வது பிறந்தநாள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "శ్రీదేవీ",
+        "hover_text": "శ్రీదేవీ 60వ జన్మదినం",
+        "share_text": "శ్రీదేవీ 60వ జన్మదినం! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "วันเกิดปีที่ 60 ของ Sridevi",
+        "share_text": "วันเกิดปีที่ 60 ของ Sridevi #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "Sridevi'nin 60. Doğum Günü",
+        "share_text": "Sridevi'nin 60. Doğum Günü #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Шрідеві (Шрі Амма Янгер Айяпан)",
+        "hover_text": "60 років від дня народження Шрідеві",
+        "share_text": "60 років від дня народження Шрідеві! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "سری دیوی (شری اما ینگر ایاپن)",
+        "hover_text": "سری دیوی کی 60 ویں سالگرہ",
+        "share_text": "سری دیوی کی 60 ویں سالگرہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "Sridevi tavalludining 60 yilligi",
+        "share_text": "Sridevi tavalludining 60 yilligi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+        "hover_text": "Kỷ niệm 60 năm ngày sinh của Sridevi",
+        "share_text": "Kỷ niệm 60 năm ngày sinh của Sridevi! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Sridevi (u-Shree Amma Yanger Ayyappan)",
+        "hover_text": "Usuku Lokuzalwa luka-Sridevi Lweminyaka engama-60",
+        "share_text": "Usuku Lokuzalwa luka-Sridevi Lweminyaka engama-60! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Sridevi (Shree Amma Yanger Ayyappan)",
+    "share_text": "Sridevi's 60th Birthday! #GoogleDoodle"
+  },
+  {
     "name": "2023-womens-world-cup-quarter-finals-aug-12",
     "title": "2023 Women's World Cup Quarter Finals (Aug 12)",
     "url": "//www.google.com/logos/doodles/2023/2023-womens-world-cup-quarter-finals-aug-12-6753651837110161-law.gif",
