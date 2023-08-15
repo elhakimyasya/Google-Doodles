@@ -1,5 +1,1502 @@
 [
   {
+    "name": "2023-womens-world-cup-semi-finals-aug-15-16",
+    "title": "2023 Women's World Cup Semi Finals (Aug 15-16)",
+    "url": "//www.google.com/logos/doodles/2023/2023-womens-world-cup-semi-finals-aug-15-16-6753651837110073-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/EfEHTMyCYxSfKpOQNCxHR_7VtPHD0UIHq_0ZnePkiyE1KSx7VTU01ofLFNWIudE_hDR52tUUjR59XtCfavapQqi8b6tsHwUSqAIzu1mXqkNzlTvBXRuA1A",
+    "high_res_url": "//www.google.com/logos/doodles/2023/2023-womens-world-cup-semi-finals-aug-15-16-6753651837110073-2xa.gif",
+    "high_res_width": 1076,
+    "high_res_height": 410,
+    "run_date_array": [
+      2023,
+      8,
+      15
+    ],
+    "translations": {
+      "en": {
+        "query": "Women's World Cup",
+        "hover_text": "2023 Women's World Cup Semi Finals (Aug 15-16)",
+        "share_text": "Let the Semi Finals begin! #GoogleDoodle"
+      },
+      "af": {
+        "query": "2023 Vrouewêreldbeker Sokkertoernooi",
+        "hover_text": "Halfeindrondte van die 2023 Vrouewêreldbeker Sokkertoernooi",
+        "share_text": "Hier begin die halfeindrondte nou! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Kupa e Botës në Futboll për Femra, 2023",
+        "hover_text": "Gjysmëfinalet e Kupës së Botës për Femra, 2023",
+        "share_text": "Le të fillojnë gjysmëfinalet!#GoogleDoodle"
+      },
+      "am": {
+        "query": "የእግር ኳስ የሴቶች የዓለም ዋንጫ 2023",
+        "hover_text": "የ2023 የሴቶች የዓለም ዋንጫ የግማሽ ፍጻሜ ጨዋታዎች",
+        "share_text": "የግማሽ ፍጻሜው ጨዋታ ይጀምር! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "كأس العالم لكرة القدم للسيدات لعام 2023",
+        "hover_text": "الدور النصف النهائي في كأس العالم للسيدات لعام 2023",
+        "share_text": "ليبدأ الدور النصف النهائي! #GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ֆուտբոլի կանանց աշխարհի առաջնություն 2023",
+        "hover_text": "2023 Կանանց աշխարհի առաջնության կիսաեզրափակիչ",
+        "share_text": "Թող կիսաեզրափակիչն սկսվի՛ #GoogleDoodle"
+      },
+      "az": {
+        "query": "2023 Qadınlar üzrə Dünya Futbol Çempionatı",
+        "hover_text": "2023 Qadınlar üzrə Dünya Çempionatının Yarım Finalı",
+        "share_text": "Yarım Final Oyunları başlasın! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "মহিলা ফুটবল বিশ্বকাপ ২০২৩",
+        "hover_text": "মহিলা বিশ্বকাপ ২০২৩ - সেমি ফাইনাল",
+        "share_text": "এবার সেমি ফাইনাল শুরু!#GoogleDoodle"
+      },
+      "eu": {
+        "query": "2023ko Emakumeen Munduko Futbol Txapelketa",
+        "hover_text": "2023ko Emakumeen Munduko Txapelketako finalerdiak",
+        "share_text": "Has daitezela finalerdiak! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Чэмпіянат свету па футболе сярод жанчын 2023",
+        "hover_text": "Чэмпіянат свету па футболе сярод жанчын 2023 — паўфіналы",
+        "share_text": "Паўфіналы пачынаюцца! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Svjetsko prvenstvo u fudbalu za žene 2023.",
+        "hover_text": "Polufinale Svjetskog prvenstva u fudbalu za žene 2023.",
+        "share_text": "Neka polufinale počne!#Google Doodle"
+      },
+      "en-GB": {
+        "query": "Football Women's World Cup 2023",
+        "hover_text": "2023 Women's World Cup Semi Finals",
+        "share_text": "Let the Semi Finals begin! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Световно първенство по футбол за жени 2023 г.",
+        "hover_text": "Световно първенство за жени 2023 г. – полуфинали",
+        "share_text": "Нека полуфиналите започнат! #GoogleDoodle"
+      },
+      "my": {
+        "query": "၂၀၂၃ အမျိုးသမီးကမ္ဘာ့ဖလား ဘောလုံးပွဲ",
+        "hover_text": "၂၀၂၃ အမျိုးသမီးကမ္ဘာ့ဖလား ဆီမီးဖိုင်နယ်",
+        "share_text": "ဆီမီးဖိုင်နယ် စလိုက်ရအောင်။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Copa del Món Femenina de futbol 2023",
+        "hover_text": "Semifinals de la Copa del Món Femenina 2023",
+        "share_text": "Que comencin les semifinals! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "2023 年女子世界杯足球賽",
+        "hover_text": "2023 年女子世界杯四強賽",
+        "share_text": "四強賽即將開始！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "2023 年女子世界杯足球賽",
+        "hover_text": "2023 年女子世界杯四強賽",
+        "share_text": "四強賽即將開始！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "2023 女子世界杯足球赛",
+        "hover_text": "2023 女子世界杯四强赛",
+        "share_text": "四强赛即将打响！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Svjetsko prvenstvo u nogometu za žene 2023.",
+        "hover_text": "Polufinale Svjetskog prvenstva u nogometu za žene 2023.",
+        "share_text": "Neka polufinale započne!#Google Doodle"
+      },
+      "cs": {
+        "query": "Mistrovství světa ve fotbale žen 2023",
+        "hover_text": "Mistrovství světa ve fotbale žen – semifinále",
+        "share_text": "Jde se do semifinále! #GoogleDoodle"
+      },
+      "da": {
+        "query": "VM i fodbold for kvinder 2023",
+        "hover_text": "Semifinaler ved VM i kvindefodbold 2023",
+        "share_text": "Lad semifinalerne begynde!#GoogleDoodle"
+      },
+      "nl": {
+        "query": "WK voetbal vrouwen 2023",
+        "hover_text": "Halve finales WK voetbal vrouwen 2023",
+        "share_text": "Laat de halve finales beginnen! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Naiste jalgpalli maailmameistrivõistlused 2023",
+        "hover_text": "2023. a naiste jalgpalli MMi poolfinaalid",
+        "share_text": "Poolfinaalid võivad alata! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Jalkapallon naisten MM-kisat 2023",
+        "hover_text": "Jalkapallon naisten MM-kisat 2023, välierät",
+        "share_text": "Välierät käyntiin!#GoogleDoodle"
+      },
+      "fr": {
+        "query": "Coupe du monde féminine de football 2023",
+        "hover_text": "Demi-finales de la Coupe du monde féminine 2023",
+        "share_text": "C'est le début des demi-finales ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Coupe du monde féminine de soccer 2023",
+        "hover_text": "Demi-finales de la Coupe du monde féminine 2023",
+        "share_text": "Que les demi-finales commencent! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Copa Mundial Feminina de fútbol 2023",
+        "hover_text": "Semifinais da Copa Mundial Feminina 2023",
+        "share_text": "Que comecen as semifinais! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ფეხბურთის ქალთა მსოფლიო ჩემპიონატი 2023",
+        "hover_text": "ქალთა მსოფლიო ჩემპიონატი 2023 — ნახევარფინალი",
+        "share_text": "ნახევარფინალი დაიწყო! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Fußball-Weltmeisterschaft der Frauen 2023",
+        "hover_text": "Fußball-Weltmeisterschaft der Frauen 2023 – Halbfinale",
+        "share_text": "Auf in die Halbfinal-Runde! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Παγκόσμιο Κύπελλο Ποδοσφαίρου Γυναικών 2023",
+        "hover_text": "Ημιτελικοί Παγκοσμίου Κυπέλλου Γυναικών 2023",
+        "share_text": "Ας αρχίσουν οι ημιτελικοί! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "મહિલા ફૂટબૉલ વિશ્વ કપ 2023",
+        "hover_text": "મહિલા વિશ્વ કપ 2023 - સેમી ફાઇનલ",
+        "share_text": "ચાલો, સેમી ફાઇનલ શરૂ કરીએ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "גביע העולם בכדורגל נשים 2023",
+        "hover_text": "גביע העולם בכדורגל נשים 2023: חצי הגמר",
+        "share_text": "חצי הגמר מתחיל!\r#GoogleDoodle"
+      },
+      "hi": {
+        "query": "महिला फ़ुटबॉल विश्व कप 2023",
+        "hover_text": "महिला विश्व कप 2023 सेमी फ़ाइनल",
+        "share_text": "सेमी फ़ाइनल शुरू करते हैं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A 2023-as női labdarúgó-világbajnokság",
+        "hover_text": "A 2023-as női labdarúgó-világbajnokság elődöntői",
+        "share_text": "Kezdődjenek az elődöntők!#GoogleDoodle\""
+      },
+      "is": {
+        "query": "HM kvenna 2023",
+        "hover_text": "Undanúrslit heimsmeistaramóts kvenna 2023 (15.–16. ágúst)",
+        "share_text": "Hefjum leik! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Piala Dunia Sepak Bola Wanita 2023",
+        "hover_text": "Semifinal Piala Dunia Wanita 2023",
+        "share_text": "Mulai Semifinal!#GoogleDoodle"
+      },
+      "ga": {
+        "query": "Corn Domhanda na mBan",
+        "hover_text": "Cluiche Leathcheannais Chorn Domhanda na mBan 2023",
+        "share_text": "Lig do na Cluichí Leathcheannais tosú! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Coppa del Mondo di calcio femminile 2023",
+        "hover_text": "Semifinali della Coppa del Mondo femminile 2023",
+        "share_text": "Che le semifinali abbiano inizio! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "2023 女子サッカーワールドカップ ",
+        "hover_text": "2023 FIFA女子ワールドカップ - 準決勝",
+        "share_text": "準決勝戦を応援しよう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಮಹಿಳಾ ಫುಟ್‍ಬಾಲ್ ವಿಶ್ವಕಪ್ 2023",
+        "hover_text": "ಮಹಿಳಾ ವಿಶ್ವಕಪ್ 2023 ಸೆಮಿ ಫೈನಲ್",
+        "share_text": "ಸೆಮಿ ಫೈನಲ್ ಪ್ರಾರಂಭಿಸೋಣ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "2023 ж. футболдан әйелдер арасындағы әлем чемпионаты",
+        "hover_text": "2023 ж. әйелдер арасындағы әлем чемпионаты – жартылай финал",
+        "share_text": "Жартылай финал қызықты өтсін! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការប្រកួតបាល់ទាត់ស្ត្រីពាន​រង្វាន់​ពិភពលោកឆ្នាំ 2023",
+        "hover_text": "ការប្រកួតបាល់ទាត់ស្ត្រីពិភពលោកឆ្នាំ 2023 វគ្គ​ពាក់​កណ្ដាល​ផ្ដាច់​ព្រ័ត្រ",
+        "share_text": "វគ្គពាក់កណ្ដាលផ្ដាច់ព្រ័ត្រចាប់ផ្ដើមហើយ! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "축구 여자 월드컵 2023",
+        "hover_text": "2023 여자 월드컵 준결승전",
+        "share_text": "여자 월드컵 준결승전 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Аялдардын дүйнөлүк ФЧ 2023",
+        "hover_text": "Аялдардын дүйнөлүк ФЧ 2023 – жарым финал",
+        "share_text": "Жарым финал башталды! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ບານເຕະໂລກແມ່ຍິງ 2023",
+        "hover_text": "ຮອບຮອງຊະນະເລີດຂອງເວີຄັບແມ່ຍິງ 2023",
+        "share_text": "ເລີ່ມຮອບຮອງຊະນະເລີດກັນເລີຍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Copa Mundial de Fútbol Femenil 2023",
+        "hover_text": "Semifinales de la Copa Mundial Femenil 2023",
+        "share_text": "¡Que comiencen las Semifinales! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Pasaules kauss futbolā sievietēm 2023",
+        "hover_text": "2023. gada Pasaules kausa izcīņa sievietēm pusfināli",
+        "share_text": "Sāksim pusfinālu! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "2023 m. pasaulio moterų futbolo čempionatas",
+        "hover_text": "2023 m. moterų pasaulio taurės pusfinalis",
+        "share_text": "Tegu pusfinalis prasideda! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Светско фудбалско првенство за жени 2023 г.",
+        "hover_text": "Светско првенство за жени 2023 г. – Полуфинале",
+        "share_text": "Полуфиналето може да започне! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Piala Dunia Bola Sepak Wanita 2023",
+        "hover_text": "Pusingan Separuh AkhirPiala Dunia Wanita 2023",
+        "share_text": "Mulakan Pusingan Separuh Akhir!#GoogleDoodle"
+      },
+      "ml": {
+        "query": "2023 വനിതാ ഫുട്‌ബോൾ ലോകകപ്പ്",
+        "hover_text": "2023 വനിതാ ലോകകപ്പ് സെമി ഫൈനലുകൾ",
+        "share_text": "സെമി ഫൈനലുകൾ തുടങ്ങട്ടെ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "महिला फुटबॉल विश्वचषक २०२३",
+        "hover_text": "महिला विश्वचषक २०२३ उपांत्य फेरी",
+        "share_text": "उपांत्य फेरी सुरू करू या! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "2023 оны Эмэгтэйчүүдийн хөлбөмбөгийн дэлхийн аварга шалгаруулах тэмцээн",
+        "hover_text": "2023 оны Эмэгтэйчүүдийн хөлбөмбөгийн дэлхийн аварга шалгаруулах тэмцээний хагас финалын тоглолтууд",
+        "share_text": "Хагас финалын тоглолтыг эхлүүлцгээе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "फुटबलको महिला विश्व कप, २०२३",
+        "hover_text": "महिला विश्व कप, २०२३- सेमी फाइनल",
+        "share_text": "सेमी फाइनल सुरु हुन दिनुहोस्! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Fotball-VM for kvinner 2023",
+        "hover_text": "Fotball-VM for kvinner 2023",
+        "share_text": "På tide med semifinaler! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "جام جهانی فوتبال زنان ۲۰۲۳",
+        "hover_text": "مسابقات نیمه‌نهایی جام جهانی فوتبال زنان ۲۰۲۳",
+        "share_text": "مسابقات نیمه‌نهایی را شروع کنیم! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Mistrzostwa Świata w Piłce Nożnej Kobiet 2023",
+        "hover_text": "Półfinały Mistrzostw Świata Kobiet 2023",
+        "share_text": "Rozpoczynamy półfinały! #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Copa do Mundo de Futebol Feminino 2023",
+        "hover_text": "Semifinais da Copa do Mundo Feminina 2023",
+        "share_text": "Que comecem as semifinais! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Mundial de Futebol Feminino de 2023",
+        "hover_text": "Meias-finais do Mundial Feminino de 2023",
+        "share_text": "Que comecem as meias-finais! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਮਹਿਲਾ ਫੁੱਟਬਾਲ ਵਿਸ਼ਵ ਕੱਪ 2023",
+        "hover_text": "ਮਹਿਲਾ ਵਿਸ਼ਵ ਕੱਪ 2023 ਸੈਮੀ ਫ਼ਾਈਨਲ",
+        "share_text": "ਸੈਮੀ ਫ਼ਾਈਨਲ ਦਾ ਆਗਾਜ਼ ਕਰਦੇ ਹਾਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Campionatul Mondial de Fotbal Feminin 2023",
+        "hover_text": "Campionatul Mondial de Fotbal Feminin 2023 – Semifinale",
+        "share_text": "Încep semifinalele! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "ЧМ по футболу среди женщин 2023",
+        "hover_text": "ЧМ по футболу среди женщин 2023 – полуфинал",
+        "share_text": "Полуфинал начинается! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Светско првенство у фудбалу за жене 2023.",
+        "hover_text": "Полуфинале Светског првенства у фудбалу за жене 2023.",
+        "share_text": "Нека полуфинале почне!#GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "පාපන්දු කාන්තා ලෝක කුසලානය 2023",
+        "hover_text": "2023 කාන්තා ලෝක කුසලාන අවසන් පූර්ව වටය",
+        "share_text": "අවසන් පූර්ව වටය ආරම්භ කරමු! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Majstrovstvá sveta vo futbale žien 2023",
+        "hover_text": "Majstrovstvá sveta vo futbale žien 2023 - semifinále",
+        "share_text": "Ide sa do semifinále!#GoogleDoodle"
+      },
+      "sl": {
+        "query": "Svetovno prvenstvo v nogometu za ženske 2023",
+        "hover_text": "Polfinale svetovnega prvenstva v nogometu za ženske 2023",
+        "share_text": "Naj se polfinale začne!#GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Copa Mundial Femenina de Fútbol 2023",
+        "hover_text": "Semifinales de la Copa Mundial Femenina 2023",
+        "share_text": "¡Empiezan las semifinales! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Kombe la Dunia la Kandanda ya Wanawake 2023",
+        "hover_text": "Nusu Fainali za Kombe la Dunia la Wanawake 2023",
+        "share_text": "Acha Nusu Fainali ianze! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Fotbolls-VM för damer 2023",
+        "hover_text": "Semifinaler i fotbolls-VM för damer 2023",
+        "share_text": "Dags för semifinaler! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "பெண்கள் கால்பந்து உலகக் கோப்பை 2023",
+        "hover_text": "2023 பெண்கள் உலகக் கோப்பை அரையிறுதிப் போட்டிகள்",
+        "share_text": "அரையிறுதிப் போட்டிகள் ஆரம்பிக்கட்டும்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "మహిళల ఫుట్‌బాల్ ప్రపంచ కప్ 2023",
+        "hover_text": "2023 మహిళల ప్రపంచ కప్ సెమీ ఫైనల్స్",
+        "share_text": "సెమీ ఫైనల్స్ ప్రారంభం! #GoogleDoodle"
+      },
+      "th": {
+        "query": "ฟุตบอลโลกหญิงปี 2023",
+        "hover_text": "ฟุตบอลโลกหญิงปี 2023 รอบรองชนะเลิศ",
+        "share_text": "รอบรองชนะเลิศกำลังจะเริ่มขึ้นแล้ว! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Futbol Kadınlar Dünya Kupası 2023",
+        "hover_text": "2023 Kadınlar Dünya Kupası Yarı Final",
+        "share_text": "Yarı Final başlasın! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Чемпіонат світу з футболу серед жінок – 2023",
+        "hover_text": "Півфінали ЧС із футболу серед жінок у 2023 році",
+        "share_text": "Початок півфінальних матчів! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "خواتین کا فٹ بال ورلڈ کپ 2023\r",
+        "hover_text": "خواتین کا ورلڈ کپ 2023 سیمی فائنلز",
+        "share_text": "سیمی فائنلز شروع کرتے ہیں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Futbol – Ayollar JCH 2023",
+        "hover_text": "Ayollar JCH 2023 yarim finallari",
+        "share_text": "Yarim finallarni boshlaymiz! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Giải vô địch bóng đá nữ thế giới 2023",
+        "hover_text": "Bán kết World Cup nữ 2023",
+        "share_text": "Lượt bán tứ kết bắt đầu! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Indebe Yomhlaba Yabesimame Yebhola Likanobhutshuzwayo yowezi-2023",
+        "hover_text": "Indebe Yomhlaba Yabesimame yowezi-2023 - Umdlalo Owandulela Owamanqamu",
+        "share_text": "Mayiqale Eyandulale Owamanqamu! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Women's World Cup",
+    "share_text": "Let the Semi Finals begin! #GoogleDoodle"
+  },
+  {
+    "name": "india-independence-day-2023",
+    "title": "India Independence Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/india-independence-day-2023-6753651837110072-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/FmTW4uFhi-yz5XQHDKQaGLDu541P6d6cutABImMHRlw4P9asqrmvPM5SiuXn2A5DEA65k5v0fxoiuPIWWhlfcjeWI6kfeE3-OCaZCmChP2TW5lp4sulbVnw",
+    "high_res_url": "//www.google.com/logos/doodles/2023/india-independence-day-2023-6753651837110072-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2023,
+      8,
+      15
+    ],
+    "translations": {
+      "en": {
+        "query": "India Independence Day",
+        "hover_text": "India Independence Day 2023",
+        "share_text": "Happy Independence Day, India! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": "Indië se onafhanklikheidsdag 2023",
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": "Dita e Pavarësisë së Indisë, 2023",
+        "share_text": ""
+      },
+      "am": {
+        "query": null,
+        "hover_text": "የሕንድ የነፃነት ቀን 2023",
+        "share_text": ""
+      },
+      "ar": {
+        "query": null,
+        "hover_text": "عيد استقلال الهند 2023",
+        "share_text": ""
+      },
+      "hy": {
+        "query": null,
+        "hover_text": "Հնդկաստանի անկախության օր 2023",
+        "share_text": ""
+      },
+      "az": {
+        "query": null,
+        "hover_text": "2023 Hindistanın Müstəqillik Günü",
+        "share_text": ""
+      },
+      "bn": {
+        "query": "ভারতের স্বাধীনতা দিবস",
+        "hover_text": "ভারতের স্বাধীনতা দিবস ২০২৩",
+        "share_text": "ভারতের স্বাধীনতা দিবসের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": null,
+        "hover_text": "2023ko Indiako Independentzia Eguna",
+        "share_text": ""
+      },
+      "be": {
+        "query": null,
+        "hover_text": "Дзень незалежнасці Індыі 2023",
+        "share_text": ""
+      },
+      "bs": {
+        "query": null,
+        "hover_text": "Dan nezavisnosti Indije 2023.",
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bg": {
+        "query": null,
+        "hover_text": "Ден на независимостта на Индия 2023 г.",
+        "share_text": ""
+      },
+      "my": {
+        "query": null,
+        "hover_text": "၂၀၂၃ အိန္ဒိယနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": ""
+      },
+      "ca": {
+        "query": null,
+        "hover_text": "Dia de la Independència de l'Índia 2023",
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": "Dan neovisnosti Indije 2023.",
+        "share_text": ""
+      },
+      "cs": {
+        "query": null,
+        "hover_text": "Den nezávislosti Indie 2023",
+        "share_text": ""
+      },
+      "da": {
+        "query": null,
+        "hover_text": "Indiens uafhængighedsdag 2023",
+        "share_text": ""
+      },
+      "nl": {
+        "query": null,
+        "hover_text": "Onafhankelijkheidsdag India 2023",
+        "share_text": ""
+      },
+      "et": {
+        "query": null,
+        "hover_text": "India 2023. aasta iseseisvuspäev",
+        "share_text": ""
+      },
+      "fi": {
+        "query": null,
+        "hover_text": "Intian itsenäisyyspäivä 2023",
+        "share_text": ""
+      },
+      "fr": {
+        "query": null,
+        "hover_text": "Fête de l'Indépendance de l'Inde 2023",
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": "Día da Independencia da India 2023",
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": "ინდოეთის დამოუკიდებლობის დღე — 2023",
+        "share_text": ""
+      },
+      "de": {
+        "query": null,
+        "hover_text": "Unabhängigkeitstag Indien 2023",
+        "share_text": ""
+      },
+      "el": {
+        "query": null,
+        "hover_text": "Ημέρα Ανεξαρτησίας της Ινδίας 2023",
+        "share_text": ""
+      },
+      "gu": {
+        "query": null,
+        "hover_text": "ભારતનો સ્વતંત્રતા દિવસ 2023",
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": "יום העצמאות של הודו 2023",
+        "share_text": ""
+      },
+      "hi": {
+        "query": null,
+        "hover_text": "भारत का स्वतंत्रता दिवस 2023",
+        "share_text": ""
+      },
+      "hu": {
+        "query": null,
+        "hover_text": "India függetlenségének napja, 2023",
+        "share_text": ""
+      },
+      "is": {
+        "query": null,
+        "hover_text": "Sjálfstæðisdagur Indlands 2023",
+        "share_text": ""
+      },
+      "id": {
+        "query": null,
+        "hover_text": "Hari Kemerdekaan India 2023",
+        "share_text": ""
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": "Festa dell'indipendenza dell'India 2023",
+        "share_text": ""
+      },
+      "ja": {
+        "query": null,
+        "hover_text": "2023 年インド独立記念日",
+        "share_text": ""
+      },
+      "kn": {
+        "query": null,
+        "hover_text": "ಭಾರತದ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2023",
+        "share_text": ""
+      },
+      "kk": {
+        "query": null,
+        "hover_text": "Үндістанның Тәуелсіздік күні – 2023",
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": "ទិវា​បុណ្យឯករាជ្យជាតិឥណ្ឌាឆ្នាំ 2023",
+        "share_text": ""
+      },
+      "ko": {
+        "query": null,
+        "hover_text": "2023년 인도 독립기념일",
+        "share_text": ""
+      },
+      "ky": {
+        "query": null,
+        "hover_text": "Индиянын эгемендүүлүк күнү — 2023",
+        "share_text": ""
+      },
+      "lo": {
+        "query": null,
+        "hover_text": "ວັນປະກາດເອກະລາດອິນເດຍ 2023",
+        "share_text": ""
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lv": {
+        "query": null,
+        "hover_text": "Indijas Neatkarības diena — 2023",
+        "share_text": ""
+      },
+      "lt": {
+        "query": null,
+        "hover_text": "Indijos nepriklausomybės diena, 2023 m.",
+        "share_text": ""
+      },
+      "mk": {
+        "query": null,
+        "hover_text": "Ден на независноста на Индија, 2023 г.",
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": "Hari Kemerdekaan India 2023",
+        "share_text": ""
+      },
+      "ml": {
+        "query": "ഇന്ത്യയുടെ സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "ഇന്ത്യൻ സ്വാതന്ത്ര്യദിനം 2023",
+        "share_text": "സ്വാതന്ത്ര്യദിനാശംസകൾ, ഇന്ത്യ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": "भारताचा स्वातंत्र्यदिन २०२३",
+        "share_text": ""
+      },
+      "mn": {
+        "query": null,
+        "hover_text": "2023 оны Энэтхэг Улсын Тусгаар тогтнолын өдөр",
+        "share_text": ""
+      },
+      "ne": {
+        "query": "भारतीय स्वतन्त्रता दिवस ",
+        "hover_text": "भारतीय स्वतन्त्रता दिवस २०२३",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, भारत! #GoogleDoodle"
+      },
+      "no": {
+        "query": null,
+        "hover_text": "Indias frigjøringsdag 2023",
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": "روز استقلال هند - ۲۰۲۳",
+        "share_text": ""
+      },
+      "pl": {
+        "query": null,
+        "hover_text": "Dzień Niepodległości Indii 2023",
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": null,
+        "hover_text": "ਭਾਰਤ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2023",
+        "share_text": ""
+      },
+      "ro": {
+        "query": null,
+        "hover_text": "Ziua Independenței Indiei – 2023",
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": "День независимости Индии – 2023",
+        "share_text": ""
+      },
+      "sr": {
+        "query": null,
+        "hover_text": "Дан независности Индије 2023.",
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": "ඉන්දියාවේ නිදහස් දිනය 2023",
+        "share_text": ""
+      },
+      "sk": {
+        "query": null,
+        "hover_text": "Deň nezávislosti Indie 2023",
+        "share_text": ""
+      },
+      "sl": {
+        "query": null,
+        "hover_text": "Dan neodvisnosti Indije 2023",
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": "Día de la Independencia de la India 2023",
+        "share_text": ""
+      },
+      "sw": {
+        "query": null,
+        "hover_text": "Sikukuu ya Uhuru wa India 2023",
+        "share_text": ""
+      },
+      "sv": {
+        "query": null,
+        "hover_text": "Indiens självständighetsdag 2023",
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "இந்திய சுதந்திர தினம்",
+        "hover_text": "இந்திய சுதந்திர தினம் 2023",
+        "share_text": "இந்தியாவுக்கு சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "భారత స్వాత్రంత్ర దినోత్సవం",
+        "hover_text": "భారత స్వాత్రంత్ర దినోత్సవం 2023",
+        "share_text": "భారత స్వాత్రంత్ర దినోత్సవం 2023! #GoogleDoodle"
+      },
+      "th": {
+        "query": null,
+        "hover_text": "วันประกาศอิสรภาพของอินเดียปี 2023",
+        "share_text": ""
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": "Hindistan Bağımsızlık Günü 2023",
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": "День незалежності Індії у 2023 році",
+        "share_text": ""
+      },
+      "ur": {
+        "query": null,
+        "hover_text": "ہندوستان کا یوم آزادی 2023",
+        "share_text": ""
+      },
+      "uz": {
+        "query": null,
+        "hover_text": "Hindiston Mustaqillik kuni 2023",
+        "share_text": ""
+      },
+      "vi": {
+        "query": null,
+        "hover_text": "Ngày Quốc khánh Ấn Độ năm 2023",
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": "Usuku Lokuzimela lwase-India luka-2023",
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "India Independence Day",
+    "share_text": "Happy Independence Day, India! #GoogleDoodle"
+  },
+  {
+    "name": "national-liberation-day-of-korea-2023",
+    "title": "National Liberation Day of Korea 2023",
+    "url": "//www.google.com/logos/doodles/2023/national-liberation-day-of-korea-2023-6753651837109923-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/YR7CPqGM6MVWU_Lrl1RsVbc8frz8gXZ34HlXHc8z2HhEEAOlA1S7ep7nH9g0MHyr-O_l4SWncWu_TnWcBTEVJPbgWLOypkm4FbZuHR9pM5Fzw0fS9wJOlRs",
+    "high_res_url": "//www.google.com/logos/doodles/2023/national-liberation-day-of-korea-2023-6753651837109923-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      8,
+      15
+    ],
+    "translations": {
+      "en": {
+        "query": "National Liberation Day of Korea",
+        "hover_text": "National Liberation Day of Korea 2023",
+        "share_text": "Happy National Liberation Day, South Korea! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": "Korea se nasionale bevrydingsdag 2023",
+        "share_text": "Gelukkige nasionale bevrydingsdag, Suid-Korea! #GoogleDoodle"
+      },
+      "sq": {
+        "query": null,
+        "hover_text": "Dita Kombëtare e Çlirimit të Koresë, 2023",
+        "share_text": "Gëzuar Ditën Kombëtare të Çlirimit, Kore e Jugut! #GoogleDoodle"
+      },
+      "am": {
+        "query": null,
+        "hover_text": "ብሔራዊ የኮሪያ የነፃነት ቀን 2023",
+        "share_text": "መልካም ብሔራዊ የነፃነት ቀን፣ ደቡብ ኮሪያ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": null,
+        "hover_text": "العيد الوطني لتحرير كوريا 2023",
+        "share_text": "نتمنّى يوم تحرير وطنيًا سعيدًا لكوريا الجنوبية. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": null,
+        "hover_text": "Կորեայի ազատագրման օր 2023",
+        "share_text": "Շնորհավոր Հարավային Կորեայի ազատագրման օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": null,
+        "hover_text": "2023 Koreyanın Milli Qurtuluş Günü",
+        "share_text": "Milli Qurtuluş Günün mübarək, Cənubi Koreya! #GoogleDoodle"
+      },
+      "bn": {
+        "query": null,
+        "hover_text": "কোরিয়ার জাতীয় মুক্তি দিবস ২০২৩",
+        "share_text": "জাতীয় মুক্তি দিবসের শুভেচ্ছা, দক্ষিণ কোরিয়া! #GoogleDoodle"
+      },
+      "eu": {
+        "query": null,
+        "hover_text": "2023ko Koreako Askapen Egun Nazionala",
+        "share_text": "Askapen Egun Nazional zoriontsua izan, Hego Korea! #GoogleDoodle"
+      },
+      "be": {
+        "query": null,
+        "hover_text": "Нацыянальны дзень вызвалення Карэі 2023",
+        "share_text": "З Нацыянальным днём вызвалення, Паўднёвая Карэя! #GoogleDoodle"
+      },
+      "bs": {
+        "query": null,
+        "hover_text": "Dan oslobođenja Koreje 2023.",
+        "share_text": "Sretan Dan oslobođenja, Južna Korejo! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bg": {
+        "query": null,
+        "hover_text": "Ден на освобождението на Корея 2023 г.",
+        "share_text": "Честит Ден на освобождението на Южна Корея! #GoogleDoodle"
+      },
+      "my": {
+        "query": null,
+        "hover_text": "၂၀၂၃ ကိုးရီးယား အမျိုးသားလွတ်မြောက်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် အမျိုးသားလွတ်မြောက်ရေးနေ့ ဖြစ်ပါစေ တောင်ကိုရီးယား။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": null,
+        "hover_text": "Dia Nacional de l'Alliberament de Corea 2023",
+        "share_text": "Feliç Dia Nacional de l'Alliberament, Corea del Sud! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": "Dan nacionalnog oslobođenja Koreje 2023.",
+        "share_text": "Sretan Dan nacionalnog oslobođenja, Južna Korejo! #GoogleDoodle"
+      },
+      "cs": {
+        "query": null,
+        "hover_text": "Národní den osvobození Koreje 2023",
+        "share_text": "Vše nejlepší k Národnímu dni osvobození, Jižní Koreo! #GoogleDoodle"
+      },
+      "da": {
+        "query": null,
+        "hover_text": "Koreas nationale befrielsesdag 2023",
+        "share_text": "Vi fejrer Sydkoreas nationale befrielsesdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": null,
+        "hover_text": "Nationale bevrijdingsdag van Korea 2023",
+        "share_text": "Fijne Nationale bevrijdingsdag, Zuid-Korea! #GoogleDoodle"
+      },
+      "et": {
+        "query": null,
+        "hover_text": "Korea 2023. aasta riiklik vabastamispäev",
+        "share_text": "Head riiklikku vabastamispäeva, Lõuna-Korea! #GoogleDoodle"
+      },
+      "fi": {
+        "query": null,
+        "hover_text": "Korean vapautuksen päivä 2023",
+        "share_text": "Hyvää vapautuksen päivää, Etelä-Korea! #GoogleDoodle"
+      },
+      "fr": {
+        "query": null,
+        "hover_text": "Journée nationale de la libération de la Corée 2023",
+        "share_text": "Journée nationale de la libération de la Corée du Sud ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": "Día da Liberación Nacional de Corea 2023",
+        "share_text": "Feliz Día da Liberación Nacional, Corea do Sur! #GoogleDoodle"
+      },
+      "ka": {
+        "query": null,
+        "hover_text": "კორეის ეროვნული გათავისუფლების დღე — 2023",
+        "share_text": "კორეას ვულოცავთ ეროვნული გათავისუფლების დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": null,
+        "hover_text": "Nationaler Tag der Befreiung Koreas 2023",
+        "share_text": "Alles Gute zum nationalen Tag der Befreiung in Südkorea! #GoogleDoodle"
+      },
+      "el": {
+        "query": null,
+        "hover_text": "Εθνική Ημέρα Απελευθέρωσης της Κορέας 2023",
+        "share_text": "Η Νότια Κορέα γιορτάζει την Εθνική Ημέρα Απελευθέρωσης! #GoogleDoodle"
+      },
+      "gu": {
+        "query": null,
+        "hover_text": "કોરિયાનો રાષ્ટ્રીય મુક્તિ દિવસ 2023",
+        "share_text": "રાષ્ટ્રીય મુક્તિ દિવસની શુભકામના, દક્ષિણ કોરિયા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": "יום השחרור הלאומי של קוריאה 2023",
+        "share_text": "חוגגים את יום השחרור הלאומי של קוריאה הדרומית GoogleDoodle#"
+      },
+      "hi": {
+        "query": null,
+        "hover_text": "कोरिया का स्वतंत्रता दिवस 2023",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, दक्षिण कोरिया! #GoogleDoodle"
+      },
+      "hu": {
+        "query": null,
+        "hover_text": "Korea nemzeti felszabadulásának napja, 2023",
+        "share_text": "Minden jót a nemzeti felszabadulás napján, Dél-Korea! #GoogleDoodle"
+      },
+      "is": {
+        "query": null,
+        "hover_text": "Þjóðfrelsisdagur Suður-Kóreu 2023",
+        "share_text": "Gleðilegan þjóðfrelsisdag, Suður-Kórea! #GoogleDoodle"
+      },
+      "id": {
+        "query": null,
+        "hover_text": "Hari Pembebasan Nasional Korea 2023",
+        "share_text": "Selamat Hari Pembebasan Nasional, Korea Selatan! #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": "Festa nazionale della liberazione della Corea 2023",
+        "share_text": "Buona festa nazionale della liberazione, Corea del Sud! #GoogleDoodle"
+      },
+      "ja": {
+        "query": null,
+        "hover_text": "2023 年韓国独立記念日",
+        "share_text": "韓国独立記念日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": null,
+        "hover_text": "ಕೊರಿಯಾ ರಾಷ್ಟ್ರೀಯ ವಿಮೋಚನಾ ದಿನಾಚರಣೆ 2023",
+        "share_text": "ರಾಷ್ಟ್ರೀಯ ವಿಮೋಚನಾ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ದಕ್ಷಿಣ ಕೊರಿಯಾ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": null,
+        "hover_text": "Кореяның Ұлттық Бостандық күні – 2023",
+        "share_text": "Ұлттық Бостандық күні құтты болсын, Оңтүстік Корея! #GoogleDoodle"
+      },
+      "km": {
+        "query": null,
+        "hover_text": "ទិវា​រំដោះជាតិ​កូរ៉េឆ្នាំ 2023",
+        "share_text": "អបអរទិវា​រំដោះជាតិ​កូរ៉េខាងត្បូង! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "광복절",
+        "hover_text": "2023년 광복절",
+        "share_text": "제78주년 광복절을 기념합니다 #GoogleDoodle"
+      },
+      "ky": {
+        "query": null,
+        "hover_text": "Кореянын Улуттук боштондук күнү – 2023",
+        "share_text": "Улуттук боштондук күнүң менен, Түштүк Корея! #GoogleDoodle"
+      },
+      "lo": {
+        "query": null,
+        "hover_text": "ວັນປະກາດອິດສະຫຼະພາບຂອງເກົາຫຼີໃຕ້ 2023",
+        "share_text": "ສຸກສັນວັນປະກາດອິດສະຫຼະພາບຂອງເກົາຫຼີໃຕ້! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lv": {
+        "query": null,
+        "hover_text": "Korejas Nacionālā atbrīvošanas diena — 2023",
+        "share_text": "Sveicam Nacionālajā atbrīvošanas dienā, Dienvidkoreja! #GoogleDoodle"
+      },
+      "lt": {
+        "query": null,
+        "hover_text": "Nacionalinė Korėjos išlaisvinimo diena, 2023 m.",
+        "share_text": "Sveikiname Pietų Korėją su nacionaline išlaisvinimo diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": null,
+        "hover_text": "Ден на ослободувањето на Кореја, 2023 г.",
+        "share_text": "Среќен Ден на ослободувањето, Јужна Кореја! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": "Hari Pembebasan Kebangsaan Korea 2023",
+        "share_text": "Selamat Hari Pembebasan Kebangsaan, Korea Selatan! #GoogleDoodle"
+      },
+      "ml": {
+        "query": null,
+        "hover_text": "കൊറിയൻ ദേശീയ വിമോചന ദിനം 2023",
+        "share_text": "ദേശീയ വിമോചന ദിനാശംസകൾ, ദക്ഷിണ കൊറിയ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": "कोरियाचा राष्ट्रीय मुक्तीदिन २०२३",
+        "share_text": "दक्षिण कोरियाला राष्ट्रीय मुक्तीदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": null,
+        "hover_text": "2023 оны Солонгос Улсын Үндэсний Эрх Чөлөөний өдөр",
+        "share_text": "Өмнөд Солонгос Улсын ард иргэдэд Үндэсний Эрх Чөлөөний өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": null,
+        "hover_text": "कोरियाको राष्ट्रिय मुक्ति दिवस २०२३",
+        "share_text": "दक्षिण कोरियाको राष्ट्रिय मुक्ति दिवसको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": null,
+        "hover_text": "Koreas nasjonale frigjøringsdag 2023",
+        "share_text": "Gratulerer med den nasjonale frigjøringsdagen, Sør-Korea! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": "روز ملی آزادی کره - ۲۰۲۳",
+        "share_text": "کره جنوبی، روز ملی آزادی کره مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": null,
+        "hover_text": "Dzień Wyzwolenia Narodowego Korei 2023",
+        "share_text": "Korea Południowa obchodzi Dzień Wyzwolenia Narodowego #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": null,
+        "hover_text": "ਕੋਰੀਆ ਦਾ ਰਾਸ਼ਟਰੀ ਅਜ਼ਾਦੀ ਦਿਵਸ 2023",
+        "share_text": "ਰਾਸ਼ਟਰੀ ਅਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਦੱਖਣੀ ਕੋਰੀਆ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": null,
+        "hover_text": "Ziua Națională a Eliberării Coreei – 2023",
+        "share_text": "La mulți ani de Ziua Națională a Eliberării, Coreea de Sud! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": "День освобождения Кореи – 2023",
+        "share_text": "День освобождения Кореи – 2023 #GoogleDoodle"
+      },
+      "sr": {
+        "query": null,
+        "hover_text": "Национални дан ослобођења Кореје 2023.",
+        "share_text": "Честитамо Национални дан ослобођења Јужној Кореји! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": "කොරියාවේ ජාතික විමුක්ති දිනය 2023",
+        "share_text": "ප්‍රීතිමත් ජාතික විමුක්ති දිනයක් වේවා, දකුණු කොරියාව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": null,
+        "hover_text": "Deň oslobodenia Kórey 2023",
+        "share_text": "Šťastný Deň oslobodenia, Južná Kórea! #GoogleDoodle"
+      },
+      "sl": {
+        "query": null,
+        "hover_text": "Nacionalni dan osvoboditve Koreje 2023",
+        "share_text": "Vesel nacionalni dan osvoboditve, Južna Koreja! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": "Día de la Liberación Nacional de Corea 2023",
+        "share_text": "¡Feliz Día de la Liberación Nacional, Corea del Sur! #GoogleDoodle"
+      },
+      "sw": {
+        "query": null,
+        "hover_text": "Sikukuu ya Kitaifa ya Ukombozi wa Korea 2023",
+        "share_text": "Heri ya Sikukuu ya Kitaifa ya Ukombozi, Korea Kusini! #GoogleDoodle"
+      },
+      "sv": {
+        "query": null,
+        "hover_text": "Sydkoreas nationaldag 2023",
+        "share_text": "Vi firar Sydkoreas nationaldag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": "கொரியாவின் தேசிய சுதந்திர தினம் 2023",
+        "share_text": "தென் கொரியாவின் தேசிய சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": null,
+        "hover_text": "కొరియా నేషనల్ లిబరేషన్ డే 2023",
+        "share_text": "దక్షిణా కొరియా ప్రజలకు నేషనల్ లిబరేషన్ డే శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": null,
+        "hover_text": "วันแห่งการเคลื่อนไหวเพื่อเอกราชเกาหลีปี 2023",
+        "share_text": "สุขสันต์วันแห่งการเคลื่อนไหวเพื่อเอกราชเกาหลีใต้ #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": "Kore Ulusal Kurtuluş Günü 2023",
+        "share_text": "Güney Kore Ulusal Kurtuluş Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": "Національний день визволення Кореї у 2023 році",
+        "share_text": "З Національним днем визволення, Південна Кореє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": null,
+        "hover_text": "کوریا کا قومی یومِ آزادی 2023",
+        "share_text": "قومی آزادی کا دن مبارک ہو، جنوبی کوریا! GoogleDoodle#"
+      },
+      "uz": {
+        "query": null,
+        "hover_text": "Koreya milliy ozodlik kuni 2023",
+        "share_text": "Milliy ozodlik kuni muborak, Janubiy Koreya! #GoogleDoodle"
+      },
+      "vi": {
+        "query": null,
+        "hover_text": "Ngày Giải phóng bán đảo Triều Tiên năm 2023",
+        "share_text": "Chúc mừng Hàn Quốc nhân ngày Giải phóng bán đảo Triều Tiên! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": "Usuku Lwenkululeko Lukazwelonke lwase-Korea luka-2023",
+        "share_text": "Sinifisela Usuku Lwenkululeko Lukazwelonke Olumnandi, e-South Korea! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "National Liberation Day of Korea",
+    "share_text": "Happy National Liberation Day, South Korea! #GoogleDoodle"
+  },
+  {
     "name": "nuzhet-gokdogans-113rd-birthday",
     "title": "Nüzhet Gökdoğan's 113rd Birthday",
     "url": "//www.google.com/logos/doodles/2023/nuzhet-gokdogans-113rd-birthday-6753651837109920.5-l.png",
