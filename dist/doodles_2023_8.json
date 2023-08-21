@@ -1,5 +1,504 @@
 [
   {
+    "name": "celebrating-the-2023-womens-world-cup-champions-spain",
+    "title": "Celebrating the 2023 Women's World Cup Champions: Spain",
+    "url": "//www.google.com/logos/doodles/2023/celebrating-the-2023-womens-world-cup-champions-spain-6753651837110162-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/z3weeNpkseqnJ_2wNLfE6PKXhOYzgZBJsc6OVMZFhjO9UBg78R2Njez8uBfxHH1Nu5_lcogSY5-umuUF4NTyU5CHU_InnA3y0DcSL8NbcRhwqeVoTw3o",
+    "high_res_url": "//www.google.com/logos/doodles/2023/celebrating-the-2023-womens-world-cup-champions-spain-6753651837110162.3-2xa.gif",
+    "high_res_width": 1076,
+    "high_res_height": 410,
+    "run_date_array": [
+      2023,
+      8,
+      21
+    ],
+    "translations": {
+      "en": {
+        "query": "Football Women's World Cup 2023",
+        "hover_text": "2023 Women's World Cup Champions",
+        "share_text": "Congratulations to the Champions! #GoogleDoodle"
+      },
+      "af": {
+        "query": "2023 Vrouewêreldbeker Sokkertoernooi",
+        "hover_text": "Kampioene van die 2023 Vrouewêreldbeker Sokkertoernooi",
+        "share_text": "Geluk aan die kampioene! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Kupa e Botës në Futboll për Femra, 2023",
+        "hover_text": "Kampionet e Kupës së Botës për Femra, 2023",
+        "share_text": "Urime kampioneve!#GoogleDoodle"
+      },
+      "am": {
+        "query": "የእግር ኳስ የሴቶች የዓለም ዋንጫ 2023",
+        "hover_text": "የ2023 የሴቶች የዓለም ዋንጫ ሻምፒዮናዎች",
+        "share_text": "ለአሸናፊዎች እንኳን ደስ አላችሁ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "كأس العالم لكرة القدم للسيدات لعام 2023",
+        "hover_text": "أبطال كأس العالم للسيدات لعام 2023",
+        "share_text": "تهانينا للأبطال! #GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ֆուտբոլի կանանց աշխարհի առաջնություն 2023",
+        "hover_text": "2023 Կանանց աշխարհի առաջնության հաղթողներ",
+        "share_text": "Կեցցե՛ն հաղթողները #GoogleDoodle"
+      },
+      "az": {
+        "query": "2023 Qadınlar üzrə Dünya Futbol Çempionatı",
+        "hover_text": "",
+        "share_text": "Çempionları təbrik edirik! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "মহিলা ফুটবল বিশ্বকাপ ২০২৩",
+        "hover_text": "মহিলা বিশ্বকাপ ২০২৩-এর চ্যাম্পিয়ন",
+        "share_text": "চ্যাম্পিয়নদের শুভেচ্ছা!#GoogleDoodle"
+      },
+      "eu": {
+        "query": "2023ko Emakumeen Munduko Futbol Txapelketa",
+        "hover_text": "2023ko Emakumeen Munduko Txapelketako txapeldunak",
+        "share_text": "Zorionak txapeldunei! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Чэмпіянат свету па футболе сярод жанчын 2023",
+        "hover_text": "Чэмпіянат свету па футболе сярод жанчын 2023 — пераможніцы",
+        "share_text": "Віншуем пераможніц! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Svjetsko prvenstvo u fudbalu za žene 2023.",
+        "hover_text": "Pobjednice Svjetskog prvenstva u fudbalu za žene 2023.",
+        "share_text": "Čestitamo pobjednicama! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Football Women's World Cup 2023",
+        "hover_text": "2023 Women's World Cup Champions",
+        "share_text": "Congratulations to the Champions! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Световно първенство по футбол за жени 2023 г.",
+        "hover_text": "Световно първенство за жени 2023 г. – шампиони",
+        "share_text": "Поздравления за шампионите! #GoogleDoodle"
+      },
+      "my": {
+        "query": "၂၀၂၃ အမျိုးသမီးကမ္ဘာ့ဖလား ဘောလုံးပွဲ",
+        "hover_text": "၂၀၂၃ အမျိုးသမီးကမ္ဘာ့ဖလား ချန်ပီယံ",
+        "share_text": "ချန်ပီယံများကို ဂုဏ်ပြုပါသည်။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Copa del Món Femenina de futbol 2023",
+        "hover_text": "Campiones de la Copa del Món Femenina 2023",
+        "share_text": "Enhorabona a les campiones!#GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "2023 年女子世界杯足球賽",
+        "hover_text": "2023 年女子世界杯冠軍",
+        "share_text": "恭喜世界杯冠軍！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "2023 年女子世界杯足球賽",
+        "hover_text": "2023 年女子世界杯冠軍",
+        "share_text": "恭喜世界杯冠軍！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "2023 女子世界杯足球赛",
+        "hover_text": "2023 女子世界杯冠军",
+        "share_text": "恭喜世界杯冠军球队！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Svjetsko prvenstvo u nogometu za žene 2023.",
+        "hover_text": "Pobjednice Svjetskog prvenstva u nogometu za žene 2023.",
+        "share_text": "Čestitke pobjednicama! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Světový pohár žen ve fotbale 2023",
+        "hover_text": "Světový pohár žen 2023 – vítězky",
+        "share_text": "Gratulujeme vítězkám! #GoogleDoodle"
+      },
+      "da": {
+        "query": "VM i fodbold for kvinder 2023",
+        "hover_text": "Vinderne af VM i kvindefodbold 2023",
+        "share_text": "Tillykke til verdensmestrene!#GoogleDoodle"
+      },
+      "nl": {
+        "query": "WK voetbal vrouwen 2023",
+        "hover_text": "Kampioenen WK voetbal vrouwen 2023",
+        "share_text": "Felicitaties aan de kampioenen! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Naiste jalgpalli maailmameistrivõistlused 2023",
+        "hover_text": "2023. a naiste jalgpalli MMi poolfinaalid",
+        "share_text": "Palju õnne maailmameistritele! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Jalkapallon naisten MM-kisat 2023",
+        "hover_text": "Jalkapallon naisten MM-kisat 2023, voittajat",
+        "share_text": "Onnittelut voittajille!#GoogleDoodle"
+      },
+      "fr": {
+        "query": "Coupe du monde féminine de football 2023",
+        "hover_text": "Championnes de la Coupe du monde féminine 2023",
+        "share_text": "Vive les championnes ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Coupe du monde féminine de soccer 2023",
+        "hover_text": "Championnes de la Coupe du monde féminine 2023",
+        "share_text": "Félicitations aux championnes! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Copa Mundial Feminina de fútbol 2023",
+        "hover_text": "Gañadoras da Copa Mundial Feminina 2023",
+        "share_text": "Parabéns ás gañadoras! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ფეხბურთის ქალთა მსოფლიო ჩემპიონატი 2023",
+        "hover_text": "2023 წლის ქალთა მსოფლიო ჩემპიონატის გამარჯვებული გუნდი",
+        "share_text": "ვულოცავთ გამარჯვებულებს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Fußball-Weltmeisterschaft der Frauen 2023",
+        "hover_text": "Gewinnerteam der Fußball-Weltmeisterschaft der Frauen 2023",
+        "share_text": "Gratulation an die Siegerinnen! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Παγκόσμιο Κύπελλο Ποδοσφαίρου Γυναικών 2023",
+        "hover_text": "Πρωταθλήτριες Παγκοσμίου Κυπέλλου Γυναικών 2023",
+        "share_text": "Συγχαρητήρια στις πρωταθλήτριες! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "મહિલા ફૂટબૉલ વિશ્વ કપ 2023",
+        "hover_text": "મહિલા વિશ્વ કપ 2023 - વિજેતા",
+        "share_text": "વિજેતાઓને અભિનંદન! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "גביע העולם בכדורגל נשים 2023",
+        "hover_text": "גביע העולם בכדורגל נשים 2023: האלופות",
+        "share_text": "כבוד לאלופות!#GoogleDoodle"
+      },
+      "hi": {
+        "query": "महिला फ़ुटबॉल विश्व कप 2023",
+        "hover_text": "महिला विश्व कप 2023 विजेता ",
+        "share_text": "विजेताओं को बधाई! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A 2023-as női labdarúgó-világbajnokság",
+        "hover_text": "A 2023-as női labdarúgó-világbajnokság győztese",
+        "share_text": "Gratulálunk a világbajnok csapatnak!#GoogleDoodle"
+      },
+      "is": {
+        "query": "Heimsmeistaramót kvenna í fótbolta 2023",
+        "hover_text": "Heimsmeistarar kvenna í fótbolta 2023",
+        "share_text": "Óskum heimsmeisturunum til hamingju! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Piala Dunia Sepak Bola Wanita 2023",
+        "hover_text": "Juara Piala Dunia Wanita 2023",
+        "share_text": "Selamat bagi Sang Juara!#GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Coppa del Mondo di calcio femminile 2023",
+        "hover_text": "Campionesse della Coppa del Mondo femminile 2023",
+        "share_text": "Congratulazioni alle campionesse! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "2023 女子サッカーワールドカップ ",
+        "hover_text": "2023 FIFA女子ワールドカップ - 優勝国",
+        "share_text": "優勝おめでとう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಮಹಿಳಾ ಫುಟ್‍ಬಾಲ್ ವಿಶ್ವಕಪ್ 2023",
+        "hover_text": "ಮಹಿಳಾ ವಿಶ್ವಕಪ್ 2023 ವಿಜೇತರು",
+        "share_text": "ವಿಜೇತರಿಗೆ ಅಭಿನಂದನೆಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "2023 ж. футболдан әйелдер арасындағы әлем чемпионаты",
+        "hover_text": "2023 ж. әйелдер арасындағы әлем чемпионаты – чемпиондар",
+        "share_text": "Чемпиондарды құттықтаймыз! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការប្រកួតបាល់ទាត់ស្ត្រីពាន​រង្វាន់​ពិភពលោកឆ្នាំ 2023",
+        "hover_text": "ការប្រកួតបាលទាត់ស្ត្រីដណ្តើម​ពាន​រង្វាន់​ពិភពលោកឆ្នាំ 2023",
+        "share_text": "អបអរសាទរម្ចាស់ពាន់រង្វាន់! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "축구 여자 월드컵 2023",
+        "hover_text": "2023 여자 월드컵 우승",
+        "share_text": "우승을 축하합니다! #Google기념일로고"
+      },
+      "ky": {
+        "query": "Аялдардын дүйнөлүк ФЧ 2023",
+        "hover_text": "Аялдардын дүйнөлүк ФЧ 2023 – жеңүүчүлөр",
+        "share_text": "Жеңүүчүлөрдү куттуктайбыз! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ບານເຕະໂລກແມ່ຍິງ 2023",
+        "hover_text": "ຜູ້ຊະນະເວີຄັບແມ່ຍິງ 2023",
+        "share_text": "ຂໍສະແດງຄວາມຍິນດີກັບຜູ້ຊະນະເລີດ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Copa Mundial de Fútbol Femenil 2023",
+        "hover_text": "Campeonas de la Copa Mundial Femenil 2023",
+        "share_text": "¡Felicidades a las Campeonas! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Pasaules kauss futbolā sievietēm 2023",
+        "hover_text": "2023. gada Pasaules kausa čempiones sievietēm",
+        "share_text": "Apsveicam čempiones! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "2023 m. pasaulio moterų futbolo čempionatas",
+        "hover_text": "2023 m. moterų pasaulio taurės čempionės",
+        "share_text": "Sveikiname čempiones! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Светско фудбалско првенство за жени 2023 г.",
+        "hover_text": "Победнички на Светското првенство за жени 2023 г.",
+        "share_text": "Честитки до победничките! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Piala Dunia Bola Sepak Wanita 2023",
+        "hover_text": "Juara Piala Dunia Wanita 2023",
+        "share_text": "Tahniah kepada Juara!#GoogleDoodle"
+      },
+      "ml": {
+        "query": "2023 വനിതാ ഫുട്‌ബോൾ ലോകകപ്പ്",
+        "hover_text": "2023 വനിതാ ലോകകപ്പ് ജേതാക്കൾ",
+        "share_text": "ജേതാക്കൾക്ക് അഭിനന്ദനങ്ങൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "महिला फुटबॉल विश्वचषक २०२३",
+        "hover_text": "महिला विश्वचषक २०२३ चे चॅंपियन्स",
+        "share_text": "चॅंपियन्सना लक्ष लक्ष शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "2023 оны Эмэгтэйчүүдийн хөлбөмбөгийн дэлхийн аварга шалгаруулах тэмцээн",
+        "hover_text": "2023 оны Эмэгтэйчүүдийн хөлбөмбөгийн дэлхийн аварга",
+        "share_text": "Аваргуудад баяр хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "फुटबलको महिला विश्व कप, २०२३",
+        "hover_text": "महिला विश्व कप, २०२३ च्याम्पियन",
+        "share_text": "बिजेतालाई बधाइ छ! #GoogleDoodle"
+      },
+      "no": {
+        "query": "VM i fotball for kvinner 2023",
+        "hover_text": "Verdensmestere i fotball for kvinner 2023",
+        "share_text": "Vi gratulerer verdensmesterne! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "جام جهانی فوتبال زنان ۲۰۲۳",
+        "hover_text": " قهرمانی جام جهانی فوتبال زنان ۲۰۲۳",
+        "share_text": "تبریک به قهرمانان! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Mistrzostwa Świata w Piłce Nożnej Kobiet 2023",
+        "hover_text": "Zwyciężczynie Mistrzostw Świata Kobiet 2023",
+        "share_text": "Gratulujemy zwyciężczyniom! #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Copa do Mundo de Futebol Feminino 2023",
+        "hover_text": "Campeãs da Copa do Mundo Feminina 2023",
+        "share_text": "Parabéns às campeãs! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Mundial de Futebol Feminino de 2023",
+        "hover_text": "Campeãs do Mundial Feminino de 2023",
+        "share_text": "Parabéns às campeãs! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਮਹਿਲਾ ਫੁੱਟਬਾਲ ਵਿਸ਼ਵ ਕੱਪ 2023",
+        "hover_text": "ਮਹਿਲਾ ਵਿਸ਼ਵ ਕੱਪ 2023 ਜੇਤੂ ਟੀਮ",
+        "share_text": "ਜੇਤੂ ਟੀਮ ਨੂੰ ਮੁਬਾਰਕਾਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Campionatul Mondial de Fotbal Feminin 2023",
+        "hover_text": "Câștigătoarele Campionatului Mondial de Fotbal Feminin 2023",
+        "share_text": "Felicitări campioanelor! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "ЧМ по футболу среди женщин 2023",
+        "hover_text": "ЧМ по футболу среди женщин 2023 – победители",
+        "share_text": "Поздравляем победителей! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Светско првенство у фудбалу за жене 2023.",
+        "hover_text": "Првакиње Светског првенства у фудбалу за жене 2023.",
+        "share_text": "Честитке шампионкама! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "පාපන්දු කාන්තා ලෝක කුසලානය 2023",
+        "hover_text": "2023 කාන්තා ලෝක කුසලාන ශූරියන්",
+        "share_text": "ශූරයන්ට සුබ පැතුම්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Ženský svetový pohár vo futbale 2023",
+        "hover_text": "Víťazky ženského svetového pohára 2023",
+        "share_text": "Gratulujeme víťazkám!#GoogleDoodle"
+      },
+      "sl": {
+        "query": "Svetovno prvenstvo v nogometu za ženske 2023",
+        "hover_text": "Svetovne prvakinje v nogometu 2023",
+        "share_text": "Čestitke prvakinjam!#GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Copa Mundial Femenina de Fútbol 2023",
+        "hover_text": "Campeonas de la Copa Mundial Femenina 2023",
+        "share_text": "¡Enhorabuena, campeonas! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Kombe la Dunia la Kandanda ya Wanawake 2023",
+        "hover_text": "Mabingwa wa Kombe la Dunia la Wanawake 2023",
+        "share_text": "Pongezi kwa Mabingwa! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Fotbolls-VM för damer 2023",
+        "hover_text": "Guldmedaljörer i fotbolls-VM för damer 2023",
+        "share_text": "Grattis till vinnarna! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "பெண்கள் கால்பந்து உலகக் கோப்பை 2023",
+        "hover_text": "2023 பெண்கள் உலகக் கோப்பை  சாம்பியன்கள்",
+        "share_text": "சாம்பியன்களுக்கு வாழ்த்துகள் #GoogleDoodle"
+      },
+      "te": {
+        "query": "మహిళల ఫుట్‌బాల్ ప్రపంచ కప్ 2023",
+        "hover_text": "2023 మహిళల ప్రపంచ కప్ ఛాంపియన్స్",
+        "share_text": "ఛాంపియన్స్‌కు శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "ฟุตบอลโลกหญิงปี 2023",
+        "hover_text": "แชมป์ฟุตบอลโลกหญิงปี 2023",
+        "share_text": "ขอแสดงความยินดีกับแชมป์! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Futbol Kadınlar Dünya Kupası 2023",
+        "hover_text": "2023 Kadınlar Dünya Kupası Şampiyon",
+        "share_text": "Şampiyonlara Tebrikler! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Чемпіонат світу з футболу серед жінок – 2023",
+        "hover_text": "Переможиці чемпіонату світу серед жінок у 20203 році",
+        "share_text": "Вітаємо чемпіонок! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "خواتین کا فٹ بال ورلڈ کپ 2023\r",
+        "hover_text": "خواتین کا ورلڈ کپ 2023 چیمپئنز",
+        "share_text": "جیتنے والوں کو مبارک باد! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Futbol – Ayollar JCH 2023",
+        "hover_text": "Ayollar JCH 2023 chempionlari",
+        "share_text": "Chempionlarni tabriklaymiz! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Giải vô địch bóng đá nữ thế giới 2023",
+        "hover_text": "Nhà vô địch World Cup nữ 2023",
+        "share_text": "Chúc mừng các nhà vô địch! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Indebe Yomhlaba Yabesimame Yebhola Likanobhutshuzwayo yowezi-2023",
+        "hover_text": "Indebe Yomhlaba Yabesimame yowezi-2023 - Ompetha",
+        "share_text": "Halala Kompetha! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Football Women's World Cup 2023",
+    "share_text": "Congratulations to the Champions! #GoogleDoodle"
+  },
+  {
     "name": "2023-womens-world-cup-finals",
     "title": "2023 Women's World Cup Finals",
     "url": "//www.google.com/logos/doodles/2023/2023-womens-world-cup-finals-6753651837110075.2-law.gif",
