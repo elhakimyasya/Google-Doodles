@@ -1,5 +1,504 @@
 [
   {
+    "name": "ukraine-independence-day-2023",
+    "title": "Ukraine Independence Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/ukraine-independence-day-2023-6753651837109925-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/Ot7drImiNYkjX0WhuN-JW6rrSwKLgbWGyabUDwTpkJ3zlWgiF6XSC37wDPw2guBF5jzZjKaYBP85173ExdW6OGlvjQh4Rsnlgk04TMFRT_zfYxrH-hmn",
+    "high_res_url": "//www.google.com/logos/doodles/2023/ukraine-independence-day-2023-6753651837109925-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2023,
+      8,
+      24
+    ],
+    "translations": {
+      "en": {
+        "query": "Ukraine Independence Day",
+        "hover_text": "Ukraine Independence Day 2023",
+        "share_text": "Ukraine Independence Day #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": "Die Oekraïne se onafhanklikheidsdag 2023",
+        "share_text": "Die Oekraïne se onafhanklikheidsdag #GoogleDoodle"
+      },
+      "sq": {
+        "query": null,
+        "hover_text": "Dita e Pavarësisë së Ukrainës, 2023",
+        "share_text": "Dita e Pavarësisë së Ukrainës, #GoogleDoodle"
+      },
+      "am": {
+        "query": null,
+        "hover_text": "የዩክሬን ነፃነት ቀን 2023",
+        "share_text": "የዩክሬን ነፃነት ቀን #GoogleDoodle"
+      },
+      "ar": {
+        "query": null,
+        "hover_text": "عيد استقلال أوكرانيا 2023",
+        "share_text": "يصادف اليوم عيد استقلال أوكرانيا. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": null,
+        "hover_text": "Ուկրաինայի անկախության օր 2023",
+        "share_text": "Ուկրաինայի անկախության օր #GoogleDoodle"
+      },
+      "az": {
+        "query": null,
+        "hover_text": "2023 Ukraynanın Müstəqillik Günü",
+        "share_text": "Ukraynanın Müstəqillik Günü #GoogleDoodle"
+      },
+      "bn": {
+        "query": null,
+        "hover_text": "ইউক্রেনের স্বাধীনতা দিবস ২০২৩",
+        "share_text": "ইউক্রেনের স্বাধীনতা দিবস #GoogleDoodle"
+      },
+      "eu": {
+        "query": null,
+        "hover_text": "2023ko Ukrainako Independentzia Eguna",
+        "share_text": "Ukrainako Independentzia Eguna #GoogleDoodle"
+      },
+      "be": {
+        "query": null,
+        "hover_text": "Дзень незалежнасці Украіны 2023",
+        "share_text": "Дзень незалежнасці Украіны #GoogleDoodle"
+      },
+      "bs": {
+        "query": null,
+        "hover_text": "Dan nezavisnosti Ukrajine 2023.",
+        "share_text": "Dan nezavisnosti Ukrajine #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bg": {
+        "query": null,
+        "hover_text": "Ден на независимостта на Украйна 2023 г.",
+        "share_text": "Ден на независимостта на Украйна #GoogleDoodle"
+      },
+      "my": {
+        "query": null,
+        "hover_text": "၂၀၂၃ ယူကရိန်းနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ယူကရိန်းနိုင်ငံ လွတ်လပ်ရေးနေ့ #GoogleDoodle"
+      },
+      "ca": {
+        "query": null,
+        "hover_text": "Dia de la Independència d'Ucraïna 2023",
+        "share_text": "Dia de la Independència d'Ucraïna #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": "Dan neovisnosti Ukrajine 2023.",
+        "share_text": "Dan neovisnosti Ukrajine #GoogleDoodle"
+      },
+      "cs": {
+        "query": null,
+        "hover_text": "Den nezávislosti Ukrajiny 2023",
+        "share_text": "Den nezávislosti Ukrajiny #GoogleDoodle"
+      },
+      "da": {
+        "query": null,
+        "hover_text": "Ukraines uafhængighedsdag 2023",
+        "share_text": "Ukraines uafhængighedsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": null,
+        "hover_text": "Onafhankelijkheidsdag Oekraïne 2023",
+        "share_text": "Onafhankelijkheidsdag Oekraïne #GoogleDoodle"
+      },
+      "et": {
+        "query": null,
+        "hover_text": "Ukraina 2023. aasta iseseisvuspäev",
+        "share_text": "Ukraina iseseisvuspäev #GoogleDoodle"
+      },
+      "fi": {
+        "query": null,
+        "hover_text": "Ukrainan itsenäisyyspäivä 2023",
+        "share_text": "Ukrainan itsenäisyyspäivä #GoogleDoodle"
+      },
+      "fr": {
+        "query": null,
+        "hover_text": "Fête de l'Indépendance de l'Ukraine 2023",
+        "share_text": "Fête de l'Indépendance de l'Ukraine #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": "Día da Independencia de Ucraína 2023",
+        "share_text": "Día da Independencia de Ucraína #GoogleDoodle"
+      },
+      "ka": {
+        "query": null,
+        "hover_text": "უკრაინის დამოუკიდებლობის დღე — 2023",
+        "share_text": "უკრაინის დამოუკიდებლობის დღე #GoogleDoodle"
+      },
+      "de": {
+        "query": null,
+        "hover_text": "Unabhängigkeitstag Ukraine 2023",
+        "share_text": "Unabhängigkeitstag Ukraine #GoogleDoodle"
+      },
+      "el": {
+        "query": null,
+        "hover_text": "Ημέρα Ανεξαρτησίας της Ουκρανίας 2023",
+        "share_text": "Ημέρα Ανεξαρτησίας της Ουκρανίας #GoogleDoodle"
+      },
+      "gu": {
+        "query": null,
+        "hover_text": "યુક્રેનનો સ્વતંત્રતા દિવસ 2023",
+        "share_text": "યુક્રેનનો સ્વતંત્રતા દિવસ #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": "יום העצמאות של אוקראינה 2023",
+        "share_text": "יום העצמאות של אוקראינה ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": null,
+        "hover_text": "यूक्रेन का स्वतंत्रता दिवस 2023",
+        "share_text": "यूक्रेन का स्वतंत्रता दिवस #GoogleDoodle"
+      },
+      "hu": {
+        "query": null,
+        "hover_text": "Ukrajna függetlenségének napja, 2023",
+        "share_text": "Ukrajna függetlenségének napja #GoogleDoodle"
+      },
+      "is": {
+        "query": null,
+        "hover_text": "Sjálfstæðisdagur Úkraínu 2023",
+        "share_text": "Sjálfstæðisdagur Úkraínu #GoogleDoodle"
+      },
+      "id": {
+        "query": null,
+        "hover_text": "Hari Kemerdekaan Ukraina 2023",
+        "share_text": "Hari Kemerdekaan Ukraina #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": "Festa dell'indipendenza dell'Ucraina 2023",
+        "share_text": "Festa dell'indipendenza dell'Ucraina #GoogleDoodle"
+      },
+      "ja": {
+        "query": null,
+        "hover_text": "2023 年ウクライナ独立記念日",
+        "share_text": "ウクライナ独立記念日 #GoogleDoodle"
+      },
+      "kn": {
+        "query": null,
+        "hover_text": "ಉಕ್ರೇನ್ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2023",
+        "share_text": "ಉಕ್ರೇನ್ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ #GoogleDoodle"
+      },
+      "kk": {
+        "query": null,
+        "hover_text": "Украинаның Тәуелсіздік күні – 2023",
+        "share_text": "Украинаның Тәуелсіздік күні #GoogleDoodle"
+      },
+      "km": {
+        "query": null,
+        "hover_text": "ទិវាបុណ្យឯករាជ្យជាតិអ៊ុយក្រែនឆ្នាំ 2023",
+        "share_text": "ទិវាបុណ្យឯករាជ្យជាតិអ៊ុយក្រែន #GoogleDoodle"
+      },
+      "ko": {
+        "query": null,
+        "hover_text": "2023년 우크라이나 독립기념일",
+        "share_text": "우크라이나 독립기념일 #GoogleDoodle"
+      },
+      "ky": {
+        "query": null,
+        "hover_text": "Украинанын эгемендүүлүк күнү — 2023",
+        "share_text": "Украинанын эгемендүүлүк күнү #GoogleDoodle"
+      },
+      "lo": {
+        "query": null,
+        "hover_text": "ວັນປະກາດເອກະລາດຢູເຄຣນ 2023",
+        "share_text": "ວັນປະກາດເອກະລາດຢູເຄຣນ #GoogleDoodle"
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lv": {
+        "query": null,
+        "hover_text": "Ukrainas Neatkarības diena — 2023",
+        "share_text": "Ukrainas Neatkarības diena #GoogleDoodle"
+      },
+      "lt": {
+        "query": null,
+        "hover_text": "Ukrainos nepriklausomybės diena, 2023 m.",
+        "share_text": "Ukrainos nepriklausomybės diena #GoogleDoodle"
+      },
+      "mk": {
+        "query": null,
+        "hover_text": "Ден на независноста на Украина, 2023 г.",
+        "share_text": "Ден на независноста на Украина #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": "Hari Kemerdekaan Ukraine 2023",
+        "share_text": "Hari Kemerdekaan Ukraine #GoogleDoodle"
+      },
+      "ml": {
+        "query": null,
+        "hover_text": "ഉക്രെയ്ൻ സ്വാതന്ത്ര്യദിനം 2023",
+        "share_text": "ഉക്രെയ്ൻ സ്വാതന്ത്ര്യദിനം #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": "युक्रेनचा स्वातंत्र्यदिन २०२३",
+        "share_text": "युक्रेनचा स्वातंत्र्यदिन #GoogleDoodle"
+      },
+      "mn": {
+        "query": null,
+        "hover_text": "2023 оны Украин Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Украин Улсын Тусгаар тогтнолын өдөр #GoogleDoodle"
+      },
+      "ne": {
+        "query": null,
+        "hover_text": "युक्रेनको स्वतन्त्रता दिवस २०२३",
+        "share_text": "युक्रेनको स्वतन्त्रता दिवस #GoogleDoodle"
+      },
+      "no": {
+        "query": null,
+        "hover_text": "Ukrainas frigjøringsdag 2023",
+        "share_text": "Ukrainas frigjøringsdag #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": "روز استقلال اوکراین - ۲۰۲۳",
+        "share_text": "روز استقلال اوکراین ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": null,
+        "hover_text": "Dzień Niepodległości Ukrainy 2023",
+        "share_text": "Dzień Niepodległości Ukrainy #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": null,
+        "hover_text": "ਯੂਕਰੇਨ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ 2023",
+        "share_text": "ਯੂਕਰੇਨ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ #GoogleDoodle"
+      },
+      "ro": {
+        "query": null,
+        "hover_text": "Ziua Independenței Ucrainei 2023",
+        "share_text": "Ziua Independenței Ucrainei #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День Независимости Украины",
+        "hover_text": "День Независимости Украины 2023",
+        "share_text": "С Днём Независимости Украины! #GoogleDoodle"
+      },
+      "sr": {
+        "query": null,
+        "hover_text": "Дан независности Украјине 2023.",
+        "share_text": "Дан независности Украјине #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": "යුක්රේනයේ නිදහස් දිනය 2023",
+        "share_text": "යුක්රේන නිදහස් දිනය #GoogleDoodle"
+      },
+      "sk": {
+        "query": null,
+        "hover_text": "Deň nezávislosti Ukrajiny 2023",
+        "share_text": "Deň nezávislosti Ukrajiny #GoogleDoodle"
+      },
+      "sl": {
+        "query": null,
+        "hover_text": "Dan neodvisnosti Ukrajine 2023",
+        "share_text": "Dan neodvisnosti Ukrajine #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": "Día de la Independencia de Ucrania 2023",
+        "share_text": "Día de la Independencia de Ucrania #GoogleDoodle"
+      },
+      "sw": {
+        "query": null,
+        "hover_text": "Sikukuu ya Uhuru wa Ukraini 2023",
+        "share_text": "Sikukuu ya Uhuru wa Ukraini #GoogleDoodle"
+      },
+      "sv": {
+        "query": null,
+        "hover_text": "Ukrainas självständighetsdag 2023",
+        "share_text": "Ukrainas självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": "உக்ரைனின் சுதந்திர தினம் 2023",
+        "share_text": "உக்ரைனின் சுதந்திர தினம் #GoogleDoodle"
+      },
+      "te": {
+        "query": null,
+        "hover_text": "ఉక్రెయిన్ స్వాతంత్య్ర దినోత్సవం 2023",
+        "share_text": "ఉక్రెయిన్ స్వాతంత్య్ర దినోత్సవం #GoogleDoodle"
+      },
+      "th": {
+        "query": null,
+        "hover_text": "วันประกาศเอกราชของยูเครนปี 2023",
+        "share_text": "วันประกาศเอกราชของยูเครน #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": "Ukrayna Bağımsızlık Günü 2023",
+        "share_text": "Ukrayna Bağımsızlık Günü #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День Незалежності України",
+        "hover_text": "День Незалежності України 2023",
+        "share_text": "З Днем Незалежності України! #GoogleDoodle"
+      },
+      "ur": {
+        "query": null,
+        "hover_text": "یوکرائن کا یوم آزادی 2023",
+        "share_text": "یوکرائن کا یوم آزادی GoogleDoodle#"
+      },
+      "uz": {
+        "query": null,
+        "hover_text": "Ukraina Mustaqillik kuni 2023",
+        "share_text": "Ukraina Mustaqillik kuni #GoogleDoodle"
+      },
+      "vi": {
+        "query": null,
+        "hover_text": "Ngày Quốc khánh Ukraina năm 2023",
+        "share_text": "Ngày Quốc khánh Ukraina #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": "Usuku Lokuzimela Lwase-Ukraine luka-2023",
+        "share_text": "Usuku Lokuzimela lwe-Ukraine #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Ukraine Independence Day",
+    "share_text": "Ukraine Independence Day #GoogleDoodle"
+  },
+  {
     "name": "qixi-festival-2023",
     "title": "Qixi Festival 2023",
     "url": "//www.google.com/logos/doodles/2023/qixi-festival-2023-6753651837109924.2-l.png",
