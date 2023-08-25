@@ -1,5 +1,504 @@
 [
   {
+    "name": "habib-benglias-128th-birthday",
+    "title": "Habib Benglia's 128th Birthday",
+    "url": "//www.google.com/logos/doodles/2023/habib-benglias-128th-birthday-6753651837110126.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/oLZLAyqhe-F-Ag_DndquDkvM4BwsHtj9GyURAe7xsP6DABcUgV3VoaWAJHif0XwusFDOtw4-KJx3hQ4XuuYCme7pFcmMkgxREIXo1fCrBnFeBbB7dQODAJg",
+    "high_res_url": "//www.google.com/logos/doodles/2023/habib-benglias-128th-birthday-6753651837110126.2-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      8,
+      25
+    ],
+    "translations": {
+      "en": {
+        "query": "Habib Benglia",
+        "hover_text": "Habib Benglia's 128th Birthday",
+        "share_text": "Habib Benglia's 128th Birthday! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": "Habib Benglia se 128e verjaarsdag",
+        "share_text": "Habib Benglia se 128e verjaarsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": null,
+        "hover_text": "128-vjetori i lindjes së Habib Benglia",
+        "share_text": "128-vjetori i lindjes së Habib Benglia! #GoogleDoodle"
+      },
+      "am": {
+        "query": null,
+        "hover_text": "የሀቢብ ቤንግሊያ 128ኛ የልደት ቀን",
+        "share_text": "የሀቢብ ቤንግሊያ 128ኛ የልደት ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": null,
+        "hover_text": "الذكرى 128 لميلاد \"حبيب بنغليا\"",
+        "share_text": "نحتفل اليوم بالذكرى 128 لميلاد \"حبيب بنغليا\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": null,
+        "hover_text": "Հաբիբ Բենգլիայի ծննդյան 128-ամյակը",
+        "share_text": "Հաբիբ Բենգլիայի ծննդյան 128-ամյակը #GoogleDoodle"
+      },
+      "az": {
+        "query": null,
+        "hover_text": "Habib Benglia'nın 128-ci ildönümü",
+        "share_text": "Habib Benglia'nın 128-ci ildönümü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": null,
+        "hover_text": "হাবিব বেঙ্গলিয়ার ১২৮তম জন্মদিন",
+        "share_text": "হাবিব বেঙ্গলিয়ার ১২৮তম জন্মদিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": null,
+        "hover_text": "Habib Bengliaren jaiotzaren 128. urteurrena",
+        "share_text": "Habib Bengliaren jaiotzaren 128. urteurrena #GoogleDoodle"
+      },
+      "be": {
+        "query": null,
+        "hover_text": "128 гадоў з дня нараджэння Хабіба Бенглія",
+        "share_text": "128 гадоў з дня нараджэння Хабіба Бенглія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": null,
+        "hover_text": "128 godina od rođenja Habiba Benglije!",
+        "share_text": "128 godina od rođenja Habiba Benglije! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bg": {
+        "query": null,
+        "hover_text": "128 години от рождението на Хабиб Бенглия",
+        "share_text": "128 години от рождението на Хабиб Бенглия! #GoogleDoodle"
+      },
+      "my": {
+        "query": null,
+        "hover_text": "Habib Benglia ၏ ၁၂၈ နှစ်မြောက်မွေးနေ့",
+        "share_text": "Habib Benglia ၏ ၁၂၈ နှစ်မြောက်မွေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": null,
+        "hover_text": "128è aniversari del naixement d'Habib Benglia",
+        "share_text": "128è aniversari del naixement d'Habib Benglia #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": "128. godišnjica rođenja Habiba Benglije",
+        "share_text": "128. godišnjica rođenja Habiba Benglije! #GoogleDoodle"
+      },
+      "cs": {
+        "query": null,
+        "hover_text": "128. výročí narození Habíba Benglii",
+        "share_text": "128. výročí narození Habíba Benglii! #GoogleDoodle"
+      },
+      "da": {
+        "query": null,
+        "hover_text": "Habib Benglias 128-års fødselsdag",
+        "share_text": "Habib Benglias 128-års fødselsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": null,
+        "hover_text": "128e geboortedag van Habib Benglia",
+        "share_text": "De 128e geboortedag van Habib Benglia! #GoogleDoodle"
+      },
+      "et": {
+        "query": null,
+        "hover_text": "Habib Benglia 128. sünniaastapäev",
+        "share_text": "Habib Benglia 128. sünniaastapäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": null,
+        "hover_text": "128 vuotta Habib Benglian syntymästä",
+        "share_text": "128 vuotta Habib Benglian syntymästä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Habib Benglia",
+        "hover_text": "Il y a 128 ans naissait Habib Benglia",
+        "share_text": "128e anniversaire de Habib Benglia #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": "128.º aniversario do nacemento de Habib Benglia",
+        "share_text": "128.º aniversario do nacemento de Habib Benglia! #GoogleDoodle"
+      },
+      "ka": {
+        "query": null,
+        "hover_text": "128 წელი ჰაბიბ ბენგლიას დაბადებიდან",
+        "share_text": "128 წელი ჰაბიბ ბენგლიას დაბადებიდან! #GoogleDoodle"
+      },
+      "de": {
+        "query": null,
+        "hover_text": "128. Geburtstag von Habib Benglia",
+        "share_text": "128. Geburtstag von Habib Benglia! #GoogleDoodle"
+      },
+      "el": {
+        "query": null,
+        "hover_text": "128 χρόνια από τη γέννηση του Habib Benglia",
+        "share_text": "128 χρόνια από τη γέννηση του Habib Benglia! #GoogleDoodle"
+      },
+      "gu": {
+        "query": null,
+        "hover_text": "હબીબ બેન્ગલિયાનો 128મો જન્મદિવસ",
+        "share_text": "હબીબ બેન્ગલિયાનો 128મો જન્મદિવસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": "128 שנים להולדת חביב בנגלייה",
+        "share_text": "128 שנים להולדת חביב בנגלייה GoogleDoodle#"
+      },
+      "hi": {
+        "query": null,
+        "hover_text": "हबीब बेंगेलिया की 128वीं जयंती",
+        "share_text": "हबीब बेंगेलिया की 128वीं जयंती! #GoogleDoodle"
+      },
+      "hu": {
+        "query": null,
+        "hover_text": "Habib Benglia születésének 128. évfordulója",
+        "share_text": "Habib Benglia születésének 128. évfordulója! #GoogleDoodle"
+      },
+      "is": {
+        "query": null,
+        "hover_text": "128 ár frá fæðingu Habib Benglia",
+        "share_text": "128 ár frá fæðingu Habib Benglia! #GoogleDoodle"
+      },
+      "id": {
+        "query": null,
+        "hover_text": "Ulang Tahun Ke-128 Habib Benglia",
+        "share_text": "Ulang Tahun Ke-128 Habib Benglia #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": "128° anniversario della nascita di Habib Benglia",
+        "share_text": "128° anniversario della nascita di Habib Benglia! #GoogleDoodle"
+      },
+      "ja": {
+        "query": null,
+        "hover_text": "ハビブ・ベングリア生誕 128 周年",
+        "share_text": "ハビブ・ベングリア生誕 128 周年 #GoogleDoodle"
+      },
+      "kn": {
+        "query": null,
+        "hover_text": "ಹಬೀಬ್ ಬೆಂಗ್ಲಿಯಾ ಅವರ 128ನೇ ಜನ್ಮದಿನ",
+        "share_text": "ಹಬೀಬ್ ಬೆಂಗ್ಲಿಯಾ ಅವರ 128ನೇ ಜನ್ಮದಿನ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": null,
+        "hover_text": "Хабиб Бенглияның 128 жылдығы",
+        "share_text": "Хабиб Бенглияның 128 жылдығы #GoogleDoodle"
+      },
+      "km": {
+        "query": null,
+        "hover_text": "ខួបកំណើត​គម្រប់ 128 ឆ្នាំ​របស់ Habib Benglia",
+        "share_text": "ខួបកំណើត​គម្រប់ 128 ឆ្នាំ​របស់ Habib Benglia! #GoogleDoodle"
+      },
+      "ko": {
+        "query": null,
+        "hover_text": "Habib Benglia 탄생 128주년",
+        "share_text": "Habib Benglia 탄생 128주년 #GoogleDoodle"
+      },
+      "ky": {
+        "query": null,
+        "hover_text": "Хабиб Бенглианын 128 жаш мааракеси",
+        "share_text": "Хабиб Бенглианын 128 жаш мааракеси! #GoogleDoodle"
+      },
+      "lo": {
+        "query": null,
+        "hover_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 128 ປີຂອງ Habib Benglia",
+        "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 128 ປີຂອງ Habib Benglia! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lv": {
+        "query": null,
+        "hover_text": "Habība Benglijas 128. dzimšanas diena",
+        "share_text": "Habība Benglijas 128. dzimšanas diena! #GoogleDoodle"
+      },
+      "lt": {
+        "query": null,
+        "hover_text": "128-asis Habibo Benglios gimtadienis",
+        "share_text": "128-asis Habibo Benglios gimtadienis! #GoogleDoodle"
+      },
+      "mk": {
+        "query": null,
+        "hover_text": "128. роденден на Habib Benglia",
+        "share_text": "128. роденден на Habib Benglia! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": "Ulang Tahun Kelahiran Habib Benglia yang ke-128",
+        "share_text": "Ulang Tahun Kelahiran Habib Benglia yang ke-128! #GoogleDoodle"
+      },
+      "ml": {
+        "query": null,
+        "hover_text": "ഹബീബ് ബംഗ്ലിയയുടെ 128-ാം ജന്മദിനം",
+        "share_text": "ഹബീബ് ബംഗ്ലിയയുടെ 128-ാം ജന്മദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": "हबीब बेंगलीया यांचा १२८ वा स्मृतिदिन",
+        "share_text": "हबीब बेंगलीया यांचा १२८ वा स्मृतिदिन! #GoogleDoodle"
+      },
+      "mn": {
+        "query": null,
+        "hover_text": "Хабиб Бенглиагийн мэндэлсний 128 жилийн ой",
+        "share_text": "Хабиб Бенглиагийн мэндэлсний 128 жилийн ой! #GoogleDoodle"
+      },
+      "ne": {
+        "query": null,
+        "hover_text": "Habib Benglia को १२८ औँ जन्मजयन्ती",
+        "share_text": "Habib Benglia को १२८ औँ जन्मजयन्ती! #GoogleDoodle"
+      },
+      "no": {
+        "query": null,
+        "hover_text": "Habib Benglias 128-årsdag",
+        "share_text": "Habib Benglias 128-årsdag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": "صدوبیست‌وهشتمین زادروز حبیب بِنگلیا",
+        "share_text": "صدوبیست‌وهشتمین زادروز حبیب بِنگلیا ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": null,
+        "hover_text": "Habib Benglia – 128 rocznica urodzin",
+        "share_text": "Habib Benglia – 128 rocznica urodzin #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": null,
+        "hover_text": "ਹਬੀਬ ਬੇਂਗਲੀਆ ਦਾ 128ਵਾਂ ਜਨਮਦਿਨ",
+        "share_text": "ਹਬੀਬ ਬੇਂਗਲੀਆ ਦਾ 128ਵਾਂ ਜਨਮਦਿਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": null,
+        "hover_text": "128 de ani de la nașterea lui Habib Benglia",
+        "share_text": "128 de ani de la nașterea lui Habib Benglia! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": "128 лет со дня рождения Хабиба Бенглии",
+        "share_text": "128 лет со дня рождения Хабиба Бенглии #GoogleDoodle"
+      },
+      "sr": {
+        "query": null,
+        "hover_text": "128 година од рођења Хабиба Бенглије",
+        "share_text": "128 година од рођења Хабиба Бенглије! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": "හබීබ් බෙන්ග්ලියාගේ 128වන උපන් දිනය",
+        "share_text": "හබීබ් බෙන්ග්ලියාගේ 128වන උපන් දිනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": null,
+        "hover_text": "128. výročie narodenia Habiba Bengliu",
+        "share_text": "128. výročie narodenia Habiba Bengliu. #GoogleDoodle"
+      },
+      "sl": {
+        "query": null,
+        "hover_text": "128. rojstni dan Habiba Benglie",
+        "share_text": "128. rojstni dan Habiba Benglie! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": "128.º aniversario del nacimiento de Habib Benglia",
+        "share_text": "Hoy es el 128.º aniversario del nacimiento de Habib Benglia #GoogleDoodle"
+      },
+      "sw": {
+        "query": null,
+        "hover_text": "Maadhimisho ya Miaka 128 Tangu Kuzaliwa kwa Habib Benglia",
+        "share_text": "Maadhimisho ya Miaka 128 Tangu Kuzaliwa kwa Habib Benglia! #GoogleDoodle"
+      },
+      "sv": {
+        "query": null,
+        "hover_text": "Habib Benglia 128 år",
+        "share_text": "Habib Benglia 128 år #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": "ஹபீப் பெங்லியாவின் 128வது பிறந்தநாள்",
+        "share_text": "ஹபீப் பெங்லியாவின் 128வது பிறந்தநாள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": null,
+        "hover_text": "హబీబ్ బెంగ్లియా 128వ జయంతి",
+        "share_text": "హబీబ్ బెంగ్లియా 128వ జయంతి! #GoogleDoodle"
+      },
+      "th": {
+        "query": null,
+        "hover_text": "วันเกิดปีที่ 128 ของ Habib Benglia",
+        "share_text": "วันเกิดปีที่ 128 ของ Habib Benglia #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": "Habib Benglia'nın 128. Doğum Günü",
+        "share_text": "Habib Benglia'nın 128. Doğum Günü #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": "128 років від дня народження Хабіба Бенглії",
+        "share_text": "128 років від дня народження Хабіба Бенглії! #GoogleDoodle"
+      },
+      "ur": {
+        "query": null,
+        "hover_text": "Habib Benglia کی 128 ویں سالگرہ",
+        "share_text": "Habib Benglia کی 128 ویں سالگرہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": null,
+        "hover_text": "Habib Benglia tavalludining 128 yilligi",
+        "share_text": "Habib Benglia tavalludining 128 yilligi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": null,
+        "hover_text": "Kỷ niệm 128 năm ngày sinh của Habib Benglia",
+        "share_text": "Kỷ niệm 128 năm ngày sinh của Habib Benglia! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": "Usuku Lokuzalwa luka-Habib Benglia Lweminyaka eyi-128",
+        "share_text": "Usuku Lokuzalwa luka-Habib Benglia Lweminyaka eyi-128! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Habib Benglia",
+    "share_text": "Habib Benglia's 128th Birthday! #GoogleDoodle"
+  },
+  {
     "name": "ukraine-independence-day-2023",
     "title": "Ukraine Independence Day 2023",
     "url": "//www.google.com/logos/doodles/2023/ukraine-independence-day-2023-6753651837109925-l.png",
@@ -497,6 +996,505 @@
     "translated_blog_posts": {},
     "query": "Ukraine Independence Day",
     "share_text": "Ukraine Independence Day #GoogleDoodle"
+  },
+  {
+    "name": "celebrating-the-first-landing-on-the-moons-south-pole",
+    "title": "Celebrating the first landing on the moon’s south pole!",
+    "url": "//www.google.com/logos/doodles/2023/celebrating-the-first-landing-on-the-moons-south-pole-6753651837110163.3-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/o7nQ8iQ1EplawqOUuty7NxSgH7T9BMfbNlcniV6VtxP0jtoPYSTMVM0fOu0YhhbnKHQ5Ad-S3PiZSIblZ4SyhJHaK3j-RH2VGOnaPnXQQL5ceuao9lhhFg",
+    "high_res_url": "//www.google.com/logos/doodles/2023/celebrating-the-first-landing-on-the-moons-south-pole-6753651837110163.2-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      8,
+      24
+    ],
+    "translations": {
+      "en": {
+        "query": "Chandrayaan-3",
+        "hover_text": "Celebrating the first landing on the moon’s south pole!",
+        "share_text": "Celebrating the first landing on the moon’s south pole #GoogleDoodle #Chandrayaan3"
+      },
+      "af": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "am": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ar": {
+        "query": "تشاندريان-3",
+        "hover_text": "مركبة الفضاء \"تشاندريان-3\" تهبط على القطب الجنوبي للقمر!",
+        "share_text": "مركبة الفضاء \"تشاندريان-3\" تهبط على القطب الجنوبي للقمر #GoogleDoodle "
+      },
+      "hy": {
+        "query": "Չանդրայան-3",
+        "hover_text": "Հնդկական «Չանդրայան-3»-ը հաջող վայրէջք կատարեց Լուսնի վրա",
+        "share_text": "Հնդկական «Չանդրայան-3»-ը հաջող վայրէջք կատարեց Լուսնի վրա"
+      },
+      "az": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bn": {
+        "query": "চন্দ্রযান-3",
+        "hover_text": "চাঁদের দক্ষিণ মেরুতে প্রথম অবতরণের উদযাপন!",
+        "share_text": "চাঁদের দক্ষিণ মেরুতে প্রথম অবতরণের উদযাপন!"
+      },
+      "eu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "be": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": "Chandrayaan-3",
+        "hover_text": "Celebrating the first landing on the moon’s south pole!",
+        "share_text": "Celebrating the first landing on the moon’s south pole #GoogleDoodle #Chandrayaan3"
+      },
+      "bg": {
+        "query": "Chandrayaan-3",
+        "hover_text": "Честване на първото кацане на южния полюс на Луната!",
+        "share_text": "Честване на първото кацане на южния полюс на Луната!\r\n#GoogleDoodle"
+      },
+      "my": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ca": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": "月船三號",
+        "hover_text": "慶祝在月球南極的首次著陸！",
+        "share_text": "慶祝在月球南極的首次著陸 #GoogleDoodle #Chandrayaan3"
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "cs": {
+        "query": "první přistání na jižním pólu Měsíce",
+        "hover_text": "Oslava prvního přistání na jižním pólu Měsíce!",
+        "share_text": "Oslava prvního přistání na jižním pólu Měsíce! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Chandrayaan-3",
+        "hover_text": "Vi fejrer den første landing på månens sydpol",
+        "share_text": "Vi fejrer den første landing på månens sydpol"
+      },
+      "nl": {
+        "query": "Chandrayaan-3",
+        "hover_text": "Ter ere van de eerste landing op de zuidpool van de maan!",
+        "share_text": "Ter ere van de eerste landing op de zuidpool van de maan! #GoogleDoodle #Chandrayaan-3"
+      },
+      "et": {
+        "query": "Chandrayaan-3",
+        "hover_text": "Esimene maandumine kuu lõunapoolusele!",
+        "share_text": "Tähistame kosmosemissiooni Chandrayaan-3 esimest maandumist Kuu lõunapoolusele!"
+      },
+      "fi": {
+        "query": "Chandrayaan-3",
+        "hover_text": "Ensimmäinen laskeutuminen kuun etelänavalle!",
+        "share_text": "Ensimmäinen laskeutuminen kuun etelänavalle! #GoogleDoodle #Chandrayaan3"
+      },
+      "fr": {
+        "query": "Chandrayaan-3",
+        "hover_text": "Célébrons le premier atterrissage vers le pôle sud de la Lune",
+        "share_text": "Célébrons le premier atterrissage vers le pôle sud de la Lune"
+      },
+      "fr-CA": {
+        "query": "Chandrayaan-3",
+        "hover_text": "Célébrons le premier atterrissage sur le pôle Sud de la Lune!",
+        "share_text": "Célébrons le premier atterrissage sur le pôle Sud de la Lune #GoogleDoodle #Chandrayaan3"
+      },
+      "gl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "de": {
+        "query": "Chandrayaan-3",
+        "hover_text": "Wir feiern die erste Landung auf dem Südpol des Mondes!",
+        "share_text": "Wir feiern die erste Landung auf dem Südpol des Mondes! #GoogleDoodle #Chandrayaan3"
+      },
+      "el": {
+        "query": "Chandrayaan-3",
+        "hover_text": "Γιορτάζουμε την πρώτη προσγείωση στο νότιο πόλο της Σελήνης!",
+        "share_text": "#GoogleDoodle"
+      },
+      "gu": {
+        "query": "ચંદ્રયાન- 3",
+        "hover_text": "ચંદ્રના દક્ષિણ ધ્રુવ પર ઐતિહાસિક પ્રથમ લૅન્ડિંગની ઉજવણી!",
+        "share_text": "ચંદ્રના દક્ષિણ ધ્રુવ પર ઐતિહાસિક પ્રથમ લૅન્ડિંગની ઉજવણી!"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hi": {
+        "query": "चंद्रयान-3",
+        "hover_text": "चंद्रमा के दक्षिणी ध्रुव पर पहली बार उतरने का जश्न!",
+        "share_text": "चंद्रमा के दक्षिणी ध्रुव पर पहली बार उतरने का जश्न!"
+      },
+      "hu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "is": {
+        "query": "Chandrayaan-3",
+        "hover_text": "Við fögnum fyrstu lendingu á suðurpól tunglsins!",
+        "share_text": "Við fögnum fyrstu lendingu á suðurpól tunglsins #GoogleDoodle #Chandrayaan3"
+      },
+      "id": {
+        "query": "Chandrayaan-3",
+        "hover_text": "Merayakan pendaratan pertama di kutub selatan bulan!",
+        "share_text": "Merayakan pendaratan pertama di kutub selatan bulan! #GoogleDoodle #Chandrayaan-3"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Chandrayaan-3",
+        "hover_text": "In onore del primo atterraggio al Polo Sud della Luna!",
+        "share_text": "In onore del primo atterraggio al Polo Sud della Luna #GoogleDoodle #Chandrayaan3"
+      },
+      "ja": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "kn": {
+        "query": "ಚಂದ್ರಯಾನ-3",
+        "hover_text": "ಚಂದ್ರನ ದಕ್ಷಿಣ ಧ್ರುವದ ಮೇಲೆ ಮೊಟ್ಟಮೊದಲ ಬಾರಿಗೆ ಲ್ಯಾಂಡಿಂಗ್ ಮಾಡಿದ ರೋಚಕ ಕ್ಷಣಗಳನ್ನು ಸಂಭ್ರಮಿಸುತ್ತಿದ್ದೇವೆ!",
+        "share_text": "ಚಂದ್ರನ ದಕ್ಷಿಣ ಧ್ರುವದ ಮೇಲೆ ಮೊಟ್ಟಮೊದಲ ಬಾರಿಗೆ ಲ್ಯಾಂಡಿಂಗ್ ಮಾಡಿದ ರೋಚಕ ಕ್ಷಣಗಳನ್ನು ಸಂಭ್ರಮಿಸುತ್ತಿದ್ದೇವೆ!"
+      },
+      "kk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ko": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ky": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es-419": {
+        "query": "Chandrayaan-3",
+        "hover_text": "¡Celebrando el primer alunizaje en el polo sur de la luna!",
+        "share_text": "¡Celebrando el primer alunizaje en el polo sur de la luna! #GoogleDoodle #Chandrayaan3"
+      },
+      "lv": {
+        "query": "Chandrayaan-3 misija",
+        "hover_text": "Pirmā nolaišanās uz Mēness Dienvidola",
+        "share_text": "Pirmā nolaišanās uz Mēness Dienvidpola #GoogleDoodle #Chandrayaan3"
+      },
+      "lt": {
+        "query": "Chandrayaan-3",
+        "hover_text": "Pirmasis nusileidimas Mėnulio pietiniame ašigalyje!",
+        "share_text": "Švenčiame pirmąjį nusileidimą Mėnulio pietiniame ašigalyje #GoogleDoodle #Chandrayaan3"
+      },
+      "mk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ml": {
+        "query": "ചന്ദ്രയാൻ-3",
+        "hover_text": "ചന്ദ്രന്‍റെ ദക്ഷിണദ്രുവത്തിൽ ആദ്യമായി ഇറങ്ങിയത് ആഘോഷിക്കുന്നു!",
+        "share_text": "ചന്ദ്രന്‍റെ ദക്ഷിണദ്രുവത്തിൽ ആദ്യമായി ഇറങ്ങിയത് ആഘോഷിക്കുന്നു!"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "चंद्रयान-3",
+        "hover_text": "चंद्राच्या दक्षिण ध्रुवावरील पहिल्यावाहिल्या स्वारीचा जल्लोष!",
+        "share_text": "चंद्राच्या दक्षिण ध्रुवावरील पहिल्यावाहिल्या स्वारीचा जल्लोष!"
+      },
+      "mn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ne": {
+        "query": "चन्द्रयान-३",
+        "hover_text": "चन्द्रमाको दक्षिणी ध्रुवमा पहिलो  अवतरणको उत्सव मनाउँदै!",
+        "share_text": "चन्द्रमाको दक्षिणी ध्रुवमा पहिलो  अवतरणको उत्सव मनाउँदै!"
+      },
+      "no": {
+        "query": "Chandrayaan-3",
+        "hover_text": "Vi feirer den første landingen på månens sørpol!",
+        "share_text": "Vi feirer den første landingen på månens sørpol!"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଚନ୍ଦ୍ରଯାନ-3",
+        "hover_text": "ଚନ୍ଦ୍ରର ଦକ୍ଷିଣ ମେରୁରେ ପ୍ରଥମ ଅବତରଣର ଉତ୍ସବ!",
+        "share_text": "ଚନ୍ଦ୍ରର ଦକ୍ଷିଣ ମେରୁରେ ପ୍ରଥମ ଅବତରଣର ଉତ୍ସବ!"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pl": {
+        "query": "Chandrayaan-3",
+        "hover_text": "Świętujemy pierwsze lądowanie na południowym biegunie Księżyca!",
+        "share_text": "Świętujemy pierwsze lądowanie na południowym biegunie Księżyca #GoogleDoodle #Chandrayaan3"
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": "ਚੰਦਰਯਾਨ-3",
+        "hover_text": "ਚੰਦਰਮਾ ਦੇ ਦੱਖਣੀ ਧਰੁਵ 'ਤੇ ਪਹਿਲੀ ਲੈਂਡਿੰਗ ਦਾ ਜਸ਼ਨ!",
+        "share_text": "ਚੰਦਰਮਾ ਦੇ ਦੱਖਣੀ ਧਰੁਵ 'ਤੇ ਪਹਿਲੀ ਲੈਂਡਿੰਗ ਦਾ ਜਸ਼ਨ!"
+      },
+      "ro": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sk": {
+        "query": "prvé pristátie na južnom póle Mesiaca",
+        "hover_text": "Oslava prvého pristátia na južnom póle Mesiaca!",
+        "share_text": "Oslava prvého pristátia na južnom póle Mesiaca! #GoogleDoodle"
+      },
+      "sl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Chandrayaan-3",
+        "hover_text": "¡Celebrando el primer alunizaje en el polo sur de la luna!",
+        "share_text": "¡Celebrando el primer alunizaje en el polo sur de la luna! #GoogleDoodle #Chandrayaan3"
+      },
+      "sw": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sv": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "சந்திரயான்-3",
+        "hover_text": "நிலவின் தென் துருவத்தில் முதன்முறையாகத் தரையிறங்கியதைக் கொண்டாடுவோம்!",
+        "share_text": "நிலவின் தென் துருவத்தில் முதன்முறையாகத் தரையிறங்கியதைக் கொண்டாடுவோம்!"
+      },
+      "te": {
+        "query": "చంద్రయాన్-3",
+        "hover_text": "చంద్రుడి దక్షిణ ధ్రువంపై మొట్ట మొదటిసారిగా ల్యాండ్ అయిన సందర్భాన్ని సెలెబ్రేట్ చేసుకుందాం!",
+        "share_text": "చంద్రుడి దక్షిణ ధ్రువంపై మొట్ట మొదటిసారిగా ల్యాండ్ అయిన సందర్భాన్ని సెలెబ్రేట్ చేసుకుందాం!"
+      },
+      "th": {
+        "query": "จันทรายาน-3",
+        "hover_text": "เฉลิมฉลองการลงจอดครั้งแรกบนขั้วโลกใต้ของดวงจันทร์!",
+        "share_text": "เฉลิมฉลองการลงจอดครั้งแรกบนขั้วโลกใต้ของดวงจันทร์! #GoogleDoodle #Chandrayaan3"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ur": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uz": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "vi": {
+        "query": "Chandrayaan-3",
+        "hover_text": "Chúc mừng lần đầu hạ cánh thành công xuống vùng cực nam của mặt trăng",
+        "share_text": "Hôm nay Doodle chúc mừng tàu vũ trụ Chandrayaan-3 hạ cánh thành công xuống vùng cực nam của mặt trăng lần đầu tiên!"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Chandrayaan-3",
+    "share_text": "Celebrating the first landing on the moon’s south pole #GoogleDoodle #Chandrayaan3"
   },
   {
     "name": "qixi-festival-2023",
@@ -1043,7 +2041,7 @@
       },
       "az": {
         "query": "2023 Qadınlar üzrə Dünya Futbol Çempionatı",
-        "hover_text": "",
+        "hover_text": "2023 Qadınlar Arasında Dünya Çempionları",
         "share_text": "Çempionları təbrik edirik! #GoogleDoodle"
       },
       "bn": {
@@ -1313,7 +2311,7 @@
       },
       "or": {
         "query": null,
-        "hover_text": null,
+        "hover_text": "2023 ମହିଳା ବିଶ୍ୱକପ ଚମ୍ପିଆନ",
         "share_text": ""
       },
       "ps": {
