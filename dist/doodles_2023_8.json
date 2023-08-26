@@ -1,5 +1,504 @@
 [
   {
+    "name": "uruguay-independence-day-2023",
+    "title": "Uruguay Independence Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/uruguay-independence-day-2023-6753651837109926-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/eMFy61KYVo9nAptvv6eXsO6q8cJbfwVDgxmBGNFtpLRXs3bcgwNFegk6pBbeZBx_ZCDBrmwQpV0elzCALQL19XTdjTRSqLWUJWQO_u63bT40EKqLwlJ_",
+    "high_res_url": "//www.google.com/logos/doodles/2023/uruguay-independence-day-2023-6753651837109926-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      8,
+      25
+    ],
+    "translations": {
+      "en": {
+        "query": "Uruguay Independence Day",
+        "hover_text": "Uruguay Independence Day 2023",
+        "share_text": "Happy Independence Day, Uruguay! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": "Uruguay se onafhanklikheidsdag 2023",
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": "Dita e Pavarësisë së Uruguait, 2023",
+        "share_text": ""
+      },
+      "am": {
+        "query": null,
+        "hover_text": "የኡራጓይ የነፃነት ቀን 2023",
+        "share_text": ""
+      },
+      "ar": {
+        "query": null,
+        "hover_text": "عيد استقلال الأوروغواي لعام 2023",
+        "share_text": ""
+      },
+      "hy": {
+        "query": null,
+        "hover_text": "Ուրուգվայի անկախության օր 2023",
+        "share_text": ""
+      },
+      "az": {
+        "query": null,
+        "hover_text": "2023 Uruqvayın Müstəqillik Günü",
+        "share_text": ""
+      },
+      "bn": {
+        "query": null,
+        "hover_text": "উরুগুয়ের স্বাধীনতা দিবস ২০২৩",
+        "share_text": ""
+      },
+      "eu": {
+        "query": null,
+        "hover_text": "2023ko Uruguaiko Independentzia Eguna",
+        "share_text": ""
+      },
+      "be": {
+        "query": null,
+        "hover_text": "Дзень незалежнасці Уругвая – 2023",
+        "share_text": ""
+      },
+      "bs": {
+        "query": null,
+        "hover_text": "Dan nezavisnosti Urugvaja 2023.",
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bg": {
+        "query": null,
+        "hover_text": "Ден на независимостта на Уругвай 2023 г.",
+        "share_text": ""
+      },
+      "my": {
+        "query": null,
+        "hover_text": "၂၀၂၃ ဥရုဂွေးနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": ""
+      },
+      "ca": {
+        "query": null,
+        "hover_text": "Dia de la Independència de l'Uruguai 2023",
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": "Dan neovisnosti Urugvaja 2023.",
+        "share_text": ""
+      },
+      "cs": {
+        "query": null,
+        "hover_text": "Den nezávislosti Uruguaye 2023",
+        "share_text": ""
+      },
+      "da": {
+        "query": null,
+        "hover_text": "Uruguays uafhængighedsdag 2023",
+        "share_text": ""
+      },
+      "nl": {
+        "query": null,
+        "hover_text": "Onafhankelijkheidsdag Uruguay 2023",
+        "share_text": ""
+      },
+      "et": {
+        "query": null,
+        "hover_text": "Uruguay 2023. aasta iseseisvuspäev",
+        "share_text": ""
+      },
+      "fi": {
+        "query": null,
+        "hover_text": "Uruguayn itsenäisyyspäivä 2023",
+        "share_text": ""
+      },
+      "fr": {
+        "query": null,
+        "hover_text": "Fête de l'Indépendance de l'Uruguay 2023",
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": "Día da Independencia do Uruguai 2023",
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": "ურუგვაის დამოუკიდებლობის დღე — 2023",
+        "share_text": ""
+      },
+      "de": {
+        "query": null,
+        "hover_text": "Unabhängigkeitstag Uruguay 2023",
+        "share_text": ""
+      },
+      "el": {
+        "query": null,
+        "hover_text": "Ημέρα Ανεξαρτησίας της Ουρουγουάης 2023",
+        "share_text": ""
+      },
+      "gu": {
+        "query": null,
+        "hover_text": "ઉરુગ્વેનો સ્વતંત્રતા દિવસ 2023",
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": "יום העצמאות של אורוגוואי 2023",
+        "share_text": ""
+      },
+      "hi": {
+        "query": null,
+        "hover_text": "उरुग्वे का स्वतंत्रता दिवस 2023",
+        "share_text": ""
+      },
+      "hu": {
+        "query": null,
+        "hover_text": "Uruguay függetlenségének napja, 2023",
+        "share_text": ""
+      },
+      "is": {
+        "query": null,
+        "hover_text": "Sjálfstæðisdagur Úrúgvæ 2023",
+        "share_text": ""
+      },
+      "id": {
+        "query": null,
+        "hover_text": "Hari Kemerdekaan Uruguay 2023",
+        "share_text": ""
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": "Festa dell'indipendenza dell'Uruguay 2023",
+        "share_text": ""
+      },
+      "ja": {
+        "query": null,
+        "hover_text": "2023 年ウルグアイ独立記念日",
+        "share_text": ""
+      },
+      "kn": {
+        "query": null,
+        "hover_text": "ಉರುಗ್ವೆ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2023",
+        "share_text": ""
+      },
+      "kk": {
+        "query": null,
+        "hover_text": "Уругвайдың Тәуелсіздік күні – 2023",
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": "ទិវា​បុណ្យឯករាជ្យជាតិ​អ៊ុយរូហ្កាយឆ្នាំ 2023",
+        "share_text": ""
+      },
+      "ko": {
+        "query": null,
+        "hover_text": "2023년 우루과이 독립기념일",
+        "share_text": ""
+      },
+      "ky": {
+        "query": null,
+        "hover_text": "Уругвайдын эгемендүүлүк күнү — 2023",
+        "share_text": ""
+      },
+      "lo": {
+        "query": null,
+        "hover_text": "ວັນປະກາດເອກະລາດອູຣູກວຍ 2023",
+        "share_text": ""
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Uruguay",
+        "hover_text": "Día de la Independencia de Uruguay 2023",
+        "share_text": "Día de la Independencia de Uruguay. #GoogleDoodle"
+      },
+      "lv": {
+        "query": null,
+        "hover_text": "Urugvajas Neatkarības diena — 2023",
+        "share_text": ""
+      },
+      "lt": {
+        "query": null,
+        "hover_text": "Urugvajaus nepriklausomybės diena, 2023 m.",
+        "share_text": ""
+      },
+      "mk": {
+        "query": null,
+        "hover_text": "Ден на независноста на Уругвај, 2023 г.",
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": "Hari Kemerdekaan Uruguay 2023",
+        "share_text": ""
+      },
+      "ml": {
+        "query": null,
+        "hover_text": "ഉറുഗ്വേ സ്വാതന്ത്ര്യദിനം 2023",
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": "उरुग्वेचा स्वातंत्र्यदिन २०२३",
+        "share_text": ""
+      },
+      "mn": {
+        "query": null,
+        "hover_text": "2023 оны Уругвай Улсын Тусгаар тогтнолын өдөр",
+        "share_text": ""
+      },
+      "ne": {
+        "query": null,
+        "hover_text": "उरुग्वेको स्वतन्त्रता दिवस २०२३",
+        "share_text": ""
+      },
+      "no": {
+        "query": null,
+        "hover_text": "Uruguays frigjøringsdag 2023",
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": "روز استقلال اروگوئه - ۲۰۲۳",
+        "share_text": ""
+      },
+      "pl": {
+        "query": null,
+        "hover_text": "Dzień Niepodległości Urugwaju 2023",
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": null,
+        "hover_text": "ਉਰੂਗੁਏ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ 2023",
+        "share_text": ""
+      },
+      "ro": {
+        "query": null,
+        "hover_text": "Ziua Independenței în Uruguay – 2023",
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": "День независимости Уругвая – 2023",
+        "share_text": ""
+      },
+      "sr": {
+        "query": null,
+        "hover_text": "Дан независности Уругваја 2023.",
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": "උරුගුවේ නිදහස් දිනය 2023",
+        "share_text": ""
+      },
+      "sk": {
+        "query": null,
+        "hover_text": "Deň nezávislosti Uruguaja 2023",
+        "share_text": ""
+      },
+      "sl": {
+        "query": null,
+        "hover_text": "Dan neodvisnosti Urugvaja 2023",
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": "Día de la Independencia de Uruguay 2023",
+        "share_text": ""
+      },
+      "sw": {
+        "query": null,
+        "hover_text": "Sikukuu ya Uhuru wa Urugwai 2023",
+        "share_text": ""
+      },
+      "sv": {
+        "query": null,
+        "hover_text": "Uruguays självständighetsdag 2023",
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": "உருகுவேயின் சுதந்திர தினம் 2023",
+        "share_text": ""
+      },
+      "te": {
+        "query": null,
+        "hover_text": "ఉరుగ్వే స్వాతంత్య్ర దినోత్సవం 2023",
+        "share_text": ""
+      },
+      "th": {
+        "query": null,
+        "hover_text": "วันประกาศอิสรภาพของอุรุกวัยปี 2023",
+        "share_text": ""
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": "Uruguay Bağımsızlık Günü 2023",
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": "День незалежності Уругваю у 2023 році",
+        "share_text": ""
+      },
+      "ur": {
+        "query": null,
+        "hover_text": "یوروگوئے کا یوم آزادی 2023",
+        "share_text": ""
+      },
+      "uz": {
+        "query": null,
+        "hover_text": "Urugvay Mustaqillik kuni 2023",
+        "share_text": ""
+      },
+      "vi": {
+        "query": null,
+        "hover_text": "Ngày Quốc khánh Uruguay năm 2023",
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": "Usuku Lokuzimela lwase-Uruguay lwango-2023",
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Uruguay Independence Day",
+    "share_text": "Happy Independence Day, Uruguay! #GoogleDoodle"
+  },
+  {
     "name": "habib-benglias-128th-birthday",
     "title": "Habib Benglia's 128th Birthday",
     "url": "//www.google.com/logos/doodles/2023/habib-benglias-128th-birthday-6753651837110126.2-l.png",
