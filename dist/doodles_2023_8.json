@@ -1,5 +1,504 @@
 [
   {
+    "name": "republic-of-moldova-independence-day-2023",
+    "title": "Republic of Moldova Independence Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/republic-of-moldova-independence-day-2023-6753651837109928-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/GRGcNiJn4tRsr8m8wFP8hC1Cf7PUnznQi1p9kR5cHzDXWv8aJAqgNZ9YEw0qXi0CplEphA42-qA1GIB8w1wAQ4182Ohq6NWhpzBvza1DVejPSa-jpJ_7iA",
+    "high_res_url": "//www.google.com/logos/doodles/2023/republic-of-moldova-independence-day-2023-6753651837109928-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      8,
+      27
+    ],
+    "translations": {
+      "en": {
+        "query": "Republic of Moldova Independence Day",
+        "hover_text": "Republic of Moldova Independence Day 2023",
+        "share_text": "Happy Republic of Independence Day, Moldova! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Republiek van Moldowa se onafhanklikheidsdag",
+        "hover_text": "Republiek van Moldowa se onafhanklikheidsdag 2023",
+        "share_text": "Gelukkige onafhanklikheidsdag, Republiek van Moldowa! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë së Republikës së Moldavisë",
+        "hover_text": "Dita e Pavarësisë së Republikës së Moldavisë, 2023",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Republika e Moldavisë! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የሞልዶቫ ሪፐብሊክ የነፃነት ቀን",
+        "hover_text": "የሞልዶቫ ሪፐብሊክ የነፃነት ቀን 2023",
+        "share_text": "መልካም የነጻነት ቀን፣ ሞልዶቫ ሪፐብሊክ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال جمهورية مولدوفا",
+        "hover_text": "عيد استقلال جمهورية مولدوفا 2023",
+        "share_text": "نتمنّى عيد استقلال سعيدًا لجمهورية مولدوفا. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Մոլդովայի Հանրապետության անկախության օր",
+        "hover_text": "Մոլդովայի Հանրապետության անկախության օր 2023",
+        "share_text": "Շնորհավո՛ր անկախության օրը, Մոլդովա #GoogleDoodle"
+      },
+      "az": {
+        "query": "Moldova Respublikasının Müstəqillik Günü",
+        "hover_text": "2023 Moldova Respublikasının Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Moldova Respublikası! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "মলদোভা প্রজাতন্ত্রের স্বাধীনতা দিবস",
+        "hover_text": "মলদোভা প্রজাতন্ত্রের স্বাধীনতা দিবস ২০২৩",
+        "share_text": "স্বাধীনতা দিবসের শুভেচ্ছা, মলদোভা প্রজাতন্ত্র! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Moldaviako Errepublikako Independentzia Eguna",
+        "hover_text": "2023ko Moldaviako Errepublikako Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Moldaviako Errepublika! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Рэспублікі Малдова",
+        "hover_text": "Дзень незалежнасці Рэспублікі Малдова 2023",
+        "share_text": "З Днём незалежнасці, Рэспубліка Малдова! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Republike Moldavije",
+        "hover_text": "Dan nezavisnosti Republike Moldavije 2023.",
+        "share_text": "Sretan Dan nezavisnosti Republike, Moldavijo! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bg": {
+        "query": "Ден на независимостта на Република Молдова",
+        "hover_text": "Ден на независимостта на Република Молдова 2023 г.",
+        "share_text": "Честит Ден на независимостта на Република Молдова! #GoogleDoodle"
+      },
+      "my": {
+        "query": "မော်လ်ဒိုဗာသမ္မတနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၃ မော်လ်ဒိုဗာသမ္မတနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "မော်လ်ဒိုဗာ သမ္မတနိုင်ငံတော်၏ ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència de la República de Moldàvia",
+        "hover_text": "Dia de la Independència de la República de Moldàvia 2023",
+        "share_text": "Feliç dia de la Independència, República de Moldàvia! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": "Dan neovisnosti Republike Moldove",
+        "hover_text": "Dan neovisnosti Republike Moldove 2023.",
+        "share_text": "Sretan Dan neovisnosti, Republiko Moldova! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Moldavska",
+        "hover_text": "Den nezávislosti Moldavska 2023",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Moldavsko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Moldovas uafhængighedsdag",
+        "hover_text": "Moldovas uafhængighedsdag 2023",
+        "share_text": "Glædelig uafhængighedsdag, Moldova #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag van de Republiek Moldavië",
+        "hover_text": "Onafhankelijkheidsdag van de Republiek Moldavië 2023",
+        "share_text": "Fijne Onafhankelijkheidsdag, de Republiek Moldavië! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Moldova Vabariigi iseseisvuspäev",
+        "hover_text": "Moldova Vabariigi 2023. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Moldova Vabariik! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Moldovan tasavallan itsenäisyyspäivä",
+        "hover_text": "Moldovan tasavallan itsenäisyyspäivä 2023",
+        "share_text": "Hyvää itsenäisyyspäivää, Moldovan tasavalta! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance de la République de Moldavie",
+        "hover_text": "Fête de l'Indépendance de la République de Moldavie 2023",
+        "share_text": "Fête de l'Indépendance de la République de Moldavie ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": "Día da Independencia da República Moldova",
+        "hover_text": "Día da Independencia da República Moldova 2023",
+        "share_text": "Feliz Día da Independencia, República Moldova! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მოლდოვის რესპუბლიკის დამოუკიდებლობის დღე",
+        "hover_text": "მოლდოვის რესპუბლიკის დამოუკიდებლობის დღე — 2023",
+        "share_text": "მოლდოვის რესპუბლიკას ვულოცავთ დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag der Republik Moldau",
+        "hover_text": "Unabhängigkeitstag der Republik Moldau 2023",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in der Republik Moldau! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας της Δημοκρατίας της Μολδαβίας",
+        "hover_text": "Ημέρα Ανεξαρτησίας της Δημοκρατίας της Μολδαβίας 2023",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας της Δημοκρατίας της Μολδαβίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "રિપબ્લિક ઑફ મોલ્ડોવાનો સ્વતંત્રતા દિવસ",
+        "hover_text": "રિપબ્લિક ઑફ મોલ્ડોવાનો સ્વતંત્રતા દિવસ 2023",
+        "share_text": "સ્વતંત્રતા દિવસની શુભેચ્છાઓ, રિપબ્લિક ઑફ મોલ્ડોવા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של רפובליקת מולדובה",
+        "hover_text": "יום העצמאות של רפובליקת מולדובה 2023",
+        "share_text": "יום עצמאות שמח לרפובליקת מולדובה GoogleDoodle#"
+      },
+      "hi": {
+        "query": "मोल्डोवा गणराज्य का स्वतंत्रता दिवस",
+        "hover_text": "मोल्डोवा गणराज्य का स्वतंत्रता दिवस 2023",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, मोल्डोवा गणराज्य! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A Moldovai Köztársaság függetlenségének napja",
+        "hover_text": "A Moldovai Köztársaság függetlenségének napja, 2023",
+        "share_text": "Minden jót a függetlenség napján, Moldovai Köztársaság! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Moldóvu",
+        "hover_text": "Sjálfstæðisdagur Moldóvu 2023",
+        "share_text": "Gleðilegan sjálfstæðisdag, Moldóva! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Republik Moldova",
+        "hover_text": "Hari Kemerdekaan Republik Moldova 2023",
+        "share_text": "Selamat Hari Kemerdekaan, Republik Moldova! #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Festa dell'indipendenza della Repubblica di Moldavia",
+        "hover_text": "Festa dell'indipendenza della Repubblica di Moldavia 2023",
+        "share_text": "Buona festa dell'indipendenza, Repubblica di Moldavia! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "モルドバ共和国独立記念日",
+        "hover_text": "2023 年モルドバ共和国独立記念日",
+        "share_text": "モルドバ共和国独立記念日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ರಿಪಬ್ಲಿಕ್ ಆಫ್ ಮಾಲ್ಡೋವಾದ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ರಿಪಬ್ಲಿಕ್ ಆಫ್ ಮಾಲ್ಡೋವಾದ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2023",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು ರಿಪಬ್ಲಿಕ್ ಆಫ್ ಮಾಲ್ಡೋವಾ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Молдова Республикасының Тәуелсіздік күні",
+        "hover_text": "Молдова Республикасының Тәуелсіздік күні – 2023",
+        "share_text": "Тәуелсіздік күні құтты болсын, Молдова Республикасы! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាបុណ្យឯករាជ្យជាតិសាធារណរដ្ឋម៉ុលដាវី",
+        "hover_text": "ទិវាបុណ្យឯករាជ្យជាតិសាធារណរដ្ឋម៉ុលដាវីឆ្នាំ 2023",
+        "share_text": "អបអរទិវា​បុណ្យឯករាជ្យជាតិ​សាធារណរដ្ឋម៉ុលដាវី! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "몰도바 공화국 독립기념일",
+        "hover_text": "2023년 몰도바 공화국 독립기념일",
+        "share_text": "몰도바 공화국 독립기념일을 기념합니다. #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Молдова Республикасынын Эгемендүүлүк күнү – 2023",
+        "hover_text": "Молдова Республикасынын Эгемендүүлүк күнү – 2023",
+        "share_text": "Эгемендүүлүк күнүң менен, Молдова Республикасы! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດຂອງສາທາລະນະລັດໂມລໂດວາ",
+        "hover_text": "ວັນປະກາດເອກະລາດຂອງສາທາລະນະລັດໂມລໂດວາ 2023",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດ, ສາທາລະນະລັດໂມລໂດວາ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lv": {
+        "query": "Moldovas Republikas Neatkarības diena",
+        "hover_text": "Moldovas Republikas Neatkarības diena — 2023",
+        "share_text": "Sveicam Neatkarības dienā, Moldovas Republika! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Moldovos Respublikos nepriklausomybės diena",
+        "hover_text": "Moldovos Respublikos nepriklausomybės diena, 2023 m.",
+        "share_text": "Sveikiname Moldovos Respubliką su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Република Молдавија",
+        "hover_text": "Ден на независноста на Република Молдавија, 2023 г.",
+        "share_text": "Среќен Ден на независноста, Република Молдавија! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Republik Moldova",
+        "hover_text": "Hari Kemerdekaan Republik Moldova 2023",
+        "share_text": "Selamat Menyambut Hari Kemerdekaan Republik Moldova! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "റിപ്പബ്ലിക് ഓഫ് മൾഡോവയുടെ സ്വാതന്ത്ര്യ ദിനം",
+        "hover_text": "റിപ്പബ്ലിക് ഓഫ് മൾഡോവയുടെ സ്വാതന്ത്ര്യ ദിനം 2023",
+        "share_text": "സ്വാതന്ത്ര്യ ദിനാശംസകൾ, റിപ്പബ്ലിക്ക് ഓഫ് മള്‍ഡോവ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "रिपब्लिक ऑफ मोल्डोव्हाचा स्वातंत्र्यदिन",
+        "hover_text": "रिपब्लिक ऑफ मोल्डोव्हाचा स्वातंत्र्यदिन २०२३",
+        "share_text": "रिपब्लिक ऑफ मोल्डोव्हाला स्वातंत्र्यदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Бүгд Найрамдах Молдова Улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2023 оны Бүгд Найрамдах Молдова Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Молдова Улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "गणतन्त्र मोल्डोभाको स्वतन्त्रता दिवस",
+        "hover_text": "गणतन्त्र मोल्डोभाको स्वतन्त्रता दिवस २०२३",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, गणतन्त्र मोल्डोभा! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Republikken Moldovas frigjøringsdag",
+        "hover_text": "Republikken Moldovas frigjøringsdag 2023",
+        "share_text": "Gratulerer med frigjøringsdagen, Moldova! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال جمهوری مولداوی",
+        "hover_text": "روز استقلال جمهوری مولداوی - ۲۰۲۳",
+        "share_text": "روز استقلال جمهوری مولداوی مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Niepodległości Mołdawii",
+        "hover_text": "Dzień Niepodległości Mołdawii 2023",
+        "share_text": "Mołdawia obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": "ਮੋਲਦੋਵਾ ਗਣਤੰਤਰ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ",
+        "hover_text": "ਮੋਲਦੋਵਾ ਗਣਤੰਤਰ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ 2023",
+        "share_text": "ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਮੋਲਦੋਵਾ ਗਣਤੰਤਰ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței Republicii Moldova",
+        "hover_text": "Ziua Independenței Republicii Moldova 2023",
+        "share_text": "La mulți ani de Ziua Independenței Republicii Moldova! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": "Ziua Independenței Republicii Moldova",
+        "hover_text": "Ziua Independenței Republicii Moldova 2023",
+        "share_text": "La mulți ani de Ziua Independenței Republicii Moldova! #GoogleDoodle"
+      },
+      "ru": {
+        "query": "День независимости Республики Молдова",
+        "hover_text": "День независимости Республики Молдова 2023",
+        "share_text": "С Днём независимости Республики Молдова! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Републике Молдавије",
+        "hover_text": "Дан независности Републике Молдавије 2023.",
+        "share_text": "Честитамо Дан независности Републици Молдавији! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "මෝල්ඩෝවා ජනරජයේ නිදහස් දිනය",
+        "hover_text": "මෝල්ඩෝවා ජනරජයේ නිදහස් දිනය 2023",
+        "share_text": "සුභ නිදහස් ජනරජ දිනයක්, මෝල්ඩෝවාව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Moldavska",
+        "hover_text": "Deň nezávislosti Moldavska 2023",
+        "share_text": "Šťastný deň nezávislosti, Moldavsko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Republike Moldavije",
+        "hover_text": "Dan neodvisnosti Republike Moldavije 2023",
+        "share_text": "Vesel dan neodvisnosti republike, Moldavija! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día de la Independencia de la República de Moldavia",
+        "hover_text": "Día de la Independencia de la República de Moldavia 2023",
+        "share_text": "¡Feliz Día de la Independencia de la República de Moldavia! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Jamhuri ya Moldova",
+        "hover_text": "Sikukuu ya Uhuru wa Jamhuri ya Moldova 2023",
+        "share_text": "Heri ya Sikukuu ya Uhuru wa Jamhuri, Moldova! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Moldaviens självständighetsdag",
+        "hover_text": "Moldaviens självständighetsdag 2023",
+        "share_text": "Vi firar Moldaviens självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Republic of Moldova Independence Day",
+        "hover_text": "மால்டோவா குடியரசின் சுதந்திர தினம் 2023",
+        "share_text": "மால்டோவா குடியரசின் சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "రిపబ్లిక్ ఆఫ్ మోల్డోవా స్వాతంత్య్ర దినోత్సవం",
+        "hover_text": "రిపబ్లిక్ ఆఫ్ మోల్డోవా స్వాతంత్య్ర దినోత్సవం 2023",
+        "share_text": "మోల్డోవా ప్రజలకు స్వాతంత్య్ర దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของสาธารณรัฐมอลโดวา",
+        "hover_text": "วันประกาศอิสรภาพของสาธารณรัฐมอลโดวาปี 2023",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของมอลโดวา #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Moldova Cumhuriyeti Bağımsızlık Günü",
+        "hover_text": "Moldova Cumhuriyeti Bağımsızlık Günü 2023",
+        "share_text": "Moldova Cumhuriyeti Bağımsızlık Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Республіки Молдова",
+        "hover_text": "День незалежності Республіки Молдова у 2023 році",
+        "share_text": "З Днем незалежності, Республіко Молдова! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "جمہوریہ مالدووا کا یوم آزادی",
+        "hover_text": "جمہوریہ مالدووا کا یوم آزادی 2023",
+        "share_text": "یوم جمہوریہ مبارک ہو، مالدووا! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Moldova Respublikasi Mustaqillik kuni",
+        "hover_text": "Moldova Respublikasi Mustaqillik kuni 2023",
+        "share_text": "Mustaqillik kuning muborak, Moldova Respublikasi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Quốc khánh Cộng hoà Moldova",
+        "hover_text": "Ngày Quốc khánh Cộng hoà Moldova năm 2023",
+        "share_text": "Chào mừng ngày Quốc khánh Cộng hoà Moldova! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lokuzimela Lwe-Republic of Moldova",
+        "hover_text": "Usuku Lokuzimela Lwe-Republic of Moldova luka-2023",
+        "share_text": "Usuku Oluhle Lokuzimela Lwe-Republic, Moldova! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Republic of Moldova Independence Day",
+    "share_text": "Happy Republic of Independence Day, Moldova! #GoogleDoodle"
+  },
+  {
     "name": "uruguay-independence-day-2023",
     "title": "Uruguay Independence Day 2023",
     "url": "//www.google.com/logos/doodles/2023/uruguay-independence-day-2023-6753651837109926-law.gif",
