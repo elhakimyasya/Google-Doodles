@@ -1,5 +1,1003 @@
 [
   {
+    "name": "celebrating-lake-toba",
+    "title": "Celebrating Lake Toba",
+    "url": "//www.google.com/logos/doodles/2023/celebrating-lake-toba-6753651837110078.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/KIXu5OloTudX7Pp3iH8_1zi_vRoDwhmAC7G2cWjHdD68JNi6orNz-XzCIRJGK3CLQ84cY2IiF1Akgu4fo1WnxnHtuhOEDsG0vAKuGYd2Ts94mT0u4mgK",
+    "high_res_url": "//www.google.com/logos/doodles/2023/celebrating-lake-toba-6753651837110078.2-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      8,
+      31
+    ],
+    "translations": {
+      "en": {
+        "query": "Lake Toba",
+        "hover_text": "Celebrating Lake Toba",
+        "share_text": "Celebrating Lake Toba! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Toba-meer",
+        "hover_text": "Ter viering van Toba-meer",
+        "share_text": "Ter viering van Toba-meer! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Liqeni Toba",
+        "hover_text": "Festojmë për liqenin Toba",
+        "share_text": "Festojmë për liqenin Toba! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ቶባ ሀይቅ",
+        "hover_text": "ቶባ ሀይቅን በማክበር ላይ",
+        "share_text": "ቶባ ሀይቅን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "بحيرة \"توبا\"",
+        "hover_text": "الاحتفال ببحيرة \"توبا\"",
+        "share_text": "نحتفل اليوم ببحيرة \"توبا\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Տոբա լիճ",
+        "hover_text": "Տոնենք Տոբա լճի օրը",
+        "share_text": "Տոնե՛նք Տոբա լճի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Toba Gölü",
+        "hover_text": "Toba Gölü günü",
+        "share_text": "Toba Gölü günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "লেক তোবা",
+        "hover_text": "লেক তোবা উদযাপন করা হচ্ছে",
+        "share_text": "লেক তোবা উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Toba lakua",
+        "hover_text": "Toba lakuaren omenez",
+        "share_text": "Toba lakuaren omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Возера Тоба",
+        "hover_text": "Ушаноўваем возера Тоба",
+        "share_text": "Ушаноўваем возера Тоба! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Jezero Toba",
+        "hover_text": "Slavimo jezero Toba",
+        "share_text": "Slavimo jezero Toba! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bg": {
+        "query": "Езерото Тоба",
+        "hover_text": "Честване на езерото Тоба",
+        "share_text": "Честване на езерото Тоба! #GoogleDoodle"
+      },
+      "my": {
+        "query": "တိုဘာကန်",
+        "hover_text": "တိုဘာကန်ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "တိုဘာကန်ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Llac Toba",
+        "hover_text": "Homenatge al llac Toba",
+        "share_text": "Homenatge al llac Toba #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": "Jezero Toba",
+        "hover_text": "Slavimo jezero Toba",
+        "share_text": "Slavimo jezero Toba! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Jezero Toba",
+        "hover_text": "Oslava jezera Toba",
+        "share_text": "Oslava jezera Toba! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Toba-søen",
+        "hover_text": "Vi hylder Toba-søen",
+        "share_text": "Vi hylder Toba-søen #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Tobameer",
+        "hover_text": "Doodle ter ere van het Tobameer",
+        "share_text": "Een doodle ter ere van het Tobameer! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Toba järv",
+        "hover_text": "Austame Toba järve",
+        "share_text": "Austame Toba järve! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Tobajärvi",
+        "hover_text": "Tobajärvi",
+        "share_text": "Tobajärvi #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Lac Toba",
+        "hover_text": "Le lac Toba est à l'honneur",
+        "share_text": "Le lac Toba est à l'honneur ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": "Lago Toba",
+        "hover_text": "Homenaxe ao lago Toba",
+        "share_text": "Homenaxe ao lago Toba! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ტობას ტბა",
+        "hover_text": "ტობას ტბის დღე",
+        "share_text": "ტობას ტბის დღე! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Tobasee",
+        "hover_text": "Zu Ehren des Tobasees",
+        "share_text": "Zu Ehren des Tobasees! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Λίμνη Τόμπα",
+        "hover_text": "Τιμούμε τη λίμνη Τόμπα",
+        "share_text": "Τιμούμε τη λίμνη Τόμπα! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "લેક ટોબા",
+        "hover_text": "લેક ટોબાની યાદમાં",
+        "share_text": "લેક ટોબાની યાદમાં! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "אגם טובה",
+        "hover_text": "מחווה לאגם טובה",
+        "share_text": "מחווה לאגם טובה GoogleDoodle#"
+      },
+      "hi": {
+        "query": "लेक टोबा",
+        "hover_text": "लेक टोबा की शान में",
+        "share_text": "लेक टोबा की शान में! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Toba-tó",
+        "hover_text": "A Toba-tó ünneplése",
+        "share_text": "A Toba-tó ünneplése #GoogleDoodle"
+      },
+      "is": {
+        "query": "Toba-vatn",
+        "hover_text": "Við heiðrum Toba-vatn",
+        "share_text": "Við heiðrum Toba-vatn! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Danau Toba",
+        "hover_text": "Merayakan Danau Toba",
+        "share_text": "Merayakan Danau Toba #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Lago Toba",
+        "hover_text": "In onore del lago Toba",
+        "share_text": "In onore del lago Toba! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "トバ湖",
+        "hover_text": "トバ湖を称えて",
+        "share_text": "トバ湖を称えて #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಟೋಬಾ ಸರೋವರ",
+        "hover_text": "ಟೋಬಾ ಸರೋವರ ಉತ್ಸವವನ್ನು ಸಂಭ್ರಮಿಸಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಟೋಬಾ ಸರೋವರ ಉತ್ಸವವನ್ನು ಸಂಭ್ರಮಿಸಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Тоба көлі",
+        "hover_text": "Тоба көлі күні",
+        "share_text": "Тоба көлі күні #GoogleDoodle"
+      },
+      "km": {
+        "query": "បឹង Toba",
+        "hover_text": "អបអរបឹង Toba",
+        "share_text": "អបអរបឹង Toba! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "토바호",
+        "hover_text": "토바호 기념",
+        "share_text": "토바호 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Тоба көлү",
+        "hover_text": "Тоба көлү менен",
+        "share_text": "Тоба көлү менен! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ທະເລສາບ Toba",
+        "hover_text": "ສະເຫຼີມສະຫຼອງທະເລສາບ Toba",
+        "share_text": "ສະເຫຼີມສະຫຼອງທະເລສາບ Toba! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lv": {
+        "query": "Tobas ezers",
+        "hover_text": "Tobas ezera godināšana",
+        "share_text": "Tobas ezera godināšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Tobos ežeras",
+        "hover_text": "Tobos ežero minėjimas",
+        "share_text": "Tobos ežero minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Езеро Toba",
+        "hover_text": "Во чест на езерото Toba",
+        "share_text": "Во чест на езерото Toba! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Danau Toba",
+        "hover_text": "Meraikan Danau Toba",
+        "share_text": "Meraikan Danau Toba! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ടോബ തടാകം",
+        "hover_text": "ടോബ തടാകം ആഘോഷമാക്കുന്നു",
+        "share_text": "ടോബ തടാകം ആഘോഷമാക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "टोबा सरोवर",
+        "hover_text": "टोबा सरोवर या ठिकाणाच्या सन्मानार्थ",
+        "share_text": "टोबा सरोवर या ठिकाणाच्या सन्मानार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Тоба нуур",
+        "hover_text": "Тоба нуурын өдрийг тэмдэглэж байна",
+        "share_text": "Тоба нуурын өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "टोबा ताल",
+        "hover_text": "टोबा तालको उत्सव मनाउँदै",
+        "share_text": "टोबा तालको उत्सव मनाउँदै! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Tobasjøen",
+        "hover_text": "Vi feirer Tobasjøen",
+        "share_text": "Vi feirer Tobasjøen! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "دریاچه توبا",
+        "hover_text": "بزرگداشت دریاچه توبا",
+        "share_text": "بزرگداشت دریاچه توبا! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Jezioro Toba",
+        "hover_text": "Podziwiamy jezioro Toba",
+        "share_text": "Podziwiamy jezioro Toba #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": "ਤੋਬਾ ਝੀਲ",
+        "hover_text": "ਤੋਬਾ ਝੀਲ ਦੀ ਯਾਦ ਵਿੱਚ",
+        "share_text": "ਤੋਬਾ ਝੀਲ ਦੀ ਯਾਦ ਵਿੱਚ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Lacul Toba",
+        "hover_text": "În cinstea Lacului Toba",
+        "share_text": "În cinstea Lacului Toba! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Озеро Тоба",
+        "hover_text": "День озера Тоба",
+        "share_text": "День озера Тоба #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Језеро Тоба",
+        "hover_text": "Славимо језеро Тоба",
+        "share_text": "Славимо језеро Тоба! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ටෝබා විල",
+        "hover_text": "ටෝබා විල සමරමින්",
+        "share_text": "ටෝබා විල සමරමින්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Jazero Toba",
+        "hover_text": "Oslavujeme jazero Toba",
+        "share_text": "Oslavujeme jazero Toba! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Jezero Toba",
+        "hover_text": "Slavimo jezero Toba",
+        "share_text": "Slavimo jezero Toba! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Lago Toba",
+        "hover_text": "Homenaje al lago Toba",
+        "share_text": "Hoy rendimos homenaje al lago Toba #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Ziwa Toba",
+        "hover_text": "Tunaenzi Ziwa Toba",
+        "share_text": "Tunaenzi Ziwa Toba! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Tobasjön",
+        "hover_text": "Vi hyllar Tobasjön",
+        "share_text": "Vi hyllar Tobasjön #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "தோபா ஏரி",
+        "hover_text": "தோபா ஏரியைக் கொண்டாடுவோம்",
+        "share_text": "தோபா ஏரியைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "లేక్ టోబా",
+        "hover_text": "లేక్ టోబా వేడుకలు",
+        "share_text": "లేక్ టోబా వేడుకలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "ทะเลสาบ Toba",
+        "hover_text": "วันเฉลิมฉลองทะเลสาบ Toba",
+        "share_text": "วันเฉลิมฉลองทะเลสาบ Toba #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Toba Gölü",
+        "hover_text": "Toba Gölü Kutlaması",
+        "share_text": "Toba Gölü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Озеро Тоба",
+        "hover_text": "Святкуємо День озера Тоба",
+        "share_text": "Святкуємо День озера Тоба! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "بحیرہ توبا",
+        "hover_text": "بحیرہ توبا کا جشن",
+        "share_text": "بحیرہ توبا کا جشن! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Toba koʻli",
+        "hover_text": "Toba koʻli bilan",
+        "share_text": "Toba koʻli bilan! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Hồ Toba",
+        "hover_text": "Tôn vinh hồ Toba",
+        "share_text": "Tôn vinh hồ Toba! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "I-Lake Toba",
+        "hover_text": "Sibungaza i-Lake Toba",
+        "share_text": "Sibungaza i-Lake Toba! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Lake Toba",
+    "share_text": "Celebrating Lake Toba! #GoogleDoodle"
+  },
+  {
+    "name": "hari-merdeka-2023",
+    "title": "Hari Merdeka 2023",
+    "url": "//www.google.com/logos/doodles/2023/hari-merdeka-2023-6753651837109929-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/C0DwLMbp5krdnZQfk_sQfkEE-sa7pntr9KZlJYC6cwu4izxnXzdvWv_8eATY9_7xc7uQ_SGyCGL-CzLpFPfnM7O_JS_Es26o76Lksnfcad1u7CvFsNqi3NE",
+    "high_res_url": "//www.google.com/logos/doodles/2023/hari-merdeka-2023-6753651837109929-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      8,
+      31
+    ],
+    "translations": {
+      "en": {
+        "query": "Hari Merdeka",
+        "hover_text": "Hari Merdeka 2023",
+        "share_text": "Happy Hari Merdeka, Malaysia! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": "Hari Merdeka 2023",
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": "Hari Merdeka, 2023",
+        "share_text": ""
+      },
+      "am": {
+        "query": null,
+        "hover_text": "ሃሪ መርዴካ 2023",
+        "share_text": ""
+      },
+      "ar": {
+        "query": null,
+        "hover_text": "عيد استقلال ماليزيا لعام 2023",
+        "share_text": ""
+      },
+      "hy": {
+        "query": null,
+        "hover_text": "Մալայզիայի անկախության օր 2023",
+        "share_text": ""
+      },
+      "az": {
+        "query": null,
+        "hover_text": "2023 Hari Merdeka günü",
+        "share_text": ""
+      },
+      "bn": {
+        "query": null,
+        "hover_text": "হ্যারি মার্ডেকা ২০২৩",
+        "share_text": ""
+      },
+      "eu": {
+        "query": null,
+        "hover_text": "2023ko Hari Merdeka",
+        "share_text": ""
+      },
+      "be": {
+        "query": null,
+        "hover_text": "Хары Мердэка 2023",
+        "share_text": ""
+      },
+      "bs": {
+        "query": null,
+        "hover_text": "Hari Merdeka 2023.",
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bg": {
+        "query": null,
+        "hover_text": "Ден на независимостта на Малайзия 2023 г.",
+        "share_text": ""
+      },
+      "my": {
+        "query": null,
+        "hover_text": "၂၀၂၃ မလေးရှား လွတ်လပ်ရေးနေ့",
+        "share_text": ""
+      },
+      "ca": {
+        "query": null,
+        "hover_text": "Hari Merdeka 2023",
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": "Hari Merdeka 2023.",
+        "share_text": ""
+      },
+      "cs": {
+        "query": null,
+        "hover_text": "Hari Merdeka 2023",
+        "share_text": ""
+      },
+      "da": {
+        "query": null,
+        "hover_text": "Malaysias uafhængighedsdag 2023",
+        "share_text": ""
+      },
+      "nl": {
+        "query": null,
+        "hover_text": "Hari Merdeka 2023",
+        "share_text": ""
+      },
+      "et": {
+        "query": null,
+        "hover_text": "2023. aasta Hari merdeka",
+        "share_text": ""
+      },
+      "fi": {
+        "query": null,
+        "hover_text": "Hari Merdeka 2023",
+        "share_text": ""
+      },
+      "fr": {
+        "query": null,
+        "hover_text": "Fête de l'Indépendance de la Malaisie 2023",
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": "Hari Merdeka 2023",
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": "ჰარი მერდეკა — 2023",
+        "share_text": ""
+      },
+      "de": {
+        "query": null,
+        "hover_text": "Hari Merdeka 2023",
+        "share_text": ""
+      },
+      "el": {
+        "query": null,
+        "hover_text": "Hari Merdeka 2023",
+        "share_text": ""
+      },
+      "gu": {
+        "query": null,
+        "hover_text": "હરિ મર્ડેકા 2023",
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": "יום העצמאות של מלזיה 2023",
+        "share_text": ""
+      },
+      "hi": {
+        "query": null,
+        "hover_text": "हरी मर्देका 2023",
+        "share_text": ""
+      },
+      "hu": {
+        "query": null,
+        "hover_text": "Hari Merdeka, 2023",
+        "share_text": ""
+      },
+      "is": {
+        "query": null,
+        "hover_text": "Hari Merdeka 2023",
+        "share_text": ""
+      },
+      "id": {
+        "query": null,
+        "hover_text": "Hari Merdeka 2023",
+        "share_text": ""
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": "Hari Merdeka 2023",
+        "share_text": ""
+      },
+      "ja": {
+        "query": null,
+        "hover_text": "2023 年ハリ ムルデカ",
+        "share_text": ""
+      },
+      "kn": {
+        "query": null,
+        "hover_text": "ಹರಿ ಮೆರ್ಡೆಕಾ 2023",
+        "share_text": ""
+      },
+      "kk": {
+        "query": null,
+        "hover_text": "Хари Мердека – 2023",
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": "ទិវាបុណ្យ​ឯករាជ្យជាតិ​ម៉ាឡេស៊ីឆ្នាំ 2023",
+        "share_text": ""
+      },
+      "ko": {
+        "query": null,
+        "hover_text": "2023년 말레이시아 독립기념일",
+        "share_text": ""
+      },
+      "ky": {
+        "query": null,
+        "hover_text": "Хари Мердека – 2023",
+        "share_text": ""
+      },
+      "lo": {
+        "query": null,
+        "hover_text": "ວັນຊາດມາເລເຊຍປີ 2023",
+        "share_text": ""
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lv": {
+        "query": null,
+        "hover_text": "Hari Merdeka — 2023",
+        "share_text": ""
+      },
+      "lt": {
+        "query": null,
+        "hover_text": "Hari Merdeka, 2023 m.",
+        "share_text": ""
+      },
+      "mk": {
+        "query": null,
+        "hover_text": "Hari Merdeka, 2023 г.",
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Hari Merdeka",
+        "hover_text": "Hari Merdeka 2023",
+        "share_text": "Hari Merdeka 2023! #GoogleDoodle"
+      },
+      "ml": {
+        "query": null,
+        "hover_text": "ഹാരി മെർഡേക്ക 2023",
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": "हॅरी मर्डेका २०२३",
+        "share_text": ""
+      },
+      "mn": {
+        "query": null,
+        "hover_text": "2023 оны Хари Мердека",
+        "share_text": ""
+      },
+      "ne": {
+        "query": null,
+        "hover_text": "हरी मेर्डेका २०२३",
+        "share_text": ""
+      },
+      "no": {
+        "query": null,
+        "hover_text": "Hari Merdeka 2023",
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": "هاری مِردِکا - ۲۰۲۳",
+        "share_text": ""
+      },
+      "pl": {
+        "query": null,
+        "hover_text": "Hari Merdeka 2023",
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": null,
+        "hover_text": "ਹਰੀ ਮਰਡੇਕਾ 2023",
+        "share_text": ""
+      },
+      "ro": {
+        "query": null,
+        "hover_text": "Hari Merdeka – 2023",
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": "Хари Мердека – 2023",
+        "share_text": ""
+      },
+      "sr": {
+        "query": null,
+        "hover_text": "Хари мердека 2023.",
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": "හරී මර්ඩෙකා 2023",
+        "share_text": ""
+      },
+      "sk": {
+        "query": null,
+        "hover_text": "Hari Merdeka 2023",
+        "share_text": ""
+      },
+      "sl": {
+        "query": null,
+        "hover_text": "Dan neodvisnosti Malezije 2023",
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": "Hari Merdeka 2023",
+        "share_text": ""
+      },
+      "sw": {
+        "query": null,
+        "hover_text": "Hari Merdeka 2023",
+        "share_text": ""
+      },
+      "sv": {
+        "query": null,
+        "hover_text": "Malaysias självständighetsdag 2023",
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": "மலேசிய சுதந்திர தினம் 2023",
+        "share_text": ""
+      },
+      "te": {
+        "query": null,
+        "hover_text": "హరి మర్డెకా 2023",
+        "share_text": ""
+      },
+      "th": {
+        "query": null,
+        "hover_text": "วันชาติมาเลเซียปี 2023",
+        "share_text": ""
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": "Hari Merdeka 2023",
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": "Харі Мердека у 2023 році",
+        "share_text": ""
+      },
+      "ur": {
+        "query": null,
+        "hover_text": "ہری مرڈیکا 2023",
+        "share_text": ""
+      },
+      "uz": {
+        "query": null,
+        "hover_text": "Hari Merdeka 2023",
+        "share_text": ""
+      },
+      "vi": {
+        "query": null,
+        "hover_text": "Ngày Độc lập Malaysia (Hari Merdeka) năm 2023",
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": "I-Hari Merdeka 2023",
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Hari Merdeka",
+    "share_text": "Happy Hari Merdeka, Malaysia! #GoogleDoodle"
+  },
+  {
     "name": "republic-of-moldova-independence-day-2023",
     "title": "Republic of Moldova Independence Day 2023",
     "url": "//www.google.com/logos/doodles/2023/republic-of-moldova-independence-day-2023-6753651837109928-law.gif",
