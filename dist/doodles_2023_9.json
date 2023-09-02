@@ -1,5 +1,1003 @@
 [
   {
+    "name": "vietnam-national-day-2023",
+    "title": "Vietnam National Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/vietnam-national-day-2023-6753651837110080.3-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/lhlR6sdlAx93RoEq9Mg0AQm0aO6WycdqJZkUXgQNe-XgCtRXUUIbIxHfL58e8yuY_3qhEXkkwaUJCRCiHYVF1U9Bw_Lb10ZLR86s5jgCXf4wqT7J8QrkMA",
+    "high_res_url": "//www.google.com/logos/doodles/2023/vietnam-national-day-2023-6753651837110080.2-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      9,
+      2
+    ],
+    "translations": {
+      "en": {
+        "query": "Vietnam National Day",
+        "hover_text": "Vietnam National Day 2023",
+        "share_text": "Happy National Day, Vietnam! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": "Viëtnam se nasionale dag 2023",
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": "Dita Kombëtare e Vietnamit, 2023",
+        "share_text": ""
+      },
+      "am": {
+        "query": null,
+        "hover_text": "የቪዬትናም ብሔራዊ ቀን 2023",
+        "share_text": ""
+      },
+      "ar": {
+        "query": null,
+        "hover_text": "العيد الوطني لفيتنام لعام 2023",
+        "share_text": ""
+      },
+      "hy": {
+        "query": null,
+        "hover_text": "Վիետնամի ազգային տոն 2023",
+        "share_text": ""
+      },
+      "az": {
+        "query": null,
+        "hover_text": "2023 Vyetnamın Müstəqillik Günü",
+        "share_text": ""
+      },
+      "bn": {
+        "query": null,
+        "hover_text": "ভিয়েতনামের জাতীয় দিবস ২০২৩",
+        "share_text": ""
+      },
+      "eu": {
+        "query": null,
+        "hover_text": "2023ko Vietnameko Egun Nazionala",
+        "share_text": ""
+      },
+      "be": {
+        "query": null,
+        "hover_text": "Нацыянальны дзень В'етнама 2023",
+        "share_text": ""
+      },
+      "bs": {
+        "query": null,
+        "hover_text": "Dan državnosti Vijetnama 2023.",
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bg": {
+        "query": null,
+        "hover_text": "Национален празник на Виетнам 2023 г.",
+        "share_text": ""
+      },
+      "my": {
+        "query": null,
+        "hover_text": "၂၀၂၃ ဗီယက်နမ်နိုင်ငံ အမျိုးသားနေ့",
+        "share_text": ""
+      },
+      "ca": {
+        "query": null,
+        "hover_text": "Dia Nacional del Vietnam 2023",
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": "越南國慶日",
+        "hover_text": "2023 越南國慶日",
+        "share_text": "慶祝越南國慶日! #GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": "Dan državnosti Vijetnama 2023.",
+        "share_text": ""
+      },
+      "cs": {
+        "query": null,
+        "hover_text": "Den vietnamské státnosti 2023",
+        "share_text": ""
+      },
+      "da": {
+        "query": null,
+        "hover_text": "Vietnams nationaldag 2023",
+        "share_text": ""
+      },
+      "nl": {
+        "query": null,
+        "hover_text": "Nationale feestdag Vietnam 2023",
+        "share_text": ""
+      },
+      "et": {
+        "query": null,
+        "hover_text": "Vietnami 2023. aasta rahvuspüha",
+        "share_text": ""
+      },
+      "fi": {
+        "query": null,
+        "hover_text": "Vietnamin kansallispäivä 2023",
+        "share_text": ""
+      },
+      "fr": {
+        "query": null,
+        "hover_text": "Fête nationale du Viêt Nam 2023",
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": "Día Nacional de Vietnam 2023",
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": "ვიეტნამის ეროვნული დღესასწაული — 2023",
+        "share_text": ""
+      },
+      "de": {
+        "query": null,
+        "hover_text": "Nationalfeiertag Vietnam 2023",
+        "share_text": ""
+      },
+      "el": {
+        "query": null,
+        "hover_text": "Εθνική Ημέρα του Βιετνάμ 2023",
+        "share_text": ""
+      },
+      "gu": {
+        "query": null,
+        "hover_text": "વિયેતનામનો રાષ્ટ્રીય દિવસ 2023",
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": "החג הלאומי של וייטנאם 2023",
+        "share_text": ""
+      },
+      "hi": {
+        "query": null,
+        "hover_text": "वियतनाम का राष्ट्रीय दिवस 2023",
+        "share_text": ""
+      },
+      "hu": {
+        "query": null,
+        "hover_text": "Vietnám nemzeti ünnepe, 2023",
+        "share_text": ""
+      },
+      "is": {
+        "query": null,
+        "hover_text": "Þjóðhátíðardagur Víetnam 2023",
+        "share_text": ""
+      },
+      "id": {
+        "query": null,
+        "hover_text": "Hari Kemerdekaan Vietnam 2023",
+        "share_text": ""
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": "Festa nazionale del Vietnam 2023",
+        "share_text": ""
+      },
+      "ja": {
+        "query": null,
+        "hover_text": "2023 年ベトナム建国記念日",
+        "share_text": ""
+      },
+      "kn": {
+        "query": null,
+        "hover_text": "ವಿಯೆಟ್ನಾಮ್ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ 2023",
+        "share_text": ""
+      },
+      "kk": {
+        "query": null,
+        "hover_text": "Вьетнамның Ұлттық күні – 2023",
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": "ទិវាបុណ្យជាតិ​វៀតណាម​ឆ្នាំ 2023",
+        "share_text": ""
+      },
+      "ko": {
+        "query": null,
+        "hover_text": "2023년 베트남 국경일",
+        "share_text": ""
+      },
+      "ky": {
+        "query": null,
+        "hover_text": "Вьетнамдын Улуттук күнү — 2023",
+        "share_text": ""
+      },
+      "lo": {
+        "query": null,
+        "hover_text": "ວັນຊາດຫວຽດນາມ 2023",
+        "share_text": ""
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lv": {
+        "query": null,
+        "hover_text": "Vjetnamas Nacionālie svētki — 2023",
+        "share_text": ""
+      },
+      "lt": {
+        "query": null,
+        "hover_text": "Vietnamo nacionalinė diena, 2023 m.",
+        "share_text": ""
+      },
+      "mk": {
+        "query": null,
+        "hover_text": "Ден на државноста на Виетнам, 2023 г.",
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": "Hari Kebangsaan Vietnam 2023",
+        "share_text": ""
+      },
+      "ml": {
+        "query": null,
+        "hover_text": "വിയറ്റ്നാം ദേശീയ ദിനം 2023",
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": "व्हिएतनामचा राष्ट्रीय दिन २०२३",
+        "share_text": ""
+      },
+      "mn": {
+        "query": null,
+        "hover_text": "2023 оны Вьетнам Улсын Үндэсний баярын өдөр",
+        "share_text": ""
+      },
+      "ne": {
+        "query": null,
+        "hover_text": "भियतनामको राष्ट्रिय दिवस २०२३",
+        "share_text": ""
+      },
+      "no": {
+        "query": null,
+        "hover_text": "Vietnams nasjonaldag 2023",
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": "روز ملی ویتنام - ۲۰۲۳",
+        "share_text": ""
+      },
+      "pl": {
+        "query": null,
+        "hover_text": "Święto Narodowe Wietnamu 2023",
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": null,
+        "hover_text": "ਵੀਅਤਨਾਮ ਰਾਸ਼ਟਰੀ ਦਿਵਸ 2023",
+        "share_text": ""
+      },
+      "ro": {
+        "query": null,
+        "hover_text": "Ziua Națională în Vietnam – 2023",
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": "День независимости Вьетнама – 2023",
+        "share_text": ""
+      },
+      "sr": {
+        "query": null,
+        "hover_text": "Дан државности Вијетнама 2023.",
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": "වියට්නාමයේ ජාතික දිනය 2023",
+        "share_text": ""
+      },
+      "sk": {
+        "query": null,
+        "hover_text": "Národný deň Vietnamu 2023",
+        "share_text": ""
+      },
+      "sl": {
+        "query": null,
+        "hover_text": "Vietnamski dan državnosti 2023",
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": "Día Nacional de Vietnam 2023",
+        "share_text": ""
+      },
+      "sw": {
+        "query": null,
+        "hover_text": "Sikukuu ya Kitaifa ya Vietinamu 2023",
+        "share_text": ""
+      },
+      "sv": {
+        "query": null,
+        "hover_text": "Vietnams nationaldag 2023",
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": "வியட்நாமின் தேசிய தினம் 2023",
+        "share_text": ""
+      },
+      "te": {
+        "query": null,
+        "hover_text": "వియత్నాం జాతీయ దినోత్సవం 2023",
+        "share_text": ""
+      },
+      "th": {
+        "query": null,
+        "hover_text": "วันชาติเวียดนามปี 2023",
+        "share_text": ""
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": "Vietnam Ulusal Günü 2023",
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": "Національний день В’єтнаму у 2023 році",
+        "share_text": ""
+      },
+      "ur": {
+        "query": null,
+        "hover_text": "ویتنام کا قومی دن 2023",
+        "share_text": ""
+      },
+      "uz": {
+        "query": null,
+        "hover_text": "Vyetnam Milliy bayrami 2023",
+        "share_text": ""
+      },
+      "vi": {
+        "query": "Quốc Khánh Việt Nam",
+        "hover_text": "Quốc Khánh Việt Nam 2023",
+        "share_text": "Chào mừng ngày Quốc Khánh, Việt Nam! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": "Usuku Lukazwelonke lwase-Vietnam luka-2023",
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Vietnam National Day",
+    "share_text": "Happy National Day, Vietnam! #GoogleDoodle"
+  },
+  {
+    "name": "lily-poulett-harris-150th-birthday",
+    "title": "Lily Poulett-Harris’ 150th Birthday",
+    "url": "//www.google.com/logos/doodles/2023/lily-poulett-harris-150th-birthday-6753651837110079-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/KkdfwW3Ux1F0Whe2bBeBoa7yV4WZ1DLP-98FDpMBHTfmtsLiCg1KsvmQp4fhi0d3NDHZqz3M3yb_mpddVVRp_uwDmWLNmGKljnq2G3PhHprtHXM58CBlFg",
+    "high_res_url": "//www.google.com/logos/doodles/2023/lily-poulett-harris-150th-birthday-6753651837110079-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2023,
+      9,
+      2
+    ],
+    "translations": {
+      "en": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "Lily Poulett-Harris’ 150th Birthday",
+        "share_text": "Lily Poulett-Harris’ 150th Birthday! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "Lily Poulett-Harris se 150e verjaarsdag",
+        "share_text": "Lily Poulett-Harris se 150e verjaarsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "150-vjetori i lindjes së Lily Poulett-Harris",
+        "share_text": "150-vjetori i lindjes së Lily Poulett-Harris! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ሊሊ ፖሌት-ሃሪስ",
+        "hover_text": "የሊሊ ፖሌት-ሃሪስ 150ኛ ልደት",
+        "share_text": "የሊሊ ፖሌት-ሃሪስ 150ኛ ልደት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "ليلي بوليت هاريس",
+        "hover_text": "الذكرى 150 لميلاد \"ليلي بوليت هاريس\"",
+        "share_text": "نحتفل اليوم بالذكرى 150 لميلاد \"ليلي بوليت هاريس\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Լիլի Պուլետ-Հարիս",
+        "hover_text": "Լիլի Պուլետ-Հարիսի ծննդյան 150-ամյակը",
+        "share_text": "Լիլի Պուլետ-Հարիսի ծննդյան 150-ամյակը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "Lily Poulett-Harris’in 150-ci ildönümü",
+        "share_text": "Lily Poulett-Harris’in 150-ci ildönümü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "লিলি পুলেট-হ্যারিস",
+        "hover_text": "লিলি পুলেট-হ্যারিসের ১৫০তম জন্মদিন",
+        "share_text": "লিলি পুলেট-হ্যারিসের ১৫০তম জন্মদিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "Lily Poulett-Harrisen jaiotzaren 150. urteurrena",
+        "share_text": "Lily Poulett-Harrisen jaiotzaren 150. urteurrena #GoogleDoodle"
+      },
+      "be": {
+        "query": "Лілі Пулет-Харыс",
+        "hover_text": "150 гадоў з дня нараджэння Лілі Пулет-Харыс",
+        "share_text": "150 гадоў з дня нараджэння Лілі Пулет-Харыс! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "150 godina od rođenja Lily Poulett-Harris",
+        "share_text": "150 godina od rođenja Lily Poulett-Harris! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "Lily Poulett-Harris’ 150th Birthday",
+        "share_text": "Lily Poulett-Harris’ 150th Birthday! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Лили Пулет-Харис",
+        "hover_text": "150 години от рождението на Лили Пулет-Харис",
+        "share_text": "150 години от рождението на Лили Пулет-Харис! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "Lily Poulett-Harris ၏ နှစ် ၁၅၀ ပြည့်မွေးနေ့",
+        "share_text": "Lily Poulett-Harris ၏ နှစ် ၁၅၀ ပြည့်မွေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "150è aniversari del naixement de Lily Poulett-Harris",
+        "share_text": "150è aniversari del naixement de Lily Poulett-Harris #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "150. godišnjica rođenja Lily Poulett-Harris",
+        "share_text": "150. godišnjica rođenja Lily Poulett-Harris! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "150. výročí narození Lily Poulett-Harris",
+        "share_text": "150. výročí narození Lily Poulett-Harris! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "Lily Poulett-Harris' 150-års fødselsdag",
+        "share_text": "Lily Poulett-Harris' 150-års fødselsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "150e geboortedag van Lily Poulett-Harris",
+        "share_text": "De 150e geboortedag van Lily Poulett-Harris! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "Lily Poulett-Harrise 150. sünniaastapäev",
+        "share_text": "Lily Poulett-Harrise 150. sünniaastapäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "150 vuotta Lily Poulett-Harrisin syntymästä",
+        "share_text": "150 vuotta Lily Poulett-Harrisin syntymästä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "Il y a 150 ans naissait Lily Poulett-Harris",
+        "share_text": "150e anniversaire de Lily Poulett-Harris #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "150.º aniversario do nacemento de Lily Poulett-Harris",
+        "share_text": "150.º aniversario do nacemento de Lily Poulett-Harris! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ლილი პულეტ-ჰარისი",
+        "hover_text": "150 წელი ლილი პულეტ-ჰარისის დაბადებიდან",
+        "share_text": "150 წელი ლილი პულეტ-ჰარისის დაბადებიდან! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "150. Geburtstag von Lily Poulett-Harris",
+        "share_text": "150. Geburtstag von Lily Poulett-Harris! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "150 χρόνια από τη γέννηση της Lily Poulett-Harris",
+        "share_text": "150 χρόνια από τη γέννηση της Lily Poulett-Harris! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "લિલિ પોલેટ-હેરિસ",
+        "hover_text": "લિલિ પોલેટ-હેરિસનો 150મો જન્મદિવસ",
+        "share_text": "લિલિ પોલેટ-હેરિસનો 150મો જન્મદિવસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "150 שנה להולדת לילי פולט-האריס",
+        "share_text": "150 שנה להולדת לילי פולט-האריס GoogleDoodle#"
+      },
+      "hi": {
+        "query": "लिली पुलेट हैरिस",
+        "hover_text": "लिली पुलेट हैरिस की 150वीं जयंती",
+        "share_text": "लिली पुलेट हैरिस की 150वीं जयंती! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "Lily Poulett-Harris születésének 150. évfordulója",
+        "share_text": "Lily Poulett-Harris születésének 150. évfordulója #GoogleDoodle"
+      },
+      "is": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "150 ár frá fæðingu Lily Poulett-Harris",
+        "share_text": "150 ár frá fæðingu Lily Poulett-Harris! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "Ulang Tahun Ke-150 Lily Poulett-Harris",
+        "share_text": "Ulang Tahun Ke-150 Lily Poulett-Harris #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "150° anniversario della nascita di Lily Poulett-Harris",
+        "share_text": "150° anniversario della nascita di Lily Poulett-Harris! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "リリー・プーレット・ハリス",
+        "hover_text": "リリー・プーレット・ハリス生誕 150 周年",
+        "share_text": "リリー・プーレット・ハリス生誕 150 周年 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಲಿಲಿ ಪೌಲೆಟ್-ಹ್ಯಾರಿಸ್",
+        "hover_text": "ಲಿಲಿ ಪೌಲೆಟ್-ಹ್ಯಾರಿಸ್ ಅವರ 150ನೇ ಜನ್ಮದಿನ",
+        "share_text": "ಲಿಲಿ ಪೌಲೆಟ್-ಹ್ಯಾರಿಸ್ ಅವರ 150ನೇ ಜನ್ಮದಿನ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Лили Поулетт-Харрис",
+        "hover_text": "Лили Поулетт-Харристің 150 жылдығы",
+        "share_text": "Лили Поулетт-Харристің 150 жылдығы #GoogleDoodle"
+      },
+      "km": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "ខួបកំណើតគម្រប់ 150 ឆ្នាំរបស់ Lily Poulett-Harris",
+        "share_text": "ខួបកំណើតគម្រប់ 150 ឆ្នាំរបស់ Lily Poulett-Harris! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "Lily Poulett-Harris 탄생 150주년",
+        "share_text": "Lily Poulett-Harris 탄생 150주년 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Лили Пулетт-Харрис",
+        "hover_text": "Лили Пулетт-Харристин 150 жаш мааракеси",
+        "share_text": "Лили Пулетт-Харристин 150 жаш мааракеси! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 150 ປີຂອງ Lily Poulett-Harris",
+        "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 150 ປີຂອງ Lily Poulett-Harris! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lv": {
+        "query": "Lilija Pulē-Harisa",
+        "hover_text": "Lilijas Pulē-Harisas 150. dzimšanas diena",
+        "share_text": "Lilijas Pulē-Harisas 150. dzimšanas diena! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "150-asis Lily Poulett-Harris gimtadienis",
+        "share_text": "150-asis Lily Poulett-Harris gimtadienis! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "150. роденден на Lily Poulett-Harris",
+        "share_text": "150. роденден на Lily Poulett-Harris! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "Ulang Tahun Kelahiran Lily Poulett-Harris yang ke-150",
+        "share_text": "Ulang Tahun Kelahiran Lily Poulett-Harris yang ke-150! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ലില്ലി പൗലെ ഹാരിസ്",
+        "hover_text": "ലില്ലി പൗലെ ഹാരിസിന്റെ 150-ാം ജന്മദിനം",
+        "share_text": "ലില്ലി പൗലെ ഹാരിസിന്റെ 150-ാം ജന്മദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "लिली पूलेट-हॅरिस",
+        "hover_text": "लिली पूलेट-हॅरिस यांचा १५० वा स्मृतिदिन",
+        "share_text": "लिली पूलेट-हॅरिस यांचा १५० वा स्मृतिदिन! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Лили Поулетт-Харрис",
+        "hover_text": "Лили Поулетт-Харрисын мэндэлсний 150 жилийн ой",
+        "share_text": "Лили Поулетт-Харрисын мэндэлсний 150 жилийн ой! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "Lily Poulett-Harris को १५० औँ जन्मजयन्ती",
+        "share_text": "Lily Poulett-Harris को १५० औँ जन्मजयन्ती! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "Lily Poulett-Harris’ 150-årsdag",
+        "share_text": "Lily Poulett-Harris’ 150-årsdag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "لیلی پولیت هریس",
+        "hover_text": "صدوپنجاهمین زادروز لیلی پولیت هریس",
+        "share_text": "صدوپنجاهمین زادروز لیلی پولیت هریس! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "Lily Poulett-Harris – 150 rocznica urodzin",
+        "share_text": "Lily Poulett-Harris – 150 rocznica urodzin #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "ਲਿਲੀ ਪੌਲੇਟ-ਹੈਰਿਸ ਦਾ 150ਵਾਂ ਜਨਮਦਿਨ",
+        "share_text": "ਲਿਲੀ ਪੌਲੇਟ-ਹੈਰਿਸ ਦਾ 150ਵਾਂ ਜਨਮਦਿਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "150 de ani de la nașterea lui Lily Poulett-Harris",
+        "share_text": "150 de ani de la nașterea lui Lily Poulett-Harris! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Лили Пулетт-Харрис",
+        "hover_text": "150 лет со дня рождения Лили Пулетт-Харрис",
+        "share_text": "150 лет со дня рождения Лили Пулетт-Харрис #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Лили Пулет-Харис",
+        "hover_text": "150 година од рођења Лили Пулет-Харис",
+        "share_text": "150 година од рођења Лили Пулет-Харис! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ලිලී පෝලට්-හැරිස්",
+        "hover_text": "ලිලී පෝලට්-හැරිස්ගේ 150 වැනි උපන් දිනය",
+        "share_text": "ලිලී පෝලට්-හැරිස්ගේ 150 වැනි උපන් දිනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Lily Poulettová-Harrisová",
+        "hover_text": "150. výročie narodenia Lily Poulettovej-Harrisovej",
+        "share_text": "150. výročie narodenia Lily Poulettovej-Harrisovej. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "150. rojstni dan Lily Poulett-Harris",
+        "share_text": "150. rojstni dan Lily Poulett-Harris! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "150.º aniversario del nacimiento de Lily Poulett-Harris",
+        "share_text": "Hoy es el 150.º aniversario del nacimiento de Lily Poulett-Harris #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "Maadhimisho ya Miaka 150 Tangu Kuzaliwa kwa Lily Poulett-Harris",
+        "share_text": "Maadhimisho ya Miaka 150 Tangu Kuzaliwa kwa Lily Poulett-Harris! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "Lily Poulett-Harris 150 år",
+        "share_text": "Lily Poulett-Harris 150 år! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "லில்லி பவுலெட்-ஹாரிஸின் 150வது பிறந்தநாள்",
+        "share_text": "லில்லி பவுலெட்-ஹாரிஸின் 150வது பிறந்தநாள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "లిలీ పౌలే హారిస్",
+        "hover_text": "లిలీ పౌలే హారిస్ 150వ జయంతి",
+        "share_text": "లిలీ పౌలే హారిస్ 150వ జయంతి! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "วันเกิดปีที่ 150 ของ Lily Poulett-Harris",
+        "share_text": "วันเกิดปีที่ 150 ของ Lily Poulett-Harris #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "Lily Poulett-Harris’in 150. Doğum Günü",
+        "share_text": "Lily Poulett-Harris’in 150. Doğum Günü #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Лілі Пулетт-Гарріс",
+        "hover_text": "150 років від дня народження Лілі Пулетт-Гарріс",
+        "share_text": "150 років від дня народження Лілі Пулетт-Гарріс! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "Lily Poulett-Harris کی 150 ویں سالگرہ",
+        "share_text": "Lily Poulett-Harris کی 150 ویں سالگرہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "Lily Poulett-Harris tavalludining 150 yilligi",
+        "share_text": "Lily Poulett-Harris tavalludining 150 yilligi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Lily Poulett-Harris",
+        "hover_text": "Kỷ niệm 150 năm ngày sinh của Lily Poulett-Harris!",
+        "share_text": "Kỷ niệm 150 năm ngày sinh của Lily Poulett-Harris! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Lily Poulett-Harris",
+        "hover_text": "Usuku Lokuzalwa luka-Lily Poulett-Harris lweminyaka engu-150",
+        "share_text": "Usuku Lokuzalwa luka-Lily Poulett-Harris lweminyaka engu-150! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Lily Poulett-Harris",
+    "share_text": "Lily Poulett-Harris’ 150th Birthday! #GoogleDoodle"
+  },
+  {
     "name": "uzbekistan-independence-day-2023",
     "title": "Uzbekistan Independence Day 2023",
     "url": "//www.google.com/logos/doodles/2023/uzbekistan-independence-day-2023-6753651837109932-law.gif",
