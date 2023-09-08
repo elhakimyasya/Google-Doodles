@@ -1,5 +1,1003 @@
 [
   {
+    "name": "antonin-dvoraks-182nd-birthday",
+    "title": "Antonín Dvořák's 182nd Birthday",
+    "url": "//www.google.com/logos/doodles/2023/antonin-dvoraks-182nd-birthday-6753651837109934-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/_cYPitylyYG9bQUAiIZyo8PTjKi9oGCMGIiugVwFAuSAXnkURNZ7AnINAjH-zeh1-KIujG4g20_nKnwrH3IqRUl_66A-PXyKHlgqs6E7AgGDIbtJsPzcnA",
+    "high_res_url": "//www.google.com/logos/doodles/2023/antonin-dvoraks-182nd-birthday-6753651837109934-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2023,
+      9,
+      8
+    ],
+    "translations": {
+      "en": {
+        "query": "Antonín Dvořák",
+        "hover_text": "Antonín Dvořák's 182nd Birthday",
+        "share_text": "Antonín Dvořák's 182nd Birthday! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Antonín Dvořák",
+        "hover_text": "Antonín Dvořák se 182e verjaarsdag",
+        "share_text": "Antonín Dvořák se 182e verjaarsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Antonín Dvořák",
+        "hover_text": "182-vjetori i lindjes së Antonín Dvořák",
+        "share_text": "182-vjetori i lindjes së Antonín Dvořák! #GoogleDoodle"
+      },
+      "am": {
+        "query": "አንቶኒን ድቮዣክ",
+        "hover_text": "የአንቶኒን ድቮዣክ 182ኛ ልደት",
+        "share_text": "የአንቶኒን ድቮዣክ 182ኛ ልደት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "أنتونين دفورجاك",
+        "hover_text": "الاحتفال بالذكرى 182 لميلاد \"أنتونين دفورجاك\"",
+        "share_text": "نحتفل اليوم بالذكرى 182 لميلاد \"أنتونين دفورجاك\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Անտոնին Դվորժակ",
+        "hover_text": "Անտոնին Դվորժակի ծննդյան 182-ամյակը",
+        "share_text": "Անտոնին Դվորժակի ծննդյան 182-ամյակը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Antonín Dvořák",
+        "hover_text": "Antonín Dvořák'ın 182-ci ildönümü",
+        "share_text": "Antonín Dvořák'ın 182-ci ildönümü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "অ্যান্তোনিন দ্ভোজ্সাখ",
+        "hover_text": "অ্যান্তোনিন দ্ভোজ্সাখের ১৮২তম জন্মদিন",
+        "share_text": "অ্যান্তোনিন দ্ভোজ্সাখের ১৮২তম জন্মদিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Antonín Dvořák",
+        "hover_text": "Antonín Dvořáken jaiotzaren 182. urteurrena",
+        "share_text": "Antonín Dvořáken jaiotzaren 182. urteurrena #GoogleDoodle"
+      },
+      "be": {
+        "query": "Антанін Дворжак",
+        "hover_text": "182 гады з дня нараджэння Антаніна Дворжака",
+        "share_text": "182 гады з дня нараджэння Антаніна Дворжака! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Antonín Dvořák",
+        "hover_text": "182 godine od rođenja Antonína Dvořáka",
+        "share_text": "182 godine od rođenja Antonína Dvořáka! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Antonín Dvořák",
+        "hover_text": "Antonín Dvořák's 182nd Birthday",
+        "share_text": "Antonín Dvořák's 182nd Birthday #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Антонин Дворжак",
+        "hover_text": "182 години от рождението на Антонин Дворжак",
+        "share_text": "182 години от рождението на Антонин Дворжак! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Antonín Dvořák",
+        "hover_text": "Antonín Dvořák ၏ ၁၈၂ နှစ်မြောက်မွေးနေ့",
+        "share_text": "Antonín Dvořák ၏ ၁၈၂ နှစ်မြောက်မွေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Antonín Dvořák",
+        "hover_text": "182è aniversari del naixement d'Antonín Dvořák",
+        "share_text": "182è aniversari del naixement d'Antonín Dvořák #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": "Antonín Dvořák",
+        "hover_text": "182. obljetnica rođenja Antonína Dvořáka",
+        "share_text": "182. obljetnica rođenja Antonína Dvořáka! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Antonín Dvořák",
+        "hover_text": "182. narozeniny Antonína Dvořáka",
+        "share_text": "182. narozeniny Antonína Dvořáka! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Antonín Dvořák",
+        "hover_text": "Antonín Dvořáks 182-års fødselsdag",
+        "share_text": "Antonín Dvořáks 182-års fødselsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Antonín Dvořák",
+        "hover_text": "182e geboortedag van Antonín Dvořák",
+        "share_text": "De 182e geboortedag van Antonín Dvořák! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Antonín Dvořák",
+        "hover_text": "Antonín Dvořáki 182. sünniaastapäev",
+        "share_text": "Antonín Dvořáki 182. sünniaastapäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Antonín Dvořák",
+        "hover_text": "182 vuotta Antonín Dvořákin syntymästä",
+        "share_text": "182 vuotta Antonín Dvořákin syntymästä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Antonín Dvořák",
+        "hover_text": "Il y a 182 ans naissait Antonín Dvořák",
+        "share_text": "182e anniversaire d'Antonín Dvořák #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": "Antonín Dvořák",
+        "hover_text": "182.º aniversario do nacemento de Antonín Dvořák",
+        "share_text": "182.º aniversario do nacemento de Antonín Dvořák! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ანტონინ დვორჟაკი",
+        "hover_text": "182 წელი ანტონინ დვორჟაკის დაბადებიდან",
+        "share_text": "182 წელი ანტონინ დვორჟაკის დაბადებიდან! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Antonín Dvořák",
+        "hover_text": "182. Geburtstag von Antonín Dvořák",
+        "share_text": "182. Geburtstag von Antonín Dvořák! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Antonín Dvořák",
+        "hover_text": "182 χρόνια από τη γέννηση του Antonín Dvořák",
+        "share_text": "182 χρόνια από τη γέννηση του Antonín Dvořák! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "એન્ટનિન દ્વોર્જાક",
+        "hover_text": "એન્ટનિન દ્વોર્જાકનો 182મો જન્મદિવસ",
+        "share_text": "એન્ટનિન દ્વોર્જાકનો 182મો જન્મદિવસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "אנטונין דבוז'אק",
+        "hover_text": "182 שנה להולדת אנטונין דבוז'אק",
+        "share_text": "182 שנה להולדת אנטונין דבוז'אק GoogleDoodle#"
+      },
+      "hi": {
+        "query": "ऐन्टनीन ड्वोर्ज़ाक",
+        "hover_text": "ऐन्टनीन ड्वोर्ज़ाक की 182वीं जयंती",
+        "share_text": "ऐन्टनीन ड्वोर्ज़ाक की 182वीं जयंती! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Antonín Dvořák",
+        "hover_text": "Antonín Dvořák születésének 182. évfordulója",
+        "share_text": "Antonín Dvořák születésének 182. évfordulója! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Antonín Dvořák",
+        "hover_text": "182 ár frá fæðingu Antoníns Dvořák",
+        "share_text": "182 ár frá fæðingu Antoníns Dvořák! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Antonín Dvořák",
+        "hover_text": "Ulang Tahun Ke-182 Antonín Dvořák",
+        "share_text": "Ulang Tahun Ke-182 Antonín Dvořák #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Antonín Dvořák",
+        "hover_text": "182ú Breithlá Antonín Dvořák",
+        "share_text": "182ú Breithlá Antonín Dvořák! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Antonín Dvořák",
+        "hover_text": "182° anniversario della nascita di Antonín Dvořák",
+        "share_text": "182° anniversario della nascita di Antonín Dvořák! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "アントニン・ドヴォルザーク",
+        "hover_text": "アントニン・ドヴォルザーク生誕 182 周年",
+        "share_text": "アントニン・ドヴォルザーク生誕 182 周年 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಆ್ಯಂಟೊನಿನ್ ಡುವೊಜಾಕ್",
+        "hover_text": "ಆ್ಯಂಟೊನಿನ್ ಡುವೊಜಾಕ್ ಅವರ 182ನೇ ಜನ್ಮದಿನ",
+        "share_text": "ಆ್ಯಂಟೊನಿನ್ ಡುವೊಜಾಕ್ ಅವರ 182ನೇ ಜನ್ಮದಿನ #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Антонин Дворжак",
+        "hover_text": "Антонин Дворжактың 182 жылдығы",
+        "share_text": "Антонин Дворжактың 182 жылдығы #GoogleDoodle"
+      },
+      "km": {
+        "query": "Antonín Dvořák",
+        "hover_text": "ខួបកំណើតគម្រប់ 182 ឆ្នាំរបស់ Antonín Dvořák",
+        "share_text": "ខួបកំណើតគម្រប់ 182 ឆ្នាំរបស់ Antonín Dvořák! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Antonín Dvořák",
+        "hover_text": "Antonín Dvořák 탄생 182주년",
+        "share_text": "Antonín Dvořák 탄생 182주년 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Антонин Дворжак",
+        "hover_text": "Антонин Дворжактын 182 жаш мааракеси",
+        "share_text": "Антонин Дворжактын 182 жаш мааракеси! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Antonín Dvořák",
+        "hover_text": "ວັນເກີດຄົບຮອບ 182 ປີຂອງ Antonín Dvořák",
+        "share_text": "ວັນເກີດຄົບຮອບ 182 ປີຂອງ Antonín Dvořák! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lv": {
+        "query": "Antonīns Dvoržāks",
+        "hover_text": "Antonīna Dvoržāka 182. dzimšanas diena",
+        "share_text": "Antonīns Dvoržāks 182. dzimšanas diena! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Antonínas Dvořákas",
+        "hover_text": "182-asis Antoníno Dvořáko gimtadienis",
+        "share_text": "182-asis Antoníno Dvořáko gimtadienis! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Antonín Dvořák",
+        "hover_text": "182. роденден на Antonín Dvořák",
+        "share_text": "182. роденден на Antonín Dvořák! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Antonín Dvořák",
+        "hover_text": "Ulang Tahun Kelahiran Antonín Dvořák yang ke-182",
+        "share_text": "Ulang Tahun Kelahiran Antonín Dvořák yang ke-182! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ആന്തൊണീൻ ദ്‌വോഷാക്",
+        "hover_text": "ആന്തൊണീൻ ദ്‌വോഷാക്കിന്റെ 182-ാമത്തെ ജന്മദിനം",
+        "share_text": "ആന്തൊണീൻ ദ്‌വോഷാക്കിന്റെ 182-ാമത്തെ ജന്മദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "आंतोनीन द्वोजाक",
+        "hover_text": "आंतोनीन द्वोजाक यांचा १८२ वा स्मृतिदिन",
+        "share_text": "आंतोनीन द्वोजाक यांचा १८२ वा स्मृतिदिन! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Антонин Дворак",
+        "hover_text": "Антонин Дворакийн мэндэлсний 182 жилийн ой",
+        "share_text": "Антонин Дворакийн мэндэлсний 182 жилийн ой! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Antonín Dvořák",
+        "hover_text": "Antonín Dvořák's को १८२ औँ जन्मोत्सव",
+        "share_text": "Antonín Dvořák's को १८२ औँ जन्मोत्सव! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Antonín Dvořák",
+        "hover_text": "Antonín Dvořáks 182-årsdag",
+        "share_text": "Antonín Dvořáks 182-årsdag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "آنتونین دوُرژاک",
+        "hover_text": "صدوهشتادودومین زادروز آنتونین دوُرژاک",
+        "share_text": "صدوهشتادودومین زادروز آنتونین دوُرژاک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Antonín Dvořák",
+        "hover_text": "Antonín Dvořák – 182 rocznica urodzin",
+        "share_text": "Antonín Dvořák – 182 rocznica urodzin #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": "ਅੰਤੋਨੀਨ ਡਵੋਜ਼ਾਕ",
+        "hover_text": "ਅੰਤੋਨੀਨ ਡਵੋਜ਼ਾਕ ਦਾ 182ਵਾਂ ਜਨਮਦਿਨ",
+        "share_text": "ਅੰਤੋਨੀਨ ਡਵੋਜ਼ਾਕ ਦਾ 182ਵਾਂ ਜਨਮਦਿਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Antonín Dvořák",
+        "hover_text": "182 de ani de la nașterea lui Antonín Dvořák",
+        "share_text": "182 de ani de la nașterea lui Antonín Dvořák! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Антонин Дворжак",
+        "hover_text": "182­ года со дня рождения Антонина Дворжака",
+        "share_text": "182­ года со дня рождения Антонина Дворжака #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Антоњин Дворжак",
+        "hover_text": "182 године од рођења Антоњина Дворжака",
+        "share_text": "182 године од рођења Антоњина Дворжака! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ඇන්ටෝනින් ඩ්වෝරාක්",
+        "hover_text": "ඇන්ටෝනින් ඩ්වෝරාක්ගේ 182 වැනි උපන් දිනය",
+        "share_text": "ඇන්ටෝනින් ඩ්වෝරාක්ගේ 182 වැනි උපන් දිනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Antonín Dvořák",
+        "hover_text": "182. výročie narodenia Antonína Dvořáka",
+        "share_text": "182. výročie narodenia Antonína Dvořáka. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Antonín Dvořák",
+        "hover_text": "182. rojstni dan Antonína Dvořáka",
+        "share_text": "182. rojstni dan Antonína Dvořáka! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Antonín Dvořák",
+        "hover_text": "182.º aniversario del nacimiento de Antonín Dvořák",
+        "share_text": "Hoy es el 182.º aniversario del nacimiento de Antonín Dvořák #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Antonín Dvořák",
+        "hover_text": "Miaka 182 Tangu Kuzaliwa kwa Antonín Dvořák",
+        "share_text": "Miaka 182 Tangu Kuzaliwa kwa Antonín Dvořák! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Antonín Dvořák",
+        "hover_text": "Antonín Dvořák 182 år",
+        "share_text": "Antonín Dvořák 182 år! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Antonín Dvořák",
+        "hover_text": "அன்டனின் டுவோராக்கின் 182வது பிறந்தநாள்",
+        "share_text": "அன்டனின் டுவோராக்கின் 182வது பிறந்தநாள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "యాంటోనీన్ డివోర్జాక్",
+        "hover_text": "యాంటోనీన్ డివోర్జాక్ 182వ జయంతి",
+        "share_text": "యాంటోనీన్ డివోర్జాక్ 182వ జయంతి! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Antonín Dvořák",
+        "hover_text": "วันเกิดปีที่ 182 ของ Antonín Dvořák",
+        "share_text": "วันเกิดปีที่ 182 ของ Antonín Dvořák! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Antonín Dvořák",
+        "hover_text": "Antonín Dvořák'ın 182. Doğum Günü",
+        "share_text": "Antonín Dvořák'ın 182. Doğum Günü #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Антонін Дворжак",
+        "hover_text": "182 роки від дня народження Антоніна Дворжака",
+        "share_text": "182 роки від дня народження Антоніна Дворжака! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Antonín Dvořák",
+        "hover_text": "Antonín Dvořák کی 182 ویں سالگرہ",
+        "share_text": "Antonín Dvořák کی 182 ویں سالگرہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Antonín Dvořák",
+        "hover_text": "Antonín Dvořák tavalludining 182 yilligi",
+        "share_text": "Antonín Dvořák tavalludining 182 yilligi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Antonín Dvořák",
+        "hover_text": "Kỷ niệm 182 năm ngày sinh của Antonín Dvořák",
+        "share_text": "Kỷ niệm 182 năm ngày sinh của Antonín Dvořák! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Antonín Dvořák",
+        "hover_text": "Usuku Lokuzalwa luka-Antonín Dvořák Lweminyaka engu-182",
+        "share_text": "Usuku Lokuzalwa luka-Antonín Dvořák Lweminyaka engu-182! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Antonín Dvořák",
+    "share_text": "Antonín Dvořák's 182nd Birthday! #GoogleDoodle"
+  },
+  {
+    "name": "brazil-independence-day-2023",
+    "title": "Brazil Independence Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/brazil-independence-day-2023-6753651837110081-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/-uWr-ik7ALniELUatas8OAAnifvjAgucL_5SYtUz-PtWPUIBXYcfm1kf_sJnmQciG2bLh4i7sUSjJTHFWDkIkiVatQJcn8Pyh6rw4RdhN2UX23-lhqSAPf8",
+    "high_res_url": "//www.google.com/logos/doodles/2023/brazil-independence-day-2023-6753651837110081-2x.png",
+    "high_res_width": 1019,
+    "high_res_height": 460,
+    "run_date_array": [
+      2023,
+      9,
+      7
+    ],
+    "translations": {
+      "en": {
+        "query": "Brazil Independence Day",
+        "hover_text": "Brazil Independence Day 2023",
+        "share_text": "Happy Independence Day, Brazil! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": "Brasilië se onafhanklikheidsdag 2023",
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": "Dita e Pavarësisë së Brazilit, 2023",
+        "share_text": ""
+      },
+      "am": {
+        "query": null,
+        "hover_text": "የብራዚል ነጻነት ቀን 2023",
+        "share_text": ""
+      },
+      "ar": {
+        "query": null,
+        "hover_text": "عيد استقلال البرازيل 2023",
+        "share_text": ""
+      },
+      "hy": {
+        "query": null,
+        "hover_text": "Բրազիլիայի անկախության օր 2023",
+        "share_text": ""
+      },
+      "az": {
+        "query": null,
+        "hover_text": "2023 Braziliyanın Müstəqillik Günü",
+        "share_text": ""
+      },
+      "bn": {
+        "query": null,
+        "hover_text": "ব্রাজিলের স্বাধীনতা দিবস ২০২৩",
+        "share_text": ""
+      },
+      "eu": {
+        "query": null,
+        "hover_text": "2023ko Brasilgo Independentzia Eguna",
+        "share_text": ""
+      },
+      "be": {
+        "query": null,
+        "hover_text": "Дзень незалежнасці Бразіліі – 2023",
+        "share_text": ""
+      },
+      "bs": {
+        "query": null,
+        "hover_text": "Dan nezavisnosti Brazila 2023.",
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bg": {
+        "query": null,
+        "hover_text": "Ден на независимостта на Бразилия 2023 г.",
+        "share_text": ""
+      },
+      "my": {
+        "query": null,
+        "hover_text": "၂၀၂၃ ဘရာဇီးနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": ""
+      },
+      "ca": {
+        "query": null,
+        "hover_text": "Dia de la Independència del Brasil 2023",
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": "Dan neovisnosti Brazila 2023.",
+        "share_text": ""
+      },
+      "cs": {
+        "query": null,
+        "hover_text": "Den nezávislosti Brazílie 2023",
+        "share_text": ""
+      },
+      "da": {
+        "query": null,
+        "hover_text": "Brasiliens uafhængighedsdag 2023",
+        "share_text": ""
+      },
+      "nl": {
+        "query": null,
+        "hover_text": "Onafhankelijkheidsdag Brazilië 2023",
+        "share_text": ""
+      },
+      "et": {
+        "query": null,
+        "hover_text": "Brasiilia 2023. aasta iseseisvuspäev",
+        "share_text": ""
+      },
+      "fi": {
+        "query": null,
+        "hover_text": "Brasilian itsenäisyyspäivä 2023",
+        "share_text": ""
+      },
+      "fr": {
+        "query": null,
+        "hover_text": "Fête de l'Indépendance du Brésil 2023",
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": "Día da Independencia do Brasil 2023",
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": "ბრაზილიის დამოუკიდებლობის დღე — 2023",
+        "share_text": ""
+      },
+      "de": {
+        "query": null,
+        "hover_text": "Unabhängigkeitstag Brasilien 2023",
+        "share_text": ""
+      },
+      "el": {
+        "query": null,
+        "hover_text": "Ημέρα Ανεξαρτησίας της Βραζιλίας 2023",
+        "share_text": ""
+      },
+      "gu": {
+        "query": null,
+        "hover_text": "બ્રાઝિલનો સ્વતંત્રતા દિવસ 2023",
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": "יום העצמאות של ברזיל 2023",
+        "share_text": ""
+      },
+      "hi": {
+        "query": null,
+        "hover_text": "ब्राज़ील का स्वतंत्रता दिवस 2023",
+        "share_text": ""
+      },
+      "hu": {
+        "query": null,
+        "hover_text": "Brazília függetlenségének napja, 2023",
+        "share_text": ""
+      },
+      "is": {
+        "query": null,
+        "hover_text": "Sjálfstæðisdagur Brasilíu 2023",
+        "share_text": ""
+      },
+      "id": {
+        "query": null,
+        "hover_text": "Hari Kemerdekaan Brasil 2023",
+        "share_text": ""
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": "Festa dell'indipendenza del Brasile 2023",
+        "share_text": ""
+      },
+      "ja": {
+        "query": null,
+        "hover_text": "2023 年ブラジル独立記念日",
+        "share_text": ""
+      },
+      "kn": {
+        "query": null,
+        "hover_text": "ಬ್ರೆಜಿಲ್ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2023",
+        "share_text": ""
+      },
+      "kk": {
+        "query": null,
+        "hover_text": "Бразилияның Тәуелсіздік күні – 2023",
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": "ទិវា​បុណ្យឯករាជ្យជាតិប្រេស៊ីលឆ្នាំ 2023",
+        "share_text": ""
+      },
+      "ko": {
+        "query": null,
+        "hover_text": "2023년 브라질 독립기념일",
+        "share_text": ""
+      },
+      "ky": {
+        "query": null,
+        "hover_text": "Бразилиянын Эгемендүүлүк күнү — 2023",
+        "share_text": ""
+      },
+      "lo": {
+        "query": null,
+        "hover_text": "ວັນປະກາດເອກະລາດບຣາຊິວ 2023",
+        "share_text": ""
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lv": {
+        "query": null,
+        "hover_text": "Brazīlijas Neatkarības diena — 2023",
+        "share_text": ""
+      },
+      "lt": {
+        "query": null,
+        "hover_text": "Brazilijos nepriklausomybės diena, 2023 m.",
+        "share_text": ""
+      },
+      "mk": {
+        "query": null,
+        "hover_text": "Ден на независноста на Бразил, 2023 г.",
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": "Hari Kemerdekaan Brazil 2023",
+        "share_text": ""
+      },
+      "ml": {
+        "query": null,
+        "hover_text": "ബ്രസീൽ സ്വാതന്ത്ര്യദിനം 2023",
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": "ब्राझीलचा स्वातंत्र्यदिन २०२३",
+        "share_text": ""
+      },
+      "mn": {
+        "query": null,
+        "hover_text": "2023 оны Бразил Улсын Тусгаар тогтнолын өдөр",
+        "share_text": ""
+      },
+      "ne": {
+        "query": null,
+        "hover_text": "ब्राजिलको स्वतन्त्रता दिवस २०२३",
+        "share_text": ""
+      },
+      "no": {
+        "query": null,
+        "hover_text": "Brasils frigjøringsdag 2023",
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": "روز استقلال برزیل - ۲۰۲۳",
+        "share_text": ""
+      },
+      "pl": {
+        "query": null,
+        "hover_text": "Dzień Niepodległości Brazylii 2023",
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": "Dia da Independência do Brasil",
+        "hover_text": "Dia da Independência do Brasil",
+        "share_text": "Feliz Dia da Independência do Brasil! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": null,
+        "hover_text": "ਬ੍ਰਾਜ਼ੀਲ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2023",
+        "share_text": ""
+      },
+      "ro": {
+        "query": null,
+        "hover_text": "Ziua Independenței Braziliei – 2023",
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": "День независимости Бразилии – 2023",
+        "share_text": ""
+      },
+      "sr": {
+        "query": null,
+        "hover_text": "Дан независности Бразила 2023.",
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": "බ්‍රසීලයේ නිදහස් දිනය 2023",
+        "share_text": ""
+      },
+      "sk": {
+        "query": null,
+        "hover_text": "Deň nezávislosti Brazílie 2023",
+        "share_text": ""
+      },
+      "sl": {
+        "query": null,
+        "hover_text": "Dan neodvisnosti Brazilije 2023",
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": "Día de la Independencia de Brasil 2023",
+        "share_text": ""
+      },
+      "sw": {
+        "query": null,
+        "hover_text": "Sikukuu ya Uhuru wa Brazili 2023",
+        "share_text": ""
+      },
+      "sv": {
+        "query": null,
+        "hover_text": "Brasiliens självständighetsdag 2023",
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": "பிரேசிலின் சுதந்திர தினம் 2023",
+        "share_text": ""
+      },
+      "te": {
+        "query": null,
+        "hover_text": "బ్రెజిల్ స్వాతంత్య్ర దినోత్సవం 2023",
+        "share_text": ""
+      },
+      "th": {
+        "query": null,
+        "hover_text": "วันชาติบราซิลปี 2023",
+        "share_text": ""
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": "Brezilya Bağımsızlık Günü 2023",
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": "День незалежності Бразилії у 2023 році",
+        "share_text": ""
+      },
+      "ur": {
+        "query": null,
+        "hover_text": "ﺑﺮﺍﺯﻳﻞ کا یوم آزادی 2023",
+        "share_text": ""
+      },
+      "uz": {
+        "query": null,
+        "hover_text": "Braziliya Mustaqillik kuni – 2023",
+        "share_text": ""
+      },
+      "vi": {
+        "query": null,
+        "hover_text": "Ngày Quốc khánh Brazil năm 2023",
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": "Usuku Lokuzimela lwase-Brazil lwango-2023",
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Brazil Independence Day",
+    "share_text": "Happy Independence Day, Brazil! #GoogleDoodle"
+  },
+  {
     "name": "labor-day-2023",
     "title": "Labor Day 2023",
     "url": "//www.google.com/logos/doodles/2023/labor-day-2023-6753651837109933-l.png",
@@ -30,8 +1028,8 @@
       },
       "am": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "የላብ አደሮች ቀን 2023",
+        "share_text": "መልካም የላብ አደሮች ቀን 2023! #GoogleDoodle"
       },
       "ar": {
         "query": null,
@@ -50,8 +1048,8 @@
       },
       "bn": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "শ্রমিক দিবস ২০২৩",
+        "share_text": "শুভ শ্রমিক দিবস ২০২৩! #GoogleDoodle"
       },
       "eu": {
         "query": null,
@@ -65,8 +1063,8 @@
       },
       "bs": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Američki Praznik rada 2023.",
+        "share_text": "Sretan američki Praznik rada 2023! #GoogleDoodle"
       },
       "en-GB": {
         "query": null,
@@ -80,8 +1078,8 @@
       },
       "my": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "၂၀၂၃ အလုပ်သမားနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် ၂၀၂၃ အလုပ်သမားနေ့ဖြစ်ပါစေ။ #GoogleDoodle"
       },
       "ca": {
         "query": null,
@@ -105,13 +1103,13 @@
       },
       "hr": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Američki Praznik rada 2023.",
+        "share_text": "Sretan američki Praznik rada 2023.! #GoogleDoodle"
       },
       "cs": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Svátek práce 2023",
+        "share_text": "Vše nejlepší ke Svátku práce 2023! #GoogleDoodle"
       },
       "da": {
         "query": null,
@@ -130,8 +1128,8 @@
       },
       "fi": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Labor Day 2023",
+        "share_text": "Hyvää Labor Day ‑päivää 2023! #GoogleDoodle"
       },
       "fr": {
         "query": "Fête du Travail",
@@ -160,8 +1158,8 @@
       },
       "el": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Ημέρα της Εργασίας 2023",
+        "share_text": "Γιορτάζουμε την Ημέρα της Εργασίας 2023! #GoogleDoodle"
       },
       "gu": {
         "query": null,
@@ -180,8 +1178,8 @@
       },
       "hi": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "मज़दूर दिवस 2023",
+        "share_text": "मज़दूर दिवस 2023 की शुभकामनाएं! #GoogleDoodle"
       },
       "hu": {
         "query": null,
@@ -190,13 +1188,13 @@
       },
       "is": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Verkalýðsdagurinn 2023 (Bandaríkin og Kanada)",
+        "share_text": "Gleðilegan verkalýðsdag Bandaríkjanna og Kanada 2023! #GoogleDoodle"
       },
       "id": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Hari Buruh 2023",
+        "share_text": "Selamat Hari Buruh 2023! #GoogleDoodle"
       },
       "ga": {
         "query": null,
@@ -215,13 +1213,13 @@
       },
       "kn": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "ಕಾರ್ಮಿಕರ ದಿನಾಚರಣೆ 2023",
+        "share_text": "ಕಾರ್ಮಿಕರ ದಿನಾಚರಣೆ 2023 ರ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
       },
       "kk": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Еңбек күні – 2023",
+        "share_text": "2023 жылғы Еңбек күні құтты болсын! #GoogleDoodle"
       },
       "km": {
         "query": null,
@@ -260,8 +1258,8 @@
       },
       "mk": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Ден на трудот, 2023 г.",
+        "share_text": "Среќен Ден на трудот, 2023 г.! #GoogleDoodle"
       },
       "mg": {
         "query": null,
@@ -275,8 +1273,8 @@
       },
       "ml": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "തൊഴിലാളി ദിനം 2023",
+        "share_text": "തൊഴിലാളി ദിനാശംസകൾ 2023! #GoogleDoodle"
       },
       "mt": {
         "query": null,
@@ -290,8 +1288,8 @@
       },
       "mn": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "2023 оны Хөдөлмөрчдийн өдөр",
+        "share_text": "2023 оны Хөдөлмөрчдийн өдрийн мэнд хүргэе! #GoogleDoodle"
       },
       "ne": {
         "query": null,
@@ -300,8 +1298,8 @@
       },
       "no": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Labor Day 2023",
+        "share_text": "Hurra for Labor Day 2023! #GoogleDoodle"
       },
       "nn": {
         "query": null,
@@ -315,8 +1313,8 @@
       },
       "or": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "ଶ୍ରମିକ ଦିବସ 2023",
+        "share_text": "ଶ୍ରମିକ ଦିବସ 2023ର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
       },
       "ps": {
         "query": null,
@@ -345,8 +1343,8 @@
       },
       "pa": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "ਮਜ਼ਦੂਰ ਦਿਵਸ 2023",
+        "share_text": "ਮਜ਼ਦੂਰ ਦਿਵਸ 2023 ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
       },
       "ro": {
         "query": null,
@@ -360,13 +1358,13 @@
       },
       "ru": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "День труда – 2023",
+        "share_text": "День труда – 2023 #GoogleDoodle"
       },
       "sr": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Празник рада 2023.",
+        "share_text": "Срећан Празник рада 2023! #GoogleDoodle"
       },
       "sr-Latn": {
         "query": null,
@@ -390,8 +1388,8 @@
       },
       "si": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "කම්කරු දිනය 2023",
+        "share_text": "ප්‍රීතිමත් කම්කරු දිනයක් 2023! #GoogleDoodle"
       },
       "sk": {
         "query": null,
@@ -435,13 +1433,13 @@
       },
       "ta": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "தொழிலாளர் தினம் 2023",
+        "share_text": "தொழிலாளர் தின வாழ்த்துகள் 2023! #GoogleDoodle"
       },
       "te": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "కార్మిక దినోత్సవం 2023",
+        "share_text": "2023 కార్మిక దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
       },
       "th": {
         "query": null,
