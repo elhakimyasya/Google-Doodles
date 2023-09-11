@@ -1,5 +1,504 @@
 [
   {
+    "name": "teachers-day-2023-sep-11",
+    "title": "Teachers' Day 2023 (Sep 11)",
+    "url": "//www.google.com/logos/doodles/2023/teachers-day-2023-sep-11-6753651837109931-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/md4zsW-fvFZ3lxgQF3NZq1hsqw4nf8V5MbHN0_7jq-wlZEoXKO8cR84BRn8Zdygfs3TL8DM1K98N8odtrKKFWIvoziFui8AMoesxsv7YiReOBE2QgXSYtw",
+    "high_res_url": "//www.google.com/logos/doodles/2023/teachers-day-2023-sep-11-6753651837109931-2xa.gif",
+    "high_res_width": 920,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      9,
+      11
+    ],
+    "translations": {
+      "en": {
+        "query": "Singapore Teachers' Day",
+        "hover_text": "Teachers' Day 2023 (Sep 01)",
+        "share_text": "Happy Teachers' Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Singapoer se onderwysersdag",
+        "hover_text": "Onderwysersdag 2023 (1 Sep)",
+        "share_text": ""
+      },
+      "sq": {
+        "query": "Dita e Mësuesit në Singapor",
+        "hover_text": "Dita e Mësuesit, 2023 (1 shtator)",
+        "share_text": ""
+      },
+      "am": {
+        "query": "የሲንጋፖር የመምህራን ቀን",
+        "hover_text": "የመምህራን ቀን 2023 (ሴፕቴምበር 01)",
+        "share_text": ""
+      },
+      "ar": {
+        "query": "عيد المعلّم في سنغافورة",
+        "hover_text": "عيد المعلّم 2023 (1 أيلول/سبتمبر)",
+        "share_text": ""
+      },
+      "hy": {
+        "query": "Սինգապուրի ուսուցիչների օր",
+        "hover_text": "Ուսուցիչների օր 2023 (սեպտեմբերի 1)",
+        "share_text": ""
+      },
+      "az": {
+        "query": "Sinqapur Müəllimlər Günü",
+        "hover_text": "2023 Müəllimlər Günü (1 sentyabr)",
+        "share_text": ""
+      },
+      "bn": {
+        "query": "সিঙ্গাপুরের শিক্ষক দিবস",
+        "hover_text": "শিক্ষক দিবস ২০২৩ (০১ সেপ্টেম্বর)",
+        "share_text": ""
+      },
+      "eu": {
+        "query": "Singapurko Irakasleen Eguna",
+        "hover_text": "2023ko Irakasleen Eguna (irailaren 1a)",
+        "share_text": ""
+      },
+      "be": {
+        "query": "Дзень настаўніка ў Сінгапуры",
+        "hover_text": "Дзень настаўніка 2023 (1 верасня)",
+        "share_text": ""
+      },
+      "bs": {
+        "query": "Dan nastavnika u Singapuru",
+        "hover_text": "Dan nastavnika 2023. (1. sep)",
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bg": {
+        "query": "Ден на учителя в Сингапур",
+        "hover_text": "Ден на учителя 2023 г. (1 септември)",
+        "share_text": ""
+      },
+      "my": {
+        "query": "စင်္ကာပူနိုင်ငံ ဆရာများနေ့",
+        "hover_text": "၂၀၂၃ ဆရာများနေ့ (စက်တင်ဘာ ၁)",
+        "share_text": ""
+      },
+      "ca": {
+        "query": "Dia del Mestre a Singapur",
+        "hover_text": "Dia del Mestre 2023 (1 de setembre)",
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": "教师节",
+        "hover_text": "教师节2023",
+        "share_text": "教师节2023 #GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan učitelja u Singapuru",
+        "hover_text": "Dan učitelja 2023. (1. rujna)",
+        "share_text": ""
+      },
+      "cs": {
+        "query": "Den učitelů v Singapuru",
+        "hover_text": "Den učitelů 2023 (1. září)",
+        "share_text": ""
+      },
+      "da": {
+        "query": "Lærernes dag i Singapore",
+        "hover_text": "Lærernes dag 2023 (1. september)",
+        "share_text": ""
+      },
+      "nl": {
+        "query": "Dag van de Leraar in Singapore",
+        "hover_text": "Dag van de Leraar 2023 (1 sep)",
+        "share_text": ""
+      },
+      "et": {
+        "query": "Singapuri õpetajate päev",
+        "hover_text": "2023. aasta õpetajate päev (1. september)",
+        "share_text": ""
+      },
+      "fi": {
+        "query": "Singaporen opettajien päivä",
+        "hover_text": "Opettajien päivä 2023 (1.9.)",
+        "share_text": ""
+      },
+      "fr": {
+        "query": "Fête des professeurs à Singapour",
+        "hover_text": "Fête des professeurs 2023 (1er septembre)",
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": "Día do Mestre de Singapur",
+        "hover_text": "Día do Mestre 2023 (1 de setembro)",
+        "share_text": ""
+      },
+      "ka": {
+        "query": "სინგაპურის მასწავლებელთა დღე",
+        "hover_text": "მასწავლებლის დღე 2023 (1 სექტემბერი)",
+        "share_text": ""
+      },
+      "de": {
+        "query": "Tag der Lehrer in Singapur",
+        "hover_text": "Tag der Lehrer 2023 (1. September)",
+        "share_text": ""
+      },
+      "el": {
+        "query": "Ημέρα Εκπαιδευτικών της Σιγκαπούρης",
+        "hover_text": "Ημέρα Εκπαιδευτικών 2023 (1 Σεπτεμβρίου)",
+        "share_text": ""
+      },
+      "gu": {
+        "query": "સિંગાપોર શિક્ષક દિવસ",
+        "hover_text": "શિક્ષક દિવસ 2023 (01 સપ્ટેમ્બર)",
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום המורה בסינגפור",
+        "hover_text": "יום המורה 2023 (1 בספטמבר)",
+        "share_text": ""
+      },
+      "hi": {
+        "query": "सिंगापुर का शिक्षक दिवस",
+        "hover_text": "शिक्षक दिवस 2023 (1 सितंबर)",
+        "share_text": ""
+      },
+      "hu": {
+        "query": "Pedagógusnap Szingapúrban",
+        "hover_text": "Pedagógusnap, 2023 (szeptember 1.)",
+        "share_text": ""
+      },
+      "is": {
+        "query": "Kennaradagurinn í Singapúr",
+        "hover_text": "Kennaradagurinn 2023 (1. september)",
+        "share_text": ""
+      },
+      "id": {
+        "query": "Hari Guru Singapura",
+        "hover_text": "Hari Guru 2023 (1 September)",
+        "share_text": ""
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Festa degli insegnanti Singapore",
+        "hover_text": "Festa degli insegnanti 2023 (1° settembre)",
+        "share_text": ""
+      },
+      "ja": {
+        "query": "シンガポール教師の日",
+        "hover_text": "2023 年教師の日（9 月 1 日）",
+        "share_text": ""
+      },
+      "kn": {
+        "query": "ಸಿಂಗಾಪುರ್‌ನಲ್ಲಿ ಶಿಕ್ಷಕರ ದಿನಾಚರಣೆ",
+        "hover_text": "ಶಿಕ್ಷಕರ ದಿನಾಚರಣೆ 2023 (ಸೆಪ್ಟೆಂಬರ್ 01)",
+        "share_text": ""
+      },
+      "kk": {
+        "query": "Сингапурдағы мұғалімдер күні",
+        "hover_text": "Мұғалімдер күні – 2023 (1 қыркүйек)",
+        "share_text": ""
+      },
+      "km": {
+        "query": "ទិវាគ្រូបង្រៀននៅសិង្ហបុរី",
+        "hover_text": "ទិវាគ្រូបង្រៀនឆ្នាំ 2023 (ថ្ងៃទី 01 ខែកញ្ញា)",
+        "share_text": ""
+      },
+      "ko": {
+        "query": "싱가포르 스승의 날",
+        "hover_text": "2023년 스승의 날(9월 1일)",
+        "share_text": ""
+      },
+      "ky": {
+        "query": "Сингапурдагы Мугалимдер күнү",
+        "hover_text": "Мугалимдер күнү – 2023 (1-сентябрь)",
+        "share_text": ""
+      },
+      "lo": {
+        "query": "ວັນຄູສິງກະໂປ",
+        "hover_text": "ວັນຄູ 2023 (1 ກັນຍາ)",
+        "share_text": ""
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lv": {
+        "query": "Skolotāju diena Singapūrā",
+        "hover_text": "Skolotāju diena — 2023. gada 1. septembris",
+        "share_text": ""
+      },
+      "lt": {
+        "query": "Mokytojų diena (Singapūras)",
+        "hover_text": "Mokytojų diena, 2023 m. (rugsėjo 1 d.)",
+        "share_text": ""
+      },
+      "mk": {
+        "query": "Ден на наставниците во Сингапур",
+        "hover_text": "Ден на наставниците, 2023 г. (1 сеп.)",
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Hari Guru Singapura",
+        "hover_text": "Hari Guru 2023 ",
+        "share_text": "Hari Guru 2023"
+      },
+      "ml": {
+        "query": "സിംഗപ്പൂർ അധ്യാപക ദിനം",
+        "hover_text": "അധ്യാപക ദിനം 2023 (സെപ്‌റ്റംബർ 01)",
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "सिंगापूरचा शिक्षक दिन",
+        "hover_text": "शिक्षक दिन २०२३ (१ सप्टेंबर)",
+        "share_text": ""
+      },
+      "mn": {
+        "query": "Сингапур Улсын Багш нарын өдөр",
+        "hover_text": "2023 оны Багш нарын өдөр (9-р сарын 1)",
+        "share_text": ""
+      },
+      "ne": {
+        "query": "सिङ्गापुरको शिक्षक दिवस",
+        "hover_text": "शिक्षक दिवस २०२३ (सेप्टेम्बर ०१)",
+        "share_text": ""
+      },
+      "no": {
+        "query": "Lærernes dag (Singapore)",
+        "hover_text": "Lærernes dag 2023 (1. september)",
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز معلم سنگاپور",
+        "hover_text": "روز معلم ۲۰۲۳ (۱ سپتامبر)",
+        "share_text": ""
+      },
+      "pl": {
+        "query": "Dzień Nauczyciela (Singapur)",
+        "hover_text": "Dzień Nauczyciela 2023 (1 września)",
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": "ਸਿੰਗਾਪੁਰ ਦਾ ਅਧਿਆਪਕ ਦਿਵਸ",
+        "hover_text": "ਅਧਿਆਪਕ ਦਿਵਸ 2023 (01 ਸਤੰਬਰ)",
+        "share_text": ""
+      },
+      "ro": {
+        "query": "Ziua Profesorului în Singapore",
+        "hover_text": "Ziua Profesorului 2023 (1 sept)",
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День учителя в Сингапуре",
+        "hover_text": "День учителя – 2023 (1 сентября)",
+        "share_text": ""
+      },
+      "sr": {
+        "query": "Дан учитеља у Сингапуру",
+        "hover_text": "Дан учитеља 2023. (1. септембар)",
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "සිංගප්පූරු ගුරු දිනය",
+        "hover_text": "ගුරු දිනය 2023 (සැප් 01)",
+        "share_text": ""
+      },
+      "sk": {
+        "query": "Deň učiteľov v Singapure",
+        "hover_text": "Deň učiteľov 2023 (1. september)",
+        "share_text": ""
+      },
+      "sl": {
+        "query": "Dan učiteljev v Singapurju",
+        "hover_text": "Dan učiteljev 2023 (1. september)",
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día del Maestro en Singapur",
+        "hover_text": "Día del Maestro 2023 (1 de septiembre)",
+        "share_text": ""
+      },
+      "sw": {
+        "query": "Siku ya Walimu nchini Singapoo",
+        "hover_text": "Siku ya Walimu 2023 (Tarehe 01 Septemba)",
+        "share_text": ""
+      },
+      "sv": {
+        "query": "Lärarnas dag i Singapore",
+        "hover_text": "Lärarnas dag 2023 (1 sep)",
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Singapore Teachers' Day",
+        "hover_text": "ஆசிரியர் தினம் 2023 (செப். 1)",
+        "share_text": "ஆசிரியர் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "సింగపూర్ ఉపాధ్యాయుల దినోత్సవం",
+        "hover_text": "ఉపాధ్యాయుల దినోత్సవం 2023 (సెప్టెంబర్ 01)",
+        "share_text": ""
+      },
+      "th": {
+        "query": "วันครูสิงคโปร์",
+        "hover_text": "วันครูปี 2023 (1 กันยายน)",
+        "share_text": ""
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Singapur Öğretmenler Günü",
+        "hover_text": "Öğretmenler Günü 2023 (1 Eylül)",
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День учителя в Сінгапурі",
+        "hover_text": "День учителя у 2023 році (1 вересня)",
+        "share_text": ""
+      },
+      "ur": {
+        "query": "سنگاپور یوم اساتذہ",
+        "hover_text": "یوم اساتذہ 2023 (01 ستمبر)",
+        "share_text": ""
+      },
+      "uz": {
+        "query": "Singapurda oʻqituvchilar kuni",
+        "hover_text": "Oʻqituvchilar kuni 2023 (1-sentyabr)",
+        "share_text": ""
+      },
+      "vi": {
+        "query": "Ngày Nhà giáo ở Singapore",
+        "hover_text": "Ngày Nhà giáo năm 2023 (ngày 1 tháng 9)",
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lothisha lwase-Singapore",
+        "hover_text": "Usuku Lothisha lwango-2023 (Sep 01)",
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Singapore Teachers' Day",
+    "share_text": "Happy Teachers' Day! #GoogleDoodle"
+  },
+  {
     "name": "antonin-dvoraks-182nd-birthday",
     "title": "Antonín Dvořák's 182nd Birthday",
     "url": "//www.google.com/logos/doodles/2023/antonin-dvoraks-182nd-birthday-6753651837109934-l.png",
