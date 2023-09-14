@@ -69,8 +69,8 @@
         "share_text": ""
       },
       "en-GB": {
-        "query": null,
-        "hover_text": null,
+        "query": "Singapore Teachers' Day",
+        "hover_text": "Teachers' Day 2023 (01 Sep)",
         "share_text": ""
       },
       "bg": {
@@ -89,13 +89,13 @@
         "share_text": ""
       },
       "zh-HK": {
-        "query": null,
-        "hover_text": null,
+        "query": "新加坡教師日",
+        "hover_text": "2023 年教師日 (9 月 1 日)",
         "share_text": ""
       },
       "zh-TW": {
-        "query": null,
-        "hover_text": null,
+        "query": "新加坡教師節",
+        "hover_text": "2023 年教師節 (9 月 1 日)",
         "share_text": ""
       },
       "zh-CN": {
@@ -139,8 +139,8 @@
         "share_text": ""
       },
       "fr-CA": {
-        "query": null,
-        "hover_text": null,
+        "query": "Journée des enseignantes et des enseignants de Singapour",
+        "hover_text": "Journée des enseignantes et des enseignants 2023 (1ᵉʳ septembre)",
         "share_text": ""
       },
       "gl": {
@@ -244,8 +244,8 @@
         "share_text": ""
       },
       "es-419": {
-        "query": null,
-        "hover_text": null,
+        "query": "Día del Maestro de Singapur",
+        "hover_text": "Día del Maestro 2023 (1 de septiembre)",
         "share_text": ""
       },
       "lv": {
@@ -334,13 +334,13 @@
         "share_text": ""
       },
       "pt-BR": {
-        "query": null,
-        "hover_text": null,
+        "query": "Dia do Professor em Singapura",
+        "hover_text": "Dia do Professor 2023 (1º de setembro)",
         "share_text": ""
       },
       "pt-PT": {
-        "query": null,
-        "hover_text": null,
+        "query": "Dia dos Professores de Singapura",
+        "hover_text": "Dia dos Professores de 2023 (1 de setembro)",
         "share_text": ""
       },
       "pa": {
@@ -369,8 +369,8 @@
         "share_text": ""
       },
       "sr-Latn": {
-        "query": null,
-        "hover_text": null,
+        "query": "Dan učitelja u Singapuru",
+        "hover_text": "Dan učitelja 2023. (1. septembar)",
         "share_text": ""
       },
       "sr-ME": {
@@ -588,19 +588,19 @@
         "share_text": "182è aniversari del naixement d'Antonín Dvořák #GoogleDoodle"
       },
       "zh-HK": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "德伏扎克",
+        "hover_text": "德伏扎克誕辰 182 週年",
+        "share_text": "德伏扎克誕辰 182 週年！#GoogleDoodle"
       },
       "zh-TW": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "安東寧德弗札克",
+        "hover_text": "安東寧德弗札克 182 歲冥誕",
+        "share_text": "紀念安東寧德弗札克 182 歲冥誕！#GoogleDoodle"
       },
       "zh-CN": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "安东宁·德沃夏克",
+        "hover_text": "安东宁·德沃夏克诞辰 182 周年",
+        "share_text": "安东宁·德沃夏克诞辰 182 周年！#GoogleDoodle"
       },
       "hr": {
         "query": "Antonín Dvořák",
@@ -638,9 +638,9 @@
         "share_text": "182e anniversaire d'Antonín Dvořák #GoogleDoodle"
       },
       "fr-CA": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Antonín Dvořák",
+        "hover_text": "Le 182ᵉ anniversaire de naissance d'Antonín Dvořák",
+        "share_text": "Le 182ᵉ anniversaire de naissance d'Antonín Dvořák! #GoogleDoodle"
       },
       "gl": {
         "query": "Antonín Dvořák",
@@ -743,9 +743,9 @@
         "share_text": "ວັນເກີດຄົບຮອບ 182 ປີຂອງ Antonín Dvořák! #GoogleDoodle"
       },
       "es-419": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Antonín Dvořák",
+        "hover_text": "182º aniversario del nacimiento de Antonín Dvořák",
+        "share_text": "¡182º aniversario del nacimiento de Antonín Dvořák! #GoogleDoodle"
       },
       "lv": {
         "query": "Antonīns Dvoržāks",
@@ -833,14 +833,14 @@
         "share_text": "Antonín Dvořák – 182 rocznica urodzin #GoogleDoodle"
       },
       "pt-BR": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Antonín Dvořák",
+        "hover_text": "182º aniversário de Antonín Dvořák",
+        "share_text": "182º aniversário de Antonín Dvořák! #GoogleDoodle"
       },
       "pt-PT": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Antonín Dvořák",
+        "hover_text": "182.º Aniversário de Antonín Dvořák",
+        "share_text": "182.º Aniversário de Antonín Dvořák! #GoogleDoodle"
       },
       "pa": {
         "query": "ਅੰਤੋਨੀਨ ਡਵੋਜ਼ਾਕ",
@@ -868,9 +868,9 @@
         "share_text": "182 године од рођења Антоњина Дворжака! #GoogleDoodle"
       },
       "sr-Latn": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Antonjin Dvoržak",
+        "hover_text": "182 godine od rođenja Antonjina Dvoržaka",
+        "share_text": "182 godine od rođenja Antonjina Dvoržaka! #GoogleDoodle"
       },
       "sr-ME": {
         "query": null,
@@ -1068,7 +1068,7 @@
       },
       "en-GB": {
         "query": null,
-        "hover_text": null,
+        "hover_text": "Brazil Independence Day 2023",
         "share_text": ""
       },
       "bg": {
@@ -1088,17 +1088,17 @@
       },
       "zh-HK": {
         "query": null,
-        "hover_text": null,
+        "hover_text": "2023 年巴西獨立日",
         "share_text": ""
       },
       "zh-TW": {
         "query": null,
-        "hover_text": null,
+        "hover_text": "2023 年巴西獨立紀念日",
         "share_text": ""
       },
       "zh-CN": {
         "query": null,
-        "hover_text": null,
+        "hover_text": "2023 年巴西独立日",
         "share_text": ""
       },
       "hr": {
@@ -1138,7 +1138,7 @@
       },
       "fr-CA": {
         "query": null,
-        "hover_text": null,
+        "hover_text": "Jour de l'Indépendance du Brésil 2023",
         "share_text": ""
       },
       "gl": {
@@ -1243,7 +1243,7 @@
       },
       "es-419": {
         "query": null,
-        "hover_text": null,
+        "hover_text": "Día de la Independencia de Brasil 2023",
         "share_text": ""
       },
       "lv": {
@@ -1338,7 +1338,7 @@
       },
       "pt-PT": {
         "query": null,
-        "hover_text": null,
+        "hover_text": "Dia da Independência do Brasil de 2023",
         "share_text": ""
       },
       "pa": {
@@ -1368,7 +1368,7 @@
       },
       "sr-Latn": {
         "query": null,
-        "hover_text": null,
+        "hover_text": "Dan nezavisnosti Brazila 2023.",
         "share_text": ""
       },
       "sr-ME": {
@@ -1567,8 +1567,8 @@
       },
       "en-GB": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Labor Day 2023",
+        "share_text": "Happy Labour Day 2023! #GoogleDoodle"
       },
       "bg": {
         "query": null,
@@ -1587,13 +1587,13 @@
       },
       "zh-HK": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "2023 年勞動節",
+        "share_text": "2023 年勞動節快樂！#GoogleDoodle"
       },
       "zh-TW": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "2023 年勞動節",
+        "share_text": "2023 年勞動節快樂！#GoogleDoodle"
       },
       "zh-CN": {
         "query": "劳动节",
@@ -1832,13 +1832,13 @@
       },
       "pt-BR": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Dia do Trabalho 2023",
+        "share_text": "Feliz Dia do Trabalho 2023! #GoogleDoodle"
       },
       "pt-PT": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Dia do Trabalhador de 2023",
+        "share_text": "Feliz Dia do Trabalhador de 2023! #GoogleDoodle"
       },
       "pa": {
         "query": null,
@@ -1867,8 +1867,8 @@
       },
       "sr-Latn": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Praznik rada 2023.",
+        "share_text": "Srećan Praznik rada 2023! #GoogleDoodle"
       },
       "sr-ME": {
         "query": null,
@@ -2066,7 +2066,7 @@
       },
       "en-GB": {
         "query": null,
-        "hover_text": null,
+        "hover_text": "Vietnam National Day 2023",
         "share_text": ""
       },
       "bg": {
@@ -2086,7 +2086,7 @@
       },
       "zh-HK": {
         "query": null,
-        "hover_text": null,
+        "hover_text": "2023 年越南國慶日",
         "share_text": ""
       },
       "zh-TW": {
@@ -2096,7 +2096,7 @@
       },
       "zh-CN": {
         "query": null,
-        "hover_text": null,
+        "hover_text": "2023 年越南国庆节",
         "share_text": ""
       },
       "hr": {
@@ -2136,7 +2136,7 @@
       },
       "fr-CA": {
         "query": null,
-        "hover_text": null,
+        "hover_text": "Fête nationale du Vietnam 2023",
         "share_text": ""
       },
       "gl": {
@@ -2241,7 +2241,7 @@
       },
       "es-419": {
         "query": null,
-        "hover_text": null,
+        "hover_text": "Día Nacional de Vietnam 2023",
         "share_text": ""
       },
       "lv": {
@@ -2331,12 +2331,12 @@
       },
       "pt-BR": {
         "query": null,
-        "hover_text": null,
+        "hover_text": "Dia Nacional do Vietnã 2023",
         "share_text": ""
       },
       "pt-PT": {
         "query": null,
-        "hover_text": null,
+        "hover_text": "Dia Nacional do Vietname de 2023",
         "share_text": ""
       },
       "pa": {
@@ -2366,7 +2366,7 @@
       },
       "sr-Latn": {
         "query": null,
-        "hover_text": null,
+        "hover_text": "Dan državnosti Vijetnama 2023.",
         "share_text": ""
       },
       "sr-ME": {
@@ -2584,19 +2584,19 @@
         "share_text": "150è aniversari del naixement de Lily Poulett-Harris #GoogleDoodle"
       },
       "zh-HK": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Lily Poulett-Harris",
+        "hover_text": "Lily Poulett-Harris 誕辰 150 週年",
+        "share_text": "Lily Poulett-Harris 誕辰 150 週年！#GoogleDoodle"
       },
       "zh-TW": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "莉莉普萊特哈里斯",
+        "hover_text": "莉莉普萊特哈里斯 150 歲冥誕",
+        "share_text": "紀念莉莉普萊特哈里斯 150 歲冥誕！#GoogleDoodle"
       },
       "zh-CN": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Lily Poulett-Harris",
+        "hover_text": "Lily Poulett-Harris 诞辰 150 周年",
+        "share_text": "Lily Poulett-Harris 诞辰 150 周年！#GoogleDoodle"
       },
       "hr": {
         "query": "Lily Poulett-Harris",
@@ -2634,9 +2634,9 @@
         "share_text": "150e anniversaire de Lily Poulett-Harris #GoogleDoodle"
       },
       "fr-CA": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Lily Poulett-Harris",
+        "hover_text": "150ᵉ anniversaire de Lily Poulett-Harris",
+        "share_text": "150ᵉ anniversaire de Lily Poulett-Harris! #GoogleDoodle"
       },
       "gl": {
         "query": "Lily Poulett-Harris",
@@ -2739,9 +2739,9 @@
         "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 150 ປີຂອງ Lily Poulett-Harris! #GoogleDoodle"
       },
       "es-419": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Lily Poulett-Harris",
+        "hover_text": "150° aniversario del nacimiento de Lily Poulett-Harris",
+        "share_text": "¡150° aniversario del nacimiento de Lily Poulett-Harris! #GoogleDoodle"
       },
       "lv": {
         "query": "Lilija Pulē-Harisa",
@@ -2829,14 +2829,14 @@
         "share_text": "Lily Poulett-Harris – 150 rocznica urodzin #GoogleDoodle"
       },
       "pt-BR": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Lily Poulett-Harris",
+        "hover_text": "150º aniversário de Lily Poulett-Harris",
+        "share_text": "150º aniversário de Lily Poulett-Harris #GoogleDoodle"
       },
       "pt-PT": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Lily Poulett-Harris",
+        "hover_text": "150.º Aniversário de Lily Poulett-Harris",
+        "share_text": "150.º Aniversário de Lily Poulett-Harris! #GoogleDoodle"
       },
       "pa": {
         "query": "Lily Poulett-Harris",
@@ -2864,9 +2864,9 @@
         "share_text": "150 година од рођења Лили Пулет-Харис! #GoogleDoodle"
       },
       "sr-Latn": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Lili Pulet-Haris",
+        "hover_text": "150 godina od rođenja Lili Pulet-Haris",
+        "share_text": "150 godina od rođenja Lili Pulet-Haris! #GoogleDoodle"
       },
       "sr-ME": {
         "query": null,
@@ -3064,7 +3064,7 @@
       },
       "en-GB": {
         "query": null,
-        "hover_text": null,
+        "hover_text": "Uzbekistan Independence Day 2023",
         "share_text": ""
       },
       "bg": {
@@ -3084,17 +3084,17 @@
       },
       "zh-HK": {
         "query": null,
-        "hover_text": null,
+        "hover_text": "2023 年烏茲別克獨立日",
         "share_text": ""
       },
       "zh-TW": {
         "query": null,
-        "hover_text": null,
+        "hover_text": "2023 年烏茲別克獨立紀念日",
         "share_text": ""
       },
       "zh-CN": {
         "query": null,
-        "hover_text": null,
+        "hover_text": "2023 年乌兹别克斯坦独立日",
         "share_text": ""
       },
       "hr": {
@@ -3134,7 +3134,7 @@
       },
       "fr-CA": {
         "query": null,
-        "hover_text": null,
+        "hover_text": "Jour de l'indépendance de l'Ouzbékistan 2023",
         "share_text": ""
       },
       "gl": {
@@ -3239,7 +3239,7 @@
       },
       "es-419": {
         "query": null,
-        "hover_text": null,
+        "hover_text": "Día de la Independencia de Uzbekistán 2023",
         "share_text": ""
       },
       "lv": {
@@ -3329,12 +3329,12 @@
       },
       "pt-BR": {
         "query": null,
-        "hover_text": null,
+        "hover_text": "Dia da Independência do Uzbequistão 2023",
         "share_text": ""
       },
       "pt-PT": {
         "query": null,
-        "hover_text": null,
+        "hover_text": "Dia da Independência do Usbequistão de 2023",
         "share_text": ""
       },
       "pa": {
@@ -3364,7 +3364,7 @@
       },
       "sr-Latn": {
         "query": null,
-        "hover_text": null,
+        "hover_text": "Dan nezavisnosti Uzbekistana 2023.",
         "share_text": ""
       },
       "sr-ME": {
@@ -3562,9 +3562,9 @@
         "share_text": "Nacionalni izbori u Singapuru 2023! #GoogleDoodle"
       },
       "en-GB": {
-        "query": null,
+        "query": "Singapore National Elections 2023",
         "hover_text": null,
-        "share_text": ""
+        "share_text": "Singapore National Elections 2023! #GoogleDoodle"
       },
       "bg": {
         "query": "Национални избори в Сингапур 2023 г.",
@@ -3582,19 +3582,19 @@
         "share_text": "Eleccions nacionals a Singapur 2023 #GoogleDoodle"
       },
       "zh-HK": {
-        "query": null,
+        "query": "2023 年新加坡全國大選",
         "hover_text": null,
-        "share_text": ""
+        "share_text": "2023 年新加坡全國大選！#GoogleDoodle"
       },
       "zh-TW": {
-        "query": null,
+        "query": "2023 年新加坡全國大選",
         "hover_text": null,
-        "share_text": ""
+        "share_text": "2023 年新加坡全國大選到來！#GoogleDoodle"
       },
       "zh-CN": {
-        "query": null,
+        "query": "2023 年新加坡大选",
         "hover_text": null,
-        "share_text": ""
+        "share_text": "2023 年新加坡大选！#GoogleDoodle"
       },
       "hr": {
         "query": "Državni izbori u Singapuru 2023.",
@@ -3632,9 +3632,9 @@
         "share_text": "Élections nationales 2023 à Singapour ! #GoogleDoodle"
       },
       "fr-CA": {
-        "query": null,
+        "query": "Élections nationales de 2023 à Singapour",
         "hover_text": null,
-        "share_text": ""
+        "share_text": "Élections nationales de 2023 à Singapour! #GoogleDoodle"
       },
       "gl": {
         "query": "Eleccións nacionais de Singapur 2023",
@@ -3737,9 +3737,9 @@
         "share_text": "ການເລືອກຕັ້ງແຫ່ງຊາດຂອງສິງກະໂປປີ 2023! #GoogleDoodle"
       },
       "es-419": {
-        "query": null,
+        "query": "Elecciones nacionales de Singapur 2023",
         "hover_text": null,
-        "share_text": ""
+        "share_text": "¡Elecciones nacionales de Singapur 2023! #GoogleDoodle"
       },
       "lv": {
         "query": "Valsts vēlēšanas Singapūrā — 2023",
@@ -3827,14 +3827,14 @@
         "share_text": "Wybory parlamentarne 2023 w Singapurze #GoogleDoodle"
       },
       "pt-BR": {
-        "query": null,
+        "query": "Eleições nacionais de Singapura 2023",
         "hover_text": null,
-        "share_text": ""
+        "share_text": "Eleições nacionais de Singapura 2023 #GoogleDoodle"
       },
       "pt-PT": {
-        "query": null,
+        "query": "Eleições Nacionais de Singapura de 2023",
         "hover_text": null,
-        "share_text": ""
+        "share_text": "Eleições Nacionais de Singapura de 2023! #GoogleDoodle"
       },
       "pa": {
         "query": "ਸਿੰਗਾਪੁਰ ਦੀਆਂ ਰਾਸ਼ਟਰੀ ਚੋਣਾਂ 2023",
@@ -3862,9 +3862,9 @@
         "share_text": "Општи избори у Сингапуру 2023! #GoogleDoodle"
       },
       "sr-Latn": {
-        "query": null,
+        "query": "Opšti izbori u Singapuru 2023.",
         "hover_text": null,
-        "share_text": ""
+        "share_text": "Opšti izbori u Singapuru 2023! #GoogleDoodle"
       },
       "sr-ME": {
         "query": null,
