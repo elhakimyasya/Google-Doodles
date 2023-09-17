@@ -1,5 +1,1003 @@
 [
   {
+    "name": "celebrating-picos-de-europa",
+    "title": "Celebrating Picos de Europa",
+    "url": "//www.google.com/logos/doodles/2023/celebrating-picos-de-europa-6753651837110061.3-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/8j-6_-_fE1pTU5Q_TbrhdMzmwhppBVJIKIsFyTiCWdE82tPXc6NYByhyjkzCoFufKgSEOT71zf5YJscraDmqKTlLiIjPfrVhQrgesYV3JJPdGA9NVrAC",
+    "high_res_url": "//www.google.com/logos/doodles/2023/celebrating-picos-de-europa-6753651837110061-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      9,
+      17
+    ],
+    "translations": {
+      "en": {
+        "query": "Picos de Europa",
+        "hover_text": "Celebrating Picos de Europa",
+        "share_text": "Celebrating Picos de Europa! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Picos de Europa",
+        "hover_text": "Ter viering van Picos de Europa",
+        "share_text": "Ter viering van Picos de Europa! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Picos de Europa",
+        "hover_text": "Festojmë për Picos de Europa",
+        "share_text": "Festojmë për Picos de Europa! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ፒኮስ ደ ዩሮፓ",
+        "hover_text": "ፒኮስ ደ ዩሮፓን በማክበር ላይ",
+        "share_text": "ፒኮስ ደ ዩሮፓን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "بيكوس دي يوروبا",
+        "hover_text": "الاحتفال بمنتزه \"بيكوس دي يوروبا\"",
+        "share_text": "نحتفل اليوم بمنتزه \"بيكوس دي يوروبا\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Պիկոս դե Էուրոպա",
+        "hover_text": "Տոնենք Պիկոս դե Էուրոպայի օրը",
+        "share_text": "Տոնե՛նք Պիկոս դե Էուրոպայի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Picos de Europa",
+        "hover_text": "Picos de Europa günü",
+        "share_text": "Picos de Europa günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "পিকোস দে ইউরোপা",
+        "hover_text": "'পিকোস দে ইউরোপা'-র প্রাকৃতিক সৌন্দর্যকে উদযাপন করা হচ্ছে",
+        "share_text": "'পিকোস দে ইউরোপা'-র প্রাকৃতিক সৌন্দর্যকে উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Europako mendiak",
+        "hover_text": "Europako mendien omenez",
+        "share_text": "Europako mendien omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Пікас-дэ-Эўропа",
+        "hover_text": "Ушаноўваем горны хрыбет Пікас-дэ-Эўропа",
+        "share_text": "Ушаноўваем горны хрыбет Пікас-дэ-Эўропа! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Picos de Europa",
+        "hover_text": "Slavimo Picos de Europa",
+        "share_text": "Slavimo Picos de Europa! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Picos de Europa",
+        "hover_text": "Celebrating Picos de Europa",
+        "share_text": "Celebrating Picos de Europa! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Пикос де Еуропа",
+        "hover_text": "Честване на Пикос де Еуропа",
+        "share_text": "Честване на Пикос де Еуропа! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Picos de Europa",
+        "hover_text": "Picos de Europa ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "Picos de Europa ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Els Picos de Europa",
+        "hover_text": "Homenatge als Picos de Europa",
+        "share_text": "Homenatge als Picos de Europa #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "歐羅巴山",
+        "hover_text": "欣賞壯麗的歐羅巴山",
+        "share_text": "欣賞壯麗的歐羅巴山！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "歐羅巴山",
+        "hover_text": "美哉歐羅巴山",
+        "share_text": "美哉歐羅巴山！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "欧罗巴山",
+        "hover_text": "致赞欧罗巴山",
+        "share_text": "致赞欧罗巴山！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Picos de Europa",
+        "hover_text": "Slavimo Picos de Europa",
+        "share_text": "Slavimo Picos de Europa! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Picos de Europa",
+        "hover_text": "Oslava pohoří Picos de Europa",
+        "share_text": "Oslava pohoří Picos de Europa! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Picos de Europa",
+        "hover_text": "Vi hylder Picos de Europa",
+        "share_text": "Vi hylder Picos de Europa #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Picos de Europa",
+        "hover_text": "Doodle ter ere van de Picos de Europa",
+        "share_text": "Een doodle ter ere van de Picos de Europa! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Picos de Europa",
+        "hover_text": "Austame Picos de Europat",
+        "share_text": "Austame Picos de Europat! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Picos de Europa",
+        "hover_text": "Picos de Europa",
+        "share_text": "Picos de Europa #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Pics d'Europe",
+        "hover_text": "Les Pics d'Europe à l'honneur",
+        "share_text": "Le massif espagnol des Pics d'Europe à l'honneur ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Pics d'Europe",
+        "hover_text": "Célébration des pics d'Europe",
+        "share_text": "Célébration des pics d'Europe! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Picos de Europa",
+        "hover_text": "Homenaxe aos Picos de Europa",
+        "share_text": "Homenaxe aos Picos de Europa! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ევროპის პიკები",
+        "hover_text": "აღვნიშნავთ ევროპის პიკების დღეს",
+        "share_text": "აღვნიშნავთ ევროპის პიკების დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Picos de Europa",
+        "hover_text": "Zu Ehren der Picos de Europa",
+        "share_text": "Zu Ehren der Picos de Europa! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Picos de Europa",
+        "hover_text": "Τιμούμε την οροσειρά Picos de Europa",
+        "share_text": "Τιμούμε την οροσειρά Picos de Europa! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "પિકોસ ડે યુરોપા",
+        "hover_text": "પિકોસ ડે યુરોપાની ઉજવણી",
+        "share_text": "પિકોસ ડે યુરોપાની ઉજવણી! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "פיקוס דה אירופה",
+        "hover_text": "לציון פיקוס דה אירופה",
+        "share_text": "לציון פיקוס דה אירופה! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "पिकोस दे यूरोपा",
+        "hover_text": "बेमिसाल पिकोस दे यूरोपा की शान में",
+        "share_text": "बेमिसाल पिकोस दे यूरोपा की शान में! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Picos de Europa",
+        "hover_text": "A Picos de Europa ünneplése",
+        "share_text": "A Picos de Europa ünneplése! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Picos de Europa",
+        "hover_text": "Við fögnum Picos de Europa",
+        "share_text": "Við fögnum Picos de Europa! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Picos de Europa",
+        "hover_text": "Merayakan Picos de Europa",
+        "share_text": "Merayakan Picos de Europa #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Picos de Europa",
+        "hover_text": "In onore dei Picos de Europa",
+        "share_text": "In onore dei Picos de Europa! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "エウロパ山",
+        "hover_text": "エウロパ山を称えて",
+        "share_text": "エウロパ山を称えて #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಪಿಕೋಸ್ ಡಿ ಯುರೋಪಾ",
+        "hover_text": "ಪಿಕೋಸ್ ಡಿ ಯುರೋಪಾ ಉತ್ಸವವನ್ನು ಆಚರಿಸಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಪಿಕೋಸ್ ಡಿ ಯುರೋಪಾ ಉತ್ಸವವನ್ನು ಆಚರಿಸಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Пикос-де-Эуропа",
+        "hover_text": "Пикос-де-Эуропа күні",
+        "share_text": "Пикос-де-Эуропа күні #GoogleDoodle"
+      },
+      "km": {
+        "query": "Picos de Europa",
+        "hover_text": "អបអរទិវារំលឹក Picos de Europa",
+        "share_text": "អបអរទិវារំលឹក Picos de Europa! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "피코스 데 에우로파",
+        "hover_text": "피코스 데 에우로파 기념",
+        "share_text": "피코스 데 에우로파 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Пикос-де-Эуропа",
+        "hover_text": "Пикос-де-Эуропа күнүн майрамдоо",
+        "share_text": "Пикос-де-Эуропа күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Picos de Europa",
+        "hover_text": "ວັນສະເຫຼີມສະຫຼອງ Picos de Europa",
+        "share_text": "ວັນສະເຫຼີມສະຫຼອງ Picos de Europa! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Picos de Europa",
+        "hover_text": "Celebrando los Picos de Europa",
+        "share_text": "¡Celebrando los Picos de Europa! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Kalnu grēda “Picos de Europa”",
+        "hover_text": "Kalnu grēdas “Picos de Europa” godināšana",
+        "share_text": "Kalnu grēdas “Picos de Europa” godināšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Europos viršūnės",
+        "hover_text": "Europos viršūnių minėjimas",
+        "share_text": "Europos viršūnių minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Picos de Europa",
+        "hover_text": "Во чест на Picos de Europa",
+        "share_text": "Во чест на Picos de Europa! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Picos de Europa",
+        "hover_text": "Meraikan Picos de Europa",
+        "share_text": "Meraikan Picos de Europa! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "പിക്കോസ് ഡി യൂറോപ്പ",
+        "hover_text": "പിക്കോസ് ഡി യൂറോപ്പ ആഘോഷമാക്കുന്നു",
+        "share_text": "പിക്കോസ് ഡി യൂറോപ്പ ആഘോഷമാക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "पिकोस दे युरोपा",
+        "hover_text": "पिकोस दे युरोपा या ठिकाणाच्या सन्मानार्थ",
+        "share_text": "पिकोस दे युरोपा या ठिकाणाच्या सन्मानार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Пикос де Европа",
+        "hover_text": "Пикос де Европагийн өдрийг тэмдэглэж байна",
+        "share_text": "Пикос де Европагийн өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Picos de Europa",
+        "hover_text": "Picos de Europa को महोत्सव",
+        "share_text": "Picos de Europa को महोत्सव! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Picos de Europa",
+        "hover_text": "Vi feirer Picos de Europa",
+        "share_text": "Vi feirer Picos de Europa! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "پیکوس د اروپا",
+        "hover_text": "بزرگداشت پیکوس د اروپا",
+        "share_text": "بزرگداشت پیکوس د اروپا! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Picos de Europa",
+        "hover_text": "Podziwiamy Picos de Europa",
+        "share_text": "Podziwiamy Picos de Europa #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Picos de Europa",
+        "hover_text": "Viva os Picos de Europa",
+        "share_text": "Viva os Picos de Europa #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Picos da Europa",
+        "hover_text": "Celebração dos Picos da Europa",
+        "share_text": "Celebração dos Picos da Europa! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਪਿਕੋਸ ਡੀ ਯੂਰੋਪਾ",
+        "hover_text": "ਪਿਕੋਸ ਡੀ ਯੂਰੋਪਾ ਦੀ ਸਿਫ਼ਤ ਵਿੱਚ",
+        "share_text": "ਪਿਕੋਸ ਡੀ ਯੂਰੋਪਾ ਦੀ ਸਿਫ਼ਤ ਵਿੱਚ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Picos de Europa",
+        "hover_text": "În cinstea muntelui Picos de Europa",
+        "share_text": "În cinstea muntelui Picos de Europa! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Пикос-де-Эуропа",
+        "hover_text": "День Пикос-де-Эуропа",
+        "share_text": "День Пикос-де-Эуропа #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Пикос де Еуропа",
+        "hover_text": "Славимо Пикос де Еуропа",
+        "share_text": "Славимо Пикос де Еуропа! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Pikos de Europa",
+        "hover_text": "Slavimo Pikos de Europa",
+        "share_text": "Slavimo Pikos de Europa! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "පිකෝස් ද යුරෝපා",
+        "hover_text": "පිකෝස් ද යුරෝපා සමරමින්",
+        "share_text": "පිකෝස් ද යුරෝපා සමරමින්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Picos de Europa",
+        "hover_text": "Oslavujeme pohorie Picos de Europa",
+        "share_text": "Oslavujeme pohorie Picos de Europa. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Picos de Europa",
+        "hover_text": "Slavimo gorovje Picos de Europa",
+        "share_text": "Slavimo gorovje Picos de Europa! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Picos de Europa",
+        "hover_text": "Homenaje a los Picos de Europa",
+        "share_text": "Hoy rendimos homenaje a los Picos de Europa #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Picos de Europa",
+        "hover_text": "Tunaenzi safu za milima ya Picos de Europa",
+        "share_text": "Tunaenzi safu za milima ya Picos de Europa! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Picos de Europa",
+        "hover_text": "Vi firar Picos de Europa",
+        "share_text": "Vi firar Picos de Europa! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "பிகோஸ் டி யூரோபா",
+        "hover_text": "பிகோஸ் டி யூரோபாவைக் கொண்டாடுவோம்",
+        "share_text": "பிகோஸ் டி யூரோபாவைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "పికోస్ డి యురోపా",
+        "hover_text": "పికోస్ డి యురోపా వేడుకలు",
+        "share_text": "పికోస్ డి యురోపా వేడుకలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Picos de Europa",
+        "hover_text": "วันเฉลิมฉลอง Picos de Europa",
+        "share_text": "วันเฉลิมฉลอง Picos de Europa #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Picos de Europa",
+        "hover_text": "Picos de Europa Kutlaması",
+        "share_text": "Picos de Europa Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Пікос-де-Европа",
+        "hover_text": "Святкуємо день національного парку Пікос-де-Европа",
+        "share_text": "Святкуємо день національного парку Пікос-де-Европа! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Picos de Europa",
+        "hover_text": "Picos de Europa کا جشن",
+        "share_text": "Picos de Europa کا جشن! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Picos de Europa",
+        "hover_text": "Picos de Europa kuni",
+        "share_text": "Picos de Europa kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Picos de Europa",
+        "hover_text": "Tôn vinh dãy núi Picos de Europa",
+        "share_text": "Tôn vinh dãy núi Picos de Europa! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Picos de Europa",
+        "hover_text": "Sibungaza u-Picos de Europa",
+        "share_text": "Sibungaza u-Picos de Europa! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Picos de Europa",
+    "share_text": "Celebrating Picos de Europa! #GoogleDoodle"
+  },
+  {
+    "name": "mexico-independence-day-2023",
+    "title": "Mexico Independence Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/mexico-independence-day-2023-6753651837110083-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/BxUTAcSE5dkK9VvKLMkqAD1EhAGA6fsKQXLvS09ztk0uI1f8krMz0pVOc0p4d7SImic5LVwYHMMlbvEvZB1EguSuVKvO_jMZr8Dz5KUkVOmpPzykcPae0w",
+    "high_res_url": "//www.google.com/logos/doodles/2023/mexico-independence-day-2023-6753651837110083-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      9,
+      16
+    ],
+    "translations": {
+      "en": {
+        "query": "Mexico Independence Day",
+        "hover_text": "Mexico Independence Day 2023",
+        "share_text": "Happy Independence Day, Mexico! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": "Meksiko se onafhanklikheidsdag 2023",
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": "Dita e Pavarësisë së Meksikës, 2023",
+        "share_text": ""
+      },
+      "am": {
+        "query": null,
+        "hover_text": "የሜክሲኮ ነጻነት ቀን 2023",
+        "share_text": ""
+      },
+      "ar": {
+        "query": null,
+        "hover_text": "عيد استقلال المكسيك 2023",
+        "share_text": ""
+      },
+      "hy": {
+        "query": null,
+        "hover_text": "Մեքսիկայի անկախության օր 2023",
+        "share_text": ""
+      },
+      "az": {
+        "query": null,
+        "hover_text": "2023 Meksikanın Müstəqillik Günü",
+        "share_text": ""
+      },
+      "bn": {
+        "query": null,
+        "hover_text": "মেক্সিকোর স্বাধীনতা দিবস ২০২৩",
+        "share_text": ""
+      },
+      "eu": {
+        "query": null,
+        "hover_text": "2023ko Mexikoko Independentzia Eguna",
+        "share_text": ""
+      },
+      "be": {
+        "query": null,
+        "hover_text": "Дзень незалежнасці Мексікі 2023",
+        "share_text": ""
+      },
+      "bs": {
+        "query": null,
+        "hover_text": "Dan nezavisnosti Meksika 2023.",
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": "Mexico Independence Day 2023",
+        "share_text": ""
+      },
+      "bg": {
+        "query": null,
+        "hover_text": "Ден на независимостта на Мексико 2023 г.",
+        "share_text": ""
+      },
+      "my": {
+        "query": null,
+        "hover_text": "၂၀၂၃ မက္ကဆီကိုနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": ""
+      },
+      "ca": {
+        "query": null,
+        "hover_text": "Dia de la Independència de Mèxic 2023",
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": "2023 年墨西哥獨立日",
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": "2023 年墨西哥獨立紀念日",
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": "2023 年墨西哥独立日",
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": "Dan neovisnosti Meksika 2023.",
+        "share_text": ""
+      },
+      "cs": {
+        "query": null,
+        "hover_text": "Den nezávislosti Mexika 2023",
+        "share_text": ""
+      },
+      "da": {
+        "query": null,
+        "hover_text": "Mexicos uafhængighedsdag 2023",
+        "share_text": ""
+      },
+      "nl": {
+        "query": null,
+        "hover_text": "Onafhankelijkheidsdag Mexico 2023",
+        "share_text": ""
+      },
+      "et": {
+        "query": null,
+        "hover_text": "Mehhiko 2023. aasta iseseisvuspäev",
+        "share_text": ""
+      },
+      "fi": {
+        "query": null,
+        "hover_text": "Meksikon itsenäisyyspäivä 2023",
+        "share_text": ""
+      },
+      "fr": {
+        "query": null,
+        "hover_text": "Fête de l'Indépendance du Mexique 2023",
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": "Jour de l'indépendance du Mexique 2023",
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": "Día da Independencia de México 2023",
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": "მექსიკის დამოუკიდებლობის დღე — 2023",
+        "share_text": ""
+      },
+      "de": {
+        "query": null,
+        "hover_text": "Unabhängigkeitstag Mexiko 2023",
+        "share_text": ""
+      },
+      "el": {
+        "query": null,
+        "hover_text": "Ημέρα Ανεξαρτησίας του Μεξικού 2023",
+        "share_text": ""
+      },
+      "gu": {
+        "query": null,
+        "hover_text": "મેક્સિકોનો સ્વતંત્રતા દિવસ 2023",
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": "יום העצמאות של מקסיקו 2023",
+        "share_text": ""
+      },
+      "hi": {
+        "query": null,
+        "hover_text": "मेक्सिको का स्वतंत्रता दिवस 2023",
+        "share_text": ""
+      },
+      "hu": {
+        "query": null,
+        "hover_text": "Mexikó függetlenségének napja, 2023",
+        "share_text": ""
+      },
+      "is": {
+        "query": null,
+        "hover_text": "Sjálfstæðisdagur Mexíkó 2023",
+        "share_text": ""
+      },
+      "id": {
+        "query": null,
+        "hover_text": "Hari Kemerdekaan Meksiko 2023",
+        "share_text": ""
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": "Festa dell'indipendenza del Messico 2023",
+        "share_text": ""
+      },
+      "ja": {
+        "query": null,
+        "hover_text": "2023 年メキシコ独立記念日",
+        "share_text": ""
+      },
+      "kn": {
+        "query": null,
+        "hover_text": "ಮೆಕ್ಸಿಕೊ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2023",
+        "share_text": ""
+      },
+      "kk": {
+        "query": null,
+        "hover_text": "Мексиканың Тәуелсіздік күні – 2023",
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": "ទិវា​បុណ្យឯករាជ្យជាតិ​ម៉ិកស៊ិក​ឆ្នាំ 2023",
+        "share_text": ""
+      },
+      "ko": {
+        "query": null,
+        "hover_text": "2023년 멕시코 독립기념일",
+        "share_text": ""
+      },
+      "ky": {
+        "query": null,
+        "hover_text": "Мексиканын Эгемендүүлүк күнү – 2023",
+        "share_text": ""
+      },
+      "lo": {
+        "query": null,
+        "hover_text": "ວັນປະກາດເອກະລາດເມັກຊິໂກ 2023",
+        "share_text": ""
+      },
+      "es-419": {
+        "query": "Día de la Independencia de México ",
+        "hover_text": "Día de la Independencia de México 2023",
+        "share_text": "Día de la Independencia de México. #GoogleDoodle"
+      },
+      "lv": {
+        "query": null,
+        "hover_text": "Meksikas Neatkarības diena — 2023",
+        "share_text": ""
+      },
+      "lt": {
+        "query": null,
+        "hover_text": "Meksikos nepriklausomybės diena, 2023 m.",
+        "share_text": ""
+      },
+      "mk": {
+        "query": null,
+        "hover_text": "Ден на независноста на Мексико, 2023 г.",
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": "Hari Kemerdekaan Mexico 2023",
+        "share_text": ""
+      },
+      "ml": {
+        "query": null,
+        "hover_text": "മെക്‌സിക്കൻ സ്വാതന്ത്ര്യദിനം 2023",
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": "मेक्सिकोचा स्वातंत्र्यदिन २०२३",
+        "share_text": ""
+      },
+      "mn": {
+        "query": null,
+        "hover_text": "2023 оны Мексик Улсын Тусгаар тогтнолын өдөр",
+        "share_text": ""
+      },
+      "ne": {
+        "query": null,
+        "hover_text": "मेक्सिकोको स्वतन्त्रता दिवस २०२३",
+        "share_text": ""
+      },
+      "no": {
+        "query": null,
+        "hover_text": "Mexicos frigjøringsdag 2023",
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": "روز استقلال مکزیک - ۲۰۲۳",
+        "share_text": ""
+      },
+      "pl": {
+        "query": null,
+        "hover_text": "Dzień Niepodległości Meksyku 2023",
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": "Dia da Independência do México 2023",
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": "Dia da Independência do México de 2023",
+        "share_text": ""
+      },
+      "pa": {
+        "query": null,
+        "hover_text": "ਮੈਕਸੀਕੋ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2023",
+        "share_text": ""
+      },
+      "ro": {
+        "query": null,
+        "hover_text": "Ziua Independenței Mexicului 2023",
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": "День независимости Мексики – 2023",
+        "share_text": ""
+      },
+      "sr": {
+        "query": null,
+        "hover_text": "Дан независности Мексика 2023.",
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": "Dan nezavisnosti Meksika 2023.",
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": "මෙක්සිකෝවේ නිදහස් දිනය 2023",
+        "share_text": ""
+      },
+      "sk": {
+        "query": null,
+        "hover_text": "Deň nezávislosti Mexika 2023",
+        "share_text": ""
+      },
+      "sl": {
+        "query": null,
+        "hover_text": "Dan neodvisnosti Mehike 2023",
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día de la Independencia de México",
+        "hover_text": "Día de la Independencia de México 2023",
+        "share_text": "Día de la Independencia de México 2023 #GoogleDoodle"
+      },
+      "sw": {
+        "query": null,
+        "hover_text": "Sikukuu ya Uhuru wa Meksiko 2023",
+        "share_text": ""
+      },
+      "sv": {
+        "query": null,
+        "hover_text": "Mexikos självständighetsdag 2023",
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": "மெக்சிகோவின் சுதந்திர தினம் 2023",
+        "share_text": ""
+      },
+      "te": {
+        "query": null,
+        "hover_text": "మెక్సికో స్వాతంత్య్ర దినోత్సవం 2023",
+        "share_text": ""
+      },
+      "th": {
+        "query": null,
+        "hover_text": "วันประกาศอิสรภาพของเม็กซิโกปี 2023",
+        "share_text": ""
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": "Meksika Bağımsızlık Günü 2023",
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": "День незалежності Мексики у 2023 році",
+        "share_text": ""
+      },
+      "ur": {
+        "query": null,
+        "hover_text": "میکسیکو کا یومِ آزادی 2023",
+        "share_text": ""
+      },
+      "uz": {
+        "query": null,
+        "hover_text": "Meksika Mustaqilligi kuni 2023",
+        "share_text": ""
+      },
+      "vi": {
+        "query": null,
+        "hover_text": "Ngày Quốc khánh Mexico năm 2023",
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": "Usuku Lokuzimela lwase-Mexico lwango-2023",
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Mexico Independence Day",
+    "share_text": "Happy Independence Day, Mexico! #GoogleDoodle"
+  },
+  {
     "name": "honduras-national-day-2023",
     "title": "Honduras National Day 2023",
     "url": "//www.google.com/logos/doodles/2023/honduras-national-day-2023-6753651837109939.2-law.gif",
