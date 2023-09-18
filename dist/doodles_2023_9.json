@@ -1,5 +1,504 @@
 [
   {
+    "name": "respect-for-the-aged-day-2023",
+    "title": "Respect for the Aged Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/respect-for-the-aged-day-2023-6753651837110084-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/J7L9gYxs3HmymxxSt7PuiyFhXs3zePGpP3JHxWVgoQq78lUliaFBM_hfttu0rTLxWWvzlpVjP05DyFJbO1bx_X4FdTftyM9yo5RHEMhNQaAqLnoFAhjtXQ",
+    "high_res_url": "//www.google.com/logos/doodles/2023/respect-for-the-aged-day-2023-6753651837110084-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      9,
+      18
+    ],
+    "translations": {
+      "en": {
+        "query": "Respect for the Aged Day",
+        "hover_text": "Respect for the Aged Day 2023",
+        "share_text": "Happy Respect for the Aged Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": "Respek vir Bejaardes-dag 2023",
+        "share_text": "Gelukkige Respek vir Bejaardes-dag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": null,
+        "hover_text": "Dita e Respektit për Të Moshuarit, 2023",
+        "share_text": "Gëzuar Ditën e Respektit për Të Moshuarit! #GoogleDoodle"
+      },
+      "am": {
+        "query": null,
+        "hover_text": "ክብር ለአረጋውያን ቀን 2023",
+        "share_text": "መልካም ክብር ለአረጋውያን ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": null,
+        "hover_text": "يوم احترام المسنين لعام 2023",
+        "share_text": "أجمل الأمنيات بمناسبة يوم احترام المسنين. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": null,
+        "hover_text": "Տարեցների հարգանքի օր 2023",
+        "share_text": "Շնորհավո՛ր Տարեցների հարգանքի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": null,
+        "hover_text": "2023 Qocalara Hörmət Günü",
+        "share_text": "Qocalara Hörmət Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": null,
+        "hover_text": "প্রবীণদের সম্মান জ্ঞাপন দিবস ২০২৩",
+        "share_text": "প্রবীণদের সম্মান জ্ঞাপন দিবসের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": null,
+        "hover_text": "2023ko Adinekoei Begirunea Adierazteko Eguna",
+        "share_text": "Adinekoei Begirunea Adierazteko Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": null,
+        "hover_text": "Дзень шанавання старэйшых 2023",
+        "share_text": "З Днём шанавання старэйшых! #GoogleDoodle"
+      },
+      "bs": {
+        "query": null,
+        "hover_text": "Dan poštovanja starijih osoba 2023.",
+        "share_text": "Sretan Dan poštovanja starijih osoba! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": "Respect for the Aged Day 2023",
+        "share_text": "Happy Respect for the Aged Day! #GoogleDoodle"
+      },
+      "bg": {
+        "query": null,
+        "hover_text": "Ден за почит към възрастните хора 2023 г.",
+        "share_text": "Честит Ден за почит към възрастните хора! #GoogleDoodle"
+      },
+      "my": {
+        "query": null,
+        "hover_text": "၂၀၂၃ သက်ကြီးဝါကြီးများအား ရိုသေလေးစားခြင်းနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် ၂၀၂၃ သက်ကြီးဝါကြီးများအား ရိုသေလေးစားခြင်းနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": null,
+        "hover_text": "Dia del Respecte per la Gent Gran 2023",
+        "share_text": "Feliç Dia del Respecte per la Gent Gran! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": "2023 年敬老日",
+        "share_text": "敬老日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": "2023 年敬老節",
+        "share_text": "敬老節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": "2023 年敬老日",
+        "share_text": "欢庆敬老日！#GoogleDoodle"
+      },
+      "hr": {
+        "query": null,
+        "hover_text": "Dan poštovanja starijih osoba 2023.",
+        "share_text": "Sretan Dan poštovanja starijih osoba! #GoogleDoodle"
+      },
+      "cs": {
+        "query": null,
+        "hover_text": "Den úcty ke starým lidem 2023",
+        "share_text": "Vše nejlepší ke Dni úcty ke starým lidem 2023! #GoogleDoodle"
+      },
+      "da": {
+        "query": null,
+        "hover_text": "Respekt for de ældre-dag 2023",
+        "share_text": "Glædelig respekt for de ældre-dag #GoogleDoodle"
+      },
+      "nl": {
+        "query": null,
+        "hover_text": "Seniorendag 2023",
+        "share_text": "Fijne Seniorendag! #GoogleDoodle"
+      },
+      "et": {
+        "query": null,
+        "hover_text": "2023. aasta eakate austamise päev",
+        "share_text": "Head eakate austamise päeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": null,
+        "hover_text": "Vanhustenpäivä 2023",
+        "share_text": "Hyvää vanhustenpäivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": null,
+        "hover_text": "Journée du respect pour les personnes âgées 2023",
+        "share_text": "Journée du respect pour les personnes âgées ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": "Journée du respect pour les personnes âgées 2023",
+        "share_text": "Journée du respect pour les personnes âgées! #GoogleDoodle"
+      },
+      "gl": {
+        "query": null,
+        "hover_text": "Día do Respecto ás Persoas Maiores 2023",
+        "share_text": "Feliz Día do Respecto ás Persoas Maiores! #GoogleDoodle"
+      },
+      "ka": {
+        "query": null,
+        "hover_text": "ხანდაზმულთა პატივისცემის დღე — 2023",
+        "share_text": "გილოცავთ ხანდაზმულთა პატივისცემის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": null,
+        "hover_text": "Tag des Respekts vor dem Alter 2023",
+        "share_text": "Alles Gute zum Tag des Respekts vor dem Alter! #GoogleDoodle"
+      },
+      "el": {
+        "query": null,
+        "hover_text": "Ημέρα των Ηλικιωμένων 2023",
+        "share_text": "Γιορτάζουμε την Ημέρα των Ηλικιωμένων! #GoogleDoodle"
+      },
+      "gu": {
+        "query": null,
+        "hover_text": "વૃદ્ધ સન્માન દિવસ 2023",
+        "share_text": "વૃદ્ધ સન્માન દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": "יום הקשיש 2023",
+        "share_text": "יום הקשיש שמח GoogleDoodle#"
+      },
+      "hi": {
+        "query": null,
+        "hover_text": "वरिष्ठ नागरिक सम्मान दिवस 2023",
+        "share_text": "वरिष्ठ नागरिक सम्मान दिवस की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": null,
+        "hover_text": "Az idősek tiszteletének napja, 2023",
+        "share_text": "Boldog idősek tiszteletének napját! #GoogleDoodle"
+      },
+      "is": {
+        "query": null,
+        "hover_text": "Dagur til heiðurs öldruðum 2023",
+        "share_text": "Gleðilegan dag til heiðurs öldruðum! #GoogleDoodle"
+      },
+      "id": {
+        "query": null,
+        "hover_text": "Hari Penghormatan untuk Lansia 2023",
+        "share_text": "Selamat Hari Penghormatan untuk Lansia! #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": "Giornata del rispetto per gli anziani 2023",
+        "share_text": "Buona giornata del rispetto per gli anziani! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "敬老の日",
+        "hover_text": "2023 年 敬老の日",
+        "share_text": "敬老の日を祝おう #GoogleDoodle"
+      },
+      "kn": {
+        "query": null,
+        "hover_text": "ಹಿರಿಯರನ್ನು ಗೌರವಿಸುವ ದಿನ 2023",
+        "share_text": "ಹಿರಿಯರನ್ನು ಗೌರವಿಸುವ ದಿನದ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": null,
+        "hover_text": "Үлкендерге құрмет көрсету күні – 2023",
+        "share_text": "Үлкендерге құрмет көрсету күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": null,
+        "hover_text": "ទិវារំលឹកគុណ​ចាស់ទុំ​ឆ្នាំ 2023",
+        "share_text": "អបអរទិវារំលឹកគុណចាស់ទុំ! #GoogleDoodle"
+      },
+      "ko": {
+        "query": null,
+        "hover_text": "2023년 경로의 날",
+        "share_text": "경로의 날을 기념합니다. #GoogleDoodle"
+      },
+      "ky": {
+        "query": null,
+        "hover_text": "Карыларды сыйлоо күнү — 2023",
+        "share_text": "Карыларды сыйлоо күнү кут болсун! #GoogleDoodle"
+      },
+      "lo": {
+        "query": null,
+        "hover_text": "ວັນເຄົາລົບຜູ້ສູງອາຍຸ 2023",
+        "share_text": "ສຸກສັນວັນເຄົາລົບຜູ້ສູງອາຍຸ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": "Día del Respeto a los Ancianos 2023",
+        "share_text": "¡Feliz Día del Respeto a los Ancianos! #GoogleDoodle"
+      },
+      "lv": {
+        "query": null,
+        "hover_text": "Starptautiskā veco ļaužu diena — 2023",
+        "share_text": "Sveicam Starptautiskajā veco ļaužu dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": null,
+        "hover_text": "Pagarbos seneliams diena, 2023 m.",
+        "share_text": "Sveikiname su Pagarbos seneliams diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": null,
+        "hover_text": "Ден на почитување на постарите, 2023 г.",
+        "share_text": "Среќен Ден на почитување на постарите! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": "Hari Menghormati Warga Emas 2023",
+        "share_text": "Selamat Hari Menghormati Warga Emas! #GoogleDoodle"
+      },
+      "ml": {
+        "query": null,
+        "hover_text": "വയോജനങ്ങളെ ആദരിക്കൽ ദിനം 2023",
+        "share_text": "വയോജനങ്ങളെ ആദരിക്കൽ ദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": "रिस्पेक्ट फॉर द एजेड डे २०२३",
+        "share_text": "रिस्पेक्ट फॉर द एजेड डे २०२३ च्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": null,
+        "hover_text": "2023 оны Ахмадаа хүндлэх өдөр",
+        "share_text": "Ахмадаа хүндлэх өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": null,
+        "hover_text": "जेष्ठ नागरिक दिवस २०२३",
+        "share_text": "ज्येष्ठ नागरिक दिवसको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": null,
+        "hover_text": "Respekt-for-eldre-dagen 2023",
+        "share_text": "Vi feirer respekt-for-eldre-dagen! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": "روز احترام به سالمندان - ۲۰۲۳",
+        "share_text": "روز احترام به سالمندان مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": null,
+        "hover_text": "Dzień Szacunku dla Starszych 2023",
+        "share_text": "Obchodzimy Dzień Szacunku dla Starszych #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": "Dia do Respeito ao Idoso 2023",
+        "share_text": "Feliz Dia do Respeito ao Idoso! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": "Dia do Respeito pelos Idosos de 2023",
+        "share_text": "Feliz Dia do Respeito pelos Idosos! #GoogleDoodle"
+      },
+      "pa": {
+        "query": null,
+        "hover_text": "ਬਜ਼ੁਰਗਾਂ ਲਈ ਸਤਿਕਾਰ ਦਿਵਸ 2023",
+        "share_text": "ਬਜ਼ੁਰਗਾਂ ਲਈ ਸਤਿਕਾਰ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": null,
+        "hover_text": "Ziua respectului pentru vârstnici – 2023",
+        "share_text": "La mulți ani de Ziua respectului pentru vârstnici 2023! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": "День почитания старших – 2023",
+        "share_text": "День почитания старших #GoogleDoodle"
+      },
+      "sr": {
+        "query": null,
+        "hover_text": "Дан поштовања према старима 2023.",
+        "share_text": "Срећан Дан поштовања према старима 2023! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": "Dan poštovanja prema starima 2023.",
+        "share_text": "Srećan Dan poštovanja prema starima 2023! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": "වයෝවෘද්ධ අයට ගරු කිරීමේ දිනය 2023",
+        "share_text": "සුබ වයෝවෘද්ධ අයට ගරු කිරීමේ දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": null,
+        "hover_text": "Deň úcty k starším 2023",
+        "share_text": "Šťastný Deň úcty k starším. #GoogleDoodle"
+      },
+      "sl": {
+        "query": null,
+        "hover_text": "Dan starejših 2023",
+        "share_text": "Vesel dan starejših! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": "Día del Respeto a los Ancianos 2023",
+        "share_text": "¡Feliz Día del Respeto a los Ancianos! #GoogleDoodle"
+      },
+      "sw": {
+        "query": null,
+        "hover_text": "Sikukuu ya Heshima kwa Wakongwe 2023",
+        "share_text": "Heri za Sikukuu ya Heshima kwa Wakongwe! #GoogleDoodle"
+      },
+      "sv": {
+        "query": null,
+        "hover_text": "Keirō no Hi 2023",
+        "share_text": "Vi firar Keirō no Hi #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": "முதியோருக்கு மரியாதை செலுத்தும் தினம் 2023",
+        "share_text": "முதியோருக்கு மரியாதை செலுத்தும் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": null,
+        "hover_text": "వృద్ధుల గౌరవ దినోత్సవం 2023",
+        "share_text": "వృద్ధుల గౌరవ దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": null,
+        "hover_text": "วันเคารพผู้สูงอายุปี 2023",
+        "share_text": "สุขสันต์วันเคารพผู้สูงอายุ #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": "Yaşlılara Saygı Günü 2023",
+        "share_text": "Yaşlılara Saygı Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": "День шанування старших у 2023 році",
+        "share_text": "З Днем шанування старших! #GoogleDoodle"
+      },
+      "ur": {
+        "query": null,
+        "hover_text": "یومِ احترام بزرگ 2023",
+        "share_text": "یومِ احترام بزرگ مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": null,
+        "hover_text": "Qariyalarni qadrlash kuni 2023",
+        "share_text": "Qariyalarni qadrlash kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": null,
+        "hover_text": "Ngày Kính lão năm 2023",
+        "share_text": "Chào mừng Ngày Kính lão! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": "Usuku Lokuhlonipha Abakhulile Lwango-2023",
+        "share_text": "Sinifisela Usuku Lokuhlonipha Abakhulile Oluhle! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Respect for the Aged Day",
+    "share_text": "Happy Respect for the Aged Day! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-picos-de-europa",
     "title": "Celebrating Picos de Europa",
     "url": "//www.google.com/logos/doodles/2023/celebrating-picos-de-europa-6753651837110061.3-l.png",
