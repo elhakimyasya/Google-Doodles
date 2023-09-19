@@ -1,5 +1,504 @@
 [
   {
+    "name": "chile-national-day-2023",
+    "title": "Chile National Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/chile-national-day-2023-6753651837109940-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/eeX2wEdel9xfacIw4xD2OVLwJeDN_1Grx6aumGGPP2qcH847pFZ0-FN7db7zwLuTssmrU8I3dEsp2qyUJ5euESUlWkoN3btkpP0Pdy63b5fz5ILQRjOltw",
+    "high_res_url": "//www.google.com/logos/doodles/2023/chile-national-day-2023-6753651837109940-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      9,
+      18
+    ],
+    "translations": {
+      "en": {
+        "query": "Chile National Day",
+        "hover_text": "Chile National Day 2023",
+        "share_text": "Happy National Day, Chile! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": "Chili se nasionale dag 2023",
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": "Dita Kombëtare e Kilit, 2023",
+        "share_text": ""
+      },
+      "am": {
+        "query": null,
+        "hover_text": "የቺሊ የነጻነት ቀን 2023",
+        "share_text": ""
+      },
+      "ar": {
+        "query": null,
+        "hover_text": "العيد الوطني لتشيلي 2023",
+        "share_text": ""
+      },
+      "hy": {
+        "query": null,
+        "hover_text": "Չիլիի ազգային տոն 2023",
+        "share_text": ""
+      },
+      "az": {
+        "query": null,
+        "hover_text": "2023 Çilinin Müstəqillik Günü",
+        "share_text": ""
+      },
+      "bn": {
+        "query": null,
+        "hover_text": "চিলির জাতীয় দিবস ২০২৩",
+        "share_text": ""
+      },
+      "eu": {
+        "query": null,
+        "hover_text": "2023ko Txileko Egun Nazionala",
+        "share_text": ""
+      },
+      "be": {
+        "query": null,
+        "hover_text": "Нацыянальны дзень Чылі 2023",
+        "share_text": ""
+      },
+      "bs": {
+        "query": null,
+        "hover_text": "Dan državnosti Čilea 2023.",
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": "Chile National Day 2023",
+        "share_text": ""
+      },
+      "bg": {
+        "query": null,
+        "hover_text": "Национален празник на Чили 2023 г.",
+        "share_text": ""
+      },
+      "my": {
+        "query": null,
+        "hover_text": "၂၀၂�၃ ချီလီနိုင်ငံ အမျိုးသားနေ့",
+        "share_text": ""
+      },
+      "ca": {
+        "query": null,
+        "hover_text": "Dia Nacional de Xile 2023",
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": "2023 年智利國慶日",
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": "2023 年智利國慶日",
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": "2023 年智利国庆节",
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": "Dan državnosti Čilea 2023.",
+        "share_text": ""
+      },
+      "cs": {
+        "query": null,
+        "hover_text": "Den chilské státnosti 2023",
+        "share_text": ""
+      },
+      "da": {
+        "query": null,
+        "hover_text": "Chiles nationaldag 2023",
+        "share_text": ""
+      },
+      "nl": {
+        "query": null,
+        "hover_text": "Nationale feestdag Chili 2023",
+        "share_text": ""
+      },
+      "et": {
+        "query": null,
+        "hover_text": "Tšiili 2023. aasta rahvuspüha",
+        "share_text": ""
+      },
+      "fi": {
+        "query": null,
+        "hover_text": "Chilen kansallispäivä 2023",
+        "share_text": ""
+      },
+      "fr": {
+        "query": null,
+        "hover_text": "Fête nationale du Chili 2023",
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": "Fête nationale du Chili 2023",
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": "Día Nacional de Chile 2023",
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": "ჩილეს ეროვნული დღესასწაული — 2023",
+        "share_text": ""
+      },
+      "de": {
+        "query": null,
+        "hover_text": "Nationalfeiertag Chile 2023",
+        "share_text": ""
+      },
+      "el": {
+        "query": null,
+        "hover_text": "Εθνική Ημέρα της Χιλής 2023",
+        "share_text": ""
+      },
+      "gu": {
+        "query": null,
+        "hover_text": "ચિલીનો રાષ્ટ્રીય દિવસ 2023",
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": "החג הלאומי של צ'ילה 2023",
+        "share_text": ""
+      },
+      "hi": {
+        "query": null,
+        "hover_text": "चिली का राष्ट्रीय दिवस 2023",
+        "share_text": ""
+      },
+      "hu": {
+        "query": null,
+        "hover_text": "Chile nemzeti ünnepe, 2023",
+        "share_text": ""
+      },
+      "is": {
+        "query": null,
+        "hover_text": "Þjóðhátíðardagur Chile 2023",
+        "share_text": ""
+      },
+      "id": {
+        "query": null,
+        "hover_text": "Hari Kemerdekaan Cile 2023",
+        "share_text": ""
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": "Festa nazionale del Cile 2023",
+        "share_text": ""
+      },
+      "ja": {
+        "query": null,
+        "hover_text": "2023 年チリ建国記念日",
+        "share_text": ""
+      },
+      "kn": {
+        "query": null,
+        "hover_text": "ಚಿಲಿ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ 2023",
+        "share_text": ""
+      },
+      "kk": {
+        "query": null,
+        "hover_text": "Чилидің Ұлттық күні – 2023",
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": "ទិវាបុណ្យជាតិ​ស៊ីលីឆ្នាំ 2023",
+        "share_text": ""
+      },
+      "ko": {
+        "query": null,
+        "hover_text": "2023년 칠레 국경일",
+        "share_text": ""
+      },
+      "ky": {
+        "query": null,
+        "hover_text": "Чилинин Улуттук күнү — 2023",
+        "share_text": ""
+      },
+      "lo": {
+        "query": null,
+        "hover_text": "ວັນຊາດຊິລີ 2023",
+        "share_text": ""
+      },
+      "es-419": {
+        "query": "Fiestas Patrias",
+        "hover_text": "Fiestas Patrias 2023",
+        "share_text": "Fiestas Patrias. #GoogleDoodle"
+      },
+      "lv": {
+        "query": null,
+        "hover_text": "Čīles Nacionālie svētki — 2023",
+        "share_text": ""
+      },
+      "lt": {
+        "query": null,
+        "hover_text": "Čilės nacionalinė diena, 2023 m.",
+        "share_text": ""
+      },
+      "mk": {
+        "query": null,
+        "hover_text": "Ден на државноста на Чиле, 2023 г.",
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": "Hari Kebangsaan Chile 2023",
+        "share_text": ""
+      },
+      "ml": {
+        "query": null,
+        "hover_text": "ചിലി ദേശീയ ദിനം 2023",
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": "चिलीचा राष्ट्रिय दिन २०२३",
+        "share_text": ""
+      },
+      "mn": {
+        "query": null,
+        "hover_text": "2023 оны Чили Улсын Үндэсний баярын өдөр",
+        "share_text": ""
+      },
+      "ne": {
+        "query": null,
+        "hover_text": "चिलीको राष्ट्रिय दिवस २०२३",
+        "share_text": ""
+      },
+      "no": {
+        "query": null,
+        "hover_text": "Chiles nasjonaldag 2023",
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": "روز ملی شیلی - ۲۰۲۳",
+        "share_text": ""
+      },
+      "pl": {
+        "query": null,
+        "hover_text": "Święto Narodowe Chile 2023",
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": "Dia Nacional do Chile 2023",
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": "Dia Nacional do Chile de 2023",
+        "share_text": ""
+      },
+      "pa": {
+        "query": null,
+        "hover_text": "ਚਿਲੀ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ 2023",
+        "share_text": ""
+      },
+      "ro": {
+        "query": null,
+        "hover_text": "Ziua Națională în Chile – 2023",
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": "День независимости Чили – 2023",
+        "share_text": ""
+      },
+      "sr": {
+        "query": null,
+        "hover_text": "Дан државности Чилеа 2023.",
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": "Dan državnosti Čilea 2023.",
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": "චිලී ජාතික දිනය 2023",
+        "share_text": ""
+      },
+      "sk": {
+        "query": null,
+        "hover_text": "Národný deň Čile 2023",
+        "share_text": ""
+      },
+      "sl": {
+        "query": null,
+        "hover_text": "Čilenski dan državnosti 2023",
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": "Día Nacional de Chile 2023",
+        "share_text": ""
+      },
+      "sw": {
+        "query": null,
+        "hover_text": "Sikukuu ya Kitaifa ya Chile 2023",
+        "share_text": ""
+      },
+      "sv": {
+        "query": null,
+        "hover_text": "Chiles nationaldag 2023",
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": "சிலியின் தேசிய தினம் 2023",
+        "share_text": ""
+      },
+      "te": {
+        "query": null,
+        "hover_text": "చిలీ జాతీయ దినోత్సవం 2023",
+        "share_text": ""
+      },
+      "th": {
+        "query": null,
+        "hover_text": "วันชาติชิลีปี 2023",
+        "share_text": ""
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": "Şili Ulusal Günü 2023",
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": "Національний день Чилі у 2023 році",
+        "share_text": ""
+      },
+      "ur": {
+        "query": null,
+        "hover_text": "چلی کا قومی دن 2023",
+        "share_text": ""
+      },
+      "uz": {
+        "query": null,
+        "hover_text": "Chili Milliy bayrami 2023",
+        "share_text": ""
+      },
+      "vi": {
+        "query": null,
+        "hover_text": "Ngày Quốc khánh Chile năm 2023",
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": "Usuku Lukazwelonke lwase-Chile 2023",
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Chile National Day",
+    "share_text": "Happy National Day, Chile! #GoogleDoodle"
+  },
+  {
     "name": "respect-for-the-aged-day-2023",
     "title": "Respect for the Aged Day 2023",
     "url": "//www.google.com/logos/doodles/2023/respect-for-the-aged-day-2023-6753651837110084-l.png",
