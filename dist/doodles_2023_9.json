@@ -1,5 +1,1003 @@
 [
   {
+    "name": "armenia-independence-day-2023",
+    "title": "Armenia Independence Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/armenia-independence-day-2023-6753651837109941-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/x7sUcohT0Gjd8Zw-rDI-9GnRobOO7MQ09OOJPIuuLms8VSnNqlmxOHMjxbWk8X0CQzCNsGZLGIna7luDlpqRYMrJ_th4KCwbppIHoAZ7of4dc5uyokBstg",
+    "high_res_url": "//www.google.com/logos/doodles/2023/armenia-independence-day-2023-6753651837109941-2xa.gif",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2023,
+      9,
+      21
+    ],
+    "translations": {
+      "en": {
+        "query": "Armenia Independence Day",
+        "hover_text": "Armenia Independence Day 2023",
+        "share_text": "Happy Independence Day, Armenia! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": "Armenië se onafhanklikheidsdag 2023",
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": "Dita e Pavarësisë së Armenisë, 2023",
+        "share_text": ""
+      },
+      "am": {
+        "query": null,
+        "hover_text": "የአርሜኒያ ነጻነት ቀን 2023",
+        "share_text": ""
+      },
+      "ar": {
+        "query": null,
+        "hover_text": "عيد استقلال أرمينيا 2023",
+        "share_text": ""
+      },
+      "hy": {
+        "query": "Հայաստանի անկախության օր",
+        "hover_text": "Հայաստանի անկախության օր 2023",
+        "share_text": "Տոնե՛նք Հայաստանի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": null,
+        "hover_text": "2023 Ermənistanın Müstəqillik Günü",
+        "share_text": ""
+      },
+      "bn": {
+        "query": null,
+        "hover_text": "আর্মেনিয়ার স্বাধীনতা দিবস ২০২৩",
+        "share_text": ""
+      },
+      "eu": {
+        "query": null,
+        "hover_text": "2023ko Armeniako Independentzia Eguna",
+        "share_text": ""
+      },
+      "be": {
+        "query": null,
+        "hover_text": "Дзень незалежнасці Арменіі 2023",
+        "share_text": ""
+      },
+      "bs": {
+        "query": null,
+        "hover_text": "Dan nezavisnosti Armenije 2023.",
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": "Armenia Independence Day 2023",
+        "share_text": ""
+      },
+      "bg": {
+        "query": null,
+        "hover_text": "Ден на независимостта на Армения 2023 г.",
+        "share_text": ""
+      },
+      "my": {
+        "query": null,
+        "hover_text": "၂၀၂၃ အာမေးနီးယားနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": ""
+      },
+      "ca": {
+        "query": null,
+        "hover_text": "Dia de la Independència d'Armènia 2023",
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": "2023 年亞美尼亞獨立日",
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": "2023 年亞美尼亞獨立紀念日",
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": "2023 年亚美尼亚独立日",
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": "Dan neovisnosti Armenije 2023.",
+        "share_text": ""
+      },
+      "cs": {
+        "query": null,
+        "hover_text": "Den nezávislosti Arménie 2023",
+        "share_text": ""
+      },
+      "da": {
+        "query": null,
+        "hover_text": "Armeniens uafhængighedsdag 2023",
+        "share_text": ""
+      },
+      "nl": {
+        "query": null,
+        "hover_text": "Onafhankelijkheidsdag Armenië 2023",
+        "share_text": ""
+      },
+      "et": {
+        "query": null,
+        "hover_text": "Armeenia 2023. aasta iseseisvuspäev",
+        "share_text": ""
+      },
+      "fi": {
+        "query": null,
+        "hover_text": "Armenian itsenäisyyspäivä 2023",
+        "share_text": ""
+      },
+      "fr": {
+        "query": null,
+        "hover_text": "Fête de l'Indépendance de l'Arménie 2023",
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": "Jour de l'indépendance de l'Arménie 2023",
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": "Día da Independencia de Armenia 2023",
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": "სომხეთის დამოუკიდებლობის დღე — 2023",
+        "share_text": ""
+      },
+      "de": {
+        "query": null,
+        "hover_text": "Unabhängigkeitstag Armenien 2023",
+        "share_text": ""
+      },
+      "el": {
+        "query": null,
+        "hover_text": "Ημέρα Ανεξαρτησίας της Αρμενίας 2023",
+        "share_text": ""
+      },
+      "gu": {
+        "query": null,
+        "hover_text": "આર્મેનિયાનો સ્વતંત્રતા દિવસ 2023",
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": "יום העצמאות של ארמניה 2023",
+        "share_text": ""
+      },
+      "hi": {
+        "query": null,
+        "hover_text": "आर्मेनिया का स्वतंत्रता दिवस 2023",
+        "share_text": ""
+      },
+      "hu": {
+        "query": null,
+        "hover_text": "Örményország függetlenségének napja, 2023",
+        "share_text": ""
+      },
+      "is": {
+        "query": null,
+        "hover_text": "Sjálfstæðisdagur Armeníu 2023",
+        "share_text": ""
+      },
+      "id": {
+        "query": null,
+        "hover_text": "Hari Kemerdekaan Armenia 2023",
+        "share_text": ""
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": "Festa dell'indipendenza dell'Armenia 2023",
+        "share_text": ""
+      },
+      "ja": {
+        "query": null,
+        "hover_text": "2023 年アルメニア独立記念日",
+        "share_text": ""
+      },
+      "kn": {
+        "query": null,
+        "hover_text": "ಅರ್ಮೇನಿಯಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2023",
+        "share_text": ""
+      },
+      "kk": {
+        "query": null,
+        "hover_text": "Арменияның Тәуелсіздік күні — 2023",
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": "ទិវា​បុណ្យឯករាជ្យជាតិ​អាមេនីឆ្នាំ 2023",
+        "share_text": ""
+      },
+      "ko": {
+        "query": null,
+        "hover_text": "2023년 아르메니아 독립기념일",
+        "share_text": ""
+      },
+      "ky": {
+        "query": null,
+        "hover_text": "Армениянын Эгемендүүлүк күнү — 2023",
+        "share_text": ""
+      },
+      "lo": {
+        "query": null,
+        "hover_text": "ວັນປະກາດເອກະລາດອາເມເນຍ 2023",
+        "share_text": ""
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": "Día de la Independencia de Armenia 2023",
+        "share_text": ""
+      },
+      "lv": {
+        "query": null,
+        "hover_text": "Armēnijas Neatkarības diena — 2023",
+        "share_text": ""
+      },
+      "lt": {
+        "query": null,
+        "hover_text": "Armėnijos nepriklausomybės diena, 2023 m.",
+        "share_text": ""
+      },
+      "mk": {
+        "query": null,
+        "hover_text": "Ден на независноста на Ерменија, 2023 г.",
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": "Hari Kemerdekaan Armenia 2023",
+        "share_text": ""
+      },
+      "ml": {
+        "query": null,
+        "hover_text": "അർമേനിയൻ സ്വാതന്ത്ര്യദിനം 2023",
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": "आर्मेनियाचा स्वातंत्र्यदिन २०२३",
+        "share_text": ""
+      },
+      "mn": {
+        "query": null,
+        "hover_text": "2023 оны Армени Улсын Тусгаар тогтнолын өдөр",
+        "share_text": ""
+      },
+      "ne": {
+        "query": null,
+        "hover_text": "अर्मेनियाको स्वतन्त्रता दिवस २०२३",
+        "share_text": ""
+      },
+      "no": {
+        "query": null,
+        "hover_text": "Armenias frigjøringsdag 2023",
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": "روز استقلال ارمنستان - ۲۰۲۳",
+        "share_text": ""
+      },
+      "pl": {
+        "query": null,
+        "hover_text": "Dzień Niepodległości Armenii 2023",
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": "Dia da Independência da Armênia 2023",
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": "Dia da Independência da Arménia de 2023",
+        "share_text": ""
+      },
+      "pa": {
+        "query": null,
+        "hover_text": "ਅਰਮੀਨੀਆ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2023",
+        "share_text": ""
+      },
+      "ro": {
+        "query": null,
+        "hover_text": "Ziua Independenței în Armenia – 2023",
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Армении",
+        "hover_text": "День независимости Армении 2023",
+        "share_text": "С Днём независимости, Армения! #GoogleDoodle"
+      },
+      "sr": {
+        "query": null,
+        "hover_text": "Дан независности Јерменије 2023.",
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": "Dan nezavisnosti Jermenije 2023.",
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": "අර්මේනියාවේ නිදහස් දිනය 2023",
+        "share_text": ""
+      },
+      "sk": {
+        "query": null,
+        "hover_text": "Deň nezávislosti Arménska 2023",
+        "share_text": ""
+      },
+      "sl": {
+        "query": null,
+        "hover_text": "Dan neodvisnosti Armenije 2023",
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": "Día de la Independencia de Armenia 2023",
+        "share_text": ""
+      },
+      "sw": {
+        "query": null,
+        "hover_text": "Sikukuu ya Uhuru wa Armenia 2023",
+        "share_text": ""
+      },
+      "sv": {
+        "query": null,
+        "hover_text": "Armeniens självständighetsdag 2023",
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": "ஆர்மீனியாவின் சுதந்திர தினம் 2023",
+        "share_text": ""
+      },
+      "te": {
+        "query": null,
+        "hover_text": "ఆర్మేనియా స్వాతంత్య్ర దినోత్సవం 2023",
+        "share_text": ""
+      },
+      "th": {
+        "query": null,
+        "hover_text": "วันเอกราชของสาธารณรัฐอาร์เมเนียปี 2023",
+        "share_text": ""
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": "Ermenistan Bağımsızlık Günü 2023",
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": "День незалежності Вірменії у 2023 році",
+        "share_text": ""
+      },
+      "ur": {
+        "query": null,
+        "hover_text": "آرمینیا کا یومِ آزادی 2023",
+        "share_text": ""
+      },
+      "uz": {
+        "query": null,
+        "hover_text": "Armaniston Mustaqillik kuni 2023",
+        "share_text": ""
+      },
+      "vi": {
+        "query": null,
+        "hover_text": "Ngày Quốc khánh Armenia năm 2023",
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": "Usuku Lokuzimela lwase-Armenia lango-2023",
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Armenia Independence Day",
+    "share_text": "Happy Independence Day, Armenia! #GoogleDoodle"
+  },
+  {
+    "name": "celebrating-matilde-landeta",
+    "title": "Celebrating Matilde Landeta",
+    "url": "//www.google.com/logos/doodles/2023/celebrating-matilde-landeta-6753651837110122.2-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/wHZcjNc_0QotZ78_NqG0BSt8GAwchG7LXqVeiEGYjdBnAS_FJhy2iVeK6Eul63w7BXhtWFGRmJRKbCBNarU1Xszbsgtx8HZgx78bQCLJghTDsV9ZFlvWYQ",
+    "high_res_url": "//www.google.com/logos/doodles/2023/celebrating-matilde-landeta-6753651837110122-2xa.gif",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2023,
+      9,
+      20
+    ],
+    "translations": {
+      "en": {
+        "query": "Matilde Landeta",
+        "hover_text": "Celebrating Matilde Landeta",
+        "share_text": "Celebrating Matilde Landeta! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Matilde Landeta",
+        "hover_text": "Ter viering van Matilde Landeta",
+        "share_text": "Ter viering van Matilde Landeta! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Matilde Landeta",
+        "hover_text": "Përkujtojmë Matilde Landeta",
+        "share_text": "Përkujtojmë Matilde Landeta! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ማቲልደ ላንዴታ",
+        "hover_text": "ማቲልደ ላንዴታን በማክበር ላይ",
+        "share_text": "ማቲልደ ላንዴታን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "ماتيلدي لانديتا",
+        "hover_text": "الاحتفال بذكرى \"ماتيلدي لانديتا\"",
+        "share_text": "نحتفل اليوم بذكرى \"ماتيلدي لانديتا\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Մատիլդե Լանդետա",
+        "hover_text": "Տոնե՛նք Մատիլդե Լանդետայի օրը",
+        "share_text": "Տոնե՛նք Մատիլդե Լանդետայի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Matilde Landeta",
+        "hover_text": "Matilde Landeta günü",
+        "share_text": "Matilde Landeta günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "মাতিল্দে ল্যান্দেতা",
+        "hover_text": "মাতিল্দে ল্যান্দেতার স্মৃতিতে উদযাপন করা হচ্ছে",
+        "share_text": "মাতিল্দে ল্যান্দেতার স্মৃতিতে উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Matilde Landeta",
+        "hover_text": "Matilde Landetaren omenez",
+        "share_text": "Matilde Landetaren omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Мацільда Ландэта",
+        "hover_text": "Ушаноўваем Мацільду Ландэта",
+        "share_text": "Ушаноўваем Мацільду Ландэта! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Matilde Landeta",
+        "hover_text": "Slavimo Matildu Landeta",
+        "share_text": "Slavimo Matildu Landeta! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Matilde Landeta",
+        "hover_text": "Celebrating Matilde Landeta",
+        "share_text": "Celebrating Matilde Landeta! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Матилде Ландета",
+        "hover_text": "Честване на Матилде Ландета",
+        "share_text": "Честване на Матилде Ландета! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Matilde Landeta",
+        "hover_text": "Matilde Landeta ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "Matilde Landeta ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Matilde Landeta",
+        "hover_text": "Homenatge a Matilde Landeta",
+        "share_text": "Homenatge a Matilde Landeta #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Matilde Landeta",
+        "hover_text": "紀念 Matilde Landeta",
+        "share_text": "紀念 Matilde Landeta！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "馬蒂爾德蘭德塔",
+        "hover_text": "紀念馬蒂爾德蘭德塔",
+        "share_text": "紀念馬蒂爾德蘭德塔！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "Matilde Landeta",
+        "hover_text": "纪念 Matilde Landeta",
+        "share_text": "纪念 Matilde Landeta！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Matilde Landeta",
+        "hover_text": "U čast Matilde Landete",
+        "share_text": "U čast Matilde Landete! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Matilde Landeta",
+        "hover_text": "Pocta Matilde Landetě",
+        "share_text": "Pocta Matilde Landetě! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Matilde Landeta",
+        "hover_text": "Vi hylder Matilde Landeta",
+        "share_text": "Vi hylder Matilde Landeta #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Matilde Landeta",
+        "hover_text": "Doodle ter ere van Matilde Landeta",
+        "share_text": "Een doodle ter ere van Matilde Landeta! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Matilde Landeta",
+        "hover_text": "Mälestame Matilde Landetat",
+        "share_text": "Mälestame Matilde Landetat! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Matilde Landeta",
+        "hover_text": "Matilde Landeta",
+        "share_text": "Matilde Landeta #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Matilde Landeta",
+        "hover_text": "Hommage à Matilde Landeta",
+        "share_text": "Hommage à Matilde Landeta ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Matilde Landeta",
+        "hover_text": "Célébration de Matilde Landeta",
+        "share_text": "Célébration de Matilde Landeta! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Matilde Landeta",
+        "hover_text": "Homenaxe a Matilde Landeta",
+        "share_text": "Homenaxe a Matilde Landeta! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მატილდე ლანდეტა",
+        "hover_text": "აღვნიშნავთ მატილდე ლანდეტას დღეს",
+        "share_text": "აღვნიშნავთ მატილდე ლანდეტას დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Matilde Landeta",
+        "hover_text": "Zu Ehren von Matilde Landeta",
+        "share_text": "Zu Ehren von Matilde Landeta! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Matilde Landeta",
+        "hover_text": "Τιμούμε τη Matilde Landeta",
+        "share_text": "Τιμούμε τη Matilde Landeta! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "માટિલ્ડા લૅન્ડિટા",
+        "hover_text": "માટિલ્ડા લૅન્ડિટાની યાદમાં",
+        "share_text": "માટિલ્ડા લૅન્ડિટાની યાદમાં! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Matilde Landeta",
+        "hover_text": "מחווה למטילדה לנדטה",
+        "share_text": "מחווה למטילדה לנדטה GoogleDoodle#"
+      },
+      "hi": {
+        "query": "मातिल्दे लांदेता",
+        "hover_text": "मातिल्दे लांदेता की याद में",
+        "share_text": "मातिल्दे लांदेता की याद में! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Matilde Landeta",
+        "hover_text": "Matilde Landeta ünneplése",
+        "share_text": "Matilde Landeta ünneplése #GoogleDoodle"
+      },
+      "is": {
+        "query": "Matilde Landeta",
+        "hover_text": "Við heiðrum Matilde Landeta",
+        "share_text": "Við heiðrum Matilde Landeta! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Matilde Landeta",
+        "hover_text": "Mengenang Matilde Landeta",
+        "share_text": "Mengenang Matilde Landeta #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Matilde Landeta",
+        "hover_text": "In onore di Matilde Landeta",
+        "share_text": "In onore di Matilde Landeta! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "マチルデ・ランデタ",
+        "hover_text": "マチルデ・ランデタを称えて",
+        "share_text": "マチルデ・ランデタを称えて #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಮಟಿಲ್ಡೆ ಲ್ಯಾಂಡೆಟಾ",
+        "hover_text": "ಮಟಿಲ್ಡೆ ಲ್ಯಾಂಡೆಟಾ ಅವರನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಮಟಿಲ್ಡೆ ಲ್ಯಾಂಡೆಟಾ ಅವರನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Матильда Ландета",
+        "hover_text": "Матильда Ландета күні",
+        "share_text": "Матильда Ландета күні #GoogleDoodle"
+      },
+      "km": {
+        "query": "Matilde Landeta",
+        "hover_text": "អបអរទិវារំលឹក Matilde Landeta",
+        "share_text": "អបអរទិវារំលឹក Matilde Landeta! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Matilde Landeta",
+        "hover_text": "Matilde Landeta 탄생 기념",
+        "share_text": "Matilde Landeta 탄생 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Матильда Ландета",
+        "hover_text": "Матильда Ландета күнүн майрамдоо",
+        "share_text": "Матильда Ландета күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Matilde Landeta",
+        "hover_text": "ວັນລະນຶກເຖິງ Matilde Landeta",
+        "share_text": "ວັນລະນຶກເຖິງ Matilde Landeta! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Matilde Landeta",
+        "hover_text": "Homenaje a Matilde Landeta",
+        "share_text": "Homenaje a Matilde Landeta. #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Matilde Landeta",
+        "hover_text": "Matildes Landetas godināšana",
+        "share_text": "Matildes Landetas godināšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Matildė Landeta",
+        "hover_text": "Matildės Landetos minėjimas",
+        "share_text": "Matildės Landetos minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Matilde Landeta",
+        "hover_text": "Во чест на Matilde Landeta",
+        "share_text": "Во чест на Matilde Landeta! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Matilde Landeta",
+        "hover_text": "Meraikan Matilde Landeta",
+        "share_text": "Meraikan Matilde Landeta! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "മാത്തിൽദെ ലന്ദേത്ത",
+        "hover_text": "മാത്തിൽദെ ലന്ദേത്തയെ ആദരിക്കുന്നു",
+        "share_text": "മാത്തിൽദെ ലന്ദേത്തയെ ആദരിക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "मातिल्दे लांदेता",
+        "hover_text": "मातिल्दे लांदेता यांच्या स्मरणार्थ",
+        "share_text": "मातिल्दे लांदेता यांच्या स्मरणार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Матильда Ландета",
+        "hover_text": "Матильда Ландетагийн өдрийг тэмдэглэж байна",
+        "share_text": "Матильда Ландетагийн өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Matilde Landeta",
+        "hover_text": "Matilde Landeta को सम्झना",
+        "share_text": "Matilde Landeta को सम्झना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Matilde Landeta",
+        "hover_text": "Vi feirer Matilde Landeta",
+        "share_text": "Vi feirer Matilde Landeta! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "ماتیلدا لاندتا",
+        "hover_text": "بزرگداشت ماتیلدا لاندتا",
+        "share_text": "بزرگداشت ماتیلدا لاندتا! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Matilde Landeta",
+        "hover_text": "Wspominamy Matilde Landetę",
+        "share_text": "Wspominamy Matilde Landetę #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Matilde Landeta",
+        "hover_text": "Celebração da vida de Matilde Landeta",
+        "share_text": "Celebração da vida de Matilde Landeta #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Matilde Landeta",
+        "hover_text": "Celebração de Matilde Landeta",
+        "share_text": "Celebração de Matilde Landeta! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Matilde Landeta",
+        "hover_text": "ਮਾਤੀਲਦੇ ਲਨਦੇਤਾ ਦੀ ਯਾਦ ਵਿੱਚ",
+        "share_text": "ਮਾਤੀਲਦੇ ਲਨਦੇਤਾ ਦੀ ਯਾਦ ਵਿੱਚ!ਾ #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Matilde Landeta",
+        "hover_text": "În cinstea lui Matilde Landeta",
+        "share_text": "În cinstea lui Matilde Landeta! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Матильде Ландета",
+        "hover_text": "День Матильде Ландеты",
+        "share_text": "День Матильде Ландеты #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Матилда Ландета",
+        "hover_text": "Славимо Матилду Ландета",
+        "share_text": "Славимо Матилду Ландета! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Matilda Landeta",
+        "hover_text": "Slavimo Matildu Landeta",
+        "share_text": "Slavimo Matildu Landeta! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "මැටිල්ඩ් ලැන්ඩෙටා",
+        "hover_text": "මැටිල්ඩ් ලැන්ඩෙටා සමරමින්",
+        "share_text": "මැටිල්ඩ් ලැන්ඩෙටා සමරමින්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Matilde Landetaová",
+        "hover_text": "Oslavujeme Matilde Landetaovú",
+        "share_text": "Oslavujeme Matilde Landetaovú. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Matilde Landeta",
+        "hover_text": "Slavimo Matilde Landeta",
+        "share_text": "Slavimo Matilde Landeta! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Matilde Landeta",
+        "hover_text": "Homenaje a Matilde Landeta",
+        "share_text": "Hoy rendimos homenaje a Matilde Landeta #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Matilde Landeta",
+        "hover_text": "Tunamwenzi Matilde Landeta",
+        "share_text": "Tunamwenzi Matilde Landeta! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Matilde Landeta",
+        "hover_text": "Vi hyllar Matilde Landeta",
+        "share_text": "Vi hyllar Matilde Landeta! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Matilde Landeta",
+        "hover_text": "மடில்டா லாண்டேட்டாவைக் கொண்டாடுவோம்",
+        "share_text": "மடில்டா லாண்டேட்டாவைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "మాటిల్దె లాందెతా",
+        "hover_text": "మాటిల్దె లాందెతాను స్మరించుకుందాం",
+        "share_text": "మాటిల్దె లాందెతాను స్మరించుకుందాం! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Matilde Landeta",
+        "hover_text": "วันรำลึกถึง Matilde Landeta",
+        "share_text": "วันรำลึกถึง Matilde Landeta #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Matilde Landeta",
+        "hover_text": "Matilde Landeta'yı Anıyoruz",
+        "share_text": "Matilde Landeta'yı Anıyoruz #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Матильда Ландета",
+        "hover_text": "Ушановуємо Матильду Ландету",
+        "share_text": "Ушановуємо Матильду Ландету! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Matilde Landeta",
+        "hover_text": "Matilde Landeta کا جشن",
+        "share_text": "Matilde Landeta کا جشن! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Matilde Landeta",
+        "hover_text": "Matilde Landeta kuni",
+        "share_text": "Matilde Landeta kuni bilan! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Matilde Landeta",
+        "hover_text": "Tôn vinh Matilde Landeta",
+        "share_text": "Tôn vinh Matilde Landeta! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Matilde Landeta",
+        "hover_text": "Sibungaza u-Matilde Landeta",
+        "share_text": "Sibungaza u-Matilde Landeta! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Matilde Landeta",
+    "share_text": "Celebrating Matilde Landeta! #GoogleDoodle"
+  },
+  {
     "name": "hedwig-dohms-192nd-birthday",
     "title": "Hedwig Dohm's 192nd Birthday",
     "url": "//www.google.com/logos/doodles/2023/hedwig-dohms-192nd-birthday-6753651837110085-l.png",
