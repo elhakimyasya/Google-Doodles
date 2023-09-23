@@ -1,5 +1,504 @@
 [
   {
+    "name": "saudi-arabia-national-day-2023",
+    "title": "Saudi Arabia National Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/saudi-arabia-national-day-2023-6753651837109970.4-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/D46GO1RAhYWL1NImvXfjEHNNKwyXT8t5ZDU4Tb7-nBQzz2ELT8fMCEURglRnXJVuyQKgqnIcQdYhlj9Z6SO8gzgWVJv86wZzk7S0Qg0FmZTqfECqA0H3Yvw",
+    "high_res_url": "//www.google.com/logos/doodles/2023/saudi-arabia-national-day-2023-6753651837109970.2-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      9,
+      23
+    ],
+    "translations": {
+      "en": {
+        "query": "Saudi Arabia National Day",
+        "hover_text": "Saudi Arabia National Day 2023",
+        "share_text": "Happy National Day, Saudi Arabia! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": "Saoedi-Arabië se nasionale dag 2023",
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": "Dita Kombëtare e Arabisë Saudite, 2023",
+        "share_text": ""
+      },
+      "am": {
+        "query": null,
+        "hover_text": "የሳውዲ አረቢያ ብሔራዊ ቀን 2023",
+        "share_text": ""
+      },
+      "ar": {
+        "query": "اليوم الوطني السعودي",
+        "hover_text": "اليوم الوطني السعودي 2023",
+        "share_text": " GoogleDoodle# اليوم الوطني السعودي 2023"
+      },
+      "hy": {
+        "query": null,
+        "hover_text": "Սաուդյան Արաբիայի ազգային տոն 2023",
+        "share_text": ""
+      },
+      "az": {
+        "query": null,
+        "hover_text": "2023 Səudiyyə Ərəbistanının Müstəqillik Günü",
+        "share_text": ""
+      },
+      "bn": {
+        "query": null,
+        "hover_text": "সৌদি আরবের জাতীয়তা দিবস ২০২৩",
+        "share_text": ""
+      },
+      "eu": {
+        "query": null,
+        "hover_text": "2023ko Saudi Arabiako Egun Nazionala",
+        "share_text": ""
+      },
+      "be": {
+        "query": null,
+        "hover_text": "Нацыянальны дзень Саудаўскай Аравіі 2023",
+        "share_text": ""
+      },
+      "bs": {
+        "query": null,
+        "hover_text": "Dan državnosti Saudijske Arabije 2023.",
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": "Saudi Arabia National Day 2023",
+        "share_text": ""
+      },
+      "bg": {
+        "query": null,
+        "hover_text": "Национален празник на Саудитска Арабия 2023 г.",
+        "share_text": ""
+      },
+      "my": {
+        "query": null,
+        "hover_text": "၂၀၂၃ ဆော်ဒီအာရေးဘီးယားနိုင်ငံ အမျိုးသားနေ့",
+        "share_text": ""
+      },
+      "ca": {
+        "query": null,
+        "hover_text": "Dia Nacional de l'Aràbia Saudita 2023",
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": "2023 年沙地阿拉伯國慶日",
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": "2023 年沙烏地阿拉伯國慶日",
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": "2023 年沙特阿拉伯国庆节",
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": "Dan državnosti Saudijske Arabije 2023.",
+        "share_text": ""
+      },
+      "cs": {
+        "query": null,
+        "hover_text": "Den saúdskoarabské státnosti 2023",
+        "share_text": ""
+      },
+      "da": {
+        "query": null,
+        "hover_text": "Saudi-Arabiens nationaldag 2023",
+        "share_text": ""
+      },
+      "nl": {
+        "query": null,
+        "hover_text": "Nationale feestdag Saudi-Arabië 2023",
+        "share_text": ""
+      },
+      "et": {
+        "query": null,
+        "hover_text": "Saudi Araabia 2023. aasta rahvuspüha",
+        "share_text": ""
+      },
+      "fi": {
+        "query": null,
+        "hover_text": "Saudi-Arabian kansallispäivä 2023",
+        "share_text": ""
+      },
+      "fr": {
+        "query": null,
+        "hover_text": "Fête nationale de l'Arabie saoudite 2023",
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": "Fête nationale de l'Arabie saoudite 2023",
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": "Día Nacional de Arabia Saudita 2023",
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": "საუდის არაბეთის ეროვნული დღესასწაული — 2023",
+        "share_text": ""
+      },
+      "de": {
+        "query": null,
+        "hover_text": "Nationalfeiertag Saudi-Arabien 2023",
+        "share_text": ""
+      },
+      "el": {
+        "query": null,
+        "hover_text": "Εθνική Ημέρα της Σαουδικής Αραβίας 2023",
+        "share_text": ""
+      },
+      "gu": {
+        "query": null,
+        "hover_text": "સાઉદી અરેબિયાનો રાષ્ટ્રીય દિવસ 2023",
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": "החג הלאומי של ערב הסעודית 2023",
+        "share_text": ""
+      },
+      "hi": {
+        "query": null,
+        "hover_text": "सऊदी अरब का राष्ट्रीय दिवस 2023",
+        "share_text": ""
+      },
+      "hu": {
+        "query": null,
+        "hover_text": "Szaúd-Arábia nemzeti ünnepe, 2023",
+        "share_text": ""
+      },
+      "is": {
+        "query": null,
+        "hover_text": "Þjóðhátíðardagur Sádi-Arabíu 2023",
+        "share_text": ""
+      },
+      "id": {
+        "query": null,
+        "hover_text": "Hari Nasional Arab Saudi 2023",
+        "share_text": ""
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": "Festa nazionale dell'Arabia Saudita 2023",
+        "share_text": ""
+      },
+      "ja": {
+        "query": null,
+        "hover_text": "2023 年サウジアラビア建国記念日",
+        "share_text": ""
+      },
+      "kn": {
+        "query": null,
+        "hover_text": "ಸೌದಿ ಅರೇಬಿಯಾ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ 2023",
+        "share_text": ""
+      },
+      "kk": {
+        "query": null,
+        "hover_text": "Сауд Арабиясының Ұлттық күні – 2023",
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": "ទិវាបុណ្យជាតិអារ៉ាប៊ីសាអូឌីតឆ្នាំ 2023",
+        "share_text": ""
+      },
+      "ko": {
+        "query": null,
+        "hover_text": "2023년 사우디아라비아 국경일",
+        "share_text": ""
+      },
+      "ky": {
+        "query": null,
+        "hover_text": "Сауд Арабиясынын Улуттук күнү — 2023",
+        "share_text": ""
+      },
+      "lo": {
+        "query": null,
+        "hover_text": "ວັນຊາດຊາອູດິ ອາຣາເບຍ 2023",
+        "share_text": ""
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": "Día Nacional de Arabia Saudita 2023",
+        "share_text": ""
+      },
+      "lv": {
+        "query": null,
+        "hover_text": "Saūda Arābijas Nacionālie svētki — 2023",
+        "share_text": ""
+      },
+      "lt": {
+        "query": null,
+        "hover_text": "Saudo Arabijos nacionalinė diena, 2023 m.",
+        "share_text": ""
+      },
+      "mk": {
+        "query": null,
+        "hover_text": "Ден на државноста на Саудиска Арабија, 2023 г.",
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": "Hari Kebangsaan Arab Saudi 2023",
+        "share_text": ""
+      },
+      "ml": {
+        "query": null,
+        "hover_text": "സൗദി അറേബ്യൻ ദേശീയ ദിനം 2023",
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": "सौदी अरेबियाचा राष्ट्रीय दिन २०२३",
+        "share_text": ""
+      },
+      "mn": {
+        "query": null,
+        "hover_text": "2023 оны Саудын Араб Улсын Үндэсний баярын өдөр",
+        "share_text": ""
+      },
+      "ne": {
+        "query": null,
+        "hover_text": "साउदी अरबको राष्ट्रिय दिवस २०२३",
+        "share_text": ""
+      },
+      "no": {
+        "query": null,
+        "hover_text": "Saudi-Arabias nasjonaldag 2023",
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": "روز ملی عربستان سعودی ۲۰۲۳",
+        "share_text": ""
+      },
+      "pl": {
+        "query": null,
+        "hover_text": "Święto Narodowe Arabii Saudyjskiej 2023",
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": "Dia Nacional da Arábia Saudita 2023",
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": "Dia Nacional da Arábia Saudita de 2023",
+        "share_text": ""
+      },
+      "pa": {
+        "query": null,
+        "hover_text": "ਸਾਊਦੀ ਅਰਬ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ 2023",
+        "share_text": ""
+      },
+      "ro": {
+        "query": null,
+        "hover_text": "Ziua Națională a Arabiei Saudite – 2023",
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": "Национальный день Саудовской Аравии – 2023",
+        "share_text": ""
+      },
+      "sr": {
+        "query": null,
+        "hover_text": "Дан државности Саудијске Арабије 2023.",
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": "Dan državnosti Saudijske Arabije 2023.",
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": "සවුදි අරාබියේ ජාතික දිනය 2023",
+        "share_text": ""
+      },
+      "sk": {
+        "query": null,
+        "hover_text": "Národný deň Saudskej Arábie 2023",
+        "share_text": ""
+      },
+      "sl": {
+        "query": null,
+        "hover_text": "Dan državnosti v Saudovi Arabiji 2023",
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": "Día Nacional de Arabia Saudí 2023",
+        "share_text": ""
+      },
+      "sw": {
+        "query": null,
+        "hover_text": "Sikukuu ya Kitaifa ya Saudia 2023",
+        "share_text": ""
+      },
+      "sv": {
+        "query": null,
+        "hover_text": "Saudiarabiens nationaldag 2023",
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": "சவுதி அரேபியாவின் தேசிய தினம் 2023",
+        "share_text": ""
+      },
+      "te": {
+        "query": null,
+        "hover_text": "సౌదీ అరేబియా జాతీయ దినోత్సవం 2023",
+        "share_text": ""
+      },
+      "th": {
+        "query": null,
+        "hover_text": "วันชาติซาอุดีอาระเบียปี 2023",
+        "share_text": ""
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": "Suudi Arabistan Ulusal Günü 2023",
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": "Національний день Саудівської Аравії у 2023 році",
+        "share_text": ""
+      },
+      "ur": {
+        "query": null,
+        "hover_text": "سعودی عرب کا قومی دن 2023",
+        "share_text": ""
+      },
+      "uz": {
+        "query": null,
+        "hover_text": "Saudiya Arabistoni Milliy bayrami 2023",
+        "share_text": ""
+      },
+      "vi": {
+        "query": null,
+        "hover_text": "Ngày Quốc khánh Ả Rập Xê Út năm 2023",
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": "Usuku lukazwelonke lwase-Saudi Arabia lwango-2023",
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Saudi Arabia National Day",
+    "share_text": "Happy National Day, Saudi Arabia! #GoogleDoodle"
+  },
+  {
     "name": "armenia-independence-day-2023",
     "title": "Armenia Independence Day 2023",
     "url": "//www.google.com/logos/doodles/2023/armenia-independence-day-2023-6753651837109941-law.gif",
