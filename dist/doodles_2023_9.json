@@ -1,5 +1,504 @@
 [
   {
+    "name": "celebrating-todd-matshikiza",
+    "title": "Celebrating Todd Matshikiza",
+    "url": "//www.google.com/logos/doodles/2023/celebrating-todd-matshikiza-6753651837109942.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/6UFf9_0ofC2Kl1z3SM-i10nWn7Stb-0Tvdf6njx8H744wQ_8rk1v4tBrqsOrl4SD-C6mnCFk53UnVafaUEpGpI8ozsXyLRFAJ3xK5hKhaEWwqnNgLAa43w",
+    "high_res_url": "//www.google.com/logos/doodles/2023/celebrating-todd-matshikiza-6753651837109942.2-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      9,
+      25
+    ],
+    "translations": {
+      "en": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Celebrating Todd Matshikiza",
+        "share_text": "Celebrating Todd Matshikiza! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Ter viering van Todd Matshikiza",
+        "share_text": "Ter viering van Todd Matshikiza! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Përkujtojmë Todd Matshikiza",
+        "share_text": "Përkujtojmë Todd Matshikiza! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ቶድ ማትሺኪዛ",
+        "hover_text": "ቶድ ማትሺኪዛን በማክበር ላይ",
+        "share_text": "ቶድ ማትሺኪዛን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "تود ماتشيكيزا",
+        "hover_text": "الاحتفال بذكرى \"تود ماتشيكيزا\"",
+        "share_text": "نحتفل اليوم بذكرى \"تود ماتشيكيزا\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Թոդ Մաթշիկիզա",
+        "hover_text": "Տոնենք Թոդ Մաթշիկիզայի օրը",
+        "share_text": "Տոնե՛նք Թոդ Մաթշիկիզայի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Todd Matshikiza günü",
+        "share_text": "Todd Matshikiza günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "টড মাটশিকাইজা",
+        "hover_text": "টড মাটশিকাইজার স্মৃতিতে উদযাপন করা হচ্ছে",
+        "share_text": "টড মাটশিকাইজার স্মৃতিতে উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Todd Matshikizaren omenez",
+        "share_text": "Todd Matshikizaren omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Тод Матшыкіза",
+        "hover_text": "Ушаноўваем Тода Матшыкізу",
+        "share_text": "Ушаноўваем Тода Матшыкізу! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Slavimo Todda Matshikizu",
+        "share_text": "Slavimo Todda Matshikizu! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Celebrating Todd Matshikiza",
+        "share_text": "Celebrating Todd Matshikiza! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Тод Матшикиза",
+        "hover_text": "Честване на Тод Матшикиза",
+        "share_text": "Честване на Тод Матшикиза! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Todd Matshikiza ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "Todd Matshikiza ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Homenatge a Todd Matshikiza",
+        "share_text": "Homenatge a Todd Matshikiza #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Todd Matshikiza",
+        "hover_text": "紀念 Todd Matshikiza",
+        "share_text": "紀念 Todd Matshikiza！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "托德馬舒凱扎",
+        "hover_text": "紀念托德馬舒凱扎",
+        "share_text": "紀念托德馬舒凱扎！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "Todd Matshikiza",
+        "hover_text": "纪念 Todd Matshikiza",
+        "share_text": "纪念 Todd Matshikiza！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Todd Matshikiza",
+        "hover_text": "U čast Toddu Matshikizi",
+        "share_text": "U čast Toddu Matshikizi! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Pocta Toddu Matshikizovi",
+        "share_text": "Pocta Toddu Matshikizovi! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Vi hylder Todd Matshikiza",
+        "share_text": "Vi hylder Todd Matshikiza #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Doodle ter ere van Todd Matshikiza",
+        "share_text": "Een doodle ter ere van Todd Matshikiza! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Mälestame Todd Matshikizat",
+        "share_text": "Mälestame Todd Matshikizat! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Todd Matshikiza",
+        "share_text": "Todd Matshikiza #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Hommage à Todd Matshikiza",
+        "share_text": "Hommage à Todd Matshikiza ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Célébration de Todd Matshikiza",
+        "share_text": "Célébration de Todd Matshikiza! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Homenaxe a Todd Matshikiza",
+        "share_text": "Homenaxe a Todd Matshikiza! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ტოდ მატშიკიზა",
+        "hover_text": "აღვნიშნავთ ტოდ მატშიკიზას დღეს",
+        "share_text": "აღვნიშნავთ ტოდ მატშიკიზას დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Zu Ehren von Todd Matshikiza",
+        "share_text": "Zu Ehren von Todd Matshikiza! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Τιμούμε τον Todd Matshikiza",
+        "share_text": "Τιμούμε τον Todd Matshikiza! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ટૉડ માત્ચિકિઝા",
+        "hover_text": "ટૉડ માત્ચિકિઝાની યાદમાં",
+        "share_text": "ટૉડ માત્ચિકિઝાની યાદમાં! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Todd Matshikiza",
+        "hover_text": "מחווה לטוד מצ'יקיזה",
+        "share_text": "מחווה לטוד מצ'יקיזה GoogleDoodle#"
+      },
+      "hi": {
+        "query": "टॉड मत्शिकिज़ा",
+        "hover_text": "टॉड मत्शिकिज़ा की याद में",
+        "share_text": "टॉड मत्शिकिज़ा की याद में! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Todd Matshikiza ünneplése",
+        "share_text": "Todd Matshikiza ünneplése #GoogleDoodle"
+      },
+      "is": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Við heiðrum Todd Matshikiza",
+        "share_text": "Við heiðrum Todd Matshikiza! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Mengenang Todd Matshikiza",
+        "share_text": "Mengenang Todd Matshikiza #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Todd Matshikiza á cheiliúradh",
+        "share_text": "Todd Matshikiza á cheiliúradh #GoogleDoodle"
+      },
+      "it": {
+        "query": "Todd Matshikiza",
+        "hover_text": "In onore di Todd Matshikiza",
+        "share_text": "In onore di Todd Matshikiza! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "トッド・マチキザ",
+        "hover_text": "トッド・マチキザを称えて",
+        "share_text": "トッド・マチキザを称えて #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಟಾಡ್ ಮಶ್‌ಕಿಝಾ",
+        "hover_text": "ಟಾಡ್ ಮಶ್‌ಕಿಝಾ ಅವರನ್ನು ಸ್ಮರಿಸಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಟಾಡ್ ಮಶ್‌ಕಿಝಾ ಅವರನ್ನು ಸ್ಮರಿಸಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Тодд Мачикиза",
+        "hover_text": "Тодд Мачикиза күні",
+        "share_text": "Тодд Мачикиза күні! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Todd Matshikiza",
+        "hover_text": "អបអរទិវារំលឹក Todd Matshikiza",
+        "share_text": "អបអរទិវារំលឹក Todd Matshikiza! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Todd Matshikiza를 기억하며",
+        "share_text": "Todd Matshikiza를 기억하며 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Тодд Матшикиза",
+        "hover_text": "Тодд Матшикиза күнүн майрамдоо",
+        "share_text": "Тодд Матшикиза күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Todd Matshikiza",
+        "hover_text": "ສະເຫຼີມສະຫຼອງ Todd Matshikiza",
+        "share_text": "ສະເຫຼີມສະຫຼອງ Todd Matshikiza! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Celebrando a Todd Matshikiza",
+        "share_text": "¡Celebrando a Todd Matshikiza! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Tods Matšikiza",
+        "hover_text": "Toda Matšikizas godināšana",
+        "share_text": "Toda Matšikizas godināšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Toddas Matshikiza",
+        "hover_text": "Toddo Matshikizos minėjimas",
+        "share_text": "Toddo Matshikizos minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Во чест на Todd Matshikiza",
+        "share_text": "Во чест на Todd Matshikiza! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Meraikan Todd Matshikiza",
+        "share_text": "Meraikan Todd Matshikiza! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ടോഡ് മാച്ചികീസ",
+        "hover_text": "ടോഡ് മാച്ചികീസയെ ആദരിക്കുന്നു",
+        "share_text": "ടോഡ് മാച്ചികീസയെ ആദരിക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "टॉड मात्चिकिझा",
+        "hover_text": "टॉड मात्चिकिझा यांच्या स्मरणार्थ",
+        "share_text": "टॉड मात्चिकिझा यांच्या स्मरणार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Тодд Матшикиза",
+        "hover_text": "Тодд Матшикизагийн өдрийг тэмдэглэж байна",
+        "share_text": "Тодд Матшикизагийн өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Todd Matshikiza को सम्झना",
+        "share_text": "Todd Matshikiza को सम्झना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Vi feirer Todd Matshikiza",
+        "share_text": "Vi feirer Todd Matshikiza! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଟୋଡ ମାତ୍ସିକାଇଜା",
+        "hover_text": "ଟୋଡ ମାତ୍ସିକାଇଜାଙ୍କ ସ୍ମୃତିରେ",
+        "share_text": "ଟୋଡ ମାତ୍ସିକାଇଜାଙ୍କ ସ୍ମୃତିରେ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "تاد ماتشیکیزا",
+        "hover_text": "بزرگداشت تاد ماتشیکیزا",
+        "share_text": "بزرگداشت تاد ماتشیکیزا! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Wspominamy Todda Matshikizę",
+        "share_text": "Wspominamy Todda Matshikizę #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Celebração da vida de Todd Matshikiza",
+        "share_text": "Celebração da vida de Todd Matshikiza #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Celebração de Todd Matshikiza",
+        "share_text": "Celebração de Todd Matshikiza! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Todd Matshikiza",
+        "hover_text": "ਟੋਡ ਮਾਤਸ਼ਿਕਿਜ਼ਾ ਦੀ ਯਾਦ ਵਿੱਚ",
+        "share_text": "ਟੋਡ ਮਾਤਸ਼ਿਕਿਜ਼ਾ ਦੀ ਯਾਦ ਵਿੱਚ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Todd Matshikiza",
+        "hover_text": "În cinstea lui Todd Matshikiza",
+        "share_text": "În cinstea lui Todd Matshikiza! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Тодд Матшикиза",
+        "hover_text": "День Тодда Матшикизы",
+        "share_text": "День Тодда Матшикизы #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Тод Матшикиза",
+        "hover_text": "Славимо Тода Матшикизу",
+        "share_text": "Славимо Тода Матшикизу! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Tod Matšikiza",
+        "hover_text": "Slavimo Toda Matšikizu",
+        "share_text": "Slavimo Toda Matšikizu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ටොඩ් මැට්ෂිකිසා",
+        "hover_text": "ටොඩ් මැට්ෂිකිසා සමරමින්",
+        "share_text": "ටොඩ් මැට්ෂිකිසා සමරමින්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Oslavujeme Todda Matshikizau",
+        "share_text": "Oslavujeme Todda Matshikizau. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Slavimo Todda Matshikizo",
+        "share_text": "Slavimo Todda Matshikizo! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Homenaje a Todd Matshikiza",
+        "share_text": "Hoy rendimos homenaje a Todd Matshikiza #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Tunamwenzi Todd Matshikiza",
+        "share_text": "Tunamwenzi Todd Matshikiza! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Vi hyllar Todd Matshikiza",
+        "share_text": "Vi hyllar Todd Matshikiza! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Todd Matshikiza",
+        "hover_text": "டாட் மட்ஷிகிசாவைக் கொண்டாடுவோம்",
+        "share_text": "டாட் மட்ஷிகிசாவைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "టాడ్ మ్యాట్షికీజా",
+        "hover_text": "టాడ్ మ్యాట్షికీజాను స్మరించుకుందాం",
+        "share_text": "టాడ్ మ్యాట్షికీజాను స్మరించుకుందాం! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Todd Matshikiza",
+        "hover_text": "วันรำลึกถึง Todd Matshikiza",
+        "share_text": "วันรำลึกถึง Todd Matshikiza #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Todd Matshikiza'yı Anıyoruz",
+        "share_text": "Todd Matshikiza'yı Anıyoruz #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Тодд Матшікіза",
+        "hover_text": "Ушановуємо Тодда Матшікізу",
+        "share_text": "Ушановуємо Тодда Матшікізу! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Todd Matshikiza کا جشن",
+        "share_text": "Todd Matshikiza کا جشن! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Todd Matshikiza kuni",
+        "share_text": "Todd Matshikiza kuni bilan! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Todd Matshikiza",
+        "hover_text": "Tôn vinh Todd Matshikiza",
+        "share_text": "Tôn vinh Todd Matshikiza! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Todd Matshikiza",
+        "hover_text": "Sibungaza u-Todd Matshikiza",
+        "share_text": "Sibungaza u-Todd Matshikiza! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Todd Matshikiza",
+    "share_text": "Celebrating Todd Matshikiza! #GoogleDoodle"
+  },
+  {
     "name": "giovanna-boccalini-barcellonas-122nd-birthday",
     "title": "Giovanna Boccalini Barcellona's 122nd Birthday",
     "url": "//www.google.com/logos/doodles/2023/giovanna-boccalini-barcellonas-122nd-birthday-6753651837110116-l.png",
