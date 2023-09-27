@@ -1,5 +1,504 @@
 [
   {
+    "name": "googles-25th-birthday",
+    "title": "Google's 25th Birthday!",
+    "url": "//www.google.com/logos/doodles/2023/googles-25th-birthday-6753651837110114.2-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/r0JkTMYGxP5lJhPXYLszzaLvKDTnJER882LIKkZDFjpZkH_MCsgdQa7U5LtsCE1O8BKkps5NHIhbwe1-oWVOHUCqYx9DuXIgMviAY-gTQ4prOcdbzyzT9w",
+    "high_res_url": "//www.google.com/logos/doodles/2023/googles-25th-birthday-6753651837110114-2xa.gif",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2023,
+      9,
+      27
+    ],
+    "translations": {
+      "en": {
+        "query": "It's Google's 25th birthday",
+        "hover_text": "Google's 25th Birthday!",
+        "share_text": "Google's 25th birthday! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Google se 25e verjaarsdag",
+        "hover_text": "Google se 25e verjaarsdag!",
+        "share_text": "Google se 25e verjaarsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "25-vjetori i Google",
+        "hover_text": "25-vjetori i Google!",
+        "share_text": "25-vjetori i Google! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የGoogle 25ኛ ልደት",
+        "hover_text": "የGoogle 25ኛ ልደት!",
+        "share_text": "የGoogle 25ኛ ልደት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "الذكرى 25 لإنشاء Google",
+        "hover_text": "الذكرى 25 لإنشاء Google",
+        "share_text": "نحتفل اليوم بالذكرى 25 لإنشاء Google. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Google-ի 25-րդ տարեդարձը",
+        "hover_text": "Google-ի 25-րդ տարեդարձը",
+        "share_text": "Google-ի 25-րդ տարեդարձը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Google'un 25-ci ildönümü",
+        "hover_text": "Google'un 25-ci ildönümü!",
+        "share_text": "Google'un 25-ci ildönümü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "Googleএর জন্মদিন",
+        "hover_text": "Googleএর  ২৫তম জন্মদিন!",
+        "share_text": "Googleএর  ২৫তম জন্মদিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Google-ren 25. urteurrena",
+        "hover_text": "Google-ren 25. urteurrena",
+        "share_text": "Google-ren 25. urteurrena #GoogleDoodle"
+      },
+      "be": {
+        "query": "25 гадоў кампаніі Google",
+        "hover_text": "25 гадоў кампаніі Google!",
+        "share_text": "25 гадоў кампаніі Google! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Googleov 25. rođendan",
+        "hover_text": "Googleov 25. rođendan!",
+        "share_text": "#GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Google's 25th birthday",
+        "hover_text": "Google's 25th Birthday",
+        "share_text": "Google's 25th birthday! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Google на 25",
+        "hover_text": "Google навършва 25 години!",
+        "share_text": "#GoogleDoodle"
+      },
+      "my": {
+        "query": "Google ၏ ၂၅ နှစ်မြောက်မွေးနေ့",
+        "hover_text": "Google ၏ ၂၅ နှစ်မြောက်မွေးနေ့။",
+        "share_text": "Google ၏ ၂၅ နှစ်မြောက်မွေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "25è aniversari de Google",
+        "hover_text": "25è aniversari de Google",
+        "share_text": "25è aniversari de Google #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Google 25 歲生日",
+        "hover_text": "Google 25 歲生日!",
+        "share_text": "Google 25 歲生日! #GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "Google 25 歲生日",
+        "hover_text": "Google 25 歲生日!",
+        "share_text": "Google 25 歲生日! #GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "Google 25 周岁生日",
+        "hover_text": "Google 迎来了 25 周岁生日！",
+        "share_text": "Google 迎来了 25 周岁生日！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Googleov 25. rođendan",
+        "hover_text": "Googleov 25. rođendan!",
+        "share_text": "#GoogleDoodle"
+      },
+      "cs": {
+        "query": "25. narozeniny Googlu",
+        "hover_text": "Slavíme 25. narozeniny Googlu!",
+        "share_text": "Slavíme 25. narozeniny Googlu! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Googles 25 års fødselsdag",
+        "hover_text": "Googles 25 års fødselsdag",
+        "share_text": "Googles 25 års fødselsdag! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Google's 25e verjaardag",
+        "hover_text": "Google's 25e verjaardag",
+        "share_text": "Google's 25e verjaardag! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Google'i 25. sünnipäev",
+        "hover_text": "Google'i 25. sünnipäev",
+        "share_text": "Google 25. sünnipäev #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Google 25 vuotta",
+        "hover_text": "Googlen 25-vuotissyntymäpäivä",
+        "share_text": "Google 25 vuotta! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Google fête ses 25 ans",
+        "hover_text": "Google a 25 ans",
+        "share_text": "Google a 25 ans ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "25ᵉ anniversaire de Google",
+        "hover_text": "25ᵉ anniversaire de Google!",
+        "share_text": "25ᵉ anniversaire de Google! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "25.º aniversario de Google",
+        "hover_text": "25.º aniversario de Google!",
+        "share_text": "25.º aniversario de Google! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "25 წელი Google-ის დაარსებიდან",
+        "hover_text": "25 წელი Google-ის დაარსებიდან!",
+        "share_text": "25 წელი Google-ის დაარსებიდან! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Google Geburtstag",
+        "hover_text": "25. Geburtstag von Google",
+        "share_text": "25. Geburtstag von Google! #GoogleDoodle"
+      },
+      "el": {
+        "query": "25α Γενέθλια της Google! ",
+        "hover_text": "25α Γενέθλια της Google! ",
+        "share_text": "25α Γενέθλια της Google! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "Googleની 25મી વર્ષગાંઠ",
+        "hover_text": "Googleની 25મી વર્ષગાંઠ!",
+        "share_text": "Googleની 25મી વર્ષગાંઠ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום הולדת 25 ל-Google",
+        "hover_text": "יום הולדת 25 ל-Google",
+        "share_text": "יום הולדת 25 ל-Google GoogleDoodle#"
+      },
+      "hi": {
+        "query": "Google का 25वां जन्मदिन",
+        "hover_text": "Google का 25वां जन्मदिन!",
+        "share_text": "Google का 25वां जन्मदिन! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A Google 25. születésnapja",
+        "hover_text": "A Google 25. születésnapja!",
+        "share_text": "A Google 25. születésnapja! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Google LLC",
+        "hover_text": "25 ára afmæli Google!",
+        "share_text": "25 ára afmæli Google! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Ulang tahun ke-25 Google",
+        "hover_text": "Ulang Tahun Ke-25 Google",
+        "share_text": "Ulang tahun ke-25 Google #GoogleDoodle"
+      },
+      "ga": {
+        "query": "25ú Breithlá Google",
+        "hover_text": "25ú Breithlá Google!",
+        "share_text": "25ú Breithlá Google! #GoogleDoodle"
+      },
+      "it": {
+        "query": "25° compleanno di Google",
+        "hover_text": "Google compie 25 anni!",
+        "share_text": "Google compie 25 anni! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "Google 創立 25 周年",
+        "hover_text": "Google 創立 25 周年！",
+        "share_text": "Google 創立 25 周年！#Google Doodle"
+      },
+      "kn": {
+        "query": "Google ನ 25ನೇ ಜನ್ಮದಿನ",
+        "hover_text": "Google ನ 25ನೇ ಜನ್ಮದಿನ!",
+        "share_text": "Google ನ 25ನೇ ಜನ್ಮದಿನ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Google-дың 25 жылдығы",
+        "hover_text": "Google-дың 25 жылдығы!",
+        "share_text": "Google-дың 25 жылдығы! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ថ្ងៃនេះ Doodle ប្រារព្ធខួបគម្រប់ 25 ឆ្នាំរបស់ Google!",
+        "hover_text": "ថ្ងៃនេះ Doodle ប្រារព្ធខួបគម្រប់ 25 ឆ្នាំរបស់ Google!",
+        "share_text": "ថ្ងៃនេះ Doodle ប្រារព្ធខួបគម្រប់ 25 ឆ្នាំរបស់ Google!"
+      },
+      "ko": {
+        "query": "Google 창립 25주년",
+        "hover_text": "Google 창립 25주년",
+        "share_text": "Google 창립 25주년을 기념합니다! #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Google'га 25 жыл",
+        "hover_text": "Google'га 25 жыл!",
+        "share_text": "Google'га 25 жыл! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 25 ປີຂອງ Google",
+        "hover_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 25 ປີຂອງ Google!",
+        "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 25 ປີຂອງ Google! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "25º aniversario del nacimiento de Google",
+        "hover_text": "Hoy es el 25º aniversario del nacimiento de Google",
+        "share_text": "Hoy es el 25º aniversario del nacimiento de Google #GoogleDoodle"
+      },
+      "lv": {
+        "query": "25. Google dzimšanas diena",
+        "hover_text": "25. Google dzimšanas diena!",
+        "share_text": "25. Google dzimšanas diena! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "25-asis Google gimtadienis",
+        "hover_text": "25-asis Google gimtadienis!",
+        "share_text": "#GoogleDoodle"
+      },
+      "mk": {
+        "query": "25. роденден на Google",
+        "hover_text": "25. роденден на Google!",
+        "share_text": "25. роденден на Google! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Hari lahir Google yang ke-25",
+        "hover_text": "Hari Lahir Google yang ke-25!",
+        "share_text": "Hari lahir Google yang ke-25! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Google-ന്റെ 25-ാം ജന്മദിനം",
+        "hover_text": "Google-ന്റെ 25-ാം ജന്മദിനം!",
+        "share_text": "Google-ന്റെ 25-ാം ജന്മദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "Google चा २५ वा वाढदिवस",
+        "hover_text": "Google चा २५ वा वाढदिवस!",
+        "share_text": "Google चा २५ वा वाढदिवस! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Google-н 25 жилийн ой",
+        "hover_text": "Google-н 25 жилийн ой!",
+        "share_text": "Google-н 25 жилийн ой! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "गुगलको २५औं जन्मदिन",
+        "hover_text": "गुगलको २५औं जन्मदिन!",
+        "share_text": "गुगलको २५औं जन्मदिन! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Googles 25-årsdag",
+        "hover_text": "Googles 25-årsdag! ",
+        "share_text": "Googles 25-årsdag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "Googleର 25ତମ ଜନ୍ମଦିନ",
+        "hover_text": "Googleର 25ତମ ଜନ୍ମଦିନ!",
+        "share_text": "Googleର 25ତମ ଜନ୍ମଦିନ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "بیست‌وپنجمین زادروز Google",
+        "hover_text": "بیست‌وپنجمین زادروز Google!",
+        "share_text": "بیست‌وپنجمین زادروز Google! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "25 urodziny Google",
+        "hover_text": "25 urodziny Google",
+        "share_text": "25 urodziny Google #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "25º Aniversário do Google",
+        "hover_text": "Celebrando o 25º Aniversário do Google",
+        "share_text": "25º Aniversário do Google! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "25.º Aniversário da Google",
+        "hover_text": "25.º Aniversário da Google!",
+        "share_text": "25.º Aniversário da Google! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Google ਦਾ 25ਵਾਂ ਜਨਮਦਿਨ",
+        "hover_text": "Google ਦਾ 25ਵਾਂ ਜਨਮਦਿਨ!",
+        "share_text": "Google ਦਾ 25ਵਾਂ ਜਨਮਦਿਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Aniversare de 25 de ani a Google",
+        "hover_text": "Google împlinește 25 de ani!",
+        "share_text": "La mulți ani, Google! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": "Aniversare de 25 de ani a Google",
+        "hover_text": "Google împlinește 25 de ani!",
+        "share_text": "La mulți ani, Google! #GoogleDoodle"
+      },
+      "ru": {
+        "query": "Google 25 лет",
+        "hover_text": "Google 25 лет",
+        "share_text": "Google 25 лет #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Google-ов 25. рођендан",
+        "hover_text": "Google-ов 25. рођендан!",
+        "share_text": "#GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Google-ov 25. rođendan",
+        "hover_text": "Google-ov 25. rođendan!",
+        "share_text": "Google-ov 25. rođendan! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "Google හි 25 වැනි උපන් දිනය",
+        "hover_text": "Google හි 25 වැනි උපන් දිනය!",
+        "share_text": "Google හි 25 වැනි උපන් දිනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "25. výročie vzniku Googlu",
+        "hover_text": "25. výročie vzniku Googlu.",
+        "share_text": "25. výročie vzniku Googlu. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Googlov 25. rojstni dan",
+        "hover_text": "Googlov 25. rojstni dan!",
+        "share_text": "Googlov 25. rojstni dan! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "25.º aniversario del nacimiento de Google",
+        "hover_text": "Hoy es el 25.º aniversario del nacimiento de Google",
+        "share_text": "Hoy es el 25.º aniversario del nacimiento de Google #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Miaka 25 tangu kuanzishwa kwa Google",
+        "hover_text": "Miaka 25 tangu Kuanzishwa kwa Google!",
+        "share_text": "Miaka 25 tangu kuanzishwa kwa Google! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Google 25 år",
+        "hover_text": "Google 25 år",
+        "share_text": "#GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Google's 25th birthday",
+        "hover_text": "Googleளின் 25வது பிறந்தநாள்!",
+        "share_text": "Googleளின் 25வது பிறந்தநாள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "గూగుల్",
+        "hover_text": "గూగుల్ 25వ జన్మదినం",
+        "share_text": "గూగుల్ 25వ జన్మదినం! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันเกิดปีที่ 25 ของ Google",
+        "hover_text": "วันเกิดปีที่ 25 ของ Google!",
+        "share_text": "วันเกิดปีที่ 25 ของ Google! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Google'ın 25. Doğum Günü",
+        "hover_text": "Google'ın 25. Doğum Günü!",
+        "share_text": "Google'ın 25. Doğum Günü! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "25 років Google",
+        "hover_text": "25 років Google",
+        "share_text": "25 років Google! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Google کی 25ویں سالگرہ",
+        "hover_text": "Google کی 25ویں سالگرہ!",
+        "share_text": "Google کی 25ویں سالگرہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Google 25 yoshda",
+        "hover_text": "Google 25 yoshda!",
+        "share_text": "Google 25 yoshda! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Sinh nhật lần thứ 25 của Google",
+        "hover_text": "Sinh nhật lần thứ 25 của Google!",
+        "share_text": "Sinh nhật lần thứ 25 của Google! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lokuzalwa lwama-25",
+        "hover_text": "Usuku Lokuzalwa lwe-Google lwama-25!",
+        "share_text": "Usuku lokuzalwa lwe-Google lwama-25! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "It's Google's 25th birthday",
+    "share_text": "Google's 25th birthday! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-todd-matshikiza",
     "title": "Celebrating Todd Matshikiza",
     "url": "//www.google.com/logos/doodles/2023/celebrating-todd-matshikiza-6753651837109942.2-l.png",
