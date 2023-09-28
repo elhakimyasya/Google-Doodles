@@ -1,5 +1,504 @@
 [
   {
+    "name": "teachers-day-2023-sep-28",
+    "title": "Teachers' Day 2023 (Sep 28)",
+    "url": "//www.google.com/logos/doodles/2023/teachers-day-2023-sep-28-6753651837109943-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/D1XHvL16Y8vwAuCLWcPPTXxbQjvBGjysT41I8pMSekmiVYgs9xq9c6DKF6lAoUmgTnuh5tCLOLnBXJUFfHhbR1JCNMHtK2E-6aQPqvlCpjSWu5FerVJBPYU",
+    "high_res_url": "//www.google.com/logos/doodles/2023/teachers-day-2023-sep-28-6753651837109943-2xa.gif",
+    "high_res_width": 920,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      9,
+      28
+    ],
+    "translations": {
+      "en": {
+        "query": "Taiwan Teachers' Day",
+        "hover_text": "Teachers' Day 2023 (Sep 28)",
+        "share_text": "Happy Teachers' Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Taiwan se onderwysersdag",
+        "hover_text": "Onderwysersdag 2023 (28 Sep.)",
+        "share_text": ""
+      },
+      "sq": {
+        "query": "Dita e Mësuesit në Tajvan",
+        "hover_text": "Dita e Mësuesit, 2023 (28 shtator)",
+        "share_text": ""
+      },
+      "am": {
+        "query": "የታይዋን የመምህራን ቀን",
+        "hover_text": "የመምህራን ቀን 2023 (ሴፕቴምበር 28)",
+        "share_text": ""
+      },
+      "ar": {
+        "query": "عيد المعلّم في تايوان",
+        "hover_text": "عيد المعلّم 2023 (28 أيلول/سبتمبر)",
+        "share_text": ""
+      },
+      "hy": {
+        "query": "Թայվանի ուսուցիչների օր",
+        "hover_text": "Ուսուցիչների օր 2023 (սեպտեմբերի 28)",
+        "share_text": ""
+      },
+      "az": {
+        "query": "Tayvan Müəllimlər Günü",
+        "hover_text": "2023 Müəllimlər Günü (28 sentyabr)",
+        "share_text": ""
+      },
+      "bn": {
+        "query": "তাইওয়ানের শিক্ষক দিবস",
+        "hover_text": "শিক্ষক দিবস ২০২৩ (২৮ সেপ্টেম্বর)",
+        "share_text": ""
+      },
+      "eu": {
+        "query": "Taiwango Irakasleen Eguna",
+        "hover_text": "2023ko Irakasleen Eguna (irailaren 28a)",
+        "share_text": ""
+      },
+      "be": {
+        "query": "Дзень настаўніка ў Тайвані",
+        "hover_text": "Дзень настаўніка 2023 (28 верасня)",
+        "share_text": ""
+      },
+      "bs": {
+        "query": "Dan nastavnika na Tajvanu",
+        "hover_text": "Dan nastavnika 2023. (28. sep)",
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": "Taiwan Teachers' Day",
+        "hover_text": "Teachers' Day 2023 (28 Sept)",
+        "share_text": ""
+      },
+      "bg": {
+        "query": "Ден на учителя в Тайван",
+        "hover_text": "Ден на учителя 2023 г. (28 септември)",
+        "share_text": ""
+      },
+      "my": {
+        "query": "ထိုင်ဝမ်နိုင်ငံ ဆရာများနေ့",
+        "hover_text": "၂၀၂၃ ဆရာများနေ့ (စက်တင်ဘာ ၂၈)",
+        "share_text": ""
+      },
+      "ca": {
+        "query": "Dia del Mestre a Taiwan",
+        "hover_text": "Dia del Mestre 2023 (28 de setembre)",
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": "台灣教師日",
+        "hover_text": "2023 年教師日 (9 月 28 日)",
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": "教師節",
+        "hover_text": "2023 教師節",
+        "share_text": "教師節快樂! #GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "台湾教师节",
+        "hover_text": "2023 年教师节（9 月 28 日）",
+        "share_text": ""
+      },
+      "hr": {
+        "query": "Dan učitelja na Tajvanu",
+        "hover_text": "Dan učitelja 2023. (28. rujna)",
+        "share_text": ""
+      },
+      "cs": {
+        "query": "Den učitelů na Tchaj-wanu",
+        "hover_text": "Den učitelů 2023 (28. září)",
+        "share_text": ""
+      },
+      "da": {
+        "query": "Lærernes dag i Taiwan",
+        "hover_text": "Lærernes dag 2023 (28. september)",
+        "share_text": ""
+      },
+      "nl": {
+        "query": "Dag van de Leraar in Taiwan",
+        "hover_text": "Dag van de Leraar 2023 (28 sep)",
+        "share_text": ""
+      },
+      "et": {
+        "query": "Taiwani õpetajate päev",
+        "hover_text": "2023. aasta õpetajate päev (28. september)",
+        "share_text": ""
+      },
+      "fi": {
+        "query": "Taiwanin opettajien päivä",
+        "hover_text": "Opettajien päivä 2023 (28.9.)",
+        "share_text": ""
+      },
+      "fr": {
+        "query": "Journée des professeurs à Taïwan",
+        "hover_text": "Journée des professeurs 2023 (28 septembre)",
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": "Journée des enseignantes et des enseignants de Taïwan",
+        "hover_text": "Journée des enseignantes et des enseignants 2023 (28 septembre)",
+        "share_text": ""
+      },
+      "gl": {
+        "query": "Día do Mestre de Taiwán",
+        "hover_text": "Día do Mestre 2023 (28 de setembro)",
+        "share_text": ""
+      },
+      "ka": {
+        "query": "ტაივანის მასწავლებელთა დღე",
+        "hover_text": "მასწავლებლის დღე 2023 (28 სექტემბერი)",
+        "share_text": ""
+      },
+      "de": {
+        "query": "Tag der Lehrer in Taiwan",
+        "hover_text": "Tag der Lehrer 2023 (28. September)",
+        "share_text": ""
+      },
+      "el": {
+        "query": "Ημέρα Εκπαιδευτικών της Ταϊβάν",
+        "hover_text": "Ημέρα Εκπαιδευτικών 2023 (28 Σεπτεμβρίου)",
+        "share_text": ""
+      },
+      "gu": {
+        "query": "તાઇવાનનો શિક્ષક દિવસ",
+        "hover_text": "શિક્ષક દિવસ 2023 (28 સપ્ટેમ્બર)",
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום המורה בטייוואן",
+        "hover_text": "יום המורה 2023 (28 בספטמבר)",
+        "share_text": ""
+      },
+      "hi": {
+        "query": "ताइवान का शिक्षक दिवस",
+        "hover_text": "शिक्षक दिवस 2023 (28 सितंबर)",
+        "share_text": ""
+      },
+      "hu": {
+        "query": "Pedagógusnap Tajvanon",
+        "hover_text": "Pedagógusnap, 2023 (szeptember 28.)",
+        "share_text": ""
+      },
+      "is": {
+        "query": "Kennaradagurinn í Taívan",
+        "hover_text": "Kennaradagurinn 2023 (28. september)",
+        "share_text": ""
+      },
+      "id": {
+        "query": "Hari Guru Taiwan",
+        "hover_text": "Hari Guru 2023 (28 September)",
+        "share_text": ""
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Festa degli insegnanti Taiwan",
+        "hover_text": "Festa degli insegnanti 2023 (28 settembre)",
+        "share_text": ""
+      },
+      "ja": {
+        "query": "台湾の教師の日",
+        "hover_text": "2023 年教師の日（9 月 28 日）",
+        "share_text": ""
+      },
+      "kn": {
+        "query": "ತೈವಾನ್‌ನ ಶಿಕ್ಷಕರ ದಿನ",
+        "hover_text": "ಶಿಕ್ಷಕರ ದಿನಾಚರಣೆ 2023 (ಸೆಪ್ಟೆಂಬರ್ 28)",
+        "share_text": ""
+      },
+      "kk": {
+        "query": "Тайуандағы мұғалімдер күні",
+        "hover_text": "Мұғалімдер күні – 2023 (28 қыркүйек)",
+        "share_text": ""
+      },
+      "km": {
+        "query": "ទិវាគ្រូបង្រៀននៅតៃវ៉ាន់",
+        "hover_text": "ទិវាគ្រូបង្រៀនឆ្នាំ 2023 (28 កញ្ញា)",
+        "share_text": ""
+      },
+      "ko": {
+        "query": "타이완 스승의 날",
+        "hover_text": "2023년 스승의 날(9월 28일)",
+        "share_text": ""
+      },
+      "ky": {
+        "query": "Тайвандагы Мугалимдер күнү",
+        "hover_text": "Мугалимдер күнү – 2023 (28-сентябрь)",
+        "share_text": ""
+      },
+      "lo": {
+        "query": "ວັນຄູຂອງໄຕ້ຫວັນ",
+        "hover_text": "ວັນຄູ 2023 (28 ກັນຍາ)",
+        "share_text": ""
+      },
+      "es-419": {
+        "query": "Día del Maestro de Taiwán",
+        "hover_text": "Día del Maestro 2023 (28 de septiembre)",
+        "share_text": ""
+      },
+      "lv": {
+        "query": "Skolotāju diena Taivānā",
+        "hover_text": "Skolotāju diena — 2023. gada 28. septembris",
+        "share_text": ""
+      },
+      "lt": {
+        "query": "Mokytojų diena (Taivanas)",
+        "hover_text": "Mokytojų diena, 2023 m. (rugsėjo 28 d.)",
+        "share_text": ""
+      },
+      "mk": {
+        "query": "Ден на наставниците во Тајван",
+        "hover_text": "Ден на наставниците, 2023 г. (28 сеп.)",
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Hari Guru Taiwan",
+        "hover_text": "Hari Guru 2023 (28 Sep)",
+        "share_text": ""
+      },
+      "ml": {
+        "query": "തായ്‌വാൻ അധ്യാപക ദിനം",
+        "hover_text": "അധ്യാപക ദിനം 2023 (സെപ്റ്റംബർ 28)",
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "तैवानचा शिक्षकदिन",
+        "hover_text": "शिक्षकदिन २०२३ (२८ सप्टेंबर)",
+        "share_text": ""
+      },
+      "mn": {
+        "query": "Тайваний Багш нарын өдөр",
+        "hover_text": "2023 оны Багш нарын өдөр (9-р сарын 28)",
+        "share_text": ""
+      },
+      "ne": {
+        "query": "ताइवानको शिक्षक दिवस",
+        "hover_text": "शिक्षक दिवस २०२३ (सेप्टेम्बर २८)",
+        "share_text": ""
+      },
+      "no": {
+        "query": "Lærernes dag (Taiwan)",
+        "hover_text": "Lærernes dag 2023 (28. september)",
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ତାଇୱାନର ଗୁରୁ ଦିବସ",
+        "hover_text": "ଗୁରୁ ଦିବସ 2023 (ସେପ୍ଟେମ୍ବର 28)",
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز معلم تایوان",
+        "hover_text": "روز معلم - ۲۰۲۳ (۲۸ سپتامبر)",
+        "share_text": ""
+      },
+      "pl": {
+        "query": "Dzień Nauczyciela (Tajwan)",
+        "hover_text": "Dzień Nauczyciela 2023 (28 września)",
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": "Dia do Professor em Taiwan",
+        "hover_text": "Dia do Professor 2023 (28 de setembro)",
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": "Dia dos Professores de Taiwan",
+        "hover_text": "Dia dos Professores de 2023 (28 de setembro)",
+        "share_text": ""
+      },
+      "pa": {
+        "query": "ਤਾਈਵਾਨ ਦਾ ਅਧਿਆਪਕ ਦਿਵਸ",
+        "hover_text": "ਅਧਿਆਪਕ ਦਿਵਸ 2023 (28 ਸਤੰਬਰ)",
+        "share_text": ""
+      },
+      "ro": {
+        "query": "Ziua Profesorului în Taiwan",
+        "hover_text": "Ziua Profesorului 2023 (28 sept.)",
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День учителя на Тайване",
+        "hover_text": "День учителя – 2023 (28 сентября)",
+        "share_text": ""
+      },
+      "sr": {
+        "query": "Дан учитеља на Тајвану",
+        "hover_text": "Дан учитеља 2023. (28. септембар)",
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": "Dan učitelja na Tajvanu",
+        "hover_text": "Dan učitelja 2023. (28. septembar)",
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "තායිවානයේ ගුරු දිනය",
+        "hover_text": "ගුරු දිනය 2023 (සැප් 28)",
+        "share_text": ""
+      },
+      "sk": {
+        "query": "Deň učiteľov na Taiwane",
+        "hover_text": "Deň učiteľov 2023 (28. september)",
+        "share_text": ""
+      },
+      "sl": {
+        "query": "Dan učiteljev na Tajvanu",
+        "hover_text": "Dan učiteljev 2023 (28. september)",
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día del Maestro en Taiwán",
+        "hover_text": "Día del Maestro 2023 (28 de septiembre)",
+        "share_text": ""
+      },
+      "sw": {
+        "query": "Siku ya Walimu nchini Taiwani",
+        "hover_text": "Siku ya Walimu 2023 (Tarehe 28 Septemba)",
+        "share_text": ""
+      },
+      "sv": {
+        "query": "Lärarnas dag i Taiwan",
+        "hover_text": "Lärarnas dag 2023 (28 sep)",
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Taiwan Teachers' Day",
+        "hover_text": "ஆசிரியர் தினம் 2023 (செப்டம்பர் 28)",
+        "share_text": ""
+      },
+      "te": {
+        "query": "తైవాన్ ఉపాధ్యాయుల దినోత్సవం",
+        "hover_text": "ఉపాధ్యాయుల దినోత్సవం 2023 (సెప్టెంబర్ 28)",
+        "share_text": ""
+      },
+      "th": {
+        "query": "วันครูไต้หวัน",
+        "hover_text": "วันครูปี 2023 (28 กันยายน)",
+        "share_text": ""
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Tayvan Öğretmenler Günü",
+        "hover_text": "Öğretmenler Günü 2023 (28 Eylül)",
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День учителя в Тайвані",
+        "hover_text": "День учителя у 2023 році (28 вересня)",
+        "share_text": ""
+      },
+      "ur": {
+        "query": "تائیوان یوم اساتذہ",
+        "hover_text": "یوم اساتذہ 2023 (28 ستمبر)",
+        "share_text": ""
+      },
+      "uz": {
+        "query": "Tayvanda oʻqituvchilar kuni",
+        "hover_text": "Oʻqituvchilar kuni 2023 (28-sentabr)",
+        "share_text": ""
+      },
+      "vi": {
+        "query": "Ngày Nhà giáo ở Đài Loan",
+        "hover_text": "Ngày Nhà giáo năm 2023 (ngày 28 tháng 9)",
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lothisha lwase-Taiwan",
+        "hover_text": "Usuku Lothisha lwango-2023 (28 Sep)",
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Taiwan Teachers' Day",
+    "share_text": "Happy Teachers' Day! #GoogleDoodle"
+  },
+  {
     "name": "googles-25th-birthday",
     "title": "Google's 25th Birthday!",
     "url": "//www.google.com/logos/doodles/2023/googles-25th-birthday-6753651837110114.2-law.gif",
@@ -69,7 +568,7 @@
         "share_text": "#GoogleDoodle"
       },
       "en-GB": {
-        "query": "Google's 25th birthday",
+        "query": "It's Google's 25th birthday",
         "hover_text": "Google's 25th Birthday",
         "share_text": "Google's 25th birthday! #GoogleDoodle"
       },
@@ -434,7 +933,7 @@
         "share_text": ""
       },
       "ta": {
-        "query": "Google's 25th birthday",
+        "query": "It's Google's 25th birthday",
         "hover_text": "Googleளின் 25வது பிறந்தநாள்!",
         "share_text": "Googleளின் 25வது பிறந்தநாள்! #GoogleDoodle"
       },
