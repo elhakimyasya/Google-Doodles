@@ -1,5 +1,1502 @@
 [
   {
+    "name": "slovakia-parliamentary-elections-2023",
+    "title": "Slovakia Parliamentary Elections 2023",
+    "url": "//www.google.com/logos/doodles/2023/slovakia-parliamentary-elections-2023-6753651837110156-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/4UKJNR_d2G-MyUrBZs20g_ZVatd4FDpIFu8hGSuEKeSXXcttj2V6ycPcnCfmmzUSk64nEDi6oA3nC3WoEMCMupIWUxHyx9zVp1Z2eILi-auGIOFcLWXhZQ",
+    "high_res_url": "//www.google.com/logos/doodles/2023/slovakia-parliamentary-elections-2023-6753651837110156-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      9,
+      30
+    ],
+    "translations": {
+      "en": {
+        "query": "Slovakia Parliamentary Elections 2023",
+        "hover_text": "Slovakia Parliamentary Elections 2023",
+        "share_text": "Slovakia Parliamentary Elections 2023! #GoogleDoodles"
+      },
+      "af": {
+        "query": "Slowakye se parlementêre verkiesing 2023",
+        "hover_text": null,
+        "share_text": "Slowakye se parlementêre verkiesing 2023! #GoogleDoodles"
+      },
+      "sq": {
+        "query": "Zgjedhjet parlamentare në Sllovaki, 2023",
+        "hover_text": null,
+        "share_text": "Zgjedhjet parlamentare në Sllovaki, 2023! #GoogleDoodles"
+      },
+      "am": {
+        "query": "የስሎቫኪያ ፓርላመንት ምርጫ 2023",
+        "hover_text": null,
+        "share_text": "የስሎቫኪያ ፓርላመንት ምርጫ 2023 2023! #GoogleDoodles"
+      },
+      "ar": {
+        "query": "الانتخابات البرلمانية في سلوفاكيا لعام 2023",
+        "hover_text": null,
+        "share_text": "انطلقت الانتخابات البرلمانية في سلوفاكيا لعام 2023. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Սլովակիայի խորհրդարանական ընտրություններ 2023",
+        "hover_text": null,
+        "share_text": "Սլովակիայի խորհրդարանական ընտրություններ 2023 #GoogleDoodles"
+      },
+      "az": {
+        "query": "2023 Slovakiya Parlament Seçkiləri",
+        "hover_text": null,
+        "share_text": "2023 Slovakiya Parlament Seçkiləri! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "স্লোভাকিয়া সংসদীয় নির্বাচন ২০২৩",
+        "hover_text": null,
+        "share_text": "স্লোভাকিয়া সংসদীয় নির্বাচন ২০২৩! #GoogleDoodles"
+      },
+      "eu": {
+        "query": "2023ko Eslovakiako hauteskunde orokorrak",
+        "hover_text": null,
+        "share_text": "2023ko Eslovakiako hauteskunde orokorrak #GoogleDoodle"
+      },
+      "be": {
+        "query": "Парламенцкія выбары ў Славакіі 2023",
+        "hover_text": null,
+        "share_text": "Парламенцкія выбары ў Славакіі 2023! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Parlamentarni izbori u Slovačkoj 2023.",
+        "hover_text": null,
+        "share_text": "Parlamentarni izbori u Slovačkoj 2023! #GoogleDoodles"
+      },
+      "en-GB": {
+        "query": "Slovakia Parliamentary Elections 2023",
+        "hover_text": null,
+        "share_text": "Slovakia Parliamentary Elections 2023! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Парламентарни избори в Словакия 2023 г.",
+        "hover_text": null,
+        "share_text": "Парламентарни избори в Словакия 2023 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "၂၀၂၃ ဆလိုဗက်ကီးယားနိုင်ငံ လွှတ်တော်ရွေးကောက်ပွဲများ",
+        "hover_text": null,
+        "share_text": "၂၀၂၃ ဆလိုဗက်ကီးယားနိုင်ငံ လွှတ်တော်ရွေးကောက်ပွဲများ။ #GoogleDoodles"
+      },
+      "ca": {
+        "query": "Eleccions al Parlament d'Eslovàquia 2023",
+        "hover_text": null,
+        "share_text": "Eleccions al Parlament d'Eslovàquia 2023 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "2023 年斯洛伐克議會選舉",
+        "hover_text": null,
+        "share_text": "2023 年斯洛伐克議會選舉！#GoogleDoodles"
+      },
+      "zh-TW": {
+        "query": "2023 年斯洛伐克議會大選",
+        "hover_text": null,
+        "share_text": "2023 年斯洛伐克議會大選！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "2023 年斯洛伐克议会选举",
+        "hover_text": null,
+        "share_text": "2023 年斯洛伐克议会选举！#GoogleDoodles"
+      },
+      "hr": {
+        "query": "Slovački parlamentarni izbori 2023.",
+        "hover_text": null,
+        "share_text": "Slovački parlamentarni izbori 2023.! #GoogleDoodles"
+      },
+      "cs": {
+        "query": "Slovenské parlamentní volby 2023",
+        "hover_text": null,
+        "share_text": "Na Slovensku se konají parlamentní volby 2023! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Parlamentsvalg i Slovakiet 2023",
+        "hover_text": null,
+        "share_text": "Parlamentsvalg i Slovakiet 2023 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Parlementsverkiezingen in Slowakije 2023",
+        "hover_text": null,
+        "share_text": "De parlementsverkiezingen in Slowakije van 2023! #GoogleDoodles"
+      },
+      "et": {
+        "query": "Slovakkia 2023. aasta parlamendivalimised",
+        "hover_text": null,
+        "share_text": "Slovakkia 2023. aasta parlamendivalimised! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Slovakian parlamenttivaalit 2023",
+        "hover_text": null,
+        "share_text": "Slovakian parlamenttivaalit 2023 #GoogleDoodles"
+      },
+      "fr": {
+        "query": "Élections parlementaires 2023 en Slovaquie",
+        "hover_text": null,
+        "share_text": "Élections parlementaires 2023 en Slovaquie ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Élections législatives de Slovaquie 2023",
+        "hover_text": null,
+        "share_text": "Élections législatives de Slovaquie 2023! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Eleccións parlamentarias de Eslovaquia 2023",
+        "hover_text": null,
+        "share_text": "Eleccións parlamentarias de Eslovaquia 2023! #GoogleDoodles"
+      },
+      "ka": {
+        "query": "სლოვაკეთის საპარლამენტო არჩევნები – 2023",
+        "hover_text": null,
+        "share_text": "სლოვაკეთის საპარლამენტო არჩევნები – 2023! #GoogleDoodles"
+      },
+      "de": {
+        "query": "Parlamentswahl in der Slowakei 2023",
+        "hover_text": null,
+        "share_text": "Parlamentswahl in der Slowakei 2023! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Βουλευτικές εκλογές στη Σλοβακία 2023",
+        "hover_text": null,
+        "share_text": "Βουλευτικές εκλογές στη Σλοβακία 2023! #GoogleDoodles"
+      },
+      "gu": {
+        "query": "સ્લોવેકિયાની સંસદની ચૂંટણીઓ 2023",
+        "hover_text": null,
+        "share_text": "સ્લોવેકિયાની સંસદની ચૂંટણીઓ 2023! #GoogleDoodles"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "בחירות לפרלמנט בסלובקיה 2023",
+        "hover_text": null,
+        "share_text": "בחירות לפרלמנט בסלובקיה 2023 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "स्लोवाकिया का संसदीय चुनाव 2023",
+        "hover_text": null,
+        "share_text": "स्लोवाकिया का संसदीय चुनाव 2023! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "2023-as parlamenti választások Szlovákiában",
+        "hover_text": "Szlovák parlamenti választások",
+        "share_text": "2023-as parlamenti választások Szlovákiában #GoogleDoodles"
+      },
+      "is": {
+        "query": "Þingkosningar í Slóvakíu 2023",
+        "hover_text": null,
+        "share_text": "Þingkosningar í Slóvakíu 2023! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Pemilu Parlemen Slovakia 2023",
+        "hover_text": null,
+        "share_text": "Pemilu Parlemen Slovakia 2023 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Elezioni parlamentari 2023 in Slovacchia",
+        "hover_text": null,
+        "share_text": "Elezioni parlamentari 2023 in Slovacchia! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "2023 年スロバキア議会選挙",
+        "hover_text": null,
+        "share_text": "2023 年スロバキア議会選挙 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "2023 ರ ಸ್ಲೋವಾಕಿಯಾ ಸಂಸತ್ತಿನ ಚುನಾವಣೆಗಳು",
+        "hover_text": null,
+        "share_text": "2023 ರ ಸ್ಲೋವಾಕಿಯಾ ಸಂಸತ್ತಿನ ಚುನಾವಣೆಗಳು! #GoogleDoodles"
+      },
+      "kk": {
+        "query": "Словакиядағы парламент сайлауы – 2023",
+        "hover_text": null,
+        "share_text": "Словакиядағы парламент сайлауы – 2023! #GoogleDoodles"
+      },
+      "km": {
+        "query": "ការបោះឆ្នោតជ្រើសតាំងសមាជិកសភាស្លូវ៉ាគីឆ្នាំ 2023",
+        "hover_text": null,
+        "share_text": "ការបោះឆ្នោតជ្រើសតាំងសមាជិកសភាស្លូវ៉ាគីឆ្នាំ 2023! #GoogleDoodles"
+      },
+      "ko": {
+        "query": "2023년 슬로바키아 총선",
+        "hover_text": null,
+        "share_text": "2023년 슬로바키아 총선 #GoogleDoodles"
+      },
+      "ky": {
+        "query": "Словакиянын Парламентине шайлоо – 2023",
+        "hover_text": null,
+        "share_text": "Словакиянын Парламентине шайлоо – 2023! #GoogleDoodles"
+      },
+      "lo": {
+        "query": "ການເລືອກຕັ້ງລັດຖະສະພາສະໂລວາເກຍ 2023",
+        "hover_text": null,
+        "share_text": "ການເລືອກຕັ້ງລັດຖະສະພາສະໂລວາເກຍ 2023! #GoogleDoodles"
+      },
+      "es-419": {
+        "query": "Elecciones parlamentarias de Eslovaquia 2023",
+        "hover_text": null,
+        "share_text": "Elecciones parlamentarias de Eslovaquia 2023 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Parlamenta vēlēšanas Slovākijā — 2023",
+        "hover_text": null,
+        "share_text": "Parlamenta vēlēšanas Slovākijā — 2023! #GoogleDoodles"
+      },
+      "lt": {
+        "query": "2023 m. Slovakijos parlamento rinkimai",
+        "hover_text": null,
+        "share_text": "2023 m. Slovakijos parlamento rinkimai! #GoogleDoodles"
+      },
+      "mk": {
+        "query": "Парламентарни избори во Словачка, 2023 г.",
+        "hover_text": null,
+        "share_text": "Парламентарни избори во Словачка, 2023 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Pilihan Raya Parlimen Slovakia 2023",
+        "hover_text": null,
+        "share_text": "Pilihan Raya Kebangsaan Slovakia 2023! #GoogleDoodles"
+      },
+      "ml": {
+        "query": "സ്ലോവാക്യ പാർലമെന്ററി തിരഞ്ഞെടുപ്പ് 2023",
+        "hover_text": null,
+        "share_text": "സ്ലോവാക്യ പാർലമെന്ററി തിരഞ്ഞെടുപ്പ് 2023! #GoogleDoodles"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "स्लोव्हाकियाच्या संसदीय निवडणुका २०२३",
+        "hover_text": null,
+        "share_text": "स्लोव्हाकियाच्या संसदीय निवडणुका २०२३! #GoogleDoodles"
+      },
+      "mn": {
+        "query": "2023 оны Словак Улсын Парламентын сонгууль",
+        "hover_text": null,
+        "share_text": "2023 оны Словак Улсын Парламентын сонгууль! #GoogleDoodles"
+      },
+      "ne": {
+        "query": "स्लोभाकियाको संसदीय निर्वाचन २०२३",
+        "hover_text": null,
+        "share_text": "स्लोभाकियाको संसदीय निर्वाचन २०२३! #GoogleDoodles"
+      },
+      "no": {
+        "query": "Parlamentsvalg i Slovakia 2023",
+        "hover_text": null,
+        "share_text": "Parlamentsvalg i Slovakia 2023! #GoogleDoodles"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ସ୍ଲୋଭାକିଆର ସଂସଦୀୟ ନିର୍ବାଚନ 2023",
+        "hover_text": null,
+        "share_text": "ସ୍ଲୋଭାକିଆର ସଂସଦୀୟ ନିର୍ବାଚନ 2023! #GoogleDoodles"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "انتخابات مجلس شورای اسلواکی ۲۰۲۳",
+        "hover_text": null,
+        "share_text": "انتخابات مجلس شورای اسلواکی ۲۰۲۳! ‎#GoogleDoodles"
+      },
+      "pl": {
+        "query": "Wybory parlamentarne 2023 w Słowacji",
+        "hover_text": null,
+        "share_text": "Wybory parlamentarne 2023 w Słowacji Doodle Google"
+      },
+      "pt-BR": {
+        "query": "Eleições parlamentares da Eslováquia 2023",
+        "hover_text": null,
+        "share_text": "Eleições parlamentares da Eslováquia 2023 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Eleições Parlamentares da Eslováquia de 2023",
+        "hover_text": null,
+        "share_text": "Eleições Parlamentares da Eslováquia de 2023! #GoogleDoodles"
+      },
+      "pa": {
+        "query": "ਸਲੋਵਾਕੀਆ ਦੀਆਂ ਸੰਸਦੀ ਚੋਣਾਂ 2023",
+        "hover_text": null,
+        "share_text": "ਸਲੋਵਾਕੀਆ ਦੀਆਂ ਸੰਸਦੀ ਚੋਣਾਂ 2023! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Alegeri parlamentare în Slovacia – 2023",
+        "hover_text": null,
+        "share_text": "Alegeri parlamentare în Slovacia – 2023! #GoogleDoodles"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Парламентские выборы в Словакии – 2023",
+        "hover_text": null,
+        "share_text": "Парламентские выборы в Словакии – 2023 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Парламентарни избори у Словачкој 2023.",
+        "hover_text": null,
+        "share_text": "Парламентарни избори у Словачкој 2023! #GoogleDoodles"
+      },
+      "sr-Latn": {
+        "query": "Parlamentarni izbori u Slovačkoj 2023.",
+        "hover_text": null,
+        "share_text": "Parlamentarni izbori u Slovačkoj 2023! #GoogleDoodles"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ස්ලෝවැකියාවේ පාර්ලිමේන්තු මැතිවරණය 2023",
+        "hover_text": null,
+        "share_text": "ස්ලෝවැකියාවේ පාර්ලිමේන්තු මැතිවරණය 2023! #GoogleDoodles"
+      },
+      "sk": {
+        "query": "Voľby do Národnej rady SR 2023",
+        "hover_text": "Voľby do Národnej rady SR 2023",
+        "share_text": "Voľby do Národnej rady SR 2023. #GoogleDoodles"
+      },
+      "sl": {
+        "query": "Slovaške parlamentarne volitve 2023",
+        "hover_text": null,
+        "share_text": "Slovaške parlamentarne volitve 2023! #GoogleDoodles"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Elecciones parlamentarias de Eslovaquia 2023",
+        "hover_text": null,
+        "share_text": "Hoy se celebran las elecciones parlamentarias de Eslovaquia 2023 #GoogleDoodles"
+      },
+      "sw": {
+        "query": "Uchaguzi wa Wabunge nchini Slovakia 2023",
+        "hover_text": null,
+        "share_text": "Uchaguzi wa Wabunge nchini Slovakia 2023! #GoogleDoodles"
+      },
+      "sv": {
+        "query": "Nationella val i Slovakien 2023",
+        "hover_text": null,
+        "share_text": "Nationella val i Slovakien 2023! #GoogleDoodles"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Slovakia Parliamentary Elections 2023",
+        "hover_text": null,
+        "share_text": "ஸ்லோவாக்கியா பாராளுமன்றத் தேர்தல்கள் 2023! #GoogleDoodles"
+      },
+      "te": {
+        "query": "2023 స్లోవేకియా పార్లమెంటరీ ఎన్నికలు",
+        "hover_text": null,
+        "share_text": "2023 స్లోవేకియా పార్లమెంటరీ ఎన్నికలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันเลือกตั้งสมาชิกรัฐสภาของสโลวาเกียปี 2023",
+        "hover_text": null,
+        "share_text": "วันเลือกตั้งสมาชิกรัฐสภาของสโลวาเกียปี 2023 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Slovakya Parlamento Seçimleri 2023",
+        "hover_text": null,
+        "share_text": "Slovakya Parlamento Seçimleri 2023 #GoogleDoodles"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Парламентські вибори в Словаччині у 2023 році",
+        "hover_text": null,
+        "share_text": "Парламентські вибори в Словаччині у 2023 році! #GoogleDoodles"
+      },
+      "ur": {
+        "query": "سلوواکیہ کے قومی انتخابات 2023",
+        "hover_text": null,
+        "share_text": "سلوواکیہ کے قومی انتخابات 2023! #GoogleDoodles"
+      },
+      "uz": {
+        "query": "Slovakiya parlament saylovi 2023",
+        "hover_text": null,
+        "share_text": "Slovakiya parlament saylovi 2023! #GoogleDoodles"
+      },
+      "vi": {
+        "query": "Bầu cử Quốc hội Slovakia năm 2023",
+        "hover_text": null,
+        "share_text": "Bầu cử Quốc hội Slovakia năm 2023! #GoogleDoodles"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ukhetho lwasephalamende yase-Slovakia lwango-2023",
+        "hover_text": null,
+        "share_text": "Ukhetho lwasephalamende yase-Slovakia lwango-2023! #GoogleDoodles"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Slovakia Parliamentary Elections 2023",
+    "share_text": "Slovakia Parliamentary Elections 2023! #GoogleDoodles"
+  },
+  {
+    "name": "ferdinand-berthiers-220th-birthday",
+    "title": "Ferdinand Berthier’s 220th Birthday",
+    "url": "//www.google.com/logos/doodles/2023/ferdinand-berthiers-220th-birthday-6753651837110086-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/bN3BafMVjvCNxD5xUU1MiNpOdd8wpP4xWNFPMcgRF0ZWahIoNr2cDSFyKpTbcgvLEeMvlQmbGKyOYGMRbHRSRTPrPe5ZR11p_igkZxNyBP87VJ4_Cx4XRQ",
+    "high_res_url": "//www.google.com/logos/doodles/2023/ferdinand-berthiers-220th-birthday-6753651837110086-2x.png",
+    "high_res_width": 1087,
+    "high_res_height": 460,
+    "run_date_array": [
+      2023,
+      9,
+      30
+    ],
+    "translations": {
+      "en": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "Ferdinand Berthier’s 220th Birthday",
+        "share_text": "Ferdinand Berthier’s 220th Birthday! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "Ferdinand Berthier se 220e verjaarsdag",
+        "share_text": "Ferdinand Berthier se 220e verjaarsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "220-vjetori i lindjes së Ferdinand Berthier",
+        "share_text": "220-vjetori i lindjes së Ferdinand Berthier! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ፈርዲናንድ ቤርቲር",
+        "hover_text": "የፈርዲናንድ ቤርቲር 220ኛ ልደት!",
+        "share_text": "የፈርዲናንድ ቤርቲር 220ኛ ልደት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "فرديناند بيرتييه",
+        "hover_text": "الذكرى 220 لميلاد \"فرديناند بيرتييه\"",
+        "share_text": "نحتفل اليوم بالذكرى 220 لميلاد \"فرديناند بيرتييه\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ֆերդինանդ Բերտյե",
+        "hover_text": "Ֆերդինանդ Բերտյեի ծննդյան 220-ամյակը",
+        "share_text": "Ֆերդինանդ Բերտյեի ծննդյան 220-ամյակը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "Ferdinand Berthier’in 220-ci ildönümü",
+        "share_text": "Ferdinand Berthier’in 220-ci ildönümü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ফার্দিনান্দ বার্থিয়ার",
+        "hover_text": "ফার্দিনান্দ বার্থিয়ারের ২২০তম জন্মদিন",
+        "share_text": "ফার্দিনান্দ বার্থিয়ারের ২২০তম জন্মদিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "Ferdinand Berthierren jaiotzaren 220. urteurrena",
+        "share_text": "Ferdinand Berthierren jaiotzaren 220. urteurrena #GoogleDoodle"
+      },
+      "be": {
+        "query": "Фердынан Берцье",
+        "hover_text": "220 гадоў з дня нараджэння Фердынана Берцье",
+        "share_text": "220 гадоў з дня нараджэння Фердынана Берцье! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "220 godina od rođenja Ferdinanda Berthiera",
+        "share_text": "220 godina od rođenja Ferdinanda Berthiera! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "Ferdinand Berthier’s 220th Birthday",
+        "share_text": "Ferdinand Berthier’s 220th Birthday! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Фердинанд Бертие",
+        "hover_text": "220 години от рождението на Фердинанд Бертие",
+        "share_text": "220 години от рождението на Фердинанд Бертие! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "Ferdinand Berthier ၏ နှစ် ၂၂၀ ပြည့်မွေးနေ့",
+        "share_text": "Ferdinand Berthier ၏ နှစ် ၂၂၀ ပြည့်မွေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "220è aniversari del naixement de Ferdinand Berthier",
+        "share_text": "220è aniversari del naixement de Ferdinand Berthier #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "Ferdinand Berthier 誕辰 220 週年",
+        "share_text": "Ferdinand Berthier 誕辰 220 週年！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "費迪南貝蒂埃",
+        "hover_text": "費迪南貝蒂埃 220 歲冥誕",
+        "share_text": "紀念費迪南貝蒂埃 220 歲冥誕！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "Ferdinand Berthier 诞辰 220 周年",
+        "share_text": "Ferdinand Berthier 诞辰 220 周年！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "220. godišnjica rođenja Ferdinanda Berthiera",
+        "share_text": "220. godišnjica rođenja Ferdinanda Berthiera! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "220. výročí narození Ferdinanda Berthiera",
+        "share_text": "Slavíme 220. výročí narození Ferdinanda Berthiera! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "Ferdinand Berthiers 220-års fødselsdag",
+        "share_text": "Ferdinand Berthiers 220-års fødselsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "220e geboortedag van Ferdinand Berthier",
+        "share_text": "De 220e geboortedag van Ferdinand Berthier! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "Ferdinand Berthier’ 220. sünniaastapäev",
+        "share_text": "Ferdinand Berthier’ 220. sünniaastapäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "220 vuotta Ferdinand Berthierin syntymästä",
+        "share_text": "220 vuotta Ferdinand Berthierin syntymästä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "Il y a 220 ans naissait Ferdinand Berthier",
+        "share_text": "220e anniversaire de Ferdinand Berthier #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "220ᵉ anniversaire de naissance de Ferdinand Berthier",
+        "share_text": "220ᵉ anniversaire de naissance de Ferdinand Berthier! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "220.º aniversario do nacemento de Ferdinand Berthier",
+        "share_text": "220.º aniversario do nacemento de Ferdinand Berthier! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ფერდინანდ ბერთიე",
+        "hover_text": "220 წელი ფერდინანდ ბერთიეს დაბადებიდან",
+        "share_text": "220 წელი ფერდინანდ ბერთიეს დაბადებიდან! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "220. Geburtstag von Ferdinand Berthier",
+        "share_text": "220. Geburtstag von Ferdinand Berthier! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "220 χρόνια από τη γέννηση του Ferdinand Berthier",
+        "share_text": "220 χρόνια από τη γέννηση του Ferdinand Berthier! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ફર્ડિનાન્ડ બર્થિઅર",
+        "hover_text": "ફર્ડિનાન્ડ બર્થિઅરનો 220મો જન્મદિવસ",
+        "share_text": "ફર્ડિનાન્ડ બર્થિઅરનો 220મો જન્મદિવસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "220 שנים להולדת פרדיננד ברטייה",
+        "share_text": "220 שנים להולדת פרדיננד ברטייה GoogleDoodle#"
+      },
+      "hi": {
+        "query": "फ़र्डिनैंड बर्टिए",
+        "hover_text": "फ़र्डिनैंड बर्टिए की 220वीं जयंती",
+        "share_text": "फ़र्डिनैंड बर्टिए की 220वीं जयंती! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "Ferdinand Berthier születésének 220. évfordulója",
+        "share_text": "Ferdinand Berthier születésének 220. évfordulója #GoogleDoodle"
+      },
+      "is": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "220 ár frá fæðingu Ferdinands Berthier",
+        "share_text": "220 ár frá fæðingu Ferdinands Berthier! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "Ulang Tahun Ke-220 Ferdinand Berthier",
+        "share_text": "Ulang Tahun Ke-220 Ferdinand Berthier #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "220ú Breithlá Ferdinand Berthier",
+        "share_text": "220ú Breithlá Ferdinand Berthier #GoogleDoodle"
+      },
+      "it": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "220° anniversario della nascita di Ferdinand Berthier",
+        "share_text": "220° anniversario della nascita di Ferdinand Berthier! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "フェルディナン・ベルチェ",
+        "hover_text": "フェルディナン・ベルチェ生誕 220 周年",
+        "share_text": "フェルディナン・ベルチェ生誕 220 周年 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಫರ್ಡಿನಾಂಡ್ ಬರ್ಥಿಯರ್",
+        "hover_text": "ಫರ್ಡಿನಾಂಡ್ ಬರ್ಥಿಯರ್ ಅವರ 220ನೇ ಜನ್ಮದಿನ",
+        "share_text": "ಫರ್ಡಿನಾಂಡ್ ಬರ್ಥಿಯರ್ ಅವರ 220ನೇ ಜನ್ಮದಿನ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Фердинанд Бертье",
+        "hover_text": "Фердинанд Бертьенің 220 жылдығы",
+        "share_text": "Фердинанд Бертьенің 220 жылдығы! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "ខួបកំណើតគម្រប់ 220 ឆ្នាំរបស់ Ferdinand Berthier",
+        "share_text": "ខួបកំណើតគម្រប់ 220 ឆ្នាំរបស់ Ferdinand Berthier! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "Ferdinand Berthier 탄생 220주년",
+        "share_text": "Ferdinand Berthier 탄생 220주년 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Фердинанд Бертье",
+        "hover_text": "Фердинанд Бертьенин 220 жаш мааракеси",
+        "share_text": "Фердинанд Бертьенин 220 жаш мааракеси! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 220 ປີຂອງ Ferdinand Berthier",
+        "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 220 ປີຂອງ Ferdinand Berthier! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "220º aniversario del nacimiento de Ferdinand Berthier",
+        "share_text": "220º aniversario del nacimiento de Ferdinand Berthier #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Ferdinands Bertjē",
+        "hover_text": "Ferdinanda Bertjē 220. dzimšanas diena",
+        "share_text": "Ferdinanda Bertjē 220. dzimšanas diena! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Ferdinandas Berthieras",
+        "hover_text": "220-asis Ferdinando Berthiero gimtadienis",
+        "share_text": "220-asis Ferdinando Berthiero gimtadienis! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "220. роденден на Ferdinand Berthier",
+        "share_text": "220. роденден на Ferdinand Berthier! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "Ulang Tahun Kelahiran Ferdinand Berthier yang ke-220",
+        "share_text": "Ulang Tahun Kelahiran Ferdinand Berthier yang ke-220! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഫെർഡിനാൻഡ് ബെർതിയർ",
+        "hover_text": "ഫെർഡിനാൻഡ് ബെർതിയറിന്റെ 220-ാം ജന്മദിനം",
+        "share_text": "ഫെർഡിനാൻഡ് ബെർതിയറിന്റെ 220-ാം ജന്മദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "फर्डिनांड बर्दियर",
+        "hover_text": "फर्डिनांड बर्दियर यांचा २२० वा स्मृतिदिन",
+        "share_text": "फर्डिनांड बर्दियर यांचा २२० वा स्मृतिदिन! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Фердинанд Бертиер",
+        "hover_text": "Фердинанд Бертиерийн мэндэлсний 220 жилийн ой",
+        "share_text": "Фердинанд Бертиерийн мэндэлсний 220 жилийн ой! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "Ferdinand Berthier को २२० औँ जन्मजयन्ती",
+        "share_text": "Ferdinand Berthier को २२० औँ जन्मजयन्ती! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "Ferdinand Berthiers 220-årsdag",
+        "share_text": "Ferdinand Berthiers 220-årsdag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଫର୍ଡିନାଣ୍ଡ ବର୍ଥିଅର",
+        "hover_text": "ଫର୍ଡିନାଣ୍ଡ ବର୍ଥିଅରଙ୍କ 220ତମ ଜନ୍ମଦିନ",
+        "share_text": "ଫର୍ଡିନାଣ୍ଡ ବର୍ଥିଅରଙ୍କ 220ତମ ଜନ୍ମଦିନ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "فردیناند برتییر",
+        "hover_text": "دویست‌وبیستمین زادروز فردیناند برتییر",
+        "share_text": "دویست‌وبیستمین زادروز فردیناند برتییر! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "Ferdinand Berthier – 220 rocznica urodzin",
+        "share_text": "Ferdinand Berthier – 220 rocznica urodzin #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "220º Aniversário de Ferdinand Berthier",
+        "share_text": "220º Aniversário de Ferdinand Berthier! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "220.º Aniversário de Ferdinand Berthier",
+        "share_text": "220.º Aniversário de Ferdinand Berthier! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "ਫਰਡੀਨੈਂਡ ਬਰਟੀਏ ਦਾ 220ਵਾਂ ਜਨਮਦਿਨ",
+        "share_text": "ਫਰਡੀਨੈਂਡ ਬਰਟੀਏ ਦਾ 220ਵਾਂ ਜਨਮਦਿਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "220 de ani de la nașterea lui Ferdinand Berthier",
+        "share_text": "220 de ani de la nașterea lui Ferdinand Berthier! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Фердинан Бертье",
+        "hover_text": "220 лет со дня рождения Фердинана Бертье",
+        "share_text": "220 лет со дня рождения Фердинана Бертье #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Фердинанд Бертје",
+        "hover_text": "220 година од рођења Фердинанда Бертјеа",
+        "share_text": "220 година од рођења Фердинанда Бертјеа! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Ferdinand Bertje",
+        "hover_text": "220 godina od rođenja Ferdinanda Bertjea",
+        "share_text": "220 godina od rođenja Ferdinanda Bertjea! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ෆර්ඩිනන්ඩ් බර්තියර්",
+        "hover_text": "ෆර්ඩිනන්ඩ් බර්තියර්ගේ 220 වැනි උපන් දිනය",
+        "share_text": "ෆර්ඩිනන්ඩ් බර්තියර්ගේ 220 වැනි උපන් දිනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "220. výročie narodenia Ferdinanda Berthiera",
+        "share_text": "220. výročie narodenia Ferdinanda Berthiera. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "220. rojstni dan Ferdinanda Berthierja",
+        "share_text": "220. rojstni dan Ferdinanda Berthierja! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "220.º aniversario del nacimiento de Ferdinand Berthier",
+        "share_text": "Hoy es el 220.º aniversario del nacimiento de Ferdinand Berthier #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "Miaka 220 Tangu Kuzaliwa kwa Ferdinand Berthier",
+        "share_text": "Miaka 220 Tangu Kuzaliwa kwa Ferdinand Berthier! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "Ferdinand Berthier 220 år",
+        "share_text": "Ferdinand Berthier 220 år! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "ஃபெர்டினான்ட் பெர்த்தியேவின் 220வது பிறந்தநாள்",
+        "share_text": "ஃபெர்டினான்ட் பெர்த்தியேவின் 220வது பிறந்தநாள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఫర్డినాండ్ బర్దియర్",
+        "hover_text": "ఫర్డినాండ్ బర్దియర్ 220వ జయంతి",
+        "share_text": "ఫర్డినాండ్ బర్దియర్ 220వ జయంతి! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "วันเกิดปีที่ 220 ของ Ferdinand Berthier",
+        "share_text": "วันเกิดปีที่ 220 ของ Ferdinand Berthier #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "Ferdinand Berthier'in 220. Doğum Günü",
+        "share_text": "Ferdinand Berthier'in 220. Doğum Günü #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Фердинанд Бертьє",
+        "hover_text": "220 років від дня народження Фердинанда Бертьє",
+        "share_text": "220 років від дня народження Фердинанда Бертьє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "Ferdinand Berthier کی 220 ویں سالگرہ",
+        "share_text": "Ferdinand Berthier کی 220 ویں سالگرہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "Ferdinand Berthier tavalludining 220 yilligi",
+        "share_text": "Ferdinand Berthier tavalludining 220 yilligi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ferdinand Berthier",
+        "hover_text": "Kỷ niệm 220 năm ngày sinh Ferdinand Berthier",
+        "share_text": "Kỷ niệm 220 năm ngày sinh Ferdinand Berthier! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Ferdinand Berthier",
+        "hover_text": "Usuku Lokuzalwa luka-Ferdinand Berthier Lweminyaka engama-220",
+        "share_text": "Usuku Lokuzalwa luka-Ferdinand Berthier Lweminyaka engama-220! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Ferdinand Berthier",
+    "share_text": "Ferdinand Berthier’s 220th Birthday! #GoogleDoodle"
+  },
+  {
+    "name": "celebrating-the-ain-ghazal-statues",
+    "title": "Celebrating the Ain Ghazal Statues",
+    "url": "//www.google.com/logos/doodles/2023/celebrating-the-ain-ghazal-statues-6753651837109946.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/CmGCLnARi_dVmtnwc_iw9ZgJt8jEtJaOY8Ih64RG0wCWZyCGJm0VzTxfBM1JFmNUcqAr5o5V0lG_PvGJM_440uMXUalbI8QBa8NKhIbJLuFJjwXWxtBovw",
+    "high_res_url": "//www.google.com/logos/doodles/2023/celebrating-the-ain-ghazal-statues-6753651837109946-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2023,
+      9,
+      30
+    ],
+    "translations": {
+      "en": {
+        "query": "Ain Ghazal Statues",
+        "hover_text": "Celebrating the Ain Ghazal Statues",
+        "share_text": "Celebrating the Ain Ghazal Statues! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Ain Ghazal-standbeelde",
+        "hover_text": "Ter viering van die Ain Ghazal-standbeelde",
+        "share_text": "Ter viering van die Ain Ghazal-standbeelde! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Statujat e Ain Ghazal",
+        "hover_text": "Përkujtojmë statujat e Ain Ghazal",
+        "share_text": "Përkujtojmë statujat e Ain Ghazal! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የኤይን ጋዛል ሐውልቶች",
+        "hover_text": "የአይን ጋዛል ሐውልቶችን በማክበር ላይ",
+        "share_text": "የኤይን ጋዛል ሐውልቶችን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "تماثيل عين غزال",
+        "hover_text": "الاحتفال بتماثيل عين غزال",
+        "share_text": "نحتفل اليوم بتماثيل عين غزال. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Այն Ղազալի արձաններ",
+        "hover_text": "Այն Ղազալի արձաններ",
+        "share_text": "Տոնե՛նք Այն Ղազալի արձաններ #GoogleDoodle"
+      },
+      "az": {
+        "query": "Ain Ghazal Heykəlləri",
+        "hover_text": "Ain Ghazal Heykəlləri günü",
+        "share_text": "Ain Ghazal Heykəlləri günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "আইন গজলের ভাস্কর্য",
+        "hover_text": "আইন গজল ভাস্কর্যের ঐতিহ্য উদযাপন করা হচ্ছে",
+        "share_text": "আইন গজল ভাস্কর্যের ঐতিহ্য উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Ain Ghazalgo estatuak",
+        "hover_text": "Ain Ghazalgo estatuen omenez",
+        "share_text": "Ain Ghazalgo estatuen omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Статуі Айн-Газаля",
+        "hover_text": "Ушаноўваем статуі Айн-Газаля",
+        "share_text": "Ушаноўваем статуі Айн-Газаля! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Kipovi iz Ain Ghazala",
+        "hover_text": "Slavimo kipove iz Ain Ghazala",
+        "share_text": "Slavimo kipove iz Ain Ghazala! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Ain Ghazal statues",
+        "hover_text": "Celebrating the Ain Ghazal statues",
+        "share_text": "Celebrating the Ain Ghazal statues! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Статуите в Айн Газал",
+        "hover_text": "Честване на статуите в Айн Газал",
+        "share_text": "Честване на статуите в Айн Газал! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အန်းဂဇဲလ် ရုပ်တုများ",
+        "hover_text": "‘အန်းဂဇဲလ် ရုပ်တုများ’ ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "‘အန်းဂဇဲလ် ရုပ်တုများ’ ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Estàtues d'Ain Ghazal",
+        "hover_text": "Homenatge a les estàtues d'Ain Ghazal",
+        "share_text": "Homenatge a les estàtues d'Ain Ghazal #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "安加扎勒雕像",
+        "hover_text": "欣賞歷史悠久的安加扎勒雕像",
+        "share_text": "欣賞歷史悠久的安加扎勒雕像！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "安加扎勒雕像",
+        "hover_text": "紀念安加扎勒雕像出土",
+        "share_text": "紀念安加扎勒雕像出土！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "安加扎勒雕像",
+        "hover_text": "古老的安加扎勒雕像",
+        "share_text": "古老的安加扎勒雕像！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Kipovi Ain Ghazal",
+        "hover_text": "Slavimo kipove Ain Ghazal",
+        "share_text": "Slavimo kipove Ain Ghazal! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Sochy Ain Ghazal",
+        "hover_text": "Oslava soch Ain Ghazal",
+        "share_text": "Oslavujeme sochy Ain Ghazal! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Ain Ghazal-statuerne",
+        "hover_text": "Vi hylder Ain Ghazal-statuerne",
+        "share_text": "Vi hylder Ain Ghazal-statuerne #GoogleDoodle"
+      },
+      "nl": {
+        "query": "ʿAin Ghazal-beelden",
+        "hover_text": "Doodle ter ere van de ʿAin Ghazal-beelden",
+        "share_text": "Een doodle ter ere van de ʿAin Ghazal-beelden! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Ain Ghazali kujud",
+        "hover_text": "Austame Ain Ghazali kujusid",
+        "share_text": "Austame Ain Ghazali kujusid! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Ain Ghazalin patsaat",
+        "hover_text": "Ain Ghazalin patsaat",
+        "share_text": "Ain Ghazalin patsaat #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Statues de 'Ain Ghazal",
+        "hover_text": "Les statues de 'Ain Ghazal à l'honneur",
+        "share_text": "Les statues de 'Ain Ghazal à l'honneur ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Statues d'Ain Ghazal",
+        "hover_text": "Célébration des statues d'Ain Ghazal",
+        "share_text": "Célébration des statues d'Ain Ghazal! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Estatuas de Ain Ghazal",
+        "hover_text": "Homenaxe ás estatuas de Ain Ghazal",
+        "share_text": "Homenaxe ás estatuas de Ain Ghazal! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "აინ ღაზალის ქანდაკებები",
+        "hover_text": "აღვნიშნავთ აინ ღაზალის ქანდაკებების დღეს",
+        "share_text": "აღვნიშნავთ აინ ღაზალის ქანდაკებების დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Ain Ghazal-Statuen",
+        "hover_text": "Zur Feier der Ain Ghazal-Statuen",
+        "share_text": "Zur Feier der Ain Ghazal-Statuen! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Αγάλματα Ain Ghazal",
+        "hover_text": "Τιμούμε τα αγάλματα Ain Ghazal",
+        "share_text": "Τιμούμε τα αγάλματα Ain Ghazal! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "એઇન ગઝાલ સ્ટેચ્યુઝ",
+        "hover_text": "એઇન ગઝાલ સ્ટેચ્યુઝની ઉજવણી",
+        "share_text": "એઇન ગઝાલ સ્ટેચ્યુઝની ઉજવણી! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "פסלי עין ע'זאל",
+        "hover_text": "מחווה לפסלי עין ע'זאל",
+        "share_text": "מחווה לפסלי עין ע'זאל GoogleDoodle#"
+      },
+      "hi": {
+        "query": "आइन ग़ज़ाल की मूर्तियां",
+        "hover_text": "आइन ग़ज़ाल की मूर्तियों की शान में",
+        "share_text": "आइन ग़ज़ाल की मूर्तियों की शान में! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Ain Ghazal-szobrok",
+        "hover_text": "Az Ain Ghazal-szobrok ünneplése",
+        "share_text": "Az Ain Ghazal-szobrok ünneplése #GoogleDoodle"
+      },
+      "is": {
+        "query": "Ain Ghazal-styttur",
+        "hover_text": "Við fögnum Ain Ghazal-styttunum",
+        "share_text": "Við fögnum Ain Ghazal-styttunum! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Patung Ain Ghazal",
+        "hover_text": "Merayakan Patung Ain Ghazal",
+        "share_text": "Merayakan Patung Ain Ghazal #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Dealbha Ain Ghazal",
+        "hover_text": "Dealbha Ain Ghazal á gceiliúradh",
+        "share_text": "Dealbha Ain Ghazal á gceiliúradh #GoogleDoodle"
+      },
+      "it": {
+        "query": "Statue di Ain Ghazal",
+        "hover_text": "In onore delle statue di Ain Ghazal",
+        "share_text": "In onore delle statue di Ain Ghazal! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "アイン・ガザルの像",
+        "hover_text": "アイン・ガザルの像を称えて",
+        "share_text": "アイン・ガザルの像を称えて！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಐನ್ ಗಜಲ್ ಪ್ರತಿಮೆಗಳು",
+        "hover_text": "ಐನ್ ಗಜಲ್ ಪ್ರತಿಮೆಗಳನ್ನು ಸ್ಮರಿಸಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಐನ್ ಗಜಲ್ ಪ್ರತಿಮೆಗಳನ್ನು ಸ್ಮರಿಸಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Айн Ғазал мүсіндері",
+        "hover_text": "Айн Ғазал мүсіндері күні",
+        "share_text": "Айн Ғазал мүсіндері күні! #GoogleDoodle"
+      },
+      "km": {
+        "query": "រូបសំណាកអៃន៍ហាហ្សល់",
+        "hover_text": "អបអរទិវារំលឹករូបសំណាកអៃន៍ហាហ្សល់",
+        "share_text": "អបអរទិវារំលឹករូបសំណាកអៃន៍ហាហ្សល់! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "아인 가잘 조각상",
+        "hover_text": "아인 가잘 조각상 기념",
+        "share_text": "아인 가잘 조각상 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Айн-Газаль айкелдери",
+        "hover_text": "Айн-Газаль айкелдери күнүн майрамдоо",
+        "share_text": "Айн-Газаль айкелдери күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ຮູບປັ້ນ Ain Ghazal",
+        "hover_text": "ສະເຫຼີມສະຫຼອງຮູບປັ້ນ Ain Ghazal",
+        "share_text": "ສະເຫຼີມສະຫຼອງຮູບປັ້ນ Ain Ghazal! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Estatuas de Ain Ghazal",
+        "hover_text": "Celebrando las estatuas de Ain Ghazal",
+        "share_text": "Celebrando las estatuas de Ain Ghazal #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Ain Ghazal statujas",
+        "hover_text": "Ain Ghazal statuju godināšana",
+        "share_text": "Ain Ghazal statuju godināšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Ain Gazalio statulos",
+        "hover_text": "Ain Gazalio statulų minėjimas",
+        "share_text": "Ain Gazalio statulų minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ain Ghazal Statues",
+        "hover_text": "Во чест на Ain Ghazal Statues",
+        "share_text": "Во чест на Ain Ghazal Statues! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Patung Ain Ghazal",
+        "hover_text": "Meraikan Patung Ain Ghazal",
+        "share_text": "Meraikan Patung Ain Ghazal! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഐൻ ഗസൽ പ്രതിമകൾ",
+        "hover_text": "ഐൻ ഗസൽ പ്രതിമകൾ ആഘോഷമാക്കുന്നു",
+        "share_text": "ഐൻ ഗസൽ പ്രതിമകൾ ആഘോഷമാക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "ऐन गझाल येथील पुतळे",
+        "hover_text": "ऐन गझाल येथील पुतळ्यांच्या सन्मानार्थ",
+        "share_text": "ऐन गझाल येथील पुतळ्यांच्या सन्मानार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Айн Гхазалын хөшөөнүүд",
+        "hover_text": "Айн Гхазалын хөшөөнүүдийн өдрийг тэмдэглэж байна",
+        "share_text": "Айн Гхазалын хөшөөнүүдийн өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Ain Ghazal का मूर्तिहरू",
+        "hover_text": "Ain Ghazal का मूर्तिहरूको उत्सव",
+        "share_text": "Ain Ghazal का मूर्तिहरूको उत्सव! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Ain Ghazal-statuene",
+        "hover_text": "Vi retter oppmerksomheten mot Ain Ghazal-statuene",
+        "share_text": "Vi retter oppmerksomheten mot Ain Ghazal-statuene! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଏଇନ ଗଜଲ ମୂର୍ତ୍ତିଗୁଡ଼ିକ",
+        "hover_text": "ଏଇନ ଗଜଲ ମୂର୍ତ୍ତିଗୁଡ଼ିକର ଉତ୍ସବ ପାଳନ କରାଯାଉଛି",
+        "share_text": "ଏଇନ ଗଜଲ ମୂର୍ତ୍ତିଗୁଡ଼ିକର ଉତ୍ସବ ପାଳନ କରାଯାଉଛି! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "تندیس‌های عین غزال",
+        "hover_text": "بزرگداشت تندیس‌های عین غزال",
+        "share_text": "بزرگداشت تندیس‌های عین غزال! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Posągi z Ain Ghazal",
+        "hover_text": "Podziwiamy posągi z Ain Ghazal",
+        "share_text": "Podziwiamy posągi z Ain Ghazal #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Estátuas de Ain Ghazal",
+        "hover_text": "Viva as estátuas de Ain Ghazal",
+        "share_text": "Viva as estátuas de Ain Ghazal #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Estátuas de Ain Ghazal",
+        "hover_text": "Celebração das Estátuas de Ain Ghazal",
+        "share_text": "Celebração das Estátuas de Ain Ghazal! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Ain Ghazal Statues",
+        "hover_text": "ਏਨ ਗਜ਼ਲ ਦੀਆਂ ਮੂਰਤੀਆਂ ਦਾ ਜਸ਼ਨ",
+        "share_text": "ਏਨ ਗਜ਼ਲ ਦੀਆਂ ਮੂਰਤੀਆਂ ਦਾ ਜਸ਼ਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Statuile de la Ain Ghazal",
+        "hover_text": "În cinstea statuilor de la Ain Ghazal",
+        "share_text": "În cinstea statuilor de la Ain Ghazal! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Статуи из Айн-Газаля",
+        "hover_text": "Статуи из Айн-Газаля",
+        "share_text": "Статуи из Айн-Газаля #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Статуе из Аин Газала",
+        "hover_text": "Славимо статуе из Аин Газала",
+        "share_text": "Славимо статуе из Аин Газала! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Statue iz Ain Gazala",
+        "hover_text": "Slavimo statue iz Ain Gazala",
+        "share_text": "Slavimo statue iz Ain Gazala! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "අයින් ගසල් ප්‍රතිමා",
+        "hover_text": "අයින් ගසල් ප්‍රතිමා සැමරීම",
+        "share_text": "අයින් ගසල් ප්‍රතිමා සැමරීම! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Sošky z Ain Ghazal",
+        "hover_text": "Oslavujeme sochy z Ain Ghazal",
+        "share_text": "Oslavujeme sochy z Ain Ghazal. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Kipi iz Aina Ghazala",
+        "hover_text": "Slavimo kipe iz Aina Ghazala",
+        "share_text": "Slavimo kipe iz Aina Ghazala! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Estatuas de Ain Ghazal",
+        "hover_text": "Homenaje a las estatuas de Ain Ghazal",
+        "share_text": "Hoy rendimos homenaje a las estatuas de Ain Ghazal #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sanamu za Ain Ghazal",
+        "hover_text": "Tunaenzi Sanamu za Ain Ghazal",
+        "share_text": "Tunaenzi Sanamu za Ain Ghazal! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Ayn Ghazal-statyerna",
+        "hover_text": "Vi hyllar Ayn Ghazal-statyerna",
+        "share_text": "Vi hyllar Ayn Ghazal-statyerna! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Ain Ghazal Statues",
+        "hover_text": "ஐன் கஸால் சிலைகளைக் கொண்டாடுவோம்",
+        "share_text": "ஐன் கஸால் சிலைகளைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఆయిన్ గజాల్ విగ్రహాలు",
+        "hover_text": "ఆయిన్ గజాల్ విగ్రహాల వైభవ వేడుకలు",
+        "share_text": "ఆయిన్ గజాల్ విగ్రహాల వైభవ వేడుకలు #GoogleDoodle"
+      },
+      "th": {
+        "query": "รูปปั้นโบราณแห่ง Ain Ghazal",
+        "hover_text": "วันเฉลิมฉลองรูปปั้นโบราณแห่ง Ain Ghazal",
+        "share_text": "วันเฉลิมฉลองรูปปั้นโบราณแห่ง Ain Ghazal #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Ain Ghazal Heykelleri",
+        "hover_text": "Ain Ghazal Heykelleri Kutlaması",
+        "share_text": "Ain Ghazal Heykelleri Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Статуї Айн-Газаля",
+        "hover_text": "Ушановуємо статуї Айн-Газаля",
+        "share_text": "Ушановуємо статуї Айн-Газаля! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "عین غزال کے مجسمے",
+        "hover_text": "عین غزال کے مجسموں کا جشن",
+        "share_text": "عین غزال کے مجسموں کا جشن! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Ain Ghazal haykallari",
+        "hover_text": "Ain Ghazal haykallari kuni",
+        "share_text": "Ain Ghazal haykallari kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Những bức tượng Ain Ghazal",
+        "hover_text": "Tôn vinh những bức tượng Ain Ghazal",
+        "share_text": "Tôn vinh những bức tượng Ain Ghazal! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Imifanekiso ye-Ain Ghazal",
+        "hover_text": "Sibungaza Imifanekiso ye-Ain Ghaza",
+        "share_text": "Sibungaza Imifanekiso ye-Ain Ghazal #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Ain Ghazal Statues",
+    "share_text": "Celebrating the Ain Ghazal Statues! #GoogleDoodle"
+  },
+  {
     "name": "mid-autumn-festival-2023-vietnam",
     "title": "Mid-Autumn Festival 2023 (Vietnam)",
     "url": "//www.google.com/logos/doodles/2023/mid-autumn-festival-2023-vietnam-6753651837110117-law.gif",
@@ -185,8 +1682,8 @@
       },
       "hu": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Őszközépünnep, 2023",
+        "share_text": "Őszközépünnep, 2023. #GoogleDoodle"
       },
       "is": {
         "query": null,
@@ -390,8 +1887,8 @@
       },
       "si": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "2023 මධ්‍ය ශරත් ඍතුවේ උත්සවය",
+        "share_text": "මධ්‍ය ශරත් ඍතුවේ උත්සවය 2023 #GoogleDoodle"
       },
       "sk": {
         "query": null,
@@ -425,8 +1922,8 @@
       },
       "sv": {
         "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Månfesten 2023",
+        "share_text": "Månfesten 2023! #GoogleDoodle"
       },
       "tg": {
         "query": null,
@@ -2884,7 +4381,7 @@
         "share_text": ""
       },
       "si": {
-        "query": null,
+        "query": "අද Google හි 25 වැනි උපන් දිනයයි",
         "hover_text": "Google හි 25 වැනි උපන් දිනය!",
         "share_text": "Google හි 25 වැනි උපන් දිනය! #GoogleDoodle"
       },
