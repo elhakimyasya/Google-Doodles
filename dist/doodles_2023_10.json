@@ -1,5 +1,1003 @@
 [
   {
+    "name": "karol-szymanowskis-141st-birthday",
+    "title": "Karol Szymanowski's 141st Birthday",
+    "url": "//www.google.com/logos/doodles/2023/karol-szymanowskis-141st-birthday-6753651837109949-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/zs7BhtTNQZavn_PP7pBUi6dAfUYZBSaMsT6IteuECyZamo0S7M8x7PuufJWv7GTfvxcCez85WpE4uQOy9ou-h-fyfYettK6N_ZApVWH43kW4X6mLT_6qSQ",
+    "high_res_url": "//www.google.com/logos/doodles/2023/karol-szymanowskis-141st-birthday-6753651837109949-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2023,
+      10,
+      3
+    ],
+    "translations": {
+      "en": {
+        "query": "Karol Szymanowski",
+        "hover_text": "Karol Szymanowski's 141st Birthday",
+        "share_text": "Karol Szymanowski's 141st Birthday! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Karol Szymanowski",
+        "hover_text": "Karol Szymanowski se 141e verjaarsdag",
+        "share_text": "Karol Szymanowski se 141e verjaarsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Karol Szymanowski",
+        "hover_text": "141-vjetori i lindjes së Karol Szymanowski",
+        "share_text": "141-vjetori i lindjes së Karol Szymanowski! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ካሮል ሺማኖቭስኪ",
+        "hover_text": "የካሮል ሺማኖቭስኪ 141ኛ ልደት",
+        "share_text": "የካሮል ሺማኖቭስኪ 141ኛ ልደት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "كارول شيمانوفسكي",
+        "hover_text": "الذكرى 141 لميلاد \"كارول شيمانوفسكي\"",
+        "share_text": "يصادف اليوم الذكرى 141 لميلاد \"كارول شيمانوفسكي\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Կարոլ Շիմանովսկի",
+        "hover_text": "Կարոլ Շիմանովսկու ծննդյան 141-ամյակը",
+        "share_text": "Կարոլ Շիմանովսկու ծննդյան 141-ամյակը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Karol Szymanowski",
+        "hover_text": "Karol Szymanowski'nin 141-ci ildönümü",
+        "share_text": "Karol Szymanowski'nin 141-ci ildönümü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ক্যারল স্যামানোস্কি",
+        "hover_text": "ক্যারল স্যামানোস্কির ১৪১তম জন্মদিন",
+        "share_text": "ক্যারল স্যামানোস্কির ১৪১তম জন্মদিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Karol Szymanowski",
+        "hover_text": "Karol Szymanowskiren jaiotzaren 141. urteurrena",
+        "share_text": "Karol Szymanowskiren jaiotzaren 141. urteurrena #GoogleDoodle"
+      },
+      "be": {
+        "query": "Караль Шыманоўскі",
+        "hover_text": "141 год з дня нараджэння Караля Шыманоўскага",
+        "share_text": "141 год з дня нараджэння Караля Шыманоўскага! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Karol Szymanowski",
+        "hover_text": "141 godina od rođenja Karola Szymanowskog",
+        "share_text": "141 godina od rođenja Karola Szymanowskog! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Karol Szymanowski",
+        "hover_text": "Karol Szymanowski's 141st birthday",
+        "share_text": "Karol Szymanowski's 141st birthday! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Карол Шимановски",
+        "hover_text": "141 години от рождението на Карол Шимановски",
+        "share_text": "141 години от рождението на Карол Шимановски! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Karol Szymanowski",
+        "hover_text": "Karol Szymanowski ၏ ၁၄၁ နှစ်မြောက်မွေးနေ့",
+        "share_text": "Karol Szymanowski ၏ ၁၄၁ နှစ်မြောက်မွေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Karol Szymanowski",
+        "hover_text": "141è aniversari del naixement de Karol Szymanowski",
+        "share_text": "141è aniversari del naixement de Karol Szymanowski #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Karol Szymanowski",
+        "hover_text": "Karol Szymanowski 誕辰 141 週年",
+        "share_text": "Karol Szymanowski 誕辰 141 週年！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "卡羅爾史曼諾夫斯基",
+        "hover_text": "卡羅爾史曼諾夫斯基 141 歲冥誕",
+        "share_text": "紀念卡羅爾史曼諾夫斯基 141 歲冥誕！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "卡罗尔·希曼诺夫斯基",
+        "hover_text": "卡罗尔·希曼诺夫斯基诞辰 141 周年",
+        "share_text": "卡罗尔·希曼诺夫斯基诞辰 141 周年！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Karol Szymanowski",
+        "hover_text": "141. godišnjica rođenja Karola Szymanowskog",
+        "share_text": "141. godišnjica rođenja Karola Szymanowskog! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Karol Szymanowski",
+        "hover_text": "141. výročí narození Karla Szymanowského",
+        "share_text": "141. výročí narození Karla Szymanowského! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Karol Szymanowski",
+        "hover_text": "Karol Szymanowskis 141-års fødselsdag",
+        "share_text": "Karol Szymanowskis 141-års fødselsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Karol Szymanowski",
+        "hover_text": "141e geboortedag van Karol Szymanowski",
+        "share_text": "De 141e geboortedag van Karol Szymanowski! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Karol Szymanowski",
+        "hover_text": "Karol Szymanowski 141. sünniaastapäev",
+        "share_text": "Karol Szymanowski 141. sünniaastapäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Karol Szymanowski",
+        "hover_text": "141 vuotta Karol Szymanowskin syntymästä",
+        "share_text": "141 vuotta Karol Szymanowskin syntymästä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Karol Szymanowski",
+        "hover_text": "Il y a 141 ans naissait Karol Szymanowski",
+        "share_text": "141e anniversaire de Karol Szymanowski #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Karol Szymanowski",
+        "hover_text": "141ᵉ anniversaire de naissance de Karol Szymanowski",
+        "share_text": "141ᵉ anniversaire de naissance de Karol Szymanowski! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Karol Szymanowski",
+        "hover_text": "141.º aniversario do nacemento de Karol Szymanowski",
+        "share_text": "141.º aniversario do nacemento de Karol Szymanowski! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "კაროლ შიმანოვსკი",
+        "hover_text": "141 წელი კაროლ შიმანოვსკის დაბადებიდან",
+        "share_text": "141 წელი კაროლ შიმანოვსკის დაბადებიდან! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Karol Szymanowski",
+        "hover_text": "141. Geburtstag von Karol Szymanowski",
+        "share_text": "141. Geburtstag von Karol Szymanowski! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Karol Szymanowski",
+        "hover_text": "141 χρόνια από τη γέννηση του Karol Szymanowski",
+        "share_text": "141 χρόνια από τη γέννηση του Karol Szymanowski! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "કૅરોલ શિમાનોવ્સ્કી",
+        "hover_text": "કૅરોલ શિમાનોવ્સ્કીનો 141મો જન્મદિવસ",
+        "share_text": "કૅરોલ શિમાનોવ્સ્કીનો 141મો જન્મદિવસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "קרול שימנובסקי",
+        "hover_text": "141 שנים להולדת קרול שימנובסקי",
+        "share_text": "141 שנים להולדת קרול שימנובסקי GoogleDoodle#"
+      },
+      "hi": {
+        "query": "कैरल शिम्नोफ़्स्की",
+        "hover_text": "कैरल शिम्नोफ़्स्की की 141वीं जयंती",
+        "share_text": "कैरल शिम्नोफ़्स्की की 141वीं जयंती! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Karol Szymanowski",
+        "hover_text": "Karol Szymanowski születésének 141. évfordulója",
+        "share_text": "Karol Szymanowski születésének 141. évfordulója #GoogleDoodle"
+      },
+      "is": {
+        "query": "Karol Szymanowski",
+        "hover_text": "141 ár frá fæðingu Karol Szymanowski",
+        "share_text": "141 ár frá fæðingu Karol Szymanowski! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Karol Szymanowski",
+        "hover_text": "Ulang Tahun Ke-141 Karol Szymanowski",
+        "share_text": "Ulang Tahun Ke-141 Karol Szymanowski #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Karol Szymanowski ",
+        "hover_text": "Karol Szymanowski 141ú lá breithe",
+        "share_text": "Karol Szymanowski 141ú lá breithe! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Karol Szymanowski",
+        "hover_text": "141° anniversario della nascita di Karol Szymanowski",
+        "share_text": "141° anniversario della nascita di Karol Szymanowski! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "カロル・シマノフスキ",
+        "hover_text": "カロル・シマノフスキ生誕 141 周年",
+        "share_text": "カロル・シマノフスキ生誕 141 周年 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಕರೋಲ್ ಸಿಮಾನೋವ್ಸ್‌ಕಿ",
+        "hover_text": "ಕರೋಲ್ ಸಿಮಾನೋವ್ಸ್‌ಕಿ ಅವರ 141ನೇ ಜನ್ಮದಿನ",
+        "share_text": "ಕರೋಲ್ ಸಿಮಾನೋವ್ಸ್‌ಕಿ ಅವರ 141ನೇ ಜನ್ಮದಿನ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Кароль Шимановский",
+        "hover_text": "Кароль Шимановскийдің 141 жылдығы",
+        "share_text": "Кароль Шимановскийдің 141 жылдығы #GoogleDoodle"
+      },
+      "km": {
+        "query": "Karol Szymanowski",
+        "hover_text": "ខួបកំណើតគម្រប់ 141 ឆ្នាំរបស់ Karol Szymanowski",
+        "share_text": "ខួបកំណើតគម្រប់ 141 ឆ្នាំរបស់ Karol Szymanowski! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Karol Szymanowski",
+        "hover_text": "Karol Szymanowski 탄생 141주년",
+        "share_text": "Karol Szymanowski 탄생 141주년 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Кароль Шимановский",
+        "hover_text": "Кароль Шимановскийдин 141 жаш мааракеси",
+        "share_text": "Кароль Шимановскийдин 141 жаш мааракеси! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Karol Szymanowski",
+        "hover_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 141 ປີຂອງ Karol Szymanowski",
+        "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 141 ປີຂອງ Karol Szymanowski! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Karol Szymanowski",
+        "hover_text": "141º aniversario del nacimiento de Karol Szymanowski",
+        "share_text": "¡141º aniversario del nacimiento de Karol Szymanowski! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Karols Šimanovskis",
+        "hover_text": "Karola Šimanovska 141. dzimšanas diena",
+        "share_text": "Karola Šimanovska 141. dzimšanas diena! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Karolis Szymanowskis",
+        "hover_text": "141-asis Karolio Szymanowskio gimtadienis",
+        "share_text": "141-asis Karolio Szymanowskio gimtadienis! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Karol Szymanowski",
+        "hover_text": "141. роденден на Karol Szymanowski",
+        "share_text": "141. роденден на Karol Szymanowski! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Karol Szymanowski",
+        "hover_text": "Ulang Tahun Kelahiran Karol Szymanowski yang ke-141",
+        "share_text": "Ulang Tahun Kelahiran Karol Szymanowski yang ke-141! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "കരോൾ ഷിമനോസ്‌കി",
+        "hover_text": "കരോൾ ഷിമനോസ്‌കിയുടെ 141-ാം ജന്മദിനം",
+        "share_text": "കരോൾ ഷിമനോസ്‌കിയുടെ 141-ാം ജന്മദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "कॅरल जिमनोव्हस्की",
+        "hover_text": "कॅरल जिमनोव्हस्की यांचा १४१ वा स्मृतिदिन",
+        "share_text": "कॅरल जिमनोव्हस्की यांचा १४१ वा स्मृतिदिन! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Карол Шимановский",
+        "hover_text": "Карол Шимановскийгийн мэндэлсний 141 жилийн ой",
+        "share_text": "Карол Шимановскийгийн мэндэлсний 141 жилийн ой! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Karol Szymanowski",
+        "hover_text": "Karol Szymanowski को १४१ औँ जन्मजयन्ती",
+        "share_text": "Karol Szymanowski को १४१ औँ जन्मजयन्ती! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Karol Szymanowski",
+        "hover_text": "Karol Szymanowskis 141-årsdag",
+        "share_text": "Karol Szymanowskis 141-årsdag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "କେରୋଲ ସିମାନୋସ୍କି",
+        "hover_text": "କେରୋଲ ସିମାନୋସ୍କିଙ୍କ 141ତମ ଜନ୍ମଦିନ",
+        "share_text": "କେରୋଲ ସିମାନୋସ୍କିଙ୍କ 141ତମ ଜନ୍ମଦିନ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "کارول شیمانوفسکی",
+        "hover_text": "صدوچهل‌ویکمین زادروز کارول شیمانوفسکی",
+        "share_text": "صدوچهل‌ویکمین زادروز کارول شیمانوفسکی! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Karol Szymanowski",
+        "hover_text": "Karol Szymanowski - 141 rocznica urodzin",
+        "share_text": "Karol Szymanowski – 141 rocznica urodzin #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Karol Szymanowski",
+        "hover_text": "141º aniversário de Karol Szymanowski",
+        "share_text": "141º aniversário de Karol Szymanowski #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Karol Szymanowski",
+        "hover_text": "141.º Aniversário de Karol Szymanowski",
+        "share_text": "141.º Aniversário de Karol Szymanowski! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Karol Szymanowski",
+        "hover_text": "ਕਾਲੋਰ ਸਿਮਾਨੋਵਸਕੀ ਦਾ 141ਵਾਂ ਜਨਮਦਿਨ",
+        "share_text": "ਕਾਲੋਰ ਸਿਮਾਨੋਵਸਕੀ ਦਾ 141ਵਾਂ ਜਨਮਦਿਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Karol Szymanowski",
+        "hover_text": "141 de ani de la nașterea lui Karol Szymanowski",
+        "share_text": "141 de ani de la nașterea lui Karol Szymanowski! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Кароль Шимановский",
+        "hover_text": "141 год со дня рождения Кароля Шимановского",
+        "share_text": "141 год со дня рождения Кароля Шимановского #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Карол Шимановски",
+        "hover_text": "141 година од рођења Карола Шимановског",
+        "share_text": "141 година од рођења Карола Шимановског! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Karol Šimanovski",
+        "hover_text": "141 godina od rođenja Karola Šimanovskog",
+        "share_text": "141 godina od rođenja Karola Šimanovskog! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "කැරොල් සිමනොව්ස්කි",
+        "hover_text": "කැරොල් සිමනොව්ස්කිගේ 141 වැනි උපන් දිනය",
+        "share_text": "කැරොල් සිමනොව්ස්කිගේ 141 වැනි උපන් දිනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Karol Szymanowski",
+        "hover_text": "141. výročie narodenia Karla Szymanowského",
+        "share_text": "141. výročie narodenia Karla Szymanowského. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Karol Szymanowski",
+        "hover_text": "141. rojstni dan Karola Szymanowskega",
+        "share_text": "141. rojstni dan Karola Szymanowskega! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Karol Szymanowski",
+        "hover_text": "141.º aniversario del nacimiento de Karol Szymanowski",
+        "share_text": "Hoy es el 141.º aniversario del nacimiento de Karol Szymanowski #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Karol Szymanowski",
+        "hover_text": "Miaka 141 Tangu Kuzaliwa Kwa Karol Szymanowski",
+        "share_text": "Miaka 141 Tangu Kuzaliwa Kwa Karol Szymanowski! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Karol Szymanowski",
+        "hover_text": "Karol Szymanowski 141 år",
+        "share_text": "Karol Szymanowski 141 år! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "கரோல் சிமானோவ்ஸ்கி",
+        "hover_text": "கரோல் சிமானோவ்ஸ்கியின் 141வது பிறந்தநாள்",
+        "share_text": "கரோல் சிமானோவ்ஸ்கியின் 141வது பிறந்தநாள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "కరోల్ షిమనౌస్కి",
+        "hover_text": "కరోల్ షిమనౌస్కి 141వ జయంతి",
+        "share_text": "కరోల్ షిమనౌస్కి 141వ జయంతి! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Karol Szymanowski",
+        "hover_text": "วันเกิดปีที่ 141 ของ Karol Szymanowski",
+        "share_text": "วันเกิดปีที่ 141 ของ Karol Szymanowski #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Karol Szymanowski",
+        "hover_text": "Karol Szymanowski'nin 141. Doğum Günü",
+        "share_text": "Karol Szymanowski'nin 141. Doğum Günü #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Кароль Шимановський",
+        "hover_text": "141 рік від дня народження Кароля Шимановського",
+        "share_text": "141 рік від дня народження Кароля Шимановського! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Karol Szymanowski",
+        "hover_text": "Karol Szymanowski کی 141 ویں سالگرہ",
+        "share_text": "Karol Szymanowski کی 141 ویں سالگرہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Karol Szymanowski",
+        "hover_text": "Karol Szymanowski tavalludining 141 yilligi",
+        "share_text": "Karol Szymanowski tavalludining 141 yilligi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Karol Szymanowski",
+        "hover_text": "Kỷ niệm 141 năm ngày sinh của Karol Szymanowski",
+        "share_text": "Kỷ niệm 141 năm ngày sinh của Karol Szymanowski! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Karol Szymanowski",
+        "hover_text": "Usuku lokuzwala luka-Karol Szymanowski lweminyaka eyi-141",
+        "share_text": "Usuku lokuzwala luka-Karol Szymanowski lweminyaka eyi-141! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Karol Szymanowski",
+    "share_text": "Karol Szymanowski's 141st Birthday! #GoogleDoodle"
+  },
+  {
+    "name": "german-unity-day-2023",
+    "title": "German Unity Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/german-unity-day-2023-6753651837110089.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/JH5geB_9rOsleNmXI97gZ0HI-lq3lftS8PC6I35clmizkd8zy9PLK8yoqMiaLfn4z4vl3GTH9o5k7VXJzBAU8J7GDWOzdB-H2qd1JyGmvXSI_sSttd1ocQ",
+    "high_res_url": "//www.google.com/logos/doodles/2023/german-unity-day-2023-6753651837110089-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2023,
+      10,
+      3
+    ],
+    "translations": {
+      "en": {
+        "query": "German Unity Day",
+        "hover_text": "German Unity Day 2023",
+        "share_text": "Happy Unity Day, Germany! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": "Duitse Eenheidsdag 2023",
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": "Dita e Bashkimit të Gjermanisë, 2023",
+        "share_text": ""
+      },
+      "am": {
+        "query": null,
+        "hover_text": "የጀርመን አንድነት ቀን 2023",
+        "share_text": ""
+      },
+      "ar": {
+        "query": null,
+        "hover_text": "يوم الوحدة الألمانية 2023",
+        "share_text": ""
+      },
+      "hy": {
+        "query": null,
+        "hover_text": "Գերմանիայի միասնության օր 2023",
+        "share_text": ""
+      },
+      "az": {
+        "query": null,
+        "hover_text": "2023 Almaniyanın Birləşməsi Günü",
+        "share_text": ""
+      },
+      "bn": {
+        "query": null,
+        "hover_text": "জার্মানির ঐক্য দিবস ২০২৩",
+        "share_text": ""
+      },
+      "eu": {
+        "query": null,
+        "hover_text": "2023ko Alemaniako Batasunaren Eguna",
+        "share_text": ""
+      },
+      "be": {
+        "query": null,
+        "hover_text": "Дзень нямецкага адзінства 2023",
+        "share_text": ""
+      },
+      "bs": {
+        "query": null,
+        "hover_text": "Dan ujedinjenja Njemačke 2023.",
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": "German Unity Day 2023",
+        "share_text": ""
+      },
+      "bg": {
+        "query": null,
+        "hover_text": "Ден на обединението на Германия 2023 г.",
+        "share_text": ""
+      },
+      "my": {
+        "query": null,
+        "hover_text": "၂၀၂၃ ဂျာမနီနိုင်ငံ အမျိုးသားနေ့",
+        "share_text": ""
+      },
+      "ca": {
+        "query": null,
+        "hover_text": "Dia de la Unitat Alemanya 2023",
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": "2023 年德國統一日",
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": "2023 年德國統一紀念日",
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": "2023 年德国统一日",
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": "Dan njemačkog jedinstva 2023.",
+        "share_text": ""
+      },
+      "cs": {
+        "query": null,
+        "hover_text": "Den sjednocení Německa 2023",
+        "share_text": ""
+      },
+      "da": {
+        "query": null,
+        "hover_text": "Tysklands genforeningsdag 2023",
+        "share_text": ""
+      },
+      "nl": {
+        "query": null,
+        "hover_text": "Dag van de Duitse eenheid 2023",
+        "share_text": ""
+      },
+      "et": {
+        "query": null,
+        "hover_text": "Saksamaa 2023. aasta ühtsuse päev",
+        "share_text": ""
+      },
+      "fi": {
+        "query": null,
+        "hover_text": "Saksan yhtenäisyyspäivä 2023",
+        "share_text": ""
+      },
+      "fr": {
+        "query": "Jour de la réunification de l'Allemagne",
+        "hover_text": "Jour de la réunification de l'Allemagne 2023",
+        "share_text": "Jour de la réunification de l'Allemagne 2023! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": "Jour de l'Unité allemande 2023",
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": "Día da Unidade Alemá 2023",
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": "გერმანიის გაერთიანების დღე — 2023",
+        "share_text": ""
+      },
+      "de": {
+        "query": "Tag der Deutschen Einheit",
+        "hover_text": "Tag der Deutschen Einheit 2023",
+        "share_text": "Alles Gute zur Einheit, Deutschland! #GoogleDoodle"
+      },
+      "el": {
+        "query": null,
+        "hover_text": "Ημέρα της Γερμανικής Ενότητας 2023",
+        "share_text": ""
+      },
+      "gu": {
+        "query": null,
+        "hover_text": "જર્મનીનો એકતા દિવસ 2023",
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": "יום האחדות הגרמנית 2023",
+        "share_text": ""
+      },
+      "hi": {
+        "query": null,
+        "hover_text": "जर्मनी का एकता दिवस 2023",
+        "share_text": ""
+      },
+      "hu": {
+        "query": null,
+        "hover_text": "A német egység napja, 2023",
+        "share_text": ""
+      },
+      "is": {
+        "query": null,
+        "hover_text": "Sameiningardagur Þýskalands 2023",
+        "share_text": ""
+      },
+      "id": {
+        "query": null,
+        "hover_text": "Hari Persatuan Jerman 2023",
+        "share_text": ""
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": "Giorno dell'unità tedesca 2023",
+        "share_text": ""
+      },
+      "ja": {
+        "query": null,
+        "hover_text": "2023 年ドイツ統一の日",
+        "share_text": ""
+      },
+      "kn": {
+        "query": null,
+        "hover_text": "ಜರ್ಮನ್ ಐಕ್ಯತಾ ದಿನಾಚರಣೆ 2023",
+        "share_text": ""
+      },
+      "kk": {
+        "query": null,
+        "hover_text": "Герман бірлігі күні – 2023",
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": "ទិវាបង្រួបបង្រួមជាតិអាល្លឺម៉ង់ឆ្នាំ 2023",
+        "share_text": ""
+      },
+      "ko": {
+        "query": null,
+        "hover_text": "2023년 독일 통일의 날",
+        "share_text": ""
+      },
+      "ky": {
+        "query": null,
+        "hover_text": "Германиянын Биримдүүлүк күнү — 2023",
+        "share_text": ""
+      },
+      "lo": {
+        "query": null,
+        "hover_text": "ວັນຮວມຊາດເຢຍລະມັນ 2023",
+        "share_text": ""
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": "Día de la Unidad Alemana 2023",
+        "share_text": ""
+      },
+      "lv": {
+        "query": null,
+        "hover_text": "Vācijas Vienības diena — 2023",
+        "share_text": ""
+      },
+      "lt": {
+        "query": null,
+        "hover_text": "Vokietijos susivienijimo diena, 2023 m.",
+        "share_text": ""
+      },
+      "mk": {
+        "query": null,
+        "hover_text": "Ден на германското единство, 2023 г.",
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": "Hari Perpaduan Jerman 2023",
+        "share_text": ""
+      },
+      "ml": {
+        "query": null,
+        "hover_text": "ജർമ്മൻ ഏകീകരണ ദിനം 2023",
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": "जर्मन युनिटी डे २०२३",
+        "share_text": ""
+      },
+      "mn": {
+        "query": null,
+        "hover_text": "2023 оны Герман Улс нэгдсэн өдөр",
+        "share_text": ""
+      },
+      "ne": {
+        "query": null,
+        "hover_text": "जर्मनीको एकता दिवस २०२३",
+        "share_text": ""
+      },
+      "no": {
+        "query": null,
+        "hover_text": "Tysklands gjenforeningsdag 2023",
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": "ଜର୍ମାନୀର ଏକତା ଦିବସ 2023",
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": "روز وحدت آلمان - ۲۰۲۳",
+        "share_text": ""
+      },
+      "pl": {
+        "query": null,
+        "hover_text": "Dzień Jedności Niemiec 2023",
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": "Dia da Unidade Alemã 2023",
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": "Dia da Reunificação da Alemanha de 2023",
+        "share_text": ""
+      },
+      "pa": {
+        "query": null,
+        "hover_text": "ਜਰਮਨ ਏਕਤਾ ਦਿਵਸ 2023",
+        "share_text": ""
+      },
+      "ro": {
+        "query": null,
+        "hover_text": "Ziua Unității Germane 2023",
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": "День германского единства – 2023",
+        "share_text": ""
+      },
+      "sr": {
+        "query": null,
+        "hover_text": "Дан уједињења Немачке 2023.",
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": "Dan ujedinjenja Nemačke 2023.",
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": "ජර්මානු එක්සත් දිනය 2023",
+        "share_text": ""
+      },
+      "sk": {
+        "query": null,
+        "hover_text": "Deň nemeckej jednoty 2023",
+        "share_text": ""
+      },
+      "sl": {
+        "query": null,
+        "hover_text": "Dan združitve obeh Nemčij 2023",
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": "Día de la Unidad Alemana 2023",
+        "share_text": ""
+      },
+      "sw": {
+        "query": null,
+        "hover_text": "Sikukuu ya Umoja wa Ujerumani 2023",
+        "share_text": ""
+      },
+      "sv": {
+        "query": null,
+        "hover_text": "Tyska enighetsdagen 2023",
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": "ஜெர்மனியின் ஒற்றுமை தினம் 2023",
+        "share_text": ""
+      },
+      "te": {
+        "query": null,
+        "hover_text": "జర్మన్ ఐక్యతా దినోత్సవం 2023",
+        "share_text": ""
+      },
+      "th": {
+        "query": null,
+        "hover_text": "วันรวมชาติเยอรมนีปี 2023",
+        "share_text": ""
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": "2023 Alman Birliği Günü",
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": "День німецької єдності у 2023 році",
+        "share_text": ""
+      },
+      "ur": {
+        "query": null,
+        "hover_text": "جرمنی کا یوم اتحاد 2023",
+        "share_text": ""
+      },
+      "uz": {
+        "query": null,
+        "hover_text": "Germaniya Birdamlik kuni 2023",
+        "share_text": ""
+      },
+      "vi": {
+        "query": null,
+        "hover_text": "Ngày Thống nhất nước Đức năm 2023",
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": "Usuku Lobumbano lwase-Germany lwango-2023",
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "German Unity Day",
+    "share_text": "Happy Unity Day, Germany! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-the-appalachian-trail",
     "title": "Celebrating the Appalachian Trail",
     "url": "//www.google.com/logos/doodles/2023/celebrating-the-appalachian-trail-6753651837110071.4-l.png",
