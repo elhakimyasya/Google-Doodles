@@ -1,5 +1,1003 @@
 [
   {
+    "name": "teachers-day-oct-5",
+    "title": "Teachers' Day (Oct 5)",
+    "url": "//www.google.com/logos/doodles/2023/teachers-day-oct-5-6753651837110144-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/tfHPLPxTHA7MtZRD6_w7B596cYDU86mSI8hZZ8Wys8X381UhuTQJBD4F5BuiKQht7y93LAmQ0nVKoWjaKcy1Lpa0_vNRZnSUywSgv9VgDmSNoij3e-pajQ",
+    "high_res_url": "//www.google.com/logos/doodles/2023/teachers-day-oct-5-6753651837110144-2xa.gif",
+    "high_res_width": 920,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      10,
+      5
+    ],
+    "translations": {
+      "en": {
+        "query": "Teachers' Day",
+        "hover_text": "Teachers' Day ",
+        "share_text": "Happy Teachers' Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "am": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ar": {
+        "query": "يوم المعلمين",
+        "hover_text": "يوم المعلمين",
+        "share_text": "يوم المعلمين! GoogleDoodle#"
+      },
+      "hy": {
+        "query": "Ուսուցչի օր",
+        "hover_text": "Ուսուցչի օր 2023",
+        "share_text": "Ուսուցչի օր 2023! #GoogleDoodle"
+      },
+      "az": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "eu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "be": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "my": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ca": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "cs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "da": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "nl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "et": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fr": {
+        "query": "Le jour du professeur",
+        "hover_text": "Le jour du professeur 2023",
+        "share_text": "Le jour du professeur 2023! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "de": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "el": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "is": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "id": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "giornata degli insegnanti",
+        "hover_text": "Giornata degli insegnanti",
+        "share_text": "Buona giornata degli insegnanti! #GoogleDoodle"
+      },
+      "ja": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "kn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "kk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ko": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ky": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lv": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ml": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ne": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "no": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ro": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sw": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sv": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "te": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "th": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ur": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uz": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "vi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Teachers' Day",
+    "share_text": "Happy Teachers' Day! #GoogleDoodle"
+  },
+  {
+    "name": "cricket-world-cup-2023-opening-day",
+    "title": "Cricket World Cup 2023 Opening Day",
+    "url": "//www.google.com/logos/doodles/2023/cricket-world-cup-2023-opening-day-6753651837110087-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/tF-oxsIkb8UTfQ7rNZv9dCABmq-ho--hr_Z4e5qi5H4gJbvSJ2lzht2F3IbvG87DYwxTkcQc2TwAalwEaLxiJGCNM4DNPAv7l0Qq0durxpWzSc_FvMWqbA",
+    "high_res_url": "//www.google.com/logos/doodles/2023/cricket-world-cup-2023-opening-day-6753651837110087-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      10,
+      5
+    ],
+    "translations": {
+      "en": {
+        "query": "Cricket World Cup",
+        "hover_text": "Cricket World Cup 2023 Opening Day",
+        "share_text": "Let the games begin! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Krieketwêreldbeker",
+        "hover_text": "Openingsdag van Krieketwêreldbeker 2023",
+        "share_text": ""
+      },
+      "sq": {
+        "query": "Kampionati Botëror i Kriketit",
+        "hover_text": "Dita e hapjes së Kampionatit Botëror të Kriketit, 2023",
+        "share_text": ""
+      },
+      "am": {
+        "query": "የክሪኬት ዓለም ዋንጫ",
+        "hover_text": "የክሪኬት ዓለም ዋንጫ 2023 መክፈቻ ቀን",
+        "share_text": ""
+      },
+      "ar": {
+        "query": "كأس العالم للكريكيت",
+        "hover_text": "يوم افتتاح كأس العالم للكريكيت 2023",
+        "share_text": ""
+      },
+      "hy": {
+        "query": "Կրիկետի աշխարհի առաջնություն",
+        "hover_text": "2023-ի կրիկետի աշխարհի առաջնության բացումը",
+        "share_text": ""
+      },
+      "az": {
+        "query": "Kriket üzrə Dünya Kuboku",
+        "hover_text": "2023 Kriket üzrə Dünya Kubokunun Açılış Günü",
+        "share_text": ""
+      },
+      "bn": {
+        "query": "ক্রিকেট বিশ্বকাপ",
+        "hover_text": "২০২৩ সালের বিশ্বকাপ উদ্বোধনের দিন",
+        "share_text": "২০২৩ সালের বিশ্বকাপ উদ্বোধনের দিন #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Munduko Kriket Txapelketa",
+        "hover_text": "2023ko Munduko Kriket Txapelketaren inaugurazioa",
+        "share_text": ""
+      },
+      "be": {
+        "query": "Чэмпіянат свету па крыкеце",
+        "hover_text": "Адкрыццё Чэмпіянату свету па крыкеце 2023",
+        "share_text": ""
+      },
+      "bs": {
+        "query": "Svjetsko prvenstvo u kriketu",
+        "hover_text": "Otvaranje Svjetskog prvenstva u kriketu 2023.",
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": "Cricket World Cup",
+        "hover_text": "Cricket World Cup 2023 Opening Day",
+        "share_text": "Let the games begin! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Световна купа по крикет",
+        "hover_text": "Ден на откриването на Световното първенство по крикет 2023 г.",
+        "share_text": ""
+      },
+      "my": {
+        "query": "ခရစ်ကက်ကမ္ဘာ့ဖလား",
+        "hover_text": "၂၀၂၃ ခရစ်ကက်ကမ္ဘာ့ဖလား ဖွင့်ပွဲနေ့",
+        "share_text": ""
+      },
+      "ca": {
+        "query": "Copa del Món de Criquet",
+        "hover_text": "Dia de la inauguració de la Copa del Món de criquet 2023",
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": "板球世界盃",
+        "hover_text": "2023 年板球世界盃開幕日",
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": "世界盃板球賽",
+        "hover_text": "2023 年世界盃板球賽開幕日",
+        "share_text": "2023 年世界盃板球賽開幕日! #GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "板球世界杯",
+        "hover_text": "2023 年板球世界杯开幕日",
+        "share_text": ""
+      },
+      "hr": {
+        "query": "Svjetsko prvenstvo u kriketu",
+        "hover_text": "Otvaranje svjetskog prvenstva u kriketu 2023.",
+        "share_text": ""
+      },
+      "cs": {
+        "query": "Mistrovství světa v kriketu",
+        "hover_text": "Zahájení Mistrovství světa v kriketu 2023",
+        "share_text": ""
+      },
+      "da": {
+        "query": "VM i cricket",
+        "hover_text": "VM i cricket 2023 – åbningsdag",
+        "share_text": ""
+      },
+      "nl": {
+        "query": "WK cricket",
+        "hover_text": "Openingsdag van het WK cricket 2023",
+        "share_text": ""
+      },
+      "et": {
+        "query": "Kriketi maailmameistrivõistlused",
+        "hover_text": "2023. aasta kriketi maailmameistrivõistluste avapäev",
+        "share_text": ""
+      },
+      "fi": {
+        "query": "Kriketin maailmanmestaruuskilpailut",
+        "hover_text": "Kriketin maailmanmestaruuskilpailut 2023 – avajaispäivä",
+        "share_text": ""
+      },
+      "fr": {
+        "query": "Coupe du monde de cricket",
+        "hover_text": "Journée d'ouverture de la Coupe du monde de cricket 2023",
+        "share_text": "Journée d'ouverture de la Coupe du monde de cricket 2023! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Coupe du monde de cricket",
+        "hover_text": "Journée d'ouverture de la Coupe du monde de cricket 2023",
+        "share_text": ""
+      },
+      "gl": {
+        "query": "Copa Mundial de Crícket",
+        "hover_text": "Día da inauguración da Copa Mundial de Crícket 2023",
+        "share_text": ""
+      },
+      "ka": {
+        "query": "მსოფლიო ჩემპიონატი კრიკეტში",
+        "hover_text": "კრიკეტში 2023 წლის მსოფლიო ჩემპიონატის გახსნა",
+        "share_text": ""
+      },
+      "de": {
+        "query": "Cricket World Cup",
+        "hover_text": "Eröffnungsfeier des Cricket World Cup 2023",
+        "share_text": ""
+      },
+      "el": {
+        "query": "Παγκόσμιο Κύπελλο Κρίκετ",
+        "hover_text": "Ημέρα έναρξης Παγκοσμίου Κυπέλλου Κρίκετ 2023",
+        "share_text": ""
+      },
+      "gu": {
+        "query": "ક્રિકેટ વર્લ્ડ કપ",
+        "hover_text": "ક્રિકેટ વર્લ્ડ કપ 2023ના ઉદ્ઘાટનનો દિવસ",
+        "share_text": "ક્રિકેટ વર્લ્ડ કપ 2023ના ઉદ્ઘાટનનો દિવસ #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "גביע העולם בקריקט",
+        "hover_text": "גביע העולם בקריקט לשנת 2023 – יום הפתיחה",
+        "share_text": ""
+      },
+      "hi": {
+        "query": "क्रिकेट वर्ल्ड कप",
+        "hover_text": "क्रिकेट वर्ल्ड कप 2023 का पहला दिन",
+        "share_text": "क्रिकेट वर्ल्ड कप 2023 का पहला दिन #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Krikett-világbajnokság",
+        "hover_text": "A 2023-as krikett-világbajnokság nyitónapja",
+        "share_text": ""
+      },
+      "is": {
+        "query": "HM í krikket",
+        "hover_text": "Opnunardagur HM í krikket 2023",
+        "share_text": ""
+      },
+      "id": {
+        "query": "Piala Dunia Kriket",
+        "hover_text": "Hari Pembukaan Piala Dunia Kriket 2023",
+        "share_text": ""
+      },
+      "ga": {
+        "query": "Corn an Domhain Cruicéid",
+        "hover_text": "Lá Oscailte Chorn an Domhain Cruicéid 2023",
+        "share_text": "Lig do na cluichí tosú! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Coppa del Mondo di cricket",
+        "hover_text": "Apertura della Coppa del Mondo di cricket 2023",
+        "share_text": ""
+      },
+      "ja": {
+        "query": "クリケット ワールドカップ",
+        "hover_text": "2023 年クリケット ワールドカップ開幕",
+        "share_text": ""
+      },
+      "kn": {
+        "query": "ಕ್ರಿಕೆಟ್ ವಿಶ್ವಕಪ್",
+        "hover_text": "ಕ್ರಿಕೆಟ್ ವಿಶ್ವಕಪ್ 2023 ಉದ್ಘಾಟನಾ ದಿನ",
+        "share_text": "ಕ್ರಿಕೆಟ್ ವಿಶ್ವಕಪ್ 2023 ಉದ್ಘಾಟನಾ ದಿನ #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Крикеттен әлем чемпионаты",
+        "hover_text": "2023 жылғы крикеттен әлем чемпионатының ашылу салтанаты",
+        "share_text": ""
+      },
+      "km": {
+        "query": "ការប្រកួតពានរង្វាន់​គ្រីឃីត​ពិភពលោក",
+        "hover_text": "ថ្ងៃបើកការប្រកួតពានរង្វាន់​គ្រីឃីត​ពិភពលោកឆ្នាំ 2023",
+        "share_text": ""
+      },
+      "ko": {
+        "query": "크리켓 월드컵",
+        "hover_text": "2023년 크리켓 월드컵 개막일",
+        "share_text": ""
+      },
+      "ky": {
+        "query": "Крикет боюнча дүйнөлүк кубок",
+        "hover_text": "2023-ж. Крикет боюнча дүйнөлүк кубоктун ачылыш күнү",
+        "share_text": ""
+      },
+      "lo": {
+        "query": "ຄຣິກເກັດເວີຄັບ",
+        "hover_text": "ມື້ເປີດງານຄຣິກເກັດເວີຄັບ 2023",
+        "share_text": ""
+      },
+      "es-419": {
+        "query": "Copa Mundial de Críquet",
+        "hover_text": "Día inaugural de la Copa Mundial de Críquet 2023",
+        "share_text": "Día inaugural de la Copa Mundial de Críquet 2023 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Pasaules kauss kriketā",
+        "hover_text": "2023. gada Pasaules kauss kriketā — atklāšanas diena",
+        "share_text": ""
+      },
+      "lt": {
+        "query": "Kriketo pasaulio taurė",
+        "hover_text": "Kriketo pasaulio taurės čempionato atidarymas, 2023 m.",
+        "share_text": ""
+      },
+      "mk": {
+        "query": "Светско првенство во крикет",
+        "hover_text": "Ден на отворањето на Светското првенство во крикет, 2023 г.",
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Piala Dunia Kriket",
+        "hover_text": "Hari Pembukaan Piala Dunia Kriket 2023",
+        "share_text": ""
+      },
+      "ml": {
+        "query": "ക്രിക്കറ്റ് ലോകകപ്പ്",
+        "hover_text": "ക്രിക്കറ്റ് ലോകകപ്പ് 2023 ഉദ്ഘാടന ദിവസം",
+        "share_text": "Día inaugural de la Copa Mundial de Críquet 2023 #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "क्रिकेट विश्वचषक",
+        "hover_text": "क्रिकेट विश्वचषक २०२३ चा पहिला दिवस",
+        "share_text": "क्रिकेट विश्वचषक २०२३ चा पहिला दिवस #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Крикетийн дэлхийн аварга шалгаруулах тэмцээн",
+        "hover_text": "2023 оны Крикетийн дэлхийн аварга шалгаруулах тэмцээний нээлтийн өдөр",
+        "share_text": ""
+      },
+      "ne": {
+        "query": "क्रिकेट विश्वकप",
+        "hover_text": "क्रिकेट विश्वकप २०२३ को उद्घाटन समारोह",
+        "share_text": "क्रिकेट विश्वकप २०२३ को उद्घाटन समारोह #GoogleDoodle"
+      },
+      "no": {
+        "query": "Cricket-VM",
+        "hover_text": "Åpningsdagen for cricket-VM 2023",
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "କ୍ରିକେଟ ବିଶ୍ୱ କପ",
+        "hover_text": "କ୍ରିକେଟ ବିଶ୍ୱକପ 2023 ଉଦଘାଟନ ଦିବସ",
+        "share_text": "କ୍ରିକେଟ ବିଶ୍ୱକପ 2023 ଉଦଘାଟନ ଦିବସ #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "جام جهانی کریکت",
+        "hover_text": "افتتاحیه جام جهانی کریکت ۲۰۲۳",
+        "share_text": ""
+      },
+      "pl": {
+        "query": "Mistrzostwa świata w krykiecie",
+        "hover_text": "Otwarcie Mistrzostw Świata 2023 w Krykiecie",
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": "Copa do Mundo de Críquete",
+        "hover_text": "Abertura da Copa do Mundo de Críquete 2023",
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": "Campeonato do Mundo de Críquete",
+        "hover_text": "Dia de Abertura do Campeonato do Mundo de Críquete de 2023",
+        "share_text": ""
+      },
+      "pa": {
+        "query": "ਕ੍ਰਿਕਟ ਵਿਸ਼ਵ ਕੱਪ",
+        "hover_text": "ਕ੍ਰਿਕਟ ਵਿਸ਼ਵ ਕੱਪ 2023 ਦਾ ਉਦਘਾਟਨ ਦਿਵਸ",
+        "share_text": "ਕ੍ਰਿਕਟ ਵਿਸ਼ਵ ਕੱਪ 2023 ਦਾ ਉਦਘਾਟਨ ਦਿਵਸ #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Cupa Mondială de Crichet",
+        "hover_text": "Prima zi a Cupei Mondiale de Crichet 2023",
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Чемпионат мира по крикету",
+        "hover_text": "Открытие чемпионата по крикету – 2023",
+        "share_text": ""
+      },
+      "sr": {
+        "query": "Светско првенство у крикету",
+        "hover_text": "Дан отварања Светског првенства у крикету 2023.",
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": "Svetsko prvenstvo u kriketu",
+        "hover_text": "Dan otvaranja Svetskog prvenstva u kriketu 2023.",
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ක්‍රිකට් ලෝක කුසලානය",
+        "hover_text": "ක්‍රිකට් ලෝක කුසලානය 2023 ආරම්භක දිනය",
+        "share_text": ""
+      },
+      "sk": {
+        "query": "Majstrovstvá sveta v krikete",
+        "hover_text": "Otvárací deň majstrovstiev sveta v krikete 2023",
+        "share_text": ""
+      },
+      "sl": {
+        "query": "Svetovni pokal v kriketu",
+        "hover_text": "Začetek svetovnega pokala v kriketu 2023",
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Copa Mundial de Críquet",
+        "hover_text": "Primer día de la Copa Mundial de Críquet 2023",
+        "share_text": "Primer día de la Copa Mundial de  #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Kombe la Dunia la Kriketi",
+        "hover_text": "Siku ya Ufunguzi wa Kombe la Dunia la Kriketi 2023",
+        "share_text": ""
+      },
+      "sv": {
+        "query": "VM i cricket",
+        "hover_text": "Invigningsdag för VM i cricket 2023",
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "கிரிக்கெட் உலகக் கோப்பை",
+        "hover_text": "2023 கிரிக்கெட் உலகக் கோப்பை - தொடக்க நாள்",
+        "share_text": "2023 கிரிக்கெட் உலகக் கோப்பை - தொடக்க நாள் #GoogleDoodle"
+      },
+      "te": {
+        "query": "క్రికెట్ ప్రపంచ కప్",
+        "hover_text": "క్రికెట్ ప్రపంచ కప్ 2023 మొదటి రోజు",
+        "share_text": "క్రికెట్ ప్రపంచ కప్ 2023 మొదటి రోజు #GoogleDoodle"
+      },
+      "th": {
+        "query": "การแข่งขันคริกเกตชิงแชมป์โลก",
+        "hover_text": "วันเปิดการแข่งขันคริกเกตชิงแชมป์โลกปี 2023",
+        "share_text": ""
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Kriket Dünya Kupası",
+        "hover_text": "Kriket Dünya Kupası 2023 Açılış Günü",
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Чемпіонат світу з крикету",
+        "hover_text": "Відкриття чемпіонату світу з крикету у 2023 році",
+        "share_text": ""
+      },
+      "ur": {
+        "query": "کرکٹ ورلڈ کپ",
+        "hover_text": "کرکٹ ورلڈ کپ 2023 کا افتتاحی دن",
+        "share_text": "کرکٹ ورلڈ کپ 2023 کا افتتاحی دن"
+      },
+      "uz": {
+        "query": "Kriket boʻyicha jahon chempionati",
+        "hover_text": "Kriket boʻyicha jahon chempionatining ochilish marosimi 2023",
+        "share_text": ""
+      },
+      "vi": {
+        "query": "Giải vô địch bóng gậy thế giới",
+        "hover_text": "Ngày khai mạc Giải vô địch bóng gậy thế giới năm 2023",
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Indebe Yomhlaba Yekhilikithi",
+        "hover_text": "Usuku Lokuvula Lwendebe Yomhlaba Yekhilikithi yango-2023",
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Cricket World Cup",
+    "share_text": "Let the games begin! #GoogleDoodle"
+  },
+  {
     "name": "karol-szymanowskis-141st-birthday",
     "title": "Karol Szymanowski's 141st Birthday",
     "url": "//www.google.com/logos/doodles/2023/karol-szymanowskis-141st-birthday-6753651837109949-l.png",
