@@ -1,5 +1,509 @@
 [
   {
+    "name": "cartolas-115th-birthday",
+    "title": "Cartola's 115th Birthday",
+    "url": "//www.google.com/logos/doodles/2023/cartolas-115th-birthday-6753651837110090-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/2gdFhAIAU5NEWpJwSwr-ktdjr2_uAG0xCeQ7GglBQtPAfHYMu2b-7n_6n2pzq8A76GZ9y3oKmt1PXNyaLUCg1-4IHuMAw9u_sj_826LfvVqj0lMhnFZ31w",
+    "high_res_url": "//www.google.com/logos/doodles/2023/cartolas-115th-birthday-6753651837110090-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      10,
+      11
+    ],
+    "translations": {
+      "en": {
+        "query": "Cartola",
+        "hover_text": "Cartola's 115th Birthday",
+        "share_text": "Cartola's 115th Birthday! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Cartola",
+        "hover_text": "Cartola se 115e verjaarsdag",
+        "share_text": "Cartola se 115e verjaarsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Cartola",
+        "hover_text": "115-vjetori i lindjes së Cartola",
+        "share_text": "115-vjetori i lindjes së Cartola! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ካርቶላ",
+        "hover_text": "የካርቶላ 115ኛ ልደት",
+        "share_text": "የካርቶላ 115ኛ ልደት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "كارتولا",
+        "hover_text": "الذكرى 115 لميلاد \"كارتولا\"",
+        "share_text": "نحتفل اليوم بالذكرى 115 لميلاد \"كارتولا\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Կարտոլա",
+        "hover_text": "Կարտոլայի ծննդյան 115-ամյակը",
+        "share_text": "Կարտոլայի ծննդյան 115-ամյակը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Cartola",
+        "hover_text": "Cartola'nın 115-ci ildönümü",
+        "share_text": "Cartola'nın 115-ci ildönümü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "কার্টোলা",
+        "hover_text": "কার্টোলার ১১৫তম জন্মদিন",
+        "share_text": "কার্টোলার ১১৫তম জন্মদিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Cartola",
+        "hover_text": "Cartolaren jaiotzaren 115. urteurrena",
+        "share_text": "Cartolaren jaiotzaren 115. urteurrena #GoogleDoodle"
+      },
+      "be": {
+        "query": "Картола",
+        "hover_text": "115 гадоў з дня нараджэння Картолы",
+        "share_text": "115 гадоў з дня нараджэння Картолы! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Cartola",
+        "hover_text": "115 godina od rođenja Cartole",
+        "share_text": "115 godina od rođenja Cartole! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Cartola",
+        "hover_text": "Cartola's 115th birthday",
+        "share_text": "Cartola's 115th birthday! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Картола",
+        "hover_text": "115 години от рождението на Картола",
+        "share_text": "115 години от рождението на Картола! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Cartola",
+        "hover_text": "Cartola ၏ ၁၁၅ နှစ်မြောက်မွေးနေ့",
+        "share_text": "Cartola ၏ ၁၁၅ နှစ်မြောက်မွေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Cartola",
+        "hover_text": "115è aniversari del naixement de Cartola",
+        "share_text": "115è aniversari del naixement de Cartola #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Cartola",
+        "hover_text": "Cartola 誕辰 115 週年",
+        "share_text": "Cartola 誕辰 115 週年！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "卡托拉",
+        "hover_text": "卡托拉 115 歲冥誕",
+        "share_text": "紀念卡托拉 115 歲冥誕！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "Cartola",
+        "hover_text": "Cartola 诞辰 115 周年",
+        "share_text": "Cartola 诞辰 115 周年！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Cartola",
+        "hover_text": "115. godišnjica rođenja Cartole",
+        "share_text": "115. godišnjica rođenja Cartole! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Cartola",
+        "hover_text": "115. výročí narození Cartoly",
+        "share_text": "Slavíme 115. výročí narození Cartoly! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Cartola",
+        "hover_text": "Cartolas 115-års fødselsdag",
+        "share_text": "Cartolas 115-års fødselsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Cartola",
+        "hover_text": "115e geboortedag van Cartola",
+        "share_text": "De 115e geboortedag van Cartola! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Cartola",
+        "hover_text": "Cartola 115. sünniaastapäev",
+        "share_text": "Cartola 115. sünniaastapäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Cartola",
+        "hover_text": "115 vuotta Cartolan syntymästä",
+        "share_text": "115 vuotta Cartolan syntymästä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Cartola",
+        "hover_text": "Il y a 115 ans naissait Cartola",
+        "share_text": "115e anniversaire de Cartola #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Cartola",
+        "hover_text": "115ᵉ anniversaire de naissance de Cartola",
+        "share_text": "115ᵉ anniversaire de naissance de Cartola! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Cartola",
+        "hover_text": "115.º aniversario do nacemento de Cartola",
+        "share_text": "115.º aniversario do nacemento de Cartola! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "კარტოლა",
+        "hover_text": "115 წელი კარტოლას დაბადებიდან",
+        "share_text": "115 წელი კარტოლას დაბადებიდან! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Cartola",
+        "hover_text": "115. Geburtstag von Cartola",
+        "share_text": "115. Geburtstag von Cartola! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Cartola",
+        "hover_text": "115 χρόνια από τη γέννηση του Cartola",
+        "share_text": "115 χρόνια από τη γέννηση του Cartola! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "કાર્ટોલા",
+        "hover_text": "કાર્ટોલાનો 115મો જન્મદિવસ",
+        "share_text": "કાર્ટોલાનો 115મો જન્મદિવસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "קרטולה",
+        "hover_text": "115 שנים להולדת קרטולה",
+        "share_text": "115 שנים להולדת קרטולה GoogleDoodle#"
+      },
+      "hi": {
+        "query": "काहतोला",
+        "hover_text": "काहतोला की 115वीं जयंती",
+        "share_text": "काहतोला की 115वीं जयंती! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Cartola",
+        "hover_text": "Cartola születésének 115. évfordulója",
+        "share_text": "Cartola születésének 115. évfordulója #GoogleDoodle"
+      },
+      "is": {
+        "query": "Cartola",
+        "hover_text": "115 ár frá fæðingu Cartola",
+        "share_text": "115 ár frá fæðingu Cartola! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Cartola",
+        "hover_text": "Ulang Tahun Ke-115 Cartola",
+        "share_text": "Ulang Tahun Ke-115 Cartola #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Cartola",
+        "hover_text": "115ú Breithlá Cartola",
+        "share_text": "115ú Breithlá Cartola! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Cartola",
+        "hover_text": "115° anniversario della nascita di Cartola",
+        "share_text": "115° anniversario della nascita di Cartola! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "カルトーラ",
+        "hover_text": "カルトーラ生誕 115 周年",
+        "share_text": "カルトーラ生誕 115 周年 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಕಾರ್ಟೊಲಾ",
+        "hover_text": "ಕಾರ್ಟೊಲಾ ಅವರ 115ನೇ ಜನ್ಮದಿನದ ಸವಿನೆನಪಿನಲ್ಲಿ",
+        "share_text": "ಕಾರ್ಟೊಲಾ ಅವರ 115ನೇ ಜನ್ಮದಿನದ ಸವಿನೆನಪಿನಲ್ಲಿ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Картола",
+        "hover_text": "Картоланың 115 жылдығы",
+        "share_text": "Картоланың 115 жылдығы! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Cartola",
+        "hover_text": "ខួបកំណើត​គម្រប់ 115 ឆ្នាំរបស់ Cartola",
+        "share_text": "ខួបកំណើត​គម្រប់ 115 ឆ្នាំរបស់ Cartola! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Cartola",
+        "hover_text": "Cartola 탄생 115주년",
+        "share_text": "Cartola 탄생 115주년 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Картола",
+        "hover_text": "Картоланын 115 жаш мааракеси",
+        "share_text": "Картоланын 115 жаш мааракеси! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Cartola",
+        "hover_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 115 ປີຂອງ Cartola",
+        "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 115 ປີຂອງ Cartola! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Cartola",
+        "hover_text": "115º aniversario del nacimiento de Cartola",
+        "share_text": "¡115º aniversario del nacimiento de Cartola! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Dziedātājs Cartola",
+        "hover_text": "Dziedātāja Cartola 115. dzimšanas diena",
+        "share_text": "Dziedātāja Cartola 115. dzimšanas diena! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Cartola",
+        "hover_text": "115-asis Cartolos gimtadienis",
+        "share_text": "115-asis Cartolos gimtadienis! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Cartola",
+        "hover_text": "115. роденден на Cartola",
+        "share_text": "115. роденден на Cartola! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Cartola",
+        "hover_text": "Ulang Tahun Kelahiran Cartola yang ke-115",
+        "share_text": "Ulang Tahun Kelahiran Cartola yang ke-115! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "കാർട്ടോല",
+        "hover_text": "കാർട്ടോലയുടെ 115-ാം ജന്മദിനം",
+        "share_text": "കാർട്ടോലയുടെ 115-ാം ജന്മദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "कार्तोला",
+        "hover_text": "कार्तोला यांचा ११५ वा स्मृतिदिन",
+        "share_text": "कार्टोला यांचा ११५ वा स्मृतिदिन! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Картола",
+        "hover_text": "Картолагийн мэндэлсний 115 жилийн ой",
+        "share_text": "Картолагийн мэндэлсний 115 жилийн ой! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Cartola",
+        "hover_text": "Cartola को ११५ औँ जन्मजयन्ती",
+        "share_text": "Cartola को ११५ औँ जन्मजयन्ती! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Cartola",
+        "hover_text": "Cartolas 115-årsdag",
+        "share_text": "Cartolas 115-årsdag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "କାର୍ଟୋଲା",
+        "hover_text": "କାର୍ଟୋଲାଙ୍କ 115ତମ ଜନ୍ମଦିନ",
+        "share_text": "କାର୍ଟୋଲାଙ୍କ 115ତମ ଜନ୍ମଦିନ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "کارتولا",
+        "hover_text": "صدوپانزدهمین زادروز کارتولا",
+        "share_text": "صدوپانزدهمین زادروز کارتولا! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Cartola",
+        "hover_text": "Cartola – 115 rocznica urodzin",
+        "share_text": "Cartola – 115 rocznica urodzin #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Cartola",
+        "hover_text": "115º Aniversário de Cartola",
+        "share_text": "115º Aniversário de Cartola! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Cartola",
+        "hover_text": "115.º Aniversário de Cartola",
+        "share_text": "115.º Aniversário de Cartola! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Cartola",
+        "hover_text": "ਕਾਰਟੋਲਾ ਦਾ 115ਵਾਂ ਜਨਮਦਿਨ",
+        "share_text": "ਕਾਰਟੋਲਾ ਦਾ 115ਵਾਂ ਜਨਮਦਿਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Cartola",
+        "hover_text": "115 ani de la nașterea lui Cartola",
+        "share_text": "115 ani de la nașterea lui Cartola! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Картола",
+        "hover_text": "115 лет со дня рождения Картолы",
+        "share_text": "115 лет со дня рождения Картолы #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Картола",
+        "hover_text": "115 година од рођења Картоле",
+        "share_text": "115 година од рођења Картоле! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Kartola",
+        "hover_text": "115 godina od rođenja Kartole",
+        "share_text": "115 godina od rođenja Kartole! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "කාර්ටෝලා",
+        "hover_text": "කාර්ටෝලාගේ 115 වැනි උපන් දිනය",
+        "share_text": "කාර්ටෝලාගේ 115 වැනි උපන් දිනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Cartola",
+        "hover_text": "115. výročie narodenia Cartolu",
+        "share_text": "115. výročie narodenia Cartolu. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Cartola",
+        "hover_text": "115. rojstni dan Cartole",
+        "share_text": "115. rojstni dan Cartole! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Cartola",
+        "hover_text": "115.º aniversario del nacimiento de Cartola",
+        "share_text": "Hoy es el 115.º aniversario del nacimiento de Cartola #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Cartola",
+        "hover_text": "Miaka 115 Tangu Kuzaliwa Kwa Cartola",
+        "share_text": "Miaka 115 Tangu Kuzaliwa Kwa Cartola! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Cartola",
+        "hover_text": "Cartola 115 år",
+        "share_text": "Cartola 115 år! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Cartola",
+        "hover_text": "கார்டோலாவின் 115வது பிறந்தநாள்",
+        "share_text": "கார்டோலாவின் 115வது பிறந்தநாள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "కర్తోలా",
+        "hover_text": "కర్తోలా 115వ జయంతి",
+        "share_text": "కర్తోలా 115వ జయంతి! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Cartola",
+        "hover_text": "วันเกิดปีที่ 115 ของ Cartola",
+        "share_text": "วันเกิดปีที่ 115 ของ Cartola #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Cartola",
+        "hover_text": "Cartola'nın 115. Doğum Günü",
+        "share_text": "Cartola'nın 115. Doğum Günü #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Картола",
+        "hover_text": "115 років від дня народження Картоли",
+        "share_text": "115 років від дня народження Картоли! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Cartola",
+        "hover_text": "Cartola کی 115 ویں سالگرہ",
+        "share_text": "Cartola کی 115 ویں سالگرہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Cartola",
+        "hover_text": "Cartola tavalludining 115 yilligi",
+        "share_text": "Cartola tavalludining 115 yilligi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Cartola",
+        "hover_text": "Kỷ niệm 115 năm ngày sinh của Cartola",
+        "share_text": "Kỷ niệm 115 năm ngày sinh của Cartola! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Cartola",
+        "hover_text": "Usuku lokuzalwa luka-Cartola lwe-115",
+        "share_text": "Usuku lokuzalwa luka-Cartola lwe-115! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {
+      "pt-BR": {
+        "language": "pt-BR",
+        "blog_post": "<p style=\"text-align:justify\">O Doodle de hoje homenageia Cartola, compositor, poeta e cantor brasileiro que se tornou conhecido em todo o pa&iacute;s como um mestre do samba. Neste dia de 1908 nasceu no Rio de Janeiro com o nome de Angenor de Oliveira.</p>\r\n\r\n<p>Cartola cresceu interessado em m&uacute;sica; viu o pai dedilhar viol&atilde;o e cavaquinho, adorava samba e Carnaval e aprendeu a tocar os instrumentos do pai. Ainda jovem, ele teve que trabalhar para ajudar no sustento da fam&iacute;lia &mdash; foi pintor e pedreiro. Foi da&iacute; que ganhou o apelido de Cartola, por causa do chap&eacute;u-coco que usava para evitar que o cimento entrasse no cabelo.</p>\r\n\r\n<p>Aos 17 anos, Cartola compunha sambas e cantava em bares locais, muitas vezes com Carlos Cacha&ccedil;a, amigo e colaborador musical de longa data que conheceu no Morro da Mangueira. Alguns outros m&uacute;sicos juntaram-se &agrave; dupla em 1928 e fundaram uma das primeiras escolas de samba do Rio, a Esta&ccedil;&atilde;o Primeira de Mangueira, onde Cartola era o diretor de harmonia. Grandes int&eacute;rpretes cantavam seus sambas e ganhou popularidade em 1932 com o hit <em>Divina Dama</em>. Cartola exp&ocirc;s a linguagem po&eacute;tica e a emo&ccedil;&atilde;o do samba no programa de r&aacute;dio A Voz do Morro, no Carnaval, e por meio de suas famosas can&ccedil;&otilde;es <em>N&atilde;o Quero Mais</em>, <em>Sim</em>, e <em>O Sol Nascer&aacute;</em>.</p>\r\n\r\n<p>Ele fez uma pequena pausa na m&uacute;sica antes de conhecer sua futura esposa Zica, que o encorajou a seguir novamente sua paix&atilde;o. Ela era uma cozinheira renomada e juntos dirigiam o Zicartola, casa de samba e restaurante que se tornou p&oacute;lo de compositores e bailarinos.</p>\r\n\r\n<p>Cartola s&oacute; lan&ccedil;ou seu pr&oacute;prio LP em 1974 &ndash; mas foi um sucesso instant&acirc;neo, ganhando imediatamente pr&ecirc;mios e elogios da cr&iacute;tica. Logo depois vieram mais tr&ecirc;s LPs, com destaque para<em> As Rosas N&atilde;o Falam</em> que foi escolhida como trilha sonora da novela. O sambista fez seu primeiro show individual aos 70 anos e se apresentaria e comporia pelo resto da vida. Seu legado continua vivo enquanto os m&uacute;sicos atuais tocam e gravam suas obras hoje.</p>\r\n\r\n<p>Feliz anivers&aacute;rio, Cartola!</p>\r\n"
+      }
+    },
+    "query": "Cartola",
+    "share_text": "Cartola's 115th Birthday! #GoogleDoodle"
+  },
+  {
     "name": "uganda-independence-day-2023",
     "title": "Uganda Independence Day 2023",
     "url": "//www.google.com/logos/doodles/2023/uganda-independence-day-2023-6753651837109951-law.gif",
