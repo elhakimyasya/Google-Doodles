@@ -1,5 +1,504 @@
 [
   {
+    "name": "new-zealand-elections-2023",
+    "title": "New Zealand Elections 2023",
+    "url": "//www.google.com/logos/doodles/2023/new-zealand-elections-2023-6753651837109948.3-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/P5DQj81wFfAwF-dvi0kd46EhprzapV1z9L4frtqbLlLZRII-6Zw8MNAmp8k35VVGHBIZDT7rGHgZdQwrD8jyK2za0-_VHByzK5t9lUVV7obRMDcTi9FwAAc",
+    "high_res_url": "//www.google.com/logos/doodles/2023/new-zealand-elections-2023-6753651837109948.2-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      10,
+      14
+    ],
+    "translations": {
+      "en": {
+        "query": "New Zealand Elections",
+        "hover_text": "New Zealand Elections 2023",
+        "share_text": "New Zealand Elections 2023 #GoogleDoodle"
+      },
+      "af": {
+        "query": "Nieu-Seeland se verkiesing",
+        "hover_text": "Nieu-Seeland se verkiesing 2023",
+        "share_text": "Nieu-Seeland se verkiesing 2023 #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Zgjedhjet në Zelandën e Re",
+        "hover_text": "Zgjedhjet në Zelandën e Re, 2023",
+        "share_text": "Zgjedhjet në Zelandën e Re, 2023 #GoogleDoodle"
+      },
+      "am": {
+        "query": "የኒው ዚላንድ ምርጫዎች",
+        "hover_text": "የኒው ዚላንድ ምርጫዎች 2023",
+        "share_text": "የኒው ዚላንድ ምርጫዎች 2023 #GoogleDoodle"
+      },
+      "ar": {
+        "query": "انتخابات نيوزيلندا",
+        "hover_text": "انتخابات نيوزيلندا 2023",
+        "share_text": "تجري اليوم انتخابات نيوزيلندا لعام 2023 ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Նոր Զելանդիայի ընտրություններ",
+        "hover_text": "Նոր Զելանդիայի ընտրություններ 2023",
+        "share_text": "Նոր Զելանդիայի ընտրություններ 2023 #GoogleDoodle"
+      },
+      "az": {
+        "query": "Yeni Zelandiya Milli Seçkiləri",
+        "hover_text": "2023 Yeni Zelandiya Milli Seçkiləri",
+        "share_text": "2023 Yeni Zelandiya Seçkiləri #GoogleDoodle"
+      },
+      "bn": {
+        "query": "নিউজিল্যান্ডের নির্বাচন",
+        "hover_text": "নিউজিল্যান্ডের নির্বাচন ২০২৩",
+        "share_text": "নিউজিল্যান্ডের নির্বাচন ২০২৩ #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Zeelanda Berriko hauteskundeak",
+        "hover_text": "2023ko Zeelanda Berriko hauteskundeak",
+        "share_text": "2023ko Zeelanda Berriko hauteskundeak #GoogleDoodle"
+      },
+      "be": {
+        "query": "Выбары ў Новай Зеландыі",
+        "hover_text": "Выбары ў Новай Зеландыі 2023",
+        "share_text": "Выбары ў Новай Зеландыі 2023 #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Izbori na Novom Zelandu",
+        "hover_text": "Izbori na Novom Zelandu 2023.",
+        "share_text": "Izbori na Novom Zelandu 2023. #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "New Zealand Election",
+        "hover_text": "New Zealand Election 2023",
+        "share_text": "New Zealand Election 2023 #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Избори в Нова Зеландия",
+        "hover_text": "Избори в Нова Зеландия 2023 г.",
+        "share_text": "Избори в Нова Зеландия 2023 г. #GoogleDoodle"
+      },
+      "my": {
+        "query": "နယူးဇီလန်နိုင်ငံ ရွေးကောက်ပွဲများ",
+        "hover_text": "၂၀၂၃ နယူးဇီလန်နိုင်ငံ ရွေးကောက်ပွဲများ",
+        "share_text": "၂၀၂၃ နယူးဇီလန်နိုင်ငံ ရွေးကောက်ပွဲများ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Eleccions a Nova Zelanda",
+        "hover_text": "Eleccions a Nova Zelanda 2023",
+        "share_text": "Eleccions a Nova Zelanda 2023 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "紐西蘭選舉",
+        "hover_text": "2023 年紐西蘭選舉",
+        "share_text": "2023 年紐西蘭選舉 #GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "紐西蘭大選",
+        "hover_text": "2023 年紐西蘭大選",
+        "share_text": "2023 年紐西蘭大選 #GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "新西兰大选",
+        "hover_text": "2023 年新西兰大选",
+        "share_text": "2023 年新西兰大选 #GoogleDoodle"
+      },
+      "hr": {
+        "query": "Novozelandski izbori",
+        "hover_text": "Novozelandski izbori 2023.",
+        "share_text": "Novozelandski izbori 2023. #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Novozélandské volby",
+        "hover_text": "Novozélandské volby 2023",
+        "share_text": "Novozélandské volby 2023 #GoogleDoodle"
+      },
+      "da": {
+        "query": "Valg i New Zealand",
+        "hover_text": "Valg i New Zealand 2023",
+        "share_text": "Valg i New Zealand 2023 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Verkiezingen in Nieuw-Zeeland",
+        "hover_text": "Verkiezingen in Nieuw-Zeeland 2023",
+        "share_text": "Verkiezingen in Nieuw-Zeeland 2023 #GoogleDoodle"
+      },
+      "et": {
+        "query": "Uus-Meremaa valimised",
+        "hover_text": "Uus-Meremaa 2023. aasta valimised",
+        "share_text": "Uus-Meremaa 2023. aasta valimised #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Uuden-Seelannin vaalit",
+        "hover_text": "Uuden-Seelannin vaalit 2023",
+        "share_text": "Uuden-Seelannin vaalit 2023 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Élections en Nouvelle-Zélande",
+        "hover_text": "Élections 2023 en Nouvelle-Zélande",
+        "share_text": "Élections 2023 en Nouvelle-Zélande #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Élections en Nouvelle-Zélande",
+        "hover_text": "Élections 2023 en Nouvelle-Zélande",
+        "share_text": "Élections 2023 en Nouvelle-Zélande #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Eleccións de Nova Zelandia",
+        "hover_text": "Eleccións de Nova Zelandia 2023",
+        "share_text": "Eleccións de Nova Zelandia 2023 #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ახალი ზელანდიის არჩევნები",
+        "hover_text": "ახალი ზელანდიის 2023 წლის არჩევნები",
+        "share_text": "ახალი ზელანდიის არჩევნები — 2023 #GoogleDoodle"
+      },
+      "de": {
+        "query": "Wahl in Neuseeland",
+        "hover_text": "Wahl in Neuseeland 2023",
+        "share_text": "Wahl in Neuseeland 2023 #GoogleDoodle"
+      },
+      "el": {
+        "query": "Εκλογές Νέας Ζηλανδίας",
+        "hover_text": "Εκλογές Νέας Ζηλανδίας 2023",
+        "share_text": "Εκλογές Νέας Ζηλανδίας 2023 #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ન્યૂઝીલૅન્ડની ચૂંટણીઓ",
+        "hover_text": "ન્યૂઝીલૅન્ડની ચૂંટણીઓ 2023",
+        "share_text": "ન્યૂઝીલૅન્ડની ચૂંટણીઓ 2023 #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "הבחירות בניו זילנד",
+        "hover_text": "הבחירות בניו זילנד 2023",
+        "share_text": "הבחירות בניו זילנד 2023 ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "न्यूज़ीलैंड के चुनाव",
+        "hover_text": "न्यूज़ीलैंड के चुनाव 2023",
+        "share_text": "न्यूज़ीलैंड के चुनाव 2023 #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Választások Új-Zélandon",
+        "hover_text": "Választások Új-Zélandon, 2023",
+        "share_text": "Választások Új-Zélandon, 2023 #GoogleDoodle"
+      },
+      "is": {
+        "query": "Kosningar í Nýja-Sjálandi",
+        "hover_text": "Kosningar í Nýja-Sjálandi 2023",
+        "share_text": "Kosningar í Nýja-Sjálandi 2023 #GoogleDoodle"
+      },
+      "id": {
+        "query": "Pemilu Selandia Baru",
+        "hover_text": "Pemilu Selandia Baru 2023",
+        "share_text": "Pemilu Selandia Baru 2023 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Elezioni in Nuova Zelanda",
+        "hover_text": "Elezioni 2023 in Nuova Zelanda",
+        "share_text": "Elezioni 2023 in Nuova Zelanda #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ニュージーランド総選挙",
+        "hover_text": "2023 年ニュージーランド総選挙",
+        "share_text": "2023 年ニュージーランド総選挙 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ನ್ಯೂಜಿಲೆಂಡ್ ಚುನಾವಣೆಗಳು",
+        "hover_text": "ನ್ಯೂಜಿಲೆಂಡ್ ಚುನಾವಣೆಗಳು 2023",
+        "share_text": "ನ್ಯೂಜಿಲೆಂಡ್ ಚುನಾವಣೆಗಳು 2023 #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Жаңа Зеландиядағы сайлау",
+        "hover_text": "Жаңа Зеландиядағы сайлау – 2023",
+        "share_text": "Жаңа Зеландиядағы сайлау – 2023 #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការ​បោះឆ្នោត​នៅ​នូវែលសេឡង់​",
+        "hover_text": "ការ​បោះឆ្នោត​នៅ​នូវែលសេឡង់​ឆ្នាំ 2023",
+        "share_text": "ការ​បោះឆ្នោត​នៅ​នូវែលសេឡង់​ឆ្នាំ 2023 #GoogleDoodle"
+      },
+      "ko": {
+        "query": "뉴질랜드 선거일",
+        "hover_text": "2023년 뉴질랜드 선거일",
+        "share_text": "2023년 뉴질랜드 선거일 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Жаңы Зеландиядагы шайлоо",
+        "hover_text": "Жаңы Зеландиядагы шайлоо – 2023",
+        "share_text": "Жаңы Зеландиядагы шайлоо – 2023 #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນເລືອກຕັ້ງນິວຊີແລນ",
+        "hover_text": "ວັນເລືອກຕັ້ງນິວຊີແລນ 2023",
+        "share_text": "ວັນເລືອກຕັ້ງນິວຊີແລນ 2023 #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Elecciones de Nueva Zelanda",
+        "hover_text": "Elecciones de Nueva Zelanda 2023",
+        "share_text": "Elecciones de Nueva Zelanda 2023 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Vēlēšanas Jaunzēlandē",
+        "hover_text": "Vēlēšanas Jaunzēlandē (2023)",
+        "share_text": "Vēlēšanas Jaunzēlandē (2023) #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Naujosios Zelandijos rinkimai",
+        "hover_text": "Naujosios Zelandijos rinkimai, 2023 m.",
+        "share_text": "Naujosios Zelandijos rinkimai, 2023 m. #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Избори во Нов Зеланд",
+        "hover_text": "Избори во Нов Зеланд, 2023 г.",
+        "share_text": "Избори во Нов Зеланд, 2023 г. #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Pilihan Raya New Zealand",
+        "hover_text": "Pilihan Raya New Zealand 2023",
+        "share_text": "Pilihan Raya New Zealand 2023 #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ന്യൂസിലൻഡ് തെരഞ്ഞെടുപ്പ്",
+        "hover_text": "ന്യൂസിലൻഡ് തെരഞ്ഞെടുപ്പ് 2023",
+        "share_text": "ന്യൂസിലൻഡ് തെരഞ്ഞെടുപ്പ് 2023 #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "न्यूझीलंडच्या निवडणुका",
+        "hover_text": "न्यूझीलंडच्या निवडणुका २०२३",
+        "share_text": "न्यूझीलंडच्या निवडणुका २०२३ #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Шинэ Зеланд Улсын үндэсний сонгууль",
+        "hover_text": "2023 оны Шинэ Зеланд Улсын үндэсний сонгууль",
+        "share_text": "2023 оны Шинэ Зеланд Улсын үндэсний сонгууль #GoogleDoodle"
+      },
+      "ne": {
+        "query": "न्युजिल्यान्डको निर्वाचन",
+        "hover_text": "न्युजिल्यान्डको निर्वाचन २०२३",
+        "share_text": "न्युजिल्यान्डको निर्वाचन २०२३ #GoogleDoodle"
+      },
+      "no": {
+        "query": "Valget i New Zealand",
+        "hover_text": "Valget i New Zealand 2023",
+        "share_text": "Valget i New Zealand 2023 #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ନ୍ୟୁଜିଲାଣ୍ଡର ନିର୍ବାଚନ",
+        "hover_text": "ନ୍ୟୁଜିଲାଣ୍ଡର ନିର୍ବାଚନ 2023",
+        "share_text": "ନ୍ୟୁଜିଲାଣ୍ଡର ନିର୍ବାଚନ 2023 #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "انتخابات نیوزیلند",
+        "hover_text": "انتخابات نیوزیلند ۲۰۲۳",
+        "share_text": "انتخابات نیوزیلند ۲۰۲۳ ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Wybory w Nowej Zelandii",
+        "hover_text": "Wybory 2023 w Nowej Zelandii",
+        "share_text": "Wybory 2023 w Nowej Zelandii #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Eleições da Nova Zelândia",
+        "hover_text": "Eleições da Nova Zelândia 2023",
+        "share_text": "Eleições da Nova Zelândia 2023 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Eleições da Nova Zelândia",
+        "hover_text": "Eleições da Nova Zelândia de 2023",
+        "share_text": "Eleições da Nova Zelândia de 2023 #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਨਿਊਜ਼ੀਲੈਂਡ ਦੀਆਂ ਚੋਣਾਂ",
+        "hover_text": "ਨਿਊਜ਼ੀਲੈਂਡ ਦੀਆਂ ਚੋਣਾਂ 2023",
+        "share_text": "ਨਿਊਜ਼ੀਲੈਂਡ ਦੀਆਂ ਚੋਣਾਂ 2023 #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Alegeri în Noua Zeelandă",
+        "hover_text": "Alegeri în Noua Zeelandă 2023",
+        "share_text": "Alegeri în Noua Zeelandă 2023 #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Выборы в Новой Зеландии",
+        "hover_text": "Выборы в Новой Зеландии – 2023",
+        "share_text": "Выборы в Новой Зеландии – 2023 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Избори на Новом Зеланду",
+        "hover_text": "Избори на Новом Зеланду 2023.",
+        "share_text": "Избори на Новом Зеланду 2023. #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Izbori na Novom Zelandu",
+        "hover_text": "Izbori na Novom Zelandu 2023.",
+        "share_text": "Izbori na Novom Zelandu 2023. #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "නවසීලන්ත මැතිවරණය",
+        "hover_text": "නවසීලන්ත මැතිවරණය 2023",
+        "share_text": "නවසීලන්ත මැතිවරණය 2023 #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Voľby na Novom Zélande",
+        "hover_text": "Voľby na Novom Zélande 2023",
+        "share_text": "Voľby na Novom Zélande 2023 #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Novozelandske volitve",
+        "hover_text": "Novozelandske volitve 2023",
+        "share_text": "Novozelandske volitve 2023 #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Elecciones de Nueva Zelanda",
+        "hover_text": "Elecciones de Nueva Zelanda 2023",
+        "share_text": "Elecciones de Nueva Zelanda 2023 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Uchaguzi wa Nyuzilandi",
+        "hover_text": "Uchaguzi wa Nyuzilandi 2023",
+        "share_text": "Uchaguzi wa Nyuzilandi 2023 #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Val i Nya Zeeland",
+        "hover_text": "Val i Nya Zeeland 2023",
+        "share_text": "Val i Nya Zeeland 2023 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "New Zealand Elections",
+        "hover_text": "நியூசிலாந்து நாட்டின் தேர்தல்கள் 2023",
+        "share_text": "நியூசிலாந்து நாட்டின் தேர்தல்கள் 2023 #GoogleDoodle"
+      },
+      "te": {
+        "query": "న్యూజిలాండ్ ఎన్నికలు",
+        "hover_text": "న్యూజిలాండ్ ఎన్నికలు 2023",
+        "share_text": "న్యూజిలాండ్ ఎన్నికలు 2023 #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันเลือกตั้งของนิวซีแลนด์",
+        "hover_text": "วันเลือกตั้งของนิวซีแลนด์ปี 2023",
+        "share_text": "วันเลือกตั้งของนิวซีแลนด์ปี 2023 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Yeni Zelanda Seçimleri",
+        "hover_text": "Yeni Zelanda Seçimleri 2023",
+        "share_text": "Yeni Zelanda Seçimleri 2023 #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Вибори в Новій Зеландії",
+        "hover_text": "Вибори в Новій Зеландії у 2023 році",
+        "share_text": "Вибори в Новій Зеландії у 2023 році #GoogleDoodle"
+      },
+      "ur": {
+        "query": "نیوزی لینڈ کے انتخابات",
+        "hover_text": "نیوزی لینڈ کے انتخابات 2023",
+        "share_text": "نیوزی لینڈ کے انتخابات 2023 ‎#GoogleDoodle"
+      },
+      "uz": {
+        "query": "Yangi Zelandiya saylovlari",
+        "hover_text": "Yangi Zelandiya saylovlari 2023",
+        "share_text": "Yangi Zelandiya saylovlari 2023 #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Bầu cử ở New Zealand",
+        "hover_text": "Bầu cử ở New Zealand năm 2023",
+        "share_text": "Bầu cử ở New Zealand năm 2023 #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ukhetho lwase-New Zealand lwango-2023",
+        "hover_text": "Ukhetho lwase-New Zealand lwango-2023",
+        "share_text": "Ukhetho lwase-New Zealand lwango-2023 #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "New Zealand Elections",
+    "share_text": "New Zealand Elections 2023 #GoogleDoodle"
+  },
+  {
     "name": "cartolas-115th-birthday",
     "title": "Cartola's 115th Birthday",
     "url": "//www.google.com/logos/doodles/2023/cartolas-115th-birthday-6753651837110090-l.png",
