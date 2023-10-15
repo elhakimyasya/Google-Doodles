@@ -1,5 +1,504 @@
 [
   {
+    "name": "poland-national-elections-2023",
+    "title": "Poland National Elections 2023",
+    "url": "//www.google.com/logos/doodles/2023/poland-national-elections-2023-6753651837110154-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/jeq3aRf-RQa5QBPKq1YoACu_Whu6fpN25WJQfZ67819m8ej7jn9mBacRU4x63Qe4e2AtkIGEQOtvqbyzkuH6GBnYXnVN2jPC3tVCRFyxjnZXyMJcxaksfw",
+    "high_res_url": "//www.google.com/logos/doodles/2023/poland-national-elections-2023-6753651837110154-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      10,
+      15
+    ],
+    "translations": {
+      "en": {
+        "query": "Poland National Elections 2023",
+        "hover_text": "Poland National Elections 2023",
+        "share_text": "Poland National Elections 2023! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Pole se nasionale verkiesing 2023",
+        "hover_text": null,
+        "share_text": "Pole se nasionale verkiesing 2023! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Zgjedhjet kombëtare në Poloni, 2023",
+        "hover_text": null,
+        "share_text": "Zgjedhjet kombëtare në Poloni, 2023! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የፖላንድ ብሔራዊ ምርጫ 2023",
+        "hover_text": null,
+        "share_text": "የፖላንድ ብሔራዊ ምርጫ 2023! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "الانتخابات الوطنية في بولندا لعام 2023",
+        "hover_text": null,
+        "share_text": "انطلقت الانتخابات الوطنية في بولندا لعام 2023. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Լեհաստանի համապետական ընտրություններ 2023",
+        "hover_text": null,
+        "share_text": "Լեհաստանի համապետական ընտրություններ 2023 #GoogleDoodle"
+      },
+      "az": {
+        "query": "2023 Polşa Milli Seçkiləri",
+        "hover_text": null,
+        "share_text": "2023 Polşa Milli Seçkiləri! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "পোল্যান্ডের জাতীয় নির্বাচন ২০২৩",
+        "hover_text": null,
+        "share_text": "পোল্যান্ডের জাতীয় নির্বাচন ২০২৩! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "2023ko Poloniako hauteskunde orokorrak",
+        "hover_text": null,
+        "share_text": "2023ko Poloniako hauteskunde orokorrak #GoogleDoodle"
+      },
+      "be": {
+        "query": "Усеагульныя выбары ў Польшчы 2023",
+        "hover_text": null,
+        "share_text": "Усеагульныя выбары ў Польшчы 2023! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Nacionalni izbori u Poljskoj 2023.",
+        "hover_text": null,
+        "share_text": "Nacionalni izbori u Poljskoj 2023! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Poland National Elections 2023",
+        "hover_text": null,
+        "share_text": "Poland National Elections 2023! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Национални избори в Полша 2023 г.",
+        "hover_text": null,
+        "share_text": "Национални избори в Полша 2023 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "၂၀၂၃ ပိုလန်နိုင်ငံလုံးဆိုင်ရာ ရွေးကောက်ပွဲများ",
+        "hover_text": null,
+        "share_text": "၂၀၂၃ ပိုလန်နိုင်ငံလုံးဆိုင်ရာ ရွေးကောက်ပွဲများ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Eleccions nacionals a Polònia 2023",
+        "hover_text": null,
+        "share_text": "Eleccions nacionals a Polònia 2023 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "2023 年波蘭全國大選",
+        "hover_text": null,
+        "share_text": "2023 年波蘭全國大選！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "2023 年波蘭全國大選",
+        "hover_text": null,
+        "share_text": "2023 年波蘭全國大選登場！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "2023 年波兰全国选举",
+        "hover_text": null,
+        "share_text": "2023 年波兰全国选举！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Državni izbori u Poljskoj 2023.",
+        "hover_text": null,
+        "share_text": "Državni izbori u Poljskoj 2023.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Polské volby 2023",
+        "hover_text": null,
+        "share_text": "V Polsku se konají volby 2023! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Valg i Polen 2023",
+        "hover_text": null,
+        "share_text": "Valg i Polen 2023 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Nationale verkiezingen in Polen 2023",
+        "hover_text": null,
+        "share_text": "De nationale verkiezingen in Polen 2023! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Poola 2023. aasta üleriigilised valimised",
+        "hover_text": null,
+        "share_text": "Poola 2023. aasta üleriigilised valimised! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Puolan kansalliset vaalit 2023",
+        "hover_text": null,
+        "share_text": "Puolan kansalliset vaalit 2023 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Élections nationales 2023 en Pologne",
+        "hover_text": null,
+        "share_text": "Élections nationales 2023 en Pologne ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Élections nationales de 2023 en Pologne",
+        "hover_text": null,
+        "share_text": "Élections nationales de 2023 en Pologne! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Eleccións nacionais de Polonia 2023",
+        "hover_text": null,
+        "share_text": "Eleccións nacionais de Polonia 2023! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "პოლონეთის ეროვნული არჩევნები 2023",
+        "hover_text": null,
+        "share_text": "პოლონეთის ეროვნული არჩევნები 2023! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Parlamentswahl in Polen 2023",
+        "hover_text": null,
+        "share_text": "Parlamentswahl in Polen 2023! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Εθνικές εκλογές στην Πολωνία 2023",
+        "hover_text": null,
+        "share_text": "Εθνικές εκλογές στην Πολωνία 2023! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "પોલૅન્ડની રાષ્ટ્રીય ચૂંટણીઓ 2023",
+        "hover_text": null,
+        "share_text": "પોલૅન્ડની રાષ્ટ્રીય ચૂંટણીઓ 2023! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "בחירות ארציות בפולין 2023",
+        "hover_text": null,
+        "share_text": "בחירות ארציות בפולין 2023 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "पोलैंड का संसदीय चुनाव 2023",
+        "hover_text": null,
+        "share_text": "पोलैंड का संसदीय चुनाव 2023! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "2023-as parlamenti választás Lengyelországban",
+        "hover_text": null,
+        "share_text": "2023-as parlamenti választás Lengyelországban! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Kosningar í Póllandi 2023",
+        "hover_text": null,
+        "share_text": "Kosningar í Póllandi 2023! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Pemilu Nasional Polandia 2023",
+        "hover_text": null,
+        "share_text": "Pemilu Nasional Polandia 2023 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Elezioni nazionali 2023 in Polonia",
+        "hover_text": null,
+        "share_text": "Elezioni nazionali 2023 in Polonia! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "2023 年ポーランド総選挙",
+        "hover_text": null,
+        "share_text": "2023 年ポーランド総選挙！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಪೋಲೆಂಡ್ ರಾಷ್ಟ್ರೀಯ ಚುನಾವಣೆಗಳು 2023",
+        "hover_text": null,
+        "share_text": "ಪೋಲೆಂಡ್ ರಾಷ್ಟ್ರೀಯ ಚುನಾವಣೆಗಳು 2023! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Польшадағы ұлттық сайлау – 2023",
+        "hover_text": null,
+        "share_text": "Польшадағы ұлттық сайлау – 2023! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការបោះឆ្នោតថ្នាក់ជាតិប៉ូឡូញឆ្នាំ 2023",
+        "hover_text": null,
+        "share_text": "ការបោះឆ្នោតថ្នាក់ជាតិប៉ូឡូញឆ្នាំ 2023! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "2023년 폴란드 총선",
+        "hover_text": null,
+        "share_text": "2023년 폴란드 총선 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Польшадагы Улуттук шайлоо – 2023",
+        "hover_text": null,
+        "share_text": "Польшадагы Улуттук шайлоо – 2023! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ການເລືອກຕັ້ງແຫ່ງຊາດຂອງໂປແລນປີ 2023",
+        "hover_text": null,
+        "share_text": "ການເລືອກຕັ້ງແຫ່ງຊາດຂອງໂປແລນປີ 2023! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Elecciones nacionales de Polonia 2023",
+        "hover_text": null,
+        "share_text": "Elecciones nacionales de Polonia 2023 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Valsts vēlēšanas Polijā — 2023",
+        "hover_text": null,
+        "share_text": "Valsts vēlēšanas Polijā — 2023! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "2023 m. Lenkijos nacionaliniai rinkimai",
+        "hover_text": null,
+        "share_text": "2023 m. Lenkijos nacionaliniai rinkimai! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Национални избори во Полска, 2023 г.",
+        "hover_text": null,
+        "share_text": "Национални избори во Полска, 2023 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Pilihan Raya Kebangsaan Poland 2023",
+        "hover_text": null,
+        "share_text": "Pilihan Raya Kebangsaan Poland 2023! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "പോളണ്ട് ദേശീയ തിരഞ്ഞെടുപ്പ് 2023",
+        "hover_text": null,
+        "share_text": "പോളണ്ട് ദേശീയ തിരഞ്ഞെടുപ്പ് 2023! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "पोलंडच्या राष्ट्रीय निवडणुका २०२३",
+        "hover_text": null,
+        "share_text": "पोलंडच्या राष्ट्रीय निवडणुका २०२३! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "2023 оны Польш Улсын үндэсний сонгууль",
+        "hover_text": null,
+        "share_text": "2023 оны Польш Улсын үндэсний сонгууль! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "पोल्यान्डको राष्ट्रिय निर्वाचन २०२३",
+        "hover_text": null,
+        "share_text": "पोल्यान्डको राष्ट्रिय निर्वाचन २०२३! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Nasjonalvalget i Polen 2023",
+        "hover_text": null,
+        "share_text": "Nasjonalvalget i Polen 2023! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ପୋଲାଣ୍ଡର ଜାତୀୟ ନିର୍ବାଚନ 2023",
+        "hover_text": null,
+        "share_text": "ପୋଲାଣ୍ଡର ଜାତୀୟ ନିର୍ବାଚନ 2023! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "انتخابات ملی ۲۰۲۳ لهستان",
+        "hover_text": null,
+        "share_text": "انتخابات ملی ۲۰۲۳ لهستان! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Wybory parlamentarne 2023 w Polsce",
+        "hover_text": "Wybory parlamentarne 2023 w Polsce",
+        "share_text": "Wybory parlamentarne 2023 w Polsce #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Eleições nacionais da Polônia 2023",
+        "hover_text": null,
+        "share_text": "Eleições nacionais da Polônia 2023 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Eleições Nacionais da Polónia de 2023",
+        "hover_text": null,
+        "share_text": "Eleições Nacionais da Polónia de 2023! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਪੋਲੈਂਡ ਦੀਆਂ ਰਾਸ਼ਟਰੀ ਚੋਣਾਂ 2023",
+        "hover_text": null,
+        "share_text": "ਪੋਲੈਂਡ ਦੀਆਂ ਰਾਸ਼ਟਰੀ ਚੋਣਾਂ 2023! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Alegeri naționale în Polonia – 2023",
+        "hover_text": null,
+        "share_text": "Alegeri naționale în Polonia – 2023! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Всеобщие выборы в Польше – 2023",
+        "hover_text": null,
+        "share_text": "Всеобщие выборы в Польше – 2023 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Општи избори у Пољској 2023.",
+        "hover_text": null,
+        "share_text": "Општи избори у Пољској 2023! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Opšti izbori u Poljskoj 2023.",
+        "hover_text": null,
+        "share_text": "Opšti izbori u Poljskoj 2023! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "පෝලන්ත ජාතික මැතිවරණය 2023",
+        "hover_text": null,
+        "share_text": "පෝලන්ත ජාතික මැතිවරණය 2023! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Poľské národné voľby 2023",
+        "hover_text": null,
+        "share_text": "Poľské národné voľby 2023. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Državne volitve na Poljskem 2023",
+        "hover_text": null,
+        "share_text": "Državne volitve na Poljskem 2023! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Elecciones generales de Polonia 2023",
+        "hover_text": null,
+        "share_text": "Hoy se celebran las elecciones generales de Polonia 2023 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Uchaguzi wa Kitaifa wa Polandi 2023",
+        "hover_text": null,
+        "share_text": "Uchaguzi wa Kitaifa wa Polandi 2023! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Nationella val i Polen 2023",
+        "hover_text": null,
+        "share_text": "Nationella val i Polen 2023 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Poland National Elections 2023",
+        "hover_text": null,
+        "share_text": "போலந்து தேசியத் தேர்தல்கள் 2023! #GoogleDoodle"
+      },
+      "te": {
+        "query": "పోలాండ్ జాతీయ ఎన్నికలు 2023",
+        "hover_text": null,
+        "share_text": "పోలాండ్ జాతీయ ఎన్నికలు 2023! #GoogleDoodle"
+      },
+      "th": {
+        "query": "การเลือกตั้งระดับประเทศของโปแลนด์ปี 2023",
+        "hover_text": null,
+        "share_text": "การเลือกตั้งระดับประเทศของโปแลนด์ปี 2023 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Polonya Ulusal Seçimleri 2023",
+        "hover_text": null,
+        "share_text": "Polonya Ulusal Seçimleri 2023 #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Національні вибори в Польщі у 2023 році",
+        "hover_text": null,
+        "share_text": "Національні вибори в Польщі у 2023 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "پولینڈ کے قومی انتخابات 2023",
+        "hover_text": null,
+        "share_text": "پولینڈ کے قومی انتخابات 2023! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Polshada umumxalq saylovlari 2023",
+        "hover_text": null,
+        "share_text": "Polshada umumxalq saylovlari 2023! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Tổng tuyển cử Ba Lan năm 2023",
+        "hover_text": null,
+        "share_text": "Tổng tuyển cử Ba Lan năm 2023! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ukhetho Lukazwelonke lwase-Poland lwango-2023",
+        "hover_text": null,
+        "share_text": "Ukhetho Lukazwelonke lwase-Poland lwango-2023! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Poland National Elections 2023",
+    "share_text": "Poland National Elections 2023! #GoogleDoodle"
+  },
+  {
     "name": "new-zealand-elections-2023",
     "title": "New Zealand Elections 2023",
     "url": "//www.google.com/logos/doodles/2023/new-zealand-elections-2023-6753651837109948.3-l.png",
