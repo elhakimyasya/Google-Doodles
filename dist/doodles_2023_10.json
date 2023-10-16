@@ -1,5 +1,504 @@
 [
   {
+    "name": "teachers-day-2023-oct-15",
+    "title": "Teacher's Day 2023 (Oct 15)",
+    "url": "//www.google.com/logos/doodles/2023/teachers-day-2023-oct-15-6753651837110166-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/4SwrGaxvy1rbgx8fJ8m3UoHp6gJIzmFERTtVdpIDer3W853RKe8VFkLycJytyMGFVXH5f0yzxK-_SH7wv1xKKLYdgqbvFH6Nb9RRx8LJe09ZXK1P06pWO2g",
+    "high_res_url": "//www.google.com/logos/doodles/2023/teachers-day-2023-oct-15-6753651837110166-2xa.gif",
+    "high_res_width": 920,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      10,
+      15
+    ],
+    "translations": {
+      "en": {
+        "query": "Teacher's Day",
+        "hover_text": "Teacher's Day 2023",
+        "share_text": "Teacher's Day 2023! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": "Onderwysersdag 2023",
+        "share_text": "Onderwysersdag 2023! #GoogleDoodle"
+      },
+      "sq": {
+        "query": null,
+        "hover_text": "Dita e Mësuesit, 2023",
+        "share_text": "Dita e Mësuesit, 2023! #GoogleDoodle"
+      },
+      "am": {
+        "query": null,
+        "hover_text": "የመምህር ቀን 2023",
+        "share_text": "የመምህር ቀን 2023! #GoogleDoodle"
+      },
+      "ar": {
+        "query": null,
+        "hover_text": "عيد المعلّم 2023",
+        "share_text": "أطيب الأمنيات بمناسبة عيد المعلّم 2023. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": null,
+        "hover_text": "Ուսուցիչների օր 2023",
+        "share_text": "Ուսուցիչների օր 2023 #GoogleDoodle"
+      },
+      "az": {
+        "query": null,
+        "hover_text": "2023 Müəllimlər Günü",
+        "share_text": "2023 Müəllimlər Günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": null,
+        "hover_text": "শিক্ষক দিবস ২০২৩",
+        "share_text": "শিক্ষক দিবস ২০২৩! #GoogleDoodle"
+      },
+      "eu": {
+        "query": null,
+        "hover_text": "2023ko Irakasleen Eguna",
+        "share_text": "2023ko Irakasleen Eguna #GoogleDoodle"
+      },
+      "be": {
+        "query": null,
+        "hover_text": "Дзень настаўніка 2023!",
+        "share_text": "Дзень настаўніка 2023! #GoogleDoodle"
+      },
+      "bs": {
+        "query": null,
+        "hover_text": "Dan nastavnika 2023.",
+        "share_text": "Dan nastavnika 2023! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": "Teachers' Day 2023",
+        "share_text": "Teachers' Day 2023! #GoogleDoodle"
+      },
+      "bg": {
+        "query": null,
+        "hover_text": "Ден на учителя 2023 г.",
+        "share_text": "Ден на учителя 2023 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": null,
+        "hover_text": "၂၀၂၃ ဆရာများနေ့",
+        "share_text": "၂၀၂၃ ဆရာများနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": null,
+        "hover_text": "Dia del Mestre 2023",
+        "share_text": "Dia del Mestre 2023 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": "2023 年教師日",
+        "share_text": "2023 年教師日！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": "2023 年教師節",
+        "share_text": "2023 年教師節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": "2023 年教师节",
+        "share_text": "2023 年教师节！#GoogleDoodle"
+      },
+      "hr": {
+        "query": null,
+        "hover_text": "Dan učitelja 2023.",
+        "share_text": "Dan učitelja 2023.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": null,
+        "hover_text": "Den učitelů 2023",
+        "share_text": "Slavíme Den učitelů 2023! #GoogleDoodle"
+      },
+      "da": {
+        "query": null,
+        "hover_text": "Lærernes dag 2023",
+        "share_text": "Lærernes dag 2023 #GoogleDoodle"
+      },
+      "nl": {
+        "query": null,
+        "hover_text": "Lerarendag 2023",
+        "share_text": "Lerarendag 2023! #GoogleDoodle"
+      },
+      "et": {
+        "query": null,
+        "hover_text": "2023. aasta õpetajatepäev",
+        "share_text": "2023. aasta õpetajatepäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": null,
+        "hover_text": "Opettajien päivä 2023",
+        "share_text": "Opettajien päivä 2023 #GoogleDoodle"
+      },
+      "fr": {
+        "query": null,
+        "hover_text": "Fête des professeurs 2023",
+        "share_text": "Fête des professeurs 2023 ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": "Fête des enseignants 2023",
+        "share_text": "Fête des enseignants 2023! #GoogleDoodle"
+      },
+      "gl": {
+        "query": null,
+        "hover_text": "Día do Mestre 2023",
+        "share_text": "Día do Mestre 2023! #GoogleDoodle"
+      },
+      "ka": {
+        "query": null,
+        "hover_text": "მასწავლებლის დღე — 2023",
+        "share_text": "მასწავლებლის დღე — 2023! #GoogleDoodle"
+      },
+      "de": {
+        "query": null,
+        "hover_text": "Tag der Lehrer 2023",
+        "share_text": "Tag der Lehrer 2023! #GoogleDoodle"
+      },
+      "el": {
+        "query": null,
+        "hover_text": "Ημέρα των Εκπαιδευτικών 2023",
+        "share_text": "Ημέρα των Εκπαιδευτικών 2023! #GoogleDoodle"
+      },
+      "gu": {
+        "query": null,
+        "hover_text": "શિક્ષક દિવસ 2023",
+        "share_text": "શિક્ષક દિવસ 2023! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": "יום המורה 2023",
+        "share_text": "יום המורה 2023 GoogleDoodle#"
+      },
+      "hi": {
+        "query": null,
+        "hover_text": "शिक्षक दिवस 2023",
+        "share_text": "शिक्षक दिवस 2023! #GoogleDoodle"
+      },
+      "hu": {
+        "query": null,
+        "hover_text": "Pedagógusnap, 2023",
+        "share_text": "Pedagógusnap, 2023 #GoogleDoodle"
+      },
+      "is": {
+        "query": null,
+        "hover_text": "Kennaradagurinn 2023",
+        "share_text": "Kennaradagurinn 2023! #GoogleDoodle"
+      },
+      "id": {
+        "query": null,
+        "hover_text": "Hari Guru 2023",
+        "share_text": "Hari Guru 2023 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": "Giornata degli insegnanti 2023",
+        "share_text": "Giornata degli insegnanti 2023! #GoogleDoodle"
+      },
+      "ja": {
+        "query": null,
+        "hover_text": "2023 年教師の日",
+        "share_text": "2023 年教師の日！#GoogleDoodle"
+      },
+      "kn": {
+        "query": null,
+        "hover_text": "ಶಿಕ್ಷಕರ ದಿನಾಚರಣೆ 2023",
+        "share_text": "ಶಿಕ್ಷಕರ ದಿನಾಚರಣೆ 2023! #GoogleDoodle"
+      },
+      "kk": {
+        "query": null,
+        "hover_text": "Мұғалімдер күні – 2023",
+        "share_text": "Мұғалімдер күні – 2023 #GoogleDoodle"
+      },
+      "km": {
+        "query": null,
+        "hover_text": "ទិវា​គ្រូបង្រៀន​ឆ្នាំ 2023",
+        "share_text": "ទិវា​គ្រូបង្រៀន​ឆ្នាំ 2023! #GoogleDoodle"
+      },
+      "ko": {
+        "query": null,
+        "hover_text": "2023년 교사의 날",
+        "share_text": "2023년 교사의 날 #GoogleDoodle"
+      },
+      "ky": {
+        "query": null,
+        "hover_text": "Мугалимдер күнү – 2023",
+        "share_text": "Мугалимдер күнү – 2023! #GoogleDoodle"
+      },
+      "lo": {
+        "query": null,
+        "hover_text": "ວັນຄູ 2023",
+        "share_text": "ວັນຄູ 2023! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": "Día del Profesor 2023",
+        "share_text": "Día del Profesor 2023 #GoogleDoodle"
+      },
+      "lv": {
+        "query": null,
+        "hover_text": "Skolotāju diena — 2023",
+        "share_text": "Skolotāju diena — 2023 #GoogleDoodle"
+      },
+      "lt": {
+        "query": null,
+        "hover_text": "Mokytojų diena, 2023 m.",
+        "share_text": "2023 m. Mokytojų diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": null,
+        "hover_text": "Ден на наставниците, 2023 г.",
+        "share_text": "Ден на наставниците, 2023 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": "Hari Guru 2023",
+        "share_text": "Hari Guru 2023! #GoogleDoodle"
+      },
+      "ml": {
+        "query": null,
+        "hover_text": "അദ്ധ്യാപക ദിനം 2023",
+        "share_text": "അദ്ധ്യാപക ദിനം 2023! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": "शिक्षकदिन २०२३",
+        "share_text": "शिक्षकदिन २०२३! #GoogleDoodle"
+      },
+      "mn": {
+        "query": null,
+        "hover_text": "2023 оны Багш нарын баярын өдөр",
+        "share_text": "2023 оны Багш нарын баярын өдөр! #GoogleDoodle"
+      },
+      "ne": {
+        "query": null,
+        "hover_text": "शिक्षक दिवस २०२३",
+        "share_text": "शिक्षक दिवस २०२३! #GoogleDoodle"
+      },
+      "no": {
+        "query": null,
+        "hover_text": "Lærernes dag 2023",
+        "share_text": "Lærernes dag 2023! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": "ଗୁରୁ ଦିବସ 2023",
+        "share_text": "ଗୁରୁ ଦିବସ 2023! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": "روز معلم ۲۰۲۳",
+        "share_text": "روز معلم ۲۰۲۳! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": null,
+        "hover_text": "Dzień Nauczyciela 2023",
+        "share_text": "Dzień Nauczyciela 2023 #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia dos professores",
+        "hover_text": "Dia dos professores 2023",
+        "share_text": "Dia dos professores 2023! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": "Dia do Professor de 2023",
+        "share_text": "Dia do Professor de 2023! #GoogleDoodle"
+      },
+      "pa": {
+        "query": null,
+        "hover_text": "ਅਧਿਆਪਕ ਦਿਵਸ 2023",
+        "share_text": "ਅਧਿਆਪਕ ਦਿਵਸ 2023! #GoogleDoodle"
+      },
+      "ro": {
+        "query": null,
+        "hover_text": "Ziua Profesorilor – 2023",
+        "share_text": "Ziua Profesorilor – 2023! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": "День учителя – 2023",
+        "share_text": "День учителя – 2023 #GoogleDoodle"
+      },
+      "sr": {
+        "query": null,
+        "hover_text": "Дан учитеља 2023.",
+        "share_text": "Дан учитеља 2023! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": "Dan učitelja 2023.",
+        "share_text": "Dan učitelja 2023! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": "ගුරු දිනය 2023",
+        "share_text": "ගුරු දිනය 2023! #GoogleDoodle"
+      },
+      "sk": {
+        "query": null,
+        "hover_text": "Deň učiteľov 2023",
+        "share_text": "Deň učiteľov 2023. #GoogleDoodle"
+      },
+      "sl": {
+        "query": null,
+        "hover_text": "Dan učiteljev 2023",
+        "share_text": "Dan učiteljev 2023. #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": "Día del Maestro 2023",
+        "share_text": "Día del Maestro 2023 #GoogleDoodle"
+      },
+      "sw": {
+        "query": null,
+        "hover_text": "Siku ya Walimu 2023",
+        "share_text": "Siku ya Walimu 2023! #GoogleDoodle"
+      },
+      "sv": {
+        "query": null,
+        "hover_text": "Lärarnas dag 2023",
+        "share_text": "Lärarnas dag 2023! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": "ஆசிரியர் தினம் 2023",
+        "share_text": "ஆசிரியர் தினம் 2023! #GoogleDoodle"
+      },
+      "te": {
+        "query": null,
+        "hover_text": "ఉపాధ్యాయుల దినోత్సవం 2023",
+        "share_text": "ఉపాధ్యాయుల దినోత్సవం 2023! #GoogleDoodle"
+      },
+      "th": {
+        "query": null,
+        "hover_text": "วันครูปี 2023",
+        "share_text": "วันครูปี 2023 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": "2023 Öğretmenler Günü",
+        "share_text": "2023 Öğretmenler Günü #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": "День учителя у 2023 році",
+        "share_text": "День учителя у 2023 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": null,
+        "hover_text": "یوم اساتذہ 2023",
+        "share_text": "یوم اساتذہ 2023! GoogleDoodle#"
+      },
+      "uz": {
+        "query": null,
+        "hover_text": "Ustozlar kuni – 2023",
+        "share_text": "Ustozlar kuni – 2023! #GoogleDoodle"
+      },
+      "vi": {
+        "query": null,
+        "hover_text": "Ngày Nhà giáo năm 2023",
+        "share_text": "Ngày Nhà giáo năm 2023! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": "Usuku Lothisha lwango-2023",
+        "share_text": "Usuku Lothisha lwango-2023! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Teacher's Day",
+    "share_text": "Teacher's Day 2023! #GoogleDoodle"
+  },
+  {
     "name": "poland-national-elections-2023",
     "title": "Poland National Elections 2023",
     "url": "//www.google.com/logos/doodles/2023/poland-national-elections-2023-6753651837110154-l.png",
