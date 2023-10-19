@@ -1,5 +1,1008 @@
 [
   {
+    "name": "jaap-edens-150th-birthday",
+    "title": "Jaap Eden's 150th Birthday",
+    "url": "//www.google.com/logos/doodles/2023/jaap-edens-150th-birthday-6753651837109954-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/0iKbj2IY4M13FeG441Q-aaYcljCVj569qLdEwlYiQVirqtEIdA5qDsb5VXIW8pCRl81Mqri7nvF5v1t6nKFcKrmC3puFC_TrHzEsve4fYnDltaJY5chmRQ",
+    "high_res_url": "//www.google.com/logos/doodles/2023/jaap-edens-150th-birthday-6753651837109954-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      10,
+      19
+    ],
+    "translations": {
+      "en": {
+        "query": "Jaap Eden",
+        "hover_text": "Jaap Eden's 150th Birthday",
+        "share_text": "Jaap Eden's 150th Birthday! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Jaap Eden",
+        "hover_text": "Jaap Eden se 150e verjaarsdag",
+        "share_text": "Jaap Eden se 150e verjaarsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Jaap Eden",
+        "hover_text": "150-vjetori i lindjes së Jaap Eden",
+        "share_text": "150-vjetori i lindjes së Jaap Eden! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ጃፕ ኤደን",
+        "hover_text": "የጃፕ ኤደን 150ኛ ልደት",
+        "share_text": "የጃፕ ኤደን 150ኛ ልደት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "ياب إيدن",
+        "hover_text": "الذكرى 150 لميلاد \"ياب إيدن\"",
+        "share_text": "نحتفل اليوم بالذكرى 150 لميلاد \"ياب إيدن\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Յապ Էդեն",
+        "hover_text": "Յապ Էդենի ծննդյան 150-ամյակը",
+        "share_text": "Յապ Էդենի ծննդյան 150-ամյակը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Jaap Eden",
+        "hover_text": "Jaap Eden'in 150-ci ildönümü",
+        "share_text": "Jaap Eden'in 150-ci ildönümü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "জাপ ইডেন",
+        "hover_text": "জাপ ইডেনের ১৫০তম জন্মদিন",
+        "share_text": "জাপ ইডেনের ১৫০তম জন্মদিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Jaap Eden",
+        "hover_text": "Jaap Edenen jaiotzaren 150. urteurrena",
+        "share_text": "Jaap Edenen jaiotzaren 150. urteurrena #GoogleDoodle"
+      },
+      "be": {
+        "query": "Яп Эдэн",
+        "hover_text": "150 гадоў з дня нараджэння Япа Эдэна",
+        "share_text": "150 гадоў з дня нараджэння Япа Эдэна! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Jaap Eden",
+        "hover_text": "150 godina od rođenja Jaapa Edena",
+        "share_text": "150 godina od rođenja Jaapa Edena! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Jaap Eden",
+        "hover_text": "Jaap Eden's 150th Birthday",
+        "share_text": "Jaap Eden's 150th Birthday! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Яп Еден",
+        "hover_text": "150 години от рождението на Яп Еден",
+        "share_text": "150 години от рождението на Яп Еден! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Jaap Eden",
+        "hover_text": "Jaap Eden ၏ နှစ် ၁၅၀ ပြည့်မွေးနေ့",
+        "share_text": "Jaap Eden ၏ နှစ် ၁၅၀ ပြည့်မွေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Jaap Eden",
+        "hover_text": "150è aniversari del naixement de Jaap Eden",
+        "share_text": "150è aniversari del naixement de Jaap Eden #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Jaap Eden",
+        "hover_text": "Jaap Eden 誕辰 150 週年",
+        "share_text": "Jaap Eden 誕辰 150 週年！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "夏普艾登",
+        "hover_text": "夏普艾登 150 歲冥誕",
+        "share_text": "紀念夏普艾登 150 歲冥誕！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "Jaap Eden",
+        "hover_text": "Jaap Eden 诞辰 150 周年",
+        "share_text": "Jaap Eden 诞辰 150 周年！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Jaap Eden",
+        "hover_text": "150. godišnjica rođenja Jaapa Edena",
+        "share_text": "150. godišnjica rođenja Jaapa Edena! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Jaap Eden",
+        "hover_text": "150. výročí narození Jaapa Edena",
+        "share_text": "Slavíme 150. výročí narození Jaapa Edena! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Jaap Eden",
+        "hover_text": "Jaap Edens 150-års fødselsdag",
+        "share_text": "Jaap Edens 150-års fødselsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Jaap Eden",
+        "hover_text": "Jaap Eden's 150ste verjaardag",
+        "share_text": "Jaap Eden's 150ste verjaardag! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Jaap Eden",
+        "hover_text": "Jaap Edeni 150. sünniaastapäev",
+        "share_text": "Jaap Edeni 150. sünniaastapäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Jaap Eden",
+        "hover_text": "150 vuotta Jaap Edenin syntymästä",
+        "share_text": "150 vuotta Jaap Edenin syntymästä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Jaap Eden",
+        "hover_text": "Il y a 150 ans naissait Jaap Eden",
+        "share_text": "150e anniversaire de Jaap Eden #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jaap Eden",
+        "hover_text": "150ᵉ anniversaire de naissance de Jaap Eden",
+        "share_text": "150ᵉ anniversaire de naissance de Jaap Eden! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Jaap Eden",
+        "hover_text": "150.º aniversario do nacemento de Jaap Eden",
+        "share_text": "150.º aniversario do nacemento de Jaap Eden! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ჯააპ ედენი",
+        "hover_text": "150 წელი ჯააპ ედენის დაბადებიდან",
+        "share_text": "150 წელი ჯააპ ედენის დაბადებიდან! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Jaap Eden",
+        "hover_text": "150. Geburtstag von Jaap Eden",
+        "share_text": "150. Geburtstag von Jaap Eden! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Jaap Eden",
+        "hover_text": "150 χρόνια από τη γέννηση του Jaap Eden",
+        "share_text": "150 χρόνια από τη γέννηση του Jaap Eden! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "યાપ એડન",
+        "hover_text": "યાપ એડનનો 150મો જન્મદિવસ",
+        "share_text": "યાપ એડનનો 150મો જન્મદિવસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Jaap Eden",
+        "hover_text": "150 שנים להולדת יאפ עדן",
+        "share_text": "150 שנים להולדת יאפ עדן GoogleDoodle#"
+      },
+      "hi": {
+        "query": "याप एडन",
+        "hover_text": "याप एडन की 150वीं जयंती",
+        "share_text": "याप एडन की 150वीं जयंती! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Jaap Eden",
+        "hover_text": "Jaap Eden születésének 150. évfordulója",
+        "share_text": "Jaap Eden születésének 150. évfordulója! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Jaap Eden",
+        "hover_text": "150 ár frá fæðingu Jaaps Eden",
+        "share_text": "150 ár frá fæðingu Jaaps Eden! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Jaap Eden",
+        "hover_text": "Ulang Tahun Ke-150 Jaap Eden",
+        "share_text": "Ulang Tahun Ke-150 Jaap Eden #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Jaap Eden",
+        "hover_text": "150° anniversario della nascita di Jaap Eden",
+        "share_text": "150° anniversario della nascita di Jaap Eden! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ヤープ・エデン",
+        "hover_text": "ヤープ・エデン生誕 150 周年",
+        "share_text": "ヤープ・エデン生誕 150 周年 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಜಾಪ್ ಈಡನ್",
+        "hover_text": "ಜಾಪ್ ಈಡನ್ ಅವರ 150ನೇ ಜನ್ಮದಿನ",
+        "share_text": "ಜಾಪ್ ಈಡನ್ ಅವರ 150ನೇ ಜನ್ಮದಿನ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Яп Эден",
+        "hover_text": "Яп Эденнің 150 жылдығы",
+        "share_text": "Яп Эденнің 150 жылдығы! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Jaap Eden",
+        "hover_text": "ខួបកំណើតគម្រប់ 150 ឆ្នាំរបស់ Jaap Eden",
+        "share_text": "ខួបកំណើតគម្រប់ 150 ឆ្នាំរបស់ Jaap Eden! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Jaap Eden",
+        "hover_text": "Jaap Eden 탄생 150주년",
+        "share_text": "Jaap Eden 탄생 150주년 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Яп Эден",
+        "hover_text": "Яп Эдендин 150 жаш мааракеси",
+        "share_text": "Яп Эдендин 150 жаш мааракеси! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Jaap Eden",
+        "hover_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 150 ປີຂອງ Jaap Eden",
+        "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 150 ປີຂອງ Jaap Eden! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Jaap Eden",
+        "hover_text": "150º aniversario del nacimiento de Jaap Eden",
+        "share_text": "¡150º aniversario del nacimiento de Jaap Eden! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Jāps Edens",
+        "hover_text": "Jāpa Edena 150. dzimšanas diena",
+        "share_text": "Jāpa Edena 150. dzimšanas diena! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Jaapas Edenas",
+        "hover_text": "150-asis Jaapo Edeno gimtadienis",
+        "share_text": "150-asis Jaapo Edeno gimtadienis! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Jaap Eden",
+        "hover_text": "150. роденден на Jaap Eden",
+        "share_text": "150. роденден на Jaap Eden! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Jaap Eden",
+        "hover_text": "Ulang Tahun Kelahiran Jaap Eden yang ke-150",
+        "share_text": "Ulang Tahun Kelahiran Jaap Eden yang ke-150! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Jaap Eden",
+        "hover_text": "Jaap Eden-ന്റെ 150-ാം ജന്മദിനം",
+        "share_text": "Jaap Eden-ന്റെ 150-ാം ജന്മദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "याप एडन",
+        "hover_text": "याप एडन यांचा १५० वा स्मृतिदिन",
+        "share_text": "याप एडन यांचा १५० वा स्मृतिदिन! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Яп Эден",
+        "hover_text": "Яп Эдений мэндэлсний 150 жилийн ой",
+        "share_text": "Яп Эдений мэндэлсний 150 жилийн ой! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Jaap Eden",
+        "hover_text": "Jaap Eden को १५० औँ जन्मजयन्ती",
+        "share_text": "Jaap Eden को १५० औँ जन्मजयन्ती! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Jaap Eden",
+        "hover_text": "Jaap Edens 150-årsdag",
+        "share_text": "Jaap Edens 150-årsdag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ୟାପ ଏଡେନ",
+        "hover_text": "ୟାପ ଏଡେନଙ୍କ 150ତମ ଜନ୍ମଦିନ",
+        "share_text": "ୟାପ ଏଡେନଙ୍କ 150ତମ ଜନ୍ମଦିନ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "یاپ اِدِن",
+        "hover_text": "صدوپنجاهمین زادروز یاپ اِدِن",
+        "share_text": "صدوپنجاهمین زادروز یاپ اِدِن! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Jaap Eden",
+        "hover_text": "Jaap Eden – 150 rocznica urodzin",
+        "share_text": "Jaap Eden – 150 rocznica urodzin #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Jaap Eden",
+        "hover_text": "150º aniversário de Jaap Eden",
+        "share_text": "150º aniversário de Jaap Eden #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Jaap Eden",
+        "hover_text": "150.º Aniversário de Jaap Eden",
+        "share_text": "150.º Aniversário de Jaap Eden! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Jaap Eden",
+        "hover_text": "ਜਾਪ ਈਡਨ ਦਾ 150ਵਾਂ ਜਨਮਦਿਨ",
+        "share_text": "ਜਾਪ ਈਡਨ ਦਾ 150ਵਾਂ ਜਨਮਦਿਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Jaap Eden",
+        "hover_text": "150 de ani de la nașterea lui Jaap Eden",
+        "share_text": "150 de ani de la nașterea lui Jaap Eden! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Яп Эден",
+        "hover_text": "150 лет со дня рождения Япа Эдена",
+        "share_text": "150 лет со дня рождения Япа Эдена #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Јап Еден",
+        "hover_text": "150 година од рођења Јапа Едена",
+        "share_text": "150 година од рођења Јапа Едена! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Jap Eden",
+        "hover_text": "150 godina od rođenja Japa Edena",
+        "share_text": "150 godina od rođenja Japa Edena! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ජැප් ඊඩන්",
+        "hover_text": "ජැප් ඊඩන්ගේ 150 වැනි උපන් දිනය",
+        "share_text": "ජැප් ඊඩන්ගේ 150 වැනි උපන් දිනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Jaap Eden",
+        "hover_text": "150. výročie narodenia Jaapa Edena",
+        "share_text": "150. výročie narodenia Jaapa Edena. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Jaap Eden",
+        "hover_text": "150. rojstni dan Jaapa Edena",
+        "share_text": "150. rojstni dan Jaapa Edena! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Jaap Eden",
+        "hover_text": "150.º aniversario del nacimiento de Jaap Eden",
+        "share_text": "Hoy es el 150.º aniversario del nacimiento de Jaap Eden #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Jaap Eden",
+        "hover_text": "Miaka 150 Tangu Kuzaliwa kwa Jaap Eden",
+        "share_text": "Miaka 150 Tangu Kuzaliwa kwa Jaap Eden! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Jaap Eden",
+        "hover_text": "Jaap Eden 150 år",
+        "share_text": "Jaap Eden 150 år #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Jaap Eden",
+        "hover_text": "ஜாப் ஈடெனின் 150வது பிறந்தநாள்",
+        "share_text": "ஜாப் ஈடெனின் 150வது பிறந்தநாள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "యాప్ ఏడెన్",
+        "hover_text": "యాప్ ఏడెన్ 150వ జయంతి",
+        "share_text": "యాప్ ఏడెన్ 150వ జయంతి! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Jaap Eden",
+        "hover_text": "วันเกิดปีที่ 150 ของ Jaap Eden",
+        "share_text": "วันเกิดปีที่ 150 ของ Jaap Eden #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Jaap Eden",
+        "hover_text": "Jaap Eden'ın 150. Doğum Günü",
+        "share_text": "Jaap Eden'ın 150. Doğum Günü #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Яап Іден",
+        "hover_text": "150 років від дня народження Яапа Ідена",
+        "share_text": "150 років від дня народження Яапа Ідена! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Jaap Eden",
+        "hover_text": "Jaap Eden کی 150 ویں سالگرہ",
+        "share_text": "Jaap Eden کی 150 ویں سالگرہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Jaap Eden",
+        "hover_text": "Jaap Eden tavalludining 150 yilligi",
+        "share_text": "Jaap Eden tavalludining 150 yilligi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Jaap Eden",
+        "hover_text": "Kỷ niệm 150 năm ngày sinh của Jaap Eden",
+        "share_text": "Kỷ niệm 150 năm ngày sinh của Jaap Eden! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Jaap Eden",
+        "hover_text": "Usuku Lokuzalwa luka-Jaap Eden Lweminyaka eyi-150",
+        "share_text": "Usuku Lokuzalwa luka-Jaap Eden Lweminyaka eyi-150! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Jaap Eden",
+    "share_text": "Jaap Eden's 150th Birthday! #GoogleDoodle"
+  },
+  {
+    "name": "violet-king-henrys-94th-birthday",
+    "title": "Violet King Henry's 94th Birthday",
+    "url": "//www.google.com/logos/doodles/2023/violet-king-henrys-94th-birthday-6753651837109953.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/gmQbQQwOOUoMccoY-EwHz6P_kROwBlZ1yEnocCaW5qZHqy_r-QPo2585JxWwky_W2nxOd3xk2cjlfT77RsywyNF386LQXJZQLlsgBoY4wAKxnqRxPhUq",
+    "high_res_url": "//www.google.com/logos/doodles/2023/violet-king-henrys-94th-birthday-6753651837109953-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      10,
+      18
+    ],
+    "translations": {
+      "en": {
+        "query": "Violet King Henry",
+        "hover_text": "Violet King Henrys 94th Birthday",
+        "share_text": "Violet King Henry's 94th Birthday! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Violet King Henry",
+        "hover_text": "Violet King Henry se 94e verjaarsdag",
+        "share_text": "Violet King Henry se 94e verjaarsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Violet King Henry",
+        "hover_text": "94-vjetori i lindjes së Violet King Henry",
+        "share_text": "94-vjetori i lindjes së Violet King Henry! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ቫዮሌት ኪንግ ሄንሪ",
+        "hover_text": "የቫዮሌት ኪንግ ሄንሪ 94ኛ ልደት",
+        "share_text": "የቫዮሌት ኪንግ ሄንሪ 94ኛ ልደት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "فيوليت كينغ هنري",
+        "hover_text": "الذكرى 94 لميلاد \"فيوليت كينغ هنري\"",
+        "share_text": "نحتفل اليوم بالذكرى 94 لميلاد \"فيوليت كينغ هنري\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Վայոլեթ Քինգ Հենրի",
+        "hover_text": "Վայոլեթ Քինգ Հենրիի ծննդյան 94-ամյակը",
+        "share_text": "Վայոլեթ Քինգ Հենրիի ծննդյան 94-ամյակը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Violet King Henry",
+        "hover_text": "Violet King Henry'nin 94-cü ildönümü",
+        "share_text": "Violet King Henry'nin 94-cü ildönümü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ভায়োলেট কিং হেনরি",
+        "hover_text": "ভায়োলেট কিং হেনরির ৯৪তম জন্মদিন",
+        "share_text": "ভায়োলেট কিং হেনরির ৯৪তম জন্মদিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Violet King Henry",
+        "hover_text": "Violet King Henryren jaiotzaren 94. urteurrena",
+        "share_text": "Violet King Henryren jaiotzaren 94. urteurrena #GoogleDoodle"
+      },
+      "be": {
+        "query": "Ваялет Кінг Генры",
+        "hover_text": "94 гады з дня нараджэння Ваялет Кінг Генры",
+        "share_text": "94 гады з дня нараджэння Ваялет Кінг Генры! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Violet King Henry",
+        "hover_text": "94 godine od rođenja Violete King Henry",
+        "share_text": "94 godine od rođenja Violete King Henry! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Violet King Henry",
+        "hover_text": "Violet King Henry's 94th birthday",
+        "share_text": "Violet King Henry's 94th birthday! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Вайълет Кинг Хенри",
+        "hover_text": "94 години от рождението на Вайълет Кинг Хенри",
+        "share_text": "94 години от рождението на Вайълет Кинг Хенри! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Violet King Henry",
+        "hover_text": "Violet King Henry ၏ ၉၄ နှစ်မြောက်မွေးနေ့",
+        "share_text": "Violet King Henry ၏ ၉၄ နှစ်မြောက်မွေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Violet King Henry",
+        "hover_text": "94è aniversari del naixement de Violet King Henry",
+        "share_text": "94è aniversari del naixement de Violet King Henry #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Violet King Henry",
+        "hover_text": "Violet King Henry 誕辰 94 週年",
+        "share_text": "Violet King Henry 誕辰 94 週年！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "維奧萊特金亨利",
+        "hover_text": "維奧萊特金亨利 94 歲冥誕",
+        "share_text": "紀念維奧萊特金亨利 94 歲冥誕！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "Violet King Henry",
+        "hover_text": "Violet King Henry 诞辰 94 周年",
+        "share_text": "Violet King Henry 诞辰 94 周年！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Violet King Henry",
+        "hover_text": "94. godišnjica rođenja Violet King Henry",
+        "share_text": "94. godišnjica rođenja Violet King Henry! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Violet King Henry",
+        "hover_text": "94. výročí narození Violet King Henry",
+        "share_text": "Slavíme 94. výročí narození Violet King Henry! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Violet King Henry",
+        "hover_text": "Violet King Henrys 94-års fødselsdag",
+        "share_text": "Violet King Henrys 94-års fødselsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Violet King Henry",
+        "hover_text": "94e geboortedag van Violet King Henry",
+        "share_text": "De 94e geboortedag van Violet King Henry! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Violet King Henry",
+        "hover_text": "Violet King Henry 94. sünniaastapäev",
+        "share_text": "Violet King Henry 94. sünniaastapäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Violet King Henry",
+        "hover_text": "94 vuotta Violet King Henryn syntymästä",
+        "share_text": "94 vuotta Violet King Henryn syntymästä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Violet King Henry",
+        "hover_text": "Il y a 94 ans naissait Violet King Henry",
+        "share_text": "94e anniversaire de Violet King Henry #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Violet King Henry",
+        "hover_text": "Il y a 94 ans naissait Violet King Henry",
+        "share_text": "Il y a 94 ans naissait Violet King Henry #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Violet King Henry",
+        "hover_text": "94.º aniversario do nacemento de Violet King Henry",
+        "share_text": "94.º aniversario do nacemento de Violet King Henry! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ვიოლეტ კინგ ჰენრი",
+        "hover_text": "94 წელი ვიოლეტ კინგ ჰენრის დაბადებიდან",
+        "share_text": "94 წელი ვიოლეტ კინგ ჰენრის დაბადებიდან! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Violet King Henry",
+        "hover_text": "94. Geburtstag von Violet King Henry",
+        "share_text": "94. Geburtstag von Violet King Henry! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Violet King Henry",
+        "hover_text": "94 χρόνια από τη γέννηση της Violet King Henry",
+        "share_text": "94 χρόνια από τη γέννηση της Violet King Henry! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "વાયોલેટ કિંગ હેન્રી",
+        "hover_text": "વાયોલેટ કિંગ હેન્રીનો 94મો જન્મદિવસ",
+        "share_text": "વાયોલેટ કિંગ હેન્રીનો 94મો જન્મદિવસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Violet King Henry",
+        "hover_text": "94 שנים להולדת ויולט קינג הנרי",
+        "share_text": "94 שנים להולדת ויולט קינג הנרי GoogleDoodle#"
+      },
+      "hi": {
+        "query": "वॉयलेट किंग हेनरी",
+        "hover_text": "वॉयलेट किंग हेनरी की 94वीं जयंती",
+        "share_text": "वॉयलेट किंग हेनरी की 94वीं जयंती! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Violet King Henry",
+        "hover_text": "Violet King Henry születésének 94. évfordulója",
+        "share_text": "Violet King Henry születésének 94. évfordulója! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Violet King Henry",
+        "hover_text": "94 ár frá fæðingu Violet King Henry",
+        "share_text": "94 ár frá fæðingu Violet King Henry! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Violet King Henry",
+        "hover_text": "Ulang Tahun Ke-94 Violet King Henry",
+        "share_text": "Ulang Tahun Ke-94 Violet King Henry #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Violet King Henry",
+        "hover_text": "94° anniversario della nascita di Violet King Henry",
+        "share_text": "94° anniversario della nascita di Violet King Henry! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "バイオレット・キング・ヘンリー",
+        "hover_text": "バイオレット・キング・ヘンリー生誕 94 周年",
+        "share_text": "バイオレット・キング・ヘンリー生誕 94 周年 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ವಯಲೆಟ್ ಕಿಂಗ್ ಹೆನ್ರಿ",
+        "hover_text": "ವಯಲೆಟ್ ಕಿಂಗ್ ಹೆನ್ರಿ ಅವರ 94ನೇ ಜನ್ಮದಿನ",
+        "share_text": "ವಯಲೆಟ್ ಕಿಂಗ್ ಹೆನ್ರಿ ಅವರ 94ನೇ ಜನ್ಮದಿನ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Вайолет Кинг Хенри",
+        "hover_text": "Вайолет Кинг Хенридің 94 жылдығы",
+        "share_text": "Вайолет Кинг Хенридің 94 жылдығы! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Violet King Henry",
+        "hover_text": "ខួបកំណើត​គម្រប់ 94 ឆ្នាំរបស់ Violet King Henry",
+        "share_text": "ខួបកំណើត​គម្រប់ 94 ឆ្នាំរបស់ Violet King Henry! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Violet King Henry",
+        "hover_text": "Violet King Henry 탄생 94주년",
+        "share_text": "Violet King Henry 탄생 94주년 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Вайолет Кинг Генри",
+        "hover_text": "Вайолет Кинг Генринин 94 жаш мааракеси",
+        "share_text": "Вайолет Кинг Генринин 94 жаш мааракеси! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Violet King Henry",
+        "hover_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 94 ປີຂອງ Violet King Henry",
+        "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 94 ປີຂອງ Violet King Henry! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Violet King Henry",
+        "hover_text": "94º aniversario del nacimiento de Violet King Henry",
+        "share_text": "¡94º aniversario del nacimiento de Violet King Henry! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Vaioleta Kinga Henrija",
+        "hover_text": "Vaioletas Kingas Henrijas 94. dzimšanas diena",
+        "share_text": "Vaioletas Kingas Henrijas 94. dzimšanas diena! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Violeta King Henry",
+        "hover_text": "94-asis Violetos King Henry gimtadienis",
+        "share_text": "94-asis Violetos King Henry gimtadienis! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Violet King Henry",
+        "hover_text": "94. роденден на Violet King Henry",
+        "share_text": "94. роденден на Violet King Henry! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Violet King Henry",
+        "hover_text": "Ulang Tahun Kelahiran Violet King Henry yang ke-94",
+        "share_text": "Ulang Tahun Kelahiran Violet King Henry yang ke-94! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "വയലറ്റ് കിംഗ് ഹെൻറി",
+        "hover_text": "വയലറ്റ് കിംഗ് ഹെൻറിയുടെ 94-ാം ജന്മദിനം",
+        "share_text": "വയലറ്റ് കിംഗ് ഹെൻറിയുടെ 94-ാം ജന്മദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "व्हायलेट किंग हेन्री",
+        "hover_text": "व्हायलेट किंग हेन्री यांचा ९४ वा स्मृतिदिन",
+        "share_text": "व्हायलेट किंग हेन्री यांचा ९४ वा स्मृतिदिन! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Вайолет Кинг Хенри",
+        "hover_text": "Вайолет Кинг Хенригийн мэндэлсний 94 жилийн ой",
+        "share_text": "Вайолет Кинг Хенригийн мэндэлсний 94 жилийн ой! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Violet King Henry",
+        "hover_text": "Violet King Henry को ९४ औँ जन्मजयन्ती",
+        "share_text": "Violet King Henry को ९४ औँ जन्मजयन्ती! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Violet King Henry",
+        "hover_text": "Violet King Henrys 94-årsdag",
+        "share_text": "Violet King Henrys 94-årsdag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଭାୟୋଲେଟ କିଙ୍ଗ ହେନେରି",
+        "hover_text": "ଭାୟୋଲେଟ କିଙ୍ଗ ହେନେରିଙ୍କ 94ତମ ଜନ୍ମଦିନ",
+        "share_text": "ଭାୟୋଲେଟ କିଙ୍ଗ ହେନେରିଙ୍କ 94ତମ ଜନ୍ମଦିନ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "ویولت کینگ هنری",
+        "hover_text": "نودوچهارمین زادروز ویولت کینگ هنری",
+        "share_text": "نودوچهارمین زادروز ویولت کینگ هنری! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Violet King Henry",
+        "hover_text": "Violet King Henry – 94 rocznica urodzin",
+        "share_text": "Violet King Henry – 94 rocznica urodzin #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Violet King Henry",
+        "hover_text": "94º aniversário de Violet King Henry",
+        "share_text": "94º aniversário de Violet King Henry #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Violet King Henry",
+        "hover_text": "94.º Aniversário de Violet King Henry",
+        "share_text": "94.º Aniversário de Violet King Henry! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Violet King Henry",
+        "hover_text": "ਵਾਇਲੇਟ ਕਿੰਗ ਹੈਨਰੀ 94ਵਾਂ ਜਨਮਦਿਨ",
+        "share_text": "ਵਾਇਲਿਟ ਕਿੰਗ ਹੈਨਰੀ 94ਵਾਂ ਜਨਮਦਿਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Violet King Henry",
+        "hover_text": "94 de ani de la nașterea lui Violet King Henry",
+        "share_text": "94 de ani de la nașterea lui Violet King Henry! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Вайолет Кинг Генри",
+        "hover_text": "94 года со дня рождения Вайолет Кинг Генри",
+        "share_text": "94 года со дня рождения Вайолет Кинг Генри #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Вајолет Кинг Хенри",
+        "hover_text": "94 године од рођења Вајолет Кинг Хенри",
+        "share_text": "94 године од рођења Вајолет Кинг Хенри! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Vajolet King Henri",
+        "hover_text": "94 godine od rođenja Vajolet King Henri",
+        "share_text": "94 godine od rođenja Vajolet King Henri! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "වයලට් කිං හෙන්රි",
+        "hover_text": "වයලට් කිං හෙන්රිගේ 94 වැනි උපන් දිනය",
+        "share_text": "වයලට් කිං හෙන්රිගේ 94 වැනි උපන් දිනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Violet King Henry",
+        "hover_text": "94. výročie narodenia Violet Kingovej Henryovej",
+        "share_text": "94. výročie narodenia Violet Kingovej Henryovej. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Violet King Henry",
+        "hover_text": "94. rojstni dan Violet King Henry",
+        "share_text": "94. rojstni dan Violet King Henry! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Violet King Henry",
+        "hover_text": "94.º aniversario del nacimiento de Violet King Henry",
+        "share_text": "Hoy es el 94.º aniversario del nacimiento de Violet King Henry #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Violet King Henry",
+        "hover_text": "Miaka 94 Tangu Kuzaliwa kwa Violet King Henry",
+        "share_text": "Miaka 94 Tangu Kuzaliwa kwa Violet King Henry! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Violet King Henry",
+        "hover_text": "Violet King Henry 94 år",
+        "share_text": "Violet King Henry 94 år #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "வைலட் கிங் ஹென்ரி",
+        "hover_text": "வைலட் கிங் ஹென்ரியின் 94வது பிறந்தநாள்",
+        "share_text": "வைலட் கிங் ஹென்ரியின் 94வது பிறந்தநாள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "వాయ్‌లెట్ కింగ్ హెన్రీ",
+        "hover_text": "వాయ్‌లెట్ కింగ్ హెన్రీ 94వ జయంతి",
+        "share_text": "వాయ్‌లెట్ కింగ్ హెన్రీ 94వ జయంతి! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Violet King Henry",
+        "hover_text": "วันเกิดปีที่ 94 ของ Violet King Henry",
+        "share_text": "วันเกิดปีที่ 94 ของ Violet King Henry #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Violet King Henry",
+        "hover_text": "Violet King Henry'nin 94. Doğum Günü",
+        "share_text": "Violet King Henry'nin 94. Doğum Günü #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Вайолет Кінг Генрі",
+        "hover_text": "94 роки від дня народження Вайолет Кінг Генрі",
+        "share_text": "94 роки від дня народження Вайолет Кінг Генрі! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Violet King Henry",
+        "hover_text": "Violet King Henry کی 94 ویں سالگرہ",
+        "share_text": "Violet King Henry کی 94 ویں سالگرہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Violet King Henry",
+        "hover_text": "Violet King Henry tavalludining 94 yilligi",
+        "share_text": "Violet King Henry tavalludining 94 yilligi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Violet King Henry",
+        "hover_text": "Kỷ niệm 94 năm ngày sinh của Violet King Henry",
+        "share_text": "Kỷ niệm 94 năm ngày sinh của Violet King Henry! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Violet King Henry",
+        "hover_text": "Usuku Lokuzalwa luka-Violet King Henry Lweminyaka engama-94",
+        "share_text": "Usuku Lokuzalwa luka-Violet King Henry Lweminyaka engama-94! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {
+      "fr": {
+        "language": "fr",
+        "blog_post": "<p>Le Doodle d&rsquo;aujourd&rsquo;hui c&eacute;l&egrave;bre la naissance de Violet King Henry, la premi&egrave;re avocate noir du Canada. Pionni&egrave;re dans le secteur juridique et leader dans sa communaut&eacute;, Violet king reste un symbole de pers&eacute;v&eacute;rance face &agrave; l&rsquo;adversit&eacute;.</p>\r\n\r\n<p>King est n&eacute;e en ce jour de 1929 &agrave; Calgary, en Alberta. Elle &eacute;tait une &eacute;l&egrave;ve &eacute;quilibr&eacute;e qui obtenait de bons r&eacute;sultats scolaires et participait &agrave; plusieurs activit&eacute;s parascolaires. La l&eacute;gende de son annuaire de fin d&#39;&eacute;tudes secondaires indique fi&egrave;rement qu&#39;elle a l&#39;intention de faire carri&egrave;re dans le droit. En 1950, elle s&#39;inscrit &agrave; la facult&eacute; de droit de l&#39;Universit&eacute; de l&#39;Alberta. King excelle dans ses cours, donne des le&ccedil;ons de piano et est vice-pr&eacute;sidente d&#39;un groupe f&eacute;ministe, le Blue Stocking Club, et de l&#39;Union des &eacute;tudiants. En 1952, elle re&ccedil;oit un anneau d&#39;or &laquo; A &raquo; pour ses nombreuses contributions &agrave; l&#39;universit&eacute;.</p>\r\n\r\n<p>King obtient son dipl&ocirc;me en 1953, devenant ainsi la premi&egrave;re Noire dipl&ocirc;m&eacute;e de la facult&eacute; de droit de l&#39;universit&eacute; d&#39;Alberta et la premi&egrave;re Noire canadienne de la province &agrave; obtenir un dipl&ocirc;me de droit. Elle fait son stage dans un cabinet d&#39;avocats de Calgary et participe &agrave; cinq proc&egrave;s criminels tr&egrave;s m&eacute;diatis&eacute;s au cours de sa premi&egrave;re ann&eacute;e. King est admise au barreau de l&#39;Alberta en 1954, ce qui ajoute une autre &laquo; premi&egrave;re &raquo; &agrave; sa liste : elle devient la premi&egrave;re femme noire du Canada &agrave; pratiquer le droit.</p>\r\n\r\n<p>Elle a pass&eacute; quelques ann&eacute;es en Alberta en tant qu&#39;avocate avant de s&#39;installer &agrave; Ottawa, o&ugrave; elle a rejoint le minist&egrave;re f&eacute;d&eacute;ral de la Citoyennet&eacute; et de l&#39;Immigration. &Agrave; ce titre, Mme King a rencontr&eacute; des dirigeants d&#39;organisations communautaires et a aid&eacute; les nouveaux immigrants &agrave; trouver du travail et &agrave; s&#39;installer au Canada. Sept ans plus tard, elle d&eacute;m&eacute;nage aux &Eacute;tats-Unis et travaille comme directrice ex&eacute;cutive de la branche communautaire du YMCA de Newark, dans le New Jersey, o&ugrave; elle aide les candidats noirs &agrave; trouver un emploi pendant six ans avant de partir &agrave; Chicago pour travailler au si&egrave;ge national du YMCA. &Agrave; Chicago, King devient la premi&egrave;re femme, toutes races confondues, et la premi&egrave;re personne noire, tous sexes confondus, &agrave; occuper un poste de direction au sein du groupe de d&eacute;veloppement organisationnel du Conseil national des YMCA des &Eacute;tats-Unis (qui fait office de conseil d&#39;administration des YMCA).</p>\r\n\r\n<p>En 1998, elle a &eacute;t&eacute; intronis&eacute;e au YMCA Hall of Fame pour son travail de promotion des droits des femmes et des groupes minoritaires. Le gouvernement de l&#39;Alberta a donn&eacute; son nom &agrave; une place d&#39;Edmonton en 2021, et le prix Violet King Henry Law School, nouvellement cr&eacute;&eacute;, est d&eacute;cern&eacute; chaque ann&eacute;e &agrave; un &eacute;tudiant en droit noir exceptionnel de l&#39;universit&eacute; de l&#39;Alberta. La facult&eacute; de droit de l&#39;Universit&eacute; m&eacute;tropolitaine de Toronto d&eacute;cerne &eacute;galement un prix annuel &agrave; un &eacute;tudiant engag&eacute; dans la d&eacute;fense des droits civils, et l&#39;Association des &eacute;tudiants noirs en droit du Canada organise d&eacute;sormais un d&eacute;jeuner &laquo; Femmes d&#39;excellence en droit &raquo; en son honneur lors de sa conf&eacute;rence nationale annuelle.</p>\r\n\r\n<p>Dans un discours prononc&eacute; peu apr&egrave;s son admission au barreau canadien, King a fait remarquer que certaines personnes l&#39;avaient d&eacute;courag&eacute;e de poursuivre une carri&egrave;re d&#39;avocate. Elle a d&eacute;clar&eacute; : &laquo; Les gens m&#39;ont dit que ce n&#39;&eacute;tait pas une bonne id&eacute;e pour une fille de devenir avocate, en particulier une fille de couleur... mais j&#39;ai continu&eacute;. &raquo; - Violet King, 5 mai 1956. Et en &laquo; allant de l&#39;avant &raquo;, elle leur a prouv&eacute; qu&#39;ils avaient tort en brisant les plafonds de verre et en inspirant les femmes de couleur du monde entier &agrave; poursuivre leurs r&ecirc;ves, m&ecirc;me lorsqu&#39;elles se heurtent &agrave; des r&eacute;sistances.</p>\r\n\r\n<p>Joyeux anniversaire, Violet King Henry, merci d&#39;avoir bris&eacute; les barri&egrave;res de genre et de race tout au long de votre impressionnante carri&egrave;re !</p>\r\n"
+      }
+    },
+    "query": "Violet King Henry",
+    "share_text": "Violet King Henry's 94th Birthday! #GoogleDoodle"
+  },
+  {
     "name": "raoul-a-cortezs-118th-birthday",
     "title": "Raoul A. Cortez's 118th Birthday",
     "url": "//www.google.com/logos/doodles/2023/raoul-a-cortezs-118th-birthday-6753651837110091.3-l.png",
@@ -520,7 +1523,7 @@
       "af": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "Gelukkige Onderwysersdag! #GoogleDoodle"
       },
       "sq": {
         "query": null,
@@ -540,17 +1543,17 @@
       "hy": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "Շնորհավո՛ր ուսուցիչների օրը #GoogleDoodle"
       },
       "az": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "Müəllimlər Gününüz Mübarək! #GoogleDoodle"
       },
       "bn": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "শিক্ষক দিবসের শুভেচ্ছা! #GoogleDoodle"
       },
       "eu": {
         "query": null,
@@ -575,42 +1578,42 @@
       "bg": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "Честит Ден на учителя! #GoogleDoodle"
       },
       "my": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "ပျော်ရွှင်ဖွယ် ဆရာများနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
       },
       "ca": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "Feliç Dia del Mestre! #GoogleDoodle"
       },
       "zh-HK": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "教師日快樂！#GoogleDoodle"
       },
       "zh-TW": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "教師節快樂！#GoogleDoodle"
       },
       "zh-CN": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "欢庆教师节！#GoogleDoodle"
       },
       "hr": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "Sretan Dan učitelja! #GoogleDoodle"
       },
       "cs": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "Veselý Den učitelů! #GoogleDoodle"
       },
       "da": {
         "query": null,
@@ -620,7 +1623,7 @@
       "nl": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "Fijne Lerarendag! #GoogleDoodle"
       },
       "et": {
         "query": null,
@@ -640,22 +1643,22 @@
       "fr-CA": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "Joyeuse journée des enseignants! #GoogleDoodle"
       },
       "gl": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "Feliz Día do Mestre! #GoogleDoodle"
       },
       "ka": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "გილოცავთ მასწავლებლის დღეს! #GoogleDoodle"
       },
       "de": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "Alles Gute zum Tag der Lehrer! #GoogleDoodle"
       },
       "el": {
         "query": null,
@@ -675,12 +1678,12 @@
       "iw": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "חוגגים את יום המורה GoogleDoodle#"
       },
       "hi": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "शिक्षक दिवस की शुभकामनाएं! #GoogleDoodle"
       },
       "hu": {
         "query": null,
@@ -695,7 +1698,7 @@
       "id": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "Selamat Hari Guru! #GoogleDoodle"
       },
       "ga": {
         "query": null,
@@ -705,22 +1708,22 @@
       "it": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "Buona festa degli insegnanti! #GoogleDoodle"
       },
       "ja": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "教師の日を祝おう！#GoogleDoodle"
       },
       "kn": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "ಶಿಕ್ಷಕರ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
       },
       "kk": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "Мұғалімдер күні құтты болсын! #GoogleDoodle"
       },
       "km": {
         "query": null,
@@ -730,17 +1733,17 @@
       "ko": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "교사의 날 기념 #GoogleDoodle"
       },
       "ky": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "Мугалимдер күнүңүз менен! #GoogleDoodle"
       },
       "lo": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "ສຸກສັນວັນຄູ! #GoogleDoodle"
       },
       "es-419": {
         "query": "Día del Profesor ",
@@ -760,7 +1763,7 @@
       "mk": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "Среќен Ден на наставниците! #GoogleDoodle"
       },
       "mg": {
         "query": null,
@@ -775,7 +1778,7 @@
       "ml": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "അദ്ധ്യാപക ദിനാശംസകൾ! #GoogleDoodle"
       },
       "mt": {
         "query": null,
@@ -800,7 +1803,7 @@
       "no": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "Gratulerer med lærernes dag! #GoogleDoodle"
       },
       "nn": {
         "query": null,
@@ -825,12 +1828,12 @@
       "fa": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "روز معلم مبارک! ‎#GoogleDoodle"
       },
       "pl": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "Obchodzimy Dzień Nauczyciela #GoogleDoodle"
       },
       "pt-BR": {
         "query": null,
@@ -840,12 +1843,12 @@
       "pt-PT": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "Feliz Dia do Professor! #GoogleDoodle"
       },
       "pa": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "ਅਧਿਆਪਕ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
       },
       "ro": {
         "query": null,
@@ -895,7 +1898,7 @@
       "sk": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "Šťastný Deň učiteľov! #GoogleDoodle"
       },
       "sl": {
         "query": null,
@@ -920,7 +1923,7 @@
       "sw": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "Heri ya Sikukuu ya Walimu! #GoogleDoodle"
       },
       "sv": {
         "query": null,
@@ -935,12 +1938,12 @@
       "ta": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "ஆசிரியர் தின வாழ்த்துகள்! #GoogleDoodle"
       },
       "te": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "ఉపాధ్యాయుల దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
       },
       "th": {
         "query": null,
@@ -955,7 +1958,7 @@
       "tr": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "Öğretmenler Günü'nü kutluyoruz. #GoogleDoodle"
       },
       "tk": {
         "query": null,
@@ -990,7 +1993,7 @@
       "zu": {
         "query": null,
         "hover_text": null,
-        "share_text": ""
+        "share_text": "Sikufisela Usuku Oluhle Lothisha! #GoogleDoodle"
       }
     },
     "translated_blog_posts": {},
