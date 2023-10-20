@@ -1,5 +1,1003 @@
 [
   {
+    "name": "adelaide-halls-122nd-birthday",
+    "title": "Adelaide Hall’s 122nd Birthday",
+    "url": "//www.google.com/logos/doodles/2023/adelaide-halls-122nd-birthday-6753651837110092-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/a-Fn6AiO8Yf8FhT35qdAikEpblXUBPeYybjkQgx5kf4n7LcKBjWFoEQN9Mx8bakz8zy0qvXEDuH2bMHFR_I0WlLrZMfBzp0kBNKA_qQM4VoCNo9Y1FGl",
+    "high_res_url": "//www.google.com/logos/doodles/2023/adelaide-halls-122nd-birthday-6753651837110092-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2023,
+      10,
+      20
+    ],
+    "translations": {
+      "en": {
+        "query": "Adelaide Hall",
+        "hover_text": "Adelaide Hall’s 122nd Birthday",
+        "share_text": "Adelaide Hall’s 122nd Birthday! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Adelaide Hall",
+        "hover_text": "Adelaide Hall se 122e verjaarsdag",
+        "share_text": "Adelaide Hall se 122e verjaarsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Adelaide Hall",
+        "hover_text": "122-vjetori i lindjes së Adelaide Hall",
+        "share_text": "122-vjetori i lindjes së Adelaide Hall! #GoogleDoodle"
+      },
+      "am": {
+        "query": "አዲሌድ ሃል",
+        "hover_text": "የአዲሌድ ሃል 122ኛ ልደት",
+        "share_text": "የአዲሌድ ሃል 122ኛ ልደት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "آديلايد هال",
+        "hover_text": "الذكرى 122 لميلاد \"آديلايد هال\"",
+        "share_text": "نحتفل اليوم بالذكرى 122 لميلاد \"آديلايد هال\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ադելաիդա Հոլլ",
+        "hover_text": "Ադելաիդա Հոլլի ծննդյան 122-ամյակը",
+        "share_text": "Ադելաիդա Հոլլի ծննդյան 122-ամյակը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Adelaide Hall",
+        "hover_text": "Adelaide Hall’in 122-ci ildönümü",
+        "share_text": "Adelaide Hall’in 122-ci ildönümü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "অ্যাডিলেড হল",
+        "hover_text": "অ্যাডিলেড হলের ১২২তম জন্মদিন",
+        "share_text": "অ্যাডিলেড হলের ১২২তম জন্মদিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Adelaide Hall",
+        "hover_text": "Adelaide Hallen jaiotzaren 122. urteurrena",
+        "share_text": "Adelaide Hallen jaiotzaren 122. urteurrena #GoogleDoodle"
+      },
+      "be": {
+        "query": "Адэлаіда Хол",
+        "hover_text": "122 гады з дня нараджэння Адэлаіды Хол",
+        "share_text": "122 гады з дня нараджэння Адэлаіды Хол! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Adelaide Hall",
+        "hover_text": "122 godine od rođenja Adelaide Hall",
+        "share_text": "122 godine od rođenja Adelaide Hall! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Adelaide Hall",
+        "hover_text": "Adelaide Hall's 122nd birthday",
+        "share_text": "Adelaide Hall's 122nd birthday! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Аделейд Хол",
+        "hover_text": "122 години от рождението на Аделейд Хол",
+        "share_text": "122 години от рождението на Аделейд Хол! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Adelaide Hall",
+        "hover_text": "Adelaide Hall ၏ ၁၂၂ နှစ်မြောက်မွေးနေ့",
+        "share_text": "Adelaide Hall ၏ ၁၂၂ နှစ်မြောက်မွေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Adelaide Hall",
+        "hover_text": "122è aniversari del naixement d'Adelaide Hall",
+        "share_text": "122è aniversari del naixement d'Adelaide Hall #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Adelaide Hall",
+        "hover_text": "Adelaide Hall 誕辰 122 週年",
+        "share_text": "Adelaide Hall 誕辰 122 週年！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "雅德蕾德霍爾",
+        "hover_text": "雅德蕾德霍爾 122 歲冥誕",
+        "share_text": "紀念雅德蕾德霍爾 122 歲冥誕！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "Adelaide Hall",
+        "hover_text": "Adelaide Hall 诞辰 122 周年",
+        "share_text": "Adelaide Hall 诞辰 122 周年！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Adelaide Hall",
+        "hover_text": "122. godišnjica rođenja Adelaide Hall",
+        "share_text": "122. godišnjica rođenja Adelaide Hall! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Adelaide Hall",
+        "hover_text": "122. výročí narození Adelaide Hall",
+        "share_text": "Slavíme 122. výročí narození Adelaide Hall! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Adelaide Hall",
+        "hover_text": "Adelaide Halls 122-års fødselsdag",
+        "share_text": "Adelaide Halls 122-års fødselsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Adelaide Hall",
+        "hover_text": "122e geboortedag van Adelaide Hall",
+        "share_text": "De 122e geboortedag van Adelaide Hall! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Adelaide Hall",
+        "hover_text": "Adelaide Halli 122. sünniaastapäev",
+        "share_text": "Adelaide Halli 122. sünniaastapäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Adelaide Hall",
+        "hover_text": "122 vuotta Adelaide Hallin syntymästä",
+        "share_text": "122 vuotta Adelaide Hallin syntymästä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Adelaide Hall",
+        "hover_text": "Il y a 122 ans naissait Adelaide Hall",
+        "share_text": "122e anniversaire de la naissance d'Adelaide Hall #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Adelaïde Hall",
+        "hover_text": "122ᵉ anniversaire de naissance d'Adelaïde Hall",
+        "share_text": "122ᵉ anniversaire de naissance d'Adelaïde Hall! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Adelaide Hall",
+        "hover_text": "122.º aniversario do nacemento de Adelaide Hall",
+        "share_text": "122.º aniversario do nacemento de Adelaide Hall! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ადელაიდ ჰოლი",
+        "hover_text": "122 წელი ადელაიდ ჰოლის დაბადებიდან",
+        "share_text": "122 წელი ადელაიდ ჰოლის დაბადებიდან! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Adelaide Hall",
+        "hover_text": "122. Geburtstag von Adelaide Hall",
+        "share_text": "122. Geburtstag von Adelaide Hall! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Adelaide Hall",
+        "hover_text": "122 χρόνια από τη γέννηση της Adelaide Hall",
+        "share_text": "122 χρόνια από τη γέννηση της Adelaide Hall! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "એડિલેઇડ હૉલ",
+        "hover_text": "એડિલેઇડ હૉલનો 122મો જન્મદિવસ",
+        "share_text": "એડિલેઇડ હૉલનો 122મો જન્મદિવસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Adelaide Hall",
+        "hover_text": "122 שנים להולדת אדלייד האל",
+        "share_text": "122 שנים להולדת אדלייד האל GoogleDoodle#"
+      },
+      "hi": {
+        "query": "ऐडलेड हॉल",
+        "hover_text": "ऐडलेड हॉल की 122वीं जयंती",
+        "share_text": "ऐडलेड हॉल की 122वीं जयंती! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Adelaide Hall",
+        "hover_text": "Adelaide Hall születésének 122. évfordulója",
+        "share_text": "Adelaide Hall születésének 122. évfordulója #GoogleDoodle"
+      },
+      "is": {
+        "query": "Adelaide Hall",
+        "hover_text": "122 ár frá fæðingu Adelaide Hall",
+        "share_text": "122 ár frá fæðingu Adelaide Hall! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Adelaide Hall",
+        "hover_text": "Ulang Tahun Ke-122 Adelaide Hall",
+        "share_text": "Ulang Tahun Ke-122 Adelaide Hall #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Adelaide Hall",
+        "hover_text": "122ú Breithlá Adelaide Hall",
+        "share_text": "122ú Breithlá Adelaide Hall! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Adelaide Hall",
+        "hover_text": "122º anniversario della nascita di Adelaide Hall",
+        "share_text": "122º anniversario della nascita di Adelaide Hall! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "アデレード・ホール",
+        "hover_text": "アデレード・ホール生誕 122 周年",
+        "share_text": "アデレード・ホール生誕 122 周年 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಅಡಿಲೇಡ್ ಹಾಲ್",
+        "hover_text": "ಅಡಿಲೇಡ್ ಹಾಲ್ ಅವರ 122ನೇ ಜನ್ಮದಿನ",
+        "share_text": "ಅಡಿಲೇಡ್ ಹಾಲ್ ಅವರ 122ನೇ ಜನ್ಮದಿನ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Аделаида Холл",
+        "hover_text": "Аделаида Холлдың 122 жылдығы",
+        "share_text": "Аделаида Холлдың 122 жылдығы! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Adelaide Hall",
+        "hover_text": "ខួបកំណើតគម្រប់ 122 ឆ្នាំរបស់ Adelaide Hall",
+        "share_text": "ខួបកំណើតគម្រប់ 122 ឆ្នាំរបស់ Adelaide Hall! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Adelaide Hall",
+        "hover_text": "Adelaide Hall 탄생 122주년",
+        "share_text": "Adelaide Hall 탄생 122주년 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Аделаида Холл",
+        "hover_text": "Аделаида Холлдун 122 жаш мааракеси",
+        "share_text": "Аделаида Холлдун 122 жаш мааракеси! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Adelaide Hall",
+        "hover_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 122 ປີຂອງ Adelaide Hall",
+        "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 122 ປີຂອງ Adelaide Hall! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Adelaide Hall",
+        "hover_text": "122º aniversario del nacimiento de Adelaide Hall",
+        "share_text": "122º aniversario del nacimiento de Adelaide Hall #GoogleDoodle"
+      },
+      "lv": {
+        "query": "“Adelaida Hola”",
+        "hover_text": "Adelaidas Holas 122. dzimšanas diena",
+        "share_text": "Adelaidas Holas 122. dzimšanas diena! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Adelaidė Hall",
+        "hover_text": "122-asis Adelaidės Hall gimtadienis",
+        "share_text": "122-asis Adelaidės Hall gimtadienis! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Adelaide Hall",
+        "hover_text": "122. роденден на Adelaide Hall",
+        "share_text": "122. роденден на Adelaide Hall! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Adelaide Hall",
+        "hover_text": "Ulang Tahun Kelahiran Adelaide Hall yang ke-122",
+        "share_text": "Ulang Tahun Kelahiran Adelaide Hall yang ke-122! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Adelaide Hall",
+        "hover_text": "Adelaide Hall-ന്റെ 122-ാം ജന്മദിനം",
+        "share_text": "Adelaide Hall-ന്റെ 122-ാം ജന്മദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "ॲडलेड हॉल",
+        "hover_text": "ॲडलेड हॉल यांचा १२२ वा स्मृतिदिन",
+        "share_text": "ॲडलेड हॉल यांचा १२२ वा स्मृतिदिन! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Аделаида Холл",
+        "hover_text": "Аделаида Холлын мэндэлсний 122 жилийн ой",
+        "share_text": "Аделаида Холлын мэндэлсний 122 жилийн ой! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Adelaide Hall",
+        "hover_text": "Adelaide Hall को १२२ औँ जन्मजयन्ती",
+        "share_text": "Adelaide Hall को १२२ औँ जन्मजयन्ती! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Adelaide Hall",
+        "hover_text": "Adelaide Halls 122-årsdag",
+        "share_text": "Adelaide Halls 122-årsdag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଆଡିଲେଡ ହଲ",
+        "hover_text": "ଆଡିଲେଡ ହଲଙ୍କ 122ତମ ଜନ୍ମଦିନ",
+        "share_text": "ଆଡିଲେଡ ହଲଙ୍କ 122ତମ ଜନ୍ମଦିନ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "آدِلاید هال",
+        "hover_text": "صدوبیست‌ودومین زادروز آدِلاید هال",
+        "share_text": "صدوبیست‌ودومین زادروز آدِلاید هال! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Adelaide Hall",
+        "hover_text": "Adelaide Hall – 122 rocznica urodzin",
+        "share_text": "Adelaide Hall – 122 rocznica urodzin #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Adelaide Hall",
+        "hover_text": "122º aniversário de Adelaide Hall",
+        "share_text": "122º aniversário de Adelaide Hall #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Adelaide Hall",
+        "hover_text": "122.º Aniversário de Adelaide Hall",
+        "share_text": "122.º Aniversário de Adelaide Hall! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Adelaide Hall",
+        "hover_text": "ਐਡਲੇਡ ਹਾਲ ਦਾ 122ਵਾਂ ਜਨਮਦਿਨ",
+        "share_text": "ਐਡਲੇਡ ਹਾਲ ਦਾ 122ਵਾਂ ਜਨਮਦਿਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Adelaide Hall",
+        "hover_text": "122 de ani de la nașterea lui Adelaide Hall",
+        "share_text": "122 de ani de la nașterea lui Adelaide Hall! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Аделаида Холл",
+        "hover_text": "122 года со дня рождения Аделаиды Холл",
+        "share_text": "122 года со дня рождения Аделаиды Холл #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Аделајд Хол",
+        "hover_text": "122 године од рођења Аделајд Хол",
+        "share_text": "122 године од рођења Аделајд Хол! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Adelajd Hol",
+        "hover_text": "122 godine od rođenja Adelajd Hol",
+        "share_text": "122 godine od rođenja Adelajd Hol! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ඇඩිලේඩ් හෝල්",
+        "hover_text": "ඇඩිලේඩ් හෝල්ගේ 122 වැනි උපන් දිනය",
+        "share_text": "ඇඩිලේඩ් හෝල්ගේ 122 වැනි උපන් දිනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Adelaide Hallová",
+        "hover_text": "122. výročie narodenia Adelaide Hallovej",
+        "share_text": "122. výročie narodenia Adelaide Hallovej. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Adelaide Hall",
+        "hover_text": "122. rojstni dan Adelaide Hall",
+        "share_text": "122. rojstni dan Adelaide Hall! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Adelaide Hall",
+        "hover_text": "122.° aniversario del nacimiento de Adelaide Hall",
+        "share_text": "Hoy es el 122.° aniversario del nacimiento de Adelaide Hall #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Adelaide Hall",
+        "hover_text": "Miaka 122 Tangu Kuzaliwa kwa Adelaide Hall",
+        "share_text": "Miaka 122 Tangu Kuzaliwa kwa Adelaide Hall! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Adelaide Hall",
+        "hover_text": "Adelaide Hall 122 år",
+        "share_text": "Adelaide Hall 122 år #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "அடிலெய்டு ஹால்",
+        "hover_text": "அடிலெய்டு ஹாலின் 122வது பிறந்தநாள்",
+        "share_text": "அடிலெய்டு ஹாலின் 122வது பிறந்தநாள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "అడిలైడ్ హాల్",
+        "hover_text": "అడిలైడ్ హాల్ 122వ జయంతి",
+        "share_text": "అడిలైడ్ హాల్ 122వ జయంతి! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Adelaide Hall",
+        "hover_text": "วันเกิดปีที่ 122 ของ Adelaide Hall",
+        "share_text": "วันเกิดปีที่ 122 ของ Adelaide Hall #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Adelaide Hall",
+        "hover_text": "Adelaide Hall'un 122. Doğum Günü",
+        "share_text": "Adelaide Hall'un 122. Doğum Günü #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Аделаїда Голл",
+        "hover_text": "122 роки від дня народження Аделаїди Голл",
+        "share_text": "122 роки від дня народження Аделаїди Голл! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Adelaide Hall",
+        "hover_text": "Adelaide Hall کی 122 ویں سالگرہ",
+        "share_text": "Adelaide Hall کی 122 ویں سالگرہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Adelaide Hall",
+        "hover_text": "Adelaide Hall tavalludining 122 yilligi",
+        "share_text": "Adelaide Hall tavalludining 122 yilligi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Adelaide Hall",
+        "hover_text": "Kỷ niệm 122 năm ngày sinh của Adelaide Hall",
+        "share_text": "Kỷ niệm 122 năm ngày sinh của Adelaide Hall! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Adelaide Hall",
+        "hover_text": "Usuku Lokuzalwa luka-Adelaide Hall Lweminyaka eyi-122",
+        "share_text": "Usuku Lokuzalwa luka-Adelaide Hall Lweminyaka eyi-122! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Adelaide Hall",
+    "share_text": "Adelaide Hall’s 122nd Birthday! #GoogleDoodle"
+  },
+  {
+    "name": "celebrating-papeda",
+    "title": "Celebrating Papeda",
+    "url": "//www.google.com/logos/doodles/2023/celebrating-papeda-6753651837110118-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/cuMv7yeb9-rgjxHNaU3aoBL1ijXYeZaVFHHN7cO8WGAd_iXY6Jy3ahUavBHJnruxF8w36_FDBmjUBRfiXdiZj03SI_Z5Oile9fcmAudDcIPyAEbIuko",
+    "high_res_url": "//www.google.com/logos/doodles/2023/celebrating-papeda-6753651837110118-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2023,
+      10,
+      20
+    ],
+    "translations": {
+      "en": {
+        "query": "Papeda",
+        "hover_text": "Celebrating Papeda",
+        "share_text": "Celebrating Papeda! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "am": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ar": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hy": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "az": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "eu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "be": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "my": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ca": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "cs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "da": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "nl": {
+        "query": "Papeda",
+        "hover_text": "Papeda vieren",
+        "share_text": "Papeda vieren! #GoogleDoodle"
+      },
+      "et": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "de": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "el": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "is": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "id": {
+        "query": "Papeda",
+        "hover_text": "Merayakan Papeda",
+        "share_text": "Merayakan Papeda! #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ja": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "kn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "kk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ko": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ky": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lv": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ml": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ne": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "no": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ro": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sw": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sv": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "te": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "th": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ur": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uz": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "vi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Papeda",
+    "share_text": "Celebrating Papeda! #GoogleDoodle"
+  },
+  {
     "name": "jaap-edens-150th-birthday",
     "title": "Jaap Eden's 150th Birthday",
     "url": "//www.google.com/logos/doodles/2023/jaap-edens-150th-birthday-6753651837109954-law.gif",
@@ -1923,7 +2921,7 @@
       "sw": {
         "query": null,
         "hover_text": null,
-        "share_text": "Heri ya Sikukuu ya Walimu! #GoogleDoodle"
+        "share_text": "Heri ya Siku ya Walimu! #GoogleDoodle"
       },
       "sv": {
         "query": null,
