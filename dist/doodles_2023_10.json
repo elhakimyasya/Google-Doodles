@@ -1,5 +1,1003 @@
 [
   {
+    "name": "rashidi-yekinis-60th-birthday",
+    "title": "Rashidi Yekini's 60th Birthday",
+    "url": "//www.google.com/logos/doodles/2023/rashidi-yekinis-60th-birthday-6753651837109955.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/htK42Oap_1c3fbz_6mNGaV9ZWjZQUitTZhY6fWhUEaiQxHGUl3vnvtLwNa50s3BKnHRHglXJv-9KaW1pnesRO0ykQPBCqPSLGETMVC4KRJhZWODAGbN7Hg",
+    "high_res_url": "//www.google.com/logos/doodles/2023/rashidi-yekinis-60th-birthday-6753651837109955.2-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      10,
+      23
+    ],
+    "translations": {
+      "en": {
+        "query": "Rashidi Yekini",
+        "hover_text": "Rashidi Yekini's 60th Birthday",
+        "share_text": "Rashidi Yekini's 60th Birthday! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Rashidi Yekini",
+        "hover_text": "Rashidi Yekini se 60ste verjaardag!",
+        "share_text": "Rashidi Yekini se 60ste verjaardag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Rashidi Yekini",
+        "hover_text": "60-vjetori i lindjes së Rashidi Yekini",
+        "share_text": "60-vjetori i lindjes së Rashidi Yekini! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ራሺዲ ዬኪኒ",
+        "hover_text": "የራሺዲ ዬኪኒ 60ኛ ልደት",
+        "share_text": "የራሺዲ ዬኪኒ 60ኛ ልደት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "رشيدي يقيني",
+        "hover_text": "الذكرى 60 لميلاد \"رشيدي يقيني\"",
+        "share_text": "نحتفل اليوم بالذكرى 60 لميلاد \"رشيدي يقيني\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ռաշիդի Եկինի",
+        "hover_text": "Ռաշիդի Եկինիի ծննդյան 60-ամյակը",
+        "share_text": "Ռաշիդի Եկինիի ծննդյան 60-ամյակը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Rashidi Yekini",
+        "hover_text": "Rashidi Yekini'nin 60-cı ildönümü",
+        "share_text": "Rashidi Yekini'nin 60-cı ildönümü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "রাশিদি ইয়েকিনি",
+        "hover_text": "রাশিদি ইয়েকিনির ৬০তম জন্মদিন",
+        "share_text": "রাশিদি ইয়েকিনির ৬০তম জন্মদিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Rashidi Yekini",
+        "hover_text": "Rashidi Yekiniren jaiotzaren 60. urteurrena",
+        "share_text": "Rashidi Yekiniren jaiotzaren 60. urteurrena #GoogleDoodle"
+      },
+      "be": {
+        "query": "Рашыдзі Екіні",
+        "hover_text": "60 гадоў з дня нараджэння Рашыдзі Екіні",
+        "share_text": "60 гадоў з дня нараджэння Рашыдзі Екіні! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Rashidi Yekini",
+        "hover_text": "60 godina od rođenja Rashidija Yekinija",
+        "share_text": "60 godina od rođenja Rashidija Yekinija! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Rashidi Yekini",
+        "hover_text": "Rashidi Yekini's 60th birthday",
+        "share_text": "Rashidi Yekini's 60th birthday! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Рашиди Йекини",
+        "hover_text": "60 години от рождението на Рашиди Йекини",
+        "share_text": "60 години от рождението на Рашиди Йекини! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Rashidi Yekini",
+        "hover_text": "Rashidi Yekini ၏ နှစ် ၆၀ ပြည့်မွေးနေ့",
+        "share_text": "Rashidi Yekini ၏ နှစ် ၆၀ ပြည့်မွေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Rashidi Yekini",
+        "hover_text": "60è aniversari del naixement de Rashidi Yekini",
+        "share_text": "60è aniversari del naixement de Rashidi Yekini #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Rashidi Yekini",
+        "hover_text": "Rashidi Yekini 誕辰 60 週年",
+        "share_text": "Rashidi Yekini 誕辰 60 週年！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "拉希德耶基尼",
+        "hover_text": "拉希德耶基尼 60 歲冥誕",
+        "share_text": "紀念拉希德耶基尼 60 歲冥誕！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "拉希德·耶基尼",
+        "hover_text": "拉希德·耶基尼诞辰 60 周年",
+        "share_text": "拉希德·耶基尼诞辰 60 周年！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Rashidi Yekini",
+        "hover_text": "60. godišnjica rođenja Rashida Yekinija",
+        "share_text": "60. godišnjica rođenja Rashida Yekinija! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Rashidi Yekini",
+        "hover_text": "60. výročí narození Rashidiho Yekiniho",
+        "share_text": "Slavíme 60. výročí narození Rashidiho Yekiniho! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Rashidi Yekini",
+        "hover_text": "Rashidi Yekinis 60-års fødselsdag",
+        "share_text": "Rashidi Yekinis 60-års fødselsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Rashidi Yekini",
+        "hover_text": "60e geboortedag van Rashidi Yekini",
+        "share_text": "De 60e geboortedag van Rashidi Yekini! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Rashidi Yekini",
+        "hover_text": "Rashidi Yekini 60. sünniaastapäev",
+        "share_text": "Rashidi Yekini 60. sünniaastapäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Rashidi Yekini",
+        "hover_text": "60 vuotta Rashidi Yekinin syntymästä",
+        "share_text": "60 vuotta Rashidi Yekinin syntymästä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Rashidi Yekini",
+        "hover_text": "Il y a 60 ans naissait Rashidi Yekini",
+        "share_text": "60e anniversaire de Rashidi Yekini #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Rashidi Yekini",
+        "hover_text": "60ᵉ anniversaire de naissance de Rashidi Yekini",
+        "share_text": "60ᵉ anniversaire de naissance de Rashidi Yekini! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Rashidi Yekini",
+        "hover_text": "60.º aniversario do nacemento de Rashidi Yekini",
+        "share_text": "60.º aniversario do nacemento de Rashidi Yekini! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "რაშიდი იეკინი",
+        "hover_text": "60 წელი რაშიდი იეკინის დაბადებიდან",
+        "share_text": "60 წელი რაშიდი იეკინის დაბადებიდან! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Rashidi Yekini",
+        "hover_text": "60. Geburtstag von Rashidi Yekini",
+        "share_text": "60. Geburtstag von Rashidi Yekini! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Rashidi Yekini",
+        "hover_text": "60 χρόνια από τη γέννηση του Rashidi Yekini",
+        "share_text": "60 χρόνια από τη γέννηση του Rashidi Yekini! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "રાશિદી યકીની",
+        "hover_text": "રાશિદી યકીનીનો 60મો જન્મદિવસ",
+        "share_text": "રાશિદી યકીનીનો 60મો જન્મદિવસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "ראשידי יקיני",
+        "hover_text": "60 שנים להולדת ראשידי יקיני",
+        "share_text": "60 שנים להולדת ראשידי יקיני GoogleDoodle#"
+      },
+      "hi": {
+        "query": "रशीदी यकीनी",
+        "hover_text": "रशीदी यकीनी का 60वां जन्मदिन",
+        "share_text": "रशीदी यकीनी का 60वां जन्मदिन! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Rashidi Yekini",
+        "hover_text": "Rashidi Yekini születésének 60. évfordulója",
+        "share_text": "Rashidi Yekini születésének 60. évfordulója! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Rashidi Yekini",
+        "hover_text": "60 ár frá fæðingu Rashidis Yekini",
+        "share_text": "60 ár frá fæðingu Rashidis Yekini! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Rashidi Yekini",
+        "hover_text": "Ulang Tahun Ke-60 Rashidi Yekini",
+        "share_text": "Ulang Tahun Ke-60 Rashidi Yekini #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Rashidi Yekini",
+        "hover_text": "60° anniversario della nascita di Rashidi Yekini",
+        "share_text": "60° anniversario della nascita di Rashidi Yekini! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ラシディ・イエキニ",
+        "hover_text": "ラシディ・イエキニ生誕 60 周年",
+        "share_text": "ラシディ・イエキニ生誕 60 周年 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ರಶೀದಿ ಯೇಕಿನಿ",
+        "hover_text": "ರಶೀದಿ ಯೇಕಿನಿ ಅವರ 60ನೇ ಜನ್ಮದಿನ",
+        "share_text": "ರಶೀದಿ ಯೇಕಿನಿ ಅವರ 60ನೇ ಜನ್ಮದಿನ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Рашиди Йекини",
+        "hover_text": "Рашиди Йекинидің 60 жылдығы",
+        "share_text": "Рашиди Йекинидің 60 жылдығы! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Rashidi Yekini",
+        "hover_text": "ខួបកំណើតគម្រប់ 60 ឆ្នាំរបស់ Rashidi Yekini",
+        "share_text": "ខួបកំណើតគម្រប់ 60 ឆ្នាំរបស់ Rashidi Yekini! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Rashidi Yekini",
+        "hover_text": "Rashidi Yekini 탄생 60주년",
+        "share_text": "Rashidi Yekini 탄생 60주년 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Рашиди Йекини",
+        "hover_text": "Рашиди Йекининин 60 жаш мааракеси",
+        "share_text": "Рашиди Йекининин 60 жаш мааракеси! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Rashidi Yekini",
+        "hover_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 60 ປີຂອງ Rashidi Yekini",
+        "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 60 ປີຂອງ Rashidi Yekini! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Rashidi Yekini",
+        "hover_text": "60º aniversario del nacimiento de Rashidi Yekini",
+        "share_text": "¡60º aniversario del nacimiento de Rashidi Yekini! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Rašidi Jekini",
+        "hover_text": "Rašidi Jekini 60. dzimšanas diena",
+        "share_text": "Rašidi Jekini 60. dzimšanas diena! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Rashidis Yekinis",
+        "hover_text": "60-asis Rashidžio Yekinio gimtadienis",
+        "share_text": "60-asis Rashidžio Yekinio gimtadienis! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Rashidi Yekini",
+        "hover_text": "60. роденден на Rashidi Yekini",
+        "share_text": "60. роденден на Rashidi Yekini! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Rashidi Yekini",
+        "hover_text": "Ulang Tahun Kelahiran Rashidi Yekini yang ke-60",
+        "share_text": "Ulang Tahun Kelahiran Rashidi Yekini yang ke-60! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Rashidi Yekini",
+        "hover_text": "Rashidi Yekini-യുടെ 60-ാം ജന്മദിനം",
+        "share_text": "Rashidi Yekini-യുടെ 60-ാം ജന്മദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "रशिदी येकिनी",
+        "hover_text": "रशिदी येकिनी यांचा ६० वा स्मृतिदिन",
+        "share_text": "रशिदी येकिनी यांचा ६० वा स्मृतिदिन! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Рашиди Йекини",
+        "hover_text": "Рашиди Йекинигийн мэндэлсний 60 жилийн ой",
+        "share_text": "Рашиди Йекинигийн мэндэлсний 60 жилийн ой! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Rashidi Yekini",
+        "hover_text": "Rashidi Yekini को ६० औँ जन्मजयन्ती",
+        "share_text": "Rashidi Yekini को ६० औँ जन्मजयन्ती! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Rashidi Yekini",
+        "hover_text": "Rashidi Yekinis 60-årsdag",
+        "share_text": "Rashidi Yekinis 60-årsdag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ରସିଦି ୟେକିନି",
+        "hover_text": "ରସିଦି ୟେକିନିଙ୍କ 60ତମ ଜନ୍ମଦିନ",
+        "share_text": "ରସିଦି ୟେକିନିଙ୍କ 60ତମ ଜନ୍ମଦିନ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "رشیدی یکینی",
+        "hover_text": "شصتمین زادروز رشیدی یکینی",
+        "share_text": "شصتمین زادروز رشیدی یکینی! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Rashidi Yekini",
+        "hover_text": "Rashidi Yekini – 60 rocznica urodzin",
+        "share_text": "Rashidi Yekini – 60 rocznica urodzin #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Rashidi Yekini",
+        "hover_text": "60º aniversário de Rashidi Yekini",
+        "share_text": "60º aniversário de Rashidi Yekini #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Rashidi Yekini",
+        "hover_text": "60.º Aniversário de Rashidi Yekini",
+        "share_text": "60.º Aniversário de Rashidi Yekini! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Rashidi Yekini",
+        "hover_text": "ਰਾਸ਼ੀਦੀ ਯੇਕੀਨੀ ਦਾ 60ਵਾਂ ਜਨਮਦਿਨ",
+        "share_text": "ਰਾਸ਼ੀਦੀ ਯੇਕੀਨੀ ਦਾ 60ਵਾਂ ਜਨਮਦਿਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Rashidi Yekini",
+        "hover_text": "60 de ani de la nașterea lui Rashidi Yekini",
+        "share_text": "60 de ani de la nașterea lui Rashidi Yekini! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Рашиди Йекини",
+        "hover_text": "60 лет со дня рождения Рашиди Йекини",
+        "share_text": "60 лет со дня рождения Рашиди Йекини #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Рашиди Јекини",
+        "hover_text": "60 година од рођења Рашидија Јекинија",
+        "share_text": "60 година од рођења Рашидија Јекинија! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Rašidi Jekini",
+        "hover_text": "60 godina od rođenja Rašidija Jekinija",
+        "share_text": "60 godina od rođenja Rašidija Jekinija! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "රෂිදි යෙකිනි",
+        "hover_text": "රෂිදි යෙකිනිගේ 60 වැනි උපන් දිනය",
+        "share_text": "රෂිදි යෙකිනිගේ 60 වැනි උපන් දිනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Rashidi Yekini",
+        "hover_text": "60. výročie narodenia Rashidiho Yekiniho",
+        "share_text": "60. výročie narodenia Rashidiho Yekiniho. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Rashidi Yekini",
+        "hover_text": "60. rojstni dan Rashidija Yekinija",
+        "share_text": "60. rojstni dan Rashidija Yekinija! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Rashidi Yekini",
+        "hover_text": "60.º aniversario del nacimiento de Rashidi Yekini",
+        "share_text": "Hoy es el 60.º aniversario del nacimiento de Rashidi Yekini #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Rashidi Yekini",
+        "hover_text": "Miaka 60 Tangu Kuzaliwa kwa Rashidi Yekini",
+        "share_text": "Miaka 60 Tangu Kuzaliwa kwa Rashidi Yekini! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Rashidi Yekini",
+        "hover_text": "Rashidi Yekini 60 år",
+        "share_text": "Rashidi Yekini 60 år #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Rashidi Yekini",
+        "hover_text": "ரஷிதி யேகினியின் 60வது பிறந்தநாள்",
+        "share_text": "ரஷிதி யேகினியின் 60வது பிறந்தநாள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "రషీదీ యకీనీ",
+        "hover_text": "రషీదీ యకీనీ 60వ జయంతి",
+        "share_text": "రషీదీ యకీనీ 60వ జయంతి! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Rashidi Yekini",
+        "hover_text": "วันเกิดปีที่ 60 ของ Rashidi Yekini",
+        "share_text": "วันเกิดปีที่ 60 ของ Rashidi Yekini #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Rashidi Yekini",
+        "hover_text": "Rashidi Yekini'nin 60. Doğum Günü",
+        "share_text": "Rashidi Yekini'nin 60. Doğum Günü #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Рашиді Єкіні",
+        "hover_text": "60 років від дня народження Рашиді Єкіні",
+        "share_text": "60 років від дня народження Рашиді Єкіні! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Rashidi Yekini",
+        "hover_text": "Rashidi Yekini کی 60 ویں سالگرہ",
+        "share_text": "Rashidi Yekini کی 60 ویں سالگرہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Rashidi Yekini",
+        "hover_text": "Rashidi Yekini tavalludining 60 yilligi",
+        "share_text": "Rashidi Yekini tavalludining 60 yilligi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Rashidi Yekini",
+        "hover_text": "Kỷ niệm 60 năm ngày sinh của Rashidi Yekini",
+        "share_text": "Kỷ niệm 60 năm ngày sinh của Rashidi Yekini! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Rashidi Yekini",
+        "hover_text": "Usuku Lokuzalwa luka-Rashidi Yekini Lweminyaka engama-60",
+        "share_text": "Usuku Lokuzalwa luka-Rashidi Yekini Lweminyaka engama-60! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Rashidi Yekini",
+    "share_text": "Rashidi Yekini's 60th Birthday! #GoogleDoodle"
+  },
+  {
+    "name": "argentina-federal-elections-2023",
+    "title": "Argentina Federal Elections 2023",
+    "url": "//www.google.com/logos/doodles/2023/argentina-federal-elections-2023-6753651837110138-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/9DbdgQ88Gpk3FSeTtgAjl2jprCRWZVZdo31hUOk6wWyxR0ZrbNYuzshr1V3fVoDho9Yfhr7O6Pgfxo41AwAuO9IRD_-6BqZM79oCpvCdXMz09JJAnVgc",
+    "high_res_url": "//www.google.com/logos/doodles/2023/argentina-federal-elections-2023-6753651837110138-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      10,
+      22
+    ],
+    "translations": {
+      "en": {
+        "query": "Argentina Federal Elections 2023",
+        "hover_text": "Argentina Federal Elections 2023",
+        "share_text": "Argentina Federal Elections 2023! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Argentinië se federale verkiesing 2023",
+        "hover_text": null,
+        "share_text": "Argentinië se federale verkiesing 2023! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Zgjedhjet federale në Argjentinë, 2023",
+        "hover_text": null,
+        "share_text": "Zgjedhjet federale në Argjentinë, 2023! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአርጀንቲና ፌደራል ምርጫዎች 2023",
+        "hover_text": null,
+        "share_text": "የአርጀንቲና ፌደራል ምርጫዎች 2023! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "الانتخابات الفيدرالية في الأرجنتين لعام 2023",
+        "hover_text": null,
+        "share_text": "انطلقت الانتخابات الفيدرالية في الأرجنتين لعام 2023. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Արգենտինայի դաշնային ընտրություններ 2023",
+        "hover_text": null,
+        "share_text": "Արգենտինայի դաշնային ընտրություններ 2023 #GoogleDoodle"
+      },
+      "az": {
+        "query": "2023 Argentina Federal Seçkiləri",
+        "hover_text": null,
+        "share_text": "2023 Argentina Federal Seçkiləri! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "আর্জেন্টিনার ফেডারেল নির্বাচন ২০২৩",
+        "hover_text": null,
+        "share_text": "আর্জেন্টিনার ফেডারেল নির্বাচন ২০২৩! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "2023ko Argentinako hauteskunde federalak",
+        "hover_text": null,
+        "share_text": "2023ko Argentinako hauteskunde federalak #GoogleDoodle"
+      },
+      "be": {
+        "query": "Федэральныя выбары ў Аргенціне 2023",
+        "hover_text": null,
+        "share_text": "Федэральныя выбары ў Аргенціне 2023! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Federalni izbori u Argentini 2023.",
+        "hover_text": null,
+        "share_text": "Federalni izbori u Argentini 2023! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Argentina Federal Elections 2023",
+        "hover_text": null,
+        "share_text": "Argentina Federal Elections 2023! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Федерални избори в Аржентина 2023 г.",
+        "hover_text": null,
+        "share_text": "Федерални избори в Аржентина 2023 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "၂၀၂၃ အာဂျင်တီးနားနိုင်ငံ ဖက်ဒရယ်ရွေးကောက်ပွဲများ",
+        "hover_text": null,
+        "share_text": "၂၀၂၃ အာဂျင်တီးနားနိုင်ငံ ဖက်ဒရယ်ရွေးကောက်ပွဲများ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Eleccions federals a Argentina 2023",
+        "hover_text": null,
+        "share_text": "Eleccions federals a Argentina 2023 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "2023 年阿根廷聯邦選舉",
+        "hover_text": null,
+        "share_text": "2023 年阿根廷聯邦選舉！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "2023 年阿根廷聯邦選舉",
+        "hover_text": null,
+        "share_text": "2023 年阿根廷聯邦選舉到來！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "2023 年阿根廷联邦选举",
+        "hover_text": null,
+        "share_text": "2023 年阿根廷联邦选举！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Savezni izbori u Argentini 2023.",
+        "hover_text": null,
+        "share_text": "Savezni izbori u Argentini 2023.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Federální volby v Argentině 2023",
+        "hover_text": null,
+        "share_text": "V Argentině se konají federální volby 2023! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Valg i Argentina 2023",
+        "hover_text": null,
+        "share_text": "Valg i Argentina 2023 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Federale verkiezingen in Argentinië 2023",
+        "hover_text": null,
+        "share_text": "Federale verkiezingen in Argentinië 2023! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Argentina 2023. aasta föderaalvalimised",
+        "hover_text": null,
+        "share_text": "Argentina 2023. aasta föderaalvalimised! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Argentiinan liittovaltion vaalit 2023",
+        "hover_text": null,
+        "share_text": "Argentiinan liittovaltion vaalit 2023 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Élections fédérales 2023 en Argentine",
+        "hover_text": null,
+        "share_text": "Élections fédérales 2023 en Argentine ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Élections fédérales de 2023 en Argentine",
+        "hover_text": null,
+        "share_text": "Élections fédérales de 2023 en Argentine! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Eleccións federais da Arxentina 2023",
+        "hover_text": null,
+        "share_text": "Eleccións federais da Arxentina 2023! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "არგენტინის 2023 წლის ფედერალური არჩევნები",
+        "hover_text": null,
+        "share_text": "არგენტინის 2023 წლის ფედერალური არჩევნები! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Präsidentschafts- und Parlamentswahlen in Argentinien 2023",
+        "hover_text": null,
+        "share_text": "Präsidentschafts- und Parlamentswahlen in Argentinien 2023! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ομοσπονδιακές εκλογές στην Αργεντινή 2023",
+        "hover_text": null,
+        "share_text": "Ομοσπονδιακές εκλογές στην Αργεντινή 2023! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "આર્જેન્ટીનાની ફેડરલ ચૂંટણીઓ 2023",
+        "hover_text": null,
+        "share_text": "આર્જેન્ટીનાની ફેડરલ ચૂંટણીઓ 2023! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "הבחירות הפדרליות בארגנטינה 2023",
+        "hover_text": null,
+        "share_text": "הבחירות הפדרליות בארגנטינה 2023 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "अर्जेंटीना का आम चुनाव 2023",
+        "hover_text": null,
+        "share_text": "अर्जेंटीना का आम चुनाव 2023! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "2023-as szövetségi választás Argentínában",
+        "hover_text": null,
+        "share_text": "2023-as szövetségi választás Argentínában! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þingkosningar í Argentínu 2023!",
+        "hover_text": null,
+        "share_text": "Þingkosningar í Argentínu 2023! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Pemilu Federal Argentina 2023",
+        "hover_text": null,
+        "share_text": "Pemilu Federal Argentina 2023 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Elezioni federali 2023 in Argentina",
+        "hover_text": null,
+        "share_text": "Elezioni federali 2023 in Argentina! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "2023 年アルゼンチン総選挙",
+        "hover_text": null,
+        "share_text": "2023 年アルゼンチン総選挙！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಅರ್ಜೆಂಟೀನಾ ಫೆಡರಲ್ ಚುನಾವಣೆಗಳು 2023",
+        "hover_text": null,
+        "share_text": "ಅರ್ಜೆಂಟೀನಾ ಫೆಡರಲ್ ಚುನಾವಣೆಗಳು 2023! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Аргентинадағы федералдық сайлау –2023",
+        "hover_text": null,
+        "share_text": "Аргентинадағы федералдық сайлау –2023! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការបោះឆ្នោត​សហព័ន្ធនៅអាហ្សង់ទីនឆ្នាំ 2023",
+        "hover_text": null,
+        "share_text": "ការបោះឆ្នោត​សហព័ន្ធនៅអាហ្សង់ទីនឆ្នាំ 2023! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "2023년 아르헨티나 연방 선거",
+        "hover_text": null,
+        "share_text": "2023년 아르헨티나 연방 선거 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Аргентинадагы федералдык шайлоо – 2023",
+        "hover_text": null,
+        "share_text": "Аргентинадагы федералдык шайлоо – 2023! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ການເລືອກຕັ້ງສະຫະພັນທະລັດຂອງອາເຈນຕິນາປີ 2023",
+        "hover_text": null,
+        "share_text": "ການເລືອກຕັ້ງສະຫະພັນທະລັດຂອງອາເຈນຕິນາປີ 2023! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Elecciones nacionales de Argentina ",
+        "hover_text": "Elecciones nacionales de Argentina 2023",
+        "share_text": "Elecciones nacionales de Argentina 2023 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Vēlēšanas Argentīnā 2023",
+        "hover_text": null,
+        "share_text": "Federālās vēlēšanas Argentīnā — 2023! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "2023 m. Argentinos federaliniai rinkimai",
+        "hover_text": null,
+        "share_text": "2023 m. Argentinos federaliniai rinkimai! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Федерални избори во Аргентина, 2023 г.",
+        "hover_text": null,
+        "share_text": "Федерални избори во Аргентина, 2023 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Pilihan Raya Persekutuan Argentina 2023",
+        "hover_text": null,
+        "share_text": "Pilihan Raya Persekutuan Argentina 2023! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "അർജന്റീന ഫെഡറൽ തിരഞ്ഞെടുപ്പ് 2023",
+        "hover_text": null,
+        "share_text": "അർജന്റീന ഫെഡറൽ തിരഞ്ഞെടുപ്പ് 2023! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "अर्जेंटिनाच्या फेडरल निवडणुका २०२३",
+        "hover_text": null,
+        "share_text": "अर्जेंटिनाच्या फेडरल निवडणुका २०२३! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "2023 оны Аргентин Улсын Холбооны сонгууль",
+        "hover_text": null,
+        "share_text": "2023 оны Аргентин Улсын Холбооны сонгууль! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "अर्जेन्टिनाको सङ्घीय निर्वाचन २०२३",
+        "hover_text": null,
+        "share_text": "अर्जेन्टिनाको सङ्घीय निर्वाचन २०२३! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Parlamentsvalget i Argentina 2023",
+        "hover_text": null,
+        "share_text": "Parlamentsvalget i Argentina 2023! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଆର୍ଜେଣ୍ଟିନାର ଫେଡେରାଲ ନିର୍ବାଚନ 2023",
+        "hover_text": null,
+        "share_text": "ଆର୍ଜେଣ୍ଟିନାର ଫେଡେରାଲ ନିର୍ବାଚନ 2023! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "انتخابات ملی ۲۰۲۳ آرژانتین",
+        "hover_text": null,
+        "share_text": "انتخابات ملی ۲۰۲۳ آرژانتین! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Wybory federalne 2023 w Argentynie",
+        "hover_text": null,
+        "share_text": "Wybory federalne 2023 w Argentynie #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Eleições nacionais da Argentina 2023",
+        "hover_text": null,
+        "share_text": "Eleições nacionais da Argentina 2023 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Eleições Federais da Argentina de 2023",
+        "hover_text": null,
+        "share_text": "Eleições Federais da Argentina de 2023! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਅਰਜਨਟੀਨਾ ਦੀਆਂ ਸੰਘੀ ਚੋਣਾਂ 2023",
+        "hover_text": null,
+        "share_text": "ਅਰਜਨਟੀਨਾ ਦੀਆਂ ਸੰਘੀ ਚੋਣਾਂ 2023! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Alegeri federale în Argentina – 2023",
+        "hover_text": null,
+        "share_text": "Alegeri federale în Argentina – 2023! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Всеобщие выборы в Аргентине – 2023",
+        "hover_text": null,
+        "share_text": "Всеобщие выборы в Аргентине – 2023 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Савезни избори у Аргентини 2023.",
+        "hover_text": null,
+        "share_text": "Савезни избори у Аргентини 2023! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Savezni izbori u Argentini 2023.",
+        "hover_text": null,
+        "share_text": "Savezni izbori u Argentini 2023! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ආර්ජන්ටිනාවේ ෆෙඩරල් මැතිවරණය 2023",
+        "hover_text": null,
+        "share_text": "ආර්ජන්ටිනාවේ ෆෙඩරල් මැතිවරණය 2023! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Argentínske federálne voľby 2023",
+        "hover_text": null,
+        "share_text": "Argentínske federálne voľby 2023. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Zvezne volitve v Argentini 2023",
+        "hover_text": null,
+        "share_text": "Zvezne volitve v Argentini 2023! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Elecciones nacionales de Argentina 2023",
+        "hover_text": "Elecciones nacionales de Argentina 2023",
+        "share_text": "Elecciones nacionales de Argentina 2023 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Uchaguzi wa Wabunge wa Ajentina 2023",
+        "hover_text": null,
+        "share_text": "Uchaguzi wa Wabunge wa Ajentina 2023! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Federala val i Argentina 2023",
+        "hover_text": null,
+        "share_text": "Federala val i Argentina 2023! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Argentina Federal Elections 2023",
+        "hover_text": null,
+        "share_text": "அர்ஜென்டினாவின் ஃபெடரல் தேர்தல்கள் 2023! #GoogleDoodle"
+      },
+      "te": {
+        "query": "అర్జెంటీనా ఫెడరల్ ఎన్నికలు 2023",
+        "hover_text": null,
+        "share_text": "అర్జెంటీనా ఫెడరల్ ఎన్నికలు 2023! #GoogleDoodle"
+      },
+      "th": {
+        "query": "การเลือกตั้งระดับประเทศของอาร์เจนตินาปี 2023",
+        "hover_text": null,
+        "share_text": "การเลือกตั้งระดับประเทศของอาร์เจนตินาปี 2023 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Arjantin Federal Seçimleri 2023",
+        "hover_text": null,
+        "share_text": "Arjantin Federal Seçimleri 2023 #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Федеральні вибори в Аргентині у 2023 році",
+        "hover_text": null,
+        "share_text": "Федеральні вибори в Аргентині у 2023 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "ارجنٹینا کے فیڈرل انتخابات 2023",
+        "hover_text": null,
+        "share_text": "ارجنٹینا کے فیڈرل انتخابات 2023! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Argentinada federal saylovlar 2023",
+        "hover_text": null,
+        "share_text": "Argentinada federal saylovlar 2023! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Tổng tuyển cử Argentina năm 2023",
+        "hover_text": null,
+        "share_text": "Tổng tuyển cử Argentina năm 2023! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ukhetho Lwenhlangano Yase-Argentina lwango-2023",
+        "hover_text": null,
+        "share_text": "Ukhetho Lwenhlangano Yase-Argentina lwango-2023! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Argentina Federal Elections 2023",
+    "share_text": "Argentina Federal Elections 2023! #GoogleDoodle"
+  },
+  {
     "name": "switzerland-national-elections-2023",
     "title": "Switzerland National Elections 2023",
     "url": "//www.google.com/logos/doodles/2023/switzerland-national-elections-2023-6753651837110143-l.png",
@@ -1287,9 +2285,9 @@
         "share_text": ""
       },
       "mn": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Папеда",
+        "hover_text": "Папедагийн өдрийг тэмдэглэж байна",
+        "share_text": "Папедагийн өдрийг тэмдэглэж байна! #GoogleDoodle"
       },
       "ne": {
         "query": null,
@@ -1362,14 +2360,14 @@
         "share_text": ""
       },
       "sr": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Папеда",
+        "hover_text": "Славимо папеду",
+        "share_text": "Славимо папеду! #GoogleDoodle"
       },
       "sr-Latn": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Papeda",
+        "hover_text": "Slavimo papedu",
+        "share_text": "Slavimo papedu! #GoogleDoodle"
       },
       "sr-ME": {
         "query": null,
@@ -1467,19 +2465,19 @@
         "share_text": ""
       },
       "ur": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Papeda",
+        "hover_text": "Papeda کی یاد میں",
+        "share_text": "Papeda کی یاد میں! GoogleDoodle#"
       },
       "uz": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Papeda",
+        "hover_text": "Papeda kuni",
+        "share_text": "Papeda kuni! #GoogleDoodle"
       },
       "vi": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Papeda",
+        "hover_text": "Tôn vinh món Papeda",
+        "share_text": "Tôn vinh món Papeda! #GoogleDoodle"
       },
       "wo": {
         "query": null,
