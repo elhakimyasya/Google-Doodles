@@ -1,5 +1,504 @@
 [
   {
+    "name": "austria-national-day-2023",
+    "title": "Austria National Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/austria-national-day-2023-6753651837109956-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/ezFtaV4WYAgZ5zHrL0DTxvlHZ0lgKoDS2fyU_P67KcQy_eANApjlfa3ft9RvrOomAyF5ct-9E4_WT77DVox00nua1pNSvm3RjIGnuzpzC10aMgDjDIM2Pg",
+    "high_res_url": "//www.google.com/logos/doodles/2023/austria-national-day-2023-6753651837109956-2xa.gif",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2023,
+      10,
+      26
+    ],
+    "translations": {
+      "en": {
+        "query": "Austria National Day",
+        "hover_text": "Austria National Day 2023",
+        "share_text": "Happy National Day, Austria! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": "Oostenryk se nasionale dag 2023",
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": "Dita Kombëtare e Austrisë, 2023",
+        "share_text": ""
+      },
+      "am": {
+        "query": null,
+        "hover_text": "የኦስትሪያ ብሔራዊ ቀን 2023",
+        "share_text": ""
+      },
+      "ar": {
+        "query": null,
+        "hover_text": "العيد الوطني للنمسا 2023",
+        "share_text": ""
+      },
+      "hy": {
+        "query": null,
+        "hover_text": "Ավստրիայի ազգային տոն 2023",
+        "share_text": ""
+      },
+      "az": {
+        "query": null,
+        "hover_text": "2023 Avstriyanın Müstəqillik Günü",
+        "share_text": ""
+      },
+      "bn": {
+        "query": null,
+        "hover_text": "অস্ট্রিয়ার জাতীয় দিবস ২০২৩",
+        "share_text": ""
+      },
+      "eu": {
+        "query": null,
+        "hover_text": "2023ko Austriako Egun Nazionala",
+        "share_text": ""
+      },
+      "be": {
+        "query": null,
+        "hover_text": "Нацыянальны дзень Аўстрыі 2023",
+        "share_text": ""
+      },
+      "bs": {
+        "query": null,
+        "hover_text": "Dan državnosti Austrije 2023.",
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": "Austria National Day 2023",
+        "share_text": ""
+      },
+      "bg": {
+        "query": null,
+        "hover_text": "Национален празник на Австрия 2023 г.",
+        "share_text": ""
+      },
+      "my": {
+        "query": null,
+        "hover_text": "၂၀၂၃ သြစတြီးယားနိုင်ငံ အမျိုးသားနေ့",
+        "share_text": ""
+      },
+      "ca": {
+        "query": null,
+        "hover_text": "Dia Nacional d'Àustria 2023",
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": "2023 年奧地利國慶日",
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": "2023 年奧地利國慶日",
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": "2023 年奥地利国庆节",
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": "Dan državnosti Austrije 2023.",
+        "share_text": ""
+      },
+      "cs": {
+        "query": null,
+        "hover_text": "Den rakouské státnosti 2023",
+        "share_text": ""
+      },
+      "da": {
+        "query": null,
+        "hover_text": "Østrigs nationaldag 2023",
+        "share_text": ""
+      },
+      "nl": {
+        "query": null,
+        "hover_text": "Nationale feestdag van Oostenrijk 2023",
+        "share_text": ""
+      },
+      "et": {
+        "query": null,
+        "hover_text": "Austria 2023. aasta rahvuspüha",
+        "share_text": ""
+      },
+      "fi": {
+        "query": null,
+        "hover_text": "Itävallan kansallispäivä 2023",
+        "share_text": ""
+      },
+      "fr": {
+        "query": null,
+        "hover_text": "Fête nationale autrichienne 2023",
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": "Fête nationale de l'Autriche 2023",
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": "Día Nacional de Austria 2023",
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": "ავსტრიის ეროვნული დღესასწაული — 2023",
+        "share_text": ""
+      },
+      "de": {
+        "query": "Österreichischer Nationalfeiertag",
+        "hover_text": "Österreichischer Nationalfeiertag 2023",
+        "share_text": "Alles Gute zum Nationalfeiertag, Österreich! #GoogleDoodle"
+      },
+      "el": {
+        "query": null,
+        "hover_text": "Εθνική Ημέρα Αυστρίας 2023",
+        "share_text": ""
+      },
+      "gu": {
+        "query": null,
+        "hover_text": "ઑસ્ટ્રિયાનો રાષ્ટ્રીય દિવસ 2023",
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": "החג הלאומי של אוסטריה 2023",
+        "share_text": ""
+      },
+      "hi": {
+        "query": null,
+        "hover_text": "ऑस्ट्रिया का राष्ट्रीय दिवस 2023",
+        "share_text": ""
+      },
+      "hu": {
+        "query": null,
+        "hover_text": "Ausztria nemzeti ünnepe, 2023",
+        "share_text": ""
+      },
+      "is": {
+        "query": null,
+        "hover_text": "Þjóðhátíðardagur Austurríkis 2023",
+        "share_text": ""
+      },
+      "id": {
+        "query": null,
+        "hover_text": "Hari Nasional Austria 2023",
+        "share_text": ""
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": "Festa nazionale dell'Austria 2023",
+        "share_text": ""
+      },
+      "ja": {
+        "query": null,
+        "hover_text": "2023 年オーストリア建国記念日",
+        "share_text": ""
+      },
+      "kn": {
+        "query": null,
+        "hover_text": "ಆಸ್ಟ್ರಿಯಾದ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ 2023",
+        "share_text": ""
+      },
+      "kk": {
+        "query": null,
+        "hover_text": "Аустрияның Ұлттық күні — 2023",
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": "ទិវា​បុណ្យជាតិ​អូទ្រីស​ឆ្នាំ 2023",
+        "share_text": ""
+      },
+      "ko": {
+        "query": null,
+        "hover_text": "2023년 오스트리아 국경일",
+        "share_text": ""
+      },
+      "ky": {
+        "query": null,
+        "hover_text": "Австриянын Улуттук күнү — 2023",
+        "share_text": ""
+      },
+      "lo": {
+        "query": null,
+        "hover_text": "ວັນຊາດອອສເຕຣຍ 2023",
+        "share_text": ""
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": "Día Nacional de Austria 2023",
+        "share_text": ""
+      },
+      "lv": {
+        "query": null,
+        "hover_text": "Austrijas Nacionālie svētki — 2023",
+        "share_text": ""
+      },
+      "lt": {
+        "query": null,
+        "hover_text": "Austrijos nacionalinė diena, 2023 m.",
+        "share_text": ""
+      },
+      "mk": {
+        "query": null,
+        "hover_text": "Ден на државноста на Австрија, 2023 г.",
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": "Hari Kebangsaan Austria 2023",
+        "share_text": ""
+      },
+      "ml": {
+        "query": null,
+        "hover_text": "ഓസ്‌ട്രിയൻ ദേശീയ ദിനം 2023",
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": "ऑस्ट्रियाचा राष्ट्रीय दिन २०२३",
+        "share_text": ""
+      },
+      "mn": {
+        "query": null,
+        "hover_text": "2023 оны Австри Улсын Үндэсний баярын өдөр",
+        "share_text": ""
+      },
+      "ne": {
+        "query": null,
+        "hover_text": "अस्ट्रियाको राष्ट्रिय दिवस २०२३",
+        "share_text": ""
+      },
+      "no": {
+        "query": null,
+        "hover_text": "Østerrikes nasjonaldag 2023",
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": "ଅଷ୍ଟ୍ରିଆର ଜାତୀୟ ଦିବସ 2023",
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": "روز ملی اتریش - ۲۰۲۳",
+        "share_text": ""
+      },
+      "pl": {
+        "query": null,
+        "hover_text": "Święto Narodowe Austrii 2023",
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": "Dia Nacional da Áustria 2023",
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": "Dia Nacional da Áustria de 2023",
+        "share_text": ""
+      },
+      "pa": {
+        "query": null,
+        "hover_text": "ਆਸਟਰੀਆ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ 2023",
+        "share_text": ""
+      },
+      "ro": {
+        "query": null,
+        "hover_text": "Ziua Națională a Austriei – 2023",
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": "Национальный день Австрии – 2023",
+        "share_text": ""
+      },
+      "sr": {
+        "query": null,
+        "hover_text": "Дан државности Аустрије 2023.",
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": "Dan državnosti Austrije 2023.",
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": "ඕස්ට්‍රියාවේ ජාතික දිනය 2023",
+        "share_text": ""
+      },
+      "sk": {
+        "query": null,
+        "hover_text": "Národný deň Rakúska 2023",
+        "share_text": ""
+      },
+      "sl": {
+        "query": null,
+        "hover_text": "Dan državnosti Avstrije 2023",
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": "Día Nacional de Austria 2023",
+        "share_text": ""
+      },
+      "sw": {
+        "query": null,
+        "hover_text": "Sikukuu ya Kitaifa ya Austria 2023",
+        "share_text": ""
+      },
+      "sv": {
+        "query": null,
+        "hover_text": "Österrikes nationaldag 2023",
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": "ஆஸ்திரியாவின் தேசிய தினம் 2023",
+        "share_text": ""
+      },
+      "te": {
+        "query": null,
+        "hover_text": "ఆస్ట్రియా జాతీయ దినోత్సవం 2023",
+        "share_text": ""
+      },
+      "th": {
+        "query": null,
+        "hover_text": "วันชาติออสเตรียปี 2023",
+        "share_text": ""
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": "Avusturya Ulusal Günü 2023",
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": "Національний день Австрії у 2023 році",
+        "share_text": ""
+      },
+      "ur": {
+        "query": null,
+        "hover_text": "آسٹریا کا قومی دن 2023",
+        "share_text": ""
+      },
+      "uz": {
+        "query": null,
+        "hover_text": "Avstriya Milliy bayrami 2023",
+        "share_text": ""
+      },
+      "vi": {
+        "query": null,
+        "hover_text": "Ngày Quốc khánh Áo năm 2023",
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": "Usuku Lukazwelonke lwase-Austria lwango-2023",
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Austria National Day",
+    "share_text": "Happy National Day, Austria! #GoogleDoodle"
+  },
+  {
     "name": "rashidi-yekinis-60th-birthday",
     "title": "Rashidi Yekini's 60th Birthday",
     "url": "//www.google.com/logos/doodles/2023/rashidi-yekinis-60th-birthday-6753651837109955.2-l.png",
