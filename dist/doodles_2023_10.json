@@ -1,5 +1,504 @@
 [
   {
+    "name": "halloween-2023",
+    "title": "Halloween 2023",
+    "url": "//www.google.com/logos/doodles/2023/halloween-2023-6753651837109958.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/Q3zguhaCjSlalH40CB0PytE_zO_2rzI98d3luaUKbpzJb0jZ5I6c9Xh3D-PVgQjPt8c9Ws8oFWlb3L-aO3eW_oiyP5exl8R-J-MDZK4msU9_ggwHM3ElMbw",
+    "high_res_url": "//www.google.com/logos/doodles/2023/halloween-2023-6753651837109958-2xa.gif",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2023,
+      10,
+      31
+    ],
+    "translations": {
+      "en": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2023",
+        "share_text": "Happy Halloween! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": "Halloween 2023",
+        "share_text": "Gelukkige Halloween! #GoogleDoodle"
+      },
+      "sq": {
+        "query": null,
+        "hover_text": "Hallouin, 2023",
+        "share_text": "Gëzuar Hallouinin! #GoogleDoodle"
+      },
+      "am": {
+        "query": null,
+        "hover_text": "ሃሎዊን 2023",
+        "share_text": "መልካም ሃሎዊን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": null,
+        "hover_text": "عيد الهالوين 2023",
+        "share_text": "نتمنى لكم عيد هالوين سعيدًا. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": null,
+        "hover_text": "Հելոուին 2023",
+        "share_text": "Ուրա՛խ հելոուին #GoogleDoodle"
+      },
+      "az": {
+        "query": null,
+        "hover_text": "2023 Hellouin",
+        "share_text": "Hellouin bayramınız mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": null,
+        "hover_text": "হ্যালোউইন ২০২৩",
+        "share_text": "হ্যালোউইনের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": null,
+        "hover_text": "2023ko Arimen Gaua",
+        "share_text": "Gau beltz zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": null,
+        "hover_text": "Хэлаўін 2023",
+        "share_text": "З Хэлаўінам! #GoogleDoodle"
+      },
+      "bs": {
+        "query": null,
+        "hover_text": "Noć vještica 2023.",
+        "share_text": "Sretna Noć vještica! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2023",
+        "share_text": "Happy Halloween! #GoogleDoodle"
+      },
+      "bg": {
+        "query": null,
+        "hover_text": "Хелоуин 2023 г.",
+        "share_text": "Честит Хелоуин! #GoogleDoodle"
+      },
+      "my": {
+        "query": null,
+        "hover_text": "၂၀၂၃ ဟောလိုးဝင်း",
+        "share_text": "ပျော်ရွှင်ဖွယ် ဟောလိုးဝင်းဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": null,
+        "hover_text": "Halloween 2023",
+        "share_text": "Feliç Halloween! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": "2023 年萬聖節",
+        "share_text": "萬聖節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "萬聖節",
+        "hover_text": "2023 年萬聖節",
+        "share_text": "萬聖節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "年万圣节",
+        "hover_text": "2023 年万圣节",
+        "share_text": "万圣节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": null,
+        "hover_text": "Noć vještica 2023.",
+        "share_text": "Sretna Noć vještica! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2023",
+        "share_text": "Veselý Halloween! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2023",
+        "share_text": "Glædelig Halloween! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Halloween ",
+        "hover_text": "Halloween 2023",
+        "share_text": "Fijne Halloween! #GoogleDoodle"
+      },
+      "et": {
+        "query": null,
+        "hover_text": "Halloween 2023",
+        "share_text": "Head halloweeni! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2023",
+        "share_text": "Hyvää Halloweenia! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2023",
+        "share_text": "Joyeux Halloween ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2023",
+        "share_text": "Joyeuse Halloween! #GoogleDoodle"
+      },
+      "gl": {
+        "query": null,
+        "hover_text": "Samaín 2023",
+        "share_text": "Feliz Halloween! #GoogleDoodle"
+      },
+      "ka": {
+        "query": null,
+        "hover_text": "ჰელოუინი 2023",
+        "share_text": "გილოცავთ ჰელოუინს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2023",
+        "share_text": "Happy Halloween! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Χάλοουϊν",
+        "hover_text": "Χάλοουϊν 2023",
+        "share_text": "Χαρούμενο Χάλοουϊν! #GoogleDoodle"
+      },
+      "gu": {
+        "query": null,
+        "hover_text": "હેલોવીન 2023",
+        "share_text": "હેલોવીનની શુભેચ્છાઓ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": "ליל כל הקדושים 2023",
+        "share_text": "ליל כל הקדושים שמח! GoogleDoodle#"
+      },
+      "hi": {
+        "query": null,
+        "hover_text": "हैलोवीन 2023",
+        "share_text": "हैलोवीन की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Halloween",
+        "hover_text": "Halloween, 2023",
+        "share_text": "Boldog halloweent! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Hrekkjavaka",
+        "hover_text": "Hrekkjavaka 2023",
+        "share_text": "Gleðilega hrekkjavöku! #GoogleDoodle"
+      },
+      "id": {
+        "query": null,
+        "hover_text": "Halloween 2023",
+        "share_text": "Selamat Halloween! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Oíche Shamhna",
+        "hover_text": "Oíche Shamhna, 2023",
+        "share_text": "Oíche Shamhna faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2023",
+        "share_text": "Felice Halloween! #GoogleDoodle"
+      },
+      "ja": {
+        "query": null,
+        "hover_text": "2023 年ハロウィーン",
+        "share_text": "ハロウィーンを祝おう #GoogleDoodle"
+      },
+      "kn": {
+        "query": null,
+        "hover_text": "ಹ್ಯಾಲೋವೀನ್ 2023",
+        "share_text": "ಹ್ಯಾಲೋವೀನ್ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": null,
+        "hover_text": "Хэллоуин – 2023",
+        "share_text": "Хэллоуин құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": null,
+        "hover_text": "បុណ្យ​ហាឡូវីន​ឆ្នាំ 2023",
+        "share_text": "អបអរ​បុណ្យ​ហាឡូវីន! #GoogleDoodle"
+      },
+      "ko": {
+        "query": null,
+        "hover_text": "2023년 핼러윈",
+        "share_text": "핼러윈 축제 #Google기념일로고"
+      },
+      "ky": {
+        "query": null,
+        "hover_text": "Хэллоуин – 2023",
+        "share_text": "Хэллоуин кут болсун! #GoogleDoodle"
+      },
+      "lo": {
+        "query": null,
+        "hover_text": "ຮາໂລວີນ 2023",
+        "share_text": "ສຸກສັນວັນຮາໂລວີນ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2023",
+        "share_text": "¡Feliz Halloween! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Helovīns",
+        "hover_text": "Helovīns - 2023",
+        "share_text": "Priecīgu Helovīnu! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Helovinas",
+        "hover_text": "Helovinas, 2023 m.",
+        "share_text": "Linksmo Helovino! #GoogleDoodle"
+      },
+      "mk": {
+        "query": null,
+        "hover_text": "Ноќ на вештерките, 2023 г.",
+        "share_text": "Среќна Ноќ на вештерките! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "Tsarà Halloween ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2023",
+        "share_text": "Selamat Hari Halloween! #GoogleDoodle"
+      },
+      "ml": {
+        "query": null,
+        "hover_text": "ഹാലോവീൻ 2023",
+        "share_text": "ഹാലോവീൻ ആശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": "हॅलोविन २०२३",
+        "share_text": "हॅलोविनच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": null,
+        "hover_text": "2023 оны Сүнсний баяр",
+        "share_text": "Сүнсний баярын мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": null,
+        "hover_text": "ह्यालोविन २०२३",
+        "share_text": "ह्यालोविनको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2023",
+        "share_text": "Happy Halloween! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": "ହାଲୋୱିନ 2023",
+        "share_text": "ହାଲୋୱିନର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": "هالووین ۲۰۲۳",
+        "share_text": "هالووین مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": null,
+        "hover_text": "Halloween 2023",
+        "share_text": "Obchodzimy Halloween #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia das Bruxas",
+        "hover_text": "Halloween 2023",
+        "share_text": "Feliz Dia das Bruxas! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": "Dia das Bruxas de 2023",
+        "share_text": "Feliz Dia das Bruxas! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਹੈਲੋਵੀਨ ",
+        "hover_text": "ਹੈਲੋਵੀਨ 2023",
+        "share_text": "ਹੈਲੋਵੀਨ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": null,
+        "hover_text": "Halloween 2023",
+        "share_text": "Halloween fericit! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Хеллоуин ",
+        "hover_text": "Хеллоуин – 2023",
+        "share_text": "Хеллоуин #GoogleDoodle"
+      },
+      "sr": {
+        "query": null,
+        "hover_text": "Ноћ вештица 2023.",
+        "share_text": "Срећна Ноћ вештица! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": "Noć veštica 2023.",
+        "share_text": "Srećna Noć veštica! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": "හැලොවීන් 2023",
+        "share_text": "ප්‍රීතිමත් හැලොවීන්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2023",
+        "share_text": "Šťastný Halloween! #GoogleDoodle"
+      },
+      "sl": {
+        "query": null,
+        "hover_text": "Noč čarovnic 2023",
+        "share_text": "Veselo noč čarovnic! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "Hallawiin Farxad leh! #GoogleDoodle"
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2023",
+        "share_text": "¡Feliz Halloween! #GoogleDoodle"
+      },
+      "sw": {
+        "query": null,
+        "hover_text": "Halloween 2023",
+        "share_text": "Heri ya Sikukuu ya Halloween! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2023",
+        "share_text": "Glad halloween! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஹாலோவீன்",
+        "hover_text": "ஹாலோவீன் 2023",
+        "share_text": "ஹலோவீன் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": null,
+        "hover_text": "హాలోవీన్ 2023",
+        "share_text": "హాలోవీన్ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": null,
+        "hover_text": "วันฮาโลวีนปี 2023",
+        "share_text": "สุขสันต์วันฮาโลวีน #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": "Cadılar Bayramı 2023",
+        "share_text": "Cadılar Bayramı Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": "Хелловін у 2023 році",
+        "share_text": "Вітаємо з Хелловіном! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "ہالووین",
+        "hover_text": "ہالووین 2023",
+        "share_text": "ہالووین مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": null,
+        "hover_text": "Hellouin 2023",
+        "share_text": "Hellouin #GoogleDoodle"
+      },
+      "vi": {
+        "query": null,
+        "hover_text": "Lễ hội Halloween năm 2023",
+        "share_text": "Mừng lễ hội Halloween! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": "I-Halloween 2023",
+        "share_text": "Halala Halloween! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Halloween",
+    "share_text": "Happy Halloween! #GoogleDoodle"
+  },
+  {
     "name": "turkiye-national-day-2023",
     "title": "Türkiye National Day 2023",
     "url": "//www.google.com/logos/doodles/2023/turkiye-national-day-2023-6753651837109957-l.png",
