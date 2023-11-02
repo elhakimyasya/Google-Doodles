@@ -1,5 +1,504 @@
 [
   {
+    "name": "carmen-amayas-110th-birthday",
+    "title": "Carmen Amaya's 110th Birthday",
+    "url": "//www.google.com/logos/doodles/2023/carmen-amayas-110th-birthday-6753651837110094-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/0udyL_yM7u0JBQnjOdAz5N72dK2n0ofk6cCgHb27Ge5Xz47QbKJnrWFZ3RxtZEmGao15a3xBX8GxkDuTrkbFHF7Gb1SvHO6vybgywkkrMyqcRNaSLc-vfw",
+    "high_res_url": "//www.google.com/logos/doodles/2023/carmen-amayas-110th-birthday-6753651837110094-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      11,
+      2
+    ],
+    "translations": {
+      "en": {
+        "query": "Carmen Amaya",
+        "hover_text": "Carmen Amaya's 110th Birthday",
+        "share_text": "Carmen Amaya's 110th Birthday! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Carmen Amaya",
+        "hover_text": "Carmen Amaya se 110de verjaarsdag",
+        "share_text": "Carmen Amaya se 110de verjaarsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Carmen Amaya",
+        "hover_text": "110-vjetori i lindjes së Carmen Amaya",
+        "share_text": "110-vjetori i lindjes së Carmen Amaya! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ካርመን አማያ",
+        "hover_text": "የካርመን ማያ 110ኛ ልደት",
+        "share_text": "የካርመን አማያ 110ኛ ልደት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "كارمن أمايا",
+        "hover_text": "الذكرى 110 لميلاد \"كارمن أمايا\"",
+        "share_text": "نحتفل اليوم بالذكرى 110 لميلاد \"كارمن أمايا\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Կարմեն Ամայա",
+        "hover_text": "Կարմեն Ամայայի ծննդյան 110-ամյակը",
+        "share_text": "Կարմեն Ամայայի ծննդյան 110-ամյակը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Carmen Amaya",
+        "hover_text": "Carmen Amaya'nın 110-cu ildönümü",
+        "share_text": "Carmen Amaya'nın 110-cu ildönümü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "কারমেন আমায়া",
+        "hover_text": "কারমেন আমায়ার ১১০তম জন্মদিন",
+        "share_text": "কারমেন আমায়ার ১১০তম জন্মদিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Carmen Amaya",
+        "hover_text": "Carmen Amayaren jaiotzaren 110. urteurrena",
+        "share_text": "Carmen Amayaren jaiotzaren 110. urteurrena #GoogleDoodle"
+      },
+      "be": {
+        "query": "Кармэн Амая",
+        "hover_text": "110 гадоў з дня нараджэння Кармэн Амая",
+        "share_text": "110 гадоў з дня нараджэння Кармэн Амая! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Carmen Amaya",
+        "hover_text": "110 godina od rođenja Carmen Amaye",
+        "share_text": "110 godina od rođenja Carmen Amaye! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Carmen Amaya",
+        "hover_text": "Carmen Amaya's 110th birthday",
+        "share_text": "Carmen Amaya's 110th birthday! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Кармен Амая",
+        "hover_text": "110 години от рождението на Кармен Амая",
+        "share_text": "110 години от рождението на Кармен Амая! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Carmen Amaya",
+        "hover_text": "Carmen Amaya ၏ နှစ် ၁၁၀ ပြည့်မွေးနေ့",
+        "share_text": "Carmen Amaya ၏ နှစ် ၁၁၀ ပြည့်မွေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Carmen Amaya",
+        "hover_text": "110è aniversari del naixement de Carmen Amaya",
+        "share_text": "110è aniversari del naixement de Carmen Amaya #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Carmen Amaya",
+        "hover_text": "Carmen Amaya 誕辰 110 週年",
+        "share_text": "Carmen Amaya 誕辰 110 週年！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "卡門阿瑪雅",
+        "hover_text": "卡門阿瑪雅 110 歲冥誕",
+        "share_text": "紀念卡門阿瑪雅 110 歲冥誕！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "卡门·阿玛雅",
+        "hover_text": "卡门·阿玛雅诞辰 110 周年",
+        "share_text": "卡门·阿玛雅诞辰 110 周年！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Carmen Amaya",
+        "hover_text": "110. godišnjica rođenja Carmen Amaye",
+        "share_text": "110. godišnjica rođenja Carmen Amaye! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Carmen Amaya",
+        "hover_text": "110. výročí narození Carmen Amayi",
+        "share_text": "Slavíme 110. výročí narození Carmen Amayi! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Carmen Amaya",
+        "hover_text": "Carmen Amayas 110-års fødselsdag",
+        "share_text": "Carmen Amayas 110-års fødselsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Carmen Amaya",
+        "hover_text": "110e geboortedag van Carmen Amaya",
+        "share_text": "De 110e geboortedag van Carmen Amaya! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Carmen Amaya",
+        "hover_text": "Carmen Amaya 110. sünniaastapäev",
+        "share_text": "Carmen Amaya 110. sünniaastapäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Carmen Amaya",
+        "hover_text": "110 vuotta Carmen Amayan syntymästä",
+        "share_text": "110 vuotta Carmen Amayan syntymästä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Carmen Amaya",
+        "hover_text": "Il y a 110 ans naissait Carmen Amaya",
+        "share_text": "110e anniversaire de Carmen Amaya #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Carmen Amaya",
+        "hover_text": "110ᵉ anniversaire de naissance de Carmen Amaya",
+        "share_text": "110ᵉ anniversaire de naissance de Carmen Amaya! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Carmen Amaya",
+        "hover_text": "110.º aniversario do nacemento de Carmen Amaya",
+        "share_text": "110.º aniversario do nacemento de Carmen Amaya! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "კარმენ ამაია",
+        "hover_text": "110 წელი კარმენ ამაიას დაბადებიდან",
+        "share_text": "110 წელი კარმენ ამაიას დაბადებიდან! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Carmen Amaya",
+        "hover_text": "110. Geburtstag von Carmen Amaya",
+        "share_text": "110. Geburtstag von Carmen Amaya! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Carmen Amaya",
+        "hover_text": "110 χρόνια από τη γέννηση της Carmen Amaya",
+        "share_text": "110 χρόνια από τη γέννηση της Carmen Amaya! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "કાર્મેન અમાયા",
+        "hover_text": "કાર્મેન અમાયાનો 110મો જન્મદિવસ",
+        "share_text": "કાર્મેન અમાયાનો 110મો જન્મદિવસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Carmen Amaya",
+        "hover_text": "110 שנים להולדת כרמן אמאיה",
+        "share_text": "110 שנים להולדת כרמן אמאיה GoogleDoodle#"
+      },
+      "hi": {
+        "query": "कारमेन अमाया",
+        "hover_text": "कारमेन अमाया की 110वीं जयंती",
+        "share_text": "कारमेन अमाया की 110वीं जयंती! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Carmen Amaya",
+        "hover_text": "Carmen Amaya születésének 110. évfordulója",
+        "share_text": "Carmen Amaya születésének 110. évfordulója #GoogleDoodle"
+      },
+      "is": {
+        "query": "Carmen Amaya",
+        "hover_text": "110 ár frá fæðingu Carmen Amaya",
+        "share_text": "110 ár frá fæðingu Carmen Amaya! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Carmen Amaya",
+        "hover_text": "Ulang Tahun Ke-110 Carmen Amaya",
+        "share_text": "Ulang Tahun Ke-110 Carmen Amaya #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Carmen Amaya",
+        "hover_text": "110ú Breithlá Carmen Amaya",
+        "share_text": "110ú Breithlá Carmen Amaya! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Carmen Amaya",
+        "hover_text": "110° anniversario della nascita di Carmen Amaya",
+        "share_text": "110° anniversario della nascita di Carmen Amaya! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "カルメン・アマヤ",
+        "hover_text": "カルメン・アマヤ生誕 110 周年",
+        "share_text": "カルメン・アマヤ生誕 110 周年 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಕಾರ್ಮೆನ್ ಅಮಯಾ",
+        "hover_text": "ಕಾರ್ಮೆನ್ ಅಮಯಾ ಅವರ 110ನೇ ಜನ್ಮದಿನದ ಸವಿನೆನಪಿನಲ್ಲಿ",
+        "share_text": "ಕಾರ್ಮೆನ್ ಅಮಯಾ ಅವರ 110ನೇ ಜನ್ಮದಿನದ ಸವಿನೆನಪಿನಲ್ಲಿ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Кармен Амайя",
+        "hover_text": "Кармен Амайяның 110 жылдығы",
+        "share_text": "Кармен Амайяның 110 жылдығы! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Carmen Amaya",
+        "hover_text": "ខួបកំណើតគម្រប់ 110 ឆ្នាំរបស់ Carmen Amaya",
+        "share_text": "ខួបកំណើតគម្រប់ 110 ឆ្នាំរបស់ Carmen Amaya! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Carmen Amaya",
+        "hover_text": "Carmen Amaya 탄생 110주년",
+        "share_text": "Carmen Amaya 탄생 110주년 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Кармен Амайя",
+        "hover_text": "Кармен Амайянын 110 жаш мааракеси",
+        "share_text": "Кармен Амайянын 110 жаш мааракеси! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Carmen Amaya",
+        "hover_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 110 ປີຂອງ Carmen Amaya",
+        "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 110 ປີຂອງ Carmen Amaya! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Carmen Amaya",
+        "hover_text": "110º aniversario del nacimiento de Carmen Amaya",
+        "share_text": "¡110º aniversario del nacimiento de Carmen Amaya! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Karmena Amaija",
+        "hover_text": "Karmenas Amaijas 110. dzimšanas diena",
+        "share_text": "Karmenas Amaijas 110. dzimšanas diena! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Carmen Amaya",
+        "hover_text": "110-asis Carmen Amayos gimtadienis",
+        "share_text": "110-asis Carmen Amayos gimtadienis! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Carmen Amaya",
+        "hover_text": "110. роденден на Carmen Amaya",
+        "share_text": "110. роденден на Carmen Amaya! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Carmen Amaya",
+        "hover_text": "Ulang Tahun Kelahiran Carmen Amaya yang ke-110",
+        "share_text": "Ulang Tahun Kelahiran Carmen Amaya yang ke-110! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Carmen Amaya",
+        "hover_text": "Carmen Amaya-യുടെ 110-ാം ജന്മദിനം",
+        "share_text": "Carmen Amaya-യുടെ 110-ാം ജന്മദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "कार्मेन अमाया",
+        "hover_text": "कार्मेन अमाया यांचा ११० वा स्मृतिदिन",
+        "share_text": "कार्मेन अमाया यांचा ११० वा स्मृतिदिन! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Кармен Амаяа",
+        "hover_text": "Кармен Амаяагийн мэндэлсний 110 жилийн ой",
+        "share_text": "Кармен Амаяагийн мэндэлсний 110 жилийн ой! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Carmen Amaya",
+        "hover_text": "Carmen Amaya को ११० औँ जन्मजयन्ती",
+        "share_text": "Carmen Amaya को ११० औँ जन्मजयन्ती! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Carmen Amaya",
+        "hover_text": "Carmen Amayas 110-årsdag",
+        "share_text": "Carmen Amayas 110-årsdag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "କାର୍ମେନ ଅମାୟା",
+        "hover_text": "କାର୍ମେନ ଅମାୟାଙ୍କ 110ତମ ଜନ୍ମଦିନ",
+        "share_text": "କାର୍ମେନ ଅମାୟାଙ୍କ 110ତମ ଜନ୍ମଦିନ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "کارمن آمایا",
+        "hover_text": "صدودهمین زادروز کارمن آمایا",
+        "share_text": "صدودهمین زادروز کارمن آمایا! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Carmen Amaya",
+        "hover_text": "Carmen Amaya – 110 rocznica urodzin",
+        "share_text": "Carmen Amaya – 110 rocznica urodzin #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Carmen Amaya",
+        "hover_text": "110º aniversário de Carmen Amaya",
+        "share_text": "110º aniversário de Carmen Amaya #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Carmen Amaya",
+        "hover_text": "110.º Aniversário de Carmen Amaya",
+        "share_text": "110.º Aniversário de Carmen Amaya! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Carmen Amaya",
+        "hover_text": "ਕਾਰਮੇਨ ਅਮਾਇਆ ਦਾ 110ਵਾਂ ਜਨਮਦਿਨ",
+        "share_text": "ਕਾਰਮੇਨ ਅਮਾਇਆ ਦਾ 110ਵਾਂ ਜਨਮਦਿਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Carmen Amaya",
+        "hover_text": "110 ani de la nașterea lui Carmen Amaya!",
+        "share_text": "110 ani de la nașterea lui Carmen Amaya! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Кармен Амайя",
+        "hover_text": "110 лет со дня рождения Кармен Амайи",
+        "share_text": "110 лет со дня рождения Кармен Амайи #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Кармен Амаја",
+        "hover_text": "110 година од рођења Кармен Амаје",
+        "share_text": "110 година од рођења Кармен Амаје! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Karmen Amaja",
+        "hover_text": "110 godina od rođenja Karmen Amaje",
+        "share_text": "110 godina od rođenja Karmen Amaje! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "කාමන් අමායා",
+        "hover_text": "කාමන් අමායාගේ 110 වැනි උපන් දිනය",
+        "share_text": "කාමන් අමායාගේ 110 වැනි උපන් දිනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Carmen Amaya",
+        "hover_text": "110. výročie narodenia Carmen Amayaovej",
+        "share_text": "110. výročie narodenia Carmen Amayaovej. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Carmen Amaya",
+        "hover_text": "110. rojstni dan Carmen Amaya",
+        "share_text": "110. rojstni dan Carmen Amaya! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Carmen Amaya",
+        "hover_text": "110.º aniversario del nacimiento de Carmen Amaya",
+        "share_text": "Hoy es el 110.º aniversario del nacimiento de Carmen Amaya #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Carmen Amaya",
+        "hover_text": "Maadhimisho ya Miaka 110 Tangu Kuzaliwa kwa Carmen Amaya",
+        "share_text": "Maadhimisho ya Miaka 110 Tangu Kuzaliwa kwa Carmen Amaya! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Carmen Amaya",
+        "hover_text": "Carmen Amaya 110 år",
+        "share_text": "Carmen Amaya 110 år #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "கார்மன் அமாயா",
+        "hover_text": "கார்மன் அமாயாவின் 110வது பிறந்தநாள்",
+        "share_text": "கார்மன் அமாயாவின் 110வது பிறந்தநாள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "కార్మెన్ అమాయా",
+        "hover_text": "కార్మెన్ అమాయా 110వ జయంతి",
+        "share_text": "కార్మెన్ అమాయా 110వ జయంతి! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Carmen Amaya",
+        "hover_text": "วันเกิดปีที่ 110 ของ Carmen Amaya",
+        "share_text": "วันเกิดปีที่ 110 ของ Carmen Amaya #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Carmen Amaya",
+        "hover_text": "Carmen Amaya'nın 110. Doğum Günü",
+        "share_text": "Carmen Amaya'nın 110. Doğum Günü #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Кармен Амая",
+        "hover_text": "110 років від дня народження Кармен Амаї",
+        "share_text": "110 років від дня народження Кармен Амаї! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Carmen Amaya",
+        "hover_text": "Carmen Amaya کی 110 ویں سالگرہ",
+        "share_text": "Carmen Amaya کی 110 ویں سالگرہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Carmen Amaya",
+        "hover_text": "Carmen Amaya tavalludining 110 yilligi",
+        "share_text": "Carmen Amaya tavalludining 110 yilligi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Carmen Amaya",
+        "hover_text": "Kỷ niệm 110 năm ngày sinh của Carmen Amaya",
+        "share_text": "Kỷ niệm 110 năm ngày sinh của Carmen Amaya! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Carmen Amaya",
+        "hover_text": "Usuku Lokuzalwa luka-Carmen Amaya Lweminyaka eyi-110",
+        "share_text": "Usuku Lokuzalwa luka-Carmen Amaya Lweminyaka eyi-110! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Carmen Amaya",
+    "share_text": "Carmen Amaya's 110th Birthday! #GoogleDoodle"
+  },
+  {
     "name": "day-of-the-dead-2023",
     "title": "Day of the Dead 2023",
     "url": "//www.google.com/logos/doodles/2023/day-of-the-dead-2023-6753651837110150.2-law.gif",
@@ -19,52 +518,52 @@
         "share_text": "Day of the Dead 2023! #GoogleDoodle"
       },
       "af": {
-        "query": null,
+        "query": "Dag van die Dooies",
         "hover_text": "Dag van die Dooies 2023",
         "share_text": "Dag van die Dooies 2023! #GoogleDoodle"
       },
       "sq": {
-        "query": null,
+        "query": "Dita e të Vdekurve",
         "hover_text": "Dita e të Vdekurve, 2023",
         "share_text": "Dita e të Vdekurve, 2023! #GoogleDoodle"
       },
       "am": {
-        "query": null,
+        "query": "የሙታን መታሰቢያ ቀን",
         "hover_text": "የሙታን መታሰቢያ ቀን 2023",
         "share_text": "የሙታን መታሰቢያ ቀን 2023! #GoogleDoodle"
       },
       "ar": {
-        "query": null,
+        "query": "يوم الموتى",
         "hover_text": "يوم الموتى 2023",
         "share_text": "يصادف اليوم يوم الموتى 2023. ‎#GoogleDoodle"
       },
       "hy": {
-        "query": null,
+        "query": "Մեռյալների օր",
         "hover_text": "Մեռյալների օր 2023",
         "share_text": "Մեռյալների օր 2023 #GoogleDoodle"
       },
       "az": {
-        "query": null,
+        "query": "Ölülər Günü",
         "hover_text": "2023 Ölənləri Anım Günü",
         "share_text": "2023 Ölənləri Anım Günü! #GoogleDoodle"
       },
       "bn": {
-        "query": null,
+        "query": "মৃতদের স্মরণ করার দিবস",
         "hover_text": "মৃতদের স্মরণ করার দিবস ২০২৩",
         "share_text": "মৃতদের স্মরণ করার দিবস ২০২৩! #GoogleDoodle"
       },
       "eu": {
-        "query": null,
+        "query": "Heriotzaren Eguna",
         "hover_text": "2023ko Hilen Eguna",
         "share_text": "2023ko Hilen Eguna #GoogleDoodle"
       },
       "be": {
-        "query": null,
+        "query": "Дзень мёртвых",
         "hover_text": "Дзень мёртвых 2023",
         "share_text": "Дзень мёртвых 2023! #GoogleDoodle"
       },
       "bs": {
-        "query": null,
+        "query": "Dan mrtvih",
         "hover_text": "Dušni dan 2023.",
         "share_text": "Dušni dan 2023! #GoogleDoodle"
       },
@@ -74,27 +573,27 @@
         "share_text": "Day of the Dead 2023! #GoogleDoodle"
       },
       "bg": {
-        "query": null,
+        "query": "Ден на мъртвите",
         "hover_text": "Ден на мъртвите 2023 г.",
         "share_text": "Ден на мъртвите 2023 г.! #GoogleDoodle"
       },
       "my": {
-        "query": null,
+        "query": "သေဆုံးသူများနေ့",
         "hover_text": "သေဆုံးသူများနေ့ ၂၀၂၃",
         "share_text": "သေဆုံးသူများနေ့ ၂၀၂၃။ #GoogleDoodle"
       },
       "ca": {
-        "query": null,
+        "query": "Dia dels Morts",
         "hover_text": "Dia dels Morts 2023",
         "share_text": "Dia dels Morts 2023 #GoogleDoodle"
       },
       "zh-HK": {
-        "query": null,
+        "query": "亡靈節",
         "hover_text": "2023 年亡靈節",
         "share_text": "2023 年亡靈節！#GoogleDoodle"
       },
       "zh-TW": {
-        "query": null,
+        "query": "亡靈節",
         "hover_text": "2023 年亡靈節",
         "share_text": "慶祝 2023 年亡靈節！#GoogleDoodle"
       },
@@ -104,12 +603,12 @@
         "share_text": "2023 年亡灵节！#GoogleDoodle"
       },
       "hr": {
-        "query": null,
+        "query": "Dan mrtvih",
         "hover_text": "Dan mrtvih 2023.",
         "share_text": "Dan mrtvih 2023.! #GoogleDoodle"
       },
       "cs": {
-        "query": null,
+        "query": "Den mrtvých",
         "hover_text": "Den mrtvých 2023",
         "share_text": "Slavíme Den mrtvých 2023! #GoogleDoodle"
       },
@@ -119,52 +618,52 @@
         "share_text": "De dødes dag 2023 #GoogleDoodle"
       },
       "nl": {
-        "query": null,
+        "query": "Dag van de Doden",
         "hover_text": "Dag van de Doden 2023",
         "share_text": "Dag van de Doden 2023! #GoogleDoodle"
       },
       "et": {
-        "query": null,
+        "query": "Surnute päev",
         "hover_text": "2023. aasta surnutepäev",
         "share_text": "2023. aasta surnutepäev #GoogleDoodle"
       },
       "fi": {
-        "query": null,
+        "query": "Kuolleiden päivä",
         "hover_text": "Kuolleiden päivä 2023",
         "share_text": "Kuolleiden päivä 2023 #GoogleDoodle"
       },
       "fr": {
-        "query": null,
+        "query": "Jour des morts",
         "hover_text": "Jour des Morts 2023",
         "share_text": "Jour des Morts 2023 #GoogleDoodle"
       },
       "fr-CA": {
-        "query": null,
+        "query": "Jour des Morts",
         "hover_text": "Jour des Morts 2023",
         "share_text": "Jour des Morts 2023! #GoogleDoodle"
       },
       "gl": {
-        "query": null,
+        "query": "Día dos Mortos",
         "hover_text": "Día dos Mortos 2023",
         "share_text": "Día dos Mortos 2023! #GoogleDoodle"
       },
       "ka": {
-        "query": null,
+        "query": "გარდაცვლილთა დღე",
         "hover_text": "გარდაცვლილთა დღე 2023",
         "share_text": "გარდაცვლილთა დღე 2023! #GoogleDoodle"
       },
       "de": {
-        "query": null,
+        "query": "Tag der Toten",
         "hover_text": "Día de los Muertos 2023",
         "share_text": "Día de los Muertos 2023! #GoogleDoodle"
       },
       "el": {
-        "query": null,
+        "query": "Ημέρα των Νεκρών",
         "hover_text": "Ημέρα των Νεκρών 2023",
         "share_text": "Ημέρα των Νεκρών 2023! #GoogleDoodle"
       },
       "gu": {
-        "query": null,
+        "query": "મૃત સ્વજનોનો દિવસ",
         "hover_text": "મૃત સ્વજનોનો દિવસ 2023",
         "share_text": "મૃત સ્વજનોનો દિવસ 2023! #GoogleDoodle"
       },
@@ -174,17 +673,17 @@
         "share_text": ""
       },
       "iw": {
-        "query": null,
+        "query": "יום המתים",
         "hover_text": "יום המתים 2023",
         "share_text": "יום המתים 2023 GoogleDoodle#"
       },
       "hi": {
-        "query": null,
+        "query": "डे ऑफ़ द डेड",
         "hover_text": "डे ऑफ़ द डेड 2023",
         "share_text": "डे ऑफ़ द डेड 2023! #GoogleDoodle"
       },
       "hu": {
-        "query": null,
+        "query": "Halottak napja",
         "hover_text": "Halottak napja, 2023",
         "share_text": "Halottak napja, 2023 #GoogleDoodle"
       },
@@ -194,7 +693,7 @@
         "share_text": "Dagur hinna dauðu 2023! #GoogleDoodle"
       },
       "id": {
-        "query": null,
+        "query": "Hari Raya Kematian",
         "hover_text": "Hari Raya Kematian 2023",
         "share_text": "Hari Raya Kematian 2023 #GoogleDoodle"
       },
@@ -204,42 +703,42 @@
         "share_text": "Lá na Marbh, 2023! #GoogleDoodle"
       },
       "it": {
-        "query": null,
+        "query": "Giorno dei morti",
         "hover_text": "Giorno dei morti 2023",
         "share_text": "Giorno dei morti 2023! #GoogleDoodle"
       },
       "ja": {
-        "query": null,
+        "query": "死者の日",
         "hover_text": "2023 年死者の日",
         "share_text": "2023 年死者の日！#GoogleDoodle"
       },
       "kn": {
-        "query": null,
+        "query": "ಡೇ ಆಫ್ ದಿ ಡೆಡ್",
         "hover_text": "ಡೇ ಆಫ್ ದಿ ಡೆಡ್ 2023",
         "share_text": "ಡೇ ಆಫ್ ದಿ ಡೆಡ್ 2023! #GoogleDoodle"
       },
       "kk": {
-        "query": null,
+        "query": "Өлілер күні",
         "hover_text": "Өлілер күні – 2023",
         "share_text": "Өлілер күні – 2023 #GoogleDoodle"
       },
       "km": {
-        "query": null,
+        "query": "ពិធីបុណ្យរំលឹកដល់​​សាច់ញាតិដែល​ចែកឋាន",
         "hover_text": "ពិធីបុណ្យ​រំលឹកដល់​អ្នក​ចែកឋាន​ឆ្នាំ 2023",
         "share_text": "ពិធីបុណ្យ​រំលឹកដល់​អ្នក​ចែកឋាន​ឆ្នាំ 2023! #GoogleDoodle"
       },
       "ko": {
-        "query": null,
+        "query": "망자의 날",
         "hover_text": "2023년 망자의 날",
         "share_text": "2023년 망자의 날 #GoogleDoodle"
       },
       "ky": {
-        "query": null,
+        "query": "Өлүктөрдүн күнү",
         "hover_text": "Маркумдардын күнү – 2023",
         "share_text": "Маркумдардын күнү – 2023! #GoogleDoodle"
       },
       "lo": {
-        "query": null,
+        "query": "ວັນແຫ່ງຄວາມຕາຍ",
         "hover_text": "ວັນແຫ່ງຄວາມຕາຍ 2023",
         "share_text": "ວັນແຫ່ງຄວາມຕາຍ 2023! #GoogleDoodle"
       },
@@ -249,32 +748,32 @@
         "share_text": "Día de los Muertos 2023 #GoogleDoodle"
       },
       "lv": {
-        "query": null,
+        "query": "Mirušo diena",
         "hover_text": "Mirušo diena — 2023",
         "share_text": "Mirušo diena — 2023! #GoogleDoodle"
       },
       "lt": {
-        "query": null,
+        "query": "Mirusiųjų diena",
         "hover_text": "Mirusiųjų diena, 2023 m.",
         "share_text": "Mirusiųjų diena, 2023 m.! #GoogleDoodle"
       },
       "mk": {
-        "query": null,
+        "query": "Ден на мртвите",
         "hover_text": "Ден на мртвите, 2023 г.",
         "share_text": "Ден на мртвите, 2023 г.! #GoogleDoodle"
       },
       "mg": {
-        "query": null,
+        "query": "Fetin'ny maty",
         "hover_text": null,
         "share_text": ""
       },
       "ms": {
-        "query": null,
+        "query": "Hari Kematian",
         "hover_text": "Hari Kematian 2023",
         "share_text": "Hari Kematian 2023! #GoogleDoodle"
       },
       "ml": {
-        "query": null,
+        "query": "ഡേ ഓഫ് ദി ഡെഡ്",
         "hover_text": "ഡേ ഓഫ് ദ ഡെഡ് 2023",
         "share_text": "ഡേ ഓഫ് ദ ഡെഡ് 2023! #GoogleDoodle"
       },
@@ -284,22 +783,22 @@
         "share_text": ""
       },
       "mr": {
-        "query": null,
+        "query": "स्वर्गवासी लोकांना आठवण्याचा दिवस",
         "hover_text": "डे ऑफ द डेड २०२३",
         "share_text": "डे ऑफ द डेड २०२३! #GoogleDoodle"
       },
       "mn": {
-        "query": null,
+        "query": "Нас барагсдын өдөр",
         "hover_text": "2023 оны Нас барагсдын өдөр",
         "share_text": "2023 оны Нас барагсдын өдөр! #GoogleDoodle"
       },
       "ne": {
-        "query": null,
+        "query": "मृतक दिवस",
         "hover_text": "मृतक दिवस २०२३",
         "share_text": "मृतक दिवस २०२३! #GoogleDoodle"
       },
       "no": {
-        "query": null,
+        "query": "De dødes dag",
         "hover_text": "De dødes dag 2023",
         "share_text": "De dødes dag 2023! #GoogleDoodle"
       },
@@ -314,7 +813,7 @@
         "share_text": ""
       },
       "or": {
-        "query": null,
+        "query": "ମୃତକଙ୍କୁ ସ୍ମରଣ କରିବା ଦିବସ",
         "hover_text": "ମୃତକଙ୍କ ସ୍ମରଣ ଦିବସ 2023",
         "share_text": "ମୃତକଙ୍କ ସ୍ମରଣ ଦିବସ 2023! #GoogleDoodle"
       },
@@ -324,32 +823,32 @@
         "share_text": ""
       },
       "fa": {
-        "query": null,
+        "query": "روز مردگان",
         "hover_text": "روز مردگان ۲۰۲۳",
         "share_text": "روز مردگان ۲۰۲۳! ‎#GoogleDoodle"
       },
       "pl": {
-        "query": null,
+        "query": "Święto Zmarłych",
         "hover_text": "Święto Zmarłych 2023",
         "share_text": "Święto Zmarłych 2023 #GoogleDoodle"
       },
       "pt-BR": {
-        "query": null,
+        "query": "Dia de Finados",
         "hover_text": "Dia de Finados 2023",
         "share_text": "Dia de Finados 2023 #GoogleDoodle"
       },
       "pt-PT": {
-        "query": null,
+        "query": "Dia dos mortos",
         "hover_text": "Dia dos Mortos de 2023",
         "share_text": "Dia dos Mortos de 2023! #GoogleDoodle"
       },
       "pa": {
-        "query": null,
+        "query": "ਮਰੇ ਲੋਕਾਂ ਦਾ ਦਿਨ",
         "hover_text": "ਮੁਰਦਿਆਂ ਦਾ ਦਿਨ 2023",
         "share_text": "ਮੁਰਦਿਆਂ ਦਾ ਦਿਨ 2023! #GoogleDoodle"
       },
       "ro": {
-        "query": null,
+        "query": "Ziua Morților",
         "hover_text": "Ziua Morților – 2023",
         "share_text": "Ziua Morților – 2023! #GoogleDoodle"
       },
@@ -359,17 +858,17 @@
         "share_text": ""
       },
       "ru": {
-        "query": null,
+        "query": "День мертвых",
         "hover_text": "День мертвых – 2023",
         "share_text": "День мертвых – 2023 #GoogleDoodle"
       },
       "sr": {
-        "query": null,
+        "query": "Дан мртвих",
         "hover_text": "Дан мртвих 2023.",
         "share_text": "Дан мртвих 2023! #GoogleDoodle"
       },
       "sr-Latn": {
-        "query": null,
+        "query": "Dan mrtvih",
         "hover_text": "Dan mrtvih 2023.",
         "share_text": "Dan mrtvih 2023! #GoogleDoodle"
       },
@@ -379,7 +878,7 @@
         "share_text": ""
       },
       "crs": {
-        "query": null,
+        "query": "Lazournen bann mor",
         "hover_text": null,
         "share_text": ""
       },
@@ -389,27 +888,27 @@
         "share_text": ""
       },
       "si": {
-        "query": null,
+        "query": "මිය ගිය අයගේ දිනය",
         "hover_text": "මළවුන්ගේ දිනය 2023",
         "share_text": "මළවුන්ගේ දිනය 2023! #GoogleDoodle"
       },
       "sk": {
-        "query": null,
+        "query": "Deň mŕtvych",
         "hover_text": "Deň mŕtvych 2023",
         "share_text": "Deň mŕtvych 2023. #GoogleDoodle"
       },
       "sl": {
-        "query": null,
+        "query": "Dan spomina na mrtve",
         "hover_text": "Dan spomina na mrtve 2023",
         "share_text": "Dan spomina na mrtve 2023! #GoogleDoodle"
       },
       "so": {
-        "query": null,
+        "query": "Maalinta Dadka dhintay",
         "hover_text": null,
         "share_text": ""
       },
       "st": {
-        "query": null,
+        "query": "Letsatsi la Bafu",
         "hover_text": null,
         "share_text": ""
       },
@@ -419,12 +918,12 @@
         "share_text": "Hoy es el Día de los Muertos 2023 #GoogleDoodle"
       },
       "sw": {
-        "query": null,
+        "query": "Sikukuu ya Wafu",
         "hover_text": "Sikukuu ya Wafu 2023",
         "share_text": "Sikukuu ya Wafu 2023! #GoogleDoodle"
       },
       "sv": {
-        "query": null,
+        "query": "De dödas dag",
         "hover_text": "De dödas dag 2023",
         "share_text": "De dödas dag 2023 #GoogleDoodle"
       },
@@ -434,27 +933,27 @@
         "share_text": ""
       },
       "ta": {
-        "query": null,
+        "query": "இறந்தோர் தினம்",
         "hover_text": "இறந்தோர் நினைவேந்தல் தினம் 2023",
         "share_text": "இறந்தோர் நினைவேந்தல் தினம் 2023! #GoogleDoodle"
       },
       "te": {
-        "query": null,
+        "query": "డే ఆఫ్ ది డెడ్",
         "hover_text": "డే ఆఫ్ ది డెడ్ 2023",
         "share_text": "డే ఆఫ్ ది డెడ్ 2023! #GoogleDoodle"
       },
       "th": {
-        "query": null,
+        "query": "วันแห่งความตาย",
         "hover_text": "วันแห่งความตายปี 2023",
         "share_text": "วันแห่งความตายปี 2023 #GoogleDoodle"
       },
       "tn": {
-        "query": null,
+        "query": "Letsatsi la Baswi",
         "hover_text": null,
         "share_text": ""
       },
       "tr": {
-        "query": null,
+        "query": "Ölüler Günü",
         "hover_text": "Ölüler Günü 2023",
         "share_text": "Ölüler Günü 2023 #GoogleDoodle"
       },
@@ -464,22 +963,22 @@
         "share_text": ""
       },
       "uk": {
-        "query": null,
+        "query": "День мертвих",
         "hover_text": "День мертвих у 2023 році",
         "share_text": "День мертвих у 2023 році! #GoogleDoodle"
       },
       "ur": {
-        "query": null,
+        "query": "یوم مرحومین",
         "hover_text": "یوم مرحومین 2023",
         "share_text": "یوم مرحومین 2023! GoogleDoodle#"
       },
       "uz": {
-        "query": null,
+        "query": "Marhumlar kuni",
         "hover_text": "Marhumlar kuni 2023",
         "share_text": "Marhumlar kuni 2023 #GoogleDoodle"
       },
       "vi": {
-        "query": null,
+        "query": "Ngày tưởng niệm người đã khuất",
         "hover_text": "Ngày tưởng niệm người đã khuất năm 2023",
         "share_text": "Ngày tưởng niệm người đã khuất năm 2023! #GoogleDoodle"
       },
@@ -489,7 +988,7 @@
         "share_text": ""
       },
       "zu": {
-        "query": null,
+        "query": "Usuku lokufa",
         "hover_text": "Usuku Lwabangasekho lwango-2023",
         "share_text": "Usuku Lwabangasekho lwango-2023! #GoogleDoodle"
       }
