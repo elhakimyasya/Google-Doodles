@@ -1,5 +1,1003 @@
 [
   {
+    "name": "panama-independence-day-2023",
+    "title": "Panama Independence Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/panama-independence-day-2023-6753651837109960.2-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/ybFX4RI_RwkLkJku10BZIzd-8u_Gcv03Vztnx7oMa4EGK-3H820Qa52Jxbg0umWN8oW-D6qVqn0VYHOw4da9gWN-XOSXIsZAEvVokUK9mQtwDI6jaGGnlA",
+    "high_res_url": "//www.google.com/logos/doodles/2023/panama-independence-day-2023-6753651837109960.2-2xa.gif",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2023,
+      11,
+      3
+    ],
+    "translations": {
+      "en": {
+        "query": "Panama Independence Day",
+        "hover_text": "Panama Independence Day 2023",
+        "share_text": "Happy Independence Day, Panama! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Panama se onafhanklikheidsdag",
+        "hover_text": "Panama se onafhanklikheidsdag 2023",
+        "share_text": "Gelukkige Onafhanklikheidsdag, Panama! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë e Panamasë",
+        "hover_text": "Dita e Pavarësisë së Panamasë, 2023",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Panama! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የፓናማ ነጻነት ቀን",
+        "hover_text": "የፓናማ የነፃነት ቀን 2023",
+        "share_text": "መልካም ነጻነት ቀን ፓናማ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال بنما",
+        "hover_text": "عيد استقلال بنما 2023",
+        "share_text": "عيد استقلال بنما ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Պանամայի անկախության օր",
+        "hover_text": "Պանամայի անկախության օր 2023",
+        "share_text": "Շնորհավո՛ր Պանամայի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Panamanın Müstəqillik Günü",
+        "hover_text": "2023 Panamanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Panama! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "পানামার স্বাধীনতা দিবস",
+        "hover_text": "পানামার স্বাধীনতা দিবস ২০২৩",
+        "share_text": "পানামার স্বাধীনতা দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Panamako Independentzia Eguna",
+        "hover_text": "2023ko Panamako Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Panama! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Панамы",
+        "hover_text": "Дзень незалежнасці Панамы 2023",
+        "share_text": "З Днём незалежнасці, Панама! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Paname",
+        "hover_text": "Dan nezavisnosti Paname 2023.",
+        "share_text": "Sretan Dan nezavisnosti, Panamo! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Panama Independence Day",
+        "hover_text": "Panama Independence Day 2023",
+        "share_text": "Happy Independence Day, Panama! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Панама",
+        "hover_text": "Ден на независимостта на Панама 2023 г.",
+        "share_text": "Честит Ден на независимостта на Панама! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ပနားမား လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၃ ပနားမားနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်‌ဖွယ် လွတ်လပ်ရေးနေ့ဖြစ်ပါစေ၊ ပနားမား။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència de Panamà",
+        "hover_text": "Dia de la Independència de Panamà 2023",
+        "share_text": "Feliç Dia de la Independència, Panamà! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "巴拿馬獨立日",
+        "hover_text": "2023 年巴拿馬獨立日",
+        "share_text": "巴拿馬，獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "巴拿馬獨立紀念日",
+        "hover_text": "2023 年巴拿馬獨立紀念日",
+        "share_text": "巴拿馬，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "巴拿马独立日",
+        "hover_text": "2023 年巴拿马独立日",
+        "share_text": "巴拿马，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Paname",
+        "hover_text": "Dan neovisnosti Paname 2023.",
+        "share_text": "Sretan Dan neovisnosti, Panamo! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Panamy",
+        "hover_text": "Den nezávislosti Panamy 2023",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Panamo! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Panamas uafhængighedsdag",
+        "hover_text": "Panamas uafhængighedsdag 2023",
+        "share_text": "Glædelig uafhængighedsdag, Panama! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Panama",
+        "hover_text": "Onafhankelijkheidsdag Panama 2023",
+        "share_text": "Fijne Onafhankelijkheidsdag, Panama! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Panama iseseisvuspäev",
+        "hover_text": "Panama 2023. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Panama! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Panaman itsenäisyyspäivä",
+        "hover_text": "Panaman itsenäisyyspäivä 2023",
+        "share_text": "Hyvää itsenäisyyspäivää, Panama! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance du Panama",
+        "hover_text": "Fête de l'Indépendance du Panama 2023",
+        "share_text": "Fête de l'Indépendance du Panama ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance du Panama",
+        "hover_text": "Fête de l'Indépendance du Panama 2023",
+        "share_text": "Joyeux jour de l'indépendance du Panama! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Panamá",
+        "hover_text": "Día da Independencia de Panamá 2023",
+        "share_text": "Feliz Día da Independencia, Panamá! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "პანამის დამოუკიდებლობის დღე",
+        "hover_text": "პანამის დამოუკიდებლობის დღე — 2023",
+        "share_text": "ვულოცავთ პანამას დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Panama",
+        "hover_text": "Unabhängigkeitstag Panama 2023",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Panama! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας Παναμά",
+        "hover_text": "Ημέρα Ανεξαρτησίας του Παναμά 2023",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας του Παναμά! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "પનામાનો સ્વતંત્રતા દિવસ",
+        "hover_text": "પનામાનો સ્વતંત્રતા દિવસ 2023",
+        "share_text": "પનામાના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של פנמה",
+        "hover_text": "יום העצמאות של פנמה 2023",
+        "share_text": "יום עצמאות שמח, פנמה! ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "पनामा का स्वतंत्रता दिवस",
+        "hover_text": "पनामा का स्वतंत्रता दिवस 2023",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, पनामा! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Panama függetlenségének napja",
+        "hover_text": "Panama függetlenségének napja, 2023",
+        "share_text": "Boldog függetlenség napját, Panama! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Panama",
+        "hover_text": "Sjálfstæðisdagur Panama 2023",
+        "share_text": "Gleðilegan sjálfstæðisdag, Panama! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Panama",
+        "hover_text": "Hari Kemerdekaan Panama 2023",
+        "share_text": "Selamat Hari Kemerdekaan, Panama! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse Phanama",
+        "hover_text": null,
+        "share_text": "Lá Saoirse Phanama faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza di Panamá",
+        "hover_text": "Festa dell'indipendenza di Panama 2023",
+        "share_text": "Buona festa dell'indipendenza, Panamá #GoogleDoodle"
+      },
+      "ja": {
+        "query": "パナマ独立記念日",
+        "hover_text": "2023 年パナマ独立記念日",
+        "share_text": "パナマ独立記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಪನಾಮಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಪನಾಮಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2023",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಪನಾಮಾ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Панаманың Тәуелсіздік күні",
+        "hover_text": "Панаманың Тәуелсіздік күні – 2023",
+        "share_text": "Тәуелсіздік күні құтты болсын, Панама! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យឯករាជ្យជាតិប៉ាណាម៉ា",
+        "hover_text": "ទិវា​បុណ្យឯករាជ្យជាតិប៉ាណាម៉ាឆ្នាំ 2023",
+        "share_text": "អបអរទិវា​បុណ្យឯករាជ្យជាតិប៉ាណាម៉ា! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "파나마 독립기념일",
+        "hover_text": "2023년 파나마 독립기념일",
+        "share_text": "파나마 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Панаманын Эгемендүүлүк күнү",
+        "hover_text": "Панаманын Эгемендүүлүк күнү — 2023",
+        "share_text": "Эгемендүүлүк күнүң менен, Панама! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດປານາມາ",
+        "hover_text": "ວັນປະກາດເອກະລາດປານາມາ 2023",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດປານາມາ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Panamá",
+        "hover_text": "Día de la Independencia de Panamá 2023",
+        "share_text": "Día de la Independencia de Panamá. #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Panamas neatkarības diena",
+        "hover_text": "Panamas Neatkarības diena — 2023",
+        "share_text": "Sveicam neatkarības dienā, Panama! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Panamos nepriklausomybės diena",
+        "hover_text": "Panamos nepriklausomybės diena, 2023 m.",
+        "share_text": "Sveikiname Panamą su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Панама",
+        "hover_text": "Ден на независноста на Панама, 2023 г.",
+        "share_text": "Среќен Ден на независноста, Панама! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Panama",
+        "hover_text": null,
+        "share_text": "Tsarà fetin'ny fahaleovantena ry Panama ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Panama",
+        "hover_text": "Hari Kemerdekaan Panama 2023",
+        "share_text": "Selamat Menyambut Hari Kemerdekaan, Panama! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "പനാമ സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "പനാമ സ്വാതന്ത്ര്യദിനം 2023",
+        "share_text": "സ്വാതന്ത്ര്യ ദിനാശംസകൾ, പനാമ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "पनामाचा स्वातंत्र्यदिन",
+        "hover_text": "पनामाचा स्वातंत्र्यदिन २०२३",
+        "share_text": "पनामाला स्वातंत्र्यदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Панамын Тусгаар тогтнолын өдөр",
+        "hover_text": "2023 оны Панам Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Панам улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "पनामाको स्वतन्त्रता दिवस",
+        "hover_text": "पानामाको स्वतन्त्रता दिवस २०२३",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, पनामा! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Panamas frigjøringsdag",
+        "hover_text": "Panamas frigjøringsdag 2023",
+        "share_text": "Gratulerer med frigjøringsdagen, Panama! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ପାନାମାର ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": "ପାନାମାର ସ୍ୱାଧୀନତା ଦିବସ 2023",
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, ପାନାମା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال پاناما",
+        "hover_text": "روز استقلال پاناما - ۲۰۲۳",
+        "share_text": "روز استقلال پاناما مبارک! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Niepodległości Panamy",
+        "hover_text": "Dzień Niepodległości Panamy 2023",
+        "share_text": "Panama obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência do Panamá",
+        "hover_text": "Dia da Independência do Panamá 2023",
+        "share_text": "Feliz Dia da Independência, Panamá! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência do Panamá",
+        "hover_text": "Dia da Independência do Panamá de 2023",
+        "share_text": "Feliz dia da independência, Panamá! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਪਨਾਮਾ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ",
+        "hover_text": "ਪਨਾਮਾ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2023",
+        "share_text": "ਪਨਾਮਾ ਦੇ ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței în Panama",
+        "hover_text": "Ziua Independenței în Panama 2023",
+        "share_text": "La mulți ani de Ziua Independenței, Panama! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Панамы",
+        "hover_text": "День независимости Панамы – 2023",
+        "share_text": "День независимости Панамы #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Панаме",
+        "hover_text": "Дан независности Панаме 2023.",
+        "share_text": "Честитамо Дан независности Панами! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Paname",
+        "hover_text": "Dan nezavisnosti Paname 2023.",
+        "share_text": "Čestitamo Dan nezavisnosti Panami! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepandans Panama",
+        "hover_text": null,
+        "share_text": "Bonn zournen lendepandans, Panama! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "පැනාමාවේ නිදහස් දිනය",
+        "hover_text": "පැනමාවේ නිදහස් දිනය 2023",
+        "share_text": "ශුභ නිදහස් දිනයක්, පැනාමාව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Panamy",
+        "hover_text": "Deň nezávislosti Panamy 2023",
+        "share_text": "Šťastný Deň nezávislosti, Panama! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Paname",
+        "hover_text": "Dan neodvisnosti Paname 2023",
+        "share_text": "Vesel dan neodvisnosti, Panama. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madax banaanida Banama",
+        "hover_text": null,
+        "share_text": "Maalinta Madax banaanida Farxada leh, Banama! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la Panama",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Tokoloho la Panama! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Panamá",
+        "hover_text": "Día de la Independencia de Panamá 2023",
+        "share_text": "¡Feliz Día de la Independencia de Panamá! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Panama",
+        "hover_text": "Sikukuu ya Uhuru wa Panama 2023",
+        "share_text": "Heri ya Sikukuu ya Uhuru, Panama! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Panamas självständighetsdag",
+        "hover_text": "Panamas självständighetsdag 2023",
+        "share_text": "Vi firar Panamas självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "பனாமாவின் சுதந்திர தினம்",
+        "hover_text": "பனாமாவின் சுதந்திர தினம் 2023",
+        "share_text": "பனாமாவின் சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "పనామా స్వాతంత్య్ర దినోత్సవం",
+        "hover_text": "పనామా స్వాతంత్య్ర దినోత్సవం 2023",
+        "share_text": "స్వాతంత్య్ర దినోత్సవ శుభాకాంక్షలు, పనామా! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของปานามา",
+        "hover_text": "วันประกาศอิสรภาพของปานามาปี 2023",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของปานามา #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Panama",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, Panama! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Panama Bağımsızlık Günü",
+        "hover_text": "Panama Bağımsızlık Günü 2023",
+        "share_text": "Panama Bağımsızlık Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Панами",
+        "hover_text": "День незалежності Панами у 2023 році",
+        "share_text": "З Днем незалежності, Панамо! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "پناما کا یوم آزادی",
+        "hover_text": "پاناما کا یوم آزادی 2023",
+        "share_text": "پناما کا یوم آزادی مبارک ہو! ‎#GoogleDoodle"
+      },
+      "uz": {
+        "query": "Panama mustaqillik kuni",
+        "hover_text": "Panama Mustaqillik kuni 2023",
+        "share_text": "Mustaqillik kuning muborak, Panama! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Panama",
+        "hover_text": "Ngày Quốc khánh Panama năm 2023",
+        "share_text": "Chúc mừng quốc khánh Panama! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lokuzimela e-Panama",
+        "hover_text": "Usuku Lokuzimela lwase-Panama lwango-2023",
+        "share_text": "Usuku oluhle lokuzimela, Panama! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Panama Independence Day",
+    "share_text": "Happy Independence Day, Panama! #GoogleDoodle"
+  },
+  {
+    "name": "celebrating-allan-haozous-houser",
+    "title": "Celebrating Allan Haozous (Houser)",
+    "url": "//www.google.com/logos/doodles/2023/celebrating-allan-haozous-houser-6753651837110055.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/txmAeTMrNDyugxSZcxxrXPHFObguik2OmabHG-OIMe4YmB6_9hvfleenvJc4EwsxV7-M1i6rQaBuS2wDqmeTlLY2PczjevTpEkGWb7hRCiHsCnqzwgLbNaw",
+    "high_res_url": "//www.google.com/logos/doodles/2023/celebrating-allan-haozous-houser-6753651837110055.2-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      11,
+      3
+    ],
+    "translations": {
+      "en": {
+        "query": "Allan Haozous",
+        "hover_text": "Celebrating Allan Haozous (Houser)",
+        "share_text": "Celebrating Allan Haozous (Houser)! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Allan Haozous",
+        "hover_text": "Ter viering van Allan Haozous (Houser)",
+        "share_text": "Ter viering van Allan Haozous (Houser)! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Allan Haozous",
+        "hover_text": "Përkujtojmë Allan Haozous (Houser)",
+        "share_text": "Përkujtojmë Allan Haozous (Houser)! #GoogleDoodle"
+      },
+      "am": {
+        "query": "አለን ሆውዘስ",
+        "hover_text": "አለን ሆውዘስን (ሃውዘር) በማክበር ላይ",
+        "share_text": "አለን ሆውዘስን (ሃውዘር) በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "ألان هاوزوس",
+        "hover_text": "الاحتفال بذكرى \"ألان هاوزوس\" (هاوسر)",
+        "share_text": "نحتفل اليوم بذكرى \"ألان هاوزوس\" (هاوسر). ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ալան Հաուզուս",
+        "hover_text": "Տոնե՛նք Ալան Հաուզուսի (Հաուզերի) օրը",
+        "share_text": "Տոնե՛նք Ալան Հաուզուսի (Հաուզերի) օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Allan Haozous",
+        "hover_text": "Allan Haozous (Houser) günü",
+        "share_text": "Allan Haozous (Houser) günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "অ্যালান হ্যাওজোস",
+        "hover_text": "অ্যালান হ্যাওজোস (হাউজার)-এর স্মৃতিতে উদযাপন করা হচ্ছে",
+        "share_text": "অ্যালান হ্যাওজোস (হাউজার)-এর স্মৃতিতে উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Allan Haozous",
+        "hover_text": "Allan Haozousen (Houser) omenez",
+        "share_text": "Allan Haozousen (Houser) omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Алан Хаўзус",
+        "hover_text": "Ушаноўваем Алана (Хаўзэра) Хаўзуса",
+        "share_text": "Ушаноўваем Алана (Хаўзэра) Хаўзуса! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Allan Haozous",
+        "hover_text": "Slavimo Allana Haozousa (Housera)",
+        "share_text": "Slavimo Allana Haozousa (Housera)! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Allan Haozous",
+        "hover_text": "Celebrating Allan Haozous (Houser)",
+        "share_text": "Celebrating Allan Haozous (Houser)! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Алън Хаузър",
+        "hover_text": "Честване на Алън Хаузър",
+        "share_text": "Честване на Алън Хаузър! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Allan Haozous",
+        "hover_text": "Allan Haozous (Houser) ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "Allan Haozous (Houser) ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Allan Haozous (Houser)",
+        "hover_text": "Homenatge a Allan Haozous (Houser)",
+        "share_text": "Homenatge a Allan Haozous (Houser) #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Allan Haozous (Houser)",
+        "hover_text": "紀念 Allan Haozous (Houser)",
+        "share_text": "紀念 Allan Haozous (Houser)！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "艾倫豪澤斯",
+        "hover_text": "紀念艾倫豪澤斯 (豪瑟)",
+        "share_text": "紀念艾倫豪澤斯 (豪瑟)！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "Allan Haozous",
+        "hover_text": "纪念 Allan Haozous (Houser)",
+        "share_text": "纪念 Allan Haozous (Houser)！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Allan Haozous",
+        "hover_text": "U čast Allana Haozousa (Housera)",
+        "share_text": "U čast Allana Haozousa (Housera)! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Allan Haozous",
+        "hover_text": "Pocta Allanu Haozousovi (Houserovi)",
+        "share_text": "Pocta Allanu Haozousovi (Houserovi)! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Allan Haozous",
+        "hover_text": "Vi hylder Allan Haozous (Houser)",
+        "share_text": "Vi hylder Allan Haozous (Houser) #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Allan Haozous",
+        "hover_text": "Doodle ter ere van Allan Haozous (Houser)",
+        "share_text": "Doodle ter ere van Allan Haozous (Houser)! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Allan Haozous (Houser)",
+        "hover_text": "Mälestame Allan Haozoust (Houserit)",
+        "share_text": "Mälestame Allan Haozoust (Houserit)! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Allan Haozous",
+        "hover_text": "Allan Haozous (Houser)",
+        "share_text": "Allan Haozous (Houser) #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Allan Haozous",
+        "hover_text": "Hommage à Allan Haozous (Houser)",
+        "share_text": "Hommage à Allan Haozous (Houser) ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Allan Haozous",
+        "hover_text": "Célébration d'Allan Haozous (Houser)",
+        "share_text": "Célébration d'Allan Haozous (Houser)! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Allan Haozous",
+        "hover_text": "Homenaxe a Allan Haozous (Houser)",
+        "share_text": "Homenaxe a Allan Haozous (Houser)! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ალან ჰაუზუსი",
+        "hover_text": "აღვნიშნავთ ალან ჰაუზუსის (ჰაუზერის) დღეს",
+        "share_text": "აღვნიშნავთ ალან ჰაუზუსის (ჰაუზერის) დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Allan Haozous",
+        "hover_text": "Zu Ehren von Allan Haozous (Houser)",
+        "share_text": "Zu Ehren von Allan Haozous (Houser)! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Allan Haozous",
+        "hover_text": "Τιμούμε τον Allan Haozous (Houser)",
+        "share_text": "Τιμούμε τον Allan Haozous (Houser)! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ઍલન હોઝોસ",
+        "hover_text": "ઍલન હોઝોસ (હોસર)ની યાદમાં ઉજવણી કરી રહ્યાં છીએ",
+        "share_text": "ઍલન હોઝોસ (હોસર)ની યાદમાં ઉજવણી કરી રહ્યાં છીએ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Allan Haozous (Houser)",
+        "hover_text": "מחווה לאלן הזוס (האוזר)",
+        "share_text": "מחווה לאלן הזוס (האוזר) GoogleDoodle#"
+      },
+      "hi": {
+        "query": "एलन हाउज़स",
+        "hover_text": "एलन हाउज़स (हाउज़र) की याद में",
+        "share_text": "एलन हाउज़स (हाउज़र) की याद में! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Allan Haozous",
+        "hover_text": "Allan Haozous (Houser) ünneplése",
+        "share_text": "Allan Haozous (Houser) ünneplése #GoogleDoodle"
+      },
+      "is": {
+        "query": "Allan Haozous",
+        "hover_text": "Við heiðrum Allan Haozous (Houser)",
+        "share_text": "Við heiðrum Allan Haozous (Houser)! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Allan Haozous (Houser)",
+        "hover_text": "Mengenang Allan Haozous (Houser)",
+        "share_text": "Mengenang Allan Haozous (Houser) #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Allan Haozous (Houser)",
+        "hover_text": "In onore di Allan Haozous (Houser)",
+        "share_text": "In onore di Allan Haozous (Houser)! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "アラン・ハオザス（ハウザー）",
+        "hover_text": "アラン・ハオザス（ハウザー）を称えて",
+        "share_text": "アラン・ハオザス（ハウザー）を称えて！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಆ್ಯಲನ್ ಹೌಜಸ್",
+        "hover_text": "ಆ್ಯಲನ್ ಹೌಜಸ್ (ಹೌಸರ್) ಅವರನ್ನು ಸ್ಮರಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಆ್ಯಲನ್ ಹೌಜಸ್ (ಹೌಸರ್) ಅವರನ್ನು ಸ್ಮರಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Аллан Хоузес",
+        "hover_text": "Аллан Хоузес (Хаузер) күні құтты болсын",
+        "share_text": "Аллан Хоузес (Хаузер) күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Allan Haozous",
+        "hover_text": "អបអរទិវារំលឹក Allan Haozous (Houser)",
+        "share_text": "អបអរទិវារំលឹក Allan Haozous (Houser)! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Allan Haozous",
+        "hover_text": "Allan Haozous(Houser)를 기억하며",
+        "share_text": "Allan Haozous(Houser)를 기억하며 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Аллан Хаозоус",
+        "hover_text": "Аллан Хаозоус (Хаузер) күнүн майрамдоо",
+        "share_text": "Аллан Хаозоус (Хаузер) күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Allan Haozous",
+        "hover_text": "ສະເຫຼີມສະຫຼອງ Allan Haozous (Houser)",
+        "share_text": "ສະເຫຼີມສະຫຼອງ Allan Haozous (Houser)! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Allan Haozous",
+        "hover_text": "Homenaje a Allan Haozous (Houser)",
+        "share_text": "¡Homenaje a Allan Haozous (Houser)! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Alans Haozoss",
+        "hover_text": "Alana Haozosa (Hauzera) godināšana",
+        "share_text": "Alana Haozosa (Hauzera) godināšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Allan Haozous",
+        "hover_text": "Allano Haozouso (Houserio) minėjimas",
+        "share_text": "Allano Haozouso (Houserio) minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Allan Haozous",
+        "hover_text": "Во чест на Allan Haozous (Houser)",
+        "share_text": "Во чест на Allan Haozous (Houser)! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Allan Haozous",
+        "hover_text": "Meraikan Allan Haozous (Houser)",
+        "share_text": "Meraikan Allan Haozous (Houser)! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Allan Haozous",
+        "hover_text": "Allan Haozous-നെ (Houser) ആദരിക്കുന്നു",
+        "share_text": "Allan Haozous-നെ (Houser) ആദരിക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "अ‍ॅलन हाओझस",
+        "hover_text": "अ‍ॅलन हाओझस (हाउझर) यांच्या स्मरणार्थ",
+        "share_text": "अ‍ॅलन हाओझस (हाउझर) यांच्या स्मरणार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Аллан Хаозус",
+        "hover_text": "Аллан Хаозусын (Хаузер) өдрийг тэмдэглэж байна",
+        "share_text": "Аллан Хаозусын (Хаузер) өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Allan Haozous",
+        "hover_text": "Allan Haozous (Houser) को सम्झना",
+        "share_text": "Allan Haozous (Houser) को सम्झना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Allan Haozous",
+        "hover_text": "Vi feirer Allan Haozous (Houser)",
+        "share_text": "Vi feirer Allan Haozous (Houser)! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଆଲାନ \"ହାଉସର\" ହାଓଜୋସ",
+        "hover_text": "ଆଲାନ \"ହାଉସର\" ହାଓଜୋସଙ୍କ ସ୍ମୃତିରେ",
+        "share_text": "ଆଲାନ \"ହାଉସର\" ହାଓଜୋସଙ୍କ ସ୍ମୃତିରେ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "آلن هاوزِس (هاوزر)",
+        "hover_text": "بزرگداشت آلن هاوزِس (هاوزر)",
+        "share_text": "بزرگداشت آلن هاوزِس (هاوزر)! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Allan Haozous",
+        "hover_text": "Wspominamy Allana Haozousa (Housera)",
+        "share_text": "Wspominamy Allana Haozousa (Housera). #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Allan Haozous (Houser)",
+        "hover_text": "Celebração da vida de Allan Haozous (Houser)",
+        "share_text": "Celebração da vida de Allan Haozous (Houser) #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Allan Haozous (Houser)",
+        "hover_text": "Celebração de Allan Haozous (Houser)",
+        "share_text": "Celebração de Allan Haozous (Houser)! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Allan Haozous",
+        "hover_text": "ਐਲਨ ਹੌਜ਼ਸ ਦੀ ਸਿਫ਼ਤ ਵਿੱਚ (ਹਾਊਜ਼ਰ)",
+        "share_text": "ਐਲਨ ਹੌਜ਼ਸ ਦੀ ਸਿਫ਼ਤ ਵਿੱਚ (ਹਾਊਜ਼ਰ)! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Allan Haozous (Houser)",
+        "hover_text": "În cinstea lui Allan Haozous (Houser)",
+        "share_text": "În cinstea lui Allan Haozous (Houser)! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Аллан Хаузес",
+        "hover_text": "День Аллана Хаузеса (Хаузера)",
+        "share_text": "День Аллана Хаузеса (Хаузера) #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Алан Хаозус",
+        "hover_text": "Славимо Алана Хаозуса (Хаузера)",
+        "share_text": "Славимо Алана Хаозуса (Хаузера)! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Alan Haozus",
+        "hover_text": "Slavimo Alana Haozusa (Hauzera)",
+        "share_text": "Slavimo Alana Haozusa (Hauzera)! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ඇලන් හඕසස්",
+        "hover_text": "ඇලන් හඕසස් (හවුසර්) සැමරීම",
+        "share_text": "ඇලන් හඕසස් (හවුසර්) සැමරීම! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Allan Haozous",
+        "hover_text": "Oslavujeme Allana Haozousa (Housera)",
+        "share_text": "Oslavujeme Allana Haozousa (Housera). #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Allan Haozous (Houser)",
+        "hover_text": "Slavimo Allana Haozousa (Houserja)",
+        "share_text": "Slavimo Allana Haozousa (Houserja)! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Allan Haozous",
+        "hover_text": "Homenaje a Allan Haozous (Houser)",
+        "share_text": "¡Homenaje a Allan Haozous (Houser)! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Allan Haozous",
+        "hover_text": "Tunamwenzi Allan Haozous (Houser)",
+        "share_text": "Tunamwenzi Allan Haozous (Houser)! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Allan Haozous",
+        "hover_text": "Vi hyllar Allan Haozous (Houser)",
+        "share_text": "Vi hyllar Allan Haozous (Houser) #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Allan Haozous",
+        "hover_text": "ஆலன் ஹவ்சஸை (ஹவ்சர்) கொண்டாடுவோம்",
+        "share_text": "ஆலன் ஹவ்சஸை (ஹவ்சர்) கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఆలన్ హౌజస్",
+        "hover_text": "ఆలన్ హౌజస్ (హౌసర్)ను స్మరించుకుందాం",
+        "share_text": "ఆలన్ హౌజస్ (హౌసర్)ను స్మరించుకుందాం! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Allan Haozous",
+        "hover_text": "วันรำลึกถึง Allan Haozous (Houser)",
+        "share_text": "วันรำลึกถึง Allan Haozous (Houser) #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Allan Haozous",
+        "hover_text": "Allan Haozous'ı (Houser) Anıyoruz",
+        "share_text": "Allan Haozous'ı (Houser) anıyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Аллан Хаозус (Хаузер)",
+        "hover_text": "Ушановуємо Аллана Хаозуса (Хаузера)",
+        "share_text": "Ушановуємо Аллана Хаозуса (Хаузера)! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Allan Haozous",
+        "hover_text": "Allan Haozous (Houser) کی یاد میں",
+        "share_text": "Allan Haozous (Houser) کی یاد میں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Allan Haozous",
+        "hover_text": "Allan Haozous (Houser) kuni",
+        "share_text": "Allan Haozous (Houser) kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Allan Haozous",
+        "hover_text": "Tôn vinh Allan Haozous (Houser)",
+        "share_text": "Tôn vinh Allan Haozous (Houser)! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Allan Haozous",
+        "hover_text": "Kuhalaliselwa u-Allan Haozous (Houser)",
+        "share_text": "Kuhalaliselwa u-Allan Haozous (Houser)! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Allan Haozous",
+    "share_text": "Celebrating Allan Haozous (Houser)! #GoogleDoodle"
+  },
+  {
     "name": "carmen-amayas-110th-birthday",
     "title": "Carmen Amaya's 110th Birthday",
     "url": "//www.google.com/logos/doodles/2023/carmen-amayas-110th-birthday-6753651837110094-l.png",
