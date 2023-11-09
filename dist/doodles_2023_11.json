@@ -1,5 +1,504 @@
 [
   {
+    "name": "cambodia-independence-day-2023",
+    "title": "Cambodia Independence Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/cambodia-independence-day-2023-6753651837109961-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/bAyVITV1AwCODUVWVE3RdMCs4b3vRGy3AczeoB0bcR95VfKhEQ8f436QBBN5C3TQQmHaupXt6kdOuCP-c32z-3_dMNvF-DabeiY4cU3ZC81GfGqtwFdN",
+    "high_res_url": "//www.google.com/logos/doodles/2023/cambodia-independence-day-2023-6753651837109961-2xa.gif",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2023,
+      11,
+      9
+    ],
+    "translations": {
+      "en": {
+        "query": "Cambodia Independence Day",
+        "hover_text": "Cambodia Independence Day 2023",
+        "share_text": "Happy Independence Day, Cambodia! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Kambodja se onafhanklikheidsdag",
+        "hover_text": "Kambodja se onafhanklikheidsdag 2023",
+        "share_text": "Gelukkige onafhanklikheidsdag, Kambodja! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë së Kamboxhias",
+        "hover_text": "Dita e Pavarësisë së Kamboxhias, 2023",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Kamboxhia! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የካምቦዲያ ነጻነት ቀን",
+        "hover_text": "የካምቦዲያ የነፃነት ቀን 2023",
+        "share_text": "መልካም የነጻነት ቀን፣ ካምቦዲያ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال كمبوديا 2020",
+        "hover_text": "عيد استقلال كمبوديا 2023",
+        "share_text": "نتمنى لكمبوديا عيد استقلال سعيدًا. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Կամբոջայի անկախության օր",
+        "hover_text": "Կամբոջայի անկախության օր 2023",
+        "share_text": "Շնորհավո՛ր Կամբոջայի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Kambocanın Müstəqillik Günü",
+        "hover_text": "2023 Kambocanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Kamboca! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "কম্বোডিয়া স্বাধীনতা দিবস",
+        "hover_text": "কম্বোডিয়ার স্বাধীনতা দিবস ২০২৩",
+        "share_text": "স্বাধীনতা দিবসের শুভেচ্ছা, কম্বোডিয়া! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Kanbodiako Independentzia Eguna",
+        "hover_text": "2023ko Kanbodiako Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Kanbodia! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Камбоджы",
+        "hover_text": "Дзень незалежнасці Камбоджы 2023",
+        "share_text": "З Днём незалежнасці, Камбоджа! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Kambodže",
+        "hover_text": "Dan nezavisnosti Kambodže 2023.",
+        "share_text": "Sretan Dan nezavisnosti, Kambodža! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Cambodia Independence Day",
+        "hover_text": "Cambodia Independence Day 2023",
+        "share_text": "Happy Independence Day, Cambodia! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Камбоджа",
+        "hover_text": "Ден на независимостта на Камбоджа 2023 г.",
+        "share_text": "Честит Ден на независимостта на Камбоджа! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ကမ္ဘောဒီးယား လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၃ ကမ္ဘောဒီးယားနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ ဖြစ်ပါစေ၊ ကမ္ဘောဒီးယား။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència de Cambodja",
+        "hover_text": "Dia de la Independència de Cambodja 2023",
+        "share_text": "Feliç Dia de la Independència, Cambodja! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "柬埔寨獨立日",
+        "hover_text": "2023 年柬埔寨獨立日",
+        "share_text": "柬埔寨，獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "柬埔寨獨立紀念日",
+        "hover_text": "2023 年柬埔寨獨立紀念日",
+        "share_text": "柬埔寨，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "柬埔寨独立日",
+        "hover_text": "2023 年柬埔寨独立日",
+        "share_text": "柬埔寨，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Kambodže",
+        "hover_text": "Dan neovisnosti Kambodže 2023.",
+        "share_text": "Sretan Dan neovisnosti, Kambodžo! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Kambodže",
+        "hover_text": "Den nezávislosti Kambodže 2023",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Kambodžo! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Cambodjas uafhængighedsdag",
+        "hover_text": "Cambodjas uafhængighedsdag 2023",
+        "share_text": "Glædelig uafhængighedsdag, Cambodja! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Cambodja",
+        "hover_text": "Onafhankelijkheidsdag Cambodja 2023",
+        "share_text": "Fijne Onafhankelijkheidsdag, Cambodja #GoogleDoodle"
+      },
+      "et": {
+        "query": "Kambodža iseseisvuspäev",
+        "hover_text": "Kambodža 2023. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Kambodža! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Kambodžan itsenäisyyspäivä",
+        "hover_text": "Kambodžan itsenäisyyspäivä 2023",
+        "share_text": "Hyvää itsenäisyyspäivää, Kambodža! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance du Cambodge",
+        "hover_text": "Fête de l'Indépendance du Cambodge 2023",
+        "share_text": "Fête de l'Indépendance du Cambodge ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance du Cambodge",
+        "hover_text": "Fête de l'Indépendance du Cambodge 2023",
+        "share_text": "Joyeux jour de l'indépendance du Cambodge! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Camboxa",
+        "hover_text": "Día da Independencia de Camboxa 2023",
+        "share_text": "Feliz Día da Independencia, Camboxa! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "კამბოჯის დამოუკიდებლობის დღე",
+        "hover_text": "კამბოჯის დამოუკიდებლობის დღე — 2023",
+        "share_text": "ვულოცავთ კამბოჯას დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Kambodscha",
+        "hover_text": "Unabhängigkeitstag Kambodscha 2023",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Kambodscha! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας της Καμπότζης 2020",
+        "hover_text": "Ημέρα Ανεξαρτησίας της Καμπότζης 2023",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας της Καμπότζης! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "કંબોડિયાનો સ્વતંત્રતા દિવસ",
+        "hover_text": "કંબોડિયાનો સ્વતંત્રતા દિવસ 2023",
+        "share_text": "કંબોડિયાના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של קמבודיה",
+        "hover_text": "יום העצמאות של קמבודיה 2023",
+        "share_text": "יום עצמאות שמח, קמבודיה! ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "कंबोडिया का स्वतंत्रता दिवस",
+        "hover_text": "कंबोडिया का स्वतंत्रता दिवस 2023",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, कंबोडिया! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Kambodzsa függetlenségének napja",
+        "hover_text": "Kambodzsa függetlenségének napja, 2023",
+        "share_text": "Boldog függetlenség napját, Kambodzsa! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Kambódíu",
+        "hover_text": "Sjálfstæðisdagur Kambódíu 2023",
+        "share_text": "Gleðilegan sjálfstæðisdag, Kambódía! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Kamboja",
+        "hover_text": "Hari Kemerdekaan Kamboja 2023",
+        "share_text": "Selamat Hari Kemerdekaan, Kamboja! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse na Cambóide",
+        "hover_text": null,
+        "share_text": "Lá Saoirse na Cambóide faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza della Cambogia",
+        "hover_text": "Festa dell'indipendenza della Cambogia 2023",
+        "share_text": "Buona festa dell'indipendenza, Cambogia! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "カンボジア独立記念日",
+        "hover_text": "2023 年カンボジア独立記念日",
+        "share_text": "カンボジア独立記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಕಾಂಬೋಡಿಯಾದ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಕಾಂಬೋಡಿಯಾದ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2023",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಕಾಂಬೋಡಿಯಾ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Камбоджаның Тәуелсіздік күні",
+        "hover_text": "Камбоджаның Тәуелсіздік күні – 2023",
+        "share_text": "Тәуелсіздік күні құтты болсын, Камбоджа! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាឯករាជ្យកម្ពុជា",
+        "hover_text": "ទិវាឯករាជ្យកម្ពុជា ២០២៣",
+        "share_text": "ទិវាឯករាជ្យកម្ពុជា ២០២៣ #GoogleDoodle"
+      },
+      "ko": {
+        "query": "캄보디아 독립기념일",
+        "hover_text": "2023년 캄보디아 독립기념일",
+        "share_text": "캄보디아 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Камбодиянын эгемендүүлүк күнү",
+        "hover_text": "Камбоджанын Эгемендүүлүк күнү – 2023",
+        "share_text": "Эгемендүүлүк күнүң менен, Камбодия! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດກຳປູເຈຍ",
+        "hover_text": "ວັນປະກາດເອກະລາດກຳປູເຈຍ 2023",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດກຳປູເຈຍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Camboya",
+        "hover_text": "Día de la Independencia de Camboya 2023",
+        "share_text": "¡Feliz Día de la Independencia, Camboya! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Kambodžas neatkarības diena — 2020",
+        "hover_text": "Kambodžas Neatkarības diena — 2023",
+        "share_text": "Sveicam Neatkarības dienā, Kambodža! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Kambodžos nepriklausomybės diena",
+        "hover_text": "Kambodžos nepriklausomybės diena, 2023 m.",
+        "share_text": "Sveikiname Kambodžą su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Камбоџа",
+        "hover_text": "Ден на независноста на Камбоџа, 2023 г.",
+        "share_text": "Среќен Ден на независноста, Камбоџа! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Kambôjy",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny fahaleovantena ry Kambôjy ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Kemboja",
+        "hover_text": "Hari Kemerdekaan Kemboja 2023",
+        "share_text": "Selamat Hari Kemerdekaan, Kemboja! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "കംബോഡിയൻ സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "കംബോഡിയൻ സ്വാതന്ത്ര്യദിനം 2023",
+        "share_text": "സ്വാതന്ത്ര്യദിനാശംസകൾ, കംബോഡിയ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "कंबोडियाचा स्वातंत्र्यदिन",
+        "hover_text": "कंबोडियाचा स्वातंत्र्यदिन २०२३",
+        "share_text": "कंबोडियाला स्वातंत्र्यदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Камбож улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2023 оны Камбож Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Камбож улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "कम्बोडियाको स्वतन्त्रता दिवस",
+        "hover_text": "कम्बोडियाको स्वतन्त्रता दिवस २०२३",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, कम्बोडिया! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Kambodsjas frigjøringsdag",
+        "hover_text": "Kambodsjas frigjøringsdag 2023",
+        "share_text": "Gratulerer med frigjøringsdagen, Kambodsja! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "କାମ୍ଵୋଡିଆ ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": "କାମ୍ବୋଡିଆର ସ୍ୱାଧୀନତା ଦିବସ 2023",
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, କାମ୍ଵୋଡିଆ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال کامبوج",
+        "hover_text": "روز استقلال کامبوج - ۲۰۲۳",
+        "share_text": "روز استقلال مبارک، کامبوج! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Niepodległości Kambodży",
+        "hover_text": "Święto Niepodległości Kambodży 2023",
+        "share_text": "Kambodża obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência do Camboja",
+        "hover_text": "Dia da Independência do Camboja 2023",
+        "share_text": "Feliz Dia da Independência, Camboja! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência do Camboja",
+        "hover_text": "Dia da Independência do Camboja de 2023",
+        "share_text": "Feliz dia da independência, Camboja! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਕੰਬੋਡੀਆ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ",
+        "hover_text": "ਕੰਬੋਡੀਆ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2023",
+        "share_text": "ਕੰਬੋਡੀਆ ਦੇ ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței în Cambodgia",
+        "hover_text": "Ziua Independenței în Cambodgia – 2023",
+        "share_text": "La mulți ani de Ziua Independenței, Cambodgia! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Камбоджи",
+        "hover_text": "День независимости Камбоджи – 2023",
+        "share_text": "День независимости Камбоджи #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Камбоџе",
+        "hover_text": "Дан независности Камбоџе 2023.",
+        "share_text": "Честитамо Дан независности Камбоџи! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Kambodže",
+        "hover_text": "Dan nezavisnosti Kambodže 2023.",
+        "share_text": "Čestitamo Dan nezavisnosti Kambodži! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepandans Kanboz",
+        "hover_text": null,
+        "share_text": "Bonn Zournen lendepandans, Kanboz! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "කාම්බෝජයේ නිදහස් දිනය",
+        "hover_text": "කාම්බෝජයේ නිදහස් දිනය 2023",
+        "share_text": "ප්‍රීතිමත් නිදහස් දිනයක්, කාම්බෝජය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Kambodže",
+        "hover_text": "Deň nezávislosti Kambodže 2023",
+        "share_text": "Šťastný Deň nezávislosti, Kambodža! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Kambodže",
+        "hover_text": "Dan neodvisnosti Kambodže 2023",
+        "share_text": "Vesel dan neodvisnosti, Kambodža! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madaxbanaanida Kaamboodiya",
+        "hover_text": null,
+        "share_text": "Maalinta Madaxbanaanida Farxada leh, Kaamboodiya! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la Cambodia",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Tokoloho la Cambodia! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Camboya",
+        "hover_text": "Día de la Independencia de Camboya 2023",
+        "share_text": "¡Feliz Día de la Independencia de Camboya! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Uhuru wa Kambodia",
+        "hover_text": "Sikukuu ya Uhuru wa Kambodia 2023",
+        "share_text": "Heri za Sikukuu ya Uhuru, Kambodia! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Kambodjas självständighetsdag",
+        "hover_text": "Kambodjas självständighetsdag 2023",
+        "share_text": "Vi firar Kambodjas självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "கம்போடியாவின் சுதந்திர தினம்",
+        "hover_text": "கம்போடியாவின் சுதந்திர தினம் 2023",
+        "share_text": "கம்போடியாவின் சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "కాంబోడియా స్వాతంత్య్ర దినోత్సవం",
+        "hover_text": "కంబోడియా స్వాతంత్య్ర దినోత్సవం 2023",
+        "share_text": "కాంబోడియా స్వాతంత్య్ర దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของกัมพูชา",
+        "hover_text": "วันประกาศเอกราชของกัมพูชาปี 2023",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของกัมพูชา #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Cambodia",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, Cambodia! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Kamboçya Bağımsızlık Günü",
+        "hover_text": "Kamboçya Bağımsızlık Günü 2023",
+        "share_text": "Kamboçya'nın Bağımsızlık Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Камбоджі",
+        "hover_text": "День незалежності Камбоджі у 2023 році",
+        "share_text": "З Днем незалежності, Камбодже! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "کمبوڈیا کا یوم آزادی",
+        "hover_text": "کمبوڈیا کا یوم آزادی 2023",
+        "share_text": "یوم آزادی مبارک، کمبوڈیا! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Kambodja mustaqillik kuni",
+        "hover_text": "Kambodja mustaqillik kuni 2023",
+        "share_text": "Kambodja mustaqillik kuni bilan! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Quốc khánh Campuchia",
+        "hover_text": "Ngày Quốc khánh Campuchia năm 2023",
+        "share_text": "Mừng ngày Quốc khánh Campuchia! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lokuzimela lwase-Cambodia",
+        "hover_text": "Usuku Lokuzimela lwase-Cambodia lwango-2023",
+        "share_text": "Sinifisela Usuku Oluhle Lokuzimela, Cambodia! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Cambodia Independence Day",
+    "share_text": "Happy Independence Day, Cambodia! #GoogleDoodle"
+  },
+  {
     "name": "panama-independence-day-2023",
     "title": "Panama Independence Day 2023",
     "url": "//www.google.com/logos/doodles/2023/panama-independence-day-2023-6753651837109960.2-law.gif",
