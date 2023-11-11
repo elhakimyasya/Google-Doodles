@@ -1,5 +1,504 @@
 [
   {
+    "name": "poland-national-day-2023",
+    "title": "Poland National Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/poland-national-day-2023-6753651837109962.2-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/9mkkseQFuh6pi4mJAhq3AshLG5gmAuOIYYSqAF41nbQg54i_qriDHfe0VR49wzSOA0QA-FRGYPWlKv16vjgjkZDAkWx5r_siP51ISogzoi9m8kJt91LwGA",
+    "high_res_url": "//www.google.com/logos/doodles/2023/poland-national-day-2023-6753651837109962-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      11,
+      11
+    ],
+    "translations": {
+      "en": {
+        "query": "Poland National Day",
+        "hover_text": "Poland National Day 2023",
+        "share_text": "Happy National Day, Poland! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Pole se nasionale dag",
+        "hover_text": "Pole se nasionale dag 2023",
+        "share_text": "Gelukkige nasionale dag, Pole! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita Kombëtare e Polonisë",
+        "hover_text": "Dita Kombëtare e Polonisë, 2023",
+        "share_text": "Gëzuar Ditën Kombëtare, Poloni! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የፖላንድ ብሔራዊ ቀን",
+        "hover_text": "የፖላንድ ብሔራዊ ቀን 2023",
+        "share_text": "መልካም የብሔራዊ ቀን ፖላንድ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "العيد الوطني لبولندا",
+        "hover_text": "العيد الوطني لبولندا 2023",
+        "share_text": "نتمنّى عيدًا وطنيًا سعيدًا لبولندا. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Լեհաստանի ազգային տոն",
+        "hover_text": "Լեհաստանի ազգային տոն 2023",
+        "share_text": "Շնորհավո՛ր Լեհաստանի ազգային տոնը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Polşanın Müstəqillik Günü",
+        "hover_text": "2023 Polşanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Polşa! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "পোল্যান্ডের জাতীয় দিবস",
+        "hover_text": "পোল্যান্ডের জাতীয় দিবস ২০২৩",
+        "share_text": "জাতীয় দিবসের শুভেচ্ছা, পোল্যান্ড! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Poloniako Egun Nazionala",
+        "hover_text": "2023ko Poloniako Egun Nazionala",
+        "share_text": "Egun Nazional zoriontsua izan, Polonia! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Нацыянальны дзень Польшчы",
+        "hover_text": "Нацыянальны дзень Польшчы 2023",
+        "share_text": "З Нацыянальным днём, Польшча! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan državnosti Poljske",
+        "hover_text": "Dan državnosti Poljske 2023.",
+        "share_text": "Sretan Dan državnosti, Poljsko! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Poland National Day",
+        "hover_text": "Poland National Day 2023",
+        "share_text": "Happy National Day, Poland! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Национален празник на Полша",
+        "hover_text": "Национален празник на Полша 2023 г.",
+        "share_text": "Честит национален празник на Полша! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ပိုလန် အမျိုးသားနေ့",
+        "hover_text": "၂၀၂၃ ပိုလန်နိုင်ငံ အမျိုးသားနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် အမျိုးသားနေ့ဖြစ်ပါစေ ပိုလန်။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia Nacional de Polònia",
+        "hover_text": "Dia Nacional de Polònia 2023",
+        "share_text": "Feliç Dia Nacional, Polònia! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "波蘭國慶日",
+        "hover_text": "2023 年波蘭國慶日",
+        "share_text": "波蘭，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "波蘭國慶日",
+        "hover_text": "2023 年波蘭國慶日",
+        "share_text": "波蘭，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "波兰国庆节",
+        "hover_text": "2023 年波兰国庆节",
+        "share_text": "波兰，国庆节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan državnosti Poljske",
+        "hover_text": "Dan državnosti Poljske 2023.",
+        "share_text": "Sretan Dan državnosti, Poljska! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den polské státnosti",
+        "hover_text": "Den polské státnosti 2023",
+        "share_text": "Vše nejlepší ke Dni státnosti, Polsko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Polens nationaldag",
+        "hover_text": "Polens nationaldag 2023",
+        "share_text": "Glædelig nationaldag, Polen! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Nationale feestdag Polen",
+        "hover_text": "Nationale feestdag Polen 2023",
+        "share_text": "Fijne nationale feestdag, Polen #GoogleDoodle"
+      },
+      "et": {
+        "query": "Poola rahvuspüha",
+        "hover_text": "Poola 2023. aasta rahvuspüha",
+        "share_text": "Head rahvuspüha, Poola! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Puolan kansallispäivä",
+        "hover_text": "Puolan kansallispäivä 2023",
+        "share_text": "Hyvää kansallispäivää, Puola! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête nationale de la Pologne",
+        "hover_text": "Fête nationale de la Pologne 2023",
+        "share_text": "Fête nationale de la Pologne ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête nationale de la Pologne",
+        "hover_text": "Fête nationale de la Pologne 2023",
+        "share_text": "Joyeuse fête nationale de la Pologne! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día Nacional de Polonia",
+        "hover_text": "Día Nacional de Polonia 2023",
+        "share_text": "Feliz Día Nacional, Polonia! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "პოლონეთის ეროვნული დღესასწაული",
+        "hover_text": "პოლონეთის ეროვნული დღესასწაული 2023",
+        "share_text": "ვულოცავთ პოლონეთს ეროვნულ დღესასწაულს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Polnischer Nationalfeiertag",
+        "hover_text": "Polnischer Nationalfeiertag 2023",
+        "share_text": "Alles Gute zum Nationalfeiertag in Polen! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Εθνική Ημέρα Πολωνίας",
+        "hover_text": "Εθνική Ημέρα της Πολωνίας 2023",
+        "share_text": "Γιορτάζουμε την Εθνική Ημέρα της Πολωνίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "પોલેન્ડનો રાષ્ટ્રીય દિવસ",
+        "hover_text": "પોલૅન્ડનો રાષ્ટ્રીય દિવસ 2023",
+        "share_text": "પોલેન્ડને રાષ્ટ્રીય દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "החג הלאומי של פולין",
+        "hover_text": "החג הלאומי של פולין 2023",
+        "share_text": "חג לאומי שמח, פולין! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "पोलैंड का राष्ट्रीय दिवस",
+        "hover_text": "पोलैंड का राष्ट्रीय दिवस 2023",
+        "share_text": "राष्ट्रीय दिवस की शुभकामनाएं, पोलैंड! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Lengyelország nemzeti ünnepe",
+        "hover_text": "Lengyelország nemzeti ünnepe, 2023",
+        "share_text": "Minden jót Lengyelország nemzeti ünnepén! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þjóðhátíðardagur Póllands",
+        "hover_text": "Þjóðhátíðardagur Póllands 2023",
+        "share_text": "Gleðilegan þjóðhátíðardag, Pólland! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Nasional Polandia",
+        "hover_text": "Hari Nasional Polandia 2023",
+        "share_text": "Selamat Hari Nasional, Polandia! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Náisiúnta na Polainne",
+        "hover_text": null,
+        "share_text": "Lá Náisiúnta na Polainne faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa nazionale della Polonia",
+        "hover_text": "Festa nazionale della Polonia 2023",
+        "share_text": "Buona festa nazionale, Polonia! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ポーランド独立記念日",
+        "hover_text": "2023 年ポーランド建国記念日",
+        "share_text": "ポーランド建国記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಪೋಲ್ಯಾಂಡ್ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಪೋಲಂಡ್ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ 2023",
+        "share_text": "ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಪೋಲ್ಯಾಂಡ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Польшаның Ұлттық күні",
+        "hover_text": "Польшаның Ұлттық күні – 2023",
+        "share_text": "Ұлттық күн құтты болсын, Польша! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាបុណ្យជាតិ​ប៉ូឡូញ",
+        "hover_text": "ទិវាបុណ្យជាតិ​ប៉ូឡូញឆ្នាំ 2023",
+        "share_text": "អបអរទិវាបុណ្យជាតិ​ប៉ូឡូញ! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "폴란드 국경일",
+        "hover_text": "2023년 폴란드 독립기념일",
+        "share_text": "폴란드 국경일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Польшанын Улуттук күнү",
+        "hover_text": "Польшанын Улуттук күнү – 2023",
+        "share_text": "Улуттук күнүң менен, Польша! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ສຸກສັນວັນຊາດໂປແລນ",
+        "hover_text": "ສຸກສັນວັນຊາດໂປແລນ 2023",
+        "share_text": "ສຸກສັນວັນຊາດໂປແລນ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día Nacional de Polonia",
+        "hover_text": "Día Nacional de Polonia 2023",
+        "share_text": "¡Feliz Día Nacional, Polonia! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Polijas Nacionālie svētki",
+        "hover_text": "Polijas nacionālie svētki — 2023",
+        "share_text": "Sveicam Nacionālajos svētkos, Polija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Lenkijos nacionalinė diena",
+        "hover_text": "Lenkijos nacionalinė diena, 2023 m.",
+        "share_text": "Sveikiname Lenkiją su nacionaline diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на државноста на Полска",
+        "hover_text": "Ден на државноста на Полска, 2023 г.",
+        "share_text": "Среќен Ден на државноста на Полска! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Pôlônina",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny fahaleovantena ry Pôlônina ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kebangsaan Poland",
+        "hover_text": "Hari Kebangsaan Poland 2023",
+        "share_text": "Selamat Hari Kebangsaan, Poland! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "പോളണ്ട് ദേശീയ ദിനം",
+        "hover_text": "പോളണ്ട് ദേശീയ ദിനം 2023",
+        "share_text": "ദേശീയ ദിനാശംസകൾ, പോളണ്ട്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "पोलंडचा राष्ट्रीय दिन",
+        "hover_text": "पोलंडचा राष्ट्रीय दिन २०२३",
+        "share_text": "पोलंडला राष्ट्रीय दिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Польш улсын Үндэсний баярын өдөр",
+        "hover_text": "2023 оны Польш Улсын Үндэсний баярын өдөр",
+        "share_text": "Польш улсын ард иргэдэд Үндэсний баярын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "पोल्यान्डको राष्ट्रिय दिवस",
+        "hover_text": "पोल्यान्डको राष्ट्रिय दिवस २०२३",
+        "share_text": "राष्ट्रिय दिवसको शुभकामना, पोल्यान्ड! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Polens nasjonaldag",
+        "hover_text": "Polens nasjonaldag 2023",
+        "share_text": "Gratulerer med nasjonaldagen, Polen! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ପୋଲାଣ୍ଡର ରାଷ୍ଟ୍ରୀୟ ଦିବସ",
+        "hover_text": "ପୋଲାଣ୍ଡର ରାଷ୍ଟ୍ରୀୟ ଦିବସ 2023",
+        "share_text": "ରାଷ୍ଟ୍ରୀୟ ଦିବସର ଶୁଭେଚ୍ଛା, ପୋଲାଣ୍ଡ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز ملی لهستان",
+        "hover_text": "روز ملی لهستان - ۲۰۲۳",
+        "share_text": "روز ملی لهستان مبارک! #GoogleDoodle"
+      },
+      "pl": {
+        "query": "Narodowe Święto Niepodległości",
+        "hover_text": "Narodowe Święto Niepodległości",
+        "share_text": "Polska obchodzi Narodowe Święto Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia Nacional da Polônia",
+        "hover_text": "Dia Nacional da Polônia 2023",
+        "share_text": "Feliz Dia Nacional, Polônia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia nacional da Polónia",
+        "hover_text": "Dia Nacional da Polónia de 2023",
+        "share_text": "Feliz dia nacional, Polónia! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਪੋਲੈਂਡ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ",
+        "hover_text": "ਪੋਲੈਂਡ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ 2023",
+        "share_text": "ਰਾਸ਼ਟਰੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਪੋਲੈਂਡ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Națională a Poloniei",
+        "hover_text": "Ziua Națională a Poloniei – 2023",
+        "share_text": "La mulți ani de Ziua Națională, Polonia! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Национальный праздник независимости Польши",
+        "hover_text": "Национальный праздник независимости Польши – 2023",
+        "share_text": "Национальный праздник независимости Польши #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан државности Пољске",
+        "hover_text": "Дан државности Пољске 2023.",
+        "share_text": "Честитамо Дан државности Пољској! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan državnosti Poljske",
+        "hover_text": "Dan državnosti Poljske 2023.",
+        "share_text": "Čestitamo Dan državnosti Poljskoj! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Zournen nasyonal Poland",
+        "hover_text": null,
+        "share_text": "Bonn zournen nasyonal, Poland! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "පෝලන්තයේ ජාතික දිනය",
+        "hover_text": "පෝලන්තයේ ජාතික දිනය 2023",
+        "share_text": "ප්‍රීතිමත් ජාතික දිනයක්, පෝලන්තය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Štátny sviatok Poľska",
+        "hover_text": "Štátny sviatok Poľska 2023",
+        "share_text": "Šťastný štátny sviatok, Poľsko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan državnosti Poljske",
+        "hover_text": "Dan državnosti Poljske 2023",
+        "share_text": "Vesel dan državnosti, Poljska! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta qaranka Poland",
+        "hover_text": null,
+        "share_text": "Maalinta Qaranka Farxada leh Poland! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Setjhaba la Poland",
+        "hover_text": null,
+        "share_text": "Mahlohonolo a Letsatsi la Setjhaba, Poland! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día Nacional de Polonia",
+        "hover_text": "Día Nacional de Polonia 2023",
+        "share_text": "¡Feliz Día Nacional de Polonia! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Kitaifa ya Polandi",
+        "hover_text": "Sikukuu ya Kitaifa ya Polandi 2023",
+        "share_text": "Heri za Sikukuu ya Kitaifa, Polandi! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Polens nationaldag",
+        "hover_text": "Polens nationaldag 2023",
+        "share_text": "Vi firar Polens nationaldag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "போலந்தின் தேசிய தினம்",
+        "hover_text": "போலந்து தேசிய தினம் 2023",
+        "share_text": "போலந்தின் தேசிய தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "పోలాండ్ జాతీయ దినోత్సవం",
+        "hover_text": "పోలాండ్ జాతీయ దినోత్సవం 2023",
+        "share_text": "జాతీయ దినోత్సవ శుభాకాంక్షలు, పోలాండ్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันชาติโปแลนด์",
+        "hover_text": "วันชาติโปแลนด์ปี 2023",
+        "share_text": "สุขสันต์วันชาติโปแลนด์ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Setšhaba la Poland",
+        "hover_text": null,
+        "share_text": "Itumelelel Letsatsi la Setšhaba, Poland! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Polonya Ulusal Günü",
+        "hover_text": "Polonya Ulusal Günü 2023",
+        "share_text": "Polonya Ulusal Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Національний день Польщі",
+        "hover_text": "Національний день Польщі у 2023 році",
+        "share_text": "З національним днем, Польще! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "پولینڈ کا قومی دن",
+        "hover_text": "پولینڈ کا قومی دن 2023",
+        "share_text": "قومی دن مبارک ہو، پولینڈ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Polsha milliy bayrami",
+        "hover_text": "Polsha milliy bayrami 2023",
+        "share_text": "Polsha milliy bayrami bilan! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Quốc khánh Ba Lan",
+        "hover_text": "Ngày Quốc khánh Ba Lan năm 2023",
+        "share_text": "Chúc mừng Ngày Quốc khánh Ba Lan! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lukazwelonke lwase-Poland",
+        "hover_text": "Usuku Lukazwelonke lwase-Poland lwango-2023",
+        "share_text": "Jabulela Usuku Lukazwelonke, Poland! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Poland National Day",
+    "share_text": "Happy National Day, Poland! #GoogleDoodle"
+  },
+  {
     "name": "cambodia-independence-day-2023",
     "title": "Cambodia Independence Day 2023",
     "url": "//www.google.com/logos/doodles/2023/cambodia-independence-day-2023-6753651837109961-law.gif",
