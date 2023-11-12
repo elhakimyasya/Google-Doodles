@@ -1,5 +1,1003 @@
 [
   {
+    "name": "fathers-day-2023-nov-12",
+    "title": "Father's Day 2023 (Nov 12)",
+    "url": "//www.google.com/logos/doodles/2023/fathers-day-2023-nov-12-6753651837109964-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/4mfvAamwQLO_9XSZpejAOSiD3c93uY-E1SE6OsxEhhUMT-PdHeNvVXUSUrJZqeL7usFgxhWRJuVlAqN-z_-msFY9siu-GlURI-a6OaynMrD9lzG9WsjHGA",
+    "high_res_url": "//www.google.com/logos/doodles/2023/fathers-day-2023-nov-12-6753651837109964-2xa.gif",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2023,
+      11,
+      12
+    ],
+    "translations": {
+      "en": {
+        "query": "Father's Day",
+        "hover_text": "Father's Day 2023 (Nov 12)",
+        "share_text": "Happy Father's Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Vadersdag",
+        "hover_text": "Vadersdag 2023 (12 Nov)",
+        "share_text": "Gelukkige Vadersdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Babait",
+        "hover_text": "Dita e Babait, 2023 (12 nëntor)",
+        "share_text": "Gëzuar Ditën e Babait! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአባቶች ቀን",
+        "hover_text": "የአባቶች ቀን 2023 (ኖቬምበር 12)",
+        "share_text": "መልካም የአባቶች ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد الأب",
+        "hover_text": "عيد الأب 2023 (‏12 تشرين الثاني/نوفمبر)",
+        "share_text": "عيد أب سعيد. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Հայրերի օր",
+        "hover_text": "Հայրերի օր 2023 (նոյեմբերի 12)",
+        "share_text": "Շնորհավո՛ր հայրերի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Atalar Günü",
+        "hover_text": "2023 Atalar Günü (12 noyabr)",
+        "share_text": "Atalar Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "পিতৃ দিবস",
+        "hover_text": "পিতৃ দিবস ২০২৩ (১২ নভেম্বর)",
+        "share_text": "ফাদার্স ডের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Aitaren Eguna",
+        "hover_text": "2023ko Aitaren Eguna (azaroaren 12a)",
+        "share_text": "Aitaren Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень бацькі",
+        "hover_text": "Дзень бацькі 2023 (12 лістапада)",
+        "share_text": "З Днём бацькі! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva 2023. (12. nov)",
+        "share_text": "Sretan Dan očeva! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Father's Day",
+        "hover_text": "Father's Day 2023 (08 Jun)",
+        "share_text": "Happy Father's Day! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на бащата",
+        "hover_text": "Ден на бащата 2023 г. (12 ноември)",
+        "share_text": "Честит Ден на бащата! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အဖေများနေ့",
+        "hover_text": "၂၀၂၃ အဖေများနေ့ (နိုဝင်ဘာ ၁၂)",
+        "share_text": "ပျော်ရွှင်ဖွယ် ဖခင်များနေ့ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia del Pare",
+        "hover_text": "Dia del Pare 2023 (12 de novembre)",
+        "share_text": "Feliç Dia del Pare! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "父親節",
+        "hover_text": "2023 年父親節 (11 月 12 日)",
+        "share_text": "父親節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "父親節",
+        "hover_text": "2023 年父親節 (11 月 12 日)",
+        "share_text": "父親節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "父亲节",
+        "hover_text": "2023 年父亲节（11 月 12 日）",
+        "share_text": "父亲节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva 2023. (12. studenog)",
+        "share_text": "Sretan Dan očeva! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den otců",
+        "hover_text": "Den otců 2023 (12. listopadu)",
+        "share_text": "Veselý Den otců! #GoogleDoodle"
+      },
+      "da": {
+        "query": "fars dag",
+        "hover_text": "Fars dag 2023 (12. november)",
+        "share_text": "Glædelig fars dag! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Vaderdag",
+        "hover_text": "Vaderdag 2023 (12 november)",
+        "share_text": "Fijne Vaderdag! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Isadepäev",
+        "hover_text": "Isadepäev 2023 (12. nov)",
+        "share_text": "Head isadepäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Isänpäivä",
+        "hover_text": "Isänpäivä 2023 (12. marraskuuta)",
+        "share_text": "Hyvää isänpäivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête des Pères",
+        "hover_text": "Fête des Pères 2023 (12 novembre)",
+        "share_text": "Joyeuse fête des Pères ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête des Pères",
+        "hover_text": "Fête des Pères 2023 (12 novembre)",
+        "share_text": "Joyeuse fête des Pères! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día do Pai",
+        "hover_text": "Día do Pai 2023 (12 de novembro)",
+        "share_text": "Feliz Día do Pai! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მამის დღე",
+        "hover_text": "მამის დღე — 2023 (12 ნოემბერი)",
+        "share_text": "გილოცავთ მამის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Vatertag",
+        "hover_text": "Vatertag in Finnland 2023 (12. November)",
+        "share_text": "Alles Liebe zum Vatertag! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Γιορτή του Πατέρα",
+        "hover_text": "Γιορτή του Πατέρα 2023 (12 Νοεμβρίου)",
+        "share_text": "Πολλές ευχές για τη Γιορτή του Πατέρα! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "પિતૃ દિવસ",
+        "hover_text": "ફાધર્સ ડે 2023 (12 નવેમ્બર)",
+        "share_text": "ફાધર્સ ડેની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום האב",
+        "hover_text": "יום האב 2023 (12 בנובמבר)",
+        "share_text": "יום האב שמח! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "फ़ादर्स डे",
+        "hover_text": "फ़ादर्स डे 2023 (12 नवंबर)",
+        "share_text": "फ़ादर्स डे की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Apák napja",
+        "hover_text": "Apák napja, 2023 (november 12.)",
+        "share_text": "Boldog apák napját! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Feðradagurinn",
+        "hover_text": "Feðradagurinn 2023 (12. nóvember)",
+        "share_text": "Gleðilegan feðradag! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Ayah",
+        "hover_text": "Hari Ayah 2023 (12 November)",
+        "share_text": "Selamat Hari Ayah! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá na nAithreacha",
+        "hover_text": null,
+        "share_text": "Lá na nAithreacha faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa del papà",
+        "hover_text": "Festa del papà 2023 (12 novembre)",
+        "share_text": "Buona festa del papà! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "父の日",
+        "hover_text": "2023 年父の日（11 月 12 日）",
+        "share_text": "父の日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ತಂದೆಯಂದಿರ ದಿನ",
+        "hover_text": "ತಂದೆಯಂದಿರ ದಿನ 2023 (ನವೆಂಬರ್ 12)",
+        "share_text": "ತಂದೆಯಂದಿರ ದಿನಾಚರಣೆ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Әкелер күні",
+        "hover_text": "Әкелер күні – 2023 (12 қараша)",
+        "share_text": "Әкелер күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​រំលឹកគុណឪពុក",
+        "hover_text": "ទិវា​រំលឹកគុណ​ឪពុក​ឆ្នាំ 2023 (ថ្ងៃទី 12 ខែវិច្ឆិកា)",
+        "share_text": "អបអរ​ទិវា​រំលឹកគុណ​ឪពុក​! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "아버지의 날",
+        "hover_text": "2023년 아버지날(11월 12일)",
+        "share_text": "아버지날 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Аталар күнү",
+        "hover_text": "Аталар күнү — 2023 (12-ноябрь)",
+        "share_text": "Аталар күнү менен куттуктайбыз! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນພໍ່",
+        "hover_text": "ວັນພໍ່ປີ 2023 (12 ພະຈິກ)",
+        "share_text": "ສຸກສັນວັນພໍ່! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día del Padre",
+        "hover_text": "Día del Padre 2023 (12 de noviembre)",
+        "share_text": "¡Feliz Día del Padre! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Tēva diena",
+        "hover_text": "Tēva diena — 2023. gada 12. novembris",
+        "share_text": "Sveicam Tēva dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Tėvo diena",
+        "hover_text": "Tėvo diena, 2023 m. (lapkričio 12 d.)",
+        "share_text": "Linksmos Tėvo dienos! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на таткото",
+        "hover_text": "Ден на таткото, 2023 г. (12 ное.)",
+        "share_text": "Среќен ден на таткото! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny ray",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny ray ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Bapa",
+        "hover_text": "Hari Bapa 2023 (12 Nov)",
+        "share_text": "Selamat Hari Bapa! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "പിതൃദിനം",
+        "hover_text": "പിതൃദിനം 2023 (നവംബർ 12)",
+        "share_text": "പിതൃദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "पितृदिन",
+        "hover_text": "फादर्स डे २०२३ (१२ नोव्हेंबर)",
+        "share_text": "फादर्स डे च्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Аавуудын өдөр",
+        "hover_text": "2023 оны Аавуудын өдөр (11-р сарын 12)",
+        "share_text": "Аавуудын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "बुवाको मुख हेर्ने दिन",
+        "hover_text": "बुवाको मुख हेर्ने दिन २०२३ (नोवेम्बर १२)",
+        "share_text": "बुवाको मुख हेर्ने दिनको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Farsdag",
+        "hover_text": "Farsdag 2023 (12. november)",
+        "share_text": "Gratulerer med farsdagen! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ପିତୃ ଦିବସ",
+        "hover_text": "ପିତୃ ଦିବସ 2023 (ନଭେମ୍ବର 12)",
+        "share_text": "ପିତୃ ଦିବସର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز پدر",
+        "hover_text": "روز پدر ۲۰۲۳ (۱۲ نوامبر)",
+        "share_text": "روز پدر مبارک! #GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Ojca",
+        "hover_text": "Dzień Ojca 2023 (12 listopada)",
+        "share_text": "Obchodzimy Dzień Ojca #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia dos Pais",
+        "hover_text": "Dia dos Pais 2023 (12 de novembro)",
+        "share_text": "Feliz Dia dos Pais! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia do pai",
+        "hover_text": "Dia do Pai de 2023 (12 de novembro)",
+        "share_text": "Feliz dia do pai! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਪਿਓ ਦਿਵਸ",
+        "hover_text": "ਪਿਤਾ ਦਿਵਸ 2023 (12 ਨਵੰਬਰ)",
+        "share_text": "ਪਿਤਾ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Tatălui",
+        "hover_text": "Ziua Tatălui – 2023 (12 noiembrie)",
+        "share_text": "La mulți ani de Ziua Tatălui! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День отца",
+        "hover_text": "День отца – 2023 (12 ноября)",
+        "share_text": "С Днем отца! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан очева",
+        "hover_text": "Дан очева 2023. (12. новембар)",
+        "share_text": "Срећан Дан очева! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva 2023. (12. novembar)",
+        "share_text": "Srećan Dan očeva! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Papa",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "පියවරුන්ගේ දිනය",
+        "hover_text": "පියවරුන්ගේ දිනය 2023 (නොවැ 12)",
+        "share_text": "ප්‍රීතිමත් පියවරුන්ගේ දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň otcov",
+        "hover_text": "Deň otcov 2023 (12. november)",
+        "share_text": "Šťastný Deň otcov! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan očetov",
+        "hover_text": "Dan očetov 2023 (12. november)",
+        "share_text": "Vesel dan očetov! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Aabbaha",
+        "hover_text": null,
+        "share_text": "Maalinta Aabbaha oo Farxada leh #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Botate",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día del Padre",
+        "hover_text": "Día del Padre 2023 (12 de noviembre)",
+        "share_text": "¡Feliz Día del Padre! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Akina Baba",
+        "hover_text": "Siku ya Akina Baba 2023 (Tarehe 12 Novemba)",
+        "share_text": "Heri za Sikukuu ya Akina Baba! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Farsdag",
+        "hover_text": "Farsdag 2023 (12 november)",
+        "share_text": "Glad farsdag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "தந்தையர் தினம்",
+        "hover_text": "தந்தையர் தினம் 2023 (நவம்பர் 12)",
+        "share_text": "தந்தையர் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "పితృ దినోత్సవం",
+        "hover_text": "ఫాదర్స్ డే 2023 (నవంబర్ 12)",
+        "share_text": "ఫాదర్స్ డే శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันพ่อ",
+        "hover_text": "วันพ่อปี 2023 (12 พฤศจิกายน)",
+        "share_text": "สุขสันต์วันพ่อ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la ga Rre",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Babalar Günü",
+        "hover_text": "Babalar Günü 2023 (12 Kasım)",
+        "share_text": "Babalar Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День батька",
+        "hover_text": "День батька у 2023 році (12 листопада)",
+        "share_text": "З Днем батька! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم پِدر",
+        "hover_text": "یوم پدر 2023 (12 نومبر)",
+        "share_text": "یوم والد مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Otalar kuni",
+        "hover_text": "Otalar kuni 2023 (12-noyabr)",
+        "share_text": "Otalar kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày của cha",
+        "hover_text": "Ngày của Cha năm 2023 (ngày 12 tháng 11)",
+        "share_text": "Mừng Ngày của Cha! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lobaba",
+        "hover_text": "Usuku Lobaba lwango-2023 (12 Nov)",
+        "share_text": "Sinifisela Usuku Lobaba Oluhle! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Father's Day",
+    "share_text": "Happy Father's Day! #GoogleDoodle"
+  },
+  {
+    "name": "veterans-day-2023",
+    "title": "Veterans Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/veterans-day-2023-6753651837109963-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/0SYe3GnE40DrRfE58pd4wftruXpNt_BM28sLaFHaHokNrVwufWXNQgHxpLJU2lF84slE67ghvkfWoK8ALJag8cK5vhI9p4vjY6D6vXALiBPRERtHjzv9MUc",
+    "high_res_url": "//www.google.com/logos/doodles/2023/veterans-day-2023-6753651837109963-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      11,
+      11
+    ],
+    "translations": {
+      "en": {
+        "query": "Veterans Day",
+        "hover_text": "Veterans Day 2023",
+        "share_text": "Veterans Day 2023! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "am": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ar": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hy": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "az": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "eu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "be": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "my": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ca": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": "退伍军人纪念日",
+        "hover_text": "2023退伍军人纪念日",
+        "share_text": "2023退伍军人纪念日 #GoogleDoodle"
+      },
+      "hr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "cs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "da": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "nl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "et": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "de": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "el": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "is": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "id": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ja": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "kn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "kk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ko": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ky": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es-419": {
+        "query": "Día de los Veteranos ",
+        "hover_text": "Día de los Veteranos 2023",
+        "share_text": "¡Hoy es el Día de los Veteranos 2023! #GoogleDoodle"
+      },
+      "lv": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ml": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ne": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "no": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ro": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día de los Veteranos ",
+        "hover_text": "Día de los Veteranos 2023",
+        "share_text": "¡Hoy es el Día de los Veteranos 2023! #GoogleDoodle"
+      },
+      "sw": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sv": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "te": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "th": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ur": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uz": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "vi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Veterans Day",
+    "share_text": "Veterans Day 2023! #GoogleDoodle"
+  },
+  {
     "name": "poland-national-day-2023",
     "title": "Poland National Day 2023",
     "url": "//www.google.com/logos/doodles/2023/poland-national-day-2023-6753651837109962.2-law.gif",
