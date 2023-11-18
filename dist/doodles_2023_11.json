@@ -1,5 +1,1502 @@
 [
   {
+    "name": "morocco-independence-day-2023",
+    "title": "Morocco Independence Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/morocco-independence-day-2023-6753651837109968-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/4ARpVeagCZcA2NZVkw9WBTlzReacUvk8X21W08Ln7d30Cz32NaswqYfhN2DxahAbxeEpowbzK58uLejB7NEIYJTvstQjkM71_ReP0d_Vq8czUirAQsWU3Q",
+    "high_res_url": "//www.google.com/logos/doodles/2023/morocco-independence-day-2023-6753651837109968-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      11,
+      18
+    ],
+    "translations": {
+      "en": {
+        "query": "Morocco Independence Day",
+        "hover_text": "Morocco Independence Day 2023",
+        "share_text": "Happy Independence Day, Morocco! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Marokko se onafhanklikheidsdag",
+        "hover_text": "Marokko se onafhanklikheidsdag 2023",
+        "share_text": "Gelukkige Onafhanklikheidsdag, Marokko! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë e Marokut",
+        "hover_text": "Dita e Pavarësisë së Marokut, 2023",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Marok! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የሞሪኮ ነጻነት ቀን",
+        "hover_text": "የሞሮኮ ነፃነት ቀን 2023",
+        "share_text": "መልካም ነጻነት ቀን ሞሮኮ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال المغرب",
+        "hover_text": "عيد استقلال المغرب 2023",
+        "share_text": "عيد استقلال المغرب ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Մարոկկոյի անկախության օր",
+        "hover_text": "Մարոկկոյի անկախության օր 2023",
+        "share_text": "Շնորհավո՛ր Մարոկկոյի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Mərakeşin Müstəqillik Günü",
+        "hover_text": "2023 Mərakeşin Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Mərakeş! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "মরক্কোর স্বাধীনতা দিবস",
+        "hover_text": "মরক্কোর স্বাধীনতা দিবস ২০২৩",
+        "share_text": "মরক্কোর স্বাধীনতা দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Marokoko Independentzia Eguna",
+        "hover_text": "2023ko Marokoko Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Maroko! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Марока",
+        "hover_text": "Дзень незалежнасці Марока 2023",
+        "share_text": "З Днём незалежнасці, Марока! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Maroka",
+        "hover_text": "Dan nezavisnosti Maroka 2023.",
+        "share_text": "Sretan Dan nezavisnosti, Maroko! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Morocco Independence Day",
+        "hover_text": "Morocco Independence Day 2023",
+        "share_text": "Happy Independence Day, Morocco! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Мароко",
+        "hover_text": "Ден на независимостта на Мароко 2023 г.",
+        "share_text": "Честит Ден на независимостта на Мароко! #GoogleDoodle"
+      },
+      "my": {
+        "query": "မော်ရိုကို လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၃ မော်ရိုကိုနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်‌ဖွယ် လွတ်လပ်ရေးနေ့ဖြစ်ပါစေ၊ မော်ရိုကို။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència del Marroc",
+        "hover_text": "Dia de la Independència del Marroc 2023",
+        "share_text": "Feliç Dia de la Independència, Marroc! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "摩洛哥獨立日",
+        "hover_text": "2023 年摩洛哥獨立日",
+        "share_text": "摩洛哥，獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "摩洛哥獨立紀念日",
+        "hover_text": "2023 年摩洛哥獨立紀念日",
+        "share_text": "摩洛哥，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "摩洛哥独立日",
+        "hover_text": "2023 年摩洛哥独立日",
+        "share_text": "摩洛哥，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Maroka",
+        "hover_text": "Dan neovisnosti Maroka 2023.",
+        "share_text": "Sretan Dan neovisnosti, Maroko! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Maroka",
+        "hover_text": "Den nezávislosti Maroka 2023",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Maroko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Marokkos uafhængighedsdag",
+        "hover_text": "Marokkos uafhængighedsdag 2023",
+        "share_text": "Glædelig uafhængighedsdag, Marokko! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Marokko",
+        "hover_text": "Onafhankelijkheidsdag Marokko 2023",
+        "share_text": "Fijne Onafhankelijkheidsdag, Marokko! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Maroko iseseisvuspäev",
+        "hover_text": "Maroko 2023. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Maroko! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Marokon itsenäisyyspäivä",
+        "hover_text": "Marokon itsenäisyyspäivä 2023",
+        "share_text": "Hyvää itsenäisyyspäivää, Marokko! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance du Maroc",
+        "hover_text": "Fête de l'Indépendance du Maroc 2023",
+        "share_text": "Fête de l'Indépendance du Maroc ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance du Maroc",
+        "hover_text": "Fête de l'Indépendance du Maroc 2023",
+        "share_text": "Joyeux jour de l'indépendance du Maroc! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Marrocos",
+        "hover_text": "Día da Independencia de Marrocos 2023",
+        "share_text": "Feliz Día da Independencia, Marrocos! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მაროკოს დამოუკიდებლობის დღე",
+        "hover_text": "მაროკოს დამოუკიდებლობის დღე — 2023",
+        "share_text": "ვულოცავთ მაროკოს დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Marokko",
+        "hover_text": "Unabhängigkeitstag Marokko 2023",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Marokko! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας Μαρόκου",
+        "hover_text": "Ημέρα Ανεξαρτησίας του Μαρόκου 2023",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας του Μαρόκου! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "મોરોક્કોનો સ્વતંત્રતા દિવસ",
+        "hover_text": "મોરોક્કોનો સ્વતંત્રતા દિવસ 2023",
+        "share_text": "મોરોક્કોના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של מרוקו",
+        "hover_text": "יום העצמאות של מרוקו 2023",
+        "share_text": "יום עצמאות שמח, מרוקו! ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "मोरक्को का स्वतंत्रता दिवस",
+        "hover_text": "मोरक्को का स्वतंत्रता दिवस 2023",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, मोरक्को! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Marokkó függetlenségének napja",
+        "hover_text": "Marokkó függetlenségének napja, 2023",
+        "share_text": "Boldog függetlenség napját, Marokkó! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Marokkó",
+        "hover_text": "Sjálfstæðisdagur Marokkó 2023",
+        "share_text": "Gleðilegan sjálfstæðisdag, Marokkó! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Maroko",
+        "hover_text": "Hari Kemerdekaan Maroko 2023",
+        "share_text": "Selamat Hari Kemerdekaan, Maroko! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse Mharacó",
+        "hover_text": null,
+        "share_text": "Lá Saoirse Mharacó faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza del Marocco",
+        "hover_text": "Festa dell'indipendenza del Marocco 2023",
+        "share_text": "Buona festa dell'indipendenza, Marocco! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "モロッコ独立記念日",
+        "hover_text": "2023 年モロッコ独立記念日",
+        "share_text": "モロッコ独立記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಮೊರಾಕ್ಕೋ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಮೊರಾಕ್ಕೋ ಸ್ವಾತಂತ್ರ್ಯ ದಿನ 2023",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಮೊರಾಕ್ಕೋ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Марокконың Тәуелсіздік күні",
+        "hover_text": "Марокконың Тәуелсіздік күні – 2023",
+        "share_text": "Тәуелсіздік күні құтты болсын, Марокко! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យឯករាជ្យជាតិម៉ារ៉ុក",
+        "hover_text": "ទិវា​បុណ្យឯករាជ្យជាតិម៉ារ៉ុក​ឆ្នាំ 2023",
+        "share_text": "អបអរទិវា​បុណ្យឯករាជ្យជាតិ​ម៉ារ៉ុក! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "모로코 독립기념일",
+        "hover_text": "2023년 모로코 독립기념일",
+        "share_text": "모로코 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Морокконун Эгемендүүлүк күнү",
+        "hover_text": "Марокконун Эгемендүүлүк күнү — 2023",
+        "share_text": "Эгемендүүлүк күнүң менен, Морокко! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດມໍຣອກໂຄ",
+        "hover_text": "ວັນປະກາດເອກະລາດມໍຣັອກໂຄ 2023",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດມໍຣອກໂຄ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Marruecos",
+        "hover_text": "Día de la Independencia de Marruecos 2023",
+        "share_text": "¡Feliz Día de la Independencia de Marruecos! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Marokas neatkarības diena",
+        "hover_text": "Marokas Neatkarības diena — 2023",
+        "share_text": "Sveicam neatkarības dienā, Maroka! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Maroko nepriklausomybės diena",
+        "hover_text": "Maroko nepriklausomybės diena, 2023 m.",
+        "share_text": "Sveikiname Maroką su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Мароко",
+        "hover_text": "Ден на независноста на Мароко, 2023 г.",
+        "share_text": "Среќен Ден на независноста, Мароко! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Maraoka",
+        "hover_text": null,
+        "share_text": "Tsarà fetin'ny fahaleovantena ry Maraoka ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Maghribi",
+        "hover_text": "Hari Kemerdekaan Maghribi 2023",
+        "share_text": "Selamat Menyambut Hari Kemerdekaan, Maghribi! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "മൊറോക്കോ സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "മൊറോക്കോ സ്വാതന്ത്ര്യദിനം 2023",
+        "share_text": "സ്വാതന്ത്ര്യ ദിനാശംസകൾ, മൊറോക്കോ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "मोरोक्कोचा स्वातंत्र्यदिन",
+        "hover_text": "मोरोक्कोचा स्वातंत्र्यदिन २०२३",
+        "share_text": "मोरोक्कोला स्वातंत्र्यदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Марокко улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2023 оны Марокко Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Марокко улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "मोरक्कोको स्वतन्त्रता दिवस",
+        "hover_text": "मोरक्कोको स्वतन्त्रता दिवस २०२३",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, मोरक्को! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Marokkos frigjøringsdag",
+        "hover_text": "Marokkos frigjøringsdag 2023",
+        "share_text": "Gratulerer med frigjøringsdagen, Marokko! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ମୋରୋକ୍କୋର ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": "ମୋରୋକ୍କୋର ସ୍ୱାଧୀନତା ଦିବସ 2023",
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, ମୋରୋକ୍କୋ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال مراکش",
+        "hover_text": "روز استقلال مراکش - ۲۰۲۳",
+        "share_text": "روز استقلال مراکش مبارک! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Niepodległości Maroka",
+        "hover_text": "Dzień Niepodległości Maroka 2023",
+        "share_text": "Maroko obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência do Marrocos",
+        "hover_text": "Dia da Independência do Marrocos 2023",
+        "share_text": "Feliz Dia da Independência, Marrocos! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência de Marrocos",
+        "hover_text": "Dia da Independência de Marrocos de 2023",
+        "share_text": "Feliz dia da independência, Marrocos! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਮੋਰੋਕੋ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ",
+        "hover_text": "ਮੋਰੋਕੋ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ 2023",
+        "share_text": "ਮੋਰੋਕੋ ਦੇ ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței în Maroc",
+        "hover_text": "Ziua Independenței Marocului – 2023",
+        "share_text": "La mulți ani de Ziua Independenței, Maroc! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Марокко",
+        "hover_text": "День независимости Марокко – 2023",
+        "share_text": "День независимости Марокко #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Марока",
+        "hover_text": "Дан независности Марока 2023.",
+        "share_text": "Честитамо Дан независности Мороку! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Maroka",
+        "hover_text": "Dan nezavisnosti Maroka 2023.",
+        "share_text": "Čestitamo Dan nezavisnosti Moroku! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepandans Morocco",
+        "hover_text": null,
+        "share_text": "Bonn zournen lendepandans, Morocco! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "මොරොක්කෝවේ නිදහස් දිනය",
+        "hover_text": "මොරොක්කෝවේ නිදහස් දිනය 2023",
+        "share_text": "ශුභ නිදහස් දිනයක්, මොරොක්කෝව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Maroka",
+        "hover_text": "Deň nezávislosti Maroka 2023",
+        "share_text": "Šťastný Deň nezávislosti, Maroko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Maroka",
+        "hover_text": "Dan neodvisnosti Maroka 2023",
+        "share_text": "Vesel dan neodvisnosti, Maroko. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madax banaanida Moroko",
+        "hover_text": null,
+        "share_text": "Maalinta Madax banaanida Farxada leh, Moroko! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la Morocco",
+        "hover_text": null,
+        "share_text": "Thabela Letsasi la Tokoloho la Morocco! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Marruecos",
+        "hover_text": "Día de la Independencia de Marruecos 2023",
+        "share_text": "¡Feliz Día de la Independencia de Marruecos! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Moroko",
+        "hover_text": "Sikukuu ya Uhuru wa Moroko 2023",
+        "share_text": "Heri ya Sikukuu ya Uhuru, Moroko! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Marockos självständighetsdag",
+        "hover_text": "Marockos självständighetsdag 2023",
+        "share_text": "Vi firar Marockos självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "மொரோக்கோ சுதந்திர தினம்",
+        "hover_text": "மொராக்கோவின் சுதந்திர தினம் 2023",
+        "share_text": "மொரோக்கோவின் சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "మొరాకో స్వాతంత్య్ర దినోత్సవం",
+        "hover_text": "మొరాకో స్వాతంత్య్ర దినోత్సవం 2023",
+        "share_text": "స్వాతంత్య్ర దినోత్సవ శుభాకాంక్షలు, మొరాకో! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของโมร็อกโก",
+        "hover_text": "วันประกาศอิสรภาพของโมร็อกโกปี 2023",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของโมร็อกโก #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Morocco",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, Morocco! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Fas Bağımsızlık Günü",
+        "hover_text": "2023 Fas Bağımsızlık Günü",
+        "share_text": "Fas Bağımsızlık Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Марокко",
+        "hover_text": "День незалежності Марокко у 2023 році",
+        "share_text": "З Днем незалежності, Марокко! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "مراکش کا یوم آزادی",
+        "hover_text": "مراکش کا یوم آزادی 2023",
+        "share_text": "مراکش کا یوم آزادی مبارک ہو! ‎#GoogleDoodle"
+      },
+      "uz": {
+        "query": "Marokash mustaqillik kuni",
+        "hover_text": "Marokash Mustaqillik kuni 2023",
+        "share_text": "Mustaqillik kuning muborak, Marokash! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Morocco",
+        "hover_text": "Ngày Quốc khánh Morocco năm 2023",
+        "share_text": "Chúc mừng quốc khánh Morocco! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lokuzimela lwase-Morocco",
+        "hover_text": "Usuku Lokuzimela lwase-Morocco lwango-2023",
+        "share_text": "Usuku oluhle lokuzimela, Morocco! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Morocco Independence Day",
+    "share_text": "Happy Independence Day, Morocco! #GoogleDoodle"
+  },
+  {
+    "name": "latvia-independence-day-2023",
+    "title": "Latvia Independence Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/latvia-independence-day-2023-6753651837109967-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/NI3PludT4TcZu51mcaTxFD3-RPTsOG4iqFXlIMEZ3zaylLZ9bpJSEdgpMdU_icMLZ0DKFNbgeuJBI8MNZsAjg4Tgr35vMX40XyHjyqN0MV8Q7ldldQAQ6zA",
+    "high_res_url": "//www.google.com/logos/doodles/2023/latvia-independence-day-2023-6753651837109967-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      11,
+      18
+    ],
+    "translations": {
+      "en": {
+        "query": "Latvia Independence Day",
+        "hover_text": "Latvia Independence Day 2023",
+        "share_text": "Happy Independence Day, Latvia! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Letland se onafhanklikheidsdag",
+        "hover_text": "Letland se onafhanklikheidsdag 2023",
+        "share_text": "Gelukkige Onafhanklikheidsdag, Letland! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë e Letonisë",
+        "hover_text": "Dita e Pavarësisë së Letonisë, 2023",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Letoni! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የላትቪያ ነጻነት ቀን",
+        "hover_text": "የላትቪያ ነፃነት ቀን 2023",
+        "share_text": "መልካም ነጻነት ቀን ላትቪያ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال لاتفيا",
+        "hover_text": "عيد استقلال لاتفيا 2023",
+        "share_text": "عيد استقلال لاتفيا ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Լատվիայի անկախության օր",
+        "hover_text": "Լատվիայի անկախության օր 2023",
+        "share_text": "Շնորհավո՛ր Լատվիայի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Latviyanın Müstəqillik Günü",
+        "hover_text": "2023 Latviyanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Latviya! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "লাতভিয়ার স্বাধীনতা দিবস",
+        "hover_text": "লাটভিয়ার স্বাধীনতা দিবস ২০২৩",
+        "share_text": "লাতভিয়ার স্বাধীনতা দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Letoniako Independentzia Eguna",
+        "hover_text": "2023ko Letoniako Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Letonia! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Латвіі",
+        "hover_text": "Дзень незалежнасці Латвіі 2023",
+        "share_text": "З Днём незалежнасці, Латвія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Latvije",
+        "hover_text": "Dan nezavisnosti Latvije 2023.",
+        "share_text": "Sretan Dan nezavisnosti, Latvijo! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Latvia Independence Day",
+        "hover_text": "Latvia Independence Day 2023",
+        "share_text": "Happy Independence Day, Latvia! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Латвия",
+        "hover_text": "Ден на независимостта на Латвия 2023 г.",
+        "share_text": "Честит Ден на независимостта на Латвия! #GoogleDoodle"
+      },
+      "my": {
+        "query": "လတ်ဗီးယား လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၃ လတ်ဗီးယားနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်‌ဖွယ် လွတ်လပ်ရေးနေ့ဖြစ်ပါစေ၊ လတ်ဗီးယား။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència de Letònia",
+        "hover_text": "Dia de la Independència de Letònia 2023",
+        "share_text": "Feliç Dia de la Independència, Letònia! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "拉脫維亞獨立日",
+        "hover_text": "2023 年拉脫維亞獨立日",
+        "share_text": "拉脫維亞，獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "拉脫維亞獨立紀念日",
+        "hover_text": "2023 年拉脫維亞獨立紀念日",
+        "share_text": "拉脫維亞，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "拉脱维亚独立日",
+        "hover_text": "2023 年拉脱维亚独立日",
+        "share_text": "拉脱维亚，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Latvije",
+        "hover_text": "Dan neovisnosti Latvije 2023.",
+        "share_text": "Sretan Dan neovisnosti, Latvijo! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Lotyšska",
+        "hover_text": "Den nezávislosti Lotyšska 2023",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Lotyšsko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Letlands uafhængighedsdag",
+        "hover_text": "Letlands uafhængighedsdag 2023",
+        "share_text": "Glædelig uafhængighedsdag, Letland! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Letland",
+        "hover_text": "Onafhankelijkheidsdag Letland 2023",
+        "share_text": "Fijne Onafhankelijkheidsdag, Letland! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Läti iseseisvuspäev",
+        "hover_text": "Läti 2023. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Läti! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Latvian itsenäisyyspäivä",
+        "hover_text": "Latvian itsenäisyyspäivä 2023",
+        "share_text": "Hyvää itsenäisyyspäivää, Latvia! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance de la Lettonie",
+        "hover_text": "Fête de l'Indépendance de la Lettonie 2023",
+        "share_text": "Fête de l'Indépendance de la Lettonie ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance de la Lettonie",
+        "hover_text": "Fête de l'Indépendance de la Lettonie 2023",
+        "share_text": "Joyeux jour de l'indépendance de la Lettonie! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Letonia",
+        "hover_text": "Día da Independencia de Letonia 2023",
+        "share_text": "Feliz Día da Independencia, Letonia! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ლატვიის დამოუკიდებლობის დღე",
+        "hover_text": "ლატვიის დამოუკიდებლობის დღე — 2023",
+        "share_text": "ვულოცავთ ლატვიას დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Lettland",
+        "hover_text": "Unabhängigkeitstag Lettland 2023",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Lettland! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας της Λετονίας",
+        "hover_text": "Ημέρα Ανεξαρτησίας της Λετονίας 2023",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας της Λετονίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "લાતવિયાનો સ્વતંત્રતા દિવસ",
+        "hover_text": "લાતવિયાનો સ્વતંત્રતા દિવસ 2023",
+        "share_text": "લાતવિયાના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של לטביה",
+        "hover_text": "יום העצמאות של לטביה 2023",
+        "share_text": "יום עצמאות שמח, לטביה! ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "लैटविया का स्वतंत्रता दिवस",
+        "hover_text": "लातविया का स्वतंत्रता दिवस 2023",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, लातविया! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Lettország függetlenségének napja",
+        "hover_text": "Lettország függetlenségének napja, 2023",
+        "share_text": "Boldog függetlenség napját, Lettország! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þjóðhátíðardagur Lettlands 2019",
+        "hover_text": "Sjálfstæðisdagur Lettlands 2023",
+        "share_text": "Gleðilegan sjálfstæðisdag, Lettland! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Latvia",
+        "hover_text": "Hari Kemerdekaan Latvia 2023",
+        "share_text": "Selamat Hari Kemerdekaan, Latvia! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse na Laitvia",
+        "hover_text": null,
+        "share_text": "Lá Saoirse na Laitvia faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza della Lettonia",
+        "hover_text": "Festa dell'indipendenza della Lettonia 2023",
+        "share_text": "Buona festa dell'indipendenza, Lettonia! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ラトビア独立記念日",
+        "hover_text": "2023 年ラトビア独立記念日",
+        "share_text": "ラトビア独立記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಲಾಟ್ವಿಯಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಲಾಟ್ವಿಯಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನ 2023",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಲಾಟ್ವಿಯಾ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Латвияның Тәуелсіздік күні",
+        "hover_text": "Латвияның Тәуелсіздік күні – 2023",
+        "share_text": "Тәуелсіздік күні құтты болсын, Латвия! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យឯករាជ្យជាតិ​ឡេតូនី",
+        "hover_text": "ទិវា​បុណ្យឯករាជ្យជាតិ​ឡេតូនី​ឆ្នាំ 2023",
+        "share_text": "អបអរទិវា​បុណ្យឯករាជ្យជាតិឡេតូនី! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "라트비아 독립기념일",
+        "hover_text": "2023년 라트비아 독립기념일",
+        "share_text": "라트비아 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Латвиянын Эгемендүүлүк күнү",
+        "hover_text": "Латвиянын Эгемендүүлүк күнү — 2023",
+        "share_text": "Эгемендүүлүк күнүң менен, Латвия! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດລັດເວຍ",
+        "hover_text": "ວັນປະກາດເອກະລາດລັດເວຍ 2023",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດລັດເວຍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Letonia",
+        "hover_text": "Día de la Independencia de Letonia 2023",
+        "share_text": "¡Feliz Día de la Independencia de Letonia! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Latvijas Neatkarības Diena",
+        "hover_text": "Latvijas Neatkarības Diena 2023",
+        "share_text": "Priecīgu Neatkarības dienu, Latvija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Latvijos nepriklausomybės diena",
+        "hover_text": "Latvijos nepriklausomybės diena, 2023 m.",
+        "share_text": "Sveikiname Latviją su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Латвија",
+        "hover_text": "Ден на независноста на Латвија, 2023 г.",
+        "share_text": "Среќен Ден на независноста, Латвија! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Lativia",
+        "hover_text": null,
+        "share_text": "Tsarà fetin'ny fahaleovantena ry Lativia ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Latvia",
+        "hover_text": "Hari Kemerdekaan Latvia 2023",
+        "share_text": "Selamat Menyambut Hari Kemerdekaan, Latvia! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ലാത്വിയ സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "ലാത്വിയ സ്വാതന്ത്ര്യദിനം 2023",
+        "share_text": "സ്വാതന്ത്ര്യ ദിനാശംസകൾ, ലാത്വിയ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "लाटव्हियाचा स्वातंत्र्यदिन",
+        "hover_text": "लाटव्हियाचा स्वातंत्र्यदिन २०२३",
+        "share_text": "लात्व्हियाला स्वातंत्र्यदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Латви улсын тусгаар тогтнолын өдөр",
+        "hover_text": "2023 оны Латви Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Латви улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "लात्भिया को स्वतन्त्रता दिवस",
+        "hover_text": "लात्भियाको स्वतन्त्रता दिवस २०२३",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, लात्भिया! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Latvias frigjøringsdag",
+        "hover_text": "Latvias frigjøringsdag 2023",
+        "share_text": "Gratulerer med frigjøringsdagen, Latvia! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଲାଟଭିଆର ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": "ଲାଟଭିଆର ସ୍ୱାଧୀନତା ଦିବସ 2023",
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, ଲାଟିଭିଆ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال لتونی",
+        "hover_text": "روز استقلال لتونی - ۲۰۲۳",
+        "share_text": "روز استقلال لتونی مبارک! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Niepodległości Łotwy",
+        "hover_text": "Dzień Niepodległości Łotwy 2023",
+        "share_text": "Łotwa obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência da Letônia",
+        "hover_text": "Dia da Independência da Letônia 2023",
+        "share_text": "Feliz Dia da Independência, Letônia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência da Letónia",
+        "hover_text": "Dia da Independência da Letónia de 2023",
+        "share_text": "Feliz dia da independência, Letónia! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਲਾਤਵੀਆ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ",
+        "hover_text": "ਲਾਤਵੀਆ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ 2023",
+        "share_text": "ਲਾਤਵੀਆ ਦੇ ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței Letoniei",
+        "hover_text": "Ziua Independenței Letoniei – 2023",
+        "share_text": "La mulți ani de Ziua Independenței, Letonia! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Латвии",
+        "hover_text": "День независимости Латвии – 2023",
+        "share_text": "День независимости Латвии #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Летоније",
+        "hover_text": "Дан независности Летоније 2023.",
+        "share_text": "Честитамо Дан независности Летонији! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Letonije",
+        "hover_text": "Dan nezavisnosti Letonije 2023.",
+        "share_text": "Čestitamo Dan nezavisnosti Letoniji! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepandans Latvia",
+        "hover_text": null,
+        "share_text": "Bonn zournen lendepandans, Latvia! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ලැට්වියාවේ නිදහස් දිනය",
+        "hover_text": "ලැට්වියාවේ නිදහස් දිනය 2023",
+        "share_text": "ශුභ නිදහස් දිනයක්, ලැට්වියාව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Lotyšska",
+        "hover_text": "Deň nezávislosti Lotyšska 2023",
+        "share_text": "Šťastný Deň nezávislosti, Lotyšsko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Latvije",
+        "hover_text": "Dan neodvisnosti Latvije 2023",
+        "share_text": "Vesel dan neodvisnosti, Latvija. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madax banaanida Laatfiya",
+        "hover_text": null,
+        "share_text": "Maalinta Madax banaanida Farxada leh, Laatfiya! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la Latvia",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Tokoloho la Latvia! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Letonia",
+        "hover_text": "Día de la Independencia de Letonia 2023",
+        "share_text": "¡Feliz Día de la Independencia de Letonia! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Latvia",
+        "hover_text": "Sikukuu ya Uhuru wa Lativia 2023",
+        "share_text": "Heri ya Sikukuu ya Uhuru, Lativia! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Lettlands självständighetsdag",
+        "hover_text": "Lettlands självständighetsdag 2023",
+        "share_text": "Vi firar Lettlands självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "லாத்வியாவின் சுதந்திர தினம்",
+        "hover_text": "லாத்வியாவின் சுதந்திர தினம் 2023",
+        "share_text": "லாட்வியாவின் சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "లాట్వియా స్వాతంత్ర దినోత్సవం",
+        "hover_text": "లాట్వియా స్వాతంత్య్ర దినోత్సవం 2023",
+        "share_text": "స్వాతంత్య్ర దినోత్సవ శుభాకాంక్షలు, లాట్వియా! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของลัตเวีย",
+        "hover_text": "วันประกาศอิสรภาพของลัตเวียปี 2023",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของลัตเวีย #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Latvia",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, Latvia! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Letonya Bağımsızlık Günü",
+        "hover_text": "2023 Letonya Bağımsızlık Günü",
+        "share_text": "Letonya Bağımsızlık Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Латвії",
+        "hover_text": "День незалежності Латвії у 2023 році",
+        "share_text": "З Днем незалежності, Латвіє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "لٹویا کا یوم آزادی",
+        "hover_text": "لٹویا کا یوم آزادی 2023",
+        "share_text": "لٹویا کا یوم آزادی مبارک ہو! ‎#GoogleDoodle"
+      },
+      "uz": {
+        "query": "Latviya mustaqillik kuni",
+        "hover_text": "Latviya Mustaqillik kuni 2023",
+        "share_text": "Mustaqillik kuning muborak, Latviya! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Latvia",
+        "hover_text": "Ngày Quốc khánh Latvia năm 2023",
+        "share_text": "Chúc mừng quốc khánh Latvia! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lokuzimela lwase-Latvia",
+        "hover_text": "Usuku Lokuzimela lwase-Latvia lwango-2023",
+        "share_text": "Sinifisela usuku oluhle lokuzimela, Latvia! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Latvia Independence Day",
+    "share_text": "Happy Independence Day, Latvia! #GoogleDoodle"
+  },
+  {
+    "name": "oman-national-day-2023",
+    "title": "Oman National Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/oman-national-day-2023-6753651837109969-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/rYKN3sEIxohQ2xygfysmKsAydza15zSwT_Qrg5GpIded3EMFvfNeDhMWQWDccc7JV6PEIzU_Pe9c2vjZM7ZhkLQfqrfuwPLQePy3WM0vO9Vuwgliw66t",
+    "high_res_url": "//www.google.com/logos/doodles/2023/oman-national-day-2023-6753651837109969-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      11,
+      18
+    ],
+    "translations": {
+      "en": {
+        "query": "Oman National Day",
+        "hover_text": "Oman National Day 2023",
+        "share_text": "Happy National Day, Oman! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Oman se nasionale dag",
+        "hover_text": "Oman se nasionale dag 2023",
+        "share_text": "Gelukkige nasionale dag, Oman! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita Kombëtare e Omanit",
+        "hover_text": "Dita Kombëtare e Omanit, 2023",
+        "share_text": "Gëzuar Festën Kombëtare, Oman! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የኦማን ብሔራዊ ቀን",
+        "hover_text": "የኦማን ብሔራዊ ቀን 2023",
+        "share_text": "መልካም ብሔራዊ ቀን ኦማን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "العيد الوطني لسلطنة عُمان",
+        "hover_text": "العيد الوطني لعُمان 2023",
+        "share_text": "العيد الوطني لسلطنة عُمان ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Օմանի ազգային տոն",
+        "hover_text": "Օմանի ազգային տոն 2023",
+        "share_text": "Շնորհավո՛ր Օմանի ազգային տոնը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Omanın Müstəqillik Günü",
+        "hover_text": "2023 Omanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Oman! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ওমানের জাতীয় দিবস",
+        "hover_text": "ওমানের জাতীয় দিবস ২০২৩",
+        "share_text": "ওমানের জাতীয় দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Omango Egun Nazionala",
+        "hover_text": "2023ko Omango Egun Nazionala",
+        "share_text": "Egun Nazional zoriontsua izan, Oman! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Нацыянальны дзень Амана",
+        "hover_text": "Нацыянальны дзень Амана 2023",
+        "share_text": "З Нацыянальным днём, Аман! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan državnosti Omana",
+        "hover_text": "Dan državnosti Omana 2023.",
+        "share_text": "Sretan Dan državnosti, Omane! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Oman National Day",
+        "hover_text": "Oman National Day 2023",
+        "share_text": "Happy National Day, Oman! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Национален празник на Оман",
+        "hover_text": "Национален празник на Оман 2023 г.",
+        "share_text": "Честит национален празник на Оман! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အိုမန် အမျိုးသားနေ့",
+        "hover_text": "၂၀၂၃ အိုမန်နိုင်ငံ အမျိုးသားနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် အမျိုးသားနေ့ဖြစ်ပါစေ၊ အိုမန်။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia Nacional d'Oman",
+        "hover_text": "Dia Nacional d'Oman 2023",
+        "share_text": "Feliç Dia Nacional, Oman! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "阿曼國慶日",
+        "hover_text": "2023 年阿曼國慶日",
+        "share_text": "阿曼，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "阿曼國慶日",
+        "hover_text": "2023 年阿曼國慶日",
+        "share_text": "阿曼，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "阿曼国庆日",
+        "hover_text": "2023 年阿曼国庆节",
+        "share_text": "阿曼，国庆日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan državnosti Omana",
+        "hover_text": "Dan državnosti Omana 2023.",
+        "share_text": "Sretan Dan državnosti, Omane! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Státní svátek Ománu",
+        "hover_text": "Den ománské státnosti 2023",
+        "share_text": "Vše nejlepší ke státnímu svátku, Ománe! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Omans nationaldag",
+        "hover_text": "Omans nationaldag 2023",
+        "share_text": "Glædelig nationaldag, Oman! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Nationale feestdag Oman",
+        "hover_text": "Nationale feestdag Oman 2023",
+        "share_text": "Fijne nationale feestdag, Oman! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Omaani rahvuspüha",
+        "hover_text": "Omaani 2023. aasta rahvuspüha",
+        "share_text": "Head rahvuspüha, Omaan! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Omanin kansallispäivä",
+        "hover_text": "Omanin kansallispäivä 2023",
+        "share_text": "Hyvää kansallispäivää, Oman! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête nationale d'Oman",
+        "hover_text": "Fête nationale d'Oman 2023",
+        "share_text": "Fête nationale d'Oman ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête nationale d'Oman",
+        "hover_text": "Fête nationale d'Oman 2023",
+        "share_text": "Joyeuse fête nationale d'Oman! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día Nacional de Omán",
+        "hover_text": "Día Nacional de Omán 2023",
+        "share_text": "Feliz Día Nacional, Omán! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ომანის ეროვნული დღესასწაული",
+        "hover_text": "ომანის ეროვნული დღესასწაული — 2023",
+        "share_text": "ვულოცავთ ომანს ეროვნულ დღესასწაულს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Nationalfeiertag Oman",
+        "hover_text": "Nationalfeiertag Oman 2023",
+        "share_text": "Alles Gute zum Nationalfeiertag in Oman! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Εθνική Ημέρα Ομάν",
+        "hover_text": "Εθνική Ημέρα του Ομάν 2023",
+        "share_text": "Γιορτάζουμε την Εθνική Ημέρα του Ομάν! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ઓમાનનો રાષ્ટ્રીય દિવસ",
+        "hover_text": "ઓમાનનો રાષ્ટ્રીય દિવસ 2023",
+        "share_text": "ઓમાનના રાષ્ટ્રીય દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "החג הלאומי של עומאן",
+        "hover_text": "החג הלאומי של עומאן 2023",
+        "share_text": "חג לאומי שמח עומאן! ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "ओमान का राष्ट्रीय दिवस",
+        "hover_text": "ओमान का राष्ट्रीय दिवस 2023",
+        "share_text": "राष्ट्रीय दिवस की शुभकामनाएं, ओमान! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Omán nemzeti ünnepe",
+        "hover_text": "Omán nemzeti ünnepe, 2023",
+        "share_text": "Minden jót Omán nemzeti ünnepén! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þjóðhátíðardagur Óman",
+        "hover_text": "Þjóðhátíðardagur Óman 2023",
+        "share_text": "Gleðilegan þjóðhátíðardag, Óman! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Nasional Oman",
+        "hover_text": "Hari Nasional Oman 2023",
+        "share_text": "Selamat Hari Nasional, Oman! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Náisiúnta Óman",
+        "hover_text": null,
+        "share_text": "Lá Náisiúnta Óman faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa nazionale dell'Oman",
+        "hover_text": "Festa nazionale dell'Oman 2023",
+        "share_text": "Buona festa nazionale, Oman! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "オマーン建国記念日",
+        "hover_text": "2023 年オマーン建国記念日",
+        "share_text": "オマーン建国記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಓಮನ್ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಓಮನ್ ರಾಷ್ಟ್ರೀಯ ದಿನ 2023",
+        "share_text": "ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಓಮನ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Оманның Ұлттық күні",
+        "hover_text": "Оманның Ұлттық күні – 2023",
+        "share_text": "Ұлттық күн құтты болсын, Оман! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាបុណ្យជាតិ​អូម៉ង់",
+        "hover_text": "ទិវា​បុណ្យជាតិ​អូម៉ង់​ឆ្នាំ 2023",
+        "share_text": "អបអរទិវាបុណ្យជាតិអូម៉ង់! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "오만 국경일",
+        "hover_text": "2023년 오만 국경일",
+        "share_text": "오만 국경일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Омандын Улуттук күнү",
+        "hover_text": "Омандын Улуттук күнү — 2023",
+        "share_text": "Улуттук күнүң менен, Оман! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຊາດໂອມານ",
+        "hover_text": "ວັນຊາດໂອມານ 2023",
+        "share_text": "ສຸກສັນວັນຊາດໂອມານ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día Nacional de Omán",
+        "hover_text": "Día Nacional de Omán 2023",
+        "share_text": "¡Feliz Día Nacional de Omán! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Omānas nacionālie svētki",
+        "hover_text": "Omānas Nacionālie svētki — 2023",
+        "share_text": "Sveicam nacionālajos svētkos, Omāna! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Omano nacionalinė diena",
+        "hover_text": "Omano nacionalinė diena, 2023 m.",
+        "share_text": "Sveikiname Omaną su Nacionaline diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на државноста на Оман",
+        "hover_text": "Ден на државноста на Оман, 2023 г.",
+        "share_text": "Среќен Ден на државноста, Оман! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetim-pirenena Omàna",
+        "hover_text": null,
+        "share_text": "Tsarà Fetim-pirenena ry Omàna ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kebangsaan Oman",
+        "hover_text": "Hari Kebangsaan Oman 2023",
+        "share_text": "Selamat Hari Kebangsaan, Oman! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഒമാൻ ദേശീയ ദിനം",
+        "hover_text": "ഒമാൻ ദേശീയ ദിനം 2023",
+        "share_text": "ദേശീയ ദിനാശംസകൾ, ഒമാൻ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "ओमानचा राष्ट्रीय दिन",
+        "hover_text": "ओमानचा राष्ट्रीय दिन २०२३",
+        "share_text": "ओमानला राष्ट्रीय दिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Оман улсын Үндэсний баярын өдөр",
+        "hover_text": "2023 оны Оман Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Оман улсын ард иргэдэд Үндэсний баярын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "ओमानको राष्ट्रिय दिवस",
+        "hover_text": "ओमानको राष्ट्रिय दिवस २०२३",
+        "share_text": "राष्ट्रिय दिवसको शुभकामना, ओमान! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Omans nasjonaldag",
+        "hover_text": "Omans nasjonaldag 2023",
+        "share_text": "Gratulerer med nasjonaldagen, Oman! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଓମାନର ରାଷ୍ଟ୍ରୀୟ ଦିବସ",
+        "hover_text": "ଓମାନର ଜାତୀୟ ଦିବସ 2023",
+        "share_text": "ରାଷ୍ଟ୍ରୀୟ ଦିବସର ଶୁଭେଚ୍ଛା, ଓମାନ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز ملی عمان",
+        "hover_text": "روز ملی عمان - ۲۰۲۳",
+        "share_text": "روز ملی عمان مبارک! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto narodowe Omanu",
+        "hover_text": "Święto Narodowe Omanu 2023",
+        "share_text": "Oman obchodzi Święto Narodowe #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia Nacional do Omã",
+        "hover_text": "Dia Nacional do Omã 2023",
+        "share_text": "Feliz Dia Nacional, Omã! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia nacional de Omã",
+        "hover_text": "Dia Nacional de Omã de 2023",
+        "share_text": "Feliz dia nacional, Omã! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਓਮਾਨ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ",
+        "hover_text": "ਓਮਾਨ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ 2023",
+        "share_text": "ਓਮਾਨ ਦੇ ਰਾਸ਼ਟਰੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Națională a Omanului",
+        "hover_text": "Ziua Națională a Omanului – 2023",
+        "share_text": "Ziua Națională în Oman #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Национальный праздник Омана",
+        "hover_text": "Национальный праздник Омана – 2023",
+        "share_text": "Национальный праздник Омана #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан државности Омана",
+        "hover_text": "Дан државности Омана 2023.",
+        "share_text": "Честитамо Дан државности Оману! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan državnosti Omana",
+        "hover_text": "Dan državnosti Omana 2023.",
+        "share_text": "Čestitamo Dan državnosti Omanu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Nasyonal Oman",
+        "hover_text": null,
+        "share_text": "Bonn zournen nasyonal, Oman! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ඕමානයේ ජාතික දිනය",
+        "hover_text": "ඕමානයේ ජාතික දිනය 2023",
+        "share_text": "ශුභ ජාතික දිනයක්, ඕමානය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Štátny sviatok Ománu",
+        "hover_text": "Národný deň Ománu 2023",
+        "share_text": "Šťastný štátny sviatok, Omán! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan državnosti Omana",
+        "hover_text": "Dan državnosti Omana 2023",
+        "share_text": "Vesel dan državnosti, Oman. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Qaranka Cumaan",
+        "hover_text": null,
+        "share_text": "Maalinta Qaranka Farxada leh, Cumaan! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Naha la Oman",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Naha, Oman! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día Nacional de Omán",
+        "hover_text": "Día Nacional de Omán 2023",
+        "share_text": "¡Feliz Día Nacional de Omán! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Kitaifa ya Omani",
+        "hover_text": "Sikukuu ya Kitaifa ya Omani 2023",
+        "share_text": "Heri ya Sikukuu ya Kitaifa, Omani! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Omans nationaldag",
+        "hover_text": "Omans nationaldag 2023",
+        "share_text": "Vi firar Omans nationaldag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஓமன் தேசிய தினம்",
+        "hover_text": "ஓமன் தேசிய தினம் 2023",
+        "share_text": "ஓமனின் தேசிய தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఒమన్ జాతీయ దినోత్సవం",
+        "hover_text": "ఒమన్ జాతీయ దినోత్సవం 2023",
+        "share_text": "జాతీయ దినోత్సవ శుభాకాంక్షలు, ఒమన్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันชาติโอมาน",
+        "hover_text": "วันชาติโอมานปี 2023",
+        "share_text": "สุขสันต์วันชาติโอมาน #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Setšhaba la Oman",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Setšhaba, Oman! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Umman Ulusal Günü",
+        "hover_text": "2023 Umman Ulusal Günü",
+        "share_text": "Umman Ulusal Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Національний день Оману",
+        "hover_text": "Національний день Оману у 2023 році",
+        "share_text": "З Національним днем, Омане! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "عمان کا قومی دن",
+        "hover_text": "عمان کا قومی دن 2023",
+        "share_text": "عمان کا قومی دن مبارک ہو! ‎#GoogleDoodle"
+      },
+      "uz": {
+        "query": "Ummon milliy bayrami",
+        "hover_text": "Ummon Milliy bayrami 2023",
+        "share_text": "Ummon milliy bayrami muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Oman",
+        "hover_text": "Ngày Quốc khánh Oman năm 2023",
+        "share_text": "Chúc mừng quốc khánh Oman! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lezwe lase-Oman",
+        "hover_text": "Usuku Lezwe lwase-Oman lwango-2023",
+        "share_text": "Usuku oluhle lezwe, Oman! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Oman National Day",
+    "share_text": "Happy National Day, Oman! #GoogleDoodle"
+  },
+  {
     "name": "czech-republic-freedom-and-democracy-day-2023",
     "title": "Czech Republic Freedom and Democracy Day 2023",
     "url": "//www.google.com/logos/doodles/2023/czech-republic-freedom-and-democracy-day-2023-6753651837109965-law.gif",
@@ -1517,13 +3014,13 @@
       },
       "af": {
         "query": "Veteranedag",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Oudsoldatedag 2023",
+        "share_text": "Oudsoldatedag 2023! #GoogleDoodle"
       },
       "sq": {
         "query": "Dita e Veteranëve",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Dita e Veteranëve, 2023",
+        "share_text": "Dita e Veteranëve, 2023! #GoogleDoodle"
       },
       "am": {
         "query": "የቀድሞ ወታደሮች ቀን",
@@ -1537,8 +3034,8 @@
       },
       "hy": {
         "query": "Վետերանների օր",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Վետերանների օր 2023",
+        "share_text": "Վետերանների օր 2023 #GoogleDoodle"
       },
       "az": {
         "query": "Veteranlar Günü",
@@ -1547,33 +3044,33 @@
       },
       "bn": {
         "query": "প্রাক্তন সৈনিকদের দিবস",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "অবসরপ্রাপ্ত সামরিক কর্মীদের দিবস ২০২৩",
+        "share_text": "অবসরপ্রাপ্ত সামরিক কর্মীদের দিবস ২০২৩! #GoogleDoodle"
       },
       "eu": {
         "query": "Beteranoen Eguna",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "2023ko Gudari Ohien Eguna",
+        "share_text": "2023ko Gudari Ohien Eguna #GoogleDoodle"
       },
       "be": {
         "query": "Дзень ветэранаў",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Дзень ветэранаў 2023",
+        "share_text": "Дзень ветэранаў 2023! #GoogleDoodle"
       },
       "bs": {
         "query": "Dan veterana",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Dan veterana 2023.",
+        "share_text": "Dan veterana 2023! #GoogleDoodle"
       },
       "en-GB": {
         "query": "Veterans Day",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Veterans Day 2023",
+        "share_text": "Veterans Day 2023! #GoogleDoodle"
       },
       "bg": {
         "query": "Ден на ветераните",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Ден на ветераните 2023 г.",
+        "share_text": "Ден на ветераните 2023 г.! #GoogleDoodle"
       },
       "my": {
         "query": "စစ်မှုထမ်းဟောင်းများနေ့",
@@ -1582,8 +3079,8 @@
       },
       "ca": {
         "query": "Dia dels Veterans",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Dia dels Veterans 2023",
+        "share_text": "Dia dels Veterans 2023 #GoogleDoodle"
       },
       "zh-HK": {
         "query": "退伍軍人節",
@@ -1602,43 +3099,43 @@
       },
       "hr": {
         "query": "Dan veterana",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Dan veterana 2023.",
+        "share_text": "Dan veterana 2023.! #GoogleDoodle"
       },
       "cs": {
         "query": "Den válečných veteránů",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Den válečných veteránů 2023",
+        "share_text": "Slavíme Den válečných veteránů 2023! #GoogleDoodle"
       },
       "da": {
         "query": "Veteranernes dag",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Veteranernes dag 2023",
+        "share_text": "Veteranernes dag 2023 #GoogleDoodle"
       },
       "nl": {
         "query": "Veteranendag",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Veteranendag 2023",
+        "share_text": "Veteranendag 2023! #GoogleDoodle"
       },
       "et": {
         "query": "Veteranide päev",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "2023. aasta veteranide päev",
+        "share_text": "2023. aasta veteranide päev! #GoogleDoodle"
       },
       "fi": {
         "query": "Veteraanipäivä",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Veteraanipäivä 2023",
+        "share_text": "Veteraanipäivä 2023 #GoogleDoodle"
       },
       "fr": {
         "query": "Journée des anciens combattants",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Journée des anciens combattants 2023",
+        "share_text": "Journée des anciens combattants 2023 ! #GoogleDoodle"
       },
       "fr-CA": {
         "query": "Jour du Souvenir",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Jour du Souvenir 2023",
+        "share_text": "Jour du Souvenir 2023! #GoogleDoodle"
       },
       "gl": {
         "query": "Día dos Veteranos",
@@ -1647,18 +3144,18 @@
       },
       "ka": {
         "query": "ვეტერანთა დღე",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "ვეტერანთა დღე — 2023",
+        "share_text": "ვეტერანთა დღე — 2023! #GoogleDoodle"
       },
       "de": {
         "query": "Veterans Day",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Veterans Day 2023",
+        "share_text": "Veterans Day 2023! #GoogleDoodle"
       },
       "el": {
         "query": "Ημέρα των Βετεράνων",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Ημέρα των Βετεράνων 2023",
+        "share_text": "Ημέρα των Βετεράνων 2023! #GoogleDoodle"
       },
       "gu": {
         "query": "વેટરન ડે",
@@ -1672,18 +3169,18 @@
       },
       "iw": {
         "query": "יום יוצאי הצבא",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "יום הווטרנים 2023",
+        "share_text": "יום הווטרנים 2023 GoogleDoodle#"
       },
       "hi": {
         "query": "भूतपूर्व सैनिक दिवस",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "पूर्व सैनिक दिवस (वेटरन्स डे) 2023",
+        "share_text": "पूर्व सैनिक दिवस (वेटरन्स डे) 2023! #GoogleDoodle"
       },
       "hu": {
         "query": "Veteránok napja",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Veteránok napja, 2023",
+        "share_text": "Veteránok napja, 2023. #GoogleDoodle"
       },
       "is": {
         "query": "Vopnahlésdagurinn",
@@ -1702,8 +3199,8 @@
       },
       "it": {
         "query": "Giorno dei veterani",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Giorno dei veterani 2023",
+        "share_text": "Giorno dei veterani 2023! #GoogleDoodle"
       },
       "ja": {
         "query": "退役軍人の日",
@@ -1712,8 +3209,8 @@
       },
       "kn": {
         "query": "ವೆಟೆರನ್ಸ್ ಡೇ",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "ವೆಟೆರೆನ್ಸ್ ಡೇ 2023",
+        "share_text": "ವೆಟೆರೆನ್ಸ್ ಡೇ 2023! #GoogleDoodle"
       },
       "kk": {
         "query": "Ардагерлер күні",
@@ -1722,23 +3219,23 @@
       },
       "km": {
         "query": "ទិវារំលឹក​គុណអតីតយុទ្ធជន",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "ទិវារំលឹក​គុណអតីតយុទ្ធជនឆ្នាំ 2023",
+        "share_text": "ទិវារំលឹក​គុណអតីតយុទ្ធជនឆ្នាំ 2023! #GoogleDoodle"
       },
       "ko": {
         "query": "재향 군인의 날",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "2023년 재향군인의 날",
+        "share_text": "2023년 재향군인의 날 #GoogleDoodle"
       },
       "ky": {
         "query": "Ветерандар күнү",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Ардагерлер күнү – 2023",
+        "share_text": "Ардагерлер күнү – 2023! #GoogleDoodle"
       },
       "lo": {
         "query": "ວັນທະຫານຜ່ານເສິກ",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "ວັນທະຫານຜ່ານເສິກປີ 2023",
+        "share_text": "ວັນທະຫານຜ່ານເສິກປີ 2023! #GoogleDoodle"
       },
       "es-419": {
         "query": "Día de los Veteranos ",
@@ -1747,8 +3244,8 @@
       },
       "lv": {
         "query": "Veterānu diena",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Veterānu diena — 2023",
+        "share_text": "Veterānu diena — 2023! #GoogleDoodle"
       },
       "lt": {
         "query": "Veteranų diena",
@@ -1757,8 +3254,8 @@
       },
       "mk": {
         "query": "Ден на ветераните",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Ден на ветераните, 2023 г.",
+        "share_text": "Ден на ветераните, 2023 г.! #GoogleDoodle"
       },
       "mg": {
         "query": "Andron'ny bekotromaroholatra",
@@ -1767,13 +3264,13 @@
       },
       "ms": {
         "query": "Hari Veteran",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Hari Veteran 2023",
+        "share_text": "Hari Veteran 2023! #GoogleDoodle"
       },
       "ml": {
         "query": "വെറ്ററൻസ് ദിനം",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "വെറ്ററൻസ് ദിനം 2023",
+        "share_text": "വെറ്ററൻസ് ദിനം 2023! #GoogleDoodle"
       },
       "mt": {
         "query": null,
@@ -1792,13 +3289,13 @@
       },
       "ne": {
         "query": "भूतपूर्व सैनिक दिवस",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "भूतपूर्व सैनिक दिवस २०२३",
+        "share_text": "भूतपूर्व सैनिक दिवस २०२३! #GoogleDoodle"
       },
       "no": {
         "query": "Veterandagen",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Veterans Day 2023",
+        "share_text": "Veterans Day 2023! #GoogleDoodle"
       },
       "nn": {
         "query": null,
@@ -1832,13 +3329,13 @@
       },
       "pt-BR": {
         "query": "Dia dos Veteranos",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Dia dos Veteranos 2023",
+        "share_text": "Dia dos Veteranos 2023 #GoogleDoodle"
       },
       "pt-PT": {
         "query": "Dia dos veteranos",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Dia dos Veteranos de 2023",
+        "share_text": "Dia dos Veteranos de 2023! #GoogleDoodle"
       },
       "pa": {
         "query": "ਸਾਬਕਾ ਫ਼ੌਜੀਆਂ ਦਾ ਦਿਨ",
@@ -1857,18 +3354,18 @@
       },
       "ru": {
         "query": "День ветеранов",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "День ветеранов – 2023",
+        "share_text": "День ветеранов – 2023 #GoogleDoodle"
       },
       "sr": {
         "query": "Дан ветерана",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Дан ветерана 2023.",
+        "share_text": "Дан ветерана 2023! #GoogleDoodle"
       },
       "sr-Latn": {
         "query": "Dan veterana",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Dan veterana 2023.",
+        "share_text": "Dan veterana 2023! #GoogleDoodle"
       },
       "sr-ME": {
         "query": null,
@@ -1892,13 +3389,13 @@
       },
       "sk": {
         "query": "Deň veteránov",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Deň veteránov 2023",
+        "share_text": "Deň veteránov 2023. #GoogleDoodle"
       },
       "sl": {
         "query": "Dan veteranov",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Dan veteranov 2023",
+        "share_text": "Dan veteranov 2023! #GoogleDoodle"
       },
       "so": {
         "query": "Maalinta Qofka ka tirsanaa ciidankii hore",
@@ -1917,13 +3414,13 @@
       },
       "sw": {
         "query": "Sikukuu ya Wanajeshi Waliostaafu",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Sikukuu ya Wanajeshi Waliostaafu 2023",
+        "share_text": "Sikukuu ya Wanajeshi Waliostaafu 2023! #GoogleDoodle"
       },
       "sv": {
         "query": "Veterans Day",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Veterans Day 2023",
+        "share_text": "Veterans Day 2023 #GoogleDoodle"
       },
       "tg": {
         "query": null,
@@ -1932,8 +3429,8 @@
       },
       "ta": {
         "query": "முன்னாள் ராணுவ வீரர்கள் தினம்",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "முன்னாள் ராணுவ வீரர்கள் தினம் 2023",
+        "share_text": "முன்னாள் ராணுவ வீரர்கள் தினம் 2023! #GoogleDoodle"
       },
       "te": {
         "query": "మాజీ సైనికుల దినోత్సవం",
@@ -1942,8 +3439,8 @@
       },
       "th": {
         "query": "วันทหารผ่านศึก",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "วันทหารผ่านศึกปี 2023",
+        "share_text": "วันทหารผ่านศึกปี 2023 #GoogleDoodle"
       },
       "tn": {
         "query": "Letsatsi la Bagaka ba Bogologolo",
@@ -1952,8 +3449,8 @@
       },
       "tr": {
         "query": "Gaziler Günü",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "2023 Gaziler Günü",
+        "share_text": "2023 Gaziler Günü. #GoogleDoodle"
       },
       "tk": {
         "query": null,
@@ -1962,13 +3459,13 @@
       },
       "uk": {
         "query": "День ветеранів",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "День ветеранів у 2023 році",
+        "share_text": "День ветеранів у 2023 році! #GoogleDoodle"
       },
       "ur": {
         "query": "ویٹرنز ڈے",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "ویٹرنز ڈے 2023",
+        "share_text": "ویٹرنز ڈے 2023! GoogleDoodle#"
       },
       "uz": {
         "query": "Faxriylar kuni",
@@ -1987,8 +3484,8 @@
       },
       "zu": {
         "query": "Usuku lomakadebona",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Usuku Lomakadebona lwango-2023",
+        "share_text": "Usuku Lomakadebona lwango-2023! #GoogleDoodle"
       }
     },
     "translated_blog_posts": {},
