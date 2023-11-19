@@ -1,5 +1,504 @@
 [
   {
+    "name": "cricket-world-cup-2023-finals",
+    "title": "Cricket World Cup 2023 Finals",
+    "url": "//www.google.com/logos/doodles/2023/cricket-world-cup-2023-finals-6753651837110096-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/MW8oHnoWp-MWVobSujqxYNCq77Rx34zcK5afCPCdJdpioxWR9pano_NTTWrvFuhHjR7HPC3JQ4L9FM0wreJKtXH4QBufXgT4q9XU_QaJvaBxQs3mQZi5",
+    "high_res_url": "//www.google.com/logos/doodles/2023/cricket-world-cup-2023-finals-6753651837110096-2xa.gif",
+    "high_res_width": 700,
+    "high_res_height": 280,
+    "run_date_array": [
+      2023,
+      11,
+      19
+    ],
+    "translations": {
+      "en": {
+        "query": "Cricket World Cup",
+        "hover_text": "Cricket World Cup 2023 Finals",
+        "share_text": "Let the Finals begin! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Krieketwêreldbeker",
+        "hover_text": "Krieketwêreldbeker 2023-eindstryd",
+        "share_text": "Laat die eindstryd begin! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Kampionati Botëror i Kriketit",
+        "hover_text": "Finalja e Kampionatit Botëror të Kriketit, 2023",
+        "share_text": "Le të fillojnë finalet! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የክሪኬት ዓለም ዋንጫ",
+        "hover_text": "የክሪኬት ዓለም ዋንጫ 2023 ፍጻሜ",
+        "share_text": "ፍጻሜዎቹ ይጀምሩ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "كأس العالم للكريكيت",
+        "hover_text": "نهائيات كأس العالم للكريكيت 2023",
+        "share_text": "انطلقت نهائيات كأس العالم. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Կրիկետի աշխարհի առաջնություն",
+        "hover_text": "2023-ի կրիկետի աշխարհի առաջնության եզրափակիչ",
+        "share_text": "Բաց մի՛ թողեք եզրափակիչ խաղերը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Kriket üzrə Dünya Kuboku",
+        "hover_text": "2023 Kriket üzrə Dünya Kuboku Finalı",
+        "share_text": "Final Oyunları başlasın! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ক্রিকেট বিশ্বকাপ",
+        "hover_text": "ক্রিকেট বিশ্বকাপ ২০২৩-এর ফাইনাল",
+        "share_text": "ফুটবলের মহাযুদ্ধ শুরু হোক! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Munduko Kriket Txapelketa",
+        "hover_text": "2023ko Munduko Kriket Txapelketaren finala",
+        "share_text": "Hemen da finala! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Чэмпіянат свету па крыкеце",
+        "hover_text": "Фінал чэмпіянату свету па крыкеце 2023",
+        "share_text": "Гульні фіналу пачынаюцца! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Svjetsko prvenstvo u kriketu",
+        "hover_text": "Finale Svjetskog prvenstva u kriketu 2023.",
+        "share_text": "Neka finale započne! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Cricket World Cup",
+        "hover_text": "Cricket World Cup 2023 Finals",
+        "share_text": "Let the Finals begin! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Световна купа по крикет",
+        "hover_text": "Световна купа по крикет 2023 г. – Финали",
+        "share_text": "Нека финалите да започнат! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ခရစ်ကက်ကမ္ဘာ့ဖလား",
+        "hover_text": "၂၀၂၃ ခရစ်ကက်ကမ္ဘာ့ဖလား ဗိုလ်လုပွဲများ",
+        "share_text": "ဗိုလ်လုပွဲ စလိုက်ရအောင်။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Copa del Món de Criquet",
+        "hover_text": "Final de la Copa del Món de criquet 2023",
+        "share_text": "Que comenci la final! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "板球世界盃",
+        "hover_text": "2023 年板球世界盃決賽",
+        "share_text": "全情投入決賽！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "世界盃板球賽",
+        "hover_text": "2023 年世界盃板球賽決賽",
+        "share_text": "決賽開打！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "板球世界杯",
+        "hover_text": "2023 年板球世界杯决赛",
+        "share_text": "决赛开始！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Svjetsko prvenstvo u kriketu",
+        "hover_text": "Svjetsko prvenstvo u kriketu 2023., finale",
+        "share_text": "Neka finale započne! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Mistrovství světa v kriketu",
+        "hover_text": "Mistrovství světa v kriketu 2023 – finále",
+        "share_text": "Finále začíná! #GoogleDoodle"
+      },
+      "da": {
+        "query": "VM i cricket",
+        "hover_text": "VM-slutrunde i cricket 2023",
+        "share_text": "Finalerne skydes i gang! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "WK cricket",
+        "hover_text": "Finale van het WK cricket 2023",
+        "share_text": "De finale kan beginnen #GoogleDoodle"
+      },
+      "et": {
+        "query": "Kriketi maailmameistrivõistlused",
+        "hover_text": "Kriketi 2023. aasta maailmameistrivõistluste finaal",
+        "share_text": "Las finaalturniir alaku! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Kriketin maailmanmestaruuskilpailut",
+        "hover_text": "Kriketin MM-kisat 2023 – loppuottelu",
+        "share_text": "Lopputurnaus alkakoon! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Coupe du monde de cricket",
+        "hover_text": "Finale de la Coupe du monde de cricket 2023",
+        "share_text": "C'est parti pour les finales ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Coupe du monde de cricket",
+        "hover_text": "Finale de la Coupe du monde de cricket 2023",
+        "share_text": "Que la finale commence! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Copa Mundial de Crícket",
+        "hover_text": "Final da Copa Mundial de Crícket 2023",
+        "share_text": "Que empecen as finais! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მსოფლიო ჩემპიონატი კრიკეტში",
+        "hover_text": "კრიკეტის 2023 წლის მსოფლიო ჩემპიონატის ფინალი",
+        "share_text": "ფინალები იწყება! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Cricket World Cup",
+        "hover_text": "Cricket-WM 2023 – Finale",
+        "share_text": "Heute beginnt die Finalrunde! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Παγκόσμιο Κύπελλο Κρίκετ",
+        "hover_text": "Τελικός Παγκοσμίου Κυπέλλου Κρίκετ 2023",
+        "share_text": "Ο τελικός ξεκινάει! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ક્રિકેટ વર્લ્ડ કપ",
+        "hover_text": "ક્રિકેટ વિશ્વ કપ 2023ની ફાઇનલ",
+        "share_text": "ફાઇનલનો આનંદ માણો! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "גביע העולם בקריקט",
+        "hover_text": "גמר גביע העולם בקריקט לשנת 2023",
+        "share_text": "משחקי הגמר מתחילים! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "क्रिकेट वर्ल्ड कप",
+        "hover_text": "क्रिकेट विश्व कप 2023 का फ़ाइनल",
+        "share_text": "चलिए फ़ाइनल मैच शुरू करते हैं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Krikett-világbajnokság",
+        "hover_text": "A 2023-as krikett-világbajnokság döntője",
+        "share_text": "Kezdődjön a torna! #GoogleDoodle"
+      },
+      "is": {
+        "query": "HM í krikket",
+        "hover_text": "Úrslit heimsmeistaramótsins í krikket 2023",
+        "share_text": "Það er komið að úrslitunum! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Piala Dunia Kriket",
+        "hover_text": "Final Piala Dunia Kriket 2023",
+        "share_text": "Babak Final dimulai! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Cluiche Ceannais Chorn an Domhain Cruicéid 2023",
+        "hover_text": "Cluiche Ceannais Chorn an Domhain Cruicéid 2023",
+        "share_text": "Cluiche Ceannais Chorn an Domhain Cruicéid 2023"
+      },
+      "it": {
+        "query": "Coppa del Mondo di cricket",
+        "hover_text": "Finale della Coppa del Mondo di cricket 2023",
+        "share_text": "Che le finali abbiano inizio! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "クリケット ワールドカップ",
+        "hover_text": "クリケット ワールドカップ 2023 決勝",
+        "share_text": "いよいよ決勝トーナメント #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಕ್ರಿಕೆಟ್ ವಿಶ್ವಕಪ್",
+        "hover_text": "ಕ್ರಿಕೆಟ್ ವಿಶ್ವಕಪ್ 2023 ರ ಫೈನಲ್ಸ್",
+        "share_text": "ಫೈನಲ್ಸ್ ಪ್ರಾರಂಭವಾಗಲಿ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Крикеттен әлем чемпионаты",
+        "hover_text": "2023 жылғы крикеттен әлем чемпионатының финалы",
+        "share_text": "Әлем біріншілігін бастайық! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការប្រកួតពានរង្វាន់​គ្រីឃីត​ពិភពលោក",
+        "hover_text": "វគ្គផ្ដាច់ព្រ័ត្រនៃការប្រកួតពានរង្វាន់​គ្រីឃីត​ពិភពលោកឆ្នាំ 2023",
+        "share_text": "ទុកឱ្យការប្រកួតវគ្គផ្ដាច់ព្រ័ត្រចាប់ផ្ដើម! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "크리켓 월드컵",
+        "hover_text": "2023년 크리켓 월드컵 결승전",
+        "share_text": "월드컵 결승전이 다가오고 있습니다! #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Крикет боюнча дүйнөлүк кубок",
+        "hover_text": "Крикет боюнча дүйнөлүк кубок — 2023, Финалдык оюндар",
+        "share_text": "Финалдык оюндар башталсын! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ຄຣິກເກັດເວີຄັບ",
+        "hover_text": "ຮອບຊີງຊະນະເລີດການແຂ່ງຂັນຄຣິກເກັດເວີຄັບ 2023",
+        "share_text": "ມາເລີ່ມການແຂ່ງຂັນຮອບຊິງຊະນະເລີດກັນເລີຍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Copa Mundial de Críquet",
+        "hover_text": "Final de la Copa Mundial de Críquet 2023",
+        "share_text": "¡Que comience la final! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Pasaules kauss kriketā",
+        "hover_text": "Pasaules kauss kriketā 2023 — fināls",
+        "share_text": "Lai sākas fināls! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Kriketo pasaulio taurė",
+        "hover_text": "2023 m. kriketo pasaulio taurė: finalas",
+        "share_text": "Teprasideda finalas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Светско првенство во крикет",
+        "hover_text": "Финале на Светското првенство во крикет, 2023 г.",
+        "share_text": "Нека започне финалето! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Piala Dunia Kriket",
+        "hover_text": "Pusingan Akhir Piala Dunia Kriket 2023",
+        "share_text": "Mulakan Perlawanan Akhir! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ക്രിക്കറ്റ് ലോകകപ്പ്",
+        "hover_text": "ക്രിക്കറ്റ് ലോകകപ്പ് 2023 ഫൈനൽ",
+        "share_text": "ഫൈനൽ ആരംഭിക്കാം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "क्रिकेट विश्वचषक",
+        "hover_text": "क्रिकेट विश्वचषक २०२३ चा अंतिम सामना",
+        "share_text": "चला, अंतिम सामना खेळू या! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Крикетийн дэлхийн аварга шалгаруулах тэмцээн",
+        "hover_text": "2023 оны Крикетийн дэлхийн аварга шалгаруулах тэмцээний аваргын төлөөх тоглолт",
+        "share_text": "Аваргын төлөөх тоглолтыг эхлүүлцгээе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "क्रिकेट विश्वकप",
+        "hover_text": "विश्वकप क्रिकेट २०२३ का फाइनल खेल",
+        "share_text": "फाइनल खेल सुरु गरौँ! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Cricket-VM",
+        "hover_text": "Finalen i Cricket-VM 2023",
+        "share_text": "Klart for avspark i finalen! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "କ୍ରିକେଟ ବିଶ୍ୱ କପ",
+        "hover_text": "କ୍ରିକେଟ ବିଶ୍ୱକପ 2023 ଫାଇନାଲ",
+        "share_text": "ଚାଲନ୍ତୁ ଫାଇନାଲ ଆରମ୍ଭ କରିବା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "جام جهانی کریکت",
+        "hover_text": "جام جهانی کریکت ۲۰۲۳ - مرحله نهایی",
+        "share_text": "مسابقات نهایی را شروع کنیم! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Mistrzostwa świata w krykiecie",
+        "hover_text": "Mistrzostwa Świata w Krykiecie 2023 – finał",
+        "share_text": "Zaczynamy finały! #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Copa do Mundo de Críquete",
+        "hover_text": "Final da Copa do Mundo de Críquete 2023",
+        "share_text": "Que comece a final! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Campeonato do Mundo de Críquete",
+        "hover_text": "Final do Campeonato Mundial de Críquete de 2023",
+        "share_text": "A final vai começar! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਕ੍ਰਿਕਟ ਵਿਸ਼ਵ ਕੱਪ",
+        "hover_text": "ਕ੍ਰਿਕਟ ਵਿਸ਼ਵ ਕੱਪ 2023 ਦਾ ਫਾਈਨਲ",
+        "share_text": "ਚੱਲੋ ਫਾਈਨਲ ਮੈਚ ਸ਼ੁਰੂ ਕਰੀਏ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Cupa Mondială de Crichet",
+        "hover_text": "Cupa Mondială de Crichet 2023 – Finala",
+        "share_text": "Să înceapă finala! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Чемпионат мира по крикету",
+        "hover_text": "Финал чемпионата мира по крикету – 2023",
+        "share_text": "Финал начинается! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Светско првенство у крикету",
+        "hover_text": "Финале Светског првенства у крикету 2023.",
+        "share_text": "Нека финале почне! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Svetsko prvenstvo u kriketu",
+        "hover_text": "Finale Svetskog prvenstva u kriketu 2023.",
+        "share_text": "Neka finale počne! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ක්‍රිකට් ලෝක කුසලානය",
+        "hover_text": "2023 ක්‍රිකට් ලෝක කුසලාන අවසන් මහා තරගය",
+        "share_text": "අවසන් තරඟ ආරම්භ කරමු! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Majstrovstvá sveta v krikete",
+        "hover_text": "Finále Majstrovstiev sveta v krikete 2023",
+        "share_text": "Finále sa môže začať! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Svetovni pokal v kriketu",
+        "hover_text": "Finale svetovnega prvenstva v kriketu 2023",
+        "share_text": "Naj se finale začne! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Copa Mundial de Críquet",
+        "hover_text": "Final de la Copa Mundial de Críquet 2023",
+        "share_text": "¡Que empiece la final! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Kombe la Dunia la Kriketi",
+        "hover_text": "Fainali za Kombe la Dunia la Kriketi 2023",
+        "share_text": "Acha Fainali zianze! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "VM i cricket",
+        "hover_text": "VM-final i cricket 2023",
+        "share_text": "Låt finalen börja! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "கிரிக்கெட் உலகக் கோப்பை",
+        "hover_text": "கிரிக்கெட் உலகக்கோப்பை 2023 இறுதிப்போட்டி",
+        "share_text": "இறுதிப் போட்டிகள் தொடங்கட்டும்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "క్రికెట్ ప్రపంచ కప్",
+        "hover_text": "క్రికెట్ ప్రపంచ కప్ 2023 ఫైనల్స్",
+        "share_text": "ఫైనల్ మ్యాచ్‌ను ప్రారంభిద్దాం! #GoogleDoodle"
+      },
+      "th": {
+        "query": "การแข่งขันคริกเกตชิงแชมป์โลก",
+        "hover_text": "การแข่งขันคริกเกตชิงแชมป์โลกปี 2023 รอบชิงชนะเลิศ",
+        "share_text": "รอบชิงชนะเลิศกำลังจะเริ่มขึ้นแล้ว #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Kriket Dünya Kupası",
+        "hover_text": "2023 Kriket Dünya Kupası Finalleri",
+        "share_text": "Finaller başlasın. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Чемпіонат світу з крикету",
+        "hover_text": "Фінал Чемпіонату світу з крикету 2023 року",
+        "share_text": "Не пропустіть початок фінальних ігор! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "کرکٹ ورلڈ کپ",
+        "hover_text": "کرکٹ ورلڈ کپ 2023 فائنلز",
+        "share_text": "فائنلز شروع ہونے دیں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Kriket boʻyicha jahon chempionati",
+        "hover_text": "2023-yilgi Kriket boʻyicha jahon chempionati finali",
+        "share_text": "Finallar boshlansin! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Giải vô địch bóng gậy thế giới",
+        "hover_text": "Giải vô địch bóng gậy thế giới 2023",
+        "share_text": "Vòng chung kết khởi tranh! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Indebe Yomhlaba Yekhilikithi",
+        "hover_text": "Amafayinali Endebe Yomhlaba Yekhilikithi Yango-2023!",
+        "share_text": "Mawaqale Amanqamu! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Cricket World Cup",
+    "share_text": "Let the Finals begin! #GoogleDoodle"
+  },
+  {
     "name": "morocco-independence-day-2023",
     "title": "Morocco Independence Day 2023",
     "url": "//www.google.com/logos/doodles/2023/morocco-independence-day-2023-6753651837109968-law.gif",
@@ -3474,8 +3973,8 @@
       },
       "vi": {
         "query": "Ngày cựu chiến binh",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Ngày Cựu chiến binh (Hoa Kỳ) năm 2023",
+        "share_text": "Ngày Cựu chiến binh (Hoa Kỳ) năm 2023! #GoogleDoodle"
       },
       "wo": {
         "query": null,
