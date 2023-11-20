@@ -1,5 +1,504 @@
 [
   {
+    "name": "argentina-federal-elections-2023-nov-19",
+    "title": "Argentina Federal Elections 2023 (Nov 19)",
+    "url": "//www.google.com/logos/doodles/2023/argentina-federal-elections-2023-nov-19-6753651837110461-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/LOnT2bgjmA_YI4ngOTlS7YmblF01Ym3VoZtJNq0qFOZ6nPq4VAu9Inay_zFXWxcVY_48_jzQw3bI-drqLrxNC06A9zoGNsBXMtkzAh2HzWBTBKOfZBUsdQ",
+    "high_res_url": "//www.google.com/logos/doodles/2023/argentina-federal-elections-2023-nov-19-6753651837110461-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      11,
+      19
+    ],
+    "translations": {
+      "en": {
+        "query": "Argentina Federal Elections 2023",
+        "hover_text": "Argentina Federal Elections 2023",
+        "share_text": "Argentina Federal Elections 2023! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Argentinië se federale verkiesing 2023",
+        "hover_text": "Argentinië se federale verkiesing 2023",
+        "share_text": "Argentinië se federale verkiesing 2023! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Zgjedhjet federale në Argjentinë, 2023",
+        "hover_text": "Zgjedhjet federale në Argjentinë",
+        "share_text": "Zgjedhjet federale në Argjentinë, 2023! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአርጀንቲና ፌደራል ምርጫዎች 2023",
+        "hover_text": null,
+        "share_text": "የአርጀንቲና ፌደራል ምርጫዎች 2023! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "الانتخابات الفيدرالية في الأرجنتين لعام 2023",
+        "hover_text": null,
+        "share_text": "انطلقت الانتخابات الفيدرالية في الأرجنتين لعام 2023. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Արգենտինայի դաշնային ընտրություններ 2023",
+        "hover_text": null,
+        "share_text": "Արգենտինայի դաշնային ընտրություններ 2023 #GoogleDoodle"
+      },
+      "az": {
+        "query": "2023 Argentina Federal Seçkiləri",
+        "hover_text": null,
+        "share_text": "2023 Argentina Federal Seçkiləri! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "আর্জেন্টিনার ফেডারেল নির্বাচন ২০২৩",
+        "hover_text": null,
+        "share_text": "আর্জেন্টিনার ফেডারেল নির্বাচন ২০২৩! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "2023ko Argentinako hauteskunde federalak",
+        "hover_text": null,
+        "share_text": "2023ko Argentinako hauteskunde federalak #GoogleDoodle"
+      },
+      "be": {
+        "query": "Федэральныя выбары ў Аргенціне 2023",
+        "hover_text": null,
+        "share_text": "Федэральныя выбары ў Аргенціне 2023! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Federalni izbori u Argentini 2023.",
+        "hover_text": null,
+        "share_text": "Federalni izbori u Argentini 2023! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Argentina Federal Elections 2023",
+        "hover_text": null,
+        "share_text": "Argentina Federal Elections 2023! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Федерални избори в Аржентина 2023 г.",
+        "hover_text": null,
+        "share_text": "Федерални избори в Аржентина 2023 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "၂၀၂၃ အာဂျင်တီးနားနိုင်ငံ ဖက်ဒရယ်ရွေးကောက်ပွဲများ",
+        "hover_text": null,
+        "share_text": "၂၀၂၃ အာဂျင်တီးနားနိုင်ငံ ဖက်ဒရယ်ရွေးကောက်ပွဲများ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Eleccions federals a Argentina 2023",
+        "hover_text": null,
+        "share_text": "Eleccions federals a Argentina 2023 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "2023 年阿根廷聯邦選舉",
+        "hover_text": null,
+        "share_text": "2023 年阿根廷聯邦選舉！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "2023 年阿根廷聯邦選舉",
+        "hover_text": null,
+        "share_text": "2023 年阿根廷聯邦選舉到來！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "2023 年阿根廷联邦选举",
+        "hover_text": null,
+        "share_text": "2023 年阿根廷联邦选举！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Savezni izbori u Argentini 2023.",
+        "hover_text": null,
+        "share_text": "Savezni izbori u Argentini 2023.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Federální volby v Argentině 2023",
+        "hover_text": null,
+        "share_text": "V Argentině se konají federální volby 2023! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Valg i Argentina 2023",
+        "hover_text": null,
+        "share_text": "Valg i Argentina 2023 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Federale verkiezingen in Argentinië 2023",
+        "hover_text": null,
+        "share_text": "Federale verkiezingen in Argentinië 2023! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Argentina 2023. aasta föderaalvalimised",
+        "hover_text": null,
+        "share_text": "Argentina 2023. aasta föderaalvalimised! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Argentiinan liittovaltion vaalit 2023",
+        "hover_text": null,
+        "share_text": "Argentiinan liittovaltion vaalit 2023 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Élections fédérales 2023 en Argentine",
+        "hover_text": null,
+        "share_text": "Élections fédérales 2023 en Argentine ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Élections fédérales de 2023 en Argentine",
+        "hover_text": null,
+        "share_text": "Élections fédérales de 2023 en Argentine! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Eleccións federais da Arxentina 2023",
+        "hover_text": null,
+        "share_text": "Eleccións federais da Arxentina 2023! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "არგენტინის 2023 წლის ფედერალური არჩევნები",
+        "hover_text": null,
+        "share_text": "არგენტინის 2023 წლის ფედერალური არჩევნები! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Präsidentschafts- und Parlamentswahlen in Argentinien 2023",
+        "hover_text": null,
+        "share_text": "Präsidentschafts- und Parlamentswahlen in Argentinien 2023! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ομοσπονδιακές εκλογές στην Αργεντινή 2023",
+        "hover_text": null,
+        "share_text": "Ομοσπονδιακές εκλογές στην Αργεντινή 2023! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "આર્જેન્ટીનાની ફેડરલ ચૂંટણીઓ 2023",
+        "hover_text": null,
+        "share_text": "આર્જેન્ટીનાની ફેડરલ ચૂંટણીઓ 2023! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "הבחירות הפדרליות בארגנטינה 2023",
+        "hover_text": null,
+        "share_text": "הבחירות הפדרליות בארגנטינה 2023 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "अर्जेंटीना का आम चुनाव 2023",
+        "hover_text": null,
+        "share_text": "अर्जेंटीना का आम चुनाव 2023! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "2023-as szövetségi választás Argentínában",
+        "hover_text": null,
+        "share_text": "2023-as szövetségi választás Argentínában! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þingkosningar í Argentínu 2023!",
+        "hover_text": null,
+        "share_text": "Þingkosningar í Argentínu 2023! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Pemilu Federal Argentina 2023",
+        "hover_text": null,
+        "share_text": "Pemilu Federal Argentina 2023 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Elezioni federali 2023 in Argentina",
+        "hover_text": null,
+        "share_text": "Elezioni federali 2023 in Argentina! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "2023 年アルゼンチン総選挙",
+        "hover_text": null,
+        "share_text": "2023 年アルゼンチン総選挙！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಅರ್ಜೆಂಟೀನಾ ಫೆಡರಲ್ ಚುನಾವಣೆಗಳು 2023",
+        "hover_text": null,
+        "share_text": "ಅರ್ಜೆಂಟೀನಾ ಫೆಡರಲ್ ಚುನಾವಣೆಗಳು 2023! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Аргентинадағы федералдық сайлау –2023",
+        "hover_text": null,
+        "share_text": "Аргентинадағы федералдық сайлау –2023! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការបោះឆ្នោត​សហព័ន្ធនៅអាហ្សង់ទីនឆ្នាំ 2023",
+        "hover_text": null,
+        "share_text": "ការបោះឆ្នោត​សហព័ន្ធនៅអាហ្សង់ទីនឆ្នាំ 2023! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "2023년 아르헨티나 연방 선거",
+        "hover_text": null,
+        "share_text": "2023년 아르헨티나 연방 선거 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Аргентинадагы федералдык шайлоо – 2023",
+        "hover_text": null,
+        "share_text": "Аргентинадагы федералдык шайлоо – 2023! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ການເລືອກຕັ້ງສະຫະພັນທະລັດຂອງອາເຈນຕິນາປີ 2023",
+        "hover_text": null,
+        "share_text": "ການເລືອກຕັ້ງສະຫະພັນທະລັດຂອງອາເຈນຕິນາປີ 2023! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Elecciones presidenciales 2023",
+        "hover_text": "Elecciones presidenciales 2023",
+        "share_text": "Elecciones presidenciales de Argentina 2023 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Vēlēšanas Argentīnā 2023",
+        "hover_text": null,
+        "share_text": "Federālās vēlēšanas Argentīnā — 2023! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "2023 m. Argentinos federaliniai rinkimai",
+        "hover_text": null,
+        "share_text": "2023 m. Argentinos federaliniai rinkimai! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Федерални избори во Аргентина, 2023 г.",
+        "hover_text": null,
+        "share_text": "Федерални избори во Аргентина, 2023 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Pilihan Raya Persekutuan Argentina 2023",
+        "hover_text": null,
+        "share_text": "Pilihan Raya Persekutuan Argentina 2023! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "അർജന്റീന ഫെഡറൽ തിരഞ്ഞെടുപ്പ് 2023",
+        "hover_text": null,
+        "share_text": "അർജന്റീന ഫെഡറൽ തിരഞ്ഞെടുപ്പ് 2023! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "अर्जेंटिनाच्या फेडरल निवडणुका २०२३",
+        "hover_text": null,
+        "share_text": "अर्जेंटिनाच्या फेडरल निवडणुका २०२३! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "2023 оны Аргентин Улсын Холбооны сонгууль",
+        "hover_text": null,
+        "share_text": "2023 оны Аргентин Улсын Холбооны сонгууль! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "अर्जेन्टिनाको सङ्घीय निर्वाचन २०२३",
+        "hover_text": null,
+        "share_text": "अर्जेन्टिनाको सङ्घीय निर्वाचन २०२३! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Parlamentsvalget i Argentina 2023",
+        "hover_text": null,
+        "share_text": "Parlamentsvalget i Argentina 2023! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଆର୍ଜେଣ୍ଟିନାର ଫେଡେରାଲ ନିର୍ବାଚନ 2023",
+        "hover_text": null,
+        "share_text": "ଆର୍ଜେଣ୍ଟିନାର ଫେଡେରାଲ ନିର୍ବାଚନ 2023! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "انتخابات ملی ۲۰۲۳ آرژانتین",
+        "hover_text": null,
+        "share_text": "انتخابات ملی ۲۰۲۳ آرژانتین! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Wybory federalne 2023 w Argentynie",
+        "hover_text": null,
+        "share_text": "Wybory federalne 2023 w Argentynie #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Eleições nacionais da Argentina 2023",
+        "hover_text": null,
+        "share_text": "Eleições nacionais da Argentina 2023 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Eleições Federais da Argentina de 2023",
+        "hover_text": null,
+        "share_text": "Eleições Federais da Argentina de 2023! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਅਰਜਨਟੀਨਾ ਦੀਆਂ ਸੰਘੀ ਚੋਣਾਂ 2023",
+        "hover_text": null,
+        "share_text": "ਅਰਜਨਟੀਨਾ ਦੀਆਂ ਸੰਘੀ ਚੋਣਾਂ 2023! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Alegeri federale în Argentina – 2023",
+        "hover_text": null,
+        "share_text": "Alegeri federale în Argentina – 2023! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Всеобщие выборы в Аргентине – 2023",
+        "hover_text": null,
+        "share_text": "Всеобщие выборы в Аргентине – 2023 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Савезни избори у Аргентини 2023.",
+        "hover_text": null,
+        "share_text": "Савезни избори у Аргентини 2023! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Savezni izbori u Argentini 2023.",
+        "hover_text": null,
+        "share_text": "Savezni izbori u Argentini 2023! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ආර්ජන්ටිනාවේ ෆෙඩරල් මැතිවරණය 2023",
+        "hover_text": null,
+        "share_text": "ආර්ජන්ටිනාවේ ෆෙඩරල් මැතිවරණය 2023! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Argentínske federálne voľby 2023",
+        "hover_text": null,
+        "share_text": "Argentínske federálne voľby 2023. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Zvezne volitve v Argentini 2023",
+        "hover_text": null,
+        "share_text": "Zvezne volitve v Argentini 2023! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Elecciones nacionales de Argentina 2023",
+        "hover_text": "Elecciones nacionales de Argentina 2023",
+        "share_text": "Elecciones nacionales de Argentina 2023 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Uchaguzi wa Wabunge wa Ajentina 2023",
+        "hover_text": null,
+        "share_text": "Uchaguzi wa Wabunge wa Ajentina 2023! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Federala val i Argentina 2023",
+        "hover_text": null,
+        "share_text": "Federala val i Argentina 2023! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Argentina Federal Elections 2023",
+        "hover_text": null,
+        "share_text": "அர்ஜென்டினாவின் ஃபெடரல் தேர்தல்கள் 2023! #GoogleDoodle"
+      },
+      "te": {
+        "query": "అర్జెంటీనా ఫెడరల్ ఎన్నికలు 2023",
+        "hover_text": null,
+        "share_text": "అర్జెంటీనా ఫెడరల్ ఎన్నికలు 2023! #GoogleDoodle"
+      },
+      "th": {
+        "query": "การเลือกตั้งระดับประเทศของอาร์เจนตินาปี 2023",
+        "hover_text": null,
+        "share_text": "การเลือกตั้งระดับประเทศของอาร์เจนตินาปี 2023 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Arjantin Federal Seçimleri 2023",
+        "hover_text": null,
+        "share_text": "Arjantin Federal Seçimleri 2023 #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Федеральні вибори в Аргентині у 2023 році",
+        "hover_text": null,
+        "share_text": "Федеральні вибори в Аргентині у 2023 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "ارجنٹینا کے فیڈرل انتخابات 2023",
+        "hover_text": null,
+        "share_text": "ارجنٹینا کے فیڈرل انتخابات 2023! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Argentinada federal saylovlar 2023",
+        "hover_text": null,
+        "share_text": "Argentinada federal saylovlar 2023! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Tổng tuyển cử Argentina năm 2023",
+        "hover_text": null,
+        "share_text": "Tổng tuyển cử Argentina năm 2023! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ukhetho Lwenhlangano Yase-Argentina lwango-2023",
+        "hover_text": null,
+        "share_text": "Ukhetho Lwenhlangano Yase-Argentina lwango-2023! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Argentina Federal Elections 2023",
+    "share_text": "Argentina Federal Elections 2023! #GoogleDoodle"
+  },
+  {
     "name": "cricket-world-cup-2023-finals",
     "title": "Cricket World Cup 2023 Finals",
     "url": "//www.google.com/logos/doodles/2023/cricket-world-cup-2023-finals-6753651837110096-law.gif",
