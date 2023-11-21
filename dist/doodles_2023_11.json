@@ -1,5 +1,504 @@
 [
   {
+    "name": "dr-victor-changs-87th-birthday",
+    "title": "Dr. Victor Chang's 87th Birthday",
+    "url": "//www.google.com/logos/doodles/2023/dr-victor-changs-87th-birthday-6753651837109540.2-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/Wbw6AAo4sOKhBB9UxqmzQFZ8OsYxe8hKfnybtbn6EMYWAJRiTfIi-mc4LI1aoQAgGTbWoNkp_1I1P7KTx9Sj-cXZizd_GAy2Ijry7e2Pp-el5-KUiiyqRw",
+    "high_res_url": "//www.google.com/logos/doodles/2023/dr-victor-changs-87th-birthday-6753651837109540.2-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      11,
+      21
+    ],
+    "translations": {
+      "en": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "Dr. Victor Chang's 87th Birthday",
+        "share_text": "Dr. Victor Chang's 87th Birthday! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "Dr. Victor Chang se 87e verjaarsdag",
+        "share_text": "Dr. Victor Chang se 87e verjaarsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "87-vjetori i lindjes së Dr. Victor Chang",
+        "share_text": "87-vjetori i lindjes së Dr. Victor Chang! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ዶ/ር ቪክቶር ቻንግ",
+        "hover_text": "የዶ/ር ቪክተር ቻንግ 87ኛ ልደት",
+        "share_text": "የዶ/ር ቪክተር ቻንግ 87ኛ ልደት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "الدكتور \"فيكتور تشانغ\"",
+        "hover_text": "الذكرى 87 لميلاد الدكتور \"فيكتور تشانغ\"",
+        "share_text": "نحتفل اليوم بالذكرى 87 لميلاد الدكتور \"فيكتور تشانغ\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Բժիշկ Վիկտոր Չանգ",
+        "hover_text": "Բժիշկ Վիկտոր Չանգի ծննդյան 86-ամյակը",
+        "share_text": "Տոնե՛նք բժիշկ Վիկտոր Չանգի ծննդյան օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Dr. Viktor Çanq",
+        "hover_text": "Dr. Victor Chang'ın 87-ci ildönümü",
+        "share_text": "Dr. Victor Chang'ın 87-ci ildönümü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ডঃ ভিক্টর চ্যাং",
+        "hover_text": "ডঃ ভিক্টর চ্যাংয়ের ৮৭তম জন্মদিন",
+        "share_text": "ডঃ ভিক্টর চ্যাংয়ের ৮৭তম জন্মদিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "Victor Chang medikuaren jaiotzaren 87. urteurrena",
+        "share_text": "Victor Chang medikuaren jaiotzaren 87. urteurrena #GoogleDoodle"
+      },
+      "be": {
+        "query": "Доктар Віктар Чанг",
+        "hover_text": "87 гадоў з дня нараджэння доктара Віктара Чанга",
+        "share_text": "87 гадоў з дня нараджэння доктара Віктара Чанга! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "87 godina od rođenja dr. Victora Changa",
+        "share_text": "87 godina od rođenja dr. Victora Changa! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Dr Victor Chang",
+        "hover_text": "Dr Victor Chang's 87th birthday",
+        "share_text": "Dr Victor Chang's 87th birthday! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Д-р Виктор Чанг",
+        "hover_text": "86 години от рождението на д-р Виктор Чанг",
+        "share_text": "86 години от рождението на д-р Виктор Чанг! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "Dr. Victor Chang ၏ ၈၇ နှစ်မြောက်မွေးနေ့",
+        "share_text": "Dr. Victor Chang ၏ ၈၇ နှစ်မြောက်မွေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "87è aniversari del naixement del Dr. Victor Chang",
+        "share_text": "87è aniversari del naixement del Dr. Victor Chang #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "張任謙醫生",
+        "hover_text": "張任謙醫生誕辰 87 週年",
+        "share_text": "張任謙醫生誕辰 87 週年！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "張任謙醫師",
+        "hover_text": "張任謙醫師 87 歲冥誕",
+        "share_text": "紀念張任謙醫師 87 歲冥誕！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "张任谦医生",
+        "hover_text": "张任谦医生诞辰 87 周年",
+        "share_text": "张任谦医生诞辰 87 周年！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "87. godišnjica rođenja dr. Victora Changa",
+        "share_text": "87. godišnjica rođenja dr. Victora Changa! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "86. výročí narození Dr. Victora Changa",
+        "share_text": "86. výročí narození Dr. Victora Changa! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "Dr. Victor Changs 87-års fødselsdag",
+        "share_text": "Dr. Victor Changs 87-års fødselsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "87e geboortedag van Dr. Victor Chang",
+        "share_text": "De 87e geboortedag van Dr. Victor Chang! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Dr Victor Chang",
+        "hover_text": "Dr Victor Changi 87. sünniaastapäev",
+        "share_text": "Dr Victor Changi 87. sünniaastapäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Victor Chang",
+        "hover_text": "87 vuotta Victor Changin syntymästä",
+        "share_text": "87 vuotta Victor Changin syntymästä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Dr Victor Chang",
+        "hover_text": "Il y a 86 ans naissait le Dr Victor Chang",
+        "share_text": "86e anniversaire de la naissance du Dr Victor Chang #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Dʳ Victor Chang",
+        "hover_text": "87ᵉ anniversaire de naissance du Dʳ Victor Chang",
+        "share_text": "87ᵉ anniversaire de naissance du Dʳ Victor Chang! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "87.º aniversario do nacemento do Dr. Victor Chang",
+        "share_text": "87.º aniversario do nacemento do Dr. Victor Chang! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "დოქტორი ვიქტორ ჩანგი",
+        "hover_text": "87 წელი დოქტორ ვიქტორ ჩანგის დაბადებიდან",
+        "share_text": "87 წელი დოქტორ ვიქტორ ჩანგის დაბადებიდან! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "Zu Ehren von Dr. Victor Chang",
+        "share_text": "Zu Ehren von Dr. Victor Chang! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "Τιμούμε τον Dr. Victor Chang",
+        "share_text": "Τιμούμε τον Dr. Victor Chang! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ડૉ. વિક્ટર ચાંગ",
+        "hover_text": "ડૉ. વિક્ટર ચાંગનો 87મો જન્મદિવસ",
+        "share_text": "ડૉ. વિક્ટર ચાંગનો 87મો જન્મદિવસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "ד\"ר ויקטור צ'אנג",
+        "hover_text": "87 שנים להולדת ד\"ר ויקטור צ'אנג",
+        "share_text": "87 שנים להולדת ד\"ר ויקטור צ'אנג GoogleDoodle#"
+      },
+      "hi": {
+        "query": "डॉक्टर विक्टर चैंग",
+        "hover_text": "डॉक्टर विक्टर चैंग की 87वीं जयंती",
+        "share_text": "डॉक्टर विक्टर चैंग की 87वीं जयंती! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "Dr. Victor Chang 86. születésnapja",
+        "share_text": "Dr. Victor Chang 86. születésnapja #GoogleDoodle"
+      },
+      "is": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "87 ár frá fæðingu Dr. Victors Chang",
+        "share_text": "Við heiðrum Dr. Victor Chang! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "Ulang Tahun Ke-87 dr. Victor Chang",
+        "share_text": "Ulang Tahun Ke-87 dr. Victor Chang #GoogleDoodle"
+      },
+      "ga": {
+        "query": "An Dr Victor Chang",
+        "hover_text": "86ú Breithlá an Dr Victor Chang",
+        "share_text": "86ú Breithlá an Dr Victor Chang! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Dott. Victor Chang",
+        "hover_text": "87° anniversario della nascita del dottor Victor Chang",
+        "share_text": "87° anniversario della nascita del dottor Victor Chang! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ビクター・チャン医師",
+        "hover_text": "ビクター・チャン医師生誕 87 周年",
+        "share_text": "ビクター・チャン医師生誕 87 周年 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಡಾ. ವಿಕ್ಟರ್ ಚಾಂಗ್",
+        "hover_text": "ಡಾ. ವಿಕ್ಟರ್ ಚಾಂಗ್ ಅವರ 87ನೇ ಜನ್ಮದಿನ",
+        "share_text": "ಡಾ. ವಿಕ್ಟರ್ ಚಾಂಗ್ ಅವರ 87ನೇ ಜನ್ಮದಿನ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Доктор Виктор Чанг",
+        "hover_text": "Доктор Виктор Чангының 87 жылдығы",
+        "share_text": "Доктор Виктор Чангының 87 жылдығы! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "ខួបគម្រប់ 87 ឆ្នាំរបស់វេជ្ជបណ្ឌិត Victor Chang",
+        "share_text": "ខួបគម្រប់ 87 ឆ្នាំរបស់វេជ្ជបណ្ឌិត Victor Chang! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "빅터 창 박사",
+        "hover_text": "Victor Chang 박사 탄생 87주년",
+        "share_text": "Victor Chang 박사 탄생 87주년 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Доктор Виктор Чанг",
+        "hover_text": "Доктор Виктор Чангдын 87 жаш мааракеси",
+        "share_text": "Доктор Виктор Чангдын 87 жаш мааракеси! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 87 ປີຂອງ Dr. Victor Chang",
+        "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 87 ປີຂອງ Dr. Victor Chang! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "86º aniversario del nacimiento del Dr. Victor Chang",
+        "share_text": "86º aniversario del nacimiento del Dr. Victor Chang"
+      },
+      "lv": {
+        "query": "Dr. Viktors Čans",
+        "hover_text": "Dr. Viktora Čana 87. dzimšanas diena",
+        "share_text": "Dr. Viktora Čana 87. dzimšanas diena! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Dr. Victoras Changas",
+        "hover_text": "87-asis dr. Victoro Chango gimtadienis",
+        "share_text": "87-asis dr. Victoro Chango gimtadienis! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Д-р Виктор Чанг",
+        "hover_text": "87. роденден на Dr. Victor Chang",
+        "share_text": "87. роденден на Dr. Victor Chang! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Dr. Victor Chang",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "Ulang Tahun Kelahiran Dr. Victor Chang yang ke-87",
+        "share_text": "Ulang Tahun Kelahiran Dr. Victor Chang yang ke-87! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഡോ. വിക്‌ടർ ചാങ്",
+        "hover_text": "Dr. Victor Chang-ന്റെ 87-ാം ജന്മദിനം",
+        "share_text": "Dr. Victor Chang-ന്റെ 87-ാം ജന്മദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "डॉ. व्हिक्टर चँग",
+        "hover_text": "डॉ. व्हिक्टर चँग यांचा ८७ वा स्मृतिदिन",
+        "share_text": "डॉ. व्हिक्टर चँग यांचा ८७ वा स्मृतिदिन! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Др. Виктор Чанг",
+        "hover_text": "Др. Виктор Чангийн мэндэлсний 87 жилийн ой",
+        "share_text": "Др. Виктор Чангийн мэндэлсний 87 жилийн ой! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "डा. Victor Chang",
+        "hover_text": "डा. Victor Chang को ८७ औँ जन्मजयन्ती",
+        "share_text": "डा. Victor Chang को ८७ औँ जन्मजयन्ती! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "Dr. Victor Changs 87-årsdag",
+        "share_text": "Dr. Victor Changs 87-årsdag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଡା. ଭିକ୍ଟର ଚାଙ୍ଗ",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "دکتر ویکتور چانگ",
+        "hover_text": "هشتادوهفتمین زادروز دکتر ویکتور چانگ",
+        "share_text": "هشتادوهفتمین زادروز دکتر ویکتور چانگ! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dr Victor Chang",
+        "hover_text": "Dr Victor Chang – 87 rocznica urodzin",
+        "share_text": "Dr Victor Chang – 87 rocznica urodzin #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "Celebrando Dr. Victor Chang",
+        "share_text": "Celebrando Dr. Victor Chang! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "87.º Aniversário do Dr. Victor Chang",
+        "share_text": "87.º Aniversário do Dr. Victor Chang! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਡਾ. ਵਿਕਟਰ ਚਾਂਗ",
+        "hover_text": "ਡਾ. ਵਿਕਟਰ ਚੈਂਗ ਦਾ 87ਵਾਂ ਜਨਮਦਿਨ",
+        "share_text": "ਡਾ. ਵਿਕਟਰ ਚੈਂਗ ਦਾ 87ਵਾਂ ਜਨਮਦਿਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "87 de ani de la nașterea chirurgului Victor Chang",
+        "share_text": "87 de ani de la nașterea chirurgului Victor Chang! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Доктор Виктор Чан",
+        "hover_text": "87 лет со дня рождения доктора Виктора Чана",
+        "share_text": "87 лет со дня рождения доктора Виктора Чана #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Др Виктор Ченг",
+        "hover_text": "87 година од рођења др Виктора Ченга",
+        "share_text": "87 година од рођења др Виктора Ченга! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dr Viktor Čeng",
+        "hover_text": "87 godina od rođenja dr Viktora Čenga",
+        "share_text": "87 godina od rođenja dr Viktora Čenga! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "වෛද්‍ය වික්ටර් චැං",
+        "hover_text": "වෛද්‍ය වික්ටර් චැංගේ 87 වැනි උපන් දිනය",
+        "share_text": "වෛද්‍ය වික්ටර් චැංගේ 87 වැනි උපන් දිනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "86. výročie narodenia Dr. Victora Changa",
+        "share_text": "Oslavujeme Dr. Victora Changa. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "87. rojstni dan dr. Victorja Changa",
+        "share_text": "87. rojstni dan dr. Victorja Changa! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Dr. Victor Chang",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "87.º aniversario del nacimiento del Dr. Victor Chang",
+        "share_text": "Hoy es el 87.º aniversario del nacimiento del Dr. Victor Chang #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "Miaka 87 Tangu Kuzaliwa kwa Dkt. Victor Chang",
+        "share_text": "Miaka 87 Tangu Kuzaliwa kwa Dkt. Victor Chang! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Dr Victor Chang",
+        "hover_text": "Dr Victor Chang 87 år",
+        "share_text": "Dr Victor Chang 87 år #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "டாக்டர். விக்டர் சாங்",
+        "hover_text": "டாக்டர். விக்டர் சாங்கின் 87வது பிறந்தநாள்",
+        "share_text": "டாக்டர். விக்டர் சாங்கின் 87வது பிறந்தநாள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "డా. విక్టర్ చాంగ్",
+        "hover_text": "డాక్టర్ విక్టర్ చాంగ్ 87వ జయంతి",
+        "share_text": "డాక్టర్ విక్టర్ చాంగ్ 87వ జయంతి! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "วันเกิดปีที่ 87 ของ Dr. Victor Chang",
+        "share_text": "วันเกิดปีที่ 87 ของ Dr. Victor Chang #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "Dr. Victor Chang'in 87. Doğum Günü",
+        "share_text": "Dr. Victor Chang'in 87. doğum günü. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Доктор Віктор Чанг",
+        "hover_text": "87 років від дня народження доктора Віктора Чанга",
+        "share_text": "87 років від дня народження доктора Віктора Чанга! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "Dr. Victor Chang کی 87 ویں سالگرہ",
+        "share_text": "Dr. Victor Chang کی 87 ویں سالگرہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Dr. Victor Chang",
+        "hover_text": "Dr. Victor Chang tavalludining 87 yilligi",
+        "share_text": "Dr. Victor Chang tavalludining 87 yilligi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Bác sĩ Victor Chang",
+        "hover_text": "Kỷ niệm 87 năm ngày sinh Bác sĩ Victor Chang",
+        "share_text": "Kỷ niệm 87 năm ngày sinh Bác sĩ Victor Chang! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Dkt. Victor Chang",
+        "hover_text": "Usuku Lokuzalwa lukaDkt. Victor Chang Lweminyaka engama-87",
+        "share_text": "Usuku Lokuzalwa lukaDkt. Victor Chang Lweminyaka engama-87! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Dr. Victor Chang",
+    "share_text": "Dr. Victor Chang's 87th Birthday! #GoogleDoodle"
+  },
+  {
     "name": "argentina-federal-elections-2023-nov-19",
     "title": "Argentina Federal Elections 2023 (Nov 19)",
     "url": "//www.google.com/logos/doodles/2023/argentina-federal-elections-2023-nov-19-6753651837110461-l.png",
