@@ -1,5 +1,1003 @@
 [
   {
+    "name": "teachers-day-2023-nov-24",
+    "title": "Teachers' Day 2023 (Nov 24)",
+    "url": "//www.google.com/logos/doodles/2023/teachers-day-2023-nov-24-6753651837109973-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/fbcobGUhiGYseJ8GaoNd-6mhcruCK2jcGX8BnOvosdk4t5G3wu9Mdr5Wc0lgtag7ViNMHQhlQFv_p7HEX3JopnQciS-KAJqAwGsCtZq-0oA0AqKmGzOH9A",
+    "high_res_url": "//www.google.com/logos/doodles/2023/teachers-day-2023-nov-24-6753651837109973-2xa.gif",
+    "high_res_width": 920,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      11,
+      24
+    ],
+    "translations": {
+      "en": {
+        "query": "Turkey Teachers' Day",
+        "hover_text": "Teachers' Day 2023 (Nov 24)",
+        "share_text": "Happy Teachers' Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Turkye se onderwysersdag",
+        "hover_text": "Onderwysersdag 2023 (24 Nov)",
+        "share_text": "Gelukkige Onderwysersdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Mësuesit në Turqi",
+        "hover_text": "Dita e Mësuesit, 2023 (24 nëntor)",
+        "share_text": "Gëzuar Ditën e Mësuesit! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የቱርክ የመምህራን ቀን",
+        "hover_text": "የመምህራን ቀን 2023 (ኖቬምበር 24)",
+        "share_text": "መልካም የአስተማሪዎች ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد المعلّم في تركيا",
+        "hover_text": "عيد المعلّم 2023 (‏24 تشرين الثاني/نوفمبر)",
+        "share_text": "نتمنّى عيدًا سعيدًا للمعلّمين. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Թուրքիայի ուսուցիչների օր",
+        "hover_text": "Ուսուցիչների օր 2023 (նոյեմբերի 24)",
+        "share_text": "Շնորհավո՛ր ուսուցիչների օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Türkiyə Müəllimlər Günü",
+        "hover_text": "2023 Müəllimlər Günü (24 noyabr)",
+        "share_text": "Müəllimlər Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "তুরস্কের শিক্ষক দিবস",
+        "hover_text": "শিক্ষক দিবস ২০২৩ (২৪ নভেম্বর)",
+        "share_text": "শিক্ষক দিবসের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Turkiako Irakasleen Eguna",
+        "hover_text": "2023ko Irakasleen Eguna (azaroaren 24a)",
+        "share_text": "Irakasleen Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень настаўніка ў Турцыі",
+        "hover_text": "Дзень настаўніка 2023 (24 лістапада)",
+        "share_text": "З Днём настаўніка! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nastavnika u Turskoj",
+        "hover_text": "Dan nastavnika 2023. (24. nov)",
+        "share_text": "Sretan Dan nastavnika! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Turkey Teachers' Day",
+        "hover_text": "Teachers' Day 2023 (24 Nov)",
+        "share_text": "Happy Teachers' Day! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на учителя в Турция",
+        "hover_text": "Ден на учителя 2023 г. (24 ноември)",
+        "share_text": "Честит Ден на учителя! #GoogleDoodle"
+      },
+      "my": {
+        "query": "တူရကီနိုင်ငံ ဆရာများနေ့",
+        "hover_text": "၂၀၂၃ တူရကီနိုင်ငံ ဆရာများနေ့ (နိုဝင်ဘာ ၂၄)",
+        "share_text": "ပျော်ရွှင်ဖွယ် ဆရာများနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia del Mestre a Turquia",
+        "hover_text": "Dia del Mestre 2023 (24 de novembre)",
+        "share_text": "Feliç Dia del Mestre! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "土耳其教師日",
+        "hover_text": "2023 年教師日 (11 月 24 日)",
+        "share_text": "教師日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "土耳其教師節",
+        "hover_text": "2023 年教師節 (11 月 24 日)",
+        "share_text": "教師節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "土耳其教师节",
+        "hover_text": "2023 年教师节（11 月 24 日）",
+        "share_text": "教师节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan učitelja u Turskoj",
+        "hover_text": "Dan učitelja 2023. (24. studenog)",
+        "share_text": "Sretan Dan učitelja! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den učitelů v Turecku",
+        "hover_text": "Den učitelů 2023 (24. listopadu)",
+        "share_text": "Veselý Den učitelů! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Lærernes dag i Tyrkiet",
+        "hover_text": "Lærernes dag 2023 (24. november)",
+        "share_text": "Glædelig lærernes dag! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Dag van de Leraar in Turkije",
+        "hover_text": "Dag van de Leraar 2023 (24 november)",
+        "share_text": "Fijne Lerarendag! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Türgi õpetajate päev",
+        "hover_text": "2023. aasta õpetajate päev (24. november)",
+        "share_text": "Head õpetajatepäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Turkin opettajien päivä",
+        "hover_text": "Opettajien päivä 2023 (24.11.)",
+        "share_text": "Hyvää opettajien päivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Journée des professeurs en Turquie",
+        "hover_text": "Journée des professeurs 2023 en Turquie (24 novembre)",
+        "share_text": "Bonne fête des professeurs ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Journée des enseignantes et des enseignants de la Türkiye",
+        "hover_text": "Journée des enseignantes et des enseignants 2023 (24 novembre)",
+        "share_text": "Joyeuse fête des enseignants! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día do Mestre de Turquía",
+        "hover_text": "Día do Mestre 2023 (24 de novembro)",
+        "share_text": "Feliz Día do Mestre! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "თურქეთის მასწავლებელთა დღე",
+        "hover_text": "მასწავლებელთა დღე — 2023 (24 ნოემბერი)",
+        "share_text": "გილოცავთ მასწავლებლის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Tag der Lehrer in der Türkei",
+        "hover_text": "Tag der Lehrer 2023 (24. November)",
+        "share_text": "Alles Gute zum Tag der Lehrer! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Εκπαιδευτικών της Τουρκίας",
+        "hover_text": "Ημέρα Εκπαιδευτικών 2023 (24 Νοεμβρίου)",
+        "share_text": "Γιορτάζουμε την Ημέρα των Εκπαιδευτικών! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "તુર્કિયેનો શિક્ષક દિવસ",
+        "hover_text": "શિક્ષક દિવસ 2023 (24 નવેમ્બર)",
+        "share_text": "શિક્ષક દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום המורה בטורקיה",
+        "hover_text": "יום המורה 2023 (24 בנובמבר)",
+        "share_text": "יום המורה שמח! ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "तुर्किये का शिक्षक दिवस",
+        "hover_text": "शिक्षक दिवस 2023 (24 नवंबर)",
+        "share_text": "शिक्षक दिवस की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Pedagógusnap Törökországban",
+        "hover_text": "Pedagógusnap, 2023 (november 24.)",
+        "share_text": "Boldog pedagógusnapot! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Kennaradagurinn í Tyrklandi",
+        "hover_text": "Kennaradagurinn 2023 (24. nóvember)",
+        "share_text": "Gleðilegan kennaradag! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Guru Turkiye",
+        "hover_text": "Hari Guru 2023 (24 November)",
+        "share_text": "Selamat Hari Guru! #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "Lá na Múinteoirí faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa degli insegnanti Turchia",
+        "hover_text": "Festa degli insegnanti 2023 (24 novembre)",
+        "share_text": "Buona festa degli insegnanti! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "教師の日（トルコ）",
+        "hover_text": "2023 年教師の日（11 月 24 日）",
+        "share_text": "教師の日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ತುರ್ಕಿಯೆ ಶಿಕ್ಷಕರ ದಿನ",
+        "hover_text": "ಶಿಕ್ಷಕರ ದಿನ 2023 (ನವೆಂಬರ್ 24)",
+        "share_text": "ಶಿಕ್ಷಕರ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Түркиядағы мұғалімдер күні",
+        "hover_text": "Мұғалімдер күні – 2023 (24 қараша)",
+        "share_text": "Мұғалімдер күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាគ្រូបង្រៀននៅតួកគី",
+        "hover_text": "ទិវាគ្រូបង្រៀនឆ្នាំ 2023 (ថ្ងៃទី 24 ខែវិច្ឆិកា)",
+        "share_text": "អបអរ​ទិវា​គ្រូបង្រៀន! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "튀르키예 스승의 날",
+        "hover_text": "2023년 스승의 날(11월 24일)",
+        "share_text": "스승의 날 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Түркиядагы Мугалимдер күнү",
+        "hover_text": "Мугалимдер күнү – 2023 (24-ноябрь)",
+        "share_text": "Мугалимдер күнүңүз менен! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຄູເຕີກີ",
+        "hover_text": "ວັນຄູ 2023 (24 ພະຈິກ)",
+        "share_text": "ສຸກສັນວັນຄູ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día del Maestro de Türkiye",
+        "hover_text": "Día del Maestro 2023 (24 de noviembre)",
+        "share_text": "¡Feliz Día del Maestro! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Skolotāju diena Turcijā",
+        "hover_text": "Skolotāju diena — 2023. gada 24. novembris",
+        "share_text": "Sveicam Skolotāju dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Mokytojų diena (Turkija)",
+        "hover_text": "Mokytojų diena, 2023 m. (lapkričio 24 d.)",
+        "share_text": "Linksmos Mokytojų dienos! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на наставниците во Турција",
+        "hover_text": "Ден на наставниците, 2023 г. (24 ное.)",
+        "share_text": "Среќен ден на наставниците! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "Tsarà Andron'ny mpampianatra ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Guru Turkiye",
+        "hover_text": "Hari Guru 2023 (24 Nov)",
+        "share_text": "Selamat Hari Guru! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "തുർക്കിയ അദ്ധ്യാപക ദിനം",
+        "hover_text": "അദ്ധ്യാപക ദിനം 2023 (നവംബർ 24)",
+        "share_text": "അദ്ധ്യാപക ദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "तुर्कियेचा शिक्षकदिन",
+        "hover_text": "शिक्षकदिन २०२३ (२४ नोव्हेंबर)",
+        "share_text": "शिक्षक दिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Туркийн Багш нарын өдөр",
+        "hover_text": "2023 оны Багш нарын өдөр (11-р сарын 24)",
+        "share_text": "Багш нарын баярын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "टर्कीको शिक्षक दिवस",
+        "hover_text": "शिक्षक दिवस २०२३ (नोभेम्बर २४)",
+        "share_text": "शिक्षक दिवस शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Lærernes dag i Tyrkia",
+        "hover_text": "Lærernes dag 2023 (24. november)",
+        "share_text": "Gratulerer med lærernes dag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ତୁର୍କୀର ଗୁରୁ ଦିବସ",
+        "hover_text": "ଗୁରୁ ଦିବସ 2023 (ନଭେମ୍ବର 24)",
+        "share_text": "ଗୁରୁ ଦିବସର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز معلم در ترکیه",
+        "hover_text": "روز معلم ۲۰۲۳ (۲۴ نوامبر)",
+        "share_text": "روز معلم مبارک! #GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Nauczyciela w Turcji",
+        "hover_text": "Dzień Nauczyciela w 2023 roku (24 listopada)",
+        "share_text": "Szczęśliwego Dnia Nauczyciela! #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia do Professor na Turquia",
+        "hover_text": "Dia do Professor 2023 (24 de novembro)",
+        "share_text": "Feliz Dia do Professor! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia dos Professores da Turquia",
+        "hover_text": "Dia dos Professores da Turquia de 2023 (24 de novembro)",
+        "share_text": "Feliz dia do professor! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਤੁਰਕੀ ਦਾ ਅਧਿਆਪਕ ਦਿਵਸ",
+        "hover_text": "ਅਧਿਆਪਕ ਦਿਵਸ 2023 (24 ਨਵੰਬਰ)",
+        "share_text": "ਅਧਿਆਪਕ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Profesorului în Turcia",
+        "hover_text": "Ziua Profesorului 2023 (24 nov.)",
+        "share_text": "La mulți ani de Ziua Profesorului! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День учителя в Турции",
+        "hover_text": "День учителя в Турции – 2023 (24 ноября)",
+        "share_text": "День учителя #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан учитеља у Турској",
+        "hover_text": "Дан учитеља 2023. (24. новембар)",
+        "share_text": "Срећан Дан учитеља! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan učitelja u Turskoj",
+        "hover_text": "Dan učitelja 2023. (24. novembar)",
+        "share_text": "Srećan Dan učitelja! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "Bonn fet asennyan! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "තුර්කියේ ගුරු දිනය",
+        "hover_text": "ගුරු දිනය 2023 (නොවැ 24)",
+        "share_text": "ප්‍රීතිමත් ගුරු දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň učiteľov v Turecku",
+        "hover_text": "Deň učiteľov 2023 (24. november)",
+        "share_text": "Šťastný Deň učiteľov! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan učiteljev v Turčiji",
+        "hover_text": "Dan učiteljev 2023 (24. november)",
+        "share_text": "Vesel dan učiteljev! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "Maalinta Macalinka oo Farxada leh! #GoogleDoodle"
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Barutisi la 2021! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día del Maestro en Turquía",
+        "hover_text": "Día del Maestro 2023 (24 de noviembre)",
+        "share_text": "¡Feliz Día del Maestro! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Walimu nchini Uturuki",
+        "hover_text": "Siku ya Walimu 2023 (Tarehe 24 Novemba)",
+        "share_text": "Heri za Sikukuu ya Walimu! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Lärarnas dag i Turkiet",
+        "hover_text": "Lärarnas dag 2023 (24 nov)",
+        "share_text": "Vi firar lärarnas dag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Turkey Teachers' Day",
+        "hover_text": "ஆசிரியர் தினம் 2023 (நவ 24)",
+        "share_text": "ஆசிரியர் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "తుర్కియే ఉపాధ్యాయుల దినోత్సవం",
+        "hover_text": "ఉపాధ్యాయుల దినోత్సవం 2023 (నవంబర్ 24)",
+        "share_text": "ఉపాధ్యాయుల దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันครูตุรกี",
+        "hover_text": "วันครูปี 2023 (24 พฤศจิกายน)",
+        "share_text": "สุขสันต์วันครู #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Barutabana! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Öğretmenler Günü ",
+        "hover_text": "Öğretmenler Günü 2023 (24 Kasım)",
+        "share_text": "Öğretmenler Günü Kutlu olsun! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День учителя в Туреччині",
+        "hover_text": "День учителя у 2023 році (24 листопада)",
+        "share_text": "З Днем учителя! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "ترکی یوم اساتذہ",
+        "hover_text": "یوم اساتذہ 2023 (24 نومبر)",
+        "share_text": "یوم اساتذہ مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Turkiyada Oʻqituvchilar kuni",
+        "hover_text": "Oʻqituvchilar kuni 2023 (24-noyabr)",
+        "share_text": "Ustozlar kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Nhà giáo ở Thổ Nhĩ Kỳ",
+        "hover_text": "Ngày Nhà giáo năm 2023 (ngày 24 tháng 11)",
+        "share_text": "Chúc mừng ngày Nhà giáo! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lothisha lwase-Turkey",
+        "hover_text": "Usuku Lothisha lwango-2023 (24 Nov)",
+        "share_text": "Sikufisela Usuku Oluhle Lothisha! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Turkey Teachers' Day",
+    "share_text": "Happy Teachers' Day! #GoogleDoodle"
+  },
+  {
+    "name": "thanksgiving-2023",
+    "title": "Thanksgiving 2023",
+    "url": "//www.google.com/logos/doodles/2023/thanksgiving-2023-6753651837109972.4-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/JIleXJZnB327bSQEoWcz_wJJN7JBk96IT6JnXgJS72PCYf_Xy8uye1gvB-SCbtdoN5l00rQbuydcuECEjARv00EaEZtmN-WQYHyKImig3naVutaQyzQQdw",
+    "high_res_url": "//www.google.com/logos/doodles/2023/thanksgiving-2023-6753651837109972.2-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      11,
+      23
+    ],
+    "translations": {
+      "en": {
+        "query": "History of Thanksgiving",
+        "hover_text": "Happy Thanksgiving 2023",
+        "share_text": "Happy Thanksgiving 2023! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Geskiedenis van Thanksgiving",
+        "hover_text": "Gelukkige Dankseggingsdag 2023!",
+        "share_text": "Gelukkige Dankseggingsdag 2023! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Historia e Ditës së Falënderimeve",
+        "hover_text": "Gëzuar Ditën e Falënderimeve, 2023",
+        "share_text": "Gëzuar Ditën e Falënderimeve, 2023! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የምስጋና ቀን ታሪክ",
+        "hover_text": "መልካም የምስጋና ቀን 2023",
+        "share_text": "መልካም የምስጋና ቀን 2023! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "تاريخ عيد الشكر",
+        "hover_text": "أجمل الأمنيات بمناسبة عيد الشكر 2023.",
+        "share_text": "أجمل الأمنيات بمناسبة عيد الشكر 2023. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Գոհաբանության օրվա պատմությունը",
+        "hover_text": "Շնորհավո՛ր Գոհաբանության օր 2023",
+        "share_text": "Շնորհավո՛ր Գոհաբանության օր 2023 #GoogleDoodle"
+      },
+      "az": {
+        "query": "Şükran gününün tarixi",
+        "hover_text": "2023 Şükran Gününüz Mübarək",
+        "share_text": "2023 Şükran Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "থ্যাঙ্কস গিভিংয়ের ইতিহাস",
+        "hover_text": "থ্যাঙ্কসগিভিং ডে ২০২৩-এর শুভেচ্ছা",
+        "share_text": "থ্যাঙ্কসগিভিং ডে ২০২৩-এর শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Eskerrak Emateko Egunaren historia",
+        "hover_text": "2023ko Eskerrak Emateko Egun zoriontsua izan",
+        "share_text": "2023ko Eskerrak Emateko Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Гісторыя Дня падзякі",
+        "hover_text": "З Днём падзякі 2023",
+        "share_text": "З Днём падзякі 2023! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Historija Dana zahvalnosti",
+        "hover_text": "Sretan Dan zahvalnosti 2023.",
+        "share_text": "Sretan Dan zahvalnosti 2023! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "History of Thanksgiving",
+        "hover_text": "Happy Thanksgiving 2023",
+        "share_text": "Happy Thanksgiving 2023! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "История на Деня на благодарността",
+        "hover_text": "Честит Ден на благодарността 2023 г.",
+        "share_text": "Честит Ден на благодарността 2023 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ကျေးဇူးတော်နေ့၏ သမိုင်းကြောင်း",
+        "hover_text": "ပျော်ရွှင်ဖွယ် ၂၀၂၃ ကျေးဇူးတော်နေ့ ဖြစ်ပါစေ",
+        "share_text": "ပျော်ရွှင်ဖွယ် ၂၀၂၃ ကျေးဇူးတော်နေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Història del Dia d'Acció de Gràcies",
+        "hover_text": "Feliç Dia d'Acció de Gràcies 2023!",
+        "share_text": "Feliç Dia d'Acció de Gràcies 2023! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "感恩節的歷史",
+        "hover_text": "2023 年感恩節快樂",
+        "share_text": "2023 年感恩節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "感恩節的歷史",
+        "hover_text": "2023 年感恩節快樂！",
+        "share_text": "2023 年感恩節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "感恩节",
+        "hover_text": "感恩节2023",
+        "share_text": "感恩节2023! #GoogleDoodle"
+      },
+      "hr": {
+        "query": "Povijest Dana zahvalnosti",
+        "hover_text": "Sretan Dan zahvalnosti 2023.",
+        "share_text": "Sretan Dan zahvalnosti 2023.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Historie Dne díkůvzdání",
+        "hover_text": "Veselé Díkůvzdání 2023",
+        "share_text": "Veselé Díkůvzdání 2023! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Historien bag Thanksgiving",
+        "hover_text": "Glædelig Thanksgiving 2023!",
+        "share_text": "Glædelig Thanksgiving 2023! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Geschiedenis van Thanksgiving",
+        "hover_text": "Fijne Thanksgiving 2023",
+        "share_text": "Fijne Thanksgiving 2023! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Tänupühade ajalugu",
+        "hover_text": "Head 2023. aasta tänupüha!",
+        "share_text": "Head 2023. aasta tänupüha! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Kiitospäivän historia",
+        "hover_text": "Hyvää kiitospäivää 2023",
+        "share_text": "Hyvää kiitospäivää 2023! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "L'histoire de Thanksgiving",
+        "hover_text": "Joyeux Thanksgiving 2023",
+        "share_text": "Joyeux Thanksgiving 2023 ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Histoire de l'Action de grâce américaine",
+        "hover_text": "Joyeuse Action de grâces 2023!",
+        "share_text": "Joyeuse Action de grâces 2023! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Historia de Acción de Grazas",
+        "hover_text": "Feliz Día de Acción de Grazas 2023",
+        "share_text": "Feliz Día de Acción de Grazas 2023! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მადლიერების დღის ისტორია",
+        "hover_text": "გილოცავთ 2023 წლის მადლიერების დღეს",
+        "share_text": "გილოცავთ 2023 წლის მადლიერების დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Die Geschichte von Thanksgiving",
+        "hover_text": "Frohes Thanksgiving 2023",
+        "share_text": "Frohes Thanksgiving 2023! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ιστορία της Ημέρας των Ευχαριστιών",
+        "hover_text": "Χαρούμενη Ημέρα των Ευχαριστιών 2023",
+        "share_text": "Χαρούμενη Ημέρα των Ευχαριστιών 2023! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "થેંક્સગિવિંગનો ઇતિહાસ",
+        "hover_text": "2023ના થેંક્સગિવિંગની શુભેચ્છા",
+        "share_text": "2023ના થેંક્સગિવિંગની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "ההיסטוריה של חג ההודיה",
+        "hover_text": "חג הודיה 2023 שמח",
+        "share_text": "חג הודיה 2023 שמח GoogleDoodle#"
+      },
+      "hi": {
+        "query": "थैंक्सगिविंग का इतिहास",
+        "hover_text": "थैंक्सगिविंग 2023 की शुभकामनाएं",
+        "share_text": "थैंक्सगिविंग 2023 की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A hálaadás története",
+        "hover_text": "Boldog hálaadást 2023-ban!",
+        "share_text": "Boldog hálaadást 2023-ban! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Saga þakkargjörðarhátíðarinnar",
+        "hover_text": "Gleðilega þakkargjörðarhátíð 2023",
+        "share_text": "Gleðilega þakkargjörðarhátíð 2023! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Sejarah Thanksgiving",
+        "hover_text": "Selamat Thanksgiving 2023",
+        "share_text": "Selamat Thanksgiving 2023! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Stair Lá an Altaithe",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Storia del Giorno del Ringraziamento",
+        "hover_text": "Felice Giorno del ringraziamento 2023",
+        "share_text": "Felice Giorno del ringraziamento 2023! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "感謝祭の歴史",
+        "hover_text": "2023 年の感謝祭を祝おう",
+        "share_text": "2023 年の感謝祭を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಥ್ಯಾಂಕ್ಸ್‌ಗೀವಿಂಗ್‌ ಇತಿಹಾಸ",
+        "hover_text": "2023 ರ ಥ್ಯಾಂಕ್ಸ್‌ಗೀವಿಂಗ್‌ನ ಶುಭಾಶಯಗಳು",
+        "share_text": "2023 ರ ಥ್ಯಾಂಕ್ಸ್‌ಗೀವಿಂಗ್‌ನ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Алғыс айту күнінің тарихы",
+        "hover_text": "2023 жылғы Алғыс айту күні құтты болсын!",
+        "share_text": "2023 жылғы Алғыс айту күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ប្រវត្តិនៃបុណ្យថ្លែង​អំណរគុណ",
+        "hover_text": "អបអរ​បុណ្យថ្លែងអំណរគុណឆ្នាំ 2023",
+        "share_text": "អបអរបុណ្យ​ថ្លែងអំណរគុណឆ្នាំ 2023! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "추수감사절의 역사",
+        "hover_text": "2023년 추수감사절 기념",
+        "share_text": "2023년 추수감사절 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Ыраазычылык билдирүү күнүнүн тарыхы",
+        "hover_text": "Ыраазычылык билдирүү күнү – 2023",
+        "share_text": "Ыраазычылык билдирүү күнү – 2023! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ປະຫວັດຂອງວັນຂອບໃຈພະເຈົ້າ",
+        "hover_text": "ສຸກສັນວັນຂອບໃຈພະເຈົ້າປີ 2023",
+        "share_text": "ສຸກສັນວັນຂອບໃຈພະເຈົ້າປີ 2023! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Historia del Día de Acción de Gracias",
+        "hover_text": "Día de Acción de Gracias 2023",
+        "share_text": "Día de Acción de Gracias 2023! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Pateicības dienas vēsture",
+        "hover_text": "Priecīgu Pateicības dienu — 2023",
+        "share_text": "Priecīgu Pateicības dienu — 2023! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Padėkos dienos istorija",
+        "hover_text": "Su 2023 m. Padėkos diena",
+        "share_text": "Su 2023 m. Padėkos diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Историја на Денот на благодарноста",
+        "hover_text": "Среќен Ден на благодарноста, 2023 г.",
+        "share_text": "Среќен Ден на благодарноста, 2023 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Tantaran'ny Fanomezam-pisaorana",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Sejarah Hari Kesyukuran",
+        "hover_text": "Selamat Hari Kesyukuran 2023",
+        "share_text": "Selamat Hari Kesyukuran 2023! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "താങ്ക്സ് ഗിവിംഗിന്റെ ചരിത്രം",
+        "hover_text": "താങ്ക്‌സ്‌ഗിവിംഗ് ആശംസകൾ 2023",
+        "share_text": "താങ്ക്‌സ്‌ഗിവിംഗ് ആശംസകൾ 2023! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "थँक्सगिव्हिंगचा इतिहास",
+        "hover_text": "थँक्सगिव्हिंग २०२३ च्या शुभेच्छा",
+        "share_text": "थँक्सगिव्हिंग २०२३ च्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Талархлын баярын түүх",
+        "hover_text": "2023 оны Талархлын баярын мэнд хүргэе",
+        "share_text": "2023 оны Талархлын баярын мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "थ्याङ्क्सगिभिङको इतिहास",
+        "hover_text": "थ्याङ्क्सगिभिङ २०२३ को शुभकामना",
+        "share_text": "थ्याङ्क्सगिभिङ २०२३ को शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Historien om Thanksgiving",
+        "hover_text": "God thanksgiving 2023",
+        "share_text": "God thanksgiving 2023! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଥ୍ୟାଙ୍କସ୍‌ଗିଭିଂର ଇତିହାସ",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "تاریخچه روز شکرگزاری",
+        "hover_text": "روز شکرگزاری ۲۰۲۳ مبارک",
+        "share_text": "روز شکرگزاری ۲۰۲۳ مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Historia Święta Dziękczynienia",
+        "hover_text": "Obchodzimy Święto Dziękczynienia 2023",
+        "share_text": "Obchodzimy Święto Dziękczynienia 2023 #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "História do Dia de Ação de Graças",
+        "hover_text": "Feliz Dia de Ação de Graças 2023",
+        "share_text": "Feliz Dia de Ação de Graças 2023! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "História do Dia de Ação de Graças",
+        "hover_text": "Feliz Dia de Ação de Graças de 2023",
+        "share_text": "Feliz Dia de Ação de Graças de 2023! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਧੰਨਵਾਦ ਦਿਵਸ ਦਾ ਇਤਿਹਾਸ",
+        "hover_text": "ਥੈਂਕਸਗਿਵਿੰਗ 2023 ਦੀਆਂ ਵਧਾਈਆਂ",
+        "share_text": "ਥੈਂਕਸਗਿਵਿੰਗ 2023 ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Istoria Zilei Recunoștinței",
+        "hover_text": "Ziua Recunoștinței 2023",
+        "share_text": "Ziua Recunoștinței 2023! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "История Дня благодарения",
+        "hover_text": "День благодарения – 2023",
+        "share_text": "День благодарения – 2023 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Историја Дана захвалности",
+        "hover_text": "Срећан Дан захвалности 2023.",
+        "share_text": "Срећан Дан захвалности 2023! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Istorija Dana zahvalnosti",
+        "hover_text": "Srećan Dan zahvalnosti 2023.",
+        "share_text": "Srećan Dan zahvalnosti 2023! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Listwar Thanksgiving",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "කෘතහස්තත්ව ඉතිහාසය",
+        "hover_text": "ප්‍රීතිමත් තුති පිදීමක් 2023",
+        "share_text": "ප්‍රීතිමත් තුති පිදීමක් 2023! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "História Dňa vďakyvzdania",
+        "hover_text": "Šťastný Deň vďakyvzdania 2023",
+        "share_text": "Šťastný Deň vďakyvzdania 2023! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Zgodovina zahvalnega dneva",
+        "hover_text": "Vesel zahvalni dan 2023",
+        "share_text": "Vesel zahvalni dan 2023! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Taariikhda Thanksgiving",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": "Histori ya Letsatsi la Diteboho",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Historia del Día de Acción de Gracias",
+        "hover_text": "Día de Acción de Gracias 2023",
+        "share_text": "Día de Acción de Gracias 2023! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Historia ya Sikukuu ya Shukrani",
+        "hover_text": "Heri ya Siku ya Shukrani 2023",
+        "share_text": "Heri ya Siku ya Shukrani 2023! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Historien om Thanksgiving",
+        "hover_text": "Glad Thanksgiving 2023",
+        "share_text": "Glad Thanksgiving 2023! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "நன்றி தெரிவித்தல் தினத்தின் வரலாறு",
+        "hover_text": "நன்றி தெரிவித்தல் தின வாழ்த்துகள், 2023",
+        "share_text": "நன்றி தெரிவித்தல் தின வாழ்த்துகள், 2023! #GoogleDoodle"
+      },
+      "te": {
+        "query": "థాంక్స్ గివింగ్ డే హిస్టరీ",
+        "hover_text": "2023 థ్యాంక్స్‌గివింగ్ శుభాకాంక్షలు",
+        "share_text": "2023 థ్యాంక్స్‌గివింగ్ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "ประวัติความเป็นมาของวันขอบคุณพระเจ้า",
+        "hover_text": "สุขสันต์วันขอบคุณพระเจ้าปี 2023",
+        "share_text": "สุขสันต์วันขอบคุณพระเจ้าปี 2023 #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Hisetori ya Letsatsi la Tebogo",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Şükran Günü Tarihi",
+        "hover_text": "2023 Şükran Günü Kutlaması",
+        "share_text": "2023 Şükran Günü'nü kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Історія Дня подяки",
+        "hover_text": "З Днем подяки у 2023 році!",
+        "share_text": "З Днем подяки у 2023 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم تشکر کی سرگزشت",
+        "hover_text": "یوم تشکر 2023 مبارک ہو",
+        "share_text": "یوم تشکر 2023 مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Shukronalik kuni tarixi",
+        "hover_text": "Shukronalik kuni 2023",
+        "share_text": "Shukronalik kuni 2023! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Lịch sử về Lễ tạ ơn",
+        "hover_text": "Mừng Lễ Tạ ơn năm 2023",
+        "share_text": "Mừng Lễ Tạ ơn năm 2023! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Umlando wokunikeza ukubonga",
+        "hover_text": "Usuku Lokubonga Olumnandi lwango-2023",
+        "share_text": "Usuku Lokubonga Olumnandi lwango-2023! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "History of Thanksgiving",
+    "share_text": "Happy Thanksgiving 2023! #GoogleDoodle"
+  },
+  {
     "name": "netherlands-national-elections-2023",
     "title": "Netherlands National Elections 2023",
     "url": "//www.google.com/logos/doodles/2023/netherlands-national-elections-2023-6753651837110159-l.png",
