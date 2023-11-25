@@ -1,5 +1,504 @@
 [
   {
+    "name": "bosnia-herzegovina-statehood-day-2023",
+    "title": "Bosnia & Herzegovina Statehood Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/bosnia-herzegovina-statehood-day-2023-6753651837109974-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/dTiWmkBASyS4Nk4aozx_4hNo7aAWw5kJPW37cbg90bzjkLYCtLG24bJpXqrid77SYPKR1fylPu1aUveIRyHQpxFkoXkoH7WoHR7hxzUzkKXB8CzbZ5GH",
+    "high_res_url": "//www.google.com/logos/doodles/2023/bosnia-herzegovina-statehood-day-2023-6753651837109974-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      11,
+      25
+    ],
+    "translations": {
+      "en": {
+        "query": "Bosnia & Herzegovina Statehood Day",
+        "hover_text": "Bosnia & Herzegovina Statehood Day 2023",
+        "share_text": "Happy Statehood Day, Bosnia & Herzegovina! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Bosnië-Herzegowina se Nasieskapdag",
+        "hover_text": "Bosnië-Herzegowina se Nasieskapdag 2023",
+        "share_text": "Gelukkige Nasieskapdag, Bosnië-Herzegowina! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë së Bosnjë-Hercegovinës",
+        "hover_text": "Dita e Krijimit të Shtetit të Bosnjë-Hercegovinës, 2023",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Bosnjë-Hercegovinë! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የቦስኒያ እና ሄርዘጎቪና የአገርነት ቀን",
+        "hover_text": "የቦስኒያ እና ሄርዘጎቪና የሉዓላዊነት ቀን 2023",
+        "share_text": "መልካም የአገርነት ቀን ቦስኒያ እና ሄርዞጎቪና! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "يوم الدولة في البوسنة والهرسك",
+        "hover_text": "يوم الدولة في البوسنة والهرسك 2023",
+        "share_text": "أطيب الأمنيات بمناسبة يوم الدولة في البوسنة والهرسك. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Բոսնիա և Հերցեգովինայի պետականության օր",
+        "hover_text": "Բոսնիա և Հերցեգովինայի պետականության օր 2023",
+        "share_text": "Շնորհավո՛ր Բոսնիա և Հերցեգովինայի պետականության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Bosniya və Herseqovinanın Dövlətçilik Günü",
+        "hover_text": "2023 Bosniya və Herseqovinanın Dövlətçilik Günü",
+        "share_text": "Dövlətçilik Günün Mübarək, Bosniya və Herseqovina! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "বসনিয়া এবং হার্জেগোভিনার স্টেটহুড দিবস",
+        "hover_text": "বসনিয়া এবং হার্জেগোভিনার স্টেটহুড ডে ২০২৩",
+        "share_text": "স্টেটহুড দিবসের শুভেচ্ছা, বসনিয়া এবং হার্জেগোভিনা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Bosnia-Herzegovinako Egun Nazionala",
+        "hover_text": "2023ko Bosnia-Herzegovinako Egun Nazionala",
+        "share_text": "Egun Nazional zoriontsua izan, Bosnia-Herzegovina! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень дзяржаўнасці Босніі і Герцагавіны",
+        "hover_text": "Дзень дзяржаўнасці Босніі і Герцагавіны 2023",
+        "share_text": "З Днём дзяржаўнасці, Боснія і Герцагавіна! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan Državnosti Bosne i Hercegovine",
+        "hover_text": "Sretan Dan Državnosti Bosne i Hercegovine 2023",
+        "share_text": "Sretan Dan Državnosti Bosne i Hercegovine #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Bosnia & Herzegovina Statehood Day",
+        "hover_text": "Bosnia and Herzegovina Statehood Day 2023",
+        "share_text": "Happy Statehood Day, Bosnia & Herzegovina! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на държавността на Босна и Херцеговина",
+        "hover_text": "Ден на държавността на Босна и Херцеговина 2023 г.",
+        "share_text": "Честит Ден на държавността на Босна и Херцеговина! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဘော့စနီးယားနှင့် ဟာဇီဂိုဗီနား နိုင်ငံထူထောင်ခြင်းနေ့",
+        "hover_text": "၂၀၂၃ ဘော့စနီးယားနှင့် ဟာဇီဂိုဗီနား နိုင်ငံထူထောင်ခြင်းနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် နိုင်ငံထူထောင်ခြင်းနေ့ဖြစ်ပါစေ ဘော့စနီးယားနှင့် ဟာဇီဂိုဗီနား။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de l'Estat de Bòsnia i Hercegovina",
+        "hover_text": "Dia de l'Estat de Bòsnia i Hercegovina 2023",
+        "share_text": "Feliç Dia de l'Estat, Bòsnia i Hercegovina! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "克羅地亞建國日",
+        "hover_text": "2023 年波斯尼亞與黑塞哥維那建國日",
+        "share_text": "波斯尼亞與黑塞哥維那，建國日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "波士尼亞與赫塞哥維納建國日",
+        "hover_text": "2023 年波士尼亞與赫塞哥維納建國日",
+        "share_text": "波士尼亞與赫塞哥維納，建國日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "波斯尼亚和黑塞哥维那建国纪念日",
+        "hover_text": "2023 年波斯尼亚和黑塞哥维那建国纪念日",
+        "share_text": "波斯尼亚和黑塞哥维那，建国纪念日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan Državnosti Bosne i Hercegovine",
+        "hover_text": "Sretan Dan Državnosti Bosne i Hercegovine 2023",
+        "share_text": "Sretan Dan Državnosti Bosne i Hercegovine #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den státnosti Bosny a Hercegoviny",
+        "hover_text": "Den státnosti Bosny a Hercegoviny 2023",
+        "share_text": "Vše nejlepší ke Dni státnosti, Bosno a Hercegovino! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Bosnien-Hercegovinas uafhængighedsdag",
+        "hover_text": "Bosnien-Hercegovinas uafhængighedsdag 2023",
+        "share_text": "Vi fejrer Bosnien-Hercegovinas uafhængighedsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Soevereiniteitsdag Bosnië en Herzegovina",
+        "hover_text": "Soevereiniteitsdag Bosnië en Herzegovina 2023",
+        "share_text": "Fijne Soevereiniteitsdag, Bosnië en Herzegovina! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Bosnia ja Hertsegoviina omariikluse päev",
+        "hover_text": "Bosnia ja Hertsegoviina 2023. aasta omariikluse päev",
+        "share_text": "Head omariikluse päeva, Bosnia ja Hertsegoviina! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Bosnian ja Herzegovinan valtion päivä",
+        "hover_text": "Bosnian ja Herzegovinan valtion päivä 2023",
+        "share_text": "Hyvää valtion päivää, Bosnia ja Herzegovina! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête nationale de la Bosnie-Herzégovine",
+        "hover_text": "Fête nationale de la Bosnie-Herzégovine 2023",
+        "share_text": "Fête nationale de la Bosnie-Herzégovine ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête nationale de la Bosnie-Herzégovine",
+        "hover_text": "Fête nationale de la Bosnie-Herzégovine 2023",
+        "share_text": "Joyeuse fête nationale de la Bosnie-Herzégovine! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día do Estado de Bosnia e Hercegovina",
+        "hover_text": "Día do Estado de Bosnia e Hercegovina 2023",
+        "share_text": "Feliz Día do Estado, Bosnia e Hercegovina! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ბოსნიისა და ჰერცეგოვინის სახელმწიფოებრიობის დღე",
+        "hover_text": "ბოსნიისა და ჰერცეგოვინის სახელმწიფოებრიობის დღე — 2023",
+        "share_text": "ვულოცავთ ბოსნიასა და ჰერცეგოვინას სახელმწიფოებრიობის დღეს #GoogleDoodle"
+      },
+      "de": {
+        "query": "Tag der Staatlichkeit Bosnien und Herzegowina",
+        "hover_text": "Tag der Staatlichkeit Bosnien und Herzegowina 2023",
+        "share_text": "Alles Gute zum Tag der Staatlichkeit in Bosnien und Herzegowina! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα του Κράτους της Βοσνίας και Ερζεγοβίνης",
+        "hover_text": "Ημέρα του Κράτους της Βοσνίας και Ερζεγοβίνης 2023",
+        "share_text": "Γιορτάζουμε την Ημέρα του Κράτους της Βοσνίας και Ερζεγοβίνης! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "બોસ્નિયા અને હર્ઝેગોવિનાનો રાષ્ટ્રપદ દિવસ",
+        "hover_text": "બોસ્નિયા અને હર્ઝેગોવિનાનો રાષ્ટ્રપદ દિવસ 2023",
+        "share_text": "બોસ્નિયા અને હર્ઝેગોવિનાના રાષ્ટ્રપદ દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום המדינה בבוסניה והרצגובינה",
+        "hover_text": "יום המדינה בבוסניה והרצגובינה 2023",
+        "share_text": "יום מדינה שמח לבוסניה והרצגובינה! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "बोस्निया और हर्ज़ेगोविना का राजकीय दिवस",
+        "hover_text": "बोस्निया और हर्ज़ेगोविना का स्टेटहुड डे 2023",
+        "share_text": "राजकीय दिवस की शुभकामनाएं, बोस्निया और हर्ज़ेगोविना! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Az államiság napja Bosznia-Hercegovinában",
+        "hover_text": "Az államiság napja Bosznia-Hercegovinában, 2023",
+        "share_text": "Minden jót az államiság napján, Bosznia-Hercegovina! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Bosníu og Hersegóvínu",
+        "hover_text": "Sjálfstæðisdagur Bosníu og Hersegóvínu 2023",
+        "share_text": "Gleðilegan sjálfstæðisdag, Bosnía og Hersegóvína! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kenegaraan Bosnia & Herzegovina",
+        "hover_text": "Hari Kenegaraan Bosnia dan Herzegovina 2023",
+        "share_text": "Selamat Hari Kenegaraan, Bosnia & Herzegovina! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Státachta na Boisnia agus na Heirseagaivéine",
+        "hover_text": null,
+        "share_text": "Lá Státachta na Boisnia agus na Heirseagaivéine faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa nazionale della Bosnia ed Erzegovina",
+        "hover_text": "Festa nazionale della Bosnia ed Erzegovina 2023",
+        "share_text": "Buona festa nazionale, Bosnia ed Erzegovina! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ボスニア・ヘルツェゴビナ独立記念日",
+        "hover_text": "2023 年ボスニア・ヘルツェゴビナ独立記念日",
+        "share_text": "ボスニア・ヘルツェゴビナ独立記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಬೋಸ್ನಿಯಾ ಮತ್ತು ಹರ್ಜೆಗೋವಿನಾ ರಾಜ್ಯೋತ್ಸವ ದಿನ",
+        "hover_text": "ಬೋಸ್ನಿಯಾ ಮತ್ತು ಹರ್ಜೆಗೋವಿನಾ ಸ್ಟೇಟ್‌ಹುಡ್ ಡೇ 2023",
+        "share_text": "ರಾಜ್ಯೋತ್ಸವ ದಿನದ ಶುಭಾಶಯಗಳು, ಬೋಸ್ನಿಯಾ ಮತ್ತು ಹರ್ಜೆಗೋವಿನಾ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Босния және Герцеговинаның мемлекеттілік күні",
+        "hover_text": "Босния және Герцеговинаның мемлекеттілік күні – 2023",
+        "share_text": "Мемлекеттілік күні құтты болсын, Босния және Герцеговина! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវារំលឹកខួបនៃការបង្កើតរដ្ឋបូស្ន៊ី និង​ហឺស៊ីកូវីណា",
+        "hover_text": "ទិវារំលឹកខួបនៃការបង្កើតរដ្ឋបូស្ន៊ី និងហឺហ្ស៊េហ្គោវីណាឆ្នាំ 2023",
+        "share_text": "អបអរទិវារំលឹកខួបនៃការបង្កើតរដ្ឋបូស្ន៊ី និង​ហឺស៊ីកូវីណា! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "보스니아 헤르체고비나 건국 기념일",
+        "hover_text": "2023년 보스니아 헤르체고비나 건국 기념일",
+        "share_text": "보스니아 헤르체고비나 건국 기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Босния жана Герцеговинанын Мамлекеттүүлүк күнү",
+        "hover_text": "Босния жана Герцеговинанын Мамлекеттүүлүк күнү – 2023",
+        "share_text": "Мамлекеттүүлүк күнүң менен, Босния жана Герцеговина! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນສະຖາປະນາບອສເນຍ ແລະ ເຮີເຊໂກວິນາ",
+        "hover_text": "ວັນສະຖາປະນາບອສເນຍ ແລະ ເຮີເຊໂກວິນາ 2023",
+        "share_text": "ສຸກສັນວັນສະຖາປະນາບອສເນຍ ແລະ ເຮີເຊໂກວິນາ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día del Estado de Bosnia y Herzegovina",
+        "hover_text": "Día del Estado de Bosnia y Herzegovina 2023",
+        "share_text": "¡Feliz Día del Estado, Bosnia y Herzegovina! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Bosnijas un Hercegovinas Valstiskuma diena",
+        "hover_text": "Bosnijas un Hercegovinas Valstiskuma diena — 2023",
+        "share_text": "Sveicam Valstiskuma dienā, Bosnija un Hercegovina! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Bosnijos ir Hercegovinos valstybingumo diena",
+        "hover_text": "Bosnijos ir Hercegovinos valstybingumo diena, 2023 m.",
+        "share_text": "Sveikiname Bosniją ir Hercegoviną su Valstybingumo diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Денот на државноста на Босна и Херцеговина",
+        "hover_text": "Ден на државноста на Босна и Херцеговина, 2023 г.",
+        "share_text": "Среќен Денот на државноста, Босна и Херцеговина! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Bosnia Herzegôvinina",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny fahaleovantena ry Bosnia Herzegôvinina ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kenegaraan Bosnia & Herzegovina",
+        "hover_text": "Hari Kenegaraan Bosnia & Herzegovina 2023",
+        "share_text": "Selamat Menyambut Hari Kenegaraan, Bosnia & Herzegovina! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ബോസ്‌നിയ ആൻഡ് ഹെർസഗോവീന ദേശീയ ദിനം",
+        "hover_text": "ബോസ്‌നിയ ആൻഡ് ഹെർസഗോവീന ദേശീയ ദിനം 2023",
+        "share_text": "ദേശീയ ദിനാശംസകൾ, ബോസ്‌നിയ ആൻഡ് ഹെർസഗോവീന! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "बोस्निया आणि हर्जेगोविनाचा स्टेटहूड डे",
+        "hover_text": "बोस्निया आणि हर्जेगोव्हिनाचा स्टेटहूड डे २०२३",
+        "share_text": "बोस्निया आणि हर्जेगोविनाला स्टेटहूड डेच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Босни-Херцеговиний Төрт улсын өдөр",
+        "hover_text": "2023 оны Босни-Херцеговиний Төрт Улсын өдөр",
+        "share_text": "Босни-Херцеговин улсын ард иргэдэд Төрт улсын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "बोस्निया एन्ड हर्जेगोभिनाको राजकीय दिवस",
+        "hover_text": "बोस्निया एन्ड हर्जेगोभिनाको राजकीय दिवस २०२३",
+        "share_text": "राजकीय दिवसको शुभकामना, बोस्निया एन्ड हर्जेगोभिना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Bosnia-Hercegovinas selvstendighetsdag",
+        "hover_text": "Bosnia-Hercegovinas selvstendighetsdag 2023",
+        "share_text": "Gratulerer med selvstendighetsdagen, Bosnia-Hercegovina! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ବୋସନିଆ ଏବଂ ହର୍ଜେଗୋଭିନାର ରାଷ୍ଟ୍ର ମାନ୍ୟତା ଦିବସ",
+        "hover_text": "ବୋସନିଆ ଓ ହର୍ଜେଗୋଭିନାର ରାଷ୍ଟ୍ର ମାନ୍ୟତା ଦିବସ 2023",
+        "share_text": "ବୋସନିଆ ଏବଂ ହର୍ଜେଗୋଭିନାର ରାଷ୍ଟ୍ର ମାନ୍ୟତା ଦିବସର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال بوسنی و هرزگوین",
+        "hover_text": "روز استقلال بوسنی و هرزگوین - ۲۰۲۳",
+        "share_text": "روز استقلال بوسنی و هرزگوین مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Państwowości Bośni i Hercegowiny",
+        "hover_text": "Dzień Państwowości Bośni i Hercegowiny 2023",
+        "share_text": "Bośnia i Hercegowina obchodzi Dzień Państwowości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia do Estado da Bósnia e Herzegovina",
+        "hover_text": "Dia do Estado da Bósnia e Herzegovina 2023",
+        "share_text": "Feliz Dia do Estado, Bósnia e Herzegovina! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia do Estado da Bósnia-Herzegovina",
+        "hover_text": "Dia do Estado da Bósnia-Herzegovina de 2023",
+        "share_text": "Feliz Dia do Estado, Bósnia-Herzegovina! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਬੋਸਨੀਆ ਅਤੇ ਹਰਜ਼ੇਗੋਵੀਨਾ ਦਾ ਰਾਜ ਦਿਵਸ",
+        "hover_text": "ਬੋਸਨੀਆ ਅਤੇ ਹਰਜ਼ੇਗੋਵੀਨਾ ਦਾ ਰਾਜ ਦਿਵਸ 2023",
+        "share_text": "ਰਾਜ ਦਿਵਸ ਦੀ ਵਧਾਈਆਂ, ਬੋਸਨੀਆ ਅਤੇ ਹਰਜ਼ੇਗੋਵੀਨਾ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Statului Bosnia și Herțegovina",
+        "hover_text": "Ziua Statului Bosnia și Herțegovina – 2023",
+        "share_text": "La mulți ani de Ziua Statului, Bosnia și Herțegovina! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День государственности Боснии и Герцеговины",
+        "hover_text": "День государственности Боснии и Герцеговины – 2023",
+        "share_text": "День государственности Боснии и Герцеговины #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Dan Državnosti Bosne i Hercegovine",
+        "hover_text": "Srećan Dan Državnosti Bosne i Hercegovine 2023",
+        "share_text": "Srećan Dan Državnosti Bosne i Hercegovine #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan državnosti Bosne i Hercegovine",
+        "hover_text": "Dan državnosti Bosne i Hercegovine 2023.",
+        "share_text": "Čestitamo Dan državnosti Bosni i Hercegovini! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Bosnia & Herzegovina Statehood",
+        "hover_text": null,
+        "share_text": "Bonn zournen Statehood, Bosnia & Herzegovina! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "බොස්නියා සහ හර්සගොවිනා රාජ්‍යත්වයේ දිනය",
+        "hover_text": "බොස්නියා සහ හර්සගොවිනා රාජ්‍යත්වයේ දිනය 2023",
+        "share_text": "ප්‍රීතිමත් රාජ්‍යත්වයේ දිනයක්, බොස්නියා සහ හර්සගොවිනා! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň štátnosti Bosny a Hercegoviny",
+        "hover_text": "Deň štátnosti Bosny a Hercegoviny 2023",
+        "share_text": "Šťastný Deň štátnosti, Bosna a Hercegovina! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan državnosti Bosne in Hercegovine",
+        "hover_text": "Dan državnosti Bosne in Hercegovine 2023",
+        "share_text": "Vesel dan državnosti, Bosna in Hercegovina! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Qaranimada Bosnia & Herzegovina",
+        "hover_text": null,
+        "share_text": "Maalinta Qaranimada Farxada leh, Bosnia & Herzegovina! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la Bosnia & Herzegovina",
+        "hover_text": null,
+        "share_text": "Mahlohonolo a Letsatsi la Tokoloho la Bosnia & Herzegovina #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día del Estado de Bosnia y Herzegovina",
+        "hover_text": "Día del Estado de Bosnia y Herzegovina 2023",
+        "share_text": "¡Feliz Día del Estado de Bosnia y Herzegovina! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Majimbo ya Bosnia na Hezegovina",
+        "hover_text": "Sikukuu ya Nchi ya Bosnia na Hezegovina 2023",
+        "share_text": "Heri za Sikukuu ya Majimbo ya Bosnia na Herzegovina! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Bosnien och Hercegovinas nationaldag",
+        "hover_text": "Bosnien och Hercegovinas nationaldag 2023",
+        "share_text": "Vi firar Bosnien och Hercegovinas nationaldag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "போஸ்னியா & ஹெர்சிகோவினா தேசிய தினம்",
+        "hover_text": "போஸ்னியா மற்றும் ஹெர்ஸெகோவினாவின் தேசிய தினம் 2023",
+        "share_text": "போஸ்னியா & ஹெர்சிகோவினா தேசிய தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "బోస్నియా & హెర్జిగోవినా స్టేట్‌హుడ్ దినోత్సవం",
+        "hover_text": "బోస్నియా & హెర్జెగొవీనా స్టేట్‌హుడ్ డే 2023",
+        "share_text": "స్టేట్‌హుడ్ దినోత్సవం, బోస్నియా & హెర్జిగోవినా శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันสถาปนารัฐบอสเนียและเฮอร์เซโกวีนา",
+        "hover_text": "วันสถาปนาบอสเนียและเฮอร์เซโกวีนาปี 2023",
+        "share_text": "สุขสันต์วันสถาปนารัฐของบอสเนียและเฮอร์เซโกวีนา #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la go Nna Naga ga Bosnia le Herzegovina",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la go Nna Naga, Bosnia le Herzegovina! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Bosna Hersek Bağımsızlık Günü",
+        "hover_text": "2023 Bosna Hersek Devlet Günü",
+        "share_text": "Bosna Hersek Bağımsızlık Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День державності Боснії і Герцеговини",
+        "hover_text": "День державності Боснії і Герцеговини у 2023 році",
+        "share_text": "З Днем державності, Босніє і Герцеговино! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "بوسنیا و ہرزیگوینا کا یوم ریاست",
+        "hover_text": "بوسنیا اور ہرزگوینا کا یوم ریاست 2023",
+        "share_text": "بوسنیا و ہرزیگوینا کا یوم ریاست مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Bosniya va Gersegovinaning davlatchilik kuni",
+        "hover_text": "Bosniya va Gersegovina Davlatchilik kuni 2023",
+        "share_text": "Bosniya va Gersegovinaning davlatchilik kuni muborak #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Lập bang của Bosnia và Herzegovina",
+        "hover_text": "Ngày Quốc khánh Liên bang Bosnia và Herzegovina năm 2023",
+        "share_text": "Chào mừng Ngày Lập bang của Bosnia và Herzegovina! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lwe-Bosnia ne-Herzegovina Statehood",
+        "hover_text": "Usuku lwe-Bosnia ne-Herzegovina Statehood lwango-2023",
+        "share_text": "Jabulela usuku lwe-Statehood, Bosnia ne-Herzegovina! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Bosnia & Herzegovina Statehood Day",
+    "share_text": "Happy Statehood Day, Bosnia & Herzegovina! #GoogleDoodle"
+  },
+  {
     "name": "teachers-day-2023-nov-24",
     "title": "Teachers' Day 2023 (Nov 24)",
     "url": "//www.google.com/logos/doodles/2023/teachers-day-2023-nov-24-6753651837109973-law.gif",
