@@ -1,5 +1,1003 @@
 [
   {
+    "name": "albania-independence-day-2023",
+    "title": "Albania Independence Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/albania-independence-day-2023-6753651837109977-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/ZFSEtTCjv-C7UoUt4qnUb7n-BTr07aAI57eOkvQeDuwEEFWd7LLqPIJs0eudubWnycy-lY5SYX9bOA_O1MRN3n2qaRW1LLTz7-k4fCUqF8KDVz9aszkiEQ",
+    "high_res_url": "//www.google.com/logos/doodles/2023/albania-independence-day-2023-6753651837109977-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      11,
+      28
+    ],
+    "translations": {
+      "en": {
+        "query": "Albania Independence Day",
+        "hover_text": "Albania Independence Day 2023",
+        "share_text": "Happy Independence Day, Albania! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Albanië se onafhanklikheidsdag",
+        "hover_text": "Albanië se onafhanklikheidsdag 2023",
+        "share_text": "Gelukkige Onafhanklikheidsdag, Albanië! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë së Shqipërisë",
+        "hover_text": "Dita e Pavarësisë së Shqipërisë, 2023",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Shqipëri #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአልባኒያ ነፃነት ቀን",
+        "hover_text": "የአልባኒያ የነፃነት ቀን 2023",
+        "share_text": "መልካም የነፃነት ቀን አልባኒያ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال ألبانيا",
+        "hover_text": "عيد استقلال ألبانيا 2023",
+        "share_text": "نتمنّى لألبانيا عيد استقلال سعيدًا. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ալբանիայի անկախության օր",
+        "hover_text": "Ալբանիայի անկախության օր 2023",
+        "share_text": "Շնորհավո՛ր Ալբանիայի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Albaniyanın Müstəqillik Günü",
+        "hover_text": "2023 Albaniyanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Albaniya! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "আলবেনিয়ার স্বাধীনতা দিবস",
+        "hover_text": "আলবেনিয়ার স্বাধীনতা দিবস ২০২৩",
+        "share_text": "স্বাধীনতা দিবসের শুভেচ্ছা, আলবেনিয়া! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Albaniako Independentzia Eguna",
+        "hover_text": "2023ko Albaniako Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Albania! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Албаніі",
+        "hover_text": "Дзень незалежнасці Албаніі 2023",
+        "share_text": "З Днём незалежнасці, Албанія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Albanije",
+        "hover_text": "Dan nezavisnosti Albanije 2023.",
+        "share_text": "Sretan Dan nezavisnosti, Albanijo! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Albania Independence Day",
+        "hover_text": "Albania Independence Day 2023",
+        "share_text": "Happy Independence Day, Albania! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Албания",
+        "hover_text": "Ден на независимостта на Албания 2023 г.",
+        "share_text": "Честит Ден на независимостта на Албания! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အယ်လ်ဘေးနီးယား လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၃ အယ်လ်ဘေးနီးယားနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ ဖြစ်ပါစေ အယ်လ်ဘေးနီးယား။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència d'Albània",
+        "hover_text": "Dia de la Independència d'Albània 2023",
+        "share_text": "Feliç Dia de la Independència, Albània! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "阿爾巴尼亞獨立日",
+        "hover_text": "2023 年阿爾巴尼亞獨立日",
+        "share_text": "阿爾巴尼亞，獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "阿爾巴尼亞獨立紀念日",
+        "hover_text": "2023 年阿爾巴尼亞獨立紀念日",
+        "share_text": "阿爾巴尼亞，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "阿尔巴尼亚独立日",
+        "hover_text": "2023 年阿尔巴尼亚独立日",
+        "share_text": "阿尔巴尼亚，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Albanije",
+        "hover_text": "Dan neovisnosti Albanije 2023.",
+        "share_text": "Sretan Dan neovisnosti, Albanija! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Albánie",
+        "hover_text": "Den nezávislosti Albánie 2023",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Albánie! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Albaniens uafhængighedsdag",
+        "hover_text": "Albaniens uafhængighedsdag 2023",
+        "share_text": "Vi fejrer Albaniens uafhængighedsdag! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Albanië",
+        "hover_text": "Onafhankelijkheidsdag Albanië 2023",
+        "share_text": "Fijne Onafhankelijkheidsdag, Albanië! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Albaania iseseisvuspäev",
+        "hover_text": "Albaania 2023. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Albaania! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Albanian itsenäisyyspäivä",
+        "hover_text": "Albanian itsenäisyyspäivä 2023",
+        "share_text": "Hyvää itsenäisyyspäivää, Albania! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance de l'Albanie",
+        "hover_text": "Fête de l'Indépendance de l'Albanie 2023",
+        "share_text": "Fête de l'Indépendance de l'Albanie ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance de l'Albanie",
+        "hover_text": "Fête de l'Indépendance de l'Albanie 2023",
+        "share_text": "Joyeux jour de l'indépendance de l'Albanie! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Albania",
+        "hover_text": "Día da Independencia de Albania 2023",
+        "share_text": "Feliz Día da Independencia, Albania! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ალბანეთის დამოუკიდებლობის დღე",
+        "hover_text": "ალბანეთის დამოუკიდებლობის დღე — 2023",
+        "share_text": "ვულოცავთ ალბანეთს დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Albanien",
+        "hover_text": "Unabhängigkeitstag Albanien 2023",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Albanien! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας Αλβανίας",
+        "hover_text": "Ημέρα Ανεξαρτησίας της Αλβανίας 2023",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας της Αλβανίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "આલ્બેનિયાનો સ્વતંત્રતા દિવસ",
+        "hover_text": "આલ્બેનિયાનો સ્વતંત્રતા દિવસ 2023",
+        "share_text": "આલ્બેનિયાના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של אלבניה",
+        "hover_text": "יום העצמאות של אלבניה 2023",
+        "share_text": "יום עצמאות שמח לאלבניה! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "अल्बानिया का स्वतंत्रता दिवस",
+        "hover_text": "अल्बानिया का स्वतंत्रता दिवस 2023",
+        "share_text": "स्वतंत्रता दिवस की शुभकानाएं, अल्बानिया! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Albánia függetlenségének napja",
+        "hover_text": "Albánia függetlenségének napja, 2023",
+        "share_text": "Minden jót a függetlenség napján, Albánia! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þjóðhátíðardagur Albaníu",
+        "hover_text": "Þjóðhátíðardagur Albaníu 2023",
+        "share_text": "Gleðilegan þjóðhátíðardag, Albanía! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Albania",
+        "hover_text": "Hari Kemerdekaan Albania 2023",
+        "share_text": "Selamat Hari Kemerdekaan, Albania! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse na hAlbáine",
+        "hover_text": null,
+        "share_text": "Lá Saoirse na hAlbáine faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza dell'Albania",
+        "hover_text": "Festa dell'indipendenza dell'Albania 2023",
+        "share_text": "Buona festa dell'indipendenza, Albania! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "アルバニア独立記念日",
+        "hover_text": "2023 年アルバニア独立記念日",
+        "share_text": "アルバニア独立記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಅಲ್ಬೇನಿಯಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಅಲ್ಬೇನಿಯಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2023",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಅಲ್ಬೇನಿಯಾ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Албанияның Тәуелсіздік күні",
+        "hover_text": "Албанияның Тәуелсіздік күні – 2023",
+        "share_text": "Тәуелсіздік күні құтты болсын, Албания! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យឯករាជ្យជាតិ​អាល់បានី",
+        "hover_text": "ទិវា​បុណ្យឯករាជ្យជាតិ​អាល់បានីឆ្នាំ 2023",
+        "share_text": "អបអរទិវា​បុណ្យឯករាជ្យជាតិ​អាល់បានី! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "알바니아 독립기념일",
+        "hover_text": "2023년 알바니아 독립기념일",
+        "share_text": "알바니아 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Албаниянын Эгемендүүлүк күнү",
+        "hover_text": "Албаниянын Эгемендүүлүк күнү – 2023",
+        "share_text": "Эгемендүүлүк күнүң менен, Албания! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດອັລບາເນຍ",
+        "hover_text": "ວັນປະກາດເອກະລາດອັລບາເນຍ 2023",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດອັລບາເນຍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Albania",
+        "hover_text": "Día de la Independencia de Albania 2023",
+        "share_text": "¡Feliz Día de la Independencia, Albania! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Albānijas Neatkarības diena",
+        "hover_text": "Albānijas Neatkarības diena — 2023",
+        "share_text": "Sveicam Neatkarības dienā, Albānija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Albanijos nepriklausomybės diena",
+        "hover_text": "Albanijos nepriklausomybės diena, 2023 m.",
+        "share_text": "Sveikiname Albaniją su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Албанија",
+        "hover_text": "Ден на независноста на Албанија, 2023 г.",
+        "share_text": "Среќен Ден на независноста, Албанија! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Albania",
+        "hover_text": null,
+        "share_text": "Fetin'ny fahaleovantenan'i Albania 2021 ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Albania",
+        "hover_text": "Hari Kemerdekaan Albania 2023",
+        "share_text": "Selamat Hari Kemerdekaan, Albania! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "അൽബേനിയൻ സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "അൽബേനിയൻ സ്വാതന്ത്ര്യദിനം 2023",
+        "share_text": "സ്വാതന്ത്ര്യ ദിനാശംസകൾ, അൽബേനിയ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "अल्बानियाचा स्वातंत्र्यदिन",
+        "hover_text": "अल्बेनियाचा स्वातंत्र्यदिन २०२३",
+        "share_text": "अल्बानियाला स्वातंत्र्यदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Албани улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2023 оны Албани Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Албани улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "अल्बेनियाको स्वतन्त्रता दिवस",
+        "hover_text": "अल्बेनियाको स्वतन्त्रता दिवस २०२३",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, अल्बेनिया! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Albanias frigjøringsdag",
+        "hover_text": "Albanias frigjøringsdag 2023",
+        "share_text": "Gratulerer med frigjøringsdagen, Albania! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଆଲବାନିଆର ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": "ଆଲବାନିଆର ସ୍ୱାଧୀନତା ଦିବସ 2023",
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, ଆଲବାନିଆ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال آلبانی ۲۰۲۱",
+        "hover_text": "روز استقلال آلبانی - ۲۰۲۳",
+        "share_text": "روز استقلال آلبانی مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Niepodległości Albanii",
+        "hover_text": "Dzień Niepodległości Albanii 2023",
+        "share_text": "Albania obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência da Albânia",
+        "hover_text": "Dia da Independência da Albânia 2023",
+        "share_text": "Feliz Dia da Independência, Albânia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência da Albânia",
+        "hover_text": "Dia da Independência da Albânia de 2023",
+        "share_text": "Feliz dia da independência, Albânia! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਅਲਬਾਨੀਆ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ",
+        "hover_text": "ਅਲਬਾਨੀਆ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2023",
+        "share_text": "ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਅਲਬਾਨੀਆ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței în Albania",
+        "hover_text": "Ziua Independenței în Albania – 2023",
+        "share_text": "La mulți ani de Ziua Independenței, Albania! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Албании",
+        "hover_text": "День независимости Албании – 2023",
+        "share_text": "День независимости Албании #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Албаније",
+        "hover_text": "Дан независности Албаније 2023.",
+        "share_text": "Честитамо Дан независности Албанији! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Albanije",
+        "hover_text": "Dan nezavisnosti Albanije 2023.",
+        "share_text": "Čestitamo Dan nezavisnosti Albaniji! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepandans Albania",
+        "hover_text": null,
+        "share_text": "Bonn zournen lendepandans, Albania! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ඇල්බේනියාවේ නිදහස් දිනය",
+        "hover_text": "ඇල්බේනියාවේ නිදහස් දිනය 2023",
+        "share_text": "ප්‍රීතිමත් නිදහස් දිනයක්, ඇල්බේනියාව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Albánska",
+        "hover_text": "Deň nezávislosti Albánska 2023",
+        "share_text": "Šťastný Deň nezávislosti, Albánsko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Albanije",
+        "hover_text": "Dan neodvisnosti Albanije 2023",
+        "share_text": "Vesel dan neodvisnosti, Albanija! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madaxbanaanida lbaaniya",
+        "hover_text": null,
+        "share_text": "Maalinta Madaxbanaanida lbaaniya! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Boipuso la Albania",
+        "hover_text": null,
+        "share_text": "Mahlohonolo a Letsatsi la Boipuso, Albania! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Albania",
+        "hover_text": "Día de la Independencia de Albania 2023",
+        "share_text": "¡Feliz Día de la Independencia de Albania! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Albania",
+        "hover_text": "Sikukuu ya Uhuru wa Albania 2023",
+        "share_text": "Heri za Sikukuu ya Uhuru wa Albania! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Albaniens självständighetsdag",
+        "hover_text": "Albaniens självständighetsdag 2023",
+        "share_text": "Vi firar Albaniens självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "அல்பேனியா சுதந்திர தினம்",
+        "hover_text": "அல்பேனியா சுதந்திர தினம் 2023",
+        "share_text": "அல்பேனியா சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "అల్బేనియా స్వాతంత్య్ర దినోత్సవం",
+        "hover_text": "అల్బేనియా స్వాతంత్య్ర దినోత్సవం 2023",
+        "share_text": "స్వాతంత్య్ర దినోత్సవ శుభాకాంక్షలు, అల్బేనియా! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของแอลเบเนีย",
+        "hover_text": "วันประกาศอิสรภาพของแอลเบเนียปี 2023",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของแอลเบเนีย #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Albania",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, Albania! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Arnavutluk Bağımsızlık Günü",
+        "hover_text": "2023 Arnavutluk Bağımsızlık Günü",
+        "share_text": "Arnavutluk Bağımsızlık Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Албанії",
+        "hover_text": "День незалежності Албанії у 2023 році",
+        "share_text": "З Днем незалежності, Албаніє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "البانیہ کا یوم آزادی",
+        "hover_text": "البانیہ کا یوم آزادی 2023",
+        "share_text": "البانیہ کا یوم آزادی مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Mustaqillik kuni muborak",
+        "hover_text": "Albaniya Mustaqillik kuni 2023",
+        "share_text": "Mustaqillik kuni muborak, Albaniya! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Quốc khánh Albania",
+        "hover_text": "Ngày Quốc khánh Albania năm 2023",
+        "share_text": "Chào mừng Ngày Quốc khánh Albania! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lokuzimela le-Albania",
+        "hover_text": "Usuku Lokuzimela Lwase-Albania lwango-2023",
+        "share_text": "Jabulela Usuku Lokuzimela, Albania! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Albania Independence Day",
+    "share_text": "Happy Independence Day, Albania! #GoogleDoodle"
+  },
+  {
+    "name": "celebrating-clorindo-testa",
+    "title": "Celebrating Clorindo Testa",
+    "url": "//www.google.com/logos/doodles/2023/celebrating-clorindo-testa-6753651837109986-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/Fwx9WyOci_s9dxJRyJBk8hV9lNvYuqXT78NiJEfCUZWFkcF1cIq_kC7tVvFMG2jUXd9w4Sb6lRmJsar-G9dtwfS17Csotr1024rUEdat7UrvQqAl2DzQ",
+    "high_res_url": "//www.google.com/logos/doodles/2023/celebrating-clorindo-testa-6753651837109986-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2023,
+      11,
+      27
+    ],
+    "translations": {
+      "en": {
+        "query": "Clorindo Testa",
+        "hover_text": "Clorindo Testa's 100th Birthday",
+        "share_text": "Clorindo Testa's 100th Birthday! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Clorindo Testa",
+        "hover_text": "Clorindo Testa se 100e verjaarsdag",
+        "share_text": "Clorindo Testa se 100e verjaarsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Clorindo Testa",
+        "hover_text": "100-vjetori i lindjes së Clorindo Testa",
+        "share_text": "100-vjetori i lindjes së Clorindo Testa! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ክሎሪንዶ ቴስታ",
+        "hover_text": "የክሎሪንዶ ቴስታ 100ኛ ልደት",
+        "share_text": "የክሎሪንዶ ቴስታ 100ኛ ልደት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "كلوريندو تيستا",
+        "hover_text": "الذكرى 100 لميلاد \"كلوريندو تيستا\"",
+        "share_text": "نحيي اليوم الذكرى 100 لميلاد \"كلوريندو تيستا\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Կլորինդո Տեստա",
+        "hover_text": "Կլորինդո Տեստայի ծննդյան 100-ամյակը",
+        "share_text": "Կլորինդո Տեստայի ծննդյան 100-ամյակը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Clorindo Testa",
+        "hover_text": "Clorindo Testa'nın 100-cü ildönümü",
+        "share_text": "Clorindo Testa'nın 100-cü ildönümü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ক্লোরিন্ডো টেস্টা",
+        "hover_text": "ক্লোরিন্ডো টেস্টার ১০০তম জন্মদিন",
+        "share_text": "ক্লোরিন্ডো টেস্টার ১০০তম জন্মদিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Clorindo Testa",
+        "hover_text": "Clorindo Testaren jaiotzaren 100. urteurrena",
+        "share_text": "Clorindo Testaren jaiotzaren 100. urteurrena #GoogleDoodle"
+      },
+      "be": {
+        "query": "Кларында Тэста",
+        "hover_text": "100 гадоў з дня нараджэння Кларында Тэста",
+        "share_text": "100 гадоў з дня нараджэння Кларында Тэста! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Clorindo Testa",
+        "hover_text": "100 godina od rođenja Clorinda Teste",
+        "share_text": "100 godina od rođenja Clorinda Teste! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Clorindo Testa",
+        "hover_text": "Clorindo Testa's 100th Birthday",
+        "share_text": "Clorindo Testa's 100th Birthday! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Клориндо Теста",
+        "hover_text": "100 години от рождението на Клориндо Теста",
+        "share_text": "100 години от рождението на Клориндо Теста! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Clorindo Testa",
+        "hover_text": "Clorindo Testa ၏ နှစ် ၁၀၀ ပြည့်မွေးနေ့",
+        "share_text": "Clorindo Testa ၏ နှစ် ၁၀၀ ပြည့်မွေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Clorindo Testa",
+        "hover_text": "100è aniversari del naixement de Clorindo Testa",
+        "share_text": "100è aniversari del naixement de Clorindo Testa #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Clorindo Testa",
+        "hover_text": "Clorindo Testa 誕辰 100 週年",
+        "share_text": "Clorindo Testa 誕辰 100 週年！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "克洛林多特斯塔",
+        "hover_text": "克洛林多特斯塔 100 歲冥誕",
+        "share_text": "紀念克洛林多特斯塔 100 歲冥誕！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "克洛林多·特斯塔",
+        "hover_text": "克洛林多·特斯塔诞辰 100 周年",
+        "share_text": "克洛林多·特斯塔诞辰 100 周年！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Clorindo Testa",
+        "hover_text": "100. godišnjica rođenja Clorinda Teste",
+        "share_text": "100. godišnjica rođenja Clorinda Teste! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Clorindo Testa",
+        "hover_text": "100. výročí narození Clorindo Testy",
+        "share_text": "Slavíme 100. výročí narození Clorindo Testy! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Clorindo Testa",
+        "hover_text": "Clorindo Testas 100-års fødselsdag",
+        "share_text": "Clorindo Testas 100-års fødselsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Clorindo Testa",
+        "hover_text": "100e geboortedag van Clorindo Testa",
+        "share_text": "100e geboortedag van Clorindo Testa! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Clorindo Testa",
+        "hover_text": "Clorindo Testa 100. sünniaastapäev",
+        "share_text": "Clorindo Testa 100. sünniaastapäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Clorindo Testa",
+        "hover_text": "100 vuotta Clorindo Testan syntymästä",
+        "share_text": "100 vuotta Clorindo Testan syntymästä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Clorindo Testa",
+        "hover_text": "Il y a 100 ans naissait Clorindo Testa",
+        "share_text": "100e anniversaire de Clorindo Testa #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Clorindo Testa",
+        "hover_text": "100ᵉ anniversaire de naissance de Clorindo Testa",
+        "share_text": "100ᵉ anniversaire de naissance de Clorindo Testa! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Clorindo Testa",
+        "hover_text": "100.º aniversario do nacemento de Clorindo Testa",
+        "share_text": "100.º aniversario do nacemento de Clorindo Testa! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "კლორინდო ტესტა",
+        "hover_text": "100 წელი კლორინდო ტესტას დაბადებიდან",
+        "share_text": "100 წელი კლორინდო ტესტას დაბადებიდან! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Clorindo Testa",
+        "hover_text": "100. Geburtstag von Clorindo Testa",
+        "share_text": "100. Geburtstag von Clorindo Testa! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Clorindo Testa",
+        "hover_text": "100 χρόνια από τη γέννηση του Clorindo Testa",
+        "share_text": "100 χρόνια από τη γέννηση του Clorindo Testa! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ક્લૉરિન્દો તેસ્તા",
+        "hover_text": "ક્લૉરિન્દો તેસ્તાનો 100મો જન્મદિવસ",
+        "share_text": "ક્લૉરિન્દો તેસ્તાનો 100મો જન્મદિવસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Clorindo Testa",
+        "hover_text": "100 שנים להולדת קלורינדו טסטה",
+        "share_text": "100 שנים להולדת קלורינדו טסטה GoogleDoodle#"
+      },
+      "hi": {
+        "query": "क्लोरिंदो तेस्ता",
+        "hover_text": "क्लोरिंदो तेस्ता की 100वीं जयंती",
+        "share_text": "क्लोरिंदो तेस्ता की 100वीं जयंती! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Clorindo Testa",
+        "hover_text": "Clorindo Testa születésének 100. évfordulója",
+        "share_text": "Clorindo Testa születésének 100. évfordulója #GoogleDoodle"
+      },
+      "is": {
+        "query": "Clorindo Testa",
+        "hover_text": "100 ár frá fæðingu Clorindo Testa",
+        "share_text": "100 ár frá fæðingu Clorindo Testa! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Clorindo Testa",
+        "hover_text": "Ulang Tahun Ke-100 Clorindo Testa",
+        "share_text": "Ulang Tahun Ke-100 Clorindo Testa #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Clorindo Testa",
+        "hover_text": "100° anniversario della nascita di Clorindo Testa",
+        "share_text": "100° anniversario della nascita di Clorindo Testa! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "クロリンド・テスタ",
+        "hover_text": "クロリンド・テスタ生誕 100 周年",
+        "share_text": "クロリンド・テスタ生誕 100 周年 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಕ್ಲೊರಿಂದೊ ತೆಸ್ತಾ",
+        "hover_text": "ಕ್ಲೊರಿಂದೊ ತೆಸ್ತಾ ಅವರ 100ನೇ ಜನ್ಮದಿನ",
+        "share_text": "ಕ್ಲೊರಿಂದೊ ತೆಸ್ತಾ ಅವರ 100ನೇ ಜನ್ಮದಿನ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Клориндо Теста",
+        "hover_text": "Клориндо Тестаның 100 жылдығы",
+        "share_text": "Клориндо Тестаның 100 жылдығы! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Clorindo Testa",
+        "hover_text": "ខួបកំណើតគម្រប់ 100 ឆ្នាំ​របស់ Clorindo Testa",
+        "share_text": "ខួបកំណើតគម្រប់ 100 ឆ្នាំ​របស់ Clorindo Testa! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Clorindo Testa",
+        "hover_text": "Clorindo Testa 탄생 100주년",
+        "share_text": "Clorindo Testa 탄생 100주년 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Клориндо Теста",
+        "hover_text": "Клориндо Тестанын 100 жаш мааракеси",
+        "share_text": "Клориндо Тестанын 100 жаш мааракеси! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Clorindo Testa",
+        "hover_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 100 ປີຂອງ Clorindo Testa",
+        "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 100 ປີຂອງ Clorindo Testa! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Clorindo Testa",
+        "hover_text": "Homenaje a Clorindo Testa",
+        "share_text": "Homenaje a Clorindo Testa. #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Klorindo Testa",
+        "hover_text": "Klorindo Testas 100. dzimšanas diena",
+        "share_text": "Klorindo Testas 100. dzimšanas diena! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Clorindo Testa",
+        "hover_text": "100-asis Clorindo Testos gimtadienis",
+        "share_text": "100-asis Clorindo Testos gimtadienis! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Clorindo Testa",
+        "hover_text": "100. роденден на Clorindo Testa",
+        "share_text": "100. роденден на Clorindo Testa! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Clorindo Testa",
+        "hover_text": "Ulang Tahun Kelahiran Clorindo Testa yang ke-100",
+        "share_text": "Ulang Tahun Kelahiran Clorindo Testa yang ke-100! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Clorindo Testa",
+        "hover_text": "Clorindo Testa-യുടെ 100-ാം ജന്മദിനം",
+        "share_text": "Clorindo Testa-യുടെ 100-ാം ജന്മദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "क्लोरिंदो तेस्ता",
+        "hover_text": "क्लोरिंदो तेस्ता यांचा १०० वा स्मृतिदिन",
+        "share_text": "क्लोरिंदो तेस्ता यांचा १०० वा स्मृतिदिन! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Клориндо Теста",
+        "hover_text": "Клориндо Тестагийн мэндэлсний 100 жилийн ой",
+        "share_text": "Клориндо Тестагийн мэндэлсний 100 жилийн ой! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Clorindo Testa",
+        "hover_text": "Clorindo Testa को १०० औँ जन्मजयन्ती",
+        "share_text": "Clorindo Testa को १०० औँ जन्मजयन्ती! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Clorindo Testa",
+        "hover_text": "Clorindo Testas 100-årsdag",
+        "share_text": "Clorindo Testas 100-årsdag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "କ୍ଲୋରିଣ୍ଡୋ ଟେଷ୍ଟା",
+        "hover_text": "କ୍ଲୋରିଣ୍ଡୋ ଟେଷ୍ଟାଙ୍କ 100ତମ ଜନ୍ମଦିନ",
+        "share_text": "କ୍ଲୋରିଣ୍ଡୋ ଟେଷ୍ଟାଙ୍କ 100ତମ ଜନ୍ମଦିନ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "کلوریندو تستا",
+        "hover_text": "صدمین زادروز کلوریندو تستا",
+        "share_text": "صدمین زادروز کلوریندو تستا! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Clorindo Testa",
+        "hover_text": "Clorindo Testa – 100 rocznica urodzin",
+        "share_text": "Clorindo Testa – 100 rocznica urodzin #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Clorindo Testa",
+        "hover_text": "100º aniversário de Clorindo Testa",
+        "share_text": "100º aniversário de Clorindo Testa #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Clorindo Testa",
+        "hover_text": "100.º Aniversário de Clorindo Testa",
+        "share_text": "100.º Aniversário de Clorindo Testa! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Clorindo Testa",
+        "hover_text": "ਕਲੋਰਿੰਡੋ ਟੈਸਟਾ ਦਾ 100ਵਾਂ ਜਨਮਦਿਨ",
+        "share_text": "ਕਲੋਰਿੰਡੋ ਟੈਸਟਾ ਦਾ 100ਵਾਂ ਜਨਮਦਿਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Clorindo Testa",
+        "hover_text": "100 de ani de la nașterea lui Clorindo Testa",
+        "share_text": "100 de ani de la nașterea lui Clorindo Testa! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Клориндо Теста",
+        "hover_text": "100 лет со дня рождения Клориндо Тесты",
+        "share_text": "100 лет со дня рождения Клориндо Тесты #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Клориндо Теста",
+        "hover_text": "100 година од рођења Клоринда Тесте!",
+        "share_text": "100 година од рођења Клоринда Тесте #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Klorindo Testa",
+        "hover_text": "100 godina od rođenja Klorinda Teste!",
+        "share_text": "100 godina od rođenja Klorinda Teste #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ක්ලෝරින්ඩෝ ටෙස්ටා",
+        "hover_text": "ක්ලෝරින්ඩෝ ටෙස්ටාගේ 100 වැනි උපන් දිනය",
+        "share_text": "ක්ලෝරින්ඩෝ ටෙස්ටාගේ 100 වැනි උපන් දිනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Clorindo Testa",
+        "hover_text": "100. výročie narodenia Clorinda Testu",
+        "share_text": "100. výročie narodenia Clorinda Testu. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Clorindo Testa",
+        "hover_text": "100. rojstni dan Clorinda Teste",
+        "share_text": "100. rojstni dan Clorinda Teste! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Clorindo Testa",
+        "hover_text": "100.º aniversario del nacimiento de Clorindo Testa",
+        "share_text": "Hoy es el 100.º aniversario del nacimiento de Clorindo Testa #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Clorindo Testa",
+        "hover_text": "Miaka 100 Tangu Kuzaliwa kwa Clorindo Testa",
+        "share_text": "Miaka 100 Tangu Kuzaliwa kwa Clorindo Testa! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Clorindo Testa",
+        "hover_text": "Clorindo Testa 100 år",
+        "share_text": "Clorindo Testa 100 år #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Clorindo Testa",
+        "hover_text": "குளொரிண்டோ தீஸ்தாவின் 100வது பிறந்தநாள்",
+        "share_text": "குளொரிண்டோ தீஸ்தாவின் 100வது பிறந்தநாள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "క్లొరీందో తేస్తా",
+        "hover_text": "క్లొరీందో తేస్తా 100వ జయంతి",
+        "share_text": "క్లొరీందో తేస్తా 100వ జయంతి! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Clorindo Testa",
+        "hover_text": "วันเกิดปีที่ 100 ของ Clorindo Testa",
+        "share_text": "วันเกิดปีที่ 100 ของ Clorindo Testa #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Clorindo Testa",
+        "hover_text": "Clorindo Testa'nın 100. Doğum Günü",
+        "share_text": "Clorindo Testa'nın 100. Doğum Günü #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Клоріндо Теста",
+        "hover_text": "100 років від дня народження Клоріндо Тести",
+        "share_text": "100 років від дня народження Клоріндо Тести! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Clorindo Testa",
+        "hover_text": "Clorindo Testa کی 100 ویں سالگرہ",
+        "share_text": "Clorindo Testa کی 100 ویں سالگرہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Clorindo Testa",
+        "hover_text": "Clorindo Testa tavalludining 100 yilligi",
+        "share_text": "Clorindo Testa tavalludining 100 yilligi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Clorindo Testa",
+        "hover_text": "Kỷ niệm 100 năm ngày sinh của Clorindo Testa",
+        "share_text": "Kỷ niệm 100 năm ngày sinh của Clorindo Testa! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Clorindo Testa",
+        "hover_text": "Usuku Lokuzalwa luka-Clorindo Testa Lweminyaka eyi-100",
+        "share_text": "Usuku Lokuzalwa luka-Clorindo Testa Lweminyaka eyi-100! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Clorindo Testa",
+    "share_text": "Clorindo Testa's 100th Birthday! #GoogleDoodle"
+  },
+  {
     "name": "bosnia-herzegovina-statehood-day-2023",
     "title": "Bosnia & Herzegovina Statehood Day 2023",
     "url": "//www.google.com/logos/doodles/2023/bosnia-herzegovina-statehood-day-2023-6753651837109974-law.gif",
