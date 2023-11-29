@@ -1,5 +1,504 @@
 [
   {
+    "name": "celebrating-marlene-ahrens",
+    "title": "Celebrating Marlene Ahrens",
+    "url": "//www.google.com/logos/doodles/2023/marlene-ahrenss-90th-birthday-6753651837109906-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/qeSe29kZk6gFgwq05RR23WWWDNAEr1CVElBp8yP4wNY6U4piJzBX88Yb9D9WSi63hOqwz1HGUm9guGgbUMFTVCivs0Ah4TLPmmMDSWYk8c5aT7o4ZECr",
+    "high_res_url": "//www.google.com/logos/doodles/2023/marlene-ahrenss-90th-birthday-6753651837109906-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      11,
+      28
+    ],
+    "translations": {
+      "en": {
+        "query": "Marlene Ahrens",
+        "hover_text": "Celebrating Marlene Ahrens",
+        "share_text": "Celebrating Marlene Ahrens! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Marlene Ahrens",
+        "hover_text": "Marlene Ahrens se 90e verjaarsdag",
+        "share_text": "Marlene Ahrens se 90e verjaarsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Marlene Ahrens",
+        "hover_text": "90-vjetori i lindjes së Marlene Ahrens",
+        "share_text": "90-vjetori i lindjes së Marlene Ahrens! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ማርሊን አህረንስ",
+        "hover_text": "የማርሊን አህረንስ 90ኛ ልደት",
+        "share_text": "የማርሊን አህረንስ 90ኛ ልደት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "مارلين أرينس",
+        "hover_text": "الذكرى 90 لميلاد \"مارلين أرينس\"",
+        "share_text": "نحتفل اليوم بالذكرى 90 لميلاد \"مارلين أرينس\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Մարլեն Արենս",
+        "hover_text": "Մարլեն Արենսի ծննդյան 90-ամյակը",
+        "share_text": "Մարլեն Արենսի ծննդյան 90-ամյակը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Marlene Ahrens",
+        "hover_text": "Marlene Ahrens'in 90-cı ildönümü",
+        "share_text": "Marlene Ahrens'in 90-cı ildönümü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "মার্লিন অ্যারেনস",
+        "hover_text": "মার্লিন অ্যারেনসের ৯০তম জন্মদিন",
+        "share_text": "মার্লিন অ্যারেনসের ৯০তম জন্মদিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Marlene Ahrens",
+        "hover_text": "Marlene Ahrensen jaiotzaren 90. urteurrena",
+        "share_text": "Marlene Ahrensen jaiotzaren 90. urteurrena #GoogleDoodle"
+      },
+      "be": {
+        "query": "Марлен Арэнс",
+        "hover_text": "90 гадоў з дня нараджэння Марлен Арэнс",
+        "share_text": "90 гадоў з дня нараджэння Марлен Арэнс! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Marlene Ahrens",
+        "hover_text": "90 godina od rođenja Marlene Ahrens",
+        "share_text": "90 godina od rođenja Marlene Ahrens! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Marlene Ahrens",
+        "hover_text": "Marlene Ahrens's 90th birthday",
+        "share_text": "Marlene Ahrens's 90th birthday! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Марлене Ахренс",
+        "hover_text": "90 години от рождението на Марлене Ахренс",
+        "share_text": "90 години от рождението на Марлене Ахренс! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Marlene Ahrens",
+        "hover_text": "Marlene Ahrens နှစ် ၉၀ ပြည့်မွေးနေ့",
+        "share_text": "Marlene Ahrens ၏ နှစ် ၉၀ ပြည့်မွေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Marlene Ahrens",
+        "hover_text": "90è aniversari del naixement de Marlene Ahrens",
+        "share_text": "90è aniversari del naixement de Marlene Ahrens #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Marlene Ahrens",
+        "hover_text": "Marlene Ahrens 誕辰 90 週年",
+        "share_text": "Marlene Ahrens 誕辰 90 週年！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "瑪琳阿倫斯",
+        "hover_text": "瑪琳阿倫斯 90 歲冥誕",
+        "share_text": "紀念瑪琳阿倫斯 90 歲冥誕！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "Marlene Ahrens",
+        "hover_text": "Marlene Ahrens 诞辰 90 周年",
+        "share_text": "Marlene Ahrens 诞辰 90 周年！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Marlene Ahrens",
+        "hover_text": "90. godišnjica rođenja Marlene Ahrens",
+        "share_text": "90. godišnjica rođenja Marlene Ahrens! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Marlene Ahrens",
+        "hover_text": "90. výročí narození Marlene Ahrens",
+        "share_text": "Slavíme 90. výročí narození Marlene Ahrens! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Marlene Ahrens",
+        "hover_text": "Marlene Ahrens' 90-års fødselsdag",
+        "share_text": "Marlene Ahrens' 90-års fødselsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Marlene Ahrens",
+        "hover_text": "90e geboortedag van Marlene Ahrens",
+        "share_text": "De 90e geboortedag van Marlene Ahrens! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Marlene Ahrens",
+        "hover_text": "Marlene Ahrensi 90. sünniaastapäev",
+        "share_text": "Marlene Ahrensi 90. sünniaastapäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Marlene Ahrens",
+        "hover_text": "90 vuotta Marlene Ahrensin syntymästä",
+        "share_text": "90 vuotta Marlene Ahrensin syntymästä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Marlene Ahrens",
+        "hover_text": "Il y a 90 ans naissait Marlene Ahrens",
+        "share_text": "90e anniversaire de Marlene Ahrens #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Marlene Ahrens",
+        "hover_text": "90ᵉ anniversaire de naissance de Marlene Ahrens",
+        "share_text": "90ᵉ anniversaire de naissance de Marlene Ahrens! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Marlene Ahrens",
+        "hover_text": "90.º aniversario do nacemento de Marlene Ahrens",
+        "share_text": "90.º aniversario do nacemento de Marlene Ahrens! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მარლენ არენსი",
+        "hover_text": "90 წელი მარლენ არენსის დაბადებიდან",
+        "share_text": "90 წელი მარლენ არენსის დაბადებიდან! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Marlene Ahrens",
+        "hover_text": "90. Geburtstag von Marlene Ahrens",
+        "share_text": "90. Geburtstag von Marlene Ahrens! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Marlene Ahrens",
+        "hover_text": "90 χρόνια από τη γέννηση της Marlene Ahrens",
+        "share_text": "90 χρόνια από τη γέννηση της Marlene Ahrens! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "માર્લિન એરેન્સ",
+        "hover_text": "માર્લિન એરેન્સનો 90મો જન્મદિવસ",
+        "share_text": "માર્લિન એરેન્સનો 90મો જન્મદિવસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Marlene Ahrens",
+        "hover_text": "90 שנים להולדת מרלנה ארנס",
+        "share_text": "90 שנים להולדת מרלנה ארנס GoogleDoodle#"
+      },
+      "hi": {
+        "query": "मार्लिन अरेंस",
+        "hover_text": "मार्लिन अरेंस की 90वीं जयंती",
+        "share_text": "मार्लिन अरेंस की 90वीं जयंती! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Marlene Ahrens",
+        "hover_text": "Marlene Ahrens születésének 90. évfordulója",
+        "share_text": "Marlene Ahrens születésének 90. évfordulója #GoogleDoodle"
+      },
+      "is": {
+        "query": "Marlene Ahrens",
+        "hover_text": "90 ár frá fæðingu Marlene Ahrens",
+        "share_text": "90 ár frá fæðingu Marlene Ahrens! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Marlene Ahrens",
+        "hover_text": "Ulang Tahun Ke-90 Marlene Ahrens",
+        "share_text": "Ulang Tahun Ke-90 Marlene Ahrens #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Marlene Ahrens",
+        "hover_text": "90° anniversario della nascita di Marlene Ahrens",
+        "share_text": "90° anniversario della nascita di Marlene Ahrens! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "マルレーネ・アーレン",
+        "hover_text": "マルレーネ・アーレン生誕 90 周年",
+        "share_text": "マルレーネ・アーレン生誕 90 周年 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಮರ್ಲೀನ್ ಅಹ್ರನ್ಸ್",
+        "hover_text": "ಮರ್ಲೀನ್ ಅಹ್ರನ್ಸ್ ಅವರ 90ನೇ ಜನ್ಮದಿನ",
+        "share_text": "ಮರ್ಲೀನ್ ಅಹ್ರನ್ಸ್ ಅವರ 90ನೇ ಜನ್ಮದಿನ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Марлен Аренс",
+        "hover_text": "Марлен Аренстің 90 жылдығы",
+        "share_text": "Марлен Аренстің 90 жылдығы #GoogleDoodle"
+      },
+      "km": {
+        "query": "Marlene Ahrens",
+        "hover_text": "ខួបកំណើត​គម្រប់ 90 ឆ្នាំរបស់ Marlene Ahrens",
+        "share_text": "ខួបកំណើត​គម្រប់ 90 ឆ្នាំរបស់ Marlene Ahrens! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Marlene Ahrens",
+        "hover_text": "Marlene Ahrens 탄생 90주년",
+        "share_text": "Marlene Ahrens 탄생 90주년 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Марлен Аренс",
+        "hover_text": "Марлен Аренстин 90 жаш мааракеси",
+        "share_text": "Марлен Аренстин 90 жаш мааракеси! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Marlene Ahrens",
+        "hover_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 90 ປີຂອງ Marlene Ahrens",
+        "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 90 ປີຂອງ Marlene Ahrens! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Marlene Ahrens",
+        "hover_text": "Celebrando a Marlene Ahrens",
+        "share_text": "Celebrando a Marlene Ahrens! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Marlēna Ārensa",
+        "hover_text": "Marlēnas Ārensas 90. dzimšanas diena",
+        "share_text": "Marlēnas Ārensas 90. dzimšanas diena! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Marlene Ahrens",
+        "hover_text": "90-asis Marlene Ahrens gimtadienis",
+        "share_text": "90-asis Marlene Ahrens gimtadienis! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Marlene Ahrens",
+        "hover_text": "90. роденден на Marlene Ahrens",
+        "share_text": "90. роденден на Marlene Ahrens! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Marlene Ahrens",
+        "hover_text": "Ulang Tahun Kelahiran Marlene Ahrens yang ke-90",
+        "share_text": "Ulang Tahun Kelahiran Marlene Ahrens yang ke-90! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Marlene Ahrens",
+        "hover_text": "Marlene Ahrens-ന്റെ 90-ാം ജന്മദിനം",
+        "share_text": "Marlene Ahrens-ന്റെ 90-ാം ജന്മദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "मार्लिन आरेन्स",
+        "hover_text": "मार्लिन आरेन्स यांचा ९० वा स्मृतिदिन",
+        "share_text": "मार्लिन आरेन्स यांचा ९० वा स्मृतिदिन! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Марлен Аренс",
+        "hover_text": "Марлен Аренсын мэндэлсний 90 жилийн ой",
+        "share_text": "Марлен Аренсын мэндэлсний 90 жилийн ой! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Marlene Ahrens",
+        "hover_text": "Marlene Ahrens को ९० औँ जन्मजयन्ती",
+        "share_text": "Marlene Ahrens को ९० औँ जन्मजयन्ती! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Marlene Ahrens",
+        "hover_text": "Marlene Ahrens' 90-årsdag",
+        "share_text": "Marlene Ahrens' 90-årsdag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ମାର୍ଲିନ ଆହରେନ୍ସ",
+        "hover_text": "ମାର୍ଲିନ ଆହରେନ୍ସଙ୍କ 90ତମ ଜନ୍ମଦିନ",
+        "share_text": "ମାର୍ଲିନ ଆହରେନ୍ସଙ୍କ 90ତମ ଜନ୍ମଦିନ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "مارلنه آرنس",
+        "hover_text": "نودمین زادروز مارلنه آرنس",
+        "share_text": "نودمین زادروز مارلنه آرنس! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Marlene Ahrens",
+        "hover_text": "Marlene Ahrens – 90 rocznica urodzin",
+        "share_text": "Marlene Ahrens – 90 rocznica urodzin #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Marlene Ahrens",
+        "hover_text": "90º aniversário de Marlene Ahrens",
+        "share_text": "90º aniversário de Marlene Ahrens #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Marlene Ahrens",
+        "hover_text": "90.º Aniversário de Marlene Ahrens",
+        "share_text": "90.º Aniversário de Marlene Ahrens! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Marlene Ahrens",
+        "hover_text": "ਮਾਰਲੇਨ ਅਹਿਰੇਂਸ ਦਾ 90ਵਾਂ ਜਨਮਦਿਨ",
+        "share_text": "ਮਾਰਲੇਨ ਅਹਿਰੇਂਸ ਦਾ 90ਵਾਂ ਜਨਮਦਿਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Marlene Ahrens",
+        "hover_text": "90 de ani de la nașterea Marlenei Ahrens",
+        "share_text": "90 de ani de la nașterea Marlenei Ahrens! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Марлен Аренс",
+        "hover_text": "90 лет со дня рождения Марлен Аренс",
+        "share_text": "90 лет со дня рождения Марлен Аренс #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Марлен Аренс",
+        "hover_text": "90 година од рођења Марлен Аренс",
+        "share_text": "90 година од рођења Марлен Аренс! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Marlen Arens",
+        "hover_text": "90 godina od rođenja Marlen Arens",
+        "share_text": "90 godina od rođenja Marlen Arens! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "මර්ලීන් අහ්රන්ස්",
+        "hover_text": "මර්ලීන් අහ්රන්ස්ගේ 90 වෙනි උපන් දිනය",
+        "share_text": "මර්ලීන් අහ්රන්ස්ගේ 90 වෙනි උපන් දිනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Marlene Ahrensová",
+        "hover_text": "90. výročie narodenia Marlene Ahrensovej",
+        "share_text": "90. výročie narodenia Marlene Ahrensovej. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Marlene Ahrens",
+        "hover_text": "90. rojstni dan Marlene Ahrens",
+        "share_text": "90. rojstni dan Marlene Ahrens! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Marlene Ahrens",
+        "hover_text": "Celebrando a Marlene Ahrens",
+        "share_text": "Hoy es el 90.º aniversario del nacimiento de Marlene Ahrens #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Marlene Ahrens",
+        "hover_text": "Maadhimisho ya Miaka 90 Tangu Kuzaliwa kwa Marlene Ahrens",
+        "share_text": "Maadhimisho ya Miaka 90 Tangu Kuzaliwa kwa Marlene Ahrens! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Marlene Ahrens",
+        "hover_text": "Marlene Ahrens 90 år",
+        "share_text": "Marlene Ahrens 90 år #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Marlene Ahrens",
+        "hover_text": "மர்லின் அரென்ஸின் 90வது பிறந்தநாள்",
+        "share_text": "மர்லின் அரென்ஸின் 90வது பிறந்தநாள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "మర్లిన్ ఆరెస్",
+        "hover_text": "మర్లిన్ ఆరెస్ 90వ జయంతి",
+        "share_text": "మర్లిన్ ఆరెస్ 90వ జయంతి! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Marlene Ahrens",
+        "hover_text": "วันเกิดปีที่ 90 ของ Marlene Ahrens",
+        "share_text": "วันเกิดปีที่ 90 ของ Marlene Ahrens #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Marlene Ahrens",
+        "hover_text": "Marlene Ahrens'in 90. Doğum Günü",
+        "share_text": "Marlene Ahrens'in 90. Doğum Günü #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Марлен Аренс",
+        "hover_text": "90 років від дня народження Марлен Аренс",
+        "share_text": "90 років від дня народження Марлен Аренс! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Marlene Ahrens",
+        "hover_text": "Marlene Ahrens کی 90 ویں سالگرہ",
+        "share_text": "Marlene Ahrens کی 90 ویں سالگرہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Marlene Ahrens",
+        "hover_text": "Marlene Ahrens tavalludining 90 yilligi",
+        "share_text": "Marlene Ahrens tavalludining 90 yilligi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Marlene Ahrens",
+        "hover_text": "Kỷ niệm 90 năm ngày sinh của Marlene Ahrens",
+        "share_text": "Kỷ niệm 90 năm ngày sinh của Marlene Ahrens! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Marlene Ahrens",
+        "hover_text": "Usuku Lokuzalwa luka-Marlene Ahrens Lweminyaka engama-90",
+        "share_text": "Usuku Lokuzalwa luka-Marlene Ahrens Lweminyaka engama-90! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Marlene Ahrens",
+    "share_text": "Celebrating Marlene Ahrens! #GoogleDoodle"
+  },
+  {
     "name": "albania-independence-day-2023",
     "title": "Albania Independence Day 2023",
     "url": "//www.google.com/logos/doodles/2023/albania-independence-day-2023-6753651837109977-law.gif",
