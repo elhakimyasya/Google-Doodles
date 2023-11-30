@@ -1,5 +1,504 @@
 [
   {
+    "name": "st-andrews-day-2023",
+    "title": "St. Andrew's Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/st-andrews-day-2023-6753651837110097-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/3enxiReoyzJn7vMoVmK1DC530IsD8wyuBQFMpSagwEpxcwo9qWOreUanLaEK0ZV7RIPVfpTE8iNMPT6apvNCVyMJ5TgzvyWTdgGlrvZ4peFHVsRJYzjU",
+    "high_res_url": "//www.google.com/logos/doodles/2023/st-andrews-day-2023-6753651837110097-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2023,
+      11,
+      30
+    ],
+    "translations": {
+      "en": {
+        "query": "St. Andrew's Day",
+        "hover_text": "St. Andrew's Day 2023",
+        "share_text": "Happy St. Andrew's Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Sint Andreasdag",
+        "hover_text": "Sint Andreasdag 2023",
+        "share_text": "Gelukkige Sint Andreasdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Shën Andreut",
+        "hover_text": "Dita e Shën Andreut, 2023",
+        "share_text": "Gëzuar Ditën e Shën Andreut! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የቅዱስ አንድሪያስ ቀን",
+        "hover_text": "የቅዱስ እንድሪያስ ቀን 2023",
+        "share_text": "መልካም የቅዱስ እንድሪያስ ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد القديس أندرو",
+        "hover_text": "يوم \"القديس أندرو\" 2023",
+        "share_text": "نحتفل اليوم بعيد القديس \"أندرو\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Սբ. Անդրեասի օր",
+        "hover_text": "Սբ. Անդրեասի օր 2023",
+        "share_text": "Շնորհավո՛ր Սբ. Անդրեասի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Müqəddəs Andrey günü",
+        "hover_text": "2023 Müqəddəs Andrey Günü",
+        "share_text": "Müqəddəs Andrey Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "সেন্ট অ্যান্ড্রুজ দিবস",
+        "hover_text": "সেন্ট অ্যান্ড্রুজ দিবস ২০২৩",
+        "share_text": "সেন্ট অ্যান্ড্রুজ দিবসের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "San Andres eguna",
+        "hover_text": "2023ko San Andres eguna",
+        "share_text": "Ander Deuna egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Андрэеў дзень",
+        "hover_text": "Андрэеў дзень 2023",
+        "share_text": "З Андрэевым днём! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan sv. Andrije",
+        "hover_text": "Dan svetog Andrije 2023.",
+        "share_text": "Sretan Dan svetog Andrije! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "St Andrew's Day",
+        "hover_text": "St. Andrew's Day 2023",
+        "share_text": "Happy St. Andrew's Day! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Андреевден",
+        "hover_text": "Андреевден 2023 г.",
+        "share_text": "Честит Андреевден! #GoogleDoodle"
+      },
+      "my": {
+        "query": "စိန့်အန်ဒရူးနေ့",
+        "hover_text": "၂၀၂၃ စိန့်အန်ဒရူးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် စိန့်အန်ဒရူးနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de Sant Andreu",
+        "hover_text": "Dia de Sant Andreu 2023",
+        "share_text": "Feliç Dia de Sant Andreu! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "聖安德魯日",
+        "hover_text": "2023 年聖安德烈日",
+        "share_text": "聖安德烈日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "聖安德魯節",
+        "hover_text": "2023 年聖安德魯節",
+        "share_text": "聖安德魯節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "圣安德鲁日",
+        "hover_text": "2023 年圣安德鲁日",
+        "share_text": "圣安德鲁日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan sv. Andrije",
+        "hover_text": "Dan sv. Andrije 2023.",
+        "share_text": "Sretan Dan sv. Andrije! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den sv. Ondřeje",
+        "hover_text": "Svátek sv. Ondřeje 2023",
+        "share_text": "Šťastný den sv. Ondřeje! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Skt. Andrews dag",
+        "hover_text": "St. Andrews Day 2023",
+        "share_text": "Glædelig Skt. Andrews dag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "St. Andrew's Day",
+        "hover_text": "St. Andrew's Day 2023",
+        "share_text": "Fijne St. Andrew's Day #GoogleDoodle"
+      },
+      "et": {
+        "query": "Andresepäev",
+        "hover_text": "2023. aasta andresepäev",
+        "share_text": "Head andresepäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Pyhän Andreaksen päivä",
+        "hover_text": "Pyhän Andreaksen päivä 2023",
+        "share_text": "Hyvää Pyhän Andreaksen päivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de la Saint-André",
+        "hover_text": "Fête de la St Andrew 2023",
+        "share_text": "Fête de la Saint-André ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête de la Saint-André",
+        "hover_text": "Fête de la Saint-André 2023",
+        "share_text": "Joyeuse fête de la Saint-André! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día de San Andrés",
+        "hover_text": "Día de San Andrés 2023",
+        "share_text": "Feliz Día de San Andrés! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "წმ. ანდრიას დღე",
+        "hover_text": "წმ. ანდრიას დღე — 2023",
+        "share_text": "გილოცავთ წმ. ანდრიას დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "St. Andrew's Day (Schottland)",
+        "hover_text": "St. Andrew’s Day 2023",
+        "share_text": "Alles Gute zum St. Andrew's Day (Schottland)! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα του Αγίου Ανδρέα",
+        "hover_text": "Ημέρα του Αγίου Ανδρέα 2023",
+        "share_text": "Γιορτάζουμε την Ημέρα του Αγίου Ανδρέα! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "St. Andrew દિવસ",
+        "hover_text": "સેઇન્ટ એંડ્ર્યુ ડે 2023",
+        "share_text": "સેઇન્ટ એંડ્ર્યુ ડેની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום אנדראס הקדוש",
+        "hover_text": "יום אנדראס הקדוש 2023",
+        "share_text": "יום אנדראס הקדוש שמח! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "सेंट एंड्र्यू डे",
+        "hover_text": "सेंट ऐंड्र्यूज़ डे 2023",
+        "share_text": "सेंट ऐंड्र्यू डे की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Szent András napja",
+        "hover_text": "Szent András napja, 2023",
+        "share_text": "Boldog Szent András napját! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Dagur heilags Andrésar",
+        "hover_text": "Dagur heilags Andrésar 2023",
+        "share_text": "Gleðilegan dag heilags Andrésar! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari St. Andreas",
+        "hover_text": "Hari St. Andreas 2023",
+        "share_text": "Selamat Hari St. Andreas! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá San Aindrias",
+        "hover_text": null,
+        "share_text": "Lá San Aindrias faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa di Sant'Andrea",
+        "hover_text": "Festa di Sant'Andrea 2023",
+        "share_text": "Buona festa di Sant'Andrea! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "聖アンデレの日",
+        "hover_text": "2023 年聖アンデレの日",
+        "share_text": "聖アンデレの日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಸೇಂಟ್ ಆಂಡ್ರ್ಯೂಸ್ ದಿನ",
+        "hover_text": "ಸೇಂಟ್ ಆಂಡ್ರ್ಯೂ ದಿನ 2023",
+        "share_text": "ಸೇಂಟ್ ಆಂಡ್ರ್ಯೂ ರವರ ದಿನಾಚರಣೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Әулие Эндрю күні",
+        "hover_text": "Әулие Эндрю күні – 2023",
+        "share_text": "Әулие Эндрю күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាបុណ្យ St. Andrew",
+        "hover_text": "ទិវាបុណ្យ St. Andrew ឆ្នាំ 2023",
+        "share_text": "អបអរ​ទិវាបុណ្យ St. Andrew! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "성 안드레아 축일",
+        "hover_text": "2023년 성 안드레아 축일",
+        "share_text": "성 안드레아 축일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Ыйык Андрей күнү",
+        "hover_text": "Ыйык Андрей күнү – 2023",
+        "share_text": "Ыйык Андрей күнүңүз менен! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນເຊນແອນດຣູ",
+        "hover_text": "ວັນເຊນແອນດຣູປີ 2023",
+        "share_text": "ສຸກສັນວັນເຊນແອນດຣູ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de San Andrés",
+        "hover_text": "Día de San Andrés 2023",
+        "share_text": "¡Feliz Día de San Andrés! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Svētā Andreja diena",
+        "hover_text": "Svētā Andreja diena — 2023",
+        "share_text": "Priecīgu Svētā Andreja dienu! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Šv. Andriejaus diena",
+        "hover_text": "Šv. Andriejaus diena, 2023 m.",
+        "share_text": "Linksmos Šv. Andriejaus dienos! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на Свети Ендрус",
+        "hover_text": "Ден на Свети Андреја, 2023 г.",
+        "share_text": "Среќен Ден на Свети Андреј! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'i Md. Andrew",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'i Md. Andrew ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari St. Andrew",
+        "hover_text": "Hari St. Andrew 2023",
+        "share_text": "Selamat Hari St. Andrew! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "സെന്റ്. ആൻഡ്ര്യൂ ദിനം",
+        "hover_text": "സെന്റ് ആൻഡ്രൂസ് ദിനം 2023",
+        "share_text": "സെന്റ് ആൻഡ്രൂസ് ദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "सेंट.ॲन्ड्रू डे",
+        "hover_text": "सेंट अँड्र्यूज डे २०२३",
+        "share_text": "सेंट. ॲन्ड्रू दिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Гэгээн Андрейгийн өдөр",
+        "hover_text": "2023 оны Гэгээн Андрейгийн өдөр",
+        "share_text": "Гэгээн Андрейгийн өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "St. Andrew दिवस",
+        "hover_text": "St. Andrew जयन्ती २०२३",
+        "share_text": "St. Andrew जयन्तीको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "St. Andrew's Day",
+        "hover_text": "St. Andrew's Day 2023",
+        "share_text": "Gratulerer med St. Andrew's Day! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ସେଣ୍ଟ ଆଣ୍ଡ୍ର୍ୟୁଙ୍କ ଦିବସ",
+        "hover_text": "ସେଣ୍ଟ ଆଣ୍ଡ୍ର୍ୟୁଙ୍କ ଦିବସ 2023",
+        "share_text": "ସେଣ୍ଟ ଆଣ୍ଡ୍ର୍ୟୁଙ୍କ ଦିବସର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز سنت اندرو",
+        "hover_text": "روز سنت اَندرو ۲۰۲۳",
+        "share_text": "روز سنت اَندرو مبارک! #GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Św. Andrzeja",
+        "hover_text": "Dzień Świętego Andrzeja 2023",
+        "share_text": "Obchodzimy Dzień Św. Andrzeja #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia de Santo André",
+        "hover_text": "Dia de Santo André 2023",
+        "share_text": "Feliz Dia de Santo André! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia de Santo André",
+        "hover_text": "Dia de Santo André de 2023",
+        "share_text": "Feliz dia de Santo André! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਸੇਂਟ ਐਂਡਰਿਊ ਦਿਵਸ",
+        "hover_text": "ਸੇਂਟ ਐਂਡਰਿਊ ਦਿਵਸ 2023",
+        "share_text": "ਸੇਂਟ ਐਂਡਰਿਊ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Sf. Andrei",
+        "hover_text": "Sf. Andrei – 2023",
+        "share_text": "La mulți ani de Sf. Andrei! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День святого Андрея",
+        "hover_text": "День святого Андрея – 2023",
+        "share_text": "День святого Андрея #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан Светог Андрије 2019.",
+        "hover_text": "Дан Светог Андрије 2023.",
+        "share_text": "Срећан Дан Светог Андрије! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan Svetog Andrije 2019.",
+        "hover_text": "Dan Svetog Andrije 2023.",
+        "share_text": "Srećan Dan Svetog Andrije! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen sen Andrew",
+        "hover_text": null,
+        "share_text": "Bonn fet sen Andrew! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ශාන්ත ඇණ්ඩෲ දිනය",
+        "hover_text": "ශාන්ත ඇන්ඩෘ දිනය 2023",
+        "share_text": "ප්‍රීතිමත් ශාන්ත ඇන්ඩෘෘ දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň sv. Ondreja",
+        "hover_text": "Deň sv. Ondreja 2023",
+        "share_text": "Šťastný Deň sv. Ondreja! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan Sv. Andreja",
+        "hover_text": "Dan sv. Andreja 2023",
+        "share_text": "Vesel dan sv. Andreja! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta St. Andrew",
+        "hover_text": null,
+        "share_text": "Maalinta St. Andrew oo Farxada leh! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la St. Andrew",
+        "hover_text": null,
+        "share_text": "Mahlohonolo a Letsatsi la St. Patrick la 2021! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de San Andrés",
+        "hover_text": "Día de San Andrés 2023",
+        "share_text": "¡Feliz Día de San Andrés! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Mtakatifu Andrea",
+        "hover_text": "Sikukuu ya Mtakatifu Andrea 2023",
+        "share_text": "Heri ya Sikukuu ya Mtakatifu Andrea! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Sankt Andreas dag",
+        "hover_text": "Sankt Andreas dag 2023",
+        "share_text": "Vi firar Sankt Andreas dag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "புனிதர் ஆண்ட்ரூ தினம்",
+        "hover_text": "செயின்ட் ஆண்ட்ரூ தினம் 2023",
+        "share_text": "செயின்ட் ஆண்ட்ரூ தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "సెయింట్ ఆండ్రూస్ దినోత్సవం",
+        "hover_text": "సెయింట్ ఆండ్రూస్ డే 2023",
+        "share_text": "సెయింట్ ఆండ్రూస్ దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันนักบุญแอนดรูว์",
+        "hover_text": "วันนักบุญแอนดรูว์ปี 2023",
+        "share_text": "สุขสันต์วันนักบุญแอนดรูว์ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la ga Moitsehepi Andrew",
+        "hover_text": null,
+        "share_text": "Itumeleleng Letsatsi la ga Moitshepi Andrew la 2021! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "St. Andrew Günü",
+        "hover_text": "2023 Aziz Andrew Günü",
+        "share_text": "St. Andrew's Day Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День Св. Андрія",
+        "hover_text": "День святого Андрія у 2023 році",
+        "share_text": "З Днем Святого Андрія! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم سنت اینڈریو",
+        "hover_text": "یوم سنت اینڈریو 2023",
+        "share_text": "یوم سینٹ اینڈریو کی مبارک باد! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "St. Andrew kuni",
+        "hover_text": "St. Andrew kuni 2023",
+        "share_text": "St. Andrew kuni – 2021! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Thánh Andrew",
+        "hover_text": "Ngày Thánh Andrew năm 2023",
+        "share_text": "Mừng ngày Thánh Andrew! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku luka-St. Andrew",
+        "hover_text": "Usuku luka-St. Andrew luka-2023",
+        "share_text": "Usuku oluhle luka-St. Andrew! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "St. Andrew's Day",
+    "share_text": "Happy St. Andrew's Day! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-marlene-ahrens",
     "title": "Celebrating Marlene Ahrens",
     "url": "//www.google.com/logos/doodles/2023/marlene-ahrenss-90th-birthday-6753651837109906-l.png",
@@ -20,153 +519,153 @@
       },
       "af": {
         "query": "Marlene Ahrens",
-        "hover_text": "Marlene Ahrens se 90e verjaarsdag",
-        "share_text": "Marlene Ahrens se 90e verjaarsdag! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "sq": {
         "query": "Marlene Ahrens",
-        "hover_text": "90-vjetori i lindjes së Marlene Ahrens",
-        "share_text": "90-vjetori i lindjes së Marlene Ahrens! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "am": {
         "query": "ማርሊን አህረንስ",
-        "hover_text": "የማርሊን አህረንስ 90ኛ ልደት",
-        "share_text": "የማርሊን አህረንስ 90ኛ ልደት! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "ar": {
         "query": "مارلين أرينس",
-        "hover_text": "الذكرى 90 لميلاد \"مارلين أرينس\"",
-        "share_text": "نحتفل اليوم بالذكرى 90 لميلاد \"مارلين أرينس\". ‎#GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "hy": {
         "query": "Մարլեն Արենս",
-        "hover_text": "Մարլեն Արենսի ծննդյան 90-ամյակը",
-        "share_text": "Մարլեն Արենսի ծննդյան 90-ամյակը #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "az": {
         "query": "Marlene Ahrens",
-        "hover_text": "Marlene Ahrens'in 90-cı ildönümü",
-        "share_text": "Marlene Ahrens'in 90-cı ildönümü! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "bn": {
         "query": "মার্লিন অ্যারেনস",
-        "hover_text": "মার্লিন অ্যারেনসের ৯০তম জন্মদিন",
-        "share_text": "মার্লিন অ্যারেনসের ৯০তম জন্মদিন! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "eu": {
         "query": "Marlene Ahrens",
-        "hover_text": "Marlene Ahrensen jaiotzaren 90. urteurrena",
-        "share_text": "Marlene Ahrensen jaiotzaren 90. urteurrena #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "be": {
         "query": "Марлен Арэнс",
-        "hover_text": "90 гадоў з дня нараджэння Марлен Арэнс",
-        "share_text": "90 гадоў з дня нараджэння Марлен Арэнс! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "bs": {
         "query": "Marlene Ahrens",
-        "hover_text": "90 godina od rođenja Marlene Ahrens",
-        "share_text": "90 godina od rođenja Marlene Ahrens! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "en-GB": {
         "query": "Marlene Ahrens",
-        "hover_text": "Marlene Ahrens's 90th birthday",
-        "share_text": "Marlene Ahrens's 90th birthday! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "bg": {
         "query": "Марлене Ахренс",
-        "hover_text": "90 години от рождението на Марлене Ахренс",
-        "share_text": "90 години от рождението на Марлене Ахренс! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "my": {
         "query": "Marlene Ahrens",
-        "hover_text": "Marlene Ahrens နှစ် ၉၀ ပြည့်မွေးနေ့",
-        "share_text": "Marlene Ahrens ၏ နှစ် ၉၀ ပြည့်မွေးနေ့။ #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "ca": {
         "query": "Marlene Ahrens",
-        "hover_text": "90è aniversari del naixement de Marlene Ahrens",
-        "share_text": "90è aniversari del naixement de Marlene Ahrens #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "zh-HK": {
         "query": "Marlene Ahrens",
-        "hover_text": "Marlene Ahrens 誕辰 90 週年",
-        "share_text": "Marlene Ahrens 誕辰 90 週年！#GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "zh-TW": {
         "query": "瑪琳阿倫斯",
-        "hover_text": "瑪琳阿倫斯 90 歲冥誕",
-        "share_text": "紀念瑪琳阿倫斯 90 歲冥誕！#GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "zh-CN": {
         "query": "Marlene Ahrens",
-        "hover_text": "Marlene Ahrens 诞辰 90 周年",
-        "share_text": "Marlene Ahrens 诞辰 90 周年！#GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "hr": {
         "query": "Marlene Ahrens",
-        "hover_text": "90. godišnjica rođenja Marlene Ahrens",
-        "share_text": "90. godišnjica rođenja Marlene Ahrens! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "cs": {
         "query": "Marlene Ahrens",
-        "hover_text": "90. výročí narození Marlene Ahrens",
-        "share_text": "Slavíme 90. výročí narození Marlene Ahrens! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "da": {
         "query": "Marlene Ahrens",
-        "hover_text": "Marlene Ahrens' 90-års fødselsdag",
-        "share_text": "Marlene Ahrens' 90-års fødselsdag #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "nl": {
         "query": "Marlene Ahrens",
-        "hover_text": "90e geboortedag van Marlene Ahrens",
-        "share_text": "De 90e geboortedag van Marlene Ahrens! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "et": {
         "query": "Marlene Ahrens",
-        "hover_text": "Marlene Ahrensi 90. sünniaastapäev",
-        "share_text": "Marlene Ahrensi 90. sünniaastapäev! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "fi": {
         "query": "Marlene Ahrens",
-        "hover_text": "90 vuotta Marlene Ahrensin syntymästä",
-        "share_text": "90 vuotta Marlene Ahrensin syntymästä #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "fr": {
         "query": "Marlene Ahrens",
-        "hover_text": "Il y a 90 ans naissait Marlene Ahrens",
-        "share_text": "90e anniversaire de Marlene Ahrens #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "fr-CA": {
         "query": "Marlene Ahrens",
-        "hover_text": "90ᵉ anniversaire de naissance de Marlene Ahrens",
-        "share_text": "90ᵉ anniversaire de naissance de Marlene Ahrens! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "gl": {
         "query": "Marlene Ahrens",
-        "hover_text": "90.º aniversario do nacemento de Marlene Ahrens",
-        "share_text": "90.º aniversario do nacemento de Marlene Ahrens! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "ka": {
         "query": "მარლენ არენსი",
-        "hover_text": "90 წელი მარლენ არენსის დაბადებიდან",
-        "share_text": "90 წელი მარლენ არენსის დაბადებიდან! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "de": {
         "query": "Marlene Ahrens",
-        "hover_text": "90. Geburtstag von Marlene Ahrens",
-        "share_text": "90. Geburtstag von Marlene Ahrens! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "el": {
         "query": "Marlene Ahrens",
-        "hover_text": "90 χρόνια από τη γέννηση της Marlene Ahrens",
-        "share_text": "90 χρόνια από τη γέννηση της Marlene Ahrens! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "gu": {
         "query": "માર્લિન એરેન્સ",
-        "hover_text": "માર્લિન એરેન્સનો 90મો જન્મદિવસ",
-        "share_text": "માર્લિન એરેન્સનો 90મો જન્મદિવસ! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "ht": {
         "query": null,
@@ -175,28 +674,28 @@
       },
       "iw": {
         "query": "Marlene Ahrens",
-        "hover_text": "90 שנים להולדת מרלנה ארנס",
-        "share_text": "90 שנים להולדת מרלנה ארנס GoogleDoodle#"
+        "hover_text": null,
+        "share_text": ""
       },
       "hi": {
         "query": "मार्लिन अरेंस",
-        "hover_text": "मार्लिन अरेंस की 90वीं जयंती",
-        "share_text": "मार्लिन अरेंस की 90वीं जयंती! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "hu": {
         "query": "Marlene Ahrens",
-        "hover_text": "Marlene Ahrens születésének 90. évfordulója",
-        "share_text": "Marlene Ahrens születésének 90. évfordulója #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "is": {
         "query": "Marlene Ahrens",
-        "hover_text": "90 ár frá fæðingu Marlene Ahrens",
-        "share_text": "90 ár frá fæðingu Marlene Ahrens! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "id": {
         "query": "Marlene Ahrens",
-        "hover_text": "Ulang Tahun Ke-90 Marlene Ahrens",
-        "share_text": "Ulang Tahun Ke-90 Marlene Ahrens #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "ga": {
         "query": null,
@@ -205,43 +704,43 @@
       },
       "it": {
         "query": "Marlene Ahrens",
-        "hover_text": "90° anniversario della nascita di Marlene Ahrens",
-        "share_text": "90° anniversario della nascita di Marlene Ahrens! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "ja": {
         "query": "マルレーネ・アーレン",
-        "hover_text": "マルレーネ・アーレン生誕 90 周年",
-        "share_text": "マルレーネ・アーレン生誕 90 周年 #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "kn": {
         "query": "ಮರ್ಲೀನ್ ಅಹ್ರನ್ಸ್",
-        "hover_text": "ಮರ್ಲೀನ್ ಅಹ್ರನ್ಸ್ ಅವರ 90ನೇ ಜನ್ಮದಿನ",
-        "share_text": "ಮರ್ಲೀನ್ ಅಹ್ರನ್ಸ್ ಅವರ 90ನೇ ಜನ್ಮದಿನ! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "kk": {
         "query": "Марлен Аренс",
-        "hover_text": "Марлен Аренстің 90 жылдығы",
-        "share_text": "Марлен Аренстің 90 жылдығы #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "km": {
         "query": "Marlene Ahrens",
-        "hover_text": "ខួបកំណើត​គម្រប់ 90 ឆ្នាំរបស់ Marlene Ahrens",
-        "share_text": "ខួបកំណើត​គម្រប់ 90 ឆ្នាំរបស់ Marlene Ahrens! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "ko": {
         "query": "Marlene Ahrens",
-        "hover_text": "Marlene Ahrens 탄생 90주년",
-        "share_text": "Marlene Ahrens 탄생 90주년 #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "ky": {
         "query": "Марлен Аренс",
-        "hover_text": "Марлен Аренстин 90 жаш мааракеси",
-        "share_text": "Марлен Аренстин 90 жаш мааракеси! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "lo": {
         "query": "Marlene Ahrens",
-        "hover_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 90 ປີຂອງ Marlene Ahrens",
-        "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 90 ປີຂອງ Marlene Ahrens! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "es-419": {
         "query": "Marlene Ahrens",
@@ -250,18 +749,18 @@
       },
       "lv": {
         "query": "Marlēna Ārensa",
-        "hover_text": "Marlēnas Ārensas 90. dzimšanas diena",
-        "share_text": "Marlēnas Ārensas 90. dzimšanas diena! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "lt": {
         "query": "Marlene Ahrens",
-        "hover_text": "90-asis Marlene Ahrens gimtadienis",
-        "share_text": "90-asis Marlene Ahrens gimtadienis! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "mk": {
         "query": "Marlene Ahrens",
-        "hover_text": "90. роденден на Marlene Ahrens",
-        "share_text": "90. роденден на Marlene Ahrens! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "mg": {
         "query": null,
@@ -270,13 +769,13 @@
       },
       "ms": {
         "query": "Marlene Ahrens",
-        "hover_text": "Ulang Tahun Kelahiran Marlene Ahrens yang ke-90",
-        "share_text": "Ulang Tahun Kelahiran Marlene Ahrens yang ke-90! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "ml": {
         "query": "Marlene Ahrens",
-        "hover_text": "Marlene Ahrens-ന്റെ 90-ാം ജന്മദിനം",
-        "share_text": "Marlene Ahrens-ന്റെ 90-ാം ജന്മദിനം! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "mt": {
         "query": null,
@@ -285,23 +784,23 @@
       },
       "mr": {
         "query": "मार्लिन आरेन्स",
-        "hover_text": "मार्लिन आरेन्स यांचा ९० वा स्मृतिदिन",
-        "share_text": "मार्लिन आरेन्स यांचा ९० वा स्मृतिदिन! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "mn": {
         "query": "Марлен Аренс",
-        "hover_text": "Марлен Аренсын мэндэлсний 90 жилийн ой",
-        "share_text": "Марлен Аренсын мэндэлсний 90 жилийн ой! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "ne": {
         "query": "Marlene Ahrens",
-        "hover_text": "Marlene Ahrens को ९० औँ जन्मजयन्ती",
-        "share_text": "Marlene Ahrens को ९० औँ जन्मजयन्ती! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "no": {
         "query": "Marlene Ahrens",
-        "hover_text": "Marlene Ahrens' 90-årsdag",
-        "share_text": "Marlene Ahrens' 90-årsdag! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "nn": {
         "query": null,
@@ -315,8 +814,8 @@
       },
       "or": {
         "query": "ମାର୍ଲିନ ଆହରେନ୍ସ",
-        "hover_text": "ମାର୍ଲିନ ଆହରେନ୍ସଙ୍କ 90ତମ ଜନ୍ମଦିନ",
-        "share_text": "ମାର୍ଲିନ ଆହରେନ୍ସଙ୍କ 90ତମ ଜନ୍ମଦିନ! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "ps": {
         "query": null,
@@ -325,33 +824,33 @@
       },
       "fa": {
         "query": "مارلنه آرنس",
-        "hover_text": "نودمین زادروز مارلنه آرنس",
-        "share_text": "نودمین زادروز مارلنه آرنس! ‎#GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "pl": {
         "query": "Marlene Ahrens",
-        "hover_text": "Marlene Ahrens – 90 rocznica urodzin",
-        "share_text": "Marlene Ahrens – 90 rocznica urodzin #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "pt-BR": {
         "query": "Marlene Ahrens",
-        "hover_text": "90º aniversário de Marlene Ahrens",
-        "share_text": "90º aniversário de Marlene Ahrens #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "pt-PT": {
         "query": "Marlene Ahrens",
-        "hover_text": "90.º Aniversário de Marlene Ahrens",
-        "share_text": "90.º Aniversário de Marlene Ahrens! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "pa": {
         "query": "Marlene Ahrens",
-        "hover_text": "ਮਾਰਲੇਨ ਅਹਿਰੇਂਸ ਦਾ 90ਵਾਂ ਜਨਮਦਿਨ",
-        "share_text": "ਮਾਰਲੇਨ ਅਹਿਰੇਂਸ ਦਾ 90ਵਾਂ ਜਨਮਦਿਨ! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "ro": {
         "query": "Marlene Ahrens",
-        "hover_text": "90 de ani de la nașterea Marlenei Ahrens",
-        "share_text": "90 de ani de la nașterea Marlenei Ahrens! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "ro-MD": {
         "query": null,
@@ -360,18 +859,18 @@
       },
       "ru": {
         "query": "Марлен Аренс",
-        "hover_text": "90 лет со дня рождения Марлен Аренс",
-        "share_text": "90 лет со дня рождения Марлен Аренс #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "sr": {
         "query": "Марлен Аренс",
-        "hover_text": "90 година од рођења Марлен Аренс",
-        "share_text": "90 година од рођења Марлен Аренс! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "sr-Latn": {
         "query": "Marlen Arens",
-        "hover_text": "90 godina od rođenja Marlen Arens",
-        "share_text": "90 godina od rođenja Marlen Arens! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "sr-ME": {
         "query": null,
@@ -390,18 +889,18 @@
       },
       "si": {
         "query": "මර්ලීන් අහ්රන්ස්",
-        "hover_text": "මර්ලීන් අහ්රන්ස්ගේ 90 වෙනි උපන් දිනය",
-        "share_text": "මර්ලීන් අහ්රන්ස්ගේ 90 වෙනි උපන් දිනය! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "sk": {
         "query": "Marlene Ahrensová",
-        "hover_text": "90. výročie narodenia Marlene Ahrensovej",
-        "share_text": "90. výročie narodenia Marlene Ahrensovej. #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "sl": {
         "query": "Marlene Ahrens",
-        "hover_text": "90. rojstni dan Marlene Ahrens",
-        "share_text": "90. rojstni dan Marlene Ahrens! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "so": {
         "query": null,
@@ -420,13 +919,13 @@
       },
       "sw": {
         "query": "Marlene Ahrens",
-        "hover_text": "Maadhimisho ya Miaka 90 Tangu Kuzaliwa kwa Marlene Ahrens",
-        "share_text": "Maadhimisho ya Miaka 90 Tangu Kuzaliwa kwa Marlene Ahrens! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "sv": {
         "query": "Marlene Ahrens",
-        "hover_text": "Marlene Ahrens 90 år",
-        "share_text": "Marlene Ahrens 90 år #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "tg": {
         "query": null,
@@ -435,18 +934,18 @@
       },
       "ta": {
         "query": "Marlene Ahrens",
-        "hover_text": "மர்லின் அரென்ஸின் 90வது பிறந்தநாள்",
-        "share_text": "மர்லின் அரென்ஸின் 90வது பிறந்தநாள்! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "te": {
         "query": "మర్లిన్ ఆరెస్",
-        "hover_text": "మర్లిన్ ఆరెస్ 90వ జయంతి",
-        "share_text": "మర్లిన్ ఆరెస్ 90వ జయంతి! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "th": {
         "query": "Marlene Ahrens",
-        "hover_text": "วันเกิดปีที่ 90 ของ Marlene Ahrens",
-        "share_text": "วันเกิดปีที่ 90 ของ Marlene Ahrens #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "tn": {
         "query": null,
@@ -455,8 +954,8 @@
       },
       "tr": {
         "query": "Marlene Ahrens",
-        "hover_text": "Marlene Ahrens'in 90. Doğum Günü",
-        "share_text": "Marlene Ahrens'in 90. Doğum Günü #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "tk": {
         "query": null,
@@ -465,23 +964,23 @@
       },
       "uk": {
         "query": "Марлен Аренс",
-        "hover_text": "90 років від дня народження Марлен Аренс",
-        "share_text": "90 років від дня народження Марлен Аренс! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "ur": {
         "query": "Marlene Ahrens",
-        "hover_text": "Marlene Ahrens کی 90 ویں سالگرہ",
-        "share_text": "Marlene Ahrens کی 90 ویں سالگرہ! GoogleDoodle#"
+        "hover_text": null,
+        "share_text": ""
       },
       "uz": {
         "query": "Marlene Ahrens",
-        "hover_text": "Marlene Ahrens tavalludining 90 yilligi",
-        "share_text": "Marlene Ahrens tavalludining 90 yilligi! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "vi": {
         "query": "Marlene Ahrens",
-        "hover_text": "Kỷ niệm 90 năm ngày sinh của Marlene Ahrens",
-        "share_text": "Kỷ niệm 90 năm ngày sinh của Marlene Ahrens! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       },
       "wo": {
         "query": null,
@@ -490,8 +989,8 @@
       },
       "zu": {
         "query": "U-Marlene Ahrens",
-        "hover_text": "Usuku Lokuzalwa luka-Marlene Ahrens Lweminyaka engama-90",
-        "share_text": "Usuku Lokuzalwa luka-Marlene Ahrens Lweminyaka engama-90! #GoogleDoodle"
+        "hover_text": null,
+        "share_text": ""
       }
     },
     "translated_blog_posts": {},
