@@ -1,5 +1,1003 @@
 [
   {
+    "name": "fathers-day-2023-dec-05",
+    "title": "Father's Day 2023 (Dec 05)",
+    "url": "//www.google.com/logos/doodles/2023/fathers-day-2023-dec-05-6753651837109980-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/RkfjSFnNPNeb9ifO8n1twm4QGXjERmds0CVae2jZtkdSjhtF9wX_Kj7ndrGt95-wCqSYKlFAoFBXHACxFtdJwgzrTkg3keqqtuu3YzwNd1ViZWlM5mbYkA",
+    "high_res_url": "//www.google.com/logos/doodles/2023/fathers-day-2023-dec-05-6753651837109980-2xa.gif",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2023,
+      12,
+      5
+    ],
+    "translations": {
+      "en": {
+        "query": "Father's Day",
+        "hover_text": "Father's Day 2023 (Dec 05)",
+        "share_text": "Happy Father's Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Vadersdag",
+        "hover_text": "Vadersdag 2023 (5 Des.)",
+        "share_text": "Gelukkige Vadersdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Babait",
+        "hover_text": "Dita e Babait, 2023 (5 dhjetor)",
+        "share_text": "Gëzuar Ditën e Babait! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአባቶች ቀን",
+        "hover_text": "የአባቶች ቀን 2023 (ዲሴምበር 05)",
+        "share_text": "መልካም የአባቶች ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد الأب",
+        "hover_text": "عيد الأب 2023 (5 كانون الأول/ديسمبر)",
+        "share_text": "عيد أب سعيد. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Հայրերի օր",
+        "hover_text": "Հայրերի օր 2023 (դեկտեմբերի 5)",
+        "share_text": "Շնորհավո՛ր հայրերի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Atalar Günü",
+        "hover_text": "2023 Atalar Günü (5 dekabr)",
+        "share_text": "Atalar Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "পিতৃ দিবস",
+        "hover_text": "পিতৃ দিবস ২০২৩ (৫ ডিসেম্বর)",
+        "share_text": "ফাদার্স ডের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Aitaren Eguna",
+        "hover_text": "2023ko Aitaren Eguna (abenduaren 5a)",
+        "share_text": "Aitaren Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень бацькі",
+        "hover_text": "Дзень бацькі 2023 (5 снежня)",
+        "share_text": "З Днём бацькі! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva 2023. (5. dec)",
+        "share_text": "Sretan Dan očeva! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Father's Day",
+        "hover_text": "Father's Day 2023 (5 Dec)",
+        "share_text": "Happy Father's Day! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на бащата",
+        "hover_text": "Ден на бащата 2023 г. (5 декември)",
+        "share_text": "Честит Ден на бащата! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အဖေများနေ့",
+        "hover_text": "၂၀၂၃ အဖေများနေ့ (ဒီဇင်ဘာ ၅)",
+        "share_text": "ပျော်ရွှင်ဖွယ် ဖခင်များနေ့ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia del Pare",
+        "hover_text": "Dia del Pare 2023 (5 de desembre)",
+        "share_text": "Feliç Dia del Pare! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "父親節",
+        "hover_text": "2023 年父親節 (12 月 5 日)",
+        "share_text": "父親節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "父親節",
+        "hover_text": "2023 年父親節 (12 月 5 日)",
+        "share_text": "父親節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "父亲节",
+        "hover_text": "2023 年父亲节（12 月 5 日）",
+        "share_text": "父亲节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva 2023. (5. prosinca)",
+        "share_text": "Sretan Dan očeva! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den otců",
+        "hover_text": "Den otců 2023 (5. prosince)",
+        "share_text": "Veselý Den otců! #GoogleDoodle"
+      },
+      "da": {
+        "query": "fars dag",
+        "hover_text": "Fars dag 2023 (5. dec)",
+        "share_text": "Glædelig fars dag! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Vaderdag",
+        "hover_text": "Vaderdag 2023 (5 december)",
+        "share_text": "Fijne Vaderdag! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Isadepäev",
+        "hover_text": "2023. aasta isadepäev (5. detsember)",
+        "share_text": "Head isadepäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Isänpäivä",
+        "hover_text": "Isänpäivä 2023 (5.12.)",
+        "share_text": "Hyvää isänpäivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête des Pères",
+        "hover_text": "Fête des Pères 2023 (5 décembre)",
+        "share_text": "Joyeuse fête des Pères ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête des Pères",
+        "hover_text": "Fête des Pères 2023 (5 décembre)",
+        "share_text": "Joyeuse fête des Pères! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día do Pai",
+        "hover_text": "Día do Pai 2023 (5 de decembro)",
+        "share_text": "Feliz Día do Pai! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მამის დღე",
+        "hover_text": "მამის დღე 2023 (5 დეკემბერი)",
+        "share_text": "გილოცავთ მამის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Vatertag",
+        "hover_text": "Vatertag 2023 (5. Dezember)",
+        "share_text": "Alles Liebe zum Vatertag! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Γιορτή του Πατέρα",
+        "hover_text": "Γιορτή του Πατέρα 2023 (5 Δεκεμβρίου)",
+        "share_text": "Πολλές ευχές για τη Γιορτή του Πατέρα! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "પિતૃ દિવસ",
+        "hover_text": "ફાધર્સ ડે 2023 (05 ડિસેમ્બર)",
+        "share_text": "ફાધર્સ ડેની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום האב",
+        "hover_text": "יום האב 2023 (5 בדצמבר)",
+        "share_text": "יום האב שמח! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "फ़ादर्स डे",
+        "hover_text": "फ़ादर्स डे 2023 (5 दिसंबर)",
+        "share_text": "फ़ादर्स डे की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Apák napja",
+        "hover_text": "Apák napja, 2023 (december 5.)",
+        "share_text": "Boldog apák napját! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Feðradagurinn",
+        "hover_text": "Feðradagurinn 2023 (5. desember)",
+        "share_text": "Gleðilegan feðradag! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Ayah",
+        "hover_text": "Hari Ayah 2023 (5 Desember)",
+        "share_text": "Selamat Hari Ayah! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá na nAithreacha",
+        "hover_text": null,
+        "share_text": "Lá na nAithreacha faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa del papà",
+        "hover_text": "Festa del papà 2023 (5 dicembre)",
+        "share_text": "Buona festa del papà! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "父の日",
+        "hover_text": "2023 年父の日（12 月 5 日）",
+        "share_text": "父の日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ತಂದೆಯಂದಿರ ದಿನ",
+        "hover_text": "ತಂದೆಯರ ದಿನ 2023 (ಡಿಸೆಂಬರ್ 05)",
+        "share_text": "ತಂದೆಯಂದಿರ ದಿನಾಚರಣೆ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Әкелер күні",
+        "hover_text": "Әкелер күні – 2023 (5 желтоқсан)",
+        "share_text": "Әкелер күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​រំលឹកគុណឪពុក",
+        "hover_text": "ទិវា​រំលឹកគុណ​ឪពុក​ឆ្នាំ 2023 (ថ្ងៃទី 05 ខែធ្នូ)",
+        "share_text": "អបអរ​ទិវា​រំលឹកគុណ​ឪពុក​! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "아버지의 날",
+        "hover_text": "2023년 아버지의 날(12월 5일)",
+        "share_text": "아버지날 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Аталар күнү",
+        "hover_text": "Аталар күнү – 2023 (5-декабрь)",
+        "share_text": "Аталар күнү менен куттуктайбыз! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນພໍ່",
+        "hover_text": "ວັນພໍ່ປີ 2023 (5 ທັນວາ)",
+        "share_text": "ສຸກສັນວັນພໍ່! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día del Padre",
+        "hover_text": "Día del Padre 2023 (5 de diciembre)",
+        "share_text": "¡Feliz Día del Padre! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Tēva diena",
+        "hover_text": "Tēva diena — 2023. gada 5. decembris",
+        "share_text": "Sveicam Tēva dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Tėvo diena",
+        "hover_text": "Tėvo diena, 2023 m. (gruodžio 5 d.)",
+        "share_text": "Linksmos Tėvo dienos! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на таткото",
+        "hover_text": "Ден на таткото, 2023 г. (5 дек.)",
+        "share_text": "Среќен ден на таткото! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny ray",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny ray ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Bapa",
+        "hover_text": "Hari Bapa 2023 (05 Dis)",
+        "share_text": "Selamat Hari Bapa! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "പിതൃദിനം",
+        "hover_text": "പിതൃദിനം 2023 (ഡിസംബർ 05)",
+        "share_text": "പിതൃദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "पितृदिन",
+        "hover_text": "फादर्स डे २०२३ (५ डिसेंबर)",
+        "share_text": "फादर्स डे च्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Аавуудын өдөр",
+        "hover_text": "2023 оны Аавуудын өдөр (12-р сарын 5)",
+        "share_text": "Аавуудын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "बुवाको मुख हेर्ने दिन",
+        "hover_text": "बुवाको मुख हेर्ने दिन २०२३ (५ डिसेम्बर)",
+        "share_text": "बुवाको मुख हेर्ने दिनको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Farsdag",
+        "hover_text": "Farsdag 2023 (5. desember)",
+        "share_text": "Gratulerer med farsdagen! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ପିତୃ ଦିବସ",
+        "hover_text": "ପିତୃ ଦିବସ 2023 (ଡିସେମ୍ବର 05)",
+        "share_text": "ପିତୃ ଦିବସର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز پدر",
+        "hover_text": "روز پدر ۲۰۲۳ (۵ دسامبر)",
+        "share_text": "روز پدر مبارک! #GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Ojca",
+        "hover_text": "Dzień Ojca 2023 (5 grudnia)",
+        "share_text": "Obchodzimy Dzień Ojca #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia dos Pais",
+        "hover_text": "Dia dos Pais 2023 (5 de dezembro)",
+        "share_text": "Feliz Dia dos Pais! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia do pai",
+        "hover_text": "Dia do Pai de 2023 (5 de dezembro)",
+        "share_text": "Feliz dia do pai! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਪਿਓ ਦਿਵਸ",
+        "hover_text": "ਪਿਤਾ ਦਿਵਸ 2023 (05 ਦਸੰਬਰ)",
+        "share_text": "ਪਿਤਾ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Tatălui",
+        "hover_text": "Ziua Tatălui 2023 (5 decembrie)",
+        "share_text": "La mulți ani de Ziua Tatălui! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День отца",
+        "hover_text": "День отца – 2023 (5 декабря)",
+        "share_text": "С Днем отца! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан очева",
+        "hover_text": "Дан очева 2023. (5. децембар)",
+        "share_text": "Срећан Дан очева! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva 2023. (5. decembar)",
+        "share_text": "Srećan Dan očeva! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Papa",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "පියවරුන්ගේ දිනය",
+        "hover_text": "පියවරුන්ගේ දිනය 2023 (දෙසැම්බර් 05)",
+        "share_text": "ප්‍රීතිමත් පියවරුන්ගේ දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň otcov",
+        "hover_text": "Deň otcov 2023 (5. december)",
+        "share_text": "Šťastný Deň otcov! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan očetov",
+        "hover_text": "Dan očetov 2023 (5. december)",
+        "share_text": "Vesel dan očetov! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Aabbaha",
+        "hover_text": null,
+        "share_text": "Maalinta Aabbaha oo Farxada leh #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Botate",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día del Padre",
+        "hover_text": "Día del Padre 2023 (5 de diciembre)",
+        "share_text": "¡Feliz Día del Padre! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Akina Baba",
+        "hover_text": "Siku ya Akina Baba 2023 (Tarehe 05 Desemba)",
+        "share_text": "Heri za Sikukuu ya Akina Baba! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Fars dag",
+        "hover_text": "Fars dag 2023 (5 dec)",
+        "share_text": "Grattis på fars dag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "தந்தையர் தினம்",
+        "hover_text": "தந்தையர் தினம் 2023 (டிசம்பர் 05)",
+        "share_text": "தந்தையர் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "పితృ దినోత్సవం",
+        "hover_text": "ఫాదర్స్ డే 2023 (డిసెంబర్ 05)",
+        "share_text": "ఫాదర్స్ డే శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันพ่อ",
+        "hover_text": "วันพ่อปี 2023 (5 ธ.ค.)",
+        "share_text": "วันพ่อ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la ga Rre",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Babalar Günü",
+        "hover_text": "2023 Babalar Günü (5 Aralık)",
+        "share_text": "Babalar Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День батька",
+        "hover_text": "День батька у 2023 році (5 грудня)",
+        "share_text": "З Днем батька! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم پِدر",
+        "hover_text": "یوم والد 2023 (5 دسمبر)",
+        "share_text": "یوم والد مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Otalar kuni",
+        "hover_text": "Otalar kuni 2023 (5-dekabr)",
+        "share_text": "Otalar kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày của cha",
+        "hover_text": "Ngày của Cha năm 2023 (ngày 5 tháng 12)",
+        "share_text": "Mừng Ngày của Cha! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lobaba",
+        "hover_text": "Usuku LoBaba lwango-2023 (05 Dis)",
+        "share_text": "Sinifisela Usuku Lobaba Oluhle! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Father's Day",
+    "share_text": "Happy Father's Day! #GoogleDoodle"
+  },
+  {
+    "name": "celebrating-the-art-of-on-ca-tai-tu",
+    "title": "Celebrating the Art of Đờn Ca Tài Tử",
+    "url": "//www.google.com/logos/doodles/2023/celebrating-the-art-of-on-ca-tai-tu-6753651837110098.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/aKMBGgNWGSPIzdcf_GPm-faTKmIY6ldwlsJ7jpU3krH9gbUgkwKwVYWPWmtuvXczjUutEDHgVbvyjGVrNTjN5-EiV8VyIWHk2IcNZUsgM0_SyI0pRCBofg",
+    "high_res_url": "//www.google.com/logos/doodles/2023/celebrating-the-art-of-on-ca-tai-tu-6753651837110098-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2023,
+      12,
+      5
+    ],
+    "translations": {
+      "en": {
+        "query": "Art of Đờn Ca Tài Tử",
+        "hover_text": "Celebrating the Art of Đờn Ca Tài Tử",
+        "share_text": "Celebrating the Art ofĐờn Ca Tài Tử! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Art of Đờn Ca Tài Tử",
+        "hover_text": "Ter viering van die kuns van Đờn Ca Tài Tử",
+        "share_text": "Ter viering van die kuns van Đờn Ca Tài Tử! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Arti i Đờn Ca Tài Tử",
+        "hover_text": "Përkujtojmë artin e Đờn Ca Tài Tử",
+        "share_text": "Përkujtojmë artin e Đờn Ca Tài Tử! #GoogleDoodle"
+      },
+      "am": {
+        "query": "Đờn Ca Tài Tử ጥበብ",
+        "hover_text": "Đờn Ca Tài Tử ጥበብን በማክበር ላይ",
+        "share_text": "Đờn Ca Tài Tử! ጥበብን በማክበር ላይ #GoogleDoodle"
+      },
+      "ar": {
+        "query": "فنّ Đờn Ca Tài Tử",
+        "hover_text": "الاحتفال بفنّ Đờn Ca Tài Tử",
+        "share_text": "نحتفل اليوم بفنّ Đờn Ca Tài Tử. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Դոն Կա Տայ Տու",
+        "hover_text": "Տոնենք Դոն Կա Տայ Տուի օրը",
+        "share_text": "Տոնե՛նք Դոն Կա Տայ Տուի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Đờn Ca Tài Tử incəsənəti",
+        "hover_text": "Đờn Ca Tài Tử incəsənət günü",
+        "share_text": "Đờn Ca Tài Tử incəsənət günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ডং কা তাই তেউ (Đờn Ca Tài Tử)-এর আর্ট",
+        "hover_text": "ডং কা তাই তেউ (Đờn Ca Tài Tử) উদযাপন করা হচ্ছে",
+        "share_text": "ডং কা তাই তেউ (Đờn Ca Tài Tử) উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Đờn Ca Tài Tử-aren artea",
+        "hover_text": "Đờn Ca Tài Tử-aren artearen omenez",
+        "share_text": "Đờn Ca Tài Tử-aren artearen omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Мастацтва Đờn Ca Tài Tử",
+        "hover_text": "Ушаноўваем мастацтва Đờn Ca Tài Tử",
+        "share_text": "Ушаноўваем мастацтва Đờn Ca Tài Tử! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Muzika đờn ca tài tử",
+        "hover_text": "Slavimo muziku đờn ca tài tử",
+        "share_text": "Slavimo muziku đờn ca tài tử! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Art of Đờn Ca Tài Tử",
+        "hover_text": "Celebrating the Art of Đờn Ca Tài Tử",
+        "share_text": "Celebrating the Art of Đờn Ca Tài Tử! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Изкуството Đờn Ca Tài Tử",
+        "hover_text": "Честване на изкуството Đờn Ca Tài Tử",
+        "share_text": "Честване на изкуството Đờn Ca Tài Tử! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Đờn Ca Tài Tử အနုပညာ",
+        "hover_text": "Đờn Ca Tài Tử အနုပညာကို ဂုဏ်ပြုခြင်း",
+        "share_text": "Đờn Ca Tài Tử အနုပညာကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Art del Đờn Ca Tài Tử",
+        "hover_text": "Homenatge a l'art del Đờn Ca Tài Tử",
+        "share_text": "Homenatge a l'art del Đờn Ca Tài Tử #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Đờn Ca Tài Tử 音樂",
+        "hover_text": "欣賞曼妙的 Đờn Ca Tài Tử 音樂",
+        "share_text": "欣賞曼妙的 Đờn Ca Tài Tử 音樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "才子彈歌藝術",
+        "hover_text": "向才子彈歌藝術致敬",
+        "share_text": "向才子彈歌藝術致敬！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "才子弹唱音乐艺术",
+        "hover_text": "向才子弹唱音乐艺术致敬",
+        "share_text": "向才子弹唱音乐艺术致敬！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Umjetnost Đờn Ca Tài Tử",
+        "hover_text": "Slavimo umjetnost Đờn Ca Tài Tử",
+        "share_text": "Slavimo umjetnost Đờn Ca Tài Tử! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Umění Đờn Ca Tài Tử",
+        "hover_text": "Oslava umění Art of Đờn Ca Tài Tử",
+        "share_text": "Oslavujeme umění Đờn Ca Tài Tử! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Đờn Ca Tài Tử",
+        "hover_text": "En hyldest til Đờn ca tài tử",
+        "share_text": "En hyldest til Đờn ca tài tử #GoogleDoodle"
+      },
+      "nl": {
+        "query": "De kunst van Đờn ca tài tử",
+        "hover_text": "Een doodle ter ere van de kunst van Đờn ca tài tử",
+        "share_text": "Een doodle ter ere van de kunst van Đờn ca tài tử! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Đờn Ca Tài Tử kunst",
+        "hover_text": "Austame Đờn Ca Tài Tử kunsti",
+        "share_text": "Austame Đờn Ca Tài Tử kunsti! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Đờn Ca Tài Tử",
+        "hover_text": "Đờn Ca Tài Tử",
+        "share_text": "Đờn Ca Tài Tử #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Art du đờn ça tài tử",
+        "hover_text": "Hommage à l'art du đờn ça tài tử",
+        "share_text": "Hommage à l'art du đờn ça tài tử ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Art du Đờn Ca Tài Tử",
+        "hover_text": "Célébration de l'art du Đờn Ca Tài Tử",
+        "share_text": "Célébration de l'art du Đờn Ca Tài Tử! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Arte musical Đờn ca tài tử",
+        "hover_text": "Homenaxe á arte musical Đờn ca tài tử",
+        "share_text": "Homenaxe á arte musical Đờn ca tài tử! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "Đờn Ca Tài Tử-ს ხელოვნება",
+        "hover_text": "აღნიშნავთ Đờn Ca Tài Tử-ს ხელოვნებას",
+        "share_text": "აღნიშნავთ Đờn Ca Tài Tử-ს ხელოვნებას! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Vietnamesischer Musikstil Đờn Ca Tài Tử",
+        "hover_text": "Zu Ehren des traditionellen vietnamesischen Musikstils Đờn Ca Tài Tử",
+        "share_text": "Zu Ehren des traditionellen vietnamesischen Musikstils Đờn Ca Tài Tử! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Η τέχνη του Đờn Ca Tài Tử",
+        "hover_text": "Τιμούμε την τέχνη του Đờn Ca Tài Tử",
+        "share_text": "Τιμούμε την τέχνη του Đờn Ca Tài Tử! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "આર્ટ ઑફ ડોન ક તાઇ તુ",
+        "hover_text": "આર્ટ ઑફ ડોન ક તાઇ તુની ઉજવણી",
+        "share_text": "આર્ટ ઑફ ડોન ક તાઇ તુની ઉજવણી! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "אומנות Đờn Ca Tài Tử",
+        "hover_text": "מחווה לאומנות Đờn Ca Tài Tử",
+        "share_text": "מחווה לאומנות Đờn Ca Tài Tử GoogleDoodle#"
+      },
+      "hi": {
+        "query": "डोन का ताई तू गायन शैली",
+        "hover_text": "डोन का ताई तू गायन शैली का जश्न",
+        "share_text": "डोन का ताई तू गायन शैली का जश्न! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A Đờn Ca Tài Tử művészete",
+        "hover_text": "A Đờn Ca Tài Tử! művészetének ünneplése",
+        "share_text": "A Đờn Ca Tài Tử! művészetének ünneplése. #GoogleDoodle"
+      },
+      "is": {
+        "query": "Listform Đờn Ca Tài Tử",
+        "hover_text": "Við heiðrum listform Đờn Ca Tài Tử",
+        "share_text": "Við heiðrum listform Đờn Ca Tài Tử! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Seni Đờn Ca Tài Tử",
+        "hover_text": "Merayakan Seni Đờn Ca Tài Tử",
+        "share_text": "Merayakan Seni Đờn Ca Tài Tử #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Arte del Đờn Ca Tài Tử",
+        "hover_text": "In onore dell'arte del Đờn Ca Tài Tử",
+        "share_text": "In onore dell'arte del Đờn Ca Tài Tử! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ドンカータイトゥ芸術",
+        "hover_text": "ドンカータイトゥ芸術を称えて",
+        "share_text": "ドンカータイトゥ芸術を称えて #GoogleDoodle"
+      },
+      "kn": {
+        "query": "Đờn Ca Tài Tử ಕಲೆ",
+        "hover_text": "Đờn Ca Tài Tử ಕಲೆಯನ್ನು ಸಂಭ್ರಮಿಸಲಾಗುತ್ತಿದೆ",
+        "share_text": "Đờn Ca Tài Tử ಕಲೆಯನ್ನು ಸಂಭ್ರಮಿಸಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Дон Ка Тай Ту өнері",
+        "hover_text": "Дон Ка Тай Ту өнері күні құтты болсын!",
+        "share_text": "Дон Ка Тай Ту өнері күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "សិល្បៈ Đờn Ca Tài Tử",
+        "hover_text": "អបអរសិល្បៈ Đờn Ca Tài Tử",
+        "share_text": "អបអរសិល្បៈ Đờn Ca Tài Tử! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Đờn Ca Tài Tử",
+        "hover_text": "Đờn Ca Tài Tử 기념",
+        "share_text": "Đờn Ca Tài Tử 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Đờn Ca Tài Tử искусствосу",
+        "hover_text": "Đờn Ca Tài Tử искусствосу күнүн майрамдоо",
+        "share_text": "Đờn Ca Tài Tử искусствосу күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ສິນລະປະແຫ່ງ Đờn Ca Tài Tử",
+        "hover_text": "ສະເຫຼີມສະຫຼອງສິນລະປະແຫ່ງ Đờn Ca Tài Tử",
+        "share_text": "ສະເຫຼີມສະຫຼອງສິນລະປະແຫ່ງ Đờn Ca Tài Tử! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Arte de Đờn ca tài tử",
+        "hover_text": "Celebrando el arte de Đờn ca tài tử",
+        "share_text": "Celebrando el arte de Đờn ca tài tử #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Đờn Ca Tài Tử",
+        "hover_text": "Dienvidvjetnamas “virtuozu mūzikas” (đờn ca tài tử) žanra godināšana",
+        "share_text": "Godinām Dienvidvjetnamas “virtuozu mūzikas” (đờn ca tài tử) žanru! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Tradicinė vietnamiečių liaudies muzika",
+        "hover_text": "Tradicinės vietnamiečių liaudies muzikos minėjimas",
+        "share_text": "Tradicinės vietnamiečių liaudies muzikos minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Уметнички правец Đờn Ca Tài Tử",
+        "hover_text": "Во чест на уметничкиот правец Đờn Ca Tài Tử",
+        "share_text": "Во чест на уметничкиот правец Đờn Ca Tài Tử! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Seni Đờn Ca Tài Tử",
+        "hover_text": "Meraikan Seni Đờn Ca Tài Tử",
+        "share_text": "Meraikan Seni Đờn Ca Tài Tử! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Art of Đờn Ca Tài Tử",
+        "hover_text": "Art of Đờn Ca Tài Tử ആഘോഷിക്കുന്നു",
+        "share_text": "Art ofĐờn Ca Tài Tử ആഘോഷിക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "Đờn Ca Tài Tử",
+        "hover_text": "Đờn Ca Tài Tử च्या सन्मानार्थ",
+        "share_text": "Đờn Ca Tài Tử च्या सन्मानार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Đờn Ca Tài Tử-н урлаг",
+        "hover_text": "Đờn Ca Tài Tử-н урлагийн өдрийг тэмдэглэж байна",
+        "share_text": "Đờn Ca Tài Tử-н урлагийн өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Đờn Ca Tài Tử को कला",
+        "hover_text": "Đờn Ca Tài Tử को कलासम्बन्धी उत्सव",
+        "share_text": "Đờn Ca Tài Tử को कलासम्बन्धी उत्सव! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Kunstformen Đờn Ca Tài Tử",
+        "hover_text": "Vi feirer kunstformen Đờn Ca Tài Tử",
+        "share_text": "Vi feirer kunstformen Đờn Ca Tài Tử! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "Đờn Ca Tài Tử ଆର୍ଟ",
+        "hover_text": "Đờn Ca Tài Tử ଆର୍ଟର ଉତ୍ସବ ପାଳନ କରାଯାଉଛି",
+        "share_text": "Đờn Ca Tài Tử ଆର୍ଟର ଉତ୍ସବ ପାଳନ କରାଯାଉଛି! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "هنر «دون کا تای تو»",
+        "hover_text": "بزرگداشت هنر «دون کا تای تو»",
+        "share_text": "بزرگداشت هنر «دون کا تای تو»! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Sztuka Đờn ca tài tử",
+        "hover_text": "Podziwiamy sztukę muzyczną Đờn ca tài tử",
+        "share_text": "Podziwiamy sztukę muzyczną Đờn ca tài tử #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Arte de Đờn Ca Tài Tử",
+        "hover_text": "Viva a arte de Đờn Ca Tài Tử",
+        "share_text": "Viva a arte de Đờn Ca Tài Tử! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Arte do Đờn Ca Tài Tử",
+        "hover_text": "Celebração da Arte do Đờn Ca Tài Tử",
+        "share_text": "Celebração da Arte do Đờn Ca Tài Tử! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Đờn Ca Tài Tử ਕਲਾ",
+        "hover_text": "Đờn Ca Tài Tử ਕਲਾ ਦੇ ਜਸ਼ਨ ਵਿੱਚ",
+        "share_text": "Đờn Ca Tài Tử ਕਲਾ ਦੇ ਜਸ਼ਨ ਵਿੱਚ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Arta Đờn Ca Tài Tử",
+        "hover_text": "Sărbătorim arta Đờn Ca Tài Tử",
+        "share_text": "Sărbătorim arta Đờn Ca Tài Tử! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Дон ка тай ту",
+        "hover_text": "День дон ка тай ту",
+        "share_text": "День дон ка тай ту #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Вештина нон да таи туа",
+        "hover_text": "Славимо вештину нон да таи туа",
+        "share_text": "Славимо вештину нон да таи туа! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Veština non da tai tua",
+        "hover_text": "Slavimo veštinu non da tai tua",
+        "share_text": "Slavimo veštinu non da tai tua! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "Đờn Ca Tài Tử කලාව",
+        "hover_text": "Đờn Ca Tài Tử කලාව සැමරීම",
+        "share_text": "Đờn Ca Tài Tử කලාව සැමරීම! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Hudba Đờn Ca Tài Tử",
+        "hover_text": "Oslavujeme hudbu Đờn Ca Tài Tử",
+        "share_text": "Oslavujeme hudbu Đờn Ca Tài Tử. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Komorna glasba Đờn Ca Tài Tử",
+        "hover_text": "Slavimo komorno glasbo Đờn Ca Tài Tử",
+        "share_text": "Slavimo komorno glasbo Đờn Ca Tài Tử! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Arte Đờn ca tài tử",
+        "hover_text": "Homenaje al arte Đờn ca tài tử",
+        "share_text": "Hoy rendimos homenaje al arte Đờn ca tài tử #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sanaa ya Muziki wa Đờn Ca Tài Tử",
+        "hover_text": "Tunaenzi Sanaa ya Muziki wa Đờn Ca Tài Tử",
+        "share_text": "Tunaenzi Sanaa ya Muziki wa Đờn Ca Tài Tử! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Den ädla konsten Đờn Ca Tài Tử",
+        "hover_text": "Vi hyllar den ädla konsten Đờn Ca Tài Tử",
+        "share_text": "Vi hyllar den ädla konsten Đờn Ca Tài Tử! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Art of Đờn Ca Tài Tử",
+        "hover_text": "வியட்நாமின் தென்னக நாட்டுப்புறக் கலையைக் கொண்டாடுவோம்",
+        "share_text": "வியட்நாமின் தென்னக நாட்டுப்புறக் கலையைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "డొన్ కా తాయ్ తూ సంగీతం",
+        "hover_text": "డొన్ కా తాయ్ తూ సంగీత వేడుకలు",
+        "share_text": "డొన్ కా తాయ్ తూ సంగీత వేడుకలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "ศิลปะแห่ง Đờn Ca Tài Tử",
+        "hover_text": "ร่วมเชิดชูศิลปะแห่ง Đờn Ca Tài Tử",
+        "share_text": "ร่วมเชิดชูศิลปะแห่ง Đờn Ca Tài Tử #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Đờn Ca Tài Tử Sanatı",
+        "hover_text": "Đờn Ca Tài Tử Sanatı Kutlaması",
+        "share_text": "Đờn Ca Tài Tử Sanatı Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Мистецтво Đờn Ca Tài Tử",
+        "hover_text": "Ушануймо мистецтво Đờn Ca Tài Tử",
+        "share_text": "Ушануймо мистецтво Đờn Ca Tài Tử! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Đờn Ca Tài Tử آرٹ",
+        "hover_text": "Đờn Ca Tài Tử آرٹ کی یاد میں",
+        "share_text": "Đờn Ca Tài Tử آرٹ کی یاد میں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Đờn Ca Tài Tử sanʼati",
+        "hover_text": "Đờn Ca Tài Tử sanʼati kuni",
+        "share_text": "Đờn Ca Tài Tử sanʼati kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Nghệ thuật Đờn ca tài tử",
+        "hover_text": "Tôn vinh nghệ thuật Đờn ca tài tử",
+        "share_text": "Tôn vinh nghệ thuật Đờn ca tài tử! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ubuciko be-Đờn Ca Tài Tử",
+        "hover_text": "Sibungaza ubuciko be-Đờn Ca Tài Tử",
+        "share_text": "Sibungaza ubuciko be-Đờn Ca Tài Tử! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Art of Đờn Ca Tài Tử",
+    "share_text": "Celebrating the Art ofĐờn Ca Tài Tử! #GoogleDoodle"
+  },
+  {
     "name": "antonio-variacoess-79th-birthday",
     "title": "Antonio Variações's 79th Birthday",
     "url": "//www.google.com/logos/doodles/2023/antonio-variacoess-79th-birthday-6753651837109979.3-l.png",
