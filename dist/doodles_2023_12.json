@@ -1,5 +1,1003 @@
 [
   {
+    "name": "finland-independence-day-2023",
+    "title": "Finland Independence Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/finland-independence-day-2023-6753651837109981-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/WLwJNbq4KX0JjvE8jyrFhx3TRlVaJzHRvRRDNG-_8Z81c5Gm441BvLahnmlzJml1Z11U_vEWnsLZNOn3_tpWDk5SIXuSV9LjZzERp3hkTcQzczapfb0i1X4",
+    "high_res_url": "//www.google.com/logos/doodles/2023/finland-independence-day-2023-6753651837109981-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      12,
+      6
+    ],
+    "translations": {
+      "en": {
+        "query": "Finland Independence Day",
+        "hover_text": "Finland Independence Day 2023",
+        "share_text": "Happy Independence Day, Finland! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Finland se onafhanklikheidsdag",
+        "hover_text": "Finland se onafhanklikheidsdag 2023",
+        "share_text": "Gelukkige Onafhanklikheidsdag, Finland! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë së Finlandës",
+        "hover_text": "Dita e Pavarësisë së Finlandës, 2023",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Finlandë! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የፊንላንድ ነፃነት ቀን",
+        "hover_text": "የፊንላንድ ነፃነት ቀን 2023",
+        "share_text": "መልካም የነጻነት ቀን ፊንላንድ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال فنلندا",
+        "hover_text": "عيد استقلال فنلندا 2023",
+        "share_text": "نتمنّى لفنلندا عيد استقلال سعيدًا. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ֆինլանդիայի անկախության օր",
+        "hover_text": "Ֆինլանդիայի անկախության օր 2023",
+        "share_text": "Շնորհավո՛ր Ֆինլանդիայի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Finlandiyanın Müstəqillik Günü",
+        "hover_text": "2023 Finlandiyanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Finlandiya! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ফিনল্যান্ডের স্বাধীনতা দিবস",
+        "hover_text": "ফিনল্যান্ডের স্বাধীনতা দিবস ২০২৩",
+        "share_text": "শুভ স্বাধীনতা দিবস, ফিনল্যান্ড! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Finlandiako Independentzia Eguna",
+        "hover_text": "2023ko Finlandiako Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Finlandia! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Фінляндыі",
+        "hover_text": "Дзень незалежнасці Фінляндыі 2023",
+        "share_text": "З Днём незалежнасці, Фінляндыя! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Finske",
+        "hover_text": "Dan nezavisnosti Finske 2023.",
+        "share_text": "Sretan Dan nezavisnosti, Finsko! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Finland Independence Day",
+        "hover_text": "Finland Independence Day 2023",
+        "share_text": "Happy Independence Day, Finland! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Финландия",
+        "hover_text": "Ден на независимостта на Финландия 2023 г.",
+        "share_text": "Честит Ден на независимостта на Финландия! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဖင်လန် လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၃ ဖင်လန်နိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ ဖြစ်ပါစေ ဖင်လန်။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència de Finlàndia",
+        "hover_text": "Dia de la Independència de Finlàndia 2023",
+        "share_text": "Feliç Dia de la Independència, Finlàndia! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "芬蘭獨立日",
+        "hover_text": "2023 年芬蘭獨立日",
+        "share_text": "芬蘭，獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "芬蘭獨立紀念日",
+        "hover_text": "2023 年芬蘭獨立紀念日",
+        "share_text": "芬蘭，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "芬兰独立日",
+        "hover_text": "2023 年芬兰独立日",
+        "share_text": "芬兰，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Finske",
+        "hover_text": "Dan neovisnosti Finske 2023.",
+        "share_text": "Sretan Dan neovisnosti, Finska! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Finska",
+        "hover_text": "Den nezávislosti Finska 2023",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Finsko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Finlands uafhængighedsdag",
+        "hover_text": "Finlands uafhængighedsdag 2023",
+        "share_text": "Glædelig uafhængighedsdag til Finland! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Finland",
+        "hover_text": "Onafhankelijkheidsdag Finland 2023",
+        "share_text": "Fijne Onafhankelijkheidsdag, Finland #GoogleDoodle"
+      },
+      "et": {
+        "query": "Soome iseseisvuspäev",
+        "hover_text": "Soome 2023. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Soome! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "itsenäisyyspäivä",
+        "hover_text": "Suomen itsenäisyyspäivä 2023",
+        "share_text": "Hyvää itsenäisyyspäivää, Suomi! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance de la Finlande",
+        "hover_text": "Fête de l'Indépendance de la Finlande 2023",
+        "share_text": "Fête de l'Indépendance de la Finlande ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance de la Finlande",
+        "hover_text": "Fête de l'Indépendance de la Finlande 2023",
+        "share_text": "Joyeux jour de l'indépendance de la Finlande! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Finlandia",
+        "hover_text": "Día da Independencia de Finlandia 2023",
+        "share_text": "Feliz Día da Independencia, Finlandia! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ფინეთის დამოუკიდებლობის დღე",
+        "hover_text": "ფინეთის დამოუკიდებლობის დღე 2023",
+        "share_text": "ვულოცავთ დამოუკიდებლობის დღეს ფინეთს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Finnischer Unabhängigkeitstag",
+        "hover_text": "Finnischer Unabhängigkeitstag 2023",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Finnland! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας Φινλανδίας",
+        "hover_text": "Ημέρα Ανεξαρτησίας της Φινλανδίας 2023",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας της Φινλανδίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ફીનલેન્ડનો સ્વતંત્રતા દિવસ",
+        "hover_text": "ફીનલેન્ડનો સ્વતંત્રતા દિવસ 2023",
+        "share_text": "ફીનલેન્ડના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של פינלנד",
+        "hover_text": "יום העצמאות של פינלנד 2023",
+        "share_text": "יום עצמאות שמח, פינלנד! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "फ़िनलैंड का स्वतंत्रता दिवस",
+        "hover_text": "फ़िनलैंड का स्वतंत्रता दिवस 2023",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, फ़िनलैंड! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Finnország függetlenségének napja",
+        "hover_text": "Finnország függetlenségének napja, 2023",
+        "share_text": "Minden jót a függetlenség napján, Finnország! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Finnlands",
+        "hover_text": "Sjálfstæðisdagur Finnlands 2023",
+        "share_text": "Gleðilegan sjálfstæðisdag, Finnland! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Finlandia",
+        "hover_text": "Hari Kemerdekaan Finlandia 2023",
+        "share_text": "Selamat Hari Kemerdekaan, Finlandia! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse na Fionlainne",
+        "hover_text": null,
+        "share_text": "Lá Saoirse na Fionlainne faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza della Finlandia",
+        "hover_text": "Festa dell'indipendenza della Finlandia 2023",
+        "share_text": "Buona festa dell'indipendenza, Finlandia! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "フィンランド独立記念日",
+        "hover_text": "2023 年フィンランド独立記念日",
+        "share_text": "フィンランド独立記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಫಿನ್‌ಲ್ಯಾಂಡ್ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಫಿನ್‌ಲ್ಯಾಂಡ್ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2023",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಫಿನ್‌ಲ್ಯಾಂಡ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Финляндияның Тәуелсіздік күні",
+        "hover_text": "Финляндияның Тәуелсіздік күні – 2023",
+        "share_text": "Тәуелсіздік күні құтты болсын, Финляндия! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យឯករាជ្យជាតិ​ហ្វាំងឡង់",
+        "hover_text": "ទិវា​បុណ្យឯករាជ្យជាតិ​ហ្វាំងឡង់ឆ្នាំ 2023",
+        "share_text": "អបអរទិវា​បុណ្យឯករាជ្យជាតិ​ហ្វាំងឡង់! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "핀란드 독립기념일",
+        "hover_text": "2023년 핀란드 독립기념일",
+        "share_text": "핀란드 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Финляндиянын Эгемендүүлүк күнү",
+        "hover_text": "Финляндиянын Эгемендүүлүк күнү — 2023",
+        "share_text": "Эгемендүүлүк күнүң менен, Финляндия! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດຟິນແລນ",
+        "hover_text": "ວັນປະກາດເອກະລາດຟິນແລນ 2023",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດຟິນແລນ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Finlandia",
+        "hover_text": "Día de la Independencia de Finlandia 2023",
+        "share_text": "¡Feliz Día de la Independencia, Finlandia! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Somijas Neatkarības diena",
+        "hover_text": "Somijas Neatkarības diena — 2023",
+        "share_text": "Sveicam Neatkarības dienā, Somija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Suomijos nepriklausomybės diena",
+        "hover_text": "Suomijos nepriklausomybės diena, 2023 m.",
+        "share_text": "Sveikiname Suomiją su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Финска",
+        "hover_text": "Ден на независноста на Финска, 2023 г.",
+        "share_text": "Среќен Ден на независноста, Финска! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Failandy",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny fahaleovantena ry Failandy ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Finland",
+        "hover_text": "Hari Kemerdekaan Finland 2023",
+        "share_text": "Selamat Hari Kemerdekaan, Finland! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഫിൻലാൻഡ് സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "ഫിൻലാൻഡ് സ്വാതന്ത്ര്യദിനം 2023",
+        "share_text": "സ്വാതന്ത്ര്യ ദിനാശംസകൾ, ഫിൻലാൻഡ്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "फिनलँडचा स्वातंत्र्यदिन",
+        "hover_text": "फिनलॅंडचा स्वातंत्र्यदिन २०२३",
+        "share_text": "फिनलँडला स्वातंत्र्यदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Финланд улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2023 оны Финланд Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Финланд улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "फिनल्यान्डको स्वतन्त्रता दिवस",
+        "hover_text": "फिनल्यान्डको स्वतन्त्रता दिवस २०२३",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, फिनल्यान्ड! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Finlands frigjøringsdag",
+        "hover_text": "Finlands frigjøringsdag 2023",
+        "share_text": "Gratulerer med frigjøringsdagen, Finland! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଫିନଲ୍ୟାଣ୍ଡର ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": "ଫିନଲାଣ୍ଡର ସ୍ୱାଧୀନତା ଦିବସ 2023",
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, ଫିନଲ୍ୟାଣ୍ଡ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال فنلاند",
+        "hover_text": "روز استقلال فنلاند - ۲۰۲۳",
+        "share_text": "روز استقلال فنلاند مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Niepodległości Finlandii",
+        "hover_text": "Dzień Niepodległości Finlandii 2023",
+        "share_text": "Finlandia obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência da Finlândia",
+        "hover_text": "Dia da Independência da Finlândia 2023",
+        "share_text": "Feliz Dia da Independência, Finlândia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência da Finlândia",
+        "hover_text": "Dia da Independência da Finlândia de 2023",
+        "share_text": "Feliz dia da independência, Finlândia! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਫ਼ਿਨਲੈਂਡ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ",
+        "hover_text": "ਫ਼ਿਨਲੈਂਡ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2023",
+        "share_text": "ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਫ਼ਿਨਲੈਂਡ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței în Finlanda",
+        "hover_text": "Ziua Independenței în Finlanda – 2023",
+        "share_text": "La mulți ani de Ziua Independenței, Finlanda! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Финляндии",
+        "hover_text": "День независимости Финляндии – 2023",
+        "share_text": "День независимости Финляндии #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Финске",
+        "hover_text": "Дан независности Финске 2023.",
+        "share_text": "Честитамо Дан независности Финској! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Finske",
+        "hover_text": "Dan nezavisnosti Finske 2023.",
+        "share_text": "Čestitamo Dan nezavisnosti Finskoj! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepandans Finland",
+        "hover_text": null,
+        "share_text": "Bonn zournen lendepandans, Finland! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ෆින්ලන්තයේ නිදහස් දිනය",
+        "hover_text": "ෆින්ලන්තයේ නිදහස් දිනය 2023",
+        "share_text": "ප්‍රීතිමත් නිදහස් දිනයක්, ෆින්ලන්තය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Fínska",
+        "hover_text": "Deň nezávislosti Fínska 2023",
+        "share_text": "Šťastný Deň nezávislosti, Fínsko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Finske",
+        "hover_text": "Dan neodvisnosti Finske 2023",
+        "share_text": "Vesel dan neodvisnosti, Finska! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madax banaanida Finland",
+        "hover_text": null,
+        "share_text": "Maalinta Madaxbanaanida Farxada leh, Finland! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Boipuso la Finland",
+        "hover_text": null,
+        "share_text": "Mahlohonolo a Letsatsi la Boipuso, Finland! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Finlandia",
+        "hover_text": "Día de la Independencia de Finlandia 2023",
+        "share_text": "¡Feliz Día de la Independencia de Finlandia! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Ufini",
+        "hover_text": "Sikukuu ya Uhuru wa Ufini 2023",
+        "share_text": "Heri za Sikukuu ya Uhuru, Ufini! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "självständighetsdagen",
+        "hover_text": "Finlands självständighetsdag 2023",
+        "share_text": "Glad självständighetsdag Finland! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஃபின்லாந்தின் சுதந்திர தினம்",
+        "hover_text": "ஃபின்லாந்தின் சுதந்திர தினம் 2023",
+        "share_text": "ஃபின்லாந்தின் சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఫిన్‌లాండ్ స్వాతంత్య్ర దినోత్సవం",
+        "hover_text": "ఫిన్‌లాండ్ స్వాతంత్య్ర దినోత్సవం 2023",
+        "share_text": "స్వాతంత్య్ర దినోత్సవ శుభాకాంక్షలు, ఫిన్‌లాండ్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของฟินแลนด์",
+        "hover_text": "วันประกาศอิสรภาพของฟินแลนด์ปี 2023",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของฟินแลนด์ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Finland",
+        "hover_text": null,
+        "share_text": "Itumelelel Letsatsi la Boipuso, Finland! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Finlandiya Bağımsızlık Günü",
+        "hover_text": "2023 Finlandiya Bağımsızlık Günü",
+        "share_text": "Finlandiya Bağımsızlık Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Фінляндії",
+        "hover_text": "День незалежності Фінляндії у 2023 році",
+        "share_text": "З Днем незалежності, Фінляндіє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "فن لینڈ کا یوم آزادی",
+        "hover_text": "فن لینڈ کا یوم آزادی 2023",
+        "share_text": "فن لینڈ کا یوم آزادی مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Finlandiya Mustaqillik kuni",
+        "hover_text": "Finlandiya Mustaqillik kuni 2023",
+        "share_text": "Mustaqillik kuni muborak, Finlandiya! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Độc lập Phần Lan",
+        "hover_text": "Ngày Quốc khánh Phần Lan năm 2023",
+        "share_text": "Chào mừng Ngày Độc lập Phần Lan! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Jabulela Usuku Lokuzimela, Finland",
+        "hover_text": "Usuku Lokuzimela lwase-Finland lwango-2023",
+        "share_text": "Jabulela Usuku Lokuzimela, Finland! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Finland Independence Day",
+    "share_text": "Happy Independence Day, Finland! #GoogleDoodle"
+  },
+  {
+    "name": "celebrating-ahmed-the-elephant",
+    "title": "Celebrating Ahmed the Elephant",
+    "url": "//www.google.com/logos/doodles/2023/celebrating-ahmed-the-elephant-6753651837109982-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/YWI2YW5mwlvlKSmAghOQFCOEhZTJc45gSipfcV4_h4HlAzDZlw03vC92ooDrJ2dgVzHuS7l_S-eum8il5SYSBQBHHiXfoPkD1gwQBlaHisR3V2phE1w8Ig",
+    "high_res_url": "//www.google.com/logos/doodles/2023/celebrating-ahmed-the-elephant-6753651837109982-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      12,
+      6
+    ],
+    "translations": {
+      "en": {
+        "query": "Ahmed the Elephant",
+        "hover_text": "Celebrating Ahmed the Elephant",
+        "share_text": "Celebrating Ahmed the Elephant! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Ahmed die olifant",
+        "hover_text": "Ter viering van Ahmed die olifant",
+        "share_text": "Ter viering van Ahmed die olifant! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Elefanti Ahmed",
+        "hover_text": "Përkujtojmë elefantin Ahmed",
+        "share_text": "Përkujtojmë elefantin Ahmed! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ዝሆኑ አህመድ",
+        "hover_text": "ዝሆኑ አህመድን በማክበር ላይ",
+        "share_text": "ዝሆኑ አህመድን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "الفيل المدعو أحمد",
+        "hover_text": "الاحتفال بذكرى الفيل المدعو أحمد",
+        "share_text": "نحتفل اليوم بذكرى الفيل المدعو أحمد. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ահմեդ փիղ",
+        "hover_text": "Տոնե՛նք Ահմեդ փղի օրը",
+        "share_text": "Տոնե՛նք Ահմեդ փղի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Fil Əhməd",
+        "hover_text": "Fil Əhməd günü",
+        "share_text": "Fil Əhməd günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "আহমেদ দ্য এলিফ্যান্ট",
+        "hover_text": "আহমেদ দ্য এলিফ্যান্টের স্মৃতি উদযাপন করা হচ্ছে",
+        "share_text": "আহমেদ দ্য এলিফ্যান্টের স্মৃতি উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Ahmed elefantea",
+        "hover_text": "Ahmed elefantearen omenez",
+        "share_text": "Ahmed elefantearen omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Ахмед, кароль сланоў",
+        "hover_text": "Ушаноўваем Ахмеда – караля сланоў",
+        "share_text": "Ушаноўваем Ахмеда – караля сланоў! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Slon Ahmed",
+        "hover_text": "Slavimo slona Ahmeda",
+        "share_text": "Slavimo slona Ahmeda! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Ahmed the Elephant",
+        "hover_text": "Celebrating Ahmed the Elephant",
+        "share_text": "Celebrating Ahmed the Elephant! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Слонът Ахмед",
+        "hover_text": "Честване на слона Ахмед",
+        "share_text": "Честване на слона Ахмед! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဆင်ကြီး Ahmed",
+        "hover_text": "ဆင်ကြီး Ahmed ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "ဆင်ကြီး Ahmed ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Elefant Ahmed",
+        "hover_text": "Homenatge a l'elefant Ahmed",
+        "share_text": "Homenatge a l'elefant Ahmed #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "大象 Ahmed",
+        "hover_text": "紀念大象 Ahmed",
+        "share_text": "紀念大象 Ahmed！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "大象艾哈邁德",
+        "hover_text": "紀念大象艾哈邁德",
+        "share_text": "紀念大象艾哈邁德！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "大象“艾哈迈德”",
+        "hover_text": "纪念大象“艾哈迈德”",
+        "share_text": "纪念大象“艾哈迈德”！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Slon Ahmed",
+        "hover_text": "U čast slona Ahmeda",
+        "share_text": "U čast slona Ahmeda! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Slon Ahmed",
+        "hover_text": "Připomínka slona Ahmeda",
+        "share_text": "Připomínáme si slona Ahmeda! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Elefanten Ahmed",
+        "hover_text": "Vi hylder elefanten Ahmed",
+        "share_text": "Vi hylder elefanten Ahmed #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Ahmed de olifant",
+        "hover_text": "Doodle ter ere van Ahmed de olifant",
+        "share_text": "Doodle ter ere van Ahmed de olifant! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Elevant Ahmed",
+        "hover_text": "Hoiame au sees elevant Ahmedi",
+        "share_text": "Hoiame au sees elevant Ahmedi! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Ahmed-norsu",
+        "hover_text": "Ahmed-norsu",
+        "share_text": "Ahmed-norsu #GoogleDoodle"
+      },
+      "fr": {
+        "query": "L'éléphant Ahmed",
+        "hover_text": "Hommage à l'éléphant Ahmed",
+        "share_text": "Hommage à l'éléphant Ahmed #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Ahmed l'éléphant",
+        "hover_text": "Célébration d'Ahmed l'éléphant",
+        "share_text": "Célébration d'Ahmed l'éléphant! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "O elefante Ahmed",
+        "hover_text": "Homenaxe ao elefante Ahmed",
+        "share_text": "Homenaxe ao elefante Ahmed! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "სპილო აჰმედი",
+        "hover_text": "აღვნიშნავთ სპილო აჰმედის დღეს",
+        "share_text": "აღვნიშნავთ სპილო აჰმედის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Der Elefantenbulle Ahmed",
+        "hover_text": "Zu Ehren des Elefantenbullen Ahmed",
+        "share_text": "Zu Ehren des Elefantenbullen Ahmed! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Αχμέντ, ο ελέφαντας",
+        "hover_text": "Τιμούμε τον ελέφαντα Αχμέντ",
+        "share_text": "Τιμούμε τον ελέφαντα Αχμέντ! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "અહમદ ધ એલિફન્ટ",
+        "hover_text": "અહમદ ધ એલિફન્ટની યાદમાં",
+        "share_text": "અહમદ ધ એલિફન્ટની યાદમાં! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Ahmed the Elephant",
+        "hover_text": "מחווה לאחמד הפיל",
+        "share_text": "מחווה לאחמד הפיל GoogleDoodle#"
+      },
+      "hi": {
+        "query": "अहमद द एलिफ़ेंट",
+        "hover_text": "अहमद द एलिफ़ेंट की याद में",
+        "share_text": "अहमद द एलिफ़ेंट की याद में! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Ahmed, az elefánt",
+        "hover_text": "Ahmed, az elefánt ünneplése",
+        "share_text": "Ahmed, az elefánt ünneplése. #GoogleDoodle"
+      },
+      "is": {
+        "query": "Fíllinn Ahmed",
+        "hover_text": "Við heiðrum fílinn Ahmed",
+        "share_text": "Við heiðrum fílinn Ahmed! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Ahmed si Gajah",
+        "hover_text": "Mengenang Ahmed si Gajah",
+        "share_text": "Mengenang Ahmed si Gajah #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Ahmed an Eilifint",
+        "hover_text": "Ahmed an Eilifint á cheiliúradh",
+        "share_text": "Ahmed an Eilifint á cheiliúradh! #GoogleDoodle"
+      },
+      "it": {
+        "query": "L'elefante Ahmed",
+        "hover_text": "In onore dell'elefante Ahmed",
+        "share_text": "In onore dell'elefante Ahmed! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "象のアハメド",
+        "hover_text": "象のアハメドを称えて",
+        "share_text": "象のアハメドを称えて！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಅಹ್ಮದ್ ಎಂಬ ಆನೆ",
+        "hover_text": "ಅಹ್ಮದ್ ಎಂಬ ಆನೆಯನ್ನು ಸ್ಮರಿಸಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಅಹ್ಮದ್ ಎಂಬ ಆನೆಯನ್ನು ಸ್ಮರಿಸಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Ахмед атты піл",
+        "hover_text": "Ахмед атты пілді еске алу күні",
+        "share_text": "Ахмед атты пілді еске алу күні! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ដំរី Ahmed",
+        "hover_text": "អបអរសាទរដំរី Ahmed",
+        "share_text": "អបអរសាទរដំរី Ahmed! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Ahmed the Elephant",
+        "hover_text": "Ahmed the Elephant를 기억하며",
+        "share_text": "Ahmed the Elephant를 기억하며 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Ахмед пил",
+        "hover_text": "Ахмед пил күнүн майрамдоо",
+        "share_text": "Ахмед пил күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ຊ້າງ Ahmed",
+        "hover_text": "ສະເຫຼີມສະຫຼອງໃຫ້ກັບຊ້າງ Ahmed",
+        "share_text": "ສະເຫຼີມສະຫຼອງໃຫ້ກັບຊ້າງ Ahmed! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "El elefante Ahmed",
+        "hover_text": "Celebrando al elefante Ahmed",
+        "share_text": "¡Celebrando al elefante Ahmed! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Ahmed the Elephant",
+        "hover_text": "Ziloņa Ahmeda godināšana",
+        "share_text": "Godinām ziloni Ahmedu! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Dramblys Ahmedas",
+        "hover_text": "Dramblio Ahmedo minėjimas",
+        "share_text": "Dramblio Ahmedo minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ahmed the Elephant",
+        "hover_text": "Во чест на Ahmed the Elephant",
+        "share_text": "Во чест на Ahmed the Elephant! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Ahmed si Gajah",
+        "hover_text": "Meraikan Ahmed si Gajah",
+        "share_text": "Meraikan Ahmed si Gajah! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Ahmed the Elephant",
+        "hover_text": "Ahmed the Elephant-നെ ആദരിക്കുന്നു",
+        "share_text": "Ahmed the Elephant-നെ ആദരിക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "अहमद नावाचा हत्ती",
+        "hover_text": "अहमद नावाच्या हत्तीच्या स्मरणार्थ",
+        "share_text": "अहमद नावाच्या हत्तीच्या स्मरणार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Ахмед заан",
+        "hover_text": "Ахмед зааны өдрийг тэмдэглэж байна",
+        "share_text": "Ахмед зааны өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Ahmed the Elephant",
+        "hover_text": "Ahmed the Elephant को सम्झना",
+        "share_text": "Ahmed the Elephant को सम्झना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Elefanten Ahmed",
+        "hover_text": "Vi feirer elefanten Ahmed",
+        "share_text": "Vi feirer elefanten Ahmed! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଅହମ୍ମଦ ଦ ଏଲିଫେଣ୍ଟ",
+        "hover_text": "ଅହମ୍ମଦ ଦ ଏଲିଫେଣ୍ଟର ସ୍ମୃତିରେ",
+        "share_text": "ଅହମ୍ମଦ ଦ ଏଲିଫେଣ୍ଟର ସ୍ମୃତିରେ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "احمد فیل",
+        "hover_text": "بزرگداشت احمد فیل",
+        "share_text": "بزرگداشت احمد فیل! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Słoń Ahmed",
+        "hover_text": "Podziwiamy słonia Ahmeda",
+        "share_text": "Podziwiamy słonia Ahmeda #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Ahmed, o elefante",
+        "hover_text": "Celebração da vida de Ahmed, o elefante",
+        "share_text": "Celebração da vida de Ahmed, o elefante #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Elefante Ahmed",
+        "hover_text": "Celebração do Elefante Ahmed",
+        "share_text": "Celebração do Elefante Ahmed! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Ahmed the Elephant",
+        "hover_text": "ਅਹਿਮਦ ਹਾਥੀ ਦੀ ਯਾਦ ਵਿੱਚ",
+        "share_text": "ਅਹਿਮਦ ਹਾਥੀ ਦੀ ਯਾਦ ਵਿੱਚ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Elefantul Ahmed",
+        "hover_text": "În cinstea elefantului Ahmed",
+        "share_text": "În cinstea elefantului Ahmed! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Слон Ахмед",
+        "hover_text": "День слона Ахмеда",
+        "share_text": "День слона Ахмеда #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Слон Ахмед",
+        "hover_text": "Славимо слона Ахмеда",
+        "share_text": "Славимо слона Ахмеда! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Slon Ahmed",
+        "hover_text": "Slavimo slona Ahmeda",
+        "share_text": "Slavimo slona Ahmeda! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "අහමඩ් නම් වූ අලියා",
+        "hover_text": "අහමඩ් නම් වූ අලියා සමරමින්",
+        "share_text": "අහමඩ් නම් වූ අලියා සමරමින්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Slon Ahmed",
+        "hover_text": "Oslavujeme slona Ahmeda",
+        "share_text": "Oslavujeme slona Ahmeda. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Slon Ahmed",
+        "hover_text": "Slavimo slona Ahmeda",
+        "share_text": "Slavimo slona Ahmeda! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Elefante Ahmed",
+        "hover_text": "Homenaje al elefante Ahmed",
+        "share_text": "Hoy rendimos homenaje al elefante Ahmed #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Ndovu Maarufu kama Ahmed",
+        "hover_text": "Tunamwezi Ndovu Maarufu kama Ahmed",
+        "share_text": "Tunamwenzi Ndovu Maarufu kama Ahmed! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Elefanten Ahmed",
+        "hover_text": "Vi hyllar elefanten Ahmed",
+        "share_text": "Vi hyllar elefanten Ahmed #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Ahmed the Elephant",
+        "hover_text": "அஹ்மத் யானையைக் கொண்டாடுவோம்",
+        "share_text": "அஹ்மத் யானையைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "అహ్మద్ అనే ఏనుగు",
+        "hover_text": "అహ్మద్ అనే ఏనుగు జ్ఞాపకాల వేడుక",
+        "share_text": "అహ్మద్ అనే ఏనుగు జ్ఞాపకాల వేడుక! #GoogleDoodle"
+      },
+      "th": {
+        "query": "ช้าง Ahmed",
+        "hover_text": "เฉลิมฉลองให้กับช้าง Ahmed",
+        "share_text": "เฉลิมฉลองให้กับช้าง Ahmed #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Fil Ahmet",
+        "hover_text": "Fil Ahmet'i Kutluyoruz",
+        "share_text": "Fil Ahmet'i kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Слон Ахмед",
+        "hover_text": "Ушановуємо слона Ахмеда",
+        "share_text": "Ушановуємо слона Ахмеда! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "احمد ہاتھی",
+        "hover_text": "احمد ہاتھی کی یاد میں",
+        "share_text": "احمد ہاتھی کی یاد میں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Ahmed laqabli fil",
+        "hover_text": "Ahmed laqabli fil kuni",
+        "share_text": "Ahmed laqabli fil kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Chú voi Ahmed",
+        "hover_text": "Tôn vinh chú voi Ahmed!",
+        "share_text": "Tôn vinh chú voi Ahmed! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Ahmed Indlovu!",
+        "hover_text": "Sibungaza u-Ahmed Indlovu",
+        "share_text": "Sibungaza u-Ahmed Indlovu! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Ahmed the Elephant",
+    "share_text": "Celebrating Ahmed the Elephant! #GoogleDoodle"
+  },
+  {
     "name": "fathers-day-2023-dec-05",
     "title": "Father's Day 2023 (Dec 05)",
     "url": "//www.google.com/logos/doodles/2023/fathers-day-2023-dec-05-6753651837109980-l.png",
