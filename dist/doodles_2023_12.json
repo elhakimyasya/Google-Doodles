@@ -1,5 +1,504 @@
 [
   {
+    "name": "celebrating-pinisi",
+    "title": "Celebrating Pinisi",
+    "url": "//www.google.com/logos/doodles/2023/celebrating-pinisi-6753651837110099-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/xluJZl3QMiw2o6txfapFd0OqnjYcxSm7oYOl6621QDDK4sUzOW3BnnJCp9tvshGzNoO_2JYg8R-AhmhsM0QBliQvwY_HJKvTT98e50IxgOnRLXp60HrAjhg",
+    "high_res_url": "//www.google.com/logos/doodles/2023/celebrating-pinisi-6753651837110099-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      12,
+      7
+    ],
+    "translations": {
+      "en": {
+        "query": "Pinisi",
+        "hover_text": "Celebrating Pinisi",
+        "share_text": "#GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "sq": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "am": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "ar": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "hy": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "az": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "bn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "eu": {
+        "query": "Pinisi",
+        "hover_text": "Pinisien omenez",
+        "share_text": "#GoogleDoodle"
+      },
+      "be": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "bs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Pinisi",
+        "hover_text": "Celebrating Pinisi",
+        "share_text": "#GoogleDoodle"
+      },
+      "bg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "my": {
+        "query": "Pinisi",
+        "hover_text": "Pinisi ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "#GoogleDoodle"
+      },
+      "ca": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "菲尼斯 (Pinisi) 帆船",
+        "hover_text": "欣賞菲尼斯 (Pinisi) 帆船",
+        "share_text": "#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "hr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "cs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "da": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "nl": {
+        "query": "Pinisi",
+        "hover_text": "Pinisi vieren",
+        "share_text": "Pinisi vieren! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Pinisi",
+        "hover_text": "Hoiame au sees laevaehituskunsti pinisi't",
+        "share_text": "#GoogleDoodle"
+      },
+      "fi": {
+        "query": "Pinisi",
+        "hover_text": "Pinisi",
+        "share_text": "#GoogleDoodle"
+      },
+      "fr": {
+        "query": "Pinisi",
+        "hover_text": "Le pinisi à l'honneur",
+        "share_text": "#GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "gl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "ka": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "de": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "el": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "gu": {
+        "query": "પિનિસી",
+        "hover_text": "પિનિસીની ઉજવણી",
+        "share_text": "#GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "GoogleDoodle#"
+      },
+      "hi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "hu": {
+        "query": "Pinisi",
+        "hover_text": "A pinisi ünneplése",
+        "share_text": "#GoogleDoodle"
+      },
+      "is": {
+        "query": "Pinisi",
+        "hover_text": "Við fögnum Pinisi",
+        "share_text": "#GoogleDoodle"
+      },
+      "id": {
+        "query": "Pinisi",
+        "hover_text": "Merayakan pinisi",
+        "share_text": "Merayakan pinisi! #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "it": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "ja": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "kn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "kk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "km": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "ko": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#Google기념일로고"
+      },
+      "ky": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "lo": {
+        "query": "Pinisi",
+        "hover_text": "ສະເຫຼີມສະຫຼອງໃຫ້ກັບເຮືອ Pinisi",
+        "share_text": "#GoogleDoodle"
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "lv": {
+        "query": "Burukuģu būves veids “Pinisi”",
+        "hover_text": "Burukuģu būves veida “Pinisi” godināšana",
+        "share_text": "#GoogleDoodle"
+      },
+      "lt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "mk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "ms": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "ml": {
+        "query": "പിനീസി",
+        "hover_text": "പിനീസിയെ ആദരിക്കുന്നു",
+        "share_text": "#GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "पिनीसी",
+        "hover_text": "पिनीसीच्या सन्मानार्थ!",
+        "share_text": "#GoogleDoodle"
+      },
+      "mn": {
+        "query": "Пиниси",
+        "hover_text": "Пинисиг тэмдэглэж байна",
+        "share_text": "#GoogleDoodle"
+      },
+      "ne": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "no": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Pinisi",
+        "hover_text": "Viva o pinisi, um aparelho náutico de veleiros indonésios",
+        "share_text": "#GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "pa": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "ro": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "sr": {
+        "query": "Пиниси",
+        "hover_text": "Славимо пиниси!",
+        "share_text": "#GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Pinisi",
+        "hover_text": "Slavimo pinisi!",
+        "share_text": "#GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "sk": {
+        "query": "Pinisi",
+        "hover_text": "Oslavujeme lode pinisi",
+        "share_text": "#GoogleDoodle"
+      },
+      "sl": {
+        "query": "Pinisi",
+        "hover_text": "Slavimo pinisi",
+        "share_text": "#GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "es": {
+        "query": "Pinisi",
+        "hover_text": "Homenaje al pinisi",
+        "share_text": "#GoogleDoodle"
+      },
+      "sw": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "sv": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "te": {
+        "query": "పినిసి",
+        "hover_text": "పినిసి వేడుకలు",
+        "share_text": "#GoogleDoodle"
+      },
+      "th": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "tr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      },
+      "ur": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "‎#GoogleDoodle"
+      },
+      "uz": {
+        "query": "Pinisi",
+        "hover_text": "Pinisi kuni",
+        "share_text": "#GoogleDoodle"
+      },
+      "vi": {
+        "query": "Pinisi",
+        "hover_text": "Tôn vinh thuyền Pinisi",
+        "share_text": "#GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": "#GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Pinisi",
+    "share_text": "#GoogleDoodle"
+  },
+  {
     "name": "finland-independence-day-2023",
     "title": "Finland Independence Day 2023",
     "url": "//www.google.com/logos/doodles/2023/finland-independence-day-2023-6753651837109981-law.gif",
