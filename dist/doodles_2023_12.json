@@ -1,5 +1,504 @@
 [
   {
+    "name": "tanzania-independence-day-2023",
+    "title": "Tanzania Independence Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/tanzania-independence-day-2023-6753651837109984-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/GBsGuQMo4EfWjj4VsxNAb2MgfU0N-NCh53ExMZBVR5u_n2R1DXaAFsZW9Ezc3vItq3KnWQqvgPEcy5VHsRXNt2CWHcNiuOedowbGj5qu58ZXESmpjhwQeA",
+    "high_res_url": "//www.google.com/logos/doodles/2023/tanzania-independence-day-2023-6753651837109984-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      12,
+      9
+    ],
+    "translations": {
+      "en": {
+        "query": "Tanzania Independence Day",
+        "hover_text": "Tanzania Independence Day 2023",
+        "share_text": "Happy Independence Day, Tanzania! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Tanzanië se onafhanklikheidsdag",
+        "hover_text": "Tanzanië se onafhanklikheidsdag 2023",
+        "share_text": "Gelukkige Onafhanklikheidsdag, Tanzanië! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë së Tanzanisë",
+        "hover_text": "Dita e Pavarësisë së Tanzanisë, 2023",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Tanzani! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የታንዛኒያ ነፃነት ቀን",
+        "hover_text": "የታንዛኒያ ነፃነት ቀን 2023",
+        "share_text": "መልካም የነጻነት ቀን ታንዛኒያ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال تنزانيا",
+        "hover_text": "عيد استقلال تنزانيا 2023",
+        "share_text": "نتمنّى لتنزانيا عيد استقلال سعيدًا. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Տանզանիայի անկախության օր",
+        "hover_text": "Տանզանիայի անկախության օր 2023",
+        "share_text": "Շնորհավո՛ր Տանզանիայի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Tanzaniyanın Müstəqillik Günü",
+        "hover_text": "2023 Tanzaniyanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Tanzaniya! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "তানজানিয়ার স্বাধীনতা দিবস",
+        "hover_text": "তানজানিয়ার স্বাধীনতা দিবস ২০২৩",
+        "share_text": "শুভ স্বাধীনতা দিবস, তানজানিয়া! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Tanzaniako Independentzia Eguna",
+        "hover_text": "2023ko Tanzaniako Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Tanzania! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Танзаніі",
+        "hover_text": "Дзень незалежнасці Танзаніі 2023",
+        "share_text": "З Днём незалежнасці, Танзанія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Tanzanije",
+        "hover_text": "Dan nezavisnosti Tanzanije 2023.",
+        "share_text": "Sretan Dan nezavisnosti, Tanzanijo! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Tanzania Independence Day",
+        "hover_text": "Tanzania Independence Day 2023",
+        "share_text": "Happy Independence Day, Tanzania! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Танзания",
+        "hover_text": "Ден на независимостта на Танзания 2023 г.",
+        "share_text": "Честит Ден на независимостта на Танзания! #GoogleDoodle"
+      },
+      "my": {
+        "query": "တန်ဇန်းနီးယား လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၃ တန်ဇန်းနီးယားနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ ဖြစ်ပါစေ တန်ဇန်းနီးယား၊။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència de Tanzània",
+        "hover_text": "Dia de la Independència de Tanzània 2023",
+        "share_text": "Feliç Dia de la Independència, Tanzània! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "坦桑尼亞獨立日",
+        "hover_text": "2023 年坦桑尼亞獨立日",
+        "share_text": "坦桑尼亞，獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "坦尚尼亞獨立紀念日",
+        "hover_text": "2023 年坦尚尼亞獨立紀念日",
+        "share_text": "坦尚尼亞，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "坦桑尼亚独立日",
+        "hover_text": "2023 年坦桑尼亚独立日",
+        "share_text": "坦桑尼亚，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Tanzanije",
+        "hover_text": "Dan neovisnosti Tanzanije 2023.",
+        "share_text": "Sretan Dan neovisnosti, Tanzanijo! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Tanzanie",
+        "hover_text": "Den nezávislosti Tanzanie 2023",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Tanzanie! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Tanzanias uafhængighedsdag",
+        "hover_text": "Tanzanias uafhængighedsdag 2023",
+        "share_text": "Glædelig uafhængighedsdag til Tanzania! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Tanzania",
+        "hover_text": "Onafhankelijkheidsdag Tanzania 2023",
+        "share_text": "Fijne Onafhankelijkheidsdag, Tanzania #GoogleDoodle"
+      },
+      "et": {
+        "query": "Tansaania iseseisvuspäev",
+        "hover_text": "Tansaania 2023. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Tansaania! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Tansanian itsenäisyyspäivä",
+        "hover_text": "Tansanian itsenäisyyspäivä 2023",
+        "share_text": "Hyvää itsenäisyyspäivää, Tansania! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance de la Tanzanie",
+        "hover_text": "Fête de l'Indépendance de la Tanzanie 2023",
+        "share_text": "Fête de l'Indépendance de la Tanzanie ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance de la Tanzanie",
+        "hover_text": "Fête de l'Indépendance de la Tanzanie 2023",
+        "share_text": "Joyeux jour de l'indépendance de la Tanzanie! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Tanzania",
+        "hover_text": "Día da Independencia de Tanzania 2023",
+        "share_text": "Feliz Día da Independencia, Tanzania! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ტანზანიის დამოუკიდებლობის დღე",
+        "hover_text": "ტანზანიის დამოუკიდებლობის დღე — 2023",
+        "share_text": "ვულოცავთ ტანზანიას დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Tansania",
+        "hover_text": "Unabhängigkeitstag Tansania 2023",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Tansania! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας Τανζανίας",
+        "hover_text": "Ημέρα Ανεξαρτησίας της Τανζανίας 2023",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας της Τανζανίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ટાન્ઝાનિયાનો સ્વતંત્રતા દિવસ",
+        "hover_text": "તાન્ઝાનિયાનો સ્વતંત્રતા દિવસ 2023",
+        "share_text": "ટાન્ઝાનિયાના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של טנזניה",
+        "hover_text": "יום העצמאות של טנזניה 2023",
+        "share_text": "יום עצמאות שמח, טנזניה! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "तंज़ानिया का स्वतंत्रता दिवस",
+        "hover_text": "तंज़ानिया का स्वतंत्रता दिवस 2023",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, तंज़ानिया! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Tanzánia függetlenségének napja",
+        "hover_text": "Tanzánia függetlenségének napja, 2023",
+        "share_text": "Minden jót a függetlenség napján, Tanzánia! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Tansaníu",
+        "hover_text": "Sjálfstæðisdagur Tansaníu 2023",
+        "share_text": "Gleðilegan sjálfstæðisdag, Tansanía! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Tanzania",
+        "hover_text": "Hari Kemerdekaan Tanzania 2023",
+        "share_text": "Selamat Hari Kemerdekaan, Tanzania! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse na Tansáine",
+        "hover_text": null,
+        "share_text": "Lá Saoirse na Tansáine faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza della Tanzania",
+        "hover_text": "Festa dell'indipendenza della Tanzania 2023",
+        "share_text": "Buona festa dell'indipendenza, Tanzania! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "タンザニア独立記念日",
+        "hover_text": "2023 年タンザニア独立記念日",
+        "share_text": "タンザニア独立記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಟಾಂಜಾನಿಯಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ತಾಂಜಾನಿಯಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2023",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಟಾಂಜಾನಿಯಾ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Танзанияның Тәуелсіздік күні",
+        "hover_text": "Танзанияның Тәуелсіздік күні – 2023",
+        "share_text": "Тәуелсіздік күні құтты болсын, Танзания! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យឯករាជ្យជាតិ​តង់សានី",
+        "hover_text": "ទិវា​បុណ្យឯករាជ្យជាតិ​តង់សានី​ឆ្នាំ 2023",
+        "share_text": "អបអរទិវា​បុណ្យឯករាជ្យជាតិ​តង់សានី! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "탄자니아 독립기념일",
+        "hover_text": "2023년 탄자니아 독립기념일",
+        "share_text": "탄자니아 독립기념일 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Танзаниянын Эгемендүүлүк күнү",
+        "hover_text": "Танзаниянын Эгемендүүлүк күнү — 2023",
+        "share_text": "Эгемендүүлүк күнүң менен, Танзания! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດແທນຊາເນຍ",
+        "hover_text": "ວັນປະກາດເອກະລາດແທນຊາເນຍ 2023",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດແທນຊາເນຍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Tanzania",
+        "hover_text": "Día de la Independencia de Tanzania 2023",
+        "share_text": "¡Feliz Día de la Independencia, Tanzania! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Tanzānijas Neatkarības diena",
+        "hover_text": "Tanzānijas Neatkarības diena — 2023",
+        "share_text": "Sveicam Neatkarības dienā, Tanzānija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Tanzanijos nepriklausomybės diena",
+        "hover_text": "Tanzanijos nepriklausomybės diena, 2023 m.",
+        "share_text": "Sveikiname Tanzaniją su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Танзанија",
+        "hover_text": "Ден на независноста на Танзанија, 2023 г.",
+        "share_text": "Среќен Ден на независноста, Танзанија! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Tanzania",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny fahaleovantena ry Tanzania ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Tanzania",
+        "hover_text": "Hari Kemerdekaan Tanzania 2023",
+        "share_text": "Selamat Hari Kemerdekaan, Tanzania! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ടാൻസാനിയൻ സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "ടാൻസാനിയൻ സ്വാതന്ത്ര്യദിനം 2023",
+        "share_text": "സ്വാതന്ത്ര്യ ദിനാശംസകൾ, ടാൻസാനിയ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "टांझानियाचा स्वातंत्र्यदिन",
+        "hover_text": "टांझानियाचा स्वातंत्र्यदिन २०२३",
+        "share_text": "टांझानियाला स्वातंत्र्यदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Танзани улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2023 оны Танзани Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Танзани улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "तान्जानियाको स्वतन्त्रता दिवस",
+        "hover_text": "तान्जानियाको स्वतन्त्रता दिवस २०२३",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, तान्जानिया! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Tanzanias frigjøringsdag",
+        "hover_text": "Tanzanias frigjøringsdag 2023",
+        "share_text": "Gratulerer med frigjøringsdagen, Tanzania! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ତାଞ୍ଜାନିଆର ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": "ତାଞ୍ଜାନିଆର ସ୍ୱାଧୀନତା ଦିବସ 2023",
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, ତାଞ୍ଜାନିଆ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال تانزانیا",
+        "hover_text": "روز استقلال تانزانیا - ۲۰۲۳",
+        "share_text": "روز استقلال تانزانیا مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Niepodległości Tanzanii",
+        "hover_text": "Dzień Niepodległości Tanzanii 2023",
+        "share_text": "Tanzania obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência da Tanzânia",
+        "hover_text": "Dia da Independência da Tanzânia 2023",
+        "share_text": "Feliz Dia da Independência, Tanzânia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência da Tanzânia",
+        "hover_text": "Dia da Independência da Tanzânia de 2023",
+        "share_text": "Feliz dia da independência, Tanzânia! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਤਨਜ਼ਾਨੀਆ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ",
+        "hover_text": "ਤਨਜ਼ਾਨੀਆ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2023",
+        "share_text": "ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਤਨਜ਼ਾਨੀਆ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței în Tanzania",
+        "hover_text": "Ziua Independenței în Tanzania – 2023",
+        "share_text": "La mulți ani de Ziua Independenței, Tanzania! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Танзании",
+        "hover_text": "День независимости Танзании – 2023",
+        "share_text": "День независимости Танзании #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Танзаније",
+        "hover_text": "Дан независности Танзаније 2023.",
+        "share_text": "Честитамо Дан независности Танзанији! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Tanzanije",
+        "hover_text": "Dan nezavisnosti Tanzanije 2023.",
+        "share_text": "Čestitamo Dan nezavisnosti Tanzaniji! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepandans Tanzania",
+        "hover_text": null,
+        "share_text": "Bonn zournen lendepandans, Tanzania! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ටැන්සානියාවේ නිදහස් දිනය",
+        "hover_text": "ටැන්සානියාවේ නිදහස් දිනය 2023",
+        "share_text": "ප්‍රීතිමත් නිදහස් දිනයක්, ටැන්සානියාව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Tanzánie",
+        "hover_text": "Deň nezávislosti Tanzánie 2023",
+        "share_text": "Šťastný Deň nezávislosti, Tanzánia! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Tanzanije",
+        "hover_text": "Dan neodvisnosti Tanzanije 2023",
+        "share_text": "Vesel dan neodvisnosti, Tanzanija! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madax banaanida Tansaaniya",
+        "hover_text": null,
+        "share_text": "Maalinta madax banaanida Tansaaniya! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Boipuso la Tanzania",
+        "hover_text": null,
+        "share_text": "Mahlohonolo a Letsatsi la Boipuso, Tanzania! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Tanzania",
+        "hover_text": "Día de la Independencia de Tanzania 2023",
+        "share_text": "¡Feliz Día de la Independencia de Tanzania! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Tanzania",
+        "hover_text": "Sikukuu ya Uhuru wa Tanzania 2023",
+        "share_text": "Heri za Sikukuu ya Uhuru, Tanzania! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Tanzanias självständighetsdag",
+        "hover_text": "Tanzanias självständighetsdag 2023",
+        "share_text": "Vi firar Tanzanias självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "டான்ஸானியாவின் சுதந்திர தினம்",
+        "hover_text": "டான்ஸானியாவின் சுதந்திர தினம் 2023",
+        "share_text": "டான்ஸானியாவின் சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "టాంజానియా స్వాతంత్య్ర దినోత్సవం",
+        "hover_text": "టాంజానియా స్వాతంత్య్ర దినోత్సవం 2023",
+        "share_text": "స్వాతంత్య్ర దినోత్సవ శుభాకాంక్షలు, టాంజానియా! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของแทนซาเนีย",
+        "hover_text": "วันประกาศอิสรภาพของแทนซาเนียปี 2023",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของแทนซาเนีย #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Tanzania",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, Tanzania! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Tanzanya Bağımsızlık Günü",
+        "hover_text": "2023 Tanzanya Bağımsızlık Günü",
+        "share_text": "Tanzanya Bağımsızlık Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Танзанії",
+        "hover_text": "День незалежності Танзанії у 2023 році",
+        "share_text": "З Днем незалежності, Танзаніє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "تنزانیہ کا یوم آزادی",
+        "hover_text": "تنزانیہ کا یوم آزادی 2023",
+        "share_text": "تنزانیہ کا یوم آزادی مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Tanzaniya Mustaqillik kuni",
+        "hover_text": "Tanzaniya Mustaqillik kuni 2023",
+        "share_text": "Mustaqillik kuni muborak, Tanzaniya! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Độc lập Tanzania",
+        "hover_text": "Ngày Độc lập Tanzania năm 2023",
+        "share_text": "Chào mừng Ngày Độc lập Tanzania! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lokuzimela lwase-Tanzania",
+        "hover_text": "Usuku Lokuzimela lwase-Tanzania lwango-2023",
+        "share_text": "Jabulela Usuku Lokuzimela, Tanzania! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Tanzania Independence Day",
+    "share_text": "Happy Independence Day, Tanzania! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-pinisi",
     "title": "Celebrating Pinisi",
     "url": "//www.google.com/logos/doodles/2023/celebrating-pinisi-6753651837110099-l.png",
