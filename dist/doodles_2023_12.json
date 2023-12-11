@@ -1,5 +1,504 @@
 [
   {
+    "name": "cassia-ellers-61st-birthday",
+    "title": "Cássia Eller's 61st Birthday",
+    "url": "//www.google.com/logos/doodles/2023/cassia-ellers-61st-birthday-6753651837110100-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/JI9JNZB-567X6whjg6_krYGTiCNsM7sOyXKdhMKdacwafxcYiu5XDUlUDWUBb8tsMStBuIJhNnleMSngN0QM9i6xyw2Lv1xOfCr1yWuLfdI8LyXXulSYMw",
+    "high_res_url": "//www.google.com/logos/doodles/2023/cassia-ellers-61st-birthday-6753651837110100-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      12,
+      10
+    ],
+    "translations": {
+      "en": {
+        "query": "Cássia Eller",
+        "hover_text": "Cássia Eller's 61st Birthday",
+        "share_text": "Cássia Eller's 61st Birthday! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Cássia Eller",
+        "hover_text": "Cássia Eller se 61e verjaarsdag",
+        "share_text": "Cássia Eller se 61e verjaarsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Cássia Eller",
+        "hover_text": "61-vjetori i lindjes së Cássia Eller",
+        "share_text": "61-vjetori i lindjes së Cássia Eller! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ካሲያ ኤለር",
+        "hover_text": "የካሲያ ኤለር 61ኛ ልደት",
+        "share_text": "የካሲያ ኤለር 61ኛ ልደት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "كاسيا إلير",
+        "hover_text": "الذكرى 61 لميلاد \"كاسيا إلير\"",
+        "share_text": "نحتفل اليوم بالذكرى 61 لميلاد \"كاسيا إلير\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Կասիա Էլլեր",
+        "hover_text": "Կասիա Էլլերի ծննդյան 61-ամյակը",
+        "share_text": "Կասիա Էլլերի ծննդյան 61-ամյակը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Cássia Eller",
+        "hover_text": "Cássia Ellerr'in 61-ci ildönümü",
+        "share_text": "Cássia Ellerr'in 61-ci ildönümü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "কাসিয়া এলার",
+        "hover_text": "কাসিয়া এলারের ৬১তম জন্মদিন",
+        "share_text": "কাসিয়া এলারের ৬১তম জন্মদিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Cássia Eller",
+        "hover_text": "Cássia Ellerren jaiotzaren 61. urteurrena",
+        "share_text": "Cássia Ellerren jaiotzaren 61. urteurrena #GoogleDoodle"
+      },
+      "be": {
+        "query": "Касія Элер",
+        "hover_text": "61 год з дня нараджэння Касіі Элер",
+        "share_text": "61 год з дня нараджэння Касіі Элер! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Cássia Eller",
+        "hover_text": "61 godina od rođenja Cássije Eller",
+        "share_text": "61 godina od rođenja Cássije Ellerr! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Cássia Eller",
+        "hover_text": "Cássia Eller's 61st birthday",
+        "share_text": "Cássia Eller's 61st Birthday! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Касия Елер",
+        "hover_text": "61 години от рождението на Касия Елер",
+        "share_text": "61 години от рождението на Касия Елер! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Cássia Eller",
+        "hover_text": "Cássia Eller ၏ ၆၁ နှစ်မြောက်မွေးနေ့",
+        "share_text": "Cássia Eller ၏ ၆၁ နှစ်မြောက်မွေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Cássia Eller",
+        "hover_text": "61è aniversari del naixement de Cássia Eller",
+        "share_text": "61è aniversari del naixement de Cássia Eller #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Cássia Eller",
+        "hover_text": "Cássia Eller 誕辰 61 週年",
+        "share_text": "Cássia Eller 誕辰 61 週年！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "卡西亞埃勒",
+        "hover_text": "卡西亞埃勒 61 歲冥誕",
+        "share_text": "紀念卡西亞埃勒 61 歲冥誕！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "Cássia Eller",
+        "hover_text": "Cássia Eller 诞辰 61 周年",
+        "share_text": "Cássia Eller 诞辰 61 周年！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Cássia Eller",
+        "hover_text": "61. rođendan Cássije Eller",
+        "share_text": "61. rođendan Cássije Eller! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Cássia Eller",
+        "hover_text": "61. výročí narození Cássie Eller",
+        "share_text": "Slavíme 61. výročí narození Cássie Eller! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Cássia Eller",
+        "hover_text": "Cássia Ellers 61-års fødselsdag",
+        "share_text": "Cassia Ellers 61-års fødselsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Cássia Eller",
+        "hover_text": "61e geboortedag van Cássia Eller",
+        "share_text": "De 61e geboortedag van Cássia Eller! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Cássia Eller",
+        "hover_text": "Cássia Elleri 61. sünniaastapäev!",
+        "share_text": "Cássia Elleri 61. sünniaastapäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Cássia Eller",
+        "hover_text": "61 vuotta Cássia Ellerin syntymästä",
+        "share_text": "61 vuotta Cássia Ellerin syntymästä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Cássia Eller",
+        "hover_text": "Il y a 61 ans naissait Cássia Eller",
+        "share_text": "61e anniversaire de Cássia Eller ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Cássia Eller",
+        "hover_text": "61ᵉ anniversaire de naissance de Cássia Eller",
+        "share_text": "61ᵉ anniversaire de naissance de Cássia Eller! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Cássia Eller",
+        "hover_text": "61.º aniversario do nacemento de Cássia Eller",
+        "share_text": "61.º aniversario do nacemento de Cássia Eller! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "კასია ელერი",
+        "hover_text": "61 წელი კასია ელერის დაბადებიდან",
+        "share_text": "61 წელი კასია ელერის დაბადებიდან! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Cássia Eller",
+        "hover_text": "61. Geburtstag von Cássia Eller",
+        "share_text": "61. Geburtstag von Cássia Eller! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Cássia Eller",
+        "hover_text": "61 χρόνια από τη γέννηση της Cássia Eller",
+        "share_text": "61 χρόνια από τη γέννηση της Cássia Eller! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "કાસિયા ઍલર",
+        "hover_text": "કાસિયા ઍલરનો 61મો જન્મદિવસ",
+        "share_text": "કાસિયા ઍલરનો 61મો જન્મદિવસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "קסיה אלר",
+        "hover_text": "61 שנים להולדת קסיה אלר",
+        "share_text": "61 שנים להולדת קסיה אלר GoogleDoodle#"
+      },
+      "hi": {
+        "query": "कासिया एलर",
+        "hover_text": "कासिया एलर की 61वीं जयंती",
+        "share_text": "कासिया एलर की 61वीं जयंती! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Cássia Eller",
+        "hover_text": "Cássia Eller születésének 61. évfordulója",
+        "share_text": "Cássia Eller születésének 61. évfordulója #GoogleDoodle"
+      },
+      "is": {
+        "query": "Cássia Eller",
+        "hover_text": "61 ár frá fæðingu Cássiu Eller",
+        "share_text": "61 ár frá fæðingu Cássiu Eller! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Cássia Eller",
+        "hover_text": "Ulang Tahun Ke-61 Cássia Eller",
+        "share_text": "Ulang Tahun Ke-61 Cássia Eller #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Cássia Eller",
+        "hover_text": "61° anniversario della nascita di Cássia Eller",
+        "share_text": "61° anniversario della nascita di Cássia Eller! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "カシア・エレール",
+        "hover_text": "カシア・エレール生誕 61 周年",
+        "share_text": "カシア・エレール生誕 61 周年 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಕಾಸ್ಸಿಯಾ ಎಲ್ಲೆರ್",
+        "hover_text": "ಕಾಸ್ಸಿಯಾ ಎಲ್ಲೆರ್ ಅವರ 61ನೇ ಜನ್ಮದಿನ",
+        "share_text": "ಕಾಸ್ಸಿಯಾ ಎಲ್ಲೆರ್ ಅವರ 61ನೇ ಜನ್ಮದಿನ #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Кассия Эллер",
+        "hover_text": "Кассия Эллердің 61 жылдығы құтты болсын!",
+        "share_text": "Кассия Эллердің 61 жасқа толуы құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Cássia Eller",
+        "hover_text": "ខួបកំណើតគម្រប់ 61 ឆ្នាំរបស់ Cássia Eller",
+        "share_text": "ខួបកំណើតគម្រប់ 61 ឆ្នាំរបស់ Cássia Eller! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Cássia Eller",
+        "hover_text": "Cássia Eller 탄생 61주년",
+        "share_text": "Cássia Eller 탄생 61주년 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Кассия Эллер",
+        "hover_text": "Кассия Эллердин 61 жаш мааракеси",
+        "share_text": "Кассия Эллердин 61 жаш мааракеси! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Cássia Eller",
+        "hover_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 61 ປີຂອງ Cássia Eller",
+        "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 61 ປີຂອງ Cássia Ellerr! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Cássia Eller",
+        "hover_text": "61º aniversario del nacimiento de Cássia Eller",
+        "share_text": "¡61º aniversario del nacimiento de Cássia Eller! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Kasija Eljera",
+        "hover_text": "Kasijas Eljeras 61. dzimšanas diena",
+        "share_text": "Kasijas Eljeras 61. dzimšanas diena! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Cássia Eller",
+        "hover_text": "61-asis Cássios Eller gimtadienis",
+        "share_text": "61-asis Cássios Eller gimtadienis! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Cássia Eller",
+        "hover_text": "61. роденден на Cássia Eller",
+        "share_text": "61. роденден на Cássia Eller! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Cássia Eller",
+        "hover_text": "Ulang Tahun Kelahiran Cássia Eller yang ke-61",
+        "share_text": "Ulang Tahun Kelahiran Cássia Eller yang ke-61! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Cássia Eller",
+        "hover_text": "Cássia Eller-ന്റെ 61-ാം ജന്മദിനം",
+        "share_text": "Cássia Eller-ന്റെ 61-ാം ജന്മദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "कॅसिया एलर",
+        "hover_text": "कॅसिया एलर यांचा ६१ वा स्मृतिदिन",
+        "share_text": "कॅसिया एलर यांचा ६१ वा स्मृतिदिन! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Кассиа Эллер",
+        "hover_text": "Кассиа Эллерийн мэндэлсний 61 жилийн ой",
+        "share_text": "Кассиа Эллерийн мэндэлсний 61 жилийн ой! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Cássia Eller",
+        "hover_text": "Cássia Eller को ६१ औँ जन्मजयन्ती",
+        "share_text": "Cássia Eller को ६१ औँ जन्मजयन्ती! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Cássia Eller",
+        "hover_text": "Cássia Ellers 61-årsdag",
+        "share_text": "Cássia Ellers 61-årsdag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "କେସିଆ ଏଲର",
+        "hover_text": "କେସିଆ ଏଲରଙ୍କ 61ତମ ଜନ୍ମଦିନ",
+        "share_text": "କେସିଆ ଏଲରଙ୍କ 61ତମ ଜନ୍ମଦିନ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "کاسیا اِلر",
+        "hover_text": "شصت‌ویکمین زادروز کاسیا اِلر",
+        "share_text": "شصت‌ویکمین زادروز کاسیا اِلر! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Cássia Eller",
+        "hover_text": "Cássia Eller – 61 rocznica urodzin",
+        "share_text": "Cássia Eller – 61 rocznica urodzin #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Cássia Eller",
+        "hover_text": "61º Aniversário de Cássia Eller",
+        "share_text": "61º Aniversário de Cássia Eller! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Cássia Eller",
+        "hover_text": "61.º Aniversário de Cássia Eller",
+        "share_text": "61.º Aniversário de Cássia Eller! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Cássia Eller",
+        "hover_text": "ਕੈਸੀਆ ਐਲਰ ਦਾ 61ਵਾਂ ਜਨਮਦਿਨ",
+        "share_text": "ਕੈਸੀਆ ਐਲਰ ਦਾ 61ਵਾਂ ਜਨਮਦਿਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Cássia Eller",
+        "hover_text": "61 de ani de la nașterea Cássiei Eller",
+        "share_text": "61 de ani de la nașterea Cássiei Eller! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Кассия Эллер",
+        "hover_text": "61 год со дня рождения Кассии Эллер",
+        "share_text": "61 год со дня рождения Кассии Эллер #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Касија Елер",
+        "hover_text": "61 година од рођења Касије Елер",
+        "share_text": "61 година од рођења Касије Елер! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Kasija Eler",
+        "hover_text": "61 godina od rođenja Kasije Eler",
+        "share_text": "61 godina od rođenja Kasije Eler! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "කැසියා එල්ලර්",
+        "hover_text": "කැසියා එල්ලර්ගේ 61 වැනි උපන් දිනය",
+        "share_text": "කැසියා එල්ලර්ගේ 61 වැනි උපන් දිනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Cássia Ellerová",
+        "hover_text": "61. výročie narodenia Cássie Eller",
+        "share_text": "61. výročie narodenia Cássie Ellerovej. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Cássia Eller",
+        "hover_text": "61. rojstni dan Cássie Eller",
+        "share_text": "61. rojstni dan Cássie Eller! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Cássia Eller",
+        "hover_text": "61.º aniversario del nacimiento de Cássia Eller",
+        "share_text": "Hoy es el 61.º aniversario del nacimiento de Cássia Eller #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Cássia Eller",
+        "hover_text": "Miaka 61 Tangu Kuzaliwa kwa Cássia Eller",
+        "share_text": "Miaka 61 Tangu Kuzaliwa kwa Cássia Eller! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Cássia Eller",
+        "hover_text": "Cássia Eller 61 år",
+        "share_text": "Cássia Eller 61 år #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Cássia Eller",
+        "hover_text": "காசியா ஏலரின் 61வது பிறந்தநாள்",
+        "share_text": "காசியா ஏலரின் 61வது பிறந்தநாள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "కాసియా ఎల్లెర్",
+        "hover_text": "కాసియా ఎల్లెర్ 61వ జయంతి",
+        "share_text": "కాసియా ఎల్లెర్ 61వ జయంతి! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Cássia Eller",
+        "hover_text": "วันเกิดปีที่ 61 ของ Cássia Eller",
+        "share_text": "วันเกิดปีที่ 61 ของ Cássia Eller #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Cássia Eller",
+        "hover_text": "Cássia Eller'in 61. Doğum Günü",
+        "share_text": "Cássia Eller'in 61. doğum gününü kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Кассія Еллер",
+        "hover_text": "61 рік від дня народження Кассії Еллер",
+        "share_text": "61 рік від дня народження Кассії Еллер! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Cássia Eller",
+        "hover_text": "Cássia Ellerr's کی 61 ویں سالگرہ",
+        "share_text": "Cássia Ellerr's کی 61 ویں سالگرہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Cássia Eller",
+        "hover_text": "Cássia Eller tavalludining 61 yilligi",
+        "share_text": "Cássia Ellerr tavalludining 61 yilligi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Cássia Eller",
+        "hover_text": "Kỷ niệm 61 năm ngày sinh của Cássia Eller",
+        "share_text": "Kỷ niệm 61 năm ngày sinh của Cássia Eller! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Cássia Eller",
+        "hover_text": "Usuku Lokuzalwa luka-Cássia Eller Lweminyaka engama-61",
+        "share_text": "Usuku Lokuzalwa luka-Cássia Eller Lweminyaka engama-61! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Cássia Eller",
+    "share_text": "Cássia Eller's 61st Birthday! #GoogleDoodle"
+  },
+  {
     "name": "tanzania-independence-day-2023",
     "title": "Tanzania Independence Day 2023",
     "url": "//www.google.com/logos/doodles/2023/tanzania-independence-day-2023-6753651837109984-law.gif",
