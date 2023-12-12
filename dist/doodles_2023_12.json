@@ -1,5 +1,1003 @@
 [
   {
+    "name": "celebrating-german-bread-culture",
+    "title": "Celebrating German Bread Culture",
+    "url": "//www.google.com/logos/doodles/2023/celebrating-german-bread-culture-6753651837109360-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/L_P0QSnQSb3rvvvoo8vYR7u6odIj9nO_rxMVQpQdS3iNtyBgY1jdavYL8o_aRXc2G5nyVgZLbgHsfn4hnuqEIp2NuSgHLR-aSgwh_be5QIhY8OMZGdto8Bs",
+    "high_res_url": "//www.google.com/logos/doodles/2023/celebrating-german-bread-culture-6753651837109360-2xa.gif",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2023,
+      12,
+      12
+    ],
+    "translations": {
+      "en": {
+        "query": "German Bread Culture",
+        "hover_text": "Celebrating German Bread Culture",
+        "share_text": "Celebrating German Bread Culture! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Duitse broodkultuur",
+        "hover_text": "Ter viering van die Duitse broodkultuur",
+        "share_text": "Ter viering van die Duitse broodkultuur! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Kultura gjermane e bukës",
+        "hover_text": "Përkujtojmë kulturën gjermane të bukës",
+        "share_text": "Përkujtojmë kulturën gjermane të bukës! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የጀርመን ዳቦ ባህል",
+        "hover_text": "የጀርመን ዳቦ ባህልን በማክበር ላይ",
+        "share_text": "የጀርመን ዳቦ ባህልን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "ثقافة الخُبز في ألمانيا",
+        "hover_text": "الاحتفال بثقافة الخُبز في ألمانيا",
+        "share_text": "نحتفل اليوم بثقافة الخُبز في ألمانيا. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Գերմանական հացի ավանդույթներ",
+        "hover_text": "Շնորհավոր Գերմանական հացի ավանդույթների օրը",
+        "share_text": "Շնորհավոր Գերմանական հացի ավանդույթների օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Alman Çörək Mədəniyyəti",
+        "hover_text": "Alman Çörək Mədəniyyəti Günü",
+        "share_text": "Alman Çörək Mədəniyyəti Günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "জার্মান ব্রেড কালচার",
+        "hover_text": "জার্মান ব্রেড কালচার উদযাপন করা হচ্ছে",
+        "share_text": "জার্মান ব্রেড কালচার উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Ogi alemanaren kultura",
+        "hover_text": "Ogi alemanaren kulturaren omenez",
+        "share_text": "Ogi alemanaren kulturaren omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Нямецкая культура хлеба",
+        "hover_text": "Ушаноўваем нямецкую культуру хлеба",
+        "share_text": "Ушаноўваем нямецкую культуру хлеба! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Njemačka kultura hljeba",
+        "hover_text": "Slavimo Njemačku kulturu hljeba",
+        "share_text": "Slavimo Njemačku kulturu hljeba! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "German bread culture",
+        "hover_text": "Celebrating German bread culture",
+        "share_text": "Celebrating German bread culture! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Немска хлебна култура",
+        "hover_text": "Честване на немската хлебна култура",
+        "share_text": "Честване на немската хлебна култура! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဂျာမန်ပေါင်မုန့် ယဉ်ကျေးမှု",
+        "hover_text": "ဂျာမန်ပေါင်မုန့် ယဉ်ကျေးမှုကို ဂုဏ်ပြုခြင်း",
+        "share_text": "ဂျာမန်ပေါင်မုန့် ယဉ်ကျေးမှုကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Cultura del pa alemany",
+        "hover_text": "Homenatge a la cultura del pa alemany",
+        "share_text": "Homenatge a la cultura del pa alemany #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "德國麵包文化",
+        "hover_text": "欣賞德國麵包文化",
+        "share_text": "欣賞德國麵包文化！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "德國麵包文化",
+        "hover_text": "讚揚德國麵包文化",
+        "share_text": "讚揚德國麵包文化！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "德国面包文化",
+        "hover_text": "致赞德国面包文化",
+        "share_text": "致赞德国面包文化！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Njemačka kultura kruha",
+        "hover_text": "Slavimo njemačku kulturu kruha",
+        "share_text": "Slavimo njemačku kulturu kruha! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Německá chlebová kultura",
+        "hover_text": "Pocta německé chlebové kultuře",
+        "share_text": "Pocta německé chlebové kultuře! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Tysklands brødkultur",
+        "hover_text": "Vi hylder Tysklands brødkultur",
+        "share_text": "Vi hylder Tysklands brødkultur #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Duitse broodcultuur",
+        "hover_text": "Doodle ter ere van de Duitse broodcultuur",
+        "share_text": "Een doodle ter ere van de Duitse broodcultuur! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Saksa leivakultuur",
+        "hover_text": "Hoiame au sees Saksa leivakultuuri",
+        "share_text": "Hoiame au sees Saksamaa leivakultuuri! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Saksalainen leipä",
+        "hover_text": "Saksalainen leipä",
+        "share_text": "Saksalainen leipä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Culture du pain allemand",
+        "hover_text": "Hommage à la culture du pain allemand",
+        "share_text": "Hommage à la culture du pain allemand ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Culture du pain en Allemagne",
+        "hover_text": "Hommage à la culture du pain en Allemagne",
+        "share_text": "Hommage à la culture du pain en Allemagne! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Cultura do pan alemán",
+        "hover_text": "Homenaxe á cultura do pan alemán",
+        "share_text": "Homenaxe á cultura do pan alemán! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "გერმანული პურის კულტურა",
+        "hover_text": "აღვნიშნავთ გერმანული პურის კულტურის დღეს",
+        "share_text": "აღვნიშნავთ გერმანული პურის კულტურის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Deutsche Brotkultur",
+        "hover_text": "Zur Feier der deutschen Brotkultur",
+        "share_text": "Zur Feier der deutschen Brotkultur! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Γερμανική παράδοση του ψωμιού",
+        "hover_text": "Τιμούμε τη γερμανική παράδοση του ψωμιού",
+        "share_text": "Τιμούμε τη γερμανική παράδοση του ψωμιού! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "જર્મન બ્રેડ સંસ્કૃતિ",
+        "hover_text": "જર્મન બ્રેડ સંસ્કૃતિની યાદમાં",
+        "share_text": "જર્મન બ્રેડ સંસ્કૃતિની યાદમાં! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "תרבות הלחם הגרמני",
+        "hover_text": "לציון תרבות הלחם הגרמני",
+        "share_text": "לציון תרבות הלחם הגרמני! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "जर्मन ब्रेड कल्चर",
+        "hover_text": "जर्मन ब्रेड कल्चर का जश्न",
+        "share_text": "जर्मन ब्रेड कल्चर का जश्न! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Német kenyérkultúra",
+        "hover_text": "A német kenyérkultúra ünneplése",
+        "share_text": "A német kenyérkultúra ünneplése! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þýsk brauðgerðarhefð",
+        "hover_text": "Við fögnum þýskri brauðgerðarhefð",
+        "share_text": "Við fögnum þýskri brauðgerðarhefð! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Budaya Roti Jerman",
+        "hover_text": "Merayakan Budaya Roti Jerman",
+        "share_text": "Merayakan Budaya Roti Jerman #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Cultúr Arán na Gearmáine",
+        "hover_text": "Cultúr Arán na Gearmáine á cheiliúradh",
+        "share_text": "Cultúr Arán na Gearmáine á Cheiliúradh! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Cultura del pane tedesco",
+        "hover_text": "In onore della cultura del pane tedesco",
+        "share_text": "In onore della cultura del pane tedesco! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ドイツのパン文化",
+        "hover_text": "ドイツのパン文化を祝おう",
+        "share_text": "ドイツのパン文化を祝おう！ #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಜರ್ಮನ್ ಬ್ರೆಡ್ ಸಂಸ್ಕೃತಿ",
+        "hover_text": "ಜರ್ಮನ್ ಬ್ರೆಡ್ ಸಂಸ್ಕೃತಿಯ ದಿನವನ್ನು ಆಚರಿಸಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಜರ್ಮನ್ ಬ್ರೆಡ್ ಸಂಸ್ಕೃತಿಯ ದಿನವನ್ನು ಆಚರಿಸಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Неміс нан пісіру дәстүрі",
+        "hover_text": "Неміс нан пісіру дәстүрі күні",
+        "share_text": "Неміс нан пісіру дәстүрі күні #GoogleDoodle"
+      },
+      "km": {
+        "query": "វប្បធម៌​នំប៉័ង​អាល្លឺម៉ង់",
+        "hover_text": "អបអរ​វប្បធម៌​នំប៉័ង​អាល្លឺម៉ង់",
+        "share_text": "អបអរ​វប្បធម៌​នំប៉័ង​អាល្លឺម៉ង់! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "독일 빵 문화",
+        "hover_text": "독일 빵 문화 기념",
+        "share_text": "독일 빵 문화 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Германиянын нан маданияты",
+        "hover_text": "Германиянын нан маданияты күнүн майрамдоо",
+        "share_text": "Германиянын нан маданияты күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັດທະນະທຳເຂົ້າຈີ່ເຢຍລະມັນ",
+        "hover_text": "ສະເຫຼີມສະຫຼອງວັດທະນະທຳເຂົ້າຈີ່ເຢຍລະມັນ",
+        "share_text": "ສະເຫຼີມສະຫຼອງວັດທະນະທຳເຂົ້າຈີ່ເຢຍລະມັນ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Cultura alemana del pan",
+        "hover_text": "Celebrando la cultura alemana del pan",
+        "share_text": "¡Celebrando la cultura alemana del pan! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Maize Vācijā",
+        "hover_text": "Vācu maizes kultūras godināšana",
+        "share_text": "Godinām vācu maizes kultūru! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Vokiškos duonos kultūra",
+        "hover_text": "Vokiškos duonos kultūros minėjimas",
+        "share_text": "Vokiškos duonos kultūros minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Култура на германскиот леб",
+        "hover_text": "Во чест на културата на германскиот леб",
+        "share_text": "Во чест на културата на германскиот леб! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Kolontsaina Alimàna momba ny mofo",
+        "hover_text": "Mankalaza ny Kolontsaina Alimàna momba ny mofo",
+        "share_text": "Mankalaza ny Kolontsaina Alimàna momba ny mofo ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Budaya Roti Jerman",
+        "hover_text": "Meraikan Budaya Roti Jerman",
+        "share_text": "Meraikan Budaya Roti Jerman! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ജർമ്മൻ ബ്രെഡ് സംസ്കാരം",
+        "hover_text": "ജർമ്മൻ ബ്രെഡ് സംസ്കാരം ആഘോഷിക്കുന്നു",
+        "share_text": "ജർമ്മൻ ബ്രെഡ് സംസ്കാരം ആഘോഷിക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "जर्मनीची ब्रेड संस्कृती",
+        "hover_text": "जर्मनीच्या ब्रेड संस्कृतीचा उत्सव",
+        "share_text": "जर्मनीच्या ब्रेड संस्कृतीचा उत्सव! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Германы талхны соёл",
+        "hover_text": "Германы талхны соёлыг тэмдэглэж байна",
+        "share_text": "Германы талхны соёлыг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "जर्मनीको पाउरोटी संस्कृति",
+        "hover_text": "जर्मनीको पाउरोटी संस्कृतिको सम्झना",
+        "share_text": "जर्मनीको पाउरोटी संस्कृतिको सम्झना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Tysk brødkultur",
+        "hover_text": "Vi feirer tysk brødkultur",
+        "share_text": "Vi feirer tysk brødkultur! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଜର୍ମାନ ବ୍ରେଡ ସଂସ୍କୃତି",
+        "hover_text": "ଜର୍ମାନ ବ୍ରେଡ ସଂସ୍କୃତିର ଉତ୍ସବ ପାଳନ କରାଯାଉଛି",
+        "share_text": "ଜର୍ମାନ ବ୍ରେଡ ସଂସ୍କୃତିର ଉତ୍ସବ ପାଳନ କରାଯାଉଛି! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "فرهنگ نان آلمان",
+        "hover_text": "بزرگداشت فرهنگ نان آلمان",
+        "share_text": "بزرگداشت فرهنگ نان آلمان! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Niemiecka kultura pieczenia chleba",
+        "hover_text": "Podziwiamy niemiecką kulturę pieczenia chleba",
+        "share_text": "Podziwiamy niemiecką kulturę pieczenia chleba #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Cultura panificadora alemã",
+        "hover_text": "Celebração da cultura panificadora alemã",
+        "share_text": "Celebração da cultura panificadora alemã #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Cultura do pão alemão",
+        "hover_text": "Celebração da cultura do pão alemão",
+        "share_text": "Celebração da cultura do pão alemão! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਜਰਮਨ ਬ੍ਰੈੱਡ ਸੱਭਿਆਚਾਰ",
+        "hover_text": "ਜਰਮਨ ਬ੍ਰੈੱਡ ਸੱਭਿਆਚਾਰ ਦੀ ਸਿਫ਼ਤ ਵਿੱਚ",
+        "share_text": "ਜਰਮਨ ਬ੍ਰੈੱਡ ਸੱਭਿਆਚਾਰ ਦੀ ਸਿਫ਼ਤ ਵਿੱਚ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Cultura pâinii din Germania",
+        "hover_text": "În cinstea culturii pâinii din Germania",
+        "share_text": "În cinstea culturii pâinii din Germania! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Немецкие хлебные традиции",
+        "hover_text": "День немецких хлебных традиций",
+        "share_text": "День немецких хлебных традиций! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Немачка култура хлеба",
+        "hover_text": "Славимо немачку културу хлеба",
+        "share_text": "Славимо немачку културу хлеба! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Nemačka kultura hleba",
+        "hover_text": "Slavimo nemačku kulturu hleba",
+        "share_text": "Slavimo nemačku kulturu hleba! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ජර්මානු පාන් සංස්කෘතිය",
+        "hover_text": "ජර්මානු පාන් සංස්කෘතිය සැමරීම",
+        "share_text": "ජර්මානු පාන් සංස්කෘතිය සැමරීම! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Nemecká kultúra chleba",
+        "hover_text": "Oslavujeme nemeckú kultúru chleba",
+        "share_text": "Oslavujeme nemeckú kultúru chleba! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Nemška kultura kruha",
+        "hover_text": "Slavimo nemško kulturo kruha",
+        "share_text": "Slavimo nemško kulturo kruha! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Dhaqanka Rootiga Jarmalka",
+        "hover_text": "U dabaal degaya Dhaqanka Rootiga Jarmalka",
+        "share_text": "U dabaal degaya Dhaqanka Rootiga Jarmalka! #GoogleDoodle"
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Pan alemán",
+        "hover_text": "Homenaje al pan alemán",
+        "share_text": "¡Hoy hacemos un homenaje al pan alemán! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Utamaduni wa Mkate wa Ujerumani",
+        "hover_text": "Tunakumbuka Utamaduni wa Mkate wa Ujerumani",
+        "share_text": "Tunakumbuka Utamaduni wa Mkate wa Ujerumani! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Tysk brödkultur",
+        "hover_text": "Vi firar den tyska brödkulturen",
+        "share_text": "Vi firar den tyska brödkulturen #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஜெர்மன் பிரெட் கலாச்சாரம்",
+        "hover_text": "ஜெர்மன் பிரெட் கலாச்சாரத்தைக் கொண்டாடுவோம்",
+        "share_text": "ஜெர்மன் பிரெட் கலாச்சாரத்தைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "జర్మన్ బ్రెడ్ కల్చర్",
+        "hover_text": "జర్మన్ బ్రెడ్ కల్చర్ వేడుకలు",
+        "share_text": "జర్మన్ బ్రెడ్ కల్చర్ వేడుకలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วัฒนธรรมขนมปังเยอรมัน",
+        "hover_text": "วันเฉลิมฉลองวัฒนธรรมขนมปังเยอรมัน",
+        "share_text": "วันเฉลิมฉลองวัฒนธรรมขนมปังเยอรมัน #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Alman Ekmek Kültürü",
+        "hover_text": "Alman Ekmek Kültürü Kutlaması",
+        "share_text": "Alman Ekmek Kültürü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Німецька хлібна культура",
+        "hover_text": "Ушановуємо німецьку хлібну культуру",
+        "share_text": "Ушановуємо німецьку хлібну культуру! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "جرمن بریڈ ثقافت",
+        "hover_text": "جرمن بریڈ ثقافت کا جشن",
+        "share_text": "جرمن بریڈ ثقافت کا جشن! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Nemis non madaniyati",
+        "hover_text": "Nemis non madaniyati kuni",
+        "share_text": "Nemis non madaniyati kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Văn hóa Bánh mì của Đức",
+        "hover_text": "Tôn vinh Văn hóa Bánh mì của Đức",
+        "share_text": "Tôn vinh Văn hóa Bánh mì của Đức! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usiko Lwesinkwa sesi-German",
+        "hover_text": "Sibungaza Usiko Lwesinkwa sesi-German",
+        "share_text": "Sibungaza Usiko Lwesinkwa sesi-German! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "German Bread Culture",
+    "share_text": "Celebrating German Bread Culture! #GoogleDoodle"
+  },
+  {
+    "name": "jamhuri-day-2023",
+    "title": "Jamhuri Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/jamhuri-day-2023-6753651837109987-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/9Y1VFHNrc3a9BAjJXrAmJVdLoRCsEO4Qx_lB3J4V5fv3rQR7ndW7lmR6Z5C5lT3aDAByYeQhXs6ysrNOZudI_ywhaihjKiObV1VIX_GsAaU-b1Oebv0rhB0",
+    "high_res_url": "//www.google.com/logos/doodles/2023/jamhuri-day-2023-6753651837109987-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      12,
+      12
+    ],
+    "translations": {
+      "en": {
+        "query": "Jamhuri Day",
+        "hover_text": "Jamhuri Day 2023",
+        "share_text": "Happy Jamhuri Day, Kenya! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Jamhuri-dag",
+        "hover_text": "Jamhuri-dag 2023",
+        "share_text": "Gelukkige Jamhuri-dag, Kenia! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Republikës së Kenias",
+        "hover_text": "Dita e Republikës së Kenias, 2023",
+        "share_text": "Gëzuar Ditën e Republikës, Kenia! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ጃምሁሪ ቀን",
+        "hover_text": "ጃምሁሪ ቀን 2023",
+        "share_text": "መልካም ጃምሁሪ ቀን፣ ኬንያ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "يوم الجمهورية",
+        "hover_text": "يوم الجمهورية في كينيا لعام 2023",
+        "share_text": "نتمنّى لكينيا يوم جمهورية سعيدًا. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ջամհուրիի օր",
+        "hover_text": "Ջամհուրիի օր 2023",
+        "share_text": "Շնորհավո՛ր Ջամհուրիի օրը, Քենիա #GoogleDoodle"
+      },
+      "az": {
+        "query": "Camhuri Günü",
+        "hover_text": "2023 Camhuri Günü",
+        "share_text": "Camhuri Günün Mübarək Keniya! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "জামহুরি দিবস",
+        "hover_text": "জামহুরি ডে ২০২৩",
+        "share_text": "জামহুরি ডে-র শুভেচ্ছা, কেনিয়া! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Jamhuri eguna",
+        "hover_text": "2023ko Jamhuri eguna",
+        "share_text": "Jamhuri egun zoriontsua izan, Kenya! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень Джамхуры",
+        "hover_text": "Дзень Рэспублікі (Кенія) 2023",
+        "share_text": "З Днём Рэспублікі, Кенія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Praznik Jamhuri",
+        "hover_text": "Praznik Jamhuri 2023.",
+        "share_text": "Sretan Jamhuri, Kenija! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Jamhuri Day",
+        "hover_text": "Jamhuri Day 2023",
+        "share_text": "Happy Jamhuri Day, Kenya! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Национален празник на Кения",
+        "hover_text": "Национален празник на Кения 2023 г.",
+        "share_text": "Честит национален празник на Кения! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ကင်ညာသမ္မတနိုင်ငံနေ့",
+        "hover_text": "၂၀၂၃ ကင်ညာသမ္မတနိုင်ငံနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် သမ္မတနိုင်ငံနေ့ဖြစ်ပါစေ ကင်ညာ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia Nacional de Kenya",
+        "hover_text": "Dia Nacional de Kenya 2023",
+        "share_text": "Feliç Dia Nacional, Kenya! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "肯亞獨立日",
+        "hover_text": "2023 年肯尼亞獨立日",
+        "share_text": "肯尼亞，獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "肯亞共和紀念日",
+        "hover_text": "2023 年肯亞共和紀念日",
+        "share_text": "肯亞共和紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "肯尼亚独立日",
+        "hover_text": "2023 年肯尼亚独立日",
+        "share_text": "欢庆肯尼亚独立日！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan Republike (Jamhuri)",
+        "hover_text": "Dan Republike (Jamhuri) 2023.",
+        "share_text": "Sretan Dan Republike (Jamhuri), Kenijo! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Jamhuri",
+        "hover_text": "Den jamhuri 2023",
+        "share_text": "Vše nejlepší ke Dni jamhuri, Keňo! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Jamhuri-dag",
+        "hover_text": "Jamhuri-dag 2023",
+        "share_text": "Glædelig Jamhuri-dag, Kenya! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Jamhuri-dag",
+        "hover_text": "Jamhuri-dag 2023",
+        "share_text": "Fijne Jamhuri-dag, Kenia! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Jamhuri päev",
+        "hover_text": "2023. aasta jamhuri päev",
+        "share_text": "Head jamhuri päeva, Keenia! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Jamhuri-päivä",
+        "hover_text": "Jamhuri-päivä 2023",
+        "share_text": "Hyvää Jamhuri-päivää, Kenia! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Jamhuri Day",
+        "hover_text": "Jamhuri Day 2023",
+        "share_text": "Jamhuri Day au Kenya ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête nationale kényane",
+        "hover_text": "Fête nationale kényane 2023",
+        "share_text": "Joyeuse fête nationale, Kenya! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Jamhuri Day",
+        "hover_text": "Día de Jamhuri 2023",
+        "share_text": "Feliz Día de Jamhuri, Kenya! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ჯამჰურის დღე",
+        "hover_text": "ჯამჰურის დღე — 2023",
+        "share_text": "ვულოცავთ კენიას ჯამჰურის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Kenia",
+        "hover_text": "Unabhängigkeitstag in Kenia 2023",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Kenia! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Jamhuri",
+        "hover_text": "Ημέρα Jamhuri 2023",
+        "share_text": "Γιορτάζουμε την Ημέρα Jamhuri της Κένυας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "Jamhuri Day",
+        "hover_text": "જામુરી દિવસ (કેન્યાનો પ્રજાસત્તાક દિવસ) 2023",
+        "share_text": "કેન્યાના પ્રજાસત્તાક દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "חג הג'אמהורי",
+        "hover_text": "יום העצמאות של קניה 2023",
+        "share_text": "יום עצמאות שמח, קניה GoogleDoodle#"
+      },
+      "hi": {
+        "query": "जम्हूरी दिवस",
+        "hover_text": "जम्हूरी दिवस 2023",
+        "share_text": "जम्हूरी दिवस की शुभकामनाएं, केन्या! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Jamhuri-nap (Köztársaság napja Kenyában)",
+        "hover_text": "Jamhuri-nap, 2023",
+        "share_text": "Minden jót a Jamhuri-napon, Kenya! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Jamhuri-dagur",
+        "hover_text": "Jamhuri-dagurinn 2023",
+        "share_text": "Gleðilegan Jamhuri-dag, Kenía! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Jamhuri",
+        "hover_text": "Hari Jamhuri 2023",
+        "share_text": "Selamat Hari Jamhuri, Kenya! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Jamhuri",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Jamhuri Day",
+        "hover_text": "Jamhuri Day 2023",
+        "share_text": "Buon Jamhuri Day, Kenya! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ジャムフリデイ",
+        "hover_text": "2023 年ジャムフリデイ",
+        "share_text": "ケニアのジャムフリデイを祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಜಮ್ಹೂರಿ ಡೇ",
+        "hover_text": "ಜಮ್ಹೂರಿ ಡೇ 2023",
+        "share_text": "ಜಮ್ಹೂರಿ ಡೇ ಶುಭಾಶಯಗಳು, ಕೀನ್ಯಾ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Кенияның Республика күні",
+        "hover_text": "Джамхури күні –2023",
+        "share_text": "Джамхури күні құтты болсын, Кения! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យឯករាជ្យជាតិ​​កេនយ៉ា",
+        "hover_text": "ទិវាបុណ្យឯករាជ្យជាតិកេនយ៉ាឆ្នាំ 2023",
+        "share_text": "រីករាយទិវាបុណ្យឯករាជ្យជាតិកេនយ៉ា! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "케냐 독립기념일",
+        "hover_text": "2023년 케냐 독립기념일",
+        "share_text": "케냐 독립기념일 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Жамхури күнү",
+        "hover_text": "Жамхури күнү — 2023",
+        "share_text": "Жамхури күнүң менен, Кения! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຊາດເຄນຢາ",
+        "hover_text": "ວັນຊາດເຄນຢາ 2023",
+        "share_text": "ສຸກສັນວັນຊາດເຄນຢາ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Jamhuri Day (Día Nacional de Kenia)",
+        "hover_text": "Jamhuri Day (Día Nacional de Kenia) 2023",
+        "share_text": "¡Feliz Jamhuri Day, Kenia! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Kenijas Neatkarības diena",
+        "hover_text": "Kenijas Neatkarības diena — 2023",
+        "share_text": "Sveicam Neatkarības dienā, Kenija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Jamhuri diena",
+        "hover_text": "Kenijos Respublikos diena, 2023 m.",
+        "share_text": "Sveikiname Keniją su Respublikos diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на републиката на Кенија",
+        "hover_text": "Ден на републиката, 2023 г.",
+        "share_text": "Среќен Ден на републиката, Кенија! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Andron'ny Jamhuri",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Hari Jamhuri",
+        "hover_text": "Hari Jamhuri 2023",
+        "share_text": "Selamat Hari Jamhuri, Kenya! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ജംഹൂരി ദിനം",
+        "hover_text": "ജംഹൂരി ദിനം 2023",
+        "share_text": "ജംഹൂരി ദിനാശംസകൾ, കെനിയ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "जॅमहुरी डे",
+        "hover_text": "जमहुरी डे २०२३",
+        "share_text": "केन्याला जमहुरी डे च्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Жамхуригийн өдөр",
+        "hover_text": "2023 оны Жамхуригийн өдөр",
+        "share_text": "Кени Улсын ард иргэдэд Жамхуригийн өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "जामुरी दिवस",
+        "hover_text": "जामुरी दिवस २०२३",
+        "share_text": "जामुरी दिवस २०२३ को शुभकामना, केन्या! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Kenyas nasjonaldag",
+        "hover_text": "Kenyas nasjonaldag 2023",
+        "share_text": "Gratulerer med nasjonaldagen, Kenya! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଜାମ୍‍ହୁରୀ ଦିବସ",
+        "hover_text": "ଜାମହୁରୀ ଦିବସ 2023",
+        "share_text": "ଜାମହୁରୀ ଦିବସର ଶୁଭେଚ୍ଛା, କେନିଆ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز جامهوری",
+        "hover_text": "روز جمهوری - ۲۰۲۳",
+        "share_text": "روز جمهوری کنیا مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Jamhuri",
+        "hover_text": "Dzień Niepodległości Kenii 2023",
+        "share_text": "Kenia obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia de Jamhuri",
+        "hover_text": "Dia de Jamhuri 2023",
+        "share_text": "Feliz Dia de Jamhuri, Quênia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia de Jamhuri",
+        "hover_text": "Dia de Jamhuri de 2023",
+        "share_text": "Feliz Dia de Jamhuri (Quénia)! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਜਮਹੂਰੀ ਦਿਵਸ",
+        "hover_text": "ਜਮਹੂਰੀ ਦਿਵਸ 2023",
+        "share_text": "ਜਮਹੂਰੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਕੀਨੀਆ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Jamhuri",
+        "hover_text": "Ziua Jamhuri – 2023",
+        "share_text": "La mulți ani de Ziua Jamhuri, Kenya! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День Республики в Кении",
+        "hover_text": "День Республики в Кении – 2023",
+        "share_text": "День Республики в Кении #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан републике у Кенији",
+        "hover_text": "Дан републике у Кенији 2023.",
+        "share_text": "Честитамо Дан републике Кенији! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan republike u Keniji",
+        "hover_text": "Dan republike u Keniji 2023.",
+        "share_text": "Čestitamo Dan republike Keniji! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Jamhuri",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ජම්හූරි දිනය",
+        "hover_text": "ජම්හූරි දිනය 2023",
+        "share_text": "ප්‍රීතිමත් ජම්හූරි දිනයක්, කෙන්යාව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Jamhuri Day",
+        "hover_text": "Deň republiky 2023",
+        "share_text": "Šťastný deň republiky, Keňa. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan republike v Keniji",
+        "hover_text": "Dan republike v Keniji 2023",
+        "share_text": "Vesel dan republike, Kenija! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Jamhuuriga",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": "Letsatsi la Jamhuri",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Jamhuri Day",
+        "hover_text": "Jamhuri Day 2023",
+        "share_text": "¡Feliz Jamhuri Day de Kenia! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Jamhuri",
+        "hover_text": "Sikukuu ya Jamhuri 2023",
+        "share_text": "Heri ya Sikukuu ya Jamhuri, Kenya! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Jamhuridagen",
+        "hover_text": "Jamhuridagen 2023",
+        "share_text": "Vi firar Kenyas jamhuridag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஜம்ஹூரி தினம்",
+        "hover_text": "ஜம்ஹூரி தினம் 2023",
+        "share_text": "கென்யாவின் ஜம்ஹூரி தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "జంహూరి (కెన్యా గణతంత్ర) దినోత్సవం",
+        "hover_text": "జంహూరి దినోత్సవం 2023 (కెన్యా గణతంత్ర దినోత్సవం)",
+        "share_text": "జంహూరి దినోత్సవ శుభాకాంక్షలు! (కెన్యా గణతంత్ర దినోత్సవం) #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันชาติเคนยา",
+        "hover_text": "วันชาติเคนยาปี 2023",
+        "share_text": "สุขสันต์วันชาติเคนยา #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Jamhuri",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Jamhuri Günü",
+        "hover_text": "2023 Jamhuri Günü",
+        "share_text": "Kenya Jamhuri Günü'nü kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День Джамхурі",
+        "hover_text": "День Джамхурі у 2023 році",
+        "share_text": "З Днем Джамхурі, Кеніє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم Jamhuri",
+        "hover_text": "یوم جمہوریہ 2023",
+        "share_text": "یوم جمہوریہ مبارک ہو، کینیا! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Keniyada Respublika kuni",
+        "hover_text": "Keniyada Respublika kuni 2023",
+        "share_text": "Respublika kuning muborak, Keniya! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Kenya",
+        "hover_text": "Ngày Quốc khánh Kenya năm 2023",
+        "share_text": "Chào mừng ngày Quốc khánh Kenya! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku luka-Jamhuri",
+        "hover_text": "Usuku lwe-Jamhuri lwango-2023",
+        "share_text": "Sikufisela usuku oluhle lwe-Jamhuri, Kenya! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Jamhuri Day",
+    "share_text": "Happy Jamhuri Day, Kenya! #GoogleDoodle"
+  },
+  {
     "name": "cassia-ellers-61st-birthday",
     "title": "Cássia Eller's 61st Birthday",
     "url": "//www.google.com/logos/doodles/2023/cassia-ellers-61st-birthday-6753651837110100-l.png",
