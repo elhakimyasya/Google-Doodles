@@ -499,6 +499,505 @@
     "share_text": "Celebrating Agnès Varda! #GoogleDoodle"
   },
   {
+    "name": "googles-most-searched-playground",
+    "title": "Google's Most Searched Playground",
+    "url": "//www.google.com/logos/doodles/2023/googles-most-searched-playground-6753651837110167.4-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/o5cOiEbmP9rJ_VDzupO1uoDctl5zWU5A2w-RVoZEjSa2UO5Oqpanw9yeXM5XkIahlWwxLc4gMpyyCTjUr2kLJdYyyTOvoPg9f1UXXJdTPmBehUtqBxDN5w",
+    "high_res_url": "//www.google.com/logos/doodles/2023/googles-most-searched-playground-6753651837110167.3-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      12,
+      12
+    ],
+    "translations": {
+      "en": {
+        "query": "Google search playground",
+        "hover_text": "Google's Most Searched Playground",
+        "share_text": "Google's Most Searched Playground #GoogleDoodle"
+      },
+      "af": {
+        "query": "Google-soektog-speelgrond",
+        "hover_text": "Speelgrond met Google se mees gesoekte",
+        "share_text": "Speelgrond met Google se mees gesoekte #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Google search playground",
+        "hover_text": "Këndi i lojërave i gjërave më të kërkuara në Google",
+        "share_text": "Këndi i lojërave i gjërave më të kërkuara në Google #GoogleDoodle"
+      },
+      "am": {
+        "query": "የGoogle ፍለጋ መጫወቻ ሜዳ",
+        "hover_text": "Google ላይ በጣም የተፈለገ መጫወቻ ሜዳ",
+        "share_text": "Google ላይ በጣም የተፈለገ መጫወቻ ሜዳ #GoogleDoodle"
+      },
+      "ar": {
+        "query": "مساحة اللعب حول البحث على Google",
+        "hover_text": "مساحة لعب للعثور على المواضيع الأكثر بحثًا على Google",
+        "share_text": "شارِك في اللعبة للعثور على المواضيع الأكثر بحثًا على Google.‏ ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Google search playground",
+        "hover_text": "Ամենաշատ որոնվող խաղահրապարակը Google-ում",
+        "share_text": "Ամենաշատ որոնվող խաղահրապարակը Google-ում #GoogleDoodle"
+      },
+      "az": {
+        "query": "Google axtarış üzrə oyun meydançası",
+        "hover_text": "Google'un ən çox axtarılan oyun meydançası",
+        "share_text": "Google'un ən çox axtarılan oyun meydançası #GoogleDoodle"
+      },
+      "bn": {
+        "query": "Google Search Playground",
+        "hover_text": "Google-এ সবচেয়ে বেশিবার সার্চ করা Playground",
+        "share_text": "Google-এ সবচেয়ে বেশিবার সার্চ করা Playground #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Google Bilaketa jolastokia",
+        "hover_text": "Google-ko jolastoki bilatuena",
+        "share_text": "Google-ko jolastoki bilatuena #GoogleDoodle"
+      },
+      "be": {
+        "query": "Гульнявая пляцоўка Google Пошуку",
+        "hover_text": "Гульнявая пляцоўка \"Самае папулярнае ў пошукавых запытах Google\"",
+        "share_text": "Гульнявая пляцоўка \"Самае папулярнае ў пошукавых запытах Google\" #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Google igralište za pretraživanje",
+        "hover_text": "Googleovo Igralište najčešćih pretraživanja",
+        "share_text": "Googleovo Igralište najčešćih pretraživanja #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Google search playground",
+        "hover_text": "Google's Most Searched Playground",
+        "share_text": "Google's Most Searched Playground #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Google search playground",
+        "hover_text": "Най-търсената с Google игрална площадка",
+        "share_text": "Най-търсената с Google игрална площадка #GoogleDoodle"
+      },
+      "my": {
+        "query": "Google search playground",
+        "hover_text": "Google ၏ အရှာဖွေဆုံး Playground",
+        "share_text": "Google ၏ အရှာဖွေဆုံး Playground #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Google search playground",
+        "hover_text": "Les cerques més populars a Google",
+        "share_text": "Les cerques més populars a Google #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Google 搜尋遊樂場",
+        "hover_text": "Google 熱門搜尋遊樂場",
+        "share_text": "Google 熱門搜尋遊樂場 #GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "Google 搜尋遊樂場",
+        "hover_text": "Google 熱門關鍵字遊樂場",
+        "share_text": "Google 熱門關鍵字遊樂場 #GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "Google 搜索游乐场",
+        "hover_text": "Google 热门搜索字词游乐场",
+        "share_text": "Google 热门搜索字词游乐场 #GoogleDoodle"
+      },
+      "hr": {
+        "query": "Igralište Google pretraživanja",
+        "hover_text": "Najčešće pretraživano igralište na Googleu",
+        "share_text": "Najčešće pretraživano igralište na Googleu #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Hra s nejčastěji vyhledávanými položkami na Googlu",
+        "hover_text": "Hra s nejčastěji vyhledávanými položkami na Googlu",
+        "share_text": "Hra s nejčastěji vyhledávanými položkami na Googlu #GoogleDoodle"
+      },
+      "da": {
+        "query": "Google search playground",
+        "hover_text": "Legeplads med de hyppigste Google-søgninger",
+        "share_text": "Legeplads med de hyppigste Google-søgninger #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Google search playground",
+        "hover_text": "Het Meest Gezocht op Google",
+        "share_text": "Het Meest Gezocht op Google #GoogleDoodle"
+      },
+      "et": {
+        "query": "Google'i otsingu mänguväljak",
+        "hover_text": "Google'i enimotsitud mänguväljak",
+        "share_text": "Google'i enimotsitud mänguväljak #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Google search playground",
+        "hover_text": "Google's Most Searched Playground",
+        "share_text": "Google's Most Searched Playground #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Google Most Searched Playground",
+        "hover_text": "Un \"Cherche et Trouve\" pour redécouvrir 25 ans de recherches Google !",
+        "share_text": "Un \"Cherche et Trouve\" pour redécouvrir 25 ans de recherches Google ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Google search playground",
+        "hover_text": "Un jeu sur les recherches Google les plus populaires",
+        "share_text": "Un jeu sur les recherches Google les plus populaires #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Área de xogo da Busca de Google",
+        "hover_text": "Área de xogo das buscas máis populares en Google",
+        "share_text": "Área de xogo das buscas máis populares en Google #GoogleDoodle"
+      },
+      "ka": {
+        "query": "Google ძიების Playground",
+        "hover_text": "Google-ის ყველაზე მოთხოვნადი Playground",
+        "share_text": "Google-ის ყველაზე მოთხოვნადი Playground #GoogleDoodle"
+      },
+      "de": {
+        "query": "Playground in der Google Suche",
+        "hover_text": "Der meistgesuchte Playground in der Google Suche",
+        "share_text": "Der meistgesuchte Playground in der Google Suche #GoogleDoodle"
+      },
+      "el": {
+        "query": "Παιχνίδια με την Αναζήτηση Google",
+        "hover_text": "Παιχνίδια με τις πιο δημοφιλείς αναζητήσεις του Google",
+        "share_text": "Παιχνίδια με τις πιο δημοφιλείς αναζητήσεις του Google #GoogleDoodle"
+      },
+      "gu": {
+        "query": "Googleનું સૌથી વધુ શોધવામાં આવેલું પ્લેગ્રાઉન્ડ",
+        "hover_text": "Googleનું સૌથી વધુ શોધવામાં આવેલું પ્લેગ્રાઉન્ડ",
+        "share_text": "Googleનું સૌથી વધુ શોધવામાં આવેલું પ્લેગ્રાઉન્ડ #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Google search playground",
+        "hover_text": "המשחק של Google למונחים הכי נפוצים בחיפוש",
+        "share_text": "המשחק של Google למונחים הכי נפוצים בחיפוש‎ #GoogleDoodle"
+      },
+      "hi": {
+        "query": "Google search playground",
+        "hover_text": "Google का Playground, जहां लोग अंदाज़ा लगाते हैं कि साल भर में कौनसी चीज़ें सबसे ज़्यादा खोजी गईं",
+        "share_text": "Google का Playground, जहां लोग अंदाज़ा लगाते हैं कि साल भर में कौनसी चीज़ें सबसे ज़्यादा खोजी गईं #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Google-keresés játszótere",
+        "hover_text": "A Google legkeresettebb játszótere",
+        "share_text": "A Google legkeresettebb játszótere #GoogleDoodle"
+      },
+      "is": {
+        "query": "Google search playground",
+        "hover_text": "Leikvöllurinn sem er oftast leitað að á Google",
+        "share_text": "Leikvöllurinn sem er oftast leitað að á Google #GoogleDoodle"
+      },
+      "id": {
+        "query": "Google search playground",
+        "hover_text": "Playground Google yang Paling Banyak Ditelusuri",
+        "share_text": "Playground Google yang Paling Banyak Ditelusuri #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Most Searched Playground",
+        "hover_text": "Esplora il Most Searched Playground di Google",
+        "share_text": "Esplora le tendenze nel Most Searched Playground di Google! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "Google 検索",
+        "hover_text": "Google 25 年間で最も検索された言葉の遊び場",
+        "share_text": "Google 25 年間で最も検索された言葉の遊び場 #Google #Doodle"
+      },
+      "kn": {
+        "query": "Google search ಪ್ಲೇಗ್ರೌಂಡ್",
+        "hover_text": "Google ನಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಹುಡುಕಿದ ಪ್ಲೇಗ್ರೌಂಡ್",
+        "share_text": "Google ನಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಹುಡುಕಿದ ಪ್ಲೇಗ್ರೌಂಡ್ #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Google search playground",
+        "hover_text": "Google's Most Searched Playground",
+        "share_text": "Google's Most Searched Playground #GoogleDoodle"
+      },
+      "km": {
+        "query": "សួនកម្សាន្តសម្រាប់ការស្វែងរកនៅលើ Google",
+        "hover_text": "សួនកម្សាន្តសម្រាប់ការស្វែងរកពេញនិយមបំផុតនៅលើ Google",
+        "share_text": "សួនកម្សាន្តសម្រាប់ការស្វែងរកពេញនិយមបំផុតនៅលើ Google #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Google search playground",
+        "hover_text": "Google 인기 검색어 숨은그림찾기",
+        "share_text": "Google 인기 검색어 숨은그림찾기 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Google'да изделген оюн платформалары",
+        "hover_text": "Google'да эң көп изделген оюн платформалары",
+        "share_text": "Google'да эң көп изделген оюн платформалары #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Google ຊອກຫາສະໜາມເດັກຫຼິ້ນ",
+        "hover_text": "ສະໜາມເດັກຫຼິ້ນທີ່ມີການຊອກຫາຫຼາຍທີ່ສຸດຂອງ Google",
+        "share_text": "ສະໜາມເດັກຫຼິ້ນທີ່ມີການຊອກຫາຫຼາຍທີ່ສຸດຂອງ Google #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Google search playground",
+        "hover_text": "Juego de los más buscados en Google",
+        "share_text": "Juego de los más buscados en Google #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Google meklēšanas rotaļlaukums",
+        "hover_text": "Google visvairāk meklēto vaicājumu rotaļlaukums",
+        "share_text": "Google visvairāk meklēto vaicājumu rotaļlaukums #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Žaidimų aikštelė „Google“ paieškoje",
+        "hover_text": "Dažniausiai sistemoje „Google“ ieškota žaidimų aikštelė",
+        "share_text": "Dažniausiai sistemoje „Google“ ieškota žaidimų aikštelė #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Google search playground",
+        "hover_text": "Google's Most Searched Playground",
+        "share_text": "Google's Most Searched Playground #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Google search playground",
+        "hover_text": "Playground Paling Dicari pada Google",
+        "share_text": "Playground Paling Dicari pada Google #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Google search playground",
+        "hover_text": "Google's Most Searched Playground",
+        "share_text": "Google's Most Searched Playground #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "Google चे सर्वाधिक शोधलेले प्लेग्राउंड",
+        "hover_text": "Google चे सर्वाधिक शोधलेले प्लेग्राउंड",
+        "share_text": "Google चे सर्वाधिक शोधलेले प्लेग्राउंड #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Google хайлтын тоглоомын талбай",
+        "hover_text": "Google-с хамгийн их хайсан тоглоомын талбай",
+        "share_text": "Google-с хамгийн их хайсан тоглоомын талбай #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Google Search को प्लेग्राउन्ड",
+        "hover_text": "Google को सबैभन्दा बढी खोजिएको प्लेग्राउन्ड",
+        "share_text": "Google को सबैभन्दा बढी खोजिएको प्लेग्राउन्ड #GoogleDoodle"
+      },
+      "no": {
+        "query": "Mest søkt etter på Google",
+        "hover_text": "Mest søkt etter på Google",
+        "share_text": "Mest søkt etter på Google #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "حوزه جستجوی Google",
+        "hover_text": "حوزه‌ای که بیشترین جستجو را در Google داشته است",
+        "share_text": "حوزه‌ای که بیشترین جستجو را در Google داشته است ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Plac zabaw w wyszukiwarce Google",
+        "hover_text": "Plac zabaw najczęściej wyszukiwany w Google",
+        "share_text": "Plac zabaw najczęściej wyszukiwany w Google #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "O jogo da Busca do Google",
+        "hover_text": "O jogo dos mais buscados do Google",
+        "share_text": "O jogo dos mais buscados do Google #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Parque infantil da Pesquisa Google",
+        "hover_text": "O parque infantil mais pesquisado no Google",
+        "share_text": "O parque infantil mais pesquisado no Google #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Google ਦਾ ਸਭ ਤੋਂ ਵੱਧ ਖੋਜਿਆ ਗਿਆ ਪਲੇਗ੍ਰਾਊਂਡ",
+        "hover_text": "Google ਦਾ ਸਭ ਤੋਂ ਵੱਧ ਖੋਜਿਆ ਗਿਆ ਪਲੇਗ੍ਰਾਊਂਡ",
+        "share_text": "Google ਦਾ ਸਭ ਤੋਂ ਵੱਧ ਖੋਜਿਆ ਗਿਆ ਪਲੇਗ੍ਰਾਊਂਡ #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Joc de căutare pe Google",
+        "hover_text": "Joc cu subiectul cel mai căutat pe Google",
+        "share_text": "Joc cu subiectul cel mai căutat pe Google #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Найти детские площадки в Google Поиске",
+        "hover_text": "Самые популярные запросы в Поиске",
+        "share_text": "Самые популярные запросы в Поиске #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Google search playground",
+        "hover_text": "Google-ово најпретраживаније игралиште",
+        "share_text": "Google-ово најпретраживаније игралиште #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Google search playground",
+        "hover_text": "Google-ovo najpretraživanije igralište",
+        "share_text": "Google-ovo najpretraživanije igralište #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "Google සෙවීම් ක්‍රීඩාභූමිය",
+        "hover_text": "Google හි වැඩිපුරම සෙවූ ක්‍රීඩාභූමිය",
+        "share_text": "Google හි වැඩිපුරම සෙවූ ක්‍රීඩාභූමිය #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Hra s vyhľadávanými položkami na Googli",
+        "hover_text": "Hra s najčastejšie vyhľadávanými položkami na Googli",
+        "share_text": "Hra s najčastejšie vyhľadávanými položkami na Googli #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Igrišče v Iskanju Google",
+        "hover_text": "Igrišče najbolj iskanih stvari v Googlu",
+        "share_text": "Igrišče najbolj iskanih stvari v Googlu #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "El parque infantil de la Búsqueda de Google",
+        "hover_text": "El parque infantil de lo más buscado en Google",
+        "share_text": "El parque infantil de lo más buscado en Google #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Google search playground",
+        "hover_text": "Uwanja wa Michezo wa Google Uliotafutwa Zaidi",
+        "share_text": "Uwanja wa Michezo wa Google Uliotafutwa Zaidi #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Utforska sökningar på Google",
+        "hover_text": "De populäraste sökningarna på Google",
+        "share_text": "De populäraste sökningarna på Google #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Google search playground",
+        "hover_text": "Googleளில் அதிகம் தேடப்பட்டவை உள்ள ப்ளேகிரவுண்ட்",
+        "share_text": "Googleளில் அதிகம் தேடப்பட்டவை உள்ள ப்ளேகிரவுண்ட் #GoogleDoodle"
+      },
+      "te": {
+        "query": "Googleలో సెర్చ్ చేయబడిన ప్లేగ్రౌండ్",
+        "hover_text": "Googleలో అత్యంత ఎక్కువగా సెర్చ్ చేయబడిన ప్లేగ్రౌండ్",
+        "share_text": "Googleలో అత్యంత ఎక్కువగా సెర్చ్ చేయబడిన ప్లేగ్రౌండ్ #GoogleDoodle"
+      },
+      "th": {
+        "query": "Google Search สนามเด็กเล่น",
+        "hover_text": "สนามเด็กเล่นแห่งคำค้นหาที่มาแรงที่สุดของ Google",
+        "share_text": "สนามเด็กเล่นแห่งคำค้นหาที่มาแรงที่สุด Google #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Google search playground",
+        "hover_text": "Google'ın En Çok Arananlar Oyun Parkı",
+        "share_text": "Google'ın En Çok Arananlar Oyun Parkı. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Google search playground",
+        "hover_text": "Найпопулярніший дитячий майданчик у Пошуку Google",
+        "share_text": "Найпопулярніший дитячий майданчик у Пошуку Google #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Google تلاش پلے گراؤںڈ",
+        "hover_text": "Google پر سب سے زیادہ تلاش کیا گیا پلے گراؤںڈ",
+        "share_text": "Google پر سب سے زیادہ تلاش کیا گیا پلے گراؤںڈ ‎#GoogleDoodle"
+      },
+      "uz": {
+        "query": "Google search playground",
+        "hover_text": "Googlening eng koʻp qidirilgan oʻyin maydonchasi",
+        "share_text": "Googlening eng koʻp qidirilgan oʻyin maydonchasi #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Google search playground",
+        "hover_text": "Trò chơi về nội dung được tìm kiếm nhiều nhất trên Google",
+        "share_text": "Trò chơi về nội dung được tìm kiếm nhiều nhất trên Google #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "I-playground ye-Google search",
+        "hover_text": "I-Playground Eseshwe Kakhulu yi-Google",
+        "share_text": "I-Playground Eseshwe Kakhulu yi-Google #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Google search playground",
+    "share_text": "Google's Most Searched Playground #GoogleDoodle"
+  },
+  {
     "name": "celebrating-german-bread-culture",
     "title": "Celebrating German Bread Culture",
     "url": "//www.google.com/logos/doodles/2023/celebrating-german-bread-culture-6753651837109360-l.png",
