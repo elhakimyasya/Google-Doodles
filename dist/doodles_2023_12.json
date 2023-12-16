@@ -1,5 +1,1502 @@
 [
   {
+    "name": "bahrain-national-day-2023",
+    "title": "Bahrain National Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/bahrain-national-day-2023-6753651837109988-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/7_86nA1SQVYsOSdndzcsSyTX3Htb0W8jePIH1XIaUF_BgGNonsUE6aSNM_pjll6O_D9fFU2pz6YfCQeDyZDcdkDKwj96aovPh_fOA7T7zDlV41gBCh_t",
+    "high_res_url": "//www.google.com/logos/doodles/2023/bahrain-national-day-2023-6753651837109988-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      12,
+      16
+    ],
+    "translations": {
+      "en": {
+        "query": "Bahrain National Day",
+        "hover_text": "Bahrain National Day 2023",
+        "share_text": "Happy National Day, Bahrain! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Bahrein se nasionale dag",
+        "hover_text": "Bahrein se nasionale dag 2023",
+        "share_text": "Gelukkige nasionale dag, Bahrein! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita Kombëtare e Bahreinit",
+        "hover_text": "Dita Kombëtare e Bahrejnit, 2023",
+        "share_text": "Gëzuar Ditën Kombëtare, Bahrein! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የባሕሬን ብሔራዊ ቀን",
+        "hover_text": "የባህሬን ብሔራዊ ቀን 2023",
+        "share_text": "መልካም ብሔራዊ ቀን፣ ባሕሬን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "العيد الوطني للبحرين",
+        "hover_text": "العيد الوطني للبحرين 2023",
+        "share_text": "عيد وطني سعيد للبحرين ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Բահրեյնի ազգային տոն",
+        "hover_text": "Բահրեյնի ազգային տոն 2023",
+        "share_text": "Շնորհավո՛ր Բահրեյնի ազգային տոնը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Bəhreyn Müstəqillik Günü",
+        "hover_text": "2023 Bəhreynin Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Bəhreyn! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "বাহরিনের জাতীয় দিবস",
+        "hover_text": "বাহরিনের জাতীয় দিবস ২০২৩",
+        "share_text": "বাহরিনের মানুষদের জাতীয় দিবসের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Bahraingo Egun Nazionala",
+        "hover_text": "2023ko Bahraingo Egun Nazionala",
+        "share_text": "Egun Nazional zoriontsua izan, Bahrain! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Нацыянальны дзень Бахрэйна",
+        "hover_text": "Нацыянальны дзень Бахрэйна – 2023",
+        "share_text": "З Нацыянальным днём, Бахрэйн! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan državnosti Bahraina",
+        "hover_text": "Dan državnosti Bahreina 2023.",
+        "share_text": "Sretan Dan državnosti, Bahrain! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Bahrain National Day",
+        "hover_text": "Bahrain National Day 2023",
+        "share_text": "Happy National Day, Bahrain! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Национален празник на Бахрейн",
+        "hover_text": "Национален празник на Бахрейн 2023 г.",
+        "share_text": "Честит национален празник на Бахрейн! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဘာရိန်း အမျိုးသားနေ့",
+        "hover_text": "၂၀၂၃ ဘာရိန်းနိုင်ငံ အမျိုးသားနေ့",
+        "share_text": "ဘာရိန်း အမျိုးသားနေ့မှာ ပျော်ရွှင်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia Nacional de Bahrain",
+        "hover_text": "Dia Nacional de Bahrain 2023",
+        "share_text": "Feliç Dia Nacional, Bahrain! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "巴林國慶日",
+        "hover_text": "2023 年巴林國慶日",
+        "share_text": "巴林，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "巴林國慶日",
+        "hover_text": "2023 年巴林國慶日",
+        "share_text": "巴林，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "巴林国庆日",
+        "hover_text": "2023 年巴林国庆节",
+        "share_text": "巴林，国庆日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan državnosti Bahreina",
+        "hover_text": "Dan državnosti Bahreina 2023.",
+        "share_text": "Sretan Dan državnosti, Bahreine! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Státní svátek Bahrajnu",
+        "hover_text": "Den bahrajnské státnosti 2023",
+        "share_text": "Vše nejlepší ke státnímu svátku, Bahrajne! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Bahrains nationaldag",
+        "hover_text": "Bahrains nationaldag 2023",
+        "share_text": "Glædelig nationaldag, Bahrain! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Nationale feestdag Bahrein",
+        "hover_text": "Nationale feestdag Bahrein 2023",
+        "share_text": "Fijne nationale feestdag, Bahrein #GoogleDoodle"
+      },
+      "et": {
+        "query": "Bahreini rahvuspüha",
+        "hover_text": "Bahreini 2023. aasta rahvuspüha",
+        "share_text": "Head rahvuspüha, Bahrein! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Bahrainin kansallispäivä",
+        "hover_text": "Bahrainin kansallispäivä 2023",
+        "share_text": "Hyvää kansallispäivää, Bahrain! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête nationale de Bahreïn",
+        "hover_text": "Fête nationale de Bahreïn 2023",
+        "share_text": "Fête nationale de Bahreïn ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête nationale de Bahreïn",
+        "hover_text": "Fête nationale de Bahreïn 2023",
+        "share_text": "Joyeuse fête nationale de Bahreïn! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día Nacional de Bahrain",
+        "hover_text": "Día Nacional de Bahrain 2023",
+        "share_text": "Feliz Día Nacional, Bahrain! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ბაჰრეინის ეროვნული დღესასწაული",
+        "hover_text": "ბაჰრეინის ეროვნული დღესასწაული — 2023",
+        "share_text": "ვულოცავთ ბაჰრეინს ეროვნულ დღესასწაულს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Nationalfeiertag Bahrain",
+        "hover_text": "Nationalfeiertag Bahrain 2023",
+        "share_text": "Alles Gute zum Nationalfeiertag in Bahrain! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Εθνική Ημέρα Μπαχρέιν",
+        "hover_text": "Εθνική Ημέρα του Μπαχρέιν 2023",
+        "share_text": "Γιορτάζουμε την Εθνική Ημέρα του Μπαχρέιν! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "બેહરીનનો રાષ્ટ્રીય દિવસ",
+        "hover_text": "બેહરીનનો રાષ્ટ્રીય દિવસ 2023",
+        "share_text": "રાષ્ટ્રીય દિવસની શુભેચ્છા, બેહરીન! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "החג הלאומי של בחריין",
+        "hover_text": "החג הלאומי של בחריין 2023",
+        "share_text": "חג לאומי שמח לבחריין! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "बहरीन का राष्ट्रीय दिवस",
+        "hover_text": "बहरीन का राष्ट्रीय दिवस 2023",
+        "share_text": "राष्ट्रीय दिवस की शुभकामनाएं, बहरीन! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Bahrein nemzeti ünnepe",
+        "hover_text": "Bahrein nemzeti ünnepe, 2023",
+        "share_text": "Boldog függetlenség napját, Bahrein! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þjóðhátíðardagur Barein",
+        "hover_text": "Þjóðhátíðardagur Barein 2023",
+        "share_text": "Gleðilegan þjóðhátíðardag, Barein! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Nasional Bahrain",
+        "hover_text": "Hari Nasional Bahrain 2023",
+        "share_text": "Selamat Hari Nasional, Bahrain. #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Náisiúnta na Bairéine",
+        "hover_text": null,
+        "share_text": "Lá Náisiúnta na Bairéine faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa nazionale del Bahrein",
+        "hover_text": "Festa nazionale del Bahrein 2023",
+        "share_text": "Buona festa nazionale, Bahrein! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "バーレーン建国記念日",
+        "hover_text": "2023 年バーレーン建国記念日",
+        "share_text": "バーレーン建国記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಬಹರೈನ್ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಬಹ್ರೇನ್ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ 2023",
+        "share_text": "ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಬಹರೈನ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Бахрейннің Ұлттық күні",
+        "hover_text": "Бахрейннің Ұлттық күні – 2023",
+        "share_text": "Ұлттық күн құтты болсын, Бахрейн! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាបុណ្យជាតិបារ៉ែន​",
+        "hover_text": "ទិវាបុណ្យជាតិបារ៉ែន​ឆ្នាំ 2023",
+        "share_text": "អបអរ​ទិវាបុណ្យជាតិបារ៉ែន! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "바레인 국경일",
+        "hover_text": "2023년 바레인 독립기념일",
+        "share_text": "바레인 국경일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Бахрейндин Улуттук күнү",
+        "hover_text": "Бахрейндин Улуттук күнү – 2023",
+        "share_text": "Улуттук күнүң менен, Бахрейн! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຊາດບາເຣນ",
+        "hover_text": "ວັນຊາດບາເຣນ 2023",
+        "share_text": "ສຸກສັນວັນຊາດບາເຣນ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día Nacional de Bahréin",
+        "hover_text": "Día Nacional de Bahréin 2023",
+        "share_text": "¡Feliz Día Nacional de Bahréin! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Bahreinas Nacionālie svētki",
+        "hover_text": "Bahreinas Nacionālie svētki — 2023",
+        "share_text": "Sveicam Nacionālajos svētkos, Bahreina! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Bahreino nacionalinė diena",
+        "hover_text": "Bahreino nacionalinė diena, 2023 m.",
+        "share_text": "Sveikiname Bahreiną su nacionaline diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на државноста на Бахреин",
+        "hover_text": "Ден на државноста на Бахреин, 2023 г.",
+        "share_text": "Среќен Ден на државноста, Бахреин! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetim-pirenen'i Baharaina",
+        "hover_text": null,
+        "share_text": "Tsarà fetim-pirenena ry Baharaina ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kebangsaan Bahrain",
+        "hover_text": "Hari Kebangsaan Bahrain 2023",
+        "share_text": "Selamat Menyambut Hari Kebangsaan, Bahrain! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ബഹ്‌റെെൻ ദേശീയ ദിനം",
+        "hover_text": "ബഹ്‌റെെൻ ദേശീയ ദിനം 2023",
+        "share_text": "ദേശീയ ദിനാശംസകൾ, ബഹ്‌റെെൻ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "बहरीनचा राष्ट्रीय दिन",
+        "hover_text": "बहारीनचा राष्ट्रीय दिन २०२३",
+        "share_text": "बहरीनला राष्ट्रीय दिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Бахрейн улсын Үндэсний баярын өдөр",
+        "hover_text": "2023 оны Бахрейн Улсын Үндэсний баярын өдөр",
+        "share_text": "Бахрейн улсын ард иргэдэд Үндэсний баярын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "बहराइनको राष्ट्रिय दिवस",
+        "hover_text": "बहाराइनको राष्ट्रिय दिवस २०२३",
+        "share_text": "राष्ट्रिय दिवसको शुभकामना, बहराइन! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Bahrains nasjonaldag",
+        "hover_text": "Bahrains nasjonaldag 2023",
+        "share_text": "Gratulerer med nasjonaldagen, Bahrain! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ବାହାରିନ ରାଷ୍ଟ୍ରୀୟ ଦିବସ",
+        "hover_text": "ବାହାରିନର ଜାତୀୟ ଦିବସ 2023",
+        "share_text": "ରାଷ୍ଟ୍ରୀୟ ଦିବସର ଶୁଭେଚ୍ଛା, ବାହାରିନ୍! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز ملی بحرین",
+        "hover_text": "روز ملی بحرین - ۲۰۲۳",
+        "share_text": "روز ملی بحرین مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Narodowe Bahrajnu",
+        "hover_text": "Święto Narodowe Bahrajnu 2023",
+        "share_text": "Bahrajn obchodzi Święto Narodowe #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia Nacional do Barein",
+        "hover_text": "Dia Nacional do Barein 2023",
+        "share_text": "Feliz Dia Nacional, Barein! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia Nacional do Barém",
+        "hover_text": "Dia Nacional do Barém de 2023",
+        "share_text": "Feliz Dia Nacional, Barém! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਬਹਿਰੀਨ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ",
+        "hover_text": "ਬਹਿਰੀਨ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ 2023",
+        "share_text": "ਬਹਿਰੀਨ ਦੇ ਰਾਸ਼ਟਰੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Națională a Bahrainului",
+        "hover_text": "Ziua Națională a Bahrainului – 2023",
+        "share_text": "La mulți ani de Ziua Națională, Bahrain! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Национальный день Бахрейна",
+        "hover_text": "Национальный день Бахрейна – 2023",
+        "share_text": "Национальный день Бахрейна #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан државности Бахреина",
+        "hover_text": "Дан државности Бахреина 2023.",
+        "share_text": "Честитамо Дан државности Бахреину! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan državnosti Bahreina",
+        "hover_text": "Dan državnosti Bahreina 2023.",
+        "share_text": "Čestitamo Dan državnosti Bahreinu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Nasyonal Bahrain",
+        "hover_text": null,
+        "share_text": "Bonn zournen nasyonal, Bahrain! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "බහරේන් ජාතික දිනය",
+        "hover_text": "බහරේන් ජාතික දිනය 2023",
+        "share_text": "සුබ ජාතික දිනයක්, බහරේනය! #Googleඩූඩල්"
+      },
+      "sk": {
+        "query": "Štátny sviatok Bahrajnu",
+        "hover_text": "Národný deň Bahrajnu 2023",
+        "share_text": "Šťastný štátny sviatok, Bahrajn! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan državnosti Bahrajna",
+        "hover_text": "Dan državnosti Bahrajna 2023",
+        "share_text": "Vesel dan državnosti, Bahrajn. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Qaranka Baxrayn",
+        "hover_text": null,
+        "share_text": "Maalinta Qaranka Farxada leh, Baxrayn! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Naha la Bahrain",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Naha, Bahrain! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día Nacional de Baréin",
+        "hover_text": "Día Nacional de Baréin 2023",
+        "share_text": "¡Feliz Día Nacional de Baréin! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Kitaifa ya Bahareni",
+        "hover_text": "Sikukuu ya Kitaifa ya Bahareni 2023",
+        "share_text": "Heri ya Sikukuu ya Kitaifa, Bahareni! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Bahrains nationaldag",
+        "hover_text": "Bahrains nationaldag 2023",
+        "share_text": "Vi firar Bahrains nationaldag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "பஹ்ரைன் தேசிய தினம்",
+        "hover_text": "பஹ்ரைனின் தேசிய தினம் 2023",
+        "share_text": "பஹ்ரைன் தேசிய தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "బహ్రెయిన్ జాతీయ దినోత్సవం",
+        "hover_text": "బహ్రెయిన్ జాతీయ దినోత్సవం 2023",
+        "share_text": "జాతీయ దినోత్సవ శుభాకాంక్షలు, బహ్రెయిన్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันชาติบาห์เรน",
+        "hover_text": "วันชาติบาห์เรนปี 2023",
+        "share_text": "วันชาติบาห์เรน #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Setšhaba la Bahrain",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Setšhaba, Bahrain! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Bahreyn Ulusal Günü",
+        "hover_text": "2023 Bahreyn Ulusal Günü",
+        "share_text": "Bahreyn Ulusal Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Національний день Бахрейну",
+        "hover_text": "Національний день Бахрейну у 2023 році",
+        "share_text": "З Національним днем, Бахрейне! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "بحرین کا قومی دن",
+        "hover_text": "بحرین کا قومی دن 2023",
+        "share_text": "بحرین کا قومی دن مبارک ہو! #GoogleDoodle"
+      },
+      "uz": {
+        "query": "Bahrayn milliy bayrami",
+        "hover_text": "Bahrayn Milliy bayrami 2023",
+        "share_text": "Bahrayn milliy bayrami muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Bahrain",
+        "hover_text": "Ngày Quốc khánh Bahrain năm 2023",
+        "share_text": "Chúc mừng quốc khánh Bahrain! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lukazwelonke lwase-Bahrain",
+        "hover_text": "Usuku Lukazwelonke lwase-Bahrain lwango-2023",
+        "share_text": "Sinifisela usuku lukazwelonke oluhle, Bahrain! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Bahrain National Day",
+    "share_text": "Happy National Day, Bahrain! #GoogleDoodle"
+  },
+  {
+    "name": "kazakhstan-independence-day-2023",
+    "title": "Kazakhstan Independence Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/kazakhstan-independence-day-2023-6753651837109989-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/YIwIxdoi_kUFFWJj-8eck6wMbZdO6xdtNqlL7QPtesFMg1Khve4mLVXe_F1yHOtiIkGmF6IHZKw9ACgoDQVBe4w6HBI902n4FDKkt2tAxLAH2x4LX7xbhg",
+    "high_res_url": "//www.google.com/logos/doodles/2023/kazakhstan-independence-day-2023-6753651837109989-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      12,
+      16
+    ],
+    "translations": {
+      "en": {
+        "query": "Kazakhstan Independence Day",
+        "hover_text": "Kazakhstan Independence Day 2023",
+        "share_text": "Happy Independence Day, Kazakhstan! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Kazakstan se onafhanklikheidsdag",
+        "hover_text": "Kazakstan se onafhanklikheidsdag 2023",
+        "share_text": "Gelukkige onafhanklikheidsdag, Kazakstan! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë së Kazakistanit",
+        "hover_text": "Dita e Pavarësisë së Kazakistanit, 2023",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Kazakistan! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የካዛክስታን ነፃነት ቀን",
+        "hover_text": "የካዛኪስታን የነፃነት ቀን 2023",
+        "share_text": "መልካም የነጻነት ቀን ካዛክስታን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال كازاخستان",
+        "hover_text": "عيد استقلال كازاخستان 2023",
+        "share_text": "نتمنّى لكازاخستان عيد استقلال سعيدًا. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ղազախստանի անկախության օր",
+        "hover_text": "Ղազախստանի անկախության օր 2023",
+        "share_text": "Շնորհավո՛ր Ղազախստանի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Qazaxıstanın Müstəqillik Günü",
+        "hover_text": "2023 Qazaxıstanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Qazaxıstan! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "কাজাকস্তানের স্বাধীনতা দিবস",
+        "hover_text": "কাজাখস্তানের স্বাধীনতা দিবস ২০২৩",
+        "share_text": "স্বাধীনতা দিবসের শুভেচ্ছা, কাজাকস্তান! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Kazakhstango Independentzia Eguna",
+        "hover_text": "2023ko Kazakhstango Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Kazakhstan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Казахстана",
+        "hover_text": "Дзень незалежнасці Казахстана – 2023",
+        "share_text": "З Днём незалежнасці, Казахстан! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Kazahstana",
+        "hover_text": "Dan nezavisnosti Kazahstana 2023.",
+        "share_text": "Sretan Dan nezavisnosti, Kazahstane! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Kazakhstan Independence Day",
+        "hover_text": "Kazakhstan Independence Day 2023",
+        "share_text": "Happy Independence Day, Kazakhstan! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Казахстан",
+        "hover_text": "Ден на независимостта на Казахстан 2023 г.",
+        "share_text": "Честит Ден на независимостта на Казахстан! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ကာဇက်စတန် လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၃ ကာဇက်စတန်နိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ဖြစ်ပါစေ ကာဇက်စတန်၊။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència del Kazakhstan",
+        "hover_text": "Dia de la Independència del Kazakhstan 2023",
+        "share_text": "Feliç Dia de la Independència, Kazakhstan! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "哈薩克獨立日",
+        "hover_text": "2023 年哈薩克獨立日",
+        "share_text": "哈薩克，獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "哈薩克獨立紀念日",
+        "hover_text": "2023 年哈薩克獨立紀念日",
+        "share_text": "哈薩克，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "哈萨克斯坦独立日",
+        "hover_text": "2023 年哈萨克斯坦独立日",
+        "share_text": "哈萨克斯坦，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Kazahstana",
+        "hover_text": "Dan neovisnosti Kazahstana 2023.",
+        "share_text": "Sretan Dan neovisnosti, Kazahstane! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Kazachstánu",
+        "hover_text": "Den nezávislosti Kazachstánu 2023",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Kazachstáne! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Kasakhstans uafhængighedsdag",
+        "hover_text": "Kasakhstans uafhængighedsdag 2023",
+        "share_text": "Glædelig uafhængighedsdag, Kasakhstan! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Kazachstan",
+        "hover_text": "Onafhankelijkheidsdag Kazachstan 2023",
+        "share_text": "Fijne Onafhankelijkheidsdag, Kazachstan #GoogleDoodle"
+      },
+      "et": {
+        "query": "Kasahstani iseseisvuspäev",
+        "hover_text": "Kasahstani 2023. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Kasahstan! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Kazakstanin itsenäisyyspäivä",
+        "hover_text": "Kazakstanin itsenäisyyspäivä 2023",
+        "share_text": "Hyvää itsenäisyyspäivää, Kazakstan! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance du Kazakhstan",
+        "hover_text": "Fête de l'Indépendance du Kazakhstan 2023",
+        "share_text": "Fête de l'Indépendance du Kazakhstan ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance du Kazakhstan",
+        "hover_text": "Fête de l'Indépendance du Kazakhstan 2023",
+        "share_text": "Joyeux jour de l'indépendance du Kazakhstan! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Kazakistán",
+        "hover_text": "Día da Independencia de Kazakistán 2023",
+        "share_text": "Feliz Día da Independencia, Kazakistán! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ყაზახეთის დამოუკიდებლობის დღე",
+        "hover_text": "ყაზახეთის დამოუკიდებლობის დღე — 2023",
+        "share_text": "ვულოცავთ დამოუკიდებლობის დღეს ყაზახეთს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Kasachstan",
+        "hover_text": "Unabhängigkeitstag Kasachstan 2023",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Kasachstan! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας Καζακστάν",
+        "hover_text": "Ημέρα Ανεξαρτησίας του Καζακστάν 2023",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας του Καζακστάν! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "કઝાખસ્તાનનો સ્વતંત્રતા દિવસ",
+        "hover_text": "કઝાખસ્તાનનો સ્વતંત્રતા દિવસ 2023",
+        "share_text": "કઝાખસ્તાનના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של קזחסטן",
+        "hover_text": "יום העצמאות של קזחסטן 2023",
+        "share_text": "יום עצמאות שמח, קזחסטן! ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "कज़ाकिस्तान का स्वतंत्रता दिवस",
+        "hover_text": "कज़ाकिस्तान का स्वतंत्रता दिवस 2023",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, कज़ाकिस्तान! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Kazahsztán függetlenségének napja",
+        "hover_text": "Kazahsztán függetlenségének napja, 2023",
+        "share_text": "Minden jót a függetlenség napján, Kazahsztán! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Kasakstan",
+        "hover_text": "Sjálfstæðisdagur Kasakstan 2023",
+        "share_text": "Gleðilegan sjálfstæðisdag, Kasakstan! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Kazakhstan",
+        "hover_text": "Hari Kemerdekaan Kazakhstan 2023",
+        "share_text": "Selamat Hari Kemerdekaan, Kazakhstan! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse na Casacstáine",
+        "hover_text": null,
+        "share_text": "Lá Saoirse na Casacstáine faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza del Kazakistan",
+        "hover_text": "Festa dell'indipendenza del Kazakistan 2023",
+        "share_text": "Buona festa dell'indipendenza, Kazakistan! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "カザフスタン独立記念日",
+        "hover_text": "2023 年カザフスタン独立記念日",
+        "share_text": "カザフスタン独立記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಕಝಾಕಿಸ್ತಾನ್ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಕಝಾಖಿಸ್ತಾನ್ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2023",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಕಝಾಕಿಸ್ತಾನ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Қазақстанның Тәуелсіздік күні",
+        "hover_text": "Қазақстанның Тәуелсіздік күні – 2023",
+        "share_text": "Тәуелсіздік күні құтты болсын, Қазақстан! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យ​ឯករាជ្យ​ជាតិកាហ្សាក់ស្ថាន",
+        "hover_text": "ទិវា​បុណ្យ​ឯករាជ្យ​ជាតិកាហ្សាក់ស្ថាន​ឆ្នាំ 2023",
+        "share_text": "អបអរទិវា​បុណ្យឯករាជ្យជាតិ​កាហ្សាក់ស្ថាន! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "카자흐스탄 독립기념일",
+        "hover_text": "2023년 카자흐스탄 독립기념일",
+        "share_text": "카자흐스탄 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Казакстандын Эгемендүүлүк күнү",
+        "hover_text": "Казакстандын Эгемендүүлүк күнү — 2023",
+        "share_text": "Эгемендүүлүк күнүң менен, Казакстан! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດຄາຊັກສະຖານ",
+        "hover_text": "ວັນປະກາດເອກະລາດຄາຊັກສຖານ 2023",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດຄາຊັກສະຖານ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Kazajistán",
+        "hover_text": "Día de la Independencia de Kazajistán 2023",
+        "share_text": "¡Feliz Día de la Independencia, Kazajistán! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Kazahstānas Neatkarības diena",
+        "hover_text": "Kazahstānas Neatkarības diena — 2023",
+        "share_text": "Sveicam Neatkarības dienā, Kazahstāna! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Kazachijos nepriklausomybės diena",
+        "hover_text": "Kazachstano nepriklausomybės diena, 2023 m.",
+        "share_text": "Sveikiname Kazachiją su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Казахстан",
+        "hover_text": "Ден на независноста на Казахстан, 2023 г.",
+        "share_text": "Среќен Ден на независноста, Казахстан! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Kazakistano",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny fahaleovantena ry Kazakistano ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Kazakhstan",
+        "hover_text": "Hari Kemerdekaan Kazakhstan 2023",
+        "share_text": "Selamat Hari Kemerdekaan, Kazakhstan! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "കാസാഖിസ്ഥാൻ സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "കസാഖിസ്ഥാൻ സ്വാതന്ത്ര്യദിനം 2023",
+        "share_text": "സ്വാതന്ത്ര്യ ദിനാശംസകൾ, കാസാഖിസ്ഥാൻ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "कझाकस्तानचा स्वातंत्र्यदिन",
+        "hover_text": "कझाकस्तानचा स्वातंत्र्यदिन २०२३",
+        "share_text": "कझाकस्तानला स्वातंत्र्यदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Казахстан улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2023 оны Казахстан Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Казахстан улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "काजाकस्तानको स्वतन्त्रता दिवस",
+        "hover_text": "काजाकस्तानको स्वतन्त्रता दिवस २०२३",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, काजाकस्तान! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Kasakhstans frigjøringsdag",
+        "hover_text": "Kasakhstans frigjøringsdag 2023",
+        "share_text": "Gratulerer med frigjøringsdagen, Kasakhstan! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "କାଜାଖାସ୍ତାନର ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": "କାଜାଖାସ୍ତାନର ସ୍ୱାଧୀନତା ଦିବସ 2023",
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, କାଜାଖାସ୍ତାନ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال قزاقستان",
+        "hover_text": "روز استقلال قزاقستان - ۲۰۲۳",
+        "share_text": "روز استقلال قزاقستان مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Niepodległości Kazachstanu",
+        "hover_text": "Dzień Niepodległości Kazachstanu 2023",
+        "share_text": "Kazachstan obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência do Cazaquistão",
+        "hover_text": "Dia da Independência do Cazaquistão 2023",
+        "share_text": "Feliz Dia da Independência, Cazaquistão! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência do Cazaquistão",
+        "hover_text": "Dia da Independência do Cazaquistão de 2023",
+        "share_text": "Feliz dia da independência, Cazaquistão! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਕਜ਼ਾਖਸਤਾਨ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ",
+        "hover_text": "ਕਜ਼ਾਖਸਤਾਨ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2023",
+        "share_text": "ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਕਜ਼ਾਖਸਤਾਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței în Kazahstan",
+        "hover_text": "Ziua Independenței în Kazahstan – 2023",
+        "share_text": "La mulți ani de Ziua Independenței, Kazahstan! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Казахстана – 2021",
+        "hover_text": "День независимости Казахстана – 2023",
+        "share_text": "День независимости Казахстана #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Казахстана",
+        "hover_text": "Дан независности Казахстана 2023.",
+        "share_text": "Честитамо Дан независности Казахстану! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Kazahstana",
+        "hover_text": "Dan nezavisnosti Kazahstana 2023.",
+        "share_text": "Čestitamo Dan nezavisnosti Kazahstanu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepandans Kazakhstan",
+        "hover_text": null,
+        "share_text": "Bonn zournen lendepandans, Kazakhstan! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "කසකස්තානයේ නිදහස් දිනය",
+        "hover_text": "කසකස්තානයේ නිදහස් දිනය 2023",
+        "share_text": "ප්‍රීතිමත් නිදහස් දිනයක්, කසකස්තානය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Kazachstanu",
+        "hover_text": "Deň nezávislosti Kazachstanu 2023",
+        "share_text": "Šťastný Deň nezávislosti, Kazachstan! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Kazahstana",
+        "hover_text": "Dan neodvisnosti Kazahstana 2023",
+        "share_text": "Vesel dan neodvisnosti, Kazahstan! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maaalinta Xoriyada Kazakhstan",
+        "hover_text": null,
+        "share_text": "Maalinta Xornimada Farxada oo leh, Kazakhstan! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Boipuso la Kazakhstan",
+        "hover_text": null,
+        "share_text": "Mahlohonolo a Letsatsi la Boipuso, Kazakhstan! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Kazajistán",
+        "hover_text": "Día de la Independencia de Kazajistán 2023",
+        "share_text": "¡Feliz Día de la Independencia de Kazajistán! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Kazakistani",
+        "hover_text": "Sikukuu ya Uhuru wa Kazakistani 2023",
+        "share_text": "Heri za Sikukuu ya Uhuru, Kazakistani! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Kazakstans självständighetsdag",
+        "hover_text": "Kazakstans självständighetsdag 2023",
+        "share_text": "Vi firar Kazakstans självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "கஜகஸ்தானின் சுதந்திர தினம்",
+        "hover_text": "கஜகஸ்தானின் சுதந்திர தினம் 2023",
+        "share_text": "கஜகஸ்தானின் சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "కజకిస్థాన్ స్వాతంత్య్ర దినోత్సవం",
+        "hover_text": "కజకిస్థాన్ స్వాతంత్య్ర దినోత్సవం 2023",
+        "share_text": "స్వాతంత్య్ర దినోత్సవ శుభాకాంక్షలు, కజకిస్థాన్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของคาซัคสถาน",
+        "hover_text": "วันประกาศอิสรภาพของคาซัคสถานปี 2023",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของคาซัคสถาน #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Kazakhstan Independence Day",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, Kazakhstan! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Kazakistan Bağımsızlık Günü",
+        "hover_text": "2023 Kazakistan Bağımsızlık Günü",
+        "share_text": "Kazakistan Bağımsızlık Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Казахстану",
+        "hover_text": "День незалежності Казахстану у 2023 році",
+        "share_text": "З Днем незалежності, Казахстане! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "قزاخستان کا یوم آزادی",
+        "hover_text": "قازقستان کا یوم آزادی 2023",
+        "share_text": "قزاخستان کا یوم آزادی مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Qozogʻiston Mustaqillik kuni",
+        "hover_text": "Qozogʻiston Mustaqillik kuni 2023",
+        "share_text": "Mustaqillik kuni muborak, Qozogʻiston! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Chào mừng Ngày Độc lập Kazakhstan",
+        "hover_text": "Ngày Độc lập Kazakhstan năm 2023",
+        "share_text": "Chào mừng Ngày Độc lập Kazakhstan! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lokuzimela lwase-Kazakhstan",
+        "hover_text": "Usuku Lokuzimela lwase-Kazakhstan lwango-2023",
+        "share_text": "Usuku Oluhle Lokuzimela, Kazakhstan! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Kazakhstan Independence Day",
+    "share_text": "Happy Independence Day, Kazakhstan! #GoogleDoodle"
+  },
+  {
+    "name": "celebrating-arthur-beetson",
+    "title": "Celebrating Arthur Beetson",
+    "url": "//www.google.com/logos/doodles/2023/celebrating-arthur-beetson-6753651837110022-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/-u0e1GIztvMBoJdZ8YuEEouWNHS9fQW3HjrzdXOhhPb-2JdTOqMl4aVByFZhremiUAa_n-Xaa13xe1X-hPR3SKvOSPRkuURyFyDQRbhre2-EF2-jN1jB",
+    "high_res_url": "//www.google.com/logos/doodles/2023/celebrating-arthur-beetson-6753651837110022-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      12,
+      16
+    ],
+    "translations": {
+      "en": {
+        "query": "Arthur Beetson",
+        "hover_text": "Celebrating Arthur Beetson",
+        "share_text": "Celebrating Arthur Beetson! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Arthur Beetson",
+        "hover_text": "Ter viering van Arthur Beetson",
+        "share_text": "Ter viering van Arthur Beetson! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Arthur Beetson",
+        "hover_text": "Përkujtojmë Arthur Beetson",
+        "share_text": "Përkujtojmë Arthur Beetson! #GoogleDoodle"
+      },
+      "am": {
+        "query": "አርተር ቢትሰን",
+        "hover_text": "አርተር ቢትሰንን በማክበር ላይ",
+        "share_text": "አርተር ቢትሰንን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "آرثر بيتسن",
+        "hover_text": "الاحتفال بذكرى \"آرثر بيتسن\"",
+        "share_text": "نحتفل اليوم بذكرى \"آرثر بيتسن\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Արթուր Բեթսոն",
+        "hover_text": "Տոնե՛նք Արթուր Բեթսոնի օրը",
+        "share_text": "Տոնե՛նք Արթուր Բեթսոնի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Arthur Beetson",
+        "hover_text": "Arthur Beetson günü",
+        "share_text": "Arthur Beetson günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "আর্থার বিটসন",
+        "hover_text": "আর্থার বিটসনের স্মৃতিতে উদযাপন করা হচ্ছে",
+        "share_text": "আর্থার বিটসনের স্মৃতিতে উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Arthur Beetson",
+        "hover_text": "Arthur Beetsonen omenez",
+        "share_text": "Arthur Beetsonen omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Артур Бітсан",
+        "hover_text": "Ушаноўваем Артура Бітсана",
+        "share_text": "Ушаноўваем Артура Бітсана! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Arthur Beetson",
+        "hover_text": "Slavimo Arthura Beetsona",
+        "share_text": "Slavimo Arthura Beetsona! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Arthur Beetson",
+        "hover_text": "Celebrating Arthur Beetson",
+        "share_text": "Celebrating Arthur Beetson! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Артър Бийтсън",
+        "hover_text": "Честване на Артър Бийтсън",
+        "share_text": "Честване на Артър Бийтсън! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Arthur Beetson",
+        "hover_text": "Arthur Beetson ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "Arthur Beetson ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Arthur Beetson",
+        "hover_text": "Homenatge a Arthur Beetson",
+        "share_text": "Homenatge a Arthur Beetson #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Arthur Beetson",
+        "hover_text": "紀念 Arthur Beetson",
+        "share_text": "紀念 Arthur Beetson！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "亞瑟比森",
+        "hover_text": "紀念亞瑟比森",
+        "share_text": "紀念亞瑟比森！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "Arthur Beetson",
+        "hover_text": "纪念 Arthur Beetson",
+        "share_text": "纪念 Arthur Beetson！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Arthur Beetson",
+        "hover_text": "U čast Arthuru Beetsonu",
+        "share_text": "U čast Arthuru Beetsonu! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Arthur Beetson",
+        "hover_text": "Pocta Arthuru Beetsonovi",
+        "share_text": "Připomínáme si Arthura Beetsona! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Arthur Beetson",
+        "hover_text": "Vi hylder Arthur Beetson",
+        "share_text": "Vi hylder Arthur Beetson #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Arthur Beetson",
+        "hover_text": "Doodle ter ere van Arthur Beetson",
+        "share_text": "Doodle ter ere van Arthur Beetson! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Arthur Beetson",
+        "hover_text": "Mälestame Arthur Beetsoni",
+        "share_text": "Mälestame Arthur Beetsoni! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Arthur Beetson",
+        "hover_text": "Arthur Beetson",
+        "share_text": "Arthur Beetson #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Arthur Beetson",
+        "hover_text": "Hommage à Arthur Beetson",
+        "share_text": "Hommage à Arthur Beetson ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Arthur Beetson",
+        "hover_text": "Célébration d'Arthur Beetson",
+        "share_text": "Célébration d'Arthur Beetson! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Arthur Beetson",
+        "hover_text": "Homenaxe a Arthur Beetson",
+        "share_text": "Homenaxe a Arthur Beetson! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "არტურ ბითსონი",
+        "hover_text": "აღვნიშნავთ არტურ ბითსონის დღეს",
+        "share_text": "აღვნიშნავთ არტურ ბითსონის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Arthur Beetson",
+        "hover_text": "Zu Ehren von Arthur Beetson",
+        "share_text": "Zu Ehren von Arthur Beetson! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Arthur Beetson",
+        "hover_text": "Τιμούμε τον Arthur Beetson",
+        "share_text": "Τιμούμε τον Arthur Beetson! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "આર્થર બીટસન",
+        "hover_text": "આર્થર બીટસનની યાદમાં ઉજવણી કરી રહ્યાં છીએ",
+        "share_text": "આર્થર બીટસનની યાદમાં ઉજવણી કરી રહ્યાં છીએ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Arthur Beetson",
+        "hover_text": "מחווה לארתור ביטסון",
+        "share_text": "מחווה לארתור ביטסון GoogleDoodle#"
+      },
+      "hi": {
+        "query": "ऑर्थर बीटसन",
+        "hover_text": "ऑर्थर बीटसन की याद में",
+        "share_text": "ऑर्थर बीटसन की याद में! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Arthur Beetson",
+        "hover_text": "Arthur Beetson ünneplése",
+        "share_text": "Arthur Beetson ünneplése. #GoogleDoodle"
+      },
+      "is": {
+        "query": "Arthur Beetson",
+        "hover_text": "Við heiðrum Arthur Beetson",
+        "share_text": "Við heiðrum Arthur Beetson! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Arthur Beetson",
+        "hover_text": "Mengenang Arthur Beetson",
+        "share_text": "Mengenang Arthur Beetson #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Arthur Beetson",
+        "hover_text": "In onore di Arthur Beetson",
+        "share_text": "In onore di Arthur Beetson! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "アーサー・ビートソン",
+        "hover_text": "アーサー・ビートソンを称えて",
+        "share_text": "アーサー・ビートソンを称えて！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಆರ್ಥರ್ ಬೀಟ್ಸನ್",
+        "hover_text": "ಆರ್ಥರ್ ಬೀಟ್ಸನ್ ಅವರನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಆರ್ಥರ್ ಬೀಟ್ಸನ್ ಅವರನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Артур Битсон",
+        "hover_text": "Артур Битсон күні",
+        "share_text": "Артур Битсон күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Arthur Beetson",
+        "hover_text": "អបអរទិវារំលឹក Arthur Beetson",
+        "share_text": "អបអរទិវារំលឹក Arthur Beetson! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Arthur Beetson",
+        "hover_text": "Arthur Beetson을 기억하며",
+        "share_text": "Arthur Beetson을 기억하며 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Артур Битсон",
+        "hover_text": "Артур Битсон күнүн майрамдоо",
+        "share_text": "Артур Битсон күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Arthur Beetson",
+        "hover_text": "ວັນລະນຶກເຖິງ Arthur Beetson",
+        "share_text": "ວັນລະນຶກເຖິງ Arthur Beetson! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Arthur Beetson",
+        "hover_text": "Celebrando a Arthur Beetson",
+        "share_text": "¡Celebrando a Arthur Beetson! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Arturs Bētsons",
+        "hover_text": "Artura Bētsona godināšana",
+        "share_text": "Artura Bētsona godināšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Arthuras Beetsonas",
+        "hover_text": "Arthuro Beetsono minėjimas",
+        "share_text": "Arthuro Beetsono minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Arthur Beetson",
+        "hover_text": "Во чест на Arthur Beetson",
+        "share_text": "Во чест на Arthur Beetson! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Arthur Beetson",
+        "hover_text": "Meraikan Arthur Beetson",
+        "share_text": "Meraikan Arthur Beetson! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Arthur Beetson",
+        "hover_text": "Arthur Beetson-നെ ആദരിക്കുന്നു",
+        "share_text": "Arthur Beetson-നെ ആദരിക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "आर्थर बीट्सन",
+        "hover_text": "आर्थर बीट्सन यांच्या स्मरणार्थ",
+        "share_text": "आर्थर बीट्सन यांच्या स्मरणार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Артур Бетсон",
+        "hover_text": "Артур Бетсоны өдрийг тэмдэглэж байна",
+        "share_text": "Артур Бетсоны өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Arthur Beetson",
+        "hover_text": "Arthur Beetson को सम्झना",
+        "share_text": "Arthur Beetson को सम्झना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Arthur Beetson",
+        "hover_text": "Vi feirer Arthur Beetson",
+        "share_text": "Vi feirer Arthur Beetson! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଆର୍ଥର ବିଟସନ",
+        "hover_text": "ଆର୍ଥର ବିଟସନଙ୍କ ସ୍ମୃତିରେ",
+        "share_text": "ଆର୍ଥର ବିଟସନଙ୍କ ସ୍ମୃତିରେ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "آرتور بیتسون",
+        "hover_text": "بزرگداشت آرتور بیتسون",
+        "share_text": "بزرگداشت آرتور بیتسون! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Arthur Beetson",
+        "hover_text": "Wspominamy Arthura Beetsona",
+        "share_text": "Wspominamy Arthura Beetsona #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Arthur Beetson",
+        "hover_text": "Celebração da vida de Arthur Beetson",
+        "share_text": "Celebração da vida de Arthur Beetson #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Arthur Beetson",
+        "hover_text": "Celebração de Arthur Beetson",
+        "share_text": "Celebração de Arthur Beetson! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Arthur Beetson",
+        "hover_text": "ਆਰਥਰ ਬੀਟਸਨ ਦੀ ਯਾਦ ਵਿੱਚ",
+        "share_text": "ਆਰਥਰ ਬੀਟਸਨ ਦੀ ਯਾਦ ਵਿੱਚ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Arthur Beetson",
+        "hover_text": "În cinstea lui Arthur Beetson",
+        "share_text": "În cinstea lui Arthur Beetson! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Артур Битсон",
+        "hover_text": "День Артура Битсона",
+        "share_text": "День Артура Битсона #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Артур Битсон",
+        "hover_text": "Славимо Артура Битсона",
+        "share_text": "Славимо Артура Битсона! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Artur Bitson",
+        "hover_text": "Slavimo Artura Bitsona",
+        "share_text": "Slavimo Artura Bitsona! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ආතර් බීට්සන්",
+        "hover_text": "ආතර් බීට්සන් සමරමින්",
+        "share_text": "ආතර් බීට්සන් සමරමින්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Arthur Beetson",
+        "hover_text": "Oslavujeme Arthura Beetsona",
+        "share_text": "Oslavujeme Arthura Beetsona. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Arthur Beetson",
+        "hover_text": "Slavimo Arthurja Beetsona",
+        "share_text": "Slavimo Arthurja Beetsona! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Arthur Beetson",
+        "hover_text": "Homenaje a Arthur Beetson",
+        "share_text": "Hoy rendimos homenaje a Arthur Beetson #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Arthur Beetson",
+        "hover_text": "Tunamwenzi Arthur Beetson",
+        "share_text": "Tunamwenzi Arthur Beetson! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Arthur Beetson",
+        "hover_text": "Vi hyllar Arthur Beetson",
+        "share_text": "Vi hyllar Arthur Beetson #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஆர்தர் பீட்சன்",
+        "hover_text": "ஆர்தர் பீட்சனைக் கொண்டாடுவோம்",
+        "share_text": "ஆர்தர் பீட்சனைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఆర్థర్ బీట్సన్",
+        "hover_text": "ఆర్థర్ బీట్సన్‌ను స్మరించుకుందాం",
+        "share_text": "ఆర్థర్ బీట్సన్‌ను స్మరించుకుందాం! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Arthur Beetson",
+        "hover_text": "วันรำลึกถึง Arthur Beetson",
+        "share_text": "วันรำลึกถึง Arthur Beetson #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Arthur Beetson",
+        "hover_text": "Arthur Beetson'ı anıyoruz.",
+        "share_text": "Arthur Beetson'ı anıyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Артур Бітсон",
+        "hover_text": "Ушановуємо Артура Бітсона",
+        "share_text": "Ушановуємо Артура Бітсона! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Arthur Beetson",
+        "hover_text": "Arthur Beetson کی یاد میں",
+        "share_text": "Arthur Beetson کی یاد میں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Arthur Beetson",
+        "hover_text": "Arthur Beetson kuni",
+        "share_text": "Arthur Beetson kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Arthur Beetson",
+        "hover_text": "Tôn vinh Arthur Beetson",
+        "share_text": "Tôn vinh Arthur Beetson! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Arthur Beetson",
+        "hover_text": "Sibungaza u-Arthur Beetson",
+        "share_text": "Sibungaza u-Arthur Beetson! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Arthur Beetson",
+    "share_text": "Celebrating Arthur Beetson! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-agnes-varda",
     "title": "Celebrating Agnès Varda",
     "url": "//www.google.com/logos/doodles/2023/celebrating-agnes-varda-6753651837110120-l.png",
