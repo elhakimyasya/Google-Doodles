@@ -1,5 +1,504 @@
 [
   {
+    "name": "celebrating-ha-long-bay",
+    "title": "Celebrating Ha Long Bay",
+    "url": "//www.google.com/logos/doodles/2023/celebrating-ha-long-bay-6753651837110038.2-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/sadxeRbxWgmchYE8gF7ruoVo4oxaurRMNeSdbRPKvt16cyEw63Iguc0kIExuQDbRJwpqvsW1ipSv36JNpjao8-XoW1fJpNlteP1RHmIomI5fq2WV8x62",
+    "high_res_url": "//www.google.com/logos/doodles/2023/celebrating-ha-long-bay-6753651837110038-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      12,
+      17
+    ],
+    "translations": {
+      "en": {
+        "query": "Ha Long Bay",
+        "hover_text": "Celebrating Ha Long Bay",
+        "share_text": "Celebrating Ha Long Bay! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Ha Long-baai",
+        "hover_text": "Ter viering van Ha Long-baai",
+        "share_text": "Ter viering van Ha Long-baai! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Gjiri Ha Long",
+        "hover_text": "Festojmë për gjirin Ha Long",
+        "share_text": "Festojmë për gjirin Ha Long! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ሃ ሎንግ ቤይ",
+        "hover_text": "ሃ ሎንግ ቤይን በማክበር ላይ",
+        "share_text": "ሃ ሎንግ ቤይን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "خليج ها لونغ",
+        "hover_text": "الاحتفال بخليج ها لونغ",
+        "share_text": "نحتفل اليوم بخليج \"هالونغ\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Տոնենք Հալոնգ ծովախորշ",
+        "hover_text": "Տոնենք Հալոնգ ծովախորշի օրը",
+        "share_text": "Տոնենք Հալոնգ ծովախորշի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Ha Long Bay",
+        "hover_text": "Ha Long Bay Günü",
+        "share_text": "Ha Long Bay Günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "হা লং বে",
+        "hover_text": "হা লং বে উদযাপন করা হচ্ছে",
+        "share_text": "হা লং বে উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Ha Long badia",
+        "hover_text": "Ha Long badiaren omenez",
+        "share_text": "Ha Long badiaren omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Бухта Халонг",
+        "hover_text": "Ушаноўваем бухту Халонг",
+        "share_text": "Ушаноўваем бухту Халонг! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Zaliv Ha Long",
+        "hover_text": "Slavimo Zaliv Ha Long",
+        "share_text": "Slavimo zaliv Ha Long! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Ha Long Bay",
+        "hover_text": "Celebrating Ha Long Bay",
+        "share_text": "Celebrating Ha Long Bay! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Залив Ха Лонг",
+        "hover_text": "Честване на залива Ха Лонг",
+        "share_text": "Честване на залива Ха Лонг! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Ha Long Bay",
+        "hover_text": "Ha Long Bay ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "Ha Long Bay ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Badia de Ha Long",
+        "hover_text": "Homenatge a la badia de Ha Long",
+        "share_text": "Homenatge a la badia de Ha Long #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "下龍灣",
+        "hover_text": "慶祝下龍灣",
+        "share_text": "讚揚下龍灣！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "下龍灣",
+        "hover_text": "讚頌下龍灣",
+        "share_text": "讚頌下龍灣! #GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "下龙湾",
+        "hover_text": "致赞下龙湾",
+        "share_text": "绝美下龙湾！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Zaljev Ha Long",
+        "hover_text": "U čast zaljevu Ha Long",
+        "share_text": "U čast zaljevu Ha Long! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Zátoka Ha Long",
+        "hover_text": "Oslava zátoky Ha Long",
+        "share_text": "Oslava zátoky Ha Long! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Ha Long-bugten",
+        "hover_text": "Vi hylder Ha Long-bugten",
+        "share_text": "Vi hylder Ha Long-bugten! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Hạ Longbaai",
+        "hover_text": "Doodle ter ere van Hạ Longbaai",
+        "share_text": "Een doodle ter ere van de Hạ Longbaai! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Ha Longi laht",
+        "hover_text": "Hoiame au sees Ha Longi lahte",
+        "share_text": "Hoiame au sees Ha Longi lahte! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Halonginlahti",
+        "hover_text": "Halonginlahti",
+        "share_text": "Halonginlahti #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Baie de Hạ Long",
+        "hover_text": "En l'honneur de la baie de Ha Long",
+        "share_text": "La baie d'Halong à l'honneur ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Baie d'Halong",
+        "hover_text": "Célébration de la baie d'Halong",
+        "share_text": "Célébration de la baie d'Halong! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Badía de Hạ Long",
+        "hover_text": "Homenaxe á badía de Hạ Long",
+        "share_text": "Homenaxe á badía de Ha Long! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ჰალონგ-ბეი",
+        "hover_text": "აღვნიშნავთ ჰალონგ-ბეის დღეს",
+        "share_text": "აღვნიშნავთ ჰალონგ-ბეის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Halong-Bucht",
+        "hover_text": "Zur Feier der Halong-Bucht",
+        "share_text": "Zur Feier der Halong-Bucht! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ha Long Bay",
+        "hover_text": "Τιμούμε τον κόλπο Ha Long Bay",
+        "share_text": "Τιμούμε τον κόλπο Ha Long Bay! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "હા લોંગ બે",
+        "hover_text": "હા લોંગ બેની ઉજવણી",
+        "share_text": "હા લોંગ બેની ઉજવણી! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "מפרץ הא לונג",
+        "hover_text": "לציון מפרץ הא לונג",
+        "share_text": "לציון מפרץ הא לונג! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "हा लॉन्ग बे",
+        "hover_text": "हा लॉन्ग बे का जश्न",
+        "share_text": "हा लॉन्ग बे का जश्न! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Hạ Long-öböl",
+        "hover_text": "A Hạ Long-öböl ünneplése",
+        "share_text": "A Hạ Long-öböl ünneplése #GoogleDoodle"
+      },
+      "is": {
+        "query": "Ha Long Bay",
+        "hover_text": "Við heiðrum Ha Long Bay",
+        "share_text": "Við heiðrum Ha Long Bay! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Ha Long Bay",
+        "hover_text": "Merayakan Ha Long Bay",
+        "share_text": "Merayakan Teluk Ha Long #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Bá Ha Long",
+        "hover_text": "Bá Ha Long á ceiliúradh",
+        "share_text": ""
+      },
+      "it": {
+        "query": "Baia di Ha Long",
+        "hover_text": "In onore della Baia di Ha Long",
+        "share_text": "In onore della Baia di Ha Long! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ハロン湾",
+        "hover_text": "ハロン湾を称えて",
+        "share_text": "ハロン湾を称えて #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಹಾ ಲಾಂಗ್ ಬೇ",
+        "hover_text": "ಹಾ ಲಾಂಗ್ ಬೇ ಆಚರಿಸಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಹಾ ಲಾಂಗ್ ಬೇ ಆಚರಿಸಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Халонг мүйісі күні",
+        "hover_text": "Халонг мүйісі күні",
+        "share_text": "Халонг мүйісі күні #GoogleDoodle"
+      },
+      "km": {
+        "query": "Ha Long Bay",
+        "hover_text": "អបអរ Ha Long Bay",
+        "share_text": "អបអរសាទរ Ha Long Bay! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "할롱만",
+        "hover_text": "할롱만 기념",
+        "share_text": "할롱만 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Халонг булуңу",
+        "hover_text": "Халонг булуңунун күнүн майрамдоо",
+        "share_text": "Халонг булуңунун күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ຮາລອງເບ",
+        "hover_text": "ສະເຫຼີມສະຫຼອງຮາລອງເບ",
+        "share_text": "ວັນສະເຫຼີມສະຫຼອງຮາລອງເບ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Bahía de Ha-Long",
+        "hover_text": "Celebrando la bahía de Ha-Long",
+        "share_text": "¡Celebrando la bahía de Ha-Long! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Halonas līcis",
+        "hover_text": "Halonas līča godināšana",
+        "share_text": "Halonas līča godināšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Halongo įlanka",
+        "hover_text": "Halongo įlankos minėjimas",
+        "share_text": "Ha Longo įlankos minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ха Лонг Беј",
+        "hover_text": "Во чест на Ха Лонг Беј",
+        "share_text": "Во чест на Ха Лонг Беј! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Ha Long Bay",
+        "hover_text": "Mankalaza an'i Ha Long Bay",
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Teluk Ha Long",
+        "hover_text": "Meraikan Teluk Ha Long",
+        "share_text": "Meraikan Teluk Ha Long! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഹാ ലോംഗ് ബേ",
+        "hover_text": "ഹാ ലോംഗ് ബേയുടെ പൈതൃകം ആഘോഷിക്കുന്നു",
+        "share_text": "ഹാ ലോംഗ് ബേയുടെ പൈതൃകം ആഘോഷിക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "हा लॉंग बे",
+        "hover_text": "हा लॉंग बे साजरे करत आहे",
+        "share_text": "हा लॉंग बे चा उत्सव साजरा करत आहे! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Ха Лон булан",
+        "hover_text": "Ха Лон булангийн өдрийг тэмдэглэж байна",
+        "share_text": "Ха Лон булангийн өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Ha Long Bay",
+        "hover_text": "Ha Long Bay मनाउँदै",
+        "share_text": "Ha Long Bay को उत्सव! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Ha Long Bay",
+        "hover_text": "Vi feirer Ha Long Bay",
+        "share_text": "Vi feirer Ha Long Bay! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ହା ଲଙ୍ଗ ବେ",
+        "hover_text": "ହା ଲଙ୍ଗ ବେ ପାଳନ କରାଯାଉଛି",
+        "share_text": "ହା ଲଙ୍ଗ ବେର ଉତ୍ସବ ପାଳନ କରାଯାଉଛି! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "خلیج ها لونگ",
+        "hover_text": "بزرگداشت خلیج ها لونگ",
+        "share_text": "بزرگداشت خلیج ها لونگ! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Zatoka Hạ Long",
+        "hover_text": "Podziwiamy zatokę Hạ Long",
+        "share_text": "Podziwiamy zatokę Hạ Long #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Baía de Ha Long",
+        "hover_text": "Celebração da baía de Ha Long",
+        "share_text": "Celebração da baía de Ha Long #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Baía de Ha Long",
+        "hover_text": "Celebração da Baía de Ha Long",
+        "share_text": "Celebração da Baía de Ha Long! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਹਾ ਲੋਂਗ ਦੀ ਖਾੜੀ",
+        "hover_text": "ਹਾ ਲੋਂਗ ਦੀ ਖਾੜੀ ਦੀ ਸਿਫ਼ਤ ਵਿੱਚ",
+        "share_text": "ਹਾ ਲੋਂਗ ਦੀ ਖਾੜੀ ਦੀ ਸਿਫ਼ਤ ਵਿੱਚ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Golful Ha Long",
+        "hover_text": "În cinstea golfului Ha Long",
+        "share_text": "În cinstea golfului Ha Long! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "бухта халонг",
+        "hover_text": "День бухты Халонг",
+        "share_text": "День бухты Халонг #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Залив Ха Лонг",
+        "hover_text": "Славимо залив Ха Лонг",
+        "share_text": "Славимо залив Ха Лонг! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Zaliv Ha Long",
+        "hover_text": "Slavimo zaliv Ha Long",
+        "share_text": "Slavimo zaliv Ha Long! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Ha Long Bay",
+        "hover_text": "Selebre Ha Long Bay",
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "හ ලොං බයි",
+        "hover_text": "හ ලොං බයි සැමරීම",
+        "share_text": "හ ලොං බයි සැමරීම! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Záliv Hạ Long",
+        "hover_text": "Oslavujeme záliv Hạ Long",
+        "share_text": "Oslavujeme záliv Hạ Long. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Zaliv Halong",
+        "hover_text": "Slavimo zaliv Halong",
+        "share_text": "Slavimo zaliv Halong! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Ha Long Bay",
+        "hover_text": "Debaaldega Ha Long Bay",
+        "share_text": ""
+      },
+      "st": {
+        "query": "Ha Long Bay",
+        "hover_text": "Re Keteka Ha Long Bay",
+        "share_text": ""
+      },
+      "es": {
+        "query": "Bahía de Ha Long",
+        "hover_text": "Homenaje a la bahía de Ha Long",
+        "share_text": "Hoy hacemos un homenaje a la bahía de Ha Long #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Ghuba ya Ha Long",
+        "hover_text": "Maadhimisho ya Ghuba ya Ha Long",
+        "share_text": "Maadhimisho ya Ha Long Bay! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Ha Long-bukten",
+        "hover_text": "Vi firar Ha Long-bukten",
+        "share_text": "Vi firar Ha Long-bukten #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "கலாங் விரிகுடா",
+        "hover_text": "கலாங் விரிகுடாவைக் கொண்டாடுவோம்",
+        "share_text": "ஹா லாங் விரிகுடாவைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "హా లాంగ్ బే",
+        "hover_text": "హా లాంగ్ బే వేడుకలు",
+        "share_text": "హా లాంగ్ బే వేడుకలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "อ่าวฮาลอง",
+        "hover_text": "วันเฉลิมฉลองอ่าวฮาลอง",
+        "share_text": "วันเฉลิมฉลองอ่าวฮาลอง #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Ha Long Bay",
+        "hover_text": "Go Gopola Ha Long Bay",
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Ha Long Koyu",
+        "hover_text": "Ha Long Koyu Kutlaması",
+        "share_text": "Ha Long Koyu Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Бухта Ха-Лонг",
+        "hover_text": "День бухти Ха-Лонг",
+        "share_text": "День бухти Ха-Лонг! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Ha Long Bay",
+        "hover_text": "Ha Long Bay کا جشن",
+        "share_text": "Ha Long Bay کا جشن! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Ha Long Bay",
+        "hover_text": "Ha Long Bay kuni",
+        "share_text": "Ha Long Bay kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Vịnh Hạ Long",
+        "hover_text": "Vịnh Hạ Long",
+        "share_text": "Vịnh Hạ Long! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "I-Ha Long Bay",
+        "hover_text": "Sibungaza i-Ha Long Bay",
+        "share_text": "Sibungaza i-Ha Long Bay! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Ha Long Bay",
+    "share_text": "Celebrating Ha Long Bay! #GoogleDoodle"
+  },
+  {
     "name": "bahrain-national-day-2023",
     "title": "Bahrain National Day 2023",
     "url": "//www.google.com/logos/doodles/2023/bahrain-national-day-2023-6753651837109988-law.gif",
