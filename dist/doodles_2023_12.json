@@ -1,5 +1,1003 @@
 [
   {
+    "name": "qatar-national-day-2023",
+    "title": "Qatar National Day 2023",
+    "url": "//www.google.com/logos/doodles/2023/qatar-national-day-2023-6753651837109991-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/EdCobA_MJgxqMpqEnTXY-F4ege6fEP2DCiulh47ySLFBWJic4s7ilhIfhWQwnBD5h9KHTBJSoPcOPzdPbRdthuzgjxhI1_WozIJc91XxPbFf0TgDahr4w28",
+    "high_res_url": "//www.google.com/logos/doodles/2023/qatar-national-day-2023-6753651837109991-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      12,
+      18
+    ],
+    "translations": {
+      "en": {
+        "query": "Qatar National Day",
+        "hover_text": "Qatar National Day 2023",
+        "share_text": "Happy National Day, Qatar! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Katar se nasionale dag",
+        "hover_text": "Katar se nasionale dag 2023",
+        "share_text": "Gelukkige nasionale dag, Katar! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita Kombëtare e Katarit",
+        "hover_text": "Dita Kombëtare e Katarit, 2023",
+        "share_text": "Gëzuar Ditën Kombëtare, Katar! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የኳታር ብሔራዊ ቀን",
+        "hover_text": "የኳታር ብሔራዊ ቀን 2023",
+        "share_text": "መልካም ብሔራዊ ቀን፣ ኳታር! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "العيد الوطني لقطر",
+        "hover_text": "العيد الوطني لقطر 2023",
+        "share_text": "عيد وطني سعيد لقطر ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Կատարի ազգային տոն",
+        "hover_text": "Կատարի ազգային տոն 2023",
+        "share_text": "Շնորհավո՛ր Կատարի ազգային տոնը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Qətərin Müstəqillik Günü",
+        "hover_text": "2023 Qətərin Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Qətər! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "কাতারের জাতীয় দিবস",
+        "hover_text": "কাতারের জাতীয় দিবস ২০২৩",
+        "share_text": "কাতারের মানুষদের জাতীয় দিবসের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Qatarko Egun Nazionala",
+        "hover_text": "2023ko Qatarko Egun Nazionala",
+        "share_text": "Egun Nazional zoriontsua izan, Qatar! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Нацыянальны дзень Катара",
+        "hover_text": "Нацыянальны дзень Катара – 2023",
+        "share_text": "З Нацыянальным днём, Катар! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan državnosti Katara",
+        "hover_text": "Dan državnosti Katara 2023.",
+        "share_text": "Sretan Dan državnosti, Kataru! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Qatar National Day",
+        "hover_text": "Qatar National Day 2023",
+        "share_text": "Happy National Day, Qatar! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Национален празник на Катар",
+        "hover_text": "Национален празник на Катар 2023 г.",
+        "share_text": "Честит национален празник на Катар! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ကာတာ အမျိုးသားနေ့",
+        "hover_text": "၂၀၂၃ ကာတာနိုင်ငံ အမျိုးသားနေ့",
+        "share_text": "ကာတာ အမျိုးသားနေ့မှာ ပျော်ရွှင်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia Nacional de Qatar",
+        "hover_text": "Dia Nacional de Qatar 2023",
+        "share_text": "Feliç Dia Nacional, Qatar! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "卡塔爾國慶日",
+        "hover_text": "2023 年卡塔爾國慶日",
+        "share_text": "卡塔爾，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "卡達國慶日",
+        "hover_text": "2023 年卡達國慶日",
+        "share_text": "卡達，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "卡塔尔国庆日",
+        "hover_text": "2023 年卡塔尔国庆节",
+        "share_text": "卡塔尔，国庆日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan državnosti Katara",
+        "hover_text": "Dan državnosti Katara 2023.",
+        "share_text": "Sretan Dan državnosti, Kataru! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Státní svátek Kataru",
+        "hover_text": "Den katarské státnosti 2023",
+        "share_text": "Vše nejlepší ke státnímu svátku, Katare! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Qatars nationaldag",
+        "hover_text": "Qatars nationaldag 2023",
+        "share_text": "Glædelig nationaldag, Qatar! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Nationale feestdag Qatar",
+        "hover_text": "Nationale feestdag Qatar 2023",
+        "share_text": "Fijne nationale feestdag, Qatar #GoogleDoodle"
+      },
+      "et": {
+        "query": "Katari rahvuspüha",
+        "hover_text": "Katari 2023. aasta rahvuspüha",
+        "share_text": "Head rahvuspüha, Katar! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Qatarin kansallispäivä",
+        "hover_text": "Qatarin kansallispäivä 2023",
+        "share_text": "Hyvää kansallispäivää, Qatar! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête nationale du Qatar",
+        "hover_text": "Fête nationale du Qatar 2023",
+        "share_text": "Fête nationale du Qatar ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête nationale du Qatar",
+        "hover_text": "Fête nationale du Qatar 2023",
+        "share_text": "Joyeuse fête nationale du Qatar! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día Nacional de Qatar",
+        "hover_text": "Día Nacional de Qatar 2023",
+        "share_text": "Feliz Día Nacional, Qatar! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ყატარის ეროვნული დღესასწაული",
+        "hover_text": "კატარის ეროვნული დღესასწაული — 2023",
+        "share_text": "ვულოცავთ ყატარს ეროვნულ დღესასწაულს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Nationalfeiertag Katar",
+        "hover_text": "Nationalfeiertag Katar 2023",
+        "share_text": "Alles Gute zum Nationalfeiertag in Katar! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Εθνική Ημέρα Κατάρ",
+        "hover_text": "Εθνική Ημέρα του Κατάρ 2023",
+        "share_text": "Γιορτάζουμε την Εθνική Ημέρα του Κατάρ! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "કતારનો રાષ્ટ્રીય દિવસ",
+        "hover_text": "કતારનો રાષ્ટ્રીય દિવસ 2023",
+        "share_text": "રાષ્ટ્રીય દિવસની શુભેચ્છા, કતાર! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "החג הלאומי של קטאר",
+        "hover_text": "החג הלאומי של קטאר 2023",
+        "share_text": "חג לאומי שמח לקטאר! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "कतर का राष्ट्रीय दिवस",
+        "hover_text": "कतर का राष्ट्रीय दिवस 2023",
+        "share_text": "राष्ट्रीय दिवस की शुभकामनाएं, कतर! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Katar nemzeti ünnepe",
+        "hover_text": "Katar nemzeti ünnepe, 2023",
+        "share_text": "Boldog függetlenség napját, Katar! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þjóðhátíðardagur Katar",
+        "hover_text": "Þjóðhátíðardagur Katar 2023",
+        "share_text": "Gleðilegan þjóðhátíðardag, Katar! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Nasional Qatar",
+        "hover_text": "Hari Nasional Qatar 2023",
+        "share_text": "Selamat Hari Nasional, Qatar. #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Náisiúnta Chatar",
+        "hover_text": null,
+        "share_text": "Lá Náisiúnta Chatar faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa nazionale del Qatar",
+        "hover_text": "Festa nazionale del Qatar 2023",
+        "share_text": "Buona festa nazionale, Qatar! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "カタール建国記念日",
+        "hover_text": "2023 年カタール建国記念日",
+        "share_text": "カタール建国記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಕತಾರ್ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಕತಾರ್ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ 2023",
+        "share_text": "ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಕತಾರ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Катардың Ұлттық күні",
+        "hover_text": "Катардың Ұлттық күні – 2023",
+        "share_text": "Ұлттық күн құтты болсын, Катар! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាបុណ្យជាតិ​កាតា",
+        "hover_text": "ទិវាបុណ្យជាតិកាតាឆ្នាំ 2023",
+        "share_text": "អបអរ​ទិវាបុណ្យជាតិ​កាតា! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "카타르 국경일",
+        "hover_text": "2023년 카타르 국경일",
+        "share_text": "카타르 국경일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Катардын Улуттук күнү",
+        "hover_text": "Катардын Улуттук күнү – 2023",
+        "share_text": "Улуттук күнүң менен, Катар! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຊາດກາຕາ",
+        "hover_text": "ວັນຊາດກາຕາ 2023",
+        "share_text": "ສຸກສັນວັນຊາດກາຕາ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día Nacional de Catar",
+        "hover_text": "Día Nacional de Catar 2023",
+        "share_text": "¡Feliz Día Nacional de Catar! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Kataras Nacionālie svētki",
+        "hover_text": "Kataras Nacionālie svētki — 2023",
+        "share_text": "Sveicam Nacionālajos svētkos, Katara! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Kataro nacionalinė diena",
+        "hover_text": "Kataro nacionalinė diena, 2023 m.",
+        "share_text": "Sveikiname Katarą su nacionaline diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на државноста на Катар",
+        "hover_text": "Ден на државноста на Катар, 2023 г.",
+        "share_text": "Среќен Ден на државноста, Катар! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetim-pirenen'i Katara",
+        "hover_text": null,
+        "share_text": "Tsarà fetim-pirenena ry Katara ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kebangsaan Qatar",
+        "hover_text": "Hari Kebangsaan Qatar 2023",
+        "share_text": "Selamat Menyambut Hari Kebangsaan, Qatar! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഖത്തർ ദേശീയ ദിനം",
+        "hover_text": "ഖത്തർ ദേശീയ ദിനം 2023",
+        "share_text": "ദേശീയ ദിനാശംസകൾ, ഖത്തർ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "कतारचा राष्ट्रीय दिन",
+        "hover_text": "कतारचा राष्ट्रीय दिन २०२३",
+        "share_text": "कतारला राष्ट्रीय दिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Катар улсын Үндэсний баярын өдөр",
+        "hover_text": "2023 оны Катар Улсын Үндэсний баярын өдөр",
+        "share_text": "Катар улсын ард иргэдэд Үндэсний баярын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "कतारको राष्ट्रिय दिवस",
+        "hover_text": "कतारको राष्ट्रिय दिवस २०२३",
+        "share_text": "राष्ट्रिय दिवसको शुभकामना, कतार! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Qatars nasjonaldag",
+        "hover_text": "Qatars nasjonaldag 2023",
+        "share_text": "Gratulerer med nasjonaldagen, Qatar! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "କାତାର୍‌ର ରାଷ୍ଟ୍ରୀୟ ଦିବସ",
+        "hover_text": "କାତାରର ଜାତୀୟ ଦିବସ 2023",
+        "share_text": "ରାଷ୍ଟ୍ରୀୟ ଦିବସର ଶୁଭେଚ୍ଛା, କାତାର୍! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز ملی قطر",
+        "hover_text": "روز ملی قطر - ۲۰۲۳",
+        "share_text": "روز ملی قطر مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Narodowe Kataru",
+        "hover_text": "Święto Narodowe Kataru 2023",
+        "share_text": "Katar obchodzi Święto Narodowe #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia Nacional do Catar",
+        "hover_text": "Dia Nacional do Catar 2023",
+        "share_text": "Feliz Dia Nacional, Catar! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia Nacional do Catar",
+        "hover_text": "Dia Nacional do Catar de 2023",
+        "share_text": "Feliz Dia Nacional, Catar! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਕਤਰ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ",
+        "hover_text": "ਕਤਰ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ 2023",
+        "share_text": "ਕਤਰ ਦੇ ਰਾਸ਼ਟਰੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Națională a Qatarului",
+        "hover_text": "Ziua Națională a Qatarului – 2023",
+        "share_text": "La mulți ani de Ziua Națională, Qatar! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Национальный день Катара",
+        "hover_text": "Национальный день Катара – 2023",
+        "share_text": "Национальный день Катара #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан државности Катара",
+        "hover_text": "Дан државности Катара 2023.",
+        "share_text": "Честитамо Дан државности Катару! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan državnosti Katara",
+        "hover_text": "Dan državnosti Katara 2023.",
+        "share_text": "Čestitamo Dan državnosti Kataru! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen nasyonal Qatar",
+        "hover_text": null,
+        "share_text": "Bonn zournen nasyonal, Qatar! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "කටාර් ජාතික දිනය",
+        "hover_text": "කටාර් ජාතික දිනය 2023",
+        "share_text": "සුබ ජාතික දිනයක්, කටාරය! #Googleඩූඩල්"
+      },
+      "sk": {
+        "query": "Štátny sviatok Kataru",
+        "hover_text": "Národný deň Kataru 2023",
+        "share_text": "Šťastný štátny sviatok, Katar! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan državnosti Katarja",
+        "hover_text": "Dan državnosti Katarja 2023",
+        "share_text": "Vesel dan državnosti, Katar. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Qaranka Qadar",
+        "hover_text": null,
+        "share_text": "Maalinta Qaranka Farxada leh, Qadar! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Naha la Qatar",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Naha, Qatar! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día Nacional de Qatar",
+        "hover_text": "Día Nacional de Qatar 2023",
+        "share_text": "¡Feliz Día Nacional de Qatar! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Kitaifa ya Katari",
+        "hover_text": "Sikukuu ya Kitaifa ya Katari 2023",
+        "share_text": "Heri ya Sikukuu ya Kitaifa, Katari! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Qatars nationaldag",
+        "hover_text": "Qatars nationaldag 2023",
+        "share_text": "Vi firar Qatars nationaldag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "கத்தார் தேசிய தினம்",
+        "hover_text": "கத்தாரின் தேசிய தினம் 2023",
+        "share_text": "கத்தார் தேசிய தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఖతార్ జాతీయ దినోత్సవం",
+        "hover_text": "ఖతార్ జాతీయ దినోత్సవం 2023",
+        "share_text": "జాతీయ దినోత్సవ శుభాకాంక్షలు, ఖతార్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันชาติกาตาร์",
+        "hover_text": "วันชาติกาตาร์ปี 2023",
+        "share_text": "สุขสันต์วันชาติกาตาร์ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Setšhaba la Qatar",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Setšhaba, Qatar! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Katar Ulusal Günü",
+        "hover_text": "2023 Katar Ulusal Günü",
+        "share_text": "Katar Ulusal Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Національний день Катару у 2019 році",
+        "hover_text": "Національний день Катару у 2023 році",
+        "share_text": "З Національним днем, Катаре! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "قطر کا قومی",
+        "hover_text": "قطر کا قومی دن 2023",
+        "share_text": "قطر کا قومی دن مبارک ہو! #GoogleDoodle"
+      },
+      "uz": {
+        "query": "Qatar milliy bayrami",
+        "hover_text": "Qatar Milliy bayrami 2023",
+        "share_text": "Qatar milliy bayrami muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Qatar",
+        "hover_text": "Ngày Quốc khánh Qatar năm 2023",
+        "share_text": "Chúc mừng quốc khánh Qatar! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lukazwelonke lwase-Qatar",
+        "hover_text": "Usuku Lukazwelonke lwase-Qatar lango-2023",
+        "share_text": "Sinifisela usuku lukazwelonke oluhle, Qatar! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Qatar National Day",
+    "share_text": "Happy National Day, Qatar! #GoogleDoodle"
+  },
+  {
+    "name": "chile-national-plebiscite-2023",
+    "title": "Chile National Plebiscite 2023",
+    "url": "//www.google.com/logos/doodles/2023/chile-national-plebiscite-2023-6753651837110139-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/wYwCdlo1aefDvhjvT-GY3vfXRtXJXmzHrvuszUxdBJmvcyn7Rc-08pEruIZuNpStqVRcHVLMz18Tzik6yJFQmLyB9KrRWHx38IzrhtQGDf0_kvDudgqkow",
+    "high_res_url": "//www.google.com/logos/doodles/2023/chile-national-plebiscite-2023-6753651837110139-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      12,
+      17
+    ],
+    "translations": {
+      "en": {
+        "query": "Chile National Plebiscite 2023",
+        "hover_text": "Chile National Plebiscite 2023",
+        "share_text": "Chile National Plebiscite 2023! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Chili se nasionale volkstemming 2023",
+        "hover_text": null,
+        "share_text": "Chili se nasionale volkstemming 2023! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Referendumi Kombëtar i Kilit, 2023",
+        "hover_text": null,
+        "share_text": "Referendumi Kombëtar i Kilit, 2023! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የቺሊ ብሔራዊ ሕዝብ ውሳኔ 2023",
+        "hover_text": null,
+        "share_text": "የቺሊ ብሔራዊ ሕዝብ ውሳኔ 2023! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "الاستفتاء الشعبي في تشيلي 2023",
+        "hover_text": null,
+        "share_text": "انطلق الاستفتاء الشعبي في تشيلي لعام 2023. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Չիլիի ազգային պլեբիսցիտ 2023",
+        "hover_text": null,
+        "share_text": "Չիլիի ազգային պլեբիսցիտ 2023 #GoogleDoodle"
+      },
+      "az": {
+        "query": "2023 Çili Milli Referendumu",
+        "hover_text": null,
+        "share_text": "2023 Çili Milli Referendumu! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "চিলির জাতীয় গণভোট ২০২৩",
+        "hover_text": null,
+        "share_text": "চিলির জাতীয় গণভোট ২০২৩! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "2023ko Txileko plebiszitu nazionala",
+        "hover_text": null,
+        "share_text": "2023ko Txileko plebiszitu nazionala #GoogleDoodle"
+      },
+      "be": {
+        "query": "Нацыянальны плебісцыт у Чылі 2023",
+        "hover_text": null,
+        "share_text": "Нацыянальны плебісцыт у Чылі 2023! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Državni plebiscit u Čileu 2023.",
+        "hover_text": null,
+        "share_text": "Državni plebiscit u Čileu 2023. #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Chile National Plebiscite 2023",
+        "hover_text": null,
+        "share_text": "Chile National Plebiscite 2023 #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Национален плебисцит в Чили 2023 г.",
+        "hover_text": null,
+        "share_text": "Национален плебисцит в Чили 2023 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "၂၀၂၃ ချီလီနိုင်ငံလုံးဆိုင်ရာ လူထုဆန္ဒခံယူပွဲ",
+        "hover_text": null,
+        "share_text": "၂၀၂၃ ချီလီနိုင်ငံလုံးဆိုင်ရာ လူထုဆန္ဒခံယူပွဲ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Plebiscit nacional de Xile 2023",
+        "hover_text": null,
+        "share_text": "Plebiscit nacional de Xile 2023 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "2023 年智利全國公投",
+        "hover_text": null,
+        "share_text": "2023 年智利全國公投！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "2023 年智利全國公投",
+        "hover_text": null,
+        "share_text": "2023 年智利全國公投登場！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "2023 年智利全国公投",
+        "hover_text": null,
+        "share_text": "2023 年智利全国公投！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Nacionalni plebiscit u Čileu 2023.",
+        "hover_text": null,
+        "share_text": "Nacionalni plebiscit u Čileu 2023.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Chilský národní plebiscit 2023",
+        "hover_text": null,
+        "share_text": "Koná se chilský národní plebiscit 2023! #GoogleDoodle"
+      },
+      "da": {
+        "query": "National folkeafstemning i Chile 2023",
+        "hover_text": null,
+        "share_text": "National folkeafstemning i Chile 2023 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Nationaal referendum Chili 2023",
+        "hover_text": null,
+        "share_text": "Nationaal referendum Chili 2023! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Tšiili 2023. aasta rahvahääletus",
+        "hover_text": null,
+        "share_text": "Tšiili 2023. aasta rahvahääletus! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Chilen kansanäänestys 2023",
+        "hover_text": null,
+        "share_text": "Chilen kansanäänestys 2023 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Référendum chilien de 2023",
+        "hover_text": null,
+        "share_text": "Référendum chilien de 2023 ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Référendum constitutionnel chilien de 2023",
+        "hover_text": null,
+        "share_text": "Référendum constitutionnel chilien de 2023! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Plebiscito Nacional de Chile 2023",
+        "hover_text": null,
+        "share_text": "Plebiscito Nacional de Chile 2023! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ჩილეს ეროვნული პლებისციტი — 2023",
+        "hover_text": null,
+        "share_text": "ჩილეს ეროვნული პლებისციტი — 2023! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Volksabstimmung in Chile 2023",
+        "hover_text": null,
+        "share_text": "Volksabstimmung in Chile 2023! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Εθνικό Δημοψήφισμα της Χιλής 2023",
+        "hover_text": null,
+        "share_text": "Εθνικό Δημοψήφισμα της Χιλής 2023! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ચિલીનો રાષ્ટ્રીય જનમત 2023",
+        "hover_text": null,
+        "share_text": "ચિલીનો રાષ્ટ્રીય જનમત 2023! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "משאל עם לאומי בצ'ילה 2023",
+        "hover_text": null,
+        "share_text": "משאל עם לאומי בצ'ילה 2023! ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "चिली का राष्ट्रीय जनमत संग्रह 2023",
+        "hover_text": null,
+        "share_text": "चिली का राष्ट्रीय जनमत संग्रह 2023! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Országos népszavazás Chilében, 2023",
+        "hover_text": null,
+        "share_text": "Országos népszavazás Chilében, 2023 #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þjóðaratkvæðagreiðsla í Chile 2023",
+        "hover_text": null,
+        "share_text": "Þjóðaratkvæðagreiðsla í Chile 2023! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Referendum Nasional Cile 2023",
+        "hover_text": null,
+        "share_text": "Referendum Nasional Cile 2023 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Plebiscito nazionale cileno 2023",
+        "hover_text": null,
+        "share_text": "Plebiscito nazionale cileno 2023! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "2023 年チリ国民投票",
+        "hover_text": null,
+        "share_text": "2023 年チリ国民投票！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಚಿಲಿ ರಾಷ್ಟ್ರೀಯ ಪ್ರಜಾಶಾಸನ 2023",
+        "hover_text": null,
+        "share_text": "ಚಿಲಿ ರಾಷ್ಟ್ರೀಯ ಪ್ರಜಾಶಾಸನ 2023! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Чилидегі Ұлттық референдум – 2023",
+        "hover_text": null,
+        "share_text": "Чилидегі Ұлттық референдум – 2023! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការធ្វើប្រជាមតិថ្នាក់ជាតិស៊ីលីឆ្នាំ 2023",
+        "hover_text": null,
+        "share_text": "ការធ្វើប្រជាមតិថ្នាក់ជាតិស៊ីលីឆ្នាំ 2023! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "2023년 칠레 국민투표",
+        "hover_text": null,
+        "share_text": "2023년 칠레 국민투표 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Чилидеги Улуттук референдум – 2023",
+        "hover_text": null,
+        "share_text": "Чилидеги Улуттук референдум – 2023! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນລົງປະຊາມະຕິແຫ່ງຊາດຊິລີ 2023",
+        "hover_text": null,
+        "share_text": "ວັນລົງປະຊາມະຕິແຫ່ງຊາດຊິລີ 2023! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "plebiscito constitucional de Chile de 2023",
+        "hover_text": "plebiscito constitucional de Chile de 2023",
+        "share_text": "Plebiscito constitucional de Chile de 2023 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Čīles Nacionālais plebiscīts — 2023",
+        "hover_text": null,
+        "share_text": "Čīles Nacionālais plebiscīts — 2023! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Čilės nacionalinis plebiscitas, 2023 m.",
+        "hover_text": null,
+        "share_text": "2023 m. Čilės nacionalinis plebiscitas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Национален референдум во Чиле, 2023 г.",
+        "hover_text": null,
+        "share_text": "Национален референдум во Чиле, 2023 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Plebisit Kebangsaan Chile 2023",
+        "hover_text": null,
+        "share_text": "Plebisit Kebangsaan Chile 2023! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ചിലി ദേശീയ ഹിതപരിശോധന 2023",
+        "hover_text": null,
+        "share_text": "ചിലി ദേശീയ ഹിതപരിശോധന 2023! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "चिलीचा राष्ट्रीय सार्वमतदिन २०२३",
+        "hover_text": null,
+        "share_text": "चिलीचा राष्ट्रीय सार्वमतदिन २०२३! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "2023 оны Чили Улсын бүх нийтийн санал асуулга",
+        "hover_text": null,
+        "share_text": "2023 оны Чили Улсын бүх нийтийн санал асуулга! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "चिलीको राष्ट्रिय जनमत सङ्ग्रह २०२३",
+        "hover_text": null,
+        "share_text": "चिलीको राष्ट्रिय जनमत सङ्ग्रह २०२३! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Nasjonal folkeavstemning i Chile 2023",
+        "hover_text": null,
+        "share_text": "Nasjonal folkeavstemning i Chile 2023! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଚିଲିର ଜାତୀୟ ଗଣଭୋଟ 2023",
+        "hover_text": null,
+        "share_text": "ଚିଲିର ଜାତୀୟ ଗଣଭୋଟ 2023 #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "همه‌پرسی ملی شیلی ۲۰۲۳",
+        "hover_text": null,
+        "share_text": "همه‌پرسی ملی شیلی ۲۰۲۳! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Referendum ogólnokrajowe 2023 w Chile",
+        "hover_text": null,
+        "share_text": "Referendum ogólnokrajowe 2023 w Chile #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Plebiscito Nacional do Chile 2023",
+        "hover_text": null,
+        "share_text": "Plebiscito Nacional do Chile 2023 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Plebiscito Nacional do Chile de 2023",
+        "hover_text": null,
+        "share_text": "Plebiscito Nacional do Chile de 2023! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਚਿਲੀ ਦਾ ਰਾਸ਼ਟਰੀ ਜਨਮਤ 2023",
+        "hover_text": null,
+        "share_text": "ਚਿਲੀ ਦਾ ਰਾਸ਼ਟਰੀ ਜਨਮਤ 2023! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Plebiscitul Național din Chile – 2023",
+        "hover_text": null,
+        "share_text": "Plebiscitul Național din Chile – 2023! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Референдум в Чили – 2023",
+        "hover_text": null,
+        "share_text": "Референдум в Чили – 2023 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Државни референдум у Чилеу 2023.",
+        "hover_text": null,
+        "share_text": "Државни референдум у Чилеу 2023! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Državni referendum u Čileu 2023.",
+        "hover_text": null,
+        "share_text": "Državni referendum u Čileu 2023! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "චිලී ජාතික ජනමත විචාරණය 2023",
+        "hover_text": null,
+        "share_text": "චිලී ජාතික ජනමත විචාරණය 2023 #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Národný plebiscit Čile 2023",
+        "hover_text": null,
+        "share_text": "Národný plebiscit Čile 2023. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Čilski državni plebiscit 2023",
+        "hover_text": null,
+        "share_text": "Čilski državni plebiscit 2023. #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Plebiscito Nacional de Chile 2023",
+        "hover_text": "Plebiscito Nacional de Chile 2023",
+        "share_text": "Plebiscito Nacional de Chile 2023 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Kura ya Maoni ya Kitaifa ya Chile 2023",
+        "hover_text": null,
+        "share_text": "Siku ya Kura ya Maoni ya Kitaifa ya Chile 2023! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Folkomröstning i Chile 2023",
+        "hover_text": null,
+        "share_text": "Folkomröstning i Chile 2023 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "சிலி தேசியப் பொது வாக்கெடுப்பு 2023",
+        "hover_text": null,
+        "share_text": "சிலி தேசியப் பொது வாக்கெடுப்பு 2023! #GoogleDoodle"
+      },
+      "te": {
+        "query": "చిలీ జాతీయ ప్రజాభిప్రాయ సేకరణ 2023",
+        "hover_text": null,
+        "share_text": "చిలీ జాతీయ ప్రజాభిప్రాయ సేకరణ 2023! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันลงประชามติของชิลีปี 2023",
+        "hover_text": null,
+        "share_text": "วันลงประชามติของชิลีปี 2023 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "2023 Şili Ulusal Referandumu",
+        "hover_text": null,
+        "share_text": "2023 Şili Ulusal Referandumu #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Національний референдум у Чилі у 2023 році",
+        "hover_text": null,
+        "share_text": "Національний референдум у Чилі у 2023 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "چلی کا نیشنل پلیبسٹ 2023",
+        "hover_text": null,
+        "share_text": "چلی کا نیشنل پلیبسٹ 2023! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Chili Milliy referendumi 2023",
+        "hover_text": null,
+        "share_text": "Chili Milliy referendumi 2023 #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Trưng cầu dân ý ở Chile năm 2023",
+        "hover_text": null,
+        "share_text": "Trưng cầu dân ý ở Chile năm 2023 #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "I-Plebiscite Kazwelonke yase-Chile yango-2023",
+        "hover_text": null,
+        "share_text": "I-Plebiscite Kazwelonke yase-Chile yango-2023! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Chile National Plebiscite 2023",
+    "share_text": "Chile National Plebiscite 2023! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-ha-long-bay",
     "title": "Celebrating Ha Long Bay",
     "url": "//www.google.com/logos/doodles/2023/celebrating-ha-long-bay-6753651837110038.2-law.gif",
