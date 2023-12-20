@@ -1,5 +1,504 @@
 [
   {
+    "name": "sedad-hakk-eldems-115th-birthday",
+    "title": "Sedad Hakkı Eldem's 115th Birthday",
+    "url": "//www.google.com/logos/doodles/2023/sedad-hakk-eldems-115th-birthday-6753651837109993-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/oWfFRy4M991XliIc-bMStu6BPF8prl8KhfI0IE72f9v_bdOKics4u3cDQADxXQKKwAfclBZNB3zZ-op4eSZqOXlLmdd177_pjU2EaKg1VCptsSuVLKNEMg",
+    "high_res_url": "//www.google.com/logos/doodles/2023/sedad-hakk-eldems-115th-birthday-6753651837109993-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      12,
+      20
+    ],
+    "translations": {
+      "en": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "Sedad Hakkı Eldem's 115th Birthday",
+        "share_text": "Sedad Hakkı Eldem's 115th Birthday! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "Sedad Hakkı Eldem se 115e verjaarsdag",
+        "share_text": "Sedad Hakkı Eldem se 115e verjaarsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "115-vjetori i lindjes së Sedad Hakkı Eldem",
+        "share_text": "115-vjetori i lindjes së Sedad Hakkı Eldem! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ሰዳድ ሃካ ኤልደም",
+        "hover_text": "የሰዳድ ሃካ ኤልደም 115ኛ ልደት",
+        "share_text": "የሰዳድ ሃካ ኤልደም 115ኛ ልደት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "سداد حقي ألدم",
+        "hover_text": "الذكرى 115 لميلاد \"سداد حقي ألدم\"",
+        "share_text": "نحتفل اليوم بالذكرى 115 لميلاد \"سداد حقي ألدم\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Սեդադ Հակի Էլդեմ",
+        "hover_text": "Սեդադ Հակի Էլդեմի ծննդյան 115-ամյակը",
+        "share_text": "Սեդադ Հակի Էլդեմի ծննդյան 115-ամյակը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "Sedad Hakkı Eldem'in 115-ci ildönümü",
+        "share_text": "Sedad Hakkı Eldem'in 115-ci ildönümü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "সেদাদ হাকা এলদেম",
+        "hover_text": "সেদাদ হাকা এলদেমের ১১৫তম জন্মদিন",
+        "share_text": "সেদাদ হাকা এলদেমের ১১৫তম জন্মদিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "Sedad Hakkı Eldemen jaiotzaren 115. urteurrena",
+        "share_text": "Sedad Hakkı Eldemen jaiotzaren 115. urteurrena #GoogleDoodle"
+      },
+      "be": {
+        "query": "Седат Хакы Эльдэм",
+        "hover_text": "115 гадоў з дня нараджэння Седата Хакы Эльдэма",
+        "share_text": "115 гадоў з дня нараджэння Седата Хакы Эльдэма! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "115 godina od rođenja Sedada Hakkıja Eldema",
+        "share_text": "115 godina od rođenja Sedada Hakkıja Eldema! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "Sedad Hakkı Eldem's 115th birthday",
+        "share_text": "Sedad Hakkı Eldem's 115th birthday! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Седад Хаккъ Елдем",
+        "hover_text": "115 години от рождението на Седад Хаккъ Елдем",
+        "share_text": "115 години от рождението на Седад Хаккъ Елдем! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "Sedad Hakkı Eldem ၏ ၁၁၅ နှစ်မြောက်မွေးနေ့",
+        "share_text": "Sedad Hakkı Eldem ၏ ၁၁၅ နှစ်မြောက်မွေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "115è aniversari del naixement de Sedad Hakkı Eldem",
+        "share_text": "115è aniversari del naixement de Sedad Hakkı Eldem #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "Sedad Hakkı Eldem 誕辰 115 週年",
+        "share_text": "Sedad Hakkı Eldem 誕辰 115 週年！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "塞達德哈基艾爾丹",
+        "hover_text": "塞達德哈基艾爾丹 115 歲冥誕",
+        "share_text": "紀念塞達德哈基艾爾丹 115 歲冥誕！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "Sedad Hakkı Eldem 诞辰 115 周年",
+        "share_text": "Sedad Hakkı Eldem 诞辰 115 周年！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "115. godišnjica rođenja Sedada Hakkıja Eldema",
+        "share_text": "115. godišnjica rođenja Sedada Hakkıja Eldema! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "115. výročí narození Sedada Hakkı Eldema",
+        "share_text": "Slavíme 115. výročí narození Sedada Hakkı Eldema! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "Sedad Hakkı Eldems 115-års fødselsdag",
+        "share_text": "Sedad Hakkı Eldems 115-års fødselsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "115e geboortedag van Sedad Hakkı Eldem",
+        "share_text": "115e geboortedag van Sedad Hakkı Eldem! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "Sedad Hakkı Eldemi 115. sünniaastapäev",
+        "share_text": "Sedad Hakkı Eldemi 115. sünniaastapäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "115 vuotta Sedad Hakkı Eldemin syntymästä",
+        "share_text": "115 vuotta Sedad Hakkı Eldemin syntymästä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "Il y a 115 ans naissait Sedad Hakkı Eldem",
+        "share_text": "115e anniversaire de Sedad Hakkı Eldem #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "115ᵉ anniversaire de naissance de Sedad Hakkı Eldem",
+        "share_text": "115ᵉ anniversaire de naissance de Sedad Hakkı Eldem! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "115.º aniversario do nacemento de Sedad Hakkı Eldem",
+        "share_text": "115.º aniversario do nacemento de Sedad Hakkı Eldem! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "სედად ჰაკი ელდემი",
+        "hover_text": "115 წელი სედად ჰაკი ელდემის დაბადებიდან",
+        "share_text": "115 წელი სედად ჰაკი ელდემის დაბადებიდან! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "115. Geburtstag von Sedad Hakkı Eldem",
+        "share_text": "115. Geburtstag von Sedad Hakkı Eldem! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "115 χρόνια από τη γέννηση του Sedad Hakkı Eldem",
+        "share_text": "115 χρόνια από τη γέννηση του Sedad Hakkı Eldem! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "સેદાદ હક્કા એલ્દમ",
+        "hover_text": "સેદાદ હક્કા એલ્દમનો 115મો જન્મદિવસ",
+        "share_text": "સેદાદ હક્કા એલ્દમનો 115મો જન્મદિવસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "115 שנים להולדת סדאד האקי אלדם",
+        "share_text": "115 שנים להולדת סדאד האקי אלדם GoogleDoodle#"
+      },
+      "hi": {
+        "query": "सेदाद हक्का एल्डम",
+        "hover_text": "सेदाद हक्का एल्डम की 115वीं जयंती",
+        "share_text": "सेदाद हक्का एल्डम की 115वीं जयंती! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "Sedad Hakkı Eldem születésének 115. évfordulója",
+        "share_text": "Sedad Hakkı Eldem születésének 115. évfordulója! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "115 ár frá fæðingu Sedad Hakkı Eldem",
+        "share_text": "115 ár frá fæðingu Sedad Hakkı Eldem! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "Ulang Tahun Ke-115 Sedad Hakkı Eldem",
+        "share_text": "Ulang Tahun Ke-115 Sedad Hakkı Eldem #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "115° anniversario della nascita di Sedad Hakkı Eldem",
+        "share_text": "115° anniversario della nascita di Sedad Hakkı Eldem! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "セダド・ハッキ・エルデム",
+        "hover_text": "セダド・ハッキ・エルデム生誕 115 周年",
+        "share_text": "セダド・ハッキ・エルデム生誕 115 周年 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಸೆದಾದ್ ಹ್ಯಾಕಿ ಎಲ್ಡೆಮ್",
+        "hover_text": "ಸೆದಾದ್ ಹ್ಯಾಕಿ ಎಲ್ಡೆಮ್ ಅವರ 115ನೇ ಜನ್ಮದಿನ",
+        "share_text": "ಸೆದಾದ್ ಹ್ಯಾಕಿ ಎಲ್ಡೆಮ್ ಅವರ 115ನೇ ಜನ್ಮದಿನ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Седад Хаккы Эльдем",
+        "hover_text": "Седад Хаккы Эльдемнің туғанына 115 жыл толды",
+        "share_text": "Седад Хаккы Эльдемнің туғанына 115 жыл толды! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "ខួបកំណើតគម្រប់ 115 ឆ្នាំរបស់ Sedad Hakkı Eldem",
+        "share_text": "ខួបកំណើតគម្រប់ 115 ឆ្នាំរបស់ Sedad Hakkı Eldem! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "Sedad Hakkı Eldem 탄생 115주년",
+        "share_text": "Sedad Hakkı Eldem 탄생 115주년 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Седад Хакки Элдем",
+        "hover_text": "Седад Хакки Элдемдин 115 жаш мааракеси",
+        "share_text": "Седад Хакки Элдемдин 115 жаш мааракеси! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 115 ປີຂອງ Sedad Hakkı Eldem",
+        "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 115 ປີຂອງ Sedad Hakkı Eldem! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "115º aniversario del nacimiento de Sedad Hakkı Eldem",
+        "share_text": "¡115º aniversario del nacimiento de Sedad Hakkı Eldem! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Sedads Haki Eldems",
+        "hover_text": "Sedada Haki Eldema 115. dzimšanas diena",
+        "share_text": "Sedada Haki Eldema 115. dzimšanas diena! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Sedadas Hakkı Eldemas",
+        "hover_text": "115-asis Sedado Hakkı Eldemo gimtadienis",
+        "share_text": "115-asis Sedado Hakkı Eldemo gimtadienis! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "115. роденден на Sedad Hakkı Eldem",
+        "share_text": "115. роденден на Sedad Hakkı Eldem! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "Ulang Tahun Kelahiran Sedad Hakkı Eldem yang ke-115",
+        "share_text": "Ulang Tahun Kelahiran Sedad Hakkı Eldem yang ke-115! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "Sedad Hakkı Eldem-ന്റെ 115-ാം ജന്മദിനം",
+        "share_text": "Sedad Hakkı Eldem-ന്റെ 115-ാം ജന്മദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "सेदात हक्क एल्दाम",
+        "hover_text": "सेदात हक्क एल्दाम यांचा ११५ वा स्मृतिदिन",
+        "share_text": "सेदात हक्क एल्दाम यांचा ११५ वा स्मृतिदिन! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Седад Хакки Эльдем",
+        "hover_text": "Седад Хакки Эльдемийн мэндэлсний 115 жилийн ой",
+        "share_text": "Седад Хакки Эльдемийн мэндэлсний 115 жилийн ой! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "Sedad Hakkı Eldem को ११५ औँ जन्मजयन्ती",
+        "share_text": "Sedad Hakkı Eldem को ११५ औँ जन्मजयन्ती! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "Sedad Hakkı Eldems 115-årsdag",
+        "share_text": "Sedad Hakkı Eldems 115-årsdag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ସେଦାଦ ହାକ୍କି ଏଲଦେମ",
+        "hover_text": "ସେଦାଦ ହାକ୍କି ଏଲଦେମଙ୍କ 115ତମ ଜନ୍ମଦିନ",
+        "share_text": "ସେଦାଦ ହାକ୍କି ଏଲଦେମଙ୍କ 115ତମ ଜନ୍ମଦିନ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "سِداد حَکی اِلدِم",
+        "hover_text": "صدوپانزدهمین زادروز سِداد حَکی اِلدِم",
+        "share_text": "صدوپانزدهمین زادروز سِداد حَکی اِلدِم! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "Sedad Hakkı Eldem – 115 rocznica urodzin",
+        "share_text": "Sedad Hakkı Eldem – 115 rocznica urodzin #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "115º aniversário de Sedad Hakkı Eldem",
+        "share_text": "115º aniversário de Sedad Hakkı Eldem! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "115.º Aniversário de Sedad Hakkı Eldem",
+        "share_text": "115.º Aniversário de Sedad Hakkı Eldem! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "ਸੇਦਾਦ ਹੱਕੀ ਐਲਦਮ ਦਾ 115 ਜਨਮਦਿਨ",
+        "share_text": "ਸੇਦਾਦ ਹੱਕੀ ਐਲਦਮ ਦਾ 115 ਜਨਮਦਿਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "115 ani de la nașterea lui Sedad Hakkı Eldem",
+        "share_text": "115 ani de la nașterea lui Sedad Hakkı Eldem! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Седат Хаккы Эльдем",
+        "hover_text": "115 лет со дня рождения Седата Хаккы Эльдема",
+        "share_text": "115 лет со дня рождения Седата Хаккы Эльдема #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Седад Хаки Елдем",
+        "hover_text": "115 година од рођења Седада Хаки Елдема",
+        "share_text": "115 година од рођења Седада Хаки Елдема! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Sedad Haki Eldem",
+        "hover_text": "115 godina od rođenja Sedada Haki Eldema",
+        "share_text": "115 godina od rođenja Sedada Haki Eldema! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "සෙඩාඩ් හක්කි එල්ඩම්",
+        "hover_text": "සෙඩාඩ් හක්කි එල්ඩම්ගේ 115 වෙනි උපන් දිනය",
+        "share_text": "සෙඩාඩ් හක්කි එල්ඩම්ගේ 115 වෙනි උපන් දිනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "115. výročie narodenia Sedada Hakkı Eldema",
+        "share_text": "115. výročie narodenia Sedada Hakkı Eldema. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "115. rojstni dan Sedada Hakkıja Eldema",
+        "share_text": "115. rojstni dan Sedada Hakkıja Eldema! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "115.º aniversario del nacimiento de Sedad Hakkı Eldem",
+        "share_text": "Hoy es el 115.º aniversario del nacimiento de Sedad Hakkı Eldem #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "Miaka 115 Tangu Kuzaliwa kwa Sedad Hakkı Eldem",
+        "share_text": "Miaka 115 Tangu Kuzaliwa kwa Sedad Hakkı Eldem! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "Sedad Hakkı Eldem 115 år",
+        "share_text": "Sedad Hakkı Eldem 115 år #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "செடாட் ஹக்கா எல்டெமின் 115வது பிறந்தநாள்",
+        "share_text": "செடாட் ஹக்கா எல்டெமின் 115வது பிறந்தநாள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "సెదద్ హక్కాయ్ ఎల్దెమ్",
+        "hover_text": "సెదద్ హక్కాయ్ ఎల్దెమ్ 115వ జయంతి",
+        "share_text": "సెదద్ హక్కాయ్ ఎల్దెమ్ 115వ జయంతి! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "วันเกิดปีที่ 115 ของ Sedad Hakkı Eldem",
+        "share_text": "วันเกิดปีที่ 115 ของ Sedad Hakkı Eldem #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "Sedad Hakkı Eldem'in 115. Yaş Günü",
+        "share_text": "Sedad Hakkı Eldem'in 115. Yaş Günü! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Седад Хакки Ельдем",
+        "hover_text": "115 років від дня народження Седада Хакки Ельдема",
+        "share_text": "115 років від дня народження Седада Хакки Ельдема! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "Sedad Hakkı Eldem کی 115 ویں سالگرہ",
+        "share_text": "Sedad Hakkı Eldem کی 115 ویں سالگرہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "Sedad Hakkı Eldem tavalludining 115 yilligi",
+        "share_text": "Sedad Hakkı Eldem tavalludining 115 yilligi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Sedad Hakkı Eldem",
+        "hover_text": "Kỷ niệm 115 năm ngày sinh của Sedad Hakkı Eldem",
+        "share_text": "Kỷ niệm 115 năm ngày sinh của Sedad Hakkı Eldem! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Sedad Hakkı Eldem",
+        "hover_text": "Usuku Lokuzalwa luka-Sedad Hakkı Eldem Lweminyaka eyi-115",
+        "share_text": "Usuku Lokuzalwa luka-Sedad Hakkı Eldem Lweminyaka eyi-115! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Sedad Hakkı Eldem",
+    "share_text": "Sedad Hakkı Eldem's 115th Birthday! #GoogleDoodle"
+  },
+  {
     "name": "qatar-national-day-2023",
     "title": "Qatar National Day 2023",
     "url": "//www.google.com/logos/doodles/2023/qatar-national-day-2023-6753651837109991-law.gif",
