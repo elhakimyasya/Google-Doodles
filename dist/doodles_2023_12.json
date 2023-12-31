@@ -1,5 +1,504 @@
 [
   {
+    "name": "new-years-eve-2023",
+    "title": "New Year's Eve 2023",
+    "url": "//www.google.com/logos/doodles/2023/new-years-eve-2023-6753651837109995-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/ZfcMnjwJIgka8Vh9bfDk5_uk4Cm-V5-xiSB7k3V_oTGU-PePIqZLpOHxKjC6SApR2R05S_NofNYEQwy5VRayd8Y7_6fv3jvVUbeIDyGRs_uGGCV1Dv34",
+    "high_res_url": "//www.google.com/logos/doodles/2023/new-years-eve-2023-6753651837109995-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2023,
+      12,
+      31
+    ],
+    "translations": {
+      "en": {
+        "query": "New Year's Eve",
+        "hover_text": "New Year's Eve 2023",
+        "share_text": "Happy New Year's Eve! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Oujaarsaand",
+        "hover_text": "Oujaarsaand 2023",
+        "share_text": "Gelukkige Oujaarsaand! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Pragu i Vitit të Ri",
+        "hover_text": "Pragu i Vitit të Ri 2023",
+        "share_text": "Gëzuar Pragun e Vitit të Ri! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአዲስ ዓመት ዋዜማ",
+        "hover_text": "የአዲስ ዓመት ዋዜማ 2023",
+        "share_text": "መልካም የአዲስ ዓመት ዋዜማ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "ليلة رأس السنة",
+        "hover_text": "ليلة رأس السنة 2023",
+        "share_text": "إنها ليلة رأس السنة! كلّ عام وأنتم بخير. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ամանորի նախօրյակ",
+        "hover_text": "Ամանորի նախօրյակ 2023",
+        "share_text": "Շնորհավո՛ր Ամանորի նախօրյակը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Yeni il ərəfəsi",
+        "hover_text": "2023 Yeni İl Ərəfəsi",
+        "share_text": "Yeni İl Ərəfəsi münasibətilə sizi təbrik edirik! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "নববর্ষের আগের সন্ধ্যা",
+        "hover_text": "বর্ষবরণের আগের সন্ধ্যা ২০২৩",
+        "share_text": "নববর্ষের আগের সন্ধ্যার শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Urtezahar-gaua",
+        "hover_text": "2023ko Urtezahar-gaua",
+        "share_text": "Urtezahar-gau zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Пярэдадзень Новага года",
+        "hover_text": "Пярэдадзень Новага года – 2023",
+        "share_text": "З пярэдаднем Новага года! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Novogodišnja noć",
+        "hover_text": "Novogodišnja noć 2023.",
+        "share_text": "Sretna Novogodišnja noć! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "New Year's Eve",
+        "hover_text": "New Year's Eve 2023",
+        "share_text": "Happy New Year's Eve! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Нова година",
+        "hover_text": "Нова година 2023 г.",
+        "share_text": "Честита Нова година! #GoogleDoodle"
+      },
+      "my": {
+        "query": "နှစ်သစ်ကူးအကြိုနေ့",
+        "hover_text": "၂၀၂၃ နှစ်သစ်ကူးအကြိုနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် နှစ်သစ်ကူးအကြိုနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Nit de Cap d'Any",
+        "hover_text": "Nit de Cap d'Any 2023",
+        "share_text": "Feliç nit de Cap d'Any! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "除夕",
+        "hover_text": "2023 年除夕",
+        "share_text": "除夕快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "跨年夜",
+        "hover_text": "2023 年跨年夜",
+        "share_text": "歡慶跨年夜！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "跨年夜",
+        "hover_text": "2023 年跨年夜",
+        "share_text": "跨年夜快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Silvestrovo",
+        "hover_text": "Silvestrovo 2023.",
+        "share_text": "Sretno Silvestrovo! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Silvestr",
+        "hover_text": "Silvestr 2023",
+        "share_text": "Veselý Silvestr! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Nytårsaften",
+        "hover_text": "Nytårsaften 2023",
+        "share_text": "Godt nytår! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Oudejaarsavond",
+        "hover_text": "Oudejaarsavond 2023",
+        "share_text": "Fijne oudejaarsavond #GoogleDoodle"
+      },
+      "et": {
+        "query": "Vana-aastaõhtu",
+        "hover_text": "2023. aasta vana-aastaõhtu",
+        "share_text": "Head vana-aastaõhtut! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Uudenvuodenaatto",
+        "hover_text": "Uudenvuodenaatto 2023",
+        "share_text": "Hyvää uudenvuodenaattoa! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Réveillon du Nouvel An",
+        "hover_text": "Google vous souhaite un bon réveillon 2023 !",
+        "share_text": "Google vous souhaite un bon réveillon ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Veille du jour de l'An",
+        "hover_text": "Veille du jour de l'An 2023",
+        "share_text": "Joyeuse veille du jour de l'An! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Noitevella",
+        "hover_text": "Noitevella 2023",
+        "share_text": "Feliz Noitevella! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ახალი წლის ღამე",
+        "hover_text": "ახალი წლის ღამე 2023",
+        "share_text": "გილოცავთ ახალ წელს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Silvester",
+        "hover_text": "Silvester 2023",
+        "share_text": "Einen schönen Silvesterabend! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Παραμονή Πρωτοχρονιάς",
+        "hover_text": "Παραμονή Πρωτοχρονιάς 2023",
+        "share_text": "Χαρούμενη Παραμονή Πρωτοχρονιάς! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "નવા વર્ષની પૂર્વ સંધ્યા",
+        "hover_text": "નવા વર્ષની પૂર્વ સંધ્યા 2023",
+        "share_text": "નવા વર્ષની પૂર્વ સંધ્યાની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "ערב השנה האזרחית החדשה",
+        "hover_text": "ערב השנה האזרחית החדשה 2023",
+        "share_text": "ערב השנה האזרחית החדשה! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "नए साल से पहले की आखिरी शाम",
+        "hover_text": "साल 2023 की आखिरी शाम",
+        "share_text": "नए साल से पहले की आखिरी शाम की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Szilveszter",
+        "hover_text": "2023 szilvesztere",
+        "share_text": "Kellemes szilvesztert! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Gamlárskvöld",
+        "hover_text": "Gamlárskvöld 2023",
+        "share_text": "Gleðilegt nýtt ár! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Malam Tahun Baru",
+        "hover_text": "Malam Tahun Baru 2023",
+        "share_text": "Selamat Malam Tahun Baru! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Oíche Chinn Bliana",
+        "hover_text": "Oíche Chinn Bhliana, 2023",
+        "share_text": "Oíche Chinn Bliana faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Vigilia di capodanno",
+        "hover_text": "Notte di capodanno 2023",
+        "share_text": "Felice notte di capodanno! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "大晦日",
+        "hover_text": "2023 年大晦日",
+        "share_text": "大晦日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಹೊಸ ವರ್ಷದ ಈವ್",
+        "hover_text": "ಹೊಸ ವರ್ಷದ ಈವ್ 2023",
+        "share_text": "ಹೊಸ ವರ್ಷದ ಈವ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Жаңа жыл қарсаңы",
+        "hover_text": "Жаңа жыл кеші – 2023",
+        "share_text": "Жаңа жыл кеші #GoogleDoodle"
+      },
+      "km": {
+        "query": "រាត្រីថ្ងៃឆ្លងចូលឆ្នាំថ្មី",
+        "hover_text": "ថ្ងៃឆ្លង​ឆ្នាំ 2023",
+        "share_text": "រីករាយថ្ងៃឆ្លងចូលឆ្នាំថ្មី! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "새해 전야",
+        "hover_text": "2024년 새해 전야",
+        "share_text": "새해 전야 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Жаны жыл кечеси",
+        "hover_text": "Жаңы жыл кечеси – 2023",
+        "share_text": "Жылдын акыркы күнү менен куттуктайбыз! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ຄືນປີໃໝ່",
+        "hover_text": "ວັນສົ່ງທ້າຍປີເກົ່າ 2023",
+        "share_text": "ສຸກສັນຄືນກ່ອນວັນປີໃໝ່! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Fin de Año",
+        "hover_text": "Fin de Año 2023",
+        "share_text": "¡Feliz Fin de Año! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Vecgada vakars",
+        "hover_text": "Vecgada vakars — 2023",
+        "share_text": "Priecīgu Vecgada vakaru! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Naujųjų metų išvakarės",
+        "hover_text": "Naujųjų metų išvakarės, 2023 m.",
+        "share_text": "Linksmų Naujųjų metų išvakarių! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Новогодишна вечер",
+        "hover_text": "Новогодишна вечер, 2023 г.",
+        "share_text": "Среќна новогодишна вечер! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Alim-piandrasana taom-baovao",
+        "hover_text": "Tsarà alim-piandrasana taom-baovao",
+        "share_text": "Tsarà alim-piandrasana taom-baovao ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Malam Tahun Baharu",
+        "hover_text": "Malam Tahun Baharu 2023",
+        "share_text": "Selamat Meraikan Malam Tahun Baharu! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "പുതുവർഷ രാവ്",
+        "hover_text": "2023 പുതുവർഷ രാത്രി",
+        "share_text": "പുതുവർഷ രാത്രി ആശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "नवीन वर्षांची संध्याकाळ",
+        "hover_text": "नववर्षाची पूर्वसंध्या २०२३",
+        "share_text": "नववर्षाची पूर्वसंध्ययेच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Шинэ жилийн өмнөх үдэш",
+        "hover_text": "2023 оны Шинэ жилийн өмнөх үдэш",
+        "share_text": "Шинэ жилийн өмнөх үдшийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "नववर्षको पूर्वसन्ध्या",
+        "hover_text": "नव वर्षको पूर्वसन्ध्या २०२३",
+        "share_text": "नव वर्षको पूर्वसन्ध्यामा शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Nyttårsaften",
+        "hover_text": "Nyttårsaften 2023",
+        "share_text": "Godt nyttår! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ନୂତନ ବର୍ଷର ପୂର୍ବ ସଂଧ୍ୟା",
+        "hover_text": "ନୂଆ ବର୍ଷର ପୂର୍ବ ସନ୍ଧ୍ୟା 2023",
+        "share_text": "ନୂଆ ବର୍ଷର ପୂର୍ବ ସନ୍ଧ୍ୟା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "شب سال نو",
+        "hover_text": "شب سال نو ۲۰۲۳",
+        "share_text": "شب سال نو مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Sylwester",
+        "hover_text": "Sylwester 2023",
+        "share_text": "Świętujemy Sylwestra #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Véspera de ano-novo",
+        "hover_text": "Véspera de ano-novo ",
+        "share_text": "Feliz Véspera de ano-novo! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Véspera de Ano Novo",
+        "hover_text": "Véspera de Ano Novo de 2023",
+        "share_text": "Feliz Véspera de Ano Novo! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਨਵੇਂ ਸਾਲ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਆਖਰੀ ਸ਼ਾਮ",
+        "hover_text": "2023 ਦੀ ਆਖਰੀ ਸ਼ਾਮ",
+        "share_text": "ਨਵੇਂ ਸਾਲ ਤੋਂ ਪਹਿਲਾਂ ਦੀ ਆਖਰੀ ਸ਼ਾਮ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ajunul Anului Nou",
+        "hover_text": "Ajunul Anului Nou – 2023",
+        "share_text": "Un Ajun fericit al Anului Nou! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Новый год",
+        "hover_text": "Канун Нового года – 2023",
+        "share_text": "Канун Нового года #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Новогодишња ноћ",
+        "hover_text": "Дочек 2024.",
+        "share_text": "Срећна Новогодишња ноћ! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Novogodišnja noć",
+        "hover_text": "Doček 2024.",
+        "share_text": "Srećna Novogodišnja noć! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lavey lannen",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "නව අවුරුදු සැඳෑව",
+        "hover_text": "නව අවුරුදු සැඳෑව 2023",
+        "share_text": "ප්‍රීතිමත් නව අවුරුදු සැඳෑව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Silvester",
+        "hover_text": "Silvester 2023",
+        "share_text": "Veselý Silvester! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Silvestrovo",
+        "hover_text": "Silvestrovo 2023",
+        "share_text": "Veselo silvestrovo! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta U dambaysa sanadka",
+        "hover_text": null,
+        "share_text": "Dhalashada Sanadka cusub oo Farxad leh #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Pele ho Selemo se Secha",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Año Nuevo",
+        "hover_text": "Año Nuevo 2023",
+        "share_text": "¡Feliz Año Nuevo! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Mkesha wa Mwaka Mpya",
+        "hover_text": "Mkesha wa Mwaka Mpya 2023",
+        "share_text": "Heri ya Mkesha wa Mwaka Mpya! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Nyårsafton",
+        "hover_text": "Nyårsafton 2023",
+        "share_text": "Gott nytt år! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "நியூ இயர்ஸ் ஈவ்",
+        "hover_text": "புத்தாண்டு விழா 2023",
+        "share_text": "புத்தாண்டு விழா வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "నూతన సంవత్సర పండుగ",
+        "hover_text": "నూతన సంవత్సర వేడుక 2023",
+        "share_text": "నూతన సంవత్సర పండుగ! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันส่งท้ายปีเก่า",
+        "hover_text": "วันส่งท้ายปีเก่า 2023",
+        "share_text": "สุขสันต์วันส่งท้ายปีเก่า #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Phirimane Pele ga Ngwaga o Mosha",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Yılbaşı",
+        "hover_text": "2023 Yılbaşı",
+        "share_text": "Yeni Yıl Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Переддень Нового року",
+        "hover_text": "Новорічний вечір у 2023 році",
+        "share_text": "З передднем Нового року! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "نئے سال کا آغاز",
+        "hover_text": "2023 میں نئے سال کی شام",
+        "share_text": "نئے سال کی شام مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Yangi yil arafasi",
+        "hover_text": "Yangi yil arafasi 2023",
+        "share_text": "Yangi yil arafasi muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Giao thừa",
+        "hover_text": "Giao thừa năm 2023",
+        "share_text": "Chúc mừng Giao thừa! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lwangaphambi konyaka omusha",
+        "hover_text": "Usuku Lwangaphambi Konyaka Omusha lwango-2023",
+        "share_text": "Sikufisela Usuku Oluhle Lwangaphambi Lonyaka Omusha! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "New Year's Eve",
+    "share_text": "Happy New Year's Eve! #GoogleDoodle"
+  },
+  {
     "name": "venu-chitales-111st-birthday",
     "title": "Venu Chitale's 111st Birthday",
     "url": "//www.google.com/logos/doodles/2023/venu-chitales-111st-birthday-6753651837110101.3-l.png",
