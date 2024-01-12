@@ -1,5 +1,504 @@
 [
   {
+    "name": "elizabeth-hastings-75th-birthday",
+    "title": "Elizabeth Hastings 75th Birthday",
+    "url": "//www.google.com/logos/doodles/2024/elizabeth-hastings-75th-birthday-6753651837110017.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/sJ-47bSrOkFLt06_kRvlvYhPOYQH_Dt9pgpmMsWTtcECOZdXRrzo4kRZJLSeFVfuxUUbc1G701WmbPmM9ZesKehrrVZXDlNNXfUjqZ-lRe2xb_BSovog9Q",
+    "high_res_url": "//www.google.com/logos/doodles/2024/elizabeth-hastings-75th-birthday-6753651837110017.2-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      1,
+      12
+    ],
+    "translations": {
+      "en": {
+        "query": "Elizabeth Hastings Australia disability rights commisssioner",
+        "hover_text": "Elizabeth Hastings 75th Birthday",
+        "share_text": "Elizabeth Hastings 75th Birthday! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Elizabeth Hastings Australië",
+        "hover_text": "Elizabeth Hastings se 75e verjaarsdag",
+        "share_text": "Elizabeth Hastings se 75e verjaarsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Elizabeth Hastings, Australi",
+        "hover_text": "75-vjetori i lindjes së Elizabeth Hastings",
+        "share_text": "75-vjetori i lindjes së Elizabeth Hastings! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ኤልዛቤት ሄስቲንግስ አውስትራሊያ",
+        "hover_text": "የኤልዛቤት ሔስቲንግስ 75ኛ ልደት",
+        "share_text": "የኤልዛቤት ሔስቲንግስ 75ኛ ልደት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "إليزابيث هاستينغز أستراليا",
+        "hover_text": "الذكرى 75 لميلاد \"إليزابيث هاستينغز\"",
+        "share_text": "نحتفل اليوم بالذكرى 75 لميلاد \"إليزابيث هاستينغز\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Էլիզաբեթ Հասթինգս Ավստրալիա",
+        "hover_text": "Էլիզաբեթ Հասթինգսի ծննդյան 75-ամյակը",
+        "share_text": "Էլիզաբեթ Հասթինգսի ծննդյան 75-ամյակը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Elizabeth Hastings Avstraliya",
+        "hover_text": "Elizabeth Hastings'in 75-ci ildönümü",
+        "share_text": "Elizabeth Hastings'in 75-ci ildönümü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "এলিজাবেথ হেস্টিংস অস্ট্রেলিয়া",
+        "hover_text": "এলিজাবেথ হেস্টিংসের ৭৫তম জন্মদিন",
+        "share_text": "এলিজাবেথ হেস্টিংসের ৭৫তম জন্মদিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Elizabeth Hastings Australia",
+        "hover_text": "Elizabeth Hastingsen jaiotzaren 75. urteurrena",
+        "share_text": "Elizabeth Hastingsen jaiotzaren 75. urteurrena #GoogleDoodle"
+      },
+      "be": {
+        "query": "Элізабет Гастынгс Аўстралія",
+        "hover_text": "75 гадоў з дня нараджэння Элізабет Гастынгс",
+        "share_text": "75 гадоў з дня нараджэння Элізабет Гастынгс! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Elizabeth Hastings, Australija",
+        "hover_text": "75 godina od rođenja Elizabethe Hastings",
+        "share_text": "75 godina od rođenja Elizabethe Hastings! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Elizabeth Hastings Australia",
+        "hover_text": "Elizabeth Hastings's 75th birthday",
+        "share_text": "Elizabeth Hastings's 75th birthday! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Елизабет Хейстингс (Австралия)",
+        "hover_text": "75 години от рождението на Елизабет Хейстингс",
+        "share_text": "75 години от рождението на Елизабет Хейстингс! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Elizabeth Hastings သြစတြေးလျ",
+        "hover_text": "Elizabeth Hastings ၏ ၇၅ နှစ်မြောက်မွေးနေ့",
+        "share_text": "Elizabeth Hastings ၏ ၇၅ နှစ်မြောက်မွေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Elizabeth Hastings Austràlia",
+        "hover_text": "75è aniversari del naixement d'Elizabeth Hastings",
+        "share_text": "75è aniversari del naixement d'Elizabeth Hastings #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Elizabeth Hastings 澳洲",
+        "hover_text": "Elizabeth Hastings 誕辰 75 週年",
+        "share_text": "Elizabeth Hastings 誕辰 75 週年！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "伊莉莎白黑斯廷斯 澳洲",
+        "hover_text": "伊莉莎白黑斯廷斯 75 歲冥誕",
+        "share_text": "紀念伊莉莎白黑斯廷斯 75 歲冥誕！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "Elizabeth Hastings 澳大利亚",
+        "hover_text": "Elizabeth Hastings 诞辰 75 周年",
+        "share_text": "Elizabeth Hastings 诞辰 75 周年！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Elizabeth Hastings Australija",
+        "hover_text": "75. godišnjica rođenja Elizabeth Hastings",
+        "share_text": "75. godišnjica rođenja Elizabeth Hastings! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Elizabeth Hastings Austrálie",
+        "hover_text": "75. výročí narození Elizabeth Hastings",
+        "share_text": "Slavíme 75. výročí narození Elizabeth Hastings! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Elizabeth Hastings Australien",
+        "hover_text": "Elizabeth Hastings' 75-års fødselsdag",
+        "share_text": "Elizabeth Hastings' 75-års fødselsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Elizabeth Hastings Australië",
+        "hover_text": "75e geboortedag van Elizabeth Hastings",
+        "share_text": "De 75e geboortedag van Elizabeth Hastings! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Elizabeth Hastings Austraalia",
+        "hover_text": "Elizabeth Hastingsi 75. sünniaastapäev",
+        "share_text": "Elizabeth Hastingsi 75. sünniaastapäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Elizabeth Hastings Australia",
+        "hover_text": "75 vuotta Elizabeth Hastingsin syntymästä",
+        "share_text": "75 vuotta Elizabeth Hastingsin syntymästä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Elizabeth Hastings Australie",
+        "hover_text": "Il y a 75 ans naissait Elizabeth Hastings",
+        "share_text": "75e anniversaire d'Elizabeth Hastings #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Elizabeth Hastings Australie",
+        "hover_text": "75ᵉ anniversaire de naissance d'Elizabeth Hastings",
+        "share_text": "75ᵉ anniversaire de naissance d'Elizabeth Hastings! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Elizabeth Hastings Australia",
+        "hover_text": "75.º aniversario do nacemento de Elizabeth Hastings",
+        "share_text": "75.º aniversario do nacemento de Elizabeth Hastings! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ელიზაბეთ ჰასტინგსი ავსტრალია",
+        "hover_text": "75 წელი ელიზაბეტ ჰასტინგსის დაბადებიდან",
+        "share_text": "75 წელი ელიზაბეტ ჰასტინგსის დაბადებიდან! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Elizabeth Hastings Australien",
+        "hover_text": "75. Geburtstag von Elizabeth Hastings",
+        "share_text": "75. Geburtstag von Elizabeth Hastings! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Elizabeth Hastings Αυστραλία",
+        "hover_text": "75 χρόνια από τη γέννηση της Elizabeth Hastings",
+        "share_text": "75 χρόνια από τη γέννηση της Elizabeth Hastings! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "એલિઝાબેથ હેસ્ટિંગ્સ ઑસ્ટ્રેલિયા",
+        "hover_text": "એલિઝાબેથ હેસ્ટિંગ્સનો 75મો જન્મદિવસ",
+        "share_text": "એલિઝાબેથ હેસ્ટિંગ્સનો 75મો જન્મદિવસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Elizabeth Hastings Australia",
+        "hover_text": "75 שנה להולדת אליזבת הייסטינגס",
+        "share_text": "75 שנה להולדת אליזבת הייסטינגס GoogleDoodle#"
+      },
+      "hi": {
+        "query": "एलिज़ाबेथ हेस्टिंग्स ऑस्ट्रेलिया",
+        "hover_text": "एलिज़ाबेथ हेस्टिंग्स की 75वीं जयंती",
+        "share_text": "एलिज़ाबेथ हेस्टिंग्स की 75वीं जयंती! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Elizabeth Hastings Ausztrália",
+        "hover_text": "Elizabeth Hastings születésének 75. évfordulója",
+        "share_text": "Elizabeth Hastings születésének 75. évfordulója #GoogleDoodle"
+      },
+      "is": {
+        "query": "Elizabeth Hastings, Ástralíu",
+        "hover_text": "75 ár frá fæðingu Elizabeth Hastings",
+        "share_text": "75 ár frá fæðingu Elizabeth Hastings! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Elizabeth Hastings Australia",
+        "hover_text": "Ulang Tahun Ke-75 Elizabeth Hastings",
+        "share_text": "Ulang Tahun Ke-75 Elizabeth Hastings #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Elizabeth Hastings Australia",
+        "hover_text": "75° anniversario della nascita di Elizabeth Hastings",
+        "share_text": "75° anniversario della nascita di Elizabeth Hastings! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "エリザベス・ヘイスティングス オーストラリア",
+        "hover_text": "エリザベス・ヘイスティングス生誕 75 周年",
+        "share_text": "エリザベス・ヘイスティングス生誕 75 周年 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಎಲಿಜಬೆತ್ ಹೇಸ್ಟಿಂಗ್ಸ್ ಆಸ್ಟ್ರೇಲಿಯಾ",
+        "hover_text": "ಎಲಿಜಬೆತ್ ಹೇಸ್ಟಿಂಗ್ಸ್ ಅವರ 75ನೇ ಜನ್ಮದಿನ",
+        "share_text": "ಎಲಿಜಬೆತ್ ಹೇಸ್ಟಿಂಗ್ಸ್ ಅವರ 75ನೇ ಜನ್ಮದಿನ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Элизабет Хастингс Аустралия",
+        "hover_text": "Элизабет Хастингстің 75 жылдығы",
+        "share_text": "Элизабет Хастингстің 75 жылдығы құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Elizabeth Hastings Australia",
+        "hover_text": "ខួបកំណើតគម្រប់ 75 ឆ្នាំរបស់ Elizabeth Hastings",
+        "share_text": "ខួបកំណើតគម្រប់ 75 ឆ្នាំរបស់ Elizabeth Hastings! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Elizabeth Hastings(오스트레일리아)",
+        "hover_text": "Elizabeth Hastings 탄생 75주년",
+        "share_text": "Elizabeth Hastings 탄생 75주년 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Элизабет Гастингс Австралия",
+        "hover_text": "Элизабет Гастингстин 75 жаш мааракеси",
+        "share_text": "Элизабет Гастингстин 75 жаш мааракеси! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Elizabeth Hastings Australia",
+        "hover_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 75 ປີຂອງ Elizabeth Hastings",
+        "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 75 ປີຂອງ Elizabeth Hastings! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Elizabeth Hastings Australia",
+        "hover_text": "75º aniversario del nacimiento de Elizabeth Hastings",
+        "share_text": "¡75º aniversario del nacimiento de Elizabeth Hastings! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Elizabete Heistingsa (Austrālija)",
+        "hover_text": "Elizabetes Heistingsas 75. dzimšanas diena",
+        "share_text": "Elizabetes Heistingsas 75. dzimšanas diena! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Elizabeth Hastings, Australija",
+        "hover_text": "75-asis Elizabeth Hastings gimtadienis",
+        "share_text": "75-asis Elizabeth Hastings gimtadienis! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Elizabeth Hastings Australia",
+        "hover_text": "75. роденден на Elizabeth Hastings",
+        "share_text": "75. роденден на Elizabeth Hastings! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Elizabeth Hastings Australia",
+        "hover_text": "Ulang Tahun Kelahiran Elizabeth Hastings yang ke-75",
+        "share_text": "Ulang Tahun Kelahiran Elizabeth Hastings yang ke-75! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Elizabeth Hastings ഓസ്‌ട്രേലിയ",
+        "hover_text": "Elizabeth Hastings-ന്റെ 75-ാം ജന്മദിനം",
+        "share_text": "Elizabeth Hastings-ന്റെ 75-ാം ജന്മദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "एलिझाबेथ हेस्टिंग्ज ऑस्ट्रेलिया",
+        "hover_text": "एलिझाबेथ हेस्टिंग्ज यांचा ७५ वा स्मृतिदिन",
+        "share_text": "एलिझाबेथ हेस्टिंग्ज यांचा ७५ वा स्मृतिदिन! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Элизабет Хастингс Австрали",
+        "hover_text": "Элизабет Хастингсийн мэндэлсний 75 жилийн ой",
+        "share_text": "Элизабет Хастингсийн мэндэлсний 75 жилийн ой! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Elizabeth Hastings अस्ट्रेलिया",
+        "hover_text": "Elizabeth Hastings को ७५ औँ जन्मदिन",
+        "share_text": "Elizabeth Hastings को ७५ औँ जन्मदिन! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Elizabeth Hastings Australia",
+        "hover_text": "Elizabeth Hastings' 75-årsdag",
+        "share_text": "Elizabeth Hastings' 75-årsdag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଏଲିଜାବେଥ ହେଷ୍ଟିଂସ",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "الیزابت هِستینگز استرالیا",
+        "hover_text": "هفتادوپنجمین زادروز الیزابت هِیستینگز",
+        "share_text": "هفتادوپنجمین زادروز الیزابت هِیستینگز! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Elizabeth Hastings, Australia",
+        "hover_text": "Elizabeth Hastings – 75 rocznica urodzin",
+        "share_text": "Elizabeth Hastings – 75 rocznica urodzin #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Elizabeth Hastings Austrália",
+        "hover_text": "75º aniversário de Elizabeth Hastings",
+        "share_text": "75º aniversário de Elizabeth Hastings #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Elizabeth Hastings Austrália",
+        "hover_text": "75.º Aniversário de Elizabeth Hastings",
+        "share_text": "75.º Aniversário de Elizabeth Hastings! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਐਲਿਜ਼ਾਬੈਥ ਹੇਸਟਿੰਗਜ਼ ਆਸਟ੍ਰੇਲੀਆ",
+        "hover_text": "ਐਲਿਜ਼ਾਬੈਥ ਹੇਸਟਿੰਗਜ਼ ਦਾ 75ਵਾਂ ਜਨਮਦਿਨ",
+        "share_text": "ਐਲਿਜ਼ਾਬੈਥ ਹੇਸਟਿੰਗਜ਼ ਦਾ 75ਵਾਂ ਜਨਮਦਿਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Elizabeth Hastings Australia",
+        "hover_text": "75 de ani de la nașterea lui Elizabeth Hastings",
+        "share_text": "75 de ani de la nașterea lui Elizabeth Hastings! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Элизабет Гастингс Австралия",
+        "hover_text": "75 лет со дня рождения Элизабет Гастингс",
+        "share_text": "75 лет со дня рождения Элизабет Гастингс #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Елизабет Хејстингс из Аустралије",
+        "hover_text": "75 година од рођења Елизабет Хејстингс",
+        "share_text": "75 година од рођења Елизабет Хејстингс! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Elizabet Hejstings iz Australije",
+        "hover_text": "75 godina od rođenja Elizabet Hejstings",
+        "share_text": "75 godina od rođenja Elizabet Hejstings! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "එලිසබෙත් හේස්ටිංස් ඕස්ට්‍රේලියාව",
+        "hover_text": "එලිසබෙත් හේස්ටිංස්ගේ 75 වැනි උපන් දිනය",
+        "share_text": "එලිසබෙත් හේස්ටිංස්ගේ 75 වැනි උපන් දිනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Elizabeth Hastingsová Austrália",
+        "hover_text": "75. výročie narodenia Elizabeth Hastingsovej",
+        "share_text": "75. výročie narodenia Elizabeth Hastingsovej. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Elizabeth Hastings Avstralija",
+        "hover_text": "75. rojstni dan Elizabeth Hastings",
+        "share_text": "75. rojstni dan Elizabeth Hastings! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Elizabeth Hastings Australia",
+        "hover_text": "75.º aniversario del nacimiento de Elizabeth Hastings",
+        "share_text": "Hoy es el 75.º aniversario del nacimiento de Elizabeth Hastings #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Elizabeth Hastings Australia",
+        "hover_text": "Miaka 75 Tangu Kuzaliwa kwa Elizabeth Hastings",
+        "share_text": "Miaka 75 Tangu Kuzaliwa kwa Elizabeth Hastings! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Elizabeth Hastings Australien",
+        "hover_text": "Elizabeth Hastings 75 år",
+        "share_text": "Elizabeth Hastings 75 år #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "எலிசபெத் ஹேஸ்டிங்ஸ் ஆஸ்திரேலியா",
+        "hover_text": "எலிசபெத் ஹேஸ்டிங்ஸின் 75வது பிறந்தநாள்",
+        "share_text": "எலிசபெத் ஹேஸ்டிங்ஸின் 75வது பிறந்தநாள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఎలిజబెత్ హేస్టింగ్స్ ఆస్ట్రేలియా",
+        "hover_text": "ఎలిజబెత్ హేస్టింగ్స్ 75వ జయంతి",
+        "share_text": "ఎలిజబెత్ హేస్టింగ్స్ 75వ జయంతి! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Elizabeth Hastings ออสเตรเลีย",
+        "hover_text": "วันเกิดปีที่ 75 ของ Elizabeth Hastings",
+        "share_text": "วันเกิดปีที่ 75 ของ Elizabeth Hastings #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Elizabeth Hastings Avustralya",
+        "hover_text": "Elizabeth Hastings'in 75. Doğum Günü",
+        "share_text": "Elizabeth Hastings'in 75. doğum gününü kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Елізабет Гастінгс Австралія",
+        "hover_text": "75 років від дня народження Елізабет Гастінгс",
+        "share_text": "75 років від дня народження Елізабет Гастінгс! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Elizabeth Hastings آسٹریلیا",
+        "hover_text": "Elizabeth Hastings کا 75 واں یوم پیدائش",
+        "share_text": "Elizabeth Hastings کا 75 واں یوم پیدائش! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Elizabeth Hastings Avstraliya",
+        "hover_text": "Elizabeth Hastings tavalludining 75 yilligi",
+        "share_text": "Elizabeth Hastings tavalludining 75 yilligi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Elizabeth Hastings Úc",
+        "hover_text": "Kỷ niệm 75 năm ngày sinh của Elizabeth Hastings",
+        "share_text": "Kỷ niệm 75 năm ngày sinh của Elizabeth Hastings! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Elizabeth Hastings e-Australia",
+        "hover_text": "Usuku Lokuzalwa luka-Elizabeth Hastings lweminyaka engu 75",
+        "share_text": "Usuku Lokuzalwa luka-Elizabeth Hastings lweminyaka engu 75! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Elizabeth Hastings Australia disability rights commisssioner",
+    "share_text": "Elizabeth Hastings 75th Birthday! #GoogleDoodle"
+  },
+  {
     "name": "louis-joseph-cesar-ducornets-218th-birthday",
     "title": "Louis Joseph César Ducornet's 218th Birthday",
     "url": "//www.google.com/logos/doodles/2024/louis-joseph-cesar-ducornets-218th-birthday-6753651837110176-l.png",
