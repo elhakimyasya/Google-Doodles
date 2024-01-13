@@ -1,5 +1,1003 @@
 [
   {
+    "name": "taiwan-presidential-elections-2024",
+    "title": "Taiwan Presidential Elections 2024",
+    "url": "//www.google.com/logos/doodles/2024/taiwan-presidential-elections-2024-6753651837110142.3-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/fkYEfHK5s4AUoEUIIWneNUXQ0DepqN48ql-bzniXWdGqt5FW5X7B6DYBdvMQn4XGY3UN4bK9duclLDoUe9g9FQo6HLFHMyP4fRnCy9PaUq1sO-wVnI6z",
+    "high_res_url": "//www.google.com/logos/doodles/2024/taiwan-presidential-elections-2024-6753651837110142.2-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      1,
+      13
+    ],
+    "translations": {
+      "en": {
+        "query": "Taiwan Presidential Elections",
+        "hover_text": "Taiwan Presidential Elections 2024",
+        "share_text": "Taiwan Presidential Elections! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Taiwan se presidensiële verkiesing",
+        "hover_text": "Taiwan se presidensiële verkiesing",
+        "share_text": "Taiwan se presidensiële verkiesing! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Zgjedhjet presidenciale në Tajvan",
+        "hover_text": "Zgjedhjet presidenciale në Tajvan, 2024",
+        "share_text": "Zgjedhjet presidenciale në Tajvan! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የታይዋን ፕሬዝዳንታዊ ምርጫዎች",
+        "hover_text": "የታይዋን ፕሬዝዳንታዊ ምርጫዎች 2024",
+        "share_text": "የታይዋን ፕሬዝዳንታዊ ምርጫዎች! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "الانتخابات الرئاسية في تايوان",
+        "hover_text": "الانتخابات الرئاسية في تايوان لعام 2024",
+        "share_text": "الانتخابات الرئاسية في تايوان ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Թայվանի նախագահական ընտրություններ",
+        "hover_text": "Թայվանի նախագահական ընտրություններ 2024",
+        "share_text": "Թայվանի նախագահական ընտրություններ #GoogleDoodle"
+      },
+      "az": {
+        "query": "Tayvan Prezident Seçkiləri",
+        "hover_text": "2024 Tayvan Prezident Seçkiləri",
+        "share_text": "Tayvan Prezident Seçkiləri! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "তাইওয়ানের রাষ্ট্রপতি নির্বাচন",
+        "hover_text": "তাইওয়ানের রাষ্ট্রপতি নির্বাচন ২০২৪",
+        "share_text": "তাইওয়ানের রাষ্ট্রপতি নির্বাচন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Taiwango lehendakaritza-hauteskundeak",
+        "hover_text": "2024ko Taiwango lehendakaritza-hauteskundeak",
+        "share_text": "Taiwango lehendakaritza-hauteskundeak #GoogleDoodle"
+      },
+      "be": {
+        "query": "Выбары прэзідэнта Тайваня",
+        "hover_text": "Выбары прэзідэнта Тайваня 2024",
+        "share_text": "Выбары прэзідэнта Тайваня! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Predsjednički izbori u Tajvanu",
+        "hover_text": "Predsjednički izbori u Tajvanu 2024.",
+        "share_text": "Predsjednički izbori u Tajvanu! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Taiwan Presidential Elections",
+        "hover_text": "Taiwan Presidential Elections 2024",
+        "share_text": "Taiwan Presidential Elections! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Президентски избори в Тайван",
+        "hover_text": "Президентски избори в Тайван 2024 г.",
+        "share_text": "Президентски избори в Тайван! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ထိုင်ဝမ်နိုင်ငံ သမ္မတရွေးကောက်ပွဲများ",
+        "hover_text": "၂၀၂၄ ထိုင်ဝမ်နိုင်ငံ သမ္မတရွေးကောက်ပွဲများ",
+        "share_text": "ထိုင်ဝမ်နိုင်ငံ သမ္မတရွေးကောက်ပွဲများ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Eleccions presidencials a Taiwan",
+        "hover_text": "Eleccions presidencials a Taiwan 2024",
+        "share_text": "Eleccions presidencials a Taiwan #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "台灣總統選舉",
+        "hover_text": "2024 年台灣總統選舉",
+        "share_text": "台灣總統選舉！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "台灣總統大選",
+        "hover_text": "台灣總統大選",
+        "share_text": "台灣總統大選! #GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "台湾大选",
+        "hover_text": "2024 年台湾大选",
+        "share_text": "台湾大选！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Predsjednički izbori na Tajvanu",
+        "hover_text": "Predsjednički izbori na Tajvanu 2024.",
+        "share_text": "Predsjednički izbori na Tajvanu! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Tchajwanské prezidentské volby",
+        "hover_text": "Tchajwanské prezidentské volby 2024",
+        "share_text": "Konají se tchajwanské prezidentské volby! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Præsidentvalg i Taiwan",
+        "hover_text": "Præsidentvalg i Taiwan 2024",
+        "share_text": "Præsidentvalg i Taiwan #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Presidentsverkiezingen Taiwan",
+        "hover_text": "Presidentsverkiezingen Taiwan 2024",
+        "share_text": "Presidentsverkiezingen Taiwan! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Taiwani presidendivalimised",
+        "hover_text": "Taiwani 2024. aasta presidendivalimised",
+        "share_text": "Taiwani presidendivalimised! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Taiwanin presidentinvaalit",
+        "hover_text": "Taiwanin presidentinvaalit 2024",
+        "share_text": "Taiwanin presidentinvaalit #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Élections présidentielles à Taïwan",
+        "hover_text": "Élections présidentielles 2024 à Taïwan",
+        "share_text": "Élections présidentielles à Taïwan ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Élections présidentielles à Taïwan",
+        "hover_text": "Élections présidentielles de 2024 à Taïwan",
+        "share_text": "Élections présidentielles à Taïwan! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Eleccións presidenciais de Taiwán",
+        "hover_text": "Eleccións presidenciais de Taiwán 2024",
+        "share_text": "Eleccións presidenciais de Taiwán! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ტაივანის საპრეზიდენტო არჩევნები",
+        "hover_text": "ტაივანის საპრეზიდენტო არჩევნები — 2024",
+        "share_text": "ტაივანის საპრეზიდენტო არჩევნები! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Präsidentschaftswahl in Taiwan",
+        "hover_text": "Präsidentschaftswahl in Taiwan 2024",
+        "share_text": "Präsidentschaftswahl in Taiwan! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Προεδρικές εκλογές της Ταϊβάν",
+        "hover_text": "Προεδρικές εκλογές στην Ταϊβάν 2024",
+        "share_text": "Προεδρικές εκλογές της Ταϊβάν! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "તાઇવાનની પ્રમુખપદની ચૂંટણીઓ",
+        "hover_text": "તાઇવાનની પ્રમુખપદની ચૂંટણીઓ 2024",
+        "share_text": "તાઇવાનની પ્રમુખપદની ચૂંટણીઓ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "בחירות לנשיאות בטייוואן",
+        "hover_text": "הבחירות לנשיאות בטייוואן 2024",
+        "share_text": "הבחירות לנשיאות בטייוואן GoogleDoodle#"
+      },
+      "hi": {
+        "query": "ताइवान के राष्ट्रपति का चुनाव",
+        "hover_text": "ताइवान का राष्ट्रपति चुनाव 2024",
+        "share_text": "ताइवान के राष्ट्रपति का चुनाव! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Elnökválasztás Tajvanon",
+        "hover_text": "Elnökválasztás Tajvanon, 2024",
+        "share_text": "Elnökválasztás Tajvanon! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Forsetakosningar í Taívan",
+        "hover_text": "Forsetakosningar í Taívan 2024",
+        "share_text": "Forsetakosningar í Taívan! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Pemilu Presiden Taiwan",
+        "hover_text": "Pemilu Presiden Taiwan 2024",
+        "share_text": "Pemilu Presiden Taiwan #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Elezioni presidenziali a Taiwan",
+        "hover_text": "Elezioni presidenziali 2024 a Taiwan",
+        "share_text": "Elezioni presidenziali a Taiwan! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "台湾総統選挙",
+        "hover_text": "2024 年台湾総統選挙",
+        "share_text": "台湾総統選挙！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ತೈವಾನ್ ಅಧ್ಯಕ್ಷೀಯ ಚುನಾವಣೆಗಳು",
+        "hover_text": "ತೈವಾನ್ ಅಧ್ಯಕ್ಷೀಯ ಚುನಾವಣೆಗಳು 2024",
+        "share_text": "ತೈವಾನ್ ಅಧ್ಯಕ್ಷೀಯ ಚುನಾವಣೆಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Тайуандағы президент сайлауы",
+        "hover_text": "Тайуандағы президент сайлауы — 2024",
+        "share_text": "Тайуандағы президент сайлауы #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការបោះឆ្នោតជ្រើសរើសប្រធានាធិបតីតៃវ៉ាន់",
+        "hover_text": "ការបោះឆ្នោតជ្រើសរើសប្រធានាធិបតីតៃវ៉ាន់ឆ្នាំ 2024",
+        "share_text": "ការបោះឆ្នោតជ្រើសរើសប្រធានាធិបតីតៃវ៉ាន់! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "타이완 대통령 선거",
+        "hover_text": "2024년 타이완 대통령 선거",
+        "share_text": "타이완 대통령 선거 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Тайвандагы Президенттик шайлоо",
+        "hover_text": "Тайвандагы Президенттик шайлоо – 2024",
+        "share_text": "Тайвандагы Президенттик шайлоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ການເລືອກຕັ້ງປະທານາທິບໍດີໄຕ້ຫວັນ",
+        "hover_text": "ວັນເລືອກຕັ້ງປະທານາທິບໍດີໄຕ້ຫວັນປີ 2024",
+        "share_text": "ການເລືອກຕັ້ງປະທານາທິບໍດີໄຕ້ຫວັນ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Elecciones presidenciales de Taiwán",
+        "hover_text": "Elecciones presidenciales de Taiwán 2024",
+        "share_text": "Elecciones presidenciales de Taiwán #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Prezidenta vēlēšanas Taivānā",
+        "hover_text": "Prezidenta vēlēšanas Taivānā — 2024",
+        "share_text": "Prezidenta vēlēšanas Taivānā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Taivano prezidento rinkimai",
+        "hover_text": "Taivano prezidento rinkimai, 2024 m.",
+        "share_text": "Taivano prezidento rinkimai! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Претседателски избори во Тајван",
+        "hover_text": "Претседателски избори во Тајван, 2024 г.",
+        "share_text": "Претседателски избори во Тајван! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Pilihan Raya Presiden Taiwan",
+        "hover_text": "Pilihan Raya Presiden Taiwan 2024",
+        "share_text": "Pilihan Raya Presiden Taiwan! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "തായ്‌വാൻ പ്രസിഡന്റ് തിരഞ്ഞെടുപ്പ്",
+        "hover_text": "തായ്‌വാൻ പ്രസിഡന്റ് തിരഞ്ഞെടുപ്പ് 2024",
+        "share_text": "തായ്‌വാൻ പ്രസിഡന്റ് തിരഞ്ഞെടുപ്പ്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "तैवानच्या अध्यक्षीय निवडणुका",
+        "hover_text": "तैवानच्या राष्ट्राध्यक्षीय निवडणुका २०२४",
+        "share_text": "तैवानच्या अध्यक्षीय निवडणुका! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Тайваний ерөнхийлөгчийн сонгууль",
+        "hover_text": "2024 оны Тайваний ерөнхийлөгчийн сонгууль",
+        "share_text": "Тайваний ерөнхийлөгчийн сонгууль! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "ताइवानको राष्ट्रपतीय निर्वाचन",
+        "hover_text": "ताइवानको राष्ट्रपतीय निर्वाचन २०२४",
+        "share_text": "ताइवानको राष्ट्रपतीय निर्वाचन! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Presidentvalget i Taiwan",
+        "hover_text": "Presidentvalget i Taiwan 2024",
+        "share_text": "Presidentvalget i Taiwan! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "انتخابات ریاست جمهوری تایوان",
+        "hover_text": "انتخابات ریاست جمهوری تایوان ۲۰۲۴",
+        "share_text": "انتخابات ریاست جمهوری تایوان! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Wybory prezydenckie w Tajwanie",
+        "hover_text": "Wybory prezydenckie 2024 w Tajwanie",
+        "share_text": "Wybory prezydenckie w Tajwanie #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Eleições presidenciais de Taiwan",
+        "hover_text": "Eleições presidenciais de Taiwan 2024",
+        "share_text": "Eleições presidenciais de Taiwan #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Eleições Presidenciais de Taiwan",
+        "hover_text": "Eleições Presidenciais de Taiwan de 2024",
+        "share_text": "Eleições Presidenciais de Taiwan! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਤਾਈਵਾਨ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਦੀਆਂ ਚੋਣਾਂ",
+        "hover_text": "ਤਾਈਵਾਨ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਦੀਆਂ ਚੋਣਾਂ 2024",
+        "share_text": "ਤਾਈਵਾਨ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਦੀਆਂ ਚੋਣਾਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Alegeri prezidențiale în Taiwan",
+        "hover_text": "Alegeri prezidențiale în Taiwan – 2024",
+        "share_text": "Alegeri prezidențiale în Taiwan! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Президентские выборы на Тайване",
+        "hover_text": "Президентские выборы на Тайване – 2024",
+        "share_text": "Президентские выборы на Тайване #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Председнички избори на Тајвану",
+        "hover_text": "Председнички избори на Тајвану 2024.",
+        "share_text": "Председнички избори на Тајвану! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Predsednički izbori na Tajvanu",
+        "hover_text": "Predsednički izbori na Tajvanu 2024.",
+        "share_text": "Predsednički izbori na Tajvanu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "තායිවාන ජනාධිපතිවරණ මැතිවරණය",
+        "hover_text": "තායිවාන ජනාධිපතිවරණ මැතිවරණය 2024",
+        "share_text": "තායිවාන ජනාධිපතිවරණ මැතිවරණය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Prezidentské voľby na Taiwane",
+        "hover_text": "Prezidentské voľby na Taiwane 2024",
+        "share_text": "Prezidentské voľby na Taiwane. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Predsedniške volitve na Tajvanu",
+        "hover_text": "Predsedniške volitve na Tajvanu 2024",
+        "share_text": "Predsedniške volitve na Tajvanu! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Elecciones presidenciales en Taiwán",
+        "hover_text": "Elecciones presidenciales de Taiwán 2024",
+        "share_text": "Elecciones presidenciales en Taiwán #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Uchaguzi wa Urais wa Taiwani",
+        "hover_text": "Uchaguzi wa Urais wa Taiwani 2024",
+        "share_text": "Uchaguzi wa Urais wa Taiwani! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Presidentval i Taiwan",
+        "hover_text": "Presidentval i Taiwan 2024",
+        "share_text": "Presidentval i Taiwan #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "தைவான் அதிபர் தேர்தல்கள்",
+        "hover_text": "தைவான் அதிபர் தேர்தல்கள் 2024",
+        "share_text": "தைவான் அதிபர் தேர்தல்கள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "తైవాన్ అధ్యక్ష ఎన్నికలు",
+        "hover_text": "తైవాన్ అధ్యక్ష ఎన్నికలు 2024",
+        "share_text": "తైవాన్ అధ్యక్ష ఎన్నికలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันเลือกตั้งประธานาธิบดีไต้หวัน",
+        "hover_text": "วันเลือกตั้งประธานาธิบดีไต้หวันปี 2024",
+        "share_text": "วันเลือกตั้งประธานาธิบดีไต้หวัน #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Tayvan Başkanlık Seçimleri",
+        "hover_text": "2024 Tayvan Başkanlık Seçimleri",
+        "share_text": "Tayvan başkanlık seçimleri. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Президентські вибори в Тайвані",
+        "hover_text": "Президентські вибори в Тайвані у 2024 році",
+        "share_text": "Президентські вибори в Тайвані! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "تائیوان کے صدارتی انتخابات",
+        "hover_text": "تائیوان کے صدارتی انتخابات 2024",
+        "share_text": "تائیوان کے صدارتی انتخابات! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Tayvanda prezidentlik saylovi",
+        "hover_text": "Tayvanda prezidentlik saylovi 2024",
+        "share_text": "Tayvanda prezidentlik saylovi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Bầu cử tổng thống Đài Loan",
+        "hover_text": "Bầu cử tổng thống Đài Loan năm 2024",
+        "share_text": "Bầu cử tổng thống Đài Loan! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ukhetho Lukamongameli lwase-Taiwan",
+        "hover_text": "Ukhetho Lukamongameli lwaseTaiwan lwango-2024",
+        "share_text": "Ukhetho Lukamongameli lwase-Taiwan! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Taiwan Presidential Elections",
+    "share_text": "Taiwan Presidential Elections! #GoogleDoodle"
+  },
+  {
+    "name": "teachers-day-2024-jan-12",
+    "title": "Teachers' Day 2024 (Jan 12)",
+    "url": "//www.google.com/logos/doodles/2024/teachers-day-2024-jan-12-6753651837110418-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/wOvUfDbarohIIsMV6k9DCT12LLa7FofrtVXSHEnmW62l37wMrlhZGGA0Kd3ehcCunPUyU19F5PzTICnGbm1_ODFnXCkhwT71gqHTOpfuJrwCkITOuH3-",
+    "high_res_url": "//www.google.com/logos/doodles/2024/teachers-day-2024-jan-12-6753651837110418-2xa.gif",
+    "high_res_width": 920,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      1,
+      12
+    ],
+    "translations": {
+      "en": {
+        "query": "Teachers' Day",
+        "hover_text": "Teachers' Day 2024",
+        "share_text": "Happy Teachers' Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Onderwysersdag",
+        "hover_text": "Onderwysersdag 2024",
+        "share_text": "Gelukkige Onderwysersdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Mësuesit 2019",
+        "hover_text": "Dita e Mësuesit, 2024",
+        "share_text": "Gëzuar Ditën e Mësuesit! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአስተማሪዎች ቀን",
+        "hover_text": "የመምህራን ቀን 2024",
+        "share_text": "መልካም የአስተማሪዎች ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "يوم المعلِّم",
+        "hover_text": "عيد المعلّم 2024",
+        "share_text": "نتمنّى عيدًا سعيدًا للمعلّمين. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ուսուցչի օր",
+        "hover_text": "Ուսուցիչների օր 2024",
+        "share_text": "Շնորհավո՛ր ուսուցիչների օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Müəllimlər Günü",
+        "hover_text": "2024 Müəllimlər Günü",
+        "share_text": "Müəllimlər Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "শিক্ষক দিবস",
+        "hover_text": "শিক্ষক দিবস ২০২৪",
+        "share_text": "শিক্ষক দিবসের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Irakasleen Eguna",
+        "hover_text": "2024ko Irakasleen Eguna",
+        "share_text": "Irakasleen Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень настаўніка",
+        "hover_text": "Дзень настаўніка 2024",
+        "share_text": "З Днём настаўніка! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nastavnika",
+        "hover_text": "Dan nastavnika 2024.",
+        "share_text": "Sretan Dan nastavnika! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Teachers' Day",
+        "hover_text": "Teachers' Day 2024",
+        "share_text": "Happy Teachers' Day! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на учителя",
+        "hover_text": "Ден на учителя 2024 г.",
+        "share_text": "Честит Ден на учителя! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဆရာများနေ့",
+        "hover_text": "၂၀၂၄ ဆရာများနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် ဆရာများနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia del Mestre",
+        "hover_text": "Dia del Mestre 2024",
+        "share_text": "Feliç Dia del Mestre! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "教師日",
+        "hover_text": "2024 年教師日",
+        "share_text": "教師日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "教師節",
+        "hover_text": "2024 年教師節",
+        "share_text": "教師節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "教师节",
+        "hover_text": "2024 年教师节",
+        "share_text": "教师节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan učitelja",
+        "hover_text": "Dan učitelja 2024.",
+        "share_text": "Sretan Dan učitelja! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den učitelů",
+        "hover_text": "Den učitelů 2024",
+        "share_text": "Veselý Den učitelů! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Lærernes dag",
+        "hover_text": "Lærernes dag 2024",
+        "share_text": "Glædelig lærernes dag! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Lerarendag",
+        "hover_text": "Dag van de Leraar 2024",
+        "share_text": "Fijne Lerarendag! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Õpetajate päev",
+        "hover_text": "2024. aasta õpetajate päev",
+        "share_text": "Head õpetajatepäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Opettajien päivä",
+        "hover_text": "Opettajien päivä 2024",
+        "share_text": "Hyvää opettajien päivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Journée des professeurs",
+        "hover_text": "Fête des professeurs 2024",
+        "share_text": "Bonne fête des professeurs ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête des professeurs",
+        "hover_text": "Fête des enseignants 2024",
+        "share_text": "Joyeuse fête des enseignants! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día do Mestre",
+        "hover_text": "Día do Mestre 2024",
+        "share_text": "Feliz Día do Mestre! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მასწავლებლის დღე",
+        "hover_text": "მასწავლებლის დღე — 2024",
+        "share_text": "გილოცავთ მასწავლებლის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Lehrertag",
+        "hover_text": "Tag der Lehrer 2024",
+        "share_text": "Alles Gute zum Tag der Lehrer! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα των Εκπαιδευτικών",
+        "hover_text": "Ημέρα των Εκπαιδευτικών 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα των Εκπαιδευτικών! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "શિક્ષક દિવસ",
+        "hover_text": "શિક્ષક દિવસ 2024",
+        "share_text": "શિક્ષક દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום המורים",
+        "hover_text": "יום המורה 2024",
+        "share_text": "יום המורה שמח! ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "शिक्षक दिवस",
+        "hover_text": "शिक्षक दिवस 2024",
+        "share_text": "शिक्षक दिवस की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Pedagógusnap",
+        "hover_text": "Pedagógusnap, 2024",
+        "share_text": "Boldog pedagógusnapot! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Kennaradagurinn",
+        "hover_text": "Kennaradagurinn 2024",
+        "share_text": "Gleðilegan kennaradag! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Guru",
+        "hover_text": "Hari Guru 2024",
+        "share_text": "Selamat Hari Guru! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá na Múinteoirí",
+        "hover_text": null,
+        "share_text": "Lá na Múinteoirí faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa degli insegnanti",
+        "hover_text": "Festa degli insegnanti 2024",
+        "share_text": "Buona festa degli insegnanti! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "教師の日",
+        "hover_text": "2024 年教師の日",
+        "share_text": "教師の日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಶಿಕ್ಷಕರ ದಿನಾಚರಣೆ",
+        "hover_text": "ಶಿಕ್ಷಕರ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಶಿಕ್ಷಕರ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Мұғалімдер күні",
+        "hover_text": "Мұғалімдер күні – 2024",
+        "share_text": "Мұғалімдер күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​គ្រូបង្រៀន",
+        "hover_text": "ទិវា​គ្រូបង្រៀន​ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​គ្រូបង្រៀន! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "스승의 날",
+        "hover_text": "2024년 교사의 날",
+        "share_text": "스승의 날 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Мугалимдер күнү",
+        "hover_text": "Мугалимдер күнү – 2024",
+        "share_text": "Мугалимдер күнүңүз менен! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຄູ",
+        "hover_text": "ວັນຄູປີ 2024",
+        "share_text": "ສຸກສັນວັນຄູ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día del Maestro",
+        "hover_text": "Día del Maestro 2024",
+        "share_text": "¡Feliz Día del Maestro! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Skolotāju diena",
+        "hover_text": "Skolotāju diena — 2024",
+        "share_text": "Sveicam Skolotāju dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Mokytojų diena",
+        "hover_text": "Mokytojų diena, 2024 m.",
+        "share_text": "Linksmos Mokytojų dienos! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на наставниците",
+        "hover_text": "Ден на наставниците, 2024 г.",
+        "share_text": "Среќен ден на наставниците! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Andron'ny mpampianatra",
+        "hover_text": null,
+        "share_text": "Tsarà Andron'ny mpampianatra ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Guru",
+        "hover_text": "Hari Guru 2024",
+        "share_text": "Selamat Hari Guru! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "അദ്ധ്യാപകദിനം",
+        "hover_text": "അദ്ധ്യാപക ദിനം 2024",
+        "share_text": "അദ്ധ്യാപക ദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "शिक्षक दिन",
+        "hover_text": "शिक्षकदिन २०२४",
+        "share_text": "शिक्षक दिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Багш нарын баяр",
+        "hover_text": "2024 оны Багш нарын баярын өдөр",
+        "share_text": "Багш нарын баярын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "शिक्षक दिवस",
+        "hover_text": "शिक्षक दिवस २०२४",
+        "share_text": "शिक्षक दिवस शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Lærernes dag",
+        "hover_text": "Lærernes dag 2024",
+        "share_text": "Gratulerer med lærernes dag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଗୁରୁ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ଗୁରୁ ଦିବସର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز معلم",
+        "hover_text": "روز معلم ۲۰۲۴",
+        "share_text": "روز معلم مبارک! #GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Nauczyciela",
+        "hover_text": "Dzień Nauczyciela 2024",
+        "share_text": "Szczęśliwego Dnia Nauczyciela! #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia do Professor",
+        "hover_text": "Dia dos Professores 2024",
+        "share_text": "Feliz Dia do Professor! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia dos Professores",
+        "hover_text": "Dia dos Professores de 2024",
+        "share_text": "Feliz dia do professor! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਅਧਿਆਪਕ ਦਿਵਸ",
+        "hover_text": "ਅਧਿਆਪਕ ਦਿਵਸ 2024",
+        "share_text": "ਅਧਿਆਪਕ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua profesorului",
+        "hover_text": "Ziua Profesorilor – 2024",
+        "share_text": "La mulți ani de Ziua Profesorului! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День учителя",
+        "hover_text": "День учителя – 2024",
+        "share_text": "День учителя #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан учитеља",
+        "hover_text": "Дан учитеља 2024.",
+        "share_text": "Срећан Дан учитеља! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan učitelja",
+        "hover_text": "Dan učitelja 2024.",
+        "share_text": "Srećan Dan učitelja! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Ansenyan",
+        "hover_text": null,
+        "share_text": "Bonn fet asennyan! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ගුරු දිනය",
+        "hover_text": "ගුරු දිනය 2024",
+        "share_text": "ප්‍රීතිමත් ගුරු දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň učiteľov",
+        "hover_text": "Deň učiteľov 2024",
+        "share_text": "Šťastný Deň učiteľov! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan učiteljev",
+        "hover_text": "Dan učiteljev 2024",
+        "share_text": "Vesel dan učiteljev! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Macalimiinta",
+        "hover_text": null,
+        "share_text": "Maalinta Macalinka oo Farxada leh! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Barutis",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Barutisi la 2021! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día del Maestro",
+        "hover_text": "Día del Maestro 2024",
+        "share_text": "¡Feliz Día del Maestro! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Walimu",
+        "hover_text": "Siku ya Walimu 2024",
+        "share_text": "Heri za Sikukuu ya Walimu! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Lärarnas dag",
+        "hover_text": "Lärarnas dag 2024",
+        "share_text": "Vi firar lärarnas dag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஆசிரியர் தினம்",
+        "hover_text": "ஆசிரியர் தினம் 2024",
+        "share_text": "ஆசிரியர் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఉపాధ్యాయుల దినోత్సవం",
+        "hover_text": "ఉపాధ్యాయుల దినోత్సవం 2024",
+        "share_text": "ఉపాధ్యాయుల దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันครู",
+        "hover_text": "วันครูปี 2024",
+        "share_text": "สุขสันต์วันครู #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Barutabana",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Barutabana! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Öğretmenler Günü",
+        "hover_text": "2024 Öğretmenler Günü",
+        "share_text": "Öğretmenler Günü Kutlaması. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День учителя",
+        "hover_text": "День учителя у 2024 році",
+        "share_text": "З Днем учителя! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم اساتذہ",
+        "hover_text": "یوم اساتذہ 2024",
+        "share_text": "یوم اساتذہ مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Ustozlar kuni",
+        "hover_text": "Ustozlar kuni 2024",
+        "share_text": "Ustozlar kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Nhà giáo",
+        "hover_text": "Ngày Nhà giáo năm 2024",
+        "share_text": "Chúc mừng ngày Nhà giáo! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lothisha",
+        "hover_text": "Usuku Lothisha lwango-2024",
+        "share_text": "Sikufisela Usuku Oluhle Lothisha! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Teachers' Day",
+    "share_text": "Happy Teachers' Day! #GoogleDoodle"
+  },
+  {
     "name": "elizabeth-hastings-75th-birthday",
     "title": "Elizabeth Hastings 75th Birthday",
     "url": "//www.google.com/logos/doodles/2024/elizabeth-hastings-75th-birthday-6753651837110017.2-l.png",
@@ -14,7 +1012,7 @@
     ],
     "translations": {
       "en": {
-        "query": "Elizabeth Hastings Australia disability rights commisssioner",
+        "query": "Elizabeth Hastings Australia disability rights commissioner",
         "hover_text": "Elizabeth Hastings 75th Birthday",
         "share_text": "Elizabeth Hastings 75th Birthday! #GoogleDoodle"
       },
@@ -69,7 +1067,7 @@
         "share_text": "75 godina od rođenja Elizabethe Hastings! #GoogleDoodle"
       },
       "en-GB": {
-        "query": "Elizabeth Hastings Australia",
+        "query": "Elizabeth Hastings Australia disability rights commissioner",
         "hover_text": "Elizabeth Hastings's 75th birthday",
         "share_text": "Elizabeth Hastings's 75th birthday! #GoogleDoodle"
       },
@@ -495,7 +1493,7 @@
       }
     },
     "translated_blog_posts": {},
-    "query": "Elizabeth Hastings Australia disability rights commisssioner",
+    "query": "Elizabeth Hastings Australia disability rights commissioner",
     "share_text": "Elizabeth Hastings 75th Birthday! #GoogleDoodle"
   },
   {
