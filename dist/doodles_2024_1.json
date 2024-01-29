@@ -1,5 +1,504 @@
 [
   {
+    "name": "aminah-cendrakasihs-86th-birthday",
+    "title": "Aminah Cendrakasih's 86th Birthday",
+    "url": "//www.google.com/logos/doodles/2024/aminah-cendrakasihs-86th-birthday-6753651837110180.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/6hL3n_BJxf5fzsTqO-gkXqpS1nvmtDjWHfxm12BAEhHd-IIQYuk35ca8FyoIeusNknmWNGVv9NPIrqXQxaMhx5lpvsqZJARlrDz7uHB6hNhxCpTcB2hHLg",
+    "high_res_url": "//www.google.com/logos/doodles/2024/aminah-cendrakasihs-86th-birthday-6753651837110180.2-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2024,
+      1,
+      29
+    ],
+    "translations": {
+      "en": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "Aminah Cendrakasih's 86th Birthday",
+        "share_text": "Aminah Cendrakasih's 86th Birthday! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "Aminah Cendrakasih se 86e verjaarsdag",
+        "share_text": "Aminah Cendrakasih se 86e verjaarsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "86-vjetori i lindjes së Aminah Cendrakasih",
+        "share_text": "86-vjetori i lindjes së Aminah Cendrakasih! #GoogleDoodle"
+      },
+      "am": {
+        "query": "አሚናህ ቼንድራካሲህ",
+        "hover_text": "የአሚናህ ቼንድራካሲህ 86ኛ ልደት",
+        "share_text": "የአሚናህ ቼንድራካሲህ 86ኛ ልደት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "أمينة تجندراكاسيه",
+        "hover_text": "الذكرى 86 لميلاد \"أمينة تجندراكاسيه\"",
+        "share_text": "نحتفل اليوم بالذكرى 86 لميلاد \"أمينة تجندراكاسيه\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ամինահ Ճենդրակասիհ",
+        "hover_text": "Ամինահ Ճենդրակասիհի ծննդյան 86-ամյակը",
+        "share_text": "Ամինահ Ճենդրակասիհի ծննդյան 86-ամյակը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "Aminah Cendrakasih'in 86-cı ildönümü",
+        "share_text": "Aminah Cendrakasih'in 86-cı ildönümü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "আমিনা চেন্দ্রাকাসি",
+        "hover_text": "আমিনা চেন্দ্রাকাসির ৮৬তম জন্মদিন",
+        "share_text": "আমিনা চেন্দ্রাকাসির ৮৬তম জন্মদিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "Aminah Cendrakasihren jaiotzaren 86. urteurrena",
+        "share_text": "Aminah Cendrakasihren jaiotzaren 86. urteurrena #GoogleDoodle"
+      },
+      "be": {
+        "query": "Аміна Чэндракасіх",
+        "hover_text": "86 гадоў з дня нараджэння Аміны Чэндракасіх",
+        "share_text": "86 гадоў з дня нараджэння Аміны Чэндракасіх! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "86 godina od rođenja Aminah Cendrakasih",
+        "share_text": "86 godina od rođenja Aminah Cendrakasih! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "Aminah Cendrakasih's 86th birthday",
+        "share_text": "Aminah Cendrakasih's 86th birthday! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Амина Сендракасих",
+        "hover_text": "86 години от рождението на Амина Сендракасих",
+        "share_text": "86 години от рождението на Амина Сендракасих! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "Aminah Cendrakasih ၏ ၈၆ နှစ်မြောက်မွေးနေ့",
+        "share_text": "Aminah Cendrakasih ၏ ၈၆ နှစ်မြောက်မွေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "86è aniversari del naixement d'Aminah Cendrakasih",
+        "share_text": "86è aniversari del naixement d'Aminah Cendrakasih #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "Aminah Cendrakasih 誕辰 86 週年",
+        "share_text": "Aminah Cendrakasih 誕辰 86 週年！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "阿米娜森德拉卡西",
+        "hover_text": "阿米娜森德拉卡西 86 歲冥誕",
+        "share_text": "紀念阿米娜森德拉卡西 86 歲冥誕！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "Aminah Cendrakasih 诞辰 86 周年",
+        "share_text": "Aminah Cendrakasih 诞辰 86 周年！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "86. godišnjica rođenja Amine Cendrakasih",
+        "share_text": "86. godišnjica rođenja Amine Cendrakasih! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "86. výročí narození Aminah Cendrakasih",
+        "share_text": "86. výročí narození Aminah Cendrakasih! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "Aminah Cendrakasihs 86-års fødselsdag",
+        "share_text": "Aminah Cendrakasihs 86-års fødselsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "86e geboortedag van Aminah Cendrakasih",
+        "share_text": "De 86e geboortedag van Aminah Cendrakasih! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "Aminah Cendrakasih' 86. sünniaastapäev",
+        "share_text": "Aminah Cendrakasih' 86. sünniaastapäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "86 vuotta Aminah Cendrakasihin syntymästä",
+        "share_text": "86 vuotta Aminah Cendrakasihin syntymästä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "Il y a 86 ans naissait Aminah Cendrakasih",
+        "share_text": "86e anniversaire d'Aminah Cendrakasih #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "86ᵉ anniversaire de naissance d'Aminah Cendrakasih",
+        "share_text": "86ᵉ anniversaire de naissance d'Aminah Cendrakasih! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "86.º aniversario do nacemento de Aminah Cendrakasih",
+        "share_text": "86.º aniversario do nacemento de Aminah Cendrakasih! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ამინა ჩენდრაკასიჰი",
+        "hover_text": "86 წელი ამინა ჩენდრაკასიჰის დაბადებიდან",
+        "share_text": "86 წელი ამინა ჩენდრაკასიჰის დაბადებიდან! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "86. Geburtstag von Aminah Cendrakasih",
+        "share_text": "86. Geburtstag von Aminah Cendrakasih! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "86 χρόνια από τη γέννηση της Aminah Cendrakasih",
+        "share_text": "86 χρόνια από τη γέννηση της Aminah Cendrakasih! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "અમીના ચંદ્રાકાસી",
+        "hover_text": "અમીના ચંદ્રાકાસીનો 86મો જન્મદિવસ",
+        "share_text": "અમીના ચંદ્રાકાસીનો 86મો જન્મદિવસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "86 שנים להולדת אמינה סנדרקסי",
+        "share_text": "86 שנים להולדת אמינה סנדרקסי GoogleDoodle#"
+      },
+      "hi": {
+        "query": "अमीना चंद्राकासी",
+        "hover_text": "अमीना चंद्राकासी की 86वीं जयंती",
+        "share_text": "अमीना चंद्राकासी की 86वीं जयंती! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "Aminah Cendrakasih születésének 86. évfordulója",
+        "share_text": "Aminah Cendrakasih születésének 86. évfordulója. #GoogleDoodle"
+      },
+      "is": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "86 ár frá fæðingu Aminah Cendrakasih",
+        "share_text": "86 ár frá fæðingu Aminah Cendrakasih! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "Ulang Tahun Ke-86 Aminah Cendrakasih",
+        "share_text": "Ulang Tahun Ke-86 Aminah Cendrakasih #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "86° anniversario della nascita di Aminah Cendrakasih",
+        "share_text": "86° anniversario della nascita di Aminah Cendrakasih! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "アミナ・チェンドラカシ",
+        "hover_text": "アミナ・チェンドラカシ生誕 86 周年",
+        "share_text": "アミナ・チェンドラカシ生誕 86 周年#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಅಮಿನಾ ಟ್ಜೆಂಡ್ರಾಕಾಸಿಹ್",
+        "hover_text": "ಅಮಿನಾ ಟ್ಜೆಂಡ್ರಾಕಾಸಿಹ್ ಅವರ 86ನೇ ಜನ್ಮದಿನ",
+        "share_text": "ಅಮಿನಾ ಟ್ಜೆಂಡ್ರಾಕಾಸಿಹ್ ಅವರ 86ನೇ ಜನ್ಮದಿನ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Амина Тжендракаси",
+        "hover_text": "Амина Тжендракасидің 86 жылдығы",
+        "share_text": "Амина Тжендракасидің 86 жылдығы #GoogleDoodle"
+      },
+      "km": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "ខួបកំណើតគម្រប់ 86 ឆ្នាំរបស់ Aminah Cendrakasih",
+        "share_text": "ខួបកំណើតគម្រប់ 86 ឆ្នាំរបស់ Aminah Cendrakasih! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "Aminah Cendrakasih 탄생 86주년",
+        "share_text": "Aminah Cendrakasih 탄생 86주년 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Амина Чендракасих",
+        "hover_text": "Амина Чендракасихтин 86 жаш мааракеси",
+        "share_text": "Амина Чендракасихтин 86 жаш мааракеси! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 86 ປີຂອງ Aminah Cendrakasih",
+        "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 86 ປີຂອງ Aminah Cendrakasih! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "86º aniversario del nacimiento de Aminah Cendrakasih",
+        "share_text": "¡86º aniversario del nacimiento de Aminah Cendrakasih! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Amina Sendrakasiha",
+        "hover_text": "Aminas Sendrakasihas 86. dzimšanas diena",
+        "share_text": "Aminas Sendrakasihas 86. dzimšanas diena! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "86-osios Aminah Cendrakasih gimimo metinės",
+        "share_text": "86-osios Aminah Cendrakasih gimimo metinės! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "86. роденден на Aminah Cendrakasih",
+        "share_text": "86. роденден на Aminah Cendrakasih! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "Ulang Tahun Kelahiran Aminah Cendrakasih yang ke-86",
+        "share_text": "Ulang Tahun Kelahiran Aminah Cendrakasih yang ke-86! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "Aminah Cendrakasih-യുടെ 86-ാം ജന്മദിനം",
+        "share_text": "Aminah Cendrakasih-യുടെ 86-ാം ജന്മദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "अमीना चंद्राकासी",
+        "hover_text": "अमीना चंद्राकासी यांचा ८६ वा स्मृतिदिन",
+        "share_text": "अमीना चंद्राकासी यांचा ८६ वा स्मृतिदिन! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Амина Сендракаших",
+        "hover_text": "Амина Сендракашихын мэндэлсний 86 жилийн ой",
+        "share_text": "Амина Сендракашихын мэндэлсний 86 жилийн ой! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "Aminah Cendrakasih को ८६ औँ जन्मजयन्ती",
+        "share_text": "Aminah Cendrakasih को ८६ औँ जन्मजयन्ती! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "Aminah Cendrakasihs 86-årsdag",
+        "share_text": "Aminah Cendrakasihs 86-årsdag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "امینه سیندراکاسیه",
+        "hover_text": "هشتادوششمین زادروز امینه سیندراکاسیه",
+        "share_text": "هشتادوششمین زادروز امینه سیندراکاسیه! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "Aminah Cendrakasih – 86 rocznica urodzin",
+        "share_text": "Aminah Cendrakasih – 86 rocznica urodzin! #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "86º aniversário de Aminah Cendrakasih",
+        "share_text": "86º aniversário de Aminah Cendrakasih #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "86.º Aniversário de Aminah Cendrakasih",
+        "share_text": "86.º Aniversário de Aminah Cendrakasih! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "ਅਮੀਨਾ ਸੇਂਦਰਾਕਾਸੀ ਦਾ 86ਵਾਂ ਜਨਮਦਿਨ",
+        "share_text": "ਅਮੀਨਾ ਸੇਂਦਰਾਕਾਸੀ ਦਾ 86ਵਾਂ ਜਨਮਦਿਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "86 de ani de la nașterea lui Aminah Cendrakasih",
+        "share_text": "86 de ani de la nașterea lui Aminah Cendrakasih! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Аминах Чендракасих",
+        "hover_text": "86 лет со дня рождения Аминах Чендракасих",
+        "share_text": "86 лет со дня рождения Аминах Чендракасих #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Амина Цендракасих",
+        "hover_text": "86 година од рођења Амине Цендракасих",
+        "share_text": "86 година од рођења Амине Цендракасих! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Amina Cendrakasih",
+        "hover_text": "86 godina od rođenja Amine Cendrakasih",
+        "share_text": "86 godina od rođenja Amine Cendrakasih! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "අමිනා සෙන්ද්‍රකසිහ්",
+        "hover_text": "අමිනා සෙන්ද්‍රකසිහ්ගේ 86 වැනි උපන් දිනය",
+        "share_text": "අමිනා සෙන්ද්‍රකසිහ්ගේ 86 වැනි උපන් දිනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Aminah Cendrakasihová",
+        "hover_text": "86. výročie narodenia Aminah Cendrakasihovej",
+        "share_text": "86. výročie narodenia Aminah Cendrakasihovej. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "86. rojstni dan Aminah Cendrakasih",
+        "share_text": "86. rojstni dan Aminah Cendrakasih! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "86.º aniversario del nacimiento de Aminah Cendrakasih",
+        "share_text": "Hoy es el 86.º aniversario del nacimiento de Aminah Cendrakasih #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "Miaka 86 Tangu Kuzaliwa kwa Aminah Cendrakasih",
+        "share_text": "Miaka 86 Tangu Kuzaliwa kwa Aminah Cendrakasih! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "Aminah Cendrakasih 86 år",
+        "share_text": "Aminah Cendrakasih 86 år #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "அமினா சேந்திரகாசிஹ்",
+        "hover_text": "அமினா சேந்திரகாசிஹின் 86வது பிறந்தநாள்",
+        "share_text": "அமினா சேந்திரகாசிஹின் 86வது பிறந்தநாள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "అమీనా చంద్రకాశీ",
+        "hover_text": "అమీనా చంద్రకాశీ 86వ జయంతి",
+        "share_text": "అమీనా చంద్రకాశీ 86వ జయంతి! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "วันเกิดปีที่ 86 ของ Aminah Cendrakasih",
+        "share_text": "วันเกิดปีที่ 86 ของ Aminah Cendrakasih #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "Aminah Cendrakasih'in 86. Doğum Günü",
+        "share_text": "Aminah Cendrakasih'in 86. doğum gününü kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Аміна Чендракасіх",
+        "hover_text": "86 років від дня народження Аміни Чендракасіх",
+        "share_text": "86 років від дня народження Аміни Чендракасіх! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "Aminah Cendrakasih کی 86 ویں سالگرہ",
+        "share_text": "Aminah Cendrakasih کی 86 ویں سالگرہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "Aminah Cendrakasih tavalludining 86 yilligi",
+        "share_text": "Aminah Cendrakasih tavalludining 86 yilligi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Aminah Cendrakasih",
+        "hover_text": "Kỷ niệm 86 năm ngày sinh của Aminah Cendrakasih",
+        "share_text": "Kỷ niệm 86 năm ngày sinh của Aminah Cendrakasih! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Aminah Cendrakasih",
+        "hover_text": "Usuku Lokuzalwa luka-Aminah Cendrakasih Lweminyaka engu-86",
+        "share_text": "Usuku Lokuzalwa luka-Aminah Cendrakasih Lweminyaka engu-86! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Aminah Cendrakasih",
+    "share_text": "Aminah Cendrakasih's 86th Birthday! #GoogleDoodle"
+  },
+  {
     "name": "finland-presidential-elections-2024",
     "title": "Finland Presidential Elections 2024",
     "url": "//www.google.com/logos/doodles/2024/finland-presidential-elections-2024-6753651837110352.2-l.png",
@@ -19,112 +518,112 @@
         "share_text": "Finland Presidential Elections 2024 #GoogleDoodle"
       },
       "af": {
-        "query": "Finland se presidensiële verkiesing",
+        "query": null,
         "hover_text": "Finland se presidensiële verkiesing 2024",
         "share_text": "Finland se presidensiële verkiesing 2024 #GoogleDoodle"
       },
       "sq": {
-        "query": "Zgjedhjet presidenciale në Finlandë",
+        "query": null,
         "hover_text": "Zgjedhjet presidenciale në Finlandë, 2024",
         "share_text": "Zgjedhjet presidenciale në Finlandë, 2024 #GoogleDoodle"
       },
       "am": {
-        "query": "የፊንላንድ ፕሬዝዳንታዊ ምርጫዎች",
+        "query": null,
         "hover_text": "የፊንላንድ ፕሬዝዳንታዊ ምርጫዎች 2024",
         "share_text": "የፊንላንድ ፕሬዝዳንታዊ ምርጫዎች 2024 #GoogleDoodle"
       },
       "ar": {
-        "query": "الانتخابات الرئاسية في فنلندا",
+        "query": null,
         "hover_text": "الانتخابات الرئاسية في فنلندا لعام 2024",
         "share_text": "تجري اليوم الانتخابات الرئاسية في فنلندا لعام 2024. ‎#GoogleDoodle"
       },
       "hy": {
-        "query": "Ֆինլանդիայի նախագահական ընտրություններ",
+        "query": null,
         "hover_text": "Ֆինլանդիայի նախագահական ընտրություններ 2024",
         "share_text": "Ֆինլանդիայի նախագահական ընտրություններ 2024 #GoogleDoodle"
       },
       "az": {
-        "query": "Finlandiya prezident seçkiləri",
+        "query": null,
         "hover_text": "2024 Finlandiya Prezident Seçkiləri",
         "share_text": "2024 Finlandiya Prezident Seçkiləri #GoogleDoodle"
       },
       "bn": {
-        "query": "ফিনল্যান্ডের রাষ্ট্রপতি নির্বাচন",
+        "query": null,
         "hover_text": "ফিনল্যান্ডের রাষ্ট্রপতি নির্বাচন ২০২৪",
         "share_text": "ফিনল্যান্ডের রাষ্ট্রপতি নির্বাচন ২০২৪ #GoogleDoodle"
       },
       "eu": {
-        "query": "Finlandiako lehendakaritza-hauteskundeak",
+        "query": null,
         "hover_text": "2024ko Finlandiako lehendakaritza-hauteskundeak",
         "share_text": "2024ko Finlandiako lehendakaritza-hauteskundeak #GoogleDoodle"
       },
       "be": {
-        "query": "Выбары прэзідэнта Фінляндыі",
+        "query": null,
         "hover_text": "Выбары прэзідэнта Фінляндыі 2024",
         "share_text": "Выбары прэзідэнта Фінляндыі 2024 #GoogleDoodle"
       },
       "bs": {
-        "query": "Predsjednički izbori u Finskoj",
+        "query": null,
         "hover_text": "Predsjednički izbori u Finskoj 2024.",
         "share_text": "Predsjednički izbori u Finskoj 2024. #GoogleDoodle"
       },
       "en-GB": {
-        "query": "Finland presidential elections",
+        "query": null,
         "hover_text": "Finland presidential elections 2024",
         "share_text": "Finland presidential elections 2024 #GoogleDoodle"
       },
       "bg": {
-        "query": "Президентски избори във Финландия",
+        "query": null,
         "hover_text": "Президентски избори във Финландия 2024 г.",
         "share_text": "Президентски избори във Финландия 2024 г. #GoogleDoodle"
       },
       "my": {
-        "query": "ဖင်လန်နိုင်ငံ သမ္မတရွေးကောက်ပွဲများ",
+        "query": null,
         "hover_text": "၂၀၂၄ ဖင်လန်နိုင်ငံ သမ္မတရွေးကောက်ပွဲများ",
         "share_text": "၂၀၂၄ ဖင်လန်နိုင်ငံ သမ္မတရွေးကောက်ပွဲများ #GoogleDoodle"
       },
       "ca": {
-        "query": "Eleccions presidencials a Finlàndia",
+        "query": null,
         "hover_text": "Eleccions presidencials a Finlàndia 2024",
         "share_text": "Eleccions presidencials a Finlàndia 2024 #GoogleDoodle"
       },
       "zh-HK": {
-        "query": "芬蘭總統選舉",
+        "query": null,
         "hover_text": "2024 年芬蘭總統選舉",
         "share_text": "2024 年芬蘭總統選舉 #GoogleDoodle"
       },
       "zh-TW": {
-        "query": "芬蘭總統大選",
+        "query": null,
         "hover_text": "2024 年芬蘭總統大選",
         "share_text": "2024 年芬蘭總統大選 #GoogleDoodle"
       },
       "zh-CN": {
-        "query": "芬兰总统大选",
+        "query": null,
         "hover_text": "2024 年芬兰总统大选",
         "share_text": "2024 年芬兰总统大选 #GoogleDoodle"
       },
       "hr": {
-        "query": "Predsjednički izbori u Finskoj",
+        "query": null,
         "hover_text": "Predsjednički izbori u Finskoj 2024.",
         "share_text": "Predsjednički izbori u Finskoj 2024. #GoogleDoodle"
       },
       "cs": {
-        "query": "Finské prezidenské volby",
+        "query": null,
         "hover_text": "Finské prezidenské volby 2024",
         "share_text": "Finské prezidenské volby 2024 #GoogleDoodle"
       },
       "da": {
-        "query": "Præsidentvalg i Finland",
+        "query": null,
         "hover_text": "Præsidentvalg i Finland 2024",
         "share_text": "Præsidentvalg i Finland 2024 #GoogleDoodle"
       },
       "nl": {
-        "query": "Presidentsverkiezingen Finland",
+        "query": null,
         "hover_text": "Presidentsverkiezingen Finland 2024",
         "share_text": "Presidentsverkiezingen Finland 2024 #GoogleDoodle"
       },
       "et": {
-        "query": "Soome presidendivalimised",
+        "query": null,
         "hover_text": "Soome 2024. aasta presidendivalimised",
         "share_text": "Soome 2024. aasta presidendivalimised #GoogleDoodle"
       },
@@ -134,37 +633,37 @@
         "share_text": "Suomen presidentinvaali 2024 #GoogleDoodle"
       },
       "fr": {
-        "query": "Élections présidentielles en Finlande",
+        "query": null,
         "hover_text": "Élections présidentielles 2024 en Finlande",
         "share_text": "Élections présidentielles 2024 en Finlande #GoogleDoodle"
       },
       "fr-CA": {
-        "query": "Élections présidentielles en Finlande",
+        "query": null,
         "hover_text": "Élections présidentielles en Finlande 2024",
         "share_text": "Élections présidentielles en Finlande 2024 #GoogleDoodle"
       },
       "gl": {
-        "query": "Eleccións presidenciais de Finlandia",
+        "query": null,
         "hover_text": "Eleccións presidenciais de Finlandia 2024",
         "share_text": "Eleccións presidenciais de Finlandia 2024 #GoogleDoodle"
       },
       "ka": {
-        "query": "ფინეთის საპრეზიდენტო არჩევნები",
+        "query": null,
         "hover_text": "ფინეთის საპრეზიდენტო არჩევნები — 2024",
         "share_text": "ფინეთის საპრეზიდენტო არჩევნები — 2024 #GoogleDoodle"
       },
       "de": {
-        "query": "Präsidentschaftswahl in Finnland",
+        "query": null,
         "hover_text": "Präsidentschaftswahl in Finnland 2024",
         "share_text": "Präsidentschaftswahl in Finnland 2024 #GoogleDoodle"
       },
       "el": {
-        "query": "Προεδρικές εκλογές στη Φινλανδία",
+        "query": null,
         "hover_text": "Προεδρικές εκλογές στη Φινλανδία 2024",
         "share_text": "Προεδρικές εκλογές στη Φινλανδία 2024 #GoogleDoodle"
       },
       "gu": {
-        "query": "ફિનલૅન્ડની પ્રમુખપદની ચૂંટણીઓ",
+        "query": null,
         "hover_text": "ફિનલૅન્ડની પ્રમુખપદની ચૂંટણીઓ 2024",
         "share_text": "ફિનલૅન્ડની પ્રમુખપદની ચૂંટણીઓ 2024 #GoogleDoodle"
       },
@@ -174,27 +673,27 @@
         "share_text": ""
       },
       "iw": {
-        "query": "הבחירות לנשיאות בפינלנד",
+        "query": null,
         "hover_text": "הבחירות לנשיאות בפינלנד 2024",
         "share_text": "הבחירות לנשיאות בפינלנד 2024 ‎#GoogleDoodle"
       },
       "hi": {
-        "query": "फ़िनलैंड का राष्ट्रपति चुनाव",
+        "query": null,
         "hover_text": "फ़िनलैंड का राष्ट्रपति चुनाव 2024",
         "share_text": "फ़िनलैंड का राष्ट्रपति चुनाव 2024 #GoogleDoodle"
       },
       "hu": {
-        "query": "Elnökválasztás Finnországban",
+        "query": null,
         "hover_text": "Elnökválasztás Finnországban, 2024",
         "share_text": "Elnökválasztás Finnországban, 2024 #GoogleDoodle"
       },
       "is": {
-        "query": "Forsetakosningar í Finnlandi",
+        "query": null,
         "hover_text": "Forsetakosningar í Finnlandi 2024",
         "share_text": "Forsetakosningar í Finnlandi 2024 #GoogleDoodle"
       },
       "id": {
-        "query": "Pemilu Presiden Finlandia",
+        "query": null,
         "hover_text": "Pemilu Presiden Finlandia 2024",
         "share_text": "Pemilu Presiden Finlandia 2024 #GoogleDoodle"
       },
@@ -204,62 +703,62 @@
         "share_text": ""
       },
       "it": {
-        "query": "Elezioni presidenziali in Finlandia",
+        "query": null,
         "hover_text": "Elezioni presidenziali 2024 in Finlandia",
         "share_text": "Elezioni presidenziali 2024 in Finlandia #GoogleDoodle"
       },
       "ja": {
-        "query": "フィンランド大統領選挙",
+        "query": null,
         "hover_text": "2024 年フィンランド大統領選挙",
         "share_text": "2024 年フィンランド大統領選挙 #GoogleDoodle"
       },
       "kn": {
-        "query": "ಫಿನ್‌ಲ್ಯಾಂಡ್ ಅಧ್ಯಕ್ಷೀಯ ಚುನಾವಣೆಗಳು",
+        "query": null,
         "hover_text": "ಫಿನ್‌ಲ್ಯಾಂಡ್ ಅಧ್ಯಕ್ಷೀಯ ಚುನಾವಣೆಗಳು 2024",
         "share_text": "ಫಿನ್‌ಲ್ಯಾಂಡ್ ಅಧ್ಯಕ್ಷೀಯ ಚುನಾವಣೆಗಳು 2024 #GoogleDoodle"
       },
       "kk": {
-        "query": "Финляндиядағы президент сайлауы",
+        "query": null,
         "hover_text": "Финляндиядағы президент сайлауы — 2024",
         "share_text": "Финляндиядағы президент сайлауы — 2024 #GoogleDoodle"
       },
       "km": {
-        "query": "ការបោះឆ្នោតជ្រើសរើសប្រធានាធិបតីហ្វាំងឡង់",
+        "query": null,
         "hover_text": "ការបោះឆ្នោតជ្រើសរើសប្រធានាធិបតីហ្វាំងឡង់ឆ្នាំ 2024",
         "share_text": "ការបោះឆ្នោតជ្រើសរើសប្រធានាធិបតីហ្វាំងឡង់ឆ្នាំ 2024 #GoogleDoodle"
       },
       "ko": {
-        "query": "핀란드 대선",
+        "query": null,
         "hover_text": "2024년 핀란드 대선",
         "share_text": "2024년 핀란드 대선 #GoogleDoodle"
       },
       "ky": {
-        "query": "Финляндиядагы Президенттик шайлоо",
+        "query": null,
         "hover_text": "Финляндиядагы Президенттик шайлоо – 2024",
         "share_text": "Финляндиядагы Президенттик шайлоо – 2024 #GoogleDoodle"
       },
       "lo": {
-        "query": "ການເລືອກຕັ້ງປະທານາທິບໍດີຟິນແລນ",
+        "query": null,
         "hover_text": "ການເລືອກຕັ້ງປະທານາທິບໍດີຟິນແລນ 2024",
         "share_text": "ການເລືອກຕັ້ງປະທານາທິບໍດີຟິນແລນ 2024 #GoogleDoodle"
       },
       "es-419": {
-        "query": "Elecciones presidenciales de Finlandia",
+        "query": null,
         "hover_text": "Elecciones presidenciales de Finlandia 2024",
         "share_text": "Elecciones presidenciales de Finlandia 2024 #GoogleDoodle"
       },
       "lv": {
-        "query": "Prezidenta vēlēšanas Somijā",
+        "query": null,
         "hover_text": "Prezidenta vēlēšanas Somijā — 2024",
         "share_text": "Prezidenta vēlēšanas Somijā — 2024 #GoogleDoodle"
       },
       "lt": {
-        "query": "Suomijos prezidento rinkimai",
+        "query": null,
         "hover_text": "2024 m. Suomijos prezidento rinkimai",
         "share_text": "2024 m. Suomijos prezidento rinkimai #GoogleDoodle"
       },
       "mk": {
-        "query": "Претседателски избори во Финска",
+        "query": null,
         "hover_text": "Претседателски избори во Финска, 2024 г.",
         "share_text": "Претседателски избори во Финска, 2024 г. #GoogleDoodle"
       },
@@ -269,12 +768,12 @@
         "share_text": ""
       },
       "ms": {
-        "query": "Pilihan Raya Presiden Finland",
+        "query": null,
         "hover_text": "Pilihan Raya Presiden Finland 2024",
         "share_text": "Pilihan Raya Presiden Finland 2024 #GoogleDoodle"
       },
       "ml": {
-        "query": "ഫിൻലൻഡ് പ്രസിഡന്റ് തിരഞ്ഞെടുപ്പ്",
+        "query": null,
         "hover_text": "ഫിൻലൻഡ് പ്രസിഡന്റ് തിരഞ്ഞെടുപ്പ് 2024",
         "share_text": "ഫിൻലൻഡ് പ്രസിഡന്റ് തിരഞ്ഞെടുപ്പ് 2024 #GoogleDoodle"
       },
@@ -284,22 +783,22 @@
         "share_text": ""
       },
       "mr": {
-        "query": "फिनलँडच्या राष्ट्राध्यक्षीय निवडणुका",
+        "query": null,
         "hover_text": "फिनलँडच्या राष्ट्राध्यक्षीय निवडणुका २०२४",
         "share_text": "फिनलँडच्या राष्ट्राध्यक्षीय निवडणुका २०२४ #GoogleDoodle"
       },
       "mn": {
-        "query": "Финландын ерөнхийлөгчийн сонгууль",
+        "query": null,
         "hover_text": "2024 оны Финландын ерөнхийлөгчийн сонгууль",
         "share_text": "2024 оны Финландын ерөнхийлөгчийн сонгууль #GoogleDoodle"
       },
       "ne": {
-        "query": "फिनल्यान्डको राष्ट्रपतीय निर्वाचन",
+        "query": null,
         "hover_text": "फिनल्यान्डको राष्ट्रपतीय निर्वाचन २०२४",
         "share_text": "फिनल्यान्डको राष्ट्रपतीय निर्वाचन २०२४ #GoogleDoodle"
       },
       "no": {
-        "query": "Presidentvalget i Finland",
+        "query": null,
         "hover_text": "Presidentvalget i Finland 2024",
         "share_text": "Presidentvalget i Finland 2024 #GoogleDoodle"
       },
@@ -324,32 +823,32 @@
         "share_text": ""
       },
       "fa": {
-        "query": "انتخابات ریاست جمهوری فنلاند",
+        "query": null,
         "hover_text": "انتخابات ریاست جمهوری فنلاند ۲۰۲۴",
         "share_text": "انتخابات ریاست جمهوری فنلاند ۲۰۲۴ ‎#GoogleDoodle"
       },
       "pl": {
-        "query": "Wybory prezydenckie w Finlandii",
+        "query": null,
         "hover_text": "Wybory prezydenckie 2024 w Finlandii",
         "share_text": "Wybory prezydenckie 2024 w Finlandii #GoogleDoodle"
       },
       "pt-BR": {
-        "query": "Eleições presidenciais da Finlândia",
+        "query": null,
         "hover_text": "Eleições presidenciais da Finlândia 2024",
         "share_text": "Eleições presidenciais da Finlândia 2024 #GoogleDoodle"
       },
       "pt-PT": {
-        "query": "Eleições Presidenciais da Finlândia",
+        "query": null,
         "hover_text": "Eleições Presidenciais da Finlândia de 2024",
         "share_text": "Eleições Presidenciais da Finlândia de 2024 #GoogleDoodle"
       },
       "pa": {
-        "query": "ਫ਼ਿਨਲੈਂਡ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਦੀਆਂ ਚੋਣਾਂ",
+        "query": null,
         "hover_text": "ਫ਼ਿਨਲੈਂਡ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਦੀਆਂ ਚੋਣਾਂ 2024",
         "share_text": "ਫ਼ਿਨਲੈਂਡ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਦੀਆਂ ਚੋਣਾਂ 2024 #GoogleDoodle"
       },
       "ro": {
-        "query": "Alegeri prezidențiale în Finlanda",
+        "query": null,
         "hover_text": "Alegeri prezidențiale în Finlanda – 2024",
         "share_text": "Alegeri prezidențiale în Finlanda – 2024 #GoogleDoodle"
       },
@@ -359,17 +858,17 @@
         "share_text": ""
       },
       "ru": {
-        "query": "Президентские выборы в Финляндии",
+        "query": null,
         "hover_text": "Президентские выборы в Финляндии – 2024",
         "share_text": "Президентские выборы в Финляндии – 2024 #GoogleDoodle"
       },
       "sr": {
-        "query": "Председнички избори у Финској",
+        "query": null,
         "hover_text": "Председнички избори у Финској 2024.",
         "share_text": "Председнички избори у Финској 2024. #GoogleDoodle"
       },
       "sr-Latn": {
-        "query": "Predsednički izbori u Finskoj",
+        "query": null,
         "hover_text": "Predsednički izbori u Finskoj 2024.",
         "share_text": "Predsednički izbori u Finskoj 2024. #GoogleDoodle"
       },
@@ -389,17 +888,17 @@
         "share_text": ""
       },
       "si": {
-        "query": "ෆින්ලන්ත ජනාධිපතිවරණය",
+        "query": null,
         "hover_text": "ෆින්ලන්ත ජනාධිපතිවරණය 2024",
         "share_text": "ෆින්ලන්ත ජනාධිපතිවරණය 2024 #GoogleDoodle"
       },
       "sk": {
-        "query": "Fínske prezidentské voľby",
+        "query": null,
         "hover_text": "Fínske prezidentské voľby 2024",
         "share_text": "Fínske prezidentské voľby 2024 #GoogleDoodle"
       },
       "sl": {
-        "query": "Predsedniške volitve na Finskem",
+        "query": null,
         "hover_text": "Predsedniške volitve na Finskem 2024",
         "share_text": "Predsedniške volitve na Finskem 2024 #GoogleDoodle"
       },
@@ -414,12 +913,12 @@
         "share_text": ""
       },
       "es": {
-        "query": "Elecciones presidenciales de Finlandia",
+        "query": null,
         "hover_text": "Elecciones presidenciales de Finlandia 2024",
         "share_text": "Elecciones presidenciales de Finlandia 2024 #GoogleDoodle"
       },
       "sw": {
-        "query": "Uchaguzi wa Urais wa Ufini",
+        "query": null,
         "hover_text": "Uchaguzi wa Urais wa Ufini 2024",
         "share_text": "Uchaguzi wa Urais wa Ufini 2024 #GoogleDoodle"
       },
@@ -434,17 +933,17 @@
         "share_text": ""
       },
       "ta": {
-        "query": "ஃபின்லாந்து அதிபர் தேர்தல்கள்",
+        "query": null,
         "hover_text": "ஃபின்லாந்து அதிபர் தேர்தல்கள் 2024",
         "share_text": "ஃபின்லாந்து அதிபர் தேர்தல்கள் 2024 #GoogleDoodle"
       },
       "te": {
-        "query": "ఫిన్‌లాండ్ అధ్యక్ష ఎన్నికలు",
+        "query": null,
         "hover_text": "ఫిన్‌లాండ్ అధ్యక్ష ఎన్నికలు 2024",
         "share_text": "ఫిన్‌లాండ్ అధ్యక్ష ఎన్నికలు 2024 #GoogleDoodle"
       },
       "th": {
-        "query": "วันเลือกตั้งประธานาธิบดีฟินแลนด์",
+        "query": null,
         "hover_text": "วันเลือกตั้งประธานาธิบดีฟินแลนด์ปี 2024",
         "share_text": "วันเลือกตั้งประธานาธิบดีฟินแลนด์ปี 2024 #GoogleDoodle"
       },
@@ -454,7 +953,7 @@
         "share_text": ""
       },
       "tr": {
-        "query": "Finlandiya Başkanlık Seçimleri",
+        "query": null,
         "hover_text": "2024 Finlandiya Başkanlık Seçimleri",
         "share_text": "2024 Finlandiya başkanlık seçimleri. #GoogleDoodle"
       },
@@ -464,22 +963,22 @@
         "share_text": ""
       },
       "uk": {
-        "query": "Президентські вибори у Фінляндії",
+        "query": null,
         "hover_text": "Президентські вибори у Фінляндії у 2024 році",
         "share_text": "Президентські вибори у Фінляндії у 2024 році #GoogleDoodle"
       },
       "ur": {
-        "query": "فن لینڈ کے صدارتی انتخابات",
+        "query": null,
         "hover_text": "فن لینڈ کے صدارتی انتخابات 2024",
         "share_text": "فن لینڈ کے صدارتی انتخابات 2024 GoogleDoodle#"
       },
       "uz": {
-        "query": "Finlandiyada prezidentlik saylovi",
+        "query": null,
         "hover_text": "Finlandiyada prezidentlik saylovi 2024",
         "share_text": "Finlandiyada prezidentlik saylovi 2024 #GoogleDoodle"
       },
       "vi": {
-        "query": "Bầu cử tổng thống Phần Lan",
+        "query": null,
         "hover_text": "Bầu cử tổng thống Phần Lan năm 2024",
         "share_text": "Bầu cử tổng thống Phần Lan năm 2024 #GoogleDoodle"
       },
@@ -489,7 +988,7 @@
         "share_text": ""
       },
       "zu": {
-        "query": "Ukhetho Lukamongameli wase-Finland",
+        "query": null,
         "hover_text": "Ukhetho Lukamongameli lwase-Finland lwango-2024",
         "share_text": "Ukhetho Lukamongameli wase-Finland lwango-2024 #GoogleDoodle"
       }
