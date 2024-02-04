@@ -1,5 +1,504 @@
 [
   {
+    "name": "sri-lanka-independence-day-2024",
+    "title": "Sri Lanka Independence Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/sri-lanka-independence-day-2024-6753651837110184-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/XObkkRBU2V80C-pFI1ybetKfLwVcltaF0VMYn4fbmRWX_7kwlmIMY1VuIMNP5KJHP-L2QaBphXAOfEaim1ORBrqWMZ6tf0E-fB28C2zxODVNWcoUyyDMNQ",
+    "high_res_url": "//www.google.com/logos/doodles/2024/sri-lanka-independence-day-2024-6753651837110184-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      2,
+      4
+    ],
+    "translations": {
+      "en": {
+        "query": "Sri Lanka Independence Day",
+        "hover_text": "Sri Lanka Independence Day 2024",
+        "share_text": "Happy Independence Day, Sri Lanka! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Sri Lanka se onafhanklikheidsdag",
+        "hover_text": "Sri Lanka se onafhanklikheidsdag 2024",
+        "share_text": "Gelukkige onafhanklikheidsdag, Sri Lanka! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë së Sri-Lankës",
+        "hover_text": "Dita e Pavarësisë së Sri-Lankës, 2024",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Sri-Lankë! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የሽሪላንካ ነጻነት ቀን",
+        "hover_text": "የስሪላንካ የነፃነት ቀን 2024",
+        "share_text": "መልካም የነጻነት ቀን፣ ሽሪላንካ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال سريلانكا",
+        "hover_text": "عيد استقلال سريلانكا لعام 2024",
+        "share_text": "عيد استقلال سعيد لسريلانكا #GoogleDoodle"
+      },
+      "hy": {
+        "query": "Շրի Լանկայի անկախության օր",
+        "hover_text": "Շրի Լանկայի անկախության օր 2024",
+        "share_text": "Շնորհավո՛ր Շրի Լանկայի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Şri-Lankanın Müstəqillik Günü",
+        "hover_text": "2024 Şri-Lankanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Şri-Lanka! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "শ্রীলঙ্কার স্বাধীনতা দিবস",
+        "hover_text": "শ্রীলঙ্কার স্বাধীনতা দিবস ২০২৪",
+        "share_text": "স্বাধীনতা দিবসের শুভেচ্ছা, শ্রীলঙ্কা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Sri Lankako Independentzia Eguna",
+        "hover_text": "2024ko Sri Lankako Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Sri Lanka! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Шры-Ланкі",
+        "hover_text": "Дзень незалежнасці Шры-Ланкі – 2024",
+        "share_text": "З Днём незалежнасці, Шры-Ланка! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Šri Lanke",
+        "hover_text": "Dan nezavisnosti Šri Lanke 2024.",
+        "share_text": "Sretan Dan nezavisnosti, Šri Lanko! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Sri Lanka Independence Day",
+        "hover_text": "Sri Lanka Independence Day 2024",
+        "share_text": "Happy Independence Day, Sri Lanka! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Шри Ланка",
+        "hover_text": "Ден на независимостта на Шри Ланка 2024 г.",
+        "share_text": "Честит Ден на независимостта на Шри Ланка! #GoogleDoodle"
+      },
+      "my": {
+        "query": "သီရိလင်္ကာ လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ သီရိလင်္ကာနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ဖြစ်ပါစေ၊ သီရိလင်္ကာ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència de Sri Lanka",
+        "hover_text": "Dia de la Independència de Sri Lanka 2024",
+        "share_text": "Feliç Dia de la Independència, Sri Lanka! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "斯里蘭卡獨立日",
+        "hover_text": "2024 年斯里蘭卡獨立日",
+        "share_text": "斯里蘭卡，獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "斯里蘭卡獨立紀念日",
+        "hover_text": "2024 年斯里蘭卡獨立紀念日",
+        "share_text": "斯里蘭卡，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "斯里兰卡独立日",
+        "hover_text": "2024 年斯里兰卡独立日",
+        "share_text": "斯里兰卡，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Šri Lanke",
+        "hover_text": "Dan neovisnosti Šri Lanke 2024.",
+        "share_text": "Sretan Dan neovisnosti, Šri Lanka! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Srí Lanky",
+        "hover_text": "Den nezávislosti Srí Lanky 2024",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Srí Lanko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Sri Lankas uafhængighedsdag",
+        "hover_text": "Sri Lankas uafhængighedsdag 2024",
+        "share_text": "Glædelig uafhængighedsdag, Sri Lanka! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Sri Lanka",
+        "hover_text": "Onafhankelijkheidsdag Sri Lanka 2024",
+        "share_text": "Fijne Onafhankelijkheidsdag, Sri Lanka #GoogleDoodle"
+      },
+      "et": {
+        "query": "Sri Lanka iseseisvuspäev",
+        "hover_text": "Sri Lanka 2024. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Sri Lanka! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Sri Lankan itsenäisyyspäivä",
+        "hover_text": "Sri Lankan itsenäisyyspäivä 2024",
+        "share_text": "Hyvää itsenäisyyspäivää, Sri Lanka! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance du Sri Lanka",
+        "hover_text": "Fête de l'Indépendance du Sri Lanka 2024",
+        "share_text": "Fête de l'Indépendance du Sri Lanka ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête de l'indépendance du Sri Lanka",
+        "hover_text": "Fête de l'Indépendance du Sri Lanka 2024",
+        "share_text": "Joyeuse fête de l'indépendance, Sri Lanka! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Sri Lanka",
+        "hover_text": "Día da Independencia de Sri Lanka 2024",
+        "share_text": "Feliz Día da Independencia, Sri Lanka! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "შრი-ლანკის დამოუკიდებლობის დღე",
+        "hover_text": "შრი-ლანკის დამოუკიდებლობის დღე — 2024",
+        "share_text": "ვულოცავთ შრი-ლანკას დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Sri Lanka",
+        "hover_text": "Unabhängigkeitstag Sri Lanka 2024",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Sri Lanka! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας Σρι Λάνκα",
+        "hover_text": "Ημέρα Ανεξαρτησίας της Σρι Λάνκα 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας της Σρι Λάνκα! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "શ્રીલંકાનો સ્વતંત્રતા દિવસ",
+        "hover_text": "શ્રીલંકાનો સ્વતંત્રતા દિવસ 2024",
+        "share_text": "સ્વતંત્રતા દિવસની શુભેચ્છા, શ્રીલંકા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של סרי לנקה",
+        "hover_text": "יום העצמאות של סרי לנקה 2024",
+        "share_text": "יום עצמאות שמח, סרי לנקה! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "श्रीलंका का स्वतंत्रता दिवस",
+        "hover_text": "श्रीलंका का स्वतंत्रता दिवस 2024",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, श्रीलंका! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Srí Lanka függetlenségének napja",
+        "hover_text": "Srí Lanka függetlenségének napja, 2024",
+        "share_text": "Boldog függetlenség napját, Srí Lanka! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Srí Lanka",
+        "hover_text": "Sjálfstæðisdagur Srí Lanka 2024",
+        "share_text": "Gleðilegan sjálfstæðisdag, Srí Lanka! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Sri Lanka",
+        "hover_text": "Hari Kemerdekaan Sri Lanka 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Sri Lanka! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse Shrí Lanca",
+        "hover_text": null,
+        "share_text": "Lá Saoirse Shrí Lanca faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza dello Sri Lanka",
+        "hover_text": "Festa dell'indipendenza dello Sri Lanka 2024",
+        "share_text": "Buona festa dell'indipendenza, Sri Lanka! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "スリランカ独立記念日",
+        "hover_text": "2024 年スリランカ独立記念日",
+        "share_text": "スリランカ独立記念日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಶ್ರೀಲಂಕಾ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಶ್ರೀಲಂಕಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಶ್ರೀಲಂಕಾ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Шри-Ланканың тәуелсіздік күні",
+        "hover_text": "Шри-Ланканың Тәуелсіздік күні – 2024",
+        "share_text": "Тәуелсіздік күні құтты болсын, Шри-Ланка! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យ​ឯករាជ្យ​ជាតិស្រីលង្កា",
+        "hover_text": "ទិវា​បុណ្យ​ឯករាជ្យ​ជាតិស្រីលង្កាឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវាបុណ្យ​ឯករាជ្យ​ជាតិស្រីលង្កា! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "스리랑카 독립기념일",
+        "hover_text": "2024년 스리랑카 독립기념일",
+        "share_text": "스리랑카 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Шри-Ланканын Эгемендүүлүк күнү",
+        "hover_text": "Шри-Ланканын Эгемендүүлүк күнү – 2024",
+        "share_text": "Эгемендүүлүк күнүң менен, Шри-Ланка! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດສີລັງກາ",
+        "hover_text": "ວັນປະກາດເອກະລາດສີລັງກາ 2024",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດສີລັງກາ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Sri Lanka",
+        "hover_text": "Día de la Independencia de Sri Lanka 2024",
+        "share_text": "¡Feliz Día de la Independencia, Sri Lanka! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Šrilankas Neatkarības diena",
+        "hover_text": "Šrilankas Neatkarības diena — 2024",
+        "share_text": "Sveicam Neatkarības dienā, Šrilanka! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Šri Lankos nepriklausomybės diena",
+        "hover_text": "Šri Lankos nepriklausomybės diena, 2024 m.",
+        "share_text": "Sveikiname Šri Lanką su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Шри Ланка",
+        "hover_text": "Ден на независноста на Шри Ланка, 2024 г.",
+        "share_text": "Среќен Ден на независноста, Шри Ланка! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Sri Lanka",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny fahaleovantena ry Sri Lanka ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Sri Lanka",
+        "hover_text": "Hari Kemerdekaan Sri Lanka 2024",
+        "share_text": "Selamat Menyambut Hari Kemerdekaan, Sri Lanka! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ശ്രീലങ്കൻ സ്വാതന്ത്യദിനം",
+        "hover_text": "ശ്രീലങ്കൻ സ്വാതന്ത്ര്യദിനം 2024",
+        "share_text": "സ്വാതന്ത്ര്യ ദിനാശംസകൾ, ശ്രീലങ്ക! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "श्रीलंकेचा स्वातंत्र्यदिन",
+        "hover_text": "श्रीलंकेचा स्वातंत्र्यदिन २०२४",
+        "share_text": "स्वातंत्र्यदिनाच्या शुभेच्छा, श्रीलंका! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Шри Ланка улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2024 оны Шри Ланка Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Шри Ланка улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "श्रीलङ्काको स्वतन्त्रता दिवस",
+        "hover_text": "श्रीलङ्काको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, श्रीलङ्का! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Sri Lankas frigjøringsdag",
+        "hover_text": "Sri Lankas uavhengighetsdag 2024",
+        "share_text": "Gratulerer med frigjøringsdagen, Sri Lanka! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଶ୍ରୀଲଙ୍କା ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": null,
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, ଶ୍ରୀଲଙ୍କା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال سریلانکا",
+        "hover_text": "روز استقلال سریلانکا - ۲۰۲۴",
+        "share_text": "روز استقلال سریلانکا مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Niepodległości Sri Lanki",
+        "hover_text": "Dzień Niepodległości Sri Lanki 2024",
+        "share_text": "Sri Lanka obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência do Sri Lanka",
+        "hover_text": "Dia da Independência do Sri Lanka 2024",
+        "share_text": "Feliz Dia da Independência, Sri Lanka! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência do Sri Lanca",
+        "hover_text": "Dia da Independência do Seri Lanca de 2024",
+        "share_text": "Feliz dia da independência, Sri Lanca! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਸ੍ਰੀ ਲੰਕਾ ਦਾ ਸੁਤੰਤਰਤਾ ਦਿਵਸ",
+        "hover_text": "ਸ੍ਰੀਲੰਕਾ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2024",
+        "share_text": "ਸ੍ਰੀ ਲੰਕਾ ਦੇ ਸੁਤੰਤਰਤਾ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței în Sri Lanka",
+        "hover_text": "Ziua Independenței în Sri Lanka 2024",
+        "share_text": "La mulți ani de Ziua Independenței, Sri Lanka! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Шри-Ланки",
+        "hover_text": "День независимости Шри-Ланки – 2024",
+        "share_text": "День независимости Шри-Ланки #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Шри Ланке",
+        "hover_text": "Дан независности Шри Ланке 2024.",
+        "share_text": "Честитамо Дан независности Шри Ланки! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Šri Lanke",
+        "hover_text": "Dan nezavisnosti Šri Lanke 2024.",
+        "share_text": "Čestitamo Dan nezavisnosti Šri Lanki! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Lendepandans Sri Lanka",
+        "hover_text": null,
+        "share_text": "Bonn zournen lendepandans, Sri Lanka! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ශ්‍රී ලංකාවේ නිදහස් දිනය",
+        "hover_text": "ශ්‍රී ලංකාවේ නිදහස් දිනය 2024",
+        "share_text": "සුබ නිදහස් දිනයක්, ශ්‍රී ලංකාව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Srí Lanky",
+        "hover_text": "Deň nezávislosti Srí Lanky 2024",
+        "share_text": "Šťastný Deň nezávislosti, Srí Lanka! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Šrilanke",
+        "hover_text": "Dan neodvisnosti Šrilanke 2024",
+        "share_text": "Vesel dan neodvisnosti, Šrilanka. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madax banaanida Sri Lanka",
+        "hover_text": null,
+        "share_text": "Maalinta Madax banaanida Farxada leh, Sri Lanka! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la Sri Lanka",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Tokoloho la Sri Lanka! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Sri Lanka",
+        "hover_text": "Día de la Independencia de Sri Lanka 2024",
+        "share_text": "¡Feliz Día de la Independencia de Sri Lanka! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Sirilanka",
+        "hover_text": "Sikukuu ya Uhuru wa Sirilanka 2024",
+        "share_text": "Heri ya Sikukuu ya Uhuru wa Sirilanka! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Sri Lankas självständighetsdag",
+        "hover_text": "Sri Lankas självständighetsdag 2024",
+        "share_text": "Vi firar Sri Lankas självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "இலங்கையின் சுதந்திர தினம்",
+        "hover_text": "இலங்கையின் சுதந்திர தினம் 2024",
+        "share_text": "இலங்கையின் சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "శ్రీలంక స్వాతంత్ర్య దినోత్సవం",
+        "hover_text": "శ్రీలంక స్వాతంత్య్ర దినోత్సవం 2024",
+        "share_text": "స్వాతంత్ర్య దినోత్సవ శుభాకాంక్షలు, శ్రీలంక! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพศรีลังกา",
+        "hover_text": "วันประกาศอิสรภาพของศรีลังกาปี 2024",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพศรีลังกา #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipudo ls Sri Lanka",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, Sri Lanka! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Sri Lanka Bağımsızlık Günü",
+        "hover_text": "2024 Sri Lanka Bağımsızlık Günü",
+        "share_text": "Sri Lanka Bağımsızlık Günü Kutlaması. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Шрі-Ланки",
+        "hover_text": "День незалежності Шрі-Ланки у 2024 році",
+        "share_text": "З Днем незалежності, Шрі-Ланко! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "سری لنکا کا یوم آزادی",
+        "hover_text": "سری لنکا کا یوم آزادی 2024",
+        "share_text": "سری لنکا کا یوم آزادی مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Shri-Lanka mustaqillik kuni",
+        "hover_text": "Shri-Lanka Mustaqillik kuni 2024",
+        "share_text": "Mustaqillik kuning muborak, Shri-Lanka! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Quốc khánh Sri Lanka",
+        "hover_text": "Ngày Quốc khánh Sri Lanka năm 2024",
+        "share_text": "Mừng ngày Quốc khánh Sri Lanka! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lokuzimela lwase-Sri Lanka",
+        "hover_text": "Usuku lokuzimela lwase-Sri Lanka lwango-2024",
+        "share_text": "Sinifisela usuku lokuzimela oluhle, Sri Lanka! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Sri Lanka Independence Day",
+    "share_text": "Happy Independence Day, Sri Lanka! #GoogleDoodle"
+  },
+  {
     "name": "jose-guadalupe-posadas-172nd-birthday",
     "title": "José Guadalupe Posada's 172nd Birthday",
     "url": "//www.google.com/logos/doodles/2024/jose-guadalupe-posadas-172nd-birthday-6753651837110182.3-l.png",
