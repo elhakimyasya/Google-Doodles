@@ -1,5 +1,504 @@
 [
   {
+    "name": "waitangi-day-2024",
+    "title": "Waitangi Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/waitangi-day-2024-6753651837110185.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/SN-BurssgD9ZZsf05be-Z2sx7RMRc8q9PuWMVjMl_EovkMSkhnKQYLFBYvPaulPkgHsTFxNqrp4fV3ey-XhdRRmyjvu3V4x7ubjh5tFq6yenOvvp58O0vg",
+    "high_res_url": "//www.google.com/logos/doodles/2024/waitangi-day-2024-6753651837110185-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      2,
+      6
+    ],
+    "translations": {
+      "en": {
+        "query": "Waitangi Day",
+        "hover_text": "Waitangi Day 2024",
+        "share_text": "Happy Waitangi Day, New Zealand! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Waitangi-dag",
+        "hover_text": "Waitangi-dag 2024",
+        "share_text": "Gelukkige Waitangi-dag, Nieu-Seeland! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Waitangi",
+        "hover_text": "Dita e Uaitangit, 2024",
+        "share_text": "Gëzuar Ditën e Uaitangit, Zelandë e Re! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የዋይታንጊ ቀን",
+        "hover_text": "የዋይታንጊ ቀን 2024",
+        "share_text": "መልካም የዋይታንጊ ቀን፣ ኒውዚላንድ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد نيوزيلندا الوطني",
+        "hover_text": "اليوم الوطني لنيوزيلندا 2024",
+        "share_text": "نتمنّى عيدًا وطنيًا سعيدًا لنيوزيلندا. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Վայթանգիի օր",
+        "hover_text": "Վայթանգիի օր 2024",
+        "share_text": "Շնորհավո՛ր Վայթանգիի օրը, Նոր Զելանդիա #GoogleDoodle"
+      },
+      "az": {
+        "query": "Vaytanqi Günü",
+        "hover_text": "2024 Vaytanqi Günü",
+        "share_text": "Vaytanqi Günün Mübarək, Yeni Zelandiya! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ওয়েতাঙ্গি দিবস",
+        "hover_text": "ওয়েটাঙ্গি দিবস ২০২৪",
+        "share_text": "ওয়েতাঙ্গি দিবসের শুভেচ্ছা, নিউজিল্যান্ড! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Waitangi Eguna",
+        "hover_text": "2024ko Waitangiko Eguna",
+        "share_text": "Waitangiko Egun zoriontsua izan, Zeelanda Berria! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень Вайтангі",
+        "hover_text": "Дзень Вайтангі 2024",
+        "share_text": "З Днём Вайтангі, Новая Зеландыя! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Waitangi dan",
+        "hover_text": "Dan Waitangija 2024.",
+        "share_text": "Sretan Waitangi dan, Novi Zelande! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Waitangi Day",
+        "hover_text": "Waitangi Day 2024",
+        "share_text": "Aotearoa New Zealand's Waitangi Day #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Уайтанги",
+        "hover_text": "Уайтанги 2024 г.",
+        "share_text": "Честит Уайтанги на Нова Зеландия! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Waitangi နေ့",
+        "hover_text": "၂၀၂၄ နယူးဇီလန်နိုင်ငံ အမျိုးသားနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် အမျိုးသားနေ့ဖြစ်ပါစေ နယူးဇီလန်။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de Waitangi",
+        "hover_text": "Dia de Waitangi 2024",
+        "share_text": "Feliç Dia de Waitangi, Nova Zelanda! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "懷唐伊日",
+        "hover_text": "2024 年懷唐伊日",
+        "share_text": "紐西蘭，懷唐伊日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "懷唐伊日",
+        "hover_text": "2024 年懷唐伊日",
+        "share_text": "紐西蘭，懷唐伊日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "怀唐伊日",
+        "hover_text": "2024 年怀唐伊日",
+        "share_text": "新西兰，怀唐伊日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan Waitangi",
+        "hover_text": "Dan Waitangi 2024.",
+        "share_text": "Sretan Dan Waitangi, Novi Zeland! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den Waitangi",
+        "hover_text": "Den Waitangi 2024",
+        "share_text": "Šťastný Den Waitangi, Nový Zélande! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Waitangidag",
+        "hover_text": "Waitangidag 2024",
+        "share_text": "Glædelig Waitangi Day, New Zealand! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Waitangi-dag",
+        "hover_text": "Waitangi Day 2024",
+        "share_text": "Fijne Waitangi Day, Nieuw-Zeeland! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Waitangi päev",
+        "hover_text": "2024. aasta Waitangi päev",
+        "share_text": "Head Waitangi päeva, Uus-Meremaa! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Waitangi-päivä",
+        "hover_text": "Waitangi-päivä 2024",
+        "share_text": "Hyvää Waitangi-päivää, Uusi-Seelanti! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Commémoration de la signature du traité de Waitangi",
+        "hover_text": "Commémoration de la signature du traité de Waitangi 2024",
+        "share_text": "Commémoration de la signature du traité de Waitangi ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Waitangi Day",
+        "hover_text": "Journée de Waitangi 2024",
+        "share_text": "Joyeux Waitangi Day, Nouvelle-Zélande! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día de Waitangi",
+        "hover_text": "Día de Waitangi 2024",
+        "share_text": "Feliz Día de Waitangi, Nova Zelandia! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ვაიტანგის დღე",
+        "hover_text": "ვაიტანგის დღე — 2023",
+        "share_text": "ვულოცავთ ახალ ზელანდიას ვაიტანგის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Waitangi Day",
+        "hover_text": "Waitangi Day 2024",
+        "share_text": "Alles Gute zum Waitangi Day in Neuseeland! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Γουαϊτάνγκι",
+        "hover_text": "Ημέρα Γουαϊτάνγκι 2024",
+        "share_text": "Ευχόμαστε χαρούμενη Ημέρα Γουαϊτάνγκι στη Νέα Ζηλανδία! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "વૈતાંગી દિવસ",
+        "hover_text": "વૈતાંગી દિવસ 2024",
+        "share_text": "વૈતાંગી દિવસની શુભેચ્છા, ન્યૂઝીલૅન્ડ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום ואיטאנגי",
+        "hover_text": "יום וואיטאנגי 2024",
+        "share_text": "יום ואיטאנגי שמח, ניו זילנד! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "वाइटेंगी दिवस",
+        "hover_text": "वाइटंगी डे 2024",
+        "share_text": "वाइटेंगी डे की शुभकामनाएं, न्यूज़ीलैंड! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Waitangi-nap",
+        "hover_text": "Waitangi-nap, 2024",
+        "share_text": "Boldog Waitangi-napot, Új-Zéland! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Waitangi-dagurinn 2020",
+        "hover_text": "Waitangi-dagurinn 2024",
+        "share_text": "Gleðilegan Waitangi-dag, Nýja-Sjáland! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Waitangi",
+        "hover_text": "Hari Waitangi 2024",
+        "share_text": "Selamat Hari Waitangi, Selandia Baru! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Waitangi, 2020",
+        "hover_text": null,
+        "share_text": "Lá Shona Waitangi, a Nua-Shéalainn! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Waitangi Day",
+        "hover_text": "Waitangi Day 2024",
+        "share_text": "Buon Waitangi Day, Nuova Zelanda! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ワイタンギ条約記念日",
+        "hover_text": "2024 年ワイタンギ条約記念日",
+        "share_text": "ニュージーランド ワイタンギ条約記念日を祝おう！ #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ವೈತಾಂಗಿ ದಿನಾಚರಣೆ",
+        "hover_text": "ವೈತಾಂಗಿ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ವೈತಾಂಗಿ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ನ್ಯೂಜಿಲ್ಯಾಂಡ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Вайтанги күні",
+        "hover_text": "Вайтанги күні – 2024",
+        "share_text": "Вайтанги күні құтты болсын, Жаңа Зеландия! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាបុណ្យវៃ​តាំង​ហ្គី",
+        "hover_text": "ពិធីបុណ្យវៃ​តាំង​ហ្គីឆ្នាំ 2024",
+        "share_text": "អបអរ​ពិធីបុណ្យ​វៃតាំងហ្គី​នៅនូវែលសេឡង់! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "와이탕이 데이",
+        "hover_text": "2024년 와이탕이 데이",
+        "share_text": "뉴질랜드 와이탕이 데이 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Вайтанги күнү",
+        "hover_text": "Вайтанги күнү – 2024",
+        "share_text": "Вайтанги күнү кут болсун, Жаңы Зеландия! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຊາດນິວຊີແລນ",
+        "hover_text": "ວັນຊາດນິວຊີແລນ 2024",
+        "share_text": "ສຸກສັນວັນຊາດນິວຊີແລນ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de Waitangi",
+        "hover_text": "Día de Waitangi 2024",
+        "share_text": "¡Feliz Día de Waitangi, Nueva Zelanda! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Vaitangi diena",
+        "hover_text": "Vaitangi diena — 2024",
+        "share_text": "Sveicam Vaitangi dienā, Jaunzēlande! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Vaitangi diena (nacionalinė Naujosios Zelandijos šventė)",
+        "hover_text": "Vaitangi diena, 2024 m. (nacionalinė Naujosios Zelandijos šventė)",
+        "share_text": "Sveikiname Naująją Zelandiją su Vaitangi diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ваитанги ден",
+        "hover_text": "Ден на Ваитанги, 2024 г.",
+        "share_text": "Среќен Ваитанги ден, Нов Зеланд! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Andron'ny Waitangi",
+        "hover_text": null,
+        "share_text": "Tsarà Andron'ny Waitangi ry Zelandy Vaovao ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Waitangi",
+        "hover_text": "Hari Waitangi 2024",
+        "share_text": "Selamat Hari Waitangi, New Zealand! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "വയ്‌താംഗി ദിനം 2019",
+        "hover_text": "വയ്‌താംഗി ദിനം 2024",
+        "share_text": "വയ്‌താംഗി ദിനാശംസകൾ, ന്യൂസിലൻഡ്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "वैतांगी डे",
+        "hover_text": "वैतॅंगी डे २०२४",
+        "share_text": "न्यूझीलंडला वैतांगी दिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Вайтангигийн өдөр",
+        "hover_text": "2024 оны Вайтангигийн өдөр",
+        "share_text": "Шинэ Зеландын ард иргэдэд Вайтангигийн өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "वाइटाङ्गी दिवस",
+        "hover_text": "वाइटाङ्गी दिवस २०२४",
+        "share_text": "वाइटाङ्गी दिवसको शुभकामना, न्युजिल्यान्ड! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Waitangi-dagen",
+        "hover_text": "Waitangi-dagen 2024",
+        "share_text": "Gratulerer med Waitangi-dagen, New Zealand! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ୱେଇଟାଙ୍ଗି ଦିବସ",
+        "hover_text": null,
+        "share_text": "ୱେଇଟାଙ୍ଗି ଦିବସର ଶୁଭେଚ୍ଛା, ନ୍ୟୁଜିଲ୍ୟାଣ୍ଡ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز وایتانگی",
+        "hover_text": "روز وایتانگی ۲۰۲۴",
+        "share_text": "روز وایتانگی مبارک، نیوزیلند! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Waitangi 2020",
+        "hover_text": "Święto Waitangi 2024",
+        "share_text": "Nowa Zelandia obchodzi Święto Waitangi #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia de Waitangi 2020",
+        "hover_text": "Dia de Waitangi 2024",
+        "share_text": "Feliz Dia de Waitangi, Nova Zelândia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia de Waitangi",
+        "hover_text": "Dia de Waitangi de 2024",
+        "share_text": "Feliz dia de Waitangi, Nova Zelândia! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਵਾਏਤਾਂਗੀ ਦਿਵਸ",
+        "hover_text": "ਵਾਈਟੈਂਗੀ ਦਿਵਸ 2024",
+        "share_text": "ਵਾਏਤਾਂਗੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਨਿਊਜ਼ੀਲੈਂਡ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Waitangi",
+        "hover_text": "Ziua Waitangi – 2024",
+        "share_text": "La mulți ani de Ziua Waitangi, Noua Zeelandă! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День Вайтанги – 2020",
+        "hover_text": "День Вайтанги – 2024",
+        "share_text": "День Вайтанги в Новой Зеландии! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан Ваитанги",
+        "hover_text": "Дан Ваитанги 2024.",
+        "share_text": "Честитамо Дан Ваитанги Новом Зеланду! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan Vaitangi",
+        "hover_text": "Dan Vaitangi 2024.",
+        "share_text": "Čestitamo Dan Vaitangi Novom Zelandu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Waitangi",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "වයිතාන්ගි දිනය",
+        "hover_text": "වයිටාංගි දිනය 2024",
+        "share_text": "ප්‍රීතිමත් වයිටාංගි දිනයක්, නවසීලන්තය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň Waitangi",
+        "hover_text": "Deň Waitangi 2024",
+        "share_text": "Šťastný Deň Waitangi, Nový Zéland! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan Waitangija",
+        "hover_text": "Dan Waitangija 2024",
+        "share_text": "Vesel dan Waitangija, Nova Zelandija! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Waitangi",
+        "hover_text": null,
+        "share_text": "MaalintaFarxada leh ee Waitangi, New Zealand! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Waitangi",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día de Waitangi",
+        "hover_text": "Día de Waitangi 2024",
+        "share_text": "¡Feliz Día de Waitangi, Nueva Zelanda! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Waitangi",
+        "hover_text": "Sikukuu ya Waitangi 2024",
+        "share_text": "Heri za Sikukuu ya Waitangi, Nyuzilandi! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Waitangi-dagen",
+        "hover_text": "Waitangi-dagen 2024",
+        "share_text": "Vi firar Waitangi-dagen på Nya Zeeland #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "வெயிட்டாங்கி தினம்",
+        "hover_text": "வைட்டங்கி தினம் 2024",
+        "share_text": "வைட்டானி தின வாழ்த்துகள், நியூசிலாந்து! #GoogleDoodle"
+      },
+      "te": {
+        "query": "వెయిటాంగి డే",
+        "hover_text": "వైతాంగి డే 2024",
+        "share_text": "వెయిటాంగి దినోత్సవం శుభాకాంక్షలు, న్యూజిలాండ్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันไวทังกิ",
+        "hover_text": "วันไวทังกิปี 2024",
+        "share_text": "สุขสันต์วันไวทังกิของนิวซีแลนด์ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Waitangi la 2020",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Waitangi Günü",
+        "hover_text": "2024 Waitangi Günü",
+        "share_text": "Yeni Zelanda Waitangi Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День Вайтангі",
+        "hover_text": "День Вайтангі у 2024 році",
+        "share_text": "З Днем Вайтангі, Нова Зеландіє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Waitangi Day",
+        "hover_text": "ویتینگی ڈے 2024",
+        "share_text": "Waitangi کا دن مبارک ہو، نیوزی لینڈ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Vaytangi kuni",
+        "hover_text": "Vaytangi kuni 2024",
+        "share_text": "Vaytangi kuni bilan, Yangi Zelandiya! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Waitangi (Quốc khánh New Zealand)",
+        "hover_text": "Ngày Waitangi (Quốc khánh New Zealand) năm 2024",
+        "share_text": "Chúc mừng New Zealand nhân ngày Waitangi! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lwe-Waitangi",
+        "hover_text": "Usuku lwe-Waitangi lwango-2024",
+        "share_text": "Usuku Oluhle lwe-Waitangi, e-New Zealand! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Waitangi Day",
+    "share_text": "Happy Waitangi Day, New Zealand! #GoogleDoodle"
+  },
+  {
     "name": "sri-lanka-independence-day-2024",
     "title": "Sri Lanka Independence Day 2024",
     "url": "//www.google.com/logos/doodles/2024/sri-lanka-independence-day-2024-6753651837110184-law.gif",
