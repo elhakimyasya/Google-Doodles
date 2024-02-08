@@ -1,5 +1,504 @@
 [
   {
+    "name": "pakistan-national-elections-2024",
+    "title": "Pakistan National Elections 2024",
+    "url": "//www.google.com/logos/doodles/2024/pakistan-national-elections-2024-6753651837110482-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/N1mXlARod2ItawjLQTa5veRhfAWq7oetJ25E5ko3VtxijVkSRlNvkM0ZV3b0redGlDg_B4sus4UZ_PIRKXZ2MTPUunx8G9MS6D9iXq6M1fas3mN5RnRa",
+    "high_res_url": "//www.google.com/logos/doodles/2024/pakistan-national-elections-2024-6753651837110482-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      2,
+      8
+    ],
+    "translations": {
+      "en": {
+        "query": "Pakistan National Elections 2024",
+        "hover_text": "Pakistan National Elections 2024",
+        "share_text": "Pakistan National Elections 2024! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "am": {
+        "query": "የፓኪስታን ብሔራዊ ምርጫዎች 2024",
+        "hover_text": null,
+        "share_text": "የፓኪስታን ብሔራዊ ምርጫዎች 2024! #GoogleDoodle"
+      },
+      "ar": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hy": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "az": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "eu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "be": {
+        "query": "Усеагульныя выбары ў Пакістане 2024",
+        "hover_text": null,
+        "share_text": "Усеагульныя выбары ў Пакістане 2024! #GoogleDoodle"
+      },
+      "bs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bg": {
+        "query": "Национални избори в Пакистан 2024 г.",
+        "hover_text": null,
+        "share_text": "Национални избори в Пакистан 2024 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "၂၀၂၄ ပါကစ္စတန်နိုင်ငံလုံးဆိုင်ရာ ရွေးကောက်ပွဲများ",
+        "hover_text": null,
+        "share_text": "၂၀၂၄ ပါကစ္စတန်နိုင်ငံလုံးဆိုင်ရာ ရွေးကောက်ပွဲများ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": "2024 年巴基斯坦全國大選",
+        "hover_text": null,
+        "share_text": "2024 年巴基斯坦全國大選登場！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "2024 年巴基斯坦全國大選",
+        "hover_text": null,
+        "share_text": "2024 年巴基斯坦全國大選登場！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "cs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "da": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "nl": {
+        "query": "Nationale verkiezingen Pakistan 2024",
+        "hover_text": null,
+        "share_text": "De nationale verkiezingen in Pakistan 2024! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Pakistani 2024. aasta riiklikud valimised",
+        "hover_text": null,
+        "share_text": "Pakistani 2024. aasta riiklikud valimised! #GoogleDoodle"
+      },
+      "fi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "de": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "el": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hu": {
+        "query": "2024-es parlamenti választás Pakisztánban",
+        "hover_text": null,
+        "share_text": "2024-es parlamenti választás Pakisztánban. #GoogleDoodle"
+      },
+      "is": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "id": {
+        "query": "Pemilu Nasional Pakistan 2024",
+        "hover_text": null,
+        "share_text": "Pemilu Nasional Pakistan 2024 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ja": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "kn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "kk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ko": {
+        "query": "2024년 파키스탄 총선",
+        "hover_text": null,
+        "share_text": "2024년 파키스탄 총선 #GoogleDoodle"
+      },
+      "ky": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lv": {
+        "query": "Valsts vēlēšanas Pakistānā — 2024",
+        "hover_text": null,
+        "share_text": "Valsts vēlēšanas Pakistānā — 2024! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Pakistano 2024 m. nacionaliniai rinkimai",
+        "hover_text": null,
+        "share_text": "Pakistano 2024 m. nacionaliniai rinkimai! #GoogleDoodle"
+      },
+      "mk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Pilihan Raya Kebangsaan Pakistan 2024",
+        "hover_text": null,
+        "share_text": "Pilihan Raya Kebangsaan Pakistan 2024! #GoogleDoodle"
+      },
+      "ml": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ne": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "no": {
+        "query": "Nasjonalvalget i Pakistan i 2024",
+        "hover_text": null,
+        "share_text": "Nasjonalvalget i Pakistan i 2024! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": "Eleições Nacionais do Paquistão de 2024",
+        "hover_text": null,
+        "share_text": "Eleições Nacionais do Paquistão de 2024! #GoogleDoodle"
+      },
+      "pa": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ro": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "පකිස්ථාන ජාතික මැතිවරණය 2024",
+        "hover_text": null,
+        "share_text": "පකිස්ථාන ජාතික මැතිවරණය 2024! #GoogleDoodle"
+      },
+      "sk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sw": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sv": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "te": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "th": {
+        "query": "วันเลือกตั้งระดับประเทศของปากีสถานปี 2024",
+        "hover_text": null,
+        "share_text": "วันเลือกตั้งระดับประเทศของปากีสถานปี 2024 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ur": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uz": {
+        "query": "Pokistonda umumxalq saylovi 2024",
+        "hover_text": null,
+        "share_text": "Pokistonda umumxalq saylovi 2024! #GoogleDoodle"
+      },
+      "vi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Pakistan National Elections 2024",
+    "share_text": "Pakistan National Elections 2024! #GoogleDoodle"
+  },
+  {
     "name": "waitangi-day-2024",
     "title": "Waitangi Day 2024",
     "url": "//www.google.com/logos/doodles/2024/waitangi-day-2024-6753651837110185.2-l.png",
