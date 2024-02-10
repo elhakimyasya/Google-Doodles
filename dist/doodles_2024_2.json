@@ -1,5 +1,1003 @@
 [
   {
+    "name": "lunar-new-year-2024",
+    "title": "Lunar New Year 2024",
+    "url": "//www.google.com/logos/doodles/2024/lunar-new-year-2024-kr-tw-6753651837110462.3-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/DcMrf3beYB34PNzOtikxmgBBa_3cOnV84AwzxLORRz5Jr0NBgIz3jVL0nwCZa57ZjDxw3SiWSFfQla_bizECAPTdcGoskfHJ7-V5so3r3b7ZKGIVmRf01g",
+    "high_res_url": "//www.google.com/logos/doodles/2024/lunar-new-year-2024-kr-tw-6753651837110462.2-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      2,
+      10
+    ],
+    "translations": {
+      "en": {
+        "query": "Lunar New Year ",
+        "hover_text": "Lunar New Year 2024",
+        "share_text": "#GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "am": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ar": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hy": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "az": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "eu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "be": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "my": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ca": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": "農曆新年",
+        "hover_text": "2024 農曆新年快樂！",
+        "share_text": "農曆新年 #GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "cs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "da": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "nl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "et": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "de": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "el": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "is": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "id": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ja": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "kn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "kk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ko": {
+        "query": "설날",
+        "hover_text": "2024년 설날",
+        "share_text": "설날 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lv": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ml": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ne": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "no": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ro": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sw": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sv": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "te": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "th": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ur": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uz": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "vi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Lunar New Year ",
+    "share_text": "#GoogleDoodle"
+  },
+  {
+    "name": "global-lunar-new-year-2024",
+    "title": "Global Lunar New Year 2024",
+    "url": "//www.google.com/logos/doodles/2024/lunar-new-year-2024-hk-vn-sg-6753651837109996-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/Qs7E3CX4f9n5DDDN3PoV-dGxe3yqXLNFiSZCJ2hiG7IzDMyrS9_zXNk-gzd-XpUdGAQMotSgA-flUdXdWC8hp1iXf65VgY-DLpETiw071f5gLE1DduJK_g",
+    "high_res_url": "//www.google.com/logos/doodles/2024/lunar-new-year-2024-hk-vn-sg-6753651837109996-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      2,
+      10
+    ],
+    "translations": {
+      "en": {
+        "query": "Lunar New Year",
+        "hover_text": "Lunar New Year 2024",
+        "share_text": "Happy Lunar New Year! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Nuwe Maanjaar",
+        "hover_text": null,
+        "share_text": "Voorspoedige Nuwe Maanjaar! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Viti i Ri Hënor",
+        "hover_text": null,
+        "share_text": "Gëzuar Vitin e Ri Hënor! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የጨረቃ አዲስ ዓመት",
+        "hover_text": "የጨረቃ አዲስ ዓመት 2024",
+        "share_text": "መልካም የጨረቃ አዲስ ዓመት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "رأس السنة القمرية",
+        "hover_text": null,
+        "share_text": "أطيب الأمنيات بمناسبة السنة القمرية الجديدة. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Լուսնային նոր տարի",
+        "hover_text": null,
+        "share_text": "Շնորհավո՛ր Լուսնային նոր տարի #GoogleDoodle"
+      },
+      "az": {
+        "query": "Ay Təqvimi ilə Yeni İl",
+        "hover_text": null,
+        "share_text": "Ay Təqvimi ilə Yeni İliniz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "চীনা নববর্ষ",
+        "hover_text": null,
+        "share_text": "চীনা শুভ নববর্ষ! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Ilargi-urte berria",
+        "hover_text": null,
+        "share_text": "Ilargi-urte berri zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Новы год па месячным календары",
+        "hover_text": "Новы год па месячным календары 2024",
+        "share_text": "З новым годам па месячным календары! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Lunarna nova godina",
+        "hover_text": null,
+        "share_text": "Sretna Lunarna nova godina! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Lunar New Year",
+        "hover_text": "Lunar New Year 2024",
+        "share_text": "Happy Lunar New Year! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Лунна Нова година",
+        "hover_text": "Лунна Нова година 2024 г.",
+        "share_text": "Честита Лунна Нова година! #GoogleDoodle"
+      },
+      "my": {
+        "query": "နှစ်သစ်ကူး",
+        "hover_text": "၂၀၂၄ တရုတ်နှစ်သစ်ကူး",
+        "share_text": "ပျော်ရွှင်ဖွယ် နှစ်သစ်ကူး ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Any Nou lunar",
+        "hover_text": null,
+        "share_text": "Feliç Any Nou lunar! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "農曆新年",
+        "hover_text": "2024 農曆新年",
+        "share_text": "農曆新年快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "農曆新年",
+        "hover_text": "2024 農曆新年",
+        "share_text": "農曆新年快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "农历新年",
+        "hover_text": "2024农历新年",
+        "share_text": "农历新年快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Lunarna nova godina",
+        "hover_text": null,
+        "share_text": "Sretna Lunarna nova godina! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Lunární Nový rok",
+        "hover_text": "Šťastný lunární Nový rok 2024",
+        "share_text": "Šťastný lunární Nový rok! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Månenytår 2019",
+        "hover_text": null,
+        "share_text": "Glædeligt månenytår! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Chinees nieuwjaar",
+        "hover_text": "Chinees Nieuwjaar 2024",
+        "share_text": "Gelukkig Maan-nieuwjaar! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Kuukalendri uusaasta",
+        "hover_text": "2024. aasta kuukalendri uusaasta",
+        "share_text": "Head kuukalendri uusaastat! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Kuukalenterin mukainen uusivuosi",
+        "hover_text": "Kuukalenterin mukainen uusivuosi",
+        "share_text": "Hyvää kuukalenterin mukaista uuttavuotta! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Nouvel An lunaire",
+        "hover_text": "Nouvel An lunaire 2024",
+        "share_text": "Bon nouvel An lunaire ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Nouvel An lunaire",
+        "hover_text": "Nouvel An lunaire 2024",
+        "share_text": "Joyeux Nouvel An lunaire! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Aninovo Lunar",
+        "hover_text": null,
+        "share_text": "Feliz Aninovo Lunar! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ახალი წელი მთვარის კალენდრის მიხედვით",
+        "hover_text": null,
+        "share_text": "გილოცავთ ახალ წელს მთვარის კალენდრის მიხედვით! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Mond-Neujahr",
+        "hover_text": "Mond-Neujahr 2024",
+        "share_text": "Alles Gute zum Mond-Neujahr! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Σεληνιακό Νέο Έτος",
+        "hover_text": null,
+        "share_text": "Χαρούμενο Σεληνιακό Νέο Έτος! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "લૂનર નવું વર્ષ",
+        "hover_text": null,
+        "share_text": "લુનાર નવા વર્ષની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "שנת ירח חדשה",
+        "hover_text": null,
+        "share_text": "שנת ירח טובה! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "चंद्र नव वर्ष",
+        "hover_text": null,
+        "share_text": "लूनर न्यू ईयर की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Holdújév",
+        "hover_text": "Holdújév, 2024",
+        "share_text": "Boldog 2022-es holdújévet! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Nýtt tunglár",
+        "hover_text": null,
+        "share_text": "Gleðilegt nýtt tunglár! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Tahun Baru Imlek",
+        "hover_text": "Tahun Baru Imlek 2024",
+        "share_text": "Selamat Tahun Baru Imlek! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Bliain Nua Ghealaí",
+        "hover_text": "Bliain Nua Ghealaí",
+        "share_text": "Bliain Nua Ghealaí faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Capodanno lunare",
+        "hover_text": "Capodanno lunare 2024",
+        "share_text": "Felice capodanno lunare! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "旧正月",
+        "hover_text": null,
+        "share_text": "旧正月を祝おう！ #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಲೂನಾರ್ ಹೊಸ ವರ್ಷ",
+        "hover_text": null,
+        "share_text": "ಲೂನಾರ್ ಹೊಸ ವರ್ಷದ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Ай күнтізбесі бойынша Жаңа жыл",
+        "hover_text": null,
+        "share_text": "Ай күнтізбесі бойынша жаңа жыл құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "បុណ្យចូលឆ្នាំ​ចន្ទគតិ​",
+        "hover_text": null,
+        "share_text": "អបអរ​បុណ្យចូលឆ្នាំចិន! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "설날",
+        "hover_text": "2024년 설날",
+        "share_text": "설날 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Кытай жаңы жылы",
+        "hover_text": null,
+        "share_text": "Кытай жылнаамасы боюнча Жаңы жылыңыз менен! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ກຸດຈີນ",
+        "hover_text": null,
+        "share_text": "ສຸກສັນວັນກຸດຈີນ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Año Nuevo lunar",
+        "hover_text": "Año Nuevo lunar 2024",
+        "share_text": "¡Feliz Año Nuevo Lunar! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Jaunais gads pēc mēness kalendāra",
+        "hover_text": "Jaunais gads pēc mēness kalendāra — 2024",
+        "share_text": "Laimīgu Jauno gadu pēc mēness kalendāra! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Naujieji metai pagal Mėnulio kalendorių",
+        "hover_text": "Naujieji metai pagal Mėnulio kalendorių, 2024 m.",
+        "share_text": "Laimingų Naujųjų metų pagal Mėnulio kalendorių! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Лунарна Нова година",
+        "hover_text": null,
+        "share_text": "Среќна Лунарна Нова година! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Taom-baovaon'ny Volana",
+        "hover_text": null,
+        "share_text": "Tsarà Taom-baovaon'ny Volana ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Tahun Baru Qamari",
+        "hover_text": "Tahun Baharu Cina 2024",
+        "share_text": "Selamat Tahun Baharu Qamari! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ചന്ദ്ര പുതുവത്സരം",
+        "hover_text": null,
+        "share_text": "ചന്ദ്ര പുതുവത്സരാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "नवीन चंद्रवर्ष",
+        "hover_text": null,
+        "share_text": "नवीन चांद्र वर्ष च्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Цагаан сар",
+        "hover_text": null,
+        "share_text": "Цагаан сарын баярын мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "चन्द्रमाको यात्रामा आधारित नयाँ वर्ष",
+        "hover_text": null,
+        "share_text": "चन्द्रमाको यात्रामा आधारित नयाँ वर्षको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Kinesisk nyttår",
+        "hover_text": "Kinesisk nyttår 2024",
+        "share_text": "Godt kinesisk nyttår! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଲୁନାର୍ ନବବର୍ଷ",
+        "hover_text": null,
+        "share_text": "ଲୁନାର ନବବର୍ଷର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "سال نو قمری",
+        "hover_text": null,
+        "share_text": "سال نوی قمری مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Księżycowy Nowy Rok",
+        "hover_text": null,
+        "share_text": "Obchodzimy Księżycowy Nowy Rok #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Ano Novo Lunar",
+        "hover_text": "Ano Novo Lunar de 2024",
+        "share_text": "Feliz Ano Novo Lunar! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Ano novo lunar",
+        "hover_text": "Ano Novo Lunar de 2024",
+        "share_text": "Feliz ano novo lunar! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਲੂਨਰ ਨਵਾਂ ਸਾਲ",
+        "hover_text": null,
+        "share_text": "ਲੂਨਰ ਨਵੇਂ ਸਾਲ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Anul Nou Lunar",
+        "hover_text": null,
+        "share_text": "Un An Nou Lunar fericit! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Новый год по лунному календарю",
+        "hover_text": "Новый год по лунному календарю",
+        "share_text": "Новый год по лунному календарю! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Лунарна Нова година",
+        "hover_text": null,
+        "share_text": "Срећна Лунарна Нова година! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Lunarna Nova godina",
+        "hover_text": null,
+        "share_text": "Srećna Lunarna Nova godina! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Nouvel an Liner",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "චන්‍ද්‍ර නව වසර",
+        "hover_text": "චන්ද්‍ර නව වසර 2024",
+        "share_text": "ප්‍රීතිමත් චන්ද්‍ර නව වසරක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Lunárny nový rok",
+        "hover_text": "Lunárny nový rok",
+        "share_text": "Šťastný lunárny nový rok! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Lunarno novo leto",
+        "hover_text": null,
+        "share_text": "Veselo lunarno novo leto! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Sanadka Qamariga ah ee Cusub",
+        "hover_text": null,
+        "share_text": "Sanadka Cusub ee Qamariga ah ee Faraxada leh! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Selemo se Setjha la Ngwedi",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Año Nuevo Lunar",
+        "hover_text": "Año Nuevo Lunar 2024",
+        "share_text": "¡Feliz Año Nuevo Lunar! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Mwaka Mpya Unaoandamana na Mwezi",
+        "hover_text": null,
+        "share_text": "Heri za Mwaka Mpya Unaoandamana na Mwezi! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Månnyåret",
+        "hover_text": "Månnyåret 2024",
+        "share_text": "Vi firar månnyåret #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "சீனப் புத்தாண்டு",
+        "hover_text": "சீனப் புத்தாண்டு",
+        "share_text": "லூனார் புத்தாண்டு வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "చాంద్రమాన నూతన సంవత్సరం",
+        "hover_text": null,
+        "share_text": "చాంద్రమాన నూతన సంవత్సర శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันตรุษจีน",
+        "hover_text": "วันตรุษจีนปี 2024",
+        "share_text": "สุขสันต์วันตรุษจีน #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Ngwaga o Mosha wa Ngwedi",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Ay Takvimi Yeni Yılı",
+        "hover_text": null,
+        "share_text": "Ay Takvimi Yeni Yılı Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Місячний Новий рік",
+        "hover_text": null,
+        "share_text": "Щасливого місячного Нового року! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "نیا قمری سال",
+        "hover_text": null,
+        "share_text": "نئے قمری سال کی مبارکباد! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Oy taqvimi boʻyicha yangi yil",
+        "hover_text": "Oy yangi yili 2024",
+        "share_text": "Oy taqvimi hisobida yangi yil! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Tết Nguyên Đán",
+        "hover_text": "Tết Nguyên Đán",
+        "share_text": "Chúc mừng Tết Nguyên Đán! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Unyaka omusha we-Lunar",
+        "hover_text": null,
+        "share_text": "Sinifisela Unyaka Omusha we-Lunar! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Lunar New Year",
+    "share_text": "Happy Lunar New Year! #GoogleDoodle"
+  },
+  {
     "name": "pakistan-national-elections-2024",
     "title": "Pakistan National Elections 2024",
     "url": "//www.google.com/logos/doodles/2024/pakistan-national-elections-2024-6753651837110482-l.png",
