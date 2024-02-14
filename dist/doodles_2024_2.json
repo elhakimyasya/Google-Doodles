@@ -1,5 +1,1003 @@
 [
   {
+    "name": "indonesia-national-elections-2024",
+    "title": "Indonesia National Elections 2024",
+    "url": "//www.google.com/logos/doodles/2024/indonesia-national-elections-2024-6753651837110353-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/iVgPFD2pb6APYzk-xWH1TUk2YMc6qzezZiJJTAtX3euU17f8iWFNc69nuWG2bGL7PhJAsrXvJOCD_jaOkkolOpV59sQBhF-NGG6bl1gQQ7xPJzF0_m7bv3Y",
+    "high_res_url": "//www.google.com/logos/doodles/2024/indonesia-national-elections-2024-6753651837110353-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      2,
+      14
+    ],
+    "translations": {
+      "en": {
+        "query": "Indonesia National Elections",
+        "hover_text": "Indonesia National Elections 2024",
+        "share_text": "Indonesia National Elections 2024 #GoogleDoodle"
+      },
+      "af": {
+        "query": "Indonesië se nasionale verkiesing",
+        "hover_text": "Indonesië se nasionale verkiesing 2024",
+        "share_text": "Indonesië se nasionale verkiesing 2024 #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Zgjedhjet kombëtare në Indonezi",
+        "hover_text": "Zgjedhjet kombëtare në Indonezi, 2024",
+        "share_text": "Zgjedhjet kombëtare në Indonezi, 2024 #GoogleDoodle"
+      },
+      "am": {
+        "query": "የኢንዶኔዢያ ብሔራዊ ምርጫዎች",
+        "hover_text": "የኢንዶኔዢያ ብሔራዊ ምርጫዎች 2024",
+        "share_text": "የኢንዶኔዢያ ብሔራዊ ምርጫዎች 2024 #GoogleDoodle"
+      },
+      "ar": {
+        "query": "الانتخابات الوطنية في إندونيسيا",
+        "hover_text": "الانتخابات الوطنية في إندونيسيا 2024",
+        "share_text": "انطلقت الانتخابات الوطنية في إندونيسيا لعام 2024. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ինդոնեզիայի համապետական ընտրություններ",
+        "hover_text": "Ինդոնեզիայի համապետական ընտրություններ 2024",
+        "share_text": "Ինդոնեզիայի համապետական ընտրություններ 2024 #GoogleDoodle"
+      },
+      "az": {
+        "query": "İndoneziya Milli Seçkiləri",
+        "hover_text": "2024 İndoneziya Milli Seçkiləri",
+        "share_text": "2024 İndoneziya Milli Seçkiləri #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ইন্দোনেশিয়ার জাতীয় নির্বাচন",
+        "hover_text": "ইন্দোনেশিয়ার জাতীয় নির্বাচন ২০২৪",
+        "share_text": "ইন্দোনেশিয়ার জাতীয় নির্বাচন ২০২৪ #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Indonesiako hauteskunde orokorrak",
+        "hover_text": "2024ko Indonesiako hauteskunde orokorrak",
+        "share_text": "2024ko Indonesiako hauteskunde orokorrak #GoogleDoodle"
+      },
+      "be": {
+        "query": "Усеагульныя выбары ў Інданезіі",
+        "hover_text": "Усеагульныя выбары ў Інданезіі 2024",
+        "share_text": "Усеагульныя выбары ў Інданезіі 2024 #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Nacionalni izbori u Indoneziji",
+        "hover_text": "Nacionalni izbori u Indoneziji 2024.",
+        "share_text": "Nacionalni izbori u Indoneziji 2024. #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Indonesia national elections",
+        "hover_text": "Indonesia national elections 2024",
+        "share_text": "Indonesia national elections 2024 #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Национални избори в Индонезия",
+        "hover_text": "Национални избори в Индонезия 2024 г.",
+        "share_text": "Национални избори в Индонезия 2024 г. #GoogleDoodle"
+      },
+      "my": {
+        "query": "အင်ဒိုနီးရှားနိုင်ငံလုံးဆိုင်ရာ ရွေးကောက်ပွဲများ",
+        "hover_text": "၂၀၂၄ အင်ဒိုနီးရှားနိုင်ငံလုံးဆိုင်ရာ ရွေးကောက်ပွဲများ",
+        "share_text": "၂၀၂၄ အင်ဒိုနီးရှားနိုင်ငံလုံးဆိုင်ရာ ရွေးကောက်ပွဲများ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Eleccions nacionals a Indonèsia",
+        "hover_text": "Eleccions nacionals a Indonèsia 2024",
+        "share_text": "Eleccions nacionals a Indonèsia 2024 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "印尼全國大選",
+        "hover_text": "2024 年印尼全國大選",
+        "share_text": "2024 年印尼全國大選 #GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "印尼全國大選",
+        "hover_text": "2024 年印尼全國大選",
+        "share_text": "2024 年印尼全國大選 #GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "印度尼西亚大选",
+        "hover_text": "2024 年印度尼西亚大选",
+        "share_text": "2024 年印度尼西亚大选 #GoogleDoodle"
+      },
+      "hr": {
+        "query": "Državni izbori u Indoneziji",
+        "hover_text": "Državni izbori u Indoneziji 2024.",
+        "share_text": "Državni izbori u Indoneziji 2024. #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Indonéské volby",
+        "hover_text": "Indonéské volby 2024",
+        "share_text": "Indonéské volby 2024 #GoogleDoodle"
+      },
+      "da": {
+        "query": "Valg i Indonesien",
+        "hover_text": "Valg i Indonesien 2024",
+        "share_text": "Valg i Indonesien 2024 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Nationale verkiezingen Indonesië",
+        "hover_text": "Nationale verkiezingen Indonesië 2024",
+        "share_text": "Nationale verkiezingen Indonesië 2024 #GoogleDoodle"
+      },
+      "et": {
+        "query": "Indoneesia üleriigilised valimised",
+        "hover_text": "Indoneesia 2024. aasta üleriigilised valimised",
+        "share_text": "Indoneesia 2024. aasta üleriigilised valimised #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Indonesian kansalliset vaalit",
+        "hover_text": "Indonesian kansalliset vaalit 2024",
+        "share_text": "Indonesian kansalliset vaalit 2024 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Élections nationales en Indonésie",
+        "hover_text": "Élections nationales 2024 en Indonésie",
+        "share_text": "Élections nationales 2024 en Indonésie #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Élections nationales en Indonésie",
+        "hover_text": "Élections nationales de 2024 en Indonésie",
+        "share_text": "Élections nationales de 2024 en Indonésie #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Eleccións nacionais de Indonesia",
+        "hover_text": "Eleccións nacionais de Indonesia 2024",
+        "share_text": "Eleccións nacionais de Indonesia 2024 #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ინდონეზიის ეროვნული არჩევნები",
+        "hover_text": "ინდონეზიის ეროვნული არჩევნები — 2024",
+        "share_text": "ინდონეზიის ეროვნული არჩევნები — 2024 #GoogleDoodle"
+      },
+      "de": {
+        "query": "Präsidentschaftswahl in Indonesien",
+        "hover_text": "Präsidentschaftswahl in Indonesien 2024",
+        "share_text": "Präsidentschaftswahl in Indonesien 2024 #GoogleDoodle"
+      },
+      "el": {
+        "query": "Εθνικές εκλογές στην Ινδονησία",
+        "hover_text": "Εθνικές εκλογές στην Ινδονησία 2024",
+        "share_text": "Εθνικές εκλογές στην Ινδονησία 2024 #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ઇન્ડોનેશિયાની રાષ્ટ્રીય ચૂંટણીઓ",
+        "hover_text": "ઇન્ડોનેશિયાની રાષ્ટ્રીય ચૂંટણીઓ 2024",
+        "share_text": "ઇન્ડોનેશિયાની રાષ્ટ્રીય ચૂંટણીઓ 2024 #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "הבחירות הארציות באינדונזיה",
+        "hover_text": "הבחירות הארציות באינדונזיה 2024",
+        "share_text": "הבחירות הארציות באינדונזיה 2024 ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "इंडोनेशिया का आम चुनाव",
+        "hover_text": "इंडोनेशिया का आम चुनाव 2024",
+        "share_text": "इंडोनेशिया का आम चुनाव 2024 #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Parlamenti választás Indonéziában",
+        "hover_text": "2024-es parlamenti választás Indonéziában",
+        "share_text": "2024-es parlamenti választás Indonéziában #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þingkosningar í Indónesíu",
+        "hover_text": "Þingkosningar í Indónesíu 2024",
+        "share_text": "Þingkosningar í Indónesíu 2024 #GoogleDoodle"
+      },
+      "id": {
+        "query": "Pemilihan umum Indonesia 2024",
+        "hover_text": "Pemilihan umum Indonesia 2024",
+        "share_text": "Pemilihan umum Indonesia 2024 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Elezioni nazionali in Indonesia",
+        "hover_text": "Elezioni nazionali 2024 in Indonesia",
+        "share_text": "Elezioni nazionali 2024 in Indonesia #GoogleDoodle"
+      },
+      "ja": {
+        "query": "インドネシア総選挙",
+        "hover_text": "2024 年インドネシア総選挙",
+        "share_text": "2024 年インドネシア総選挙 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಇಂಡೋನೇಷ್ಯಾ ರಾಷ್ಟ್ರೀಯ ಚುನಾವಣೆಗಳು",
+        "hover_text": "ಇಂಡೋನೇಷ್ಯಾ ರಾಷ್ಟ್ರೀಯ ಚುನಾವಣೆಗಳು 2024",
+        "share_text": "ಇಂಡೋನೇಷ್ಯಾ ರಾಷ್ಟ್ರೀಯ ಚುನಾವಣೆಗಳು 2024 #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Индонезиядағы ұлттық сайлау",
+        "hover_text": "Индонезиядағы ұлттық сайлау – 2024",
+        "share_text": "Индонезиядағы ұлттық сайлау – 2024 #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការបោះឆ្នោតថ្នាក់ជាតិនៅឥណ្ឌូណេស៊ី",
+        "hover_text": "ការបោះឆ្នោតថ្នាក់ជាតិនៅឥណ្ឌូណេស៊ីឆ្នាំ 2024",
+        "share_text": "ការបោះឆ្នោតថ្នាក់ជាតិនៅឥណ្ឌូណេស៊ីឆ្នាំ 2024 #GoogleDoodle"
+      },
+      "ko": {
+        "query": "인도네시아 총선",
+        "hover_text": "2024년 인도네시아 총선",
+        "share_text": "2024년 인도네시아 총선 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Индонезиядагы Улуттук шайлоо",
+        "hover_text": "Индонезиядагы Улуттук шайлоо – 2024",
+        "share_text": "Индонезиядагы Улуттук шайлоо – 2024 #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ການເລືອກຕັ້ງແຫ່ງຊາດຂອງອິນໂດເນເຊຍ",
+        "hover_text": "ການເລືອກຕັ້ງແຫ່ງຊາດຂອງອິນໂດເນເຊຍປີ 2024",
+        "share_text": "ການເລືອກຕັ້ງແຫ່ງຊາດຂອງອິນໂດເນເຊຍປີ 2024 #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Elecciones nacionales de Indonesia",
+        "hover_text": "Elecciones nacionales de Indonesia 2024",
+        "share_text": "Elecciones nacionales de Indonesia 2024 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Valsts vēlēšanas Indonēzijā",
+        "hover_text": "2024. gada valsts vēlēšanas Indonēzijā",
+        "share_text": "2024. gada valsts vēlēšanas Indonēzijā #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Indonezijos nacionaliniai rinkimai",
+        "hover_text": "Indonezijos nacionaliniai rinkimai, 2024 m.",
+        "share_text": "Indonezijos nacionaliniai rinkimai, 2024 m. #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Национални избори во Индонезија",
+        "hover_text": "Национални избори во Индонезија, 2024 г.",
+        "share_text": "Национални избори во Индонезија, 2024 г. #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Pilihan Raya Kebangsaan Indonesia",
+        "hover_text": "Pilihan Raya Kebangsaan Indonesia 2024",
+        "share_text": "Pilihan Raya Kebangsaan Indonesia 2024 #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഇന്തോനേഷ്യൻ ദേശീയ തിരഞ്ഞെടുപ്പ്",
+        "hover_text": "ഇന്തോനേഷ്യൻ ദേശീയ തിരഞ്ഞെടുപ്പ് 2024",
+        "share_text": "ഇന്തോനേഷ്യൻ ദേശീയ തിരഞ്ഞെടുപ്പ് 2024 #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "इंडोनेशियाच्या राष्ट्रीय निवडणुका",
+        "hover_text": "इंडोनेशियाच्या राष्ट्रीय निवडणुका २०२४",
+        "share_text": "इंडोनेशियाच्या राष्ट्रीय निवडणुका २०२४ #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Индонезийн үндэсний сонгууль",
+        "hover_text": "2024 оны Индонезийн үндэсний сонгууль",
+        "share_text": "2024 оны Индонезийн үндэсний сонгууль #GoogleDoodle"
+      },
+      "ne": {
+        "query": "इन्डोनेसियाको राष्ट्रिय निर्वाचन",
+        "hover_text": "इन्डोनेसियाको राष्ट्रिय निर्वाचन २०२४",
+        "share_text": "इन्डोनेसियाको राष्ट्रिय निर्वाचन २०२४ #GoogleDoodle"
+      },
+      "no": {
+        "query": "Nasjonalvalget i Indonesia",
+        "hover_text": "Nasjonalvalget i Indonesia 2024",
+        "share_text": "Nasjonalvalget i Indonesia 2024 #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "انتخابات ملی اندونزی",
+        "hover_text": "انتخابات ملی اندونزی ۲۰۲۴",
+        "share_text": "انتخابات ملی اندونزی ۲۰۲۴ ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Wybory w Indonezji",
+        "hover_text": "Wybory 2024 w Indonezji",
+        "share_text": "Wybory 2024 w Indonezji #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Eleições nacionais da Indonésia",
+        "hover_text": "Eleições nacionais da Indonésia 2024",
+        "share_text": "Eleições nacionais da Indonésia 2024 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Eleições Nacionais da Indonésia",
+        "hover_text": "Eleições Nacionais da Indonésia de 2024",
+        "share_text": "Eleições Nacionais da Indonésia de 2024 #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਇੰਡੋਨੇਸ਼ੀਆ ਦੀਆਂ ਰਾਸ਼ਟਰੀ ਚੋਣਾਂ",
+        "hover_text": "ਇੰਡੋਨੇਸ਼ੀਆ ਦੀਆਂ ਰਾਸ਼ਟਰੀ ਚੋਣਾਂ 2024",
+        "share_text": "ਇੰਡੋਨੇਸ਼ੀਆ ਦੀਆਂ ਰਾਸ਼ਟਰੀ ਚੋਣਾਂ 2024 #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Alegeri naționale în Indonezia",
+        "hover_text": "Alegeri naționale în Indonezia – 2024",
+        "share_text": "Alegeri naționale în Indonezia – 2024 #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Президентские выборы в Индонезии",
+        "hover_text": "Президентские выборы в Индонезии – 2024",
+        "share_text": "Президентские выборы в Индонезии – 2024 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Општи избори у Индонезији",
+        "hover_text": "Општи избори у Индонезији 2024.",
+        "share_text": "Општи избори у Индонезији 2024. #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Opšti izbori u Indoneziji",
+        "hover_text": "Opšti izbori u Indoneziji 2024.",
+        "share_text": "Opšti izbori u Indoneziji 2024. #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ඉන්දුනීසියාවේ ජාතික මැතිවරණය",
+        "hover_text": "ඉන්දුනීසියාවේ ජාතික මැතිවරණය 2024",
+        "share_text": "ඉන්දුනීසියාවේ ජාතික මැතිවරණය 2024 #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Indonézske národné voľby",
+        "hover_text": "Indonézske národné voľby 2024",
+        "share_text": "Indonézske národné voľby 2024 #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Državne volitve v Indoneziji",
+        "hover_text": "Državne volitve v Indoneziji 2024",
+        "share_text": "Državne volitve v Indoneziji 2024 #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Elecciones generales de Indonesia",
+        "hover_text": "Elecciones generales de Indonesia 2024",
+        "share_text": "Elecciones generales de Indonesia 2024 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Uchaguzi wa Kitaifa wa Indonesia",
+        "hover_text": "Uchaguzi wa Kitaifa wa Indonesia 2024",
+        "share_text": "Uchaguzi wa Kitaifa wa Indonesia 2024 #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Nationella val i Indonesien",
+        "hover_text": "Nationella val i Indonesien 2024",
+        "share_text": "Nationella val i Indonesien 2024 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Indonesia National Elections",
+        "hover_text": "இந்தோனேசியாவின் தேசியத் தேர்தல்கள் 2024",
+        "share_text": "இந்தோனேசியாவின் தேசியத் தேர்தல்கள் 2024 #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఇండోనేషియా జాతీయ ఎన్నికలు",
+        "hover_text": "ఇండోనేషియా జాతీయ ఎన్నికలు 2024",
+        "share_text": "ఇండోనేషియా జాతీయ ఎన్నికలు 2024 #GoogleDoodle"
+      },
+      "th": {
+        "query": "การเลือกตั้งระดับประเทศของอินโดนีเซีย",
+        "hover_text": "การเลือกตั้งระดับประเทศของอินโดนีเซียปี 2024",
+        "share_text": "การเลือกตั้งระดับประเทศของอินโดนีเซียปี 2024 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Endonezya Ulusal Seçimleri",
+        "hover_text": "2024 Endonezya Ulusal Seçimleri",
+        "share_text": "2024 Endonezya Ulusal Seçimleri #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Національні вибори в Індонезії",
+        "hover_text": "Національні вибори в Індонезії у 2024 році",
+        "share_text": "Національні вибори в Індонезії у 2024 році #GoogleDoodle"
+      },
+      "ur": {
+        "query": "انڈونیشیا کے قومی انتخابات",
+        "hover_text": "انڈونیشیا کے قومی انتخابات 2024",
+        "share_text": "انڈونیشیا کے قومی انتخابات 2024 GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Indoneziyada umumxalq saylovi",
+        "hover_text": "Indoneziyada umumxalq saylovi 2024",
+        "share_text": "Indoneziyada umumxalq saylovi 2024 #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Tổng tuyển cử ở Indonesia",
+        "hover_text": "Tổng tuyển cử ở Indonesia năm 2024",
+        "share_text": "Tổng tuyển cử ở Indonesia năm 2024 #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ukhetho Lukazwelonke lwase-Indonesia",
+        "hover_text": "Ukhetho Lukazwelonke lwase-Indonesia lwango-2024",
+        "share_text": "Ukhetho Lukazwelonke lwase-Indonesia lwango-2024 #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Indonesia National Elections",
+    "share_text": "Indonesia National Elections 2024 #GoogleDoodle"
+  },
+  {
+    "name": "valentines-day-2024",
+    "title": "Valentine's Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/valentines-day-2024-6753651837110186.3-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/-dCnyst3Qh4tiI_I2Gyr5YQhruXGYJ-x62pD4Yqb64kvAPzzGjhgsvTeN8LYCywjv4kQubVNJjNj6a5gE8Y4KyAOKpXdCtzZbw3HE586mcjwdvViY0BRfTg",
+    "high_res_url": "//www.google.com/logos/doodles/2024/valentines-day-2024-6753651837110186-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      2,
+      14
+    ],
+    "translations": {
+      "en": {
+        "query": "Valentine's Day",
+        "hover_text": "Valentine's Day 2024",
+        "share_text": "Happy Valentine's Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Valentynsdag",
+        "hover_text": "Valentynsdag 2024",
+        "share_text": "Gelukkige Valentynsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Shën Valentinit",
+        "hover_text": "Dita e Shën Valentinit, 2024",
+        "share_text": "Gëzuar Festën e Shën-Valentinit! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የፍቅረኞች ቀን",
+        "hover_text": "የፍቅረኞች ቀን 2024",
+        "share_text": "መልካም የቫለንታይን ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد الحب",
+        "hover_text": "عيد الحب 2024",
+        "share_text": "عيد حب سعيد #GoogleDoodle"
+      },
+      "hy": {
+        "query": "Վալենտինի օր",
+        "hover_text": "Վալենտինի օր 2024",
+        "share_text": "Շնորհավո՛ր Վալենտինի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Sevgililər Günü",
+        "hover_text": "2024 Sevgililər Günü",
+        "share_text": "Sevgililər gününüz mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ভ্যালেন্টাইনস ডে",
+        "hover_text": "ভ্যালেন্টাইনস ডে ২০২৪",
+        "share_text": "ভ্যালেন্টাইন্স ডে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "San Valentin eguna",
+        "hover_text": "2024ko San Valentin eguna",
+        "share_text": "San Valentin egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень святога Валянціна",
+        "hover_text": "Дзень святога Валянціна 2024",
+        "share_text": "З Днём святога Валянціна! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Valentinovo",
+        "hover_text": "Valentinovo 2024.",
+        "share_text": "Sretno Valentinovo! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Valentine's Day",
+        "hover_text": "Valentine's Day 2024",
+        "share_text": "Happy Valentine's Day #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на влюбените",
+        "hover_text": "Ден на влюбените 2024 г.",
+        "share_text": "Честит Ден на влюбените! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ချစ်သူများနေ့",
+        "hover_text": "၂၀၂၄ ချစ်သူများနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ်ချစ်သူများနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de Sant Valentí",
+        "hover_text": "Dia de Sant Valentí 2024",
+        "share_text": "Feliç Dia de Sant Valentí! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "情人節",
+        "hover_text": "情人節 2024",
+        "share_text": "情人節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "情人節",
+        "hover_text": "2024 年情人節",
+        "share_text": "情人節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "情人节",
+        "hover_text": "2024 年情人节",
+        "share_text": "情人节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Valentinovo",
+        "hover_text": "Valentinovo 2024.",
+        "share_text": "Sretno Valentinovo! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den sv. Valentýna",
+        "hover_text": "Den svatého Valentýna 2024",
+        "share_text": "Šťastný Valentýn! #GoogleDoodle"
+      },
+      "da": {
+        "query": "valentinsdag",
+        "hover_text": "Valentinsdag 2024",
+        "share_text": "Glædelig valentinsdag! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Valentijnsdag",
+        "hover_text": "Valentijnsdag 2024",
+        "share_text": "Fijne Valentijnsdag #GoogleDoodle"
+      },
+      "et": {
+        "query": "Sõbrapäev",
+        "hover_text": "2024. aasta sõbrapäev",
+        "share_text": "Head sõbrapäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Ystävänpäivä",
+        "hover_text": "Ystävänpäivä 2024",
+        "share_text": "Hyvää ystävänpäivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Saint-Valentin",
+        "hover_text": "Saint-Valentin 2024",
+        "share_text": "Joyeuse Saint-Valentin ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Saint-Valentin",
+        "hover_text": "Saint-Valentin 2024",
+        "share_text": "Joyeuse Saint-Valentin! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día de San Valentín",
+        "hover_text": "Día de San Valentín 2024",
+        "share_text": "Feliz Día de San Valentín! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "წმინდა ვალენტინის დღე",
+        "hover_text": "ვალენტინობა — 2024",
+        "share_text": "გილოცავთ ვალენტინობას! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Valentinstag",
+        "hover_text": "Valentinstag 2024",
+        "share_text": "Alles Gute zum Valentinstag! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα του Αγίου Βαλεντίνου",
+        "hover_text": "Ημέρα του Αγίου Βαλεντίνου 2024",
+        "share_text": "Χρόνια πολλά για την ημέρα του Αγίου Βαλεντίνου! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "વેલેન્ટાઇન ડે",
+        "hover_text": "વૅલેન્ટાઇન ડે 2024",
+        "share_text": "વેલેન્ટાઇન્સ ડેની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "חג האהבה",
+        "hover_text": "ולנטיין דיי 2024",
+        "share_text": "ולנטיינס דיי שמח! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "वैलेंटाइन डे",
+        "hover_text": "वैलेंटाइन डे 2024",
+        "share_text": "वैलेंटाइन डे की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Valentin-nap",
+        "hover_text": "Valentin-nap, 2024",
+        "share_text": "Boldog Valentin-napot! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Valentínusardagurinn",
+        "hover_text": "Valentínusardagur 2024",
+        "share_text": "Gleðilegan Valentínusardag! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kasih Sayang",
+        "hover_text": "Hari Valentine 2024",
+        "share_text": "Selamat Hari Valentine! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá San Vailintín",
+        "hover_text": "Lá Fhéile Vailintín, 2024",
+        "share_text": "Lá San Vailintín faoi mhaise duit. #GoogleDoodle"
+      },
+      "it": {
+        "query": "San Valentino",
+        "hover_text": "San Valentino 2024",
+        "share_text": "Buon San Valentino! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "バレンタイン デー",
+        "hover_text": "2024 年バレンタイン デー",
+        "share_text": "バレンタイン デーを祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಪ್ರೇಮಿಗಳ ದಿನ",
+        "hover_text": "ಪ್ರೇಮಿಗಳ ದಿನ 2024",
+        "share_text": "ಹ್ಯಾಪಿ ವ್ಯಾಲೆಂಟೈನ್ಸ್ ಡೇ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Әулие Валентин күні",
+        "hover_text": "Валентин күні – 2024",
+        "share_text": "Валентин күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាបុណ្យ​នៃ​ក្ដី​ស្រឡាញ់",
+        "hover_text": "ទិវាបុណ្យនៃក្ដីស្រឡាញ់ឆ្នាំ 2024",
+        "share_text": "រីករាយទិវានៃ​ក្ដីស្រឡាញ់! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "밸런타인데이",
+        "hover_text": "2024년 밸런타인데이",
+        "share_text": "발렌타인 데이 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Ыйык Валентин күнү",
+        "hover_text": "Ыйык Валентин күнү – 2024",
+        "share_text": "Ыйык Валентин күнүңүз менен! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນວາເລນທາຍ",
+        "hover_text": "ວັນວາເລນທາຍ 2024",
+        "share_text": "ສຸກສັນວັນວາເລນທາຍ #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de San Valentín",
+        "hover_text": "Día de San Valentín 2024",
+        "share_text": "¡Feliz día de San Valentín! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Valentīndiena",
+        "hover_text": "Valentīndiena — 2024",
+        "share_text": "Sveicam Valentīndienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Valentino diena",
+        "hover_text": "Valentino diena, 2024 m.",
+        "share_text": "Su Valentino diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на вљубените",
+        "hover_text": "Ден на вљубените, 2024 г.",
+        "share_text": "Среќен Ден на вљубените! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny mpifankatia",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny mpifankatia ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Valentine",
+        "hover_text": "Hari Valentine 2024",
+        "share_text": "Selamat Hari Valentine! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "വാലന്‍റൈന്‍സ് ദിനം",
+        "hover_text": "പ്രണയ ദിനം 2024",
+        "share_text": "പ്രണയദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "व्हॅलेंटाईन डे",
+        "hover_text": "व्हॅलेंटाइन्स डे २०२४",
+        "share_text": "व्हॅलेंटाइन्स डेच्या हार्दिक शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Валентины баяр",
+        "hover_text": "2024 оны Валентины баяр",
+        "share_text": "Гэгээн Валентины баярын мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "प्रणय दिवस",
+        "hover_text": "प्रणय दिवस २०२४",
+        "share_text": "प्रणय दिवसको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Valentinsdagen",
+        "hover_text": "Valentinsdagen 2024",
+        "share_text": "Til lykke med valentinsdagen! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଭେଲେଣ୍ଟାଇନ୍‍ ଡେ",
+        "hover_text": null,
+        "share_text": "ଭାଲେଣ୍ଟାଇନ୍‌ଙ୍କ ଦିବସର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز ولنتاین",
+        "hover_text": "روز ولنتاین ۲۰۲۴",
+        "share_text": "روز ولنتاین مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Walentynki",
+        "hover_text": "Walentynki 2024",
+        "share_text": "Szczęśliwych walentynek! #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia dos Namorados",
+        "hover_text": "Dia dos Namorados 2024",
+        "share_text": "Feliz Dia dos Namorados! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia dos namorados",
+        "hover_text": "Dia dos Namorados de 2024",
+        "share_text": "Feliz dia dos namorados! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਵੈਲੇਨਟਾਈਨ ਡੇ",
+        "hover_text": "ਵੈਲੇਨਟਾਈਨ ਡੇ 2024",
+        "share_text": "ਵੈਲੇਨਟਾਈਨ ਡੇ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Îndrăgostiților",
+        "hover_text": "Ziua Îndrăgostiților 2024",
+        "share_text": "La mulți ani de Ziua Îndrăgostiților! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Дня святого Валентина",
+        "hover_text": "День святого Валентина – 2024",
+        "share_text": "День святого Валентина #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан заљубљених",
+        "hover_text": "Дан заљубљених 2024.",
+        "share_text": "Срећан Дан заљубљених! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan zaljubljenih",
+        "hover_text": "Dan zaljubljenih 2024.",
+        "share_text": "Srećan Dan zaljubljenih! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen sen valanten",
+        "hover_text": null,
+        "share_text": "Bonn fet valanten! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "වැලන්ටයින් දිනය",
+        "hover_text": "ආදරවන්තයින්ගේ දිනය 2024",
+        "share_text": "සුබ වැලන්ටයින් දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň svätého Valentína",
+        "hover_text": "Deň svätého Valentína 2024",
+        "share_text": "Šťastný Deň svätého Valentína! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Valentinovo",
+        "hover_text": "Valentinovo 2024",
+        "share_text": "Veselo valentinovo! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Falayntayn",
+        "hover_text": null,
+        "share_text": "Maalinta Farxada leh ee Falantanka! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi le Valentine",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Baratani #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de San Valentín",
+        "hover_text": "Día de San Valentín 2024",
+        "share_text": "¡Feliz Día de San Valentín! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Wapendanao",
+        "hover_text": "Siku ya Wapendanao 2024",
+        "share_text": "Heri za Siku ya Wapendanao! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Alla hjärtans dag",
+        "hover_text": "Alla hjärtans dag 2024",
+        "share_text": "Glad alla hjärtans dag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "காதலர் தினம்",
+        "hover_text": "காதலர் தினம் 2024",
+        "share_text": "காதலர் தின நல்வாழ்த்துகள் 2019! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ప్రేమికుల దినోత్సవం",
+        "hover_text": "ప్రేమికుల దినోత్సవం 2024",
+        "share_text": "ప్రేమికుల దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันวาเลนไทน์",
+        "hover_text": "วันวาเลนไทน์ปี 2024",
+        "share_text": "สุขสันต์วันวาเลนไทน์ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Valentine",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Valentine's! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Sevgililer Günü",
+        "hover_text": "2024 Sevgililer Günü",
+        "share_text": "Sevgililer Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День святого Валентина",
+        "hover_text": "День святого Валентина у 2024 році",
+        "share_text": "З Днем закоханих! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "ویلینٹائنز ڈے",
+        "hover_text": "ویلینٹائن ڈے 2024",
+        "share_text": "ویلینٹائن ڈے مبارک ہو! ‎#GoogleDoodle"
+      },
+      "uz": {
+        "query": "Valentin kuni",
+        "hover_text": "Valentin kuni 2024",
+        "share_text": "Avliyo Valentin kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày lễ tình nhân",
+        "hover_text": "Ngày lễ Tình nhân năm 2024",
+        "share_text": "Chúc mừng Ngày lễ tình nhân! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku le-Valentine",
+        "hover_text": "Usuku Lwezithandani lwango-2024",
+        "share_text": "Usuku lwezithandani oluhle! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Valentine's Day",
+    "share_text": "Happy Valentine's Day! #GoogleDoodle"
+  },
+  {
     "name": "mothers-day-2024-feb-11",
     "title": "Mother's Day 2024 (Feb 11)",
     "url": "//www.google.com/logos/doodles/2024/mothers-day-2024-feb-11-6753651837110358.3-l.png",
