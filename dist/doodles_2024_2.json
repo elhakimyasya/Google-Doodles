@@ -1,5 +1,504 @@
 [
   {
+    "name": "serbia-national-day-2024",
+    "title": "Serbia National Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/serbia-national-day-2024-6753651837110187-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/8s7guXBsLSrNLfE3CMgnEegyECnJ7VsDoCKXB2vCMhmRll_L06v7hl_lThXJ1xIlnQ46ENOvFAtNTz2CuRwp6rSCTFw5ySC8YPPvjBB_QOMLkc-p8kKNfQ",
+    "high_res_url": "//www.google.com/logos/doodles/2024/serbia-national-day-2024-6753651837110187-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      2,
+      15
+    ],
+    "translations": {
+      "en": {
+        "query": "Serbia National Day",
+        "hover_text": "Serbia National Day 2024",
+        "share_text": "Happy National Day, Serbia! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Serwië se nasionale dag",
+        "hover_text": "Serwië se nasionale dag 2024",
+        "share_text": "Gelukkige nasionale dag, Serwië! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita Kombëtare e Serbisë",
+        "hover_text": "Dita Kombëtare e Serbisë, 2024",
+        "share_text": "Gëzuar Ditën Kombëtare, Serbi! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የሰርቢያ ብሔራዊ ቀን",
+        "hover_text": "የሰርቢያ ብሔራዊ ቀን 2024",
+        "share_text": "መልካም ብሔራዊ ቀን ሰርቢያ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "العيد القومي لصربيا",
+        "hover_text": "العيد الوطني لصربيا 2024",
+        "share_text": "الاحتفال بالعيد الوطني، صربيا #GoogleDoodle"
+      },
+      "hy": {
+        "query": "Սերբիայի ազգային տոն",
+        "hover_text": "Սերբիայի ազգային տոն 2024",
+        "share_text": "Շնորհավո՛ր Սերբիայի ազգային տոնը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Serbiyanın Müstəqllik Günü",
+        "hover_text": "2024 Serbiyanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Serbiya! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "সার্বিয়ার জাতীয় দিবস",
+        "hover_text": "সার্বিয়ার জাতীয় দিবস ২০২৪",
+        "share_text": "জাতীয় দিবসের শুভেচ্ছা, সার্বিয়া! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Serbiako Egun Nazionala",
+        "hover_text": "2024ko Serbiako Egun Nazionala",
+        "share_text": "Egun Nazional zoriontsua izan, Serbia! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень дзяржаўнасці Сербіі",
+        "hover_text": "Дзень дзяржаўнасці Сербіі 2024",
+        "share_text": "З Днём дзяржаўнасці, Сербія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan državnosti Srbije",
+        "hover_text": "Dan državnosti Srbije 2024.",
+        "share_text": "Sretan Dan državnosti, Srbijo! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Serbia National Day",
+        "hover_text": "Serbia National Day 2024",
+        "share_text": "Happy National Day, Serbia! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Национален празник на Сърбия",
+        "hover_text": "Национален празник на Сърбия 2024 г.",
+        "share_text": "Честит национален празник на Сърбия! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဆားဘီးယား အမျိုးသားနေ့",
+        "hover_text": "၂၀၂၄ ဆားဘီးယားနိုင်ငံ အမျိုးသားနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် အမျိုးသားနေ့ဖြစ်ပါစေ၊ ဆားဘီးယား။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia Nacional de Sèrbia",
+        "hover_text": "Dia Nacional de Sèrbia 2024",
+        "share_text": "Feliç Dia Nacional, Sèrbia! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "2019 年塞爾維亞國慶日",
+        "hover_text": "2024 年塞爾維亞國慶日",
+        "share_text": "塞爾維亞，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "塞爾維亞國慶日",
+        "hover_text": "2024 年塞爾維亞國慶日",
+        "share_text": "塞爾維亞，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "塞尔维亚国庆日",
+        "hover_text": "2024 年塞尔维亚国庆节",
+        "share_text": "塞尔维亚，国庆日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan državnosti Srbije",
+        "hover_text": "Dan državnosti Srbije 2024.",
+        "share_text": "Sretan Dan državnosti, Srbijo! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Státní svátek Srbska",
+        "hover_text": "Den srbské státnosti 2024",
+        "share_text": "Vše nejlepší ke státnímu svátku, Srbsko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Serbiens nationaldag",
+        "hover_text": "Serbiens nationaldag 2024",
+        "share_text": "Vi fejrer Serbiens nationaldag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Nationale feestdag Servië",
+        "hover_text": "Nationale feestdag Servië 2024",
+        "share_text": "Fijne nationale feestdag, Servië #GoogleDoodle"
+      },
+      "et": {
+        "query": "Serbia rahvuspüha",
+        "hover_text": "Serbia 2024. aasta rahvuspüha",
+        "share_text": "Head rahvuspüha, Serbia! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Serbian kansallispäivä",
+        "hover_text": "Serbian kansallispäivä 2024",
+        "share_text": "Hyvää kansallispäivää, Serbia! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête nationale de la Serbie",
+        "hover_text": "Fête nationale de la Serbie 2024",
+        "share_text": "Fête nationale de la Serbie ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête nationale de la Serbie",
+        "hover_text": "Fête nationale de la Serbie 2024",
+        "share_text": "Joyeuse fête nationale de la Serbie! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día Nacional de Serbia",
+        "hover_text": "Día Nacional de Serbia 2024",
+        "share_text": "Feliz Día Nacional, Serbia! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "სერბეთის ეროვნული დღესასწაული",
+        "hover_text": "სერბეთის ეროვნული დღესასწაული — 2024",
+        "share_text": "ვულოცავთ სერბეთს ეროვნულ დღესასწაულს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Nationalfeiertag Serbien",
+        "hover_text": "Nationalfeiertag Serbien 2024",
+        "share_text": "Alles Gute zum Nationalfeiertag in Serbien! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Εθνική Ημέρα της Σερβίας",
+        "hover_text": "Εθνική Ημέρα της Σερβίας 2024",
+        "share_text": "Γιορτάζουμε την Εθνική Ημέρα της Σερβίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "સર્બિયાનો રાષ્ટ્રીય દિવસ",
+        "hover_text": "સર્બિયાનો રાષ્ટ્રીય દિવસ 2024",
+        "share_text": "રાષ્ટ્રીય દિવસની શુભેચ્છા, સર્બિયા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "החג הלאומי של סרביה",
+        "hover_text": "החג הלאומי של סרביה 2024",
+        "share_text": "חג לאומי שמח לסרביה! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "सर्बिया का राष्ट्रीय दिवस",
+        "hover_text": "सर्बिया का राष्ट्रीय दिवस 2024",
+        "share_text": "राष्ट्रीय दिवस मुबारक हो, सर्बिया! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Szerbia nemzeti ünnepe",
+        "hover_text": "Szerbia nemzeti ünnepe, 2024",
+        "share_text": "Minden jót Szerbia nemzeti ünnepén! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þjóðhátíðardagur Serbíu",
+        "hover_text": "Þjóðhátíðardagur Serbíu 2024",
+        "share_text": "Gleðilegan þjóðhátíðardag, Serbía! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Nasional Serbia",
+        "hover_text": "Hari Nasional Serbia 2024",
+        "share_text": "Selamat Hari Nasional, Serbia! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Náisiúnta na Seirbia",
+        "hover_text": null,
+        "share_text": "Lá Náisiúnta na Seirbia faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa nazionale della Serbia",
+        "hover_text": "Festa nazionale della Serbia 2024",
+        "share_text": "Buona festa nazionale, Serbia! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "セルビア建国記念日",
+        "hover_text": "2024 年セルビア建国記念日",
+        "share_text": "セルビア建国記念日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಸೆರ್ಬಿಯಾ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಸರ್ಬಿಯಾ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆಯ ಶುಭಾಷಯಗಳು, ಸೆರ್ಬಿಯಾ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Сербияның Ұлттық күні",
+        "hover_text": "Сербияның Ұлттық күні – 2024",
+        "share_text": "Сербия, Ұлттық күн құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យជាតិ​ស៊ែប៊ី",
+        "hover_text": "ទិវា​បុណ្យជាតិ​ស៊ែប៊ី​ឆ្នាំ 2024",
+        "share_text": "អបអរទិវា​បុណ្យជាតិ​ស៊ែប៊ី! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "세르비아 국경일",
+        "hover_text": "2024년 세르비아 국경일",
+        "share_text": "세르비아 국경일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Сербиянын Улуттук күнү",
+        "hover_text": "Сербиянын Улуттук күнү – 2024",
+        "share_text": "Улуттук күнүң менен, Сербия! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຊາດເຊີເບຍ",
+        "hover_text": "ວັນຊາດເຊີເບຍ 2024",
+        "share_text": "ສຸກສັນວັນຊາດເຊີເບຍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día Nacional de Serbia",
+        "hover_text": "Día Nacional de Serbia 2024",
+        "share_text": "¡Feliz Día Nacional, Serbia! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Serbijas nacionālie svētki",
+        "hover_text": "Serbijas Nacionālie svētki — 2024",
+        "share_text": "Sveicam nacionālajos svētkos, Serbija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Serbijos nacionalinė diena",
+        "hover_text": "Serbijos nacionalinė diena, 2024 m.",
+        "share_text": "Sveikiname Serbiją su nacionaline diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на државноста на Србија",
+        "hover_text": "Ден на државноста на Србија, 2024 г.",
+        "share_text": "Среќен Ден на државноста, Србија! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetim-pirenena Serbiana",
+        "hover_text": null,
+        "share_text": "Tsarà Fetim-pirenena ry Serbia ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kebangsaan Serbia",
+        "hover_text": "Hari Kebangsaan Serbia 2024",
+        "share_text": "Selamat Hari Kebangsaan, Serbia! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "സെർബിയയുടെ ദേശീയ ദിനം",
+        "hover_text": "സെർബിയൻ ദേശീയ ദിനം 2024",
+        "share_text": "ദേശീയ ദിനാശംസകള്‍, സെര്‍ബിയ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "सर्बियाचा स्वातंत्र्यदिन",
+        "hover_text": "सर्बियाचा राष्ट्रीय दिन २०२४",
+        "share_text": "सर्बियाला राष्ट्रीय दिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Сербийн Үндэсний баярын өдөр",
+        "hover_text": "2024 оны Серби Улсын Үндэсний баярын өдөр",
+        "share_text": "Серби улсын ард иргэдэд Үндэсний баярын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "सर्बियाको राष्ट्रिय दिवस",
+        "hover_text": "सर्बियाको राष्ट्रिय दिवस २०२४",
+        "share_text": "राष्ट्रिय दिवसको शुभकामना, सर्बिया! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Serbias nasjonaldag",
+        "hover_text": "Serbias nasjonaldag 2024",
+        "share_text": "Gratulerer med nasjonaldagen, Serbia! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ସର୍ବିଆ ସ୍ବାଧିନତା ଦିବସ",
+        "hover_text": null,
+        "share_text": "ରାଷ୍ଟ୍ରୀୟ ଦିବସର ଶୁଭେଚ୍ଛା, ସର୍ବିଆ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز ملی صربستان",
+        "hover_text": "روز ملی صربستان - ۲۰۲۴",
+        "share_text": "روز ملی صربستان مبارک! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Narodowe Serbii",
+        "hover_text": "Święto Narodowe Serbii 2024",
+        "share_text": "Serbia obchodzi Święto Narodowe #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia Nacional da Sérvia",
+        "hover_text": "Dia Nacional da Sérvia 2024",
+        "share_text": "Feliz Dia Nacional, Sérvia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia nacional da Sérvia",
+        "hover_text": "Dia Nacional da Sérvia de 2024",
+        "share_text": "Feliz dia nacional, Sérvia! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਸਰਬੀਆ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ",
+        "hover_text": "ਸਰਬੀਆ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ 2024",
+        "share_text": "ਰਾਸ਼ਟਰੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਸਰਬੀਆ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Națională în Serbia",
+        "hover_text": "Ziua Națională a Serbiei – 2024",
+        "share_text": "La mulți ani de Ziua Națională, Serbia! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Национальный праздник Сербии",
+        "hover_text": "День государственности Сербии – 2024",
+        "share_text": "День нации в Сербии #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан државности Србије",
+        "hover_text": "Дан државности Србије 2024.",
+        "share_text": "Честитамо Дан државности Србији! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan državnosti Srbije",
+        "hover_text": "Dan državnosti Srbije 2024.",
+        "share_text": "Čestitamo Dan državnosti Srbiji! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Nasyonal Laserbi",
+        "hover_text": null,
+        "share_text": "Bonn zournen nasyonal Laserbi! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "සර්බියා ජාතික දිනය",
+        "hover_text": "සර්බියාවේ ජාතික දිනය 2024",
+        "share_text": "සුබ ජාතික දිනයක්, සර්බියාව! #Googleඩූඩල්"
+      },
+      "sk": {
+        "query": "Štátny sviatok Srbska",
+        "hover_text": "Národný deň Srbska 2024",
+        "share_text": "Šťastný národný deň, Srbsko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Srbski dan državnosti",
+        "hover_text": "Srbski dan državnosti 2024",
+        "share_text": "Vesel dan državnosti, Srbija. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Qaranka Serbia",
+        "hover_text": null,
+        "share_text": "Maalinta Qaranka Farxada leh, Seerbiya! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Naha la Serbia",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Naha, Serbia! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día Nacional de Serbia",
+        "hover_text": "Día Nacional de Serbia 2024",
+        "share_text": "¡Feliz Día Nacional de Serbia! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Kitaifa ya Serbia",
+        "hover_text": "Sikukuu ya Kitaifa ya Sabia 2024",
+        "share_text": "Heri za Sikukuu ya Kitaifa, Serbia! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Serbiens nationaldag",
+        "hover_text": "Serbiens nationaldag 2024",
+        "share_text": "Vi firar Serbiens nationaldag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "செர்பியாவின் தேசிய தினம்",
+        "hover_text": "செர்பியாவின் தேசிய தினம் 2024",
+        "share_text": "செர்பியாவின் தேசிய தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "Serbia National Dayసెర్బియా జాతీయ దినోత్సవం",
+        "hover_text": "సెర్బియా జాతీయ దినోత్సవం 2024",
+        "share_text": "జాతీయ దినోత్సవ శుభాకాంక్షలు, సెర్బియా! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันชาติเซอร์เบีย",
+        "hover_text": "วันชาติเซอร์เบียปี 2024",
+        "share_text": "สุขสันต์วันชาติเซอร์เบีย #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Setšhaba la Serbia",
+        "hover_text": null,
+        "share_text": "Itumeleleng Letsatsi la Setšhaba, Serbia! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Sırbistan Milli Günü",
+        "hover_text": "2024 Sırbistan Ulusal Günü",
+        "share_text": "Sırbistan'ın Ulusal Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Національний день Сербії",
+        "hover_text": "Національний день Сербії у 2024 році",
+        "share_text": "Вітаємо з Національним днем, Сербіє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "سربیا کا قومی دن",
+        "hover_text": "سربیا کا قومی دن 2024",
+        "share_text": "سربیا کا قومی دن مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Serbiya milliy bayrami",
+        "hover_text": "Serbiya milliy bayrami 2024",
+        "share_text": "Serbiya milliy bayrami muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Serbia",
+        "hover_text": "Ngày Quốc khánh Serbia năm 2024",
+        "share_text": "Mừng ngày quốc khánh Serbia! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lezwe lase-Serbia",
+        "hover_text": "Usuku Lukazwelonke lwase-Serbia lwango-2024",
+        "share_text": "I-Happy National Day, Serbia! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Serbia National Day",
+    "share_text": "Happy National Day, Serbia! #GoogleDoodle"
+  },
+  {
     "name": "indonesia-national-elections-2024",
     "title": "Indonesia National Elections 2024",
     "url": "//www.google.com/logos/doodles/2024/indonesia-national-elections-2024-6753651837110353-l.png",
