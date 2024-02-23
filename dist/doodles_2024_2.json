@@ -1,5 +1,504 @@
 [
   {
+    "name": "casimir-funks-140th-birthday",
+    "title": "Casimir Funk's 140th Birthday",
+    "url": "//www.google.com/logos/doodles/2024/casimir-funks-140th-birthday-6753651837110355-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/yJrZKUdcCSYN_v_5x6hKvDbc7azlFHaUJ_BHU74deonFaXM_OFATiVFkQ1tdRB_7f5b_1U1_APrKuYNjASfp0RDXd4nmo7LGSqV03Qc8fI_LUjMboftg",
+    "high_res_url": "//www.google.com/logos/doodles/2024/casimir-funks-140th-birthday-6753651837110355-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      2,
+      23
+    ],
+    "translations": {
+      "en": {
+        "query": "Casimir Funk",
+        "hover_text": "Casimir Funk's 140th Birthday",
+        "share_text": "Casimir Funk's 140th Birthday! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Kazimierz Funk",
+        "hover_text": "Kazimierz Funk se 140e verjaarsdag",
+        "share_text": "Kazimierz Funk se 140e verjaarsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Casimir Funk",
+        "hover_text": "140-vjetori i lindjes së Casimir Funk",
+        "share_text": "140-vjetori i lindjes së Casimir Funk! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ካዚሚር ፋንክ",
+        "hover_text": "የካዚሚር ፋንክ 140ኛ ልደት",
+        "share_text": "የካዚሚር ፋንክ 140ኛ ልደት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "\"كازيمير فانك\"",
+        "hover_text": "الذكرى 140 لميلاد \"كازيمير فانك\"",
+        "share_text": "نحتفل اليوم بالذكرى 140 لميلاد \"كازيمير فانك\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Կազիմեժ Ֆունկ",
+        "hover_text": "Կազիմեժ Ֆունկի ծննդյան 140-ամյակը",
+        "share_text": "Կազիմեժ Ֆունկի ծննդյան 140-ամյակը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Casimir Funk",
+        "hover_text": "Casimir Funk-un 140-cı ildönümü",
+        "share_text": "Casimir Funk-un 140-cı ildönümü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "কাসিমির ফুনক",
+        "hover_text": "কাসিমির ফুনকের ১৪০তম জন্মদিন",
+        "share_text": "কাসিমির ফুনকের ১৪০তম জন্মদিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Casimir Funk",
+        "hover_text": "Casimir Funken jaiotzaren 140. urteurrena",
+        "share_text": "Casimir Funken jaiotzaren 140. urteurrena #GoogleDoodle"
+      },
+      "be": {
+        "query": "Казімір Функ",
+        "hover_text": "140 гадоў з дня нараджэння Казіміра Функа",
+        "share_text": "140 гадоў з дня нараджэння Казіміра Функа! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Kazimir Funk",
+        "hover_text": "140 godina od rođenja Kazimira Funka",
+        "share_text": "140 godina od rođenja Kazimira Funka! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Casimir Funk",
+        "hover_text": "Casimir 140th birthday",
+        "share_text": "Casimir Funk's 140th birthday #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Кажимеж Функ",
+        "hover_text": "140 години от рождението на Кажимеж Функ",
+        "share_text": "140 години от рождението на Кажимеж Функ! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Casimir Funk",
+        "hover_text": "Casimir Funk ၏ နှစ် ၁၄၀ ပြည့်မွေးနေ့",
+        "share_text": "Casimir Funk ၏ နှစ် ၁၄၀ ပြည့်မွေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Casimir Funk",
+        "hover_text": "140è aniversari del naixement de Casimir Funk",
+        "share_text": "140è aniversari del naixement de Casimir Funk #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Casimir Funk",
+        "hover_text": "Casimir Funk 誕辰 140 週年",
+        "share_text": "Casimir Funk 誕辰 140 週年！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "卡西米爾馮克",
+        "hover_text": "卡西米爾馮克 140 歲冥誕",
+        "share_text": "紀念卡西米爾馮克 140 歲冥誕！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "卡西米尔·冯克",
+        "hover_text": "卡西米尔·冯克诞辰 140 周年",
+        "share_text": "卡西米尔·冯克诞辰 140 周年！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Kazimir Funk",
+        "hover_text": "140. godišnjica rođenja Kazimira Funka",
+        "share_text": "140. godišnjica rođenja Kazimira Funka! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Casimir Funk",
+        "hover_text": "Slavíme 140. výročí narození Casimira Funka!",
+        "share_text": "Slavíme 140. výročí narození Casimira Funka! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Casimir Funk",
+        "hover_text": "Casimir Funks 140-års fødselsdag",
+        "share_text": "Casimir Funks 140-års fødselsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Casimir Funk",
+        "hover_text": "140e geboortedag van Casimir Funk",
+        "share_text": "De 140e geboortedag van Casimir Funk! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Casimir Funk",
+        "hover_text": "Casimir Funki 140. sünniaastapäev",
+        "share_text": "Casimir Funki 140. sünniaastapäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Casimir Funk",
+        "hover_text": "140 vuotta Casimir Funkin syntymästä",
+        "share_text": "140 vuotta Casimir Funkin syntymästä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Casimir Funk",
+        "hover_text": "Il y a 140 ans naissait Casimir Funk",
+        "share_text": "Il y a 140 ans naissait Casimir Funk #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Casimir Funk",
+        "hover_text": "140ᵉ anniversaire de naissance de Casimir Funk",
+        "share_text": "140ᵉ anniversaire de naissance de Casimir Funk! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Casimir Funk",
+        "hover_text": "140.º aniversario do nacemento de Casimir Funk",
+        "share_text": "140.º aniversario do nacemento de Casimir Funk! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "კასიმირ ფუნკი",
+        "hover_text": "140 წელი კასიმირ ფუნკის დაბადებიდან",
+        "share_text": "140 წელი კასიმირ ფუნკის დაბადებიდან! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Casimir Funk",
+        "hover_text": "140. Geburtstag von Casimir Funk",
+        "share_text": "140. Geburtstag von Casimir Funk! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Casimir Funk",
+        "hover_text": "140 χρόνια από τη γέννηση του Casimir Funk",
+        "share_text": "140 χρόνια από τη γέννηση του Casimir Funk! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "કાઝીમીર્ઝ ફુંક",
+        "hover_text": "કાઝીમીર્ઝ ફુંકનો 140મો જન્મદિવસ",
+        "share_text": "કાઝીમીર્ઝ ફુંકનો 140મો જન્મદિવસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "קזימיר פונק",
+        "hover_text": "140 שנים להולדת קזימיר פונק",
+        "share_text": "140 שנים להולדת קזימיר פונק GoogleDoodle#"
+      },
+      "hi": {
+        "query": "काज़ीमियर फ़ून्क",
+        "hover_text": "काज़ीमियर फ़ून्क की 140वीं जयंती",
+        "share_text": "काज़ीमियर फ़ून्क की 140वीं जयंती! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Casimir Funk",
+        "hover_text": "Casimir Funk születésének 140. évfordulója",
+        "share_text": "Casimir Funk születésének 140. évfordulója #GoogleDoodle"
+      },
+      "is": {
+        "query": "Kazimierz Funk",
+        "hover_text": "140 ár frá fæðingu Kazimierz Funk",
+        "share_text": "140 ár frá fæðingu Kazimierz Funk! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Casimir Funk",
+        "hover_text": "Ulang Tahun Ke-140 Casimir Funk",
+        "share_text": "Ulang Tahun Ke-140 Casimir Funk #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Casimir Funk",
+        "hover_text": "140° anniversario della nascita di Casimir Funk",
+        "share_text": "140° anniversario della nascita di Casimir Funk! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "カシミール・フンク",
+        "hover_text": "カシミール・フンク生誕 140 周年",
+        "share_text": "カシミール・フンク生誕 140 周年 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಕಾಜಿಮಿರ್ಜ್ ಫಂಕ್",
+        "hover_text": "ಕಾಜಿಮಿರ್ಜ್ ಫಂಕ್ ಅವರ 140ನೇ ಜನ್ಮದಿನ",
+        "share_text": "ಕಾಜಿಮಿರ್ಜ್ ಫಂಕ್ ಅವರ 140ನೇ ಜನ್ಮದಿನ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Казимеж Функ",
+        "hover_text": "Казимеж Функтың 140 жылдығы",
+        "share_text": "Казимеж Функтың 140 жылдығы құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Casimir Funk",
+        "hover_text": "ខួបកំណើតគម្រប់ 140 ឆ្នាំ​របស់ Casimir Funk",
+        "share_text": "ខួបកំណើតគម្រប់ 140 ឆ្នាំ​របស់ Casimir Funk! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Casimir Funk",
+        "hover_text": "Casimir Funk 탄생 140주년",
+        "share_text": "Casimir Funk 탄생 140주년 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Казимеж Функ",
+        "hover_text": "Казимеж Функтун 140 жаш мааракеси",
+        "share_text": "Казимеж Функтун 140 жаш мааракеси! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Casimir Funk",
+        "hover_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 140 ປີຂອງ Casimir Funk",
+        "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 140 ປີຂອງ Casimir Funk! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Casimir Funk",
+        "hover_text": "140º aniversario del nacimiento de Casimir Funk",
+        "share_text": "¡140º aniversario del nacimiento de Casimir Funk! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Kazimežs Funks",
+        "hover_text": "Kazimeža Funka 140. dzimšanas diena",
+        "share_text": "Kazimeža Funka 140. dzimšanas diena! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Casimiras Funkas",
+        "hover_text": "140-asis Casimiro Funko gimtadienis",
+        "share_text": "140-asis Casimiro Funko gimtadienis! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Casimir Funk",
+        "hover_text": "140. роденден на Casimir Funk",
+        "share_text": "140. роденден на Casimir Funk! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Casimir Funk",
+        "hover_text": "Ulang Tahun Kelahiran Casimir Funk yang ke-140",
+        "share_text": "Ulang Tahun Kelahiran Casimir Funk yang ke-140! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Casimir Funk",
+        "hover_text": "Casimir Funk-ന്റെ 140-ാമത് ജന്മദിനം",
+        "share_text": "Casimir Funk-ന്റെ 140-ാമത് ജന്മദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "काजिमीश फुंक",
+        "hover_text": "काजिमीश फुंक यांचा १४० वा स्मृतिदिन",
+        "share_text": "काजिमीश फुंक यांचा १४० वा स्मृतिदिन! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Касимир Фанк",
+        "hover_text": "Касимир Фанкийн мэндэлсний 140 жилийн ой",
+        "share_text": "Касимир Фанкийн мэндэлсний 140 жилийн ой! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Casimir Funk",
+        "hover_text": "Casimir Funk को १४० औँ जन्मजयन्ती",
+        "share_text": "Casimir Funk को १४० औँ जन्मजयन्ती! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Kazimierz Funk",
+        "hover_text": "Kazimierz Funks 140-årsdag",
+        "share_text": "Kazimierz Funks 140-årsdag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "کاسیمیر فونک",
+        "hover_text": "صدوچهلمین زادروز کاسیمیر فونک",
+        "share_text": "صدوچهلمین زادروز کاسیمیر فونک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Kazimierz Funk",
+        "hover_text": "Kazimierz Funk – 140 rocznica urodzin",
+        "share_text": "Kazimierz Funk – 140 rocznica urodzin #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Casimir Funk",
+        "hover_text": "140º aniversário de Casimir Funk",
+        "share_text": "140º aniversário de Casimir Funk #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Casimir Funk",
+        "hover_text": "140.º Aniversário de Casimir Funk",
+        "share_text": "140.º Aniversário de Casimir Funk! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Casimir Funk",
+        "hover_text": "ਕੈਸੀਮੀਰ ਫੰਕ ਦਾ 140ਵਾਂ ਜਨਮਦਿਨ",
+        "share_text": "ਕੈਸੀਮੀਰ ਫੰਕ ਦਾ 140ਵਾਂ ਜਨਮਦਿਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Casimir Funk",
+        "hover_text": "140 de ani de la nașterea lui Casimir Funk",
+        "share_text": "140 de ani de la nașterea lui Casimir Funk! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Казимеж Функ",
+        "hover_text": "140 лет со дня рождения Казимежа Функа",
+        "share_text": "140 лет со дня рождения Казимежа Функа #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Казимјеж Функ",
+        "hover_text": "140 година од рођења Казимјежа Функа",
+        "share_text": "140 година од рођења Казимјежа Функа! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Kazimjež Funk",
+        "hover_text": "140 godina od rođenja Kazimježa Funka",
+        "share_text": "140 godina od rođenja Kazimježa Funka! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "කැසිමීර් ෆන්ක්",
+        "hover_text": "කැසිමීර් ෆන්ක්ගේ 140 වැනි උපන් දිනය",
+        "share_text": "කැසිමීර් ෆන්ක්ගේ 140 වැනි උපන් දිනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Kazimierz Funk",
+        "hover_text": "140. výročie narodenia Kazimierza Funka",
+        "share_text": "140. výročie narodenia Kazimierza Funka. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Kazimierz Funk",
+        "hover_text": "140. rojstni dan Kazimierza Funka",
+        "share_text": "140. rojstni dan Kazimierza Funka! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Casimir Funk",
+        "hover_text": "140.º aniversario del nacimiento de Casimir Funk",
+        "share_text": "Hoy es el 140.º aniversario del nacimiento de Casimir Funk #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Casimir Funk",
+        "hover_text": "Miaka 140 Tangu Kuzaliwa kwa Casimir Funk",
+        "share_text": "Miaka 140 Tangu Kuzaliwa kwa Casimir Funk! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Casimir Funk",
+        "hover_text": "Casimir Funk 140 år",
+        "share_text": "Casimir Funk 140 år! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "கசிமிர் பங்",
+        "hover_text": "கசிமிர் பங்கின் 140வது பிறந்தநாள்",
+        "share_text": "கசிமிர் பங்கின் 140வது பிறந்தநாள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "కాసిమిర్ ఫంక్",
+        "hover_text": "కాసిమిర్ ఫంక్ 140వ జయంతి",
+        "share_text": "కాసిమిర్ ఫంక్ 140వ జయంతి! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Casimir Funk",
+        "hover_text": "วันเกิดปีที่ 140 ของ Casimir Funk",
+        "share_text": "วันเกิดปีที่ 140 ของ Casimir Funk #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Casimir Funk",
+        "hover_text": "Casimir Funk'ın 140. Doğum Günü",
+        "share_text": "Casimir Funk'ın 140. doğum gününü kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Казимир Функ",
+        "hover_text": "140 років від дня народження Казимира Функа",
+        "share_text": "140 років від дня народження Казимира Функа! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Casimir Funk",
+        "hover_text": "Casimir Funk کی 140 ویں سالگرہ",
+        "share_text": "Casimir Funk کی 140 ویں سالگرہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Casimir Funk",
+        "hover_text": "Casimir Funk tavalludining 140 yilligi",
+        "share_text": "Casimir Funk tavalludining 140 yilligi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Casimir Funk",
+        "hover_text": "Kỷ niệm 140 năm ngày sinh của Casimir Funk",
+        "share_text": "Kỷ niệm 140 năm ngày sinh của Casimir Funk! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Casimir Funk",
+        "hover_text": "Usuku Lokuzalwa luka-Casimir Funk Lweminyaka engu-140",
+        "share_text": "Usuku Lokuzalwa luka-Casimir Funk Lweminyaka engu-140! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Casimir Funk",
+    "share_text": "Casimir Funk's 140th Birthday! #GoogleDoodle"
+  },
+  {
     "name": "lithuania-independence-day-2024",
     "title": "Lithuania Independence Day 2024",
     "url": "//www.google.com/logos/doodles/2024/lithuania-independence-day-2024-6753651837109997-law.gif",
