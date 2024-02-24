@@ -1,5 +1,1003 @@
 [
   {
+    "name": "estonia-independence-day-2024",
+    "title": "Estonia Independence Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/estonia-independence-day-2024-6753651837110189.2-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/cU6UNw63UGiieBgS0wuDYmMxKToQMYfYoJ59mIKy2bBcOHdiFXUFEBYs6rEo-xwA4tFQnpmnzfwvlrRFsMMZw0u0mUxwkUZWq0vhXLZsb6MlwLjq0n3_",
+    "high_res_url": "//www.google.com/logos/doodles/2024/estonia-independence-day-2024-6753651837110189-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      2,
+      24
+    ],
+    "translations": {
+      "en": {
+        "query": "Estonia Independence Day",
+        "hover_text": "Estonia Independence Day 2024",
+        "share_text": "Happy Independence Day, Estonia! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Estland se onafhanklikheidsdag",
+        "hover_text": "Estland se onafhanklikheidsdag 2024",
+        "share_text": "Gelukkige onafhanklikheidsdag, Estland! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë së Estonisë",
+        "hover_text": "Dita e Pavarësisë së Estonisë, 2024",
+        "share_text": "Gëzuar Festën e Pavarësisë, Estoni! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የኤስቶኒያ ነጻነት ቀን",
+        "hover_text": "የኢስቶኒያ የነፃነት ቀን 2024",
+        "share_text": "መልካም የነጻነት ቀን ኤስቶኒያ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال أستونيا",
+        "hover_text": "عيد استقلال إستونيا لعام 2024",
+        "share_text": "الاحتفال بعيد استقلال إستونيا #GoogleDoodle"
+      },
+      "hy": {
+        "query": "Էստոնիայի անկախության օր",
+        "hover_text": "Էստոնիայի անկախության օր 2024",
+        "share_text": "Շնորհավո՛ր Էստոնիայի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Estoniyanın Müstəqillik Günü",
+        "hover_text": "2024 Estoniyanın Müstəqillik Günü",
+        "share_text": "Müstəqllik Günün Mübarək, Estoniya! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "এস্তোনিয়া স্বাধীনতা দিবস",
+        "hover_text": "এস্তোনিয়ার স্বাধীনতা দিবস ২০২৪",
+        "share_text": "এস্তোনিয়ার স্বাধীনতা দিবসের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Estoniako Independentzia Eguna",
+        "hover_text": "2024ko Estoniako Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Estonia! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Эстоніі",
+        "hover_text": "Дзень незалежнасці Эстоніі 2024",
+        "share_text": "З Днём незалежнасці, Эстонія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Estonije",
+        "hover_text": "Dan nezavisnosti Estonije 2024.",
+        "share_text": "Sretan Dan nezavisnosti, Estonijo! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Estonia Independence Day",
+        "hover_text": "Estonia Independence Day 2024",
+        "share_text": "Happy Independence Day, Estonia! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Естония",
+        "hover_text": "Ден на независимостта на Естония 2024 г.",
+        "share_text": "Честит Ден на независимостта на Естония! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အက်စ်တိုးနီးယား လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ အက်စတိုးနီးယားနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ဖြစ်ပါစေ၊ အက်စ်တိုးနီးယား။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència d'Estònia",
+        "hover_text": "Dia de la Independència d'Estònia 2024",
+        "share_text": "Feliç Dia de la Independència, Estònia! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "愛沙尼亞獨立日",
+        "hover_text": "2024 年愛沙尼亞獨立日",
+        "share_text": "愛沙尼亞，獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "愛沙尼亞獨立紀念日",
+        "hover_text": "2024 年愛沙尼亞獨立紀念日",
+        "share_text": "愛沙尼亞，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "爱沙尼亚独立日",
+        "hover_text": "2024 年爱沙尼亚独立日",
+        "share_text": "爱沙尼亚，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Estonije",
+        "hover_text": "Dan neovisnosti Estonije 2024.",
+        "share_text": "Sretan Dan neovisnosti, Estonijo! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Estonska",
+        "hover_text": "Den nezávislosti Estonska 2024",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Estonsko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Estlands uafhængighedsdag",
+        "hover_text": "Estlands uafhængighedsdag 2024",
+        "share_text": "Glædelig uafhængighedsdag, Estland! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Estland",
+        "hover_text": "Onafhankelijkheidsdag Estland 2024",
+        "share_text": "Fijne Onafhankelijkheidsdag, Estland #GoogleDoodle"
+      },
+      "et": {
+        "query": "Eesti Vabariigi aastapäev",
+        "hover_text": "Head Eesti Vabariigi 106. aastapäeva!",
+        "share_text": "Head Eesti Vabariigi 106. aastapäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Viron itsenäisyyspäivä",
+        "hover_text": "Viron itsenäisyyspäivä 2024",
+        "share_text": "Hyvää itsenäisyyspäivää, Viro! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance de l'Estonie",
+        "hover_text": "Fête de l'Indépendance de l'Estonie 2024",
+        "share_text": "Fête de l'Indépendance de l'Estonie ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance de l'Estonie",
+        "hover_text": "Fête de l'indépendance de l'Estonie 2024",
+        "share_text": "Joyeuse fête de l'indépendance, Estonie! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Estonia",
+        "hover_text": "Día da Independencia de Estonia 2024",
+        "share_text": "Feliz Día da Independencia, Estonia! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ესტონეთის დამოუკიდებლობის დღე",
+        "hover_text": "ესტონეთის დამოუკიდებლობის დღე — 2024",
+        "share_text": "ვულოცავთ ესტონეთს დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Estland",
+        "hover_text": "Unabhängigkeitstag Estland 2024",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Estland! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας της Εσθονίας",
+        "hover_text": "Ημέρα Ανεξαρτησίας της Εσθονίας 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας της Εσθονίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "એસ્ટોનિયાનો સ્વતંત્રતા દિવસ",
+        "hover_text": "એસ્ટોનિયાનો સ્વતંત્રતા દિવસ 2024",
+        "share_text": "સ્વતંત્રતા દિવસની શુભેચ્છા, એસ્ટોનિયા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של אסטוניה",
+        "hover_text": "יום העצמאות של אסטוניה 2024",
+        "share_text": "יום עצמאות שמח לאסטוניה! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "एस्टोनिया का स्वतंत्रता दिवस",
+        "hover_text": "एस्टोनिया का स्वतंत्रता दिवस 2024",
+        "share_text": "स्वतंत्रता दिवस मुबारक हो, एस्टोनिया! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Észtország függetlenségének napja",
+        "hover_text": "Észtország függetlenségének napja, 2024",
+        "share_text": "Minden jót a függetlenség napján, Észtország! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Eistlands",
+        "hover_text": "Sjálfstæðisdagur Eistlands 2024",
+        "share_text": "Gleðilegan sjálfstæðisdag, Eistland! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Estonia",
+        "hover_text": "Hari Kemerdekaan Estonia 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Estonia! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse na hEastóine",
+        "hover_text": null,
+        "share_text": "Lá Saoirse na hEastóine faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza dell'Estonia",
+        "hover_text": "Festa dell'indipendenza dell'Estonia 2024",
+        "share_text": "Buona festa dell'indipendenza, Estonia! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "エストニア独立記念日",
+        "hover_text": "2024 年エストニア独立記念日",
+        "share_text": "エストニア独立記念日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಎಸ್ಟೋನಿಯಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಎಸ್ಟೋನಿಯಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಎಸ್ಟೋನಿಯಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಷಯಗಳು #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Эстонияның Тәуелсіздік күні",
+        "hover_text": "Эстонияның Тәуелсіздік күні –2024",
+        "share_text": "Тәуелсіздік күні құтты болсын, Эстония! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាបុណ្យ​ឯករាជ្យជាតិ​អេស្តូនី",
+        "hover_text": "ទិវាបុណ្យឯករាជ្យជាតិអេស្តូនីឆ្នាំ 2024",
+        "share_text": "អបអរទិវា​បុណ្យឯករាជ្យ​ជាតិអេស្តូនី! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "에스토니아 독립기념일",
+        "hover_text": "2024년 에스토니아 독립기념일",
+        "share_text": "에스토니아 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Эстониянын Эгемендүүлүк күнү",
+        "hover_text": "Эстониянын Эгемендүүлүк күнү – 2024",
+        "share_text": "Эгемендүүлүк күнүң менен, Эстония! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດເອສໂຕເນຍ",
+        "hover_text": "ວັນປະກາດເອກະລາດເອສໂຕເນຍ 2024",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດ, ເອສໂຕເນຍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Estonia",
+        "hover_text": "Día de la Independencia de Estonia 2024",
+        "share_text": "¡Feliz Día de la Independencia, Estonia! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Igaunijas neatkarības diena",
+        "hover_text": "Igaunijas Neatkarības diena — 2024",
+        "share_text": "Sveicam Neatkarības dienā, Igaunija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Estijos nepriklausomybės diena",
+        "hover_text": "Estijos nepriklausomybės diena, 2024 m.",
+        "share_text": "Sveikiname Estiją su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Естонија",
+        "hover_text": "Ден на независноста на Естонија, 2024 г.",
+        "share_text": "Среќен Ден на независноста, Естонија! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetim-pirenena Estoniana",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny fahaleovantena ry Estonia ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Estonia",
+        "hover_text": "Hari Kemerdekaan Estonia 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Estonia! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "എസ്തോണിയയുടെ സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "എസ്തോണിയൻ സ്വാതന്ത്ര്യ ദിനം 2024",
+        "share_text": "സ്വാതന്ത്ര്യദിനാശംസകൾ, എസ്തോണിയ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "इस्टोनियाचा स्वातंत्र्यदिन",
+        "hover_text": "इस्टोनियाचा स्वातंत्र्यदिन २०२४",
+        "share_text": "स्वातंत्र्यदिनाच्या शुभेच्छा, एस्टोनिया! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Эстони улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2024 оны Эстони Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Эстони улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "एस्टोनियाको स्वतन्त्रता दिवस",
+        "hover_text": "एस्टोनियाको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, एस्टोनिया! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Estlands frigjøringsdag",
+        "hover_text": "Estlands uavhengighetsdag 2024",
+        "share_text": "Gratulerer med frigjøringsdagen, Estland! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଏଷ୍ଟୋନିଆ ସ୍ବାଧିନତା ଦିବସ",
+        "hover_text": null,
+        "share_text": "ସ୍ୱାଧିନତା ଦିବସର ଶୁଭେଚ୍ଛା, ଏଷ୍ଟୋନିଆ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال استونی",
+        "hover_text": "روز استقلال استونی - ۲۰۲۴",
+        "share_text": "روز استقلال استونی مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Niepodległości Estonii",
+        "hover_text": "Święto Niepodległości Estonii 2024",
+        "share_text": "Estonia obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência da Estônia",
+        "hover_text": "Dia da Independência da Estônia 2024",
+        "share_text": "Feliz Dia da Independência, Estônia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência da Estónia",
+        "hover_text": "Dia da Independência da Estónia de 2024",
+        "share_text": "Feliz dia da independência, Estónia! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਇਸਤੋਨੀਆ ਦਾ ਸੁਤੰਤਰਤਾ ਦਿਵਸ",
+        "hover_text": "ਇਸਤੋਨੀਆ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2024",
+        "share_text": "ਇਸਤੋਨੀਆ ਦੇ ਸੁਤੰਤਰਤਾ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței în Estonia",
+        "hover_text": "Ziua Independenței în Estonia – 2024",
+        "share_text": "La mulți ani de Ziua Independenței, Estonia! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Эстонии",
+        "hover_text": "День независимости Эстонии – 2024",
+        "share_text": "День независимости Эстонии #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Естоније",
+        "hover_text": "Дан независности Естоније 2024.",
+        "share_text": "Честитамо Дан независности Естонији! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Estonije",
+        "hover_text": "Dan nezavisnosti Estonije 2024.",
+        "share_text": "Čestitamo Dan nezavisnosti Estoniji! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepandans Estonya",
+        "hover_text": null,
+        "share_text": "Bonn zournen lendepandans, Estonia! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "එස්තෝනියා නිදහස් දිනය",
+        "hover_text": "එස්තෝනියාවේ නිදහස් දිනය 2024",
+        "share_text": "සුබ නිදහස් දිනයක්, එස්තෝනියාව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Estónska",
+        "hover_text": "Deň nezávislosti Estónska 2024",
+        "share_text": "Šťastný Deň nezávislosti, Estónsko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Estonije",
+        "hover_text": "Dan neodvisnosti Estonije 2024",
+        "share_text": "Vesel dan neodvisnosti, Estonija. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Xornimada Estonia",
+        "hover_text": null,
+        "share_text": "Maalinta Madax Banaanida, Estonia! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la Estonia",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Tokoloho la Estonia! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Estonia",
+        "hover_text": "Día de la Independencia de Estonia 2024",
+        "share_text": "¡Feliz Día de la Independencia de Estonia! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Estonia",
+        "hover_text": "Sikukuu ya Uhuru wa Estonia mwaka 2024",
+        "share_text": "Heri ya Sikukuu ya Uhuru, Estonia! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Estlands självständighetsdag",
+        "hover_text": "Estlands självständighetsdag 2024",
+        "share_text": "Vi firar Estlands självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "எஸ்தோனியாவின் சுதந்திர தினம்",
+        "hover_text": "எஸ்டோனியாவின் சுதந்திர தினம் 2024",
+        "share_text": "எஸ்தோனியாவின் சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఎస్టోనియా స్వాతంత్ర్య దినోత్సవం",
+        "hover_text": "ఎస్టోనియా స్వాతంత్య్ర దినోత్సవం 2024",
+        "share_text": "స్వాతంత్ర్య దినోత్సవ శుభాకాంక్షలు, ఎస్టోనియా! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของเอสโตเนีย",
+        "hover_text": "วันประกาศอิสรภาพของเอสโตเนียปี 2024",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพเอสโตเนีย #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Estonia",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, Estonia! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Estonya Bağımsızlık Günü",
+        "hover_text": "2024 Estonya Bağımsızlık Günü",
+        "share_text": "Estonya Bağımsızlık Günü Kutlaması. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Естонії",
+        "hover_text": "День незалежності Естонії у 2024 році",
+        "share_text": "З Днем незалежності, Естоніє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "ایسٹونیا کا یوم آزادی",
+        "hover_text": "استونیا کا یوم آزادی 2024",
+        "share_text": "ایسٹونیا کا یوم آزادی مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Estoniya mustaqillik kuni",
+        "hover_text": "Estoniya Mustaqillik kuni 2024",
+        "share_text": "Mustaqillik kuning muborak, Estoniya! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Estonia năm 2019",
+        "hover_text": "Ngày Quốc khánh Estonia năm 2024",
+        "share_text": "Chúc mừng ngày Quốc khánh Estonia! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lokuzimela le-Estonia",
+        "hover_text": "Usuku Lokuzimela lwase-Estonia lwango-2024",
+        "share_text": "Sinifisela usuku oluhle lokuzimela, Estonia! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Estonia Independence Day",
+    "share_text": "Happy Independence Day, Estonia! #GoogleDoodle"
+  },
+  {
+    "name": "lantern-festival-2024",
+    "title": "Lantern Festival 2024",
+    "url": "//www.google.com/logos/doodles/2024/lantern-festival-2024-6753651837110452-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/tKnOE0F7f9rBCoI24XLZjJAIVuvV_ROaJdfkZoLH6g0NPJ4VYhb_ygdMGxQaMrPfdN8sAATVL9lQeymP1_KX98JxvAqk0HJptMt8dP-WjkGDMzKZTp1PEg",
+    "high_res_url": "//www.google.com/logos/doodles/2024/lantern-festival-2024-6753651837110452-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      2,
+      24
+    ],
+    "translations": {
+      "en": {
+        "query": "Lantern Festival",
+        "hover_text": "Lantern Festival 2024",
+        "share_text": "Happy Lantern Festival! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Lanternfees",
+        "hover_text": "Lanternfees 2024",
+        "share_text": "Gelukkige Lanternfees! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Festivali i Fanarëve",
+        "hover_text": "Festivali i Fanarëve, 2024",
+        "share_text": "Gëzuar Festivalin e Fanarëve! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የላንተርን ፌስቲቫል",
+        "hover_text": "የፋኖስ ፌስቲቫል 2024",
+        "share_text": "መልካም የፋኖስ ፌስቲቫል! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "مهرجان الفوانيس",
+        "hover_text": "مهرجان الفوانيس 2024",
+        "share_text": "نحتفل اليوم بمهرجان الفوانيس. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Լապտերների տոն",
+        "hover_text": "Լապտերների տոն 2024",
+        "share_text": "Շնորհավո՛ր Լապտերների տոնը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Fənər Festivalı",
+        "hover_text": "2024 Fənər Festivalı",
+        "share_text": "Fənər Festivalınız Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ফানুস উৎসব",
+        "hover_text": "ফানুস উৎসব ২০২৪",
+        "share_text": "ফানুস উৎসবের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Argiontzien jaialdia",
+        "hover_text": "2024ko argiontzien jaialdia",
+        "share_text": "Argiontzien jaialdi zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Свята ліхтароў",
+        "hover_text": "Свята ліхтароў 2024",
+        "share_text": "Шчаслівага Свята ліхтароў! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Festival lampiona",
+        "hover_text": "Festival lampiona 2024.",
+        "share_text": "Sretan Festival lampiona! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Lantern Festival",
+        "hover_text": "Lantern Festival 2024",
+        "share_text": "Happy Lantern Festival #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Празник на фенерите",
+        "hover_text": "Празник на фенерите 2024 г.",
+        "share_text": "Честит празник на фенерите! #GoogleDoodle"
+      },
+      "my": {
+        "query": "မီးထွန်းပွဲတော်",
+        "hover_text": "၂၀၂၄ မီးပုံးပွဲတော်",
+        "share_text": "ပျော်ရွှင်ဖွယ် မီးပုံးပွဲတော် ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Festival dels Fanals",
+        "hover_text": "Festival dels Fanals 2024",
+        "share_text": "Feliç Festival dels Fanals! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "元宵節",
+        "hover_text": "元宵節 2024 ",
+        "share_text": "元宵節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "元宵節",
+        "hover_text": "2024 年元宵節",
+        "share_text": "元宵節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "元宵节",
+        "hover_text": "2024 年元宵节",
+        "share_text": "元宵节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Festival lampiona",
+        "hover_text": "Festival lampiona 2024.",
+        "share_text": "Sretan Festival lampiona! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Svátek lampionů",
+        "hover_text": "Svátek lampionů 2024",
+        "share_text": "Šťastný svátek lampionů! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Lanternefesten",
+        "hover_text": "Lanternefestival 2024",
+        "share_text": "Glædelig lanternefestival! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Lantaarnfestival",
+        "hover_text": "Lantaarnfestival 2024",
+        "share_text": "Fijn Lantaarnfestival! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Laternafestival",
+        "hover_text": "2024. aasta laternafestival",
+        "share_text": "Head laternafestivali! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Lyhtyjuhla",
+        "hover_text": "Lyhtyjuhla 2024",
+        "share_text": "Hyvää lyhtyjuhlaa! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête des lanternes",
+        "hover_text": "Fête des lanternes 2024",
+        "share_text": "Bonne fête des lanternes ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête des lanternes",
+        "hover_text": "Fête des lanternes 2024",
+        "share_text": "Joyeuse fête des lanternes! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Festival dos Farois",
+        "hover_text": "Festival dos Farois 2024",
+        "share_text": "Feliz Festival dos Farois! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ფარნების ფესტივალი",
+        "hover_text": "ფარნების ფესტივალი — 2024",
+        "share_text": "გილოცავთ ფარნების ფესტივალს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Laternenfest",
+        "hover_text": "Laternenfest 2024",
+        "share_text": "Frohes Laternenfest! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Γιορτή των Φαναριών",
+        "hover_text": "Γιορτή των Φαναριών 2024",
+        "share_text": "Χαρούμενη Γιορτή των Φαναριών! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "કંદીલ મહોત્સવ",
+        "hover_text": "કંદીલ મહોત્સવ 2024",
+        "share_text": "કંદીલ મહોત્સવની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "פסטיבל הפנסים",
+        "hover_text": "פסטיבל הפנסים 2024",
+        "share_text": "פסטיבל פנסים שמח! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "लालटेन उत्सव",
+        "hover_text": "लैंटर्न फ़ेस्टिवल 2024",
+        "share_text": "लैंटर्न फ़ेस्टिवल की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Lampionfesztivál",
+        "hover_text": "Lampionfesztivál, 2024",
+        "share_text": "Boldog lampionfesztivált 2022-ben! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Ljóskerahátíð",
+        "hover_text": "Ljóskerahátíð 2024",
+        "share_text": "Gleðilega ljóskerahátíð! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Festival Lampion",
+        "hover_text": "Festival Lampion 2024",
+        "share_text": "Selamat Festival Lampion! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Féile na Laindéar",
+        "hover_text": null,
+        "share_text": "Féile na Laindéar faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa delle lanterne",
+        "hover_text": "Festa delle lanterne 2024",
+        "share_text": "Buona Festa delle lanterne! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "元宵節",
+        "hover_text": "2024 年ランタン フェスティバル",
+        "share_text": "ランタン フェスティバルを祝おう！ #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಲ್ಯಾಂಟರ್ನ್ ಉತ್ಸವ",
+        "hover_text": "ಲ್ಯಾಂಟರ್ನ್ ಉತ್ಸವ 2024",
+        "share_text": "ಹ್ಯಾಪಿ ಲ್ಯಾಂಟರ್ನ್ ಹಬ್ಬ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Шамдар фестивалі",
+        "hover_text": "Шамдар фестивалі – 2024",
+        "share_text": "Шамдар фестивалі құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ពិធីបុណ្យ​បង្ហោះ​គោម",
+        "hover_text": "ពិធីបុណ្យ​បង្ហោះ​គោមឆ្នាំ 2024",
+        "share_text": "អបអរ​ពិធីបុណ្យ​បង្ហោះគោម! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "연등 축제",
+        "hover_text": "2024년 등불 축제",
+        "share_text": "등불 축제 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Кытай шамдарынын фестивалы",
+        "hover_text": "Кытай шамдарынын фестивалы – 2024",
+        "share_text": "Кытай шамдарынын фестивалы! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ບຸນໂຄມໄຟ",
+        "hover_text": "ບຸນໂຄມໄຟ 2024",
+        "share_text": "ສຸກສັນບຸນໂຄມໄຟ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Festival de los Faroles",
+        "hover_text": "Festival de los Faroles 2024",
+        "share_text": "¡Feliz Festival de los Faroles! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Laternu festivāls",
+        "hover_text": "Laternu festivāls — 2024",
+        "share_text": "Sveicam Laternu festivālā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Žibintų festivalis",
+        "hover_text": "Žibintų festivalis, 2024 m.",
+        "share_text": "Linksmo žibintų festivalio! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Фестивал на фенери",
+        "hover_text": "Фестивал на фенерите, 2024 г.",
+        "share_text": "Среќен Фестивал на фенерите! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Festivalin'ny Fanala",
+        "hover_text": null,
+        "share_text": "Tsarà Fetiben'ny fanala ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Pesta Tanglung",
+        "hover_text": "Pesta Tanglung 2024",
+        "share_text": "Selamat Menyambut Pesta Tanglung! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "റാന്തൽവിളക്ക് ഉത്സവം",
+        "hover_text": "ലാന്റേൺ ഫെസ്റ്റിവൽ 2024",
+        "share_text": "റാന്തൽവിളക്ക് ഉത്സവാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "लँटर्न महोत्सव",
+        "hover_text": "कंदील महोत्सव २०२४",
+        "share_text": "लँटर्न फेस्टिव्हलच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Дэнлүүний баяр",
+        "hover_text": "2024 оны Дэнлүүний баяр",
+        "share_text": "Дэнлүүний баярын мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "लालटिन महोत्सव",
+        "hover_text": "ल्यान्टर्न महोत्सव २०२४",
+        "share_text": "लालटिन महोत्सवको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Lanternefestivalen",
+        "hover_text": "Lanternefestivalen 2024",
+        "share_text": "God lanternefestival! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଲାନଟିର୍ନ ଫେଷ୍ଟିଭାଲ୍",
+        "hover_text": null,
+        "share_text": "ଲାଣ୍ଟେନ ଉତ୍ସବର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "جشن فانوس",
+        "hover_text": "جشن فانوس ۲۰۲۴",
+        "share_text": "جشن فانوس مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Lampionów",
+        "hover_text": "Święto Lampionów 2024",
+        "share_text": "Obchodzimy Święto Lampionów #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Festival das Lanternas",
+        "hover_text": "Festival das Lanternas 2024",
+        "share_text": "Feliz Festival das Lanternas! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Festival das lanternas",
+        "hover_text": "Festival das Lanternas de 2024",
+        "share_text": "Feliz festival das lanternas! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਲਾਲਟੇਨ ਦਾ ਤਿਉਹਾਰ",
+        "hover_text": "ਲਾਲਟੈਣ ਤਿਉਹਾਰ 2024",
+        "share_text": "ਲਾਲਟੇਨ ਦੇ ਤਿਉਹਾਰ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Festivalul Lampioanelor",
+        "hover_text": "Festivalul Lampioanelor – 2024",
+        "share_text": "Un Festival fericit al Lampioanelor! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Праздник фонарей",
+        "hover_text": "Праздник фонарей – 2024",
+        "share_text": "Праздник фонарей! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Фестивал лампиона",
+        "hover_text": "Фестивал лампиона 2024.",
+        "share_text": "Срећан Фестивал лампиона! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Festival lampiona",
+        "hover_text": "Festival lampiona 2024.",
+        "share_text": "Srećan Festival lampiona! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Festival lantern",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ලන්තෑරුම් උත්සවය",
+        "hover_text": "ලන්තෑරුම් උත්සවය 2024",
+        "share_text": "ප්‍රීතිමත් ලන්තෑරුම් උත්සවයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Sviatok lampiónov",
+        "hover_text": "Sviatok lampiónov 2024",
+        "share_text": "Šťastný Sviatok lampiónov! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Festival papirnatih svetilk",
+        "hover_text": "Festival papirnatih svetilk 2024",
+        "share_text": "Vesel festival papirnatih svetilk! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Xaflada Faynuuska",
+        "hover_text": null,
+        "share_text": "Xaflada Faynuuske Farxada leh! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Mokete wa Bafu",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Festival de los Farolillos",
+        "hover_text": "Festival de los Farolillos 2024",
+        "share_text": "¡Feliz Festival de los farolillos! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Tamasha la Kandili",
+        "hover_text": "Tamasha la Kandili 2024",
+        "share_text": "Heri za Tamasha la Kandili! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Lyktfestivalen",
+        "hover_text": "Lyktfestivalen 2024",
+        "share_text": "Vi firar Lyktfestivalen #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "விளக்குத் திருவிழா",
+        "hover_text": "விளக்குத் திருவிழா 2024",
+        "share_text": "விளக்குத் திருவிழா வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "లాంతరు పండుగ",
+        "hover_text": "లాంతరు పండుగ 2024",
+        "share_text": "లాంతరు వేడుక శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "เทศกาลโคมไฟ",
+        "hover_text": "เทศกาลโคมไฟปี 2024",
+        "share_text": "สุขสันต์วันเทศกาลโคมไฟ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Moletlo wa Lantere",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Fener Festivali",
+        "hover_text": "2024 Fener Festivali",
+        "share_text": "Fener Festivali Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Свято ліхтарів",
+        "hover_text": "Свято ліхтарів у 2024 році",
+        "share_text": "Зі Святом ліхтарів! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "لالٹین جشن",
+        "hover_text": "لالٹین فیسٹیول 2024",
+        "share_text": "لالٹین فیسٹیول مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Fonarlar festivali",
+        "hover_text": "Fonarlar festivali 2024",
+        "share_text": "Fonarlar kuni festivali! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Lễ hội đèn lồng",
+        "hover_text": "Lễ hội Đèn lồng năm 2024",
+        "share_text": "Chào mừng Lễ hội Đèn lồng! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "I-Lantern Festival",
+        "hover_text": "I-Lantern Festival yango-2024",
+        "share_text": "Sikufisela i-Lantern Festival Enhle! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Lantern Festival",
+    "share_text": "Happy Lantern Festival! #GoogleDoodle"
+  },
+  {
     "name": "casimir-funks-140th-birthday",
     "title": "Casimir Funk's 140th Birthday",
     "url": "//www.google.com/logos/doodles/2024/casimir-funks-140th-birthday-6753651837110355-l.png",
