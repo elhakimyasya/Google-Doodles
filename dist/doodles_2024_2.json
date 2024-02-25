@@ -1,5 +1,504 @@
 [
   {
+    "name": "kuwait-national-day-2024",
+    "title": "Kuwait National Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/kuwait-national-day-2024-6753651837110190-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/KH3zes9bWG1kWHWF6Y-0LHG_hAdVud1VP_QbYaZ09atigpoeCQKx4-qQnx31c9NWZG3lIPCIZeDazmsMMzA4jhnfN7peUXnL8z1IFDydlHCjruDimMPGew",
+    "high_res_url": "//www.google.com/logos/doodles/2024/kuwait-national-day-2024-6753651837110190-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      2,
+      25
+    ],
+    "translations": {
+      "en": {
+        "query": "Kuwait National Day",
+        "hover_text": "Kuwait National Day 2024",
+        "share_text": "Happy National Day, Kuwait! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Koeweit se nasionale dag",
+        "hover_text": "Koeweit se nasionale dag 2024",
+        "share_text": "Gelukkige nasionale dag, Koeweit! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita Kombëtare e Kuvajtit",
+        "hover_text": "Dita Kombëtare e Kuvajtit, 2024",
+        "share_text": "Gëzuar Ditën Kombëtare, Kuvajt! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የኩዌት ብሔራዊ ቀን",
+        "hover_text": "የኩዌት ብሔራዊ ቀን 2024",
+        "share_text": "መልካም ብሔራዊ ቀን ኩዌት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "العيد الوطني للكويت",
+        "hover_text": "العيد الوطني للكويت 2024",
+        "share_text": "الاحتفال بالعيد الوطني للكويت ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Քուվեյթի ազգային տոն",
+        "hover_text": "Քուվեյթի ազգային օր 2024",
+        "share_text": "Շնորհավո՛ր Քուվեյթի ազգային տոնը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Küveytin Müstəqillik Günü",
+        "hover_text": "2024 Küveytin Milli Bayram Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Küveyt! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "কুয়েতের জাতীয় দিবস",
+        "hover_text": "কুয়েতের জাতীয় দিবস ২০২৪",
+        "share_text": "কুয়েতের জাতীয় দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Kuwaiteko Egun Nazionala",
+        "hover_text": "2024ko Kuwaiteko Egun Nazionala",
+        "share_text": "Egun Nazional zoriontsua izan, Kuwait! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Нацыянальны дзень Кувейта",
+        "hover_text": "Нацыянальны дзень Кувейта 2024",
+        "share_text": "З Нацыянальным днём, Кувейт! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan državnosti Kuvajta",
+        "hover_text": "Dan državnosti Kuvajta 2024.",
+        "share_text": "Sretan Dan državnosti, Kuvajt! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Kuwait National Day",
+        "hover_text": "Kuwait National Day 2024",
+        "share_text": "Happy National Day, Kuwait! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Национален празник на Кувейт",
+        "hover_text": "Национален празник на Кувейт 2024 г.",
+        "share_text": "Честит национален празник на Кувейт! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ကူဝိတ် အမျိုးသားနေ့",
+        "hover_text": "၂၀၂၄ ကူဝိတ်နိုင်ငံ အမျိုးသားနေ့",
+        "share_text": "ပျော်ရွှင်သော အမျိုးသားနေ့ဖြစ်ပါစေ၊ ကူဝိတ်။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia Nacional de Kuwait",
+        "hover_text": "Dia Nacional de Kuwait 2024",
+        "share_text": "Feliç Dia Nacional, Kuwait! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "科威特國慶日",
+        "hover_text": "2024 年科威特國慶日",
+        "share_text": "慶祝科威特國慶日！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "科威特國慶日",
+        "hover_text": "2024 年科威特國慶日",
+        "share_text": "科威特，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "科威特国庆日",
+        "hover_text": "2024 年科威特国庆节",
+        "share_text": "科威特，国庆日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan državnosti Kuvajta",
+        "hover_text": "Dan državnosti Kuvajta 2024.",
+        "share_text": "Sretan Dan državnosti, Kuvajtu! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Státní svátek Kuvajtu",
+        "hover_text": "Den kuvajtské státnosti 2024",
+        "share_text": "Vše nejlepší ke státnímu svátku, Kuvajte! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Kuwaits nationaldag",
+        "hover_text": "Kuwaits nationaldag 2024",
+        "share_text": "Glædelig nationaldag, Kuwait! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Nationale feestdag Koeweit",
+        "hover_text": "Nationale feestdag Koeweit 2024",
+        "share_text": "Fijne nationale feestdag aan iedereen in Koeweit #GoogleDoodle"
+      },
+      "et": {
+        "query": "Kuveidi rahvuspüha",
+        "hover_text": "Kuveidi 2024. aasta rahvuspüha",
+        "share_text": "Head rahvuspüha, Kuveit! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Kuwaitin kansallispäivä",
+        "hover_text": "Kuwaitin kansallispäivä 2024",
+        "share_text": "Hyvää Kuwaitin kansallispäivää #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête nationale du Koweït",
+        "hover_text": "Fête nationale du Koweït 2024",
+        "share_text": "Fête nationale du Koweït #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête nationale du Koweït",
+        "hover_text": "Fête nationale du Koweït 2024",
+        "share_text": "Bonne fête nationale, Koweït! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día Nacional de Kuwait",
+        "hover_text": "Día Nacional de Kuwait 2024",
+        "share_text": "Feliz Día Nacional, Kuwait! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ქუვეითის ეროვნული დღესასწაული",
+        "hover_text": "ქუვეითის ეროვნული დღესასწაული — 2024",
+        "share_text": "ვულოცავთ ქუვეითს ეროვნულ დღესასწაულს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Nationalfeiertag Kuwait",
+        "hover_text": "Nationalfeiertag Kuwait 2024",
+        "share_text": "Alles Gute zum Nationalfeiertag, Kuwait! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Εθνική Ημέρα Κουβέιτ",
+        "hover_text": "Εθνική Ημέρα του Κουβέιτ 2024",
+        "share_text": "Εορτασμός για την Εθνική Ημέρα του Κουβέιτ! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "કુવૈતનો રાષ્ટ્રીય દિવસ",
+        "hover_text": "કુવૈતનો રાષ્ટ્રીય દિવસ 2024",
+        "share_text": "કુવૈતના રાષ્ટ્રીય દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "החג הלאומי של כוויית",
+        "hover_text": "החג הלאומי של כווית 2024",
+        "share_text": "חג לאומי שמח לכוויית! ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "कुवैत का राष्ट्रीय दिवस",
+        "hover_text": "कुवैत का राष्ट्रीय दिवस 2024",
+        "share_text": "राष्ट्रीय दिवस मुबारक हो, कुवैत! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Kuvait nemzeti ünnepe",
+        "hover_text": "Kuvait nemzeti ünnepe, 2024",
+        "share_text": "Minden jót Kuvait nemzeti ünnepén! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þjóðhátíðardagur Kúveit",
+        "hover_text": "Þjóðhátíðardagur Kúveit 2024",
+        "share_text": "Til hamingju með þjóðhátíðardaginn, Kúveit! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Nasional Kuwait",
+        "hover_text": "Hari Nasional Kuwait 2024",
+        "share_text": "Selamat Hari Nasional, Kuwait! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Náisiúnta Chuáit",
+        "hover_text": null,
+        "share_text": "Lá Náisiúnta Chuáit faoi mhaise daoibh. #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa nazionale del Kuwait",
+        "hover_text": "Festa nazionale del Kuwait 2024",
+        "share_text": "Buona festa nazionale, Kuwait! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "クウェート建国記念日",
+        "hover_text": "2024 年クウェート建国記念日",
+        "share_text": "クウェート建国記念日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಕುವೈತ್‌ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಕುವೈತ್‌ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಕುವೈತ್‌ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆಯ ಶುಭಾಷಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Кувейттің Ұлттық күні",
+        "hover_text": "Кувейттің Ұлттық күні – 2024",
+        "share_text": "Кувейт, Ұлттық күн құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យជាតិ​កូវ៉ែត",
+        "hover_text": "ទិវាបុណ្យជាតិកូវ៉ែតឆ្នាំ 2024",
+        "share_text": "អបអរទិវា​បុណ្យជាតិ​កូវ៉ែត! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "쿠웨이트 국경일",
+        "hover_text": "2024년 쿠웨이트 국경일",
+        "share_text": "쿠웨이트 국경일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Кувейттин Улуттук күнү",
+        "hover_text": "Кувейттин Улуттук күнү – 2024",
+        "share_text": "Улуттук күнүң менен, Кувейт! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຊາດຄູເຫວດ",
+        "hover_text": "ວັນຊາດຄູເຫວດ 2024",
+        "share_text": "ສຸກສັນວັນຊາດ, ຄູເຫວດ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día Nacional de Kuwait",
+        "hover_text": "Día Nacional de Kuwait 2024",
+        "share_text": "Feliz Día Nacional de Kuwait #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Kuveitas nacionālie svētki",
+        "hover_text": "Kuveitas Nacionālie svētki — 2024",
+        "share_text": "Sveicam Kuveitu valsts svētkos! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Kuveito nacionalinė diena",
+        "hover_text": "Kuveito nacionalinė diena, 2024 m.",
+        "share_text": "Laimingos nacionalinės dienos, Kuveite! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на државноста на Кувајт",
+        "hover_text": "Ден на државноста на Кувајт, 2024 г.",
+        "share_text": "Среќен Ден на државноста, Кувајт! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetim-pirenena Kôhoetiana",
+        "hover_text": null,
+        "share_text": "Tsarà Fetim-pirenena ry Kôhoety ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kebangsaan Kuwait",
+        "hover_text": "Hari Kebangsaan Kuwait 2024",
+        "share_text": "Selamat Hari Kebangsaan, Kuwait! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "കുവൈറ്റിന്‍റെ ദേശീയ ദിനം",
+        "hover_text": "കുവൈറ്റ് ദേശീയ ദിനം 2024",
+        "share_text": "ദേശീയ ദിനാശംസകള്‍, കുവൈറ്റ്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "कुवेतचा राष्ट्रीय दिन",
+        "hover_text": "कुवेतचा राष्ट्रीय दिन २०२४",
+        "share_text": "कुवेतला राष्ट्रीय दिनाच्या शुभेच्छा! #Googleडूडल"
+      },
+      "mn": {
+        "query": "Кувейт улсын Үндэсний баярын өдөр",
+        "hover_text": "2024 оны Кувейт Улсын Үндэсний баярын өдөр",
+        "share_text": "Кувейт улсын ард иргэдэд Үндэсний баярын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "कुवेतको राष्ट्रिय दिवस",
+        "hover_text": "कुवेतको राष्ट्रिय दिवस २०२४",
+        "share_text": "राष्ट्रिय दिवसको शुभकामना, कुवेत! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Kuwaits nasjonaldag",
+        "hover_text": "Kuwaits nasjonaldag 2024",
+        "share_text": "Gratulerer med nasjonaldagen, Kuwait! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "କୁୱେତ୍‍ ରାଷ୍ଟ୍ରୀୟ ଦିବସ",
+        "hover_text": null,
+        "share_text": "କୁୱେତ୍‍, ରାଷ୍ଟ୍ରୀୟ ଦିବସ ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز ملی کویت",
+        "hover_text": "روز ملی کویت - ۲۰۲۴",
+        "share_text": "روز ملی کویت مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Narodowe Kuwejtu",
+        "hover_text": "Święto Narodowe Kuwejtu 2024",
+        "share_text": "Szczęśliwego Święta Narodowego Kuwejtu! #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia Nacional do Kuwait",
+        "hover_text": "Dia Nacional do Kuwait 2024",
+        "share_text": "Feliz Dia Nacional, Kuwait! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia nacional do Koweit",
+        "hover_text": "Dia Nacional do Koweit de 2024",
+        "share_text": "Feliz dia nacional, Koweit! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਕੁਵੈਤ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ",
+        "hover_text": "ਕੁਵੈਤ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ 2024",
+        "share_text": "ਰਾਸ਼ਟਰੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਕੁਵੈਤ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Națională în Kuweit",
+        "hover_text": "Ziua Națională în Kuwait – 2024",
+        "share_text": "La mulți ani de Ziua Națională, Kuweit! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Национальный праздник Кувейта",
+        "hover_text": "Национальный день Кувейта – 2024",
+        "share_text": "Национальный праздник Кувейта #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан државности Кувајта",
+        "hover_text": "Дан државности Кувајта 2024.",
+        "share_text": "Честитамо Дан државности Кувајту! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan državnosti Kuvajta",
+        "hover_text": "Dan državnosti Kuvajta 2024.",
+        "share_text": "Čestitamo Dan državnosti Kuvajtu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Nasyonal Kuwait",
+        "hover_text": null,
+        "share_text": "Bonn fet lazournen nasyonal, Kuwait! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "කුවෛත් ජාතික දිනය",
+        "hover_text": "කුවේටයේ ජාතික දිනය 2024",
+        "share_text": "සුබ ජාතික දිනයක්, කුවෛත්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Štátny sviatok Kuvajtu",
+        "hover_text": "Národný deň Kuvajtu 2024",
+        "share_text": "Šťastný štátny sviatok,  Kuvajt! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Kuvajtski dan državnosti",
+        "hover_text": "Kuvajtski dan državnosti 2024",
+        "share_text": "Vesel dan državnosti, Kuvajt. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Qaranka Kuwait",
+        "hover_text": null,
+        "share_text": "Maalin Qaran oo Farxad leh Kuwait! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Setshaba la Kuwait",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Naha, Kuwait! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día Nacional de Kuwait",
+        "hover_text": "Día Nacional de Kuwait 2024",
+        "share_text": "¡Feliz Día Nacional de Kuwait! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Kitaifa ya Kuwaiti",
+        "hover_text": "Sikukuu ya Kitaifa ya Kuwaiti 2024",
+        "share_text": "Heri za Sikukuu ya Kitaifa, Kuwaiti! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Kuwaits nationaldag",
+        "hover_text": "Kuwaits nationaldag 2024",
+        "share_text": "Vi firar Kuwaits nationaldag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "குவைத்தின் தேசிய தினம்",
+        "hover_text": "குவைத்தின் தேசிய தினம் 2024",
+        "share_text": "இனிய குவைத் தேசிய தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "కువైట్ జాతీయ దినోత్సవం",
+        "hover_text": "కువైట్ నేషనల్ డే 2024",
+        "share_text": "జాతీయ దినోత్సవ శుభాకాంక్షలు, కువైట్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันชาติคูเวต",
+        "hover_text": "วันชาติคูเวตปี 2024",
+        "share_text": "สุขสันต์วันชาติคูเวต #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Setšhaba la Kuwait",
+        "hover_text": null,
+        "share_text": "Itumeleleng Letsatsi la Setšhaba, Kuwait! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Kuveyt Ulusal Günü",
+        "hover_text": "2024 Kuveyt Ulusal Günü",
+        "share_text": "Kuveyt Ulusal Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Національний день Кувейту",
+        "hover_text": "Національний день Кувейту у 2024 році",
+        "share_text": "Вітаємо з Національним днем, Кувейте! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "کویت کا قومی دن",
+        "hover_text": "کویت کا قومی دن 2024",
+        "share_text": "کویت کے قومی دن کی مبارکباد! ‎#GoogleDoodle"
+      },
+      "uz": {
+        "query": "Quvayt milliy bayrami",
+        "hover_text": "Kuvayt Milliy bayrami 2024",
+        "share_text": "Quvayt milliy bayrami muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Kuwait",
+        "hover_text": "Ngày Quốc khánh Kuwait năm 2024",
+        "share_text": "Chúc mừng quốc khánh Kuwait! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lezwe le-Kuwait",
+        "hover_text": "Usuku Lukazwelonke lwase-Kuwait lwango-2024",
+        "share_text": "Usuku Oluhle Lezwe, Kuwait! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Kuwait National Day",
+    "share_text": "Happy National Day, Kuwait! #GoogleDoodle"
+  },
+  {
     "name": "estonia-independence-day-2024",
     "title": "Estonia Independence Day 2024",
     "url": "//www.google.com/logos/doodles/2024/estonia-independence-day-2024-6753651837110189.2-law.gif",
