@@ -1,5 +1,504 @@
 [
   {
+    "name": "bulgaria-liberation-day-2024",
+    "title": "Bulgaria Liberation Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/bulgaria-liberation-day-2024-6753651837110193-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/RkwRyD133SY-8naHtig2FeDTY7q9Q5wS5JmR0Kv9YlXq_loLeR9er1Zkxzrhgyy7GSEt61v-BvJ9FY7l3ni42_cJb3OpH60x3PGJhopWMXrLYAi9Njy6paw",
+    "high_res_url": "//www.google.com/logos/doodles/2024/bulgaria-liberation-day-2024-6753651837110193-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      3,
+      3
+    ],
+    "translations": {
+      "en": {
+        "query": "Bulgaria Liberation Day",
+        "hover_text": "Bulgaria Liberation Day 2024",
+        "share_text": "Happy Liberation Day, Bulgaria! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Bulgarye se bevrydingsdag",
+        "hover_text": "Bulgarye se bevrydingsdag 2024",
+        "share_text": "Gelukkige Bevrydingsdag, Bulgarye! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Çlirimit të Bullgarisë",
+        "hover_text": "Dita e Çlirimit të Bullgarisë, 2024",
+        "share_text": "Gëzuar Ditën e Çlirimit, Bullgari! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የቡልጋሪያ የነጻነት ቀን",
+        "hover_text": "የቡልጋሪያ የነፃነት ቀን 2024",
+        "share_text": "መልካም የነጻነት ቀን፣ ቡልጋሪያ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد تحرير بلغاريا",
+        "hover_text": "عيد تحرير بلغاريا 2024",
+        "share_text": "الاحتفال بعيد تحرير بلغاريا #GoogleDoodle"
+      },
+      "hy": {
+        "query": "Բուլղարիայի ազատագրման օր",
+        "hover_text": "Բուլղարիայի ազատագրման օր 2024",
+        "share_text": "Շնորհավո՛ր Բուլղարիայի ազատագրման օրը։ #GoogleDoodle"
+      },
+      "az": {
+        "query": "Bolqarıstan Qurtuluş Günü",
+        "hover_text": "2024 Bolqarıstanın Qurtuluş Günü",
+        "share_text": "Qurtuluş Günün Mübarək, Bolqarıstan! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "বুলগেরিয়ার জাতীয় মুক্তি দিবস",
+        "hover_text": "বুলগেরিয়া লিবারেশন ডে ২০২৪",
+        "share_text": "মুক্তি দিবস, বুলগেরিয়া! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Bulgariako Askapen Eguna",
+        "hover_text": "2024ko Bulgariako Askapen Eguna",
+        "share_text": "Askapen Egun zoriontsua izan, Bulgaria #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень вызвалення Балгарыі",
+        "hover_text": "Дзень вызвалення Балгарыі 2024",
+        "share_text": "З Днём вызвалення, Балгарыя! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan oslobođenja Bugarske",
+        "hover_text": "Dan oslobođenja Bugarske 2024.",
+        "share_text": "Sretan Dan oslobođenja, Bugarsko! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Bulgaria Liberation Day",
+        "hover_text": "Bulgaria Liberation Day 2024",
+        "share_text": "Happy Liberation Day, Bulgaria! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на Освобождението на България",
+        "hover_text": "Ден на Освобождението на България 2024 г.",
+        "share_text": "Честит Ден на Освобождението на България! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဘူလ်ဂေးရီးယား လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ ဘူလ်ဂေးရီးယားနိုင်ငံ လွတ်မြောက်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ ဖြစ်ပါစေ၊ ဘူလ်ဂေးရီးယား။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de l'Alliberament de Bulgària",
+        "hover_text": "Dia de l'Alliberament de Bulgària 2024",
+        "share_text": "Feliç Dia de l'Alliberament, Bulgària! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "保加利亞解放日",
+        "hover_text": "2024 年保加利亞解放日",
+        "share_text": "保加利亞，解放日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "保加利亞國慶日",
+        "hover_text": "2024 年保加利亞解放日",
+        "share_text": "保加利亞，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "保加利亚解放日",
+        "hover_text": "2024 年保加利亚解放日",
+        "share_text": "解放日快乐，保加利亚！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan oslobođenja Bugarske",
+        "hover_text": "Dan oslobođenja Bugarske 2024.",
+        "share_text": "Sretan Dan oslobođenja, Bugarska! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den osvobození Bulharska",
+        "hover_text": "Den osvobození Bulharska 2024",
+        "share_text": "Vše nejlepší ke Dni osvobození, Bulharsko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Bulgariens uafhængighedsdag",
+        "hover_text": "Bulgariens uafhængighedsdag 2024",
+        "share_text": "Vi fejrer Bulgariens uafhængighedsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Bevrijdingsdag Bulgarije",
+        "hover_text": "Bevrijdingsdag Bulgarije 2024",
+        "share_text": "Fijne Bevrijdingsdag, Bulgarije #GoogleDoodle"
+      },
+      "et": {
+        "query": "Bulgaaria vabastamise päev",
+        "hover_text": "Bulgaaria 2024. aasta vabastamise päev",
+        "share_text": "Head vabastamise päeva, Bulgaaria! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Bulgarian vapautuksen päivä",
+        "hover_text": "Bulgarian vapautuksen päivä 2024",
+        "share_text": "Hyvää vapautuksen päivää, Bulgaria! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de la libération de la Bulgarie",
+        "hover_text": "Fête de la libération de la Bulgarie 2024",
+        "share_text": "Fête de la libération de la Bulgarie ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de la libération de la Bulgarie",
+        "hover_text": "Fête de la Libération de la Bulgarie 2024",
+        "share_text": "Joyeux jour de la libération, Bulgarie! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Liberación de Bulgaria",
+        "hover_text": "Día da Liberación de Bulgaria 2024",
+        "share_text": "Feliz Día da Liberación, Bulgaria! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ბულგარეთის გათავისუფლების დღე",
+        "hover_text": "ბულგარეთის გათავისუფლების დღე — 2024",
+        "share_text": "ვულოცავთ ბულგარეთს გათავისუფლების დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Tag der Befreiung Bulgariens",
+        "hover_text": "Tag der Befreiung Bulgariens 2024",
+        "share_text": "Alles Gute zum Tag der Befreiung in Bulgarien! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα της Απελευθέρωσης της Βουλγαρίας",
+        "hover_text": "Ημέρα Απελευθέρωσης της Βουλγαρίας 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα της Απελευθέρωσης της Βουλγαρίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "બલ્ગેરિયાનો રાષ્ટ્રીય મુક્તિ દિવસ",
+        "hover_text": "બલ્ગેરિયાનો રાષ્ટ્રીય મુક્તિ દિવસ 2024",
+        "share_text": "રાષ્ટ્રીય મુક્તિ દિવસની શુભેચ્છા,બલ્ગેરિયા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום השחרור של בולגריה",
+        "hover_text": "יום השחרור של בולגריה 2024",
+        "share_text": "יום שחרור שמח, בולגריה! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "बुल्गारिया का मुक्ति दिवस",
+        "hover_text": "बुल्गारिया का स्वतंत्रता दिवस 2024",
+        "share_text": "मुक्ति दिवस की शुभकामनाएं, बुल्गारिया! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Bulgária felszabadulásának évfordulója",
+        "hover_text": "Bulgária felszabadulásának évfordulója, 2024",
+        "share_text": "Boldog felszabadulás évfordulóját, Bulgária! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þjóðfrelsisdagur Búlgaríu",
+        "hover_text": "Þjóðfrelsisdagur Búlgaríu 2024",
+        "share_text": "Gleðilegan þjóðfrelsisdag, Búlgaría! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Pembebasan Bulgaria",
+        "hover_text": "Hari Pembebasan Bulgaria 2024",
+        "share_text": "Selamat Hari Pembebasan, Bulgaria! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse na Bulgáire",
+        "hover_text": null,
+        "share_text": "Lá Saoirse Náisiúnta na Bulgáire faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa della liberazione della Bulgaria",
+        "hover_text": "Festa della liberazione della Bulgaria 2024",
+        "share_text": "Buona festa della liberazione, Bulgaria! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ブルガリア解放記念日",
+        "hover_text": "2024 年ブルガリア解放記念日",
+        "share_text": "ブルガリア解放記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಬಲ್ಗೇರಿಯಾ ವಿಮೋಚನಾ ದಿನ",
+        "hover_text": "ಬಲ್ಗೇರಿಯಾ ವಿಮೋಚನಾ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ವಿಮೋಚನಾ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಬಲ್ಗೇರಿಯಾ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Болгариядағы бостандық күні",
+        "hover_text": "Болгариядағы Бостандық күні — 2024",
+        "share_text": "Болгария, бостандық күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​រំដោះ​ជាតិ​ប៊ុលហ្គារី",
+        "hover_text": "ទិវា​រំដោះ​ជាតិ​ប៊ុលហ្ការី​ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​រំដោះ​ជាតិ​ប៊ុលហ្គារី! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "불가리아 광복절",
+        "hover_text": "2024년 불가리아 해방 기념일",
+        "share_text": "불가리아 광복절 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Болгариянын Боштондук күнү",
+        "hover_text": "Болгариянын Боштондук күнү – 2024",
+        "share_text": "Боштондук күнүң менен, Болгария! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປົດປ່ອຍບັງກາເຣຍ",
+        "hover_text": "ວັນປົດປ່ອຍບັງກາເຣຍ 2024",
+        "share_text": "ສຸກສັນວັນປົດປ່ອຍບັງກາເຣຍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Liberación de Bulgaria",
+        "hover_text": "Día de la Liberación de Bulgaria 2024",
+        "share_text": "¡Feliz Día de la Liberación, Bulgaria! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Bulgārijas atbrīvošanas diena",
+        "hover_text": "Bulgārijas Atbrīvošanas diena — 2024",
+        "share_text": "Sveicam Atbrīvošanas dienā, Bulgārija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Bulgarijos Nepriklausomybės diena",
+        "hover_text": "Bulgarijos išlaisvinimo diena, 2024 m.",
+        "share_text": "Sveikiname Bulgariją su išlaisvinimo diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на ослободувањето на Бугарија",
+        "hover_text": "Ден на ослободувањето на Бугарија, 2024 г.",
+        "share_text": "Среќен Ден на ослободувањето, Бугарија! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Andro fanafahan'i Bolgaria",
+        "hover_text": null,
+        "share_text": "Tsarà Andron'ny fanafahana ry Bolgaria ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Pembebasan Bulgaria",
+        "hover_text": "Hari Pembebasan Bulgaria 2024",
+        "share_text": "Selamat Hari Pembebasan, Bulgaria! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ബൾഗേറിയ വിമോചന ദിനം",
+        "hover_text": "ബൾഗേറിയൻ വിമോചന ദിനം 2024",
+        "share_text": "ബൾഗേറിയ വിമോചന ദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "बल्गेरियाचा मुक्तीदिन",
+        "hover_text": "बल्गेरियाचा मुक्तीदिन २०२४",
+        "share_text": "मुक्तीदिनाच्या शुभेच्छा, बल्गेरिया! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Болгарын эрх чөлөөний өдөр",
+        "hover_text": "2024 оны Болгар Улсын Эрх чөлөөний өдөр",
+        "share_text": "Болгар улсын ард иргэдэд Эрх чөлөөний өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "बुल्गेरियाको स्वतन्त्रता दिवस",
+        "hover_text": "बुल्गेरियाको मुक्ति दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, बुल्गेरिया! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Bulgarias frigjøringsdag",
+        "hover_text": "Bulgarias frigjøringsdag 2024",
+        "share_text": "Gratulerer med frigjøringsdagen, Bulgaria! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ବୁଲଗେରିଆ ମୁକ୍ତି ଦିବସ",
+        "hover_text": null,
+        "share_text": "ମୁକ୍ତି ଦିବସର ଶୁଭେଚ୍ଛା, ବୁଲଗେରିଆ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز آزادی بلغارستان",
+        "hover_text": "روز آزادی بلغارستان - ۲۰۲۴",
+        "share_text": "روز آزادی بلغارستان مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Wyzwolenia Bułgarii",
+        "hover_text": "Dzień Wyzwolenia Bułgarii 2024",
+        "share_text": "Bułgaria obchodzi Dzień Wyzwolenia #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Libertação da Bulgária",
+        "hover_text": "Dia da Libertação da Bulgária 2024",
+        "share_text": "Feliz Dia da Libertação, Bulgária! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da libertação da Bulgária",
+        "hover_text": "Dia da Libertação da Bulgária de 2024",
+        "share_text": "Feliz dia da libertação, Bulgária! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਬੁਲਗਾਰੀਆ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ",
+        "hover_text": "ਬੁਲਗਾਰੀਆ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2024",
+        "share_text": "ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਬੁਲਗਾਰੀਆ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Eliberării în Bulgaria",
+        "hover_text": "Ziua Eliberării în Bulgaria – 2024",
+        "share_text": "La mulți ani de Ziua Eliberării, Bulgaria! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День освобождения Болгарии от османского ига",
+        "hover_text": "День освобождения Болгарии – 2024",
+        "share_text": "День освобождения Болгарии от османского ига #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан ослобођења Бугарске",
+        "hover_text": "Дан ослобођења Бугарске 2024.",
+        "share_text": "Честитамо Дан ослобођења Бугарској! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan oslobođenja Bugarske",
+        "hover_text": "Dan oslobođenja Bugarske 2024.",
+        "share_text": "Čestitamo Dan oslobođenja Bugarskoj! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen liberasyon Bulgaria",
+        "hover_text": null,
+        "share_text": "Bonn zournen liberasyon, Bulgaria! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "බල්ගේරියාවේ විමුක්ති දිනය",
+        "hover_text": "බල්ගේරියාවේ විමුක්ති දිනය 2024",
+        "share_text": "සුබ විමුක්ති දිනයක්, බල්ගේරියාව! #Googleඩූඩල්"
+      },
+      "sk": {
+        "query": "Deň oslobodenia Bulharska",
+        "hover_text": "Deň oslobodenia Bulharska 2024",
+        "share_text": "Šťastný Deň oslobodenia, Bulharsko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Bolgarski dan osvoboditve",
+        "hover_text": "Bolgarski dan osvoboditve 2024",
+        "share_text": "Vesel dan osvoboditve, Bolgarija. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Xoriyada Bulgaariya",
+        "hover_text": null,
+        "share_text": "Maalinta Xornimada Farxada leh Bulgaariya! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la Bulgaria",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Tokoloho la Bulgaria! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la liberación de Bulgaria",
+        "hover_text": "Día de la Liberación de Bulgaria 2024",
+        "share_text": "¡Feliz Día de la liberación de Bulgaria! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Bulgaria",
+        "hover_text": "Sikukuu ya Uhuru wa Bulgaria 2024",
+        "share_text": "Heri za Sikukuu ya Uhuru, Bulgaria! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Bulgariens befrielsedag",
+        "hover_text": "Bulgariens befrielsedag 2024",
+        "share_text": "Vi firar Bulgariens befrielsedag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "பல்கேரிய சுதந்திர தினம்",
+        "hover_text": "பல்கேரியாவின் சுதந்திர தினம் 2024",
+        "share_text": "பல்கேரியாவிற்கு சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "బల్గేరియా జాతీయ విముక్తి దినం",
+        "hover_text": "బల్గేరియా లిబరేషన్ డే 2024",
+        "share_text": "జాతీయ విముక్తి దిన శుభాకాంక్షలు, బల్గేరియా! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของบัลแกเรีย",
+        "hover_text": "วันประกาศอิสรภาพของบัลแกเรียปี 2024",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของบัลแกเรีย #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Kgololo la Bulgaria",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Kgololo, Bulgaria! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Bulgaristan Bağımsızlık Günü",
+        "hover_text": "2024 Bulgaristan Bağımsızlık Günü",
+        "share_text": "Bulgaristan Bağımsızlık Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День визволення Болгарії",
+        "hover_text": "День визволення Болгарії у 2024 році",
+        "share_text": "З Днем визволення, Болгаріє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "بلغاریہ کا آزادی کا دن",
+        "hover_text": "بلغاریہ کا یوم آزادی 2024",
+        "share_text": "بلغاریہ کا آزادی کا دن مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Bolgariya ozodlik kuni",
+        "hover_text": "Bolgariya Ozodlik kuni 2024",
+        "share_text": "Ozodlik kuning bilan, Bolgariya! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày giải phóng Bulgaria",
+        "hover_text": "Ngày Giải phóng Bulgaria năm 2024",
+        "share_text": "Mừng ngày giải phóng Bulgaria! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lwenkululeko lwase-Bulgaria",
+        "hover_text": "Usuku Lwenkululeko Lwase-Bulgaria Lwango-2024",
+        "share_text": "Sikufisela usuku oluhle lwenkululeko, Bulgaria! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Bulgaria Liberation Day",
+    "share_text": "Happy Liberation Day, Bulgaria! #GoogleDoodle"
+  },
+  {
     "name": "st-davids-day-2024",
     "title": "St. David's Day 2024",
     "url": "//www.google.com/logos/doodles/2024/st-davids-day-2024-6753651837110192-l.png",
