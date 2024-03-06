@@ -1,5 +1,504 @@
 [
   {
+    "name": "ghana-independence-day-2024",
+    "title": "Ghana Independence Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/ghana-independence-day-2024-6753651837110195-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/yDOnr_cSpnf0vIQSXfDdfjugym4MgeQxjw6E4Mp3__t-BqQREHCyZ6en5M2LxLxm4PDZIk-I0p-jRWPY7bk05DUZRRkWfiuz1Z9FFHxB1bW2woSvZqzSxw",
+    "high_res_url": "//www.google.com/logos/doodles/2024/ghana-independence-day-2024-6753651837110195-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      3,
+      6
+    ],
+    "translations": {
+      "en": {
+        "query": "Ghana Independence Day",
+        "hover_text": "Ghana Independence Day 2024",
+        "share_text": "Happy Independence Day, Ghana! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Ghana se onafhanklikheidsdag",
+        "hover_text": "Ghana se onafhanklikheidsdag 2024",
+        "share_text": "Gelukkige Onafhanklikheidsdag, Ghana! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë së Ganës",
+        "hover_text": "Dita e Pavarësisë së Ganës, 2024",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Ganë! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የጋና የነጻነት ቀን",
+        "hover_text": "የጋና የነፃነት ቀን 2024",
+        "share_text": "መልካም የነጻነት ቀን፣ ጋና! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال غانا",
+        "hover_text": "عيد استقلال غانا 2024",
+        "share_text": "الاحتفال بعيد استقلال غانا #GoogleDoodle"
+      },
+      "hy": {
+        "query": "Գանայի անկախության օր",
+        "hover_text": "Գանայի անկախության օր 2024",
+        "share_text": "Շնորհավո՛ր Գանայի անկախության օրը։ #GoogleDoodle"
+      },
+      "az": {
+        "query": "Qana Müstəqillik Günü",
+        "hover_text": "2024 Qana Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Qana! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ঘানার স্বাধীনতা দিবস",
+        "hover_text": "ঘানার স্বাধীনতা দিবস ২০২৪",
+        "share_text": "স্বাধীনতা দিবস, ঘানা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Ghanako Independentzia Eguna",
+        "hover_text": "2024ko Ghanako Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Ghana #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Ганы",
+        "hover_text": "Дзень незалежнасці Ганы 2024",
+        "share_text": "З Днём незалежнасці, Гана! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Gane",
+        "hover_text": "Dan nezavisnosti Gane 2024.",
+        "share_text": "Sretan Dan nezavisnosti, Gano! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Ghana Independence Day",
+        "hover_text": "Ghana Independence Day 2024",
+        "share_text": "Happy Independence Day, Ghana! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Гана",
+        "hover_text": "Ден на независимостта на Гана 2024 г.",
+        "share_text": "Честит Ден на независимостта на Гана! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဂါနာ လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ ဂါနာနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ဖြစ်ပါစေ၊ ဂါနာ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència de Ghana",
+        "hover_text": "Dia de la Independència de Ghana 2024",
+        "share_text": "Feliç Dia de la Independència, Ghana! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "加納獨立日",
+        "hover_text": "2024 年加納獨立日",
+        "share_text": "加納，獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "迦納獨立紀念日",
+        "hover_text": "2024 年迦納獨立紀念日",
+        "share_text": "迦納，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "加纳独立日",
+        "hover_text": "2024 年加纳独立日",
+        "share_text": "加纳，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Gane",
+        "hover_text": "Dan neovisnosti Gane 2024.",
+        "share_text": "Sretan Dan neovisnosti, Gana! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Ghany 2020",
+        "hover_text": "Den nezávislosti Ghany 2024",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Ghano! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Ghanas uafhængighedsdag",
+        "hover_text": "Ghanas uafhængighedsdag 2024",
+        "share_text": "Vi fejrer Ghanas uafhængighedsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Ghana",
+        "hover_text": "Onafhankelijkheidsdag Ghana 2024",
+        "share_text": "Fijne Onafhankelijkheidsdag, Ghana #GoogleDoodle"
+      },
+      "et": {
+        "query": "Ghana iseseisvuspäev",
+        "hover_text": "Ghana 2024. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Ghana! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Ghanan itsenäisyyspäivä",
+        "hover_text": "Ghanan itsenäisyyspäivä 2024",
+        "share_text": "Hyvää itsenäisyyspäivää, Ghana! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance du Ghana",
+        "hover_text": "Fête de l'Indépendance du Ghana 2024",
+        "share_text": "Fête de l'Indépendance du Ghana ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête de l'indépendance du Ghana",
+        "hover_text": "Fête de l'Indépendance du Ghana 2024",
+        "share_text": "Joyeuse fête de l'indépendance, Ghana! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Ghana",
+        "hover_text": "Día da Independencia de Ghana 2024",
+        "share_text": "Feliz Día da Independencia, Ghana! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "განის დამოუკიდებლობის დღე",
+        "hover_text": "განის დამოუკიდებლობის დღე — 2024",
+        "share_text": "ვულოცავთ განას დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Ghana",
+        "hover_text": "Unabhängigkeitstag Ghana 2024",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Ghana! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας της Γκάνα",
+        "hover_text": "Ημέρα Ανεξαρτησίας της Γκάνα 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας της Γκάνα! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ઘાનાનો સ્વતંત્રતા દિવસ",
+        "hover_text": "ઘાનાનો સ્વતંત્રતા દિવસ 2024",
+        "share_text": "સ્વતંત્રતા દિવસની શુભેચ્છા, ઘાના! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של גאנה",
+        "hover_text": "יום העצמאות של גאנה 2024",
+        "share_text": "יום עצמאות שמח, גאנה! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "घाना का स्वतंत्रता दिवस",
+        "hover_text": "घाना का स्वतंत्रता दिवस 2024",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, घाना! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Ghána függetlenségének napja",
+        "hover_text": "Ghána függetlenségének napja, 2024",
+        "share_text": "Boldog függetlenség napját, Ghána! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Gana",
+        "hover_text": "Þjóðhátíðardagur Gana 2024",
+        "share_text": "Gleðilegan sjálfstæðisdag, Gana! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Ghana",
+        "hover_text": "Hari Kemerdekaan Ghana 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Ghana! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse Ghána",
+        "hover_text": null,
+        "share_text": "Lá Saoirse Ghána faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza del Ghana",
+        "hover_text": "Festa dell'indipendenza del Ghana 2024",
+        "share_text": "Buona festa dell'indipendenza, Ghana! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ガーナ独立記念日",
+        "hover_text": "2024 年ガーナ独立記念日",
+        "share_text": "ガーナ独立記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಘಾನಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನ",
+        "hover_text": "ಘಾನಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಘಾನಾ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Гананың тәуелсіздік күні",
+        "hover_text": "Гананың Тәуелсіздік күні — 2024",
+        "share_text": "Тәуелсіздік күні құтты болсын, Гана! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាបុណ្យ​ឯករាជ្យ​ជាតិ​ហ្គាណា​",
+        "hover_text": "ទិវាបុណ្យ​ឯករាជ្យ​ជាតិ​ហ្កាណា​ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវាបុណ្យ​ឯករាជ្យ​ជាតិ​ហ្គាណា! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "가나 독립기념일",
+        "hover_text": "2024년 가나 독립기념일",
+        "share_text": "가나 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Гананын Эгемендүүлүк күнү",
+        "hover_text": "Гананын Эгемендүүлүк күнү – 2024",
+        "share_text": "Эгемендүүлүк күнүң менен, Гана! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດການາ",
+        "hover_text": "ວັນປະກາດເອກະລາດການາ 2024",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດການາ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Ghana",
+        "hover_text": "Día de la Independencia de Ghana 2024",
+        "share_text": "¡Feliz Día de la Independencia, Ghana! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Ganas neatkarības diena",
+        "hover_text": "Ganas Neatkarības diena — 2024",
+        "share_text": "Sveicam Neatkarības dienā, Gana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Ganos nepriklausomybės diena",
+        "hover_text": "Ganos nepriklausomybės diena, 2024 m.",
+        "share_text": "Sveikiname Ganą su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Гана",
+        "hover_text": "Ден на независноста на Гана, 2024 г.",
+        "share_text": "Среќен Ден на независноста, Гана! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Ganà",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny fahaleovantena ry Ganà ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Ghana",
+        "hover_text": "Hari Kemerdekaan Ghana 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Ghana! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഘാന സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "ഘാന സ്വാതന്ത്ര്യദിനം 2024",
+        "share_text": "സ്വാതന്ത്ര്യദിനാശംസകൾ, ഘാന! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "घानाच्या स्वातंत्र्यदिनाच्या शुभेच्छा",
+        "hover_text": "घानाचा स्वातंत्र्यदिन २०२४",
+        "share_text": "स्वातंत्र्यदिनाच्या शुभेच्छा, घाना! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Гана улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2024 оны Гана Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Гана улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "घाना स्वतन्त्रता दिवस",
+        "hover_text": "घानाको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, घाना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Ghanas uavhengighetsdag",
+        "hover_text": "Ghanas uavhengighetsdag 2024",
+        "share_text": "Gratulerer med frigjøringsdagen, Ghana! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଘାନା ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": null,
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, ଘାନା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال غنا",
+        "hover_text": "روز استقلال غنا - ۲۰۲۴",
+        "share_text": "روز استقلال غنا مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Niepodległości Ghany",
+        "hover_text": "Dzień Niepodległości Ghany 2024",
+        "share_text": "Ghana obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência de Gana",
+        "hover_text": "Dia da Independência de Gana 2024",
+        "share_text": "Feliz Dia da Independência, Gana! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência do Gana",
+        "hover_text": "Dia da Independência do Gana de 2024",
+        "share_text": "Feliz dia da independência, Gana! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਘਾਨਾ ਦਾ ਸੁਤੰਤਰਤਾ ਦਿਵਸ",
+        "hover_text": "ਘਾਨਾ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2024",
+        "share_text": "ਘਾਨਾ ਦੇ ਸੁਤੰਤਰਤਾ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței în Ghana",
+        "hover_text": "Ziua Independenței în Ghana – 2024",
+        "share_text": "La mulți ani de Ziua Independenței, Ghana! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Ганы",
+        "hover_text": "День независимости Ганы – 2024",
+        "share_text": "День независимости Ганы #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Гане",
+        "hover_text": "Дан независности Гане 2024.",
+        "share_text": "Честитамо Дан независности Гани! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Gane",
+        "hover_text": "Dan nezavisnosti Gane 2024.",
+        "share_text": "Čestitamo Dan nezavisnosti Gani! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepandans Ghana",
+        "hover_text": null,
+        "share_text": "Bonn zournen lendepandans, Ghana! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ඝානා නිදහස් දිනය",
+        "hover_text": "ඝානාවේ නිදහස් දිනය 2024",
+        "share_text": "සුබ නිදහස් දිනයක්, ඝානාව! #Googleඩූඩල්"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Ghany",
+        "hover_text": "Deň nezávislosti Ghany 2024",
+        "share_text": "Šťastný Deň nezávislosti, Ghana! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Ganski dan neodvisnosti",
+        "hover_text": "Dan neodvisnosti Gane 2024",
+        "share_text": "Vesel dan neodvisnosti, Gana. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madax Banaanida Gaana",
+        "hover_text": null,
+        "share_text": "Maalinta Madax Banaanida Farxada leh, Gaana! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la Ghana",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Tokoloho la Ghana! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Ghana",
+        "hover_text": "Día de la Independencia de Ghana 2024",
+        "share_text": "¡Feliz Día de la Independencia de Ghana! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Ghana",
+        "hover_text": "Sikukuu ya Uhuru wa Ghana 2024",
+        "share_text": "Heri ya Sikukuu ya Uhuru, Ghana! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Ghanas självständighetsdag",
+        "hover_text": "Ghanas självständighetsdag 2024",
+        "share_text": "Vi firar Ghanas självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "கானாவின் சுதந்திர தினம்",
+        "hover_text": "கானாவின் சுதந்திர தினம் 2024",
+        "share_text": "கானாவிற்கு சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఘనా స్వాతంత్ర్య దినోత్సవం",
+        "hover_text": "ఘనా స్వాతంత్య్ర దినోత్సవం 2024",
+        "share_text": "స్వాతంత్ర్య దినోత్సవ శుభాకాంక్షలు, ఘనా! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของกานา",
+        "hover_text": "วันประกาศอิสรภาพของกานาปี 2024",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของกานา #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Ghana",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, Ghana! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Gana Bağımsızlık Günü",
+        "hover_text": "2024 Gana Bağımsızlık Günü",
+        "share_text": "Gana Bağımsızlık Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Гани",
+        "hover_text": "День незалежності Гани у 2024 році",
+        "share_text": "З Днем незалежності, Гано! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "گھانا کا یوم آزادی",
+        "hover_text": "گھانا کا یوم آزادی 2024",
+        "share_text": "گھانا کا یوم آزادی مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Gana mustaqillik kuni",
+        "hover_text": "Gana Mustaqillik kuni 2024",
+        "share_text": "Mustaqillik kuning muborak, Gana! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Ghana",
+        "hover_text": "Ngày Quốc khánh Ghana năm 2024",
+        "share_text": "Mừng ngày Quốc khánh Ghana! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lokuzimela lwase-Ghana",
+        "hover_text": "Usuku Lokuzimela lwase-Ghana lwango-2024",
+        "share_text": "Sinifisela usuku oluhle lwenkululeko, Ghana! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Ghana Independence Day",
+    "share_text": "Happy Independence Day, Ghana! #GoogleDoodle"
+  },
+  {
     "name": "taos-amrouches-111th-birthday",
     "title": "Taos Amrouche's 111th Birthday",
     "url": "//www.google.com/logos/doodles/2024/taos-amrouches-111th-birthday-6753651837110194.2-l.png",
