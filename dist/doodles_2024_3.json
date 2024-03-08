@@ -1,5 +1,504 @@
 [
   {
+    "name": "international-womens-day-2024",
+    "title": "International Women's Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/international-womens-day-2024-6753651837110196-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/7mKl4NLXm6RG4-b3gtDNn4udVOp7Nnz5av2jTK1IhRj6nfna1f4YkZcshNgTXz6bWXQox3rsbGbuqxWjMOOYzmzkEiqKTcfB2_lja5saUDRWbpTPrc1yIA",
+    "high_res_url": "//www.google.com/logos/doodles/2024/international-womens-day-2024-6753651837110196-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      3,
+      8
+    ],
+    "translations": {
+      "en": {
+        "query": "International Women's Day",
+        "hover_text": "International Women's Day 2024",
+        "share_text": "Happy International Women's Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Internasionale Vrouedag",
+        "hover_text": "Internasionale Vrouedag 2024",
+        "share_text": "Gelukkige Internasionale Vrouedag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita Ndërkombëtare e Grave",
+        "hover_text": "Dita Ndërkombëtare e Gruas, 2024",
+        "share_text": "Gëzuar Ditën Ndërkombëtare të Gruas! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ዓለምአቀፍ የሴቶች ቀን",
+        "hover_text": "ዓለም አቀፍ የሴቶች ቀን 2024",
+        "share_text": "መልካም ዓለም አቀፍ የሴቶች ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "اليوم العالمي للمرأة",
+        "hover_text": "اليوم العالمي للمرأة 2024",
+        "share_text": "أجمل الأمنيات بمناسبة اليوم العالمي للمرأة. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Կանանց միջազգային օր",
+        "hover_text": "Կանանց միջազգային օր 2024",
+        "share_text": "Շնորհավո՛ր Կանանց միջազգային օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Beynəlxalq Qadınlar Günü",
+        "hover_text": "2024 Beynəlxalq Qadınlar Günü",
+        "share_text": "Beynəlxalq Qadınlar Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "আর্ন্তজাতিক নারী দিবস",
+        "hover_text": "আর্ন্তজাতিক নারী দিবস ২০২৪",
+        "share_text": "আন্তর্জাতিক নারী দিবসের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Emakumeen Nazioarteko Eguna",
+        "hover_text": "2024ko Emakumeen Nazioarteko Eguna",
+        "share_text": "Emakumeen Nazioarteko Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Міжнародны жаночы дзень",
+        "hover_text": "Міжнародны жаночы дзень 2024",
+        "share_text": "З Міжнародным жаночым днём! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Međunarodni dan žena",
+        "hover_text": "Međunarodni dan žena 2024.",
+        "share_text": "Sretan Međunarodni dan žena! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "International Women's Day",
+        "hover_text": "International Women's Day 2024",
+        "share_text": "Happy International Women's Day #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Международен ден на жената",
+        "hover_text": "Международен ден на жената 2024 г.",
+        "share_text": "Честит Международен ден на жената! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အပြည်ပြည်ဆိုင်ရာ အမျိုးသမီးများနေ့",
+        "hover_text": "၂၀၂၄ အပြည်ပြည်ဆိုင်ရာ အမျိုးသမီးများနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် အပြည်ပြည်ဆိုင်ရာ အမျိုးသမီးများနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia Internacional de la Dona",
+        "hover_text": "Dia Internacional de la Dona 2024",
+        "share_text": "Feliç Dia Internacional de la Dona! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "國際婦女節",
+        "hover_text": "2024 年國際婦女節",
+        "share_text": "國際婦女節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "國際婦女節",
+        "hover_text": "2024 年國際婦女節",
+        "share_text": "國際婦女節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "国际妇女节",
+        "hover_text": "2024 年国际妇女节",
+        "share_text": "欢庆国际妇女节！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Međunarodni dan žena",
+        "hover_text": "Međunarodni dan žena 2024.",
+        "share_text": "Sretan Međunarodni dan žena! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Mezinárodní den žen",
+        "hover_text": "Mezinárodní den žen 2024",
+        "share_text": "Šťastný Mezinárodní den žen! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Kvindernes Internationale Kampdag",
+        "hover_text": "Kvindernes internationale kampdag 2024",
+        "share_text": "Vi fejrer kvindernes internationale kampdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Internationale Vrouwendag",
+        "hover_text": "Internationale Vrouwendag 2024",
+        "share_text": "Fijne Internationale Vrouwendag! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Rahvusvaheline naistepäev",
+        "hover_text": "2024. aasta rahvusvaheline naistepäev",
+        "share_text": "Head rahvusvahelist naistepäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Kansainvälinen naistenpäivä",
+        "hover_text": "Kansainvälinen naistenpäivä 2024",
+        "share_text": "Hyvää kansainvälistä naistenpäivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Journée internationale des droits des femmes",
+        "hover_text": "Journée internationale des droits des femmes 2024",
+        "share_text": "Journée internationale des droits des femmes #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Journée internationale des femmes",
+        "hover_text": "Journée internationale des femmes 2024",
+        "share_text": "Journée internationale des femmes! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día Internacional da Muller",
+        "hover_text": "Día Internacional da Muller 2024",
+        "share_text": "Feliz Día Internacional da Muller! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ქალთა საერთაშორისო დღე",
+        "hover_text": "ქალთა საერთაშორისო დღე — 2024",
+        "share_text": "გილოცავთ ქალთა საერთაშორისო დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Weltfrauentag",
+        "hover_text": "Weltfrauentag 2024",
+        "share_text": "Frohen Weltfrauentag! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Παγκόσμια Ημέρα της Γυναίκας",
+        "hover_text": "Παγκόσμια Ημέρα της Γυναίκας 2024",
+        "share_text": "Ευχές για την Παγκόσμια Ημέρα της Γυναίκας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "આંતરરાષ્ટ્રીય મહિલા દિવસ",
+        "hover_text": "આંતરરાષ્ટ્રીય મહિલા દિવસ 2024",
+        "share_text": "આંતરરાષ્ટ્રીય મહિલા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום האישה הבינלאומי",
+        "hover_text": "יום האישה הבינלאומי 2024",
+        "share_text": "חוגגים את יום האישה הבינלאומי GoogleDoodle#"
+      },
+      "hi": {
+        "query": "अंतरराष्ट्रीय महिला दिवस",
+        "hover_text": "अंतरराष्ट्रीय महिला दिवस 2024",
+        "share_text": "अंतरराष्ट्रीय महिला दिवस की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Nemzetközi nőnap",
+        "hover_text": "Nemzetközi nőnap, 2024",
+        "share_text": "Boldog nemzetközi nőnapot! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Alþjóðlegur baráttudagur kvenna",
+        "hover_text": "Alþjóðlegur baráttudagur kvenna 2024",
+        "share_text": "Gleðilegan alþjóðlegan baráttudag kvenna! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Perempuan Sedunia",
+        "hover_text": "Hari Perempuan Internasional 2024",
+        "share_text": "Selamat Hari Perempuan Internasional! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Idirnáisiúnta na mBan",
+        "hover_text": "Lá Idirnáisiúnta na mBan, 2024",
+        "share_text": "Lá Idirnáisiúnta na mBan faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Giornata internazionale della donna",
+        "hover_text": "Giornata internazionale della donna 2024",
+        "share_text": "Buona Giornata internazionale della donna! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "国際女性デー",
+        "hover_text": "2024 年 国際女性デー",
+        "share_text": "2024 年 国際女性デー #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಅಂತಾರಾಷ್ಟ್ರೀಯ ಮಹಿಳಾ ದಿನ",
+        "hover_text": "ಅಂತಾರಾಷ್ಟ್ರೀಯ ಮಹಿಳಾ ದಿನ 2024",
+        "share_text": "ಅಂತಾರಾಷ್ಟ್ರೀಯ ಮಹಿಳಾ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Халықаралық әйелдер күні",
+        "hover_text": "Халықаралық әйелдер күні – 2024",
+        "share_text": "Халықаралық әйелдер күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាសិទ្ធិ​នារី​អន្តរជាតិ",
+        "hover_text": "ទិវា​សិទ្ធិនារី​អន្តរជាតិ​ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​សិទ្ធិនារី​អន្តរជាតិ! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "세계 여성의 날",
+        "hover_text": "2024년 세계 여성의 날",
+        "share_text": "세계 여성의 날 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Эл аралык аялдар күнү",
+        "hover_text": "Эл аралык аялдар күнү – 2024",
+        "share_text": "Эл аралык аялдар күнү менен куттуктайбыз! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນແມ່ຍິງສາກົນ",
+        "hover_text": "ວັນແມ່ຍິງສາກົນ 2024",
+        "share_text": "ສຸກສັນວັນແມ່ຍິງສາກົນ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día Internacional de la Mujer",
+        "hover_text": "Día Internacional de la Mujer 2024",
+        "share_text": "¡Feliz Día Internacional de la Mujer! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Starptautiskā sieviešu diena",
+        "hover_text": "Starptautiskā sieviešu diena — 2024",
+        "share_text": "Sveicam Starptautiskajā sieviešu dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Tarptautinė moters diena",
+        "hover_text": "Tarptautinė moters diena, 2024 m.",
+        "share_text": "Linksmos Tarptautinės moters dienos! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Меѓународен ден на жената",
+        "hover_text": "Меѓународен ден на жената, 2024 г.",
+        "share_text": "Среќен Меѓународен ден на жената! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Andro iraisam-pirenena ho an'ny vehivavy",
+        "hover_text": "Andro iraisam-pirenena ho an'ny vehivavy",
+        "share_text": "Andro iraisam-pirenena ho an'ny vehivavy! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Wanita Antarabangsa",
+        "hover_text": "Hari Wanita Sedunia 2024",
+        "share_text": "Selamat Hari Wanita Sedunia! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "അന്താരാഷ്‌ട്ര ‌വനിതാ ‌ദിനം",
+        "hover_text": "അന്താരാഷ്ട്ര വനിതാ ദിനം 2024",
+        "share_text": "അന്താരാഷ്ട്ര വനിതാ ദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "आंतरराष्ट्रीय महिला दिन",
+        "hover_text": "आंतरराष्ट्रीय महिला दिन २०२४",
+        "share_text": "आंतरराष्ट्रीय महिला दिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Олон улсын эмэгтэйчүүдийн эрхийг хамгаалах өдөр",
+        "hover_text": "2024 оны Олон улсын эмэгтэйчүүдийн эрхийг хамгаалах өдөр",
+        "share_text": "Олон улсын эмэгтэйчүүдийн эрхийг хамгаалах өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "अन्तर्राष्ट्रिय नारी दिवस",
+        "hover_text": "अन्तर्राष्ट्रिय नारी दिवस २०२४",
+        "share_text": "अन्तर्राष्ट्रिय नारी दिवसको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Den internasjonale kvinnedagen",
+        "hover_text": "Den internasjonale kvinnedagen 2024",
+        "share_text": "Vi feirer den internasjonale kvinnedagen! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଆନ୍ତର୍ଜାତିକ ମହିଳା ଦିବସ",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز جهانی زن",
+        "hover_text": "روز جهانی زن ۲۰۲۴",
+        "share_text": "روز جهانی زن مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Międzynarodowy Dzień Kobiet",
+        "hover_text": "Międzynarodowy Dzień Kobiet 2024",
+        "share_text": "Obchodzimy Międzynarodowy Dzień Kobiet #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia Internacional das Mulheres",
+        "hover_text": "Dia Internacional das Mulheres 2024",
+        "share_text": "Feliz Dia Internacional das Mulheres! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia internacional da mulher",
+        "hover_text": "Dia Internacional da Mulher de 2024",
+        "share_text": "Feliz Dia Internacional da Mulher! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਅੰਤਰਰਾਸ਼ਟਰੀ ਮਹਿਲਾ ਦਿਵਸ",
+        "hover_text": "ਅੰਤਰਰਾਸ਼ਟਰੀ ਮਹਿਲਾ ਦਿਵਸ 2024",
+        "share_text": "ਅੰਤਰਰਾਸ਼ਟਰੀ ਮਹਿਲਾ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Internațională a Femeii",
+        "hover_text": "Ziua Internațională a Femeii – 2024",
+        "share_text": "La mulți ani de Ziua Internațională a Femeii! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Международный женский день",
+        "hover_text": "Международный женский день – 2024",
+        "share_text": "С Международным женским днем! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Међународни дан жена",
+        "hover_text": "Међународни дан жена 2024.",
+        "share_text": "Срећан Међународни дан жена! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Međunarodni dan žena",
+        "hover_text": "Međunarodni dan žena 2024.",
+        "share_text": "Srećan Međunarodni dan žena! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "International Women's Day",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ජාත්‍යන්තර කාන්තා දිනය",
+        "hover_text": "ජාත්‍යන්තර කාන්තා දිනය 2024",
+        "share_text": "ප්‍රීතිමත් ජාත්‍යන්තර කාන්තා දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Medzinárodný deň žien",
+        "hover_text": "Medzinárodný deň žien 2024",
+        "share_text": "Šťastný Medzinárodný deň žien! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Mednarodni dan žena",
+        "hover_text": "Mednarodni dan žena 2024",
+        "share_text": "Vesel mednarodni dan žena! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Caalamiga ah ee Haweenka",
+        "hover_text": "Maalinta Caalamiga ah ee Haweenka",
+        "share_text": "Maalinta Caalamiga ah ee Haweenka! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Basadi la Lefatshe",
+        "hover_text": "Letsatsi la Basadi la Lefatshe",
+        "share_text": "Letsatsi la Basadi la Lefatshe#GoogleDoodle"
+      },
+      "es": {
+        "query": "Día Internacional de la Mujer",
+        "hover_text": "Día Internacional de la Mujer 2024",
+        "share_text": "¡Feliz Día Internacional de la Mujer! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Kimataifa ya Wanawake",
+        "hover_text": "Siku ya Wanawake Duniani 2024",
+        "share_text": "Heri ya Siku ya Wanawake Duniani! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Internationella kvinnodagen",
+        "hover_text": "Internationella kvinnodagen 2024",
+        "share_text": "Vi firar internationella kvinnodagen #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "சர்வதேச மகளிர் தினம்",
+        "hover_text": "சர்வதேச மகளிர் தினம் 2024",
+        "share_text": "சர்வதேச மகளிர் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "అంతర్జాతీయ మహిళా దినోత్సవం",
+        "hover_text": "అంతర్జాతీయ మహిళా దినోత్సవం 2024",
+        "share_text": "అంతర్జాతీయ మహిళా దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันสตรีสากล",
+        "hover_text": "วันสตรีสากลปี 2024",
+        "share_text": "สุขสันต์วันสตรีสากล #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Basadi la Ditšhabatšhaba",
+        "hover_text": "Letsatsi la Basadi la Ditšhabatšhaba",
+        "share_text": "Letsatsi la Basadi la Ditšhabatšhaba #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Dünya Kadınlar Günü",
+        "hover_text": "2024 Dünya Kadınlar Günü",
+        "share_text": "Dünya Kadınlar Günü'nü kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Міжнародний жіночий день",
+        "hover_text": "Міжнародний жіночий день у 2024 році",
+        "share_text": "З Міжнародним жіночим днем! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "عالمی یوم خواتین",
+        "hover_text": "عالمی یوم خواتین 2024",
+        "share_text": "عالمی یوم خواتین کی مبارکباد! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Xalqaro xotin-qizlar kuni",
+        "hover_text": "Xalqaro xotin-qizlar kuni 2024",
+        "share_text": "Xalqaro xotin-qizlar kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc tế phụ nữ",
+        "hover_text": "Ngày Quốc tế Phụ nữ năm 2024",
+        "share_text": "Mừng Ngày Quốc tế Phụ nữ! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lwabantu Besifazane Lamazwe Ngamazwe",
+        "hover_text": "Usuku Lwamazwe Ngamazwe Lwabesifazane lwango-2024",
+        "share_text": "Usuku Lwamazwe Ngamazwe Lwabesifazane Oluhle! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "International Women's Day",
+    "share_text": "Happy International Women's Day! #GoogleDoodle"
+  },
+  {
     "name": "lola-beltrans-92nd-birthday",
     "title": "Lola Beltrán's 92nd Birthday",
     "url": "//www.google.com/logos/doodles/2024/lola-beltrans-92nd-birthday-6753651837108878.3-law.gif",
