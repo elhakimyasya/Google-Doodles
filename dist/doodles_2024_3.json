@@ -1,5 +1,504 @@
 [
   {
+    "name": "celebrating-the-flat-white",
+    "title": "Celebrating the Flat White",
+    "url": "//www.google.com/logos/doodles/2024/celebrating-the-flat-white-6753651837110463-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/7fLCbbP8F-N9OOgOzyxyeD9ktDBTot2HLS5LQoBO8UKbOmKpS_4a52zocy3DHLG9tJ0-Fwt_Z70j3yu2B8KUXYRPBmvocL2cBUIuNWXLYtAmWQSCLzhnQDo",
+    "high_res_url": "//www.google.com/logos/doodles/2024/celebrating-the-flat-white-6753651837110463-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      3,
+      11
+    ],
+    "translations": {
+      "en": {
+        "query": "Flat White",
+        "hover_text": "Celebrating the Flat White",
+        "share_text": "Celebrating the Flat White! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Skuimespresso (flat white)",
+        "hover_text": "Ter viering van die skuimespresso (flat white)",
+        "share_text": "Ter viering van die skuimespresso (flat white)! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Kafeja me qumësht",
+        "hover_text": "Përkujtojmë kafenë me qumësht",
+        "share_text": "Përkujtojmë kafenë me qumësht! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ፍላት ኋይት",
+        "hover_text": "ፍላት ኋይትን በማክበር ላይ",
+        "share_text": "ፍላት ኋይትን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "\"فلات وايت\" (إسبريسو مع حليب)",
+        "hover_text": "نحتفل اليوم بمشروب الإسبريسو مع الحليب \"فلات وايت\"",
+        "share_text": "نحتفل اليوم بمشروب الإسبريسو مع الحليب \"فلات وايت\"! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ֆլեթ ուայթ",
+        "hover_text": "Տոնենք ֆլեթ ուայթի օրը",
+        "share_text": "Տոնենք ֆլեթ ուայթի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Flat White",
+        "hover_text": "Flat White günü",
+        "share_text": "Flat White günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ফ্ল্যাট হোয়াইট",
+        "hover_text": "ফ্ল্যাট হোয়াইট উদযাপন করা হচ্ছে",
+        "share_text": "ফ্ল্যাট হোয়াইট উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Flat White",
+        "hover_text": "Flat white-aren omenez",
+        "share_text": "Flat white-aren omenez! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Флэт-уайт",
+        "hover_text": "Ушаноўваем кафейны напітак флэт-уайт",
+        "share_text": "Ушаноўваем кафейны напітак флэт-уайт! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Espreso s mliječnom pjenom",
+        "hover_text": "Slavimo espreso s mliječnom pjenom",
+        "share_text": "Slavimo espreso s mliječnom pjenom! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Flat White",
+        "hover_text": "Celebrating the Flat White",
+        "share_text": "Celebrating the Flat White #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Двойно еспресо с млечна микропяна",
+        "hover_text": "Честване на двойното еспресо с млечна микропяна",
+        "share_text": "Честване на двойното еспресо с млечна микропяна! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Flat White",
+        "hover_text": "Flat White ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "Flat White ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Cafè amb llet curt de llet",
+        "hover_text": "Homenatge al cafè amb llet curt de llet",
+        "share_text": "Homenatge al cafè amb llet curt de llet #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "鮮奶特濃咖啡",
+        "hover_text": "香醇的鮮奶特濃咖啡",
+        "share_text": "香醇的鮮奶特濃咖啡！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "平白咖啡",
+        "hover_text": "讚頌平白咖啡！",
+        "share_text": "讚頌平白咖啡！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "馥芮白咖啡",
+        "hover_text": "美味的馥芮白咖啡",
+        "share_text": "美味的馥芮白咖啡！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Kava s mlijekom",
+        "hover_text": "U čast kave s mlijekom",
+        "share_text": "U čast kave s mlijekom! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Flat white",
+        "hover_text": "Oslava kávy flat white",
+        "share_text": "Oslavujeme kávu flat white! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Flat white",
+        "hover_text": "Vi hylder flat white-drikken",
+        "share_text": "Vi hylder flat white-drikken #GoogleDoodle"
+      },
+      "nl": {
+        "query": "flat white",
+        "hover_text": "Doodle ter ere van de flat white",
+        "share_text": "Een doodle ter ere van de flat white! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Flat White",
+        "hover_text": "Tähistame Flat White'i",
+        "share_text": "Tähistame Flat White'i! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Flat White",
+        "hover_text": "Flat White",
+        "share_text": "Flat White #GoogleDoodle"
+      },
+      "fr": {
+        "query": "flat white",
+        "hover_text": "Le flat white est à l'honneur",
+        "share_text": "Le flat white est à l'honneur ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Flat White",
+        "hover_text": "Le flat white est à l'honneur",
+        "share_text": "Le flat white est à l'honneur! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Flat White",
+        "hover_text": "Homenaxe ao flat white",
+        "share_text": "Homenaxe ao flat white! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "Flat White",
+        "hover_text": "აღვნიშნავთ Flat White-ის დღეს",
+        "share_text": "აღვნიშნავთ Flat White-ის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "flat white",
+        "hover_text": "Zu Ehren des Flat White ",
+        "share_text": "Zu Ehren des Flat White "
+      },
+      "el": {
+        "query": "Flat White",
+        "hover_text": "Γιορτάζουμε τον flat white",
+        "share_text": "Γιορτάζουμε τον flat white! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ફ્લૅટ વ્હાઇટ",
+        "hover_text": "ફ્લૅટ વ્હાઇટની ઉજવણી",
+        "share_text": "ફ્લૅટ વ્હાઇટની ઉજવણી! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hi": {
+        "query": "फ़्लैट व्हाइट",
+        "hover_text": "फ़्लैट व्हाइट का जश्न",
+        "share_text": "फ़्लैट व्हाइट का जश्न! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Flat white",
+        "hover_text": "A flat white kávé ünneplése",
+        "share_text": "A flat white kávé ünneplése. #GoogleDoodle"
+      },
+      "is": {
+        "query": "Flat white",
+        "hover_text": "Við fögnum kaffidrykknum „flat white“",
+        "share_text": "Við fögnum kaffidrykknum „flat white“! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Minuman Kopi Flat White",
+        "hover_text": "Merayakan Minuman Kopi Flat White",
+        "share_text": "Merayakan Minuman Kopi Flat White #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Flat White",
+        "hover_text": "In onore del flat white",
+        "share_text": "In onore del flat white! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "フラット ホワイト",
+        "hover_text": "フラット ホワイトを称えて",
+        "share_text": "フラット ホワイトを称えて #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಫ್ಲ್ಯಾಟ್ ವೈಟ್",
+        "hover_text": "\t ಫ್ಲ್ಯಾಟ್ ವೈಟ್ ಅನ್ನು ಆಸ್ವಾದಿಸಲಾಗುತ್ತಿದೆ",
+        "share_text": " ! ಫ್ಲ್ಯಾಟ್ ವೈಟ್ ಅನ್ನು ಆಸ್ವಾದಿಸಲಾಗುತ್ತಿದೆ \t #Google Doodle"
+      },
+      "kk": {
+        "query": "Флэт уайт",
+        "hover_text": "Флэт уайт күні",
+        "share_text": "Флэт уайт күні #GoogleDoodle"
+      },
+      "km": {
+        "query": "Flat White",
+        "hover_text": "អបអរទិវារំលឹក Flat White",
+        "share_text": "អបអរទិវារំលឹក Flat White! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "플랫 화이트",
+        "hover_text": "플랫 화이트 기념",
+        "share_text": "플랫 화이트 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Флэт Уайт",
+        "hover_text": "Флэт Уайт күнүн майрамдоо",
+        "share_text": "Флэт Уайт күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Flat White",
+        "hover_text": "ສະເຫຼີມສະຫຼອງ Flat White",
+        "share_text": "ສະເຫຼີມສະຫຼອງ Flat White! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Flat White",
+        "hover_text": "Homenaje al Flat White",
+        "share_text": "¡Hoy rendimos homenaje al Flat White! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Flat White kafija",
+        "hover_text": "Flat White kafijas godināšana",
+        "share_text": "Flat White kafijas godināšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Fletvaitas",
+        "hover_text": "Fletvaito minėjimas",
+        "share_text": "Fletvaito minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Flat White",
+        "hover_text": "Во чест на Flat White",
+        "share_text": "Во чест на Flat White! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Flat White",
+        "hover_text": "Meraikan Flat White",
+        "share_text": "Meraikan Flat White! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഫ്ലാറ്റ് വൈറ്റ്",
+        "hover_text": "ഫ്ലാറ്റ് വൈറ്റ് ആഘോഷമാക്കുന്നു",
+        "share_text": "ഫ്ലാറ്റ് വൈറ്റ് ആഘോഷമാക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "फ्लॅट व्हाइट",
+        "hover_text": "फ्लॅट व्हाइटचा आस्वाद घ्या",
+        "share_text": "फ्लॅट व्हाइटचा आस्वाद घ्या! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Флэт Вайт",
+        "hover_text": "Флэт Вайтын өдрийг тэмдэглэж байна",
+        "share_text": "Флэт Вайтын өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "फ्ल्याट ह्वाइट",
+        "hover_text": "फ्ल्याट ह्वाइटको उत्सव",
+        "share_text": "फ्ल्याट ह्वाइटको उत्सव! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Flat white",
+        "hover_text": "Vi feirer flat white-kaffen",
+        "share_text": "Vi feirer flat white-kaffen! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "فِلت وایت",
+        "hover_text": "بزرگداشت فِلت وایت",
+        "share_text": "بزرگداشت فِلت وایت! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Flat white",
+        "hover_text": "Czas na celebrowanie kawy flat white ",
+        "share_text": "Czas na celebrowanie kawy flat white "
+      },
+      "pt-BR": {
+        "query": "Flat White",
+        "hover_text": "Celebrando o Flat White",
+        "share_text": "Celebrando o Flat White! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": "ਫਲੈਟ ਵਾਈਟ",
+        "hover_text": "ਫਲੈਟ ਵਾਈਟ ਦਾ ਜਸ਼ਨ",
+        "share_text": "ਫਲੈਟ ਵਾਈਟ ਦਾ ਜਸ਼ਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Cafea cu spumă de lapte",
+        "hover_text": "În cinstea cafelei cu spumă de lapte",
+        "share_text": "În cinstea cafelei cu spumă de lapte! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Кофе флэт уайт",
+        "hover_text": "День кофе флэт уайт",
+        "share_text": "День кофе флэт уайт #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Еспресо с млеком",
+        "hover_text": "Славимо еспресо с млеком",
+        "share_text": "Славимо еспресо с млеком! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Espreso s mlekom",
+        "hover_text": "Slavimo espreso s mlekom",
+        "share_text": "Slavimo espreso s mlekom! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ෆ්ලැට් වයිට්",
+        "hover_text": "ෆ්ලැට් වයිට් සැමරීම",
+        "share_text": "ෆ්ලැට් වයිට් සැමරීම! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Flat white",
+        "hover_text": "Oslavujeme kávu flat white",
+        "share_text": "Oslavujeme kávu flat white. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Bela kava",
+        "hover_text": "Praznujemo belo kavo",
+        "share_text": "Praznujemo belo kavo! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Flat White",
+        "hover_text": "Homenaje al Flat White",
+        "share_text": "¡Hoy rendimos homenaje al Flat White! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Flat White",
+        "hover_text": "Tunaenzi Flat White",
+        "share_text": "Tunaenzi Flat White! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Flat White",
+        "hover_text": "Vi hyllar Flat White",
+        "share_text": "Vi hyllar Flat White! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஃபிளாட் ஒயிட் காஃபி",
+        "hover_text": "ஃபிளாட் ஒயிட் காஃபியைக் கொண்டாடுவோம்",
+        "share_text": "ஃபிளாட் ஒயிட் காஃபியைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఫ్లాట్ వైట్",
+        "hover_text": "ఫ్లాట్ వైట్ వేడుకలు",
+        "share_text": "ఫ్లాట్ వైట్ వేడుకలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "กาแฟแฟลตไวท์",
+        "hover_text": "กาแฟแฟลตไวท์",
+        "share_text": "วันเฉลิมฉลองกาแฟแฟลตไวต์ #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Flat White",
+        "hover_text": "Flat White'ı Kutluyoruz",
+        "share_text": "Flat White'ı kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Флет-вайт",
+        "hover_text": "Ушановуємо флет-вайт",
+        "share_text": "Ушановуємо флет-вайт! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Flat White",
+        "hover_text": "Flat White کی یاد میں",
+        "share_text": "Flat White کی یاد میں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Flat White",
+        "hover_text": "Flat White kuni",
+        "share_text": "Flat White kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Cà phê Flat White",
+        "hover_text": "Tôn vinh cà phê Flat White",
+        "share_text": "Tôn vinh cà phê Flat White! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "I-Flat White",
+        "hover_text": "Sibungaza i-Flat White",
+        "share_text": "Sibungaza i-Flat White! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Flat White",
+    "share_text": "Celebrating the Flat White! #GoogleDoodle"
+  },
+  {
     "name": "portugal-national-elections-2024",
     "title": "Portugal National Elections 2024",
     "url": "//www.google.com/logos/doodles/2024/portugal-national-elections-2024-6753651837110480-l.png",
