@@ -1,5 +1,504 @@
 [
   {
+    "name": "hungary-national-day-2024",
+    "title": "Hungary National Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/hungary-national-day-2024-6753651837110197-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/rTL6CGBJ54oInEB4qBcpeFrJVjC9gByN1naeHY_fgkVD412REQPkq3XlLS4n20KXZVZCejWz8vIhoFtpm2ODmJKta8QL_WOAcmLHj7bukj_sAzCn1AdwOt0",
+    "high_res_url": "//www.google.com/logos/doodles/2024/hungary-national-day-2024-6753651837110197-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      3,
+      15
+    ],
+    "translations": {
+      "en": {
+        "query": "Hungary National Day",
+        "hover_text": "Hungary National Day 2024",
+        "share_text": "Happy National Day, Hungary! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Hongarye se nasionale dag",
+        "hover_text": "Hongarye se nasionale dag 2024",
+        "share_text": "Gelukkige Nasionale dag, Hongarye! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita Kombëtare e Hungarisë",
+        "hover_text": "Dita Kombëtare e Hungarisë, 2024",
+        "share_text": "Gëzuar Ditën Kombëtare, Hungari! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የሃንጋሪ ብሔራዊ ቀን",
+        "hover_text": "የሃንጋሪ ብሔራዊ ቀን 2024",
+        "share_text": "መልካም ብሔራዊ ቀን ሃንጋሪ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "العيد الوطني للمجر",
+        "hover_text": "اليوم الوطني لهنغاريا 2024",
+        "share_text": "العيد الوطني للمجر ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Հունգարիայի ազգային տոն",
+        "hover_text": "Հունգարիայի ազգային տոն 2024",
+        "share_text": "Շնորհավո՛ր Հունգարիայի ազգային տոնը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Macarıstanın Müstəqillik Günü",
+        "hover_text": "2024 Macarıstanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Macarıstan! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "হাঙ্গেরির জাতীয় দিবস",
+        "hover_text": "হাঙ্গেরির জাতীয় দিবস ২০২৪",
+        "share_text": "হাঙ্গেরির জাতীয় দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Hungariako Egun Nazionala",
+        "hover_text": "2024ko Hungariako Egun Nazionala",
+        "share_text": "Egun Nazional zoriontsua izan, Hungaria! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Нацыянальны дзень Венгрыі",
+        "hover_text": "Нацыянальны дзень Венгрыі 2024",
+        "share_text": "З Нацыянальным днём, Венгрыя! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan državnosti Mađarske",
+        "hover_text": "Dan državnosti Mađarske 2024.",
+        "share_text": "Sretan Dan državnosti, Mađarska! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Hungary National Day",
+        "hover_text": "Hungary National Day 2024",
+        "share_text": "Happy National Day, Hungary! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Национален празник на Унгария",
+        "hover_text": "Национален празник на Унгария 2024 г.",
+        "share_text": "Честит национален празник на Унгария! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဟန်ဂေရီ အမျိုးသားနေ့",
+        "hover_text": "၂၀၂၄ ဟန်ဂေရီနိုင်ငံ အမျိုးသားနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် ဟန်ဂေရီ အမျိုးသားနေ့ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia Nacional d'Hongria",
+        "hover_text": "Dia Nacional d'Hongria 2024",
+        "share_text": "Feliç Dia Nacional, Hongria! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "匈牙利國慶日",
+        "hover_text": "2024 年匈牙利國慶日",
+        "share_text": "匈牙利國慶日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "匈牙利國慶日",
+        "hover_text": "2024 年匈牙利國慶日",
+        "share_text": "匈牙利，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "匈牙利国庆日",
+        "hover_text": "2024 年匈牙利国庆节",
+        "share_text": "匈牙利，国庆日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan državnosti Mađarske",
+        "hover_text": "Dan državnosti Mađarske 2024.",
+        "share_text": "Sretan Dan državnosti, Mađarska! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Státní svátek Maďarska",
+        "hover_text": "Den maďarské státnosti 2024",
+        "share_text": "Vše nejlepší ke státnímu svátku, Maďarsko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Ungarns nationaldag",
+        "hover_text": "Ungarns nationaldag 2024",
+        "share_text": "Glædelig nationaldag, Ungarn! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Nationale feestdag Hongarije",
+        "hover_text": "Nationale feestdag Hongarije 2024",
+        "share_text": "Fijne nationale feestdag aan iedereen in Hongarije #GoogleDoodle"
+      },
+      "et": {
+        "query": "Ungari rahvuspüha",
+        "hover_text": "Ungari 2024. aasta rahvuspüha",
+        "share_text": "Head rahvuspüha, Ungari! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Unkarin kansallispäivä",
+        "hover_text": "Unkarin kansallispäivä 2024",
+        "share_text": "Hyvää Unkarin kansallispäivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête nationale de la Hongrie",
+        "hover_text": "Fête nationale de la Hongrie 2024",
+        "share_text": "Fête nationale de la Hongrie #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête nationale de la Hongrie",
+        "hover_text": "Fête nationale de la Hongrie 2024",
+        "share_text": "Bonne fête nationale, Hongrie! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día Nacional de Hungría",
+        "hover_text": "Día Nacional de Hungría 2024",
+        "share_text": "Feliz Día Nacional, Hungría! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "უნგრეთის ეროვნული დღესასწაული",
+        "hover_text": "უნგრეთის ეროვნული დღესასწაული — 2024",
+        "share_text": "ვულოცავთ უნგრეთს ეროვნულ დღესასწაულს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Nationalfeiertag Ungarn",
+        "hover_text": "Nationalfeiertag Ungarn 2024",
+        "share_text": "Alles Gute zum Nationalfeiertag, Ungarn! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Εθνική Ημέρα Ουγγαρίας",
+        "hover_text": "Εθνική Ημέρα της Ουγγαρίας 2024",
+        "share_text": "Εορτασμός για την Εθνική Επέτειο της Ουγγαρίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "હંગેરીનો રાષ્ટ્રીય દિવસ",
+        "hover_text": "હંગેરીનો રાષ્ટ્રીય દિવસ 2024",
+        "share_text": "હંગેરીના રાષ્ટ્રીય દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "החג הלאומי של הונגריה",
+        "hover_text": "החג הלאומי של הונגריה 2024",
+        "share_text": "חג לאומי שמח להונגריה! #GoogleDoodle"
+      },
+      "hi": {
+        "query": "हंगरी का राष्ट्रीय दिवस",
+        "hover_text": "हंगरी का राष्ट्रीय दिवस 2024",
+        "share_text": "राष्ट्रीय दिवस मुबारक हो, हंगरी! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Március 15-i nemzeti ünnep",
+        "hover_text": "Március 15-i nemzeti ünnep",
+        "share_text": "Március 15-i nemzeti ünnep #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þjóðhátíðardagur Ungverjalands",
+        "hover_text": "Þjóðhátíðardagur Ungverjalands 2024",
+        "share_text": "Gleðilegan þjóðhátíðardag, Ungverjaland! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Nasional Hungaria",
+        "hover_text": "Hari Nasional Hungaria 2024",
+        "share_text": "Selamat Hari Nasional, Hungaria! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Náisiúnta na hUngáire",
+        "hover_text": null,
+        "share_text": "Lá Náisiúnta na hUngáire faoi mhaise duit. #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa nazionale ungherese",
+        "hover_text": "Festa nazionale ungherese 2024",
+        "share_text": "Buona festa nazionale, Ungheria! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ハンガリー独立戦争記念日",
+        "hover_text": "2024 年ハンガリー独立戦争記念日",
+        "share_text": "ハンガリー独立戦争記念日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಹಂಗೇರಿ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚಾರಣೆ",
+        "hover_text": "ಹಂಗೇರಿ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಹಂಗೇರಿಯಾದ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆಯ ಶುಭಾಷಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Бахрейннің Ұлттық күні",
+        "hover_text": "Мажарстанның Ұлттық күні – 2024",
+        "share_text": "Ұлттық күн құтты болсын, Венгрия! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យជាតិ​ហុងគ្រី",
+        "hover_text": "ទិវាបុណ្យជាតិ​ហុងគ្រី​ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​បុណ្យជាតិ​ហុងគ្រី! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "헝가리 국경일",
+        "hover_text": "2024년 헝가리 국경일",
+        "share_text": "헝가리 국경일 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Венгриянын Улуттук күнү",
+        "hover_text": "Венгриянын Улуттук күнү – 2024",
+        "share_text": "Улуттук күнүң менен, Венгрия! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຊາດຮັງກາຣີ",
+        "hover_text": "ວັນຊາດຮັງກາຣີ 2024",
+        "share_text": "ສຸກສັນວັນຊາດຮັງກາຣີ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día Nacional de Hungría",
+        "hover_text": "Día Nacional de Hungría 2024",
+        "share_text": "¡Feliz Día Nacional de Hungría! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Ungārijas nacionālie svētki",
+        "hover_text": "Ungārijas Nacionālie svētki — 2024",
+        "share_text": "Sveicam Ungāriju nacionālajos svētkos! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Vengrijos nacionalinė diena",
+        "hover_text": "Vengrijos nacionalinė diena, 2024 m.",
+        "share_text": "Laimingos nacionalinės dienos, Vengrija! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на државноста на Унгарија",
+        "hover_text": "Ден на државноста на Унгарија, 2024 г.",
+        "share_text": "Среќен Ден на државноста на Унгарија! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetim-pirenen'i Hôngria",
+        "hover_text": null,
+        "share_text": "Tsarà Fetim-pirenena ry Hôngria ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kebangsaan Hungary",
+        "hover_text": "Hari Kebangsaan Hungary 2024",
+        "share_text": "Selamat Hari Kebangsaan, Hungary! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഹംഗറി ദേശീയ ദിനം",
+        "hover_text": "ഹംഗറി ദേശീയ ദിനം 2024",
+        "share_text": "ദേശീയ ദിനാശംസകൾ, ഹംഗറി! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "हंगेरीचा राष्ट्रीय दिन",
+        "hover_text": "हंगेरीचा राष्ट्रीय दिन २०२४",
+        "share_text": "राष्ट्रीय दिनाच्या शुभेच्छा, हंगेरीी! #Googleडूडल"
+      },
+      "mn": {
+        "query": "Унгар улсын Үндэсний баярын өдөр",
+        "hover_text": "2024 оны Унгар Улсын Үндэсний баярын өдөр",
+        "share_text": "Унгар улсын ард иргэдэд Үндэсний баярын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "हङ्गेरीको राष्ट्रिय दिवस",
+        "hover_text": "हङ्गेरीको राष्ट्रिय दिवस २०२४",
+        "share_text": "राष्ट्रिय दिवसको शुभकामना, हङ्गेरी! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Ungarns nasjonaldag",
+        "hover_text": "Ungarns nasjonaldag 2024",
+        "share_text": "Gratulerer med nasjonaldagen, Ungarn! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ହଙ୍ଗେରୀର ରାଷ୍ଟ୍ରୀୟ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ଶୁଭ ଜାତୀୟ ଦିବସ, ହଙ୍ଗେରୀ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز ملی مجارستان",
+        "hover_text": "روز ملی مجارستان - ۲۰۲۴",
+        "share_text": "روز ملی مجارستان مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Narodowe Węgier",
+        "hover_text": "Święto Narodowe Węgier 2024",
+        "share_text": "Szczęśliwego Święta Narodowego Węgier #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia Nacional da Hungria",
+        "hover_text": "Dia Nacional da Hungria 2024",
+        "share_text": "Feliz Dia Nacional, Hungria! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia nacional da Hungria",
+        "hover_text": "Dia Nacional da Hungria de 2024",
+        "share_text": "Feliz dia nacional, Hungria! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਹੰਗਰੀ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ",
+        "hover_text": "ਹੰਗਰੀ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ 2024",
+        "share_text": "ਹੰਗਰੀ ਦੇ ਰਾਸ਼ਟਰੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Națională a Ungariei",
+        "hover_text": "Ziua Națională a Ungariei – 2024",
+        "share_text": "La mulți ani de Ziua Națională, Ungaria! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Национальный праздник Венгрии",
+        "hover_text": "Национальный день Венгрии – 2024",
+        "share_text": "Национальный праздник Венгрии #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан државности Мађарске",
+        "hover_text": "Дан државности Мађарске 2024.",
+        "share_text": "Честитамо Дан државности Мађарској! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan državnosti Mađarske",
+        "hover_text": "Dan državnosti Mađarske 2024.",
+        "share_text": "Čestitamo Dan državnosti Mađarskoj! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen nasyonal Hungari",
+        "hover_text": null,
+        "share_text": "Bonn fet lazournen nasyonal Hungary! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "හංගේරියාවේ ජාතික දිනය",
+        "hover_text": "හංගේරියාවේ ජාතික දිනය 2024",
+        "share_text": "සුබ ජාතික දිනයක්, හංගේරියාව! #Googleඩූඩල්"
+      },
+      "sk": {
+        "query": "Národný deň Maďarska",
+        "hover_text": "Národný deň Maďarska 2024",
+        "share_text": "Šťastný štátny sviatok,  Maďarsko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Madžarski dan državnosti",
+        "hover_text": "Madžarski dan državnosti 2024",
+        "share_text": "Vesel dan državnosti, Madžarska. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Qaranka Hungary",
+        "hover_text": null,
+        "share_text": "Maalinta Qaranka Farxada leh ee Hungary! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Naha la Hungary",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Naha, Hungary! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día Nacional de Hungría",
+        "hover_text": "Día Nacional de Hungría 2024",
+        "share_text": "¡Feliz Día Nacional de Hungría! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Kitaifa ya Hungaria",
+        "hover_text": "Sikukuu ya Kitaifa ya Hangaria 2024",
+        "share_text": "Heri za Siku ya Kitaifa, Hungaria! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Ungerns nationaldag",
+        "hover_text": "Ungerns nationaldag 2024",
+        "share_text": "Vi firar Ungerns nationaldag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஹங்கேரி தேசிய தினம்",
+        "hover_text": "ஹங்கேரியின் தேசிய தினம் 2024",
+        "share_text": "ஹங்கேரி தேசிய தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "హంగేరి జాతీయ దినోత్సవం",
+        "hover_text": "హంగేరీ జాతీయ దినోత్సవం 2024",
+        "share_text": "జాతీయ దినోత్సవ శుభాకాంక్షలు, హంగేరి! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันชาติฮังการี",
+        "hover_text": "วันชาติฮังการีปี 2024",
+        "share_text": "สุขสันต์วันชาติฮังการี #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Setšhaba la Hungary",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Setšhaba, Hungary! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Macaristan Ulusal Günü",
+        "hover_text": "2024 Macaristan Ulusal Günü",
+        "share_text": "Macaristan Ulusal Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Національний день Угорщини",
+        "hover_text": "Національний день Угорщини у 2024 році",
+        "share_text": "Вітаємо з Національним днем, Угорщино! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "ہنگری کا قومی دن",
+        "hover_text": "ہنگری کا قومی دن 2024",
+        "share_text": "ہنگری کے قومی دن کی مبارکباد! ‎#GoogleDoodle"
+      },
+      "uz": {
+        "query": "Vengriya milliy bayrami",
+        "hover_text": "Vengriya Milliy bayrami 2024",
+        "share_text": "Vengriya milliy bayrami muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Hungary",
+        "hover_text": "Ngày Quốc khánh Hungary năm 2024",
+        "share_text": "Chúc mừng quốc khánh Hungary! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "I-Hungary National Day",
+        "hover_text": "Usuku Lukazwelonke lwase-Hungary lwango-2024",
+        "share_text": "Suku Oluhle Lezwe, e-Hungary! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Hungary National Day",
+    "share_text": "Happy National Day, Hungary! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-the-flat-white",
     "title": "Celebrating the Flat White",
     "url": "//www.google.com/logos/doodles/2024/celebrating-the-flat-white-6753651837110463-law.gif",
@@ -824,8 +1323,8 @@
       },
       "fa": {
         "query": "انتخابات ملی پرتغال",
-        "hover_text": "انتخابات ملی پرتغال - ۲۰۲۴",
-        "share_text": "انتخابات ملی پرتغال - ۲۰۲۴! ‎#GoogleDoodle"
+        "hover_text": "انتخابات ملی ۲۰۲۴ پرتغال",
+        "share_text": "انتخابات ملی ۲۰۲۴ پرتغال! ‎#GoogleDoodle"
       },
       "pl": {
         "query": "Wybory parlamentarne w Portugalii",
