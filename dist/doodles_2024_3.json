@@ -1,5 +1,504 @@
 [
   {
+    "name": "st-patricks-day-2024",
+    "title": "St. Patrick's Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/st-patricks-day-2024-6753651837110198.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/uAedOpMBcP0X1Xs7GSr40PnGHW1QPD2cXPmiNXt5LXcbgtaFqX9ON4NsadCKWgKy2Qd4W_UDTvBCEN-UJXZgx5kPtF9ykrP5fzJfkN5imSHmyJuzN4A1",
+    "high_res_url": "//www.google.com/logos/doodles/2024/st-patricks-day-2024-6753651837110198.2-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      3,
+      17
+    ],
+    "translations": {
+      "en": {
+        "query": "St. Patrick's Day",
+        "hover_text": "St. Patrick's Day 2024",
+        "share_text": "Happy St. Patrick's Day, Ireland! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Sint Patricksdag",
+        "hover_text": "Sint Patricksdag 2024",
+        "share_text": "Gelukkige Sint Patricksdag, Ierland! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Shën Patrikut",
+        "hover_text": "Dita e Shën Patrikut, 2024",
+        "share_text": "Gëzuar Ditën e Shën Patrikut, Irlandë! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የቅዱስ ፓትሪክ ቀን",
+        "hover_text": "የቅዱስ ፓትሪክ ቀን 2024",
+        "share_text": "መልካም የቅዱስ ፓትሪክ ቀን፣ አየርላንድ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد القديس \"باتريك\"",
+        "hover_text": "عيد القديس \"باتريك\" 2024",
+        "share_text": "أطيب التمنيات بمناسبة عيد القديس \"باتريك\" في أيرلندا. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Սուրբ Պատրիկի օր",
+        "hover_text": "Սուրբ Պատրիկի օր 2024",
+        "share_text": "Շնորհավո՛ր Սուրբ Պատրիկի օրը Իռլանդիայում #GoogleDoodle"
+      },
+      "az": {
+        "query": "Müqəddəs Patrik Günü",
+        "hover_text": "2024 Müqəddəs Patrik Günü",
+        "share_text": "Müqəddəs Patrik Gününüz mübarək, İrlandiya! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "সেন্ট প্যাট্রিক দিবস",
+        "hover_text": "সেন্ট প্যাট্রিক দিবস ২০২৪",
+        "share_text": "আয়ারল্যান্ডের সেন্ট প্যাট্রিক দিবসের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "San Patrizio eguna",
+        "hover_text": "2024ko San Patrizio eguna",
+        "share_text": "San Patrizio egun zoriontsua izan, Irlanda! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень Святога Патрыка",
+        "hover_text": "Дзень святога Патрыка 2024",
+        "share_text": "З Днём святога Патрыка, Ірландыя! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan sv. Patrika",
+        "hover_text": "Dan sv. Patrika 2024.",
+        "share_text": "Sretan Dan sv. Patrika, Irska! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "St. Patrick's Day ",
+        "hover_text": "St. Patrick's Day 2024",
+        "share_text": "Happy St. Patrick's Day, Ireland #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на св. Патрик",
+        "hover_text": "Ден на св. Патрик 2024 г.",
+        "share_text": "Честит Ден на св. Патрик на Ирландия! #GoogleDoodle"
+      },
+      "my": {
+        "query": "စိန့်ပက်ထရစ်နေ့",
+        "hover_text": "၂၀၂၄ စိန့်ပက်ထရစ်နေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် စိန့်ပက်ထရစ်နေ့ ဖြစ်ပါစေ အိုင်ယာလန်။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de Sant Patrici",
+        "hover_text": "Dia de Sant Patrici 2024",
+        "share_text": "Feliç Dia de Sant Patrici, Irlanda! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "聖博德節",
+        "hover_text": "2024 年聖博德節",
+        "share_text": "愛爾蘭，聖博德節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "聖派翠克節",
+        "hover_text": "2024 年聖派翠克節",
+        "share_text": "愛爾蘭，聖派翠克節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "圣帕特里克节",
+        "hover_text": "2024 年圣帕特里克节",
+        "share_text": "欢庆爱尔兰圣帕特里克节！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan sv. Patrika",
+        "hover_text": "Dan sv. Patrika 2024.",
+        "share_text": "Sretan Dan svetog Patrika, Irska! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den sv. Patrika",
+        "hover_text": "Den sv. Patrika 2024",
+        "share_text": "Šťastný Den sv. Patrika, Irsko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "St. Patricks dag",
+        "hover_text": "Skt. Patricks dag 2024",
+        "share_text": "Glædelig Skt. Patricks dag, Irland #GoogleDoodle"
+      },
+      "nl": {
+        "query": "St. Patrick's Day",
+        "hover_text": "St. Patrick's Day 2024",
+        "share_text": "Fijne St. Patrick's Day, Ierland! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Püha Patricku päev",
+        "hover_text": "2024. aasta Püha Patricku päev",
+        "share_text": "Head Püha Patricku päeva, Iirimaa! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Pyhän Patrikin päivä",
+        "hover_text": "Pyhän Patrickin päivä 2024",
+        "share_text": "Hyvää Pyhän Patrickin päivää, Irlanti! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Saint-Patrick",
+        "hover_text": "Saint-Patrick 2024",
+        "share_text": "Joyeuse Saint-Patrick à tous les Irlandais ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Saint-Patrick",
+        "hover_text": "Fête de la Saint-Patrick 2024",
+        "share_text": "Joyeuse Saint-Patrick, Irlande! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día de San Patricio",
+        "hover_text": "Día de San Patricio 2024",
+        "share_text": "Feliz Día de San Patricio, Irlanda! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "წმ. პატრიკის დღე",
+        "hover_text": "წმ. პატრიკის დღე — 2024",
+        "share_text": "ირლანდიას ვულოცავთ წმ. პატრიკის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "St. Patrick's Day",
+        "hover_text": "St. Patrick’s Day 2024",
+        "share_text": "Schönen St. Patrick’s Day, Irland! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Αγίου Πατρικίου",
+        "hover_text": "Ημέρα του Αγίου Πατρικίου 2024",
+        "share_text": "Χρόνια πολλά για την ημέρα του Αγίου Πατρικίου της Ιρλανδίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "St. Patrick દિવસ",
+        "hover_text": "સેંટ પેટ્રિક દિવસ 2024",
+        "share_text": "સેંટ પેટ્રિક દિવસની શુભેચ્છા, આયર્લૅન્ડ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום פטריק הקדוש",
+        "hover_text": "יום פטריק הקדוש 2024",
+        "share_text": "חג שמח: יום פטריק הקדוש באירלנד GoogleDoodle#"
+      },
+      "hi": {
+        "query": "सेंट पैट्रिक दिवस",
+        "hover_text": "सेंट पैट्रिक डे 2024",
+        "share_text": "आयरलैंड के लोगों को सेंट पैट्रिक दिवस की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Szent Patrik napja",
+        "hover_text": "Szent Patrik napja, 2024",
+        "share_text": "Boldog Szent Patrik-napot, Írország! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Dagur heilags Patreks",
+        "hover_text": "Dagur heilags Patreks 2024",
+        "share_text": "Gleðilegan dag heilags Patreks, Írland! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari St. Patrick",
+        "hover_text": "Hari St. Patrick 2024",
+        "share_text": "Selamat Hari St. Patrick, Irlandia! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Fhéile Pádraig, 2024! #GoogleDoodle",
+        "hover_text": "Lá Fhéile Pádraig, 2024",
+        "share_text": "Lá Fhéile Pádraig, 2024! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa di San Patrizio",
+        "hover_text": "Festa di San Patrizio 2024",
+        "share_text": "Felice festa di San Patrizio, Irlanda! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "聖パトリックの日",
+        "hover_text": "2024 年セント パトリック デー",
+        "share_text": "セント パトリック デー（アイルランド）を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಸೈಂಟ್ ಪ್ಯಾಟ್ರಿಕ್ ಡೇ",
+        "hover_text": "ಸೇಂಟ್ ಪ್ಯಾಟ್ರಿಕ್ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಸೇಂಟ್ ಪ್ಯಾಟ್ರಿಕ್ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಐರ್ಲೆಂಡ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Әулие Патрик күні",
+        "hover_text": "Әулие Патрик күні – 2024",
+        "share_text": "Әулие Патрик күні құтты болсын, Ирландия! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យ St. Patrick",
+        "hover_text": "ទិវាបុណ្យ St. Patrick ឆ្នាំ 2024",
+        "share_text": "អបអរទិវាបុណ្យ St. Patrick នៅអៀរឡង់! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "성 파트리치오의 날",
+        "hover_text": "2024년 성 파트리치오 축일",
+        "share_text": "아일랜드 성 파트리치오 축일 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Ыйык Патрик күнү",
+        "hover_text": "Ыйык Патрик күнү – 2024",
+        "share_text": "Ыйык Патрик күнүң менен, Ирландия! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນເຊນແພດທຣິກ",
+        "hover_text": "ວັນເຊນແພດທຣິກ 2024",
+        "share_text": "ສຸກສັນວັນເຊນແພດທຣິກ, ໄອຣ໌ແລນ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de San Patricio",
+        "hover_text": "Día de San Patricio 2024",
+        "share_text": "¡Feliz Día de San Patricio, Irlanda! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Svētā Patrika diena",
+        "hover_text": "Svētā Patrika diena — 2024",
+        "share_text": "Sveicam Īriju Svētā Patrika dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Šv. Patriko diena",
+        "hover_text": "Šv. Patriko diena, 2024 m.",
+        "share_text": "Linkime Airijai linksmos Šv. Patriko dienos! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на Св. Патрик",
+        "hover_text": "Св. Патрик, 2024 г.",
+        "share_text": "Среќен Св. Патрик, Ирска! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'i Md Patrick",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Hari St. Patrick",
+        "hover_text": "Hari St. Patrick 2024",
+        "share_text": "Selamat Hari St. Patrick, Ireland! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "സെൻ്റ് പാട്രിക്‌സ് ദിനം",
+        "hover_text": "സെന്റ് പാട്രിക് ദിനം 2024",
+        "share_text": "സെന്റ് പാട്രിക് ദിനാശംസകൾ, അയർലൻഡ്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "सेंट पॅट्रिक दिन",
+        "hover_text": "सेंट पॅट्रिक्स डे २०२४",
+        "share_text": "आयर्लंडला सेंट पॅट्रिक्स डे च्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Гэгээн Патрикийн өдөр",
+        "hover_text": "2024 оны Гэгээн Патрикийн өдөр",
+        "share_text": "Ирланд Улсын ард иргэдэд Гэгээн Патрикийн өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "सेन्ट प्याट्रिक दिवस",
+        "hover_text": "St. Patrick दिवस २०२४",
+        "share_text": "आयरल्यान्डका बासिन्दाहरूलाई St. Patrick दिवसको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "St. Patricks dag",
+        "hover_text": "St. Patrick's Day 2024",
+        "share_text": "God St. Patrick's Day, Irland! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ସେଣ୍ଟ.ପ୍ୟାଟ୍ରିକ୍‌ ଦିବସ",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز سنت پاتریک",
+        "hover_text": "روز سنت پاتریک ۲۰۲۴",
+        "share_text": "روز سنت پاتریک ایرلند مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień św. Patryka",
+        "hover_text": "Dzień św. Patryka 2024",
+        "share_text": "Irlandia obchodzi Dzień Świętego Patryka #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia de São Patrício",
+        "hover_text": "Dia de São Patrício de 2024",
+        "share_text": "Feliz Dia de São Patrício, Irlanda! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia de São Patrício",
+        "hover_text": "Dia de São Patrício de 2024",
+        "share_text": "Feliz dia de São Patrício, Irlanda! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਸੇਂਟ ਪੈਟਰਿਕ ਦਿਵਸ",
+        "hover_text": "ਸੇਂਟ ਪੈਟਰਿਕ ਦਿਵਸ 2024",
+        "share_text": "ਸੇਂਟ ਪੈਟਰਿਕ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਆਇਰਲੈਂਡ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Sfântului Patrick",
+        "hover_text": "Ziua Sfântului Patrick 2024",
+        "share_text": "La mulți ani de Ziua Sfântului Patrick, Irlanda! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День святого Патрика",
+        "hover_text": "День святого Патрика – 2024",
+        "share_text": "День святого Патрика в Ирландии #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан Светог Патрика",
+        "hover_text": "Дан Светог Патрика 2024.",
+        "share_text": "Честитамо Дан Светог Патрика Ирској! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan Svetog Patrika",
+        "hover_text": "Dan Svetog Patrika 2024.",
+        "share_text": "Čestitamo Dan Svetog Patrika Irskoj! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Sen Patrik",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ශාන්ත පැට්රික් දිනය",
+        "hover_text": "ශාන්ත පැට්‍රික් දිනය 2024",
+        "share_text": "ප්‍රීතිමත් ශාන්ත පැට්‍රික්ගේ දිනයක්, අයර්ලන්තය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň sv. Patrika",
+        "hover_text": "Deň sv. Patrika 2024",
+        "share_text": "Šťastný Deň sv. Patrika, Írsko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan sv. Patrika",
+        "hover_text": "Dan sv. Patrika 2024",
+        "share_text": "Vesel dan sv. Patrika, Irska! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta St. Patrick",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": "Letsatsi la St. Patrick",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día de San Patricio",
+        "hover_text": "Día de San Patricio 2024",
+        "share_text": "¡Feliz Día de San Patricio, Irlanda! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya St. Patrick",
+        "hover_text": "Sikukuu ya Mtakatifu Patrick 2024",
+        "share_text": "Heri ya Sikukuu ya Mtakatifu Patrick, Ayalandi! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Saint Patrick's Day",
+        "hover_text": "Saint Patrick's Day 2024",
+        "share_text": "Vi önskar Irland en glad Saint Patrick's Day! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "புனிதர் பேட்ரிக் தினம்",
+        "hover_text": "செயின்ட் பேட்ரிக் தினம் 2024",
+        "share_text": "செயின்ட் பேட்ரிக் தின வாழ்த்துகள், அயர்லாந்து! #GoogleDoodle"
+      },
+      "te": {
+        "query": "సెయింట్ పాట్రిక్స్ డే",
+        "hover_text": "సెయింట్ పాట్రిక్స్ డే 2024",
+        "share_text": "ఐర్లాండ్ దేశ ప్రజలకు, సెయింట్ పాట్రిక్స్ డే శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันนักบุญแพทริค",
+        "hover_text": "วันนักบุญแพทริกปี 2024",
+        "share_text": "สุขสันต์วันนักบุญแพทริกในไอร์แลนด์ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Moitshepi Patrick",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Aziz Patrick Günü",
+        "hover_text": "2024 Aziz Patrick Günü",
+        "share_text": "İrlanda Aziz Patrick Günü'nü kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День святого Патрика",
+        "hover_text": "День святого Патрика у 2024 році",
+        "share_text": "З Днем святого Патрика, Ірландіє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم سینٹ پیٹرک",
+        "hover_text": "سینٹ پیٹرکس ڈے 2024",
+        "share_text": "سینٹ پیٹرکس ڈے مبارک ہو، آئرلینڈ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Avliyo Patrik kuni",
+        "hover_text": "Avliyo Patrik kuni 2024",
+        "share_text": "Avliyo Patrik kuni muborak, Irlandiya! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày thánh Patrick",
+        "hover_text": "Ngày Thánh Patrick năm 2024",
+        "share_text": "Chúc mừng Ireland nhân Ngày Thánh Patrick! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku le-St. Patrick",
+        "hover_text": "Usuku Luka-St. Patrick Luka-2024",
+        "share_text": "Ireland, sikufisela Usuku Oluhle luka-St. Patrick! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "St. Patrick's Day",
+    "share_text": "Happy St. Patrick's Day, Ireland! #GoogleDoodle"
+  },
+  {
     "name": "hungary-national-day-2024",
     "title": "Hungary National Day 2024",
     "url": "//www.google.com/logos/doodles/2024/hungary-national-day-2024-6753651837110197-law.gif",
