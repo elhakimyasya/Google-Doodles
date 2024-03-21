@@ -1,5 +1,504 @@
 [
   {
+    "name": "mothers-day-2024-mar-21",
+    "title": "Mother's Day 2024 (Mar 21)",
+    "url": "//www.google.com/logos/doodles/2024/mothers-day-2024-mar-21-6753651837110361-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/D8pbfvSdC39MwzLhbczL08HWFsRmL77v0miYRfMnz_ku2Ox8eCEeggTL5BVDKqNSsqdFmlTHHZgXONJVXR_ymmAieJnPh2eg3JRtuyfDZaibVwcGX9nM",
+    "high_res_url": "//www.google.com/logos/doodles/2024/mothers-day-2024-mar-21-6753651837110361-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      3,
+      21
+    ],
+    "translations": {
+      "en": {
+        "query": "Mother's Day",
+        "hover_text": "Mother's Day 2024",
+        "share_text": "Happy Mother's Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Moedersdag",
+        "hover_text": null,
+        "share_text": "Gelukkige Moedersdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Nënës",
+        "hover_text": null,
+        "share_text": "Gëzuar Ditën e Nënës! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የእናቶች ቀን",
+        "hover_text": null,
+        "share_text": "መልካም የእናቶች ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد الأم",
+        "hover_text": "عيد الأم لعام 2024",
+        "share_text": "أجمل التهاني بمناسبة عيد الأمّ. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Մայրերի օր",
+        "hover_text": null,
+        "share_text": "Շնորհավո՛ր մայրերի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Analar Günü",
+        "hover_text": null,
+        "share_text": "Analar Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "মাতৃ দিবস",
+        "hover_text": null,
+        "share_text": "মাদার্স ডেয়ের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Amaren Eguna",
+        "hover_text": null,
+        "share_text": "Amaren Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень маці",
+        "hover_text": null,
+        "share_text": "З Днём маці! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan majki",
+        "hover_text": null,
+        "share_text": "Sretan Dan majki! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Mother's Day",
+        "hover_text": null,
+        "share_text": "Happy Mother's Day! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на майката",
+        "hover_text": null,
+        "share_text": "Честит Ден на майката! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အမေများနေ့",
+        "hover_text": null,
+        "share_text": "ပျော်ရွှင်ဖွယ်အမေများနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Mare",
+        "hover_text": null,
+        "share_text": "Feliç Dia de la Mare! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "母親節",
+        "hover_text": null,
+        "share_text": "母親節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "母親節",
+        "hover_text": null,
+        "share_text": "母親節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "母亲节",
+        "hover_text": null,
+        "share_text": "母亲节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Majčin dan",
+        "hover_text": null,
+        "share_text": "Sretan Majčin dan! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den matek",
+        "hover_text": null,
+        "share_text": "Vše nejlepší ke Dni matek! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Mors dag",
+        "hover_text": null,
+        "share_text": "Vi fejrer mors dag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Moederdag",
+        "hover_text": null,
+        "share_text": "Fijne Moederdag #GoogleDoodle"
+      },
+      "et": {
+        "query": "Emadepäev",
+        "hover_text": null,
+        "share_text": "Head emadepäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Äitienpäivä",
+        "hover_text": null,
+        "share_text": "Hyvää äitienpäivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête des Mères",
+        "hover_text": "Fête des Mères 2024",
+        "share_text": "Bonne fête des Mères ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête des Mères",
+        "hover_text": null,
+        "share_text": "Joyeuse fête des Mères! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Nai",
+        "hover_text": null,
+        "share_text": "Feliz Día da Nai! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "დედის დღე",
+        "hover_text": null,
+        "share_text": "გილოცავთ დედის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Muttertag",
+        "hover_text": null,
+        "share_text": "Alles Gute zum Muttertag! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Γιορτή της Μητέρας",
+        "hover_text": null,
+        "share_text": "Πολλές ευχές για τη Γιορτή της Μητέρας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "માતૃ દિવસ",
+        "hover_text": null,
+        "share_text": "મધર્સ ડેની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום האם",
+        "hover_text": null,
+        "share_text": "יום האם שמח! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "मदर्स डे",
+        "hover_text": "मदर्स डे 2024",
+        "share_text": "मदर्स डे की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Anyák napja",
+        "hover_text": null,
+        "share_text": "Boldog anyák napját! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Mæðradagurinn",
+        "hover_text": null,
+        "share_text": "Gleðilegan mæðradag! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Ibu",
+        "hover_text": null,
+        "share_text": "Selamat Hari Ibu! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá na Máithreacha",
+        "hover_text": null,
+        "share_text": "Lá na Máithreacha faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa della mamma",
+        "hover_text": null,
+        "share_text": "Felice festa della mamma! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "母の日",
+        "hover_text": null,
+        "share_text": "母の日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ತಾಯಂದಿರ ದಿನ",
+        "hover_text": null,
+        "share_text": "ತಾಯಂದಿರ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Аналар күні",
+        "hover_text": null,
+        "share_text": "Аналар күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​រំលឹកគុណម្ដាយ",
+        "hover_text": null,
+        "share_text": "អបអរ​ទិវា​រំលឹកគុណ​ម្ដាយ​! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "어머니날",
+        "hover_text": null,
+        "share_text": "어머니날 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Энелер күнү",
+        "hover_text": null,
+        "share_text": "Энелер күнү кут болсун! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນແມ່",
+        "hover_text": null,
+        "share_text": "ສຸກສັນວັນແມ່! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Madre",
+        "hover_text": null,
+        "share_text": "¡Feliz Día de la Madre! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Mātes diena",
+        "hover_text": null,
+        "share_text": "Sveicam Mātes dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Motinos diena",
+        "hover_text": null,
+        "share_text": "Su Motinos diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на мајката",
+        "hover_text": null,
+        "share_text": "Среќен Ден на мајката! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny reny",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny reny ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Ibu",
+        "hover_text": null,
+        "share_text": "Selamat Hari Ibu! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "മാതൃദിനം",
+        "hover_text": null,
+        "share_text": "മാതൃദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "मदर्स डे",
+        "hover_text": null,
+        "share_text": "मदर्स डे च्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Ээжүүдийн өдөр",
+        "hover_text": null,
+        "share_text": "Ээжүүдийн өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "आमाको मुख हेर्ने दिन",
+        "hover_text": null,
+        "share_text": "आमाको मुख हेर्ने दिनको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Morsdag",
+        "hover_text": null,
+        "share_text": "Gratulerer med morsdagen! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ମାତୃ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ମାତୃ ଦିବସର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز مادر",
+        "hover_text": "روز مادر) ۲۰۲۴",
+        "share_text": "روز مادر مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Matki",
+        "hover_text": null,
+        "share_text": "Obchodzimy Dzień Matki #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia das Mães",
+        "hover_text": null,
+        "share_text": "Feliz Dia das Mães! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da mãe",
+        "hover_text": null,
+        "share_text": "Feliz dia da mãe! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਮਾਂ ਦਿਵਸ",
+        "hover_text": null,
+        "share_text": "ਮਾਂ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Mamei",
+        "hover_text": null,
+        "share_text": "La mulți ani de Ziua Mamei! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День матери",
+        "hover_text": null,
+        "share_text": "С Днем матери! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан мајки",
+        "hover_text": null,
+        "share_text": "Срећан Дан мајки! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan majki",
+        "hover_text": null,
+        "share_text": "Srećan Dan majki! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Manman",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "මව්වරුන්ගේ දිනය",
+        "hover_text": null,
+        "share_text": "ප්‍රීතිමත් මව්වරුන්ගේ දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň matiek",
+        "hover_text": null,
+        "share_text": "Šťastný Deň matiek! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Materinski dan",
+        "hover_text": null,
+        "share_text": "Vesel materinski dan! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Hooyada",
+        "hover_text": null,
+        "share_text": "Maalinta Hooyada Farxada leh! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Bomme",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día de la Madre",
+        "hover_text": null,
+        "share_text": "¡Feliz Día de la Madre! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Akina Mama",
+        "hover_text": null,
+        "share_text": "Heri za Sikukuu ya Akina Mama! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Mors dag",
+        "hover_text": null,
+        "share_text": "Grattis på mors dag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "அன்னையர் தினம்",
+        "hover_text": null,
+        "share_text": "அன்னையர் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "మాతృ దినోత్సవం",
+        "hover_text": null,
+        "share_text": "మాతృ దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันแม่",
+        "hover_text": null,
+        "share_text": "สุขสันต์วันแม่ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la ga Mme",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Anneler Günü",
+        "hover_text": null,
+        "share_text": "Anneler Gününüz Kutlu Olsun. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День матері",
+        "hover_text": null,
+        "share_text": "З Днем матері! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم مادر",
+        "hover_text": "یوم مادر 2024",
+        "share_text": "یوم مادر مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Onalar kuni",
+        "hover_text": null,
+        "share_text": "Onalar kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày của mẹ",
+        "hover_text": null,
+        "share_text": "Mừng ngày của Mẹ! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lomama",
+        "hover_text": null,
+        "share_text": "Sikufisela Usuku Oluhle Lomama! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Mother's Day",
+    "share_text": "Happy Mother's Day! #GoogleDoodle"
+  },
+  {
     "name": "tunisia-national-day-2024",
     "title": "Tunisia National Day 2024",
     "url": "//www.google.com/logos/doodles/2024/tunisia-national-day-2024-6753651837110201-law.gif",
@@ -519,17 +1018,17 @@
       },
       "af": {
         "query": "Vadersdag",
-        "hover_text": "Vadersdag (19 Maart) 2024",
+        "hover_text": null,
         "share_text": "Gelukkige Vadersdag! #GoogleDoodle"
       },
       "sq": {
         "query": "Dita e Babait",
-        "hover_text": "Dita e Babait (19 mars), 2024",
+        "hover_text": null,
         "share_text": "Gëzuar Ditën e Babait! #GoogleDoodle"
       },
       "am": {
         "query": "የአባቶች ቀን",
-        "hover_text": "የአባቶች ቀን (ማርች 19) 2024",
+        "hover_text": null,
         "share_text": "መልካም የአባቶች ቀን! #GoogleDoodle"
       },
       "ar": {
@@ -539,132 +1038,132 @@
       },
       "hy": {
         "query": "Հայրերի օր",
-        "hover_text": "Հայրերի օր (մարտի 19) 2024",
+        "hover_text": null,
         "share_text": "Շնորհավո՛ր հայրերի օրը #GoogleDoodle"
       },
       "az": {
         "query": "Atalar Günü",
-        "hover_text": "2024 Atalar Günü (19 mart)",
+        "hover_text": null,
         "share_text": "Atalar Gününüz Mübarək! #GoogleDoodle"
       },
       "bn": {
         "query": "পিতৃ দিবস",
-        "hover_text": "পিতৃ দিবস (১৯ মার্চ) ২০২৪",
+        "hover_text": null,
         "share_text": "ফাদার্স ডের শুভেচ্ছা! #GoogleDoodle"
       },
       "eu": {
         "query": "Aitaren Eguna",
-        "hover_text": "2024ko Aitaren Eguna (martxoaren 19a)",
+        "hover_text": null,
         "share_text": "Aitaren Egun zoriontsua izan! #GoogleDoodle"
       },
       "be": {
         "query": "Дзень бацькі",
-        "hover_text": "Дзень бацькі 19 сакавіка 2024 года",
+        "hover_text": null,
         "share_text": "З Днём бацькі! #GoogleDoodle"
       },
       "bs": {
         "query": "Dan očeva",
-        "hover_text": "Dan očeva (19. mar) 2024.",
+        "hover_text": null,
         "share_text": "Sretan Dan očeva! #GoogleDoodle"
       },
       "en-GB": {
         "query": "Father's Day",
-        "hover_text": "Father's Day (19 Mar) 2024",
+        "hover_text": null,
         "share_text": "Happy Father's Day! #GoogleDoodle"
       },
       "bg": {
         "query": "Ден на бащата",
-        "hover_text": "Ден на бащата (19 март) 2024 г.",
+        "hover_text": null,
         "share_text": "Честит Ден на бащата! #GoogleDoodle"
       },
       "my": {
         "query": "အဖေများနေ့",
-        "hover_text": "၂၀၂၄ အဖေများနေ့ (မတ် ၁၉)",
+        "hover_text": null,
         "share_text": "ပျော်ရွှင်ဖွယ် ဖခင်များနေ့ဖြစ်ပါစေ။ #GoogleDoodle"
       },
       "ca": {
         "query": "Dia del Pare",
-        "hover_text": "Dia del Pare 2024 (19 de març)",
+        "hover_text": null,
         "share_text": "Feliç Dia del Pare! #GoogleDoodle"
       },
       "zh-HK": {
         "query": "父親節",
-        "hover_text": "2024 年父親節 (3 月 19 日)",
+        "hover_text": null,
         "share_text": "父親節快樂！#GoogleDoodle"
       },
       "zh-TW": {
         "query": "父親節",
-        "hover_text": "2024 年父親節 (3 月 19 日)",
+        "hover_text": null,
         "share_text": "父親節快樂！#GoogleDoodle"
       },
       "zh-CN": {
         "query": "父亲节",
-        "hover_text": "2024 年父亲节（3 月 19 日）",
+        "hover_text": null,
         "share_text": "父亲节快乐！#GoogleDoodle"
       },
       "hr": {
         "query": "Dan očeva",
-        "hover_text": "Dan očeva (19. ožujka) 2024.",
+        "hover_text": null,
         "share_text": "Sretan Dan očeva! #GoogleDoodle"
       },
       "cs": {
         "query": "Den otců",
-        "hover_text": "Den otců (19. března) 2024",
+        "hover_text": null,
         "share_text": "Veselý Den otců! #GoogleDoodle"
       },
       "da": {
         "query": "fars dag",
-        "hover_text": "Fars dag (19. marts) 2024",
+        "hover_text": null,
         "share_text": "Glædelig fars dag! #GoogleDoodle"
       },
       "nl": {
         "query": "Vaderdag",
-        "hover_text": "Vaderdag 2024",
+        "hover_text": null,
         "share_text": "Fijne Vaderdag! #GoogleDoodle"
       },
       "et": {
         "query": "Isadepäev",
-        "hover_text": "2024. aasta isadepäev (19. märts)",
+        "hover_text": null,
         "share_text": "Head isadepäeva! #GoogleDoodle"
       },
       "fi": {
         "query": "Isänpäivä",
-        "hover_text": "Isänpäivä (19.3.) 2024",
+        "hover_text": null,
         "share_text": "Hyvää isänpäivää! #GoogleDoodle"
       },
       "fr": {
         "query": "Fête des Pères",
-        "hover_text": "Fête des Pères 2024 (19 mars)",
+        "hover_text": null,
         "share_text": "Joyeuse fête des Pères ! #GoogleDoodle"
       },
       "fr-CA": {
         "query": "Fête des Pères",
-        "hover_text": "Fête des Pères 2024 (19 mars)",
+        "hover_text": null,
         "share_text": "Joyeuse fête des Pères! #GoogleDoodle"
       },
       "gl": {
         "query": "Día do Pai",
-        "hover_text": "Día do Pai 2024 (19 de marzo)",
+        "hover_text": null,
         "share_text": "Feliz Día do Pai! #GoogleDoodle"
       },
       "ka": {
         "query": "მამის დღე",
-        "hover_text": "მამის დღე (19 მარტი) 2024",
+        "hover_text": null,
         "share_text": "გილოცავთ მამის დღეს! #GoogleDoodle"
       },
       "de": {
         "query": "Vatertag",
-        "hover_text": "Vatertag (19. März) 2024",
+        "hover_text": null,
         "share_text": "Alles Liebe zum Vatertag! #GoogleDoodle"
       },
       "el": {
         "query": "Γιορτή του Πατέρα",
-        "hover_text": "Γιορτή του Πατέρα (19 Μαρτίου) 2024",
+        "hover_text": null,
         "share_text": "Πολλές ευχές για τη Γιορτή του Πατέρα! #GoogleDoodle"
       },
       "gu": {
         "query": "પિતૃ દિવસ",
-        "hover_text": "ફાધર્સ ડે (19 માર્ચ) 2024",
+        "hover_text": null,
         "share_text": "ફાધર્સ ડેની શુભેચ્છા! #GoogleDoodle"
       },
       "ht": {
@@ -674,27 +1173,27 @@
       },
       "iw": {
         "query": "יום האב",
-        "hover_text": "יום האב (19 במרץ) 2024",
+        "hover_text": null,
         "share_text": "יום האב שמח! GoogleDoodle#"
       },
       "hi": {
         "query": "फ़ादर्स डे",
-        "hover_text": "फ़ादर्स डे (19 मार्च) 2024",
+        "hover_text": null,
         "share_text": "फ़ादर्स डे की शुभकामनाएं! #GoogleDoodle"
       },
       "hu": {
         "query": "Apák napja",
-        "hover_text": "Apák napja (március 19.), 2024",
+        "hover_text": null,
         "share_text": "Boldog apák napját! #GoogleDoodle"
       },
       "is": {
         "query": "Feðradagurinn",
-        "hover_text": "Feðradagurinn (19. mars) 2024",
+        "hover_text": null,
         "share_text": "Gleðilegan feðradag! #GoogleDoodle"
       },
       "id": {
         "query": "Hari Ayah",
-        "hover_text": "Hari Ayah (19 Maret) 2024",
+        "hover_text": null,
         "share_text": "Selamat Hari Ayah! #GoogleDoodle"
       },
       "ga": {
@@ -709,57 +1208,57 @@
       },
       "ja": {
         "query": "父の日",
-        "hover_text": "2024 年父の日（3 月 19 日）",
+        "hover_text": null,
         "share_text": "父の日を祝おう！#GoogleDoodle"
       },
       "kn": {
         "query": "ತಂದೆಯಂದಿರ ದಿನ",
-        "hover_text": "ತಂದೆಯಂದಿರ ದಿನ (ಮಾರ್ಚ್ 19) 2024",
+        "hover_text": null,
         "share_text": "ತಂದೆಯಂದಿರ ದಿನಾಚರಣೆ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
       },
       "kk": {
         "query": "Әкелер күні",
-        "hover_text": "Әкелер күні – 2024 (19 наурыз)",
+        "hover_text": null,
         "share_text": "Әкелер күні құтты болсын! #GoogleDoodle"
       },
       "km": {
         "query": "ទិវា​រំលឹកគុណឪពុក",
-        "hover_text": "ទិវារំលឹកគុណឪពុក (ថ្ងៃទី 19 ខែមីនា) ឆ្នាំ 2024",
+        "hover_text": null,
         "share_text": "អបអរ​ទិវា​រំលឹកគុណ​ឪពុក​! #GoogleDoodle"
       },
       "ko": {
         "query": "아버지의 날",
-        "hover_text": "2024년 아버지날(3월 19일)",
+        "hover_text": null,
         "share_text": "아버지날 기념 #Google기념일로고"
       },
       "ky": {
         "query": "Аталар күнү",
-        "hover_text": "Аталар күнү (19-март) – 2024",
+        "hover_text": null,
         "share_text": "Аталар күнү менен куттуктайбыз! #GoogleDoodle"
       },
       "lo": {
         "query": "ວັນພໍ່",
-        "hover_text": "ວັນພໍ່ (19 ມີນາ) 2024",
+        "hover_text": null,
         "share_text": "ສຸກສັນວັນພໍ່! #GoogleDoodle"
       },
       "es-419": {
         "query": "Día del Padre",
-        "hover_text": "Día del Padre 2024",
+        "hover_text": null,
         "share_text": "¡Feliz Día del Padre! #GoogleDoodle"
       },
       "lv": {
         "query": "Tēva diena",
-        "hover_text": "Tēva diena — 2024. gada 19. marts",
+        "hover_text": null,
         "share_text": "Sveicam Tēva dienā! #GoogleDoodle"
       },
       "lt": {
         "query": "Tėvo diena",
-        "hover_text": "Tėvo diena, 2024 m. (kovo 19 d.)",
+        "hover_text": null,
         "share_text": "Linksmos Tėvo dienos! #GoogleDoodle"
       },
       "mk": {
         "query": "Ден на таткото",
-        "hover_text": "Ден на таткото (19 март), 2024 г.",
+        "hover_text": null,
         "share_text": "Среќен ден на таткото! #GoogleDoodle"
       },
       "mg": {
@@ -769,12 +1268,12 @@
       },
       "ms": {
         "query": "Hari Bapa",
-        "hover_text": "Hari Bapa (19 Mac) 2024",
+        "hover_text": null,
         "share_text": "Selamat Hari Bapa! #GoogleDoodle"
       },
       "ml": {
         "query": "പിതൃദിനം",
-        "hover_text": "പിതൃദിനം 2024",
+        "hover_text": null,
         "share_text": "പിതൃദിനാശംസകൾ! #GoogleDoodle"
       },
       "mt": {
@@ -784,22 +1283,22 @@
       },
       "mr": {
         "query": "पितृदिन",
-        "hover_text": "फादर्स डे (१९ मार्च) २०२४",
+        "hover_text": null,
         "share_text": "फादर्स डे च्या शुभेच्छा! #GoogleDoodle"
       },
       "mn": {
         "query": "Аавуудын өдөр",
-        "hover_text": "2024 оны Аавуудын өдөр (3-р сарын 19)",
+        "hover_text": null,
         "share_text": "Аавуудын өдрийн мэнд хүргэе! #GoogleDoodle"
       },
       "ne": {
         "query": "बुवाको मुख हेर्ने दिन",
-        "hover_text": "बुवाको मुख हेर्ने दिन (१९ मार्च) २०२४",
+        "hover_text": null,
         "share_text": "बुवाको मुख हेर्ने दिनको शुभकामना! #GoogleDoodle"
       },
       "no": {
         "query": "Farsdag",
-        "hover_text": "Farsdag (19. mars) 2024",
+        "hover_text": null,
         "share_text": "Gratulerer med farsdagen! #GoogleDoodle"
       },
       "nn": {
@@ -824,17 +1323,17 @@
       },
       "fa": {
         "query": "روز پدر",
-        "hover_text": "روز پدر (۱۹ مارس) ۲۰۲۴",
+        "hover_text": null,
         "share_text": "روز پدر مبارک! #GoogleDoodle"
       },
       "pl": {
         "query": "Dzień Ojca",
-        "hover_text": "Dzień Ojca 2024",
+        "hover_text": null,
         "share_text": "Obchodzimy Dzień Ojca #GoogleDoodle"
       },
       "pt-BR": {
         "query": "Dia dos Pais",
-        "hover_text": "Dia dos Pais 2024 (19 de março)",
+        "hover_text": null,
         "share_text": "Feliz Dia dos Pais! #GoogleDoodle"
       },
       "pt-PT": {
@@ -844,12 +1343,12 @@
       },
       "pa": {
         "query": "ਪਿਓ ਦਿਵਸ",
-        "hover_text": "ਪਿਤਾ ਦਿਵਸ (19 ਮਾਰਚ) 2024",
+        "hover_text": null,
         "share_text": "ਪਿਤਾ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
       },
       "ro": {
         "query": "Ziua Tatălui",
-        "hover_text": "Ziua Tatălui (19 martie) 2024",
+        "hover_text": null,
         "share_text": "La mulți ani de Ziua Tatălui! #GoogleDoodle"
       },
       "ro-MD": {
@@ -859,17 +1358,17 @@
       },
       "ru": {
         "query": "День отца",
-        "hover_text": "День отца – 2024 (19 марта)",
+        "hover_text": null,
         "share_text": "С Днем отца! #GoogleDoodle"
       },
       "sr": {
         "query": "Дан очева",
-        "hover_text": "Дан очева 2024.",
+        "hover_text": null,
         "share_text": "Срећан Дан очева! #GoogleDoodle"
       },
       "sr-Latn": {
         "query": "Dan očeva",
-        "hover_text": "Dan očeva 2024.",
+        "hover_text": null,
         "share_text": "Srećan Dan očeva! #GoogleDoodle"
       },
       "sr-ME": {
@@ -889,17 +1388,17 @@
       },
       "si": {
         "query": "පියවරුන්ගේ දිනය",
-        "hover_text": "2024 පියවරුන්ගේ දිනය (මාර්තු 19)",
+        "hover_text": null,
         "share_text": "ප්‍රීතිමත් පියවරුන්ගේ දිනයක්! #GoogleDoodle"
       },
       "sk": {
         "query": "Deň otcov",
-        "hover_text": "Deň otcov (19. marec) 2024",
+        "hover_text": null,
         "share_text": "Šťastný Deň otcov! #GoogleDoodle"
       },
       "sl": {
         "query": "Dan očetov",
-        "hover_text": "Očetovski dan (19. marec) 2024",
+        "hover_text": null,
         "share_text": "Vesel dan očetov! #GoogleDoodle"
       },
       "so": {
@@ -919,12 +1418,12 @@
       },
       "sw": {
         "query": "Siku ya Akina Baba",
-        "hover_text": "Siku ya Akina Baba (Tarehe 19 Machi) 2024",
+        "hover_text": null,
         "share_text": "Heri za Sikukuu ya Akina Baba! #GoogleDoodle"
       },
       "sv": {
         "query": "Fars dag",
-        "hover_text": "Fars dag (19 mars) 2024",
+        "hover_text": null,
         "share_text": "Grattis på fars dag! #GoogleDoodle"
       },
       "tg": {
@@ -934,17 +1433,17 @@
       },
       "ta": {
         "query": "தந்தையர் தினம்",
-        "hover_text": "தந்தையர் தினம் (மார்ச் 19) 2024",
+        "hover_text": null,
         "share_text": "தந்தையர் தின வாழ்த்துகள்! #GoogleDoodle"
       },
       "te": {
         "query": "పితృ దినోత్సవం",
-        "hover_text": "ఫాదర్స్ డే (మార్చి 19) 2024",
+        "hover_text": null,
         "share_text": "ఫాదర్స్ డే శుభాకాంక్షలు! #GoogleDoodle"
       },
       "th": {
         "query": "วันพ่อ",
-        "hover_text": "วันพ่อ (19 มี.ค.) ปี 2024",
+        "hover_text": null,
         "share_text": "สุขสันต์วันพ่อ #GoogleDoodle"
       },
       "tn": {
@@ -954,7 +1453,7 @@
       },
       "tr": {
         "query": "Babalar Günü",
-        "hover_text": "2024 Babalar Günü (19 Mart)",
+        "hover_text": null,
         "share_text": "Babalar Günü Kutlaması #GoogleDoodle"
       },
       "tk": {
@@ -964,22 +1463,22 @@
       },
       "uk": {
         "query": "День батька",
-        "hover_text": "День батька у 2024 році (19 березня)",
+        "hover_text": null,
         "share_text": "З Днем батька! #GoogleDoodle"
       },
       "ur": {
         "query": "یوم پِدر",
-        "hover_text": "فادر ڈے (19 مارچ) 2024",
+        "hover_text": null,
         "share_text": "یوم والد مبارک ہو! GoogleDoodle#"
       },
       "uz": {
         "query": "Otalar kuni",
-        "hover_text": "Otalar kuni (19-mart) 2024",
+        "hover_text": null,
         "share_text": "Otalar kuni muborak! #GoogleDoodle"
       },
       "vi": {
         "query": "Ngày của cha",
-        "hover_text": "Ngày của Cha năm 2024 (ngày 19 tháng 3)",
+        "hover_text": null,
         "share_text": "Mừng Ngày của Cha! #GoogleDoodle"
       },
       "wo": {
@@ -989,7 +1488,7 @@
       },
       "zu": {
         "query": "Usuku lobaba",
-        "hover_text": "Usuku Lobaba (Mas 19) 2024",
+        "hover_text": null,
         "share_text": "Sinifisela Usuku Lobaba Oluhle! #GoogleDoodle"
       }
     },
