@@ -1,5 +1,504 @@
 [
   {
+    "name": "slovakia-presidential-elections-2024",
+    "title": "Slovakia Presidential Elections 2024",
+    "url": "//www.google.com/logos/doodles/2024/temp-slovakia-presidential-elections-2024-6753651837110205-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/yh8T8zKprT6NrwfxgKrKkGMXm6FZDt7I6QYWRdMuc7uS7mi3IGkNvbNVGJvZt3OpDp1IYcaPTGVBTOgI-4V3GkPA3gIo59KrMzjZy1lc-kes8Y5BUogClos",
+    "high_res_url": "//www.google.com/logos/doodles/2024/temp-slovakia-presidential-elections-2024-6753651837110205-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      3,
+      23
+    ],
+    "translations": {
+      "en": {
+        "query": "Slovakia Presidential Elections",
+        "hover_text": "Slovakia Presidential Elections 2024",
+        "share_text": "Slovakia Presidential Elections 2024 #GoogleDoodle"
+      },
+      "af": {
+        "query": "Slowakye se presidensiële verkiesing",
+        "hover_text": "Slowakye se presidensiële verkiesing 2024",
+        "share_text": "Slowakye se presidensiële verkiesing 2024 #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Zgjedhjet presidenciale në Sllovaki",
+        "hover_text": "Zgjedhjet presidenciale në Sllovaki, 2024",
+        "share_text": "Zgjedhjet presidenciale në Sllovaki, 2024 #GoogleDoodle"
+      },
+      "am": {
+        "query": "የስሎቫኪያ ፕሬዝዳንታዊ ምርጫዎች",
+        "hover_text": "የስሎቫኪያ ፕሬዝዳንታዊ ምርጫዎች 2024",
+        "share_text": "የስሎቫኪያ ፕሬዝዳንታዊ ምርጫዎች 2024 #GoogleDoodle"
+      },
+      "ar": {
+        "query": "الانتخابات الرئاسية في سلوفاكيا",
+        "hover_text": "الانتخابات الرئاسية في سلوفاكيا 2024",
+        "share_text": "انطلقت الانتخابات الرئاسية في سلوفاكيا لعام 2024. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Սլովակիայի նախագահական ընտրություններ",
+        "hover_text": "Սլովակիայի նախագահական ընտրություններ 2024",
+        "share_text": "Սլովակիայի նախագահական ընտրություններ 2024 #GoogleDoodle"
+      },
+      "az": {
+        "query": "Slovakiya Prezident Seçkiləri",
+        "hover_text": "2024 Slovakiya Prezident Seçkiləri",
+        "share_text": "2024 Slovakiya Prezident Seçkiləri #GoogleDoodle"
+      },
+      "bn": {
+        "query": "স্লোভাকিয়ার রাষ্ট্রপতি নির্বাচন",
+        "hover_text": "স্লোভাকিয়ার রাষ্ট্রপতি নির্বাচন ২০২৪",
+        "share_text": "স্লোভাকিয়ার রাষ্ট্রপতি নির্বাচন ২০২৪ #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Eslovakiako lehendakaritza-hauteskundeak",
+        "hover_text": "2024ko Eslovakiako lehendakaritza-hauteskundeak",
+        "share_text": "2024ko Eslovakiako lehendakaritza-hauteskundeak #GoogleDoodle"
+      },
+      "be": {
+        "query": "Выбары прэзідэнта Славакіі",
+        "hover_text": "Выбары прэзідэнта Славакіі 2024",
+        "share_text": "Выбары прэзідэнта Славакіі 2024 #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Predsjednički izbori u Slovačkoj",
+        "hover_text": "Predsjednički izbori u Slovačkoj 2024.",
+        "share_text": "Predsjednički izbori u Slovačkoj 2024. #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Slovakia presidential elections",
+        "hover_text": "Slovakia presidential elections 2024",
+        "share_text": "Slovakia presidential elections 2024 #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Президентски избори в Словакия",
+        "hover_text": "Президентски избори в Словакия 2024 г.",
+        "share_text": "Президентски избори в Словакия 2024 г. #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဆလိုဗက်ကီးယားနိုင်ငံ သမ္မတရွေးကောက်ပွဲများ",
+        "hover_text": "၂၀၂၄ ဆလိုဗက်ကီးယားနိုင်ငံ သမ္မတရွေးကောက်ပွဲများ",
+        "share_text": "၂၀၂၄ ဆလိုဗက်ကီးယားနိုင်ငံ သမ္မတရွေးကောက်ပွဲများ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Eleccions presidencials a Eslovàquia",
+        "hover_text": "Eleccions presidencials a Eslovàquia 2024",
+        "share_text": "Eleccions presidencials a Eslovàquia 2024 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "斯洛伐克總統選舉",
+        "hover_text": "2024 年斯洛伐克總統選舉",
+        "share_text": "2024 年斯洛伐克總統選舉 #GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "斯洛伐克總統大選",
+        "hover_text": "2024 年斯洛伐克總統大選",
+        "share_text": "2024 年斯洛伐克總統大選 #GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "斯洛伐克总统选举",
+        "hover_text": "2024 年斯洛伐克总统选举",
+        "share_text": "2024 年斯洛伐克总统选举 #GoogleDoodle"
+      },
+      "hr": {
+        "query": "Predsjednički izbori u Slovačkoj",
+        "hover_text": "Predsjednički izbori u Slovačkoj 2024.",
+        "share_text": "Predsjednički izbori u Slovačkoj 2024. #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Slovenské prezidentské volby",
+        "hover_text": "Slovenské prezidentské volby 2024",
+        "share_text": "Slovenské prezidentské volby 2024 #GoogleDoodle"
+      },
+      "da": {
+        "query": "Præsidentvalg i Slovakiet",
+        "hover_text": "Præsidentvalg i Slovakiet 2024",
+        "share_text": "Præsidentvalg i Slovakiet 2024 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Presidentsverkiezingen Slowakije",
+        "hover_text": "Presidentsverkiezingen Slowakije 2024",
+        "share_text": "Presidentsverkiezingen Slowakije 2024 #GoogleDoodle"
+      },
+      "et": {
+        "query": "Slovakkia presidendivalimised",
+        "hover_text": "Slovakkia 2024. aasta presidendivalimised",
+        "share_text": "Slovakkia 2024. aasta presidendivalimised #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Slovakian presidentinvaalit",
+        "hover_text": "Slovakian presidentinvaalit 2024",
+        "share_text": "Slovakian presidentinvaalit 2024 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Élections présidentielles en Slovaquie",
+        "hover_text": "Élections présidentielles 2024 en Slovaquie",
+        "share_text": "Élections présidentielles 2024 en Slovaquie #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Élections présidentielles en Slovaquie",
+        "hover_text": "Élections présidentielles de 2024 en Slovaquie",
+        "share_text": "Élections présidentielles de 2024 en Slovaquie #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Eleccións presidenciais de Eslovaquia",
+        "hover_text": "Eleccións presidenciais de Eslovaquia 2024",
+        "share_text": "Eleccións presidenciais de Eslovaquia 2024 #GoogleDoodle"
+      },
+      "ka": {
+        "query": "სლოვაკეთის საპრეზიდენტო არჩევნები",
+        "hover_text": "სლოვაკეთის საპრეზიდენტო არჩევნები — 2024",
+        "share_text": "სლოვაკეთის საპრეზიდენტო არჩევნები — 2024 #GoogleDoodle"
+      },
+      "de": {
+        "query": "Präsidentschaftswahl in der Slowakei",
+        "hover_text": "Präsidentschaftswahl in der Slowakei 2024",
+        "share_text": "Präsidentschaftswahl in der Slowakei 2024 #GoogleDoodle"
+      },
+      "el": {
+        "query": "Προεδρικές εκλογές στη Σλοβακία",
+        "hover_text": "Προεδρικές εκλογές στη Σλοβακία 2024",
+        "share_text": "Προεδρικές εκλογές στη Σλοβακία 2024 #GoogleDoodle"
+      },
+      "gu": {
+        "query": "સ્લોવાકિયાની પ્રમુખપદની ચૂંટણીઓ",
+        "hover_text": "સ્લોવાકિયાની પ્રમુખપદની ચૂંટણીઓ 2024",
+        "share_text": "સ્લોવાકિયાની પ્રમુખપદની ચૂંટણીઓ 2024 #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "הבחירות לנשיאות בסלובקיה",
+        "hover_text": "הבחירות לנשיאות בסלובקיה 2024",
+        "share_text": "הבחירות לנשיאות בסלובקיה 2024 ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "स्लोवाकिया का राष्ट्रपति चुनाव",
+        "hover_text": "स्लोवाकिया का राष्ट्रपति चुनाव 2024",
+        "share_text": "स्लोवाकिया का राष्ट्रपति चुनाव 2024 #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Szlovákiai elnökválasztás 2024",
+        "hover_text": "Szlovákiai elnökválasztás 2024",
+        "share_text": "Szlovákiai elnökválasztás 2024 #GoogleDoodle"
+      },
+      "is": {
+        "query": "Forsetakosningar í Slóvakíu",
+        "hover_text": "Forsetakosningar í Slóvakíu 2024",
+        "share_text": "Forsetakosningar í Slóvakíu 2024 #GoogleDoodle"
+      },
+      "id": {
+        "query": "Pemilu Presiden Slovakia",
+        "hover_text": "Pemilu Presiden Slovakia 2024",
+        "share_text": "Pemilu Presiden Slovakia 2024 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Elezioni presidenziali in Slovacchia",
+        "hover_text": "Elezioni presidenziali 2024 in Slovacchia",
+        "share_text": "Elezioni presidenziali 2024 in Slovacchia #GoogleDoodle"
+      },
+      "ja": {
+        "query": "スロバキア大統領選挙",
+        "hover_text": "2024 年スロバキア大統領選挙",
+        "share_text": "2024 年スロバキア大統領選挙 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಸ್ಲೋವಾಕಿಯಾ ಅಧ್ಯಕ್ಷೀಯ ಚುನಾವಣೆಗಳು",
+        "hover_text": "ಸ್ಲೋವಾಕಿಯಾ ಅಧ್ಯಕ್ಷೀಯ ಚುನಾವಣೆಗಳು 2024",
+        "share_text": "ಸ್ಲೋವಾಕಿಯಾ ಅಧ್ಯಕ್ಷೀಯ ಚುನಾವಣೆಗಳು 2024 #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Словакиядағы президент сайлауы",
+        "hover_text": "Словакиядағы президент сайлауы — 2024",
+        "share_text": "Словакиядағы президент сайлауы — 2024 #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការបោះឆ្នោតជ្រើសរើសប្រធានាធិបតីស្លូវ៉ាគី",
+        "hover_text": "ការបោះឆ្នោតជ្រើសរើសប្រធានាធិបតីស្លូវ៉ាគីឆ្នាំ 2024",
+        "share_text": "ការបោះឆ្នោតជ្រើសរើសប្រធានាធិបតីស្លូវ៉ាគីឆ្នាំ 2024 #GoogleDoodle"
+      },
+      "ko": {
+        "query": "슬로바키아 대통령 선거",
+        "hover_text": "2024년 슬로바키아 대통령 선거",
+        "share_text": "2024년 슬로바키아 대통령 선거 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Словакиядагы Президенттик шайлоо",
+        "hover_text": "Словакиядагы Президенттик шайлоо – 2024",
+        "share_text": "Словакиядагы Президенттик шайлоо – 2024 #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ການເລືອກຕັ້ງປະທານາທິບໍດີສະໂລວາເກຍ",
+        "hover_text": "ການເລືອກຕັ້ງປະທານາທິບໍດີສະໂລວາເກຍປີ 2024",
+        "share_text": "ການເລືອກຕັ້ງປະທານາທິບໍດີສະໂລວາເກຍປີ 2024 #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Elecciones presidenciales de Eslovaquia",
+        "hover_text": "Elecciones presidenciales de Eslovaquia 2024",
+        "share_text": "Elecciones presidenciales de Eslovaquia 2024 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Prezidenta vēlēšanas Slovākijā",
+        "hover_text": "Prezidenta vēlēšanas Slovākijā — 2024",
+        "share_text": "Prezidenta vēlēšanas Slovākijā — 2024 #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Slovakijos prezidento rinkimai",
+        "hover_text": "Slovakijos prezidento rinkimai, 2024 m.",
+        "share_text": "Slovakijos prezidento rinkimai, 2024 m. #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Претседателски избори во Словачка",
+        "hover_text": "Претседателски избори во Словачка, 2024 г.",
+        "share_text": "Претседателски избори во Словачка, 2024 г. #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Pilihan Raya Presiden Slovakia",
+        "hover_text": "Pilihan Raya Presiden Slovakia 2024",
+        "share_text": "Pilihan Raya Presiden Slovakia 2024 #GoogleDoodle"
+      },
+      "ml": {
+        "query": "സ്ലോവാക്യ പ്രസിഡന്റ് തിരഞ്ഞെടുപ്പ്",
+        "hover_text": "സ്ലോവാക്യ പ്രസിഡന്റ് തിരഞ്ഞെടുപ്പ് 2024",
+        "share_text": "സ്ലോവാക്യ പ്രസിഡന്റ് തിരഞ്ഞെടുപ്പ് 2024 #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "स्लोव्हाकियाच्या राष्ट्राध्यक्षीय निवडणुका",
+        "hover_text": "स्लोव्हाकियाच्या राष्ट्राध्यक्षीय निवडणुका २०२४",
+        "share_text": "स्लोव्हाकियाच्या राष्ट्राध्यक्षीय निवडणुका २०२४ #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Словак Улсын ерөнхийлөгчийн сонгууль",
+        "hover_text": "2024 оны Словак Улсын ерөнхийлөгчийн сонгууль",
+        "share_text": "2024 оны Словак Улсын ерөнхийлөгчийн сонгууль #GoogleDoodle"
+      },
+      "ne": {
+        "query": "स्लोभाकियाको राष्ट्रपतीय निर्वाचन",
+        "hover_text": "स्लोभाकियाको राष्ट्रपतीय निर्वाचन २०२४",
+        "share_text": "स्लोभाकियाको राष्ट्रपतीय निर्वाचन २०२४ #GoogleDoodle"
+      },
+      "no": {
+        "query": "Presidentvalget i Slovakia",
+        "hover_text": "Presidentvalget i Slovakia 2024",
+        "share_text": "Presidentvalget i Slovakia 2024 #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "انتخابات ریاست جمهوری اسلواکی",
+        "hover_text": "انتخابات ریاست جمهوری اسلواکی ۲۰۲۴",
+        "share_text": "انتخابات ریاست جمهوری اسلواکی ۲۰۲۴ ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Wybory prezydenckie w Słowacji",
+        "hover_text": "Wybory prezydenckie 2024 w Słowacji",
+        "share_text": "Wybory prezydenckie 2024 w Słowacji #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Eleições presidenciais da Eslováquia",
+        "hover_text": "Eleições presidenciais da Eslováquia 2024",
+        "share_text": "Eleições presidenciais da Eslováquia 2024 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Eleições Presidenciais da Eslováquia",
+        "hover_text": "Eleições Presidenciais da Eslováquia de 2024",
+        "share_text": "Eleições Presidenciais da Eslováquia de 2024 #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਸਲੋਵਾਕੀਆ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਦੀਆਂ ਚੋਣਾਂ",
+        "hover_text": "ਸਲੋਵਾਕੀਆ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਦੀਆਂ ਚੋਣਾਂ 2024",
+        "share_text": "ਸਲੋਵਾਕੀਆ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਦੀਆਂ ਚੋਣਾਂ 2024 #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Alegeri prezidențiale în Slovacia",
+        "hover_text": "Alegeri prezidențiale în Slovacia – 2024",
+        "share_text": "Alegeri prezidențiale în Slovacia – 2024 #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Президентские выборы в Словакии",
+        "hover_text": "Президентские выборы в Словакии – 2024",
+        "share_text": "Президентские выборы в Словакии – 2024 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Председнички избори у Словачкој",
+        "hover_text": "Председнички избори у Словачкој 2024.",
+        "share_text": "Председнички избори у Словачкој 2024. #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Predsednički izbori u Slovačkoj",
+        "hover_text": "Predsednički izbori u Slovačkoj 2024.",
+        "share_text": "Predsednički izbori u Slovačkoj 2024. #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ස්ලෝවැකියාවේ ජනාධිපතිවරණය",
+        "hover_text": "ස්ලෝවැකියාවේ ජනාධිපතිවරණය 2024",
+        "share_text": "ස්ලෝවැකියාවේ ජනාධිපතිවරණය 2024 #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Prezidentské voľby na Slovensku",
+        "hover_text": "Prezidentské voľby na Slovensku 2024",
+        "share_text": "Prezidentské voľby na Slovensku 2024 #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Predsedniške volitve na Slovaškem",
+        "hover_text": "Predsedniške volitve na Slovaškem 2024",
+        "share_text": "Predsedniške volitve na Slovaškem 2024 #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Elecciones presidenciales de Eslovaquia",
+        "hover_text": "Elecciones presidenciales de Eslovaquia 2024",
+        "share_text": "Elecciones presidenciales de Eslovaquia 2024 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Uchaguzi wa Urais wa Slovakia",
+        "hover_text": "Uchaguzi wa Urais wa Slovakia 2024",
+        "share_text": "Uchaguzi wa Urais wa Slovakia 2024 #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Presidentval i Slovakien",
+        "hover_text": "Presidentval i Slovakien 2024",
+        "share_text": "Presidentval i Slovakien 2024 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Slovakia Presidential Elections",
+        "hover_text": "ஸ்லோவாக்கியா அதிபர் தேர்தல்கள் 2024",
+        "share_text": "ஸ்லோவாக்கியா அதிபர் தேர்தல்கள் 2024 #GoogleDoodle"
+      },
+      "te": {
+        "query": "స్లోవేకియా అధ్యక్ష ఎన్నికలు",
+        "hover_text": "స్లోవేకియా అధ్యక్ష ఎన్నికలు 2024",
+        "share_text": "స్లోవేకియా అధ్యక్ష ఎన్నికలు 2024 #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันเลือกตั้งประธานาธิบดีสโลวาเกีย",
+        "hover_text": "วันเลือกตั้งประธานาธิบดีสโลวาเกียปี 2024",
+        "share_text": "วันเลือกตั้งประธานาธิบดีสโลวาเกียปี 2024 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Slovakya Cumhurbaşkanlığı Seçimleri",
+        "hover_text": "2024 Slovakya Cumhurbaşkanlığı Seçimleri",
+        "share_text": "2024 Slovakya Cumhurbaşkanlığı Seçimleri #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Президентські вибори в Словаччині",
+        "hover_text": "Президентські вибори в Словаччині у 2024 році",
+        "share_text": "Президентські вибори в Словаччині у 2024 році #GoogleDoodle"
+      },
+      "ur": {
+        "query": "سلوواکیہ کے صدارتی انتخابات",
+        "hover_text": "سلوواکیہ کے صدارتی انتخابات 2024",
+        "share_text": "سلوواکیہ کے صدارتی انتخابات 2024 GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Slovakiyada prezidentlik saylovi",
+        "hover_text": "Slovakiyada prezidentlik saylovi 2024",
+        "share_text": "Slovakiyada prezidentlik saylovi 2024 #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Bầu cử tổng thống Slovakia",
+        "hover_text": "Bầu cử tổng thống Slovakia năm 2024",
+        "share_text": "Bầu cử tổng thống Slovakia năm 2024 #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ukhetho Lukamongameli Wase-Slovakia",
+        "hover_text": "Ukhetho Lukamongameli Wase-Slovakia Lwango-2024",
+        "share_text": "Ukhetho Lukamongameli Wase-Slovakia Lwango-2024 #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Slovakia Presidential Elections",
+    "share_text": "Slovakia Presidential Elections 2024 #GoogleDoodle"
+  },
+  {
     "name": "mothers-day-2024-mar-21",
     "title": "Mother's Day 2024 (Mar 21)",
     "url": "//www.google.com/logos/doodles/2024/mothers-day-2024-mar-21-6753651837110361-l.png",
@@ -55,7 +554,7 @@
       },
       "eu": {
         "query": "Amaren Eguna",
-        "hover_text": null,
+        "hover_text": "2024ko Amaren Eguna",
         "share_text": "Amaren Egun zoriontsua izan! #GoogleDoodle"
       },
       "be": {
@@ -80,22 +579,22 @@
       },
       "my": {
         "query": "အမေများနေ့",
-        "hover_text": null,
+        "hover_text": "၂၀၂၄ အမေများနေ့",
         "share_text": "ပျော်ရွှင်ဖွယ်အမေများနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
       },
       "ca": {
         "query": "Dia de la Mare",
-        "hover_text": null,
+        "hover_text": "Dia de la Mare 2024",
         "share_text": "Feliç Dia de la Mare! #GoogleDoodle"
       },
       "zh-HK": {
         "query": "母親節",
-        "hover_text": null,
+        "hover_text": "2024 年母親節",
         "share_text": "母親節快樂！#GoogleDoodle"
       },
       "zh-TW": {
         "query": "母親節",
-        "hover_text": null,
+        "hover_text": "2024 年母親節",
         "share_text": "母親節快樂！#GoogleDoodle"
       },
       "zh-CN": {
@@ -115,22 +614,22 @@
       },
       "da": {
         "query": "Mors dag",
-        "hover_text": null,
+        "hover_text": "Mors dag 2024",
         "share_text": "Vi fejrer mors dag #GoogleDoodle"
       },
       "nl": {
         "query": "Moederdag",
-        "hover_text": null,
+        "hover_text": "Moederdag 2024",
         "share_text": "Fijne Moederdag #GoogleDoodle"
       },
       "et": {
         "query": "Emadepäev",
-        "hover_text": null,
+        "hover_text": "Emadepäev 2024",
         "share_text": "Head emadepäeva! #GoogleDoodle"
       },
       "fi": {
         "query": "Äitienpäivä",
-        "hover_text": null,
+        "hover_text": "Äitienpäivä 2024",
         "share_text": "Hyvää äitienpäivää! #GoogleDoodle"
       },
       "fr": {
@@ -140,7 +639,7 @@
       },
       "fr-CA": {
         "query": "Fête des Mères",
-        "hover_text": null,
+        "hover_text": "Fête des Mères 2024",
         "share_text": "Joyeuse fête des Mères! #GoogleDoodle"
       },
       "gl": {
@@ -190,12 +689,12 @@
       },
       "is": {
         "query": "Mæðradagurinn",
-        "hover_text": null,
+        "hover_text": "Mæðradagurinn 2024",
         "share_text": "Gleðilegan mæðradag! #GoogleDoodle"
       },
       "id": {
         "query": "Hari Ibu",
-        "hover_text": null,
+        "hover_text": "Hari Ibu 2024",
         "share_text": "Selamat Hari Ibu! #GoogleDoodle"
       },
       "ga": {
@@ -210,7 +709,7 @@
       },
       "ja": {
         "query": "母の日",
-        "hover_text": null,
+        "hover_text": "2024 年母の日",
         "share_text": "母の日を祝おう！#GoogleDoodle"
       },
       "kn": {
@@ -225,12 +724,12 @@
       },
       "km": {
         "query": "ទិវា​រំលឹកគុណម្ដាយ",
-        "hover_text": null,
+        "hover_text": "ទិវា​អ្នកម្ដាយ​ឆ្នាំ 2024",
         "share_text": "អបអរ​ទិវា​រំលឹកគុណ​ម្ដាយ​! #GoogleDoodle"
       },
       "ko": {
         "query": "어머니날",
-        "hover_text": null,
+        "hover_text": "2024년 어머니의 날",
         "share_text": "어머니날 기념 #Google기념일로고"
       },
       "ky": {
@@ -250,12 +749,12 @@
       },
       "lv": {
         "query": "Mātes diena",
-        "hover_text": null,
+        "hover_text": "Mātes diena — 2024",
         "share_text": "Sveicam Mātes dienā! #GoogleDoodle"
       },
       "lt": {
         "query": "Motinos diena",
-        "hover_text": null,
+        "hover_text": "Motinos diena, 2024 m.",
         "share_text": "Su Motinos diena! #GoogleDoodle"
       },
       "mk": {
@@ -270,7 +769,7 @@
       },
       "ms": {
         "query": "Hari Ibu",
-        "hover_text": null,
+        "hover_text": "Hari Ibu 2024",
         "share_text": "Selamat Hari Ibu! #GoogleDoodle"
       },
       "ml": {
@@ -285,7 +784,7 @@
       },
       "mr": {
         "query": "मदर्स डे",
-        "hover_text": null,
+        "hover_text": "मदर्स डे २०२४",
         "share_text": "मदर्स डे च्या शुभेच्छा! #GoogleDoodle"
       },
       "mn": {
@@ -300,7 +799,7 @@
       },
       "no": {
         "query": "Morsdag",
-        "hover_text": null,
+        "hover_text": "Morsdag 2024",
         "share_text": "Gratulerer med morsdagen! #GoogleDoodle"
       },
       "nn": {
@@ -330,7 +829,7 @@
       },
       "pl": {
         "query": "Dzień Matki",
-        "hover_text": null,
+        "hover_text": "Dzień Matki 2024",
         "share_text": "Obchodzimy Dzień Matki #GoogleDoodle"
       },
       "pt-BR": {
@@ -340,7 +839,7 @@
       },
       "pt-PT": {
         "query": "Dia da mãe",
-        "hover_text": null,
+        "hover_text": "Dia da Mãe de 2024",
         "share_text": "Feliz dia da mãe! #GoogleDoodle"
       },
       "pa": {
@@ -440,7 +939,7 @@
       },
       "te": {
         "query": "మాతృ దినోత్సవం",
-        "hover_text": null,
+        "hover_text": "మదర్స్ డే 2024",
         "share_text": "మాతృ దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
       },
       "th": {
@@ -1053,7 +1552,7 @@
       },
       "eu": {
         "query": "Aitaren Eguna",
-        "hover_text": null,
+        "hover_text": "2024ko Aitaren Eguna",
         "share_text": "Aitaren Egun zoriontsua izan! #GoogleDoodle"
       },
       "be": {
@@ -1078,22 +1577,22 @@
       },
       "my": {
         "query": "အဖေများနေ့",
-        "hover_text": null,
+        "hover_text": "၂၀၂၄ အဖေများနေ့",
         "share_text": "ပျော်ရွှင်ဖွယ် ဖခင်များနေ့ဖြစ်ပါစေ။ #GoogleDoodle"
       },
       "ca": {
         "query": "Dia del Pare",
-        "hover_text": null,
+        "hover_text": "Dia del Pare 2024",
         "share_text": "Feliç Dia del Pare! #GoogleDoodle"
       },
       "zh-HK": {
         "query": "父親節",
-        "hover_text": null,
+        "hover_text": "2024 年父親節",
         "share_text": "父親節快樂！#GoogleDoodle"
       },
       "zh-TW": {
         "query": "父親節",
-        "hover_text": null,
+        "hover_text": "2024 年父親節",
         "share_text": "父親節快樂！#GoogleDoodle"
       },
       "zh-CN": {
@@ -1113,22 +1612,22 @@
       },
       "da": {
         "query": "fars dag",
-        "hover_text": null,
+        "hover_text": "Fars dag 2024",
         "share_text": "Glædelig fars dag! #GoogleDoodle"
       },
       "nl": {
         "query": "Vaderdag",
-        "hover_text": null,
+        "hover_text": "Vaderdag 2024",
         "share_text": "Fijne Vaderdag! #GoogleDoodle"
       },
       "et": {
         "query": "Isadepäev",
-        "hover_text": null,
+        "hover_text": "Isadepäev 2024",
         "share_text": "Head isadepäeva! #GoogleDoodle"
       },
       "fi": {
         "query": "Isänpäivä",
-        "hover_text": null,
+        "hover_text": "Isänpäivä 2024",
         "share_text": "Hyvää isänpäivää! #GoogleDoodle"
       },
       "fr": {
@@ -1138,7 +1637,7 @@
       },
       "fr-CA": {
         "query": "Fête des Pères",
-        "hover_text": null,
+        "hover_text": "Fête des Pères 2024",
         "share_text": "Joyeuse fête des Pères! #GoogleDoodle"
       },
       "gl": {
@@ -1188,12 +1687,12 @@
       },
       "is": {
         "query": "Feðradagurinn",
-        "hover_text": null,
+        "hover_text": "Feðradagurinn 2024",
         "share_text": "Gleðilegan feðradag! #GoogleDoodle"
       },
       "id": {
         "query": "Hari Ayah",
-        "hover_text": null,
+        "hover_text": "Hari Ayah 2024",
         "share_text": "Selamat Hari Ayah! #GoogleDoodle"
       },
       "ga": {
@@ -1208,7 +1707,7 @@
       },
       "ja": {
         "query": "父の日",
-        "hover_text": null,
+        "hover_text": "2024 年父の日",
         "share_text": "父の日を祝おう！#GoogleDoodle"
       },
       "kn": {
@@ -1223,12 +1722,12 @@
       },
       "km": {
         "query": "ទិវា​រំលឹកគុណឪពុក",
-        "hover_text": null,
+        "hover_text": "ទិវា​ឪពុក​ឆ្នាំ 2024",
         "share_text": "អបអរ​ទិវា​រំលឹកគុណ​ឪពុក​! #GoogleDoodle"
       },
       "ko": {
         "query": "아버지의 날",
-        "hover_text": null,
+        "hover_text": "2024년 아버지의 날",
         "share_text": "아버지날 기념 #Google기념일로고"
       },
       "ky": {
@@ -1248,12 +1747,12 @@
       },
       "lv": {
         "query": "Tēva diena",
-        "hover_text": null,
+        "hover_text": "Tēva diena — 2024",
         "share_text": "Sveicam Tēva dienā! #GoogleDoodle"
       },
       "lt": {
         "query": "Tėvo diena",
-        "hover_text": null,
+        "hover_text": "Tėvo diena, 2024 m.",
         "share_text": "Linksmos Tėvo dienos! #GoogleDoodle"
       },
       "mk": {
@@ -1268,7 +1767,7 @@
       },
       "ms": {
         "query": "Hari Bapa",
-        "hover_text": null,
+        "hover_text": "Hari Bapa 2024",
         "share_text": "Selamat Hari Bapa! #GoogleDoodle"
       },
       "ml": {
@@ -1283,7 +1782,7 @@
       },
       "mr": {
         "query": "पितृदिन",
-        "hover_text": null,
+        "hover_text": "फादर्स डे २०२४",
         "share_text": "फादर्स डे च्या शुभेच्छा! #GoogleDoodle"
       },
       "mn": {
@@ -1298,7 +1797,7 @@
       },
       "no": {
         "query": "Farsdag",
-        "hover_text": null,
+        "hover_text": "Farsdag 2024",
         "share_text": "Gratulerer med farsdagen! #GoogleDoodle"
       },
       "nn": {
@@ -1328,7 +1827,7 @@
       },
       "pl": {
         "query": "Dzień Ojca",
-        "hover_text": null,
+        "hover_text": "Dzień Ojca 2024",
         "share_text": "Obchodzimy Dzień Ojca #GoogleDoodle"
       },
       "pt-BR": {
@@ -1438,7 +1937,7 @@
       },
       "te": {
         "query": "పితృ దినోత్సవం",
-        "hover_text": null,
+        "hover_text": "ఫాదర్స్ డే 2024",
         "share_text": "ఫాదర్స్ డే శుభాకాంక్షలు! #GoogleDoodle"
       },
       "th": {
