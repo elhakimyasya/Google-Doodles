@@ -1,5 +1,504 @@
 [
   {
+    "name": "greece-national-day-2024",
+    "title": "Greece National Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/greece-national-day-2024-6753651837110202.2-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/fiFWwFEHGHQmMpC6xaLc1188VvU-4YMTw0UgvxT75gh3eJzXH6gbtsL08FJyrfVfPXcdxHvjH5949qrSIuiuX8GlHVMx8UoJOSTJxbhhQTaYH1POklLh9A",
+    "high_res_url": "//www.google.com/logos/doodles/2024/greece-national-day-2024-6753651837110202.2-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      3,
+      25
+    ],
+    "translations": {
+      "en": {
+        "query": "Greece National Day",
+        "hover_text": "Greece National Day 2024",
+        "share_text": "Happy National Day, Greece! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Griekeland se nasionale dag",
+        "hover_text": "Griekeland se nasionale dag 2024",
+        "share_text": "Gelukkige Nasionale dag, Griekeland! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita Kombëtare e Greqisë",
+        "hover_text": "Dita Kombëtare e Greqisë, 2024",
+        "share_text": "Gëzuar Festën Kombëtare, Greqi! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የግሪክ ብሔራዊ ቀን",
+        "hover_text": "የግሪክ ብሔራዊ ቀን 2024",
+        "share_text": "መልካም ብሔራዊ ቀን ግሪክ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "العيد الوطني لليونان",
+        "hover_text": "عيد استقلال اليونان 2024",
+        "share_text": "العيد الوطني لليونان ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Հունաստանի ազգային տոն",
+        "hover_text": "Հունաստանի ազգային տոն 2024",
+        "share_text": "Շնորհավո՛ր Հունաստանի ազգային տոնը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Yunanıstanın Müstəqillik Günü",
+        "hover_text": "2024 Yunanıstanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Yunanıstan! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "গ্রিসের জাতীয় দিবস",
+        "hover_text": "গ্রিসের জাতীয় দিবস ২০২৪",
+        "share_text": "গ্রিসের জাতীয় দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Greziako Egun Nazionala",
+        "hover_text": "2024ko Greziako Egun Nazionala",
+        "share_text": "Egun Nazional zoriontsua izan, Grezia! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Нацыянальнае свята Грэцыі",
+        "hover_text": "Нацыянальнае свята Грэцыі 2024",
+        "share_text": "З Нацыянальным святам, Грэцыя! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan državnosti Grčke",
+        "hover_text": "Dan državnosti Grčke 2024.",
+        "share_text": "Sretan Dan državnosti, Grčka! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Greece National Day",
+        "hover_text": "Greece National Day 2024",
+        "share_text": "Happy National Day, Greece! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Национален празник на Гърция",
+        "hover_text": "Национален празник на Гърция 2024 г.",
+        "share_text": "Честит национален празник на Гърция! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဂရိ အမျိုးသားနေ့",
+        "hover_text": "၂၀၂၄ ဂရိနိုင်ငံ အမျိုးသားနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် ဂရိ အမျိုးသားနေ့ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia Nacional de Grècia",
+        "hover_text": "Dia Nacional de Grècia 2024",
+        "share_text": "Feliç Dia Nacional, Grècia! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "希臘國慶日",
+        "hover_text": "2024 年希臘國慶日",
+        "share_text": "希臘國慶日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "2019 年希臘國慶日",
+        "hover_text": "2024 年希臘國慶日",
+        "share_text": "希臘，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "希腊国庆日",
+        "hover_text": "2024 年希腊国庆节",
+        "share_text": "希腊，国庆日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan državnosti Grčke",
+        "hover_text": "Dan državnosti Grčke 2024.",
+        "share_text": "Sretan Dan državnosti, Grčka! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Státní svátek Řecka",
+        "hover_text": "Den řecké státnosti 2024",
+        "share_text": "Vše nejlepší ke státnímu svátku, Řecko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Grækenlands nationaldag",
+        "hover_text": "Grækenlands nationaldag 2024",
+        "share_text": "Glædelig nationaldag, Grækenland! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Nationale feestdag Griekenland",
+        "hover_text": "Nationale feestdag Griekenland 2024",
+        "share_text": "Fijne nationale feestdag aan iedereen in Griekenland #GoogleDoodle"
+      },
+      "et": {
+        "query": "Kreeka rahvuspüha",
+        "hover_text": "Kreeka 2024. aasta rahvuspüha",
+        "share_text": "Head rahvuspüha, Kreeka! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Kreikan kansallispäivä",
+        "hover_text": "Kreikan kansallispäivä 2024",
+        "share_text": "Hyvää Kreikan kansallispäivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête nationale de la Grèce",
+        "hover_text": "Fête nationale de la Grèce 2024",
+        "share_text": "Fête nationale de la Grèce #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête nationale de la Grèce",
+        "hover_text": "Fête nationale de la Grèce 2024",
+        "share_text": "Bonne fête nationale, Grèce! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día Nacional de Grecia",
+        "hover_text": "Día Nacional de Grecia 2024",
+        "share_text": "Feliz Día Nacional, Grecia! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "საბერძნეთის ეროვნული დღესასწაული",
+        "hover_text": "საბერძნეთის ეროვნული დღესასწაული — 2024",
+        "share_text": "ვულოცავთ საბერძნეთს ეროვნულ დღესასწაულს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Nationalfeiertag Griechenland",
+        "hover_text": "Nationalfeiertag Griechenland 2024",
+        "share_text": "Alles Gute zum Nationalfeiertag, Griechenland! #GoogleDoodle"
+      },
+      "el": {
+        "query": "25η Μαρτίου 1821",
+        "hover_text": "Εθνική Επέτειος της 25ης Μαρτίου 1821",
+        "share_text": "Εθνική Επέτειος της 25ης Μαρτίου 1821! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ગ્રીસનો રાષ્ટ્રીય દિવસ",
+        "hover_text": "ગ્રીસનો રાષ્ટ્રીય દિવસ 2024",
+        "share_text": "ગ્રીસના રાષ્ટ્રીય દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "היום הלאומי של יוון",
+        "hover_text": "החג הלאומי של יוון 2024",
+        "share_text": "חג לאומי שמח ליוון! #GoogleDoodle"
+      },
+      "hi": {
+        "query": "ग्रीस का राष्ट्रीय दिवस",
+        "hover_text": "ग्रीस का राष्ट्रीय दिवस 2024",
+        "share_text": "राष्ट्रीय दिवस मुबारक हो, ग्रीस! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Görögország nemzeti ünnepe",
+        "hover_text": "Görögország nemzeti ünnepe, 2024",
+        "share_text": "Minden jót Görögország nemzeti ünnepén! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þjóðhátíðardagur Grikklands",
+        "hover_text": "Þjóðhátíðardagur Grikklands 2024",
+        "share_text": "Gleðilegan þjóðhátíðardag, Grikkland! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Nasional Yunani",
+        "hover_text": "Hari Nasional Yunani 2024",
+        "share_text": "Selamat Hari Nasional, Yunani! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Náisiúnta na Gréige",
+        "hover_text": null,
+        "share_text": "Lá Náisiúnta na Gréige faoi mhaise duit. #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa nazionale della Grecia",
+        "hover_text": "Festa nazionale della Grecia 2024",
+        "share_text": "Buona festa nazionale, Grecia! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ギリシャ独立記念日",
+        "hover_text": "2024 年ギリシャ独立記念日",
+        "share_text": "ギリシャ独立記念日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಗ್ರೀಸ್ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಗ್ರೀಸ್ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಗ್ರೀಸ್ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆಯ ಶುಭಾಷಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Грекияның Ұлттық күні",
+        "hover_text": "Грекияның Ұлттық күні — 2024",
+        "share_text": "Ұлттық күн құтты болсын, Грекия! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យជាតិ​ក្រិក",
+        "hover_text": "ទិវា​បុណ្យជាតិ​ក្រិកឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​បុណ្យជាតិ​ក្រិក! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "그리스 국경일",
+        "hover_text": "2024년 그리스 국경일",
+        "share_text": "그리스 국경일 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Грециянын Улуттук күнү",
+        "hover_text": "Грециянын Улуттук күнү – 2024",
+        "share_text": "Улуттук күнүң менен, Греция! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຊາດກຣີຊ",
+        "hover_text": "ວັນຊາດກຣີຊ 2024",
+        "share_text": "ສຸກສັນວັນຊາດກຣີຊ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día Nacional de Grecia",
+        "hover_text": "Día Nacional de Grecia 2024",
+        "share_text": "¡Feliz Día Nacional de Grecia! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Grieķijas nacionālie svētki",
+        "hover_text": "Grieķijas Nacionālie svētki — 2024",
+        "share_text": "Sveicam Grieķiju nacionālajos svētkos! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Graikijos nacionalinė diena",
+        "hover_text": "Graikijos nacionalinė diena, 2024 m.",
+        "share_text": "Laimingos nacionalinės dienos, Graikija! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на државноста на Грција",
+        "hover_text": "Ден на државноста на Грција, 2024 г.",
+        "share_text": "Среќен ден на државноста на Грција! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetim-pirenena Grika",
+        "hover_text": null,
+        "share_text": "Tsarà Fetim-pirenena ry Gresy ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kebangsaan, Greece",
+        "hover_text": "Hari Kebangsaan Greece 2024",
+        "share_text": "Selamat Hari Kebangsaan, Greece! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഗ്രീസ് ദേശീയ ദിനം",
+        "hover_text": "ഗ്രീസ് ദേശീയ ദിനം 2024",
+        "share_text": "ദേശീയ ദിനാശംസകൾ, ഗ്രീസ്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "ग्रीसचा राष्ट्रीय दिन",
+        "hover_text": "ग्रीसचा राष्ट्रीय दिन २०२४",
+        "share_text": "राष्ट्रीय दिनाच्या शुभेच्छा, ग्रीस! #Googleडूडल"
+      },
+      "mn": {
+        "query": "Грек улсын Үндэсний баярын өдөр",
+        "hover_text": "2024 оны Грек Улсын Үндэсний баярын өдөр",
+        "share_text": "Грек улсын ард иргэдэд Үндэсний баярын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "ग्रिसको राष्ट्रिय दिवस",
+        "hover_text": "ग्रिसको राष्ट्रिय दिवस २०२४",
+        "share_text": "राष्ट्रिय दिवसको शुभकामना, ग्रिस! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Hellas' nasjonaldag",
+        "hover_text": "Hellas' nasjonaldag 2024",
+        "share_text": "Gratulerer med nasjonaldagen, Hellas! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଗ୍ରୀସ୍‍ ରାଷ୍ଟ୍ରୀୟ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ଶୁଭ ରାଷ୍ଟ୍ରୀୟ ଦିବସ, ଗ୍ରିସ୍‌! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز ملی یونان ۲۰۱۹",
+        "hover_text": "روز ملی یونان - ۲۰۲۴",
+        "share_text": "روز ملی یونان مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Narodowe Grecji",
+        "hover_text": "Dzień Niepodległości Grecji 2024",
+        "share_text": "Szczęśliwego Święta Narodowego Grecji #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia Nacional da Grécia",
+        "hover_text": "Dia Nacional da Grécia 2024",
+        "share_text": "Feliz Dia Nacional, Grécia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia nacional da Grécia",
+        "hover_text": "Dia da Independência da Grécia de 2024",
+        "share_text": "Feliz dia nacional, Grécia! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਗ੍ਰੀਸ ਰਾਸ਼ਟਰੀ ਦਿਵਸ",
+        "hover_text": "ਗ੍ਰੀਸ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ 2024",
+        "share_text": "ਗ੍ਰੀਸ ਦੇ ਰਾਸ਼ਟਰੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Națională a Greciei",
+        "hover_text": "Ziua Națională a Greciei – 2024",
+        "share_text": "La mulți ani de Ziua Națională, Grecia! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Национальный праздник Греции",
+        "hover_text": "День независимости Греции – 2024",
+        "share_text": "Национальный праздник Греции #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан државности Грчке",
+        "hover_text": "Дан државности Грчке 2024.",
+        "share_text": "Честитамо Дан државности Грчкој! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan državnosti Grčke",
+        "hover_text": "Dan državnosti Grčke 2024.",
+        "share_text": "Čestitamo Dan državnosti Grčkoj! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen nasyonal Lagres",
+        "hover_text": null,
+        "share_text": "Lafet Nasyonal Lagres! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ග්‍රීසියේ ජාතික දිනය",
+        "hover_text": "ග්‍රීසියේ ජාතික දිනය 2024",
+        "share_text": "සුබ ජාතික දිනයක්, ග්‍රීසිය! #Googleඩූඩල්"
+      },
+      "sk": {
+        "query": "Štátny sviatok Grécka",
+        "hover_text": "Národný deň Grécka 2024",
+        "share_text": "Šťastný štátny sviatok,  Grécko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Grški dan državnosti",
+        "hover_text": "Grški dan državnosti 2024",
+        "share_text": "Vesel dan državnosti, Grčija. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Qaranka Giriiga",
+        "hover_text": null,
+        "share_text": "Maalinta Qaranka Giriiga! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Naha la Gerike",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Naha, Gerike! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día Nacional de Grecia",
+        "hover_text": "Día de la Independencia de Grecia 2024",
+        "share_text": "¡Feliz Día Nacional de Grecia! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Kitaifa ya Ugiriki",
+        "hover_text": "Sikukuu ya Kitaifa ya Ugiriki 2024",
+        "share_text": "Heri za Sikukuu ya Kitaifa, Ugiriki! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Greklands nationaldag",
+        "hover_text": "Greklands nationaldag 2024",
+        "share_text": "Vi firar Greklands nationaldag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "கிரீஸ் தேசிய தினம்",
+        "hover_text": "கிரீஸ் தேசிய தினம் 2024",
+        "share_text": "கிரீஸ் தேசிய தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "గ్రీస్ జాతీయ దినోత్సవం",
+        "hover_text": "గ్రీస్ జాతీయ దినోత్సవం 2024",
+        "share_text": "జాతీయ దినోత్సవ శుభాకాంక్షలు, గ్రీస్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันชาติกรีซ",
+        "hover_text": "วันชาติกรีซปี 2024",
+        "share_text": "สุขสันต์วันชาติกรีซ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Setšhaba la Greece",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Setšhaba, Greece! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Yunanistan Ulusal Günü",
+        "hover_text": "2024 Yunanistan Ulusal Günü",
+        "share_text": "Yunanistan Ulusal Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Національний день Греції",
+        "hover_text": "Національний день Греції у 2024 році",
+        "share_text": "Вітаємо з Національним днем, Греціє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یونان کا قومی دن",
+        "hover_text": "یونان کا قومی دن 2024",
+        "share_text": "قومی دن یونان کی مبارک باد! ‎#GoogleDoodle"
+      },
+      "uz": {
+        "query": "Gretsiya milliy bayrami",
+        "hover_text": "Gretsiya Milliy bayrami 2024",
+        "share_text": "Gretsiya milliy bayrami muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Hy Lạp",
+        "hover_text": "Ngày Quốc khánh Hy Lạp năm 2024",
+        "share_text": "Chúc mừng quốc khánh Hy Lạp! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lamazwe Lwe-Greece",
+        "hover_text": "Usuku Lukazwelonke lwase-Greece lwango-2024",
+        "share_text": "Usuku Oluhle Lezwe, e-Greece! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Greece National Day",
+    "share_text": "Happy National Day, Greece! #GoogleDoodle"
+  },
+  {
     "name": "slovakia-presidential-elections-2024",
     "title": "Slovakia Presidential Elections 2024",
     "url": "//www.google.com/logos/doodles/2024/temp-slovakia-presidential-elections-2024-6753651837110205-l.png",
