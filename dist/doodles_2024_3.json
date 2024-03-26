@@ -1,5 +1,504 @@
 [
   {
+    "name": "bangladesh-independence-day-2024",
+    "title": "Bangladesh Independence Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/bangladesh-independence-day-2024-6753651837110204.2-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/5j3S1onBZluDNWwW3OubNluGou2vjiS5VN2OGAcGkj1tqzRjDUQTXg_iIDr0SlVD9TUCDDEvms6o5Ikfl09LZRDuzLMsfhHgSKDWOJIKFvWx9iBufS0NZg",
+    "high_res_url": "//www.google.com/logos/doodles/2024/bangladesh-independence-day-2024-6753651837110204.2-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      3,
+      26
+    ],
+    "translations": {
+      "en": {
+        "query": "Bangladesh Independence Day",
+        "hover_text": "Bangladesh Independence Day 2024",
+        "share_text": "Happy Independence Day, Bangladesh! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Bangladesj se onafhanklikheidsdag",
+        "hover_text": "Bangladesj se onafhanklikheidsdag 2024",
+        "share_text": "Gelukkige Onafhanklikheidsdag, Bangladesj! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Festa e Pavarësisë së Bangladeshit",
+        "hover_text": "Dita e Pavarësisë së Bangladeshit, 2024",
+        "share_text": "Gëzuar Festën e Pavarësisë, Bangladesh! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የባንግላዴሽ ነጻነት ቀን",
+        "hover_text": "የባንግላዴሽ የነፃነት ቀን 2024",
+        "share_text": "መልካም ብሔራዊ ቀን ባንግላዴሽ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال بنغلاديش",
+        "hover_text": "عيد استقلال بنغلاديش 2024",
+        "share_text": "عيد استقلال بنغلاديش ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Բանգլադեշի անկախության օր",
+        "hover_text": "Բանգլադեշի անկախության օր 2024",
+        "share_text": "Շնորհավո՛ր Բանգլադեշի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Banqladeşin Müstəqillik Günü",
+        "hover_text": "2024 Banqladeşin Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Banqladeş! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "বাংলাদেশের স্বাধীনতা দিবস",
+        "hover_text": "বাংলাদেশের স্বাধীনতা দিবস ২০২৪",
+        "share_text": "বাংলাদেশের স্বাধীনতা দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Bangladeshko Independentzia Eguna",
+        "hover_text": "2024ko Bangladeshko Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Bangladesh! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Бангладэш",
+        "hover_text": "Дзень незалежнасці Бангладэш 2024",
+        "share_text": "З Днём незалежнасці, Бангладэш! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Bangladeša",
+        "hover_text": "Dan nezavisnosti Bangladeša 2024.",
+        "share_text": "Sretan Dan nezavisnosti, Bangladeš! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Bangladesh Independence Day",
+        "hover_text": "Bangladesh Independence Day 2024",
+        "share_text": "Happy Independence Day, Bangladesh! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Бангладеш",
+        "hover_text": "Ден на независимостта на Бангладеш 2024 г.",
+        "share_text": "Честит Ден на независимостта на Бангладеш! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဘင်္ဂလားဒေ့ရှ် လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ ဘင်္ဂလားဒေ့ရှ်နိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်သော ဘင်္ဂလားဒေ့ရှ် လွတ်လပ်ရေးနေ့ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència de Bangladesh",
+        "hover_text": "Dia de la Independència de Bangladesh 2024",
+        "share_text": "Feliç Dia de la Independència, Bangladesh! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "孟加拉獨立日",
+        "hover_text": "2024 年孟加拉獨立日",
+        "share_text": "孟加拉獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "孟加拉獨立紀念日",
+        "hover_text": "2024 年孟加拉獨立紀念日",
+        "share_text": "孟加拉，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "孟加拉国独立日",
+        "hover_text": "2024 年孟加拉国独立日",
+        "share_text": "孟加拉国，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Bangladeša",
+        "hover_text": "Dan neovisnosti Bangladeša 2024.",
+        "share_text": "Sretan Dan neovisnosti, Bangladešu! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Bangladéše",
+        "hover_text": "Den nezávislosti Bangladéše 2024",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Bangladéši! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Bangladeshs uafhængighedsdag",
+        "hover_text": "Bangladeshs uafhængighedsdag 2024",
+        "share_text": "Glædelig uafhængighedsdag, Bangladesh! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Bangladesh",
+        "hover_text": "Onafhankelijkheidsdag Bangladesh 2024",
+        "share_text": "Fijne Onafhankelijkheidsdag aan iedereen in Bangladesh #GoogleDoodle"
+      },
+      "et": {
+        "query": "Bangladeshi iseseisvuspäev",
+        "hover_text": "Bangladeshi 2024. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Bangladesh! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Bangladeshin itsenäisyyspäivä",
+        "hover_text": "Bangladeshin itsenäisyyspäivä 2024",
+        "share_text": "Hyvää Bangladeshin itsenäisyyspäivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Jour de l'indépendance du Bangladesh",
+        "hover_text": "Fête de l'Indépendance du Bangladesh 2024",
+        "share_text": "Fête de l'Indépendance du Bangladesh #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance du Bangladesh",
+        "hover_text": "Fête de l'Indépendance du Bangladesh 2024",
+        "share_text": "Joyeux jour de l'indépendance, Bangladesh! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Bangladesh",
+        "hover_text": "Día da Independencia de Bangladesh 2024",
+        "share_text": "Feliz Día da Independencia, Bangladesh! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ბანგლადეშის დამოუკიდებლობის დღე",
+        "hover_text": "ბანგლადეშის დამოუკიდებლობის დღე — 2024",
+        "share_text": "ვულოცავთ ბანგლადეშს დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Bangladesch",
+        "hover_text": "Unabhängigkeitstag Bangladesch 2024",
+        "share_text": "Alles Gute zum Unabhängigkeitstag, Bangladesch! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας Μπαγκλαντές",
+        "hover_text": "Ημέρα Ανεξαρτησίας του Μπαγκλαντές 2024",
+        "share_text": "Εορτασμός για την Ημέρα Ανεξαρτησίας του Μπαγκλαντές! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "બાંગ્લાદેશનો સ્વતંત્રતા દિવસ",
+        "hover_text": "બાંગ્લાદેશનો સ્વતંત્રતા દિવસ 2024",
+        "share_text": "બાંગ્લાદેશના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של בנגלדש",
+        "hover_text": "יום העצמאות של בנגלדש 2024",
+        "share_text": "יום עצמאות שמח לבנגלדש! #GoogleDoodle"
+      },
+      "hi": {
+        "query": "बांग्लादेश का स्वतंत्रता दिवस",
+        "hover_text": "बांग्लादेश का स्वतंत्रता दिवस 2024",
+        "share_text": "स्वतंत्रता दिवस मुबारक हो, बांग्लादेश! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Banglades függetlenségének napja",
+        "hover_text": "Banglades függetlenségének napja, 2024",
+        "share_text": "Minden jót a függetlenség napján, Banglades! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Bangladess",
+        "hover_text": "Fullveldisdagur Bangladess 2024",
+        "share_text": "Gleðilegan sjálfstæðisdag Bangladess! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Bangladesh",
+        "hover_text": "Hari Kemerdekaan Bangladesh 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Bangladesh! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse na Banglaidéise",
+        "hover_text": null,
+        "share_text": "Lá Saoirse na Banglaidéise faoi mhaise duit. #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza del Bangladesh 2020",
+        "hover_text": "Festa dell'indipendenza del Bangladesh 2024",
+        "share_text": "Buona festa dell'indipendenza, Bangladesh! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "バングラデシュ独立記念日",
+        "hover_text": "2024 年バングラデシュ独立記念日",
+        "share_text": "バングラデシュ独立記念日です！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಬಾಂಗ್ಲಾ ದೇಶದ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಬಾಂಗ್ಲಾದೇಶದ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಷಯಗಳು, ಬಾಂಗ್ಲಾದೇಶ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Бангладештің Тәуелсіздік күні",
+        "hover_text": "Бангладештің Тәуелсіздік күні – 2024",
+        "share_text": "Бангладеш, Тәуелсіздік күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យឯករាជ្យជាតិ​បង់ក្លាដែស",
+        "hover_text": "ទិវា​បុណ្យឯករាជ្យជាតិ​បង់ក្លាដែសឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​បុណ្យឯករាជ្យជាតិ​បង់ក្លាដែស! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "방글라데시 독립기념일",
+        "hover_text": "2024년 방글라데시 독립기념일",
+        "share_text": "방글라데시 독립기념일 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Бангладештин Эгемендүүлүк күнү",
+        "hover_text": "Бангладештин Эгемендүүлүк күнү – 2024",
+        "share_text": "Эгемендүүлүк күнүң менен, Бангладеш! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດບັງຄະລາເທດ",
+        "hover_text": "ວັນປະກາດເອກະລາດບັງຄະລາເທດ 2024",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດ, ບັງຄະລາເທດ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Bangladés",
+        "hover_text": "Día de la Independencia de Bangladés 2024",
+        "share_text": "¡Feliz Día de la Independencia de Bangladés! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Bangladešas neatkarības diena — 2010",
+        "hover_text": "Bangladešas Neatkarības diena — 2024",
+        "share_text": "Sveicam Bangladešu neatkarības dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Bangladešo nepriklausomybės diena",
+        "hover_text": "Bangladešo nepriklausomybės diena, 2024 m.",
+        "share_text": "Laimingos Nepriklausomybės dienos, Bangladeše! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Бангладеш",
+        "hover_text": "Ден на независноста на Бангладеш, 2024 г.",
+        "share_text": "Среќен Ден на независноста на Бангладеш! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Bengladesy",
+        "hover_text": null,
+        "share_text": "Tsarà Fetim-pirenena ry Bengladesy ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Bangladesh",
+        "hover_text": "Hari Kemerdekaan Bangladesh 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Bangladesh! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ബംഗ്ലാദേശ് സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "ബംഗ്ലാദേശ് സ്വാതന്ത്ര്യദിനം 2024",
+        "share_text": "സ്വാതന്ത്ര്യദിനാശംസകൾ, ബംഗ്ലാദേശ്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "बांग्लादेशचा स्वातंत्र्यदिन",
+        "hover_text": "बांग्लादेशचा स्वातंत्र्यदिन २०२४",
+        "share_text": "स्वातंत्र्यदिनाच्या शुभेच्छा, बांग्लादेश! #Googleडूडल"
+      },
+      "mn": {
+        "query": "Бангладеш улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2024 оны Бангладеш Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Бангладеш улсын ард иргэдэд Тусгаар тогтнолын баярын мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "बङ्गलादेशको स्वतन्त्रता दिवस",
+        "hover_text": "बङ्गलादेशको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, बङ्गलादेश! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Frigjøringsdagen i Bangladesh",
+        "hover_text": "Bangladeshs uavhengighetsdag 2024",
+        "share_text": "Gratulerer med frigjøringsdagen, Bangladesh! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ବାଂଲାଦେଶର ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": null,
+        "share_text": "ଶୁଭ ସ୍ୱାଧୀନତା ଦିବସ, ବାଂଲାଦେଶ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال بنگلادش",
+        "hover_text": "روز استقلال بنگلادش - ۲۰۲۴",
+        "share_text": "روز استقلال بنگلادش مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Niepodległości Bangladeszu",
+        "hover_text": "Dzień Niepodległości Bangladeszu 2024",
+        "share_text": "Szczęśliwego Święta Niepodległości Bangladeszu #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência de Bangladesh",
+        "hover_text": "Dia da Independência de Bangladesh 2024",
+        "share_text": "Feliz Dia da Independência, Bangladesh! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência do Bangladeche",
+        "hover_text": "Dia da Independência do Bangladexe de 2024",
+        "share_text": "Feliz dia da independência, Bangladeche! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਬੰਗਲਾਦੇਸ਼ ਦਾ ਆਜ਼ਾਦੀ ਦਿਹਾੜਾ",
+        "hover_text": "ਬੰਗਲਾਦੇਸ਼ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2024",
+        "share_text": "ਬੰਗਲਾਦੇਸ਼ ਦੇ ਆਜ਼ਾਦੀ ਦਿਹਾੜੇ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței în Bangladesh",
+        "hover_text": "Ziua Independenței în Bangladesh – 2024",
+        "share_text": "La mulți ani de Ziua Independenței, Bangladesh! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Бангладеш",
+        "hover_text": "День независимости Бангладеш – 2024",
+        "share_text": "День независимости Бангладеш #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Бангладеша",
+        "hover_text": "Дан независности Бангладеша 2024.",
+        "share_text": "Честитамо Дан независности Бангладешу! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Bangladeša",
+        "hover_text": "Dan nezavisnosti Bangladeša 2024.",
+        "share_text": "Čestitamo Dan nezavisnosti Bangladešu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepans Banglades",
+        "hover_text": null,
+        "share_text": "Lazournen lendepandans, Banglades #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "බංගලාදේශයේ නිදහස් දිනය",
+        "hover_text": "බංග්ලාදේශයේ නිදහස් දිනය 2024",
+        "share_text": "සුබ නිදහස් දිනයක්, බංගලාදේශය! #Googleඩූඩල්"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Bangladéša",
+        "hover_text": "Deň nezávislosti Bangladéša 2024",
+        "share_text": "Šťastný Deň nezávislosti, Bangladéš! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Bangladeški dan neodvisnosti",
+        "hover_text": "Bangladeški dan neodvisnosti 2024",
+        "share_text": "Vesel dan neodvisnosti, Bangladeš. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madax banaanida Bangaladesh",
+        "hover_text": null,
+        "share_text": "Maalinta madax banaanida Farxada leh e Bangladesh! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la Bangladesh",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Tokoloho, Bangladesh! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Bangladés",
+        "hover_text": "Día de la Independencia de Bangladés 2024",
+        "share_text": "¡Feliz Día de la Independencia de Bangladés! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Bangladeshi",
+        "hover_text": "Sikukuu ya Uhuru wa Bangladeshi 2024",
+        "share_text": "Heri za Sikukuu ya Uhuru, Bangladeshi! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Bangladeshs självständighetsdag",
+        "hover_text": "Bangladeshs självständighetsdag 2024",
+        "share_text": "Vi firar Bangladeshs självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "வங்காளதேசத்தின் சுதந்திர தினம்",
+        "hover_text": "வங்கதேசத்தின் சுதந்திர தினம் 2024",
+        "share_text": "வங்காளதேச சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "బంగ్లాదేశ్ స్వాతంత్య్ర దినోత్సవం",
+        "hover_text": "బంగ్లాదేశ్ స్వాతంత్య్ర దినోత్సవం 2024",
+        "share_text": "స్వాతంత్ర దినోత్సవ శుభాకాంక్షలు, బంగ్లాదేశ్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของบังกลาเทศ",
+        "hover_text": "วันประกาศอิสรภาพของบังกลาเทศปี 2024",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของบังกลาเทศ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Bangladesh",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, Bangladesh! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Bangladeş Bağımsızlık Günü",
+        "hover_text": "2024 Bangladeş Bağımsızlık Günü",
+        "share_text": "Bangladeş Bağımsızlık Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Бангладеш",
+        "hover_text": "День незалежності Бангладеш у 2024 році",
+        "share_text": "З Днем незалежності, Бангладеш! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "بنگلہ دیش کا یوم آزادی",
+        "hover_text": "بنگلہ دیش کا یوم آزادی 2024",
+        "share_text": "یوم آزادی بنگلہ دیش مبارک ہو! ‎#GoogleDoodle"
+      },
+      "uz": {
+        "query": "Bangladesh mustaqillik kuni",
+        "hover_text": "Bangladesh Mustaqillik kuni 2024",
+        "share_text": "Mustaqillik kuning muborak, Bangladesh! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Bangladesh",
+        "hover_text": "Ngày Quốc khánh Bangladesh năm 2024",
+        "share_text": "Chúc mừng quốc khánh Bangladesh! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lokuzimela lwase-Bangladesh",
+        "hover_text": "Usuku Lokuzimela lwase-Bangladesh lwango-2024",
+        "share_text": "Usuku Lokuzimela, e-Bangladesh! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Bangladesh Independence Day",
+    "share_text": "Happy Independence Day, Bangladesh! #GoogleDoodle"
+  },
+  {
     "name": "greece-national-day-2024",
     "title": "Greece National Day 2024",
     "url": "//www.google.com/logos/doodles/2024/greece-national-day-2024-6753651837110202.2-law.gif",
@@ -1173,7 +1672,7 @@
       },
       "iw": {
         "query": "יום האם",
-        "hover_text": null,
+        "hover_text": "יום האם 2024",
         "share_text": "יום האם שמח! GoogleDoodle#"
       },
       "hi": {
@@ -2171,7 +2670,7 @@
       },
       "iw": {
         "query": "יום האב",
-        "hover_text": null,
+        "hover_text": "יום האב 2024",
         "share_text": "יום האב שמח! GoogleDoodle#"
       },
       "hi": {
