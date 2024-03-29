@@ -1,5 +1,504 @@
 [
   {
+    "name": "abbas-attars-80th-birthday",
+    "title": "Abbas Attar's 80th Birthday",
+    "url": "//www.google.com/logos/doodles/2024/abbas-attars-80th-birthday-6753651837110200.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/1Siucuk5qCHVo3SJpCtZpOejHJEey4IOdgJX7-sOfEBWgEj64BTZHnlHxsTG29K6x6F4KAVxgAfIOYGJE_jqbJB3r7iUPAjqtcN0nE3YRWmOopjoueX6Aw",
+    "high_res_url": "//www.google.com/logos/doodles/2024/abbas-attars-80th-birthday-6753651837110200.2-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      3,
+      29
+    ],
+    "translations": {
+      "en": {
+        "query": "Abbas Attar",
+        "hover_text": "Abbas Attar's 80th Birthday",
+        "share_text": "Abbas Attar's 80th Birthday! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Abbas Attar",
+        "hover_text": "Abbas Attar se 80e verjaarsdag",
+        "share_text": "Abbas Attar se 80e verjaarsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Abbas Attar",
+        "hover_text": "80-vjetori i lindjes së Abbas Attar",
+        "share_text": "80-vjetori i lindjes së Abbas Attar! #GoogleDoodle"
+      },
+      "am": {
+        "query": "አባስ አታር",
+        "hover_text": "የአባስ አታር 80ኛ ልደት",
+        "share_text": "የአባስ አታር 80ኛ ልደት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عباس عطار",
+        "hover_text": "الذكرى 80 لميلاد عباس عطار",
+        "share_text": "نحتفل اليوم بالذكرى 80 لميلاد عباس عطار. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Աբաս Ատար",
+        "hover_text": "Աբաս Ատարի ծննդյան 80-ամյակը",
+        "share_text": "Աբաս Ատարի ծննդյան 80-ամյակը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Abbas Attar",
+        "hover_text": "Abbas Attar'ın 80-ci ildönümü",
+        "share_text": "Abbas Attar'ın 80-ci ildönümü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "আব্বাস আত্তার",
+        "hover_text": "আব্বাস আত্তারের ৮০তম জন্মদিন",
+        "share_text": "আব্বাস আত্তারের ৮০তম জন্মদিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Abbas Attar",
+        "hover_text": "Abbas Attarren jaiotzaren 80. urteurrena",
+        "share_text": "Abbas Attarren jaiotzaren 80. urteurrena #GoogleDoodle"
+      },
+      "be": {
+        "query": "Абас Атар",
+        "hover_text": "80 гадоў з дня нараджэння Абаса Атара",
+        "share_text": "80 гадоў з дня нараджэння Абаса Атара! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Abbas Attar",
+        "hover_text": "80 godina od rođenja Abbasa Attara",
+        "share_text": "80 godina od rođenja Abbasa Attara! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Abbas Attar",
+        "hover_text": "Abbas Attar's 80th birthday",
+        "share_text": "Abbas Attar's 80th birthday #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Абас Атар",
+        "hover_text": "80 години от рождението на Абас Атар",
+        "share_text": "80 години от рождението на Абас Атар! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Abbas Attar",
+        "hover_text": "Abbas Attar ၏ နှစ် ၈၀ ပြည့်မွေးနေ့",
+        "share_text": "Abbas Attar ၏ နှစ် ၈၀ ပြည့်မွေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Abbas Attar",
+        "hover_text": "80è aniversari del naixement d'Abbas Attar",
+        "share_text": "80è aniversari del naixement d'Abbas Attar #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Abbas Attar",
+        "hover_text": "Abbas Attar 誕辰 80 週年",
+        "share_text": "Abbas Attar 誕辰 80 週年！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "阿巴斯阿塔爾",
+        "hover_text": "阿巴斯阿塔爾 80 歲冥誕",
+        "share_text": "紀念阿巴斯阿塔爾 80 歲冥誕！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "阿巴斯·阿塔尔",
+        "hover_text": "阿巴斯·阿塔尔诞辰 80 周年",
+        "share_text": "阿巴斯·阿塔尔诞辰 80 周年！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Abbas Attar",
+        "hover_text": "80. godišnjica rođenja Abbasa Attara",
+        "share_text": "80. godišnjica rođenja Abbasa Attara! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Abbas Attar",
+        "hover_text": "80. výročí narození Abbase Attara",
+        "share_text": "Slavíme 80. výročí narození Abbase Attara! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Abbas Attar",
+        "hover_text": "Abbas Attars 80-års fødselsdag",
+        "share_text": "Abbas Attars 80-års fødselsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Abbas Attar",
+        "hover_text": "80e geboortedag van Abbas Attar",
+        "share_text": "De 80e geboortedag van Abbas Attar! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Abbas Attar",
+        "hover_text": "Abbas Attari 80. sünniaastapäev",
+        "share_text": "Abbas Attari 80. sünniaastapäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Abbas Attar",
+        "hover_text": "80 vuotta Abbas Attarin syntymästä",
+        "share_text": "80 vuotta Abbas Attarin syntymästä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Abbas Attar",
+        "hover_text": "Il y a 80 ans naissait Abbas",
+        "share_text": "Il y a 80 ans naissait Abbas Attar #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Abbas Attar",
+        "hover_text": "80ᵉ anniversaire de naissance d'Abbas Attar",
+        "share_text": "80ᵉ anniversaire de naissance d'Abbas Attar! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Abbas Attar",
+        "hover_text": "80.º aniversario do nacemento de Abbas Attar",
+        "share_text": "80.º aniversario do nacemento de Abbas Attar! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "აბას ატარი",
+        "hover_text": "80 წელი აბას ატარის დაბადებიდან",
+        "share_text": "80 წელი აბას ატარის დაბადებიდან! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Abbas Attar",
+        "hover_text": "80. Geburtstag von Abbas Attar",
+        "share_text": "80. Geburtstag von Abbas Attar #GoogleDoodle"
+      },
+      "el": {
+        "query": "Abbas Attar",
+        "hover_text": "80 χρόνια από τη γέννηση του Abbas Attar",
+        "share_text": "80 χρόνια από τη γέννηση του Abbas Attar! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "અબ્બાસ અત્તાર",
+        "hover_text": "અબ્બાસ અત્તારનો 80મો જન્મદિવસ",
+        "share_text": "અબ્બાસ અત્તારનો 80મો જન્મદિવસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Abbas Attar",
+        "hover_text": "‫80 שנים להולדת עבאס עטאר",
+        "share_text": "‫80 שנים להולדת עבאס עטאר ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "अब्बास अतहर",
+        "hover_text": "अब्बास अतहर की 80वीं जयंती",
+        "share_text": "अब्बास अतहर की 80वीं जयंती! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Abbas Attar",
+        "hover_text": "Abbas Attar születésének 80. évfordulója",
+        "share_text": "Abbas Attar születésének 80. évfordulója. #GoogleDoodle"
+      },
+      "is": {
+        "query": "Abbas Attar",
+        "hover_text": "80 ár frá fæðingu Abbas Attar",
+        "share_text": "80 ár frá fæðingu Abbas Attar! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Abbas Attar",
+        "hover_text": "Ulang Tahun Ke-80 Abbas Attar",
+        "share_text": "Ulang Tahun Ke-80 Abbas Attar #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Abbas Attar",
+        "hover_text": "80ú Breithlá Abbas Attar",
+        "share_text": "80ú Breithlá Abbas Attar! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Abbas Attar",
+        "hover_text": "80° anniversario della nascita di Abbas Attar",
+        "share_text": "80° anniversario della nascita di Abbas Attar! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "アッバス・アッタール",
+        "hover_text": "アッバス・アッタール生誕 80 周年",
+        "share_text": "アッバス・アッタール生誕 80 周年です。#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಅಬ್ಬಾಸ್ ಅತ್ತರ್",
+        "hover_text": "ಅಬ್ಬಾಸ್ ಅತ್ತರ್ ಅವರ 80ನೇ ಜನ್ಮದಿನ",
+        "share_text": "ಅಬ್ಬಾಸ್ ಅತ್ತರ್ ಅವರ 80ನೇ ಜನ್ಮದಿನ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Аббас Аттар",
+        "hover_text": "Аббас Аттардың 80 жылдығы",
+        "share_text": "Аббас Аттардың 80 жылдығы #GoogleDoodle"
+      },
+      "km": {
+        "query": "Abbas Attar",
+        "hover_text": "ខួបកំណើតគម្រប់ 80 ឆ្នាំរបស់ Abbas Attar",
+        "share_text": "ខួបកំណើតគម្រប់ 80 ឆ្នាំរបស់ Abbas Attar! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Abbas Attar",
+        "hover_text": "Abbas Attar 탄생 80주년",
+        "share_text": "Abbas Attar 탄생 80주년 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Аббас Аттар",
+        "hover_text": "Аббас Аттардын 80 жаш мааракеси",
+        "share_text": "Аббас Аттардын 80 жаш мааракеси! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Abbas Attar",
+        "hover_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 80 ປີຂອງ Abbas Attar",
+        "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 80 ປີຂອງ Abbas Attar! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Abbas Attar",
+        "hover_text": "80º aniversario del nacimiento de Abbas Attar",
+        "share_text": "¡80º aniversario del nacimiento de Abbas Attar! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Abass Atars",
+        "hover_text": "Abasa Atara 80. dzimšanas diena",
+        "share_text": "Abasa Atara 80. dzimšanas diena! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Abbas Attar",
+        "hover_text": "80-osios Abbaso Attaro gimimo metinės",
+        "share_text": "80-osios Abbaso Attaro gimimo metinės! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Abbas Attar",
+        "hover_text": "80. роденден на Abbas Attar",
+        "share_text": "80. роденден на Abbas Attar! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Abbas Attar",
+        "hover_text": "Ulang Tahun Kelahiran Abbas Attar yang ke-80",
+        "share_text": "Ulang Tahun Kelahiran Abbas Attar yang ke-80! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Abbas Attar",
+        "hover_text": "Abbas Attar-ന്റെ 80-ാം ജന്മദിനം",
+        "share_text": "Abbas Attar-ന്റെ 80-ാം ജന്മദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "अब्बास अत्तार",
+        "hover_text": "अब्बास अत्तार यांचा ८० वा स्मृतिदिन",
+        "share_text": "अब्बास अत्तार यांचा ८० वा स्मृतिदिन! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Аббас Аттар",
+        "hover_text": "Аббас Аттарын мэндэлсний 80 жилийн ой",
+        "share_text": "Аббас Аттарын мэндэлсний 80 жилийн ой! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Abbas Attar",
+        "hover_text": "Abbas Attar को ८० औँ जन्मजयन्ती",
+        "share_text": "Abbas Attar को ८० औँ जन्मजयन्ती! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Abbas Attar",
+        "hover_text": "Abbas Attars 80-årsdag",
+        "share_text": "Abbas Attars 80-årsdag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "عباس عطار",
+        "hover_text": "هشتادمین زادروز عباس عطار",
+        "share_text": "هشتادمین زادروز عباس عطار! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Abbas Attar",
+        "hover_text": "Abbas Attar – 80 rocznica urodzin",
+        "share_text": "Abbas Attar – 80 rocznica urodzin #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Abbas Attar",
+        "hover_text": "80º aniversário de Abbas Attar",
+        "share_text": "80º aniversário de Abbas Attar #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Abbas Attar",
+        "hover_text": "80.º Aniversário de Abbas Attar",
+        "share_text": "80.º Aniversário de Abbas Attar! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਅੱਬਾਸ ਅੱਤਾਰ",
+        "hover_text": "ਅੱਬਾਸ ਅੱਤਾਰ ਦਾ 80ਵਾਂ ਜਨਮਦਿਨ",
+        "share_text": "ਅੱਬਾਸ ਅੱਤਾਰ ਦਾ 80ਵਾਂ ਜਨਮਦਿਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Abbas Attar",
+        "hover_text": "80 de ani de la nașterea lui Abbas Attar",
+        "share_text": "80 de ani de la nașterea lui Abbas Attar! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Аббас Аттар",
+        "hover_text": "80 лет со дня рождения Аббаса Аттара",
+        "share_text": "80 лет со дня рождения Аббаса Аттара #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Абас Атар",
+        "hover_text": "80 година од рођења Абаса Атара",
+        "share_text": "80 година од рођења Абаса Атара! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Abas Atar",
+        "hover_text": "80 godina od rođenja Abasa Atara",
+        "share_text": "80 godina od rođenja Abasa Atara! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "අබ්බාස් ඇටාර්",
+        "hover_text": "අබ්බාස් ඇටාර්ගේ 80 වැනි උපන් දිනය",
+        "share_text": "අබ්බාස් ඇටාර්ගේ 80 වැනි උපන් දිනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Abbas Attar",
+        "hover_text": "80. výročie narodenia Abbasa Attara",
+        "share_text": "80. výročie narodenia Abbasa Attara. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Abbas Attar",
+        "hover_text": "80. rojstni dan Abbasa Attarja",
+        "share_text": "80. rojstni dan Abbasa Attarja! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Abbas Attar",
+        "hover_text": "80.º aniversario del nacimiento de Abbas Attar",
+        "share_text": "Hoy es el 80.º aniversario del nacimiento de Abbas Attar #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Abbas Attar",
+        "hover_text": "Miaka 80 Tangu Kuzaliwa kwa Abbas Attar",
+        "share_text": "Miaka 80 Tangu Kuzaliwa kwa Abbas Attar! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Abbas Attar",
+        "hover_text": "Abbas Attar 80 år",
+        "share_text": "Abbas Attar 80 år #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "அபாஸ் அட்டார்",
+        "hover_text": "அபாஸ் அட்டாரின் 80வது பிறந்தநாள்",
+        "share_text": "அபாஸ் அட்டாரின் 80வது பிறந்தநாள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "అబ్బాస్ అట్టర్",
+        "hover_text": "అబ్బాస్ అట్టర్ 80వ జయంతి",
+        "share_text": "అబ్బాస్ అట్టర్ 80వ జయంతి! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Abbas Attar",
+        "hover_text": "วันเกิดปีที่ 80 ของ Abbas Attar",
+        "share_text": "วันเกิดปีที่ 80 ของ Abbas Attar #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Abbas Attar",
+        "hover_text": "Abbas Attar'ın 80. Doğum Günü",
+        "share_text": "Abbas Attar'ın 80. doğum gününü kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Аббас Аттар",
+        "hover_text": "80 років від дня народження Аббаса Аттара",
+        "share_text": "80 років від дня народження Аббаса Аттара! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Abbas Attar",
+        "hover_text": "Abbas Attar کی 80 ویں سالگرہ",
+        "share_text": "Abbas Attar کی 80 ویں سالگرہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Abbas Attar",
+        "hover_text": "Abbas Attar tavalludining 80 yilligi",
+        "share_text": "Abbas Attar tavalludining 80 yilligi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Abbas Attar",
+        "hover_text": "Kỷ niệm 80 năm ngày sinh của Abbas Attar",
+        "share_text": "Kỷ niệm 80 năm ngày sinh của Abbas Attar! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Abbas Attar",
+        "hover_text": "Usuku Lokuzalwa luka-Abbas Attar Lweminyaka engu-80",
+        "share_text": "Usuku Lokuzalwa luka-Abbas Attar Lweminyaka engu-80! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Abbas Attar",
+    "share_text": "Abbas Attar's 80th Birthday! #GoogleDoodle"
+  },
+  {
     "name": "bangladesh-independence-day-2024",
     "title": "Bangladesh Independence Day 2024",
     "url": "//www.google.com/logos/doodles/2024/bangladesh-independence-day-2024-6753651837110204.2-law.gif",
