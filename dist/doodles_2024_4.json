@@ -1,5 +1,504 @@
 [
   {
+    "name": "slovakia-presidential-elections-2024-r2",
+    "title": "Slovakia Presidential Elections 2024 (R2)",
+    "url": "//www.google.com/logos/doodles/2024/slovakia-presidential-elections-2024-r2-6753651837110495-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/PHRmn2aVdZEQvtwYb0pewg0tIVV15PLdlj_Mzzqan3VbhUYJIuDAWUV3-8_o_Wau5FE8E64WP4PBNLJnPjKuZf5tdAvwFitqcDMnVgoGD-lkAL4gZgBisEs",
+    "high_res_url": "//www.google.com/logos/doodles/2024/slovakia-presidential-elections-2024-r2-6753651837110495-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      4,
+      6
+    ],
+    "translations": {
+      "en": {
+        "query": "Slovakia Presidential Elections 2024",
+        "hover_text": "Slovakia Presidential Elections 2024",
+        "share_text": "Slovakia Presidential Elections 2024! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Slowakye se presidensiële verkiesing 2024",
+        "hover_text": "Slowakye se presidensiële verkiesing 2024",
+        "share_text": "Slowakye se presidensiële verkiesing 2024! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Zgjedhjet presidenciale në Sllovaki, 2024",
+        "hover_text": "Zgjedhjet presidenciale në Sllovaki, 2024",
+        "share_text": "Zgjedhjet presidenciale në Sllovaki, 2024! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የስሎቫኪያ ፕሬዝዳንታዊ ምርጫዎች 2024",
+        "hover_text": "የስሎቫኪያ ፕሬዝዳንታዊ ምርጫዎች 2024",
+        "share_text": "የስሎቫኪያ ፕሬዝዳንታዊ ምርጫዎች 2024! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "الانتخابات الرئاسية في سلوفاكيا 2024",
+        "hover_text": "الانتخابات الرئاسية في سلوفاكيا 2024",
+        "share_text": "انطلقت الانتخابات الرئاسية في سلوفاكيا لعام 2024! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Սլովակիայի նախագահական ընտրություններ 2024",
+        "hover_text": "Սլովակիայի նախագահական ընտրություններ 2024",
+        "share_text": "Սլովակիայի նախագահական ընտրություններ 2024 #GoogleDoodle"
+      },
+      "az": {
+        "query": "2024 Slovakiya Prezident Seçkiləri",
+        "hover_text": "2024 Slovakiya Prezident Seçkiləri",
+        "share_text": "2024 Slovakiya Prezident Seçkiləri! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "স্লোভাকিয়ার রাষ্ট্রপতি নির্বাচন ২০২৪",
+        "hover_text": "স্লোভাকিয়ার রাষ্ট্রপতি নির্বাচন ২০২৪",
+        "share_text": "স্লোভাকিয়ার রাষ্ট্রপতি নির্বাচন ২০২৪! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "2024ko Eslovakiako lehendakaritza-hauteskundeak",
+        "hover_text": "2024ko Eslovakiako lehendakaritza-hauteskundeak",
+        "share_text": "2024ko Eslovakiako lehendakaritza-hauteskundeak #GoogleDoodle"
+      },
+      "be": {
+        "query": "Выбары прэзідэнта Славакіі 2024",
+        "hover_text": "Выбары прэзідэнта Славакіі 2024",
+        "share_text": "Выбары прэзідэнта Славакіі 2024! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Predsjednički izbori u Slovačkoj 2024.",
+        "hover_text": "Predsjednički izbori u Slovačkoj 2024.",
+        "share_text": "Predsjednički izbori u Slovačkoj 2024! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Slovakia presidential elections 2024",
+        "hover_text": "Slovakia presidential elections 2024",
+        "share_text": "Slovakia presidential elections 2024! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Президентски избори в Словакия 2024 г.",
+        "hover_text": "Президентски избори в Словакия 2024 г.",
+        "share_text": "Президентски избори в Словакия 2024 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "၂၀၂၄ ဆလိုဗက်ကီးယားနိုင်ငံ သမ္မတရွေးကောက်ပွဲများ",
+        "hover_text": "၂၀၂၄ ဆလိုဗက်ကီးယားနိုင်ငံ သမ္မတရွေးကောက်ပွဲများ",
+        "share_text": "၂၀၂၄ ဆလိုဗက်ကီးယားနိုင်ငံ သမ္မတရွေးကောက်ပွဲများ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Eleccions presidencials a Eslovàquia 2024",
+        "hover_text": "Eleccions presidencials a Eslovàquia 2024",
+        "share_text": "Eleccions presidencials a Eslovàquia 2024 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "2024 年斯洛伐克總統選舉",
+        "hover_text": "2024 年斯洛伐克總統選舉",
+        "share_text": "2024 年斯洛伐克總統選舉！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "2024 年斯洛伐克總統大選",
+        "hover_text": "2024 年斯洛伐克總統大選",
+        "share_text": "2024 年斯洛伐克總統大選登場！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "2024 年斯洛伐克总统选举",
+        "hover_text": "2024 年斯洛伐克总统选举",
+        "share_text": "2024 年斯洛伐克总统选举！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Predsjednički izbori u Slovačkoj 2024.",
+        "hover_text": "Predsjednički izbori u Slovačkoj 2024.",
+        "share_text": "Predsjednički izbori u Slovačkoj 2024.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Slovenské prezidentské volby 2024",
+        "hover_text": "Slovenské prezidentské volby 2024",
+        "share_text": "Konají se slovenské prezidentské volby 2024! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Præsidentvalg i Slovakiet 2024",
+        "hover_text": "Præsidentvalg i Slovakiet 2024",
+        "share_text": "Præsidentvalg i Slovakiet 2024 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Presidentsverkiezingen Slowakije 2024",
+        "hover_text": "Presidentsverkiezingen Slowakije 2024",
+        "share_text": "De presidentsverkiezingen in Slowakije van 2024! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Slovakkia 2024. aasta presidendivalimised",
+        "hover_text": "Slovakkia 2024. aasta presidendivalimised",
+        "share_text": "Slovakkia 2024. aasta presidendivalimised! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Slovakian presidentinvaalit 2024",
+        "hover_text": "Slovakian presidentinvaalit 2024",
+        "share_text": "Slovakian presidentinvaalit 2024 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Élections présidentielles 2024 en Slovaquie",
+        "hover_text": "Élections présidentielles 2024 en Slovaquie",
+        "share_text": "Élections présidentielles 2024 en Slovaquie #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Élections présidentielles de 2024 en Slovaquie",
+        "hover_text": "Élections présidentielles de 2024 en Slovaquie",
+        "share_text": "Élections présidentielles de 2024 en Slovaquie! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Eleccións presidenciais de Eslovaquia 2024",
+        "hover_text": "Eleccións presidenciais de Eslovaquia 2024",
+        "share_text": "Eleccións presidenciais de Eslovaquia 2024! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "სლოვაკეთის საპრეზიდენტო არჩევნები — 2024",
+        "hover_text": "სლოვაკეთის საპრეზიდენტო არჩევნები — 2024",
+        "share_text": "სლოვაკეთის საპრეზიდენტო არჩევნები — 2024 #GoogleDoodle"
+      },
+      "de": {
+        "query": "Präsidentschaftswahl in der Slowakei 2024",
+        "hover_text": "Präsidentschaftswahl in der Slowakei 2024",
+        "share_text": "Präsidentschaftswahl in der Slowakei 2024 #GoogleDoodle"
+      },
+      "el": {
+        "query": "Προεδρικές εκλογές στη Σλοβακία 2024",
+        "hover_text": "Προεδρικές εκλογές στη Σλοβακία 2024",
+        "share_text": "Προεδρικές εκλογές στη Σλοβακία 2024! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "સ્લોવાકિયાની પ્રમુખપદની ચૂંટણીઓ 2024",
+        "hover_text": "સ્લોવાકિયાની પ્રમુખપદની ચૂંટણીઓ 2024",
+        "share_text": "સ્લોવાકિયાની પ્રમુખપદની ચૂંટણીઓ 2024! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "הבחירות לנשיאות בסלובקיה 2024",
+        "hover_text": "הבחירות לנשיאות בסלובקיה 2024",
+        "share_text": "הבחירות לנשיאות בסלובקיה 2024 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "स्लोवाकिया का राष्ट्रपति चुनाव 2024",
+        "hover_text": "स्लोवाकिया का राष्ट्रपति चुनाव 2024",
+        "share_text": "स्लोवाकिया का राष्ट्रपति चुनाव 2024! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Elnökválasztás Szlovákiában, 2024",
+        "hover_text": "Elnökválasztás Szlovákiában, 2024",
+        "share_text": "Elnökválasztás Szlovákiában, 2024 #GoogleDoodle"
+      },
+      "is": {
+        "query": "Forsetakosningar í Slóvakíu 2024",
+        "hover_text": "Forsetakosningar í Slóvakíu 2024",
+        "share_text": "Forsetakosningar í Slóvakíu 2024! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Pemilu Presiden Slovakia 2024",
+        "hover_text": "Pemilu Presiden Slovakia 2024",
+        "share_text": "Pemilu Presiden Slovakia 2024 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Elezioni presidenziali 2024 in Slovacchia",
+        "hover_text": "Elezioni presidenziali 2024 in Slovacchia",
+        "share_text": "Elezioni presidenziali 2024 in Slovacchia #GoogleDoodle"
+      },
+      "ja": {
+        "query": "2024 年スロバキア大統領選挙",
+        "hover_text": "2024 年スロバキア大統領選挙",
+        "share_text": "2024 年スロバキア大統領選挙 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಸ್ಲೋವಾಕಿಯಾ ಅಧ್ಯಕ್ಷೀಯ ಚುನಾವಣೆಗಳು 2024",
+        "hover_text": "ಸ್ಲೋವಾಕಿಯಾ ಅಧ್ಯಕ್ಷೀಯ ಚುನಾವಣೆಗಳು 2024",
+        "share_text": "ಸ್ಲೋವಾಕಿಯಾ ಅಧ್ಯಕ್ಷೀಯ ಚುನಾವಣೆಗಳು 2024! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Словакиядағы президент сайлауы — 2024",
+        "hover_text": "Словакиядағы президент сайлауы — 2024",
+        "share_text": "Словакиядағы президент сайлауы – 2024 #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការបោះឆ្នោតជ្រើសរើសប្រធានាធិបតីស្លូវ៉ាគីឆ្នាំ 2024",
+        "hover_text": "ការបោះឆ្នោតជ្រើសរើសប្រធានាធិបតីស្លូវ៉ាគីឆ្នាំ 2024",
+        "share_text": "ការបោះឆ្នោត​ជ្រើសរើស​ប្រធានាធិបតី​ស្លូវ៉ាគីឆ្នាំ 2024! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "2024년 슬로바키아 대통령 선거",
+        "hover_text": "2024년 슬로바키아 대통령 선거",
+        "share_text": "2024년 슬로바키아 대통령 선거 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Словакиядагы Президенттик шайлоо – 2024",
+        "hover_text": "Словакиядагы Президенттик шайлоо – 2024",
+        "share_text": "Словакиядагы Президенттик шайлоо – 2024! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ການເລືອກຕັ້ງປະທານາທິບໍດີສະໂລວາເກຍປີ 2024",
+        "hover_text": "ການເລືອກຕັ້ງປະທານາທິບໍດີສະໂລວາເກຍປີ 2024",
+        "share_text": "ການເລືອກຕັ້ງປະທານາທິບໍດີສະໂລວາເກຍປີ 2024! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Elecciones presidenciales de Eslovaquia 2024",
+        "hover_text": "Elecciones presidenciales de Eslovaquia 2024",
+        "share_text": "Elecciones presidenciales de Eslovaquia 2024 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Prezidenta vēlēšanas Slovākijā — 2024",
+        "hover_text": "Prezidenta vēlēšanas Slovākijā — 2024",
+        "share_text": "Prezidenta vēlēšanas Slovākijā — 2024! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Slovakijos prezidento rinkimai, 2024 m.",
+        "hover_text": "Slovakijos prezidento rinkimai, 2024 m.",
+        "share_text": "Slovakijos prezidento rinkimai, 2024 m.! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Претседателски избори во Словачка, 2024 г.",
+        "hover_text": "Претседателски избори во Словачка, 2024 г.",
+        "share_text": "Претседателски избори во Словачка, 2024 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Pilihan Raya Presiden Slovakia 2024",
+        "hover_text": "Pilihan Raya Presiden Slovakia 2024",
+        "share_text": "Pilihan Raya Presiden Slovakia 2024! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "സ്ലോവാക്യ പ്രസിഡന്റ് തിരഞ്ഞെടുപ്പ് 2024",
+        "hover_text": "സ്ലോവാക്യ പ്രസിഡന്റ് തിരഞ്ഞെടുപ്പ് 2024",
+        "share_text": "സ്ലോവാക്യ പ്രസിഡന്റ് തിരഞ്ഞെടുപ്പ് 2024! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "स्लोव्हाकियाच्या राष्ट्राध्यक्षीय निवडणुका २०२४",
+        "hover_text": "स्लोव्हाकियाच्या राष्ट्राध्यक्षीय निवडणुका २०२४",
+        "share_text": "स्लोव्हाकियाच्या राष्ट्राध्यक्षीय निवडणुका २०२४! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "2024 оны Словак Улсын ерөнхийлөгчийн сонгууль",
+        "hover_text": "2024 оны Словак Улсын ерөнхийлөгчийн сонгууль",
+        "share_text": "2024 оны Словак Улсын ерөнхийлөгчийн сонгууль! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "स्लोभाकियाको राष्ट्रपतीय निर्वाचन २०२४",
+        "hover_text": "स्लोभाकियाको राष्ट्रपतीय निर्वाचन २०२४",
+        "share_text": "स्लोभाकियाको राष्ट्रपतीय निर्वाचन २०२४! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Presidentvalget i Slovakia 2024",
+        "hover_text": "Presidentvalget i Slovakia 2024",
+        "share_text": "Presidentvalget i Slovakia 2024. #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "انتخابات ریاست جمهوری اسلواکی ۲۰۲۴",
+        "hover_text": "انتخابات ریاست جمهوری اسلواکی ۲۰۲۴",
+        "share_text": "انتخابات ریاست جمهوری ۲۰۲۴ اسلواکی! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Wybory prezydenckie 2024 w Słowacji",
+        "hover_text": "Wybory prezydenckie 2024 w Słowacji",
+        "share_text": "Wybory prezydenckie 2024 w Słowacji #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Eleições presidenciais da Eslováquia 2024",
+        "hover_text": "Eleições presidenciais da Eslováquia 2024",
+        "share_text": "Eleições presidenciais da Eslováquia 2024 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Eleições Presidenciais da Eslováquia de 2024",
+        "hover_text": "Eleições Presidenciais da Eslováquia de 2024",
+        "share_text": "Eleições Presidenciais da Eslováquia de 2024! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਸਲੋਵਾਕੀਆ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਦੀਆਂ ਚੋਣਾਂ 2024",
+        "hover_text": "ਸਲੋਵਾਕੀਆ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਦੀਆਂ ਚੋਣਾਂ 2024",
+        "share_text": "ਸਲੋਵਾਕੀਆ ਦੇ ਰਾਸ਼ਟਰਪਤੀ ਦੀਆਂ ਚੋਣਾਂ 2024! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Alegeri prezidențiale în Slovacia – 2024",
+        "hover_text": "Alegeri prezidențiale în Slovacia – 2024",
+        "share_text": "Alegeri prezidențiale în Slovacia – 2024! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Президентские выборы в Словакии – 2024",
+        "hover_text": "Президентские выборы в Словакии – 2024",
+        "share_text": "Президентские выборы в Словакии – 2024 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Председнички избори у Словачкој 2024.",
+        "hover_text": "Председнички избори у Словачкој 2024.",
+        "share_text": "Председнички избори у Словачкој 2024! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Predsednički izbori u Slovačkoj 2024.",
+        "hover_text": "Predsednički izbori u Slovačkoj 2024.",
+        "share_text": "Predsednički izbori u Slovačkoj 2024! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ස්ලෝවැකියාවේ ජනාධිපතිවරණය 2024",
+        "hover_text": "ස්ලෝවැකියාවේ ජනාධිපතිවරණය 2024",
+        "share_text": "ස්ලෝවැකියාවේ ජනාධිපතිවරණය 2024! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Prezidentské voľby na Slovensku 2024",
+        "hover_text": "Prezidentské voľby na Slovensku 2024",
+        "share_text": "Prezidentské voľby na Slovensku 2024. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Predsedniške volitve na Slovaškem 2024",
+        "hover_text": "Predsedniške volitve na Slovaškem 2024",
+        "share_text": "Predsedniške volitve na Slovaškem 2024! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Elecciones presidenciales de Eslovaquia 2024",
+        "hover_text": "Elecciones presidenciales de Eslovaquia 2024",
+        "share_text": "Hoy se celebran las elecciones presidenciales de Eslovaquia 2024 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Uchaguzi wa Urais wa Slovakia 2024",
+        "hover_text": "Uchaguzi wa Urais wa Slovakia 2024",
+        "share_text": "Uchaguzi wa Urais Slovakia 2024! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Presidentval i Slovakien 2024",
+        "hover_text": "Presidentval i Slovakien 2024",
+        "share_text": "Presidentval i Slovakien 2024 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஸ்லோவாக்கியா அதிபர் தேர்தல்கள் 2024",
+        "hover_text": "ஸ்லோவாக்கியா அதிபர் தேர்தல்கள் 2024",
+        "share_text": "ஸ்லோவாக்கியா அதிபர் தேர்தல்கள் 2024! #GoogleDoodle"
+      },
+      "te": {
+        "query": "స్లోవేకియా అధ్యక్ష ఎన్నికలు 2024",
+        "hover_text": "స్లోవేకియా అధ్యక్ష ఎన్నికలు 2024",
+        "share_text": "స్లోవేకియా అధ్యక్ష ఎన్నికలు 2024! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันเลือกตั้งประธานาธิบดีสโลวาเกียปี 2024",
+        "hover_text": "วันเลือกตั้งประธานาธิบดีสโลวาเกียปี 2024",
+        "share_text": "วันเลือกตั้งประธานาธิบดีสโลวาเกียปี 2024 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "2024 Slovakya Cumhurbaşkanlığı Seçimleri",
+        "hover_text": "2024 Slovakya Cumhurbaşkanlığı Seçimleri",
+        "share_text": "2024 Slovakya Cumhurbaşkanlığı seçimleri yapılıyor. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Президентські вибори в Словаччині у 2024 році",
+        "hover_text": "Президентські вибори в Словаччині у 2024 році",
+        "share_text": "Президентські вибори в Словаччині у 2024 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "سلوواکیہ کے صدارتی انتخابات 2024",
+        "hover_text": "سلوواکیہ کے صدارتی انتخابات 2024",
+        "share_text": "سلوواکیہ کے صدارتی انتخابات 2024! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Slovakiyada prezidentlik saylovi 2024",
+        "hover_text": "Slovakiyada prezidentlik saylovi 2024",
+        "share_text": "Slovakiyada prezidentlik saylovi 2024! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Bầu cử tổng thống Slovakia năm 2024",
+        "hover_text": "Bầu cử tổng thống Slovakia năm 2024",
+        "share_text": "Bầu cử tổng thống Slovakia năm 2024! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ukhetho Lukamongameli Wase-Slovakia Lwango-2024",
+        "hover_text": "Ukhetho Lukamongameli Wase-Slovakia Lwango-2024",
+        "share_text": "Ukhetho Lukamongameli Wase-Slovakia Lwango-2024! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Slovakia Presidential Elections 2024",
+    "share_text": "Slovakia Presidential Elections 2024! #GoogleDoodle"
+  },
+  {
     "name": "senegal-independence-day-2024",
     "title": "Senegal Independence Day 2024",
     "url": "//www.google.com/logos/doodles/2024/senegal-independence-day-2024-6753651837110208-law.gif",
