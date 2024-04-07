@@ -1,5 +1,504 @@
 [
   {
+    "name": "francis-garcias-66th-birthday",
+    "title": "Francis García's 66th Birthday",
+    "url": "//www.google.com/logos/doodles/2024/francis-garcias-66th-birthday-6753651837110209.4-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/UmFyntgI06eLrdKKqDnHoDByr2YFjihQyACM-XGLjZouGcnJPxvM_xC8CENwPCbILOe5P7yneVlaD1UNt8mT2gjmZlMQ9xTWP9v3VODoYTLPpqzKC0dWiA",
+    "high_res_url": "//www.google.com/logos/doodles/2024/francis-garcias-66th-birthday-6753651837110209.2-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      4,
+      6
+    ],
+    "translations": {
+      "en": {
+        "query": "Francis",
+        "hover_text": "Francis' 66th Birthday",
+        "share_text": "Francis' 66th Birthday! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Francis",
+        "hover_text": "Francis se 66e verjaarsdag",
+        "share_text": "Francis se 66e verjaarsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Francis",
+        "hover_text": "66-vjetori i lindjes së Francis",
+        "share_text": "66-vjetori i lindjes së Francis! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ፍራንሲስ",
+        "hover_text": "የፍራንሲስ 66ኛ ልደት",
+        "share_text": "የፍራንሲስ 66ኛ ልደት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "فرانسيس",
+        "hover_text": "الذكرى 66 لميلاد \"فرانسيس\"",
+        "share_text": "نحتفل اليوم بالذكرى 66 لميلاد \"فرانسيس\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ֆրանսիս",
+        "hover_text": "Ֆրանսիսի ծննդյան 66-ամյակը",
+        "share_text": "Ֆրանսիսի ծննդյան 66-ամյակը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Francis",
+        "hover_text": "Francis'in 66-cı ildönümü",
+        "share_text": "Francis'in 66-cı ildönümü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ফ্রান্সিস",
+        "hover_text": "ফ্রান্সিসের ৬৬তম জন্মদিন",
+        "share_text": "ফ্রান্সিসের ৬৬তম জন্মদিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Francis",
+        "hover_text": "Francisen jaiotzaren 66. urteurrena",
+        "share_text": "Francisen jaiotzaren 66. urteurrena #GoogleDoodle"
+      },
+      "be": {
+        "query": "Фрэнсіс",
+        "hover_text": "66-я гадавіна з дня нараджэння Фрэнсіс",
+        "share_text": "66-я гадавіна з дня нараджэння Фрэнсіс! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Francis",
+        "hover_text": "66 godina od rođenja Francis",
+        "share_text": "66 godina od rođenja Francis! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Francis",
+        "hover_text": "Francis' 66th birthday",
+        "share_text": "Francis' 66th birthday! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Франсис",
+        "hover_text": "66 години от рождението на Франсис",
+        "share_text": "66 години от рождението на Франсис! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Francis",
+        "hover_text": "Francis ၏ ၆၆ နှစ်ပြည့် မွေးနေ့",
+        "share_text": "Francis ၏ ၆၆ နှစ်ပြည့် မွေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Francis",
+        "hover_text": "66è aniversari del naixement de Francis",
+        "share_text": "66è aniversari del naixement de Francis #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Francis",
+        "hover_text": "Francis 誕辰 66 週年",
+        "share_text": "Francis 誕辰 66 週年！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "法蘭西斯",
+        "hover_text": "法蘭西斯 66 歲冥誕",
+        "share_text": "紀念法蘭西斯 66 歲冥誕！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "Francis",
+        "hover_text": "Francis 诞辰 66 周年",
+        "share_text": "Francis 诞辰 66 周年！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Francis",
+        "hover_text": "66. godišnjica rođenja Francis",
+        "share_text": "66. godišnjica rođenja Francis! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Francis",
+        "hover_text": "66. výročí narození Francis",
+        "share_text": "Slavíme 66. výročí narození Francis! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Francis",
+        "hover_text": "Francis' 66-års fødselsdag",
+        "share_text": "Francis' 66-års fødselsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Francis",
+        "hover_text": "66e geboortedag van Francis",
+        "share_text": "De 66e geboortedag van Francis! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Francis",
+        "hover_text": "Francise 66. sünniaastapäev",
+        "share_text": "Francise 66. sünniaastapäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Francis",
+        "hover_text": "66 vuotta Francisin syntymästä",
+        "share_text": "66 vuotta Francisin syntymästä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Francis",
+        "hover_text": "Il y a 66 ans naissait Francis",
+        "share_text": "Il y a 66 ans naissait Francis #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Francis",
+        "hover_text": "66ᵉ anniversaire de naissance de Francis",
+        "share_text": "66ᵉ anniversaire de naissance de Francis! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Francis",
+        "hover_text": "66.º aniversario do nacemento de Francis",
+        "share_text": "66.º aniversario do nacemento de Francis! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ფრენსისი",
+        "hover_text": "66 წელი ფრენსისის დაბადებიდან",
+        "share_text": "66 წელი ფრენსისის დაბადებიდან! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Francis",
+        "hover_text": "Zum 66. Geburtstag von Francis",
+        "share_text": "Zum 66. Geburtstag von Francis! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Francis",
+        "hover_text": "66 χρόνια από τη γέννηση της Francis",
+        "share_text": "66 χρόνια από τη γέννηση της Francis! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ફ્રાન્સિસ",
+        "hover_text": "ફ્રાન્સિસનો 66મો જન્મદિવસ",
+        "share_text": "ફ્રાન્સિસનો 66મો જન્મદિવસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Francis García",
+        "hover_text": "66 שנים להולדת פרנסיס",
+        "share_text": "66 שנים להולדת פרנסיס. GoogleDoodle#"
+      },
+      "hi": {
+        "query": "फ़्रैंसिस",
+        "hover_text": "फ़्रैंसिस की 66वीं जयंती",
+        "share_text": "फ़्रैंसिस की 66वीं जयंती! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Francis",
+        "hover_text": "Francis születésének 66. évfordulója",
+        "share_text": "Francis születésének 66. évfordulója! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Francis",
+        "hover_text": "66 ár frá fæðingu Francis",
+        "share_text": "66 ár frá fæðingu Francis! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Francis",
+        "hover_text": "Ulang Tahun Ke-66 Francis",
+        "share_text": "Ulang Tahun Ke-66 Francis #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Francis",
+        "hover_text": "66° anniversario della nascita di Francis",
+        "share_text": "66° anniversario della nascita di Francis! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "フランシス",
+        "hover_text": "フランシス生誕 66 周年",
+        "share_text": "フランシス生誕 66 周年 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಫ್ರಾನ್ಸಿಸ್",
+        "hover_text": "ಫ್ರಾನ್ಸಿಸ್ ಅವರ 66ನೇ ಜನ್ಮದಿನ",
+        "share_text": "ಫ್ರಾನ್ಸಿಸ್ ಅವರ 66ನೇ ಜನ್ಮದಿನ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Фрэнсис",
+        "hover_text": "Фрэнсистің 66 жылдығы",
+        "share_text": "Фрэнсистің 66 жылдығы #GoogleDoodle"
+      },
+      "km": {
+        "query": "Francis",
+        "hover_text": "ខួបកំណើតគម្រប់ 66 ឆ្នាំរបស់ Francis",
+        "share_text": "ខួបកំណើតគម្រប់ 66 ឆ្នាំរបស់ Francis! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Francis",
+        "hover_text": "Francis 탄생 66주년",
+        "share_text": "Francis 탄생 66주년 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Фрэнсис",
+        "hover_text": "Фрэнсистин 66 жаш мааракеси",
+        "share_text": "Фрэнсистин 66 жаш мааракеси! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Francis",
+        "hover_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 66 ປີຂອງ Francis",
+        "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 66 ປີຂອງ Francis! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Francis",
+        "hover_text": "66º aniversario del nacimiento de Francis",
+        "share_text": "¡66º aniversario del nacimiento de Francis! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Fransisa",
+        "hover_text": "Fransisas 66. dzimšanas diena",
+        "share_text": "Fransisas 66. dzimšanas diena! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Francis",
+        "hover_text": "66-asis Francis gimtadienis",
+        "share_text": "66-asis Francis gimtadienis! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Francis",
+        "hover_text": "66. роденден на Francis",
+        "share_text": "66. роденден на Francis! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Francis",
+        "hover_text": "Ulang Tahun Kelahiran Francis yang ke-66",
+        "share_text": "Ulang Tahun Kelahiran Francis yang ke-66! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Francis",
+        "hover_text": "Francis-ന്റെ 66-ാം ജന്മദിനം",
+        "share_text": "Francis-ന്റെ 66-ാം ജന്മദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "फ्रान्सिस",
+        "hover_text": "फ्रान्सिस यांचा ६६ वा स्मृतिदिन",
+        "share_text": "फ्रान्सिस यांचा ६६ वा स्मृतिदिन! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Францис",
+        "hover_text": "Францисын мэндэлсний 66 жилийн ой",
+        "share_text": "Францисын мэндэлсний 66 жилийн ой! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Francis",
+        "hover_text": "Francis को ६६ औँ जन्मजयन्ती",
+        "share_text": "Francis को ६६ औँ जन्मजयन्ती! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Francis",
+        "hover_text": "Francis' 66-årsdag",
+        "share_text": "Francis' 66-årsdag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "فرانسیس",
+        "hover_text": "شصت‌وششمین زادروز فرانسیس",
+        "share_text": "شصت‌وششمین زادروز فرانسیس! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Francis",
+        "hover_text": "Francis – 66 rocznica urodzin",
+        "share_text": "Francis – 66 rocznica urodzin #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Francis",
+        "hover_text": "66º aniversário de Francis",
+        "share_text": "66º aniversário de Francis #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Francis",
+        "hover_text": "66.º Aniversário de Francis",
+        "share_text": "66.º Aniversário de Francis! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਫ਼ਰਾਂਸਿਸ",
+        "hover_text": "ਫ਼ਰਾਂਸਿਸ ਦਾ 66ਵਾਂ ਜਨਮਦਿਨ",
+        "share_text": "ਫ਼ਰਾਂਸਿਸ ਦਾ 66ਵਾਂ ਜਨਮਦਿਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Francis",
+        "hover_text": "66 de ani de la nașterea lui Francis",
+        "share_text": "66 de ani de la nașterea lui Francis! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Франсис",
+        "hover_text": "66 лет со дня рождения Франсис",
+        "share_text": "66 лет со дня рождения Франсис #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Френсис",
+        "hover_text": "66. рођендан Френсис",
+        "share_text": "66. рођендан Френсис! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Frensis",
+        "hover_text": "66. rođendan Frensis",
+        "share_text": "66. rođendan Frensis! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ෆ්‍රැන්සිස්",
+        "hover_text": "ෆ්‍රැන්සිස්ගේ 66 වැනි උපන් දිනය",
+        "share_text": "ෆ්‍රැන්සිස්ගේ 66 වැනි උපන් දිනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Francis",
+        "hover_text": "66. výročie narodenia Francis",
+        "share_text": "66. výročie narodenia Francis. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Francis",
+        "hover_text": "66. rojstni dan Francis",
+        "share_text": "66. rojstni dan Francis! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Francis",
+        "hover_text": "66.º aniversario del nacimiento de Francis",
+        "share_text": "Hoy es el 66.º aniversario del nacimiento de Francis #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Francis",
+        "hover_text": "Miaka 66 Tangu Kuzaliwa kwa Francis",
+        "share_text": "Miaka 66 Tangu Kuzaliwa kwa Francis! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Francis",
+        "hover_text": "Francis 66 år",
+        "share_text": "Francis 66 år #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Francis",
+        "hover_text": "ஃபிரான்சிஸின் 66வது பிறந்தநாள்",
+        "share_text": "ஃபிரான்சிஸின் 66வது பிறந்தநாள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఫ్రాన్సిస్",
+        "hover_text": "ఫ్రాన్సిస్ 66వ జయంతి",
+        "share_text": "ఫ్రాన్సిస్ 66వ జయంతి! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Francis",
+        "hover_text": "วันเกิดปีที่ 66 ของ Francis",
+        "share_text": "วันเกิดปีที่ 66 ของ Francis #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Francis",
+        "hover_text": "Francis'in 66. Doğum Günü",
+        "share_text": "Francis'in 66. doğum gününü kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Френсіс",
+        "hover_text": "66 років від дня народження Френсіс",
+        "share_text": "66 років від дня народження Френсіс! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Francis",
+        "hover_text": "Francis ‏کی 66 ویں سالگرہ",
+        "share_text": "Francis ‏کی 66 ویں سالگرہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Francis",
+        "hover_text": "Francis tavalludining 66 yilligi",
+        "share_text": "Francis tavalludining 66 yilligi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Francis",
+        "hover_text": "Kỷ niệm 66 năm ngày sinh của Francis",
+        "share_text": "Kỷ niệm 66 năm ngày sinh của Francis! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Francis",
+        "hover_text": "Usuku Lokuzalwa luka-Francis Lweminyaka engama-66",
+        "share_text": "Usuku Lokuzalwa luka-Francis Lweminyaka engama-66! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Francis",
+    "share_text": "Francis' 66th Birthday! #GoogleDoodle"
+  },
+  {
     "name": "slovakia-presidential-elections-2024-r2",
     "title": "Slovakia Presidential Elections 2024 (R2)",
     "url": "//www.google.com/logos/doodles/2024/slovakia-presidential-elections-2024-r2-6753651837110495-l.png",
