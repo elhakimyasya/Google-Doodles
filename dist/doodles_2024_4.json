@@ -1,5 +1,504 @@
 [
   {
+    "name": "solar-eclipse-2024",
+    "title": "Solar Eclipse 2024",
+    "url": "//www.google.com/logos/doodles/2024/solar-eclipse-2024-6753651837110497-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/7zeoPOKN4p3AFEJWfDhEBmd1t4zcn76mgDXgMYf_n5aV4qWw_SIZsVMwIOqrxTwCyfMfmIFXunX-XeWAKNThc9v-FwPxkQ3kujkNr6nW52q2enTp-yjmFd8",
+    "high_res_url": "//www.google.com/logos/doodles/2024/solar-eclipse-2024-6753651837110497-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      4,
+      8
+    ],
+    "translations": {
+      "en": {
+        "query": "Total Eclipse 2024",
+        "hover_text": "Total Eclipse 2024",
+        "share_text": "Total Eclipse 2024! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Algehele sonsverduistering 2024",
+        "hover_text": "Algehele sonsverduistering 2024",
+        "share_text": "Algehele sonsverduistering 2024! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Eklipsi i plotë diellor, 2024",
+        "hover_text": "Eklipsi i plotë diellor, 2024",
+        "share_text": "Eklipsi i plotë diellor, 2024! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ሙሉ የጨረቃ ግርዶሽ 2024",
+        "hover_text": "ሙሉ የጨረቃ ግርዶሽ 2024",
+        "share_text": "ሙሉ የጨረቃ ግርዶሽ 2024! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "يحدث اليوم الكسوف الكلي لعام 2024",
+        "hover_text": "يحدث اليوم الكسوف الكلي لعام 2024",
+        "share_text": "يحدث اليوم الكسوف الكلي لعام 2024! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ամբողջական խավարում 2024",
+        "hover_text": "Ամբողջական խավարում 2024",
+        "share_text": "Ամբողջական խավարում 2024 #GoogleDoodle"
+      },
+      "az": {
+        "query": "2024 Total Eclipse Günü",
+        "hover_text": "2024 Total Eclipse Günü",
+        "share_text": "2024 Total Eclipse Günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "পূর্ণ গ্রহণ ২০২৪",
+        "hover_text": "পূর্ণ গ্রহণ ২০২৪",
+        "share_text": "পূর্ণ গ্রহণ ২০২৪! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "2024ko eklipse osoa",
+        "hover_text": "2024ko eklipse osoa",
+        "share_text": "2024ko eklipse osoa #GoogleDoodle"
+      },
+      "be": {
+        "query": "Поўнае сонечнае зацьменне 2024",
+        "hover_text": "Поўнае сонечнае зацьменне 2024",
+        "share_text": "Поўнае сонечнае зацьменне 2024! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Potpuna pomrčina Sunca 2024.",
+        "hover_text": "Potpuna pomrčina Sunca 2024.",
+        "share_text": "Potpuna pomrčina Sunca 2024! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Total eclipse 2024",
+        "hover_text": "Total eclipse 2024",
+        "share_text": "Total eclipse 2024! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Пълно затъмнение 2024 г.",
+        "hover_text": "Пълно затъмнение 2024 г.",
+        "share_text": "Пълно затъмнение 2024 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "၂၀၂၄ နေအပြည့်ကြတ်ခြင်း",
+        "hover_text": "၂၀၂၄ နေအပြည့်ကြတ်ခြင်း",
+        "share_text": "၂၀၂၄ နေအပြည့်ကြတ်ခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Eclipsi total 2024",
+        "hover_text": "Eclipsi total 2024",
+        "share_text": "Eclipsi total 2024 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "2024 年日全食",
+        "hover_text": "2024 年日全食",
+        "share_text": "2024 年日全食！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "2024 年日全食",
+        "hover_text": "2024 年日全食",
+        "share_text": "2024 年日全食登場！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "2024 年全食",
+        "hover_text": "2024 年全食",
+        "share_text": "2024 年全食！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Potpuna pomrčina Sunca 2024.",
+        "hover_text": "Potpuna pomrčina Sunca 2024.",
+        "share_text": "Potpuna pomrčina Sunca 2024.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Úplné zatmění 2024",
+        "hover_text": "Úplné zatmění 2024",
+        "share_text": "Úplné zatmění #GoogleDoodle"
+      },
+      "da": {
+        "query": "Solformørkelse 2024",
+        "hover_text": "Solformørkelse 2024",
+        "share_text": "Solformørkelse 2024 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Volledige zonsverduistering 2024",
+        "hover_text": "Volledige zonsverduistering 2024",
+        "share_text": "De volledige zonsverduistering van 2024! #GoogleDoodle"
+      },
+      "et": {
+        "query": "2024. aasta täielik varjutus",
+        "hover_text": "2024. aasta täielik varjutus",
+        "share_text": "2024. aasta täielik varjutus! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Auringonpimennys 2024",
+        "hover_text": "Auringonpimennys 2024",
+        "share_text": "Auringonpimennys 2024 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Éclipse totale 2024",
+        "hover_text": "Éclipse totale 2024",
+        "share_text": "Éclipse totale 2024! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Éclipse totale 2024",
+        "hover_text": "Éclipse totale 2024",
+        "share_text": "Éclipse totale 2024! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Eclipse total 2024",
+        "hover_text": "Eclipse total 2024",
+        "share_text": "Eclipse total 2024! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "სრული დაბნელება 2024",
+        "hover_text": "სრული დაბნელება 2024",
+        "share_text": "სრული დაბნელება 2024! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Mondfinsternis 2024",
+        "hover_text": "Mondfinsternis 2024",
+        "share_text": "Mondfinsternis 2024 #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ολική έκλειψη Ηλίου 2024",
+        "hover_text": "Ολική έκλειψη Ηλίου 2024",
+        "share_text": "Ολική έκλειψη Ηλίου 2024! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "પૂર્ણ ગ્રહણ 2024",
+        "hover_text": "પૂર્ણ ગ્રહણ 2024",
+        "share_text": "પૂર્ણ ગ્રહણ 2024! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "ליקוי חמה מלא 2024",
+        "hover_text": "ליקוי חמה מלא 2024",
+        "share_text": "ליקוי חמה מלא 2024 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "पूर्ण सूर्यग्रहण 2024",
+        "hover_text": "पूर्ण सूर्यग्रहण 2024",
+        "share_text": "पूर्ण सूर्यग्रहण 2024! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Teljes napfogyatkozás, 2024",
+        "hover_text": "Teljes napfogyatkozás, 2024",
+        "share_text": "Teljes napfogyatkozás 2024-ben #GoogleDoodle"
+      },
+      "is": {
+        "query": "Almyrkvi 2024",
+        "hover_text": "Almyrkvi 2024",
+        "share_text": "Almyrkvi 2024! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Gerhana Matahari Total 2024",
+        "hover_text": "Gerhana Matahari Total 2024",
+        "share_text": "Gerhana Matahari Total 2024 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Eclissi totale 2024",
+        "hover_text": "Eclissi totale 2024",
+        "share_text": "Eclissi totale 2024! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "2024 年皆既食",
+        "hover_text": "2024 年皆既食",
+        "share_text": "2024 年皆既食！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಖಗ್ರಾಸ ಗ್ರಹಣ 2024",
+        "hover_text": "ಖಗ್ರಾಸ ಗ್ರಹಣ 2024",
+        "share_text": "ಖಗ್ರಾಸ ಗ್ರಹಣ 2024! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Толық тұтылу – 2024",
+        "hover_text": "Толық тұтылу – 2024",
+        "share_text": "Толық тұтылу – 2024 #GoogleDoodle"
+      },
+      "km": {
+        "query": "សូរ្យគ្រាសពេញឆ្នាំ 2024",
+        "hover_text": "សូរ្យគ្រាសពេញឆ្នាំ 2024",
+        "share_text": "សូរ្យគ្រាសពេញឆ្នាំ 2024! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "2024년 개기일식",
+        "hover_text": "2024년 개기일식",
+        "share_text": "2024년 개기일식 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Күндүн толук тутулушу – 2024",
+        "hover_text": "Күндүн толук тутулушу – 2024",
+        "share_text": "Күндүн толук тутулушу – 2024! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ສຸລິຍະຄາດເຕັມດວງປີ 2024",
+        "hover_text": "ສຸລິຍະຄາດເຕັມດວງປີ 2024",
+        "share_text": "ສຸລິຍະຄາດເຕັມດວງປີ 2024! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Eclipse Total 2024",
+        "hover_text": "Eclipse Total 2024",
+        "share_text": "Eclipse total 2024! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Pilns aptumsums — 2024",
+        "hover_text": "Pilns aptumsums — 2024",
+        "share_text": "Pilns aptumsums — 2024! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "2024 m. visiškas saulės užtemimas",
+        "hover_text": "2024 m. visiškas saulės užtemimas",
+        "share_text": "2024 m. visiškas saulės užtemimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Целосно затемнување на Сонцето, 2024 г.",
+        "hover_text": "Целосно затемнување на Сонцето, 2024 г.",
+        "share_text": "Целосно затемнување на Сонцето, 2024 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Gerhana Penuh 2024",
+        "hover_text": "Gerhana Penuh 2024",
+        "share_text": "Gerhana Penuh 2024! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "പൂർണ ഗ്രഹണം 2024",
+        "hover_text": "പൂർണ ഗ്രഹണം 2024",
+        "share_text": "പൂർണ ഗ്രഹണം 2024! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "खग्रास सूर्यग्रहण २०२४",
+        "hover_text": "खग्रास सूर्यग्रहण २०२४",
+        "share_text": "खग्रास सूर्यग्रहण २०२४! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "2024 оны бүрэн хиртэлт",
+        "hover_text": "2024 оны бүрэн хиртэлт",
+        "share_text": "2024 оны бүрэн хиртэлт! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "खग्रास सूर्य ग्रहण २०२४",
+        "hover_text": "खग्रास सूर्य ग्रहण २०२४",
+        "share_text": "खग्रास सूर्य ग्रहण २०२४! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Total formørkelse 2024",
+        "hover_text": "Total formørkelse 2024",
+        "share_text": "Total formørkelse 2024! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "خورشیدگرفتگی کامل ۲۰۲۴",
+        "hover_text": "خورشیدگرفتگی کامل ۲۰۲۴",
+        "share_text": "خورشیدگرفتگی کامل ۲۰۲۴! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Całkowite zaćmienie 2024",
+        "hover_text": "Całkowite zaćmienie 2024",
+        "share_text": "Całkowite zaćmienie 2024 #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Eclipse total 2024",
+        "hover_text": "Eclipse total 2024",
+        "share_text": "Eclipse total 2024 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Eclipse Total de 2024",
+        "hover_text": "Eclipse Total de 2024",
+        "share_text": "Eclipse Total de 2024! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਪੂਰਨ ਗ੍ਰਹਿਣ 2024",
+        "hover_text": "ਪੂਰਨ ਗ੍ਰਹਿਣ 2024",
+        "share_text": "ਪੂਰਨ ਗ੍ਰਹਿਣ 2024! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Eclipsa totală 2024",
+        "hover_text": "Eclipsa totală 2024",
+        "share_text": "Eclipsa totală 2024! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Полное солнечное затмение – 2024",
+        "hover_text": "Полное солнечное затмение – 2024",
+        "share_text": "Полное солнечное затмение –2024 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Потпуно помрачење 2024.",
+        "hover_text": "Потпуно помрачење 2024.",
+        "share_text": "Потпуно помрачење 2024! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Potpuno pomračenje 2024.",
+        "hover_text": "Potpuno pomračenje 2024.",
+        "share_text": "Potpuno pomračenje 2024! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "පූර්ණ සූර්යග්‍රහණය 2024",
+        "hover_text": "පූර්ණ සූර්යග්‍රහණය 2024",
+        "share_text": "පූර්ණ සූර්යග්‍රහණය 2024! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Úplné zatmenie 2024",
+        "hover_text": "Úplné zatmenie 2024",
+        "share_text": "Úplné zatmenie 2024. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Popoln mrk 2024",
+        "hover_text": "Popoln mrk 2024",
+        "share_text": "Popoln mrk 2024! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Eclipse Total del 2024",
+        "hover_text": "Eclipse total del 2024",
+        "share_text": "Hoy es el eclipse total del 2024 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Kupatwa Kabisa kwa Jua 2024",
+        "hover_text": "Siku ya Kupatwa Kabisa kwa Jua 2024",
+        "share_text": "Siku ya Kupatwa Kabisa kwa Jua 2024! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Solförmörkelsen 2024",
+        "hover_text": "Solförmörkelsen 2024",
+        "share_text": "Solförmörkelsen 2024 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "முழுச் சூரிய கிரகணம் 2024",
+        "hover_text": "முழுச் சூரிய கிரகணம் 2024",
+        "share_text": "முழுச் சூரிய கிரகணம் 2024! #GoogleDoodle"
+      },
+      "te": {
+        "query": "సంపూర్ణ గ్రహణం 2024",
+        "hover_text": "సంపూర్ణ గ్రహణం 2024",
+        "share_text": "సంపూర్ణ గ్రహణం 2024! #GoogleDoodle"
+      },
+      "th": {
+        "query": "สุริยุปราคาเต็มดวงปี 2024",
+        "hover_text": "สุริยุปราคาเต็มดวงปี 2024",
+        "share_text": "สุริยุปราคาเต็มดวงปี 2024 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "2024 Tam Güneş Tutulması",
+        "hover_text": "2024 Tam Güneş Tutulması",
+        "share_text": "2024 Tam Güneş Tutulması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Повне сонячне затемнення у 2024 році",
+        "hover_text": "Повне сонячне затемнення у 2024 році",
+        "share_text": "Повне сонячне затемнення у 2024 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "مکمل سورج گرہن 2024",
+        "hover_text": "مکمل سورج گرہن 2024",
+        "share_text": "مکمل سورج گرہن 2024! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Toʻliq tutilish 2024",
+        "hover_text": "Toʻliq tutilish 2024",
+        "share_text": "Toʻliq tutilish 2024! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Nhật thực toàn phần năm 2024",
+        "hover_text": "Nhật thực toàn phần năm 2024",
+        "share_text": "Nhật thực toàn phần năm 2024! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "I-Eclipse Ephelele yango-2024",
+        "hover_text": "I-Eclipse Ephelele yango-2024",
+        "share_text": "I-Eclipse Ephelele yango-2024! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Total Eclipse 2024",
+    "share_text": "Total Eclipse 2024! #GoogleDoodle"
+  },
+  {
     "name": "francis-garcias-66th-birthday",
     "title": "Francis García's 66th Birthday",
     "url": "//www.google.com/logos/doodles/2024/francis-garcias-66th-birthday-6753651837110209.4-l.png",
