@@ -1,5 +1,504 @@
 [
   {
+    "name": "south-korea-legislative-elections-2024",
+    "title": "South Korea Legislative Elections 2024",
+    "url": "//www.google.com/logos/doodles/2024/temp-south-korea-legislative-elections-2024-6753651837110483-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/HuPOM7CNZALPQ6NoC8VDH0petdDrasyaevqpcl1u-DMOxYjBVDt8TV2H83SHaHWa7nYXT7BKwsaOKU84IqVboZ63dr6JGPC0ISlmWiikr3HEOm5Taw62DQ",
+    "high_res_url": "//www.google.com/logos/doodles/2024/temp-south-korea-legislative-elections-2024-6753651837110483-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      4,
+      10
+    ],
+    "translations": {
+      "en": {
+        "query": "South Korea Legislative Elections 2024",
+        "hover_text": "South Korea Legislative Elections 2024",
+        "share_text": "South Korea Legislative Elections 2024! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Suid-Korea se wetgewende verkiesing 2024",
+        "hover_text": "Suid-Korea se wetgewende verkiesing 2024",
+        "share_text": "Suid-Korea se wetgewende verkiesing 2024! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Zgjedhjet legjislative në Korenë e Jugut, 2024",
+        "hover_text": "Zgjedhjet legjislative në Korenë e Jugut, 2024",
+        "share_text": "Zgjedhjet legjislative në Korenë e Jugut, 2024! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የደቡብ ኮሪያ የሕግ አውጪ ምርጫዎች 2024",
+        "hover_text": "የደቡብ ኮሪያ የሕግ አውጪ ምርጫዎች 2024",
+        "share_text": "የደቡብ ኮሪያ የሕግ አውጪ ምርጫዎች 2024! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "الانتخابات التشريعية في كوريا الجنوبية 2024",
+        "hover_text": "الانتخابات التشريعية في كوريا الجنوبية 2024",
+        "share_text": "انطلقت الانتخابات التشريعية في كوريا الجنوبية لعام 2024. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Հարավային Կորեայի խորհրդարանական ընտրություններ 2024",
+        "hover_text": "Հարավային Կորեայի խորհրդարանական ընտրություններ 2024",
+        "share_text": "Հարավային Կորեայի խորհրդարանական ընտրություններ 2024 #GoogleDoodle"
+      },
+      "az": {
+        "query": "2024 Cənubi Koreya Qanunvericilik Seçkiləri",
+        "hover_text": "2024 Cənubi Koreya Qanunvericilik Seçkiləri",
+        "share_text": "2024 Cənubi Koreya Qanunvericilik Seçkiləri! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "দক্ষিণ কোরিয়ার আইন পরিষদীয় নির্বাচন ২০২৪",
+        "hover_text": "দক্ষিণ কোরিয়ার আইন পরিষদীয় নির্বাচন ২০২৪",
+        "share_text": "দক্ষিণ কোরিয়ার আইন পরিষদীয় নির্বাচন ২০২৪! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "2024ko Hego Koreako hauteskunde legegileak",
+        "hover_text": "2024ko Hego Koreako hauteskunde legegileak",
+        "share_text": "2024ko Hego Koreako hauteskunde legegileak #GoogleDoodle"
+      },
+      "be": {
+        "query": "Выбары ў заканадаўчы орган Паўднёвай Карэі 2024",
+        "hover_text": "Выбары ў заканадаўчы орган Паўднёвай Карэі 2024",
+        "share_text": "Выбары ў заканадаўчы орган Паўднёвай Карэі 2024! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Parlamentarni izbori u Južnoj Koreji 2024.",
+        "hover_text": "Parlamentarni izbori u Južnoj Koreji 2024.",
+        "share_text": "Parlamentarni izbori u Južnoj Koreji 2024! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "South Korea legislative elections 2024",
+        "hover_text": "South Korea legislative elections 2024",
+        "share_text": "South Korea legislative elections 2024! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Парламентарни избори в Южна Корея 2024 г.",
+        "hover_text": "Парламентарни избори в Южна Корея 2024 г.",
+        "share_text": "Парламентарни избори в Южна Корея 2024 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "၂၀၂၄ တောင်ကိုရီးယား ဥပဒေပြုရွေးကောက်ပွဲများ",
+        "hover_text": "၂၀၂၄ တောင်ကိုရီးယား ဥပဒေပြုရွေးကောက်ပွဲများ",
+        "share_text": "၂၀၂၄ တောင်ကိုရီးယား ဥပဒေပြုရွေးကောက်ပွဲများ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Eleccions legislatives a Corea del Sud 2024",
+        "hover_text": "Eleccions legislatives a Corea del Sud 2024",
+        "share_text": "Eleccions legislatives a Corea del Sud 2024 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "2024 年南韓國會選舉",
+        "hover_text": "2024 年南韓國會選舉",
+        "share_text": "2024 年南韓國會選舉！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "2024 年大韓民國國會選舉",
+        "hover_text": "2024 年大韓民國國會選舉",
+        "share_text": "2024 年大韓民國國會選舉登場！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "2024 年韩国国会议员选举",
+        "hover_text": "2024 年韩国国会议员选举",
+        "share_text": "2024 年韩国国会议员选举！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Parlamentarni izbori u Južnoj Koreji 2024.",
+        "hover_text": "Parlamentarni izbori u Južnoj Koreji 2024.",
+        "share_text": "Parlamentarni izbori u Južnoj Koreji 2024.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Jihokorejské parlamentní volby 2024",
+        "hover_text": "Jihokorejské parlamentní volby 2024",
+        "share_text": "Jihokorejské parlamentní volby 2024! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Parlamentsvalg i Sydkorea 2024",
+        "hover_text": "Parlamentsvalg i Sydkorea 2024",
+        "share_text": "Parlamentsvalg i Sydkorea 2024 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Parlementsverkiezingen Zuid-Korea 2024",
+        "hover_text": "Parlementsverkiezingen Zuid-Korea 2024",
+        "share_text": "De parlementsverkiezingen in Zuid-Korea 2024! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Lõuna-Korea 2024. aasta parlamendivalimised",
+        "hover_text": "Lõuna-Korea 2024. aasta parlamendivalimised",
+        "share_text": "Lõuna-Korea 2024. aasta parlamendivalimised! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Etelä-Korean parlamenttivaalit 2024",
+        "hover_text": "Etelä-Korean parlamenttivaalit 2024",
+        "share_text": "Etelä-Korean parlamenttivaalit 2024 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Élections législatives 2024 en Corée du Sud",
+        "hover_text": "Élections législatives 2024 en Corée du Sud",
+        "share_text": "Élections législatives 2024 en Corée du Sud ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Élections législatives de 2024 en Corée du Sud",
+        "hover_text": "Élections législatives de 2024 en Corée du Sud",
+        "share_text": "Élections législatives de 2024 en Corée du Sud! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Eleccións lexislativas de Corea do Sur 2024",
+        "hover_text": "Eleccións lexislativas de Corea do Sur 2024",
+        "share_text": "Eleccións lexislativas de Corea do Sur 2024! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "სამხრეთ კორეის არჩევნები საკანონმდებლო ორგანოში — 2024",
+        "hover_text": "სამხრეთ კორეის არჩევნები საკანონმდებლო ორგანოში — 2024",
+        "share_text": "სამხრეთ კორეის არჩევნები საკანონმდებლო ორგანოში — 2024! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Parlamentswahl in Südkorea 2024",
+        "hover_text": "Parlamentswahl in Südkorea 2024",
+        "share_text": "Parlamentswahl in Südkorea 2024! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Βουλευτικές εκλογές στη Νότια Κορέα 2024",
+        "hover_text": "Βουλευτικές εκλογές στη Νότια Κορέα 2024",
+        "share_text": "Βουλευτικές εκλογές στη Νότια Κορέα 2024! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "દક્ષિણ કોરિયાની વિધાનસભાની ચૂંટણીઓ 2024",
+        "hover_text": "દક્ષિણ કોરિયાની વિધાનસભાની ચૂંટણીઓ 2024",
+        "share_text": "દક્ષિણ કોરિયાની વિધાનસભાની ચૂંટણીઓ 2024! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "הבחירות בקוריאה הדרומית 2024",
+        "hover_text": "הבחירות בקוריאה הדרומית 2024",
+        "share_text": "הבחירות בקוריאה הדרומית 2024 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "साउथ कोरिया के आम चुनाव 2024",
+        "hover_text": "साउथ कोरिया के आम चुनाव 2024",
+        "share_text": "साउथ कोरिया के आम चुनाव 2024! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "2024-es országgyűlési választások Dél-Korában",
+        "hover_text": "2024-es országgyűlési választások Dél-Korában",
+        "share_text": "2024-es országgyűlési választások Dél-Korában. #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þingkosningar í Suður-Kóreu 2024",
+        "hover_text": "Þingkosningar í Suður-Kóreu 2024",
+        "share_text": "Þingkosningar í Suður-Kóreu 2024! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Pemilu Legislatif Korea Selatan 2024",
+        "hover_text": "Pemilu Legislatif Korea Selatan 2024",
+        "share_text": "Pemilu Legislatif Korea Selatan 2024 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Elezioni legislative 2024 in Corea del Sud",
+        "hover_text": "Elezioni legislative 2024 in Corea del Sud",
+        "share_text": "Elezioni legislative 2024 in Corea del Sud! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "2024 年韓国議会選挙",
+        "hover_text": "2024 年韓国議会選挙",
+        "share_text": "2024 年韓国議会選挙！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ದಕ್ಷಿಣ ಕೊರಿಯಾ ಶಾಸಕಾಂಗೀಯ ಚುನಾವಣೆಗಳು 2024",
+        "hover_text": "ದಕ್ಷಿಣ ಕೊರಿಯಾ ಶಾಸಕಾಂಗೀಯ ಚುನಾವಣೆಗಳು 2024",
+        "share_text": "ದಕ್ಷಿಣ ಕೊರಿಯಾ ಶಾಸಕಾಂಗೀಯ ಚುನಾವಣೆಗಳು 2024! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Оңтүстік Кореядағы заң шығарушы органдар сайлауы – 2024",
+        "hover_text": "Оңтүстік Кореядағы заң шығарушы органдар сайлауы – 2024",
+        "share_text": "Оңтүстік Кореядағы заң шығарушы органдар сайлауы – 2024! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការបោះឆ្នោតរបស់អង្គនីតិប្បញ្ញតិ្តកូរ៉េខាងត្បូងឆ្នាំ 2024",
+        "hover_text": "ការបោះឆ្នោតរបស់អង្គនីតិប្បញ្ញតិ្តកូរ៉េខាងត្បូងឆ្នាំ 2024",
+        "share_text": "ការបោះឆ្នោតរបស់អង្គនីតិប្បញ្ញតិ្តកូរ៉េខាងត្បូងឆ្នាំ 2024! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "2024년 대한민국 총선",
+        "hover_text": "2024년 대한민국 총선",
+        "share_text": "2024년 대한민국 총선 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Түштүк Кореяда мыйзам чыгаруу органдарына шайлоо – 2024",
+        "hover_text": "Түштүк Кореяда мыйзам чыгаруу органдарына шайлоо – 2024",
+        "share_text": "Түштүк Кореяда мыйзам чыгаруу органдарына шайлоо – 2024! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ການເລືອກຕັ້ງສະພານິຕິບັນຍັດຂອງເກົາຫຼີໃຕ້ 2024",
+        "hover_text": "ການເລືອກຕັ້ງສະພານິຕິບັນຍັດຂອງເກົາຫຼີໃຕ້ 2024",
+        "share_text": "ການເລືອກຕັ້ງສະພານິຕິບັນຍັດຂອງເກົາຫຼີໃຕ້ 2024! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Elecciones legislativas de Corea del Sur 2024",
+        "hover_text": "Elecciones legislativas de Corea del Sur 2024",
+        "share_text": "Elecciones legislativas de Corea del Sur 2024 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Likumdevēja vēlēšanas Dienvidkorejā — 2024",
+        "hover_text": "Likumdevēja vēlēšanas Dienvidkorejā — 2024",
+        "share_text": "Likumdevēja vēlēšanas Dienvidkorejā — 2024! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Pietų Korėjos 2024 m. leidžiamosios valdžios rinkimai",
+        "hover_text": "Pietų Korėjos 2024 m. leidžiamosios valdžios rinkimai",
+        "share_text": "Pietų Korėjos 2024 m. leidžiamosios valdžios rinkimai! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Парламентарни избори во Јужна Кореја, 2024 г.",
+        "hover_text": "Парламентарни избори во Јужна Кореја, 2024 г.",
+        "share_text": "Парламентарни избори во Јужна Кореја, 2024 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Pilihan Raya Perundangan Korea Selatan 2024",
+        "hover_text": "Pilihan Raya Perundangan Korea Selatan 2024",
+        "share_text": "Pilihan Raya Perundangan Korea Selatan 2024! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ദക്ഷിണ കൊറിയൻ നിയമസഭാ തിരഞ്ഞെടുപ്പ് 2024",
+        "hover_text": "ദക്ഷിണ കൊറിയൻ നിയമസഭാ തിരഞ്ഞെടുപ്പ് 2024",
+        "share_text": "ദക്ഷിണ കൊറിയൻ നിയമസഭാ തിരഞ്ഞെടുപ്പ് 2024! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "दक्षिण कोरियाच्या विधान परिषदेच्या निवडणुका २०२४",
+        "hover_text": "दक्षिण कोरियाच्या विधान परिषदेच्या निवडणुका २०२४",
+        "share_text": "दक्षिण कोरियाच्या विधान परिषदेच्या निवडणुका २०२४! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "2024 оны Өмнөд Солонгосын парламентын сонгууль",
+        "hover_text": "2024 оны Өмнөд Солонгосын парламентын сонгууль",
+        "share_text": "2024 оны Өмнөд Солонгосын парламентын сонгууль! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "दक्षिण कोरियाको व्यवस्थापिकाको निर्वाचन २०२४",
+        "hover_text": "दक्षिण कोरियाको व्यवस्थापिकाको निर्वाचन २०२४",
+        "share_text": "दक्षिण कोरियाको व्यवस्थापिकाको निर्वाचन २०२४! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Parlamentsvalget i Sør-Korea 2024",
+        "hover_text": "Parlamentsvalget i Sør-Korea 2024",
+        "share_text": "Parlamentsvalget i Sør-Korea 2024! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "انتخابات پارلمانی کره جنوبی - ۲۰۲۴",
+        "hover_text": "انتخابات پارلمانی کره جنوبی - ۲۰۲۴",
+        "share_text": "انتخابات پارلمانی کره جنوبی - ۲۰۲۴! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Wybory do Zgromadzenia Narodowego 2024 w Korei Południowej",
+        "hover_text": "Wybory do Zgromadzenia Narodowego 2024 w Korei Południowej",
+        "share_text": "Wybory do Zgromadzenia Narodowego 2024 w Korei Południowej #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Eleições legislativas da Coreia do Sul 2024",
+        "hover_text": "Eleições legislativas da Coreia do Sul 2024",
+        "share_text": "Eleições legislativas da Coreia do Sul 2024 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Eleições Legislativas da Coreia do Sul de 2024",
+        "hover_text": "Eleições Legislativas da Coreia do Sul de 2024",
+        "share_text": "Eleições Legislativas da Coreia do Sul de 2024! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਦੱਖਣੀ ਕੋਰੀਆ ਦੀਆਂ ਵਿਧਾਨ ਸਭਾ ਚੋਣਾਂ 2024",
+        "hover_text": "ਦੱਖਣੀ ਕੋਰੀਆ ਦੀਆਂ ਵਿਧਾਨ ਸਭਾ ਚੋਣਾਂ 2024",
+        "share_text": "ਦੱਖਣੀ ਕੋਰੀਆ ਦੀਆਂ ਵਿਧਾਨ ਸਭਾ ਚੋਣਾਂ 2024! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Alegeri legislative în Coreea de Sud – 2024",
+        "hover_text": "Alegeri legislative în Coreea de Sud – 2024",
+        "share_text": "Alegeri legislative în Coreea de Sud – 2024! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Парламентские выборы в Южной Корее – 2024",
+        "hover_text": "Парламентские выборы в Южной Корее – 2024",
+        "share_text": "Парламентские выборы в Южной Корее – 2024 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Парламентарни избори у Јужној Кореји 2024.",
+        "hover_text": "Парламентарни избори у Јужној Кореји 2024.",
+        "share_text": "Парламентарни избори у Јужној Кореји 2024! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Parlamentarni izbori u Južnoj Koreji 2024.",
+        "hover_text": "Parlamentarni izbori u Južnoj Koreji 2024.",
+        "share_text": "Parlamentarni izbori u Južnoj Koreji 2024! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "දකුණු කොරියානු ව්‍යවස්ථාදායක මැතිවරණය 2024",
+        "hover_text": "දකුණු කොරියානු ව්‍යවස්ථාදායක මැතිවරණය 2024",
+        "share_text": "දකුණු කොරියානු ව්‍යවස්ථාදායක මැතිවරණය 2024! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Juhokórejské voľby do zákonodarného orgánu 2024",
+        "hover_text": "Juhokórejské voľby do zákonodarného orgánu 2024",
+        "share_text": "Juhokórejské voľby do zákonodarného orgánu 2024 #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Parlamentarne volitve v Južni Koreji 2024",
+        "hover_text": "Parlamentarne volitve v Južni Koreji 2024",
+        "share_text": "Parlamentarne volitve v Južni Koreji 2024! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Elecciones legislativas de Corea del Sur 2024",
+        "hover_text": "Elecciones legislativas de Corea del Sur 2024",
+        "share_text": "Elecciones legislativas de Corea del Sur 2024 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Uchaguzi wa Wabunge Korea Kusini 2024",
+        "hover_text": "Uchaguzi wa Wabunge Korea Kusini 2024",
+        "share_text": "Uchaguzi wa Wabunge Korea Kusini 2024! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Val till Sydkoreas lagstiftande församling 2024",
+        "hover_text": "Val till Sydkoreas lagstiftande församling 2024",
+        "share_text": "Val till Sydkoreas lagstiftande församling 2024 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "தென் கொரிய சட்டமன்றத் தேர்தல்கள் 2024",
+        "hover_text": "தென் கொரிய சட்டமன்றத் தேர்தல்கள் 2024",
+        "share_text": "தென் கொரிய சட்டமன்றத் தேர்தல்கள் 2024! #GoogleDoodle"
+      },
+      "te": {
+        "query": "దక్షిణ కొరియా శాసనసభ ఎన్నికలు 2024",
+        "hover_text": "దక్షిణ కొరియా శాసనసభ ఎన్నికలు 2024",
+        "share_text": "దక్షిణ కొరియా శాసనసభ ఎన్నికలు 2024! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันเลือกตั้งฝ่ายนิติบัญญัติของเกาหลีใต้ปี 2024",
+        "hover_text": "วันเลือกตั้งฝ่ายนิติบัญญัติของเกาหลีใต้ปี 2024",
+        "share_text": "วันเลือกตั้งฝ่ายนิติบัญญัติของเกาหลีใต้ปี 2024 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "2024 Güney Kore Parlamento Seçimleri",
+        "hover_text": "2024 Güney Kore Parlamento Seçimleri",
+        "share_text": "2024 Güney Kore Parlamento Seçimleri. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Парламентські вибори в Республіці Корея у 2024 році",
+        "hover_text": "Парламентські вибори в Республіці Корея у 2024 році",
+        "share_text": "Парламентські вибори в Республіці Корея у 2024 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "جنوبی کوریا کے قانون ساز انتخابات 2024",
+        "hover_text": "جنوبی کوریا کے قانون ساز انتخابات 2024",
+        "share_text": "جنوبی کوریا کے قانون ساز انتخابات 2024! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Janubiy Koreyada qonun chiqaruvchi organlarga saylov 2024",
+        "hover_text": "Janubiy Koreyada qonun chiqaruvchi organlarga saylov 2024",
+        "share_text": "Janubiy Koreyada qonun chiqaruvchi organlarga saylov 2024! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Bầu cử Quốc hội Hàn Quốc năm 2024",
+        "hover_text": "Bầu cử Quốc hội Hàn Quốc năm 2024",
+        "share_text": "Bầu cử Quốc hội Hàn Quốc năm 2024! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ukhetho Lwezomthetho lwaseSouth Korea lwango-2024",
+        "hover_text": "Ukhetho Lwezomthetho lwaseSouth Korea lwango-2024",
+        "share_text": "Ukhetho Lwezomthetho lwaseSouth Korea lwango-2024! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "South Korea Legislative Elections 2024",
+    "share_text": "South Korea Legislative Elections 2024! #GoogleDoodle"
+  },
+  {
     "name": "solar-eclipse-2024",
     "title": "Solar Eclipse 2024",
     "url": "//www.google.com/logos/doodles/2024/solar-eclipse-2024-6753651837110497-law.gif",
