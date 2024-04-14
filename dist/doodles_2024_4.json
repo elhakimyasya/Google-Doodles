@@ -1,5 +1,1003 @@
 [
   {
+    "name": "teachers-day-2024-apr-13",
+    "title": "Teachers' Day 2024 (Apr 13)",
+    "url": "//www.google.com/logos/doodles/2024/teachers-day-2024-apr-13-6753651837110416-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/hH3boRQsHic3I6cSg7FXuCnfnjC65QAgjR1LHCaGEiwFsbrUibGIIuvkn_uIPsG_DxOQ9SIhofbnYMFAF4F879PI_CBO7WBM_QOt_wuUoj47VcgMY-IDxw",
+    "high_res_url": "//www.google.com/logos/doodles/2024/teachers-day-2024-apr-13-6753651837110416-2xa.gif",
+    "high_res_width": 920,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      4,
+      13
+    ],
+    "translations": {
+      "en": {
+        "query": "Teachers' Day",
+        "hover_text": "Teachers' Day 2024 (Apr 13) 2024",
+        "share_text": "Happy Teachers' Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Onderwysersdag",
+        "hover_text": "Onderwysersdag 2024 (13 Apr.) 2024",
+        "share_text": "Gelukkige Onderwysersdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Mësuesit 2019",
+        "hover_text": "Dita e Mësuesit, 2024 (13 prill) 2024",
+        "share_text": "Gëzuar Ditën e Mësuesit! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአስተማሪዎች ቀን",
+        "hover_text": "የመምህራን ቀን 2024 (ኤፕሪል 13) 2024",
+        "share_text": "መልካም የአስተማሪዎች ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "يوم المعلِّم",
+        "hover_text": "عيد المعلّم 2024 (13 نيسان/أبريل)",
+        "share_text": "نتمنّى عيدًا سعيدًا للمعلّمين. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ուսուցչի օր",
+        "hover_text": "Ուսուցիչների օր 2024 (ապրիլի 13)",
+        "share_text": "Շնորհավո՛ր ուսուցիչների օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Müəllimlər Günü",
+        "hover_text": "2024 Müəllimlər Günü (13 aprel) 2024",
+        "share_text": "Müəllimlər Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "শিক্ষক দিবস",
+        "hover_text": "শিক্ষক দিবস ২০২৪ (এপ্রিল ১৩)",
+        "share_text": "শিক্ষক দিবসের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Irakasleen Eguna",
+        "hover_text": "2024ko Irakasleen Eguna (apirilaren 13a)",
+        "share_text": "Irakasleen Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень настаўніка",
+        "hover_text": "Дзень настаўніка – 2024 (13 красавіка)",
+        "share_text": "З Днём настаўніка! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nastavnika",
+        "hover_text": "Dan nastavnika 2024. (13. apr 2024)",
+        "share_text": "Sretan Dan nastavnika! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Teachers' Day",
+        "hover_text": "Teachers' Day 2024 (13 April) 2024",
+        "share_text": "Happy Teachers' Day! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на учителя",
+        "hover_text": "Ден на учителите 2024 г. (13 април)",
+        "share_text": "Честит Ден на учителя! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဆရာများနေ့",
+        "hover_text": "၂၀၂၄ ဆရာများနေ့ (၁၃ ဧပြီ) ၂၀၂၄",
+        "share_text": "ပျော်ရွှင်ဖွယ် ဆရာများနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia del Mestre",
+        "hover_text": "Dia del Mestre 2024 (13 d'abril) 2024",
+        "share_text": "Feliç Dia del Mestre! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "教師日",
+        "hover_text": "2024 年教師日 (4 月 13 日)",
+        "share_text": "教師日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "教師節",
+        "hover_text": "2024 年教師節 (4 月 13 日)",
+        "share_text": "教師節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "教师节",
+        "hover_text": "2024 年教师节（4 月 13 日）",
+        "share_text": "教师节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan učitelja",
+        "hover_text": "Dan učitelja (13. travnja) 2024.",
+        "share_text": "Sretan Dan učitelja! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den učitelů",
+        "hover_text": "Den učitelů 2024 (13. dubna)",
+        "share_text": "Veselý Den učitelů! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Lærernes dag",
+        "hover_text": "Lærernes dag (13. april) 2024",
+        "share_text": "Glædelig lærernes dag! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Lerarendag",
+        "hover_text": "Lerarendag 2024 (13 april)",
+        "share_text": "Fijne Lerarendag! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Õpetajate päev",
+        "hover_text": "2024. aasta õpetajate päev (13. aprill)",
+        "share_text": "Head õpetajatepäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Opettajien päivä",
+        "hover_text": "Opettajien päivä 2024 (13.4.)",
+        "share_text": "Hyvää opettajien päivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Journée des professeurs",
+        "hover_text": "Fête des professeurs 2024 (13 avril)",
+        "share_text": "Bonne fête des professeurs ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête des professeurs",
+        "hover_text": "Journée des enseignantes et des enseignants 2024 (13 avril)",
+        "share_text": "Joyeuse fête des enseignants! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día do Mestre",
+        "hover_text": "Día do Mestre 2024 (13 de abril)",
+        "share_text": "Feliz Día do Mestre! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მასწავლებლის დღე",
+        "hover_text": "მასწავლებლის დღე 2024 (13 აპრილი) 2024",
+        "share_text": "გილოცავთ მასწავლებლის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Lehrertag",
+        "hover_text": "Tag der Lehrkräfte 2024 (13. April) 2024",
+        "share_text": "Alles Gute zum Tag der Lehrer! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα των Εκπαιδευτικών",
+        "hover_text": "Ημέρα των Εκπαιδευτικών (13 Απριλίου) 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα των Εκπαιδευτικών! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "શિક્ષક દિવસ",
+        "hover_text": "શિક્ષક દિન 2024 (13 એપ્રિલ) 2024",
+        "share_text": "શિક્ષક દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום המורים",
+        "hover_text": "יום המורה 2024 (13 באפריל)",
+        "share_text": "יום המורה שמח! ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "शिक्षक दिवस",
+        "hover_text": "शिक्षक दिवस 2024 (13 अप्रैल)",
+        "share_text": "शिक्षक दिवस की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Pedagógusnap",
+        "hover_text": "Pedagógusnap, 2024 (április 13.)",
+        "share_text": "Boldog pedagógusnapot! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Kennaradagurinn",
+        "hover_text": "Kennaradagurinn 2024 (13. apr.) 2024",
+        "share_text": "Gleðilegan kennaradag! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Guru",
+        "hover_text": "Hari Guru 2024 (13 April)",
+        "share_text": "Selamat Hari Guru! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá na Múinteoirí",
+        "hover_text": null,
+        "share_text": "Lá na Múinteoirí faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa degli insegnanti",
+        "hover_text": "Giornata degli insegnanti 2024 (13 aprile)",
+        "share_text": "Buona festa degli insegnanti! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "教師の日",
+        "hover_text": "2024 年教師の日（4 月 13 日）",
+        "share_text": "教師の日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಶಿಕ್ಷಕರ ದಿನಾಚರಣೆ",
+        "hover_text": "ಶಿಕ್ಷಕರ ದಿನಾಚರಣೆ 2024 (ಏಪ್ರಿಲ್ 13) 2024",
+        "share_text": "ಶಿಕ್ಷಕರ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Мұғалімдер күні",
+        "hover_text": "Мұғалімдер күні – 2024 (13 сәуір)",
+        "share_text": "Мұғалімдер күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​គ្រូបង្រៀន",
+        "hover_text": "ទិវាគ្រូបង្រៀនឆ្នាំ 2024 (ថ្ងៃទី 13 ខែមេសា) ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​គ្រូបង្រៀន! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "스승의 날",
+        "hover_text": "2024년 선생님의 날(4월 13일)",
+        "share_text": "스승의 날 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Мугалимдер күнү",
+        "hover_text": "Мугалимдер күнү (13-апрель) – 2024",
+        "share_text": "Мугалимдер күнүңүз менен! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຄູ",
+        "hover_text": "ວັນຄູ (13 ເມສາ) 2024",
+        "share_text": "ສຸກສັນວັນຄູ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día del Maestro",
+        "hover_text": "Día del Maestro 2024 (13 de abril)",
+        "share_text": "¡Feliz Día del Maestro! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Skolotāju diena",
+        "hover_text": "Skolotāju diena — 2024. gada 13. aprīlis",
+        "share_text": "Sveicam Skolotāju dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Mokytojų diena",
+        "hover_text": "Mokytojų diena, 2024 m. (balandžio 13 d.)",
+        "share_text": "Linksmos Mokytojų dienos! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на наставниците",
+        "hover_text": "Ден на наставниците (13 апр.), 2024 г.",
+        "share_text": "Среќен ден на наставниците! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Andron'ny mpampianatra",
+        "hover_text": null,
+        "share_text": "Tsarà Andron'ny mpampianatra ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Guru",
+        "hover_text": "Hari Guru 2024 (13 April) 2024",
+        "share_text": "Selamat Hari Guru! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "അദ്ധ്യാപകദിനം",
+        "hover_text": "അദ്ധ്യാപക ദിനം 2024 (ഏപ്രിൽ 13)",
+        "share_text": "അദ്ധ്യാപക ദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "शिक्षक दिन",
+        "hover_text": "शिक्षकदिन २०२४ (१३ एप्रिल) २०२४",
+        "share_text": "शिक्षक दिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Багш нарын баяр",
+        "hover_text": "2024 оны Багш нарын баяр (4-р сарын 13)",
+        "share_text": "Багш нарын баярын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "शिक्षक दिवस",
+        "hover_text": "शिक्षक दिवस २०२४ (१३ अप्रिल)",
+        "share_text": "शिक्षक दिवस शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Lærernes dag",
+        "hover_text": "Lærernes dag 2024 (13. april)",
+        "share_text": "Gratulerer med lærernes dag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଗୁରୁ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ଗୁରୁ ଦିବସର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز معلم",
+        "hover_text": "روز معلم ۲۰۲۴ (۱۳ آوریل)",
+        "share_text": "روز معلم مبارک! #GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Nauczyciela",
+        "hover_text": "Dzień Nauczyciela 2024",
+        "share_text": "Szczęśliwego Dnia Nauczyciela! #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia do Professor",
+        "hover_text": "Dia dos Professores 2024 (13 de abril)",
+        "share_text": "Feliz Dia do Professor! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia dos Professores",
+        "hover_text": "Dia dos Professores (13 de abril) de 2024",
+        "share_text": "Feliz dia do professor! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਅਧਿਆਪਕ ਦਿਵਸ",
+        "hover_text": "ਅਧਿਆਪਕ ਦਿਵਸ 2024 (13 ਅਪ੍ਰੈਲ) 2024",
+        "share_text": "ਅਧਿਆਪਕ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua profesorului",
+        "hover_text": "Ziua Profesorilor – 13 aprilie 2024",
+        "share_text": "La mulți ani de Ziua Profesorului! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День учителя",
+        "hover_text": "День учителя – 2024 (13 апреля)",
+        "share_text": "День учителя #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан учитеља",
+        "hover_text": "Дан учитеља 2024. (13. април) 2024.",
+        "share_text": "Срећан Дан учитеља! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan učitelja",
+        "hover_text": "Dan učitelja 2024. (13. april) 2024.",
+        "share_text": "Srećan Dan učitelja! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Ansenyan",
+        "hover_text": null,
+        "share_text": "Bonn fet asennyan! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ගුරු දිනය",
+        "hover_text": "ගුරු දිනය 2024 (අප්‍රේල් 13) 2024",
+        "share_text": "ප්‍රීතිමත් ගුරු දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň učiteľov",
+        "hover_text": "Deň učiteľov 2024 (13. apríl)",
+        "share_text": "Šťastný Deň učiteľov! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan učiteljev",
+        "hover_text": "Dan učiteljev 2024 (13. april)",
+        "share_text": "Vesel dan učiteljev! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Macalimiinta",
+        "hover_text": null,
+        "share_text": "Maalinta Macalinka oo Farxada leh! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Barutis",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Barutisi la 2021! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día del Maestro",
+        "hover_text": "Día de los y las Docentes 2024 (13 de abril)",
+        "share_text": "¡Feliz Día del Maestro! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Walimu",
+        "hover_text": "Siku ya Walimu 2024 (tarehe 13 Aprili)",
+        "share_text": "Heri za Sikukuu ya Walimu! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Lärarnas dag",
+        "hover_text": "Lärarnas dag 2024 (13 april)",
+        "share_text": "Vi firar lärarnas dag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஆசிரியர் தினம்",
+        "hover_text": "ஆசிரியர் தினம் 2024 (ஏப் 13) 2024",
+        "share_text": "ஆசிரியர் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఉపాధ్యాయుల దినోత్సవం",
+        "hover_text": "ఉపాధ్యాయుల దినోత్సవం 2024 (ఏప్రిల్ 13) 2024",
+        "share_text": "ఉపాధ్యాయుల దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันครู",
+        "hover_text": "วันครูปี 2024 (13 เม.ย.)",
+        "share_text": "สุขสันต์วันครู #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Barutabana",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Barutabana! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Öğretmenler Günü",
+        "hover_text": "2024 Öğretmenler Günü (13 Nisan)",
+        "share_text": "Öğretmenler Günü Kutlaması. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День учителя",
+        "hover_text": "День учителя у 2024 році (13 квітня)",
+        "share_text": "З Днем учителя! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم اساتذہ",
+        "hover_text": "یوم اساتذہ 2024 (13 اپریل) 2024",
+        "share_text": "یوم اساتذہ مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Ustozlar kuni",
+        "hover_text": "Oʻqituvchilar kuni 2024 (13-aprel) 2024",
+        "share_text": "Ustozlar kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Nhà giáo",
+        "hover_text": "Ngày Nhà giáo năm 2024 (ngày 13 tháng 4)",
+        "share_text": "Chúc mừng ngày Nhà giáo! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lothisha",
+        "hover_text": "Usuku Lothisha lwango-2024 (13 Ephreli) 2024",
+        "share_text": "Sikufisela Usuku Oluhle Lothisha! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Teachers' Day",
+    "share_text": "Happy Teachers' Day! #GoogleDoodle"
+  },
+  {
+    "name": "celebrating-dr-martha-bernal",
+    "title": "Celebrating Dr. Martha Bernal",
+    "url": "//www.google.com/logos/doodles/2024/celebrating-dr-martha-bernal-6753651837110466.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/yKpUuxd7KviDqZYA_zd2lB-eFdvmAI8GF7tJQYpK90udXMNhR8ijoF9op-h-Cq_TGurcMGFWgEv2wafBGf7Mfr_vHN7PYfbYjsvll9LvoT4rizHO9BcxoA",
+    "high_res_url": "//www.google.com/logos/doodles/2024/celebrating-dr-martha-bernal-6753651837110466.2-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      4,
+      13
+    ],
+    "translations": {
+      "en": {
+        "query": "Dr. Martha Bernal",
+        "hover_text": "Celebrating Dr. Martha Bernal",
+        "share_text": "Celebrating Dr. Martha Bernal! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Dr. Martha Bernal",
+        "hover_text": "Ter viering van dr. Martha Bernal",
+        "share_text": "Ter viering van dr. Martha Bernal! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dr. Martha Bernal",
+        "hover_text": "Përkujtojmë Dr. Martha Bernal",
+        "share_text": "Përkujtojmë Dr. Martha Bernal! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ዶ/ር ማርታ በርናል",
+        "hover_text": "ዶ/ር ማርታ በርናልን በማክበር ላይ",
+        "share_text": "ዶ/ር ማርታ በርናልን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "الدكتورة \"مارثا برنال\"",
+        "hover_text": "نحتفل اليوم بذكرى الدكتورة \"مارثا برنال\"",
+        "share_text": "نحتفل اليوم بذكرى الدكتورة \"مارثا إ. برنال\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Բժիշկ Մարթա Բերնալ",
+        "hover_text": "Տոնե՛նք բժիշկ Մարթա Բերնալի օրը",
+        "share_text": "Տոնե՛նք բժիշկ Մարթա Բերնալի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Dr. Martha Bernal",
+        "hover_text": "Dr. Martha Bernal günü",
+        "share_text": "Dr. Martha Bernal günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ডঃ মার্থা বার্নাল",
+        "hover_text": "ডঃ মার্থা বার্নালের স্মৃতিতে উদযাপন করা হচ্ছে",
+        "share_text": "ডঃ মার্থা বার্নালের স্মৃতিতে উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Martha Bernal doktorea",
+        "hover_text": "Martha Bernal doktorearen omenez",
+        "share_text": "Martha Bernal doktorearen omenez! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Доктар Марта Берналь",
+        "hover_text": "Ушаноўваем доктара Марту Берналь",
+        "share_text": "Ушаноўваем доктара Марту Берналь! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dr. Martha Bernal",
+        "hover_text": "Slavimo dr. Marthu Bernal",
+        "share_text": "Slavimo dr. Marthu Bernal! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Dr Martha Bernal",
+        "hover_text": "Celebrating Dr Martha Bernal",
+        "share_text": "Celebrating Dr Martha Bernal! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Д-р Марта Бернал",
+        "hover_text": "Честване на д-р Марта Бернал",
+        "share_text": "Честване на д-р Марта Бернал! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Dr. Martha Bernal",
+        "hover_text": "Dr. Martha Bernal ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "Dr. Martha Bernal ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dra. Martha Bernal",
+        "hover_text": "Homenatge a la Dra. Martha Bernal",
+        "share_text": "Homenatge a la Dra. Martha Bernal #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Martha Bernal 博士",
+        "hover_text": "紀念 Martha Bernal 博士",
+        "share_text": "紀念 Martha Bernal 博士！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "瑪莎伯納爾博士",
+        "hover_text": "紀念瑪莎伯納爾博士",
+        "share_text": "紀念瑪莎伯納爾博士！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "Martha Bernal 博士",
+        "hover_text": "纪念 Martha Bernal 博士",
+        "share_text": "纪念 Martha Bernal 博士！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dr. Martha E. Bernal",
+        "hover_text": "U čast dr. Marthi E. Bernal",
+        "share_text": "U čast dr. Marthi E. Bernal! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Dr. Martha Bernal",
+        "hover_text": "Pocta dr. Marthě Bernal",
+        "share_text": "Dnes oslavujeme dr. Marthu Bernal! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Dr. Martha Bernal",
+        "hover_text": "Vi hylder Dr. Martha Bernal",
+        "share_text": "Vi hylder Dr. Martha Bernal #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Dr. Martha Bernal",
+        "hover_text": "Doodle ter ere van Dr. Martha Bernal",
+        "share_text": "Doodle ter ere van Dr. Martha Bernal! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Dr Martha Bernal",
+        "hover_text": "Mälestame dr Martha Bernali",
+        "share_text": "Mälestame dr Martha Bernali! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Martha E. Bernal",
+        "hover_text": "Martha E. Bernal",
+        "share_text": "Martha E. Bernal #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Dr Martha E. Bernal",
+        "hover_text": "Hommage au Dr Martha E. Bernal",
+        "share_text": "Hommage au Dr Martha E. Bernal #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Dʳᵉ Martha Bernal",
+        "hover_text": "Célébration de la Dʳᵉ Martha Bernal",
+        "share_text": "Célébration de la Dʳᵉ Martha Bernal! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Doutora Martha E. Bernal",
+        "hover_text": "Homenaxe á doutora Martha E. Bernal",
+        "share_text": "Homenaxe á doutora Martha E. Bernal! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "დრ. მარტა ბერნალი",
+        "hover_text": "აღვნიშნავთ დრ. მარტა ბერნალის დღეს",
+        "share_text": "აღვნიშნავთ დრ. მარტა ბერნალის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Dr. Martha E. Bernal",
+        "hover_text": "Zu Ehren von Dr. Martha E. Bernal",
+        "share_text": "Zu Ehren von Dr. Martha E. Bernal #GoogleDoodle"
+      },
+      "el": {
+        "query": "Dr. Martha Bernal",
+        "hover_text": "Τιμούμε την Dr. Martha Bernal",
+        "share_text": "Τιμούμε την Dr. Martha Bernal! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ડૉ. માર્થા બર્નલ",
+        "hover_text": "ડૉ. માર્થા બર્નલની યાદમાં",
+        "share_text": "ડૉ. માર્થા બર્નલની યાદમાં! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Dr. Martha Bernal",
+        "hover_text": "מחווה לד\"ר מרתה ברנל",
+        "share_text": "מחווה לד\"ר מרתה ברנל GoogleDoodle#"
+      },
+      "hi": {
+        "query": "डॉ॰ मार्था ई॰ बर्नाल",
+        "hover_text": "डॉ॰ मार्था ई॰ बर्नाल की याद में",
+        "share_text": "डॉ॰ मार्था ई॰ बर्नाल की याद में! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Dr. Martha E. Bernal",
+        "hover_text": "Dr. Martha E. Bernal ünneplése",
+        "share_text": "Dr. Martha E. Bernal ünneplése. #GoogleDoodle"
+      },
+      "is": {
+        "query": "Dr. Martha Bernal",
+        "hover_text": "Við heiðrum dr. Mörthu Bernal",
+        "share_text": "Við heiðrum dr. Mörthu Bernal! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Dr. Martha E. Bernal",
+        "hover_text": "Mengenang Dr. Martha E. Bernal",
+        "share_text": "Mengenang Dr. Martha E. Bernal #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Dottoressa Martha E. Bernal",
+        "hover_text": "In onore della dottoressa Martha E. Bernal",
+        "share_text": "In onore della dottoressa Martha E. Bernal! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "マーサ・バーナル博士",
+        "hover_text": "マーサ・バーナル博士を称えて",
+        "share_text": "マーサ・バーナル博士を称えて #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಡಾ. ಮಾರ್ಥಾ ಬೆರ್ನಾಲ್",
+        "hover_text": "ಡಾ. ಮಾರ್ಥಾ ಬೆರ್ನಾಲ್ ಅವರನ್ನು ಸ್ಮರಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಡಾ. ಮಾರ್ಥಾ ಬೆರ್ನಾಲ್ ಅವರನ್ನು ಸ್ಮರಿಸಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Доктор Марта Берналь",
+        "hover_text": "Доктор Марта Берналь күні",
+        "share_text": "Доктор Марта Берналь күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "បណ្ឌិត Martha Bernal",
+        "hover_text": "អបអរទិវារំលឹកដល់បណ្ឌិត Martha Bernal",
+        "share_text": "អបអរទិវារំលឹកដល់បណ្ឌិត Martha Bernal! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Dr. Martha E. Bernal",
+        "hover_text": "Dr. Martha E. Bernal을 기억하며",
+        "share_text": "Dr. Martha E. Bernal을 기억하며 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Доктор Марта Бернал",
+        "hover_text": "Доктор Марта Бернал күнүн майрамдоо",
+        "share_text": "Доктор Марта Бернал күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Dr. Martha Bernal",
+        "hover_text": "ວັນລະນຶກເຖິງ Dr. Martha Bernal",
+        "share_text": "ວັນລະນຶກເຖິງ Dr. Martha Bernal! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Martha E. Bernal",
+        "hover_text": "Celebrando Martha E. Bernal",
+        "share_text": "¡Celebrando Martha E. Bernal! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Dr. Marta Bernala",
+        "hover_text": "Dr. Martas Bernalas godināšana",
+        "share_text": "Godinām Dr. Martu Bernalu! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Dr. Martha Bernal",
+        "hover_text": "Dr. Marthos Bernal minėjimas",
+        "share_text": "Dr. Marthos Bernal minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Dr. Martha E. Bernal",
+        "hover_text": "Во чест на Dr. Martha E. Bernal",
+        "share_text": "Во чест на Dr. Martha E. Bernal! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Dr. Martha Bernal",
+        "hover_text": "Meraikan Dr. Martha E. Bernal",
+        "share_text": "Meraikan Dr. Martha E. Bernal! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Dr. Martha Bernal",
+        "hover_text": "Dr. Martha Bernal-നെ ആദരിക്കുന്നു",
+        "share_text": "Dr. Martha Bernal-നെ ആദരിക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "डॉ. मार्था बर्नाल",
+        "hover_text": "डॉ. मार्था बर्नाल यांच्या स्मरणार्थ",
+        "share_text": "डॉ. मार्था बर्नाल यांच्या स्मरणार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Др. Марта Бернал",
+        "hover_text": "Др. Марта Берналын өдрийг тэмдэглэж байна",
+        "share_text": "Др. Марта Берналын өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "डा. Martha Bernal",
+        "hover_text": "डा. Martha Bernal को सम्झना",
+        "share_text": "डा. Martha Bernal को सम्झना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Dr. Martha Bernal",
+        "hover_text": "Vi feirer Dr. Martha Bernal",
+        "share_text": "Vi feirer Dr. Martha Bernal! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "دکتر مارتا برنال",
+        "hover_text": "بزرگداشت دکتر مارتا برنال",
+        "share_text": "بزرگداشت دکتر مارتا برنال! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dr Martha E. Bernal",
+        "hover_text": "Wspominamy dr Marthę E. Bernal",
+        "share_text": "Wspominamy dr Marthę E. Bernal #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dra. Martha E. Bernal",
+        "hover_text": "Celebração da vida da Dra. Martha E. Bernal",
+        "share_text": "Celebração da vida da Dra. Martha E. Bernal #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dr.ª Martha Bernal",
+        "hover_text": "Celebração da Dr. Martha Bernal",
+        "share_text": "Celebração da Dr.ª Martha Bernal! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਡਾ. ਮਾਰਥਾ ਬਰਨਲ",
+        "hover_text": "ਡਾ. ਮਾਰਥਾ ਬਰਨਲ ਦੀ ਯਾਦ ਵਿੱਚ",
+        "share_text": "ਡਾ. ਮਾਰਥਾ ਬਰਨਲ ਦੀ ਯਾਦ ਵਿੱਚ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Dr. Martha E. Bernal",
+        "hover_text": "În cinstea Dr. Martha E. Bernal",
+        "share_text": "În cinstea Dr. Martha E. Bernal! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Доктор Марта Бернал",
+        "hover_text": "День доктора Марты Бернал",
+        "share_text": "День доктора Марты Бернал #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Др Марта Бернал",
+        "hover_text": "Славимо др Марту Бернал",
+        "share_text": "Славимо др Марту Бернал! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dr Marta Bernal",
+        "hover_text": "Slavimo dr Martu Bernal",
+        "share_text": "Slavimo dr Martu Bernal! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "වෛද්‍ය මාර්තා බර්නාල්",
+        "hover_text": "වෛද්‍ය මාර්තා බර්නාල් සමරමින්",
+        "share_text": "වෛද්‍ය මාර්තා බර්නාල් සමරමින්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Dr. Martha Bernalová",
+        "hover_text": "Pripomíname si Dr. Marthu Bernalovú",
+        "share_text": "Pripomíname si Dr. Marthu Bernalovú. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dr. Martha Bernal",
+        "hover_text": "Slavimo dr. Martho Bernal",
+        "share_text": "Slavimo dr. Martho Bernal! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Dra. Martha Bernal",
+        "hover_text": "Homenaje a la Dra. Martha Bernal",
+        "share_text": "Hoy rendimos homenaje a la Dra. Martha Bernal #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Dkt. Martha Bernal",
+        "hover_text": "Tunamwenzi Dkt. Martha Bernal",
+        "share_text": "Tunamwenzi Dkt. Martha Bernal! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Dr Martha Bernal",
+        "hover_text": "Vi hyllar dr Martha Bernal",
+        "share_text": "Vi hyllar dr Martha Bernal #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "டாக்டர் மார்த்தா ஈ. பெர்னல்",
+        "hover_text": "டாக்டர் மார்த்தா ஈ. பெர்னலைக் கொண்டாடுவோம்",
+        "share_text": "டாக்டர் மார்த்தா ஈ. பெர்னலைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "మార్తా బెర్నాల్",
+        "hover_text": "మార్తా బెర్నాల్ వేడుకలు",
+        "share_text": "మార్తా బెర్నాల్ వేడుకలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Dr. Martha Bernal",
+        "hover_text": "วันรำลึกถึง Dr. Martha Bernal",
+        "share_text": "วันรำลึกถึง Dr. Martha Bernal #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Dr. Martha Bernal",
+        "hover_text": "Dr. Martha Bernal'ı anıyoruz",
+        "share_text": "Dr. Martha Bernal'ı anıyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Марта Берналь",
+        "hover_text": "Ушановуємо Марту Берналь",
+        "share_text": "Ушановуємо Марту Берналь! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Dr. Martha Bernal",
+        "hover_text": "Dr. Martha Bernal کی یاد میں",
+        "share_text": "Dr. Martha Bernal کی یاد میں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Dr. Martha Bernal",
+        "hover_text": "Dr. Martha Bernal kuni",
+        "share_text": "Dr. Martha Bernal kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Bác sĩ Martha Bernal",
+        "hover_text": "Tôn vinh bác sĩ Martha Bernal",
+        "share_text": "Tôn vinh bác sĩ Martha Bernal! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "UDkt. Martha Bernal",
+        "hover_text": "Sibungaza uDkt. Martha Bernal",
+        "share_text": "Sibungaza uDkt. Martha Bernal! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Dr. Martha Bernal",
+    "share_text": "Celebrating Dr. Martha Bernal! #GoogleDoodle"
+  },
+  {
     "name": "south-korea-legislative-elections-2024",
     "title": "South Korea Legislative Elections 2024",
     "url": "//www.google.com/logos/doodles/2024/temp-south-korea-legislative-elections-2024-6753651837110483-l.png",
