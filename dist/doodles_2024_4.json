@@ -1,5 +1,504 @@
 [
   {
+    "name": "nba-playoffs-2024",
+    "title": "NBA Playoffs 2024",
+    "url": "//www.google.com/logos/doodles/2024/nba-playoffs-2024-6753651837110500-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/kO5zGcDtQT3S07dhjFdSczLeFYdhscz_cSsmVLywc8rKmJSJmZQ2rSNgRYhfOXzwL0265M1n1ZUy5SgYZv0eo9uMfbFH1Shc8qrg7u6hSbUj4kTL71nexQ",
+    "high_res_url": "//www.google.com/logos/doodles/2024/nba-playoffs-2024-6753651837110500-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      4,
+      20
+    ],
+    "translations": {
+      "en": {
+        "query": "NBA Playoffs 2024",
+        "hover_text": "NBA Playoffs 2024",
+        "share_text": "NBA Playoffs 2024 #GoogleDoodle"
+      },
+      "af": {
+        "query": "NBA-uitspeelwedstryde 2024",
+        "hover_text": "NBA-uitspeelwedstryde 2024",
+        "share_text": "NBA-uitspeelwedstryde 2024 #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Eliminatoret e ligës NBA, 2024",
+        "hover_text": "Eliminatoret e ligës NBA, 2024",
+        "share_text": "Eliminatoret e ligës NBA, 2024 #GoogleDoodle"
+      },
+      "am": {
+        "query": "የNBA የጥሎ ማለፍ ጨዋታዎች 2024",
+        "hover_text": "የNBA የጥሎ ማለፍ ጨዋታዎች 2024",
+        "share_text": "የNBA የጥሎ ማለፍ ጨዋታዎች 2024 #GoogleDoodle"
+      },
+      "ar": {
+        "query": "تصفيات الدوري الأمريكي لكرة السلة للمحترفين 2024",
+        "hover_text": "تصفيات الدوري الأمريكي لكرة السلة للمحترفين 2024",
+        "share_text": "ستنطلق تصفيات الدوري الأمريكي لكرة السلة للمحترفين 2024 ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "NBA փլեյ-օֆֆներ 2024",
+        "hover_text": "NBA փլեյ-օֆֆներ 2024",
+        "share_text": "NBA փլեյ-օֆֆներ 2024 #GoogleDoodle"
+      },
+      "az": {
+        "query": "2024 NBA Pleyofları",
+        "hover_text": "2024 NBA Pleyofları",
+        "share_text": "2024 NBA Pleyofları #GoogleDoodle"
+      },
+      "bn": {
+        "query": "NBA প্লে-অফ ২০২৪",
+        "hover_text": "NBA প্লে-অফ ২০২৪",
+        "share_text": "NBA প্লে-অফ ২০২৪ #GoogleDoodle"
+      },
+      "eu": {
+        "query": "2024ko NBAko kanporaketak",
+        "hover_text": "2024ko NBAko kanporaketak",
+        "share_text": "2024ko NBAko kanporaketak #GoogleDoodle"
+      },
+      "be": {
+        "query": "Гульні плэй-оф НБА 2024",
+        "hover_text": "Гульні плэй-оф НБА 2024",
+        "share_text": "Гульні плэй-оф НБА 2024 #GoogleDoodle"
+      },
+      "bs": {
+        "query": "NBA doigravanje 2024.",
+        "hover_text": "NBA doigravanje 2024.",
+        "share_text": "NBA doigravanje 2024. #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "NBA Playoffs 2024",
+        "hover_text": "NBA Playoffs 2024",
+        "share_text": "NBA Playoffs 2024 #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Плейофи на НБА 2024 г.",
+        "hover_text": "Плейофи на НБА 2024 г.",
+        "share_text": "Плейофи на НБА 2024 г. #GoogleDoodle"
+      },
+      "my": {
+        "query": "NBA ဗိုလ်လုပွဲများ ၂၀၂၄",
+        "hover_text": "NBA ဗိုလ်လုပွဲများ ၂၀၂၄",
+        "share_text": "NBA ဗိုလ်လုပွဲများ ၂၀၂၄ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Eliminatòries de l'NBA 2024",
+        "hover_text": "Eliminatòries de l'NBA 2024",
+        "share_text": "Eliminatòries de l'NBA 2024 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "2024 年 NBA 季後賽",
+        "hover_text": "2024 年 NBA 季後賽",
+        "share_text": "2024 年 NBA 季後賽 #GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "2024 年 NBA 季後賽",
+        "hover_text": "2024 年 NBA 季後賽",
+        "share_text": "2024 年 NBA 季後賽 #GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "2024 年 NBA 季后赛",
+        "hover_text": "2024 年 NBA 季后赛",
+        "share_text": "2024 年 NBA 季后赛 #GoogleDoodle"
+      },
+      "hr": {
+        "query": "NBA doigravanje 2024.",
+        "hover_text": "NBA doigravanje 2024.",
+        "share_text": "NBA doigravanje 2024. #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Play-off NBA 2024",
+        "hover_text": "Play-off NBA 2024",
+        "share_text": "Play-off NBA 2024 #GoogleDoodle"
+      },
+      "da": {
+        "query": "NBA-slutspillet 2024",
+        "hover_text": "NBA-slutspillet 2024",
+        "share_text": "NBA-slutspillet 2024 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "NBA-playoffs 2024",
+        "hover_text": "NBA-playoffs 2024",
+        "share_text": "NBA-playoffs 2024 #GoogleDoodle"
+      },
+      "et": {
+        "query": "NBA väljalangemismängud 2024",
+        "hover_text": "NBA väljalangemismängud 2024",
+        "share_text": "NBA väljalangemismängud 2024 #GoogleDoodle"
+      },
+      "fi": {
+        "query": "NBA:n pudotuspelit 2024",
+        "hover_text": "NBA:n pudotuspelit 2024",
+        "share_text": "NBA:n pudotuspelit 2024 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Playoffs 2024 de la NBA",
+        "hover_text": "Playoffs 2024 de la NBA",
+        "share_text": "Playoffs 2024 de la NBA #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Séries éliminatoires 2024 de la NBA",
+        "hover_text": "Séries éliminatoires 2024 de la NBA",
+        "share_text": "Séries éliminatoires 2024 de la NBA #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Eliminatorias da NBA 2024",
+        "hover_text": "Eliminatorias da NBA 2024",
+        "share_text": "Eliminatorias da NBA 2024 #GoogleDoodle"
+      },
+      "ka": {
+        "query": "NBA ფლეი-ოფი",
+        "hover_text": "NBA ფლეი-ოფი",
+        "share_text": "NBA ფლეი-ოფი 2024 #GoogleDoodle"
+      },
+      "de": {
+        "query": "NBA-Playoffs 2024",
+        "hover_text": "NBA-Playoffs 2024",
+        "share_text": "NBA-Playoffs 2024 #GoogleDoodle"
+      },
+      "el": {
+        "query": "Πλέι-οφ NBA 2024",
+        "hover_text": "Πλέι-οφ NBA 2024",
+        "share_text": "Πλέι-οφ NBA 2024 #GoogleDoodle"
+      },
+      "gu": {
+        "query": "NBA પ્લેઑફ 2024",
+        "hover_text": "NBA પ્લેઑફ 2024",
+        "share_text": "NBA પ્લેઑફ 2024 #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "משחקי הפלייאוף של ה-NBA‏ 2024",
+        "hover_text": "משחקי הפלייאוף של ה-NBA‏ 2024",
+        "share_text": "משחקי הפלייאוף של ה-NBA לשנת 2024 ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "NBA प्लेऑफ़ 2024",
+        "hover_text": "NBA प्लेऑफ़ 2024",
+        "share_text": "NBA प्लेऑफ़ 2024 #GoogleDoodle"
+      },
+      "hu": {
+        "query": "NBA-rájátszás 2024",
+        "hover_text": "NBA-rájátszás 2024",
+        "share_text": "NBA-rájátszás 2024 #GoogleDoodle"
+      },
+      "is": {
+        "query": "Úrslitakeppni NBA 2024",
+        "hover_text": "Úrslitakeppni NBA 2024",
+        "share_text": "Úrslitakeppni NBA 2024 #GoogleDoodle"
+      },
+      "id": {
+        "query": "Playoff NBA 2024",
+        "hover_text": "Playoff NBA 2024",
+        "share_text": "Playoff NBA 2024 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Playoff NBA 2024",
+        "hover_text": "Playoff NBA 2024",
+        "share_text": "Playoff NBA 2024 #GoogleDoodle"
+      },
+      "ja": {
+        "query": "NBA プレーオフ 2024",
+        "hover_text": "NBA プレーオフ 2024",
+        "share_text": "NBA プレーオフ 2024 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "NBA ಪ್ಲೇಆಫ್‌ಗಳು 2024",
+        "hover_text": "NBA ಪ್ಲೇಆಫ್‌ಗಳು 2024",
+        "share_text": "NBA ಪ್ಲೇಆಫ್‌ಗಳು 2024 #GoogleDoodle"
+      },
+      "kk": {
+        "query": "2024 жылғы NBA плей-офф ойындары",
+        "hover_text": "2024 жылғы NBA плей-офф ойындары",
+        "share_text": "2024 жылғы NBA плей-офф ойындары #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការប្រកួតវគ្គជម្រុះ NBA ឆ្នាំ 2024",
+        "hover_text": "ការប្រកួតវគ្គជម្រុះ NBA ឆ្នាំ 2024",
+        "share_text": "ការប្រកួតវគ្គជម្រុះ NBA ឆ្នាំ 2024 #GoogleDoodle"
+      },
+      "ko": {
+        "query": "2024년 NBA 플레이오프",
+        "hover_text": "2024년 NBA 플레이오프",
+        "share_text": "2024년 NBA 플레이오프 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "НБАнын Плей-офф оюндары – 2024",
+        "hover_text": "НБАнын Плей-офф оюндары – 2024",
+        "share_text": "НБАнын Плей-офф оюндары — 2024 #GoogleDoodle"
+      },
+      "lo": {
+        "query": "NBA ຮອບເພລອອບປີ 2024",
+        "hover_text": "NBA ຮອບເພລອອບປີ 2024",
+        "share_text": "NBA ຮອບເພລອອບປີ 2024 #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Playoffs de la NBA 2024",
+        "hover_text": "Playoffs de la NBA 2024",
+        "share_text": "Playoffs de la NBA 2024 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "NBA izslēgšanas spēles — 2024",
+        "hover_text": "NBA izslēgšanas spēles — 2024",
+        "share_text": "NBA izslēgšanas spēles — 2024 #GoogleDoodle"
+      },
+      "lt": {
+        "query": "2024 m. NBA atkrintamosios varžybos",
+        "hover_text": "2024 m. NBA atkrintamosios varžybos",
+        "share_text": "2024 m. NBA atkrintamosios varžybos #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Плејоф во NBA, 2024 г.",
+        "hover_text": "Плејоф во NBA, 2024 г.",
+        "share_text": "Плејоф во NBA, 2024 г. #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Pusingan Main Habis NBA 2024",
+        "hover_text": "Pusingan Main Habis NBA 2024",
+        "share_text": "Pusingan Main Habis NBA 2024 #GoogleDoodle"
+      },
+      "ml": {
+        "query": "NBA പ്ലേഓഫ് 2024",
+        "hover_text": "NBA പ്ലേഓഫ് 2024",
+        "share_text": "NBA പ്ലേഓഫ് 2024 #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "NBA प्लेऑफ २०२४",
+        "hover_text": "NBA प्लेऑफ २०२४",
+        "share_text": "NBA प्लेऑफ २०२४ #GoogleDoodle"
+      },
+      "mn": {
+        "query": "2024 оны NBA-н хасагдах шатны тоглолтууд",
+        "hover_text": "2024 оны NBA-н хасагдах шатны тоглолтууд",
+        "share_text": "2024 оны NBA-н хасагдах шатны тоглолтууд #GoogleDoodle"
+      },
+      "ne": {
+        "query": "NBA प्लेअफ २०२४",
+        "hover_text": "NBA प्लेअफ २०२४",
+        "share_text": "NBA प्लेअफ २०२४ #GoogleDoodle"
+      },
+      "no": {
+        "query": "NBA-sluttspill 2024",
+        "hover_text": "NBA-sluttspill 2024",
+        "share_text": "NBA-sluttspill 2024 #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "بازی‌های حذفی ان‌بی‌ای ۲۰۲۴",
+        "hover_text": "بازی‌های حذفی ان‌بی‌ای ۲۰۲۴",
+        "share_text": "بازی‌های حذفی ان‌بی‌ای ۲۰۲۴ ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Play-offy NBA 2024",
+        "hover_text": "Play-offy NBA 2024",
+        "share_text": "Play-offy NBA 2024 #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Eliminatórias da NBA 2024",
+        "hover_text": "Eliminatórias da NBA 2024",
+        "share_text": "Eliminatórias da NBA 2024 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Eliminatórias da NBA de 2024",
+        "hover_text": "Eliminatórias da NBA de 2024",
+        "share_text": "Eliminatórias da NBA de 2024 #GoogleDoodle"
+      },
+      "pa": {
+        "query": "NBA Playoffs 2024",
+        "hover_text": "NBA Playoffs 2024",
+        "share_text": "NBA ਪਲੇਆਫ਼ 2024 #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Rundele de departajare din NBA 2024",
+        "hover_text": "Rundele de departajare din NBA 2024",
+        "share_text": "Rundele de departajare din NBA 2024 #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Плей-офф НБА – 2024",
+        "hover_text": "Плей-офф НБА – 2024",
+        "share_text": "Плей-офф НБА – 2024 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "NBA плеј-оф 2024.",
+        "hover_text": "NBA плеј-оф 2024.",
+        "share_text": "NBA плеј-оф 2024. #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "NBA plej-of 2024.",
+        "hover_text": "NBA plej-of 2024.",
+        "share_text": "NBA plej-of 2024. #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "NBA ක්‍රීඩා කිරීම් 2024",
+        "hover_text": "NBA ක්‍රීඩා කිරීම් 2024",
+        "share_text": "NBA ක්‍රීඩා කිරීම් 2024 #GoogleDoodle"
+      },
+      "sk": {
+        "query": "NBA Playoffs 2024",
+        "hover_text": "NBA Playoffs 2024",
+        "share_text": "Vyraďovací turnaj ligy NBA 2024 #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Končnica lige NBA 2024",
+        "hover_text": "Končnica lige NBA 2024",
+        "share_text": "Končnica lige NBA 2024 #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Playoffs de la NBA 2024",
+        "hover_text": "Playoffs de la NBA 2024",
+        "share_text": "Playoffs de la NBA 2024 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Michezo ya kumpata mshindi wa NBA 2024",
+        "hover_text": "Michezo ya kumpata mshindi wa NBA 2024",
+        "share_text": "Michezo ya kumpata mshindi wa NBA 2024 #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Slutspel i NBA 2024",
+        "hover_text": "Slutspel i NBA 2024",
+        "share_text": "Slutspel i NBA 2024 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "NBA பிளே ஆஃப்கள் 2024",
+        "hover_text": "NBA பிளே ஆஃப்கள் 2024",
+        "share_text": "NBA பிளே ஆஃப்கள் 2024 #GoogleDoodle"
+      },
+      "te": {
+        "query": "NBA ప్లేఆఫ్‌లు 2024",
+        "hover_text": "NBA ప్లేఆఫ్‌లు 2024",
+        "share_text": "NBA ప్లేఆఫ్‌లు 2024 #GoogleDoodle"
+      },
+      "th": {
+        "query": "NBA รอบเพลย์ออฟปี 2024",
+        "hover_text": "NBA รอบเพลย์ออฟปี 2024",
+        "share_text": "NBA รอบเพลย์ออฟปี 2024 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "2024 NBA Playoff Maçları",
+        "hover_text": "2024 NBA Playoff Maçları",
+        "share_text": "NBA Playoff Maçları 2024 #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Фінали НБА у 2024 році",
+        "hover_text": "Фінали НБА у 2024 році",
+        "share_text": "Фінали НБА у 2024 році #GoogleDoodle"
+      },
+      "ur": {
+        "query": "NBA پلے آفس 2024",
+        "hover_text": "NBA پلے آفس 2024",
+        "share_text": "NBA پلے آفس 2024 ‎#GoogleDoodle"
+      },
+      "uz": {
+        "query": "NBA pley-offlari 2024",
+        "hover_text": "NBA pley-offlari 2024",
+        "share_text": "NBA pley-offlari 2024 #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Vòng loại trực tiếp giải NBA năm 2024",
+        "hover_text": "Vòng loại trực tiếp giải NBA năm 2024",
+        "share_text": "Vòng loại trực tiếp giải NBA năm 2024 #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ama-playoff E-NBA Ka-2024",
+        "hover_text": "Ama-playoff E-NBA Ka-2024",
+        "share_text": "Ama-playoff E-NBA Ka-2024 #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "NBA Playoffs 2024",
+    "share_text": "NBA Playoffs 2024 #GoogleDoodle"
+  },
+  {
     "name": "india-national-elections-2024",
     "title": "India National Elections 2024",
     "url": "//www.google.com/logos/doodles/2024/temp-india-national-elections-2024-6753651837110484.4-l.png",
