@@ -1,5 +1,504 @@
 [
   {
+    "name": "india-general-elections-2024-ph-2",
+    "title": "India General Elections 2024 (Ph 2)",
+    "url": "//www.google.com/logos/doodles/2024/india-general-elections-2024-ph-2-6753651837110503-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/HXG7GxobMB2mwMqINcLij5Eu69RSl9ylpxAD02tuakzrtLBl_j-CkY1YZqHtUyTGtHi8wFjn-gX5_swuAF3-OtJQvvM6XfZe9Y1yT1SHZ6agtZL3W7FmX2k",
+    "high_res_url": "//www.google.com/logos/doodles/2024/india-general-elections-2024-ph-2-6753651837110503-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      4,
+      26
+    ],
+    "translations": {
+      "en": {
+        "query": "India General Elections 2024",
+        "hover_text": "India General Elections 2024",
+        "share_text": "India General Elections 2024! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Indië se algemene verkiesing 2024",
+        "hover_text": "Indië se algemene verkiesing 2024",
+        "share_text": "Indië se algemene verkiesing 2024! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Zgjedhjet e përgjithshme në Indi, 2024",
+        "hover_text": "Zgjedhjet e përgjithshme në Indi, 2024",
+        "share_text": "Zgjedhjet e përgjithshme në Indi, 2024! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የሕንድ ጠቅላላ ምርጫዎች 2024",
+        "hover_text": "የሕንድ ጠቅላላ ምርጫዎች 2024",
+        "share_text": "የሕንድ ጠቅላላ ምርጫዎች 2024! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "الانتخابات العامة في الهند 2024",
+        "hover_text": "الانتخابات العامة في الهند 2024",
+        "share_text": "انطلقت الانتخابات العامة في الهند لعام 2024! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Հնդկաստանի համընդհանուր ընտրություններ 2024",
+        "hover_text": "Հնդկաստանի համընդհանուր ընտրություններ 2024",
+        "share_text": "Հնդկաստանի համընդհանուր ընտրություններ 2024 #GoogleDoodle"
+      },
+      "az": {
+        "query": "2024 Hindistan Ümumi Seçkiləri",
+        "hover_text": "2024 Hindistan Ümumi Seçkiləri",
+        "share_text": "2024 Hindistan Ümumi Seçkiləri! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ভারতের সাধারণ নির্বাচন",
+        "hover_text": "ভারতের সাধারণ নির্বাচন ২০২৪",
+        "share_text": "ভারতের সাধারণ নির্বাচন ২০২৪! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "2024ko Indiako hauteskunde orokorrak",
+        "hover_text": "2024ko Indiako hauteskunde orokorrak",
+        "share_text": "2024ko Indiako hauteskunde orokorrak #GoogleDoodle"
+      },
+      "be": {
+        "query": "Усеагульныя выбары ў Індыі 2024",
+        "hover_text": "Усеагульныя выбары ў Індыі 2024",
+        "share_text": "Усеагульныя выбары ў Індыі 2024! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Opći izbori u Indiji 2024.",
+        "hover_text": "Opći izbori u Indiji 2024.",
+        "share_text": "Opći izbori u Indiji 2024! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "India general elections 2024",
+        "hover_text": "India general elections 2024",
+        "share_text": "India general elections 2024! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Общи избори в Индия 2024 г.",
+        "hover_text": "Общи избори в Индия 2024 г.",
+        "share_text": "Общи избори в Индия 2024 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "၂၀၂၄ အိန္ဒိယနိုင်ငံ အထွေထွေရွေးကောက်ပွဲများ",
+        "hover_text": "၂၀၂၄ အိန္ဒိယနိုင်ငံ အထွေထွေရွေးကောက်ပွဲများ",
+        "share_text": "၂၀၂၄ အိန္ဒိယနိုင်ငံ အထွေထွေရွေးကောက်ပွဲများ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Eleccions generals a l'Índia 2024",
+        "hover_text": "Eleccions generals a l'Índia 2024",
+        "share_text": "Eleccions generals a l'Índia 2024 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "2024 年印度大選",
+        "hover_text": "2024 年印度大選",
+        "share_text": "2024 年印度大選！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "2024 年印度大選",
+        "hover_text": "2024 年印度大選",
+        "share_text": "2024 年印度大選到來！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "2024 年印度大选",
+        "hover_text": "2024 年印度大选",
+        "share_text": "2024 年印度大选！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Opći izbori u Indiji 2024.",
+        "hover_text": "Opći izbori u Indiji 2024.",
+        "share_text": "Opći izbori u Indiji 2024.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Všeobecné volby v Indii 2024",
+        "hover_text": "Všeobecné volby v Indii 2024",
+        "share_text": "Všeobecné volby v Indii 2024! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Valg i Indien 2024",
+        "hover_text": "Valg i Indien 2024",
+        "share_text": "Valg i Indien 2024 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Algemene verkiezingen India 2024",
+        "hover_text": "Algemene verkiezingen India 2024",
+        "share_text": "De algemene verkiezingen in India van 2024! #GoogleDoodle"
+      },
+      "et": {
+        "query": "India 2024. aasta üldvalimised",
+        "hover_text": "India 2024. aasta üldvalimised",
+        "share_text": "India 2024. aasta üldvalimised! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Intian vaalit 2024",
+        "hover_text": "Intian vaalit 2024",
+        "share_text": "Intian vaalit 2024 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Élections générales 2024 en Inde",
+        "hover_text": "Élections générales 2024 en Inde",
+        "share_text": "Élections générales 2024 en Inde ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Élections générales de 2024 en Inde",
+        "hover_text": "Élections générales de 2024 en Inde",
+        "share_text": "Élections générales de 2024 en Inde! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Eleccións xerais da India 2024",
+        "hover_text": "Eleccións xerais da India 2024",
+        "share_text": "Eleccións xerais da India 2024! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ინდოეთის საყოველთაო არჩევნები — 2024",
+        "hover_text": "ინდოეთის საყოველთაო არჩევნები — 2024",
+        "share_text": "ინდოეთის საყოველთაო არჩევნები — 2024! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Parlamentswahl in Indien 2024",
+        "hover_text": "Parlamentswahl in Indien 2024",
+        "share_text": "Parlamentswahl in Indien 2024 #GoogleDoodle"
+      },
+      "el": {
+        "query": "Γενικές εκλογές στην Ινδία 2024",
+        "hover_text": "Γενικές εκλογές στην Ινδία 2024",
+        "share_text": "Γενικές εκλογές στην Ινδία 2024! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ભારતની સામાન્ય ચૂંટણીઓ 2024",
+        "hover_text": "ભારતની સામાન્ય ચૂંટણીઓ 2024",
+        "share_text": "ભારતની સામાન્ય ચૂંટણીઓ 2024! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "הבחירות בהודו",
+        "hover_text": "הבחירות בהודו",
+        "share_text": "הבחירות הכלליות בהודו 2024 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "भारत का आम चुनाव 2024",
+        "hover_text": "भारत का आम चुनाव 2024",
+        "share_text": "भारत का आम चुनाव 2024! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Általános választások Indiában, 2024",
+        "hover_text": "Általános választások Indiában, 2024",
+        "share_text": "Általános választások Indiában, 2024 #GoogleDoodle"
+      },
+      "is": {
+        "query": "Almennar kosningar á Indlandi 2024",
+        "hover_text": "Almennar kosningar á Indlandi 2024",
+        "share_text": "Almennar kosningar á Indlandi 2024! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Pemilu India 2024",
+        "hover_text": "Pemilu India 2024",
+        "share_text": "Pemilu India 2024 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Elezioni generali 2024 in India",
+        "hover_text": "Elezioni generali 2024 in India",
+        "share_text": "Elezioni generali 2024 in India! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "2024 年インド総選挙",
+        "hover_text": "2024 年インド総選挙",
+        "share_text": "2024 年インド総選挙 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಭಾರತದ ಸಾರ್ವತ್ರಿಕ ಚುನಾವಣೆಗಳು 2024",
+        "hover_text": "ಭಾರತದ ಸಾರ್ವತ್ರಿಕ ಚುನಾವಣೆಗಳು 2024",
+        "share_text": "ಭಾರತದ ಸಾರ್ವತ್ರಿಕ ಚುನಾವಣೆಗಳು 2024! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Үндістандағы жалпы сайлау – 2024",
+        "hover_text": "Үндістандағы жалпы сайлау – 2024",
+        "share_text": "Үндістандағы жалпы сайлау – 2024! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការបោះឆ្នោត​ថ្នាក់ជាតិនៅឥណ្ឌាឆ្នាំ​ 2024",
+        "hover_text": "ការបោះឆ្នោត​ថ្នាក់ជាតិនៅឥណ្ឌាឆ្នាំ​ 2024",
+        "share_text": "ការបោះឆ្នោត​ថ្នាក់ជាតិនៅឥណ្ឌាឆ្នាំ​ 2024! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "2024년 인도 총선",
+        "hover_text": "2024년 인도 총선",
+        "share_text": "2024년 인도 총선 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Индиядагы жалпы шайлоо – 2024",
+        "hover_text": "Индиядагы жалпы шайлоо – 2024",
+        "share_text": "Индиядагы жалпы шайлоо – 2024! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ການເລືອກຕັ້ງທົ່ວໄປຂອງອິນເດຍປີ 2024",
+        "hover_text": "ການເລືອກຕັ້ງທົ່ວໄປຂອງອິນເດຍປີ 2024",
+        "share_text": "ການເລືອກຕັ້ງທົ່ວໄປຂອງອິນເດຍປີ 2024! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Elecciones generales de la India 2024",
+        "hover_text": "Elecciones generales de la India 2024",
+        "share_text": "Elecciones generales de la India 2024 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Vispārējās vēlēšanas Indijā — 2024",
+        "hover_text": "Vispārējās vēlēšanas Indijā — 2024",
+        "share_text": "Vispārējās vēlēšanas Indijā — 2024! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Indijos visuotiniai rinkimai, 2024 m.",
+        "hover_text": "Indijos visuotiniai rinkimai, 2024 m.",
+        "share_text": "Indijos visuotiniai rinkimai, 2024 m.! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Општи избори во Индија, 2024 г.",
+        "hover_text": "Општи избори во Индија, 2024 г.",
+        "share_text": "Општи избори во Индија, 2024 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Pilihan Raya Umum India 2024",
+        "hover_text": "Pilihan Raya Umum India 2024",
+        "share_text": "Pilihan Raya Umum India 2024! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഇന്ത്യയിലെ പൊതുതിരഞ്ഞെടുപ്പ് 2024",
+        "hover_text": "ഇന്ത്യയിലെ പൊതുതിരഞ്ഞെടുപ്പ് 2024",
+        "share_text": "ഇന്ത്യയിലെ പൊതുതിരഞ്ഞെടുപ്പ് 2024! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "भारताच्या सर्वसाधारण निवडणुका २०२४",
+        "hover_text": "भारताच्या सर्वसाधारण निवडणुका २०२४",
+        "share_text": "भारताच्या सर्वसाधारण निवडणुका २०२४! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "2024 оны Энэтхэгийн бүх нийтийн сонгууль",
+        "hover_text": "2024 оны Энэтхэгийн бүх нийтийн сонгууль",
+        "share_text": "2024 оны Энэтхэгийн бүх нийтийн сонгууль! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "भारतको आम निर्वाचन २०२४",
+        "hover_text": "भारतको आम निर्वाचन २०२४",
+        "share_text": "भारतको आम निर्वाचन २०२४! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Valget i India 2024",
+        "hover_text": "Valget i India 2024",
+        "share_text": "Valget i India 2024! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "انتخابات سراسری ۲۰۲۴ هند",
+        "hover_text": "انتخابات سراسری ۲۰۲۴ هند",
+        "share_text": "انتخابات سراسری ۲۰۲۴ هند! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Wybory powszechne 2024 w Indiach",
+        "hover_text": "Wybory powszechne 2024 w Indiach",
+        "share_text": "Wybory powszechne 2024 w Indiach #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Eleições gerais da Índia 2024",
+        "hover_text": "Eleições gerais da Índia 2024",
+        "share_text": "Eleições gerais da Índia 2024 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Eleições Gerais da Índia de 2024",
+        "hover_text": "Eleições Gerais da Índia de 2024",
+        "share_text": "Eleições Gerais da Índia de 2024! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਭਾਰਤ ਦੀਆਂ ਆਮ ਚੋਣਾਂ 2024",
+        "hover_text": "ਭਾਰਤ ਦੀਆਂ ਆਮ ਚੋਣਾਂ 2024",
+        "share_text": "ਭਾਰਤ ਦੀਆਂ ਆਮ ਚੋਣਾਂ 2024! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Alegeri generale în India – 2024",
+        "hover_text": "Alegeri generale în India – 2024",
+        "share_text": "Alegeri generale în India – 2024! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Всеобщие выборы в Индии – 2024",
+        "hover_text": "Всеобщие выборы в Индии – 2024",
+        "share_text": "Всеобщие выборы в Индии – 2024 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Општи избори у Индији 2024.",
+        "hover_text": "Општи избори у Индији 2024.",
+        "share_text": "Општи избори у Индији 2024! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Opšti izbori u Indiji 2024.",
+        "hover_text": "Opšti izbori u Indiji 2024.",
+        "share_text": "Opšti izbori u Indiji 2024! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ඉන්දීය මහ මැතිවරණය 2024",
+        "hover_text": "ඉන්දීය මහ මැතිවරණය 2024",
+        "share_text": "ඉන්දීය මහ මැතිවරණය 2024! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Všeobecné voľby v Indii 2024",
+        "hover_text": "Všeobecné voľby v Indii 2024",
+        "share_text": "Všeobecné voľby v Indii 2024. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Splošne volitve v Indiji 2024",
+        "hover_text": "Splošne volitve v Indiji 2024",
+        "share_text": "Splošne volitve v Indiji 2024! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Elecciones generales en la India 2024",
+        "hover_text": "Elecciones generales en la India 2024",
+        "share_text": "Elecciones generales en la India 2024 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Uchaguzi Mkuu wa India 2024",
+        "hover_text": "Uchaguzi Mkuu wa India 2024",
+        "share_text": "Uchaguzi Mkuu wa India 2024! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Allmänna val i Indien 2024",
+        "hover_text": "Allmänna val i Indien 2024",
+        "share_text": "Allmänna val i Indien 2024 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "இந்தியப் பொதுத் தேர்தல்கள் 2024",
+        "hover_text": "இந்தியப் பொதுத் தேர்தல்கள் 2024",
+        "share_text": "இந்தியப் பொதுத் தேர்தல்கள் 2024! #GoogleDoodle"
+      },
+      "te": {
+        "query": "భారతదేశ సార్వత్రిక ఎన్నికలు 2024",
+        "hover_text": "భారతదేశ సార్వత్రిక ఎన్నికలు 2024",
+        "share_text": "భారతదేశ సార్వత్రిక ఎన్నికలు 2024! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันเลือกตั้งทั่วไปของอินเดียปี 2024",
+        "hover_text": "วันเลือกตั้งทั่วไปของอินเดียปี 2024",
+        "share_text": "วันเลือกตั้งทั่วไปของอินเดียปี 2024 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "2024 Hindistan Genel Seçimleri",
+        "hover_text": "2024 Hindistan Genel Seçimleri",
+        "share_text": "2024 Hindistan Genel Seçimleri #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Загальні вибори в Індії у 2024 році",
+        "hover_text": "Загальні вибори в Індії у 2024 році",
+        "share_text": "Загальні вибори в Індії у 2024 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "بھارت کے عام انتخابات 2024",
+        "hover_text": "بھارت کے عام انتخابات 2024",
+        "share_text": "بھارت کے عام انتخابات 2024! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Hindistonda umumxalq saylovlari 2024",
+        "hover_text": "Hindistonda umumxalq saylovlari 2024",
+        "share_text": "Hindistonda umumxalq saylovlari 2024! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Tổng tuyển cử ở Ấn Độ năm 2024",
+        "hover_text": "Tổng tuyển cử ở Ấn Độ năm 2024",
+        "share_text": "Tổng tuyển cử ở Ấn Độ năm 2024! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ukhetho Lukazwelonke lase-India lwango-2024",
+        "hover_text": "Ukhetho Lukazwelonke lase-India lwango-2024",
+        "share_text": "Ukhetho Lukazwelonke lase-India lwango-2024! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "India General Elections 2024",
+    "share_text": "India General Elections 2024! #GoogleDoodle"
+  },
+  {
     "name": "st-georges-day-2024",
     "title": "St. George's Day 2024",
     "url": "//www.google.com/logos/doodles/2024/st-georges-day-2024-6753651837110211-l.png",
