@@ -1,5 +1,1003 @@
 [
   {
+    "name": "kings-day-2024",
+    "title": "King's Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/kings-day-2024-6753651837110213-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/zmcUMfoEWGsidXyOY4SEBqO_Eg8py2CXIT8nRt81aRrAGZw-RfJsdI_WhuMU8fDfvgBNzzmQg5Hj7gDavlR-gkmBUZ3mYKBpPQnu7C4GiVZOyVCsvDocuNU",
+    "high_res_url": "//www.google.com/logos/doodles/2024/kings-day-2024-6753651837110213-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2024,
+      4,
+      27
+    ],
+    "translations": {
+      "en": {
+        "query": "King's Day",
+        "hover_text": "King's Day 2024",
+        "share_text": "Happy King's Day, Netherlands! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Koningsdag",
+        "hover_text": "Koningsdag 2024",
+        "share_text": "Gelukkige Koningsdag, Nederland! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Mbretit",
+        "hover_text": "Dita e Mbretit, 2024",
+        "share_text": "Gëzuar Ditën e Mbretit, Holandë! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የንጉስ ቀን",
+        "hover_text": "የንጉሥ ቀን 2024",
+        "share_text": "መልካም የንጉስ ቀን ኔዘርላንድስ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد الملِك",
+        "hover_text": "يوم الملِك لعام 2024",
+        "share_text": "أطيب التمنيات لهولندا بمناسبة يوم الملِك. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Թագավորի օր",
+        "hover_text": "Թագավորի օր 2024",
+        "share_text": "Շնորհավո՛ր Թագավորի օրը, Նիդեռլանդներ #GoogleDoodle"
+      },
+      "az": {
+        "query": "Kral Günü",
+        "hover_text": "2024 Kral Günü",
+        "share_text": "Kral Günün Mübarək, Niderland! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "কিংস ডে",
+        "hover_text": "কিংস ডে ২০২৪",
+        "share_text": "কিংস ডের শুভেচ্ছা, নেদারল্যান্ডস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Erregearen Eguna",
+        "hover_text": "2024ko Erregearen Eguna",
+        "share_text": "Erregearen Egun zoriontsua izan, Herbehereak! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень каралёў",
+        "hover_text": "Дзень караля 2024",
+        "share_text": "З Днём караля, Нідэрланды! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan kralja",
+        "hover_text": "Dan kralja 2024.",
+        "share_text": "Sretan Dan kralja Nizozemske! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "King's Day",
+        "hover_text": "King's Day 2024",
+        "share_text": "Happy King's Day, Netherlands! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на краля",
+        "hover_text": "Ден на краля 2024 г.",
+        "share_text": "Честит Ден на краля на Нидерландия! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဘုရင်မင်းမြတ်နေ့",
+        "hover_text": "၂၀၂၄ ဘုရင်မင်းမြတ်နေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် ဘုရင်မင်းမြတ်နေ့ ဖြစ်ပါစေ၊ နယ်သာလန်။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia del Rei",
+        "hover_text": "Dia del Rei 2024",
+        "share_text": "Feliç Dia del Rei, Països Baixos! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "國王日",
+        "hover_text": "2024 年國王日",
+        "share_text": "荷蘭，國王日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "國王日",
+        "hover_text": "2024 年國王日",
+        "share_text": "荷蘭，國王日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "荷兰国王日",
+        "hover_text": "2024 年荷兰国王节",
+        "share_text": "荷兰，国王日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Kraljev dan",
+        "hover_text": "Kraljev dan 2024.",
+        "share_text": "Sretan Kraljev dan, Nizozemska! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Králův den",
+        "hover_text": "Králův den 2024",
+        "share_text": "Vše nejlepší ke Královu dni, Nizozemsko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Kongens dag",
+        "hover_text": "Kongens dag 2024",
+        "share_text": "Glædelig Kongens dag, Nederlandene #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Koningsdag",
+        "hover_text": "Koningsdag 2024",
+        "share_text": "Fijne Koningsdag Nederland! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Kuninga päev",
+        "hover_text": "2024. aasta kuningapäev",
+        "share_text": "Head kuningapäeva, Holland! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Kuninkaan päivä",
+        "hover_text": "Kuninkaan päivä 2024",
+        "share_text": "Hyvää kuninkaan päivää, Alankomaat! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête du Roi",
+        "hover_text": "Fête du Roi 2024",
+        "share_text": "Fête du Roi aux Pays-Bas ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête du Roi",
+        "hover_text": "Fête du Roi 2024",
+        "share_text": "Joyeuse fête du Roi, Pays-Bas! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día do Rei",
+        "hover_text": "Día do Rei 2024",
+        "share_text": "Feliz Día do Rei, Países Baixos! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მეფის დღე",
+        "hover_text": "მეფის დღე — 2024",
+        "share_text": "ვულოცავთ ნიდერლანდებს მეფის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Königstag",
+        "hover_text": "Königstag 2024",
+        "share_text": "Alles Gute zum Königstag in den Niederlanden! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα του Βασιλιά",
+        "hover_text": "Ημέρα του Βασιλιά 2024",
+        "share_text": "Ευχόμαστε Χαρούμενη Ημέρα του Βασιλιά στην Ολλανδία! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "કિંગ દિવસ",
+        "hover_text": "કિંગ્સ ડે 2024",
+        "share_text": "કિંગ્સ ડેની શુભેચ્છા, નૅધરલૅન્ડ્સ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום המלך",
+        "hover_text": "יום המלך 2024",
+        "share_text": "יום המלך שמח, הולנד! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "किंग दिवस",
+        "hover_text": "किंग्स डे 2024",
+        "share_text": "किंग्स डे की शुभकामनाएं, नीदरलैंड्स! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A Király napja",
+        "hover_text": "A Király napja, 2024",
+        "share_text": "Boldog Király napját, Hollandia! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Konungsdagurinn",
+        "hover_text": "Konungsdagurinn 2024",
+        "share_text": "Gleðilegan konungsdag, Holland! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Raja",
+        "hover_text": "Hari Raja 2024",
+        "share_text": "Selamat Hari Raja, Belanda! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá an Rí",
+        "hover_text": null,
+        "share_text": "Lá Rí na hÍsiltíre faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Giorno del Re",
+        "hover_text": "Giorno del Re 2024",
+        "share_text": "Felice giorno del Re, Paesi Bassi! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "国王の日",
+        "hover_text": "2024 年国王の日",
+        "share_text": "国王の日（オランダ）を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಕಿಂಗ್ಸ್ ದಿನ",
+        "hover_text": "ಕಿಂಗ್ಸ್ ಡೇ 2024",
+        "share_text": "ರಾಜರ ದಿನದ ಶುಭಾಶಯಗಳು, ನೆದರ್ಲೆಂಡ್ಸ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Патша күні",
+        "hover_text": "Король күні – 2024",
+        "share_text": "Король күні құтты болсын, Нидерланд! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាចម្រើន​ព្រះជន្ម​ស្តេច",
+        "hover_text": "ទិវាចម្រើន​ព្រះជន្ម​ស្តេច​ឆ្នាំ 2024",
+        "share_text": "អបអរទិវាចម្រើន​ព្រះជន្ម​ស្តេចហូឡង់! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "국왕의 날",
+        "hover_text": "2024년 국왕 탄생일",
+        "share_text": "네덜란드 왕의 날 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Падышанын күнү",
+        "hover_text": "Падышанын күнү – 2024",
+        "share_text": "Нидерланддар, Падышанын күнү менен куттуктайбыз! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນກະສັດ",
+        "hover_text": "ວັນກະສັດ 2024",
+        "share_text": "ສຸກສັນວັນກະສັດ, ເນເທີແລນ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día del Rey",
+        "hover_text": "Día del Rey 2024",
+        "share_text": "¡Felíz Día del Rey, Países Bajos! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Karaļa diena",
+        "hover_text": "Karaļa diena — 2024",
+        "share_text": "Sveicam Karaļa dienā, Nīderlande! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Karaliaus diena",
+        "hover_text": "Karaliaus diena, 2024 m.",
+        "share_text": "Sveikiname Nyderlandus su Karaliaus diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на кралот",
+        "hover_text": "Ден на кралот, 2024 г.",
+        "share_text": "Среќен ден на кралот, Холандија! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Andron'ny mpanjaka",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny mpanjaka ry Peibà ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Raja",
+        "hover_text": "Hari Raja 2024",
+        "share_text": "Selamat Hari Raja, Belanda! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "കിംഗ്‌സ് ദിനം",
+        "hover_text": "കിംഗ്‌സ് ഡേ 2024",
+        "share_text": "കിംഗ്‌സ് ഡേ ആശംസകൾ, നെതർലൻഡ്‌സ്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "राजाचा दिवस",
+        "hover_text": "किंग्ज डे २०२४",
+        "share_text": "नेदरलँड्स येथील किंग्ज डेच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Хааны өдөр",
+        "hover_text": "2024 оны Хааны өдөр",
+        "share_text": "Нидерланд улсын ард иргэдэд Хааны өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "राजाको दिवस",
+        "hover_text": "किङ्ग्स डे २०२४",
+        "share_text": "नेदरल्यान्डका राजाको जन्म दिनको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Kongens dag",
+        "hover_text": "Kongens dag 2024",
+        "share_text": "Gratulerer med Kongens dag, Nederland! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "କିଙ୍ଗ୍‌ଙ୍କ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ରାଜାଙ୍କ ଦିବସର ଶୁଭେଚ୍ଛା, ନେଦରଲ୍ୟାଣ୍ଡ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز ملکه",
+        "hover_text": "روز پادشاه - ۲۰۲۴",
+        "share_text": "روز پادشاه هلند مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Króla",
+        "hover_text": "Dzień Króla 2024",
+        "share_text": "Holandia obchodzi Dzień Króla #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia do Rei",
+        "hover_text": "Dia do Rei 2024",
+        "share_text": "Feliz Dia do Rei, Países Baixos! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia do Rei",
+        "hover_text": "Dia do Rei de 2024",
+        "share_text": "Feliz dia do rei, Países Baixos! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਕਿੰਗ ਦਾ ਦਿਨ",
+        "hover_text": "ਕਿੰਗਸ ਡੇ 2024",
+        "share_text": "ਕਿੰਗਸ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਨੀਦਰਲੈਂਡ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Regelui",
+        "hover_text": "Ziua Regelui – 2024",
+        "share_text": "La mulți ani de Ziua Regelui, Țările de Jos! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День короля",
+        "hover_text": "День короля – 2024",
+        "share_text": "День короля в Нидерландах #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан краља",
+        "hover_text": "Дан краља 2024.",
+        "share_text": "Честитамо Дан краља Холандији! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan kralja",
+        "hover_text": "Dan kralja 2024.",
+        "share_text": "Čestitamo Dan kralja Holandiji! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen King",
+        "hover_text": null,
+        "share_text": "Bonn zournen Lerwa, Netherlands! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "රජ දිනය",
+        "hover_text": "රජුගේ දිනය 2024",
+        "share_text": "ප්‍රීතිමත් රජුගේ දිනයක්, නෙදර්ලන්තය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň kráľa",
+        "hover_text": "Deň kráľa 2024",
+        "share_text": "Šťastný Deň kráľa, Holandsko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan kralja",
+        "hover_text": "Kraljevi dan 2024",
+        "share_text": "Vesel dan kralja, Nizozemska! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta King",
+        "hover_text": null,
+        "share_text": "Maalinta Boqorka Farxada leh, Netherlands! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Babusi",
+        "hover_text": null,
+        "share_text": "Mahlohonolo a Letsatsi la Morena, Netherlands! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día del Rey",
+        "hover_text": "Día del Rey 2024",
+        "share_text": "¡Feliz Día del Rey de los Países Bajos! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Mfalme",
+        "hover_text": "Maadhimisho ya Siku ya Kuzaliwa Mfalme 2024",
+        "share_text": "Heri za Sikukuu ya Mfalme, Uholanzi! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Koningsdag",
+        "hover_text": "Koningsdag 2024",
+        "share_text": "Koningsdag i Nederländerna #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "கிங்ஸ் தினம்",
+        "hover_text": "அரசர் தினம் 2024",
+        "share_text": "கிங்ஸ் தின வாழ்த்துகள் நெதர்லாந்து! #GoogleDoodle"
+      },
+      "te": {
+        "query": "కింగ్స్ డే",
+        "hover_text": "కింగ్స్ డే 2024",
+        "share_text": "కింగ్స్ డే శుభాకాంక్షలు, నెదర్లాండ్స్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันพระราชสมภพ",
+        "hover_text": "วันพระราชาปี 2024",
+        "share_text": "สุขสันต์วันพระราชสมภพของเนเธอร์แลนด์ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la ga King",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Kgosi, Netherlands! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Kral Günü",
+        "hover_text": "2024 Kral Günü",
+        "share_text": "Kral Günü Kutlaması, Hollanda #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День короля",
+        "hover_text": "День короля у 2024 році",
+        "share_text": "З днем короля, Нідерланди! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "کنگس ڈے",
+        "hover_text": "کنگز ڈے 2024",
+        "share_text": "کنگس ڈے مبارک ہو، نیدر لینڈز! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Qirol kuni",
+        "hover_text": "Qirol kuni 2024",
+        "share_text": "Qirol kuni muborak, Niderlandiya! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày của vua",
+        "hover_text": "Ngày Nhà vua năm 2024",
+        "share_text": "Chúc mừng lễ hội nhà Vua ở Hà Lan! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lwenkosi",
+        "hover_text": "Usuku lweNkosi lwango-2024",
+        "share_text": "Sikufisela Usuku lweNkosi Oluhle, Netherlands! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "King's Day",
+    "share_text": "Happy King's Day, Netherlands! #GoogleDoodle"
+  },
+  {
+    "name": "south-africa-freedom-day-2024",
+    "title": "South Africa Freedom Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/south-africa-freedom-day-2024-6753651837110214.3-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/J29vnbUMLWSaT9FHIHBpdK5aoOi7YdoOWy1XM99oQrFH3YBKhg7wErSOslpncpfz9cguCzJ1OGc6NDUFvKZkvQGZP_SILyH4HV29GdoW_Y6ZsbA9JHGZOw",
+    "high_res_url": "//www.google.com/logos/doodles/2024/south-africa-freedom-day-2024-6753651837110214-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      4,
+      27
+    ],
+    "translations": {
+      "en": {
+        "query": "South Africa Freedom Day",
+        "hover_text": "South Africa Freedom Day 2024",
+        "share_text": "Happy Freedom Day, South Africa! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Suid-Afrika se vryheidsdag",
+        "hover_text": "Suid-Afrika se Vryheidsdag 2024",
+        "share_text": "Gelukkige Vryheidsdag, Suid-Afrika! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Lirisë së Afrikës së Jugut",
+        "hover_text": "Dita e Lirisë së Afrikës së Jugut, 2024",
+        "share_text": "Gëzuar Ditën e Lirisë, Afrikë e Jugut! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የደቡብ አፍሪካ ነጻነት ቀን",
+        "hover_text": "የደቡብ አፍሪካ ነፃነት ቀን 2024",
+        "share_text": "መልካም የነጻነት ቀን ደቡብ አፍሪካ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "يوم تحرير جنوب أفريقيا",
+        "hover_text": "يوم الحرية في جنوب أفريقيا لعام 2024",
+        "share_text": "نتمنّى يوم حرية سعيدًا لجنوب أفريقيا. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Հարավային Աֆրիկայի անկախության օր",
+        "hover_text": "Հարավային Աֆրիկայի անկախության օր 2024",
+        "share_text": "Շնորհավո՛ր անկախության օրը, Հարավային Աֆրիկա #GoogleDoodle"
+      },
+      "az": {
+        "query": "Cənubi Afrika Müstəqillik Günü",
+        "hover_text": "2024 Cənubi Afrikanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Cənubi Afrika! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "দক্ষিণ আফ্রিকার স্বাধীনতা দিবস",
+        "hover_text": "দক্ষিণ আফ্রিকার ফ্রিডম ডে ২০২৪",
+        "share_text": "স্বাধীনতা দিবসের শুভেচ্ছা, দক্ষিণ আফ্রিকা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Hegoafrikako Askatasunaren Eguna",
+        "hover_text": "2024ko Hegoafrikako Askatasunaren Eguna",
+        "share_text": "Askatasunaren Egun zoriontsua izan, Hegoafrika! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень свабоды (Паўднёва-Афрыканская Рэспубліка)",
+        "hover_text": "Дзень свабоды (Паўднёва-Афрыканская Рэспубліка) 2024",
+        "share_text": "З Днём свабоды, Паўднёва-Афрыканская Рэспубліка! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan slobode Južnoafričke Republike",
+        "hover_text": "Dan slobode Južnoafričke Republike 2024.",
+        "share_text": "Sretan Dan slobode, Južnoafrička Republiko! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "South Africa Freedom Day",
+        "hover_text": "South Africa Freedom Day 2024",
+        "share_text": "Happy Freedom Day, South Africa! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на свободата в ЮАР",
+        "hover_text": "Ден на свободата на Южна Африка 2024 г.",
+        "share_text": "Честит Ден на свободата на Южна Африка! #GoogleDoodle"
+      },
+      "my": {
+        "query": "တောင်အာဖရိက လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ တောင်အာဖရိက လွတ်မြောက်မှုနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ ဖြစ်ပါစေ၊ တောင်အာဖရိက။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Llibertat de Sud-àfrica",
+        "hover_text": "Dia de la Llibertat de Sud-àfrica 2024",
+        "share_text": "Feliç Dia de la Llibertat, Sud-àfrica! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "南非自由日",
+        "hover_text": "2024 年南非自由日",
+        "share_text": "南非，自由日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "南非自由日",
+        "hover_text": "2024 年南非自由日",
+        "share_text": "南非，自由日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "南非自由日",
+        "hover_text": "2024 年南非自由日",
+        "share_text": "南非，自由日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan slobode u Južnoafričkoj Republici",
+        "hover_text": "Dan slobode u Južnoafričkoj Republici 2024.",
+        "share_text": "Sretan Dan slobode, Južnoafrička Republiko! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den svobody v Jihoafrické republice",
+        "hover_text": "Den svobody v Jihoafrické republice 2024",
+        "share_text": "Vše nejlepší ke Dni svobody, Jižní Afriko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Sydafrikas frihedsdag",
+        "hover_text": "Sydafrikas frihedsdag 2024",
+        "share_text": "Glædelig befrielsesdag, Sydkorea #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Vrijheidsdag Zuid-Afrika",
+        "hover_text": "Vrijheidsdag Zuid-Afrika 2024",
+        "share_text": "Fijne Vrijheidsdag, Zuid-Afrika! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Lõuna-Aafrika Vabariigi vabaduspäev",
+        "hover_text": "Lõuna-Aafrika Vabariigi 2024. aasta vabaduspäev",
+        "share_text": "Head vabaduse päeva, Lõuna-Aafrika Vabariik! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Etelä-Afrikan vapauden päivä",
+        "hover_text": "Etelä-Afrikan vapauden päivä 2024",
+        "share_text": "Hyvää vapauden päivää, Etelä-Afrikka! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Jour de la Liberté en Afrique du Sud",
+        "hover_text": "Jour de la Liberté en Afrique du Sud 2024",
+        "share_text": "Jour de la Liberté en Afrique du Sud ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de la Liberté de l'Afrique du Sud",
+        "hover_text": "Journée de la Liberté de l'Afrique du Sud 2024",
+        "share_text": "Joyeux jour de la Liberté, Afrique du Sud! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Liberdade de Suráfrica",
+        "hover_text": "Día da Liberdade de Suráfrica 2024",
+        "share_text": "Feliz día da Liberdade, Suráfrica! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "სამხრეთ აფრიკის თავისუფლების დღე",
+        "hover_text": "სამხრეთ აფრიკის თავისუფლების დღე — 2024",
+        "share_text": "ვულოცავთ სამხრეთ აფრიკას თავისუფლების დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Freiheitstag Südafrika",
+        "hover_text": "Freiheitstag Südafrika 2024",
+        "share_text": "Alles Gute zum Freiheitstag in Südafrika! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ελευθερίας Νότιας Αφρικής",
+        "hover_text": "Ημέρα Ελευθερίας της Νότιας Αφρικής 2024",
+        "share_text": "Ευχόμαστε Χαρούμενη Ημέρα Ελευθερίας στη Νότια Αφρική! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "દક્ષિણ આફ્રિકાનો સ્વતંત્ર દિવસ",
+        "hover_text": "દક્ષિણ આફ્રિકાનો સ્વતંત્રતા દિવસ 2024",
+        "share_text": "સ્વતંત્રતા દિવસની શુભેચ્છા, દક્ષિણ આફ્રિકા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום השחרור של דרום אפריקה",
+        "hover_text": "יום החירות של דרום אפריקה 2024",
+        "share_text": "יום שחרור שמח, דרום אפריקה! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "दक्षिण अफ़्रीका का स्वतंत्रता दिवस",
+        "hover_text": "दक्षिण अफ़्रीका का स्वतंत्रता दिवस 2024",
+        "share_text": "स्वतंत्रता दिवस की शुभकानाएं, दक्षिण अफ़्रीका! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A Szabadság napja Dél-Afrikában",
+        "hover_text": "A Szabadság napja Dél-Afrikában, 2024",
+        "share_text": "Boldog Szabadság napját, Dél-Afrika! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Frelsisdagur Suður-Afríku",
+        "hover_text": "Frelsisdagur Suður-Afríku 2024",
+        "share_text": "Gleðilegan frelsisdag, Suður-Afríka! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Afrika Selatan",
+        "hover_text": "Hari Kebebasan Afrika Selatan 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Afrika Selatan! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse na hAfraice Theas",
+        "hover_text": null,
+        "share_text": "Lá Saoirse na hAfraice Theas faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Giornata della libertà sudafricana",
+        "hover_text": "Giornata della libertà sudafricana 2024",
+        "share_text": "Buona festa della libertà, Sudafrica! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "南アフリカ自由の日",
+        "hover_text": "2024 年南アフリカ自由の日",
+        "share_text": "自由の日（南アフリカ）を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ದಕ್ಷಿಣ ಆಫ್ರಿಕಾದ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ದಕ್ಷಿಣ ಆಫ್ರಿಕಾದ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Оңтүстік Африкадағы Еркіндік күні",
+        "hover_text": "Оңтүстік Африка Республикасындағы Еркіндік күні – 2024",
+        "share_text": "Еркіндік күні құтты болсын, Оңтүстік Африка! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​សេរីភាព​អាហ្វ្រិកខាងត្បូង",
+        "hover_text": "ទិវា​សេរីភាពអាហ្វ្រ៊ិកខាងត្បូង​ឆ្នាំ 2024",
+        "share_text": "អបអរទិវា​សេរីភាព​អាហ្វ្រិកខាងត្បូង! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "남아프리카 공화국 자유의 날",
+        "hover_text": "2024년 남아프리카공화국 자유의 날",
+        "share_text": "남아프리카 공화국 자유의 날 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Түштүк Африканын Боштондук күнү",
+        "hover_text": "Түштүк Африканын Боштондук күнү – 2024",
+        "share_text": "Боштондук күнүң менен, Түштүк Африка! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນອິດສະລະພາບອາຟຣິກາໃຕ້",
+        "hover_text": "ວັນອິດສະລະພາບອາຟຣິກາໃຕ້ 2024",
+        "share_text": "ສຸກສັນວັນອິດສະລະພາບ, ອາຟຣິກາໃຕ້! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Libertad de Sudáfrica",
+        "hover_text": "Día de la Libertad de Sudáfrica 2024",
+        "share_text": "¡Feliz Día de la Libertad, Sudáfrica! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Dienvidāfrikas Brīvības diena",
+        "hover_text": "Dienvidāfrikas Brīvības diena — 2024",
+        "share_text": "Sveicam Brīvības dienā, Dienvidāfrika! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Pietų Afrikos Respublikos laisvės diena",
+        "hover_text": "Pietų Afrikos Respublikos laisvės diena, 2024 m.",
+        "share_text": "Sveikiname Pietų Afriką su Laisvės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Денот на слободата на Јужна Африка",
+        "hover_text": "Ден на ослободувањето на Јужноафриканска Република, 2024 г.",
+        "share_text": "Среќен Ден на ослободувањето, Јужна Африка! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Andron'ny fahafahana any Afrika Atsimo",
+        "hover_text": null,
+        "share_text": "Tsarà Andron'ny fahafahana ry Afrika Atsimo ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kebebasan Afrika Selatan",
+        "hover_text": "Hari Kebebasan Afrika Selatan 2024",
+        "share_text": "Selamat Hari Kebebasan, Afrika Selatan! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ദക്ഷിണാഫ്രിക്കൻ സ്വാതന്ത്ര്യ ദിനം",
+        "hover_text": "ദക്ഷിണാഫ്രിക്കൻ സ്വാതന്ത്ര്യ ദിനം 2024",
+        "share_text": "സ്വാതന്ത്ര്യ ദിനാശംസകൾ, ദക്ഷിണാഫ്രിക്ക! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "दक्षिण आफ्रिकेचा स्वातंत्र्यदिन",
+        "hover_text": "दक्षिण आफ्रिकेचा मुक्तिदिन २०२४",
+        "share_text": "दक्षिण आफ्रिकेच्या स्वातंत्र्यदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Өмнөд Африк улсын Эрх чөлөөний өдөр",
+        "hover_text": "2024 оны Өмнөд Африк Улсын Эрх чөлөөний өдөр",
+        "share_text": "Өмнөд Африк улсын ард иргэдэд Эрх чөлөөний өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "दक्षिण अफ्रिकाको मुक्ति दिवस",
+        "hover_text": "दक्षिण अफ्रिकाको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, दक्षिण अफ्रिका! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Sør-Afrikas frihetsdag",
+        "hover_text": "Sør-Afrikas frihetsdag 2024",
+        "share_text": "Gratulerer med frihetsdagen, Sør-Afrika! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଦକ୍ଷିଣ ଆଫ୍ରିକା ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": null,
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, ଦକ୍ଷିଣ ଆଫ୍ରିକା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز آزادی آفریقای جنوبی",
+        "hover_text": "روز آزادی افریقای جنوبی - ۲۰۲۴",
+        "share_text": "روز آزادی مبارک، آفریقای جنوبی! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Wolności RPA",
+        "hover_text": "Dzień Wolności RPA 2024",
+        "share_text": "Republika Południowej Afryki obchodzi Dzień Wyzwolenia #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Liberdade Sul-Africana",
+        "hover_text": "Dia da Liberdade na África do Sul 2024",
+        "share_text": "Feliz Dia da Liberdade, África do Sul! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da liberdade da África do Sul",
+        "hover_text": "Dia da Liberdade da África do Sul de 2024",
+        "share_text": "Feliz dia da liberdade, África do Sul! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਦੱਖਣੀ ਅਫ਼ਰੀਕਾ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ",
+        "hover_text": "ਦੱਖਣੀ ਅਫ਼ਰੀਕਾ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2024",
+        "share_text": "ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਦੱਖਣੀ ਅਫ਼ਰੀਕਾ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Libertății în Africa de Sud",
+        "hover_text": "Ziua Libertății în Africa de Sud – 2024",
+        "share_text": "La mulți ani de Ziua Libertății, Africa de Sud! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "день свободы в юар",
+        "hover_text": "День свободы в ЮАР – 2024",
+        "share_text": "День свободы ЮАР #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан слободе Јужноафричке Републике",
+        "hover_text": "Дан слободе Јужноафричке Републике 2024.",
+        "share_text": "Честитамо Дан слободе Јужноафричкој Републици! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan slobode Južnoafričke Republike",
+        "hover_text": "Dan slobode Južnoafričke Republike 2024.",
+        "share_text": "Čestitamo Dan slobode Južnoafričkoj Republici! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen laliberte Sid Afrik",
+        "hover_text": null,
+        "share_text": "Bonn zournen laliberte, Sid Afrik! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "දකුණු අප්‍රිකාවේ නිදහස් දිනය",
+        "hover_text": "දකුණු අප්‍රිකාවේ නිදහස් දිනය 2024",
+        "share_text": "ප්‍රීතිමත් නිදහස් දිනයක්, දකුණු අප්‍රිකාව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň slobody Južnej Afriky",
+        "hover_text": "Deň slobody Južnej Afriky 2024",
+        "share_text": "Šťastný Deň slobody, Južná Afrika! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Južnoafriški dan svobode",
+        "hover_text": "Južnoafriški dan svobode 2024",
+        "share_text": "Vesel dan svobode, Južna Afrika! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Xornimada Koonfur Afrika",
+        "hover_text": null,
+        "share_text": "Maalinta Farxada leh ee Xoriyada, Koonfur Afrika! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la Afrika Borwa",
+        "hover_text": "Letsatsi la Tokoloho la Afrika Borwa",
+        "share_text": "Mahlohonolo a Letsatsi la Tokoloho, Afrika Borwa! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Libertad de Sudáfrica",
+        "hover_text": "Día de la Libertad de Sudáfrica 2024",
+        "share_text": "¡Feliz Día de la Libertad de Sudáfrica! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Afrika Kusini",
+        "hover_text": "Sikukuu ya Uhuru wa Afrika Kusini 2024",
+        "share_text": "Heri za Sikukuu ya Uhuru wa Afrika Kusini! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Sydafrikas frihetsdag",
+        "hover_text": "Sydafrikas frihetsdag 2024",
+        "share_text": "Vi firar Sydafrikas frihetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "தென்னாப்பிரிக்க சுதந்திர தினம்",
+        "hover_text": "தென் ஆப்பிரிக்கச் சுதந்திர தினம் 2024",
+        "share_text": "சுதந்திர தின வாழ்த்துகள் தென் ஆப்பிரிக்கா! #GoogleDoodle"
+      },
+      "te": {
+        "query": "దక్షిణ ఆఫ్రికా స్వాతంత్య్ర దినం",
+        "hover_text": "దక్షిణాఫ్రికా స్వేచ్ఛా దినోత్సవం 2024",
+        "share_text": "జాతీయ స్వేచ్ఛా దినోత్సవ శుభాకాంక్షలు, దక్షిణాఫ్రికా! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันแห่งเสรีภาพของแอฟริกาใต้",
+        "hover_text": "วันแห่งเสรีภาพของแอฟริกาใต้ปี 2024",
+        "share_text": "สุขสันต์วันแห่งเสรีภาพของแอฟริกาใต้ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Kgololesego ya Aforika Borwa",
+        "hover_text": "Letsatsi la Kgololesego ya Afo",
+        "share_text": "Itumelele la Kgololo, Aforika Borwa! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Güney Afrika Özgürlük Günü",
+        "hover_text": "2024 Güney Afrika Bağımsızlık Günü",
+        "share_text": "Özgürlük Günü Kutlaması, Güney Afrika #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День свободи Південно-Африканської Республіки",
+        "hover_text": "День свободи Південноафриканської Республіки у 2024 році",
+        "share_text": "З днем свободи, Південно-Африканська Республіко! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "جنوبی افریقہ کا یوم آزادی",
+        "hover_text": "جنوبی افریقہ کا یوم آزادی 2024",
+        "share_text": "یوم آزادی مبارک ہو، جنوبی افریقہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Janubiy Afrika mustaqillik kuni",
+        "hover_text": "Janubiy Afrika Mustaqillik kuni 2024",
+        "share_text": "Mustaqillik kuni muborak, Janubiy Afrika! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Nam Phi",
+        "hover_text": "Ngày Tự do Nam Phi năm 2024",
+        "share_text": "Chúc mừng Ngày quốc khánh Nam Phi! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lwenkululeko lwase-South Africa",
+        "hover_text": "Usuku Lwenkululeko LwaseNingizimu Afrika lwango-2024",
+        "share_text": "Sinifisela Usuku Lwenkululeko Oluhle, South Africa #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "South Africa Freedom Day",
+    "share_text": "Happy Freedom Day, South Africa! #GoogleDoodle"
+  },
+  {
     "name": "india-general-elections-2024-ph-2",
     "title": "India General Elections 2024 (Ph 2)",
     "url": "//www.google.com/logos/doodles/2024/india-general-elections-2024-ph-2-6753651837110503-l.png",
