@@ -1,5 +1,504 @@
 [
   {
+    "name": "celebrating-meena-alexander",
+    "title": "Celebrating Meena Alexander",
+    "url": "//www.google.com/logos/doodles/2024/celebrating-meena-alexander-6753651837110216.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/uEYhppX9XUUHOokawvA4dsSDpu5HEr1gEkL1NNA-_UAMyISGcYG4NEmhDcNfJpSbqQGpOd2yDxEOjnZB4T5z075NqXa50Ky_CdMGL6YvjdKzkJDPXnni",
+    "high_res_url": "//www.google.com/logos/doodles/2024/celebrating-meena-alexander-6753651837110216-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2024,
+      5,
+      1
+    ],
+    "translations": {
+      "en": {
+        "query": "Meena Alexander",
+        "hover_text": "Celebrating Meena Alexander",
+        "share_text": "Celebrating Meena Alexander! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Meena Alexander",
+        "hover_text": "Ter viering van Meena Alexander",
+        "share_text": "Ter viering van Meena Alexander! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Meena Alexander",
+        "hover_text": "Përkujtojmë Meena Alexander",
+        "share_text": "Përkujtojmë Meena Alexander! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ሚና አሌክሳንደር",
+        "hover_text": "ሚና አሌክሳንደርን በማክበር ላይ",
+        "share_text": "ሚና አሌክሳንደርን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "مينا ألكسندر",
+        "hover_text": "الاحتفال بذكرى \"مينا ألكسندر\"",
+        "share_text": "نحتفل اليوم بذكرى \"مينا ألكسندر\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Մինա Ալեքսանդր",
+        "hover_text": "Տոնենք Մինա Ալեքսանդրի օրը",
+        "share_text": "Տոնենք Մինա Ալեքսանդրի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Meena Alexander",
+        "hover_text": "Meena Alexander günü",
+        "share_text": "Meena Alexander günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "মীনা আলেকজান্ডার",
+        "hover_text": "মীনা আলেকজান্ডারের কৃতিত্ব উদযাপন করা হচ্ছে",
+        "share_text": "মীনা আলেকজান্ডারের কৃতিত্ব উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Meena Alexander",
+        "hover_text": "Meena Alexanderren omenez",
+        "share_text": "Meena Alexanderren omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Міна Аляксандр",
+        "hover_text": "Ушаноўваем Міну Аляксандр",
+        "share_text": "Ушаноўваем Міну Аляксандр! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Meena Alexander",
+        "hover_text": "Slavimo Meenu Alexander",
+        "share_text": "Slavimo Meenu Alexander! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Meena Alexander",
+        "hover_text": "Celebrating Meena Alexander",
+        "share_text": "Celebrating Meena Alexander! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Мина Алекзандър",
+        "hover_text": "Честване на Мина Алекзандър",
+        "share_text": "Честване на Мина Алекзандър! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Meena Alexander",
+        "hover_text": "Meena Alexander ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "Meena Alexander ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Meena Alexander",
+        "hover_text": "Homenatge a Meena Alexander",
+        "share_text": "Homenatge a Meena Alexander #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Meena Alexander",
+        "hover_text": "紀念 Meena Alexander",
+        "share_text": "紀念 Meena Alexander！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "米納亞歷山大",
+        "hover_text": "紀念米納亞歷山大",
+        "share_text": "紀念米納亞歷山大！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "Meena Alexander",
+        "hover_text": "纪念 Meena Alexander",
+        "share_text": "纪念 Meena Alexander！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Meena Alexander",
+        "hover_text": "U čast Meene Alexander",
+        "share_text": "U čast Meene Alexander! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Meena Alexander",
+        "hover_text": "Pocta Meeně Alexander",
+        "share_text": "Dnes oslavujeme Meenu Alexander! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Meena Alexander",
+        "hover_text": "Vi hylder Meena Alexander",
+        "share_text": "Vi hylder Meena Alexander #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Meena Alexander",
+        "hover_text": "Doodle ter ere van Meena Alexander",
+        "share_text": "Doodle ter ere van Meena Alexander! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Meena Alexander",
+        "hover_text": "Mälestame Meena Alexanderit",
+        "share_text": "Mälestame Meena Alexanderit! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Meena Alexander",
+        "hover_text": "Meena Alexander",
+        "share_text": "Meena Alexander #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Meena Alexander",
+        "hover_text": "Hommage à Meena Alexander",
+        "share_text": "Hommage à Meena Alexander ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Meena Alexander",
+        "hover_text": "Célébration de Meena Alexander",
+        "share_text": "Célébration de Meena Alexander! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Meena Alexander",
+        "hover_text": "Homenaxe a Meena Alexander",
+        "share_text": "Homenaxe a Meena Alexander! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მინა ალექსანდერი",
+        "hover_text": "აღვნიშნავთ მინა ალექსანდერის დღეს",
+        "share_text": "აღვნიშნავთ მინა ალექსანდერის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Meena Alexander",
+        "hover_text": "Zu Ehren von Meena Alexander",
+        "share_text": "Zu Ehren von Meena Alexander! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Meena Alexander",
+        "hover_text": "Τιμούμε τη Meena Alexander",
+        "share_text": "Τιμούμε τη Meena Alexander! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "મીના ઍલેકઝાંડર",
+        "hover_text": "મીના ઍલેકઝાંડરની યાદમાં",
+        "share_text": "મીના ઍલેકઝાંડરની યાદમાં! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Meena Alexander",
+        "hover_text": "מחווה למינה אלכסנדר",
+        "share_text": "מחווה למינה אלכסנדר GoogleDoodle#"
+      },
+      "hi": {
+        "query": "मीना अलेक्ज़ेंडर",
+        "hover_text": "मीना अलेक्ज़ेंडर की याद में",
+        "share_text": "मीना अलेक्ज़ेंडर की याद में! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Meena Alexander",
+        "hover_text": "Meena Alexander ünneplése",
+        "share_text": "Meena Alexander ünneplése. #GoogleDoodle"
+      },
+      "is": {
+        "query": "Meena Alexander",
+        "hover_text": "Við heiðrum Meenu Alexander",
+        "share_text": "Við heiðrum Meenu Alexander! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Meena Alexander",
+        "hover_text": "Mengenang Meena Alexander",
+        "share_text": "Mengenang Meena Alexander #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Meena Alexander",
+        "hover_text": "In onore di Meena Alexander",
+        "share_text": "In onore di Meena Alexander! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ミーナ・アレクサンダー",
+        "hover_text": "ミーナ・アレクサンダーを称えて",
+        "share_text": "ミーナ・アレクサンダーを称えて！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಮೀನಾ ಅಲೆಕ್ಸಾಂಡರ್",
+        "hover_text": "ಮೀನಾ ಅಲೆಕ್ಸಾಂಡರ್ ಅವರನ್ನು ಸ್ಮರಿಸಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಮೀನಾ ಅಲೆಕ್ಸಾಂಡರ್ ಅವರನ್ನು ಸ್ಮರಿಸಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Мина Александер",
+        "hover_text": "Мина Александер күнін атап өту",
+        "share_text": "Мина Александер күнін атап өтейік! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Meena Alexander",
+        "hover_text": "អបអរទិវារំលឹក Meena Alexander",
+        "share_text": "អបអរទិវារំលឹក Meena Alexander! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Meena Alexander",
+        "hover_text": "Meena Alexander를 기억하며",
+        "share_text": "Meena Alexander를 기억하며 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Мина Александер",
+        "hover_text": "Мина Александер күнүн майрамдоо",
+        "share_text": "Мина Александер күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Meena Alexander",
+        "hover_text": "ວັນລະນຶກເຖິງ Meena Alexander",
+        "share_text": "ວັນລະນຶກເຖິງ Meena Alexander! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Meena Alexander",
+        "hover_text": "Celebrando a Meena Alexander",
+        "share_text": "¡Celebrando a Meena Alexander! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Mīna Aleksandra",
+        "hover_text": "Mīnas Aleksandras godināšana",
+        "share_text": "Mīnas Aleksandras godināšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Meena Alexander",
+        "hover_text": "Meenos Alexander minėjimas",
+        "share_text": "Meenos Alexander minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Meena Alexander",
+        "hover_text": "Во чест на Meena Alexander",
+        "share_text": "Во чест на Meena Alexander! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Meena Alexander",
+        "hover_text": "Meraikan Meena Alexander",
+        "share_text": "Meraikan Meena Alexander! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Meena Alexander",
+        "hover_text": "Meena Alexander-നെ ആദരിക്കുന്നു",
+        "share_text": "Meena Alexander-നെ ആദരിക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "मीना अलेक्झांडर",
+        "hover_text": "मीना अलेक्झांडर यांच्या स्मरणार्थ",
+        "share_text": "मीना अलेक्झांडर यांच्या स्मरणार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Мина Александр",
+        "hover_text": "Мина Александрын өдрийг тэмдэглэж байна",
+        "share_text": "Мина Александрын өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Meena Alexander",
+        "hover_text": "Meena Alexander को सम्झना",
+        "share_text": "Meena Alexander को सम्झना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Meena Alexander",
+        "hover_text": "Vi minnes Meena Alexander",
+        "share_text": "Vi minnes Meena Alexander! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "مینا الیگزیندر",
+        "hover_text": "بزرگداشت مینا الیگزیندر",
+        "share_text": "بزرگداشت مینا الیگزیندر! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Meena Alexander",
+        "hover_text": "Wspominamy Meenę Alexander",
+        "share_text": "Wspominamy Meenę Alexander #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Meena Alexander",
+        "hover_text": "Celebração da vida de Meena Alexander",
+        "share_text": "Celebração da vida de Meena Alexander #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Meena Alexander",
+        "hover_text": "Celebração de Meena Alexander",
+        "share_text": "Celebração de Meena Alexander! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਮੀਨਾ ਅਲੈਗਜ਼ੈਂਡਰ",
+        "hover_text": "ਮੀਨਾ ਅਲੈਗਜ਼ੈਂਡਰ ਦੀ ਯਾਦ ਵਿੱਚ",
+        "share_text": "ਮੀਨਾ ਅਲੈਗਜ਼ੈਂਡਰ ਦੀ ਯਾਦ ਵਿੱਚ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Meena Alexander",
+        "hover_text": "În cinstea Meenei Alexander",
+        "share_text": "În cinstea Meenei Alexander! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Мина Александер",
+        "hover_text": "День Мины Александер",
+        "share_text": "День Мины Александер #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Мина Александер",
+        "hover_text": "Славимо Мину Александер",
+        "share_text": "Славимо Мину Александер! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Mina Aleksander",
+        "hover_text": "Slavimo Minu Aleksander",
+        "share_text": "Slavimo Minu Aleksander! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "මීනා ඇලෙක්සැන්ඩර්",
+        "hover_text": "මීනා ඇලෙක්සැන්ඩර් සමරමින්",
+        "share_text": "මීනා ඇලෙක්සැන්ඩර් සමරමින්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Meena Alexanderová",
+        "hover_text": "Pripomíname si Meenu Alexanderovú",
+        "share_text": "Pripomíname si Meenu Alexanderovú. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Meena Alexander",
+        "hover_text": "Slavimo Meeno Alexander",
+        "share_text": "Slavimo Meeno Alexander! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Meena Alexander",
+        "hover_text": "Homenaje a Meena Alexander",
+        "share_text": "Hoy rendimos homenaje a Meena Alexander #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Meena Alexander",
+        "hover_text": "Tunamwenzi Meena Alexander",
+        "share_text": "Tunamwenzi Meena Alexander! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Meena Alexander",
+        "hover_text": "Vi hyllar Meena Alexander",
+        "share_text": "Vi hyllar Meena Alexander #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "மீனா அலெக்சாண்டர்",
+        "hover_text": "மீனா அலெக்சாண்டரைக் கொண்டாடுவோம்",
+        "share_text": "மீனா அலெக்சாண்டரைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "మీనా అలెగ్జాండర్",
+        "hover_text": "మీనా అలెగ్జాండర్ వేడుకలు",
+        "share_text": "మీనా అలెగ్జాండర్ వేడుకలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Meena Alexander",
+        "hover_text": "วันรำลึกถึง Meena Alexander",
+        "share_text": "วันรำลึกถึง Meena Alexander #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Meena Alexander",
+        "hover_text": "Meena Alexander'ı Anıyoruz",
+        "share_text": "Meena Alexander'ı anıyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Міна Александер",
+        "hover_text": "Ушановуємо Міну Александер",
+        "share_text": "Ушановуємо Міну Александер! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Meena Alexander",
+        "hover_text": "Meena Alexander کی یاد میں",
+        "share_text": "Meena Alexander کی یاد میں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Meena Alexander",
+        "hover_text": "Meena Alexander kuni",
+        "share_text": "Meena Alexander kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Meena Alexander",
+        "hover_text": "Tôn vinh Meena Alexander",
+        "share_text": "Tôn vinh Meena Alexander! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Meena Alexander",
+        "hover_text": "Sibungaza u-Meena Alexander",
+        "share_text": "Sibungaza u-Meena Alexander! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Meena Alexander",
+    "share_text": "Celebrating Meena Alexander! #GoogleDoodle"
+  },
+  {
     "name": "labour-day-2024",
     "title": "Labour Day 2024",
     "url": "//www.google.com/logos/doodles/2024/labour-day-2024-6753651837110456.3-l.png",
