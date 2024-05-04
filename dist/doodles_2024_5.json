@@ -1,5 +1,1003 @@
 [
   {
+    "name": "mothers-day-2024-may-4",
+    "title": "Mother's Day 2024 (May 4)",
+    "url": "//www.google.com/logos/doodles/2024/mothers-day-2024-may-4-6753651837110362-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/DRt-8JSFYcMhK8YTg1Xs-Ko-Ugpk0-Gxhb8S6Fo_mw97eflz46aMgGM2LX-yU72iWMHn4bPwnwpnSW606CjBfIpEEwnEO7EQrVGuGUZDESYHTDa3N63m",
+    "high_res_url": "//www.google.com/logos/doodles/2024/mothers-day-2024-may-4-6753651837110362-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      5,
+      4
+    ],
+    "translations": {
+      "en": {
+        "query": "Mother's Day",
+        "hover_text": "Mother's Day (May 4) 2024",
+        "share_text": "Happy Mother's Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Moedersdag",
+        "hover_text": "Moedersdag (4 Mei 2024)",
+        "share_text": "Gelukkige Moedersdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Nënës",
+        "hover_text": "Dita e Nënës (4 maj) 2024",
+        "share_text": "Gëzuar Ditën e Nënës! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የእናቶች ቀን",
+        "hover_text": "የእናቶች ቀን (ሜይ 4) 2024",
+        "share_text": "መልካም የእናቶች ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد الأم",
+        "hover_text": "عيد الأم (4 أيار/مايو) 2024",
+        "share_text": "أجمل التهاني بمناسبة عيد الأمّ. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Մայրերի օր",
+        "hover_text": "Մայրերի օր 2024 (մայիսի 4)",
+        "share_text": "Շնորհավո՛ր մայրերի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Analar Günü",
+        "hover_text": "Analar Günü (4 may) 2024",
+        "share_text": "Analar Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "মাতৃ দিবস",
+        "hover_text": "মাতৃ দিবস (৪ মে) ২০২৪",
+        "share_text": "মাদার্স ডেয়ের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Amaren Eguna",
+        "hover_text": "2024ko Amaren Eguna (maiatzaren 4a)",
+        "share_text": "Amaren Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень маці",
+        "hover_text": "Дзень маці 2024 (4 мая)",
+        "share_text": "З Днём маці! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan majki",
+        "hover_text": "Dan majki (4. maj) 2024.",
+        "share_text": "Sretan Dan majki! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Mother's Day",
+        "hover_text": "Mother's Day (5 May) 2024",
+        "share_text": "Happy Mother's Day! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на майката",
+        "hover_text": "Ден на майката (4 май) 2024 г.",
+        "share_text": "Честит Ден на майката! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အမေများနေ့",
+        "hover_text": "၂၀၂၄ အမေများနေ့ (မေ ၄)",
+        "share_text": "ပျော်ရွှင်ဖွယ်အမေများနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Mare",
+        "hover_text": "Dia de la Mare (4 de maig) 2024",
+        "share_text": "Feliç Dia de la Mare! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "母親節",
+        "hover_text": "2024 年母親節 (5 月 4 日)",
+        "share_text": "母親節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "母親節",
+        "hover_text": "2024 年母親節 (5 月 4 日)",
+        "share_text": "母親節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "母亲节",
+        "hover_text": "2024 年母亲节（5 月 4 日）",
+        "share_text": "母亲节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Majčin dan",
+        "hover_text": "Majčin dan (4. svibnja) 2024.",
+        "share_text": "Sretan Majčin dan! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den matek",
+        "hover_text": "Den matek (4. května) 2024",
+        "share_text": "Vše nejlepší ke Dni matek! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Mors dag",
+        "hover_text": "Mors dag (4. maj) 2024",
+        "share_text": "Vi fejrer mors dag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Moederdag",
+        "hover_text": "Moederdag (4 mei) 2024",
+        "share_text": "Fijne Moederdag #GoogleDoodle"
+      },
+      "et": {
+        "query": "Emadepäev",
+        "hover_text": "Emadepäev (4. mai) 2024",
+        "share_text": "Head emadepäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Äitienpäivä",
+        "hover_text": "Äitienpäivä (4.5.) 2024",
+        "share_text": "Hyvää äitienpäivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête des Mères",
+        "hover_text": "Fête des Mères 2024 (4 mai)",
+        "share_text": "Bonne fête des Mères ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête des Mères",
+        "hover_text": "Fête des Mères 2024 (4 mai)",
+        "share_text": "Joyeuse fête des Mères! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Nai",
+        "hover_text": "Día da Nai 2024",
+        "share_text": "Feliz Día da Nai! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "დედის დღე",
+        "hover_text": "დედის დღე (4 მაისი) 2024",
+        "share_text": "გილოცავთ დედის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Muttertag",
+        "hover_text": "Muttertag (4. Mai) 2024",
+        "share_text": "Alles Gute zum Muttertag! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Γιορτή της Μητέρας",
+        "hover_text": "Γιορτή της Μητέρας (4 Μαΐου) 2024",
+        "share_text": "Πολλές ευχές για τη Γιορτή της Μητέρας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "માતૃ દિવસ",
+        "hover_text": "મધર્સ ડે (4 મે) 2024",
+        "share_text": "મધર્સ ડેની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום האם",
+        "hover_text": "יום האם 2024 (4 במאי)",
+        "share_text": "יום האם שמח! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "मदर्स डे",
+        "hover_text": "मदर्स डे 2024 (4 मई)",
+        "share_text": "मदर्स डे की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Anyák napja",
+        "hover_text": "Anyák napja 2024",
+        "share_text": "Anyák napja #GoogleDoodle"
+      },
+      "is": {
+        "query": "Mæðradagurinn",
+        "hover_text": "Mæðradagurinn 2024 (4. maí)",
+        "share_text": "Gleðilegan mæðradag! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Ibu",
+        "hover_text": "Hari Ibu (4 Mei) 2024",
+        "share_text": "Selamat Hari Ibu! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá na Máithreacha",
+        "hover_text": null,
+        "share_text": "Lá na Máithreacha faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa della mamma",
+        "hover_text": "Festa della mamma 2024 (4 maggio)",
+        "share_text": "Felice festa della mamma! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "母の日",
+        "hover_text": "2024 年母の日（5 月 4 日）",
+        "share_text": "母の日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ತಾಯಂದಿರ ದಿನ",
+        "hover_text": "ತಾಯಂದಿರ ದಿನ (ಮೇ 4) 2024",
+        "share_text": "ತಾಯಂದಿರ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Аналар күні",
+        "hover_text": "Аналар күні — 2024 (4 мамыр)",
+        "share_text": "Аналар күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​រំលឹកគុណម្ដាយ",
+        "hover_text": "ទិវារំលឹកគុណម្ដាយ (4 ឧសភា) 2024",
+        "share_text": "អបអរ​ទិវា​រំលឹកគុណ​ម្ដាយ​! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "어머니날",
+        "hover_text": "2024년 어머니의 날(5월 4일)",
+        "share_text": "어머니날 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Энелер күнү",
+        "hover_text": "Апалар күнү – 2024 (4-май)",
+        "share_text": "Энелер күнү кут болсун! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນແມ່",
+        "hover_text": "ວັນແມ່ປີ 2024 (4 ພຶດສະພາ)",
+        "share_text": "ສຸກສັນວັນແມ່! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Madre",
+        "hover_text": "Día de la Madre 2024 (4 de mayo)",
+        "share_text": "¡Feliz Día de la Madre! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Mātes diena",
+        "hover_text": "Mātes diena — 2024. gada 4. maijs",
+        "share_text": "Sveicam Mātes dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Motinos diena",
+        "hover_text": "Motinos diena (gegužės 4 d.), 2024 m.",
+        "share_text": "Su Motinos diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на мајката",
+        "hover_text": "Ден на мајката (4 мај), 2024 г.",
+        "share_text": "Среќен Ден на мајката! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny reny",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny reny ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Ibu",
+        "hover_text": "Hari Ibu (4 Mei) 2024",
+        "share_text": "Selamat Hari Ibu! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "മാതൃദിനം",
+        "hover_text": "മാതൃദിനം (മെയ് 4) 2024",
+        "share_text": "മാതൃദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "मदर्स डे",
+        "hover_text": "मदर्स डे (४ मे) २०२४",
+        "share_text": "मदर्स डे च्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Ээжүүдийн өдөр",
+        "hover_text": "2024 оны Ээжүүдийн өдөр (5-р сарын 4)",
+        "share_text": "Ээжүүдийн өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "आमाको मुख हेर्ने दिन",
+        "hover_text": "आमाको मुख हेर्ने दिन (मे ४) २०२४",
+        "share_text": "आमाको मुख हेर्ने दिनको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Morsdag",
+        "hover_text": "Morsdag (4. mai) 2024",
+        "share_text": "Gratulerer med morsdagen! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ମାତୃ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ମାତୃ ଦିବସର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز مادر",
+        "hover_text": "روز مادر (۴ مه) ۲۰۲۴",
+        "share_text": "روز مادر مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Matki",
+        "hover_text": "Dzień Matki 2024",
+        "share_text": "Obchodzimy Dzień Matki #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia das Mães",
+        "hover_text": "Dia das Mães 2024 (4 de maio)",
+        "share_text": "Feliz Dia das Mães! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da mãe",
+        "hover_text": "Dia da Mãe (4 de maio) de 2024",
+        "share_text": "Feliz dia da mãe! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਮਾਂ ਦਿਵਸ",
+        "hover_text": "ਮਾਂ ਦਿਵਸ (4 ਮਈ) 2024",
+        "share_text": "ਮਾਂ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Mamei",
+        "hover_text": "Ziua Mamei – 2024 (4 mai)",
+        "share_text": "La mulți ani de Ziua Mamei! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День матери",
+        "hover_text": "День матери – 2024 (4 мая)",
+        "share_text": "С Днем матери! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан мајки",
+        "hover_text": "Дан мајки (4. мај) 2024.",
+        "share_text": "Срећан Дан мајки! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan majki",
+        "hover_text": "Dan majki (4. maj) 2024.",
+        "share_text": "Srećan Dan majki! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Manman",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "මව්වරුන්ගේ දිනය",
+        "hover_text": "මව්වරුන්ගේ දිනය (මැයි 4) 2024",
+        "share_text": "ප්‍රීතිමත් මව්වරුන්ගේ දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň matiek",
+        "hover_text": "Deň matiek (4. máj) 2024",
+        "share_text": "Šťastný Deň matiek! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Materinski dan",
+        "hover_text": "Materinski dan 2024 (4. maj)",
+        "share_text": "Vesel materinski dan! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Hooyada",
+        "hover_text": null,
+        "share_text": "Maalinta Hooyada Farxada leh! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Bomme",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día de la Madre",
+        "hover_text": "Día de la Madre 2024 (4 de mayo)",
+        "share_text": "¡Feliz Día de la Madre! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Akina Mama",
+        "hover_text": "Siku ya Akina Mama 2024 (Tarehe 04 Mei)",
+        "share_text": "Heri za Sikukuu ya Akina Mama! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Mors dag",
+        "hover_text": "Mors dag (4 maj) 2024",
+        "share_text": "Grattis på mors dag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "அன்னையர் தினம்",
+        "hover_text": "அன்னையர் தினம் (மே 4) 2024",
+        "share_text": "அன்னையர் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "మాతృ దినోత్సవం",
+        "hover_text": "మదర్స్ డే (మే 4) 2024",
+        "share_text": "మాతృ దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันแม่",
+        "hover_text": "วันแม่ (4 พฤษภาคม) ปี 2024",
+        "share_text": "สุขสันต์วันแม่ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la ga Mme",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Anneler Günü",
+        "hover_text": "2024 Anneler Günü (4 Mayıs)",
+        "share_text": "Anneler Gününüz Kutlu Olsun. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День матері",
+        "hover_text": "День матері у 2024 році (4 травня)",
+        "share_text": "З Днем матері! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم مادر",
+        "hover_text": "یوم مادر (4 مئی) 2024",
+        "share_text": "یوم مادر مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Onalar kuni",
+        "hover_text": "Onalar kuni (4-may) 2024",
+        "share_text": "Onalar kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày của mẹ",
+        "hover_text": "Ngày của Mẹ (ngày 4 tháng 5) năm 2024",
+        "share_text": "Mừng ngày của Mẹ! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lomama",
+        "hover_text": "Usuku Lomama (4 Meyi) Luka-2024",
+        "share_text": "Sikufisela Usuku Oluhle Lomama! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Mother's Day",
+    "share_text": "Happy Mother's Day! #GoogleDoodle"
+  },
+  {
+    "name": "celebrating-hamida-banu",
+    "title": "Celebrating Hamida Banu",
+    "url": "//www.google.com/logos/doodles/2024/celebrating-hamida-banu-6753651837110217.3-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/BrW_4t6_LOJT_bTFfL4hRtqS8mbzwH2mPQUt120hDquhcQX4KchJGwza3Sl8U2xk9itpDM7edx-xLfpjDmc7RzvTK4ZhTTNWynT3HuTTx6TjJJJ8UGCp1A",
+    "high_res_url": "//www.google.com/logos/doodles/2024/celebrating-hamida-banu-6753651837110217-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      5,
+      4
+    ],
+    "translations": {
+      "en": {
+        "query": "Hamida Banu",
+        "hover_text": "Celebrating Hamida Banu",
+        "share_text": "Celebrating Hamida Banu! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Hamida Banu",
+        "hover_text": "Ter viering van Hamida Banu",
+        "share_text": "Ter viering van Hamida Banu! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Hamida Banu",
+        "hover_text": "Përkujtojmë Hamida Banu",
+        "share_text": "Përkujtojmë Hamida Banu! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ሀሚዳ ባኑ",
+        "hover_text": "ሀሚዳ ባኑን በማክበር ላይ",
+        "share_text": "ሀሚዳ ባኑን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "حميدة بانو",
+        "hover_text": "الاحتفال بذكرى \"حميدة بانو\"",
+        "share_text": "نحتفل اليوم بذكرى \"حميدة بانو\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Համիդա Բանու",
+        "hover_text": "Տոնենք Համիդա Բանուի օրը",
+        "share_text": "Տոնենք Համիդա Բանուի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Hamida Banu",
+        "hover_text": "Hamida Banu günü",
+        "share_text": "Hamida Banu günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "হামিদা বানু",
+        "hover_text": "হামিদা বানুর স্মৃতি উদযাপন করা হচ্ছে",
+        "share_text": "হামিদা বানুর স্মৃতি উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Hamida Banu",
+        "hover_text": "Hamida Banuren omenez",
+        "share_text": "Hamida Banuren omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Хаміда Бану",
+        "hover_text": "Ушаноўваем Хаміду Бану",
+        "share_text": "Ушаноўваем Хаміду Бану! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Hamida Banu",
+        "hover_text": "Slavimo Hamidu Banu",
+        "share_text": "Slavimo Hamidu Banu! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Hamida Banu",
+        "hover_text": "Celebrating Hamida Banu",
+        "share_text": "Celebrating Hamida Banu! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Хамида Бану",
+        "hover_text": "Честване на Хамида Бану",
+        "share_text": "Честване на Хамида Бану! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Hamida Banu",
+        "hover_text": "Hamida Banu ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "Hamida Banu ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Hamida Banu",
+        "hover_text": "Homenatge a Hamida Banu",
+        "share_text": "Homenatge a Hamida Banu #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Hamida Banu",
+        "hover_text": "紀念 Hamida Banu",
+        "share_text": "紀念 Hamida Banu！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "哈米達巴努",
+        "hover_text": "紀念哈米達巴努",
+        "share_text": "紀念哈米達巴努！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "Hamida Banu",
+        "hover_text": "纪念 Hamida Banu",
+        "share_text": "纪念 Hamida Banu！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Hamida Banu",
+        "hover_text": "U čast Hamidi Banu",
+        "share_text": "U čast Hamidi Banu! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Hamida Banu",
+        "hover_text": "Pocta Hamidě Banu",
+        "share_text": "Dnes oslavujeme Hamidu Banu! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Hamida Banu",
+        "hover_text": "Vi hylder Hamida Banu",
+        "share_text": "Vi hylder Hamida Banu #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Hamida Banu",
+        "hover_text": "Doodle ter ere van Hamida Banu",
+        "share_text": "Doodle ter ere van Hamida Banu! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Hamida Banu",
+        "hover_text": "Mälestame Hamida Banut",
+        "share_text": "Mälestame Hamida Banut! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Hamida Banu",
+        "hover_text": "Hamida Banu",
+        "share_text": "Hamida Banu #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Hamida Banu",
+        "hover_text": "Hommage à Hamida Banu",
+        "share_text": "Hommage à Hamida Banu ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Hamida Banu",
+        "hover_text": "Célébration d'Hamida Banu",
+        "share_text": "Célébration d'Hamida Banu! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Hamida Banu",
+        "hover_text": "Homenaxe a Hamida Banu",
+        "share_text": "Homenaxe a Hamida Banu! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ჰამიდა ბანუ",
+        "hover_text": "აღვნიშნავთ ჰამიდა ბანუს დღეს",
+        "share_text": "აღვნიშნავთ ჰამიდა ბანუს დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Hamida Banu",
+        "hover_text": "Zu Ehren von Hamida Banu",
+        "share_text": "Zu Ehren von Hamida Banu! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Hamida Banu",
+        "hover_text": "Τιμούμε τη Hamida Banu",
+        "share_text": "Τιμούμε τη Hamida Banu! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "હમીદા બાનુ",
+        "hover_text": "હમીદા બાનુની યાદમાં",
+        "share_text": "હમીદા બાનુની યાદમાં! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Hamida Banu",
+        "hover_text": "מחווה לחמידה באנו",
+        "share_text": "מחווה לחמידה באנו GoogleDoodle#"
+      },
+      "hi": {
+        "query": "हमीदा बानो",
+        "hover_text": "हमीदा बानो की याद में",
+        "share_text": "हमीदा बानो की याद में! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Hamida Banu",
+        "hover_text": "Hamida Banu ünneplése",
+        "share_text": "Hamida Banu ünneplése #GoogleDoodle"
+      },
+      "is": {
+        "query": "Hamida Banu",
+        "hover_text": "Við heiðrum Hamidu Banu",
+        "share_text": "Við heiðrum Hamidu Banu! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hamida Banu",
+        "hover_text": "Mengenang Hamida Banu",
+        "share_text": "Mengenang Hamida Banu #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Hamida Banu",
+        "hover_text": "In onore di Hamida Banu",
+        "share_text": "In onore di Hamida Banu! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ハミダ バヌー",
+        "hover_text": "ハミダ バヌーを称えて",
+        "share_text": "ハミダ バヌーを称えて！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಹಮೀದಾ ಬಾನು",
+        "hover_text": "ಹಮೀದಾ ಬಾನು ಅವರನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಹಮೀದಾ ಬಾನು ಅವರನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Хамида Бану",
+        "hover_text": "Хамида Бану күні",
+        "share_text": "Хамида Бану күні #GoogleDoodle"
+      },
+      "km": {
+        "query": "Hamida Banu",
+        "hover_text": "អបអរទិវារំលឹក Hamida Banu",
+        "share_text": "អបអរទិវារំលឹក Hamida Banu! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Hamida Banu",
+        "hover_text": "Hamida Banu를 기억하며",
+        "share_text": "Hamida Banu를 기억하며 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Хамида Бану",
+        "hover_text": "Хамида Бану күнүн майрамдоо",
+        "share_text": "Хамида Бану күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Hamida Banu",
+        "hover_text": "ສະເຫຼີມສະຫຼອງໃຫ້ກັບ Hamida Banu",
+        "share_text": "ສະເຫຼີມສະຫຼອງໃຫ້ກັບ Hamida Banu! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Hamida Banu",
+        "hover_text": "Celebrando a Hamida Banu",
+        "share_text": "¡Celebrando a Hamida Banu! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Hamida Banu",
+        "hover_text": "Hamidas Banu godināšana",
+        "share_text": "Hamidas Banu godināšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Hamida Banu",
+        "hover_text": "Hamidos Banu minėjimas",
+        "share_text": "Hamidos Banu minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Hamida Banu",
+        "hover_text": "Во чест на Hamida Banu",
+        "share_text": "Во чест на Hamida Banu! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Hamida Banu",
+        "hover_text": "Meraikan Hamida Banu",
+        "share_text": "Meraikan Hamida Banu! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Hamida Banu",
+        "hover_text": "Hamida Banu-വിനെ ആദരിക്കുന്നു",
+        "share_text": "Hamida Banu-വിനെ ആദരിക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "हमिदा बानू",
+        "hover_text": "हमिदा बानू यांच्या स्मरणार्थ",
+        "share_text": "हमिदा बानू यांच्या स्मरणार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Хамида Бану",
+        "hover_text": "Хамида Банугийн өдрийг тэмдэглэж байна",
+        "share_text": "Хамида Банугийн өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Hamida Banu",
+        "hover_text": "Hamida Banu को सम्झना",
+        "share_text": "Hamida Banu को सम्झना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Hamida Banu",
+        "hover_text": "Vi minnes Hamida Banu",
+        "share_text": "Vi minnes Hamida Banu! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "حمیده بانو",
+        "hover_text": "بزرگداشت حمیده بانو",
+        "share_text": "بزرگداشت حمیده بانو! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Hamida Banu",
+        "hover_text": "Wspominamy Hamidę Banu",
+        "share_text": "Wspominamy Hamidę Banu #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Hamida Banu",
+        "hover_text": "Celebração da vida de Hamida Banu",
+        "share_text": "Celebração da vida de Hamida Banu #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Hamida Banu",
+        "hover_text": "Celebração de Hamida Banu",
+        "share_text": "Celebração de Hamida Banu! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਹਮੀਦਾ ਬਾਨੂ",
+        "hover_text": "ਹਮੀਦਾ ਬਾਨੂ ਦੀ ਯਾਦ ਵਿੱਚ",
+        "share_text": "ਹਮੀਦਾ ਬਾਨੂ ਦੀ ਯਾਦ ਵਿੱਚ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Hamida Banu",
+        "hover_text": "În cinstea lui Hamida Banu",
+        "share_text": "În cinstea lui Hamida Banu! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Хамида Бану",
+        "hover_text": "День Хамиды Бану",
+        "share_text": "День Хамиды Бану #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Хамида Бану",
+        "hover_text": "Славимо Хамиду Бану",
+        "share_text": "Славимо Хамиду Бану! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Hamida Banu",
+        "hover_text": "Slavimo Hamidu Banu",
+        "share_text": "Slavimo Hamidu Banu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "හමිදා බානු",
+        "hover_text": "හමිදා බානු සමරමින්",
+        "share_text": "හමිදා බානු සමරමින්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Hamida Banuová",
+        "hover_text": "Pripomíname si Hamidu Banuovú",
+        "share_text": "Pripomíname si Hamidu Banuovú. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Hamida Banu",
+        "hover_text": "Slavimo Hamido Banu",
+        "share_text": "Slavimo Hamido Banu! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Hamida Banu",
+        "hover_text": "Homenaje a Hamida Banu",
+        "share_text": "Hoy rendimos homenaje a Hamida Banu #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Hamida Banu",
+        "hover_text": "Tunamwenzi Hamida Banu",
+        "share_text": "Tunamwenzi Hamida Banu! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Hamida Banu",
+        "hover_text": "Vi hyllar Hamida Banu",
+        "share_text": "Vi hyllar Hamida Banu #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஹமீதா பானு",
+        "hover_text": "ஹமீதா பானுவைக் கொண்டாடுவோம்",
+        "share_text": "ஹமீதா பானுவைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "హమీదా బాను",
+        "hover_text": "హమీదా బానును స్మరించుకుందాం",
+        "share_text": "హమీదా బానును స్మరించుకుందాం! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Hamida Banu",
+        "hover_text": "วันรำลึกถึง Hamida Banu",
+        "share_text": "วันรำลึกถึง Hamida Banu #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Hamide Banu Begüm",
+        "hover_text": "Hamide Banu Begüm'ü Anıyoruz",
+        "share_text": "Hamide Banu Begüm'ü anıyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Хаміда Бану",
+        "hover_text": "Ушановуємо Хаміду Бану",
+        "share_text": "Ушановуємо Хаміду Бану! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "حمیدہ بانو",
+        "hover_text": "حمیدہ بانو کی یاد میں",
+        "share_text": "حمیدہ بانو کی یاد میں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Hamida Banu",
+        "hover_text": "Hamida Banu kuni",
+        "share_text": "Hamida Banu kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Hamida Banu",
+        "hover_text": "Tôn vinh Hamida Banu",
+        "share_text": "Tôn vinh Hamida Banu! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Hamida Banu",
+        "hover_text": "Sibungaza u-Hamida Banu",
+        "share_text": "Sibungaza u-Hamida Banu! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Hamida Banu",
+    "share_text": "Celebrating Hamida Banu! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-meena-alexander",
     "title": "Celebrating Meena Alexander",
     "url": "//www.google.com/logos/doodles/2024/celebrating-meena-alexander-6753651837110216.2-l.png",
