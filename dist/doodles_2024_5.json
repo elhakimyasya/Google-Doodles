@@ -1,5 +1,1502 @@
 [
   {
+    "name": "teachers-day-2024-may-07",
+    "title": "Teachers' Day 2024 (May 07)",
+    "url": "//www.google.com/logos/doodles/2024/teachers-day-2024-may-07-6753651837110426-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/og98wMhBBAy14GDJUKmnO65N4SptB4PLjpKgUs4SVn_jrD2uRrsax5nS2Kj2NNMCvrcfEJnXVg4E5wg81Qr_26-0obXoa22HLw0L7GV0f-lwHhgFvAgH4QQ",
+    "high_res_url": "//www.google.com/logos/doodles/2024/teachers-day-2024-may-07-6753651837110426-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      5,
+      7
+    ],
+    "translations": {
+      "en": {
+        "query": "Teachers' Day",
+        "hover_text": "Teachers' Day 2024 (May 07) 2024",
+        "share_text": "Happy Teachers' Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Onderwysersdag",
+        "hover_text": "Onderwysersdag 2024 (7 Mei 2024)",
+        "share_text": "Gelukkige Onderwysersdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Mësuesit 2019",
+        "hover_text": "Dita e Mësuesit, 2024 (7 maj)",
+        "share_text": "Gëzuar Ditën e Mësuesit! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአስተማሪዎች ቀን",
+        "hover_text": "የመምህራን ቀን 2024 (ሜይ 07) 2024",
+        "share_text": "መልካም የአስተማሪዎች ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "يوم المعلِّم",
+        "hover_text": "عيد المعلّم 2024 (7 أيار/مايو)",
+        "share_text": "نتمنّى عيدًا سعيدًا للمعلّمين. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ուսուցչի օր",
+        "hover_text": "Ուսուցիչների օր 2024 (մայիսի 7)",
+        "share_text": "Շնորհավո՛ր ուսուցիչների օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Müəllimlər Günü",
+        "hover_text": "2024 Müəllimlər Günü (7 may) 2024",
+        "share_text": "Müəllimlər Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "শিক্ষক দিবস",
+        "hover_text": "শিক্ষক দিবস ২০২৪ (০৭ মে)",
+        "share_text": "শিক্ষক দিবসের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Irakasleen Eguna",
+        "hover_text": "2024ko Irakasleen Eguna (maiatzaren 7a)",
+        "share_text": "Irakasleen Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень настаўніка",
+        "hover_text": "Дзень настаўніка 2024 (7 мая)",
+        "share_text": "З Днём настаўніка! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nastavnika",
+        "hover_text": "Dan nastavnika (7. maj) 2024.",
+        "share_text": "Sretan Dan nastavnika! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Teachers' Day",
+        "hover_text": "Teachers' Day 2024 (7 May)",
+        "share_text": "Happy Teachers' Day! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на учителя",
+        "hover_text": "Ден на учителя 2024 г. (7 май)",
+        "share_text": "Честит Ден на учителя! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဆရာများနေ့",
+        "hover_text": "၂၀၂၄ ဆရာများနေ့ (မေ ၇)",
+        "share_text": "ပျော်ရွှင်ဖွယ် ဆရာများနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia del Mestre",
+        "hover_text": "Dia del Mestre 2024 (7 de maig)",
+        "share_text": "Feliç Dia del Mestre! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "教師日",
+        "hover_text": "2024 年教師日 (5 月 7 日)",
+        "share_text": "教師日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "教師節",
+        "hover_text": "2024 年教師節 (5 月 7 日)",
+        "share_text": "教師節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "教师节",
+        "hover_text": "2024 年教师节（5 月 7 日）",
+        "share_text": "教师节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan učitelja",
+        "hover_text": "Dan učitelja 2024. (7. svibnja)",
+        "share_text": "Sretan Dan učitelja! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den učitelů",
+        "hover_text": "Den učitelů 2024 (7. května)",
+        "share_text": "Veselý Den učitelů! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Lærernes dag",
+        "hover_text": "Lærernes day 2024",
+        "share_text": "Glædelig lærernes dag! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Lerarendag",
+        "hover_text": "Lerarendag 2024 (7 mei)",
+        "share_text": "Fijne Lerarendag! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Õpetajate päev",
+        "hover_text": "2024. aasta õpetajate päev (7. mai)",
+        "share_text": "Head õpetajatepäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Opettajien päivä",
+        "hover_text": "Opettajien päivä 2024 (7. toukokuuta)",
+        "share_text": "Hyvää opettajien päivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Journée des professeurs",
+        "hover_text": "Journée des enseignants 2024 (7 mai)",
+        "share_text": "Bonne fête des professeurs ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête des professeurs",
+        "hover_text": "Journée des enseignantes et des enseignants 2024 (7 mai)",
+        "share_text": "Joyeuse fête des enseignants! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día do Mestre",
+        "hover_text": "Día do Mestre 2024",
+        "share_text": "Feliz Día do Mestre! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მასწავლებლის დღე",
+        "hover_text": "მასწავლებლის დღე — 2024 (7 მაისი)",
+        "share_text": "გილოცავთ მასწავლებლის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Lehrertag",
+        "hover_text": "Weltlehrertag 2024 (07. Mai)",
+        "share_text": "Alles Gute zum Tag der Lehrer! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα των Εκπαιδευτικών",
+        "hover_text": "Ημέρα των Εκπαιδευτικών (7 Μαΐου) 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα των Εκπαιδευτικών! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "શિક્ષક દિવસ",
+        "hover_text": "શિક્ષક દિવસ 2024 (7 મે) 2024",
+        "share_text": "શિક્ષક દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום המורים",
+        "hover_text": "יום המורה 2024 (7 במאי)",
+        "share_text": "יום המורה שמח! ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "शिक्षक दिवस",
+        "hover_text": "शिक्षक दिवस 2024 (07 मई)",
+        "share_text": "शिक्षक दिवस की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Pedagógusnap",
+        "hover_text": "Pedagógusnap, 2024 (május 7.)",
+        "share_text": "Boldog pedagógusnapot! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Kennaradagurinn",
+        "hover_text": "Kennaradagurinn 2024 (7. maí)",
+        "share_text": "Gleðilegan kennaradag! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Guru",
+        "hover_text": "Hari Guru 2024 (7 Mei)",
+        "share_text": "Selamat Hari Guru! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá na Múinteoirí",
+        "hover_text": null,
+        "share_text": "Lá na Múinteoirí faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa degli insegnanti",
+        "hover_text": "Festa degli insegnanti 2024 (7 maggio)",
+        "share_text": "Buona festa degli insegnanti! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "教師の日",
+        "hover_text": "2024 年教師の日（5 月 7 日）",
+        "share_text": "教師の日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಶಿಕ್ಷಕರ ದಿನಾಚರಣೆ",
+        "hover_text": "ಶಿಕ್ಷಕರ ದಿನಾಚರಣೆ 2024 (ಮೇ 07)",
+        "share_text": "ಶಿಕ್ಷಕರ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Мұғалімдер күні",
+        "hover_text": "Мұғалімдер күні – 2024 (7 мамыр)",
+        "share_text": "Мұғалімдер күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​គ្រូបង្រៀន",
+        "hover_text": "ទិវា​គ្រូបង្រៀន​ឆ្នាំ 2024 (07 ឧសភា) 2024",
+        "share_text": "អបអរ​ទិវា​គ្រូបង្រៀន! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "스승의 날",
+        "hover_text": "2024년 선생님의 날(5월 7일)",
+        "share_text": "스승의 날 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Мугалимдер күнү",
+        "hover_text": "Мугалимдер күнү – 2024 (7-май)",
+        "share_text": "Мугалимдер күнүңүз менен! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຄູ",
+        "hover_text": "ວັນຄູປີ 2024 (7 ພຶດສະພາ)",
+        "share_text": "ສຸກສັນວັນຄູ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día del Maestro",
+        "hover_text": "Día del Maestro 2024 (7 de mayo)",
+        "share_text": "¡Feliz Día del Maestro! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Skolotāju diena",
+        "hover_text": "Skolotāju diena — 2024. gada 7. maijs",
+        "share_text": "Sveicam Skolotāju dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Mokytojų diena",
+        "hover_text": "Mokytojų diena, 2024 m. (gegužės 7 d.)",
+        "share_text": "Linksmos Mokytojų dienos! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на наставниците",
+        "hover_text": "Ден на наставниците (7 мај), 2024 г.",
+        "share_text": "Среќен ден на наставниците! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Andron'ny mpampianatra",
+        "hover_text": null,
+        "share_text": "Tsarà Andron'ny mpampianatra ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Guru",
+        "hover_text": "Hari Guru 2024 (07 Mei) 2024",
+        "share_text": "Selamat Hari Guru! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "അദ്ധ്യാപകദിനം",
+        "hover_text": "അധ്യാപക ദിനം 2024 (മെയ് 7)",
+        "share_text": "അദ്ധ്യാപക ദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "शिक्षक दिन",
+        "hover_text": "शिक्षकदिन २०२४ (७ मे) २०२४",
+        "share_text": "शिक्षक दिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Багш нарын баяр",
+        "hover_text": "2024 оны Багш нарын өдөр (5-р сарын 7)",
+        "share_text": "Багш нарын баярын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "शिक्षक दिवस",
+        "hover_text": "शिक्षक दिवस २०२४ (मे ०७)",
+        "share_text": "शिक्षक दिवस शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Lærernes dag",
+        "hover_text": "Lærernes dag 2024 (7. mai)",
+        "share_text": "Gratulerer med lærernes dag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଗୁରୁ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ଗୁରୁ ଦିବସର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز معلم",
+        "hover_text": "روز معلم ۲۰۲۴ (۷ مه)",
+        "share_text": "روز معلم مبارک! #GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Nauczyciela",
+        "hover_text": "Dzień Nauczyciela 2024",
+        "share_text": "Szczęśliwego Dnia Nauczyciela! #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia do Professor",
+        "hover_text": "Dia dos Professores 2024 (7 de maio)",
+        "share_text": "Feliz Dia do Professor! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia dos Professores",
+        "hover_text": "Dia do Professor de 2024 (7 de maio)",
+        "share_text": "Feliz dia do professor! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਅਧਿਆਪਕ ਦਿਵਸ",
+        "hover_text": "ਅਧਿਆਪਕ ਦਿਵਸ (07 ਮਈ) 2024",
+        "share_text": "ਅਧਿਆਪਕ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua profesorului",
+        "hover_text": "Ziua Profesorului – 2024 (7 mai)",
+        "share_text": "La mulți ani de Ziua Profesorului! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День учителя",
+        "hover_text": "День учителя – 2024 (7 мая)",
+        "share_text": "День учителя #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан учитеља",
+        "hover_text": "Дан учитеља (7. мај) 2024.",
+        "share_text": "Срећан Дан учитеља! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan učitelja",
+        "hover_text": "Dan učitelja (7. maj) 2024.",
+        "share_text": "Srećan Dan učitelja! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Ansenyan",
+        "hover_text": null,
+        "share_text": "Bonn fet asennyan! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ගුරු දිනය",
+        "hover_text": "ගුරුවරුන්ගේ දිනය 2024 (මැයි 07) 2024",
+        "share_text": "ප්‍රීතිමත් ගුරු දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň učiteľov",
+        "hover_text": "Deň učiteľov 2024 (7. máj)",
+        "share_text": "Šťastný Deň učiteľov! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan učiteljev",
+        "hover_text": "Dan učiteljev 2024 (7. maj)",
+        "share_text": "Vesel dan učiteljev! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Macalimiinta",
+        "hover_text": null,
+        "share_text": "Maalinta Macalinka oo Farxada leh! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Barutis",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Barutisi la 2021! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día del Maestro",
+        "hover_text": "Día del Maestro 2024 (7 de mayo)",
+        "share_text": "¡Feliz Día del Maestro! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Walimu",
+        "hover_text": "Siku ya Walimu 2024 (Tarehe 07 Mei)",
+        "share_text": "Heri za Sikukuu ya Walimu! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Lärarnas dag",
+        "hover_text": "Lärarnas dag 2024 (7 maj)",
+        "share_text": "Vi firar lärarnas dag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஆசிரியர் தினம்",
+        "hover_text": "ஆசிரியர் தினம் 2024 (மே 07)",
+        "share_text": "ஆசிரியர் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఉపాధ్యాయుల దినోత్సవం",
+        "hover_text": "ఉపాధ్యాయుల దినోత్సవం 2024 (మే 07)",
+        "share_text": "ఉపాధ్యాయుల దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันครู",
+        "hover_text": "วันครูปี 2024 (7 พฤษภาคม)",
+        "share_text": "สุขสันต์วันครู #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Barutabana",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Barutabana! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Öğretmenler Günü",
+        "hover_text": "2024 Öğretmenler Günü (7 Mayıs)",
+        "share_text": "Öğretmenler Günü Kutlaması. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День учителя",
+        "hover_text": "День учителя у 2024 році (7 травня)",
+        "share_text": "З Днем учителя! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم اساتذہ",
+        "hover_text": "یوم اساتذہ 2024 (مئی 07) 2024",
+        "share_text": "یوم اساتذہ مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Ustozlar kuni",
+        "hover_text": "Ustozlar kuni (7-may) 2024",
+        "share_text": "Ustozlar kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Nhà giáo",
+        "hover_text": "Ngày Nhà giáo năm 2024 (ngày 7 tháng 5)",
+        "share_text": "Chúc mừng ngày Nhà giáo! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lothisha",
+        "hover_text": "Usuku Lothisha lwango-2024 (07 Meyi) 2024",
+        "share_text": "Sikufisela Usuku Oluhle Lothisha! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Teachers' Day",
+    "share_text": "Happy Teachers' Day! #GoogleDoodle"
+  },
+  {
+    "name": "india-general-elections-2024-ph-3",
+    "title": "India General Elections 2024 (Ph 3)",
+    "url": "//www.google.com/logos/doodles/2024/india-general-elections-2024-ph-3-6753651837110504-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/4RGSqtXR7sZqyk2Z3Mwb0tt9thwVgS2invrmwDdrNcUegXkj4eIsIvP7-Wi7HzweB0okfzU3krIOFGMdtvWxVMCz4OPNaI0x3nXbpQoJQuhSpvU2sdo9kJA",
+    "high_res_url": "//www.google.com/logos/doodles/2024/india-general-elections-2024-ph-3-6753651837110504-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      5,
+      7
+    ],
+    "translations": {
+      "en": {
+        "query": "India General Elections 2024",
+        "hover_text": "India General Elections 2024",
+        "share_text": "India General Elections 2024! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "am": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ar": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hy": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "az": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bn": {
+        "query": "ভারতের সাধারণ নির্বাচন",
+        "hover_text": "ভারতের সাধারণ নির্বাচন ২০২৪",
+        "share_text": "ভারতের সাধারণ নির্বাচন ২০২৪! #GoogleDoodle"
+      },
+      "eu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "be": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "my": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ca": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "cs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "da": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "nl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "et": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "de": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "el": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gu": {
+        "query": "ભારતની સામાન્ય ચૂંટણીઓ 2024",
+        "hover_text": "ભારતની રાષ્ટ્રીય ચૂંટણીઓ 2024",
+        "share_text": "ભારતની રાષ્ટ્રીય ચૂંટણીઓ 2024! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hi": {
+        "query": "भारत का आम चुनाव 2024",
+        "hover_text": "भारत का आम चुनाव 2024",
+        "share_text": "भारत के लोकसभा चुनाव 2024! #GoogleDoodle"
+      },
+      "hu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "is": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "id": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ja": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "kn": {
+        "query": "ಭಾರತದ ಸಾರ್ವತ್ರಿಕ ಚುನಾವಣೆಗಳು 2024",
+        "hover_text": "ಭಾರತದ ಸಾರ್ವತ್ರಿಕ ಚುನಾವಣೆಗಳು 2024",
+        "share_text": "ಭಾರತದ ಸಾರ್ವತ್ರಿಕ ಚುನಾವಣೆಗಳು 2024! #GoogleDoodle"
+      },
+      "kk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ko": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ky": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lv": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ml": {
+        "query": "ഇന്ത്യയിലെ പൊതുതിരഞ്ഞെടുപ്പ് 2024",
+        "hover_text": "ഇന്ത്യയിലെ പൊതുതിരഞ്ഞെടുപ്പ് 2024",
+        "share_text": "ഇന്ത്യയിലെ പൊതുതിരഞ്ഞെടുപ്പ് 2024! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "भारताच्या सर्वसाधारण निवडणुका २०२४",
+        "hover_text": "ഇന്ത്യയിലെ പൊതുതിരഞ്ഞെടുപ്പ് 2024! #GoogleDoodle",
+        "share_text": "भारताच्या सर्वसाधारण निवडणुका २०२४! #GoogleDoodle"
+      },
+      "mn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ne": {
+        "query": "भारतको आम निर्वाचन २०२४",
+        "hover_text": "भारतको आम निर्वाचन २०२४",
+        "share_text": "भारतको आम निर्वाचन २०२४! #GoogleDoodle"
+      },
+      "no": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": "ਭਾਰਤ ਦੀਆਂ ਆਮ ਚੋਣਾਂ 2024",
+        "hover_text": "ਭਾਰਤ ਦੀਆਂ ਆਮ ਚੋਣਾਂ 2024",
+        "share_text": "ਭਾਰਤ ਦੀਆਂ ਆਮ ਚੋਣਾਂ 2024! #GoogleDoodle"
+      },
+      "ro": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sw": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sv": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "இந்தியப் பொதுத் தேர்தல்கள் 2024",
+        "hover_text": "இந்தியப் பொதுத் தேர்தல்கள் 2024",
+        "share_text": "இந்தியப் பொதுத் தேர்தல்கள் 2024! #GoogleDoodle"
+      },
+      "te": {
+        "query": "భారతదేశ సార్వత్రిక ఎన్నికలు 2024",
+        "hover_text": "భారతదేశ సార్వత్రిక ఎన్నికలు 2024",
+        "share_text": "భారతదేశ సార్వత్రిక ఎన్నికలు 2024! #GoogleDoodle"
+      },
+      "th": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ur": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uz": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "vi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "India General Elections 2024",
+    "share_text": "India General Elections 2024! #GoogleDoodle"
+  },
+  {
+    "name": "us-teacher-appreciation-week-2024-begins",
+    "title": "US Teacher Appreciation Week 2024 Begins!",
+    "url": "//www.google.com/logos/doodles/2024/us-teacher-appreciation-week-2024-begins-6753651837110457.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/Lpu-2uOS01QLYojtHinBM0Y6Pzn3N6c4noPltUGrCW5YN5yMuPz3ghlCZrDq0qPLxbZlNJjYI2ae21SBDUNXp-Ey1_Ucdx7r12N4FZu7HgwC_n9VaI4Iblg",
+    "high_res_url": "//www.google.com/logos/doodles/2024/us-teacher-appreciation-week-2024-begins-6753651837110457-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      5,
+      6
+    ],
+    "translations": {
+      "en": {
+        "query": "US Teacher Appreciation Week",
+        "hover_text": "US Teacher Appreciation Week 2024 Begins!",
+        "share_text": "US Teacher Appreciation Week 2024 Begins! #GoogleDoodle"
+      },
+      "af": {
+        "query": "VSA se Onderwyserwaarderingweek",
+        "hover_text": "VSA se Onderwyserwaarderingweek 2024 begin!",
+        "share_text": "VSA se Onderwyserwaarderingweek 2024 begin! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Java e Mirënjohjes për Mësuesit në Shtetet e Bashkuara",
+        "hover_text": "Fillon Java e mirënjohjes për mësuesit në SHBA e vitit 2024!",
+        "share_text": "Fillon Java e mirënjohjes për mësuesit në SHBA e vitit 2024! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የዩኤስ የመምህራን ምስጋና ሳምንት",
+        "hover_text": "የአሜሪካ መምህራን የምስጋና ሳምንት 2024 ጀምሯል!",
+        "share_text": "የአሜሪካ መምህራን የምስጋና ሳምንት 2024 ጀምሯል! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "أسبوع تقدير المعلّم في الولايات المتحدة",
+        "hover_text": "بدأ أسبوع تقدير المُعلّم لعام 2024 في الولايات المتحدة!",
+        "share_text": "بدأ أسبوع تقدير المُعلّم لعام 2024 في الولايات المتحدة! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "ԱՄՆ-ի ուսուցիչներին նվիրված երախտապարտության շաբաթ",
+        "hover_text": "2024 Ուսուցիչների գնահատանքի շաբաթը ԱՄՆ-ում մեկնարկում է",
+        "share_text": "2024 Ուսուցիչների գնահատանքի շաբաթը ԱՄՆ-ում մեկնարկում է #GoogleDoodle"
+      },
+      "az": {
+        "query": "ABŞ Müəllimlər Həftəsi",
+        "hover_text": "2024 ABŞ Müəllimlərinin Qiymətləndirilməsi Həftəsi Başlayır!",
+        "share_text": "2024 ABŞ Müəllimlərinin Qiymətləndirilməsi Həftəsi Başlayır! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "আমেরিকায় টিচার অ্যাপ্রিসিয়েশন উইক",
+        "hover_text": "মার্কিন যুক্তরাষ্ট্রে ২০২৪ সালের শিক্ষক সংবর্ধনা সপ্তাহ শুরু হচ্ছে!",
+        "share_text": "মার্কিন যুক্তরাষ্ট্রে ২০২৪ সালের শিক্ষক সংবর্ধনা সপ্তাহ শুরু হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "AEBko irakasleen lana aintzatesteko astea",
+        "hover_text": "Hemen da 2024ko AEBko Irakasleen Lana Aintzatesteko Astea",
+        "share_text": "Hemen da 2024ko AEBko Irakasleen Lana Aintzatesteko Astea #GoogleDoodle"
+      },
+      "be": {
+        "query": "Тыдзень удзячнасці настаўнікам ЗША",
+        "hover_text": "Пачынаецца Тыдзень удзячнасці настаўнікам у ЗША 2024!",
+        "share_text": "Пачынаецца Тыдзень удзячнасці настаўнікам у ЗША 2024! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Sedmica poštovanja nastavnika u SAD-u",
+        "hover_text": "Počinje Sedmica poštovanja nastavnika u SAD-u 2024!",
+        "share_text": "Počinje Sedmica poštovanja nastavnika u SAD-u 2024! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "US Teacher Appreciation Week",
+        "hover_text": "US Teacher Appreciation Week 2024 begins!",
+        "share_text": "US Teacher Appreciation Week 2024 begins! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Седмица на признателността към учителите в САЩ",
+        "hover_text": "Започва седмицата на признателността към учителите в САЩ 2024 г.!",
+        "share_text": "Започва седмицата на признателността към учителите в САЩ 2024 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ယူအက်စ် အာစရိယပူဇော်ပွဲ သီတင်းပတ်",
+        "hover_text": "၂၀၂၄ ယူအက်စ် အာစရိယပူဇော်ပွဲသီတင်းပတ် စတင်ပါပြီ။",
+        "share_text": "၂၀၂၄ ယူအက်စ် အာစရိယပူဇော်ပွဲသီတင်းပတ် စတင်ပါပြီ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Setmana d'agraïment als mestres dels Estats Units",
+        "hover_text": "Comença la setmana d'agraïment als mestres als EUA 2024",
+        "share_text": "Comença la setmana d'agraïment als mestres als EUA 2024 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "美國教師感謝週",
+        "hover_text": "2024 年美國教師感謝週開始！",
+        "share_text": "2024 年美國教師感謝週開始！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "美國謝師週",
+        "hover_text": "2024 年美國謝師週開始了！",
+        "share_text": "2024 年美國謝師週開始了！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "美国谢师周",
+        "hover_text": "2024 年美国谢师周开始啦！",
+        "share_text": "2024 年美国谢师周开始啦！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Tjedan poštovanja učitelja u SAD-u",
+        "hover_text": "Počinje Tjedan poštovanja učitelja u SAD-u 2024.!",
+        "share_text": "Počinje Tjedan poštovanja učitelja u SAD-u 2024.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Týden vděčnosti učitelům v USA",
+        "hover_text": "Začíná Týden vděčnosti učitelům v USA 2024!",
+        "share_text": "Začíná Týden vděčnosti učitelům v USA 2024! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Lærernes uge i USA",
+        "hover_text": "Lærernes uge i USA anno 2024 starter",
+        "share_text": "Lærernes uge i USA anno 2024 starter #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Amerikaanse Week van de leraar",
+        "hover_text": "Het is de Amerikaanse Week van de Leerkracht 2024!",
+        "share_text": "Het is de Amerikaanse Week van de Leerkracht 2024! #GoogleDoodle"
+      },
+      "et": {
+        "query": "USA õpetajate tänunädal",
+        "hover_text": "USA õpetajate 2024. aasta tänunädal algab!",
+        "share_text": "USA õpetajate 2024. aasta tänunädal algab! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Yhdysvaltain opettajien arvostusviikko",
+        "hover_text": "Yhdysvaltain opettajien arvostusviikko 2024 alkaa",
+        "share_text": "Yhdysvaltain opettajien arvostusviikko 2024 alkaa #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Semaine d'appréciation des enseignants aux États-Unis",
+        "hover_text": "Début de la Semaine de reconnaissance des enseignants 2024 aux États-Unis !",
+        "share_text": "Début de la Semaine de reconnaissance des enseignants 2024 aux États-Unis ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Semaine d'appréciation des enseignantes et des enseignants aux États-Unis",
+        "hover_text": "Début de la Semaine des enseignantes et des enseignants des États-Unis 2024!",
+        "share_text": "Début de la Semaine des enseignantes et des enseignants des États-Unis 2024! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Semana de Agradecemento aos Mestres nos EUA",
+        "hover_text": "Comeza a Semana de Agradecemento aos Mestres dos EUA 2024!",
+        "share_text": "Comeza a Semana de Agradecemento aos Mestres dos EUA 2024! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "აშშ-ის მასწავლებლებისადმი მადლიერების კვირა",
+        "hover_text": "აშშ-ის 2024 წლის მასწავლებლებისადმი მადლიერების კვირა დაიწყო!",
+        "share_text": "აშშ-ის 2024 წლის მასწავლებლებისადმი მადლიერების კვირა დაიწყო! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Woche zu Ehren der Lehrer in den USA",
+        "hover_text": "Die Woche zur Anerkennung der Lehrkräfte in den USA 2024 beginnt!",
+        "share_text": "Die Woche zur Anerkennung der Lehrkräfte in den USA 2024 beginnt! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Εβδομάδα Εκτίμησης Εκπαιδευτικών ΗΠΑ",
+        "hover_text": "Ξεκινάει η Εβδομάδα Εκτίμησης Εκπαιδευτικών 2024 στις ΗΠΑ!",
+        "share_text": "Ξεκινάει η Εβδομάδα Εκτίμησης Εκπαιδευτικών 2024 στις ΗΠΑ! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "યુએસના શિક્ષકોની પ્રશંસાનું અઠવાડિયું",
+        "hover_text": "2024ના યુએસના શિક્ષકોની કદરદાનીના અઠવાડિયાની શરૂઆત!",
+        "share_text": "2024ના યુએસના શિક્ષકોની કદરદાનીના અઠવાડિયાની શરૂઆત! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "שבוע הוקרת המורה בארה\"ב",
+        "hover_text": "שבוע המורה בארה\"ב 2024",
+        "share_text": "שבוע המורה בארה\"ב 2024 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "अमेरिका में टीचर अप्रीशिएशन वीक 2021 की शुरुआत",
+        "hover_text": "अमेरिका में टीचर अप्रीशिएशन वीक 2024 का जश्न शुरू!",
+        "share_text": "अमेरिका में टीचर अप्रीशिएशन वीक 2024 का जश्न शुरू! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Egyesült államokbeli tanárok megbecsülésének hete",
+        "hover_text": "Kezdődik a tanárok megbecsülésének hete 2024-ben az USA-ban",
+        "share_text": "Kezdődik a tanárok megbecsülésének hete 2024-ben az USA-ban #GoogleDoodle"
+      },
+      "is": {
+        "query": "Bandaríska kennaravikan",
+        "hover_text": "Nú hefst kennaravikan í Bandaríkjunum 2024!",
+        "share_text": "Nú hefst kennaravikan í Bandaríkjunum 2024! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Pekan Apresiasi Guru Amerika Serikat",
+        "hover_text": "Pekan Apresiasi Guru Amerika Serikat 2024 Dimulai!",
+        "share_text": "Pekan Apresiasi Guru Amerika Serikat 2024 Dimulai! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Seachtain Ómóis do Mhúinteoirí i SAM",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Settimana di apprezzamento degli insegnanti statunitensi",
+        "hover_text": "Inizia la settimana di apprezzamento degli insegnanti statunitensi 2024!",
+        "share_text": "Inizia la settimana di apprezzamento degli insegnanti statunitensi 2024! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "先生への感謝週間（米国）",
+        "hover_text": "2024 年先生への感謝週間（米国）",
+        "share_text": "2024 年先生への感謝週間（米国）#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಯು.ಎಸ್ ಶಿಕ್ಷಕರಿಗೆ ಗೌರವ ಸಲ್ಲಿಸುವ ಸಪ್ತಾಹ",
+        "hover_text": "2024 ರ ಅಮೆರಿಕನ್ ಶಿಕ್ಷಕರಿಗೆ ಗೌರವ ಸಲ್ಲಿಸುವ ವಾರ ಪ್ರಾರಂಭವಾಗುತ್ತಿದೆ!",
+        "share_text": "2024 ರ ಅಮೆರಿಕನ್ ಶಿಕ್ಷಕರಿಗೆ ಗೌರವ ಸಲ್ಲಿಸುವ ವಾರ ಪ್ರಾರಂಭವಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "АҚШ-тағы Мұғалімдерді құрметтеу апталығы",
+        "hover_text": "2024 жылғы АҚШ-тағы мұғалімдерге алғыс айту апталығы басталады",
+        "share_text": "2024 жылғы АҚШ-тағы мұғалімдерге алғыс айту апталығы басталады #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាសប្តាហ៍​ថ្លែងអំណរគុណ​គ្រូបង្រៀនអាមេរិក",
+        "hover_text": "សប្តាហ៍​ថ្លែងអំណរគុណគ្រូបង្រៀន​អាមេរិក​ឆ្នាំ 2024 ចាប់ផ្ដើមហើយ!",
+        "share_text": "សប្តាហ៍​ថ្លែងអំណរគុណគ្រូបង្រៀន​អាមេរិក​ឆ្នាំ 2024 ចាប់ផ្ដើមហើយ! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "미국 선생님 감사 주간 기념",
+        "hover_text": "2024년 미국 선생님 감사 주간 시작",
+        "share_text": "2024년 미국 선생님 감사 주간 시작 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "АКШдагы мугалимдерди даңазалоо аптасы",
+        "hover_text": "2024-жылдын АКШдагы мугалимдерди даңазалоо аптасы башталды!",
+        "share_text": "2024-жылдын АКШдагы мугалимдерди даңазалоо аптасы башталды! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ສັບປະດາຍ້ອງຍໍຄູສະຫະລັດ",
+        "hover_text": "ອາທິດແຫ່ງການຍ້ອງຍໍຄູຂອງສະຫະລັດປີ 2024 ເລີ່ມຕົ້ນຂຶ້ນແລ້ວ!",
+        "share_text": "ອາທິດແຫ່ງການຍ້ອງຍໍຄູຂອງສະຫະລັດປີ 2024 ເລີ່ມຕົ້ນຂຶ້ນແລ້ວ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Semana de agradecimiento a los profesores de EE.UU.",
+        "hover_text": "Inicio de la semana de agradecimiento a los maestros de EE.UU. 2024.",
+        "share_text": "Inicio de la semana de agradecimiento a los maestros de EE.UU. 2024. #GoogleDoodle"
+      },
+      "lv": {
+        "query": "ASV Skolotāju godināšanas nedēļa",
+        "hover_text": "Sākas ASV skolotāju godināšanas nedēļa — 2024!",
+        "share_text": "Sākas ASV skolotāju godināšanas nedēļa — 2024! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "JAV dėkingumo mokytojams savaitė",
+        "hover_text": "Prasideda 2024 m. JAV dėkingumo mokytojams savaitė!",
+        "share_text": "Prasideda 2024 m. JAV dėkingumo mokytojams savaitė! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Недела на благодарност кон наставниците во САД",
+        "hover_text": "Започнува Седмицата на благодарност кон наставниците во САД, 2024 г.!",
+        "share_text": "Започнува Седмицата на благодарност кон наставниците во САД, 2024 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Herinandro fankasitrahana ny mpampianatra Amerikana",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Minggu Penghargaan Guru AS",
+        "hover_text": "Minggu Penghargaan Guru AS 2024 Bermula!",
+        "share_text": "Minggu Penghargaan Guru AS 2024 Bermula! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "യുഎസ് അധ്യാപക അഭിനന്ദന വാരം",
+        "hover_text": "യുഎസ് അധ്യാപക അഭിനന്ദന വാരം 2024 ആരംഭിക്കുന്നു!",
+        "share_text": "യുഎസ് അധ്യാപക അഭിനന്ദന വാരം 2024 ആരംഭിക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "यू.एस. शिक्षक प्रशंसा सप्ताह",
+        "hover_text": "यूएसचा शिक्षक कृतज्ञता सप्ताह २०२४ सुरू होत आहे!",
+        "share_text": "यूएसचा शिक्षक कृतज्ञता सप्ताह २०२४ सुरू होत आहे! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "АНУ-н Багш нарт талархах долоо хоног",
+        "hover_text": "2024 оны АНУ-ын Багш нарын талархлын долоо хоног эхэлж байна!",
+        "share_text": "2024 оны АНУ-ын Багш нарын талархлын долоо хоног эхэлж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "स. रा. अमेरिकामा मनाइने शिक्षक सम्मान सप्ताह",
+        "hover_text": "सं. रा. अमेरिकाको शिक्षक सम्मान सप्ताह २०२४ सुरु भएको छ!",
+        "share_text": "सं. रा. अमेरिकाको शिक्षक सम्मान सप्ताह २०२४ सुरु भएको छ! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Læreruken (USA)",
+        "hover_text": "Læreruken i USA 2024 begynner",
+        "share_text": "Læreruken i USA 2024 begynner #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଯୁକ୍ତରାଷ୍ଟ୍ର ଶିକ୍ଷକ ପ୍ରଶଂସା ସପ୍ତାହ",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "هفته قدردانی از معلم ایالات متحده",
+        "hover_text": "شروع هفته قدردانی از معلم در ایالات متحده - ۲۰۲۴!",
+        "share_text": "شروع هفته قدردانی از معلم در ایالات متحده - ۲۰۲۴! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Tydzień Uznania dla Nauczycieli",
+        "hover_text": "Zaczynamy Tydzień Doceniania Pracy Nauczycieli 2024 w USA",
+        "share_text": "Zaczynamy Tydzień Doceniania Pracy Nauczycieli 2024 w USA #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Semana da Valorização do Professor dos EUA",
+        "hover_text": "Começou a Semana da Valorização do Professor dos EUA 2024!",
+        "share_text": "Começou a Semana da Valorização do Professor dos EUA 2024! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Semana de reconhecimento dos professores dos EUA",
+        "hover_text": "Começa a semana de reconhecimento dos professores dos EUA de 2024!",
+        "share_text": "Começa a semana de reconhecimento dos professores dos EUA de 2024! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਯੂ.ਐੱਸ. ਅਧਿਆਪਕ ਸ਼ਲਾਘਾ ਹਫ਼ਤਾ",
+        "hover_text": "ਯੂ.ਐੱਸ. ਦਾ ਅਧਿਆਪਕ ਸ਼ਲਾਘਾ ਹਫ਼ਤਾ 2024 ਸ਼ੁਰੂ!",
+        "share_text": "ਯੂ.ਐੱਸ. ਦਾ ਅਧਿਆਪਕ ਸ਼ਲਾਘਾ ਹਫ਼ਤਾ 2024 ਸ਼ੁਰੂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "La mulți ani de săptămâna aprecierii profesorilor din S.U.A.",
+        "hover_text": "Începe Săptămâna aprecierii profesorilor din SUA 2024!",
+        "share_text": "Începe Săptămâna aprecierii profesorilor din SUA 2024! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Неделя благодарности учителям в США",
+        "hover_text": "Неделя благодарности учителям – 2024 (США)",
+        "share_text": "Неделя благодарности учителям – 2024 (США) #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Недеља поштовања учитеља у САД",
+        "hover_text": "Почиње Недеља поштовања учитеља 2024. у САД!",
+        "share_text": "Почиње Недеља поштовања учитеља 2024. у САД! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Nedelja poštovanja učitelja u SAD",
+        "hover_text": "Počinje Nedelja poštovanja učitelja 2024. u SAD!",
+        "share_text": "Počinje Nedelja poštovanja učitelja 2024. u SAD! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lasemen apresiasyon bann ansenyan Lanmerik",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "එක්සත් ජනපද ගුරුවරුන් අගය කිරීමේ සතිය",
+        "hover_text": "එක්සත් ජනපද ගුරු ප්‍රශංසා සතිය 2024 ආරම්භ වේ!",
+        "share_text": "එක්සත් ජනපද ගුරු ප්‍රශංසා සතිය 2024 ආරම්භ වේ! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Týždeň úcty k učiteľom v USA",
+        "hover_text": "Začína sa týždeň úcty k učiteľom v Spojených štátoch 2024.",
+        "share_text": "Začína sa týždeň úcty k učiteľom v Spojených štátoch 2024. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Teden hvaležnosti učiteljem v Združenih državah",
+        "hover_text": "Začenja se teden hvaležnosti učiteljem v Združenih državah 2024!",
+        "share_text": "Začenja se teden hvaležnosti učiteljem v Združenih državah 2024! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Todobaadka Mahadnaqa Macalinka Maraykanka",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": "Beke ya ho Ananela Matitjhere US",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Semana de Agradecimiento a los Maestros en EE. UU.",
+        "hover_text": "Empieza la Semana de Agradecimiento a los Maestros de EE. UU. 2024",
+        "share_text": "Empieza la Semana de Agradecimiento a los Maestros de EE. UU. 2024 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Wiki ya Shukrani kwa Walimu Marekani",
+        "hover_text": "Wiki ya Shukrani kwa Walimu nchini Marekani 2024 Inaanza!",
+        "share_text": "Wiki ya Shukrani kwa Walimu nchini Marekani 2024 Inaanza! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Lärarnas vecka i USA",
+        "hover_text": "Nu börjar Teacher Appreciation Week 2024 i USA.",
+        "share_text": "Nu börjar Teacher Appreciation Week 2024 i USA. #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "அமெரிக்க ஆசிரியர்களைப் பாராட்டும் வாரம்",
+        "hover_text": "அமெரிக்க ஆசிரியர் பாராட்டு வாரம் 2024 ஆரம்பம்!",
+        "share_text": "அமெரிக்க ஆசிரியர் பாராட்டு வாரம் 2024 ஆரம்பம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "US ఉపాధ్యాయుల ప్రశంసల వారం",
+        "hover_text": "2024 US ఉపాధ్యాయుల గౌరవ వారోత్సవం ప్రారంభమవుతోంది!",
+        "share_text": "2024 US ఉపాధ్యాయుల గౌరవ వారోత్సవం ప్రారంభమవుతోంది! #GoogleDoodle"
+      },
+      "th": {
+        "query": "สัปดาห์ระลึกถึงคุณครูของสหรัฐอเมริกา",
+        "hover_text": "สัปดาห์ระลึกถึงคุณครูของสหรัฐฯ ปี 2024 เริ่มต้นขึ้นแล้ว",
+        "share_text": "สัปดาห์ระลึกถึงคุณครูของสหรัฐฯ ปี 2024 เริ่มต้นขึ้นแล้ว #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Beke ya go Leboga Barutabana ba Amerika",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "ABD Öğretmenler Haftası",
+        "hover_text": "2024 ABD'de Öğretmenlere Teşekkür Haftası Başlıyor",
+        "share_text": "2024 ABD'de Öğretmenlere Teşekkür Haftası Başlıyor #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Тиждень учителів у США",
+        "hover_text": "Вітаємо з тижнем учителя у 2024 році (США)!",
+        "share_text": "Вітаємо з тижнем учителя у 2024 році (США)! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "امریکی استاد کا تعریفی ہفتہ",
+        "hover_text": "امریکی استاد کا تعریفی ہفتہ 2024 شروع ہو رہا ہے!",
+        "share_text": "امریکی استاد کا تعریفی ہفتہ 2024 شروع ہو رہا ہے! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Ustozlardan minnatdorlik haftasi",
+        "hover_text": "2024-yilgi AQSHda ustozlardan minnatdorlik haftasi boshlanmoqda!",
+        "share_text": "2024-yilgi AQSHda ustozlardan minnatdorlik haftasi boshlanmoqda! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Tuần lễ tri ân nhà giáo tại Hoa Kỳ",
+        "hover_text": "Khởi động Tuần lễ tri ân nhà giáo năm 2024 tại Hoa Kỳ!",
+        "share_text": "Khởi động Tuần lễ tri ân nhà giáo năm 2024 tại Hoa Kỳ! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Iviki Lokwazisa Othisha base-US",
+        "hover_text": "Iviki Lokwazisa Othisha lase-US lwango-2024 Liyaqala!",
+        "share_text": "Iviki Lokwazisa Othisha lase-US lwango-2024 Liyaqala! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "US Teacher Appreciation Week",
+    "share_text": "US Teacher Appreciation Week 2024 Begins! #GoogleDoodle"
+  },
+  {
     "name": "mothers-day-2024-may-5",
     "title": "Mother's Day 2024 (May 5)",
     "url": "//www.google.com/logos/doodles/2024/mothers-day-2024-may-5-6753651837110363-l.png",
