@@ -1,5 +1,504 @@
 [
   {
+    "name": "mothers-day-2024-may-12",
+    "title": "Mother's Day 2024 (May 12)",
+    "url": "//www.google.com/logos/doodles/2024/mothers-day-2024-may-12-6753651837110364-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/lKXUOmNO5g6rkON5k-0hWpiXCAyf0JLMrWwN55Zr-1fQ-UtCHY5PE_tt5zn0gCH9Bxo2d97feu0uBcQyVf8LSQsvoXW-WunnpIjWyAad2CYTBoOvqPxs",
+    "high_res_url": "//www.google.com/logos/doodles/2024/mothers-day-2024-may-12-6753651837110364-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      5,
+      12
+    ],
+    "translations": {
+      "en": {
+        "query": "Mother's Day",
+        "hover_text": "Mother's Day (May 12) 2024",
+        "share_text": "Happy Mother's Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Moedersdag",
+        "hover_text": "Moedersdag (12 Mei) 2024",
+        "share_text": "Gelukkige Moedersdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Nënës",
+        "hover_text": "Dita e Nënës, 2024 (12 maj)",
+        "share_text": "Gëzuar Ditën e Nënës! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የእናቶች ቀን",
+        "hover_text": "የእናቶች ቀን (ሜይ 12) 2024",
+        "share_text": "መልካም የእናቶች ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد الأم",
+        "hover_text": "عيد الأم (12 مايو) 2024",
+        "share_text": "أجمل التهاني بمناسبة عيد الأمّ. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Մայրերի օր",
+        "hover_text": "Մայրերի օր 2024 (մայիսի 12)",
+        "share_text": "Շնորհավո՛ր մայրերի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Analar Günü",
+        "hover_text": "Analar Günü (12 may) 2024",
+        "share_text": "Analar Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "মাতৃ দিবস",
+        "hover_text": "মাতৃ দিবস (১২ মে) ২০২৪",
+        "share_text": "মাদার্স ডেয়ের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Amaren Eguna",
+        "hover_text": "2024ko Amaren Eguna (maiatzaren 12a)",
+        "share_text": "Amaren Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень маці",
+        "hover_text": "Дзень маці 2024 (12 мая)",
+        "share_text": "З Днём маці! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan majki",
+        "hover_text": "Dan majki (12. maj) 2024.",
+        "share_text": "Sretan Dan majki! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Mother's Day",
+        "hover_text": "Mother's Day (12 May) 2024",
+        "share_text": "Happy Mother's Day! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на майката",
+        "hover_text": "Ден на майката (12 май) 2024 г.",
+        "share_text": "Честит Ден на майката! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အမေများနေ့",
+        "hover_text": "၂၀၂၄ အမေများနေ့ (မေ ၁၂)",
+        "share_text": "ပျော်ရွှင်ဖွယ်အမေများနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Mare",
+        "hover_text": "Dia de la Mare 2024 (12 de maig)",
+        "share_text": "Feliç Dia de la Mare! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "母親節",
+        "hover_text": "2024 年母親節 (5 月 12 日)",
+        "share_text": "母親節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "母親節",
+        "hover_text": "2024 母親節",
+        "share_text": "母親節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "母亲节",
+        "hover_text": "母亲节",
+        "share_text": "母亲节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Majčin dan",
+        "hover_text": "Majčin dan (12. svibnja) 2024.",
+        "share_text": "Sretan Majčin dan! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den matek",
+        "hover_text": "Den matek 2024 (12. května)",
+        "share_text": "Vše nejlepší ke Dni matek! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Mors dag",
+        "hover_text": "Mors dag 2024",
+        "share_text": "Glædelig mors dag! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Moederdag",
+        "hover_text": "Moederdag 2024 (12 mei)",
+        "share_text": "Fijne Moederdag #GoogleDoodle"
+      },
+      "et": {
+        "query": "Emadepäev",
+        "hover_text": "2024. aasta emadepäev (12. mai)",
+        "share_text": "Head emadepäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Äitienpäivä",
+        "hover_text": "Äitienpäivä (12.5.) 2024",
+        "share_text": "Hyvää äitienpäivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête des Mères",
+        "hover_text": "Fête des Mères 2024 (12 mai)",
+        "share_text": "Bonne fête des Mères ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête des Mères",
+        "hover_text": "Fête des Mères 2024 (12 mai)",
+        "share_text": "Joyeuse fête des Mères! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Nai",
+        "hover_text": "Día da Nai 2024",
+        "share_text": "Feliz Día da Nai! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "დედის დღე",
+        "hover_text": "დედის დღე (12 მაისი) 2024",
+        "share_text": "გილოცავთ დედის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Muttertag",
+        "hover_text": "Muttertag (12. Mai) 2024",
+        "share_text": "Alles Gute zum Muttertag! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Γιορτή της Μητέρας",
+        "hover_text": "Γιορτή της Μητέρας (12 Μαΐου) 2024",
+        "share_text": "Πολλές ευχές για τη Γιορτή της Μητέρας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "માતૃ દિવસ",
+        "hover_text": "મધર્સ ડે (12 મે) 2024",
+        "share_text": "મધર્સ ડેની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום האם",
+        "hover_text": "יום האם 2024 (12 במאי)",
+        "share_text": "יום האם שמח! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "मदर्स डे",
+        "hover_text": "मदर्स डे (12 मई) 2024",
+        "share_text": "मदर्स डे की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Anyák napja",
+        "hover_text": "Anyák napja, 2024 (május 12.)",
+        "share_text": "Boldog anyák napját! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Mæðradagurinn",
+        "hover_text": "Mæðradagurinn 2024 (12. maí)",
+        "share_text": "Gleðilegan mæðradag! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Ibu",
+        "hover_text": "Hari Ibu (12 Mei) 2024",
+        "share_text": "Selamat Hari Ibu! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá na Máithreacha",
+        "hover_text": null,
+        "share_text": "Lá na Máithreacha faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa della mamma",
+        "hover_text": "Festa della mamma 2024 (12 maggio)",
+        "share_text": "Felice festa della mamma! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "母の日",
+        "hover_text": "2024 年母の日（5 月 12 日）",
+        "share_text": "母の日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ತಾಯಂದಿರ ದಿನ",
+        "hover_text": "ತಾಯಂದಿರ ದಿನ (12ನೇ ಮೇ) 2024",
+        "share_text": "ತಾಯಂದಿರ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Аналар күні",
+        "hover_text": "Аналар күні — 2024 (12 мамыр)",
+        "share_text": "Аналар күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​រំលឹកគុណម្ដាយ",
+        "hover_text": "ទិវា​រំលឹកគុណម្ដាយ (12 ឧសភា) ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​រំលឹកគុណ​ម្ដាយ​! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "어머니날",
+        "hover_text": "2024년 어머니의 날(5월 12일)",
+        "share_text": "어머니날 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Энелер күнү",
+        "hover_text": "Апалар күнү – 2024 (12-май)",
+        "share_text": "Энелер күнү кут болсун! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນແມ່",
+        "hover_text": "ວັນແມ່ປີ 2024 (12 ພຶດສະພາ)",
+        "share_text": "ສຸກສັນວັນແມ່! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Madre",
+        "hover_text": "Día de la Madre 2024 (12 de mayo)",
+        "share_text": "¡Feliz Día de la Madre! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Mātes diena",
+        "hover_text": "Mātes diena — 2024. gada 12. maijs",
+        "share_text": "Sveicam Mātes dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Motinos diena",
+        "hover_text": "Motinos diena (gegužės 12 d.), 2024 m.",
+        "share_text": "Su Motinos diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на мајката",
+        "hover_text": "Ден на мајката (12 мај), 2024 г.",
+        "share_text": "Среќен Ден на мајката! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny reny",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny reny ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Ibu",
+        "hover_text": "Hari Ibu (12 Mei) 2024",
+        "share_text": "Selamat Hari Ibu! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "മാതൃദിനം",
+        "hover_text": "മാതൃദിനം (മെയ് 12) 2024",
+        "share_text": "മാതൃദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "मदर्स डे",
+        "hover_text": "मदर्स डे (१२ मे) २०२४",
+        "share_text": "मदर्स डे च्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Ээжүүдийн өдөр",
+        "hover_text": "2024 оны Ээжүүдийн өдөр (5-р сарын 12)",
+        "share_text": "Ээжүүдийн өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "आमाको मुख हेर्ने दिन",
+        "hover_text": "आमाको मुख हेर्ने दिन (मे १२) २०२४",
+        "share_text": "आमाको मुख हेर्ने दिनको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Morsdag",
+        "hover_text": "Morsdag (12. mai) 2024",
+        "share_text": "Gratulerer med morsdagen! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ମାତୃ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ମାତୃ ଦିବସର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز مادر",
+        "hover_text": "روز مادر ۲۰۲۴ (۱۲ مه)",
+        "share_text": "روز مادر مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Matki",
+        "hover_text": "Dzień Matki 2024 (12 maja)",
+        "share_text": "Obchodzimy Dzień Matki #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia das Mães",
+        "hover_text": "Dia das Mães 2024 (12 de maio)",
+        "share_text": "Feliz Dia das Mães! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da mãe",
+        "hover_text": "Dia da Mãe de 2024 (12 de maio)",
+        "share_text": "Feliz dia da mãe! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਮਾਂ ਦਿਵਸ",
+        "hover_text": "ਮਾਂ ਦਿਵਸ (12 ਮਈ) 2024",
+        "share_text": "ਮਾਂ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Mamei",
+        "hover_text": "Ziua Mamei – 2024 (12 mai)",
+        "share_text": "La mulți ani de Ziua Mamei! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День матери",
+        "hover_text": "День матери – 2024 (12 мая)",
+        "share_text": "С Днем матери! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан мајки",
+        "hover_text": "Дан мајки (12. мај) 2024.",
+        "share_text": "Срећан Дан мајки! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan majki",
+        "hover_text": "Dan majki (12. maj) 2024.",
+        "share_text": "Srećan Dan majki! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Manman",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "මව්වරුන්ගේ දිනය",
+        "hover_text": "මව්වරුන්ගේ දිනය (මැයි 12) 2024",
+        "share_text": "ප්‍රීතිමත් මව්වරුන්ගේ දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň matiek",
+        "hover_text": "Deň matiek (12. máj) 2024",
+        "share_text": "Šťastný Deň matiek! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Materinski dan",
+        "hover_text": "Materinski dan 2024 (12. maj)",
+        "share_text": "Vesel materinski dan! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Hooyada",
+        "hover_text": null,
+        "share_text": "Maalinta Hooyada Farxada leh! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Bomme",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día de la Madre",
+        "hover_text": "Día de la Madre 2024 (12 de mayo)",
+        "share_text": "¡Feliz Día de la Madre! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Akina Mama",
+        "hover_text": "Siku ya Akina Mama (Tarehe 12 Mei) 2024",
+        "share_text": "Heri za Sikukuu ya Akina Mama! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Mors dag",
+        "hover_text": "Mors dag 2024 (12 maj)",
+        "share_text": "Grattis på mors dag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "அன்னையர் தினம்",
+        "hover_text": "அன்னையர் தினம் (மே 12) 2024",
+        "share_text": "அன்னையர் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "మాతృ దినోత్సవం",
+        "hover_text": "మదర్స్ డే (మే 12) 2024",
+        "share_text": "మాతృ దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันแม่",
+        "hover_text": "วันแม่ 2024 (12 พฤษภาคม)",
+        "share_text": "สุขสันต์วันแม่ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la ga Mme",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Anneler Günü",
+        "hover_text": "2024 Anneler Günü (12 Mayıs)",
+        "share_text": "Anneler Gününüz Kutlu Olsun. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День матері",
+        "hover_text": "День матері у 2024 році (12 травня)",
+        "share_text": "З Днем матері! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم مادر",
+        "hover_text": "یوم مادر (12 مئی) 2024",
+        "share_text": "یوم مادر مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Onalar kuni",
+        "hover_text": "Onalar kuni 2024 (12-may)",
+        "share_text": "Onalar kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày của mẹ",
+        "hover_text": "Ngày của Mẹ năm 2024 (ngày 12 tháng 5)",
+        "share_text": "Mừng ngày của Mẹ! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lomama",
+        "hover_text": "Usuku loMama lwango-2024 (12 Meyi)",
+        "share_text": "Sikufisela Usuku Oluhle Lomama! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Mother's Day",
+    "share_text": "Happy Mother's Day! #GoogleDoodle"
+  },
+  {
     "name": "fathers-day-2024-may-11",
     "title": "Father's Day 2024 (May 11)",
     "url": "//www.google.com/logos/doodles/2024/fathers-day-2024-may-11-6753651837110379-l.png",
