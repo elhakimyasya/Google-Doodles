@@ -1,5 +1,504 @@
 [
   {
+    "name": "wnba-season-begins-2024",
+    "title": "WNBA Season Begins 2024",
+    "url": "//www.google.com/logos/doodles/2024/wnba-season-begins-2024-6753651837110501.3-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/eaBq7q8jAqJ4Dpi_l3BUiqdW-Gw_yOrOIvkbs01YdVDXhejJA0fNqmT7pWvfxfwVUXk180bNSQiKh9gLX1UmeZlF-0no7qEu9mEsdYXliK-h524pJ2kb2Q",
+    "high_res_url": "//www.google.com/logos/doodles/2024/wnba-season-begins-2024-6753651837110501-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      5,
+      14
+    ],
+    "translations": {
+      "en": {
+        "query": "WNBA Season 2024",
+        "hover_text": "WNBA Season 2024 Begins",
+        "share_text": "WNBA Season 2024 Begins! #GoogleDoodle"
+      },
+      "af": {
+        "query": "WNBA se 2024-seisoen",
+        "hover_text": "WNBA se 2024-seisoen begin",
+        "share_text": "WNBA se 2024-seisoen begin! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Sezoni i ligës WNBA, 2024",
+        "hover_text": "Fillon sezoni i ligës WNBA, 2024",
+        "share_text": "Fillon sezoni i ligës WNBA, 2024! #GoogleDoodle"
+      },
+      "am": {
+        "query": "WNBA የ2024 የውድድር ዘመን",
+        "hover_text": "WNBA ምዕራፍ 2024 ጀምሯል",
+        "share_text": "WNBA የ2024 የውድድር ዘመን ጀምሯል! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "دوري كرة السلة الأمريكي للسيدات موسم 2024",
+        "hover_text": "ينطلق اليوم دوري كرة السلة الأمريكي للسيدات موسم 2024",
+        "share_text": "ينطلق اليوم دوري كرة السلة الأمريكي للسيدات موسم 2024! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "WNBA մրցաշրջան 2024",
+        "hover_text": "WNBA մրցաշրջան 2024-ը մեկնարկում է",
+        "share_text": "WNBA մրցաշրջան 2024-ը մեկնարկում է #GoogleDoodle"
+      },
+      "az": {
+        "query": "2024 WNBA Mövsümü",
+        "hover_text": "2024 WNBA Mövsümü başlayır",
+        "share_text": "2024 WNBA Mövsümü başlayır! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "WNBA সিজন ২০২৪",
+        "hover_text": "WNBA সিজন ২০২৪ শুরু হচ্ছে",
+        "share_text": "WNBA সিজন ২০২৪ শুরু হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "WNBA ligako 2024ko denboraldia",
+        "hover_text": "WNBA ligako 2024ko denboraldia hasiko da",
+        "share_text": "WNBA ligako 2024ko denboraldia hasiko da! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Сезон WNBA 2024",
+        "hover_text": "Сезон WNBA 2024 пачынаецца",
+        "share_text": "Сезон WNBA 2024 пачынаецца! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "WNBA sezona 2024.",
+        "hover_text": "Počinje WNBA sezona 2024.",
+        "share_text": "Počinje WNBA sezona 2024! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "WNBA Season 2024",
+        "hover_text": "WNBA Season 2024 begins",
+        "share_text": "WNBA Season 2024 begins! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Сезон 2024 г. на Женската национална баскетболна асоциация",
+        "hover_text": "Сезон 2024 г. на Женската национална баскетболна асоциация започва",
+        "share_text": "Сезон 2024 г. на Женската национална баскетболна асоциация започва! #GoogleDoodle"
+      },
+      "my": {
+        "query": "WNBA ရာသီ ၂၀၂၄",
+        "hover_text": "WNBA ရာသီ ၂၀၂၄ စတင်ပါပြီ",
+        "share_text": "WNBA ရာသီ ၂၀၂၄ စတင်ပါပြီ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Temporada 2024 de la WNBA",
+        "hover_text": "Comença la temporada 2024 de la WNBA",
+        "share_text": "Comença la temporada 2024 de la WNBA #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "WNBA 2024 年賽季",
+        "hover_text": "WNBA 2024 年賽季開始",
+        "share_text": "WNBA 2024 年賽季開始！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "2024 年 WNBA 賽季",
+        "hover_text": "2024 年 WNBA 賽季開打",
+        "share_text": "2024 年 WNBA 賽季開打！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "2024 年 WNBA 赛季",
+        "hover_text": "2024 年 WNBA 赛季开始",
+        "share_text": "2024 年 WNBA 赛季开始！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "WNBA sezona 2024.",
+        "hover_text": "Počinje WNBA sezona 2024.",
+        "share_text": "Počinje WNBA sezona 2024.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Sezóna WNBA 2024",
+        "hover_text": "Začíná sezóna WNBA 2024",
+        "share_text": "Začíná sezóna WNBA 2024! #GoogleDoodle"
+      },
+      "da": {
+        "query": "WNBA-sæsonen 2024",
+        "hover_text": "WNBA-sæsonen 2024 starter",
+        "share_text": "WNBA-sæsonen 2024 starter #GoogleDoodle"
+      },
+      "nl": {
+        "query": "WNBA-seizoen 2024",
+        "hover_text": "Het WNBA-seizoen van 2024 begint",
+        "share_text": "Het WNBA-seizoen van 2024 begint! #GoogleDoodle"
+      },
+      "et": {
+        "query": "WNBA hooaeg 2024",
+        "hover_text": "WNBA hooaeg 2024 algab",
+        "share_text": "WNBA hooaeg 2024 algab! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "WNBA-kausi 2024",
+        "hover_text": "WNBA-kausi 2024 alkaa",
+        "share_text": "WNBA-kausi 2024 alkaa #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Saison 2024 de la WNBA",
+        "hover_text": "Début de la saison 2024 de la WNBA",
+        "share_text": "Début de la saison 2024 de la WNBA ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Saison 2024 de la WNBA",
+        "hover_text": "Début de la saison 2024 de la WNBA",
+        "share_text": "Début de la saison 2024 de la WNBA! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Tempada da WNBA 2024",
+        "hover_text": "Comeza a tempada da WNBA 2024",
+        "share_text": "Comeza a tempada da WNBA 2024! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "WNBA სეზონი 2024",
+        "hover_text": "WNBA-ის 2024 წლის სეზონი იწყება",
+        "share_text": "WNBA-ის 2024 წლის სეზონი იწყება! #GoogleDoodle"
+      },
+      "de": {
+        "query": "WNBA-Saison 2024",
+        "hover_text": "Die WNBA-Saison 2024 beginnt",
+        "share_text": "Die WNBA-Saison 2024 beginnt #GoogleDoodle"
+      },
+      "el": {
+        "query": "Πρωτάθλημα WNBA 2024",
+        "hover_text": "Ξεκινάει το Πρωτάθλημα WNBA 2024",
+        "share_text": "Ξεκινάει το Πρωτάθλημα WNBA 2024! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "WNBA સીઝન 2024",
+        "hover_text": "WNBA સીઝન 2024 શરૂ થાય છે",
+        "share_text": "WNBA સીઝન 2024 શરૂ થાય છે! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "WNBA Season 2024",
+        "hover_text": "עונת ה-WNBA לשנת 2024 מתחילה",
+        "share_text": "עונת ה-WNBA לשנת 2024 מתחילה GoogleDoodle#"
+      },
+      "hi": {
+        "query": "WNBA सीज़न 2024",
+        "hover_text": "WNBA सीज़न 2024 शुरू हो रहा है",
+        "share_text": "WNBA सीज़न 2024 शुरू हो रहा है! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "2024-es WNBA-szezon",
+        "hover_text": "Kezdődik a 2024-es WNBA-szezon",
+        "share_text": "Kezdődik a 2024-es WNBA-szezon #GoogleDoodle"
+      },
+      "is": {
+        "query": "Leiktímabilið í WNBA 2024",
+        "hover_text": "Leiktímabilið 2024 í WNBA byrjar",
+        "share_text": "Leiktímabilið 2024 í WNBA byrjar! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Musim WNBA 2024",
+        "hover_text": "Musim WNBA 2024 Dimulai",
+        "share_text": "Musim WNBA 2024 Dimulai! #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Stagione WNBA 2024",
+        "hover_text": "Inizia la stagione WNBA 2024",
+        "share_text": "Inizia la stagione WNBA 2024! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "WNBA シーズン 2024",
+        "hover_text": "WNBA シーズン 2024 開幕",
+        "share_text": "WNBA シーズン 2024 開幕 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "WNBA ಸೀಸನ್ 2024",
+        "hover_text": "WNBA ಸೀಸನ್ 2024 ಪ್ರಾರಂಭವಾಗುತ್ತಿದೆ",
+        "share_text": "WNBA ಸೀಸನ್ 2024 ಪ್ರಾರಂಭವಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "2024 жылғы WNBA маусымы",
+        "hover_text": "2024 жылғы WNBA маусымы басталды",
+        "share_text": "2024 жылғы WNBA маусымы басталды! #GoogleDoodle"
+      },
+      "km": {
+        "query": "រដូវកាល WNBA ឆ្នាំ 2024",
+        "hover_text": "រដូវកាល WNBA ឆ្នាំ 2024 ចាប់ផ្ដើមហើយ!",
+        "share_text": "រដូវកាល WNBA ឆ្នាំ 2024 ចាប់ផ្ដើមហើយ! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "2024년 WNBA 시즌",
+        "hover_text": "2024년 WNBA 시즌 시작",
+        "share_text": "2024년 WNBA 시즌 시작 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "АНБА сезону – 2024",
+        "hover_text": "АНБА сезону – 2024 башталды",
+        "share_text": "АНБА сезону – 2024 башталды! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "WNBA ຊີຊັນ 2024",
+        "hover_text": "WNBA ຊີຊັນ 2024 ເລີ່ມແລ້ວ",
+        "share_text": "WNBA ຊີຊັນ 2024 ເລີ່ມແລ້ວ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Temporada 2024 de la WNBA",
+        "hover_text": "Comienza la temporada 2024 de la WNBA",
+        "share_text": "Comienza la temporada 2024 de la WNBA #GoogleDoodle"
+      },
+      "lv": {
+        "query": "WNBA sezona — 2024",
+        "hover_text": "Sākas WNBA sezona — 2024",
+        "share_text": "Sākas WNBA sezona — 2024! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "2024 m. WNBA sezonas",
+        "hover_text": "2024 m. WNBA sezonas prasideda",
+        "share_text": "2024 m. WNBA sezonas prasideda! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Сезона во WNBA, 2024 г.",
+        "hover_text": "Започнува сезона во WNBA, 2024 г.",
+        "share_text": "Започнува сезона во WNBA, 2024 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Musim WNBA 2024",
+        "hover_text": "Musim WNBA 2024 Bermula",
+        "share_text": "Musim WNBA 2024 Bermula! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "WNBA സീസൺ 2024",
+        "hover_text": "WNBA സീസൺ 2024 തുടങ്ങുന്നു",
+        "share_text": "WNBA സീസൺ 2024 തുടങ്ങുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "WNBA सीझन २०२४",
+        "hover_text": "WNBA सीझन २०२४ ची सुरुवात होत आहे",
+        "share_text": "WNBA सीझन २०२४ ची सुरुवात होत आहे! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "2024 оны WNBA-н улирал",
+        "hover_text": "2024 оны WNBA-н улирал эхэллээ",
+        "share_text": "2024 оны WNBA-н улирал эхэллээ! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "WNBA सिजन २०२४",
+        "hover_text": "WNBA सिजन २०२४ सुरु भएको छ",
+        "share_text": "WNBA सिजन २०२४ सुरु भएको छ! #GoogleDoodle"
+      },
+      "no": {
+        "query": "WNBA-sesong 2024",
+        "hover_text": "WNBA-sesongen 2024 starter",
+        "share_text": "WNBA-sesongen 2024 starter! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "فصل ان‌بی‌ای زنان ۲۰۲۴",
+        "hover_text": "فصل ان‌بی‌ای زنان ۲۰۲۴ آغاز می‌شود",
+        "share_text": "فصل ان‌بی‌ای زنان ۲۰۲۴ آغاز می‌شود! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Sezon WNBA 2024",
+        "hover_text": "Sezon WNBA 2024 rozpoczęty",
+        "share_text": "Sezon WNBA 2024 rozpoczęty! #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Temporada da WNBA 2024",
+        "hover_text": "A temporada da WNBA 2024 começou",
+        "share_text": "A temporada da WNBA 2024 começou! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Temporada da WNBA de 2024",
+        "hover_text": "Começa a temporada da WNBA de 2024",
+        "share_text": "Começa a temporada da WNBA de 2024! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "WNBA Season 2024",
+        "hover_text": "WNBA ਸੀਜ਼ਨ 2024 ਸ਼ੁਰੂ",
+        "share_text": "WNBA ਸੀਜ਼ਨ 2024 ਸ਼ੁਰੂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Sezonul WNBA 2024",
+        "hover_text": "Începe Sezonul WNBA 2024",
+        "share_text": "Începe Sezonul WNBA 2024! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Сезон женской НБА – 2024",
+        "hover_text": "Начало сезона женской НБА – 2024",
+        "share_text": "Начало сезона женской НБА – 2024 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "WNBA сезона 2024.",
+        "hover_text": "Почиње WNBA сезона 2024.",
+        "share_text": "Почиње WNBA сезона 2024! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "WNBA sezona 2024.",
+        "hover_text": "Počinje WNBA sezona 2024.",
+        "share_text": "Počinje WNBA sezona 2024! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "WNBA වාරය 2024",
+        "hover_text": "WNBA වාරය 2024 ආරම්භ වේ",
+        "share_text": "WNBA වාරය 2024 ආරම්භ වේ! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Sezóna ligy WNBA 2024",
+        "hover_text": "Sezóna ligy WNBA 2024 sa začína",
+        "share_text": "Sezóna ligy WNBA 2024 sa začína. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Sezona lige WNBA 2024",
+        "hover_text": "Začenja se sezona lige WNBA 2024",
+        "share_text": "Začenja se sezona lige WNBA 2024! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Temporada 2024 de la WNBA",
+        "hover_text": "Empieza la temporada 2024 de la WNBA",
+        "share_text": "Empieza la temporada 2024 de la WNBA #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Msimu wa WNBA 2024",
+        "hover_text": "Msimu wa WNBA 2024 Unaanza",
+        "share_text": "Msimu wa WNBA 2024 Unaanza! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "WNBA-säsongen 2024",
+        "hover_text": "WNBA-säsongen för 2024 börjar",
+        "share_text": "WNBA-säsongen för 2024 börjar #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "WNBA சீசன் 2024",
+        "hover_text": "WNBA சீசன் 2024 தொடங்குகிறது",
+        "share_text": "WNBA சீசன் 2024 தொடங்குகிறது! #GoogleDoodle"
+      },
+      "te": {
+        "query": "WNBA సీజన్ 2024",
+        "hover_text": "WNBA సీజన్ 2024 ప్రారంభమైంది",
+        "share_text": "WNBA సీజన్ 2024 ప్రారంభమైంది! #GoogleDoodle"
+      },
+      "th": {
+        "query": "WNBA ซีซัน 2024",
+        "hover_text": "WNBA ซีซัน 2024 เริ่มแล้ว",
+        "share_text": "WNBA ซีซัน 2024 เริ่มแล้ว #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "WNBA 2024 Sezonu",
+        "hover_text": "WNBA 2024 Sezonu Başlıyor",
+        "share_text": "WNBA 2024 Sezonu Başlıyor. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Сезон ЖНБА у 2024 році",
+        "hover_text": "Початок сезону ЖНБА у 2024 році",
+        "share_text": "Початок сезону ЖНБА у 2024 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "WNBA سیزن 2024",
+        "hover_text": "WNBA سیزن 2024 شروع ہو رہا ہے",
+        "share_text": "WNBA سیزن 2024 شروع ہو رہا ہے! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "WNBA mavsumi 2024",
+        "hover_text": "2024 WNBA mavsumi boshlanmoqda",
+        "share_text": "2024 WNBA mavsumi boshlanmoqda! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Mùa giải WNBA năm 2024",
+        "hover_text": "Khởi tranh mùa giải WNBA năm 2024!",
+        "share_text": "Khởi tranh mùa giải WNBA năm 2024! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Isizini Ye-WNBA Yango-2024",
+        "hover_text": "Isizini Ye-WNBA Yango-2024 Iyaqala",
+        "share_text": "Isizini Ye-WNBA Yango-2024 Iyaqala! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "WNBA Season 2024",
+    "share_text": "WNBA Season 2024 Begins! #GoogleDoodle"
+  },
+  {
     "name": "israel-independence-day-2024",
     "title": "Israel Independence Day 2024",
     "url": "//www.google.com/logos/doodles/2024/israel-independence-day-2024-6753651837110218-law.gif",
