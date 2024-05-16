@@ -1,5 +1,1003 @@
 [
   {
+    "name": "teachers-day-2024-may-15",
+    "title": "Teachers' Day 2024 (May 15)",
+    "url": "//www.google.com/logos/doodles/2024/teachers-day-2024-may-15-6753651837110427-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/LxgymzrdqLpZrRz2daApG8ZtyyJNcwa_6gYkHQP-v_H61NuNRD5CLXgczuCWMefi_zKCpxz8HPgh7AP-R5bZB1BD5Gb2BFtH1hq7qOuOHd3zt7OF8iyjnA",
+    "high_res_url": "//www.google.com/logos/doodles/2024/teachers-day-2024-may-15-6753651837110427-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      5,
+      15
+    ],
+    "translations": {
+      "en": {
+        "query": "Teachers' Day",
+        "hover_text": "Teachers' Day 2024 (May 15) 2024",
+        "share_text": "Happy Teachers' Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Onderwysersdag",
+        "hover_text": "Onderwysersdag 2024 (15 Mei 2024)",
+        "share_text": "Gelukkige Onderwysersdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Mësuesit 2019",
+        "hover_text": "Dita e Mësuesit, 2024 (15 maj)",
+        "share_text": "Gëzuar Ditën e Mësuesit! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአስተማሪዎች ቀን",
+        "hover_text": "የመምህራን ቀን 2024 (ሜይ 15) 2024",
+        "share_text": "መልካም የአስተማሪዎች ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "يوم المعلِّم",
+        "hover_text": "عيد المعلّم 2024 (15 مايو)",
+        "share_text": "نتمنّى عيدًا سعيدًا للمعلّمين. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ուսուցչի օր",
+        "hover_text": "Ուսուցիչների օր 2024 (մայիսի 15)",
+        "share_text": "Շնորհավո՛ր ուսուցիչների օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Müəllimlər Günü",
+        "hover_text": "2024 Müəllimlər Günü (15 may) 2024",
+        "share_text": "Müəllimlər Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "শিক্ষক দিবস",
+        "hover_text": "শিক্ষক দিবস ২০২৪ (১৫ মে) ২০২৪",
+        "share_text": "শিক্ষক দিবসের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Irakasleen Eguna",
+        "hover_text": "2024ko Irakasleen Eguna (maiatzaren 15a)",
+        "share_text": "Irakasleen Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень настаўніка",
+        "hover_text": "Дзень настаўніка 2024 (15 мая)",
+        "share_text": "З Днём настаўніка! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nastavnika",
+        "hover_text": "Dan nastavnika (15. maj) 2024.",
+        "share_text": "Sretan Dan nastavnika! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Teachers' Day",
+        "hover_text": "Teachers' Day 2024 (15 May)",
+        "share_text": "Happy Teachers' Day! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на учителя",
+        "hover_text": "Ден на учителя (15 май) 2024 г.",
+        "share_text": "Честит Ден на учителя! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဆရာများနေ့",
+        "hover_text": "၂၀၂၄ ဆရာများနေ့ (မေ ၁၅)",
+        "share_text": "ပျော်ရွှင်ဖွယ် ဆရာများနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia del Mestre",
+        "hover_text": "Dia del Mestre (15 de maig) 2024",
+        "share_text": "Feliç Dia del Mestre! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "教師日",
+        "hover_text": "2024 年教師日 (5 月 15 日)",
+        "share_text": "教師日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "教師節",
+        "hover_text": "2024 年教師節 (5 月 15 日)",
+        "share_text": "教師節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "教师节",
+        "hover_text": "2024 年教师节（5 月 15 日）",
+        "share_text": "教师节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan učitelja",
+        "hover_text": "Dan učitelja 2024. (15. svibnja)",
+        "share_text": "Sretan Dan učitelja! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den učitelů",
+        "hover_text": "Den učitelů 2024 (15. května)",
+        "share_text": "Veselý Den učitelů! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Lærernes dag",
+        "hover_text": "Lærernes dag 2024 (15. maj)",
+        "share_text": "Glædelig lærernes dag! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Lerarendag",
+        "hover_text": "Dag van de Leerkracht 2024 (15 mei)",
+        "share_text": "Fijne Lerarendag! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Õpetajate päev",
+        "hover_text": "2024. aasta õpetajate päev (15. mai)",
+        "share_text": "Head õpetajatepäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Opettajien päivä",
+        "hover_text": "Opettajien päivä 2024 (15.5.)",
+        "share_text": "Hyvää opettajien päivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Journée des professeurs",
+        "hover_text": "Journée des enseignants 2024 (15 mai)",
+        "share_text": "Bonne fête des professeurs ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête des professeurs",
+        "hover_text": "Journée des enseignantes et des enseignants 2024 (15 mai)",
+        "share_text": "Joyeuse fête des enseignants! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día do Mestre",
+        "hover_text": "Día do Mestre 2024",
+        "share_text": "Feliz Día do Mestre! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მასწავლებლის დღე",
+        "hover_text": "მასწავლებლის დღე 2024 (15 მაისი)",
+        "share_text": "გილოცავთ მასწავლებლის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Lehrertag",
+        "hover_text": "Tag der Lehrer 2024 (15. Mai)",
+        "share_text": "Alles Gute zum Tag der Lehrer! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα των Εκπαιδευτικών",
+        "hover_text": "Ημέρα των Εκπαιδευτικών (15 Μαΐου) 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα των Εκπαιδευτικών! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "શિક્ષક દિવસ",
+        "hover_text": "શિક્ષક દિવસ 2024 (15 મે) 2024",
+        "share_text": "શિક્ષક દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום המורים",
+        "hover_text": "יום המורה 2024 (15 במאי)",
+        "share_text": "יום המורה שמח! ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "शिक्षक दिवस",
+        "hover_text": "शिक्षक दिवस 2024 (15 मई)",
+        "share_text": "शिक्षक दिवस की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Pedagógusnap",
+        "hover_text": "Pedagógusnap, 2024 (május 15.)",
+        "share_text": "Boldog pedagógusnapot! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Kennaradagurinn",
+        "hover_text": "Kennaradagurinn 2024 (15. maí)",
+        "share_text": "Gleðilegan kennaradag! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Guru",
+        "hover_text": "Hari Guru 2024 (15 Mei)",
+        "share_text": "Selamat Hari Guru! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá na Múinteoirí",
+        "hover_text": null,
+        "share_text": "Lá na Múinteoirí faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa degli insegnanti",
+        "hover_text": "Festa degli insegnanti 2024 (15 maggio)",
+        "share_text": "Buona festa degli insegnanti! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "教師の日",
+        "hover_text": "2024 年教師の日（5 月 15 日）",
+        "share_text": "教師の日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಶಿಕ್ಷಕರ ದಿನಾಚರಣೆ",
+        "hover_text": "ಶಿಕ್ಷಕರ ದಿನಾಚರಣೆ 2024 (ಮೇ 15) 2024",
+        "share_text": "ಶಿಕ್ಷಕರ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Мұғалімдер күні",
+        "hover_text": "Мұғалімдер күні – 2024 (15 мамыр)",
+        "share_text": "Мұғалімдер күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​គ្រូបង្រៀន",
+        "hover_text": "ទិវា​គ្រូបង្រៀន​ឆ្នាំ 2024 (15 ឧសភា) ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​គ្រូបង្រៀន! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "스승의 날",
+        "hover_text": "2024년 선생님의 날(5월 15일)",
+        "share_text": "스승의 날 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Мугалимдер күнү",
+        "hover_text": "Мугалимдер күнү – 2024 (15-май)",
+        "share_text": "Мугалимдер күнүңүз менен! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຄູ",
+        "hover_text": "ວັນຄູປີ 2024 (15 ພຶດສະພາ)",
+        "share_text": "ສຸກສັນວັນຄູ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día del Maestro",
+        "hover_text": "Día del Maestro 2024 (15 de mayo)",
+        "share_text": "¡Feliz Día del Maestro! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Skolotāju diena",
+        "hover_text": "Skolotāju diena — 2024. gada 15. maijs",
+        "share_text": "Sveicam Skolotāju dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Mokytojų diena",
+        "hover_text": "Mokytojų diena, 2024 m. (gegužės 15 d.)",
+        "share_text": "Linksmos Mokytojų dienos! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на наставниците",
+        "hover_text": "Ден на наставниците (15 мај), 2024 г.",
+        "share_text": "Среќен ден на наставниците! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Andron'ny mpampianatra",
+        "hover_text": null,
+        "share_text": "Tsarà Andron'ny mpampianatra ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Guru",
+        "hover_text": "Hari Guru 2024 (15 Mei) 2024",
+        "share_text": "Selamat Hari Guru! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "അദ്ധ്യാപകദിനം",
+        "hover_text": "അധ്യാപക ദിനം 2024 (മെയ് 15) 2024",
+        "share_text": "അദ്ധ്യാപക ദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "शिक्षक दिन",
+        "hover_text": "शिक्षकदिन (१५ मे) २०२४",
+        "share_text": "शिक्षक दिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Багш нарын баяр",
+        "hover_text": "2024 оны Багш нарын өдөр (5-р сарын 15)",
+        "share_text": "Багш нарын баярын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "शिक्षक दिवस",
+        "hover_text": "शिक्षक दिवस (मे १५) २०२४",
+        "share_text": "शिक्षक दिवस शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Lærernes dag",
+        "hover_text": "Lærernes dag 2024 (15. mai)",
+        "share_text": "Gratulerer med lærernes dag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଗୁରୁ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ଗୁରୁ ଦିବସର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز معلم",
+        "hover_text": "روز معلم ۲۰۲۴ (۱۵ مه)",
+        "share_text": "روز معلم مبارک! #GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Nauczyciela",
+        "hover_text": "Dzień Nauczyciela 2024",
+        "share_text": "Szczęśliwego Dnia Nauczyciela! #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia do Professor",
+        "hover_text": "Dia dos Professores 2024 (15 de maio)",
+        "share_text": "Feliz Dia do Professor! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia dos Professores",
+        "hover_text": "Dia dos Professores de 2024 (15 de maio)",
+        "share_text": "Feliz dia do professor! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਅਧਿਆਪਕ ਦਿਵਸ",
+        "hover_text": "ਅਧਿਆਪਕ ਦਿਵਸ (15 ਮਈ) 2024",
+        "share_text": "ਅਧਿਆਪਕ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua profesorului",
+        "hover_text": "Ziua Profesorului – 2024 (15 mai)",
+        "share_text": "La mulți ani de Ziua Profesorului! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День учителя",
+        "hover_text": "День учителя – 2024 (15 мая)",
+        "share_text": "День учителя #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан учитеља",
+        "hover_text": "Дан учитеља (15. мај) 2024.",
+        "share_text": "Срећан Дан учитеља! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan učitelja",
+        "hover_text": "Dan učitelja (15. maj) 2024.",
+        "share_text": "Srećan Dan učitelja! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Ansenyan",
+        "hover_text": null,
+        "share_text": "Bonn fet asennyan! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ගුරු දිනය",
+        "hover_text": "ගුරුවරුන්ගේ දිනය 2024 (මැයි 15) 2024",
+        "share_text": "ප්‍රීතිමත් ගුරු දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň učiteľov",
+        "hover_text": "Deň učiteľov (15. máj) 2024",
+        "share_text": "Šťastný Deň učiteľov! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan učiteljev",
+        "hover_text": "Dan učiteljev 2024 (15. maj)",
+        "share_text": "Vesel dan učiteljev! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Macalimiinta",
+        "hover_text": null,
+        "share_text": "Maalinta Macalinka oo Farxada leh! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Barutis",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Barutisi la 2021! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día del Maestro",
+        "hover_text": "Día del Maestro 2024 (15 de mayo)",
+        "share_text": "¡Feliz Día del Maestro! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Walimu",
+        "hover_text": "Siku ya Walimu (Tarehe 15 Mei) 2024",
+        "share_text": "Heri za Sikukuu ya Walimu! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Lärarnas dag",
+        "hover_text": "Lärarnas dag (15 maj) 2024",
+        "share_text": "Vi firar lärarnas dag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஆசிரியர் தினம்",
+        "hover_text": "ஆசிரியர் தினம் (மே 15) 2024",
+        "share_text": "ஆசிரியர் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఉపాధ్యాయుల దినోత్సవం",
+        "hover_text": "ఉపాధ్యాయుల దినోత్సవం (మే 15) 2024",
+        "share_text": "ఉపాధ్యాయుల దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันครู",
+        "hover_text": "วันครูปี 2024 (15 พฤษภาคม)",
+        "share_text": "สุขสันต์วันครู #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Barutabana",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Barutabana! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Öğretmenler Günü",
+        "hover_text": "15 Mayıs 2024 Öğretmenler Günü",
+        "share_text": "Öğretmenler Günü Kutlaması. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День учителя",
+        "hover_text": "День учителя у 2024 році (15 травня)",
+        "share_text": "З Днем учителя! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم اساتذہ",
+        "hover_text": "یوم اساتذہ 2024 (مئی 15) 2024",
+        "share_text": "یوم اساتذہ مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Ustozlar kuni",
+        "hover_text": "Ustozlar kuni (15-may) 2024",
+        "share_text": "Ustozlar kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Nhà giáo",
+        "hover_text": "Ngày Nhà giáo năm 2024 (ngày 15 tháng 5)",
+        "share_text": "Chúc mừng ngày Nhà giáo! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lothisha",
+        "hover_text": "Usuku loThisha lwango-2024 (15 Meyi) 2024",
+        "share_text": "Sikufisela Usuku Oluhle Lothisha! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Teachers' Day",
+    "share_text": "Happy Teachers' Day! #GoogleDoodle"
+  },
+  {
+    "name": "paraguay-independence-day-2024",
+    "title": "Paraguay Independence Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/paraguay-independence-day-2024-6753651837110219-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/k6YbMT1q-U9cCo4uYt12NqOnca4hTNXibkycAJVbTYNPDCUV1bQiX2znt1XPXCXOzsDPLqOzj7MNfj-BkeiWXdbDKR-GDE6vODc47xNpgfeeDaxUS_RmXg",
+    "high_res_url": "//www.google.com/logos/doodles/2024/paraguay-independence-day-2024-6753651837110219-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      5,
+      15
+    ],
+    "translations": {
+      "en": {
+        "query": "Paraguay Independence Day",
+        "hover_text": "Paraguay Independence Day 2024",
+        "share_text": "Happy Independence Day, Paraguay! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Paraguay se onafhanklikheidsdag",
+        "hover_text": "Paraguay se onafhanklikheidsdag 2024",
+        "share_text": "Gelukkige Onafhanklikheidsdag, Paraquay! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë së Paraguait",
+        "hover_text": "Dita e Pavarësisë së Paraguait, 2024",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Paraguai! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የፓራጓይ ነጻነት ቀን",
+        "hover_text": "የፓራጓይ የነፃነት ቀን 2024",
+        "share_text": "መልካም የነጻነት ቀን ፓራጓይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال باراغواي",
+        "hover_text": "عيد استقلال باراغواي 2024",
+        "share_text": "نتمنّى لباراغواي عيد استقلال سعيدًا. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Պարագվայի անկախության օր",
+        "hover_text": "Պարագվայի անկախության օր 2024",
+        "share_text": "Շնորհավո՛ր Պարագվայի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Paraqvay Müstəqillik Günü",
+        "hover_text": "2024 Paraqvayın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Paraqvay! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "প্যারগুয়ের স্বাধীনতা দিবস",
+        "hover_text": "প্যারাগুয়ের স্বাধীনতা দিবস ২০২৪",
+        "share_text": "স্বাধীনতা দিবসের শুভেচ্ছা, প্যারাগুয়ে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Paraguaiko Independentzia Eguna",
+        "hover_text": "2024ko Paraguaiko Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Paraguai! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Парагвая",
+        "hover_text": "Дзень незалежнасці Парагвая 2024",
+        "share_text": "З Днём незалежнасці, Парагвай! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Paragvaja",
+        "hover_text": "Dan nezavisnosti Paragvaja 2024.",
+        "share_text": "Sretan Dan nezavisnosti, Paragvaj! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Paraguay Independence Day",
+        "hover_text": "Paraguay Independence Day 2024",
+        "share_text": "Happy Independence Day, Paraguay! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Парагвай",
+        "hover_text": "Ден на независимостта на Парагвай 2024 г.",
+        "share_text": "Честит Ден на независимостта на Парагвай! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ပါရာဂွေး လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ ပါရာဂွေးနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ဖြစ်ပါစေ ပါရာဂွေး။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència del Paraguai",
+        "hover_text": "Dia de la Independència del Paraguai 2024",
+        "share_text": "Feliç Dia de la Independència, Paraguai! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "巴拉圭獨立日",
+        "hover_text": "2024 年巴拉圭獨立日",
+        "share_text": "巴拉圭，獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "巴拉圭獨立紀念日",
+        "hover_text": "2024 年巴拉圭獨立紀念日",
+        "share_text": "巴拉圭，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "巴拉圭独立日",
+        "hover_text": "2024 年巴拉圭独立日",
+        "share_text": "巴拉圭，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Paragvaja",
+        "hover_text": "Dan neovisnosti Paragvaja 2024.",
+        "share_text": "Sretan Dan neovisnosti, Paragvaj! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Paraguaye",
+        "hover_text": "Den nezávislosti Paraguaye 2024",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Paraguayi! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Paraguays uafhængighedsdag",
+        "hover_text": "Paraguays uafhængighedsdag 2024",
+        "share_text": "Vi fejrer Paraguays uafhængighedsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag in Paraguay",
+        "hover_text": "Onafhankelijkheidsdag Paraguay 2024",
+        "share_text": "Fijne Onafhankelijkheidsdag, Paraguay #GoogleDoodle"
+      },
+      "et": {
+        "query": "Paraguay iseseisvuspäev",
+        "hover_text": "Paraguay 2024. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Paraguay! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Paraguayn itsenäisyyspäivä",
+        "hover_text": "Paraguayn itsenäisyyspäivä 2024",
+        "share_text": "Hyvää itsenäisyyspäivää, Paraguay! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Jour de l'indépendance du Paraguay",
+        "hover_text": "Fête de l'Indépendance du Paraguay 2024",
+        "share_text": "Fête de l'Indépendance du Paraguay ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'Indépendance du Paraguay",
+        "hover_text": "Fête de l'Indépendance du Paraguay 2024",
+        "share_text": "Joyeuse fête de l'indépendance du Paraguay! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Paraguai",
+        "hover_text": "Día da Independencia do Paraguai 2024",
+        "share_text": "Feliz Día da Independencia, Paraguai! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "პარაგვაის დამოუკიდებლობის დღე",
+        "hover_text": "პარაგვაის დამოუკიდებლობის დღე — 2024",
+        "share_text": "ვულოცავთ პარაგვაის დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag (Paraguay)",
+        "hover_text": "Unabhängigkeitstag Paraguay 2024",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Paraguay! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας Παραγουάης",
+        "hover_text": "Ημέρα Ανεξαρτησίας της Παραγουάης 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας της Παραγουάης! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "પેરાગ્વેનો સ્વતંત્રતા દિવસ",
+        "hover_text": "પેરાગ્વેનો સ્વતંત્રતા દિવસ 2024",
+        "share_text": "પેરાગ્વેના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של פרגוואי",
+        "hover_text": "יום העצמאות של פרגוואי 2024",
+        "share_text": "יום עצמאות שמח, פרגוואי! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "पैराग्वे का स्वतंत्रता दिवस",
+        "hover_text": "पराग्वे का स्वतंत्रता दिवस 2024",
+        "share_text": "स्वतंत्रता दिवस की शुभकानाएं, पराग्वे! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Paraguay függetlenségének napja",
+        "hover_text": "Paraguay függetlenségének napja, 2024",
+        "share_text": "Minden jót a függetlenség napján, Paraguay! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Paragvæ",
+        "hover_text": "Sjálfstæðisdagur Paragvæ 2024",
+        "share_text": "Gleðilegan sjálfstæðisdag, Paragvæ! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Paraguay",
+        "hover_text": "Hari Kemerdekaan Paraguay 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Paraguay! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse Pharagua",
+        "hover_text": null,
+        "share_text": "Lá Saoirse Pharagua faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza del Paraguay",
+        "hover_text": "Festa dell'indipendenza del Paraguay 2024",
+        "share_text": "Buona festa dell'indipendenza, Paraguay! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "パラグアイ独立記念日",
+        "hover_text": "2024 年パラグアイ独立記念日",
+        "share_text": "パラグアイ独立記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಪರಾಗ್ವೆ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಪರಾಗ್ವೆ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಪರಾಗ್ವೇ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Парагвайдың Тәуелсіздік күні",
+        "hover_text": "Парагвайдың Тәуелсіздік күні – 2024",
+        "share_text": "Тәуелсіздік күні құтты болсын, Парагвай! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យឯករាជ្យជាតិ​ប៉ារ៉ាហ្គាយ",
+        "hover_text": "ទិវា​បុណ្យឯករាជ្យជាតិ​ប៉ារ៉ាហ្កាយ​ឆ្នាំ 2024",
+        "share_text": "អបអរទិវា​បុណ្យឯករាជ្យជាតិ​ប៉ារ៉ាហ្កាយ! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "파라과이 독립기념일",
+        "hover_text": "2024년 파라과이 독립기념일",
+        "share_text": "파라과이 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Парагвайдын Эгемендүүлүк күнү",
+        "hover_text": "Парагвайдын Эгемендүүлүк күнү – 2024",
+        "share_text": "Эгемендүүлүк күнүң менен, Парагвай! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຊາດພາຣາກວຍ",
+        "hover_text": "ວັນປະກາດເອກະລາດປາຣາກວຍ 2024",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດພາຣາກວຍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Paraguay",
+        "hover_text": "Día de la Independencia de Paraguay 2024",
+        "share_text": "¡Feliz Día de la Independencia, Paraguay! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Paragvajas Neatkarības diena",
+        "hover_text": "Paragvajas Neatkarības diena — 2024",
+        "share_text": "Sveicam Neatkarības dienā, Paragvaja! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Paragvajaus nepriklausomybės diena",
+        "hover_text": "Paragvajaus nepriklausomybės diena, 2024 m.",
+        "share_text": "Sveikiname Paragvajų su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Парагвај",
+        "hover_text": "Ден на независноста на Парагвај, 2024 г.",
+        "share_text": "Среќен Ден на независноста, Парагвај! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetim-pirenena Paragoaiana",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny fahaleovantena ry Paragoay ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Paraguay",
+        "hover_text": "Hari Kemerdekaan Paraguay 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Paraguay! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "പരാഗ്വേ സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "പരാഗ്വേ സ്വാതന്ത്ര്യദിനം 2024",
+        "share_text": "സ്വാതന്ത്ര്യ ദിനാശംസകൾ, പരാഗ്വേ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "पॅराग्वेचा स्वातंत्र्य दिन",
+        "hover_text": "पॅराग्वेचा स्वातंत्र्यदिन २०२४",
+        "share_text": "पराग्वेला स्वातंत्र्यदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Парагвай улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2024 оны Парагвай Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Парагвай улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "पाराग्वेको स्वतन्त्रता दिवस",
+        "hover_text": "पाराग्वेको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, पाराग्वे! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Paraguays uavhengighetsdag",
+        "hover_text": "Paraguays frigjøringsdag 2024",
+        "share_text": "Gratulerer med frigjøringsdagen, Paraguay! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ପାରାଗୁଏ ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": null,
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, ପାରାଗୁଏ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال پاراگوئه",
+        "hover_text": "روز استقلال پاراگوئه - ۲۰۲۴",
+        "share_text": "روز استقلال پاراگوئه مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Niepodległości Paragwaju",
+        "hover_text": "Dzień Niepodległości Paragwaju 2024",
+        "share_text": "Paragwaj obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência do Paraguai",
+        "hover_text": "Dia da Independência do Paraguai 2024",
+        "share_text": "Feliz Dia da Independência, Paraguai! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência do Paraguai",
+        "hover_text": "Dia da Independência do Paraguai de 2024",
+        "share_text": "Feliz dia da independência, Paraguai! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਪੈਰਾਗੁਏ ਦਾ ਆਜ਼ਾਦੀ ਦਿਹਾੜਾ",
+        "hover_text": "ਪੈਰਾਗੁਏ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2024",
+        "share_text": "ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਪੈਰਾਗੁਏ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței în Paraguay",
+        "hover_text": "Ziua Independenței în Paraguay 2024",
+        "share_text": "La mulți ani de Ziua Independenței, Paraguay! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Парагвая",
+        "hover_text": "День независимости Парагвая – 2024",
+        "share_text": "День независимости Парагвая #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Парагваја",
+        "hover_text": "Дан независности Парагваја 2024.",
+        "share_text": "Честитамо Дан независности Парагвају! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Paragvaja",
+        "hover_text": "Dan nezavisnosti Paragvaja 2024.",
+        "share_text": "Čestitamo Dan nezavisnosti Paragvaju! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen.Lendepandans.Paragway",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "පරගුවෛ නිදහස් දිනය",
+        "hover_text": "පැරගුවේ නිදහස් දිනය 2024",
+        "share_text": "ප්‍රීතිමත් නිදහස් දිනයක්, පැරගුවේ! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Paraguaja",
+        "hover_text": "Deň nezávislosti Paraguaja 2024",
+        "share_text": "Šťastný Deň nezávislosti, Paraguaj! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Paragvajski dan neodvisnosti",
+        "hover_text": "Paragvajski dan neodvisnosti 2024",
+        "share_text": "Vesel dan neodvisnosti, Paragvaj! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madax banaanida Paraguay",
+        "hover_text": null,
+        "share_text": "Maalinta Madaxbanaanida Farxada leh, Barugwaay! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Ditshwanelo la Paraguay",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día de la Independencia de Paraguay",
+        "hover_text": "Día de la Independencia de Paraguay 2024",
+        "share_text": "¡Feliz Día de la Independencia de Paraguay! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Uhuru - Paragwai",
+        "hover_text": "Sikukuu ya Uhuru wa Paragwai 2024",
+        "share_text": "Heri ya Sikukuu ya Uhuru, Paragwai! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Paraguays självständighetsdag",
+        "hover_text": "Paraguays självständighetsdag 2024",
+        "share_text": "Vi firar Paraguays självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "பராகுவேவின் குடியரசுத் தினம்",
+        "hover_text": "பராகுவே சுதந்திர தினம் 2024",
+        "share_text": "பராகுவே சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "పరాగ్వే స్వాతంత్ర్య దినోత్సవం",
+        "hover_text": "పరాగ్వే స్వాతంత్య్ర దినోత్సవం 2024",
+        "share_text": "స్వాతంత్య్ర దినోత్సవ శుభాకాంక్షలు, పరాగ్వే! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของปารากวัย",
+        "hover_text": "วันประกาศเอกราชของปารากวัยปี 2024",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของปารากวัย #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Paraguay",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Paraguay Bağımsızlık Günü",
+        "hover_text": "2024 Paraguay Bağımsızlık Günü",
+        "share_text": "Paraguay Bağımsızlık Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Парагваю",
+        "hover_text": "День незалежності Парагваю у 2024 році",
+        "share_text": "З Днем незалежності, Парагваю! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "پیراگوئے کا یوم آزادی",
+        "hover_text": "پیراگوئے کا یوم آزادی 2024",
+        "share_text": "پیراگوئے کا یوم آزادی مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Paragvayda mustaqillik kuni",
+        "hover_text": "Paragvay Mustaqillik kuni 2024",
+        "share_text": "Mustaqillik kuni muborak, Paragvay! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Paraguay",
+        "hover_text": "Ngày Quốc khánh Paraguay năm 2024",
+        "share_text": "Mừng Ngày Quốc khánh Paraguay! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lwenkululeko lwase-Paraguay",
+        "hover_text": "Usuku Lokuzimela lase-Paraguay lwango-2024",
+        "share_text": "Sinifisela Usuku Oluhle Lokuzimela, e-Paraguay! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Paraguay Independence Day",
+    "share_text": "Happy Independence Day, Paraguay! #GoogleDoodle"
+  },
+  {
     "name": "wnba-season-begins-2024",
     "title": "WNBA Season Begins 2024",
     "url": "//www.google.com/logos/doodles/2024/wnba-season-begins-2024-6753651837110501.3-l.png",
