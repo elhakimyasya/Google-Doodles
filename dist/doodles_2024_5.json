@@ -1,5 +1,1003 @@
 [
   {
+    "name": "norway-constitution-day-2024",
+    "title": "Norway Constitution Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/norway-constitution-day-2024-6753651837110221-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/0GbAPrumS7w_JnECZXoOI_Ri0-Sn-Zij59IBC6FR3UrngCseZJg302VdgsqLd7Yi0gmIm6mOICmknG_Iri5E-OQ-P9Hui39OOYwSLC75aLjNPo77h9ry",
+    "high_res_url": "//www.google.com/logos/doodles/2024/norway-constitution-day-2024-6753651837110221-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      5,
+      17
+    ],
+    "translations": {
+      "en": {
+        "query": "Norway Constitution Day",
+        "hover_text": "Norway Constitution Day 2024",
+        "share_text": "Happy Constitution Day, Norway! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Noorweë se Grondwetdag",
+        "hover_text": "Noorweë se Grondwetdag 2024",
+        "share_text": "Gelukkige Grondwetdag, Noorweë! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Kushtetutës së Norvegjisë",
+        "hover_text": "Dita e Kushtetutës së Norvegjisë, 2024",
+        "share_text": "Gëzuar Ditën e Kushtetutës, Norvegji! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የኖርዌይ ሕገመንግስት ቀን",
+        "hover_text": "የኖርዌይ የሕገ መንግስት ቀን 2024",
+        "share_text": "መልካም የሕገመንግስት ቀን ኖርዌይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "يوم الدستور النرويجي",
+        "hover_text": "يوم الدستور النرويجي 2024",
+        "share_text": "نتمنّى عيدًا سعيدًا للنرويج بمناسبة يوم الدستور. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Նորվեգիայի սահմանադրության օր",
+        "hover_text": "Նորվեգիայի սահմանադրության օր 2024",
+        "share_text": "Շնորհավո՛ր Նորվեգիայի սահմանադրության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Norveç Konstitusiya Günü",
+        "hover_text": "2024 Norveç Konstitusiya Günü",
+        "share_text": "Konstitusiya Günün Mübarək, Norveç! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "নরওয়ের সংবিধান দিবস",
+        "hover_text": "নরওয়ের সংবিধান দিবস ২০২৪",
+        "share_text": "সংবিধান দিবসের শুভেচ্ছা, নরওয়ে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Norvegiako Konstituzio Eguna",
+        "hover_text": "2024ko Norvegiako Konstituzio Eguna",
+        "share_text": "Konstituzio Egun zoriontsua izan, Norvegia! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень Канстытуцыі Нарвегіі",
+        "hover_text": "Дзень Канстытуцыі Нарвегіі 2024",
+        "share_text": "З Днём Канстытуцыі, Нарвегія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan ustava Norveške",
+        "hover_text": "Dan Ustava Norveške 2024.",
+        "share_text": "Sretan Dan ustava, Norveška! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Norway Constitution Day",
+        "hover_text": "Norway Constitution Day 2024",
+        "share_text": "Happy Constitution Day Norway! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на норвежката конституция",
+        "hover_text": "Ден на норвежката конституция 2024 г.",
+        "share_text": "Честит Ден на конституцията на Норвегия! #GoogleDoodle"
+      },
+      "my": {
+        "query": "နော်ဝေး ဖွဲ့စည်းအုပ်ချုပ်ပုံ အခြေခံဥပဒေနေ့",
+        "hover_text": "၂၀၂၄ နော်ဝေး ဖွဲ့စည်းပုံအခြေခံဥပဒေနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် ဖွဲ့စည်းပုံအခြေခံဥပဒေနေ့ ဖြစ်ပါစေ နော်ဝေး။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Constitució de Noruega",
+        "hover_text": "Dia de la Constitució de Noruega 2024",
+        "share_text": "Feliç Dia de la Constitució, Noruega! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "挪威行憲紀念日",
+        "hover_text": "2024 年挪威憲法日",
+        "share_text": "挪威，憲法日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "挪威行憲紀念日",
+        "hover_text": "2024 年挪威行憲紀念日",
+        "share_text": "挪威，行憲紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "挪威宪法日",
+        "hover_text": "2024 年挪威宪法日",
+        "share_text": "挪威，宪法日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan Ustava Kraljevine Norveške",
+        "hover_text": "Dan Ustava Kraljevine Norveške 2024.",
+        "share_text": "Sretan Dan Ustava, Norveška! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den norské ústavy",
+        "hover_text": "Den norské ústavy 2024",
+        "share_text": "Vše nejlepší ke Dni ústavy, Norsko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Grundlovsdag i Norge",
+        "hover_text": "Grundlovsdag i Norge 2024",
+        "share_text": "Vi fejrer Norges grundlovsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Noorse Dag van de Grondwet",
+        "hover_text": "Noorse Dag van de Grondwet 2024",
+        "share_text": "Fijne Dag van de Grondwet, Noorwegen #GoogleDoodle"
+      },
+      "et": {
+        "query": "Norra konstitutsioonipäev",
+        "hover_text": "Norra 2024. aasta konstitutsioonipäev",
+        "share_text": "Head konstitutsioonipäeva, Norra! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Norjan kansallispäivä",
+        "hover_text": "Norjan kansallispäivä 2024",
+        "share_text": "Hyvää kansallispäivää, Norja! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête nationale norvégienne",
+        "hover_text": "Fête nationale norvégienne 2024",
+        "share_text": "Fête nationale norvégienne ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de la Constitution norvégienne",
+        "hover_text": "Jour de la Constitution norvégienne 2024",
+        "share_text": "Bon jour de la Constitution, Norvège! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Constitución de Noruega",
+        "hover_text": "Día da Constitución de Noruega 2024",
+        "share_text": "Feliz Día da Constitución, Noruega! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ნორვეგიის კონსტიტუციის დღე",
+        "hover_text": "ნორვეგიის კონსტიტუციის დღე — 2024",
+        "share_text": "ვულოცავთ ნორვეგიას კონსტიტუციის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Verfassungstag Norwegen",
+        "hover_text": "Verfassungstag Norwegen 2024",
+        "share_text": "Alles Gute zum Verfassungstag in Norwegen! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα του Συντάγματος της Νορβηγίας",
+        "hover_text": "Ημέρα του Συντάγματος της Νορβηγίας 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα του Συντάγματος της Νορβηγίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "નૉર્વેનો બંધારણ દિવસ",
+        "hover_text": "નૉર્વેનો બંધારણ દિવસ 2024",
+        "share_text": "નૉર્વેના બંધારણ દિવસની શુભેચ્છાઓ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום החוקה בנורווגיה",
+        "hover_text": "יום החוקה של נורווגיה 2024",
+        "share_text": "יום חוקה שמח לנורווגיה! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "नॉर्वे का संविधान दिवस",
+        "hover_text": "नॉर्वे का संविधान दिवस 2024",
+        "share_text": "संविधान दिवस की शुभकामनाएं, नॉर्वे! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A norvég alkotmány napja",
+        "hover_text": "A norvég alkotmány napja, 2024",
+        "share_text": "Minden jót az alkotmány napján, Norvégia! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þjóðhátíðardagur Noregs",
+        "hover_text": "Þjóðhátíðardagur Noregs 2024",
+        "share_text": "Gleðilegan þjóðhátíðardag, Noregur! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Konstitusi Norwegia",
+        "hover_text": "Hari Konstitusi Norwegia 2024",
+        "share_text": "Selamat Hari Konstitusi, Norwegia! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Bhunreacht na hIorua",
+        "hover_text": null,
+        "share_text": "Lá Bhunreacht na hIorua faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Giorno della Costituzione norvegese",
+        "hover_text": "Giorno della Costituzione norvegese 2024",
+        "share_text": "Felice Giorno della Costituzione, Norvegia! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ノルウェー憲法記念日",
+        "hover_text": "2024 年ノルウェー憲法記念日",
+        "share_text": "ノルウェー憲法記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ನಾರ್ವೆ ಸಂವಿಧಾನ ದಿನಾಚರಣೆ",
+        "hover_text": "ನಾರ್ವೆ ಸಂವಿಧಾನ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಸಂವಿಧಾನ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ನಾರ್ವೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Норвегияның Конституция күні",
+        "hover_text": "Норвегияның Конституция күні – 2024",
+        "share_text": "Конституция күні құтты болсын, Норвегия! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​រដ្ឋធម្មនុញ្ញ​ន័រវែស",
+        "hover_text": "ទិវារដ្ឋធម្មនុញ្ញ​ន័រវែសឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​រដ្ឋធម្មនុញ្ញ​ន័រវែស! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "노르웨이 제헌절",
+        "hover_text": "2024년 노르웨이 제헌절",
+        "share_text": "노르웨이 제헌절 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Норвегиядагы Конституция күнү",
+        "hover_text": "Норвегиянын Конституция күнү – 2024",
+        "share_text": "Конституция күнүң менен, Норвегия! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນລັດຖະທຳມະນູນນໍເວ",
+        "hover_text": "ວັນລັດຖະທຳມະນູນນໍເວ 2024",
+        "share_text": "ສຸກສັນວັນລັດຖະທຳມະນູນນໍເວ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Constitución de Noruega",
+        "hover_text": "Día de la Constitución de Noruega 2024",
+        "share_text": "¡Feliz Día de la Constitución, Noruega! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Norvēģijas Konstitūcijas diena",
+        "hover_text": "Norvēģijas Konstitūcijas diena — 2024",
+        "share_text": "Sveicam Konstitūcijas dienā, Norvēģija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Norvegijos konstitucijos diena",
+        "hover_text": "Norvegijos konstitucijos diena, 2024 m.",
+        "share_text": "Sveikiname Norvegiją su Konstitucijos diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на државноста на Норвешка",
+        "hover_text": "Ден на државноста на Норвешка, 2024 г.",
+        "share_text": "Среќен Ден на државноста на Норвешка! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny lalàm-panorenana any Nôrvezy",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny lalàm-panorenana ry Nôrvezy ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Penubuhan Norway",
+        "hover_text": "Hari Penubuhan Norway 2024",
+        "share_text": "Selamat Hari Penubuhan, Norway! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "നോർവേ ഭരണഘടനാ ദിനം",
+        "hover_text": "നോർവേ ഭരണഘടനാ ദിനം 2024",
+        "share_text": "ഭരണഘടനാ ദിനാശംസകൾ, നോർവേ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "नॉर्वेचा संविधान दिन",
+        "hover_text": "नॉर्वेचा संविधानदिन २०२४",
+        "share_text": "नॉर्वेला संविधान दिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Норвег улсын Үндсэн хуулийн өдөр",
+        "hover_text": "2024 оны Норвег Улсын Үндсэн хуулийн өдөр",
+        "share_text": "Норвег улсын ард иргэдэд Үндсэн хуулийн өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "नर्वेको संविधान दिवस",
+        "hover_text": "नर्वेको संविधान दिवस २०२४",
+        "share_text": "संविधान दिवसको शुभकामना, नर्वे! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Norges grunnlovsdag",
+        "hover_text": "17. mai 2024",
+        "share_text": "Gratulerer med dagen, Norge! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ନରୱେ ସମ୍ବିଧାନ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ସମ୍ବିଧାନ ଦିବସର ଶୁଭେଚ୍ଛା, ନରୱେ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز قانون اساسی نروژ",
+        "hover_text": "روز قانون اساسی نروژ - ۲۰۲۴",
+        "share_text": "روز قانون اساسی نروژ مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień konstytucji w Norwegii",
+        "hover_text": "Norweski Dzień Konstytucji 2024",
+        "share_text": "Norwegia obchodzi Dzień Konstytucji #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Constituição Norueguesa",
+        "hover_text": "Dia da Constituição Norueguesa 2024",
+        "share_text": "Feliz Dia da Constituição, Noruega! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da Constituição da Noruega",
+        "hover_text": "Dia da Constituição da Noruega de 2024",
+        "share_text": "Feliz dia da Constituição, Noruega! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਨੋਰਵੇ ਦਾ ਸੰਵਿਧਾਨ ਦਿਵਸ",
+        "hover_text": "ਨਾਰਵੇ ਦਾ ਸੰਵਿਧਾਨ ਦਿਵਸ 2024",
+        "share_text": "ਨਾਰਵੇ ਦੇ ਸੰਵਿਧਾਨ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Constituției în Norvegia",
+        "hover_text": "Ziua Constituției în Norvegia – 2024",
+        "share_text": "La mulți ani de Ziua Constituției, Norvegia! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "день конституции норвегии",
+        "hover_text": "День Конституции Норвегии – 2024",
+        "share_text": "День Конституции Норвегии #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан уставности Норвешке",
+        "hover_text": "Дан уставности Норвешке 2024.",
+        "share_text": "Честитамо Дан уставности Норвешкој! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan ustavnosti Norveške",
+        "hover_text": "Dan ustavnosti Norveške 2024.",
+        "share_text": "Čestitamo Dan ustavnosti Norveškoj! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Konstitisyon Norwe",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "නෝර්වේ ව්‍යවස්ථා දිනය",
+        "hover_text": "නෝර්වේ ව්‍යවස්ථා දිනය 2024",
+        "share_text": "ප්‍රීතිමත් ව්‍යවස්ථා දිනයක්, නෝර්වේ! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nórskej ústavy",
+        "hover_text": "Deň nórskej ústavy 2024",
+        "share_text": "Šťastný deň ústavy, Nórsko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Norveški dan ustave",
+        "hover_text": "Norveški dan ustave 2024",
+        "share_text": "Vesel dan ustave, Norveška! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Distoorka Norway",
+        "hover_text": null,
+        "share_text": "Maalinta Distoorka Farxada leh, Norway! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Khonstitushene la Norway",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día de la Constitución de Noruega",
+        "hover_text": "Día de la Constitución de Noruega 2024",
+        "share_text": "¡Feliz Día de la Constitución de Noruega! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Norway Constitution Day",
+        "hover_text": "Sikukuu ya Katiba ya Norwe 2024",
+        "share_text": "Heri ya Sikukuu ya Katiba, Norwe! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Norges nationaldag",
+        "hover_text": "Norges nationaldag 2024",
+        "share_text": "Vi firar Norges nationaldag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "நார்வேயின் அரசியலமைப்புத் தினம்",
+        "hover_text": "நார்வே அரசியலமைப்பு தினம் 2024",
+        "share_text": "நார்வே அரசியலமைப்புத் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "నార్వే రాజ్యాంగ దినోత్సవం",
+        "hover_text": "నార్వే రాజ్యాంగ దినోత్సవం 2024",
+        "share_text": "నార్వే రాజ్యాంగ దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันรัฐธรรมนูญของนอร์เวย์",
+        "hover_text": "วันรัฐธรรมนูญนอร์เวย์ปี 2024",
+        "share_text": "สุขสันต์วันรัฐธรรมนูญของนอร์เวย์ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Molaotheo wa Norway",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Norveç Anayasa Günü",
+        "hover_text": "2024 Norveç Anayasa Günü",
+        "share_text": "Norveç Anayasa Günü Kutlaması. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День Конституції Норвегії",
+        "hover_text": "День Конституції Норвегії у 2024 році",
+        "share_text": "З Днем Конституції, Норвегіє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "ناروے کا یوم آئین",
+        "hover_text": "ناروے کا یوم آئین 2024",
+        "share_text": "ناروے کا یوم آئین مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Norvegiyada konstitutsiya kuni",
+        "hover_text": "Norvegiya Konstitutsiyasi kuni 2024",
+        "share_text": "Konstitutsiya kuning bilan, Norvegiya! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Na Uy lập hiến",
+        "hover_text": "Ngày Hiến pháp Na Uy năm 2024",
+        "share_text": "Ngày Hiến pháp Na Uy! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lomthetho-sisekelo lwase-Norway",
+        "hover_text": "Usuku LoMthethosisekelo lwase-Norway lwango-2024",
+        "share_text": "Jabulela Usuku Lomthethosisekelo, e-Norway! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Norway Constitution Day",
+    "share_text": "Happy Constitution Day, Norway! #GoogleDoodle"
+  },
+  {
+    "name": "celebrating-hank-adams",
+    "title": "Celebrating Hank Adams",
+    "url": "//www.google.com/logos/doodles/2024/celebrating-hank-adams-6753651837110220-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/g9oOKrNCPcg1Okk41Fqi-MSVtiLvdOeE5B8b1xeoMmw18RDGrwfhwA0d-rBQ01RfzM7V_ycV8a0plrhtf4TFGYZVP9w1yENTfVQkKw9Ks0FUdyr3dr_cXhc",
+    "high_res_url": "//www.google.com/logos/doodles/2024/celebrating-hank-adams-6753651837110220-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2024,
+      5,
+      16
+    ],
+    "translations": {
+      "en": {
+        "query": "Hank Adams",
+        "hover_text": "Celebrating Hank Adams",
+        "share_text": "Celebrating Hank Adams! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Hank Adams",
+        "hover_text": "Ter viering van Hank Adams",
+        "share_text": "Ter viering van Hank Adams! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Hank Adams",
+        "hover_text": "Përkujtojmë Hank Adams",
+        "share_text": "Përkujtojmë Hank Adams! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ሃንክ አዳምስ",
+        "hover_text": "ሃንክ አዳምስን በማክበር ላይ",
+        "share_text": "ሃንክ አዳምስን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "\"هانك آدامز\"",
+        "hover_text": "الاحتفال بذكرى \"هانك آدامز\"",
+        "share_text": "نحتفل اليوم بذكرى \"هانك آدامز\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Հենք Ադամս",
+        "hover_text": "Տոնենք Հենք Ադամսի օրը",
+        "share_text": "Տոնենք Հենք Ադամսի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Hank Adams",
+        "hover_text": "Hank Adams günü",
+        "share_text": "Hank Adams günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "হ্যাঙ্ক অ্যাডামস",
+        "hover_text": "হ্যাঙ্ক অ্যাডামসের স্মরণে উদযাপন করা হচ্ছে",
+        "share_text": "হ্যাঙ্ক অ্যাডামসের স্মরণে উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Hank Adams",
+        "hover_text": "Hank Adamsen omenez",
+        "share_text": "Hank Adamsen omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Хэнк Адамс",
+        "hover_text": "Ушаноўваем Хэнка Адамса",
+        "share_text": "Ушаноўваем Хэнка Адамса! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Hank Adams",
+        "hover_text": "Slavimo Hanka Adamsa",
+        "share_text": "Slavimo Hanka Adamsa! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Hank Adams",
+        "hover_text": "Celebrating Hank Adams",
+        "share_text": "Celebrating Hank Adams! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ханк Адамс",
+        "hover_text": "Честване на Ханк Адамс",
+        "share_text": "Честване на Ханк Адамс! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Hank Adams",
+        "hover_text": "Hank Adams ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "Hank Adams ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Hank Adams",
+        "hover_text": "Homenatge a Hank Adams",
+        "share_text": "Homenatge a Hank Adams #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Hank Adams",
+        "hover_text": "紀念 Hank Adams",
+        "share_text": "紀念 Hank Adams！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "漢克亞當斯",
+        "hover_text": "紀念漢克亞當斯",
+        "share_text": "紀念漢克亞當斯！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "Hank Adams",
+        "hover_text": "纪念 Hank Adams",
+        "share_text": "纪念 Hank Adams！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Hank Adams",
+        "hover_text": "U čast Hanku Adamsu",
+        "share_text": "U čast Hanku Adamsu! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Hank Adams",
+        "hover_text": "Pocta Hanku Adamsovi",
+        "share_text": "Dnes oslavujeme Hanka Adamse! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Hank Adams",
+        "hover_text": "Vi hylder Hank Adams",
+        "share_text": "Vi hylder Hank Adams #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Hank Adams activist",
+        "hover_text": "Doodle ter ere van de inheemse rechtenactivist Hank Adams",
+        "share_text": "Een doodle ter ere van de inheemse rechtenactivist Hank Adams! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Hank Adams",
+        "hover_text": "Mälestame Hank Adamsit",
+        "share_text": "Mälestame Hank Adamsit! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Hank Adams",
+        "hover_text": "Hank Adams",
+        "share_text": "Hank Adams #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Hank Adams",
+        "hover_text": "Hommage à Hank Adams",
+        "share_text": "Hommage à Hank Adams ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Hank Adams",
+        "hover_text": "Célébration de Hank Adams",
+        "share_text": "Célébration de Hank Adams! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Hank Adams",
+        "hover_text": "Homenaxe a Hank Adams",
+        "share_text": "Homenaxe a Hank Adams! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ჰენკ ადამსი",
+        "hover_text": "აღვნიშნავთ ჰენკ ადამსის დღეს",
+        "share_text": "აღვნიშნავთ ჰენკ ადამსის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Hank Adams",
+        "hover_text": "Zu Ehren von Hank Adams",
+        "share_text": "Zu Ehren von Hank Adams! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Hank Adams",
+        "hover_text": "Τιμούμε τον Hank Adams",
+        "share_text": "Τιμούμε τον Hank Adams! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "હૅન્ક ઍડમ્સ",
+        "hover_text": "હૅન્ક ઍડમ્સની યાદમાં",
+        "share_text": "હૅન્ક ઍડમ્સની યાદમાં! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Hank Adams",
+        "hover_text": "מחווה להאנק אדמס",
+        "share_text": "מחווה להאנק אדמס GoogleDoodle#"
+      },
+      "hi": {
+        "query": "हैंक ऐडम्स",
+        "hover_text": "हैंक ऐडम्स की याद में",
+        "share_text": "हैंक ऐडम्स की याद में! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Hank Adams",
+        "hover_text": "Hank Adams ünneplése",
+        "share_text": "Hank Adams ünneplése! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Hank Adams",
+        "hover_text": "Við heiðrum Hank Adams",
+        "share_text": "Við heiðrum Hank Adams! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hank Adams",
+        "hover_text": "Mengenang Hank Adams",
+        "share_text": "Mengenang Hank Adams #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Hank Adams",
+        "hover_text": "In onore di Hank Adams",
+        "share_text": "In onore di Hank Adams! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ハンク アダムス",
+        "hover_text": "ハンク アダムスを称えよう",
+        "share_text": "ハンク アダムスを称えよう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಹ್ಯಾಂಕ್ ಆ್ಯಡಮ್ಸ್",
+        "hover_text": "ಹ್ಯಾಂಕ್ ಆ್ಯಡಮ್ಸ್ ಅವರನ್ನು ಸ್ಮರಿಸಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಹ್ಯಾಂಕ್ ಆ್ಯಡಮ್ಸ್ ಅವರನ್ನು ಸ್ಮರಿಸಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Хэнк Адамс",
+        "hover_text": "Хэнк Адамсты еске алу",
+        "share_text": "Хэнк Адамсты еске алу күні! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Hank Adams",
+        "hover_text": "អបអរទិវារំលឹក Hank Adams",
+        "share_text": "អបអរទិវារំលឹក Hank Adams! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Hank Adams",
+        "hover_text": "Hank Adams를 기억하며",
+        "share_text": "Hank Adams를 기억하며 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Хэнк Адамс",
+        "hover_text": "Хэнк Адамс күнүн майрамдоо",
+        "share_text": "Хэнк Адамс күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Hank Adams",
+        "hover_text": "ວັນລະນຶກເຖິງ Hank Adams",
+        "share_text": "ວັນລະນຶກເຖິງ Hank Adams! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Hank Adams",
+        "hover_text": "Celebrando a Hank Adams",
+        "share_text": "¡Celebrando a Hank Adams! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Henks Adamss",
+        "hover_text": "Henka Adamsa godināšana",
+        "share_text": "Henka Adamsa godināšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Hankas Adamsas",
+        "hover_text": "Hanko Adamso minėjimas",
+        "share_text": "Hanko Adamso minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Hank Adams",
+        "hover_text": "Во чест на Hank Adams",
+        "share_text": "Во чест на Hank Adams! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Hank Adams",
+        "hover_text": "Meraikan Hank Adams",
+        "share_text": "Meraikan Hank Adams! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Hank Adams",
+        "hover_text": "Hank Adams-നെ ആദരിക്കുന്നു",
+        "share_text": "Hank Adams-നെ ആദരിക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "हँक ॲडम्स",
+        "hover_text": "हँक ॲडम्स यांच्या स्मरणार्थ",
+        "share_text": "हँक ॲडम्स यांच्या स्मरणार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Ханк Адамс",
+        "hover_text": "Ханк Адамсын өдрийг тэмдэглэж байна",
+        "share_text": "Ханк Адамсын өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Hank Adams",
+        "hover_text": "Hank Adams को सम्झना",
+        "share_text": "Hank Adams को सम्झना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Hank Adams",
+        "hover_text": "Vi minnes Hank Adams",
+        "share_text": "Vi minnes Hank Adams! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "هانک آدامز",
+        "hover_text": "بزرگداشت هانک آدامز",
+        "share_text": "بزرگداشت هانک آدامز! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Hank Adams",
+        "hover_text": "Wspominamy Hanka Adamsa",
+        "share_text": "Wspominamy Hanka Adamsa #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Hank Adams",
+        "hover_text": "Celebração da vida de Hank Adams",
+        "share_text": "Celebração da vida de Hank Adams #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Hank Adams",
+        "hover_text": "Celebração de Hank Adams",
+        "share_text": "Celebração de Hank Adams! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Hank Adams",
+        "hover_text": "ਹੈਂਕ ਐਡਮਜ਼ ਦੀ ਯਾਦ ਵਿੱਚ",
+        "share_text": "ਹੈਂਕ ਐਡਮਜ਼ ਦੀ ਯਾਦ ਵਿੱਚ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Hank Adams",
+        "hover_text": "În cinstea lui Hank Adams",
+        "share_text": "În cinstea lui Hank Adams! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Хэнк Адамс",
+        "hover_text": "День Хэнка Адамса",
+        "share_text": "День Хэнка Адамса #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Хенк Адамс",
+        "hover_text": "Славимо Хенка Адамса",
+        "share_text": "Славимо Хенка Адамса! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Henk Adams",
+        "hover_text": "Slavimo Henka Adamsa",
+        "share_text": "Slavimo Henka Adamsa! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "හැන්ක් ඇඩම්ස්",
+        "hover_text": "හැන්ක් ඇඩම්ස් සැමරීම",
+        "share_text": "හැන්ක් ඇඩම්ස් සැමරීම! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Hank Adams",
+        "hover_text": "Pripomíname si Hanka Adamsa",
+        "share_text": "Pripomíname si Hanka Adamsa. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Hank Adams",
+        "hover_text": "Slavimo Hanka Adamsa",
+        "share_text": "Slavimo Hanka Adamsa! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Hank Adams",
+        "hover_text": "Homenaje a Hank Adams",
+        "share_text": "Hoy rendimos homenaje a Hank Adams #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Hank Adams",
+        "hover_text": "Tunamwenzi Hank Adams",
+        "share_text": "Tunamwenzi Hank Adams! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Hank Adams",
+        "hover_text": "Vi hyllar Hank Adams",
+        "share_text": "Vi hyllar Hank Adams! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஹாங்க் ஆடம்ஸ்",
+        "hover_text": "ஹாங்க் ஆடம்ஸைக் கொண்டாடுவோம்",
+        "share_text": "ஹாங்க் ஆடம்ஸைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "హ్యాంక్ ఆడమ్స్",
+        "hover_text": "హ్యాంక్ ఆడమ్స్‌ను స్మరించుకుందాం",
+        "share_text": "హ్యాంక్ ఆడమ్స్‌ను స్మరించుకుందాం! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Hank Adams",
+        "hover_text": "วันรำลึกถึง Hank Adams",
+        "share_text": "วันรำลึกถึง Hank Adams #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Hank Adams",
+        "hover_text": "Hank Adams'ı Anıyoruz",
+        "share_text": "Hank Adams'ı anıyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Генк Адамс",
+        "hover_text": "Ушановуємо Генка Адамса",
+        "share_text": "Ушановуємо Генка Адамса! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Hank Adams",
+        "hover_text": "Hank Adams کی یاد میں",
+        "share_text": "Hank Adams کی یاد میں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Hank Adams",
+        "hover_text": "Hank Adams kuni",
+        "share_text": "Hank Adams kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Hank Adams",
+        "hover_text": "Tôn vinh Hank Adams",
+        "share_text": "Tôn vinh Hank Adams! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Hank Adams",
+        "hover_text": "Sibungaza u-Hank Adams",
+        "share_text": "Sibungaza u-Hank Adams! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Hank Adams",
+    "share_text": "Celebrating Hank Adams! #GoogleDoodle"
+  },
+  {
     "name": "teachers-day-2024-may-15",
     "title": "Teachers' Day 2024 (May 15)",
     "url": "//www.google.com/logos/doodles/2024/teachers-day-2024-may-15-6753651837110427-l.png",
