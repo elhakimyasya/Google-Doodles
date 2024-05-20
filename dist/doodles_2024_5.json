@@ -1,5 +1,504 @@
 [
   {
+    "name": "india-general-elections-2024-ph-5",
+    "title": "India General Elections 2024 (Ph 5)",
+    "url": "//www.google.com/logos/doodles/2024/india-general-elections-2024-ph-5-6753651837110506-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/WczTi3IqL756aHalEFZJABBrLE57qKLafMP4LjF0F4CTXZ-CE1Z-_NLnxIv3zL1uL0OKcxQDz_wlcXMYIxskSSE-Tnw0LOedYijY_yHxu7WpDYYjS-x3cA",
+    "high_res_url": "//www.google.com/logos/doodles/2024/india-general-elections-2024-ph-5-6753651837110506-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      5,
+      20
+    ],
+    "translations": {
+      "en": {
+        "query": "India General Elections 2024",
+        "hover_text": "India General Elections 2024",
+        "share_text": "India General Elections 2024! #GoogleDoodle"
+      },
+      "af": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sq": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "am": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ar": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "hy": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "az": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "bn": {
+        "query": "ভারতের সাধারণ নির্বাচন",
+        "hover_text": "ভারতের সাধারণ নির্বাচন ২০২৪",
+        "share_text": "ভারতের সাধারণ নির্বাচন ২০২৪! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "be": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "bs": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "bg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "my": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ca": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "hr": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "cs": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "da": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "nl": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "et": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "fi": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "fr": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "gl": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ka": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "de": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "el": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "gu": {
+        "query": "ભારતની સામાન્ય ચૂંટણીઓ 2024",
+        "hover_text": "ભારતની રાષ્ટ્રીય ચૂંટણીઓ 2024",
+        "share_text": "ભારતની રાષ્ટ્રીય ચૂંટણીઓ 2024! #GoogleDoodle"
+      },
+      "ht": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "iw": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "hi": {
+        "query": "भारत का आम चुनाव 2024",
+        "hover_text": "भारत का आम चुनाव 2024",
+        "share_text": "भारत के लोकसभा चुनाव 2024! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "is": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "id": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ga": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "it": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ja": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "kn": {
+        "query": "ಭಾರತದ ಸಾರ್ವತ್ರಿಕ ಚುನಾವಣೆಗಳು 2024",
+        "hover_text": "ಭಾರತದ ಸಾರ್ವತ್ರಿಕ ಚುನಾವಣೆಗಳು 2024",
+        "share_text": "ಭಾರತದ ಸಾರ್ವತ್ರಿಕ ಚುನಾವಣೆಗಳು 2024! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "km": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ko": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ky": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "lo": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "es-419": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "lv": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "lt": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "mk": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "mg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ms": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ml": {
+        "query": "ഇന്ത്യയിലെ പൊതുതിരഞ്ഞെടുപ്പ് 2024",
+        "hover_text": "ഇന്ത്യയിലെ പൊതുതിരഞ്ഞെടുപ്പ് 2024",
+        "share_text": "ഇന്ത്യയിലെ പൊതുതിരഞ്ഞെടുപ്പ് 2024! #GoogleDoodle"
+      },
+      "mt": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "mr": {
+        "query": "भारताच्या सर्वसाधारण निवडणुका २०२४",
+        "hover_text": "ഇന്ത്യയിലെ പൊതുതിരഞ്ഞെടുപ്പ് 2024! #GoogleDoodle",
+        "share_text": "भारताच्या सर्वसाधारण निवडणुका २०२४! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ne": {
+        "query": "भारतको आम निर्वाचन २०२४",
+        "hover_text": "भारतको आम निर्वाचन २०२४",
+        "share_text": "भारतको आम निर्वाचन २०२४! #GoogleDoodle"
+      },
+      "no": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "nn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ny": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "or": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ps": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "fa": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "pl": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "pa": {
+        "query": "ਭਾਰਤ ਦੀਆਂ ਆਮ ਚੋਣਾਂ 2024",
+        "hover_text": "ਭਾਰਤ ਦੀਆਂ ਆਮ ਚੋਣਾਂ 2024",
+        "share_text": "ਭਾਰਤ ਦੀਆਂ ਆਮ ਚੋਣਾਂ 2024! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ru": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sr": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "crs": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "si": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sk": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sl": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "so": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "st": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "es": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sw": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sv": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "tg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ta": {
+        "query": "இந்தியப் பொதுத் தேர்தல்கள் 2024",
+        "hover_text": "இந்தியப் பொதுத் தேர்தல்கள் 2024",
+        "share_text": "இந்தியப் பொதுத் தேர்தல்கள் 2024! #GoogleDoodle"
+      },
+      "te": {
+        "query": "భారతదేశ సార్వత్రిక ఎన్నికలు 2024",
+        "hover_text": "భారతదేశ సార్వత్రిక ఎన్నికలు 2024",
+        "share_text": "భారతదేశ సార్వత్రిక ఎన్నికలు 2024! #GoogleDoodle"
+      },
+      "th": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "tn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "tr": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "tk": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "uk": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ur": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "uz": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "vi": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "wo": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "zu": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "India General Elections 2024",
+    "share_text": "India General Elections 2024! #GoogleDoodle"
+  },
+  {
     "name": "norway-constitution-day-2024",
     "title": "Norway Constitution Day 2024",
     "url": "//www.google.com/logos/doodles/2024/norway-constitution-day-2024-6753651837110221-law.gif",
