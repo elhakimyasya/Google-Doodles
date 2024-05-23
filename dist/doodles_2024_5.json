@@ -1,5 +1,504 @@
 [
   {
+    "name": "celebrating-the-accordion",
+    "title": "Celebrating the Accordion",
+    "url": "//www.google.com/logos/doodles/2024/celebrating-the-accordion-6753651837110222-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/iFzThCENT4My9NI0ebXf52tGiWGzCpbdHxL4MiZLjgn2c7IgQTz1xyBzyjsaevC42yGcoGMx4yUGJfQzs6EzX6-1rFhEE8j46E-Iv_zOO5P_Naa2EoCSGw",
+    "high_res_url": "//www.google.com/logos/doodles/2024/celebrating-the-accordion-6753651837110222-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      5,
+      23
+    ],
+    "translations": {
+      "en": {
+        "query": "Accordion",
+        "hover_text": "Celebrating the Accordion",
+        "share_text": "Celebrating the Accordion! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Trekklavier",
+        "hover_text": "Ter viering van die trekklavier",
+        "share_text": "Ter viering van die trekklavier! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Fizarmonika",
+        "hover_text": "Përkujtojmë fizarmonikën",
+        "share_text": "Përkujtojmë fizarmonikën! #GoogleDoodle"
+      },
+      "am": {
+        "query": "አኮርዲዮን",
+        "hover_text": "አኮርዲዮንን በማክበር ላይ",
+        "share_text": "አኮርዲዮንን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "الأكورديون",
+        "hover_text": "الاحتفال بآلة الأكورديون",
+        "share_text": "نحتفل اليوم بآلة الأكورديون. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ակորդեոն",
+        "hover_text": "Տոնենք ակորդեոնի օրը",
+        "share_text": "Տոնենք ակորդեոնի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Akkordeon",
+        "hover_text": "Akkordeon günü",
+        "share_text": "Akkordeon günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "অ্যাকর্ডিয়ন",
+        "hover_text": "অ্যাকর্ডিয়ন উদযাপন করা হচ্ছে",
+        "share_text": "অ্যাকর্ডিয়ন উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Akordeoia",
+        "hover_text": "Akordeoiaren omenez",
+        "share_text": "Akordeoiaren omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Акардэон",
+        "hover_text": "Ушаноўваем акардэон",
+        "share_text": "Ушаноўваем акардэон! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Harmonika",
+        "hover_text": "Slavimo harmoniku",
+        "share_text": "Slavimo harmoniku! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Accordion",
+        "hover_text": "Celebrating the Accordion",
+        "share_text": "Celebrating the Accordion #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Акордеон",
+        "hover_text": "Честване на акордеона",
+        "share_text": "Честване на акордеона! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အကော်ဒီယံ",
+        "hover_text": "အကော်ဒီယံကို ဂုဏ်ပြုခြင်း",
+        "share_text": "အကော်ဒီယံကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Acordió",
+        "hover_text": "Homenatge a l'acordió",
+        "share_text": "Homenatge a l'acordió #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "手風琴",
+        "hover_text": "欣賞手風琴的優美音色",
+        "share_text": "欣賞手風琴的優美音色！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "手風琴",
+        "hover_text": "紀念手風琴問世",
+        "share_text": "紀念手風琴問世！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "手风琴",
+        "hover_text": "音色曼妙的手风琴",
+        "share_text": "音色曼妙的手风琴！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Harmonika",
+        "hover_text": "Slavimo harmoniku",
+        "share_text": "Slavimo harmoniku! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Akordeon",
+        "hover_text": "Oslava akordeonu",
+        "share_text": "Dnes oslavujeme akordeon! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Harmonika",
+        "hover_text": "Vi hylder harmonikaen",
+        "share_text": "Vi hylder harmonikaen #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Accordeon",
+        "hover_text": "Doodle ter ere van de accordeon",
+        "share_text": "Een doodle ter ere van de accordeon! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Akordion",
+        "hover_text": "Hoiame au sees akordionit",
+        "share_text": "Hoiame au sees akordionit! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Harmonikka",
+        "hover_text": "Juhlistamme Harmonikkaa",
+        "share_text": "Harmonikan juhlaa #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Accordéon",
+        "hover_text": "L'accordéon à l'honneur",
+        "share_text": "L'accordéon à l'honneur ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Accordéon",
+        "hover_text": "Célébration de l'accordéon",
+        "share_text": "Célébration de l'accordéon! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Acordeón",
+        "hover_text": "Homenaxe ao acordeón",
+        "share_text": "Homenaxe ao acordeón! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "აკორდეონი",
+        "hover_text": "აღვნიშნავთ აკორდეონის დღეს",
+        "share_text": "აღვნიშნავთ აკორდეონის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Akkordeon",
+        "hover_text": "Zu Ehren des Akkordeons",
+        "share_text": "Zu Ehren des Akkordeons #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ακορντεόν",
+        "hover_text": "Τιμούμε το ακορντεόν",
+        "share_text": "Τιμούμε το ακορντεόν! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "અકૉર્ડિયન",
+        "hover_text": "અકૉર્ડિયનની ઉજવણી",
+        "share_text": "અકૉર્ડિયનની ઉજવણી! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "אקורדיון",
+        "hover_text": "מחווה לאקורדיון",
+        "share_text": "מחווה לאקורדיון GoogleDoodle#"
+      },
+      "hi": {
+        "query": "अकॉर्डियन",
+        "hover_text": "अकॉर्डियन का जश्न",
+        "share_text": "अकॉर्डियन का जश्न! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Harmonika",
+        "hover_text": "A harmonika ünneplése",
+        "share_text": "A harmonika ünneplése. #GoogleDoodle"
+      },
+      "is": {
+        "query": "Harmóníka",
+        "hover_text": "Heiðrum harmóníkuna",
+        "share_text": "Heiðrum harmóníkuna! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Akordeon",
+        "hover_text": "Merayakan Akordeon",
+        "share_text": "Merayakan Akordeon #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Bosca ceoil",
+        "hover_text": "Ag Ceiliúradh an Bhosca ceoil",
+        "share_text": "Ag Ceiliúradh an Bhosca ceoil! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Fisarmonica",
+        "hover_text": "In onore della fisarmonica",
+        "share_text": "In onore della fisarmonica! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "アコーディオン",
+        "hover_text": "アコーディオンを称えて",
+        "share_text": "アコーディオンを称えて #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಅಕಾರ್ಡಿಯನ್",
+        "hover_text": "ಅಕಾರ್ಡಿಯನ್ ಅನ್ನು ಗೌರವಿಸಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಅಕಾರ್ಡಿಯನ್ ಅನ್ನು ಗೌರವಿಸಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Аккордеон",
+        "hover_text": "Аккордеон күні",
+        "share_text": "Аккордеон күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "អគ័រដេអុង",
+        "hover_text": "អបអរទិវារំលឹកអគ័រដេអុង",
+        "share_text": "អបអរទិវារំលឹកអគ័រដេអុង! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "아코디언",
+        "hover_text": "아코디언 기념",
+        "share_text": "아코디언 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Аккордеон",
+        "hover_text": "Аккордеон күнүн майрамдоо",
+        "share_text": "Аккордеон күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ແອັກຄໍດຽນ",
+        "hover_text": "ວັນສະເຫຼີມສະຫຼອງໃຫ້ກັບແອັກຄໍດຽນ",
+        "share_text": "ວັນສະເຫຼີມສະຫຼອງໃຫ້ກັບແອັກຄໍດຽນ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Acordeón",
+        "hover_text": "Celebrando el acordeón",
+        "share_text": "Celebrando el acordeón #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Akordeons",
+        "hover_text": "Akordeona diena",
+        "share_text": "Atzīmējam akordeona dienu! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Akordeonas",
+        "hover_text": "Akordeono minėjimas",
+        "share_text": "Akordeono minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Хармоника",
+        "hover_text": "Во чест на хармониката",
+        "share_text": "Во чест на хармониката! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Akordion",
+        "hover_text": "Meraikan Akordion",
+        "share_text": "Meraikan Akordion! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "അക്കോർഡിയൻ",
+        "hover_text": "അക്കോർഡിയൻ ആഘോഷമാക്കുന്നു",
+        "share_text": "അക്കോർഡിയൻ ആഘോഷമാക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "अ‍ॅकॉर्डियन",
+        "hover_text": "अ‍ॅकॉर्डियनच्या सन्मानार्थ",
+        "share_text": "अ‍ॅकॉर्डियनच्या सन्मानार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Баян хуур",
+        "hover_text": "Баян хуурын өдрийг тэмдэглэж байна",
+        "share_text": "Баян хуурын өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "अकोर्डियन",
+        "hover_text": "अकोर्डियनको उत्सव",
+        "share_text": "अकोर्डियनको उत्सव! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Trekkspill",
+        "hover_text": "Vi feirer trekkspillet",
+        "share_text": "Vi feirer trekkspillet! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "آکوردئون",
+        "hover_text": "بزرگداشت آکوردئون!",
+        "share_text": "بزرگداشت آکوردئون! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Akordeon",
+        "hover_text": "Podziwiamy brzmienie akordeonu",
+        "share_text": "Podziwiamy brzmienie akordeonu #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Acordeão",
+        "hover_text": "Viva o acordeão",
+        "share_text": "Viva o acordeão! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Acordeão",
+        "hover_text": "Celebração do Acordeão",
+        "share_text": "Celebração do Acordeão! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਅਕਾਰਡੀਅਨ",
+        "hover_text": "ਅਕਾਰਡੀਅਨ ਦੀ ਸਿਫ਼ਤ ਵਿੱਚ",
+        "share_text": "ਅਕਾਰਡੀਅਨ ਦੀ ਸਿਫ਼ਤ ਵਿੱਚ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Acordeon",
+        "hover_text": "În cinstea acordeonului",
+        "share_text": "În cinstea acordeonului! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Аккордеон",
+        "hover_text": "День аккордеона",
+        "share_text": "День аккордеона #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Хармоника",
+        "hover_text": "Славимо хармонику",
+        "share_text": "Славимо хармонику! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Harmonika",
+        "hover_text": "Slavimo harmoniku",
+        "share_text": "Slavimo harmoniku! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ඇකෝඩියන්",
+        "hover_text": "ඇකෝඩියන් සමරමින්",
+        "share_text": "ඇකෝඩියන් සමරමින්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Akordeón",
+        "hover_text": "Oslavujeme akordeón",
+        "share_text": "Oslavujeme akordeón. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Harmonika",
+        "hover_text": "Slavimo harmoniko",
+        "share_text": "Slavimo harmoniko! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Acordeón",
+        "hover_text": "Homenaje al acordeón",
+        "share_text": "Hoy rendimos homenaje al acordeón #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Kodiani",
+        "hover_text": "Tunaenzi Kodiani",
+        "share_text": "Tunaenzi Kodiani! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Dragspel",
+        "hover_text": "Vi hyllar dragspelet",
+        "share_text": "Vi hyllar dragspelet #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "அக்கார்டியன்",
+        "hover_text": "அக்கார்டியனைக் கொண்டாடுவோம்",
+        "share_text": "அக்கார்டியனைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "అకోడియన్",
+        "hover_text": "అకోడియన్ వేడుకలు",
+        "share_text": "అకోడియన్ వేడుకలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "แอคคอร์เดียน",
+        "hover_text": "เฉลิมฉลองให้กับแอคคอร์เดียน",
+        "share_text": "เฉลิมฉลองให้กับแอคคอร์เดียน #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Akordiyon",
+        "hover_text": "Akordiyonu Kutluyoruz",
+        "share_text": "Akordiyonu kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Акордеон",
+        "hover_text": "Ушановуємо акордеон",
+        "share_text": "Ушановуємо акордеон! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "اکارڈین",
+        "hover_text": "اکارڈین کی یاد میں",
+        "share_text": "اکارڈین کی یاد میں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Akkordeon",
+        "hover_text": "Akkordeon kuni",
+        "share_text": "Akkordeon kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Phong cầm",
+        "hover_text": "Tôn vinh đàn phong cầm",
+        "share_text": "Tôn vinh đàn phong cầm! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "I-Accordion",
+        "hover_text": "Sibungaza i-Accordion",
+        "share_text": "Sibungaza i-Accordion! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Accordion",
+    "share_text": "Celebrating the Accordion! #GoogleDoodle"
+  },
+  {
     "name": "india-general-elections-2024-ph-5",
     "title": "India General Elections 2024 (Ph 5)",
     "url": "//www.google.com/logos/doodles/2024/india-general-elections-2024-ph-5-6753651837110506-l.png",
@@ -6577,8 +7076,8 @@
       },
       "zh-HK": {
         "query": "雙親節",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "2024 年雙親節",
+        "share_text": "2024 年雙親節！#GoogleDoodle"
       },
       "zh-TW": {
         "query": "家長節",
@@ -6617,8 +7116,8 @@
       },
       "fi": {
         "query": "Vanhempien päivä",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Vanhempien päivä 2024",
+        "share_text": "Vanhempien päivä 2024 #GoogleDoodle"
       },
       "fr": {
         "query": "Fête des parents",
@@ -6677,8 +7176,8 @@
       },
       "is": {
         "query": "Foreldradagurinn",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Foreldradagurinn 2024",
+        "share_text": "Foreldradagurinn 2024! #GoogleDoodle"
       },
       "id": {
         "query": "Hari Orang Tua",
@@ -6742,8 +7241,8 @@
       },
       "lt": {
         "query": "Tėvų diena",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Tėvų diena, 2024 m.",
+        "share_text": "Tėvų diena, 2024 m.! #GoogleDoodle"
       },
       "mk": {
         "query": "Ден на родителот",
@@ -6962,8 +7461,8 @@
       },
       "uz": {
         "query": "Ota-onalar kuni",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Ota-onalar kuni 2024",
+        "share_text": "Ota-onalar kuni 2024! #GoogleDoodle"
       },
       "vi": {
         "query": "Ngày của cha mẹ",
