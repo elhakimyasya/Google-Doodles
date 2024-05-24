@@ -1,5 +1,504 @@
 [
   {
+    "name": "celebrating-chilaquiles",
+    "title": "Celebrating Chilaquiles",
+    "url": "//www.google.com/logos/doodles/2024/celebrating-chilaquiles-6753651837110223.2-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/qAvXANEWqSdvPxErqsIXcaU_68yuKRRAUuhGX2dAFcxHa5Nh02-2wC0jug4bNTDh6oEL4A6ulyAmFGrNN-UKTY-awAP2ySx8XZTMi9CGiE2ZrAVuMdkzfRc",
+    "high_res_url": "//www.google.com/logos/doodles/2024/celebrating-chilaquiles-6753651837110223-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      5,
+      23
+    ],
+    "translations": {
+      "en": {
+        "query": "Celebrating Chilaquiles",
+        "hover_text": "Celebrating Chilaquiles",
+        "share_text": "Celebrating Chilaquiles! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Ter viering van Chilaquiles",
+        "hover_text": "Ter viering van Chilaquiles",
+        "share_text": "Ter viering van Chilaquiles! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Përkujtojmë chilaquiles",
+        "hover_text": "Përkujtojmë chilaquiles",
+        "share_text": "Përkujtojmë chilaquiles! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ቺላኪልስን በማክበር ላይ",
+        "hover_text": "ቺላኪልስን በማክበር ላይ",
+        "share_text": "ቺላኪልስን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "الاحتفال بطبق \"شيلاكويليس\"",
+        "hover_text": "الاحتفال بطبق \"شيلاكويليس\"",
+        "share_text": "نحتفل اليوم بطبق \"شيلاكويليس\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Տոնենք չիլակիլեսի օրը",
+        "hover_text": "Տոնենք չիլակիլեսի օրը",
+        "share_text": "Տոնենք չիլակիլեսի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Chilaquiles günü",
+        "hover_text": "Chilaquiles günü",
+        "share_text": "Chilaquiles günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "চিলাকিলেস উদযাপন করা হচ্ছে",
+        "hover_text": "চিলাকিলেস উদযাপন করা হচ্ছে",
+        "share_text": "চিলাকিলেস উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Chilaquiles-en omenez",
+        "hover_text": "Chilaquiles-en omenez",
+        "share_text": "Chilaquiles-en omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Ушаноўваем мексіканскую страву чылакілес",
+        "hover_text": "Ушаноўваем мексіканскую страву чылакілес",
+        "share_text": "Ушаноўваем мексіканскую страву чылакілес! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Slavimo chilaquiles",
+        "hover_text": "Slavimo chilaquiles",
+        "share_text": "Slavimo chilaquiles! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Celebrating chilaquiles",
+        "hover_text": "Celebrating chilaquiles",
+        "share_text": "Celebrating chilaquiles! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Честване на чилакилес",
+        "hover_text": "Честване на чилакилес",
+        "share_text": "Честване на чилакилес! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ချီလာခီးလေ့စ်ကို ဂုဏ်ပြုခြင်း",
+        "hover_text": "ချီလာခီးလေ့စ်ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "ချီလာခီးလေ့စ်ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Homenatge als chilaquiles",
+        "hover_text": "Homenatge als chilaquiles",
+        "share_text": "Homenatge als chilaquiles #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "品嚐美味的墨西哥早餐 Chilaquiles",
+        "hover_text": "品嚐美味的墨西哥早餐 Chilaquiles",
+        "share_text": "品嚐美味的墨西哥早餐 Chilaquiles！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "紀念墨西哥玉米片問世",
+        "hover_text": "紀念墨西哥玉米片問世",
+        "share_text": "紀念墨西哥玉米片問世！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "墨西哥传统早餐莎莎酱玉米片",
+        "hover_text": "墨西哥传统早餐莎莎酱玉米片",
+        "share_text": "墨西哥传统早餐莎莎酱玉米片！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Slavimo chilaquiles",
+        "hover_text": "Slavimo chilaquiles",
+        "share_text": "Slavimo chilaquiles! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Oslava chilaquiles",
+        "hover_text": "Oslava chilaquiles",
+        "share_text": "Dnes oslavujeme chilaquiles! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Vi hylder chilaquiles",
+        "hover_text": "Vi hylder chilaquiles",
+        "share_text": "Vi hylder chilaquiles #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Doodle ter ere van chilaquiles",
+        "hover_text": "Doodle ter ere van chilaquiles",
+        "share_text": "Een doodle ter ere van chilaquiles! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Hoiame au sees chilaquilesi",
+        "hover_text": "Hoiame au sees chilaquilesi",
+        "share_text": "Hoiame au sees küpsetatud tortillasid! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Chilaquiles",
+        "hover_text": "Chilaquiles",
+        "share_text": "Chilaquiles #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Les chilaquiles à l'honneur",
+        "hover_text": "Les chilaquiles à l'honneur",
+        "share_text": "Les chilaquiles à l'honneur ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Célébration des chilaquiles",
+        "hover_text": "Célébration des chilaquiles",
+        "share_text": "Célébration des chilaquiles! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Homenaxe aos chilaquiles",
+        "hover_text": "Homenaxe aos chilaquiles",
+        "share_text": "Homenaxe aos chilaquiles! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "აღვნიშნავთ ჩილაკილის დღეს",
+        "hover_text": "აღვნიშნავთ ჩილაკილის დღეს",
+        "share_text": "აღვნიშნავთ ჩილაკილის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Ein Hoch auf Chilaquiles",
+        "hover_text": "Ein Hoch auf Chilaquiles",
+        "share_text": "Ein Hoch auf Chilaquiles #GoogleDoodle"
+      },
+      "el": {
+        "query": "Τιμούμε το chilaquiles",
+        "hover_text": "Τιμούμε το chilaquiles",
+        "share_text": "Τιμούμε το chilaquiles! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ચિલાકિલેસની ઉજવણી",
+        "hover_text": "ચિલાકિલેસની ઉજવણી",
+        "share_text": "ચિલાકિલેસની ઉજવણી! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "מנת היום היא צ'יליקילס",
+        "hover_text": "מנת היום היא צ'יליקילס",
+        "share_text": "מנת היום היא צ'יליקילס GoogleDoodle#"
+      },
+      "hi": {
+        "query": "चिलाकीलस का जश्न",
+        "hover_text": "चिलाकीलस का जश्न",
+        "share_text": "चिलाकीलस का जश्न! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A chilaquiles ünneplése",
+        "hover_text": "A chilaquiles ünneplése",
+        "share_text": "A chilaquiles ünneplése. #GoogleDoodle"
+      },
+      "is": {
+        "query": "Heiðrum Chilaquiles",
+        "hover_text": "Heiðrum Chilaquiles",
+        "share_text": "Heiðrum Chilaquiles! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Merayakan Chilaquiles",
+        "hover_text": "Merayakan Chilaquiles",
+        "share_text": "Merayakan Chilaquiles #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "In onore delle Chilaquiles",
+        "hover_text": "In onore delle Chilaquiles",
+        "share_text": "In onore delle Chilaquiles! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "チラキレスを称えて",
+        "hover_text": "チラキレスを称えて",
+        "share_text": "チラキレスを称えて #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಚಿಲಾಕ್ವಿಲ್ಸ್ ಅನ್ನು ಗೌರವಿಸಲಾಗುತ್ತಿದೆ",
+        "hover_text": "ಚಿಲಾಕ್ವಿಲ್ಸ್ ಅನ್ನು ಗೌರವಿಸಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಚಿಲಾಕ್ವಿಲ್ಸ್ ಅನ್ನು ಗೌರವಿಸಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Чилакилес күні",
+        "hover_text": "Чилакилес күні",
+        "share_text": "Чилакилес күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "អបអរទិវារំលឹកឈីឡាឃ្វីលស៍",
+        "hover_text": "អបអរទិវារំលឹកឈីឡាឃ្វីលស៍",
+        "share_text": "អបអរទិវារំលឹកឈីឡាឃ្វីលស៍! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "칠라킬레스 기념",
+        "hover_text": "칠라킬레스 기념",
+        "share_text": "칠라킬레스 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Чилакилес күнүн майрамдоо",
+        "hover_text": "Чилакилес күнүн майрамдоо",
+        "share_text": "Чилакилес күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນສະເຫຼີມສະຫຼອງໃຫ້ກັບຊິລາຄີເລສ",
+        "hover_text": "ວັນສະເຫຼີມສະຫຼອງໃຫ້ກັບຊິລາຄີເລສ",
+        "share_text": "ວັນສະເຫຼີມສະຫຼອງໃຫ້ກັບຊິລາຄີເລສ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "chilaquiles",
+        "hover_text": "Celebrando los chilaquiles",
+        "share_text": "¡Celebrando los chilaquiles! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Meksikāņu brokastu ēdiena “Chilaquiles” godināšana",
+        "hover_text": "Meksikāņu brokastu ēdiena “Chilaquiles” godināšana",
+        "share_text": "Meksikāņu brokastu ēdiena “Chilaquiles” godināšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Čilakilių minėjimas",
+        "hover_text": "Čilakilių minėjimas",
+        "share_text": "Čilakilių minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Во чест на чилакилес",
+        "hover_text": "Во чест на чилакилес",
+        "share_text": "Во чест на чилакилес! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Meraikan Chilaquiles",
+        "hover_text": "Meraikan Chilaquiles",
+        "share_text": "Meraikan Chilaquiles! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ചിലക്കിലെസ് ആഘോഷമാക്കുന്നു",
+        "hover_text": "ചിലക്കിലെസ് ആഘോഷമാക്കുന്നു",
+        "share_text": "ചിലക്കിലെസ് ആഘോഷമാക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "चिलाकिलेसचा आस्वाद घ्या",
+        "hover_text": "चिलाकिलेसचा आस्वाद घ्या",
+        "share_text": "चिलाकिलेसचा आस्वाद घ्या! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Чилакилесийн өдрийг тэмдэглэж байна",
+        "hover_text": "Чилакилесийн өдрийг тэмдэглэж байна",
+        "share_text": "Чилакилесийн өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "चिलाक्विल्सको उत्सव",
+        "hover_text": "चिलाक्विल्सको उत्सव",
+        "share_text": "चिलाक्विल्सको उत्सव! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Vi feirer chilaquiles",
+        "hover_text": "Vi feirer chilaquiles",
+        "share_text": "Vi feirer chilaquiles! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "بزرگداشت غذای چیلاکیله",
+        "hover_text": "بزرگداشت غذای چیلاکیله",
+        "share_text": "بزرگداشت غذای چیلاکیله! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Delektujemy się chilaquiles",
+        "hover_text": "Delektujemy się chilaquiles",
+        "share_text": "Delektujemy się chilaquiles #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "chilaquiles",
+        "hover_text": "Celebrando Chilaquiles",
+        "share_text": "Celebrando Chilaquiles! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Celebração dos Chilaquiles",
+        "hover_text": "Celebração dos Chilaquiles",
+        "share_text": "Celebração dos Chilaquiles! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਚਿਲਾਕੁਇਲਜ਼",
+        "hover_text": "ਚਿਲਾਕੁਇਲਜ਼",
+        "share_text": "ਚਿਲਾਕੁਇਲਜ਼ ਦੀ ਸਿਫ਼ਤ ਵਿੱਚ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "În cinstea preparatului chilaquiles",
+        "hover_text": "În cinstea preparatului chilaquiles",
+        "share_text": "În cinstea preparatului chilaquiles! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День чилакилеса",
+        "hover_text": "День чилакилеса",
+        "share_text": "День чилакилеса #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Славимо чилакилес",
+        "hover_text": "Славимо чилакилес",
+        "share_text": "Славимо чилакилес! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Slavimo čilakiles",
+        "hover_text": "Slavimo čilakiles",
+        "share_text": "Slavimo čilakiles! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "චිලකිල්ස් සමරමින්",
+        "hover_text": "චිලකිල්ස් සමරමින්",
+        "share_text": "චිලකිල්ස් සමරමින්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Oslavujeme chilaquiles",
+        "hover_text": "Oslavujeme chilaquiles",
+        "share_text": "Oslavujeme chilaquiles. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Slavimo jed chilaquiles",
+        "hover_text": "Slavimo jed chilaquiles",
+        "share_text": "Slavimo jed chilaquiles! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "chilaquiles",
+        "hover_text": "Celebrando los chilaquiles",
+        "share_text": "¡Celebrando los chilaquiles! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Tunaenzi Chilaquiles",
+        "hover_text": "Tunaenzi Chilaquiles",
+        "share_text": "Tunaenzi Chilaquiles! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Vi hyllar chilaquiles",
+        "hover_text": "Vi hyllar chilaquiles",
+        "share_text": "Vi hyllar chilaquiles #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Celebrating Chilaquiles",
+        "hover_text": "Celebrating Chilaquiles",
+        "share_text": "சீலாகீலேஸைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "చిలకిలెస్ వేడుకలు",
+        "hover_text": "చిలకిలెస్ వేడుకలు",
+        "share_text": "చిలకిలెస్ వేడుకలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "เฉลิมฉลองให้กับชิลากิเลส",
+        "hover_text": "เฉลิมฉลองให้กับชิลากิเลส",
+        "share_text": "เฉลิมฉลองให้กับชิลากิเลส #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Chilaquiles'i Kutluyoruz",
+        "hover_text": "Chilaquiles'i Kutluyoruz",
+        "share_text": "Chilaquiles'i kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Ушановуємо чилакілес",
+        "hover_text": "Ушановуємо чилакілес",
+        "share_text": "Ушановуємо чилакілес! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Chilaquiles کی یاد میں",
+        "hover_text": "Chilaquiles کی یاد میں",
+        "share_text": "Chilaquiles کی یاد میں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Chilakiles kuni",
+        "hover_text": "Chilakiles kuni",
+        "share_text": "Chilakiles kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Tôn vinh món bánh ngô chiên Chilaquiles",
+        "hover_text": "Tôn vinh món bánh ngô chiên Chilaquiles",
+        "share_text": "Tôn vinh món bánh ngô chiên Chilaquiles! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Sibungaza i-Chilaquiles",
+        "hover_text": "Sibungaza i-Chilaquiles",
+        "share_text": "Sibungaza i-Chilaquiles! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Celebrating Chilaquiles",
+    "share_text": "Celebrating Chilaquiles! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-the-accordion",
     "title": "Celebrating the Accordion",
     "url": "//www.google.com/logos/doodles/2024/celebrating-the-accordion-6753651837110222-law.gif",
@@ -7011,13 +7510,13 @@
       },
       "sq": {
         "query": "Dita e Prindërve",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Dita e Prindërve, 2024",
+        "share_text": "Dita e Prindërve, 2024! #GoogleDoodle"
       },
       "am": {
         "query": "የወላጅ ቀን",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "የወላጆች ቀን 2024",
+        "share_text": "የወላጆች ቀን 2024! #GoogleDoodle"
       },
       "ar": {
         "query": "عيد الوالدَين",
@@ -7066,8 +7565,8 @@
       },
       "my": {
         "query": "မိဘများနေ့",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "၂၀၂၄ မိဘများနေ့",
+        "share_text": "၂၀၂၄ မိဘများနေ့။ #GoogleDoodle"
       },
       "ca": {
         "query": "Dia dels Pares",
@@ -7101,18 +7600,18 @@
       },
       "da": {
         "query": "Forældrenes dag",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Forældrenes dag 2024",
+        "share_text": "Forældrenes dag 2024 #GoogleDoodle"
       },
       "nl": {
         "query": "Ouderdag",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Dag van de Ouders 2024",
+        "share_text": "Dag van de Ouders 2024! #GoogleDoodle"
       },
       "et": {
         "query": "Vanemate päev",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "2024. aasta vanemate päev",
+        "share_text": "2024. aasta vanemate päev! #GoogleDoodle"
       },
       "fi": {
         "query": "Vanhempien päivä",
@@ -7131,13 +7630,13 @@
       },
       "gl": {
         "query": "Día dos Pais",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Día dos Pais e Nais 2024",
+        "share_text": "Día dos Pais e Nais 2024! #GoogleDoodle"
       },
       "ka": {
         "query": "მშობელთა დღე",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "მშობელთა დღე – 2024",
+        "share_text": "გილოცავთ 2024 წლის მშობელთა დღეს! #GoogleDoodle"
       },
       "de": {
         "query": "Tag der Eltern",
@@ -7146,8 +7645,8 @@
       },
       "el": {
         "query": "Ημέρα των Γονέων",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Ημέρα των Γονέων 2024",
+        "share_text": "Ημέρα των Γονέων 2024! #GoogleDoodle"
       },
       "gu": {
         "query": "માતાપિતા દિવસ",
@@ -7161,8 +7660,8 @@
       },
       "iw": {
         "query": "יום ההורים",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "יום ההורים 2024",
+        "share_text": "יום ההורים 2024 GoogleDoodle#"
       },
       "hi": {
         "query": "अभिभावक दिवस",
@@ -7181,8 +7680,8 @@
       },
       "id": {
         "query": "Hari Orang Tua",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Hari Orang Tua 2024",
+        "share_text": "Hari Orang Tua 2024 #GoogleDoodle"
       },
       "ga": {
         "query": "Lá na dTuismitheoirí",
@@ -7196,8 +7695,8 @@
       },
       "ja": {
         "query": "父母の日",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "2024 年父母の日",
+        "share_text": "2024 年父母の日 #GoogleDoodle"
       },
       "kn": {
         "query": "ಪೋಷಕರ ದಿನ",
@@ -7231,8 +7730,8 @@
       },
       "es-419": {
         "query": "Día de los Padres",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Día de los Padres 2024",
+        "share_text": "Día de los Padres 2024 #GoogleDoodle"
       },
       "lv": {
         "query": "Vecāku diena",
@@ -7256,8 +7755,8 @@
       },
       "ms": {
         "query": "Hari Ibu Bapa",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Hari Ibu Bapa 2024",
+        "share_text": "Hari Ibu Bapa 2024! #GoogleDoodle"
       },
       "ml": {
         "query": "രക്ഷാകർതൃ ദിനം",
@@ -7271,13 +7770,13 @@
       },
       "mr": {
         "query": "पालक दिन",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "पेरेंट्स डे २०२४",
+        "share_text": "पेरेंट्स डे २०२४! #GoogleDoodle"
       },
       "mn": {
         "query": "Эцэг эхчүүдийн өдөр",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "2024 оны Эцэг эхчүүдийн өдөр",
+        "share_text": "2024 оны Эцэг эхчүүдийн өдөр #GoogleDoodle"
       },
       "ne": {
         "query": "अभिभावक दिवस",
@@ -7316,8 +7815,8 @@
       },
       "pl": {
         "query": "Dzień Rodziców",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Dzień Rodziców 2024",
+        "share_text": "Dzień Rodziców 2024 #GoogleDoodle"
       },
       "pt-BR": {
         "query": "Dia dos Pais e das Mães",
@@ -7326,8 +7825,8 @@
       },
       "pt-PT": {
         "query": "Dia dos pais",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Dia dos Pais de 2024",
+        "share_text": "Dia dos Pais de 2024! #GoogleDoodle"
       },
       "pa": {
         "query": "ਮਾਂ-ਪਿਓ ਦਿਵਸ",
@@ -7336,8 +7835,8 @@
       },
       "ro": {
         "query": "Ziua Părinților",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Ziua Părinților – 2024",
+        "share_text": "Ziua Părinților – 2024 #GoogleDoodle"
       },
       "ro-MD": {
         "query": null,
@@ -7351,13 +7850,13 @@
       },
       "sr": {
         "query": "Дан родитеља",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Дан родитеља 2024.",
+        "share_text": "Дан родитеља 2024! #GoogleDoodle"
       },
       "sr-Latn": {
         "query": "Dan roditelja",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Dan roditelja 2024.",
+        "share_text": "Dan roditelja 2024! #GoogleDoodle"
       },
       "sr-ME": {
         "query": null,
@@ -7401,13 +7900,13 @@
       },
       "es": {
         "query": "Día de los Padres",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Día de los Padres 2024",
+        "share_text": "¡Feliz Día de los Padres 2024! #GoogleDoodle"
       },
       "sw": {
         "query": "Sikukuu ya Wazazi",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Siku ya Wazazi 2024",
+        "share_text": "Siku ya Wazazi 2024! #GoogleDoodle"
       },
       "sv": {
         "query": "Föräldrarnas dag",
@@ -7431,8 +7930,8 @@
       },
       "th": {
         "query": "วันพ่อแม่",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "วันพ่อแม่ปี 2024",
+        "share_text": "วันพ่อแม่ปี 2024! #GoogleDoodle"
       },
       "tn": {
         "query": "Letsatsi la Batsadi",
@@ -7441,8 +7940,8 @@
       },
       "tr": {
         "query": "Anne-Babalar Günü",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "2024 Anne-Babalar Günü",
+        "share_text": "2024 Anne-Babalar Günü #GoogleDoodle"
       },
       "tk": {
         "query": null,
@@ -7466,8 +7965,8 @@
       },
       "vi": {
         "query": "Ngày của cha mẹ",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Ngày của Cha Mẹ năm 2024",
+        "share_text": "Ngày của Cha Mẹ năm 2024! #GoogleDoodle"
       },
       "wo": {
         "query": null,
