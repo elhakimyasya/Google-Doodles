@@ -1,5 +1,1003 @@
 [
   {
+    "name": "jordan-independence-day-2024",
+    "title": "Jordan Independence Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/jordan-independence-day-2024-6753651837110224.2-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/_ANUfKzStGS47gGDLuBYWYIjVGjv_qjJY66GPeh1amxe0PXxMUncRFe7xPTmbLm_2o5-X41OwY90e81x5hjJZJ8aPBo3pfx-1oiKyz__KmBwwCo-096u3Q",
+    "high_res_url": "//www.google.com/logos/doodles/2024/jordan-independence-day-2024-6753651837110224-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      5,
+      25
+    ],
+    "translations": {
+      "en": {
+        "query": "Jordan Independence Day",
+        "hover_text": "Jordan Independence Day 2024",
+        "share_text": "Happy Independence Day, Jordan! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Jordanië se onafhanklikheidsdag",
+        "hover_text": "Jordanië se onafhanklikheidsdag 2024",
+        "share_text": "Gelukkige Onafhanklikheidsdag, Jordanië! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Festa Kombëtare e Jordanisë",
+        "hover_text": "Dita e Pavarësisë së Jordanisë, 2024",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Jordani! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የዮርዳኖስ ነጻነት ቀን",
+        "hover_text": "የዮርዳኖስ የነፃነት ቀን 2024",
+        "share_text": "መልካም የነጻነት ቀን ዮርዳኖስ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال الأردن",
+        "hover_text": "عيد استقلال الأردن 2024",
+        "share_text": "الاحتفال بعيد استقلال الأردن GoogleDoodle#"
+      },
+      "hy": {
+        "query": "Հորդանանի անկախության օր – 2019",
+        "hover_text": "Հորդանանի անկախության օր 2024",
+        "share_text": "Շնորհավո՛ր Հորդանանի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "İordaniyanın Müstəqillik Günü 2019",
+        "hover_text": "2024 İordaniyanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, İordaniya! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "জর্ডনের স্বাধীনতা দিবস",
+        "hover_text": "জর্ডনের স্বাধীনতা দিবস ২০২৪",
+        "share_text": "স্বাধীনতা দিবস, জর্ডন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Jordaniako Independentzia Eguna",
+        "hover_text": "2024ko Jordaniako Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Jordania! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Іарданіі",
+        "hover_text": "Дзень незалежнасці Іарданіі 2024",
+        "share_text": "З Днём незалежнасці, Іарданія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Jordana",
+        "hover_text": "Dan nezavisnosti Jordana 2024.",
+        "share_text": "Sretan Dan nezavisnosti, Jordan! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Jordan Independence Day",
+        "hover_text": "Jordan Independence Day 2024",
+        "share_text": "Happy Independence Day, Jordan! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Йордания",
+        "hover_text": "Ден на независимостта на Йордания 2024 г.",
+        "share_text": "Честит Ден на независимостта на Йордания! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဂျော်ဒန် လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ ဂျော်ဒန်နိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ဖြစ်ပါစေ၊ ဂျော်ဒန်။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència de Jordània",
+        "hover_text": "Dia de la Independència de Jordània 2024",
+        "share_text": "Feliç Dia de la Independència, Jordània! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "約旦獨立日",
+        "hover_text": "2024 年約旦獨立日",
+        "share_text": "約旦，獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "約旦獨立紀念日",
+        "hover_text": "2024 年約旦獨立紀念日",
+        "share_text": "約旦，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "约旦独立日",
+        "hover_text": "2024 年约旦独立日",
+        "share_text": "独立日快乐，约旦！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Jordana",
+        "hover_text": "Dan neovisnosti Jordana 2024.",
+        "share_text": "Sretan Dan neovisnosti, Jordan! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Jordánska",
+        "hover_text": "Den nezávislosti Jordánska 2024",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Jordánsko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Jordans uafhængighedsdag",
+        "hover_text": "Jordans uafhængighedsdag 2024",
+        "share_text": "Glædelig uafhængighedsdag, Jordan! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Jordanië",
+        "hover_text": "Onafhankelijkheidsdag Jordanië 2024",
+        "share_text": "Fijne Onafhankelijkheidsdag, Jordanië #GoogleDoodle"
+      },
+      "et": {
+        "query": "Jordaania iseseisvuspäev",
+        "hover_text": "Jordaania 2024. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Jordaania! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Jordanian itsenäisyyspäivä",
+        "hover_text": "Jordanian itsenäisyyspäivä 2024",
+        "share_text": "Hyvää itsenäisyyspäivää, Jordania! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance de la Jordanie",
+        "hover_text": "Fête de l'Indépendance de la Jordanie 2024",
+        "share_text": "Fête de l'Indépendance de la Jordanie ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance de la Jordanie",
+        "hover_text": "Fête de l'Indépendance de la Jordanie 2024",
+        "share_text": "Joyeuse fête de l'indépendance de la Jordanie! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Xordania",
+        "hover_text": "Día da Independencia de Xordania 2024",
+        "share_text": "Feliz Día da Independencia, Xordania! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "იორდანიის დამოუკიდებლობის დღე",
+        "hover_text": "იორდანიის დამოუკიდებლობის დღე — 2024",
+        "share_text": "ვულოცავთ იორდანიას დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Jordanien",
+        "hover_text": "Unabhängigkeitstag Jordanien 2024",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Jordanien! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας της Ιορδανίας",
+        "hover_text": "Ημέρα Ανεξαρτησίας της Ιορδανίας 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας της Ιορδανίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "જોર્ડનનો સ્વતંત્રતા દિવસ",
+        "hover_text": "જોર્ડનનો સ્વતંત્રતા દિવસ 2024",
+        "share_text": "જોર્ડનના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של ירדן",
+        "hover_text": "יום העצמאות של ירדן 2024",
+        "share_text": "יום עצמאות שמח, ירדן! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "जॉर्डन का स्वतंत्रता दिवस",
+        "hover_text": "जॉर्डन का स्वतंत्रता दिवस 2024",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, जॉर्डन! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Jordánia függetlenségének napja",
+        "hover_text": "Jordánia függetlenségének napja, 2024",
+        "share_text": "Boldog függetlenség napját, Jordánia! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Jórdaníu",
+        "hover_text": "Sjálfstæðisdagur Jórdaníu 2024",
+        "share_text": "Gleðilegan sjálfstæðisdag, Jórdanía! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Yordania",
+        "hover_text": "Hari Kemerdekaan Yordania 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Yordania! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse na hIordáine",
+        "hover_text": null,
+        "share_text": "Lá Saoirse na hIordáine, 2020 faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza della Giordania",
+        "hover_text": "Festa dell'indipendenza della Giordania 2024",
+        "share_text": "Buona festa dell'indipendenza, Giordania! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ヨルダン独立記念日",
+        "hover_text": "2024 年ヨルダン独立記念日",
+        "share_text": "ヨルダン独立記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಜಾರ್ಡನ್ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2019",
+        "hover_text": "ಜೋರ್ಡನ್ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಜೋರ್ಡಾನ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Иорданияның Тәуелсіздік күні",
+        "hover_text": "Иорданияның Тәуелсіздік күні – 2024",
+        "share_text": "Тәуелсіздік күні құтты болсын, Иордания! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យឯករាជ្យជាតិ​ហ្ស៊កដានី​",
+        "hover_text": "ទិវា​បុណ្យឯករាជ្យជាតិ​ហ្ស៊កដានី​ឆ្នាំ 2024",
+        "share_text": "អបអរទិវា​បុណ្យឯករាជ្យជាតិ​ហ្ស៊កដានី! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "요르단 독립기념일",
+        "hover_text": "2024년 요르단 독립기념일",
+        "share_text": "요르단 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Иорданиянын Эгемендүүлүк күнү",
+        "hover_text": "Иорданиянын Эгемендүүлүк күнү – 2024",
+        "share_text": "Эгемендүүлүк күнүң менен, Иордания! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດຈໍແດນ 2019",
+        "hover_text": "ວັນປະກາດເອກະລາດຈໍແດນ 2024",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດຈໍແດນ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Jordania",
+        "hover_text": "Día de la Independencia de Jordania 2024",
+        "share_text": "¡Feliz Día de la Independencia, Jordania! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Jordānijas Neatkarības diena",
+        "hover_text": "Jordānijas Neatkarības diena — 2024",
+        "share_text": "Sveicam Neatkarības dienā, Jordānija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Jordanijos nepriklausomybės diena",
+        "hover_text": "Jordanijos nepriklausomybės diena, 2024 m.",
+        "share_text": "Sveikiname Jordaniją su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Јордан",
+        "hover_text": "Ден на независноста на Јордан, 2024 г.",
+        "share_text": "Среќен Ден на независноста, Јордан! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantena Jôrdaniana",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny fahaleovantena ry Jôrdania ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Jordan",
+        "hover_text": "Hari Kemerdekaan Jordan 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Jordan! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ജോർദ്ദാൻ സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "ജോർദാൻ സ്വാതന്ത്ര്യദിനം 2024",
+        "share_text": "സ്വാതന്ത്യദിനാശംസകൾ, ജോർദാൻ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "जॉर्डनचा स्वातंत्र्य दिन",
+        "hover_text": "जॉर्डनचा स्वातंत्र्यदिन २०२४",
+        "share_text": "जॉर्डनला स्वातंत्र्यदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Йордан улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2024 оны Йорданы Тусгаар тогтнолын өдөр",
+        "share_text": "Йордан улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "जोर्डनको स्वतन्त्रता दिवस",
+        "hover_text": "जोर्डनको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, जोर्डन! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Jordans frigjøringsdag",
+        "hover_text": "Jordans frigjøringsdag 2024",
+        "share_text": "Gratulerer med frigjøringsdagen, Jordan! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଜୋର୍ଡାନ୍ ସ୍ୱାଧୀନତା ଦିବସ 2019",
+        "hover_text": null,
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, ଜୋର୍ଡାନ୍! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال اردن",
+        "hover_text": "روز استقلال اردن - ۲۰۲۴",
+        "share_text": "روز استقلال مبارک، اردن! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Niepodległości Jordanii",
+        "hover_text": "Dzień Niepodległości Jordanii 2024",
+        "share_text": "Jordania obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência da Jordânia",
+        "hover_text": "Dia da Independência da Jordânia 2024",
+        "share_text": "Feliz Dia da Independência, Jordânia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência da Jordânia",
+        "hover_text": "Dia da Independência da Jordânia de 2024",
+        "share_text": "Feliz dia da independência, Jordânia! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਜਾਰਡਨ ਦਾ ਆਜ਼ਾਦੀ ਦਿਹਾੜਾ",
+        "hover_text": "ਜਾਰਡਨ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2024",
+        "share_text": "ਜਾਰਡਨ ਦੇ ਸੁਤੰਤਰਤਾ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței Iordaniei",
+        "hover_text": "Ziua Independenței Iordaniei 2024",
+        "share_text": "La mulți ani de Ziua Independenței, Iordania! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Иордании",
+        "hover_text": "День независимости Иордании – 2024",
+        "share_text": "День независимости Иордании #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Јордана",
+        "hover_text": "Дан независности Јордана 2024.",
+        "share_text": "Честитамо Дан независности Јордану! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Jordana",
+        "hover_text": "Dan nezavisnosti Jordana 2024.",
+        "share_text": "Čestitamo Dan nezavisnosti Jordanu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen.Lendepandans.2019.Zourdan",
+        "hover_text": null,
+        "share_text": "Bonn zournen lendepandans, Zourdan! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ජෝර්දානයේ නිදහස් දිනය",
+        "hover_text": "ජෝර්දානයේ නිදහස් දිනය 2024",
+        "share_text": "සුබ නිදහස් දිනයක්, ජෝර්දානය! #Googleඩූඩල්"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Jordánska",
+        "hover_text": "Deň nezávislosti Jordánska 2024",
+        "share_text": "Šťastný Deň nezávislosti, Jordánsko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Jordanski dan neodvisnosti",
+        "hover_text": "Jordanski dan neodvisnosti 2024",
+        "share_text": "Vesel dan neodvisnosti, Jordanija! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madax banaanida Urdun",
+        "hover_text": null,
+        "share_text": "Maalin Xornimo oo Wacan, Urdun! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la DItshwanelo la Jordan",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Ditshwanelo la Jorokane! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Jordania",
+        "hover_text": "Día de la Independencia de Jordania 2024",
+        "share_text": "¡Feliz Día de la Independencia de Jordania! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Yordani",
+        "hover_text": "Sikukuu ya Uhuru wa Yordani 2024",
+        "share_text": "Heri za Sikukuu ya Uhuru wa Yordani! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Jordaniens självständighetsdag",
+        "hover_text": "Jordaniens självständighetsdag 2024",
+        "share_text": "Vi firar Jordaniens självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஜோர்டான் சுதந்திர தினம் 2019",
+        "hover_text": "ஜோர்டான் சுதந்திர தினம் 2024",
+        "share_text": "சுதந்திர தின வாழ்த்துகள் ஜோர்டான்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "జోర్డాన్ స్వాతంత్య్ర దినోత్సవం",
+        "hover_text": "జోర్డన్ స్వాతంత్య్ర దినోత్సవం 2024",
+        "share_text": "స్వాతంత్య్ర దినోత్సవ శుభాకాంక్షలు, జోర్డాన్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของจอร์แดน",
+        "hover_text": "วันประกาศเอกราชของจอร์แดนปี 2024",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของจอร์แดน #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Jorotane",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, Jorotane! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Ürdün Bağımsızlık Günü",
+        "hover_text": "2024 Ürdün Bağımsızlık Günü",
+        "share_text": "Ürdün Bağımsızlık Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Йорданії",
+        "hover_text": "День незалежності Йорданії у 2024 році",
+        "share_text": "З Днем незалежності, Йорданіє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "اردن کا یوم آزادی",
+        "hover_text": "اردن کا یوم آزادی 2024",
+        "share_text": "اردن کا یوم آزادی مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Iordaniya Mustaqillik kuni",
+        "hover_text": "Iordaniya Mustaqillik kuni 2024",
+        "share_text": "Mustaqillik kuning muborak, Iordaniya! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Jordan",
+        "hover_text": "Ngày Quốc khánh Jordan năm 2024",
+        "share_text": "Mừng ngày quốc khánh Jordan! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lwenkululeko lwase-Jordan",
+        "hover_text": "Usuku Lokuzimela LwaseJordan Lwango-2024",
+        "share_text": "Sinifisela Usuku Lokuzimela Oluhle, Jordan! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Jordan Independence Day",
+    "share_text": "Happy Independence Day, Jordan! #GoogleDoodle"
+  },
+  {
+    "name": "india-general-elections-2024-ph-6",
+    "title": "India General Elections 2024 (Ph 6)",
+    "url": "//www.google.com/logos/doodles/2024/india-general-elections-2024-ph-6-6753651837110507-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/VVhCRBpowgjErpIp8fXSJaVqNROM4qZxUQFCE4ZFALP3KgMJtFe9yx-9RhfSFpFgrf_2jUbDeanYpBj-NNRMo4-qVa1_2wikVd7Rjzr_3_RK7voT1GsdQ0Y",
+    "high_res_url": "//www.google.com/logos/doodles/2024/india-general-elections-2024-ph-6-6753651837110507-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      5,
+      25
+    ],
+    "translations": {
+      "en": {
+        "query": "India General Elections 2024",
+        "hover_text": "India General Elections 2024",
+        "share_text": "India General Elections 2024! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Indië se algemene verkiesing 2024",
+        "hover_text": "Indië se algemene verkiesing 2024",
+        "share_text": "Indië se algemene verkiesing 2024! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Zgjedhjet e përgjithshme në Indi, 2024",
+        "hover_text": "Zgjedhjet e përgjithshme në Indi, 2024",
+        "share_text": "Zgjedhjet e përgjithshme në Indi, 2024! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የሕንድ ጠቅላላ ምርጫዎች 2024",
+        "hover_text": "የሕንድ ጠቅላላ ምርጫዎች 2024",
+        "share_text": "የሕንድ ጠቅላላ ምርጫዎች 2024! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "الانتخابات العامة في الهند 2024",
+        "hover_text": "الانتخابات العامة في الهند 2024",
+        "share_text": "انطلقت الانتخابات العامة في الهند لعام 2024! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Հնդկաստանի համընդհանուր ընտրություններ 2024",
+        "hover_text": "Հնդկաստանի համընդհանուր ընտրություններ 2024",
+        "share_text": "Հնդկաստանի համընդհանուր ընտրություններ 2024 #GoogleDoodle"
+      },
+      "az": {
+        "query": "2024 Hindistan Ümumi Seçkiləri",
+        "hover_text": "2024 Hindistan Ümumi Seçkiləri",
+        "share_text": "2024 Hindistan Ümumi Seçkiləri! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ভারতের সাধারণ নির্বাচন",
+        "hover_text": "ভারতের সাধারণ নির্বাচন ২০২৪",
+        "share_text": "ভারতের সাধারণ নির্বাচন ২০২৪! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "2024ko Indiako hauteskunde orokorrak",
+        "hover_text": "2024ko Indiako hauteskunde orokorrak",
+        "share_text": "2024ko Indiako hauteskunde orokorrak #GoogleDoodle"
+      },
+      "be": {
+        "query": "Усеагульныя выбары ў Індыі 2024",
+        "hover_text": "Усеагульныя выбары ў Індыі 2024",
+        "share_text": "Усеагульныя выбары ў Індыі 2024! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Opći izbori u Indiji 2024.",
+        "hover_text": "Opći izbori u Indiji 2024.",
+        "share_text": "Opći izbori u Indiji 2024! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "India general elections 2024",
+        "hover_text": "India general elections 2024",
+        "share_text": "India general elections 2024! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Общи избори в Индия 2024 г.",
+        "hover_text": "Общи избори в Индия 2024 г.",
+        "share_text": "Общи избори в Индия 2024 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "၂၀၂၄ အိန္ဒိယနိုင်ငံ အထွေထွေရွေးကောက်ပွဲများ",
+        "hover_text": "၂၀၂၄ အိန္ဒိယနိုင်ငံ အထွေထွေရွေးကောက်ပွဲများ",
+        "share_text": "၂၀၂၄ အိန္ဒိယနိုင်ငံ အထွေထွေရွေးကောက်ပွဲများ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Eleccions generals a l'Índia 2024",
+        "hover_text": "Eleccions generals a l'Índia 2024",
+        "share_text": "Eleccions generals a l'Índia 2024 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "2024 年印度大選",
+        "hover_text": "2024 年印度大選",
+        "share_text": "2024 年印度大選！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "2024 年印度大選",
+        "hover_text": "2024 年印度大選",
+        "share_text": "2024 年印度大選到來！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "2024 年印度大选",
+        "hover_text": "2024 年印度大选",
+        "share_text": "2024 年印度大选！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Opći izbori u Indiji 2024.",
+        "hover_text": "Opći izbori u Indiji 2024.",
+        "share_text": "Opći izbori u Indiji 2024.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Všeobecné volby v Indii 2024",
+        "hover_text": "Všeobecné volby v Indii 2024",
+        "share_text": "Všeobecné volby v Indii 2024! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Valg i Indien 2024",
+        "hover_text": "Valg i Indien 2024",
+        "share_text": "Valg i Indien 2024 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Algemene verkiezingen India 2024",
+        "hover_text": "Algemene verkiezingen India 2024",
+        "share_text": "De algemene verkiezingen in India van 2024! #GoogleDoodle"
+      },
+      "et": {
+        "query": "India 2024. aasta üldvalimised",
+        "hover_text": "India 2024. aasta üldvalimised",
+        "share_text": "India 2024. aasta üldvalimised! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Intian vaalit 2024",
+        "hover_text": "Intian vaalit 2024",
+        "share_text": "Intian vaalit 2024 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Élections générales 2024 en Inde",
+        "hover_text": "Élections générales 2024 en Inde",
+        "share_text": "Élections générales 2024 en Inde ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Élections générales de 2024 en Inde",
+        "hover_text": "Élections générales de 2024 en Inde",
+        "share_text": "Élections générales de 2024 en Inde! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Eleccións xerais da India 2024",
+        "hover_text": "Eleccións xerais da India 2024",
+        "share_text": "Eleccións xerais da India 2024! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ინდოეთის საყოველთაო არჩევნები — 2024",
+        "hover_text": "ინდოეთის საყოველთაო არჩევნები — 2024",
+        "share_text": "ინდოეთის საყოველთაო არჩევნები — 2024! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Parlamentswahl in Indien 2024",
+        "hover_text": "Parlamentswahl in Indien 2024",
+        "share_text": "Parlamentswahl in Indien 2024 #GoogleDoodle"
+      },
+      "el": {
+        "query": "Γενικές εκλογές στην Ινδία 2024",
+        "hover_text": "Γενικές εκλογές στην Ινδία 2024",
+        "share_text": "Γενικές εκλογές στην Ινδία 2024! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ભારતની સામાન્ય ચૂંટણીઓ 2024",
+        "hover_text": "ભારતની રાષ્ટ્રીય ચૂંટણીઓ 2024",
+        "share_text": "ભારતની રાષ્ટ્રીય ચૂંટણીઓ 2024! #GoogleDoodle"
+      },
+      "ht": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "iw": {
+        "query": "הבחירות בהודו",
+        "hover_text": "הבחירות בהודו",
+        "share_text": "הבחירות הכלליות בהודו 2024 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "भारत का आम चुनाव 2024",
+        "hover_text": "भारत का आम चुनाव 2024",
+        "share_text": "भारत के लोकसभा चुनाव 2024! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Általános választások Indiában, 2024",
+        "hover_text": "Általános választások Indiában, 2024",
+        "share_text": "Általános választások Indiában, 2024 #GoogleDoodle"
+      },
+      "is": {
+        "query": "Almennar kosningar á Indlandi 2024",
+        "hover_text": "Almennar kosningar á Indlandi 2024",
+        "share_text": "Almennar kosningar á Indlandi 2024! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Pemilu India 2024",
+        "hover_text": "Pemilu India 2024",
+        "share_text": "Pemilu India 2024 #GoogleDoodle"
+      },
+      "ga": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "it": {
+        "query": "Elezioni generali 2024 in India",
+        "hover_text": "Elezioni generali 2024 in India",
+        "share_text": "Elezioni generali 2024 in India! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "2024 年インド総選挙",
+        "hover_text": "2024 年インド総選挙",
+        "share_text": "2024 年インド総選挙 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಭಾರತದ ಸಾರ್ವತ್ರಿಕ ಚುನಾವಣೆಗಳು 2024",
+        "hover_text": "ಭಾರತದ ಸಾರ್ವತ್ರಿಕ ಚುನಾವಣೆಗಳು 2024",
+        "share_text": "ಭಾರತದ ಸಾರ್ವತ್ರಿಕ ಚುನಾವಣೆಗಳು 2024! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Үндістандағы жалпы сайлау – 2024",
+        "hover_text": "Үндістандағы жалпы сайлау – 2024",
+        "share_text": "Үндістандағы жалпы сайлау – 2024! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការបោះឆ្នោត​ថ្នាក់ជាតិនៅឥណ្ឌាឆ្នាំ​ 2024",
+        "hover_text": "ការបោះឆ្នោត​ថ្នាក់ជាតិនៅឥណ្ឌាឆ្នាំ​ 2024",
+        "share_text": "ការបោះឆ្នោត​ថ្នាក់ជាតិនៅឥណ្ឌាឆ្នាំ​ 2024! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "2024년 인도 총선",
+        "hover_text": "2024년 인도 총선",
+        "share_text": "2024년 인도 총선 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Индиядагы жалпы шайлоо – 2024",
+        "hover_text": "Индиядагы жалпы шайлоо – 2024",
+        "share_text": "Индиядагы жалпы шайлоо – 2024! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ການເລືອກຕັ້ງທົ່ວໄປຂອງອິນເດຍປີ 2024",
+        "hover_text": "ການເລືອກຕັ້ງທົ່ວໄປຂອງອິນເດຍປີ 2024",
+        "share_text": "ການເລືອກຕັ້ງທົ່ວໄປຂອງອິນເດຍປີ 2024! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Elecciones generales de la India 2024",
+        "hover_text": "Elecciones generales de la India 2024",
+        "share_text": "Elecciones generales de la India 2024 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Vispārējās vēlēšanas Indijā — 2024",
+        "hover_text": "Vispārējās vēlēšanas Indijā — 2024",
+        "share_text": "Vispārējās vēlēšanas Indijā — 2024! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Indijos visuotiniai rinkimai, 2024 m.",
+        "hover_text": "Indijos visuotiniai rinkimai, 2024 m.",
+        "share_text": "Indijos visuotiniai rinkimai, 2024 m.! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Општи избори во Индија, 2024 г.",
+        "hover_text": "Општи избори во Индија, 2024 г.",
+        "share_text": "Општи избори во Индија, 2024 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Pilihan Raya Umum India 2024",
+        "hover_text": "Pilihan Raya Umum India 2024",
+        "share_text": "Pilihan Raya Umum India 2024! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഇന്ത്യയിലെ പൊതുതിരഞ്ഞെടുപ്പ് 2024",
+        "hover_text": "ഇന്ത്യയിലെ പൊതുതിരഞ്ഞെടുപ്പ് 2024",
+        "share_text": "ഇന്ത്യയിലെ പൊതുതിരഞ്ഞെടുപ്പ് 2024! #GoogleDoodle"
+      },
+      "mt": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "mr": {
+        "query": "भारताच्या सर्वसाधारण निवडणुका २०२४",
+        "hover_text": "ഇന്ത്യയിലെ പൊതുതിരഞ്ഞെടുപ്പ് 2024! #GoogleDoodle",
+        "share_text": "भारताच्या सर्वसाधारण निवडणुका २०२४! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "2024 оны Энэтхэгийн бүх нийтийн сонгууль",
+        "hover_text": "2024 оны Энэтхэгийн бүх нийтийн сонгууль",
+        "share_text": "2024 оны Энэтхэгийн бүх нийтийн сонгууль! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "भारतको आम निर्वाचन २०२४",
+        "hover_text": "भारतको आम निर्वाचन २०२४",
+        "share_text": "भारतको आम निर्वाचन २०२४! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Valget i India 2024",
+        "hover_text": "Valget i India 2024",
+        "share_text": "Valget i India 2024! #GoogleDoodle"
+      },
+      "nn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ny": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "or": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ps": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "fa": {
+        "query": "انتخابات سراسری ۲۰۲۴ هند",
+        "hover_text": "انتخابات سراسری ۲۰۲۴ هند",
+        "share_text": "انتخابات سراسری ۲۰۲۴ هند! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Wybory powszechne 2024 w Indiach",
+        "hover_text": "Wybory powszechne 2024 w Indiach",
+        "share_text": "Wybory powszechne 2024 w Indiach #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Eleições gerais da Índia 2024",
+        "hover_text": "Eleições gerais da Índia 2024",
+        "share_text": "Eleições gerais da Índia 2024 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Eleições Gerais da Índia de 2024",
+        "hover_text": "Eleições Gerais da Índia de 2024",
+        "share_text": "Eleições Gerais da Índia de 2024! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਭਾਰਤ ਦੀਆਂ ਆਮ ਚੋਣਾਂ 2024",
+        "hover_text": "ਭਾਰਤ ਦੀਆਂ ਆਮ ਚੋਣਾਂ 2024",
+        "share_text": "ਭਾਰਤ ਦੀਆਂ ਆਮ ਚੋਣਾਂ 2024! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Alegeri generale în India – 2024",
+        "hover_text": "Alegeri generale în India – 2024",
+        "share_text": "Alegeri generale în India – 2024! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Всеобщие выборы в Индии – 2024",
+        "hover_text": "Всеобщие выборы в Индии – 2024",
+        "share_text": "Всеобщие выборы в Индии – 2024 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Општи избори у Индији 2024.",
+        "hover_text": "Општи избори у Индији 2024.",
+        "share_text": "Општи избори у Индији 2024! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Opšti izbori u Indiji 2024.",
+        "hover_text": "Opšti izbori u Indiji 2024.",
+        "share_text": "Opšti izbori u Indiji 2024! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "crs": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "si": {
+        "query": "ඉන්දීය මහ මැතිවරණය 2024",
+        "hover_text": "ඉන්දීය මහ මැතිවරණය 2024",
+        "share_text": "ඉන්දීය මහ මැතිවරණය 2024! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Všeobecné voľby v Indii 2024",
+        "hover_text": "Všeobecné voľby v Indii 2024",
+        "share_text": "Všeobecné voľby v Indii 2024. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Splošne volitve v Indiji 2024",
+        "hover_text": "Splošne volitve v Indiji 2024",
+        "share_text": "Splošne volitve v Indiji 2024! #GoogleDoodle"
+      },
+      "so": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "st": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "es": {
+        "query": "Elecciones generales en la India 2024",
+        "hover_text": "Elecciones generales en la India 2024",
+        "share_text": "Elecciones generales en la India 2024 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Uchaguzi Mkuu wa India 2024",
+        "hover_text": "Uchaguzi Mkuu wa India 2024",
+        "share_text": "Uchaguzi Mkuu wa India 2024! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Allmänna val i Indien 2024",
+        "hover_text": "Allmänna val i Indien 2024",
+        "share_text": "Allmänna val i Indien 2024 #GoogleDoodle"
+      },
+      "tg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ta": {
+        "query": "இந்தியப் பொதுத் தேர்தல்கள் 2024",
+        "hover_text": "இந்தியப் பொதுத் தேர்தல்கள் 2024",
+        "share_text": "இந்தியப் பொதுத் தேர்தல்கள் 2024! #GoogleDoodle"
+      },
+      "te": {
+        "query": "భారతదేశ సార్వత్రిక ఎన్నికలు 2024",
+        "hover_text": "భారతదేశ సార్వత్రిక ఎన్నికలు 2024",
+        "share_text": "భారతదేశ సార్వత్రిక ఎన్నికలు 2024! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันเลือกตั้งทั่วไปของอินเดียปี 2024",
+        "hover_text": "วันเลือกตั้งทั่วไปของอินเดียปี 2024",
+        "share_text": "วันเลือกตั้งทั่วไปของอินเดียปี 2024 #GoogleDoodle"
+      },
+      "tn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "tr": {
+        "query": "2024 Hindistan Genel Seçimleri",
+        "hover_text": "2024 Hindistan Genel Seçimleri",
+        "share_text": "2024 Hindistan Genel Seçimleri #GoogleDoodle"
+      },
+      "tk": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Загальні вибори в Індії у 2024 році",
+        "hover_text": "Загальні вибори в Індії у 2024 році",
+        "share_text": "Загальні вибори в Індії у 2024 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "بھارت کے عام انتخابات 2024",
+        "hover_text": "بھارت کے عام انتخابات 2024",
+        "share_text": "بھارت کے عام انتخابات 2024! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Hindistonda umumxalq saylovlari 2024",
+        "hover_text": "Hindistonda umumxalq saylovlari 2024",
+        "share_text": "Hindistonda umumxalq saylovlari 2024! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Tổng tuyển cử ở Ấn Độ năm 2024",
+        "hover_text": "Tổng tuyển cử ở Ấn Độ năm 2024",
+        "share_text": "Tổng tuyển cử ở Ấn Độ năm 2024! #GoogleDoodle"
+      },
+      "wo": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ukhetho Lukazwelonke lase-India lwango-2024",
+        "hover_text": "Ukhetho Lukazwelonke lase-India lwango-2024",
+        "share_text": "Ukhetho Lukazwelonke lase-India lwango-2024! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "India General Elections 2024",
+    "share_text": "India General Elections 2024! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-chilaquiles",
     "title": "Celebrating Chilaquiles",
     "url": "//www.google.com/logos/doodles/2024/celebrating-chilaquiles-6753651837110223.2-law.gif",
@@ -7505,8 +8503,8 @@
       },
       "af": {
         "query": "Ouerdag",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Ouerdag 2024",
+        "share_text": "Ouerdag 2024! #GoogleDoodle"
       },
       "sq": {
         "query": "Dita e Prindërve",
@@ -7520,48 +8518,48 @@
       },
       "ar": {
         "query": "عيد الوالدَين",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "يوم الوالدَين 2024",
+        "share_text": "نحتفل بيوم الوالدَين 2024. ‎#GoogleDoodle"
       },
       "hy": {
         "query": "Ծնողների օր",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Ծնողների օր 2024",
+        "share_text": "Ծնողների օր 2024 #GoogleDoodle"
       },
       "az": {
         "query": "Valideynlər Günü",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "2024 Valideynlər Günü",
+        "share_text": "2024 Valideynlər Günü! #GoogleDoodle"
       },
       "bn": {
         "query": "প্যারেন্টস ডে",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "পেরেন্টস ডে ২০২৪",
+        "share_text": "পেরেন্টস ডে ২০২৪! #GoogleDoodle"
       },
       "eu": {
         "query": "Gurasoen Eguna",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "2024ko Gurasoen Eguna",
+        "share_text": "2024ko Gurasoen Eguna #GoogleDoodle"
       },
       "be": {
         "query": "Дзень бацькоў",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Дзень бацькоў 2024",
+        "share_text": "Дзень бацькоў 2024! #GoogleDoodle"
       },
       "bs": {
         "query": "Dan roditelja",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Dan roditelja 2024.",
+        "share_text": "Dan roditelja 2024! #GoogleDoodle"
       },
       "en-GB": {
         "query": "Parents' Day",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Parent's Day 2024",
+        "share_text": "Parent's Day 2024! #GoogleDoodle"
       },
       "bg": {
         "query": "Ден на родителя",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Ден на родителя 2024 г.",
+        "share_text": "Ден на родителя 2024 г.! #GoogleDoodle"
       },
       "my": {
         "query": "မိဘများနေ့",
@@ -7570,8 +8568,8 @@
       },
       "ca": {
         "query": "Dia dels Pares",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Dia dels Pares 2024",
+        "share_text": "Dia dels Pares 2024 #GoogleDoodle"
       },
       "zh-HK": {
         "query": "雙親節",
@@ -7580,23 +8578,23 @@
       },
       "zh-TW": {
         "query": "家長節",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "2024 年父母節",
+        "share_text": "2024 年父母節快樂！#GoogleDoodle"
       },
       "zh-CN": {
         "query": "父母节",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "2024 年父母节",
+        "share_text": "2024 年父母节！#GoogleDoodle"
       },
       "hr": {
         "query": "Dan roditelja",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Dan roditelja 2024.",
+        "share_text": "Dan roditelja 2024.! #GoogleDoodle"
       },
       "cs": {
         "query": "Den rodičů",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Den rodičů 2024",
+        "share_text": "Den rodičů 2024! #GoogleDoodle"
       },
       "da": {
         "query": "Forældrenes dag",
@@ -7620,13 +8618,13 @@
       },
       "fr": {
         "query": "Fête des parents",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Fête des Parents 2024",
+        "share_text": "Fête des Parents 2024 ! #GoogleDoodle"
       },
       "fr-CA": {
         "query": "Journée des parents",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Journée des parents 2024",
+        "share_text": "Journée des parents 2024! #GoogleDoodle"
       },
       "gl": {
         "query": "Día dos Pais",
@@ -7640,8 +8638,8 @@
       },
       "de": {
         "query": "Tag der Eltern",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Tag der Eltern 2024",
+        "share_text": "Tag der Eltern 2024 #GoogleDoodle"
       },
       "el": {
         "query": "Ημέρα των Γονέων",
@@ -7650,8 +8648,8 @@
       },
       "gu": {
         "query": "માતાપિતા દિવસ",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "માતાપિતા દિવસ 2024",
+        "share_text": "માતાપિતા દિવસ 2024! #GoogleDoodle"
       },
       "ht": {
         "query": null,
@@ -7665,13 +8663,13 @@
       },
       "hi": {
         "query": "अभिभावक दिवस",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "अभिभावक दिवस 2024",
+        "share_text": "अभिभावक दिवस 2024! #GoogleDoodle"
       },
       "hu": {
         "query": "Szülők napja",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Szülők napja, 2024",
+        "share_text": "Szülők napja, 2024! #GoogleDoodle"
       },
       "is": {
         "query": "Foreldradagurinn",
@@ -7690,8 +8688,8 @@
       },
       "it": {
         "query": "Festa dei genitori",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Festa dei genitori 2024",
+        "share_text": "Festa dei genitori 2024! #GoogleDoodle"
       },
       "ja": {
         "query": "父母の日",
@@ -7700,18 +8698,18 @@
       },
       "kn": {
         "query": "ಪೋಷಕರ ದಿನ",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "ಪೋಷಕರ ದಿನ 2024",
+        "share_text": "ಪೋಷಕರ ದಿನ 2024! #GoogleDoodle"
       },
       "kk": {
         "query": "Ата-аналар күні",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Ата-аналар күні — 2024",
+        "share_text": "Ата-аналар күні — 2024 #GoogleDoodle"
       },
       "km": {
         "query": "ទិវារំលឹកគុណ​ឪពុកម្តាយ",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "ទិវាឪពុកម្តាយ​ឆ្នាំ 2024",
+        "share_text": "ទិវាឪពុកម្តាយ​ឆ្នាំ 2024! #GoogleDoodle"
       },
       "ko": {
         "query": "어버이날",
@@ -7720,13 +8718,13 @@
       },
       "ky": {
         "query": "Ата-энелер күнү",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Ата-энелер күнү – 2024",
+        "share_text": "Ата-энелер күнү – 2024! #GoogleDoodle"
       },
       "lo": {
         "query": "ວັນພໍ່ແມ່",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "ວັນພໍ່ແມ່ 2024",
+        "share_text": "ວັນພໍ່ແມ່ 2024! #GoogleDoodle"
       },
       "es-419": {
         "query": "Día de los Padres",
@@ -7735,8 +8733,8 @@
       },
       "lv": {
         "query": "Vecāku diena",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Vecāku diena — 2024",
+        "share_text": "Vecāku diena — 2024! #GoogleDoodle"
       },
       "lt": {
         "query": "Tėvų diena",
@@ -7745,8 +8743,8 @@
       },
       "mk": {
         "query": "Ден на родителот",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Ден на родителите, 2024 г.",
+        "share_text": "Ден на родителите, 2024 г. #GoogleDoodle"
       },
       "mg": {
         "query": "Andron'ny ray aman-dreny",
@@ -7760,8 +8758,8 @@
       },
       "ml": {
         "query": "രക്ഷാകർതൃ ദിനം",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "രക്ഷാകർതൃ ദിനം 2024",
+        "share_text": "രക്ഷാകർതൃ ദിനം 2024! #GoogleDoodle"
       },
       "mt": {
         "query": null,
@@ -7780,13 +8778,13 @@
       },
       "ne": {
         "query": "अभिभावक दिवस",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "अभिभावक दिवस २०२४",
+        "share_text": "अभिभावक दिवस २०२४! #GoogleDoodle"
       },
       "no": {
         "query": "Foreldrenes dag",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Foreldrenes dag 2024",
+        "share_text": "Foreldrenes dag 2024! #GoogleDoodle"
       },
       "nn": {
         "query": null,
@@ -7810,8 +8808,8 @@
       },
       "fa": {
         "query": "روز والدین",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "روز والدین ۲۰۲۴",
+        "share_text": "روز والدین ۲۰۲۴! ‎#GoogleDoodle"
       },
       "pl": {
         "query": "Dzień Rodziców",
@@ -7820,8 +8818,8 @@
       },
       "pt-BR": {
         "query": "Dia dos Pais e das Mães",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Dia da Família 2024",
+        "share_text": "Dia da Família 2024 #GoogleDoodle"
       },
       "pt-PT": {
         "query": "Dia dos pais",
@@ -7830,8 +8828,8 @@
       },
       "pa": {
         "query": "ਮਾਂ-ਪਿਓ ਦਿਵਸ",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "ਮਾਂ-ਪਿਓ ਦਿਵਸ 2024",
+        "share_text": "ਮਾਂ-ਪਿਓ ਦਿਵਸ 2024! #GoogleDoodle"
       },
       "ro": {
         "query": "Ziua Părinților",
@@ -7845,8 +8843,8 @@
       },
       "ru": {
         "query": "день родителей",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "День родителей – 2024",
+        "share_text": "День родителей – 2024! #GoogleDoodle"
       },
       "sr": {
         "query": "Дан родитеља",
@@ -7875,18 +8873,18 @@
       },
       "si": {
         "query": "මාපිය දිනය",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "දෙමාපිය දිනය 2024",
+        "share_text": "දෙමාපිය දිනය 2024! #GoogleDoodle"
       },
       "sk": {
         "query": "Deň rodičov",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Deň rodičov 2024",
+        "share_text": "Deň rodičov 2024. #GoogleDoodle"
       },
       "sl": {
         "query": "Starševski dan",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Starševski dan 2024",
+        "share_text": "Starševski dan 2024! #GoogleDoodle"
       },
       "so": {
         "query": "Maalinta Waalidka",
@@ -7910,8 +8908,8 @@
       },
       "sv": {
         "query": "Föräldrarnas dag",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Föräldrarnas dag 2024",
+        "share_text": "Föräldrarnas dag 2024 #GoogleDoodle"
       },
       "tg": {
         "query": null,
@@ -7920,13 +8918,13 @@
       },
       "ta": {
         "query": "பெற்றோர் தினம்",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "பெற்றோர் தினம் 2024",
+        "share_text": "பெற்றோர் தினம் 2024! #GoogleDoodle"
       },
       "te": {
         "query": "తల్లిదండ్రుల దినోత్సవం",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "తల్లిదండ్రుల దినోత్సవం 2024",
+        "share_text": "తల్లిదండ్రుల దినోత్సవం 2024! #GoogleDoodle"
       },
       "th": {
         "query": "วันพ่อแม่",
@@ -7950,13 +8948,13 @@
       },
       "uk": {
         "query": "День батьків",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "День батьків у 2024 році",
+        "share_text": "День батьків у 2024 році! #GoogleDoodle"
       },
       "ur": {
         "query": "یوم والدین",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "یوم والدین 2024",
+        "share_text": "یوم والدین 2024! GoogleDoodle#"
       },
       "uz": {
         "query": "Ota-onalar kuni",
@@ -7975,8 +8973,8 @@
       },
       "zu": {
         "query": "Usuku lwabazali",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Usuku Lwabazali lwango-2024",
+        "share_text": "Usuku Lwabazali lwango-2024! #GoogleDoodle"
       }
     },
     "translated_blog_posts": {},
