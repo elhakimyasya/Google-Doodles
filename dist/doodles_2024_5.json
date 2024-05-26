@@ -1,5 +1,1502 @@
 [
   {
+    "name": "mothers-day-2024-may-26",
+    "title": "Mother's Day 2024 (May 26)",
+    "url": "//www.google.com/logos/doodles/2024/mothers-day-2024-may-26-6753651837110367-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/yta-eLDay7yPrmdjInRAp6rxqLKTWHEyHkoMfjF4R8IRVDZBiRA5l1puxw3mW5Q7JmZtWNT8vIzsG8LnDlCXPi8D1RE8JXmt9iNosFl9ZtOmIrbDyCobrIQ",
+    "high_res_url": "//www.google.com/logos/doodles/2024/mothers-day-2024-may-26-6753651837110367-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      5,
+      26
+    ],
+    "translations": {
+      "en": {
+        "query": "Mother's Day",
+        "hover_text": "Mother's Day (May 26) 2024",
+        "share_text": "Happy Mother's Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Moedersdag",
+        "hover_text": "Moedersdag (26 Mei) 2024",
+        "share_text": "Gelukkige Moedersdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Nënës",
+        "hover_text": "Dita e Nënës, 2024 (26 maj)",
+        "share_text": "Gëzuar Ditën e Nënës! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የእናቶች ቀን",
+        "hover_text": "የእናቶች ቀን (ሜይ 26) 2024",
+        "share_text": "መልካም የእናቶች ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد الأم",
+        "hover_text": "عيد الأم (26 مايو) 2024",
+        "share_text": "أجمل التهاني بمناسبة عيد الأمّ. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Մայրերի օր",
+        "hover_text": "Մայրերի օր 2024 (մայիսի 26)",
+        "share_text": "Շնորհավո՛ր մայրերի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Analar Günü",
+        "hover_text": "Analar Günü (26 may) 2024",
+        "share_text": "Analar Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "মাতৃ দিবস",
+        "hover_text": "মাতৃ দিবস (২৬ মে) ২০২৪",
+        "share_text": "মাদার্স ডেয়ের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Amaren Eguna",
+        "hover_text": "2024ko Amaren Eguna (maiatzaren 26a)",
+        "share_text": "Amaren Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень маці",
+        "hover_text": "Дзень маці 2024 (26 мая)",
+        "share_text": "З Днём маці! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan majki",
+        "hover_text": "Dan majki (26. maj) 2024.",
+        "share_text": "Sretan Dan majki! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Mother's Day",
+        "hover_text": "Mother's Day (26 May) 2024",
+        "share_text": "Happy Mother's Day! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на майката",
+        "hover_text": "Ден на майката (26 май) 2024 г.",
+        "share_text": "Честит Ден на майката! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အမေများနေ့",
+        "hover_text": "၂၀၂၄ အမေများနေ့ (မေ ၂၆)",
+        "share_text": "ပျော်ရွှင်ဖွယ်အမေများနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Mare",
+        "hover_text": "Dia de la Mare (26 de maig) 2024",
+        "share_text": "Feliç Dia de la Mare! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "母親節",
+        "hover_text": "2024 年母親節 (5 月 26 日)",
+        "share_text": "母親節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "母親節",
+        "hover_text": "2024 年母親節",
+        "share_text": "母親節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "母亲节",
+        "hover_text": "2024 年母亲节（5 月 26 日）",
+        "share_text": "母亲节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Majčin dan",
+        "hover_text": "Majčin dan (26. svibnja) 2024.",
+        "share_text": "Sretan Majčin dan! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den matek",
+        "hover_text": "Den matek 2024 (26. května)",
+        "share_text": "Vše nejlepší ke Dni matek! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Mors dag",
+        "hover_text": "Mors dag 2024 (26. maj)",
+        "share_text": "Vi fejrer mors dag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Moederdag",
+        "hover_text": "Moederdag 2024 (26 mei)",
+        "share_text": "Fijne Moederdag #GoogleDoodle"
+      },
+      "et": {
+        "query": "Emadepäev",
+        "hover_text": "2024. aasta emadepäev (26. mai)",
+        "share_text": "Head emadepäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Äitienpäivä",
+        "hover_text": "Äitienpäivä (26.5.) 2024",
+        "share_text": "Hyvää äitienpäivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête des Mères",
+        "hover_text": "Fête des Mères 2024",
+        "share_text": "Bonne fête des Mères ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête des Mères",
+        "hover_text": "Fête des Mères 2024 (26 mai)",
+        "share_text": "Joyeuse fête des Mères! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Nai",
+        "hover_text": "Día da Nai 2024",
+        "share_text": "Feliz Día da Nai! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "დედის დღე",
+        "hover_text": "დედის დღე (26 მაისი) 2024",
+        "share_text": "გილოცავთ დედის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Muttertag",
+        "hover_text": "Muttertag 2024",
+        "share_text": "Alles Gute zum Muttertag! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Γιορτή της Μητέρας",
+        "hover_text": "Γιορτή της Μητέρας (26 Μαΐου) 2024",
+        "share_text": "Πολλές ευχές για τη Γιορτή της Μητέρας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "માતૃ દિવસ",
+        "hover_text": "મધર્સ ડે (26 મે) 2024",
+        "share_text": "મધર્સ ડેની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום האם",
+        "hover_text": "יום האם 2024 (26 במאי)",
+        "share_text": "יום האם שמח! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "मदर्स डे",
+        "hover_text": "मदर्स डे (26 मई) 2024",
+        "share_text": "मदर्स डे की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Anyák napja",
+        "hover_text": "Anyák napja, 2024 (május 26.)",
+        "share_text": "Boldog anyák napját! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Mæðradagurinn",
+        "hover_text": "Mæðradagurinn 2024 (26. maí)",
+        "share_text": "Gleðilegan mæðradag! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Ibu",
+        "hover_text": "Hari Ibu (26 Mei) 2024",
+        "share_text": "Selamat Hari Ibu! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá na Máithreacha",
+        "hover_text": null,
+        "share_text": "Lá na Máithreacha faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa della mamma",
+        "hover_text": "Festa della mamma 2024 (26 maggio)",
+        "share_text": "Felice festa della mamma! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "母の日",
+        "hover_text": "2024 年母の日（5 月 26 日）",
+        "share_text": "母の日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ತಾಯಂದಿರ ದಿನ",
+        "hover_text": "ತಾಯಂದಿರ ದಿನ (ಮೇ 26) 2024",
+        "share_text": "ತಾಯಂದಿರ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Аналар күні",
+        "hover_text": "Аналар күні — 2024 (26 мамыр)",
+        "share_text": "Аналар күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​រំលឹកគុណម្ដាយ",
+        "hover_text": "ទិវា​រំលឹកគុណម្ដាយ (26 ឧសភា) ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​រំលឹកគុណ​ម្ដាយ​! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "어머니날",
+        "hover_text": "2024년 어머니의 날(5월 26일)",
+        "share_text": "어머니날 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Энелер күнү",
+        "hover_text": "Апалар күнү – 2024 (26-май)",
+        "share_text": "Энелер күнү кут болсун! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນແມ່",
+        "hover_text": "ວັນແມ່ປີ 2024 (26 ພຶດສະພາ)",
+        "share_text": "ສຸກສັນວັນແມ່! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Madre",
+        "hover_text": "Día de la Madre 2024 (26 de mayo)",
+        "share_text": "¡Feliz Día de la Madre! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Mātes diena",
+        "hover_text": "Mātes diena — 2024. gada 26. maijs",
+        "share_text": "Sveicam Mātes dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Motinos diena",
+        "hover_text": "Motinos diena (gegužės 26 d.), 2024 m.",
+        "share_text": "Su Motinos diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на мајката",
+        "hover_text": "Ден на мајката (26 мај), 2024 г.",
+        "share_text": "Среќен Ден на мајката! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny reny",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny reny ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Ibu",
+        "hover_text": "Hari Ibu (26 Mei) 2024",
+        "share_text": "Selamat Hari Ibu! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "മാതൃദിനം",
+        "hover_text": "മാതൃദിനം (മെയ് 26) 2024",
+        "share_text": "മാതൃദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "मदर्स डे",
+        "hover_text": "मदर्स डे (२६ मे) २०२४",
+        "share_text": "मदर्स डे च्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Ээжүүдийн өдөр",
+        "hover_text": "2024 оны Ээжүүдийн өдөр (5-р сарын 26)",
+        "share_text": "Ээжүүдийн өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "आमाको मुख हेर्ने दिन",
+        "hover_text": "आमाको मुख हेर्ने दिन (मे २६) २०२४",
+        "share_text": "आमाको मुख हेर्ने दिनको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Morsdag",
+        "hover_text": "Morsdag (26. mai) 2024",
+        "share_text": "Gratulerer med morsdagen! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ମାତୃ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ମାତୃ ଦିବସର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز مادر",
+        "hover_text": "روز مادر ۲۰۲۴ (۲۶ مه)",
+        "share_text": "روز مادر مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Matki",
+        "hover_text": "Dzień Matki 2024",
+        "share_text": "Obchodzimy Dzień Matki #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia das Mães",
+        "hover_text": "Dia das Mães 2024 (26 de maio)",
+        "share_text": "Feliz Dia das Mães! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da mãe",
+        "hover_text": "Dia da Mãe (26 de maio) de 2024",
+        "share_text": "Feliz dia da mãe! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਮਾਂ ਦਿਵਸ",
+        "hover_text": "ਮਾਂ ਦਿਵਸ (26 ਮਈ) 2024",
+        "share_text": "ਮਾਂ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Mamei",
+        "hover_text": "Ziua Mamei (26 mai) – 2024",
+        "share_text": "La mulți ani de Ziua Mamei! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День матери",
+        "hover_text": "День матери (26 мая) – 2024",
+        "share_text": "С Днем матери! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан мајки",
+        "hover_text": "Дан мајки (26. мај) 2024.",
+        "share_text": "Срећан Дан мајки! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan majki",
+        "hover_text": "Dan majki (26. maj) 2024.",
+        "share_text": "Srećan Dan majki! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Manman",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "මව්වරුන්ගේ දිනය",
+        "hover_text": "මව්වරුන්ගේ දිනය (මැයි 26) 2024",
+        "share_text": "ප්‍රීතිමත් මව්වරුන්ගේ දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň matiek",
+        "hover_text": "Deň matiek (26. máj) 2024",
+        "share_text": "Šťastný Deň matiek! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Materinski dan",
+        "hover_text": "Materinski dan 2024 (26. maj)",
+        "share_text": "Vesel materinski dan! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Hooyada",
+        "hover_text": null,
+        "share_text": "Maalinta Hooyada Farxada leh! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Bomme",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día de la Madre",
+        "hover_text": null,
+        "share_text": "¡Feliz Día de la Madre! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Akina Mama",
+        "hover_text": "Siku ya Akina Mama (Tarehe 26 Mei) 2024",
+        "share_text": "Heri za Sikukuu ya Akina Mama! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Mors dag",
+        "hover_text": "Mors dag 2024 (26 maj)",
+        "share_text": "Grattis på mors dag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "அன்னையர் தினம்",
+        "hover_text": "அன்னையர் தினம் (மே 26) 2024",
+        "share_text": "அன்னையர் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "మాతృ దినోత్సవం",
+        "hover_text": "మదర్స్ డే (మే 26) 2024",
+        "share_text": "మాతృ దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันแม่",
+        "hover_text": "วันแม่ปี 2024 (26 พฤษภาคม)",
+        "share_text": "สุขสันต์วันแม่ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la ga Mme",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Anneler Günü",
+        "hover_text": "26 Mayıs 2024 Anneler Günü",
+        "share_text": "Anneler Gününüz Kutlu Olsun. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День матері",
+        "hover_text": "День матері у 2024 році (26 травня)",
+        "share_text": "З Днем матері! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم مادر",
+        "hover_text": "یوم مادر (مئی 26) 2024",
+        "share_text": "یوم مادر مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Onalar kuni",
+        "hover_text": "Onalar kuni (26-may) 2024",
+        "share_text": "Onalar kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày của mẹ",
+        "hover_text": "Ngày của Mẹ năm 2024 (ngày 26 tháng 5)",
+        "share_text": "Mừng ngày của Mẹ! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lomama",
+        "hover_text": "Usuku loMama lwango-2024 (26 Meyi)",
+        "share_text": "Sikufisela Usuku Oluhle Lomama! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Mother's Day",
+    "share_text": "Happy Mother's Day! #GoogleDoodle"
+  },
+  {
+    "name": "georgia-independence-day-2024",
+    "title": "Georgia Independence Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/georgia-independence-day-2024-6753651837110225-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/INM__Ao2ArI85MKMhIfSGj9ia1KVS5pkuhvD-QhUzmZN5bGndGqMWVLUfCQdGV-YmD6brFLE6YEO4kxUE4nt0zBpgS0yvzeiO40wbltrMMvX7-F7FUMs",
+    "high_res_url": "//www.google.com/logos/doodles/2024/georgia-independence-day-2024-6753651837110225-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      5,
+      26
+    ],
+    "translations": {
+      "en": {
+        "query": "Georgia Independence Day",
+        "hover_text": "Georgia Independence Day 2024",
+        "share_text": "Happy Independence Day, Georgia! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Georgië se onafhanklikheidsdag",
+        "hover_text": "Georgië se Onafhanklikheidsdag 2024",
+        "share_text": "Gelukkige Onafhanklikheidsdag, Georgië! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë së Gjeorgjisë",
+        "hover_text": "Dita e Pavarësisë së Gjeorgjisë, 2024",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Gjeorgji! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የጆርጂያ ነጻነት ቀን",
+        "hover_text": "የጆርጂያ የነፃነት ቀን 2024",
+        "share_text": "መልካም የነጻነት ቀን፣ ጆርጂያ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال جورجيا",
+        "hover_text": "عيد استقلال جورجيا 2024",
+        "share_text": "الاحتفال بعيد استقلال جورجيا #GoogleDoodle"
+      },
+      "hy": {
+        "query": "Վրաստանի անկախության օր",
+        "hover_text": "Վրաստանի անկախության օր 2024",
+        "share_text": "Շնորհավոր Վրաստանի անկախության օրը – 2020 #GoogleDoodle"
+      },
+      "az": {
+        "query": "Gürcüstanın Müstəqillik Günü",
+        "hover_text": "2024 Gürcüstanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Gürcüstan! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "জর্জিয়ার স্বাধীনতা দিবস",
+        "hover_text": "জর্জিয়ার স্বাধীনতা দিবস ২০২৪",
+        "share_text": "স্বাধীনতা দিবস, জর্জিয়া! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Georgiako Independentzia Eguna",
+        "hover_text": "2024ko Georgiako Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Georgia! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Грузіі",
+        "hover_text": "Дзень незалежнасці Грузіі 2024",
+        "share_text": "З Днём незалежнасці, Грузія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Gruzije",
+        "hover_text": "Dan nezavisnosti Gruzije 2024.",
+        "share_text": "Sretan Dan nezavisnosti, Gruzija! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Georgia Independence Day",
+        "hover_text": "Georgia Independence Day 2024",
+        "share_text": "Happy Independence Day, Georgia! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Грузия",
+        "hover_text": "Ден на независимостта на Грузия 2024 г.",
+        "share_text": "Честит Ден на независимостта на Грузия! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဂျော်ဂျီယာ လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ ဂျော်ဂျီယာနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ဖြစ်ပါစေ၊ ဂျော်ဂျီယာ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència de Geòrgia",
+        "hover_text": "Dia de la Independència de Geòrgia 2024",
+        "share_text": "Feliç Dia de la Independència, Geòrgia! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "格魯吉亞獨立日",
+        "hover_text": "2024 年格魯吉亞獨立日",
+        "share_text": "格魯吉亞，獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "喬治亞獨立紀念日",
+        "hover_text": "2024 年喬治亞獨立紀念日",
+        "share_text": "喬治亞，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "格鲁吉亚独立日",
+        "hover_text": "2024 年格鲁吉亚独立日",
+        "share_text": "独立日快乐，格鲁吉亚！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Gruzije",
+        "hover_text": "Dan neovisnosti Gruzije 2024.",
+        "share_text": "Sretan Dan neovisnosti, Gruzijo! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Gruzie",
+        "hover_text": "Den nezávislosti Gruzie 2024",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Gruzie! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Georgiens uafhængighedsdag",
+        "hover_text": "Georgiens uafhængighedsdag 2024",
+        "share_text": "Glædelig uafhængighedsdag, Georgien! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Georgië",
+        "hover_text": "Onafhankelijkheidsdag Georgië 2024",
+        "share_text": "Fijne Onafhankelijkheidsdag, Georgië #GoogleDoodle"
+      },
+      "et": {
+        "query": "Gruusia iseseisvuspäev",
+        "hover_text": "Gruusia 2024. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Gruusia! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Georgian itsenäisyyspäivä",
+        "hover_text": "Georgian itsenäisyyspäivä 2024",
+        "share_text": "Hyvää itsenäisyyspäivää, Georgia! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance de la Géorgie",
+        "hover_text": "Fête de l'Indépendance de la Géorgie 2024",
+        "share_text": "Fête de l'Indépendance de la Géorgie ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête de l'indépendance de la Géorgie",
+        "hover_text": "Fête de l'Indépendance de la Géorgie 2024",
+        "share_text": "Joyeuse fête de l'indépendance de la Géorgie! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Xeorxia",
+        "hover_text": "Día da Independencia de Xeorxia 2024",
+        "share_text": "Feliz Día da Independencia, Xeorxia! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "საქართველოს დამოუკიდებლობის დღე",
+        "hover_text": "საქართველოს დამოუკიდებლობის დღე",
+        "share_text": "საქართველო, გილოცავთ დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Georgien",
+        "hover_text": "Unabhängigkeitstag Georgien 2024",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Georgien! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας Γεωργίας",
+        "hover_text": "Ημέρα Ανεξαρτησίας της Γεωργίας 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας της Γεωργίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "જ્યોર્જિયાનો સ્વતંત્રતા દિવસ",
+        "hover_text": "જ્યોર્જિયાનો સ્વતંત્રતા દિવસ 2024",
+        "share_text": "જ્યોર્જિયાના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של גאורגיה",
+        "hover_text": "יום העצמאות של גאורגיה 2024",
+        "share_text": "יום עצמאות שמח, גאורגיה! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "जॉर्जिया का स्वतंत्रता दिवस",
+        "hover_text": "जॉर्जिया का स्वतंत्रता दिवस 2024",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, जॉर्जिया! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Grúzia függetlenségének napja",
+        "hover_text": "Grúzia függetlenségének napja, 2024",
+        "share_text": "Boldog függetlenség napját, Grúzia! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Georgíu",
+        "hover_text": "Sjálfstæðisdagur Georgíu 2024",
+        "share_text": "Gleðilegan sjálfstæðisdag, Georgía! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Georgia",
+        "hover_text": "Hari Kemerdekaan Georgia 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Georgia! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse na Seoirsia",
+        "hover_text": null,
+        "share_text": "Lá Saoirse na Seoirsia faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza della Georgia",
+        "hover_text": "Festa dell'indipendenza della Georgia 2024",
+        "share_text": "Buona festa dell'indipendenza, Georgia! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ジョージア独立記念日",
+        "hover_text": "2024 年ジョージア独立記念日",
+        "share_text": "ジョージア独立記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಜಾರ್ಜಿಯಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನ",
+        "hover_text": "ಜಾರ್ಜಿಯಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಜಾರ್ಜಿಯಾ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Грузияның Тәуелсіздік күні",
+        "hover_text": "Грузияның Тәуелсіздік күні – 2024",
+        "share_text": "Тәуелсіздік күні құтты болсын, Грузия! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យ​ឯករាជ្យជាតិហ្សកហ្ស៊ី",
+        "hover_text": "ទិវាបុណ្យឯករាជ្យជាតិហ្សកហ្ស៊ី​ឆ្នាំ 2024",
+        "share_text": "អបអរទិវា​បុណ្យ​ឯករាជ្យជាតិហ្សកហ្ស៊ី! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "조지아 독립기념일",
+        "hover_text": "2024년 조지아 독립기념일",
+        "share_text": "조지아 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Грузиянын Эгемендүүлүк күнү",
+        "hover_text": "Грузиянын Эгемендүүлүк күнү – 2024",
+        "share_text": "Эгемендүүлүк күнүң менен, Грузия! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດຈໍເຈຍ",
+        "hover_text": "ວັນປະກາດເອກະລາດຈໍເຈຍ 2024",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດຈໍເຈຍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Georgia",
+        "hover_text": "Día de la Independencia de Georgia 2024",
+        "share_text": "¡Feliz Día de la Independencia, Georgia! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Gruzijas Neatkarības diena",
+        "hover_text": "Gruzijas Neatkarības diena — 2024",
+        "share_text": "Sveicam Neatkarības dienā, Gruzija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Gruzijos nepriklausomybės diena",
+        "hover_text": "Sakartvelo nepriklausomybės diena, 2024 m.",
+        "share_text": "Sveikiname Gruziją su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Грузија",
+        "hover_text": "Ден на независноста на Грузија, 2024 г.",
+        "share_text": "Среќен Ден на независноста, Грузија! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Zaorizia",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny fahaleovantena ry Zaorizia ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Georgia",
+        "hover_text": "Hari Kemerdekaan Georgia 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Georgia! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ജോർജ്ജിയ സ്വാതന്ത്യദിനം",
+        "hover_text": "ജോർജിയ സ്വാതന്ത്ര്യദിനം 2024",
+        "share_text": "സ്വാതന്ത്ര്യ ദിനാശംസകൾ, ജോർജ്ജിയ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "जॉर्जियाचा स्वातंत्र्यदिन",
+        "hover_text": "जॉर्जियाचा स्वातंत्र्यदिन २०२४",
+        "share_text": "जॉर्जियाला स्वातंत्र्यदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Гүрж улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2024 оны Гүрж Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Гүрж улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "जर्जियाको स्वतन्त्रता दिवस",
+        "hover_text": "जर्जियाको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, जर्जिया! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Georgias frigjøringsdag",
+        "hover_text": "Georgias frigjøringsdag 2024",
+        "share_text": "Gratulerer med frigjøringsdagen, Georgia! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଜର୍ଜିଆ ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": null,
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, ଜର୍ଜିଆ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال گرجستان",
+        "hover_text": "روز استقلال گرجستان - ۲۰۲۴",
+        "share_text": "روز استقلال مبارک، گرجستان! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Niepodległości Gruzji",
+        "hover_text": "Dzień Niepodległości Gruzji 2024",
+        "share_text": "Gruzja obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência da Geórgia",
+        "hover_text": "Dia da Independência da Geórgia 2024",
+        "share_text": "Feliz Dia da Independência, Geórgia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência da Geórgia",
+        "hover_text": "Dia da Independência da Geórgia de 2024",
+        "share_text": "Feliz dia da independência, Geórgia! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਜਾਰਜੀਆ ਦਾ ਸੁਤੰਤਰਤਾ ਦਿਵਸ",
+        "hover_text": "ਜਾਰਜੀਆ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2024",
+        "share_text": "ਜਾਰਜੀਆ ਦੇ ਸੁਤੰਤਰਤਾ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței în Georgia",
+        "hover_text": "Ziua Independenței Georgiei – 2024",
+        "share_text": "La mulți ani de Ziua Independenței, Georgia! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "день независимости грузии",
+        "hover_text": "День независимости Грузии – 2024",
+        "share_text": "День независимости Грузии #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Грузије",
+        "hover_text": "Дан независности Грузије 2024.",
+        "share_text": "Честитамо Дан независности Грузији! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Gruzije",
+        "hover_text": "Dan nezavisnosti Gruzije 2024.",
+        "share_text": "Čestitamo Dan nezavisnosti Gruziji! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepandans Georgia",
+        "hover_text": null,
+        "share_text": "Lazournen lendepandans, Georgia! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ජෝර්ජියාවේ නිදහස් දිනය",
+        "hover_text": "ජෝර්ජියාවේ නිදහස් දිනය 2024",
+        "share_text": "සුබ නිදහස් දිනයක්, ජෝර්ජියාව! #Googleඩූඩල්"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Gruzínska",
+        "hover_text": "Deň nezávislosti Gruzínska 2024",
+        "share_text": "Šťastný Deň nezávislosti, Gruzínsko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Gruzije",
+        "hover_text": "Dan neodvisnosti Gruzije 2024",
+        "share_text": "Vesel dan neodvisnosti, Gruzija! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madaxbanaanida Joorjiya",
+        "hover_text": null,
+        "share_text": "Maalin Xornimo oo Wacan, Joorjiya! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Ditshwanelo la Georgia",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Ditshwanelo la Georgia! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Georgia",
+        "hover_text": null,
+        "share_text": "¡Feliz Día de la Independencia de Georgia! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Jojia",
+        "hover_text": "Sikukuu ya Uhuru wa Jojia 2024",
+        "share_text": "Heri za Sikukuu ya Uhuru wa Jojia! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Georgiens självständighetsdag",
+        "hover_text": "Georgiens självständighetsdag 2024",
+        "share_text": "Vi firar Georgiens självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஜார்ஜியா சுதந்திர தினம்",
+        "hover_text": "ஜார்ஜியா சுதந்திர தினம் 2024",
+        "share_text": "சுதந்திர தின வாழ்த்துகள் ஜார்ஜியா! #GoogleDoodle"
+      },
+      "te": {
+        "query": "జార్జియా స్వాతంత్య్ర దినోత్సవం",
+        "hover_text": "జార్జియా స్వాతంత్య్ర దినోత్సవం 2024",
+        "share_text": "స్వాతంత్య్ర దినోత్సవ శుభాకాంక్షలు, జార్జియా! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของจอร์เจีย",
+        "hover_text": "วันประกาศเอกราชของจอร์เจียปี 2024",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของจอร์เจีย #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Segopotso la Georgia",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Segopotso, Georgia! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Gürcistan Bağımsızlık Günü 2020",
+        "hover_text": "2024 Gürcistan Bağımsızlık Günü",
+        "share_text": "Gürcistan Bağımsızlık Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Грузії",
+        "hover_text": "День незалежності Грузії у 2024 році",
+        "share_text": "З Днем незалежності, Грузіє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "جارجیا کا یوم آزادی",
+        "hover_text": "جارجیا کا یوم آزادی 2024",
+        "share_text": "جارجیا کا یوم آزادی مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Gruziya mustaqillik kuni",
+        "hover_text": "Gruziya Mustaqillik kuni 2024",
+        "share_text": "Mustaqillik kuning muborak, Gruziya! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Georgia",
+        "hover_text": "Ngày Quốc khánh Gruzia năm 2024",
+        "share_text": "Mừng ngày quốc khánh Georgia! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lokuzimela lwase-Georgia",
+        "hover_text": "Usuku Lokuzimela lwase-Georgia lwango-2024",
+        "share_text": "Sinifisela Usuku Oluhle Lokuzimela, Georgia! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Georgia Independence Day",
+    "share_text": "Happy Independence Day, Georgia! #GoogleDoodle"
+  },
+  {
+    "name": "2024-indian-premier-league-final",
+    "title": "2024 Indian Premier League Final",
+    "url": "//www.google.com/logos/doodles/2024/2024-indian-premier-league-final-6753651837110502-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/GJSNoQ71w2SMRbKck6F8ZIalpdH4nv0B_ySYrkAV-1Mr-_77vgy1tXdNiP2dVaJUjw6JvAMqN-UZN_fLHbO92eLPWqMREKt1OpOyTdYUPoXcSIYMTgVkhw",
+    "high_res_url": "//www.google.com/logos/doodles/2024/2024-indian-premier-league-final-6753651837110502-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      5,
+      26
+    ],
+    "translations": {
+      "en": {
+        "query": "Indian Premier League",
+        "hover_text": "Indian Premier League Final 2024",
+        "share_text": "2024 Indian Premier League Final! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Eindstryd van die Indiese Premierliga 2024",
+        "hover_text": "Eindstryd van die Indiese Premierliga 2024",
+        "share_text": "Eindstryd van die 2024 Indiese Premierliga! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Finalja e Premier League të Indisë, 2024",
+        "hover_text": "Finalja e Premier League të Indisë, 2024",
+        "share_text": "Finalja e Premier League të Indisë, 2024! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የሕንድ ፕሪምየር ሊግ ፍጻሜዎች 2024",
+        "hover_text": "የሕንድ ፕሪምየር ሊግ ፍጻሜ 2024",
+        "share_text": "2024 የሕንድ ፕሪምየር ሊግ ፍጻሜ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "نهائيات الدوري الهندي الممتاز 2024",
+        "hover_text": "نهائي الدوري الهندي الممتاز 2024",
+        "share_text": "سينطلق نهائي الدوري الهندي الممتاز 2024! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Հնդկաստանի պրեմիեր լիգայի եզրափակիչ 2024",
+        "hover_text": "Հնդկաստանի պրեմիեր լիգայի եզրափակիչ 2024",
+        "share_text": "Հնդկաստանի պրեմիեր լիգայի եզրափակիչ 2024 #GoogleDoodle"
+      },
+      "az": {
+        "query": "2024 Hindistan Premyer Liqasının Finalları",
+        "hover_text": "2024 Hindistan Premyer Liqasının Finalı",
+        "share_text": "2024 Hindistan Premyer Liqasının Finalı! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ইন্ডিয়ান প্রিমিয়ার লিগ",
+        "hover_text": "ইন্ডিয়ান প্রিমিয়ার লিগ ফাইনাল ২০২৪",
+        "share_text": "২০২৪ ইন্ডিয়ান প্রিমিয়ার লিগ ফাইনাল! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "2024ko Indian Premier League-ko finala",
+        "hover_text": "2024ko Indian Premier League-ko finala",
+        "share_text": "2024ko Indian Premier League-ko finala #GoogleDoodle"
+      },
+      "be": {
+        "query": "Гульні фіналу індыйскай прэм’ер-лігі 2024",
+        "hover_text": "Фінал індыйскай прэм’ер-лігі 2024",
+        "share_text": "Фінал індыйскай прэм’ер-лігі 2024! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Finale Indijske premijer lige 2024.",
+        "hover_text": "Finale Indijske premijer lige 2024.",
+        "share_text": "Finale Indijske premijer lige 2024! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Indian Premier League Final 2024",
+        "hover_text": "Indian Premier League Final 2024",
+        "share_text": "2024 Indian Premier League Final! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Финали на индийската висша лига 2024 г.",
+        "hover_text": "Финал на индийската висша лига 2024 г.",
+        "share_text": "Финал на индийската висша лига 2024 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အိန္ဒိယနိုင်ငံ ပရီးမီးယားလိဂ် ဗိုလ်လုပွဲများ ၂၀၂၄",
+        "hover_text": "အိန္ဒိယနိုင်ငံ ပရီးမီးယားလိဂ် ဗိုလ်လုပွဲများ ၂၀၂၄",
+        "share_text": "၂၀၂၄ အိန္ဒိယနိုင်ငံ ပရီးမီးယားလိဂ် ဗိုလ်လုပွဲ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Final de la Indian Premier League 2024",
+        "hover_text": "Final de la Indian Premier League 2024",
+        "share_text": "Final de la Indian Premier League 2024 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "2024 年印度板球超級聯賽決賽",
+        "hover_text": "2024 年印度板球超級聯賽決賽",
+        "share_text": "2024 年印度板球超級聯賽決賽！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "2024 年印度板球超級聯賽決賽",
+        "hover_text": "2024 年印度板球超級聯賽決賽",
+        "share_text": "2024 年印度板球超級聯賽決賽開打！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "2024 年印度超级板球联赛决赛",
+        "hover_text": "2024 年印度超级板球联赛决赛",
+        "share_text": "2024 年印度超级板球联赛决赛！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Indijsko finale Lige prvaka 2024.",
+        "hover_text": "Indijsko finale Lige prvaka 2024.",
+        "share_text": "Indijsko finale Lige prvaka 2024.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Finále Indian Premier League 2024",
+        "hover_text": "Finále Indian Premier League 2024",
+        "share_text": "Hraje se finále Indian Premier League 2024! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Den indiske Premier League-finale 2024",
+        "hover_text": "Den indiske Premier League-finale 2024",
+        "share_text": "Den indiske Premier League-finale 2024 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Indiase Premier League finale 2024",
+        "hover_text": "Indiase Premier League-finale van 2024",
+        "share_text": "De Indiase Premier League-finale van 2024! #GoogleDoodle"
+      },
+      "et": {
+        "query": "India kõrgliiga finaalid 2024",
+        "hover_text": "India kõrgliiga finaal 2024",
+        "share_text": "India kõrgliiga finaal 2024! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Indian Premier League ‑finaali 2024",
+        "hover_text": "Indian Premier League ‑finaali 2024",
+        "share_text": "Indian Premier League ‑finaali 2024 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Finale de l'Indian Premier League 2024",
+        "hover_text": "Finale de l'Indian Premier League 2024",
+        "share_text": "Finale de l'Indian Premier League 2024 ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Finales 2024 de l'Indian Premier League",
+        "hover_text": "Finales 2024 de l'Indian Premier League",
+        "share_text": "Finales 2024 de l'Indian Premier League! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Finais da Premier League india 2024",
+        "hover_text": "Final da Premier League india 2024",
+        "share_text": "Final da Premier League india 2024! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ინდოეთის პრემიერლიგის ფინალი — 2024",
+        "hover_text": "ინდოეთის პრემიერლიგის ფინალი — 2024",
+        "share_text": "ინდოეთის პრემიერლიგის ფინალი — 2024 #GoogleDoodle"
+      },
+      "de": {
+        "query": "Finale Indian Premier League 2024",
+        "hover_text": "Finale der Indian Premier League 2024",
+        "share_text": "Finale der Indian Premier League 2024 #GoogleDoodle"
+      },
+      "el": {
+        "query": "Τελικοί ινδικής Premier League 2024",
+        "hover_text": "Τελικός ινδικής Premier League 2024",
+        "share_text": "Τελικός ινδικής Premier League 2024! #GoogleDoodle"
+      },
+      "gu": {
+        "query": " ઈન્ડિયન પ્રીમિયર લીગ",
+        "hover_text": "ઇન્ડિયન પ્રિમિયર લીગ ફાઇનલ 2024",
+        "share_text": "ઇન્ડિયન પ્રિમિયર લીગ ફાઇનલ 2024! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Indian Premier League Finals 2024",
+        "hover_text": "גמר ליגת העל ההודית 2024",
+        "share_text": "גמר ליגת העל ההודית 2024 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "इंडियन प्रीमियर लीग",
+        "hover_text": "इंडियन प्रीमियर लीग फ़ाइनल 2024",
+        "share_text": "2024 इंडियन प्रीमियर लीग फ़ाइनल! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Az Indian Premier League döntői, 2024",
+        "hover_text": "Az Indian Premier League döntője, 2024",
+        "share_text": "Az Indian Premier League döntője, 2024! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Úrslitakeppnin í indversku úrvalsdeildinni 2024",
+        "hover_text": "Úrslitakeppnin í indversku úrvalsdeildinni 2024",
+        "share_text": "Úrslitakeppnin í indversku úrvalsdeildinni 2024! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Final Indian Premier League 2024",
+        "hover_text": "Final Indian Premier League 2024",
+        "share_text": "Final Indian Premier League 2024 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Finali di Indian Premier League 2024",
+        "hover_text": "Finali di Indian Premier League 2024",
+        "share_text": "Finali di Indian Premier League 2024! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "2024 年インディアン プレミアリーグ決勝",
+        "hover_text": "2024 年インディアン プレミアリーグ決勝",
+        "share_text": "2024 年インディアン プレミアリーグ決勝 #GoogleDoodle"
+      },
+      "kn": {
+        "query": " ಇಂಡಿಯನ್ ಪ್ರೀಮಿಯರ್ ಲೀಗ್",
+        "hover_text": "ಇಂಡಿಯನ್ ಪ್ರೀಮಿಯರ್ ಲೀಗ್ ಫೈನಲ್ 2024",
+        "share_text": "2024 ರ ಇಂಡಿಯನ್ ಪ್ರೀಮಿಯರ್ ಲೀಗ್ ಫೈನಲ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "2024 жылғы Үндістан премьер-лигасының финалы",
+        "hover_text": "2024 жылғы Үндістан премьер-лигасының финалы",
+        "share_text": "2024 жылғы Үндістан премьер-лигасының финалы! #GoogleDoodle"
+      },
+      "km": {
+        "query": "វគ្គផ្ដាច់ព្រ័ត្រ Indian Premier League ឆ្នាំ 2024",
+        "hover_text": "វគ្គផ្ដាច់ព្រ័ត្រ Indian Premier League ឆ្នាំ 2024",
+        "share_text": "វគ្គផ្ដាច់ព្រ័ត្រ Indian Premier League ឆ្នាំ 2024! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "2024년 인도 프리미어 리그 결승전",
+        "hover_text": "2024년 인도 프리미어 리그 결승전",
+        "share_text": "2024년 인도 프리미어 리그 결승전 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Индиянын Премьер-лигасынын финалдык оюндары — 2024",
+        "hover_text": "Индиянын Премьер-лигасынын финалдык оюну — 2024",
+        "share_text": "Индиянын Премьер-лигасынын финалдык оюндары — 2024! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ອິນເດຍພຣີເມຍຫຼີກຮອບຊິງຊະນະເລີດປີ 2024",
+        "hover_text": "ອິນເດຍພຣີເມຍຫຼີກຮອບຊິງຊະນະເລີດປີ 2024",
+        "share_text": "ອິນເດຍພຣີເມຍຫຼີກຮອບຊິງຊະນະເລີດປີ 2024! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Final de la Liga Premier de India 2024",
+        "hover_text": "Final de la Liga Premier de India 2024",
+        "share_text": "Final de la Liga Premier de India 2024 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Indijas premjerlīgas finālspēles — 2024",
+        "hover_text": "Indijas premjerlīgas fināls — 2024",
+        "share_text": "Indijas premjerlīgas fināls — 2024! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "2024 m. Indijos aukščiausiosios kriketo lygos finalas",
+        "hover_text": "2024 m. Indijos aukščiausiosios kriketo lygos finalas",
+        "share_text": "2024 m. Indijos aukščiausiosios kriketo lygos finalas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Финале во Премиер лигата на Индија, 2024 г.",
+        "hover_text": "Финале во Премиер лигата на Индија, 2024 г.",
+        "share_text": "Финале во Премиер лигата на Индија, 2024 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Perlawanan Akhir Liga Perdana India 2024",
+        "hover_text": "Perlawanan Akhir Liga Perdana India 2024",
+        "share_text": "Perlawanan Akhir Liga Perdana India 2024! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഇന്ത്യൻ പ്രീമിയർ ലീഗ്",
+        "hover_text": "ഇന്ത്യൻ പ്രീമിയർ ലീഗ് ഫൈനൽ 2024",
+        "share_text": "ഇന്ത്യൻ പ്രീമിയർ ലീഗ് ഫൈനൽ 2024! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "इंडियन प्रीमियर लीग",
+        "hover_text": "इंडियन प्रीमियर लीग २०२४ चा अंतिम सामना",
+        "share_text": "२०२४ इंडियन प्रीमियर लीगचा अंतिम सामना! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "2024 оны Энэтхэгийн премьер лигийн шувтаргын тоглолтууд",
+        "hover_text": "2024 оны Энэтхэгийн премьер лигийн шувтаргын тоглолт",
+        "share_text": "2024 оны Энэтхэгийн премьер лигийн шувтаргын тоглолт! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "इन्डियन प्रिमियर लिग",
+        "hover_text": "इन्डियन प्रिमियर लिग २०२४ को फाइनल",
+        "share_text": "इन्डियन प्रिमियर लिग २०२४ को फाइनल! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Finale i Indian Premier League 2024",
+        "hover_text": "Finale i Indian Premier League 2024",
+        "share_text": "Finale i Indian Premier League 2024! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "بازی‌های نهایی لیگ برتر ۲۰۲۴ هند",
+        "hover_text": "بازی نهایی لیگ برتر ۲۰۲۴ هند",
+        "share_text": "بازی نهایی لیگ برتر ۲۰۲۴ هند! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Finały indyjskiej Premier League 2024",
+        "hover_text": "Finał indyjskiej Premier League 2024",
+        "share_text": "Finał indyjskiej Premier League 2024 #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Finais da Indian Premier League 2024",
+        "hover_text": "Final da Indian Premier League 2024",
+        "share_text": "Final da Indian Premier League 2024 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Fase Final da Indian Premier League de 2024",
+        "hover_text": "Final da Indian Premier League de 2024",
+        "share_text": "Final da Indian Premier League de 2024! #GoogleDoodle"
+      },
+      "pa": {
+        "query": " ਇੰਡੀਅਨ ਪ੍ਰੀਮੀਅਰ ਲੀਗ",
+        "hover_text": "ਇੰਡੀਅਨ ਪ੍ਰੀਮੀਅਰ ਲੀਗ ਦਾ ਫਾਈਨਲ 2024",
+        "share_text": "2024 ਇੰਡੀਅਨ ਪ੍ਰੀਮੀਅਰ ਲੀਗ ਦਾ ਫਾਈਨਲ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Finala Indian Premier League 2024",
+        "hover_text": "Finala Indian Premier League 2024",
+        "share_text": "A început finala Indian Premier League 2024! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Финал Индийской премьер-лиги – 2024",
+        "hover_text": "Финал Индийской премьер-лиги – 2024",
+        "share_text": "Финал Индийской премьер-лиги – 2024 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Финале индијске премијер лиге 2024.",
+        "hover_text": "Финале индијске премијер лиге 2024.",
+        "share_text": "Финале индијске премијер лиге 2024! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Finale indijske premijer lige 2024.",
+        "hover_text": "Finale indijske premijer lige 2024.",
+        "share_text": "Finale indijske premijer lige 2024! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "2024 ඉන්දීය ප්‍රිමියර් ලීග් අවසන් මහා තරගය",
+        "hover_text": "2024 ඉන්දීය ප්‍රිමියර් ලීග් අවසන් මහා තරගය",
+        "share_text": "2024 ඉන්දීය ප්‍රිමියර් ලීග් අවසන් මහා තරගය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Finále Indian Premier League 2024",
+        "hover_text": "Finále Indian Premier League 2024",
+        "share_text": "Finále Indian Premier League 2024. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Finale indijske prve lige IPL 2024",
+        "hover_text": "Finale indijske prve lige IPL 2024",
+        "share_text": "Finale indijske prve lige IPL 2024! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Final de la Liga Premier de la India 2024",
+        "hover_text": "Final de la Liga Premier de la India 2024",
+        "share_text": "Hoy se celebra la final de la Liga Premier de la India 2024 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Fainali za Ligi Kuu ya India 2024",
+        "hover_text": "Fainali ya Ligi Kuu ya India 2024",
+        "share_text": "Fainali ya Ligi Kuu ya India 2024! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Final i indiska Premier League 2024",
+        "hover_text": "Final i indiska Premier League 2024",
+        "share_text": "Final i indiska Premier League 2024 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "இந்தியன் பிரீமியர் லீக்",
+        "hover_text": "இந்தியன் பிரீமியர் லீக் இறுதிப்போட்டி 2024",
+        "share_text": "2024 இந்தியன் பிரீமியர் லீக் இறுதிப்போட்டி! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఇండియన్ ప్రీమియర్ లీగ్",
+        "hover_text": "ఇండియన్ ప్రీమియర్ లీగ్ ఫైనల్ 2024",
+        "share_text": "2024 ఇండియన్ ప్రీమియర్ లీగ్ ఫైనల్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "อินเดียนพรีเมียร์ลีกรอบชิงชนะเลิศปี 2024",
+        "hover_text": "อินเดียนพรีเมียร์ลีกรอบชิงชนะเลิศปี 2024",
+        "share_text": "อินเดียนพรีเมียร์ลีกรอบชิงชนะเลิศปี 2024 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "2024 Hindistan Premier Ligi Finalleri",
+        "hover_text": "2024 Hindistan Premier Ligi Finali",
+        "share_text": "2024 Hindistan Premier Ligi Finali oynanıyor. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Фінал індійської прем’єр-ліги у 2024 році",
+        "hover_text": "Фінал індійської прем’єр-ліги у 2024 році",
+        "share_text": "Фінал індійської прем’єр-ліги у 2024 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "انڈین پریمیئر لیگ فائنلز 2024",
+        "hover_text": "انڈین پریمیئر لیگ فائنل 2024",
+        "share_text": "انڈین پریمیئر لیگ فائنل 2024! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Hindiston Premyer ligasi final oʻyinlari 2024",
+        "hover_text": "Hindiston Premyer ligasi finali 2024",
+        "share_text": "Hindiston Premyer ligasi finali 2024! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Vòng chung kết giải Ngoại hạng Cricket Ấn Độ năm 2024",
+        "hover_text": "Chung kết giải Ngoại hạng Cricket Ấn Độ năm 2024",
+        "share_text": "Chung kết giải Ngoại hạng Cricket Ấn Độ năm 2024! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Amanqamu E-Indian Premier League yango-2024",
+        "hover_text": "Amanqamu E-Indian Premier League yango-2024",
+        "share_text": "Amanqamu E-Indian Premier League yango-2024! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Indian Premier League",
+    "share_text": "2024 Indian Premier League Final! #GoogleDoodle"
+  },
+  {
     "name": "jordan-independence-day-2024",
     "title": "Jordan Independence Day 2024",
     "url": "//www.google.com/logos/doodles/2024/jordan-independence-day-2024-6753651837110224.2-law.gif",
