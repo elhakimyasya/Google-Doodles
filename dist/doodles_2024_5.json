@@ -1,5 +1,1003 @@
 [
   {
+    "name": "celebrating-mina-witkojc",
+    "title": "Celebrating Mina Witkojc",
+    "url": "//www.google.com/logos/doodles/2024/celebrating-mina-witkojc-6753651837110227.5-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/xeAjvrAlMAsVbB2RR3mxaE6fi4cEdKqLt-FenI23Bk-GpGeCBNGeaVqby2t8Xhjed8NXXuUadYjyN2o6Q4_U2r-augBY-Iahj816E9YUUHaslteB4MlE",
+    "high_res_url": "//www.google.com/logos/doodles/2024/celebrating-mina-witkojc-6753651837110227-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2024,
+      5,
+      28
+    ],
+    "translations": {
+      "en": {
+        "query": "Mina Witkojc",
+        "hover_text": "Celebrating Mina Witkojc",
+        "share_text": "Celebrating Mina Witkojc! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Mina Witkojc",
+        "hover_text": "Ter viering van Mina Witkojc",
+        "share_text": "Ter viering van Mina Witkojc! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Mina Witkojc",
+        "hover_text": "Përkujtojmë Mina Witkojc",
+        "share_text": "Përkujtojmë Mina Witkojc! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ሚና ዊትኮጅክ",
+        "hover_text": "ሚና ዊትኮጅክን በማክበር ላይ",
+        "share_text": "ሚና ዊትኮጅክን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "\"مينا فيتكويتش\"",
+        "hover_text": "الاحتفال بذكرى \"مينا فيتكويتش\"",
+        "share_text": "نحتفل اليوم بذكرى \"مينا فيتكويتش\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Մինա Վիտկոյց",
+        "hover_text": "Տոնենք Մինա Վիտկոյցի օրը",
+        "share_text": "Տոնենք Մինա Վիտկոյցի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Mina Witkojc",
+        "hover_text": "Mina Witkojc günü",
+        "share_text": "Mina Witkojc günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "মিনা উইথকোয়েচ",
+        "hover_text": "মিনা উইথকোয়েচের স্মরণে উদযাপন করা হচ্ছে",
+        "share_text": "মিনা উইথকোয়েচের স্মরণে উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Mina Witkojc",
+        "hover_text": "Mina Witkojcen omenez",
+        "share_text": "Mina Witkojcen omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Міна Віткайц",
+        "hover_text": "Ушаноўваем Міну Віткайц",
+        "share_text": "Ушаноўваем Міну Віткайц! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Mina Witkojc",
+        "hover_text": "Slavimo Minu Witkojcu",
+        "share_text": "Slavimo Minu Witkojcu! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Mina Witkojc",
+        "hover_text": "Celebrating Mina Witkojc",
+        "share_text": "Celebrating Mina Witkojc! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Мина Виткойц",
+        "hover_text": "Честване на Мина Виткойц",
+        "share_text": "Честване на Мина Виткойц! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Mina Witkojc",
+        "hover_text": "Mina Witkojc ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "Mina Witkojc ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Mina Witkojc",
+        "hover_text": "Homenatge a Mina Witkojc",
+        "share_text": "Homenatge a Mina Witkojc #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Mina Witkojc",
+        "hover_text": "紀念 Mina Witkojc",
+        "share_text": "紀念 Mina Witkojc！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "米娜維克科伊克",
+        "hover_text": "紀念米娜維克科伊克",
+        "share_text": "紀念米娜維克科伊克！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "Mina Witkojc",
+        "hover_text": "纪念 Mina Witkojc",
+        "share_text": "纪念 Mina Witkojc！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Mina Witkojc",
+        "hover_text": "U čast Mine Witkojc",
+        "share_text": "U čast Mine Witkojc! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Mina Witkojc",
+        "hover_text": "Pocta Mině Witkojc",
+        "share_text": "Dnes oslavujeme Minu Witkojc! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Mina Witkojc",
+        "hover_text": "Vi hylder Mina Witkojc",
+        "share_text": "Vi hylder Mina Witkojc #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Mina Witkojc",
+        "hover_text": "Doodle ter ere van Mina Witkojc",
+        "share_text": "Een doodle ter ere van Mina Witkojc! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Mina Witkojc",
+        "hover_text": "Mälestame Mina Witkojci",
+        "share_text": "Mälestame Mina Witkojci! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Mina Witkojc",
+        "hover_text": "Mina Witkojc",
+        "share_text": "Mina Witkojc #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Mina Witkojc",
+        "hover_text": "Hommage à Mina Witkojc",
+        "share_text": "Hommage à Mina Witkojc ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Mina Witkojc",
+        "hover_text": "Célébration de Mina Witkojc",
+        "share_text": "Célébration de Mina Witkojc! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Mina Witkojc",
+        "hover_text": "Homenaxe a Mina Witkojc",
+        "share_text": "Homenaxe a Mina Witkojc! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მინა ვიტკოიჩი",
+        "hover_text": "აღვნიშნავთ მინა ვიტკოიჩის დღეს",
+        "share_text": "აღვნიშნავთ მინა ვიტკოიჩის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Mina Witkojc",
+        "hover_text": "Zu Ehren von Mina Witkojc",
+        "share_text": "Zu Ehren von Mina Witkojc! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Mina Witkojc",
+        "hover_text": "Τιμούμε τη Mina Witkojc",
+        "share_text": "Τιμούμε τη Mina Witkojc! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "મિના વિટ્કોઇક",
+        "hover_text": "મિના વિટ્કોઇકની યાદમાં",
+        "share_text": "મિના વિટ્કોઇકની યાદમાં! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Mina Witkojc",
+        "hover_text": "מחווה למינה ויטקויץ'",
+        "share_text": "מחווה למינה ויטקויץ' GoogleDoodle#"
+      },
+      "hi": {
+        "query": "मीना वित्कॉच",
+        "hover_text": "मीना वित्कॉच की याद में",
+        "share_text": "मीना वित्कॉच की याद में! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Mina Witkojc",
+        "hover_text": "Mina Witkojc ünneplése",
+        "share_text": "Mina Witkojc ünneplése. #GoogleDoodle"
+      },
+      "is": {
+        "query": "Mina Witkojc",
+        "hover_text": "Við heiðrum Minu Witkojc",
+        "share_text": "Við heiðrum Minu Witkojc! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Mina Witkojc",
+        "hover_text": "Mengenang Mina Witkojc",
+        "share_text": "Mengenang Mina Witkojc #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Mina Witkojc",
+        "hover_text": "In onore di Mina Witkojc",
+        "share_text": "In onore di Mina Witkojc! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ミナ・ウィトコイッツ",
+        "hover_text": "ミナ・ウィトコイッツを称えて",
+        "share_text": "ミナ・ウィトコイッツを称えて #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಮಿನಾ ವಿಟ್‌ಕೋಜ್",
+        "hover_text": "ಮಿನಾ ವಿಟ್‌ಕೋಜ್ ಅವರನ್ನು ಸ್ಮರಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಮಿನಾ ವಿಟ್‌ಕೋಜ್ ಅವರನ್ನು ಸ್ಮರಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Мина Виткойц",
+        "hover_text": "Мина Виткойц күні",
+        "share_text": "Мина Виткойц күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Mina Witkojc",
+        "hover_text": "អបអរទិវារំលឹក Mina Witkojc",
+        "share_text": "អបអរទិវារំលឹក Mina Witkojc! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Mina Witkojc",
+        "hover_text": "Mina Witkojc를 기억하며",
+        "share_text": "Mina Witkojc를 기억하며 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Мина Виткойц",
+        "hover_text": "Мина Виткойц күнүн майрамдоо",
+        "share_text": "Мина Виткойц күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Mina Witkojc",
+        "hover_text": "ວັນລະນຶກເຖິງ Mina Witkojc",
+        "share_text": "ວັນລະນຶກເຖິງ Mina Witkojc! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Mina Witkojc",
+        "hover_text": "Celebrando a Mina Witkojc",
+        "share_text": "¡Celebrando a Mina Witkojc! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Mina Vitkojca",
+        "hover_text": "Minas Vitkojcas godināšana",
+        "share_text": "Minas Vitkojcas godināšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Mina Witkojc",
+        "hover_text": "Minos Witkojc minėjimas",
+        "share_text": "Minos Witkojc minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Mina Witkojc",
+        "hover_text": "Во чест на Mina Witkojc",
+        "share_text": "Во чест на Mina Witkojc! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Mina Witkojc",
+        "hover_text": "Meraikan Mina Witkojc",
+        "share_text": "Meraikan Mina Witkojc! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Mina Witkojc",
+        "hover_text": "Mina Witkojc-നെ ആദരിക്കുന്നു",
+        "share_text": "Mina Witkojc-നെ ആദരിക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "मिना विटकोज",
+        "hover_text": "मिना विटकोज यांच्या स्मरणार्थ",
+        "share_text": "मिना विटकोज यांच्या स्मरणार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Мина Виткойц",
+        "hover_text": "Мина Виткойцын өдрийг тэмдэглэж байна",
+        "share_text": "Мина Виткойцын өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Mina Witkojc",
+        "hover_text": "Mina Witkojc को सम्झना",
+        "share_text": "Mina Witkojc को सम्झना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Mina Witkojc",
+        "hover_text": "Vi minnes Mina Witkojc",
+        "share_text": "Vi minnes Mina Witkojc! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "مینا ویتکویچ",
+        "hover_text": "بزرگداشت مینا ویتکویچ",
+        "share_text": "بزرگداشت مینا ویتکویچ! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Mina Witkojc",
+        "hover_text": "Wspominamy Minę Witkojc",
+        "share_text": "Wspominamy Minę Witkojc #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Mina Witkojc",
+        "hover_text": "Celebração da vida de Mina Witkojc",
+        "share_text": "Celebração da vida de Mina Witkojc #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Mina Witkojc",
+        "hover_text": "Celebração de Mina Witkojc",
+        "share_text": "Celebração de Mina Witkojc! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Mina Witkojc",
+        "hover_text": "ਮੀਨਾ ਵਿਟੋਈਚ ਦੀ ਯਾਦ ਵਿੱਚ",
+        "share_text": "ਮੀਨਾ ਵਿਟੋਈਚ ਦੀ ਯਾਦ ਵਿੱਚ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Mina Witkojc",
+        "hover_text": "În cinstea Minei Witkojc",
+        "share_text": "În cinstea Minei Witkojc! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Мина Виткойц",
+        "hover_text": "День Мины Виткойц",
+        "share_text": "День Мины Виткойц #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Мина Виткојц",
+        "hover_text": "Славимо Мину Виткојц",
+        "share_text": "Славимо Мину Виткојц! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Mina Vitkojc",
+        "hover_text": "Slavimo Minu Vitkojc",
+        "share_text": "Slavimo Minu Vitkojc! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "මිනා විට්කොජ්ක්",
+        "hover_text": "මිනා විට්කොජ්ක් සමරමින්",
+        "share_text": "මිනා විට්කොජ්ක් සමරමින්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Mina Witkojcová",
+        "hover_text": "Pripomíname si Minu Witkojcovú",
+        "share_text": "Pripomíname si Minu Witkojcovú. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Mina Witkojc",
+        "hover_text": "Slavimo Mino Witkojc",
+        "share_text": "Slavimo Mino Witkojc! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Mina Witkojc",
+        "hover_text": "Homenaje a Mina Witkojc",
+        "share_text": "Hoy rendimos homenaje a Mina Witkojc #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Mina Witkojc",
+        "hover_text": "Tunamwenzi Mina Witkojc",
+        "share_text": "Tunamwenzi Mina Witkojc! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Mina Witkojc",
+        "hover_text": "Vi hyllar Mina Witkojc",
+        "share_text": "Vi hyllar Mina Witkojc #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Mina Witkojc",
+        "hover_text": "மினா விட்காயைக் கொண்டாடுவோம்",
+        "share_text": "மினா விட்காயைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "మీనా విత్కాజ్",
+        "hover_text": "మీనా విత్కాజ్ వేడుకలు",
+        "share_text": "మీనా విత్కాజ్‌ను తలుచుకుందాం! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Mina Witkojc",
+        "hover_text": "วันรำลึกถึง Mina Witkojc",
+        "share_text": "วันรำลึกถึง Mina Witkojc #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Mina Witkojc",
+        "hover_text": "Mina Witkojc'i Anıyoruz",
+        "share_text": "Mina Witkojc'i anıyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Міна Віткойц",
+        "hover_text": "Ушановуємо Міну Віткойц",
+        "share_text": "Ушановуємо Міну Віткойц! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Mina Witkojc",
+        "hover_text": "Mina Witkojc کی یاد میں",
+        "share_text": "Mina Witkojc کی یاد میں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Mina Witkojc",
+        "hover_text": "Mina Witkojc kuni",
+        "share_text": "Mina Witkojc kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Mina Witkojc",
+        "hover_text": "Tôn vinh Mina Witkojc",
+        "share_text": "Tôn vinh Mina Witkojc! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "I-Mina Witkojc",
+        "hover_text": "Ukubungaza i-Mina Witkojc",
+        "share_text": "Ukubungaza i-Mina Witkojc! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Mina Witkojc",
+    "share_text": "Celebrating Mina Witkojc! #GoogleDoodle"
+  },
+  {
+    "name": "mothers-day-2024-may-27",
+    "title": "Mother's Day 2024 (May 27)",
+    "url": "//www.google.com/logos/doodles/2024/mothers-day-2024-may-27-6753651837110368-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/kq_6gKD5JtJhHZCTZvFnJlgDXS384iWCfStd1tGDvE-xRZ14xFnHlt_rNLk0jMfPj-Abr0pGl1Zg0aYLkR_Wk2Bqk9VyOinmexEz9l0ITh-QKHjzADVAfQ",
+    "high_res_url": "//www.google.com/logos/doodles/2024/mothers-day-2024-may-27-6753651837110368-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      5,
+      27
+    ],
+    "translations": {
+      "en": {
+        "query": "Mother's Day",
+        "hover_text": "Mother's Day (May 27) 2024",
+        "share_text": "Happy Mother's Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Moedersdag",
+        "hover_text": "Moedersdag (27 Mei) 2024",
+        "share_text": "Gelukkige Moedersdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Nënës",
+        "hover_text": "Dita e Nënës, 2024 (27 maj)",
+        "share_text": "Gëzuar Ditën e Nënës! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የእናቶች ቀን",
+        "hover_text": "የእናቶች ቀን (ሜይ 27) 2024",
+        "share_text": "መልካም የእናቶች ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد الأم",
+        "hover_text": "عيد الأم (27 مايو) 2024",
+        "share_text": "أجمل التهاني بمناسبة عيد الأمّ. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Մայրերի օր",
+        "hover_text": "Մայրերի օր 2024 (մայիսի 27)",
+        "share_text": "Շնորհավո՛ր մայրերի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Analar Günü",
+        "hover_text": "Analar Günü (27 may) 2024",
+        "share_text": "Analar Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "মাতৃ দিবস",
+        "hover_text": "মাতৃ দিবস (২৭ মে) ২০২৪",
+        "share_text": "মাদার্স ডেয়ের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Amaren Eguna",
+        "hover_text": "2024ko Amaren Eguna (maiatzaren 27a)",
+        "share_text": "Amaren Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень маці",
+        "hover_text": "Дзень маці 2024 (27 мая)",
+        "share_text": "З Днём маці! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan majki",
+        "hover_text": "Dan majki (27. maj) 2024.",
+        "share_text": "Sretan Dan majki! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Mother's Day",
+        "hover_text": "Mother's Day (27 May) 2024",
+        "share_text": "Happy Mother's Day! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на майката",
+        "hover_text": "Ден на майката (27 май) 2024 г.",
+        "share_text": "Честит Ден на майката! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အမေများနေ့",
+        "hover_text": "၂၀၂၄ အမေများနေ့ (မေ ၂၇)",
+        "share_text": "ပျော်ရွှင်ဖွယ်အမေများနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Mare",
+        "hover_text": "Dia de la Mare (27 de maig) 2024",
+        "share_text": "Feliç Dia de la Mare! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "母親節",
+        "hover_text": "2024 年母親節 (5 月 27 日)",
+        "share_text": "母親節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "母親節",
+        "hover_text": "2024 年母親節",
+        "share_text": "母親節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "母亲节",
+        "hover_text": "2024 年母亲节（5 月 27 日）",
+        "share_text": "母亲节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Majčin dan",
+        "hover_text": "Majčin dan (27. svibnja) 2024.",
+        "share_text": "Sretan Majčin dan! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den matek",
+        "hover_text": "Den matek 2024 (27. května)",
+        "share_text": "Vše nejlepší ke Dni matek! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Mors dag",
+        "hover_text": "Mors dag (27. maj) 2024",
+        "share_text": "Vi fejrer mors dag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Moederdag",
+        "hover_text": "Moederdag 2024 (27 mei)",
+        "share_text": "Fijne Moederdag #GoogleDoodle"
+      },
+      "et": {
+        "query": "Emadepäev",
+        "hover_text": "2024. aasta emadepäev (27. mai)",
+        "share_text": "Head emadepäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Äitienpäivä",
+        "hover_text": "Äitienpäivä (27.5.) 2024",
+        "share_text": "Hyvää äitienpäivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête des Mères",
+        "hover_text": "Fête des Mères 2024 (27 mai)",
+        "share_text": "Bonne fête des Mères ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête des Mères",
+        "hover_text": "Fête des Mères 2024 (27 mai)",
+        "share_text": "Joyeuse fête des Mères! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Nai",
+        "hover_text": "Día da Nai 2024",
+        "share_text": "Feliz Día da Nai! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "დედის დღე",
+        "hover_text": "დედის დღე (27 მაისი) 2024",
+        "share_text": "გილოცავთ დედის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Muttertag",
+        "hover_text": "Muttertag 2024",
+        "share_text": "Alles Gute zum Muttertag! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Γιορτή της Μητέρας",
+        "hover_text": "Γιορτή της Μητέρας (27 Μαΐου) 2024",
+        "share_text": "Πολλές ευχές για τη Γιορτή της Μητέρας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "માતૃ દિવસ",
+        "hover_text": "મધર્સ ડે (27 મે) 2024",
+        "share_text": "મધર્સ ડેની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום האם",
+        "hover_text": "יום האם 2024 (27 במאי)",
+        "share_text": "יום האם שמח! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "मदर्स डे",
+        "hover_text": "मदर्स डे (27 मई) 2024",
+        "share_text": "मदर्स डे की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Anyák napja",
+        "hover_text": "Anyák napja, 2024 (május 27.)",
+        "share_text": "Boldog anyák napját! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Mæðradagurinn",
+        "hover_text": "Mæðradagurinn 2024 (27. maí)",
+        "share_text": "Gleðilegan mæðradag! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Ibu",
+        "hover_text": "Hari Ibu (27 Mei) 2024",
+        "share_text": "Selamat Hari Ibu! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá na Máithreacha",
+        "hover_text": null,
+        "share_text": "Lá na Máithreacha faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa della mamma",
+        "hover_text": "Festa della mamma 2024 (27 maggio)",
+        "share_text": "Felice festa della mamma! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "母の日",
+        "hover_text": "2024 年母の日（5 月 27 日）",
+        "share_text": "母の日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ತಾಯಂದಿರ ದಿನ",
+        "hover_text": "ತಾಯಂದಿರ ದಿನ (ಮೇ 27) 2024",
+        "share_text": "ತಾಯಂದಿರ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Аналар күні",
+        "hover_text": "Аналар күні — 2024 (27 мамыр)",
+        "share_text": "Аналар күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​រំលឹកគុណម្ដាយ",
+        "hover_text": "ទិវា​រំលឹកគុណម្ដាយ (27 ឧសភា) ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​រំលឹកគុណ​ម្ដាយ​! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "어머니날",
+        "hover_text": "2024년 어머니의 날(5월 27일)",
+        "share_text": "어머니날 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Энелер күнү",
+        "hover_text": "Апалар күнү – 2024 (27-май)",
+        "share_text": "Энелер күнү кут болсун! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນແມ່",
+        "hover_text": "ວັນແມ່ປີ 2024 (27 ພຶດສະພາ)",
+        "share_text": "ສຸກສັນວັນແມ່! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Madre",
+        "hover_text": "Día de la Madre 2024 (27 de mayo)",
+        "share_text": "¡Feliz Día de la Madre! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Mātes diena",
+        "hover_text": "Mātes diena — 2024. gada 27. maijs",
+        "share_text": "Sveicam Mātes dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Motinos diena",
+        "hover_text": "Motinos diena (gegužės 27 d.), 2024 m.",
+        "share_text": "Su Motinos diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на мајката",
+        "hover_text": "Ден на мајката (27 мај), 2024 г.",
+        "share_text": "Среќен Ден на мајката! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny reny",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny reny ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Ibu",
+        "hover_text": "Hari Ibu (27 Mei) 2024",
+        "share_text": "Selamat Hari Ibu! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "മാതൃദിനം",
+        "hover_text": "മാതൃദിനം (മെയ് 27) 2024",
+        "share_text": "മാതൃദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "मदर्स डे",
+        "hover_text": "मदर्स डे (२७ मे) २०२४",
+        "share_text": "मदर्स डे च्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Ээжүүдийн өдөр",
+        "hover_text": "2024 оны Ээжүүдийн өдөр (5-р сарын 27)",
+        "share_text": "Ээжүүдийн өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "आमाको मुख हेर्ने दिन",
+        "hover_text": "आमाको मुख हेर्ने दिन (मे २७) २०२४",
+        "share_text": "आमाको मुख हेर्ने दिनको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Morsdag",
+        "hover_text": "Morsdag (27. mai) 2024",
+        "share_text": "Gratulerer med morsdagen! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ମାତୃ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ମାତୃ ଦିବସର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز مادر",
+        "hover_text": "روز مادر - (۲۷ مه) ۲۰۲۴",
+        "share_text": "روز مادر مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Matki",
+        "hover_text": "Dzień Matki 2024",
+        "share_text": "Obchodzimy Dzień Matki #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia das Mães",
+        "hover_text": "Dia das Mães 2024 (27 de maio)",
+        "share_text": "Feliz Dia das Mães! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da mãe",
+        "hover_text": "Dia da Mãe de 2024 (27 de maio)",
+        "share_text": "Feliz dia da mãe! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਮਾਂ ਦਿਵਸ",
+        "hover_text": "ਮਾਂ ਦਿਵਸ (27 ਮਈ) 2024",
+        "share_text": "ਮਾਂ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Mamei",
+        "hover_text": "Ziua Mamei (27 mai) 2024",
+        "share_text": "La mulți ani de Ziua Mamei! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День матери",
+        "hover_text": "День матери (27 мая) – 2024",
+        "share_text": "С Днем матери! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан мајки",
+        "hover_text": "Дан мајки (27. мај) 2024.",
+        "share_text": "Срећан Дан мајки! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan majki",
+        "hover_text": "Dan majki (27. maj) 2024.",
+        "share_text": "Srećan Dan majki! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Manman",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "මව්වරුන්ගේ දිනය",
+        "hover_text": "මව්වරුන්ගේ දිනය (මැයි 27) 2024",
+        "share_text": "ප්‍රීතිමත් මව්වරුන්ගේ දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň matiek",
+        "hover_text": "Deň matiek (27. máj) 2024",
+        "share_text": "Šťastný Deň matiek! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Materinski dan",
+        "hover_text": "Materinski dan 2024 (27. maj)",
+        "share_text": "Vesel materinski dan! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Hooyada",
+        "hover_text": null,
+        "share_text": "Maalinta Hooyada Farxada leh! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Bomme",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día de la Madre",
+        "hover_text": null,
+        "share_text": "¡Feliz Día de la Madre! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Akina Mama",
+        "hover_text": "Siku ya Akina Mama (Tarehe 27 Mei) 2024",
+        "share_text": "Heri za Sikukuu ya Akina Mama! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Mors dag",
+        "hover_text": "Mors dag 2024 (27 maj)",
+        "share_text": "Grattis på mors dag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "அன்னையர் தினம்",
+        "hover_text": "அன்னையர் தினம் (மே 27) 2024",
+        "share_text": "அன்னையர் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "మాతృ దినోత్సవం",
+        "hover_text": "మదర్స్ డే (మే 27) 2024",
+        "share_text": "మాతృ దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันแม่",
+        "hover_text": "วันแม่ปี 2024 (27 พฤษภาคม)",
+        "share_text": "สุขสันต์วันแม่ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la ga Mme",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Anneler Günü",
+        "hover_text": "27 Mayıs 2024 Anneler Günü",
+        "share_text": "Anneler Gününüz Kutlu Olsun. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День матері",
+        "hover_text": "День матері у 2024 році (27 травня)",
+        "share_text": "З Днем матері! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم مادر",
+        "hover_text": "یوم مادر (مئی 27) 2024",
+        "share_text": "یوم مادر مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Onalar kuni",
+        "hover_text": "Onalar kuni (27-may) 2024",
+        "share_text": "Onalar kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày của mẹ",
+        "hover_text": "Ngày của Mẹ năm 2024 (ngày 27 tháng 5)",
+        "share_text": "Mừng ngày của Mẹ! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lomama",
+        "hover_text": "Usuku Lomama (27 Meyi) 2024",
+        "share_text": "Sikufisela Usuku Oluhle Lomama! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Mother's Day",
+    "share_text": "Happy Mother's Day! #GoogleDoodle"
+  },
+  {
     "name": "mothers-day-2024-may-26",
     "title": "Mother's Day 2024 (May 26)",
     "url": "//www.google.com/logos/doodles/2024/mothers-day-2024-may-26-6753651837110367-l.png",
@@ -1017,32 +2015,32 @@
         "share_text": "2024 Indian Premier League Final! #GoogleDoodle"
       },
       "af": {
-        "query": "Eindstryd van die Indiese Premierliga 2024",
+        "query": null,
         "hover_text": "Eindstryd van die Indiese Premierliga 2024",
         "share_text": "Eindstryd van die 2024 Indiese Premierliga! #GoogleDoodle"
       },
       "sq": {
-        "query": "Finalja e Premier League të Indisë, 2024",
+        "query": null,
         "hover_text": "Finalja e Premier League të Indisë, 2024",
         "share_text": "Finalja e Premier League të Indisë, 2024! #GoogleDoodle"
       },
       "am": {
-        "query": "የሕንድ ፕሪምየር ሊግ ፍጻሜዎች 2024",
+        "query": null,
         "hover_text": "የሕንድ ፕሪምየር ሊግ ፍጻሜ 2024",
         "share_text": "2024 የሕንድ ፕሪምየር ሊግ ፍጻሜ! #GoogleDoodle"
       },
       "ar": {
-        "query": "نهائيات الدوري الهندي الممتاز 2024",
+        "query": null,
         "hover_text": "نهائي الدوري الهندي الممتاز 2024",
         "share_text": "سينطلق نهائي الدوري الهندي الممتاز 2024! ‎#GoogleDoodle"
       },
       "hy": {
-        "query": "Հնդկաստանի պրեմիեր լիգայի եզրափակիչ 2024",
+        "query": null,
         "hover_text": "Հնդկաստանի պրեմիեր լիգայի եզրափակիչ 2024",
         "share_text": "Հնդկաստանի պրեմիեր լիգայի եզրափակիչ 2024 #GoogleDoodle"
       },
       "az": {
-        "query": "2024 Hindistan Premyer Liqasının Finalları",
+        "query": null,
         "hover_text": "2024 Hindistan Premyer Liqasının Finalı",
         "share_text": "2024 Hindistan Premyer Liqasının Finalı! #GoogleDoodle"
       },
@@ -1052,112 +2050,112 @@
         "share_text": "২০২৪ ইন্ডিয়ান প্রিমিয়ার লিগ ফাইনাল! #GoogleDoodle"
       },
       "eu": {
-        "query": "2024ko Indian Premier League-ko finala",
+        "query": null,
         "hover_text": "2024ko Indian Premier League-ko finala",
         "share_text": "2024ko Indian Premier League-ko finala #GoogleDoodle"
       },
       "be": {
-        "query": "Гульні фіналу індыйскай прэм’ер-лігі 2024",
+        "query": null,
         "hover_text": "Фінал індыйскай прэм’ер-лігі 2024",
         "share_text": "Фінал індыйскай прэм’ер-лігі 2024! #GoogleDoodle"
       },
       "bs": {
-        "query": "Finale Indijske premijer lige 2024.",
+        "query": null,
         "hover_text": "Finale Indijske premijer lige 2024.",
         "share_text": "Finale Indijske premijer lige 2024! #GoogleDoodle"
       },
       "en-GB": {
-        "query": "Indian Premier League Final 2024",
+        "query": null,
         "hover_text": "Indian Premier League Final 2024",
         "share_text": "2024 Indian Premier League Final! #GoogleDoodle"
       },
       "bg": {
-        "query": "Финали на индийската висша лига 2024 г.",
+        "query": null,
         "hover_text": "Финал на индийската висша лига 2024 г.",
         "share_text": "Финал на индийската висша лига 2024 г.! #GoogleDoodle"
       },
       "my": {
-        "query": "အိန္ဒိယနိုင်ငံ ပရီးမီးယားလိဂ် ဗိုလ်လုပွဲများ ၂၀၂၄",
+        "query": null,
         "hover_text": "အိန္ဒိယနိုင်ငံ ပရီးမီးယားလိဂ် ဗိုလ်လုပွဲများ ၂၀၂၄",
         "share_text": "၂၀၂၄ အိန္ဒိယနိုင်ငံ ပရီးမီးယားလိဂ် ဗိုလ်လုပွဲ။ #GoogleDoodle"
       },
       "ca": {
-        "query": "Final de la Indian Premier League 2024",
+        "query": null,
         "hover_text": "Final de la Indian Premier League 2024",
         "share_text": "Final de la Indian Premier League 2024 #GoogleDoodle"
       },
       "zh-HK": {
-        "query": "2024 年印度板球超級聯賽決賽",
+        "query": null,
         "hover_text": "2024 年印度板球超級聯賽決賽",
         "share_text": "2024 年印度板球超級聯賽決賽！#GoogleDoodle"
       },
       "zh-TW": {
-        "query": "2024 年印度板球超級聯賽決賽",
+        "query": null,
         "hover_text": "2024 年印度板球超級聯賽決賽",
         "share_text": "2024 年印度板球超級聯賽決賽開打！#GoogleDoodle"
       },
       "zh-CN": {
-        "query": "2024 年印度超级板球联赛决赛",
+        "query": null,
         "hover_text": "2024 年印度超级板球联赛决赛",
         "share_text": "2024 年印度超级板球联赛决赛！#GoogleDoodle"
       },
       "hr": {
-        "query": "Indijsko finale Lige prvaka 2024.",
+        "query": null,
         "hover_text": "Indijsko finale Lige prvaka 2024.",
         "share_text": "Indijsko finale Lige prvaka 2024.! #GoogleDoodle"
       },
       "cs": {
-        "query": "Finále Indian Premier League 2024",
+        "query": null,
         "hover_text": "Finále Indian Premier League 2024",
         "share_text": "Hraje se finále Indian Premier League 2024! #GoogleDoodle"
       },
       "da": {
-        "query": "Den indiske Premier League-finale 2024",
+        "query": null,
         "hover_text": "Den indiske Premier League-finale 2024",
         "share_text": "Den indiske Premier League-finale 2024 #GoogleDoodle"
       },
       "nl": {
-        "query": "Indiase Premier League finale 2024",
+        "query": null,
         "hover_text": "Indiase Premier League-finale van 2024",
         "share_text": "De Indiase Premier League-finale van 2024! #GoogleDoodle"
       },
       "et": {
-        "query": "India kõrgliiga finaalid 2024",
+        "query": null,
         "hover_text": "India kõrgliiga finaal 2024",
         "share_text": "India kõrgliiga finaal 2024! #GoogleDoodle"
       },
       "fi": {
-        "query": "Indian Premier League ‑finaali 2024",
+        "query": null,
         "hover_text": "Indian Premier League ‑finaali 2024",
         "share_text": "Indian Premier League ‑finaali 2024 #GoogleDoodle"
       },
       "fr": {
-        "query": "Finale de l'Indian Premier League 2024",
+        "query": null,
         "hover_text": "Finale de l'Indian Premier League 2024",
         "share_text": "Finale de l'Indian Premier League 2024 ! #GoogleDoodle"
       },
       "fr-CA": {
-        "query": "Finales 2024 de l'Indian Premier League",
+        "query": null,
         "hover_text": "Finales 2024 de l'Indian Premier League",
         "share_text": "Finales 2024 de l'Indian Premier League! #GoogleDoodle"
       },
       "gl": {
-        "query": "Finais da Premier League india 2024",
+        "query": null,
         "hover_text": "Final da Premier League india 2024",
         "share_text": "Final da Premier League india 2024! #GoogleDoodle"
       },
       "ka": {
-        "query": "ინდოეთის პრემიერლიგის ფინალი — 2024",
+        "query": null,
         "hover_text": "ინდოეთის პრემიერლიგის ფინალი — 2024",
         "share_text": "ინდოეთის პრემიერლიგის ფინალი — 2024 #GoogleDoodle"
       },
       "de": {
-        "query": "Finale Indian Premier League 2024",
+        "query": null,
         "hover_text": "Finale der Indian Premier League 2024",
         "share_text": "Finale der Indian Premier League 2024 #GoogleDoodle"
       },
       "el": {
-        "query": "Τελικοί ινδικής Premier League 2024",
+        "query": null,
         "hover_text": "Τελικός ινδικής Premier League 2024",
         "share_text": "Τελικός ινδικής Premier League 2024! #GoogleDoodle"
       },
@@ -1172,7 +2170,7 @@
         "share_text": ""
       },
       "iw": {
-        "query": "Indian Premier League Finals 2024",
+        "query": null,
         "hover_text": "גמר ליגת העל ההודית 2024",
         "share_text": "גמר ליגת העל ההודית 2024 GoogleDoodle#"
       },
@@ -1182,17 +2180,17 @@
         "share_text": "2024 इंडियन प्रीमियर लीग फ़ाइनल! #GoogleDoodle"
       },
       "hu": {
-        "query": "Az Indian Premier League döntői, 2024",
+        "query": null,
         "hover_text": "Az Indian Premier League döntője, 2024",
         "share_text": "Az Indian Premier League döntője, 2024! #GoogleDoodle"
       },
       "is": {
-        "query": "Úrslitakeppnin í indversku úrvalsdeildinni 2024",
+        "query": null,
         "hover_text": "Úrslitakeppnin í indversku úrvalsdeildinni 2024",
         "share_text": "Úrslitakeppnin í indversku úrvalsdeildinni 2024! #GoogleDoodle"
       },
       "id": {
-        "query": "Final Indian Premier League 2024",
+        "query": null,
         "hover_text": "Final Indian Premier League 2024",
         "share_text": "Final Indian Premier League 2024 #GoogleDoodle"
       },
@@ -1202,12 +2200,12 @@
         "share_text": ""
       },
       "it": {
-        "query": "Finali di Indian Premier League 2024",
+        "query": null,
         "hover_text": "Finali di Indian Premier League 2024",
         "share_text": "Finali di Indian Premier League 2024! #GoogleDoodle"
       },
       "ja": {
-        "query": "2024 年インディアン プレミアリーグ決勝",
+        "query": null,
         "hover_text": "2024 年インディアン プレミアリーグ決勝",
         "share_text": "2024 年インディアン プレミアリーグ決勝 #GoogleDoodle"
       },
@@ -1217,47 +2215,47 @@
         "share_text": "2024 ರ ಇಂಡಿಯನ್ ಪ್ರೀಮಿಯರ್ ಲೀಗ್ ಫೈನಲ್! #GoogleDoodle"
       },
       "kk": {
-        "query": "2024 жылғы Үндістан премьер-лигасының финалы",
+        "query": null,
         "hover_text": "2024 жылғы Үндістан премьер-лигасының финалы",
         "share_text": "2024 жылғы Үндістан премьер-лигасының финалы! #GoogleDoodle"
       },
       "km": {
-        "query": "វគ្គផ្ដាច់ព្រ័ត្រ Indian Premier League ឆ្នាំ 2024",
+        "query": null,
         "hover_text": "វគ្គផ្ដាច់ព្រ័ត្រ Indian Premier League ឆ្នាំ 2024",
         "share_text": "វគ្គផ្ដាច់ព្រ័ត្រ Indian Premier League ឆ្នាំ 2024! #GoogleDoodle"
       },
       "ko": {
-        "query": "2024년 인도 프리미어 리그 결승전",
+        "query": null,
         "hover_text": "2024년 인도 프리미어 리그 결승전",
         "share_text": "2024년 인도 프리미어 리그 결승전 #GoogleDoodle"
       },
       "ky": {
-        "query": "Индиянын Премьер-лигасынын финалдык оюндары — 2024",
+        "query": null,
         "hover_text": "Индиянын Премьер-лигасынын финалдык оюну — 2024",
         "share_text": "Индиянын Премьер-лигасынын финалдык оюндары — 2024! #GoogleDoodle"
       },
       "lo": {
-        "query": "ອິນເດຍພຣີເມຍຫຼີກຮອບຊິງຊະນະເລີດປີ 2024",
+        "query": null,
         "hover_text": "ອິນເດຍພຣີເມຍຫຼີກຮອບຊິງຊະນະເລີດປີ 2024",
         "share_text": "ອິນເດຍພຣີເມຍຫຼີກຮອບຊິງຊະນະເລີດປີ 2024! #GoogleDoodle"
       },
       "es-419": {
-        "query": "Final de la Liga Premier de India 2024",
+        "query": null,
         "hover_text": "Final de la Liga Premier de India 2024",
         "share_text": "Final de la Liga Premier de India 2024 #GoogleDoodle"
       },
       "lv": {
-        "query": "Indijas premjerlīgas finālspēles — 2024",
+        "query": null,
         "hover_text": "Indijas premjerlīgas fināls — 2024",
         "share_text": "Indijas premjerlīgas fināls — 2024! #GoogleDoodle"
       },
       "lt": {
-        "query": "2024 m. Indijos aukščiausiosios kriketo lygos finalas",
+        "query": null,
         "hover_text": "2024 m. Indijos aukščiausiosios kriketo lygos finalas",
         "share_text": "2024 m. Indijos aukščiausiosios kriketo lygos finalas! #GoogleDoodle"
       },
       "mk": {
-        "query": "Финале во Премиер лигата на Индија, 2024 г.",
+        "query": null,
         "hover_text": "Финале во Премиер лигата на Индија, 2024 г.",
         "share_text": "Финале во Премиер лигата на Индија, 2024 г.! #GoogleDoodle"
       },
@@ -1267,7 +2265,7 @@
         "share_text": ""
       },
       "ms": {
-        "query": "Perlawanan Akhir Liga Perdana India 2024",
+        "query": null,
         "hover_text": "Perlawanan Akhir Liga Perdana India 2024",
         "share_text": "Perlawanan Akhir Liga Perdana India 2024! #GoogleDoodle"
       },
@@ -1287,7 +2285,7 @@
         "share_text": "२०२४ इंडियन प्रीमियर लीगचा अंतिम सामना! #GoogleDoodle"
       },
       "mn": {
-        "query": "2024 оны Энэтхэгийн премьер лигийн шувтаргын тоглолтууд",
+        "query": null,
         "hover_text": "2024 оны Энэтхэгийн премьер лигийн шувтаргын тоглолт",
         "share_text": "2024 оны Энэтхэгийн премьер лигийн шувтаргын тоглолт! #GoogleDoodle"
       },
@@ -1297,7 +2295,7 @@
         "share_text": "इन्डियन प्रिमियर लिग २०२४ को फाइनल! #GoogleDoodle"
       },
       "no": {
-        "query": "Finale i Indian Premier League 2024",
+        "query": null,
         "hover_text": "Finale i Indian Premier League 2024",
         "share_text": "Finale i Indian Premier League 2024! #GoogleDoodle"
       },
@@ -1322,22 +2320,22 @@
         "share_text": ""
       },
       "fa": {
-        "query": "بازی‌های نهایی لیگ برتر ۲۰۲۴ هند",
+        "query": null,
         "hover_text": "بازی نهایی لیگ برتر ۲۰۲۴ هند",
         "share_text": "بازی نهایی لیگ برتر ۲۰۲۴ هند! ‎#GoogleDoodle"
       },
       "pl": {
-        "query": "Finały indyjskiej Premier League 2024",
+        "query": null,
         "hover_text": "Finał indyjskiej Premier League 2024",
         "share_text": "Finał indyjskiej Premier League 2024 #GoogleDoodle"
       },
       "pt-BR": {
-        "query": "Finais da Indian Premier League 2024",
+        "query": null,
         "hover_text": "Final da Indian Premier League 2024",
         "share_text": "Final da Indian Premier League 2024 #GoogleDoodle"
       },
       "pt-PT": {
-        "query": "Fase Final da Indian Premier League de 2024",
+        "query": null,
         "hover_text": "Final da Indian Premier League de 2024",
         "share_text": "Final da Indian Premier League de 2024! #GoogleDoodle"
       },
@@ -1347,7 +2345,7 @@
         "share_text": "2024 ਇੰਡੀਅਨ ਪ੍ਰੀਮੀਅਰ ਲੀਗ ਦਾ ਫਾਈਨਲ! #GoogleDoodle"
       },
       "ro": {
-        "query": "Finala Indian Premier League 2024",
+        "query": null,
         "hover_text": "Finala Indian Premier League 2024",
         "share_text": "A început finala Indian Premier League 2024! #GoogleDoodle"
       },
@@ -1357,17 +2355,17 @@
         "share_text": ""
       },
       "ru": {
-        "query": "Финал Индийской премьер-лиги – 2024",
+        "query": null,
         "hover_text": "Финал Индийской премьер-лиги – 2024",
         "share_text": "Финал Индийской премьер-лиги – 2024 #GoogleDoodle"
       },
       "sr": {
-        "query": "Финале индијске премијер лиге 2024.",
+        "query": null,
         "hover_text": "Финале индијске премијер лиге 2024.",
         "share_text": "Финале индијске премијер лиге 2024! #GoogleDoodle"
       },
       "sr-Latn": {
-        "query": "Finale indijske premijer lige 2024.",
+        "query": null,
         "hover_text": "Finale indijske premijer lige 2024.",
         "share_text": "Finale indijske premijer lige 2024! #GoogleDoodle"
       },
@@ -1387,17 +2385,17 @@
         "share_text": ""
       },
       "si": {
-        "query": "2024 ඉන්දීය ප්‍රිමියර් ලීග් අවසන් මහා තරගය",
+        "query": null,
         "hover_text": "2024 ඉන්දීය ප්‍රිමියර් ලීග් අවසන් මහා තරගය",
         "share_text": "2024 ඉන්දීය ප්‍රිමියර් ලීග් අවසන් මහා තරගය! #GoogleDoodle"
       },
       "sk": {
-        "query": "Finále Indian Premier League 2024",
+        "query": null,
         "hover_text": "Finále Indian Premier League 2024",
         "share_text": "Finále Indian Premier League 2024. #GoogleDoodle"
       },
       "sl": {
-        "query": "Finale indijske prve lige IPL 2024",
+        "query": null,
         "hover_text": "Finale indijske prve lige IPL 2024",
         "share_text": "Finale indijske prve lige IPL 2024! #GoogleDoodle"
       },
@@ -1412,17 +2410,17 @@
         "share_text": ""
       },
       "es": {
-        "query": "Final de la Liga Premier de la India 2024",
+        "query": null,
         "hover_text": "Final de la Liga Premier de la India 2024",
         "share_text": "Hoy se celebra la final de la Liga Premier de la India 2024 #GoogleDoodle"
       },
       "sw": {
-        "query": "Fainali za Ligi Kuu ya India 2024",
+        "query": null,
         "hover_text": "Fainali ya Ligi Kuu ya India 2024",
         "share_text": "Fainali ya Ligi Kuu ya India 2024! #GoogleDoodle"
       },
       "sv": {
-        "query": "Final i indiska Premier League 2024",
+        "query": null,
         "hover_text": "Final i indiska Premier League 2024",
         "share_text": "Final i indiska Premier League 2024 #GoogleDoodle"
       },
@@ -1442,7 +2440,7 @@
         "share_text": "2024 ఇండియన్ ప్రీమియర్ లీగ్ ఫైనల్! #GoogleDoodle"
       },
       "th": {
-        "query": "อินเดียนพรีเมียร์ลีกรอบชิงชนะเลิศปี 2024",
+        "query": null,
         "hover_text": "อินเดียนพรีเมียร์ลีกรอบชิงชนะเลิศปี 2024",
         "share_text": "อินเดียนพรีเมียร์ลีกรอบชิงชนะเลิศปี 2024 #GoogleDoodle"
       },
@@ -1452,7 +2450,7 @@
         "share_text": ""
       },
       "tr": {
-        "query": "2024 Hindistan Premier Ligi Finalleri",
+        "query": null,
         "hover_text": "2024 Hindistan Premier Ligi Finali",
         "share_text": "2024 Hindistan Premier Ligi Finali oynanıyor. #GoogleDoodle"
       },
@@ -1462,22 +2460,22 @@
         "share_text": ""
       },
       "uk": {
-        "query": "Фінал індійської прем’єр-ліги у 2024 році",
+        "query": null,
         "hover_text": "Фінал індійської прем’єр-ліги у 2024 році",
         "share_text": "Фінал індійської прем’єр-ліги у 2024 році! #GoogleDoodle"
       },
       "ur": {
-        "query": "انڈین پریمیئر لیگ فائنلز 2024",
+        "query": null,
         "hover_text": "انڈین پریمیئر لیگ فائنل 2024",
         "share_text": "انڈین پریمیئر لیگ فائنل 2024! GoogleDoodle#"
       },
       "uz": {
-        "query": "Hindiston Premyer ligasi final oʻyinlari 2024",
+        "query": null,
         "hover_text": "Hindiston Premyer ligasi finali 2024",
         "share_text": "Hindiston Premyer ligasi finali 2024! #GoogleDoodle"
       },
       "vi": {
-        "query": "Vòng chung kết giải Ngoại hạng Cricket Ấn Độ năm 2024",
+        "query": null,
         "hover_text": "Chung kết giải Ngoại hạng Cricket Ấn Độ năm 2024",
         "share_text": "Chung kết giải Ngoại hạng Cricket Ấn Độ năm 2024! #GoogleDoodle"
       },
@@ -1487,7 +2485,7 @@
         "share_text": ""
       },
       "zu": {
-        "query": "Amanqamu E-Indian Premier League yango-2024",
+        "query": null,
         "hover_text": "Amanqamu E-Indian Premier League yango-2024",
         "share_text": "Amanqamu E-Indian Premier League yango-2024! #GoogleDoodle"
       }
