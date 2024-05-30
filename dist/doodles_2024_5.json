@@ -1,5 +1,1003 @@
 [
   {
+    "name": "croatia-statehood-day-2024",
+    "title": "Croatia Statehood Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/croatia-statehood-day-2024-6753651837110228.2-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/znDqeggihn-jP6HvN6OWdTe-8wLg_bG4XVQzmGLBEyQ8AKmyM7k-M15gpYWoReDu87Giar7HusIZegarySj1J0jh5PJ_1zrFl8CuLGbLa66ZnuZ4sMmrVOw",
+    "high_res_url": "//www.google.com/logos/doodles/2024/croatia-statehood-day-2024-6753651837110228.2-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      5,
+      30
+    ],
+    "translations": {
+      "en": {
+        "query": "Croatia Statehood Day",
+        "hover_text": "Croatia Statehood Day 2024",
+        "share_text": "Happy Statehood Day, Croatia! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Kroasië se Nasieskapdag",
+        "hover_text": "Kroasië se Nasieskapdag 2024",
+        "share_text": "Gelukkige Nasieskapdag, Kroasië! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë së Kroacisë",
+        "hover_text": "Dita e Krijimit të Shtetit të Kroacisë, 2024",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Kroaci! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የክሮኤሺያ ሉዓላዊነት ቀን",
+        "hover_text": "የክሮሺያ የሉዓላዊነት ቀን 2024",
+        "share_text": "መልካም የሉዓላዊነት ቀን ክሮኤሺያ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "يوم الدولة في كرواتيا",
+        "hover_text": "يوم الدولة في كرواتيا لعام 2024",
+        "share_text": "نتمنّى يوم دولة سعيدًا لكرواتيا. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Խորվաթիայի պետականության օր",
+        "hover_text": "Խորվաթիայի պետականության օր 2024",
+        "share_text": "Շնորհավո՛ր Խորվաթիայի պետականության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Xorvatiyanın Dövlətçilik Günü",
+        "hover_text": "2024 Xorvatiyanın Dövlətçilik Günü",
+        "share_text": "Dövlətçilik Günün Mübarək, Xorvatiya! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ক্রোয়েশিয়ার স্টেটহুড দিবস",
+        "hover_text": "ক্রোয়েশিয়ার স্টেটহুড ডে ২০২৪",
+        "share_text": "স্টেটহুড দিবসের শুভেচ্ছা, ক্রোয়েশিয়া! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Kroaziako Egun Nazionala",
+        "hover_text": "2024ko Kroaziako Egun Nazionala",
+        "share_text": "Egun Nazional zoriontsua izan, Kroazia! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень дзяржаўнасці Харватыі",
+        "hover_text": "Дзень дзяржаўнасці Харватыі 2024",
+        "share_text": "З Днём дзяржаўнасці, Харватыя! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan državnosti Hrvatske",
+        "hover_text": "Dan državnosti Hrvatske 2024.",
+        "share_text": "Sretan Dan državnosti, Hrvatska! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Croatia Statehood Day",
+        "hover_text": "Croatia Statehood Day 2024",
+        "share_text": "Happy Statehood Day, Croatia! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на държавността на Хърватия",
+        "hover_text": "Ден на държавността на Хърватия 2024 г.",
+        "share_text": "Честит Ден на държавността на Хърватия! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ခရိုအေးရှားနိုင်ငံ ပြည်ထောင်စုနေ့",
+        "hover_text": "၂၀၂၄ ခရိုအေးရှား နိုင်ငံထူထောင်ခြင်းနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် ပြည်ထောင်စုနေ့ဖြစ်ပါစေ၊ ခရိုအေးရှား။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de l'Estat de Croàcia",
+        "hover_text": "Dia de l'Estat de Croàcia 2024",
+        "share_text": "Feliç Dia de l'Estat, Croàcia! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "克羅地亞建國日",
+        "hover_text": "2024 年克羅地亞建國日",
+        "share_text": "克羅地亞，建國日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "克羅埃西亞建國紀念日",
+        "hover_text": "2024 年克羅埃西亞建國紀念日",
+        "share_text": "克羅埃西亞，建國紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "克罗地亚建国日",
+        "hover_text": "2024 年克罗地亚建国日",
+        "share_text": "克罗地亚，建国日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan državnosti Republike Hrvatske",
+        "hover_text": "Dan državnosti Republike Hrvatske 2024.",
+        "share_text": "Sretan Dan državnosti, Hrvatska! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den státnosti Chorvatska",
+        "hover_text": "Den státnosti Chorvatska 2024",
+        "share_text": "Vše nejlepší ke Dni státnosti, Chorvatsko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Kroatiens uafhængighedsdag",
+        "hover_text": "Kroatiens uafhængighedsdag 2024",
+        "share_text": "Glædelig uafhængighedsdag, Kroatien! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Soevereiniteitsdag Kroatië",
+        "hover_text": "Soevereiniteitsdag Kroatië 2024",
+        "share_text": "Fijne Soevereiniteitsdag, Kroatië #GoogleDoodle"
+      },
+      "et": {
+        "query": "Horvaatia omariikluse päev",
+        "hover_text": "Horvaatia 2024. aasta omariikluse päev",
+        "share_text": "Head omariikluse päeva, Horvaatia! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Kroatian valtion päivä",
+        "hover_text": "Kroatian valtion päivä 2024",
+        "share_text": "Hyvää valtion päivää, Kroatia! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête nationale de la Croatie",
+        "hover_text": "Fête nationale de la Croatie 2024",
+        "share_text": "Fête nationale de la Croatie ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête nationale de la Croatie",
+        "hover_text": "Fête nationale de la Croatie 2024",
+        "share_text": "Joyeuse fête nationale, Croatie! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día do Estado de Croacia",
+        "hover_text": "Día do Estado de Croacia 2024",
+        "share_text": "Feliz Día do Estado, Croacia! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ხორვატიის სახელმწიფოებრიობის დღე",
+        "hover_text": "ხორვატიის სახელმწიფოებრიობის დღე — 2024",
+        "share_text": "ვულოცავთ ხორვატიას სახელმწიფოებრიობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Tag der Staatlichkeit Kroatiens",
+        "hover_text": "Tag der Staatlichkeit Kroatiens 2024",
+        "share_text": "Alles Gute zum Tag der Staatlichkeit in Kroatien! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Κράτους Κροατίας",
+        "hover_text": "Ημέρα του Κράτους της Κροατίας 2024",
+        "share_text": "Χαρούμενη Ημέρα Κράτους, Κροατία! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ક્રોએશિયાનો રાષ્ટ્રપદ દિવસ",
+        "hover_text": "ક્રોએશિયાનો રાષ્ટ્રપદ દિવસ 2024",
+        "share_text": "ક્રોએશિયાના રાષ્ટ્રપદ દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום המדינה בקרואטיה",
+        "hover_text": "יום המדינה בקרואטיה 2024",
+        "share_text": "יום מדינה שמח קרואטיה! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "क्रोएशिया राजकीय दिवस",
+        "hover_text": "क्रोएशिया का स्टेटहुड डे 2024",
+        "share_text": "राजकीय दिवस की शुभकामनाएं, क्रोएशिया! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A Köztársaság napja Horvátországban",
+        "hover_text": "A köztársaság napja Horvátországban, 2024",
+        "share_text": "Boldog Köztársaság napját, Horvátország! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Króatíu",
+        "hover_text": "Sjálfstæðisdagur Króatíu 2024",
+        "share_text": "Gleðilegan sjálfstæðisdag, Króatía! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kenegaraan Kroasia",
+        "hover_text": "Hari Kenegaraan Kroasia 2024",
+        "share_text": "Selamat Hari Kenegaraan, Kroasia! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Státachta na Cróite",
+        "hover_text": null,
+        "share_text": "Lá Státachta na Cróite faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa nazionale della Croazia",
+        "hover_text": "Festa nazionale della Croazia 2024",
+        "share_text": "Buona festa nazionale, Croazia! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "クロアチア独立記念日",
+        "hover_text": "2024 年クロアチア建国記念日",
+        "share_text": "2021 年クロアチア独立記念日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಕ್ರೋಯೇಶಿಯಾ ರಾಜ್ಯತ್ವ ದಿನಾಚರಣೆ",
+        "hover_text": "ಕ್ರೋಯೇಶಿಯಾ ಸ್ಟೇಟ್‌ಹುಡ್ ಡೇ 2024",
+        "share_text": "ರಾಜ್ಯತ್ವ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಕ್ರೋಯೇಶಿಯಾ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Хорватия Мемлекеттілік күні",
+        "hover_text": "Хорватияның Мемлекеттілік күні — 2024",
+        "share_text": "Мемлекеттілік күні құтты болсын, Хорватия! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាបុណ្យ Statehood នៅក្រូអាស៊ី",
+        "hover_text": "ទិវារំលឹកខួបនៃការបង្កើតរដ្ឋក្រូអាស៊ីឆ្នាំ 2024",
+        "share_text": "អបអរទិវាបុណ្យ Statehood នៅក្រូអាស៊ី! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "크로아티아 건국 기념일",
+        "hover_text": "2024년 크로아티아 건국 기념일",
+        "share_text": "크로아티아 건국 기념일 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Хорватиянын Мамлекеттүүлүк күнү",
+        "hover_text": "Хорватиянын Мамлекеттүүлүк күнү – 2024",
+        "share_text": "Мамлекеттүүлүк күнүң менен, Хорватия! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນສະຖາປະນາລັດໂຄຣເອເຊຍ",
+        "hover_text": "ວັນສະຖາປະນາລັດໂຄຣເອເຊຍ 2024",
+        "share_text": "ສຸກສັນວັນສະຖາປະນາລັດໂຄຣເອເຊຍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día del Estado de Croacia",
+        "hover_text": "Día del Estado de Croacia 2024",
+        "share_text": "¡Feliz Día del Estado, Croacia! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Horvātijas valstiskuma diena",
+        "hover_text": "Horvātijas valstiskuma diena — 2024",
+        "share_text": "Sveicam valstiskuma dienā, Horvātija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Kroatijos valstybingumo diena",
+        "hover_text": "Kroatijos valstybingumo diena, 2024 m.",
+        "share_text": "Sveikiname Kroatiją su valstybingumo diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на државноста на Хрватска",
+        "hover_text": "Ден на државноста на Хрватска, 2024 г.",
+        "share_text": "Среќен Ден на државноста, Хрватска! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fanjakana any Kroasia",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny fanjakana ry Kroasia ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kenegaraan Croatia",
+        "hover_text": "Hari Kenegaraan Croatia 2024",
+        "share_text": "Selamat Menyambut Hari Kenegaraan, Croatia! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ക്രൊയേഷ്യ ദേശീയ ദിനം",
+        "hover_text": "ക്രൊയേഷ്യൻ ദേശീയ ദിനം 2024",
+        "share_text": "ദേശീയ ദിനാശംസകൾ, ക്രൊയേഷ്യ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "क्रोएशियाचा स्टेटहूड डे",
+        "hover_text": "क्रोएशियाचा स्टेटहूड डे २०२४",
+        "share_text": "स्टेटहूड डेच्या शुभेच्छा, क्रोएशिया! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Хорват улсын Төрт улсын өдөр",
+        "hover_text": "2024 оны Хорват Улсын Төрт улсын өдөр",
+        "share_text": "Хорват улсын Төрт улсын өдрийн баярын мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "क्रोएसियाको राजकीय दिवस",
+        "hover_text": "क्रोएसियाको राजकीय दिवस २०२४",
+        "share_text": "राजकीय दिवसको शुभकामना, क्रोएसिया! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Kroatias selvstendighetsdag",
+        "hover_text": "Kroatias selvstendighetsdag 2024",
+        "share_text": "Gratulerer med selvstendighetsdagen, Kroatia! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "କ୍ରୋଏସିଆ ରାଜ୍ୟସ୍ତରୀୟ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ରାଜ୍ୟସ୍ତରୀୟ ଦିବସର ଶୁଭେଚ୍ଛା, କ୍ରୋଏସିଆ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال ملی کرواسی",
+        "hover_text": "روز استقلال کرواسی - ۲۰۲۴",
+        "share_text": "روز استقلال ملی کرواسی مبارک! #GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Państwowy w Chorwacji",
+        "hover_text": "Dzień Państwowości Chorwacji 2024",
+        "share_text": "Chorwacja obchodzi Dzień Państwowy #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia do Estado da Croácia",
+        "hover_text": "Dia do Estado da Croácia 2024",
+        "share_text": "Feliz Dia do Estado, Croácia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia do Estado da Croácia",
+        "hover_text": "Dia do Estado Croata de 2024",
+        "share_text": "Feliz Dia do Estado, Croácia! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਕ੍ਰੋਏਸ਼ੀਆ ਦਾ ਰਾਜ ਦਿਵਸ",
+        "hover_text": "ਕ੍ਰੋਏਸ਼ੀਆ ਦਾ ਰਾਜ ਦਿਵਸ 2024",
+        "share_text": "ਰਾਜ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਕ੍ਰੋਏਸ਼ੀਆ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Statului Croația",
+        "hover_text": "Ziua Statului Croația – 2024",
+        "share_text": "La mulți ani de Ziua Statului, Croația! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День государственности Хорватии",
+        "hover_text": "День государственности Хорватии – 2024",
+        "share_text": "День государственности Хорватии #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан државности Хрватске",
+        "hover_text": "Дан државности Хрватске 2024.",
+        "share_text": "Честитамо Дан државности Хрватској! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan državnosti Hrvatske",
+        "hover_text": "Dan državnosti Hrvatske 2024.",
+        "share_text": "Čestitamo Dan državnosti Hrvatskoj! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen leta Croatia",
+        "hover_text": null,
+        "share_text": "Bonn zournen Leta, Croatia! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ක්‍රොඒෂියාවේ ජාතික දිනය",
+        "hover_text": "ක්‍රොඒෂියාවේ රාජ්‍යත්ව දිනය 2024",
+        "share_text": "ප්‍රීතිමත් ජාතික දිනයක්, ක්‍රොඒෂියාව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň štátnosti Chorvátska",
+        "hover_text": "Deň štátnosti Chorvátska 2024",
+        "share_text": "Šťastný Deň štátnosti, Chorvátsko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Hrvaški dan državnosti",
+        "hover_text": "Hrvaški dan državnosti 2024",
+        "share_text": "Vesel dan državnosti, Hrvaška! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Qaranimada Croatia",
+        "hover_text": null,
+        "share_text": "Maalinta Qaranimada oo Farxada leh, Croatia! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Croatia Statehood Day",
+        "hover_text": null,
+        "share_text": "Mahlohonolo a Letsatsi la Statehood, Croatia! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día del Estado de Croacia",
+        "hover_text": "Día del Estado de Croacia 2024",
+        "share_text": "¡Feliz Día del Estado, Croacia! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Majimbo ya Korasia",
+        "hover_text": "Sikukuu ya Utaifa, Korasia 2024",
+        "share_text": "Heri ya Sikukuu ya Majimbo, Korasia! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Kroatiens nationaldag",
+        "hover_text": "Kroatiens nationaldag 2024",
+        "share_text": "Vi firar Kroatiens nationaldag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "குரோஷியாவின் தேசிய தினம்",
+        "hover_text": "குரோஷியாவின் தேசிய தினம் 2024",
+        "share_text": "குரோஷியாவின் தேசிய தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "క్రొయేషియా స్టేట్‌హుడ్ దినోత్సవం",
+        "hover_text": "క్రొయేషియా జాతీయ దినోత్సవం 2024",
+        "share_text": "క్రొయేషియా, స్టేట్‌హుడ్ దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันสถาปนารัฐโครเอเชีย",
+        "hover_text": "วันสถาปนารัฐโครเอเชียปี 2024",
+        "share_text": "สุขสันต์วันสถาปนารัฐโครเอเชีย #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la go Nna Naga ga Croatia",
+        "hover_text": null,
+        "share_text": "Itumeleleng Letsatsi la go Nna Naga, Croatia! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Hırvatistan Devlet Günü",
+        "hover_text": "2024 Hırvatistan Milli Günü",
+        "share_text": "Hırvatistan Devlet Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День державності Хорватії",
+        "hover_text": "День державності Хорватії у 2024 році",
+        "share_text": "З Днем державності, Хорватіє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "کروشیا کا یوم ریاست",
+        "hover_text": "کروشیا کا یوم ریاست 2024",
+        "share_text": "یوم ریاست مبارک کروشیا! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Xorvatiya davlatchilik kuni",
+        "hover_text": "Xorvatiya Davlatchilik kuni 2024",
+        "share_text": "Davlatchilik kuning muborak, Xorvatiya! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Độc lập Croatia",
+        "hover_text": "Ngày Độc lập Croatia năm 2024",
+        "share_text": "Chào mừng Ngày Độc lập, Croatia! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lwe-Statehood lwase-Croatia",
+        "hover_text": "Usuku Lokuzimela lwe-Croatia lwango-2024",
+        "share_text": "Jabulela Usuku lwe-Statehood, Croatia! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Croatia Statehood Day",
+    "share_text": "Happy Statehood Day, Croatia! #GoogleDoodle"
+  },
+  {
+    "name": "double-cicada-brood-2024",
+    "title": "Double Cicada Brood 2024",
+    "url": "//www.google.com/logos/doodles/2024/double-cicada-brood-2024-6753651837110499-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/ohI6oxRbOatZ-lIbRPJpDznxr5XP2y2jSQwLoE_7SrOFcAtEM1z7wITbFbyU_kjGUE3aUJvlrrk34NLI8z1agNQCVRYi1zNjJ2RAK8u-uk9m9qyuZ8TQ5w",
+    "high_res_url": "//www.google.com/logos/doodles/2024/double-cicada-brood-2024-6753651837110499-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      5,
+      29
+    ],
+    "translations": {
+      "en": {
+        "query": "Double Cicada Brood 2024",
+        "hover_text": "Double Cicada Brood 2024",
+        "share_text": "Double Cicada Brood 2024! #GoogleDoodle"
+      },
+      "af": {
+        "query": "2024 se dubbele sonbesiebroeisel",
+        "hover_text": "2024 se dubbele sonbesiebroeisel",
+        "share_text": "2024 se dubbele sonbesiebroeisel! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Shumimi i dy specieve të gjinkallave, 2024",
+        "hover_text": "Shumimi i dy specieve të gjinkallave, 2024",
+        "share_text": "Shumimi i dy specieve të gjinkallave, 2024! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ድርብ ሲካዳ ብሩድ 2024",
+        "hover_text": "ድርብ ሲካዳ ብሩድ 2024",
+        "share_text": "ድርብ ሲካዳ ብሩድ 2024! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "حدث تفقيس نوعين من الزيزان الدورية في العام 2024",
+        "hover_text": "حدث تفقيس نوعين من الزيزان الدورية في العام 2024",
+        "share_text": "نحتفل اليوم بحدث تفقيس نوعين من الزيزان الدورية في العام 2024! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ցիկադների կրկնակի հայտնություն 2024",
+        "hover_text": "Ցիկադների կրկնակի հայտնություն 2024",
+        "share_text": "Ցիկադների կրկնակի հայտնություն 2024 #GoogleDoodle"
+      },
+      "az": {
+        "query": "2024 İkiqat Cicada Brood",
+        "hover_text": "2024 İkiqat Cicada Brood",
+        "share_text": "2024 İkiqat Cicada Brood! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "সিকেডার ডবল ব্রুড ২০২৪",
+        "hover_text": "সিকেডার ডবল ব্রুড ২০২৪",
+        "share_text": "সিকেডার ডবল ব্রুড ২০২৪! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "2024ko txitxarren kumaldi bikoitza",
+        "hover_text": "2024ko txitxarren kumaldi bikoitza",
+        "share_text": "2024ko txitxarren kumaldi bikoitza #GoogleDoodle"
+      },
+      "be": {
+        "query": "Двайны вывадак цыкад у 2024 годзе",
+        "hover_text": "Двайны вывадак цыкад у 2024 годзе",
+        "share_text": "Двайны вывадак цыкад у 2024 годзе! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Double Cicada Brood 2024.",
+        "hover_text": "Double Cicada Brood 2024.",
+        "share_text": "Double Cicada Brood 2024! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Double cicada brood 2024",
+        "hover_text": "Double cicada brood 2024",
+        "share_text": "Double cicada brood 2024! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Двойно размножаване на цикадите през 2024 г.",
+        "hover_text": "Двойно размножаване на цикадите през 2024 г.",
+        "share_text": "Двойно размножаване на цикадите през 2024 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "တစ်မြုံပေါက် ပုစဉ်းရင်ကွဲနှစ်ကောင်ပွဲ ၂၀၂၄",
+        "hover_text": "တစ်မြုံပေါက် ပုစဉ်းရင်ကွဲနှစ်ကောင်ပွဲ ၂၀၂၄",
+        "share_text": "တစ်မြုံပေါက် ပုစဉ်းရင်ကွဲနှစ်ကောင်ပွဲ ၂၀၂၄။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Doble cria de cigales de 2024",
+        "hover_text": "Doble cria de cigales de 2024",
+        "share_text": "Doble cria de cigales de 2024 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "2024 年兩種蟬群破土而出",
+        "hover_text": "2024 年兩種蟬群破土而出",
+        "share_text": "2024 年兩種蟬群破土而出！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "2024 年兩種週期蟬同時破土",
+        "hover_text": "2024 年兩種週期蟬同時破土",
+        "share_text": "2024 年兩種週期蟬同時破土！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "2024 年两种周期蝉同时破土",
+        "hover_text": "2024 年两种周期蝉同时破土",
+        "share_text": "2024 年两种周期蝉同时破土！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Double Cicada Brood 2024.",
+        "hover_text": "Double Cicada Brood 2024.",
+        "share_text": "Double Cicada Brood 2024.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Dvojitá snůška cikád 2024",
+        "hover_text": "Dvojitá snůška cikád 2024",
+        "share_text": "Dvojitá snůška cikád 2024! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Double Cicada Brood 2024",
+        "hover_text": "Double Cicada Brood 2024",
+        "share_text": "Double Cicada Brood 2024 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Dubbele cicadezwerm 2024",
+        "hover_text": "Dubbele cicadezwerm 2024",
+        "share_text": "Een dubbele cicadezwerm in 2024! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Kahe tsikaadide pesakonna kattumine 2024",
+        "hover_text": "Kahe tsikaadide pesakonna kattumine 2024",
+        "share_text": "Kahe tsikaadide pesakonna kattumine 2024! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Kahden kaskaslajin parveilu 2024",
+        "hover_text": "Kahden kaskaslajin parveilu 2024",
+        "share_text": "Kahden kaskaslajin parveilu 2024 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Éclosion de deux couvées de cigales en 2024",
+        "hover_text": "Éclosion de deux couvées de cigales en 2024",
+        "share_text": "Éclosion de deux couvées de cigales en 2024 ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Double portée de cigales 2024",
+        "hover_text": "Double portée de cigales 2024",
+        "share_text": "Double portée de cigales 2024! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Dobre cría de cigarras 2024",
+        "hover_text": "Dobre cría de cigarras 2024",
+        "share_text": "Dobre cría de cigarras 2024! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ციკადების ორმაგი გამოჩეკა — 2024",
+        "hover_text": "ციკადების ორმაგი გამოჩეკა — 2024",
+        "share_text": "ციკადების ორმაგი გამოჩეკა — 2024! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Doppelte Zikadenbrut 2024",
+        "hover_text": "Doppelte Zikadenbrut 2024",
+        "share_text": "Doppelte Zikadenbrut 2024 #GoogleDoodle"
+      },
+      "el": {
+        "query": "Διπλή ανάδυση τζιτζικιών 2024",
+        "hover_text": "Διπλή ανάδυση τζιτζικιών 2024",
+        "share_text": "Διπλή ανάδυση τζιτζικιών 2024! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "એક જ સમયગાળામાં તીડની બે પ્રજાતિ સક્રિય થવાની ઇવેન્ટ 2024",
+        "hover_text": "એક જ સમયગાળામાં તીડની બે પ્રજાતિ સક્રિય થવાની ઇવેન્ટ 2024",
+        "share_text": "એક જ સમયગાળામાં તીડની બે પ્રજાતિ સક્રિય થવાની ઇવેન્ટ 2024! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Double Cicada Brood 2024",
+        "hover_text": "Double Cicada Brood 2024",
+        "share_text": "יום הבקיעה של שני מינים של ציקדות (2024) GoogleDoodle#"
+      },
+      "hi": {
+        "query": "डबल सिकेडा ब्रूड 2024",
+        "hover_text": "डबल सिकेडा ब्रूड 2024",
+        "share_text": "डबल सिकेडा ब्रूड 2024! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Dupla kabócarajzás 2024-ben",
+        "hover_text": "Dupla kabócarajzás 2024-ben",
+        "share_text": "Dupla kabócarajzás 2024-ben. #GoogleDoodle"
+      },
+      "is": {
+        "query": "Tvöföld klakning söngtífa 2024",
+        "hover_text": "Tvöföld klakning söngtífa 2024",
+        "share_text": "Tvöföld klakning söngtífa 2024! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Kemunculan Dua Spesies Jangkrik Sekaligus 2024",
+        "hover_text": "Kemunculan Dua Spesies Jangkrik Sekaligus 2024",
+        "share_text": "Kemunculan Dua Spesies Jangkrik Sekaligus 2024 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Doppia covata di cicale 2024",
+        "hover_text": "Doppia covata di cicale 2024",
+        "share_text": "Doppia covata di cicale 2024! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "2024 年、周期ゼミのダブル羽化",
+        "hover_text": "2024 年、周期ゼミのダブル羽化",
+        "share_text": "2024 年、周期ゼミのダブル羽化#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಡಬಲ್ ಸಿಕಾಡಾ ಬ್ರೂಡ್ 2024",
+        "hover_text": "ಡಬಲ್ ಸಿಕಾಡಾ ಬ್ರೂಡ್ 2024",
+        "share_text": "ಡಬಲ್ ಸಿಕಾಡಾ ಬ್ರೂಡ್ 2024! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "2024 жылғы екі цикада ұясының жерден бір уақытта ұшып шығу оқиғасы",
+        "hover_text": "2024 жылғы екі цикада ұясының жерден бір уақытта ұшып шығу оқиғасы",
+        "share_text": "2024 жылғы екі цикада ұясының жерден бір уақытта ұшып шығу оқиғасы! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការភ្ញាស់ក្រុមរៃពីរប្រភេទក្នុងពេលតែមួយឆ្នាំ 2024",
+        "hover_text": "ការភ្ញាស់ក្រុមរៃពីរប្រភេទក្នុងពេលតែមួយឆ្នាំ 2024",
+        "share_text": "ការភ្ញាស់ក្រុមរៃពីរប្រភេទក្នុងពេលតែមួយឆ្នាំ 2024! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "2024년 두 종류의 매미 떼 출몰",
+        "hover_text": "2024년 두 종류의 매미 떼 출몰",
+        "share_text": "2024년 두 종류의 매미 떼 출몰 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Цикадалардын кош тукуму — 2024",
+        "hover_text": "Цикадалардын кош тукуму — 2024",
+        "share_text": "Цикадалардын кош тукуму — 2024! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Double Cicada Brood 2024",
+        "hover_text": "Double Cicada Brood 2024",
+        "share_text": "Double Cicada Brood 2024! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Doble camada de cigarras 2024",
+        "hover_text": "Doble camada de cigarras 2024",
+        "share_text": "Doble camada de cigarras 2024 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Cikāžu dubultais perējums — 2024",
+        "hover_text": "Cikāžu dubultais perējums — 2024",
+        "share_text": "Cikāžu dubultais perējums — 2024! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "2024 m. dviejų cikadų vadų antplūdis",
+        "hover_text": "2024 m. dviejų cikadų vadų antplūdis",
+        "share_text": "2024 m. dviejų cikadų vadų antplūdis! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Два вида цикади, 2024 г.",
+        "hover_text": "Два вида цикади, 2024 г.",
+        "share_text": "Два вида цикади, 2024 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Double Cicada Brood 2024",
+        "hover_text": "Double Cicada Brood 2024",
+        "share_text": "Double Cicada Brood 2024! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഡബിൾ സികാഡ ബ്രൂഡ് 2024",
+        "hover_text": "ഡബിൾ സികാഡ ബ്രൂഡ് 2024",
+        "share_text": "ഡബിൾ സികാഡ ബ്രൂഡ് 2024! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "डबल सिकाडा ब्रूड २०२४",
+        "hover_text": "डबल सिकाडा ब्रूड २०२४",
+        "share_text": "डबल सिकाडा ब्रूड २०२४! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "2024 оны Нөмрөгийн хоёр төрөл үүрнээсээ зэрэг гарч ирэх үйл явдал",
+        "hover_text": "2024 оны Нөмрөгийн хоёр төрөл үүрнээсээ зэрэг гарч ирэх үйл явдал",
+        "share_text": "2024 оны Нөмрөгийн хоёр төрөл үүрнээсээ зэрэг гарч ирэх үйл явдал! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "डबल सिकाडा ब्रुड २०२४",
+        "hover_text": "डबल सिकाडा ब्रुड २०२४",
+        "share_text": "डबल सिकाडा ब्रुड २०२४! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Dobbelt sikadekull, 2024",
+        "hover_text": "Dobbelt sikadekull, 2024",
+        "share_text": "Dobbelt sikadekull, 2024! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "تولد هم‌زمان دو گونه از زنجره‌ها در سال ۲۰۲۴",
+        "hover_text": "تولد هم‌زمان دو گونه از زنجره‌ها در سال ۲۰۲۴",
+        "share_text": "تولد هم‌زمان دو گونه از زنجره‌ها در سال ۲۰۲۴! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Podwójny wylęg cykad 2024",
+        "hover_text": "Podwójny wylęg cykad 2024",
+        "share_text": "Podwójny wylęg cykad 2024 #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Apocalipse das cigarras 2024",
+        "hover_text": "Apocalipse das cigarras 2024",
+        "share_text": "Apocalipse das cigarras 2024 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Enxame Duplo de Cigarras de 2024",
+        "hover_text": "Enxame Duplo de Cigarras de 2024",
+        "share_text": "Enxame Duplo de Cigarras de 2024! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Double Cicada Brood 2024",
+        "hover_text": "Double Cicada Brood 2024",
+        "share_text": "ਡਬਲ ਸਿਕਾਡਾ ਬਰੂਡ 2024! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Dubla apariție a cicadelor 2024",
+        "hover_text": "Dubla apariție a cicadelor 2024",
+        "share_text": "Dubla apariție a cicadelor 2024! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День двух выводков цикад – 2024",
+        "hover_text": "День двух выводков цикад – 2024",
+        "share_text": "День двух выводков цикад – 2024 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Периодичне цикаде 2024.",
+        "hover_text": "Периодичне цикаде 2024.",
+        "share_text": "Периодичне цикаде 2024! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Periodične cikade 2024.",
+        "hover_text": "Periodične cikade 2024.",
+        "share_text": "Periodične cikade 2024! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ඩබල් සිකාඩා බෲඩ් 2024",
+        "hover_text": "ඩබල් සිකාඩා බෲඩ් 2024",
+        "share_text": "ඩබල් සිකාඩා බෲඩ් 2024! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Párenie dvoch typov cikád 2024",
+        "hover_text": "Párenie dvoch typov cikád 2024",
+        "share_text": "Párenie dvoch typov cikád 2024. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Pojavitev dveh zarodov škržatov 2024",
+        "hover_text": "Pojavitev dveh zarodov škržatov 2024",
+        "share_text": "Pojavitev dveh zarodov škržatov 2024! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Doble cría de cigarras del 2024",
+        "hover_text": "Doble cría de cigarras del 2024",
+        "share_text": "Hoy celebramos la doble cría de cigarras del 2024 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Makinda Mawili ya Nyenje 2024",
+        "hover_text": "Makinda Mawili ya Nyenje 2024",
+        "share_text": "Makinda Mawili ya Nyenje 2024! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Dubbelsvärmar av cikador 2024",
+        "hover_text": "Dubbelsvärmar av cikador 2024",
+        "share_text": "Dubbelsvärmar av cikador 2024 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Double Cicada Brood 2024",
+        "hover_text": "Double Cicada Brood 2024",
+        "share_text": "இரண்டு வகை சில்வண்டுகளின் இனப்பெருக்கம் 2024! #GoogleDoodle"
+      },
+      "te": {
+        "query": "డబుల్ సికేడా బ్రూడ్ 2024",
+        "hover_text": "డబుల్ సికేడా బ్రూడ్ 2024",
+        "share_text": "డబుల్ సికేడా బ్రూడ్ 2024! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Double Cicada Brood ปี 2024",
+        "hover_text": "Double Cicada Brood ปี 2024",
+        "share_text": "Double Cicada Brood ปี 2024 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "2024 Ağustos Böceği Çift Yavrulama Fenomeni",
+        "hover_text": "2024 Ağustos Böceği Çift Yavrulama Fenomeni",
+        "share_text": "2024 Ağustos Böceği Çift Yavrulama Fenomeni #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Подвійний виводок цикад у 2024 році",
+        "hover_text": "Подвійний виводок цикад у 2024 році",
+        "share_text": "Подвійний виводок цикад у 2024 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Double Cicada Brood 2024",
+        "hover_text": "Double Cicada Brood 2024",
+        "share_text": "Double Cicada Brood 2024! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Ikkita chirildoq turi 2024",
+        "hover_text": "Ikkita chirildoq turi 2024",
+        "share_text": "Ikkita chirildoq turi 2024! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Hiện tượng Lứa ve sầu kép năm 2024",
+        "hover_text": "Hiện tượng Lứa ve sầu kép năm 2024",
+        "share_text": "Hiện tượng Lứa ve sầu kép năm 2024! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "I-Cicada Brood Ekabili Yango-2024",
+        "hover_text": "I-Cicada Brood Ekabili Yango-2024",
+        "share_text": "I-Cicada Brood Ekabili Yango-2024! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Double Cicada Brood 2024",
+    "share_text": "Double Cicada Brood 2024! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-mina-witkojc",
     "title": "Celebrating Mina Witkojc",
     "url": "//www.google.com/logos/doodles/2024/celebrating-mina-witkojc-6753651837110227.5-l.png",
@@ -2105,7 +3103,7 @@
         "share_text": "Indijsko finale Lige prvaka 2024.! #GoogleDoodle"
       },
       "cs": {
-        "query": null,
+        "query": "Indická Premier League",
         "hover_text": "Finále Indian Premier League 2024",
         "share_text": "Hraje se finále Indian Premier League 2024! #GoogleDoodle"
       },
