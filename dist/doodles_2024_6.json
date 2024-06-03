@@ -1,5 +1,504 @@
 [
   {
+    "name": "mexico-national-elections-2024",
+    "title": "Mexico National Elections 2024",
+    "url": "//www.google.com/logos/doodles/2024/temp-mexico-national-elections-2024-6753651837110232-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/ixi2ilve3DoeD-bBjfC9E_Y2BSQjUAH1PvdVZIpTtX5JeB8_sv4l4dgyPomFClxp_VHQ89NMqBt0iBrLPw6GtZ4MG4gClU-aYFjiMu-bNPrcdLZwLYLf",
+    "high_res_url": "//www.google.com/logos/doodles/2024/temp-mexico-national-elections-2024-6753651837110232-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      6,
+      2
+    ],
+    "translations": {
+      "en": {
+        "query": "Mexico National Elections",
+        "hover_text": "Mexico National Elections 2024",
+        "share_text": "Mexico National Elections 2024 #GoogleDoodle"
+      },
+      "af": {
+        "query": "Meksiko se nasionale verkiesing",
+        "hover_text": "Meksiko se nasionale verkiesing 2024",
+        "share_text": "Meksiko se nasionale verkiesing 2024 #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Zgjedhjet kombëtare në Meksikë",
+        "hover_text": "Zgjedhjet kombëtare në Meksikë, 2024",
+        "share_text": "Zgjedhjet kombëtare në Meksikë, 2024 #GoogleDoodle"
+      },
+      "am": {
+        "query": "የሜክሲኮ ብሔራዊ ምርጫዎች",
+        "hover_text": "የሜክሲኮ ብሔራዊ ምርጫዎች 2024",
+        "share_text": "የሜክሲኮ ብሔራዊ ምርጫዎች 2024 #GoogleDoodle"
+      },
+      "ar": {
+        "query": "الانتخابات الوطنية في المكسيك",
+        "hover_text": "الانتخابات الوطنية في المكسيك 2024",
+        "share_text": "انطلقت الانتخابات الوطنية في المكسيك لعام 2024. ‏GoogleDoodle#"
+      },
+      "hy": {
+        "query": "Մեքսիկայի համապետական ընտրություններ",
+        "hover_text": "Մեքսիկայի համապետական ընտրություններ 2024",
+        "share_text": "Մեքսիկայի համապետական ընտրություններ 2024 #GoogleDoodle"
+      },
+      "az": {
+        "query": "Meksika Milli Seçkiləri",
+        "hover_text": "2024 Meksika Milli Seçkiləri",
+        "share_text": "2024 Meksika Milli Seçkiləri #GoogleDoodle"
+      },
+      "bn": {
+        "query": "মেক্সিকোর জাতীয় নির্বাচন",
+        "hover_text": "মেক্সিকোর জাতীয় নির্বাচন ২০২৪",
+        "share_text": "মেক্সিকোর জাতীয় নির্বাচন ২০২৪ #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Mexikoko hauteskunde orokorrak",
+        "hover_text": "2024ko Mexikoko hauteskunde orokorrak",
+        "share_text": "2024ko Mexikoko hauteskunde orokorrak #GoogleDoodle"
+      },
+      "be": {
+        "query": "Усеагульныя выбары ў Мексіцы",
+        "hover_text": "Усеагульныя выбары ў Мексіцы 2024",
+        "share_text": "Усеагульныя выбары ў Мексіцы 2024 #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Nacionalni izbori u Meksiku",
+        "hover_text": "Nacionalni izbori u Meksiku 2024.",
+        "share_text": "Nacionalni izbori u Meksiku 2024. #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Mexico national elections",
+        "hover_text": "Mexico national elections 2024",
+        "share_text": "Mexico national elections 2024 #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Национални избори в Мексико",
+        "hover_text": "Национални избори в Мексико 2024 г.",
+        "share_text": "Национални избори в Мексико 2024 г. #GoogleDoodle"
+      },
+      "my": {
+        "query": "မက္ကဆီကိုနိုင်ငံလုံးဆိုင်ရာ ရွေးကောက်ပွဲများ",
+        "hover_text": "၂၀၂၄ မက္ကဆီကိုနိုင်ငံလုံးဆိုင်ရာ ရွေးကောက်ပွဲများ",
+        "share_text": "၂၀၂၄ မက္ကဆီကိုနိုင်ငံလုံးဆိုင်ရာ ရွေးကောက်ပွဲများ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Eleccions nacionals a Mèxic",
+        "hover_text": "Eleccions nacionals a Mèxic 2024",
+        "share_text": "Eleccions nacionals a Mèxic 2024 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "墨西哥全國大選",
+        "hover_text": "2024 年墨西哥全國大選",
+        "share_text": "2024 年墨西哥全國大選 #GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "墨西哥全國大選",
+        "hover_text": "2024 年墨西哥全國大選",
+        "share_text": "2024 年墨西哥全國大選 #GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "墨西哥全国选举",
+        "hover_text": "2024 年墨西哥全国选举",
+        "share_text": "2024 年墨西哥全国选举 #GoogleDoodle"
+      },
+      "hr": {
+        "query": "Državni izbori u Meksiku",
+        "hover_text": "Državni izbori u Meksiku 2024.",
+        "share_text": "Državni izbori u Meksiku 2024. #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Mexické volby",
+        "hover_text": "Mexické volby 2024",
+        "share_text": "Mexické volby 2024 #GoogleDoodle"
+      },
+      "da": {
+        "query": "Valg i Mexico",
+        "hover_text": "Valg i Mexico 2024",
+        "share_text": "Valg i Mexico 2024 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Nationale verkiezingen Mexico",
+        "hover_text": "Nationale verkiezingen Mexico 2024",
+        "share_text": "Nationale verkiezingen Mexico 2024 #GoogleDoodle"
+      },
+      "et": {
+        "query": "Mehhiko üleriigilised valimised",
+        "hover_text": "Mehhiko 2024. aasta üleriigilised valimised",
+        "share_text": "Mehhiko 2024. aasta üleriigilised valimised #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Meksikon kansalliset vaalit",
+        "hover_text": "Meksikon kansalliset vaalit 2024",
+        "share_text": "Meksikon kansalliset vaalit 2024 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Élections nationales au Mexique",
+        "hover_text": "Élections nationales 2024 au Mexique",
+        "share_text": "Élections nationales 2024 au Mexique #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Élections nationales au Mexique",
+        "hover_text": "Élections nationales de 2024 au Mexique",
+        "share_text": "Élections nationales de 2024 au Mexique #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Eleccións nacionais de México",
+        "hover_text": "Eleccións nacionais de México 2024",
+        "share_text": "Eleccións nacionais de México 2024 #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მექსიკის ეროვნული არჩევნები",
+        "hover_text": "მექსიკის ეროვნული არჩევნები 2024",
+        "share_text": "მექსიკის ეროვნული არჩევნები 2024 #GoogleDoodle"
+      },
+      "de": {
+        "query": "Parlamentswahl in Mexiko",
+        "hover_text": "Parlamentswahl in Mexiko 2024",
+        "share_text": "Parlamentswahl in Mexiko 2024 #GoogleDoodle"
+      },
+      "el": {
+        "query": "Εθνικές εκλογές στο Μεξικό",
+        "hover_text": "Εθνικές εκλογές στο Μεξικό 2024",
+        "share_text": "Εθνικές εκλογές στο Μεξικό 2024 #GoogleDoodle"
+      },
+      "gu": {
+        "query": "મેક્સિકોની રાષ્ટ્રીય ચૂંટણીઓ",
+        "hover_text": "મેક્સિકોની રાષ્ટ્રીય ચૂંટણીઓ 2024",
+        "share_text": "મેક્સિકોની રાષ્ટ્રીય ચૂંટણીઓ 2024 #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "הבחירות הארציות במקסיקו",
+        "hover_text": "הבחירות הארציות במקסיקו 2024",
+        "share_text": "הבחירות הארציות במקסיקו 2024 ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "मेक्सिको का आम चुनाव",
+        "hover_text": "मेक्सिको का आम चुनाव 2024",
+        "share_text": "मेक्सिको का आम चुनाव 2024 #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Parlamenti választás Mexikóban",
+        "hover_text": "Parlamenti választás Mexikóban, 2024",
+        "share_text": "Parlamenti választás Mexikóban, 2024 #GoogleDoodle"
+      },
+      "is": {
+        "query": "Kosningar í Mexíkó",
+        "hover_text": "Kosningar í Mexíkó 2024",
+        "share_text": "Kosningar í Mexíkó 2024 #GoogleDoodle"
+      },
+      "id": {
+        "query": "Pemilu Nasional Meksiko",
+        "hover_text": "Pemilu Nasional Meksiko 2024",
+        "share_text": "Pemilu Nasional Meksiko 2024 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Elezioni nazionali in Messico",
+        "hover_text": "Elezioni nazionali 2024 in Messico",
+        "share_text": "Elezioni nazionali 2024 in Messico #GoogleDoodle"
+      },
+      "ja": {
+        "query": "メキシコ総選挙",
+        "hover_text": "2024 年メキシコ総選挙",
+        "share_text": "2024 年メキシコ総選挙 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಮೆಕ್ಸಿಕೊ ರಾಷ್ಟ್ರೀಯ ಚುನಾವಣೆಗಳು",
+        "hover_text": "ಮೆಕ್ಸಿಕೊ ರಾಷ್ಟ್ರೀಯ ಚುನಾವಣೆಗಳು 2024",
+        "share_text": "ಮೆಕ್ಸಿಕೊ ರಾಷ್ಟ್ರೀಯ ಚುನಾವಣೆಗಳು 2024 #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Мексикадағы ұлттық сайлау",
+        "hover_text": "Мексикадағы ұлттық сайлау – 2024",
+        "share_text": "Мексикадағы ұлттық сайлау – 2024 #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការបោះឆ្នោតថ្នាក់ជាតិម៉ិកស៊ិក",
+        "hover_text": "ការបោះឆ្នោតថ្នាក់ជាតិម៉ិកស៊ិកឆ្នាំ 2024",
+        "share_text": "ការបោះឆ្នោតថ្នាក់ជាតិម៉ិកស៊ិកឆ្នាំ 2024 #GoogleDoodle"
+      },
+      "ko": {
+        "query": "멕시코 총선",
+        "hover_text": "2024년 멕시코 총선",
+        "share_text": "2024년 멕시코 총선 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Мексикадагы Улуттук шайлоо",
+        "hover_text": "Мексикадагы Улуттук шайлоо – 2024",
+        "share_text": "Мексикадагы Улуттук шайлоо – 2024 #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ການເລືອກຕັ້ງແຫ່ງຊາດຂອງເມັກຊິໂກ",
+        "hover_text": "ການເລືອກຕັ້ງແຫ່ງຊາດຂອງເມັກຊິໂກ 2024",
+        "share_text": "ການເລືອກຕັ້ງແຫ່ງຊາດຂອງເມັກຊິໂກປີ 2024 #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Elecciones generales Mexico",
+        "hover_text": "Elecciones generales Mexico 2024",
+        "share_text": "#GoogleDoodle"
+      },
+      "lv": {
+        "query": "Valsts vēlēšanas Meksikā",
+        "hover_text": "Valsts vēlēšanas Meksikā — 2024",
+        "share_text": "Valsts vēlēšanas Meksikā — 2024 #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Meksikos nacionaliniai rinkimai",
+        "hover_text": "Meksikos nacionaliniai rinkimai, 2024 m.",
+        "share_text": "Meksikos nacionaliniai rinkimai, 2024 m. #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Национални избори во Мексико",
+        "hover_text": "Национални избори во Мексико, 2024 г.",
+        "share_text": "Национални избори во Мексико, 2024 г. #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Pilihan Raya Kebangsaan Mexico",
+        "hover_text": "Pilihan Raya Kebangsaan Mexico 2024",
+        "share_text": "Pilihan Raya Kebangsaan Mexico 2024 #GoogleDoodle"
+      },
+      "ml": {
+        "query": "മെക്സിക്കൻ ദേശീയ തിരഞ്ഞെടുപ്പ്",
+        "hover_text": "മെക്സിക്കൻ ദേശീയ തിരഞ്ഞെടുപ്പ് 2024",
+        "share_text": "മെക്സിക്കൻ ദേശീയ തിരഞ്ഞെടുപ്പ് 2024 #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "मेक्सिकोच्या राष्ट्रीय निवडणुका",
+        "hover_text": "मेक्सिकोच्या राष्ट्रीय निवडणुका २०२४",
+        "share_text": "मेक्सिकोच्या राष्ट्रीय निवडणुका २०२४ #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Мексикийн үндэсний сонгууль",
+        "hover_text": "2024 оны Мексикийн үндэсний сонгууль",
+        "share_text": "2024 оны Мексикийн үндэсний сонгууль #GoogleDoodle"
+      },
+      "ne": {
+        "query": "मेक्सिकोको राष्ट्रिय निर्वाचन",
+        "hover_text": "मेक्सिकोको राष्ट्रिय निर्वाचन २०२४",
+        "share_text": "मेक्सिकोको राष्ट्रिय निर्वाचन २०२४ #GoogleDoodle"
+      },
+      "no": {
+        "query": "Nasjonalvalget i Mexico",
+        "hover_text": "Nasjonalvalget i Mexico 2024",
+        "share_text": "Nasjonalvalget i Mexico 2024 #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "انتخابات ملی مکزیک",
+        "hover_text": "انتخابات ملی ۲۰۲۴ مکزیک",
+        "share_text": "انتخابات ملی ۲۰۲۴ مکزیک ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Wybory parlamentarne w Meksyku",
+        "hover_text": "Wybory parlamentarne w Meksyku 2024",
+        "share_text": "Wybory parlamentarne w Meksyku 2024 #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Eleições Federais do México",
+        "hover_text": "Eleições Federais do México 2024",
+        "share_text": "Eleições Federais do México 2024 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Eleições Nacionais do México",
+        "hover_text": "Eleições Nacionais do México de 2024",
+        "share_text": "Eleições Nacionais do México de 2024 #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਮੈਕਸੀਕੋ ਦੀਆਂ ਰਾਸ਼ਟਰੀ ਚੋਣਾਂ",
+        "hover_text": "ਮੈਕਸੀਕੋ ਦੀਆਂ ਰਾਸ਼ਟਰੀ ਚੋਣਾਂ 2024",
+        "share_text": "ਮੈਕਸੀਕੋ ਦੀਆਂ ਰਾਸ਼ਟਰੀ ਚੋਣਾਂ 2024 #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Alegeri naționale în Mexic",
+        "hover_text": "Alegeri naționale în Mexic – 2024",
+        "share_text": "Alegeri naționale în Mexic – 2024 #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Всеобщие выборы в Мексике",
+        "hover_text": "Всеобщие выборы в Мексике – 2024",
+        "share_text": "Всеобщие выборы в Мексике – 2024 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Општи избори у Мексику",
+        "hover_text": "Општи избори у Мексику 2024.",
+        "share_text": "Општи избори у Мексику 2024. #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Opšti izbori u Meksiku",
+        "hover_text": "Opšti izbori u Meksiku 2024.",
+        "share_text": "Opšti izbori u Meksiku 2024. #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "මෙක්සිකෝ ජාතික මැතිවරණය",
+        "hover_text": "මෙක්සිකෝ ජාතික මැතිවරණය 2024",
+        "share_text": "මෙක්සිකෝ ජාතික මැතිවරණය 2024 #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Celoštátne voľby v Mexiku",
+        "hover_text": "Celoštátne voľby v Mexiku 2024",
+        "share_text": "Celoštátne voľby v Mexiku 2024 #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Državne volitve v Mehiki",
+        "hover_text": "Državne volitve v Mehiki 2024",
+        "share_text": "Državne volitve v Mehiki 2024 #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Elecciones generales de México",
+        "hover_text": "Elecciones generales de México 2024",
+        "share_text": "Elecciones generales de México 2024 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Uchaguzi wa Kitaifa Meksiko",
+        "hover_text": "Uchaguzi wa Kitaifa Meksiko 2024",
+        "share_text": "Uchaguzi wa Kitaifa Meksiko 2024 #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Nationella val i Mexiko",
+        "hover_text": "Nationella val i Mexiko 2024",
+        "share_text": "Nationella val i Mexiko 2024 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "மெக்சிகோ தேசியத் தேர்தல்கள்",
+        "hover_text": "மெக்சிகோ தேசியத் தேர்தல்கள் 2024",
+        "share_text": "மெக்சிகோ தேசியத் தேர்தல்கள் 2024 #GoogleDoodle"
+      },
+      "te": {
+        "query": "మెక్సికో జాతీయ ఎన్నికలు",
+        "hover_text": "మెక్సికో జాతీయ ఎన్నికలు 2024",
+        "share_text": "మెక్సికో జాతీయ ఎన్నికలు 2024 #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันเลือกตั้งระดับประเทศของเม็กซิโก",
+        "hover_text": "วันเลือกตั้งระดับประเทศของเม็กซิโกปี 2024",
+        "share_text": "วันเลือกตั้งระดับประเทศของเม็กซิโกปี 2024 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Meksika Ulusal Seçimleri",
+        "hover_text": "2024 Meksika Ulusal Seçimleri",
+        "share_text": "2024 Meksika Ulusal Seçimleri #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Національні вибори в Мексиці",
+        "hover_text": "Національні вибори в Мексиці у 2024 році",
+        "share_text": "Національні вибори в Мексиці у 2024 році #GoogleDoodle"
+      },
+      "ur": {
+        "query": "میکسیکو کے قومی انتخابات",
+        "hover_text": "میکسیکو کے قومی انتخابات 2024",
+        "share_text": "میکسیکو کے قومی انتخابات 2024 ‎#GoogleDoodle"
+      },
+      "uz": {
+        "query": "Meksikada umumxalq saylovi",
+        "hover_text": "Meksikada umumxalq saylovi 2024",
+        "share_text": "Meksikada umumxalq saylovi 2024 #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Tổng tuyển cử Mexico",
+        "hover_text": "Tổng tuyển cử Mexico năm 2024",
+        "share_text": "Tổng tuyển cử Mexico năm 2024 #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ukhetho Lukazwelonke lwase-Mexico",
+        "hover_text": "Ukhetho Lukazwelonke lwase-Mexico lwango-2024",
+        "share_text": "Ukhetho Lukazwelonke lwase-Mexico lwango-2024 #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Mexico National Elections",
+    "share_text": "Mexico National Elections 2024 #GoogleDoodle"
+  },
+  {
     "name": "italy-republic-day-2024",
     "title": "Italy Republic Day 2024",
     "url": "//www.google.com/logos/doodles/2024/italy-republic-day-2024-6753651837110231.2-law.gif",
