@@ -1,5 +1,504 @@
 [
   {
+    "name": "denmark-constitution-day-2024",
+    "title": "Denmark Constitution Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/denmark-constitution-day-2024-6753651837110233-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/60wezIEYOdKrgDrUGeh9gIBsE6CSF4gjIQDKtDt6lL1N_LBoYoqsuboimcwo6tBZbdQV_AJFEBe01va9Ycq48XrrjZMxXD-TRCVVKtyMqAhaYkNxWaDq3A",
+    "high_res_url": "//www.google.com/logos/doodles/2024/denmark-constitution-day-2024-6753651837110233-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      6,
+      5
+    ],
+    "translations": {
+      "en": {
+        "query": "Denmark Constitution Day",
+        "hover_text": "Denmark Constitution Day 2024",
+        "share_text": "Happy Constitution Day, Denmark! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Denemarke se grondwetdag",
+        "hover_text": "Denemarke se Grondwetdag 2024",
+        "share_text": "Gelukkige grondwetdag, Denemarke! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Kushtetutës së Danimarkës",
+        "hover_text": "Dita e Kushtetutës së Danimarkës, 2024",
+        "share_text": "Gëzuar Ditën e Kushtetutës, Danimarkë! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የዴንማርክ ሕገመንግስት ቀን",
+        "hover_text": "የዴንማርክ ሕገ-መንግስት ቀን 2024",
+        "share_text": "መልካም የሕገመንግስት ቀን ዴንማክር! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "يوم الدستور الدنماركي",
+        "hover_text": "يوم الدستور الدانمركي 2024",
+        "share_text": "عيد سعيد بمناسبة يوم الدستور في الدنمارك #GoogleDoodle"
+      },
+      "hy": {
+        "query": "Դանիայի սահմանադրության օր",
+        "hover_text": "Դանիայի սահմանադրության օր 2024",
+        "share_text": "Շնորհավո՛ր Դանիայի սահմանադրության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Danimarkanın Konstitusiya Günü",
+        "hover_text": "2024 Danimarkanın Konstitusiya Günü",
+        "share_text": "Konstitusiya Günün Mübarək, Danimarka! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ডেনমার্কের সংবিধান দিবস",
+        "hover_text": "ডেনমার্কের সংবিধান দিবস ২০২৪",
+        "share_text": "সংবিধান দিবসের শুভেচ্ছা, ডেনমার্ক! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Danimarkako Konstituzio Eguna",
+        "hover_text": "2024ko Danimarkako Konstituzio Eguna",
+        "share_text": "Konstituzio Egun zoriontsua izan, Danimarka! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень Канстытуцыі Даніі",
+        "hover_text": "Дзень Канстытуцыі Даніі 2024",
+        "share_text": "З Днём Канстытуцыі, Данія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan ustava Danske",
+        "hover_text": "Dan Ustava Danske 2024.",
+        "share_text": "Sretan Dan ustava, Danska! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Denmark Constitution Day",
+        "hover_text": "Denmark Constitution Day 2024",
+        "share_text": "Happy Constitution Day, Denmark! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на конституцията на Дания",
+        "hover_text": "Ден на конституцията на Дания 2024 г.",
+        "share_text": "Честит Ден на конституцията на Дания! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဒိန်းမတ် ဖွဲ့စည်းပုံ အခြေခံဥပဒေနေ့",
+        "hover_text": "၂၀၂၄ ဒိန်းမတ်နိုင်ငံ ဖွဲ့စည်းပုံအခြေခံဥပဒေနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် ဖွဲ့စည်းပုံ အခြေခံဥပဒေနေ့ ဖြစ်ပါစေ၊ ဒိန်းမတ်။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Constitució de Dinamarca",
+        "hover_text": "Dia de la Constitució de Dinamarca 2024",
+        "share_text": "Feliç Dia de la Constitució, Dinamarca! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "丹麥立憲紀念日",
+        "hover_text": "2024 年丹麥憲法日",
+        "share_text": "丹麥，立憲紀念日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "丹麥行憲紀念日",
+        "hover_text": "2024 年丹麥行憲紀念日",
+        "share_text": "丹麥，行憲紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "丹麦宪法日",
+        "hover_text": "2024 年丹麦宪法日",
+        "share_text": "宪法日快乐，丹麦！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan ustava u Danskoj",
+        "hover_text": "Dan ustava u Danskoj 2024.",
+        "share_text": "Sretan Dan ustava, Danska! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den dánské ústavy",
+        "hover_text": "Den dánské ústavy 2024",
+        "share_text": "Vše nejlepší ke Dni ústavy, Dánsko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Grundlovsdag",
+        "hover_text": "Grundlovsdag 2024",
+        "share_text": "God Grundlovsdag, Danmark! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Deense Dag van de Grondwet",
+        "hover_text": "Deense Dag van de Grondwet 2024",
+        "share_text": "Fijne Dag van de Grondwet, Denemarken #GoogleDoodle"
+      },
+      "et": {
+        "query": "Taani konstitutsioonipäev",
+        "hover_text": "Taani 2024. aasta konstitutsioonipäev",
+        "share_text": "Head konstitutsioonipäeva, Taani! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Tanskan kansallispäivä",
+        "hover_text": "Tanskan kansallispäivä 2024",
+        "share_text": "Hyvää kansallispäivää, Tanska! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Jour de la constitution du Danemark",
+        "hover_text": "Jour de la constitution du Danemark 2024",
+        "share_text": "Jour de la constitution du Danemark ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de la Constitution danoise",
+        "hover_text": "Jour de la Constitution danoise 2024",
+        "share_text": "Bon jour de la Constitution danoise! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Constitución de Dinamarca",
+        "hover_text": "Día da Constitución de Dinamarca 2024",
+        "share_text": "Feliz Día da Constitución, Dinamarca! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "დანიის კონსტიტუციის დღე",
+        "hover_text": "დანიის კონსტიტუციის დღე — 2024",
+        "share_text": "ვულოცავთ დანიას კონსტიტუციის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Verfassungstag in Dänemark",
+        "hover_text": "Verfassungstag 2024 in Dänemark",
+        "share_text": "Alles Gute zum Verfassungstag, Dänemark! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα του Συντάγματος της Δανίας",
+        "hover_text": "Ημέρα του Συντάγματος της Δανίας 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα του Συντάγματος της Δανίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ડેનમાર્કનો બંધારણ દિવસ",
+        "hover_text": "ડેનમાર્કનો બંધારણ દિવસ 2024",
+        "share_text": "ડેનમાર્કને બંધારણ દિવસની શુભેચ્છાઓ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום החוקה של דנמרק",
+        "hover_text": "יום החוקה של דנמרק 2024",
+        "share_text": "יום חוקה שמח לדנמרק! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "डेनमार्क का संविधान दिवस",
+        "hover_text": "डेनमार्क का संविधान दिवस 2024",
+        "share_text": "संविधान दिवस की शुभकामनाएं, डेनमार्क! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A dán alkotmány napja",
+        "hover_text": "A dán alkotmány napja, 2024",
+        "share_text": "Boldog alkotmány napját, Dánia! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þjóðhátíðardagur Danmerkur",
+        "hover_text": "Þjóðhátíðardagur Danmerkur 2024",
+        "share_text": "Gleðilegan þjóðhátíðardag, Danmörk! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Konstitusi Denmark",
+        "hover_text": "Hari Konstitusi Denmark 2024",
+        "share_text": "Selamat Hari Konstitusi, Denmark! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Bhunreacht na Danmhairge",
+        "hover_text": null,
+        "share_text": "Lá Bhunreacht na Danmhairge faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Giorno della Costituzione danese",
+        "hover_text": "Giorno della Costituzione danese 2024",
+        "share_text": "Felice Giorno della Costituzione, Danimarca! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "デンマーク憲法記念日",
+        "hover_text": "2024 年デンマーク憲法記念日",
+        "share_text": "デンマーク憲法記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಡೆನ್ಮಾರ್ಕ್ ಸಂವಿಧಾನ ದಿನಾಚರಣೆ",
+        "hover_text": "ಡೆನ್ಮಾರ್ಕ್ ಸಂವಿಧಾನ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಡೆನ್ಮಾರ್ಕ್ ಸಂವಿಧಾನ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Данияның Конституция күні",
+        "hover_text": "Данияның Конституция күні – 2024",
+        "share_text": "Конституция күні құтты болсын, Дания! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​រដ្ឋធម្មនុញ្ញដាណឺម៉ាក​",
+        "hover_text": "ទិវា​រដ្ឋធម្មនុញ្ញ​ដាណឺម៉ាកឆ្នាំ 2024",
+        "share_text": "អបអរទិវា​រដ្ឋធម្មនុញ្ញដាណឺម៉ាក​! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "덴마크 제헌절",
+        "hover_text": "2024년 덴마크 제헌절",
+        "share_text": "덴마크 제헌절 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Даниянын Конституция күнү",
+        "hover_text": "Даниянын Конституция күнү – 2024",
+        "share_text": "Конституция күнүң менен, Дания! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນລັດຖະທຳມະນູນເດັນມາກ",
+        "hover_text": "ວັນລັດຖະທຳມະນູນເດນມາກປີ 2024",
+        "share_text": "ສຸກສັນວັນລັດຖະທຳມະນູນເດັນມາກ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Constitución de Dinamarca",
+        "hover_text": "Día de la Constitución de Dinamarca 2024",
+        "share_text": "¡Feliz día de la Constitución, Dinamarca! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Dānijas Konstitūcijas diena",
+        "hover_text": "Dānijas Konstitūcijas diena — 2024",
+        "share_text": "Sveicam Konstitūcijas dienā, Dānija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Danijos konstitucijos diena",
+        "hover_text": "Danijos konstitucijos diena, 2024 m.",
+        "share_text": "Sveikiname Daniją su Konstitucijos diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на државноста на Данска",
+        "hover_text": "Ден на Уставот на Данска, 2024 г.",
+        "share_text": "Среќен Ден на државноста на Данска. #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny lalàm-panorenan'i Danimarika",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny lalàm-panorenana ry Danimarika ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Penubuhan Denmark",
+        "hover_text": "Hari Penubuhan Denmark 2024",
+        "share_text": "Selamat Hari Penubuhan, Denmark! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഡെൻമാർക്ക് ഭരണഘടനാ ദിനം",
+        "hover_text": "ഡെൻമാർക്ക് ഭരണഘടനാ ദിനം 2024",
+        "share_text": "ഭരണഘടനാ ദിനാശംസകൾ, ഡെൻമാർക്ക്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "डेन्मार्कचा संविधान दिन",
+        "hover_text": "डेन्मार्कचा संविधानदिन २०२४",
+        "share_text": "डेन्मार्कला संविधान दिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Дани улсын Үндсэн хуулийн өдөр",
+        "hover_text": "2024 оны Дани Улсын Үндсэн хуулийн өдөр",
+        "share_text": "Дани улсын ард иргэдэд Үндсэн хуулийн өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "डेनमार्कको संविधान दिवस",
+        "hover_text": "डेनमार्कको संविधान दिवस २०२४",
+        "share_text": "संविधान दिवसको शुभकामना, डेनमार्क! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Danmarks nasjonaldag",
+        "hover_text": "Danmarks nasjonaldag 2024",
+        "share_text": "Gratulerer med nasjonaldagen, Danmark! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଡେନମାର୍କ ସମ୍ବିଧାନ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ସମ୍ବିଧାନ ଦିବସର ଶୁଭେଚ୍ଛା, ଡେନମାର୍କ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز قانون اساسی دانمارک",
+        "hover_text": "روز قانون اساسی ۲۰۲۴ دانمارک",
+        "share_text": "روز قانون اساسی مبارک، دانمارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Konstytucji Danii",
+        "hover_text": "Dzień Konstytucji Danii 2024",
+        "share_text": "Dania obchodzi Dzień Konstytucji #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Constituição da Dinamarca",
+        "hover_text": "Dia da Constituição da Dinamarca 2024",
+        "share_text": "Feliz Dia da Constituição, Dinamarca! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da Constituição da Dinamarca",
+        "hover_text": "Dia da Constituição da Dinamarca de 2024",
+        "share_text": "Feliz dia da Constituição, Dinamarca! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਡੈਨਮਾਰਕ ਦਾ ਸੰਵਿਧਾਨ ਦਿਵਸ",
+        "hover_text": "ਡੈੱਨਮਾਰਕ ਦਾ ਸੰਵਿਧਾਨ ਦਿਵਸ 2024",
+        "share_text": "ਡੈਨਮਾਰਕ ਦੇ ਸੰਵਿਧਾਨ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Constituției în Danemarca",
+        "hover_text": "Ziua Constituției în Danemarca – 2024",
+        "share_text": "La mulți ani de Ziua Constituției, Danemarca! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "день конституции дании",
+        "hover_text": "День Конституции Дании – 2024",
+        "share_text": "День Конституции Дании #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан уставности Данске",
+        "hover_text": "Дан уставности Данске 2024.",
+        "share_text": "Честитамо Дан уставности Данској! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan ustavnosti Danske",
+        "hover_text": "Dan ustavnosti Danske 2024.",
+        "share_text": "Čestitamo Dan ustavnosti Danskoj! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen konstitisyon Denmark",
+        "hover_text": null,
+        "share_text": "Bonn zournen konstitisyon, Denmark! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ඩෙන්මාර්කයේ ව්‍යවස්ථා දිනය",
+        "hover_text": "ඩෙන්මාර්කයේ ව්‍යවස්ථා දිනය 2024",
+        "share_text": "සුබ ව්‍යවස්ථා දිනයක්, ඩෙන්මාර්කය! #Googleඩූඩල්"
+      },
+      "sk": {
+        "query": "Deň ústavy Dánska",
+        "hover_text": "Deň ústavy Dánska 2024",
+        "share_text": "Šťastný Deň ústavy, Dánsko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Danski dan ustave",
+        "hover_text": "Danski dan ustave 2024",
+        "share_text": "Vesel dan ustave, Danska! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Distoorka Dheenmaarik",
+        "hover_text": null,
+        "share_text": "Maalinta DIstoorka Farxada leh, Dheenmaarik! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Khonstithushene la Denmark",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Khonstithushene la Denmark! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Constitución de Dinamarca",
+        "hover_text": "Día de la Constitución de Dinamarca 2024",
+        "share_text": "¡Feliz Día de la Constitución de Dinamarca 2020! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Katiba ya Denmaki",
+        "hover_text": "Sikukuu ya Katiba ya Denmaki 2024",
+        "share_text": "Heri za Sikukuu ya Katiba ya Denmaki! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Danmarks nationaldag 2020",
+        "hover_text": "Danmarks nationaldag 2024",
+        "share_text": "Vi firar Danmarks nationaldag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "டென்மார்க்கின் அரசியலமைப்புத் தினம்",
+        "hover_text": "டென்மார்க் அரசியலமைப்பு தினம் 2024",
+        "share_text": "அரசியலமைப்புத் தின வாழ்த்துகள், டென்மார்க்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "డెన్మార్క్ రాజ్యాంగ దినోత్సవం",
+        "hover_text": "డెన్మార్క్ రాజ్యాంగ దినోత్సవం 2024",
+        "share_text": "రాజ్యాంగ దినోత్సవ శుభాకాంక్షలు, డెన్మార్క్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันรัฐธรรมนูญของเดนมาร์ก",
+        "hover_text": "วันรัฐธรรมนูญของเดนมาร์กปี 2024",
+        "share_text": "สุขสันต์วันรัฐธรรมนูญของเดนมาร์ก #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Molaotheo wa Denmark",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Molaotheo, Denmark! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Danimarka Anayasa Günü",
+        "hover_text": "2024 Danimarka Anayasa Günü",
+        "share_text": "Danimarka Anayasa Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День конституції Данії",
+        "hover_text": "День конституції Данії у 2024 році",
+        "share_text": "З Днем конституції, Даніє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "ڈنمارک کا یوم آئین",
+        "hover_text": "ڈنمارک کا یوم آئین 2024",
+        "share_text": "ڈنمارک کا یوم آئین مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Daniyada konstitutsiya kuni",
+        "hover_text": "Daniyada Konstitutsiya kuni 2024",
+        "share_text": "Konstitutsiya kuning bilan, Daniya! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Đan Mạch lập hiến",
+        "hover_text": "Ngày Lập hiến Đan Mạch năm 2024",
+        "share_text": "Mừng ngày Đan Mạch lập hiến năm 2020! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lomthethosisekelo wase-Denmark",
+        "hover_text": "Usuku LoMthethosisekelo lwase-Denmark lwango-2024",
+        "share_text": "Usuku Oluhle Lomthethosisekelo, Denmark! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Denmark Constitution Day",
+    "share_text": "Happy Constitution Day, Denmark! #GoogleDoodle"
+  },
+  {
     "name": "mexico-national-elections-2024",
     "title": "Mexico National Elections 2024",
     "url": "//www.google.com/logos/doodles/2024/temp-mexico-national-elections-2024-6753651837110232-l.png",
