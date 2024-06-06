@@ -1,5 +1,1502 @@
 [
   {
+    "name": "sweden-national-day-2024",
+    "title": "Sweden National Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/sweden-national-day-2024-6753651837110234-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/7_yNQNTrkuynlCpwTtHu5stSKk-MKtfyiH_lVIpbpeg3Y_6agpESP-pL2cF5vO2lpbWiFdFfkLb2fDdi6i8n8KppCdeW4LO71Fon9Q0Iujbq-raKz7iFNNY",
+    "high_res_url": "//www.google.com/logos/doodles/2024/sweden-national-day-2024-6753651837110234-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      6,
+      6
+    ],
+    "translations": {
+      "en": {
+        "query": "Sweden National Day",
+        "hover_text": "Sweden National Day 2024",
+        "share_text": "Happy National Day, Sweden! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Swede se nasionale dag",
+        "hover_text": "Swede se nasionale dag 2024",
+        "share_text": "Gelukkige nasionale dag, Swede! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Festa Kombëtare e Suedisë",
+        "hover_text": "Dita Kombëtare e Suedisë, 2024",
+        "share_text": "Gëzuar Festën Kombëtare, Suedi! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የስዊዲን ብሔራዊ ቀን",
+        "hover_text": "የስዊድን ብሔራዊ ቀን 2024",
+        "share_text": "መልካም ብሔራዊ ቀን፣ ስዊዲን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "العيد الوطني للسويد",
+        "hover_text": "العيد الوطني للسويد 2024",
+        "share_text": "عيد وطني سعيد للسويد #GoogleDoodle"
+      },
+      "hy": {
+        "query": "Շվեդիայի ազգային տոն",
+        "hover_text": "Շվեդիայի ազգային օր 2024",
+        "share_text": "Շնորհավո՛ր ազգային տոնը, Շվեդիա #GoogleDoodle"
+      },
+      "az": {
+        "query": "İsveçin müstəqillik günü",
+        "hover_text": "2024 İsveçin Müstəqillik Günü",
+        "share_text": "Müstəqillik günün mübarək, İsveç! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "সুইডেনের জাতীয় দিবস",
+        "hover_text": "সুইডেনের জাতীয় দিবস ২০২৪",
+        "share_text": "জাতীয় দিবস, সুইডেন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Suediako Egun Nazionala",
+        "hover_text": "2024ko Suediako Egun Nazionala",
+        "share_text": "Egun Nazional zoriontsua izan, Suedia! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Нацыянальны дзень Швецыі",
+        "hover_text": "Нацыянальны дзень Швецыі 2024",
+        "share_text": "З Нацыянальным днём, Швецыя! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan državnosti Švedske",
+        "hover_text": "Dan državnosti Švedske 2024.",
+        "share_text": "Sretan Dan državnosti, Švedska! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Sweden National Day",
+        "hover_text": "Sweden National Day 2024",
+        "share_text": "Happy National Day, Sweden! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Национален празник на Швеция",
+        "hover_text": "Национален празник на Швеция 2024 г.",
+        "share_text": "Честит национален празник на Швеция! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဆွီဒင် အမျိုးသားနေ့",
+        "hover_text": "၂၀၂၄ ဆွီဒင် အမျိုးသားနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် အမျိုးသားနေ့ဖြစ်ပါစေ ဆွီဒင်။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia Nacional de Suècia",
+        "hover_text": "Dia Nacional de Suècia 2024",
+        "share_text": "Feliç Dia Nacional, Suècia! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "瑞典國慶日",
+        "hover_text": "2024 年瑞典國慶日",
+        "share_text": "瑞典國慶日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "瑞典國慶日",
+        "hover_text": "2024 年瑞典國慶日",
+        "share_text": "瑞典，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "瑞典国庆日",
+        "hover_text": "2024 年瑞典国庆节",
+        "share_text": "瑞典，国庆日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan državnosti Švedske",
+        "hover_text": "Dan državnosti Švedske 2024.",
+        "share_text": "Sretan Dan državnosti, Švedska! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Státní svátek Švédska",
+        "hover_text": "Den švédské státnosti 2024",
+        "share_text": "Vše nejlepší ke státnímu svátku, Švédsko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Sveriges nationaldag",
+        "hover_text": "Sveriges nationaldag 2024",
+        "share_text": "Glædelig nationaldag, Sverige! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Nationale feestdag Zweden",
+        "hover_text": "Nationale feestdag Zweden 2024",
+        "share_text": "Fijne nationale feestdag, Zweden #GoogleDoodle"
+      },
+      "et": {
+        "query": "Rootsi rahvuspüha",
+        "hover_text": "Rootsi 2024. aasta rahvuspüha",
+        "share_text": "Head rahvuspüha, Rootsi! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Ruotsin kansallispäivä",
+        "hover_text": "Ruotsin kansallispäivä 2024",
+        "share_text": "Hyvää kansallispäivää, Ruotsi! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête nationale de la Suède",
+        "hover_text": "Fête nationale de la Suède 2024",
+        "share_text": "Fête nationale de la Suède #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête nationale de la Suède",
+        "hover_text": "Fête nationale de la Suède 2024",
+        "share_text": "Joyeuse fête nationale de la Suède! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día Nacional de Suecia",
+        "hover_text": "Día Nacional de Suecia 2024",
+        "share_text": "Feliz Día Nacional, Suecia! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "შვედეთის ეროვნული დღესასწაული",
+        "hover_text": "შვედეთის ეროვნული დღესასწაული — 2024",
+        "share_text": "ვულოცავთ შვედეთს ეროვნულ დღესასწაულს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Schwedischer Nationalfeiertag",
+        "hover_text": "Schwedischer Nationalfeiertag 2024",
+        "share_text": "Alles Gute zum Nationalfeiertag in Schweden! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Εθνική επέτειος Σουηδίας",
+        "hover_text": "Εθνική Ημέρα της Σουηδίας 2024",
+        "share_text": "Εορτασμός για την Εθνική επέτειο της Σουηδίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "સ્વીડનનો રાષ્ટ્રીય દિવસ",
+        "hover_text": "સ્વીડનનો રાષ્ટ્રીય દિવસ 2024",
+        "share_text": "સ્વીડનના રાષ્ટ્રીય દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "החג הלאומי של שוודיה",
+        "hover_text": "החג הלאומי של שוודיה 2024",
+        "share_text": "חג לאומי שמח לשוודיה! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "स्वीडन का राष्ट्रीय दिवस",
+        "hover_text": "स्वीडन का राष्ट्रीय दिवस 2024",
+        "share_text": "स्वीडन को राष्ट्रीय दिवस की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Svédország nemzeti ünnepe",
+        "hover_text": "Svédország nemzeti ünnepe, 2024",
+        "share_text": "Minden jót Svédország nemzeti ünnepén! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þjóðhátíðardagur Svía",
+        "hover_text": "Þjóðhátíðardagur Svíþjóðar 2024",
+        "share_text": "Gleðilegan þjóðhátíðardag, Svíþjóð! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Nasional Swedia",
+        "hover_text": "Hari Nasional Swedia 2024",
+        "share_text": "Selamat Hari Nasional, Swedia! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Náisiúnta na Sualainne",
+        "hover_text": null,
+        "share_text": "Lá Náisiúnta na Sualainne faoi mhaise duit. #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa nazionale della Svezia",
+        "hover_text": "Festa nazionale della Svezia 2024",
+        "share_text": "Auguri per la Festa nazionale, Svezia! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "スウェーデン建国記念日",
+        "hover_text": "2024 年スウェーデン建国記念日",
+        "share_text": "スウェーデン建国記念日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಸ್ವೀಡನ್ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಸ್ವೀಡನ್ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಸ್ವೀಡನ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Швецияның Ұлттық күні",
+        "hover_text": "Швецияның Ұлттық күні – 2024",
+        "share_text": "Швеция, Ұлттық күн құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាបុណ្យជាតិ​ស៊ុយអែត",
+        "hover_text": "ទិវាបុណ្យជាតិ​ស៊ុយអែតឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវាបុណ្យជាតិ​ស៊ុយអែត! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "스웨덴 국경일",
+        "hover_text": "2024년 스웨덴 국경일",
+        "share_text": "스웨덴 국경일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Швециянын Улуттук күнү",
+        "hover_text": "Швециянын Улуттук күнү – 2024",
+        "share_text": "Улуттук күнүң менен, Швеция! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຊາດສະວີເດັນ",
+        "hover_text": "ວັນຊາດສະວີເດັນປີ 2024",
+        "share_text": "ສຸກສັນວັນຊາດສະວີເດັນ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día Nacional de Suecia",
+        "hover_text": "Día Nacional de Suecia 2024",
+        "share_text": "¡Feliz Día Nacional de Suecia! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Zviedrijas nacionālie svētki",
+        "hover_text": "Zviedrijas Nacionālie svētki — 2024",
+        "share_text": "Sveicam nacionālajos svētkos, Zviedrija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Švedijos nacionalinė diena",
+        "hover_text": "Švedijos nacionalinė diena, 2024 m.",
+        "share_text": "Su Nacionaline diena, Švedija! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на државноста на Шведска",
+        "hover_text": "Ден на државноста на Шведска, 2024 г.",
+        "share_text": "Среќен Ден на државноста, Шведска! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetim-pirenena Soedoà",
+        "hover_text": null,
+        "share_text": "Tsarà Fetim-pirenena ry Soedy ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kebangsaan Sweden",
+        "hover_text": "Hari Kebangsaan Sweden 2024",
+        "share_text": "Selamat Hari Kebangsaan, Sweden! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "സ്വീഡൻ ദേശീയ ദിനം",
+        "hover_text": "സ്വീഡൻ ദേശീയദിനം 2024",
+        "share_text": "ദേശീയ ദിനാശംസകൾ, സ്വീഡൻ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "स्वीडनचा राष्ट्रीय दिन",
+        "hover_text": "स्वीडनचा राष्ट्रीय दिन २०२४",
+        "share_text": "स्वीडनला राष्ट्रीय दिनाचा हार्दिक शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Швед улсын Үндэсний баярын өдөр",
+        "hover_text": "2024 оны Швед Улсын Үндэсний баярын өдөр",
+        "share_text": "Швед улсын ард иргэдэд Үндэсний баярын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "स्विडेनको राष्ट्रिय दिवस",
+        "hover_text": "स्विडेनको राष्ट्रिय दिवस २०२४",
+        "share_text": "राष्ट्रिय दिवसको शुभकामना, स्विडेन! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Sveriges nasjonaldag",
+        "hover_text": "Sveriges nasjonaldag 2024",
+        "share_text": "Gratulerer med nasjonaldagen, Sverige! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ସ୍ୱିଡେନ୍ ରାଷ୍ଟ୍ରୀୟ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ରାଷ୍ଟ୍ରୀୟ ଦିବସର ଶୁଭେଚ୍ଛା, ସ୍ୱିଡେନ୍! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز ملی سوئد",
+        "hover_text": "روز ملی ۲۰۲۴ سوئد",
+        "share_text": "روز ملی سوئد مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Narodowe Szwecji",
+        "hover_text": "Święto Narodowe Szwecji 2024",
+        "share_text": "Udanego Święta Narodowego Szwecji! #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia Nacional da Suécia",
+        "hover_text": "Dia Nacional da Suécia 2024",
+        "share_text": "Feliz Dia Nacional, Suécia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia nacional da Suécia",
+        "hover_text": "Dia Nacional da Suécia de 2024",
+        "share_text": "Feliz dia nacional, Suécia! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਸਵੀਡਨ ਰਾਸ਼ਟਰੀ ਦਿਵਸ",
+        "hover_text": "ਸਵੀਡਨ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ 2024",
+        "share_text": "ਸਵੀਡਨ ਦੇ ਰਾਸ਼ਟਰੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Națională a Suediei",
+        "hover_text": "Ziua Națională a Suediei – 2024",
+        "share_text": "La mulți ani de Ziua Națională a Suediei! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Национальный день Швеции",
+        "hover_text": "Национальный день Швеции – 2024",
+        "share_text": "Национальный день Швеции #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан државности Шведске",
+        "hover_text": "Дан државности Шведске 2024.",
+        "share_text": "Честитамо Дан државности Шведској! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan državnosti Švedske",
+        "hover_text": "Dan državnosti Švedske 2024.",
+        "share_text": "Čestitamo Dan državnosti Švedskoj! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen nasyonal Laswed",
+        "hover_text": null,
+        "share_text": "Lazournen nasyonal, Laswed! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ස්වීඩන ජාතික දිනය",
+        "hover_text": "2024 ස්වීඩනයේ ජාතික දිනය",
+        "share_text": "ස්වීඩන ශුභ ජාතික දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Štátny sviatok Švédska",
+        "hover_text": "Národný deň Švédska 2024",
+        "share_text": "Šťastný štátny sviatok, Švédsko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Švedski dan državnosti",
+        "hover_text": "Švedski dan državnosti 2024",
+        "share_text": "Vesel dan državnosti, Švedska! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Qaranka Sweden",
+        "hover_text": null,
+        "share_text": "Maalinta Qaranka Farxada leh, Sweden! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la setjaba la Sweden",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Setjaba, Sweden! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día Nacional de Suecia",
+        "hover_text": "Día Nacional de Suecia 2024",
+        "share_text": "¡Feliz Día Nacional de Suecia! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya taifa la Uswidi",
+        "hover_text": "Sikukuu ya Kitaifa ya Uswidi 2024",
+        "share_text": "Heri za Sikukuu ya taifa, Uswidi! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Sveriges nationaldag",
+        "hover_text": "Sveriges nationaldag 2024",
+        "share_text": "Vi firar Sveriges nationaldag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஸ்வீடன் தேசிய தினம்",
+        "hover_text": "ஸ்வீடன் தேசிய தினம் 2024",
+        "share_text": "ஸ்வீடன் தேசிய தின நல்வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "స్వీడన్ జాతీయ దినోత్సవం",
+        "hover_text": "స్వీడన్ జాతీయ దినోత్సవం 2024",
+        "share_text": "స్వీడన్ జాతీయ దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันชาติสวีเดน",
+        "hover_text": "วันชาติสวีเดนปี 2024",
+        "share_text": "สุขสันต์วันชาติสวีเดน #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Setšhaba la Sweden",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Setšhaba, Sweden! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "İsveç Ulusal Günü",
+        "hover_text": "2024 İsveç Ulusal Günü",
+        "share_text": "İsveç Ulusal Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Національний день Швеції",
+        "hover_text": "Національний день Швеції у 2024 році",
+        "share_text": "З Національним днем, Швеціє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "سویڈن کا قومی دن",
+        "hover_text": "سویڈن کا قومی دن 2024",
+        "share_text": "سویڈن، قومی دن مبارک ہو! ‎#GoogleDoodle"
+      },
+      "uz": {
+        "query": "Shvetsiya milliy bayrami",
+        "hover_text": "Shvetsiya Milliy bayrami 2024",
+        "share_text": "Shvetsiya milliy bayrami muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Thụy Điển",
+        "hover_text": "Ngày Quốc khánh Thuỵ Điển năm 2024",
+        "share_text": "Chúc mừng ngày quốc khánh Thụy Điển! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lezwe e-Sweden",
+        "hover_text": "Usuku Lukazwelonke lwase-Sweden lwango-2024",
+        "share_text": "Usuku Lezwe Oluhle, e-Sweden! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Sweden National Day",
+    "share_text": "Happy National Day, Sweden! #GoogleDoodle"
+  },
+  {
+    "name": "eu-elections-2024-netherlands",
+    "title": "EU Elections 2024 (Netherlands)",
+    "url": "//www.google.com/logos/doodles/2024/temp-eu-elections-2024-poland-6753651837110489-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/M2ar6zWU_DCI3MrmoecswFrz4VEOfXzQlrkIp33P5rG5HuAD9XbGT4ig7rWFVuS4DoXIqL7GZ6mh91RoAgkmHlcxPe985uxzhwX8nktiOsEFIrXB2Nz-pQ",
+    "high_res_url": "//www.google.com/logos/doodles/2024/temp-eu-elections-2024-poland-6753651837110489-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      6,
+      6
+    ],
+    "translations": {
+      "en": {
+        "query": "EU Parliamentary Elections 2024",
+        "hover_text": "EU Parliamentary Election 2024",
+        "share_text": "EU Parliamentary Elections 2024! #GoogleDoodle"
+      },
+      "af": {
+        "query": "EU se parlementêre verkiesing 2024",
+        "hover_text": "EU se parlementêre verkiesing 2024",
+        "share_text": "EU se parlementêre verkiesing 2024! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Zgjedhjet parlamentare në BE, 2024",
+        "hover_text": "Zgjedhjet parlamentare në BE, 2024",
+        "share_text": "Zgjedhjet parlamentare në BE, 2024! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአህ የፓርላማ ምርጫዎች 2024",
+        "hover_text": "የአህ የፓርላማ ምርጫ 2024",
+        "share_text": "የአህ የፓርላማ ምርጫ 2024! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "انتخابات البرلمان الأوروبي 2024",
+        "hover_text": "انتخابات البرلمان الأوروبي 2024",
+        "share_text": "انطلقت انتخابات البرلمان الأوروبي لعام 2024. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "ԵՄ խորհրդարանական ընտրություններ 2024",
+        "hover_text": "ԵՄ խորհրդարանական ընտրություններ 2024",
+        "share_text": "ԵՄ խորհրդարանական ընտրություններ 2024 #GoogleDoodle"
+      },
+      "az": {
+        "query": "Aİ Parlament Seçkiləri 2024",
+        "hover_text": "Aİ Parlament Seçkiləri 2024",
+        "share_text": "Aİ Parlament Seçkiləri 2024! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ইউরোপীয় ইউনিয়নের সংসদীয় নির্বাচন ২০২৪",
+        "hover_text": "ইউরোপীয় ইউনিয়নের সংসদীয় নির্বাচন ২০২৪",
+        "share_text": "ইউরোপীয় ইউনিয়নের সংসদীয় নির্বাচন ২০২৪! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "2024ko Europako Parlamenturako hauteskundeak",
+        "hover_text": "2024ko Europako Parlamenturako hauteskundeak",
+        "share_text": "2024ko Europako Parlamenturako hauteskundeak #GoogleDoodle"
+      },
+      "be": {
+        "query": "Выбары ў Еўрапарламент 2024",
+        "hover_text": "Выбары ў Еўрапарламент 2024",
+        "share_text": "Выбары ў Еўрапарламент 2024! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Izbori za Evropski parlament 2024.",
+        "hover_text": "Izbori za Evropski parlament 2024.",
+        "share_text": "Izbori za Evropski parlament 2024! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "EU parliamentary elections 2024",
+        "hover_text": "EU parliamentary election 2024",
+        "share_text": "EU parliamentary elections 2024! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Избори за Европейски парламент 2024 г.",
+        "hover_text": "Избори за Европейски парламент 2024 г.",
+        "share_text": "Избори за Европейски парламент 2024 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "၂၀၂၄ အီးယူ ပါလီမန်ရွေးကောက်ပွဲများ",
+        "hover_text": "၂၀၂၄ အီးယူ ပါလီမန်ရွေးကောက်ပွဲများ",
+        "share_text": "၂၀၂၄ အီးယူ ပါလီမန်ရွေးကောက်ပွဲများ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Eleccions al Parlament Europeu 2024",
+        "hover_text": "Eleccions al Parlament Europeu 2024",
+        "share_text": "Eleccions al Parlament Europeu 2024 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "2024 年歐盟議會選舉",
+        "hover_text": "2024 年歐盟議會選舉",
+        "share_text": "2024 年歐盟議會選舉！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "2024 年歐洲議會選舉",
+        "hover_text": "2024 年歐洲議會選舉",
+        "share_text": "2024 年歐洲議會選舉登場！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "2024 年欧洲议会选举",
+        "hover_text": "2024 年欧洲议会选举",
+        "share_text": "2024 年欧洲议会选举！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Izbori za Europski parlament 2024.",
+        "hover_text": "Izbori za Europski parlament 2024.",
+        "share_text": "Izbori za Europski parlament 2024.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Volby do Evropského parlamentu 2024",
+        "hover_text": "Volby do Evropského parlamentu 2024",
+        "share_text": "Konají se volby do Evropského parlamentu 2024! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Valg til Europa-Parlamentet 2024",
+        "hover_text": "Valg til Europa-Parlamentet 2024",
+        "share_text": "Valg til Europa-Parlamentet 2024 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Europese parlementsverkiezingen 2024",
+        "hover_text": "Europese parlementsverkiezingen 2024",
+        "share_text": "De Europese parlementsverkiezingen 2024! #GoogleDoodle"
+      },
+      "et": {
+        "query": "2024. aasta Euroopa Parlamendi valimised",
+        "hover_text": "2024. aasta Euroopa Parlamendi valimised",
+        "share_text": "2024. aasta Euroopa Parlamendi valimised! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Europarlamenttivaalit 2024",
+        "hover_text": "Europarlamenttivaalit 2024",
+        "share_text": "Europarlamenttivaalit 2024 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Élections parlementaires européennes 2024",
+        "hover_text": "Élections parlementaires européennes 2024",
+        "share_text": "Élections parlementaires européennes 2024 ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Élections parlementaires de l'UE 2024",
+        "hover_text": "Élections parlementaires de l'UE 2024",
+        "share_text": "Élections parlementaires de l'UE 2024! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Eleccións ao Parlamento Europeo 2024",
+        "hover_text": "Eleccións ao Parlamento Europeo 2024",
+        "share_text": "Eleccións ao Parlamento Europeo 2024! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ევროკავშირის საპარლამენტო არჩევნები — 2024",
+        "hover_text": "ევროკავშირის საპარლამენტო არჩევნები — 2024",
+        "share_text": "ევროკავშირის საპარლამენტო არჩევნები — 2024! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Europawahl 2024",
+        "hover_text": "Europawahl 2024",
+        "share_text": "Europawahl 2024 #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ευρωεκλογές 2024",
+        "hover_text": "Ευρωεκλογές 2024",
+        "share_text": "Ευρωεκλογές 2024! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "EUની રાષ્ટ્રીય ચૂંટણીઓ 2024",
+        "hover_text": "EUની રાષ્ટ્રીય ચૂંટણી 2024",
+        "share_text": "EUની રાષ્ટ્રીય ચૂંટણીઓ 2024! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "הבחירות לפרלמנט של האיחוד האירופי 2024",
+        "hover_text": "הבחירות לפרלמנט של האיחוד האירופי 2024",
+        "share_text": "בחירות לפרלמנט של האיחוד האירופי 2024 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "ईयू के संसदीय चुनाव 2024",
+        "hover_text": "ईयू का संसदीय चुनाव 2024",
+        "share_text": "ईयू के संसदीय चुनाव 2024! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Európai parlamenti választások, 2024",
+        "hover_text": "Európai parlamenti választás, 2024",
+        "share_text": "Európai parlamenti választások, 2024. #GoogleDoodle"
+      },
+      "is": {
+        "query": "Kosningar til Evrópuþings 2024",
+        "hover_text": "Kosningar til Evrópuþings 2024",
+        "share_text": "Kosningar til Evrópuþings 2024! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Pemilu Parlemen Uni Eropa 2024",
+        "hover_text": "Pemilu Parlemen Uni Eropa 2024",
+        "share_text": "Pemilu Parlemen Uni Eropa 2024 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Elezioni del Parlamento europeo 2024",
+        "hover_text": "Elezioni del Parlamento europeo 2024",
+        "share_text": "Elezioni del Parlamento europeo 2024! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "2024 年欧州議会選挙",
+        "hover_text": "2024 年欧州議会選挙",
+        "share_text": "2024 年欧州議会選挙 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "EU ಸಂಸದೀಯ ಚುನಾವಣೆಗಳು 2024",
+        "hover_text": "EU ಸಂಸದೀಯ ಚುನಾವಣೆ 2024",
+        "share_text": "EU ಸಂಸದೀಯ ಚುನಾವಣೆ 2024! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Еуропалық одақ парламентінің сайлауы — 2024",
+        "hover_text": "Еуропалық одақ парламентінің сайлауы — 2024",
+        "share_text": "Еуропалық одақ парламентінің сайлауы — 2024 #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការបោះឆ្នោត​សភា​សហភាព​អឺរ៉ុបឆ្នាំ 2024",
+        "hover_text": "ការបោះឆ្នោតសភាសហភាពអឺរ៉ុបឆ្នាំ 2024",
+        "share_text": "ការបោះឆ្នោត​សភា​សហភាព​អឺរ៉ុបឆ្នាំ 2024! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "2024년 EU 의회 선거",
+        "hover_text": "2024년 EU 의회 선거",
+        "share_text": "2024년 EU 의회 선거 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Европа Биримдигининин Парламентине шайлоо – 2024",
+        "hover_text": "Европа Биримдигининин Парламентине шайлоо – 2024",
+        "share_text": "Европа Биримдигининин Парламентине шайлоо – 2024! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ການເລືອກຕັ້ງລັດຖະສະພາສະຫະພາບຢູໂຣບປີ 2024",
+        "hover_text": "ການເລືອກຕັ້ງລັດຖະສະພາສະຫະພາບຢູໂຣບປີ 2024",
+        "share_text": "ການເລືອກຕັ້ງລັດຖະສະພາສະຫະພາບຢູໂຣບປີ 2024! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Elecciones parlamentarias de la UE 2024",
+        "hover_text": "Elecciones parlamentarias de la UE 2024",
+        "share_text": "Elecciones parlamentarias de la UE 2024 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Eiropas Parlamenta vēlēšanas — 2024",
+        "hover_text": "Eiropas Parlamenta vēlēšanas — 2024",
+        "share_text": "Eiropas Parlamenta vēlēšanas — 2024! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "ES Parlamento rinkimai, 2024 m.",
+        "hover_text": "ES Parlamento rinkimai, 2024 m.",
+        "share_text": "ES Parlamento rinkimai, 2024 m.! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Парламентарни избори во ЕУ, 2024 г.",
+        "hover_text": "Парламентарни избори во ЕУ, 2024 г.",
+        "share_text": "Парламентарни избори во ЕУ, 2024 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Pilihan Raya Parlimen EU 2024",
+        "hover_text": "Pilihan Raya Parlimen EU 2024",
+        "share_text": "Pilihan Raya Parlimen EU 2024! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "EU പാർലമെന്ററി തിരഞ്ഞെടുപ്പ് 2024",
+        "hover_text": "EU പാർലമെന്ററി തിരഞ്ഞെടുപ്പ് 2024",
+        "share_text": "EU പാർലമെന്ററി തിരഞ്ഞെടുപ്പ് 2024! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "ईयूमधील संसदीय निवडणुका २०२४",
+        "hover_text": "ईयूमधील संसदीय निवडणूक २०२४",
+        "share_text": "ईयूमधील संसदीय निवडणुका २०२४! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "2024 оны ЕХ-ны парламентын сонгууль",
+        "hover_text": "2024 оны ЕХ-ны парламентын сонгууль",
+        "share_text": "2024 оны ЕХ-ны парламентын сонгууль! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "युरोपेली सङ्घको संसदीय निर्वाचन २०२४",
+        "hover_text": "युरोपेली सङ्घको संसदीय निर्वाचन २०२४",
+        "share_text": "युरोपेली सङ्घको संसदीय निर्वाचन २०२४! #GoogleDoodle"
+      },
+      "no": {
+        "query": "EU-parlamentsvalget 2024",
+        "hover_text": "EU-parlamentsvalget 2024",
+        "share_text": "EU-parlamentsvalget 2024! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "انتخابات ۲۰۲۴ مجلس اتحادیه اروپا",
+        "hover_text": "انتخابات ۲۰۲۴ مجلس اتحادیه اروپا",
+        "share_text": "انتخابات ۲۰۲۴ مجلس اتحادیه اروپا! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Wybory do Parlamentu UE 2024",
+        "hover_text": "Wybory do Parlamentu UE 2024",
+        "share_text": "Wybory do Parlamentu UE 2024 #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Eleições parlamentares da UE 2024",
+        "hover_text": "Eleições parlamentares da UE 2024",
+        "share_text": "Eleições parlamentares da UE 2024 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Eleições para o Parlamento Europeu de 2024",
+        "hover_text": "Eleições para o Parlamento Europeu de 2024",
+        "share_text": "Eleições para o Parlamento Europeu de 2024! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "EU Parliamentary Elections 2024",
+        "hover_text": "EU ਦੀਆਂ ਸੰਸਦੀ ਚੋਣਾਂ 2024",
+        "share_text": "EU ਦੀਆਂ ਸੰਸਦੀ ਚੋਣਾਂ 2024! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Alegeri europarlamentare 2024",
+        "hover_text": "Alegeri europarlamentare 2024",
+        "share_text": "Alegeri europarlamentare 2024! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Выборы в Европейский парламент – 2024",
+        "hover_text": "Выборы в Европейский парламент – 2024",
+        "share_text": "Выборы в Европейский парламент – 2024 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Избори за Европски парламент 2024.",
+        "hover_text": "Избори за Европски парламент 2024.",
+        "share_text": "Избори за Европски парламент 2024! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Izbori za Evropski parlament 2024.",
+        "hover_text": "Izbori za Evropski parlament 2024.",
+        "share_text": "Izbori za Evropski parlament 2024! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "යුරෝපා සංගමයේ පාර්ලිමේන්තු මැතිවරණය 2024",
+        "hover_text": "යුරෝපා සංගමයේ පාර්ලිමේන්තු මැතිවරණය 2024",
+        "share_text": "යුරෝපා සංගමයේ පාර්ලිමේන්තු මැතිවරණය 2024! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Voľby do Európskeho parlamentu 2024",
+        "hover_text": "Voľby do Európskeho parlamentu 2024",
+        "share_text": "Voľby do Európskeho parlamentu 2024. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Volitve v Evropski parlament 2024",
+        "hover_text": "Volitve v Evropski parlament 2024",
+        "share_text": "Volitve v Evropski parlament 2024! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Elecciones al Parlamento Europeo 2024",
+        "hover_text": "Elecciones al Parlamento Europeo 2024",
+        "share_text": "Hoy se celebran las elecciones al Parlamento Europeo 2024 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Uchaguzi wa Bunge la Umoja wa Ulaya (EU) 2024",
+        "hover_text": "Uchaguzi wa Bunge la Umoja wa Ulaya (EU) 2024",
+        "share_text": "Uchaguzi wa Bunge la Umoja wa Ulaya (EU) 2024! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Val till Europaparlamentet 2024",
+        "hover_text": "Val till Europaparlamentet 2024",
+        "share_text": "Val till Europaparlamentet 2024 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஐரோப்பிய ஒன்றியப் பாராளுமன்றத் தேர்தல்கள் 2024",
+        "hover_text": "ஐரோப்பிய ஒன்றியப் பாராளுமன்றத் தேர்தல் 2024",
+        "share_text": "ஐரோப்பிய ஒன்றியப் பாராளுமன்றத் தேர்தல்கள் 2024! #GoogleDoodle"
+      },
+      "te": {
+        "query": "EU పార్లమెంటరీ ఎన్నికలు 2024",
+        "hover_text": "EU పార్లమెంటరీ ఎన్నికలు 2024",
+        "share_text": "EU పార్లమెంటరీ ఎన్నికలు 2024! #GoogleDoodle"
+      },
+      "th": {
+        "query": "การเลือกตั้งสมาชิกรัฐสภายุโรปปี 2024",
+        "hover_text": "การเลือกตั้งสมาชิกรัฐสภายุโรปปี 2024",
+        "share_text": "การเลือกตั้งสมาชิกรัฐสภายุโรปปี 2024 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "2024 AB Parlamentosu Seçimleri",
+        "hover_text": "2024 AB Parlamentosu Seçimleri",
+        "share_text": "2024 AB Parlamentosu Seçimleri #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Вибори до Європейського парламенту у 2024 році",
+        "hover_text": "Вибори до Європейського парламенту у 2024 році",
+        "share_text": "Вибори до Європейського парламенту у 2024 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یورپی یونین کے پارلیمانی انتخابات 2024",
+        "hover_text": "یورپی یونین کا پارلیمانی انتخاب 2024",
+        "share_text": "یورپی یونین کے پارلیمانی انتخابات 2024! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Yevropa Ittifoqida Parlament saylovlari 2024",
+        "hover_text": "Yevropa Ittifoqida Parlament saylovi 2024",
+        "share_text": "Yevropa Ittifoqida Parlament saylovlari 2024! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Bầu cử Nghị viện Liên minh Châu Âu năm 2024",
+        "hover_text": "Bầu cử Nghị viện Liên minh Châu Âu năm 2024",
+        "share_text": "Bầu cử Nghị viện Liên minh Châu Âu năm 2024! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ukhetho Lwasephalamende lwe-EU Luka-2024",
+        "hover_text": "Ukhetho Lwasephalamende lwe-EU Luka-2024",
+        "share_text": "Ukhetho Lwasephalamende lwe-EU Luka-2024! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "EU Parliamentary Elections 2024",
+    "share_text": "EU Parliamentary Elections 2024! #GoogleDoodle"
+  },
+  {
+    "name": "celebrating-jeanne-cordova",
+    "title": "Celebrating Jeanne Córdova",
+    "url": "//www.google.com/logos/doodles/2024/celebrating-jeanne-cordova-6753651837110543-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/rnpmSS8Qa0uQyMwOVqiiBOlvdjc-j8ZhytiZlZ50La-HOITRVujmKxoY1YBpzJNBcUb-i7xPwePs0VxJqr9uw9EuKmY6KFijUzBEADaXGEOibT6U26uN",
+    "high_res_url": "//www.google.com/logos/doodles/2024/celebrating-jeanne-cordova-6753651837110543-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      6,
+      6
+    ],
+    "translations": {
+      "en": {
+        "query": "Jeanne Cordova",
+        "hover_text": "Celebrating Jeanne Cordova",
+        "share_text": "Celebrating Jeanne Cordova! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Jeanne Cordova",
+        "hover_text": "Ter viering van Jeanne Cordova",
+        "share_text": "Ter viering van Jeanne Cordova! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Jeanne Cordova",
+        "hover_text": "Përkujtojmë Jeanne Cordova",
+        "share_text": "Përkujtojmë Jeanne Cordova! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ጄን ኮርዶቫ",
+        "hover_text": "ጄን ኮርዶቫን በማክበር ላይ",
+        "share_text": "ጄን ኮርዶቫን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "\"جين كوردوفا\"",
+        "hover_text": "نحتفل اليوم بذكرى \"جين كوردوفا\"",
+        "share_text": "نحتفل اليوم بذكرى \"جين كوردوفا\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ժաննա Կորդովա",
+        "hover_text": "Տոնենք Ժաննա Կորդովայի օրը",
+        "share_text": "Տոնենք Ժաննա Կորդովայի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Jeanne Cordova",
+        "hover_text": "Jeanne Cordova günü",
+        "share_text": "Jeanne Cordova günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "জিন কর্ডোভা",
+        "hover_text": "জিন কর্ডোভার স্মৃতিতে উদযাপন করা হচ্ছে",
+        "share_text": "জিন কর্ডোভার স্মৃতিতে উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Jeanne Córdova",
+        "hover_text": "Jeanne Córdovaren omenez",
+        "share_text": "Jeanne Córdovaren omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Жанна Кардова",
+        "hover_text": "Ушаноўваем Жанну Кардова",
+        "share_text": "Ушаноўваем Жанну Кардова! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Jeanne Cordova",
+        "hover_text": "Slavimo Jeanneu Cordovu",
+        "share_text": "Slavimo Jeanneu Cordovu! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Jeanne Cordova",
+        "hover_text": "Celebrating Jeanne Cordova",
+        "share_text": "Celebrating Jeanne Cordova! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Джийн Кордова",
+        "hover_text": "Честване на Джийн Кордова",
+        "share_text": "Честване на Джийн Кордова! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Jeanne Cordova",
+        "hover_text": "Jeanne Cordova ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "Jeanne Cordova ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Jeanne Córdova",
+        "hover_text": "Homenatge a Jeanne Córdova",
+        "share_text": "Homenatge a Jeanne Córdova #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Jeanne Cordova",
+        "hover_text": "紀念 Jeanne Cordova",
+        "share_text": "紀念 Jeanne Cordova！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "珍妮科爾多瓦",
+        "hover_text": "紀念珍妮科爾多瓦",
+        "share_text": "紀念珍妮科爾多瓦！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "Jeanne Cordova",
+        "hover_text": "纪念 Jeanne Cordova",
+        "share_text": "纪念 Jeanne Cordova！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Jeanne Cordova",
+        "hover_text": "U čast Jeanne Cordove",
+        "share_text": "U čast Jeanne Cordove! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Jeanne Cordova",
+        "hover_text": "Pocta pro Jeanne Cordovu",
+        "share_text": "Dnes si připomínáme Jeanne Cordovu! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Jeanne Cordova",
+        "hover_text": "Vi hylder Jeanne Cordova",
+        "share_text": "Vi hylder Jeanne Cordova #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Jeanne Córdova",
+        "hover_text": "Doodle ter ere van Jeanne Córdova",
+        "share_text": "Een doodle ter ere van Jeanne Córdova! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Jeanne Cordova",
+        "hover_text": "Mälestame Jeanne Cordovat",
+        "share_text": "Mälestame Jeanne Cordovat! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Jeanne Cordova",
+        "hover_text": "Jeanne Cordova",
+        "share_text": "Jeanne Cordova #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Jeanne Córdova",
+        "hover_text": "Hommage à Jeanne Córdova",
+        "share_text": "Hommage à Jeanne Córdova ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jeanne Córdova",
+        "hover_text": "Célébration de Jeanne Córdova",
+        "share_text": "Célébration de Jeanne Córdova! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Jeanne Córdova",
+        "hover_text": "Homenaxe a Jeanne Córdova",
+        "share_text": "Homenaxe a Jeanne Córdova! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ჯინ კორდოვა",
+        "hover_text": "აღვნიშნავთ ჯინ კორდოვას დღეს",
+        "share_text": "აღვნიშნავთ ჯინ კორდოვას დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Jeanne Córdova",
+        "hover_text": "Zu Ehren von Jeanne Córdova",
+        "share_text": "Zu Ehren von Jeanne Córdova #GoogleDoodle"
+      },
+      "el": {
+        "query": "Jeanne Cordova",
+        "hover_text": "Τιμούμε την Jeanne Cordova",
+        "share_text": "Τιμούμε την Jeanne Cordova! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "જીન કોર્ડોવા",
+        "hover_text": "જીન કોર્ડોવાની યાદમાં",
+        "share_text": "જીન કોર્ડોવાની યાદમાં! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Jeanne Cordova",
+        "hover_text": "מחווה לז'אן קורדובה",
+        "share_text": "מחווה לז'אן קורדובה GoogleDoodle#"
+      },
+      "hi": {
+        "query": "जीन कोर्डोवा",
+        "hover_text": "जीन कोर्डोवा की याद में",
+        "share_text": "जीन कोर्डोवा की याद में! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Jeanne Cordova",
+        "hover_text": "Jeanne Cordova ünneplése",
+        "share_text": "Jeanne Cordova ünneplése. #GoogleDoodle"
+      },
+      "is": {
+        "query": "Jeanne Cordova",
+        "hover_text": "Við heiðrum Jeanne Cordova",
+        "share_text": "Við heiðrum Jeanne Cordova! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Jeanne Córdova",
+        "hover_text": "Mengenang Jeanne Córdova",
+        "share_text": "Mengenang Jeanne Córdova #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Jeanne Córdova",
+        "hover_text": "Jeanne Cordova á ceiliúradh",
+        "share_text": "Jeanne Cordova á ceiliúradh! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Jeanne Córdova",
+        "hover_text": "In onore di Jeanne Córdova",
+        "share_text": "In onore di Jeanne Córdova! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ジャンヌ・コルドバ",
+        "hover_text": "ジャンヌ・コルドバを称えて",
+        "share_text": "ジャンヌ・コルドバを称えて #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಜೀನ್ ಕಾರ್ಡೋವಾ",
+        "hover_text": "ಜೀನ್ ಕಾರ್ಡೋವಾ ಅವರನ್ನು ಸ್ಮರಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಜೀನ್ ಕಾರ್ಡೋವಾ ಅವರನ್ನು ಸ್ಮರಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Жанна Кордова",
+        "hover_text": "Жанна Кордова күні",
+        "share_text": "Жанна Кордова күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Jeanne Cordova",
+        "hover_text": "អបអរទិវារំលឹក Jeanne Cordova",
+        "share_text": "អបអរទិវារំលឹក Jeanne Cordova! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Jeanne Cordova",
+        "hover_text": "Jeanne Cordova를 기억하며",
+        "share_text": "Jeanne Cordova를 기억하며 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Жанна Кордова",
+        "hover_text": "Жанна Кордова күнүн майрамдоо",
+        "share_text": "Жанна Кордова күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Jeanne Cordova",
+        "hover_text": "ວັນລະນຶກເຖິງ Jeanne Cordova",
+        "share_text": "ວັນລະນຶກເຖິງ Jeanne Cordova! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Jeanne Córdova",
+        "hover_text": "Celebramos a Jeanne Córdova",
+        "share_text": "¡Celebramos a Jeanne Córdova! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Žanna Kordova",
+        "hover_text": "Žannas Kordovas godināšana",
+        "share_text": "Žannas Kordovas godināšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Jeanne Cordova",
+        "hover_text": "Jeanne Cordova minėjimas",
+        "share_text": "Jeanne Cordova minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Jeanne Cordova",
+        "hover_text": "Во чест на Jeanne Cordova",
+        "share_text": "Во чест на Jeanne Cordova! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Jeanne Cordova",
+        "hover_text": "Meraikan Jeanne Cordova",
+        "share_text": "Meraikan Jeanne Cordova! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Jeanne Cordova",
+        "hover_text": "Jeanne Cordova-യെ ആദരിക്കുന്നു",
+        "share_text": "Jeanne Cordova-യെ ആദരിക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "जीन कॉर्डोवा",
+        "hover_text": "जीन कॉर्डोवा यांच्या स्मरणार्थ",
+        "share_text": "जीन कॉर्डोवा यांच्या स्मरणार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Жанна Кордова",
+        "hover_text": "Жанна Кордовагийн өдрийг тэмдэглэж байна",
+        "share_text": "Жанна Кордовагийн өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Jeanne Cordova",
+        "hover_text": "Jeanne Cordova को सम्झना",
+        "share_text": "Jeanne Cordova को सम्झना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Jeanne Córdova",
+        "hover_text": "Vi minnes Jeanne Córdova",
+        "share_text": "Vi minnes Jeanne Córdova! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "جین کوردووا",
+        "hover_text": "بزرگداشت جین کوردووا",
+        "share_text": "بزرگداشت جین کوردووا! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Jeanne Cordova",
+        "hover_text": "Wspominamy Jeanne Cordovę",
+        "share_text": "Wspominamy Jeanne Cordovę #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Jeanne Córdova",
+        "hover_text": "Celebrando o ativismo de Jeanne Córdova",
+        "share_text": "Celebrando o ativismo de Jeanne Córdova #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Jeanne Cordova",
+        "hover_text": "Celebração de Jeanne Cordova",
+        "share_text": "Celebração de Jeanne Cordova! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਜੀਨ ਕੋਰਡੋਵਾ",
+        "hover_text": "ਜੀਨ ਕੋਰਡੋਵਾ ਦੀ ਯਾਦ ਵਿੱਚ",
+        "share_text": "ਜੀਨ ਕੋਰਡੋਵਾ ਦੀ ਯਾਦ ਵਿੱਚ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Jeanne Córdova",
+        "hover_text": "În cinstea lui Jeanne Córdova",
+        "share_text": "În cinstea lui Jeanne Córdova! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Жанна Кордова",
+        "hover_text": "День Жанны Кордовы",
+        "share_text": "День Жанны Кордовы #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Џин Кордоба",
+        "hover_text": "Славимо Џин Кордоба",
+        "share_text": "Славимо Џин Кордоба! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Džin Kordoba",
+        "hover_text": "Slavimo Džin Kordoba",
+        "share_text": "Slavimo Džin Kordoba! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ජීන් කෝර්ඩෝවා",
+        "hover_text": "ජීන් කෝර්ඩෝවා සමරමින්",
+        "share_text": "ජීන් කෝර්ඩෝවා සමරමින්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Jeanne Córdova",
+        "hover_text": "Pripomíname si Jeanne Córdovaovú",
+        "share_text": "Pripomíname si Jeanne Córdovaovú. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Jeanne Cordova",
+        "hover_text": "Slavimo Jeanne Cordovo",
+        "share_text": "Slavimo Jeanne Cordovo! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Jeanne Córdova",
+        "hover_text": "Homenaje a Jeanne Córdova",
+        "share_text": "Hoy rendimos homenaje a Jeanne Córdova #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Jeanne Cordova",
+        "hover_text": "Tunamwenzi Jeanne Cordova",
+        "share_text": "Tunamwenzi Jeanne Cordova! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Jeanne Córdova",
+        "hover_text": "Vi hyllar Jeanne Córdova",
+        "share_text": "Vi hyllar Jeanne Córdova #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Jeanne Cordova",
+        "hover_text": "ஜீன் கோர்டோவாவைக் கொண்டாடுவோம்",
+        "share_text": "ஜீன் கோர்டோவாவைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "జీన్ కొర్డోవా",
+        "hover_text": "జీన్ కొర్డోవాను స్మరించుకుందాం",
+        "share_text": "జీన్ కొర్డోవాను స్మరించుకుందాం! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Jeanne Cordova",
+        "hover_text": "วันรำลึกถึง Jeanne Cordova",
+        "share_text": "วันรำลึกถึง Jeanne Cordova #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Jeanne Cordova",
+        "hover_text": "Jeanne Cordova'yı Anıyoruz",
+        "share_text": "Jeanne Cordova'yı anıyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Жанна Кордова",
+        "hover_text": "Ушановуємо Жанну Кордову",
+        "share_text": "Ушановуємо Жанну Кордову! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Jeanne Cordova",
+        "hover_text": "‫Jeanne Cordova کی یاد میں",
+        "share_text": "‫Jeanne Cordova کی یاد میں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Jeanne Cordova",
+        "hover_text": "Jeanne Cordova kuni",
+        "share_text": "Jeanne Cordova kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Jeanne Cordova",
+        "hover_text": "Tôn vinh Jeanne Cordova",
+        "share_text": "Tôn vinh Jeanne Cordova! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Jeanne Cordova",
+        "hover_text": "Sibungaza u-Jeanne Cordova",
+        "share_text": "Sibungaza u-Jeanne Cordova! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Jeanne Cordova",
+    "share_text": "Celebrating Jeanne Cordova! #GoogleDoodle"
+  },
+  {
     "name": "denmark-constitution-day-2024",
     "title": "Denmark Constitution Day 2024",
     "url": "//www.google.com/logos/doodles/2024/denmark-constitution-day-2024-6753651837110233-law.gif",
