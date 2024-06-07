@@ -1,5 +1,2001 @@
 [
   {
+    "name": "eu-elections-2024-ireland",
+    "title": "EU Elections 2024 (Ireland)",
+    "url": "//www.google.com/logos/doodles/2024/eu-elections-2024-ireland-6753651837110559-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/YBlxH-g71afRkvZmyaJAwv4d8K-tPnw6EUpxaAkxBA7qReNI-zWuS4cYLYdaW2VHiWtWxbp3N6zzz-mACx5yq7JwacoINZBLJwjXgER2NRUM_-DUItVRsA",
+    "high_res_url": "//www.google.com/logos/doodles/2024/eu-elections-2024-ireland-6753651837110559-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      6,
+      7
+    ],
+    "translations": {
+      "en": {
+        "query": "how to vote in elections in republic of ireland",
+        "hover_text": "EU Parliamentary Election 2024",
+        "share_text": "EU Parliamentary Election 2024! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "am": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ar": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hy": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "az": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "eu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "be": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": "how to vote in elections in republic of ireland",
+        "hover_text": "EU Parliamentary Election 2024",
+        "share_text": "EU Parliamentary Election 2024! #GoogleDoodle"
+      },
+      "bg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "my": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ca": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "cs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "da": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "nl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "et": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "de": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "el": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "is": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "id": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ja": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "kn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "kk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ko": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ky": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lv": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ml": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ne": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "no": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ro": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sw": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sv": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "te": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "th": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ur": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uz": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "vi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "how to vote in elections in republic of ireland",
+    "share_text": "EU Parliamentary Election 2024! #GoogleDoodle"
+  },
+  {
+    "name": "eu-elections-2024-czechia",
+    "title": "EU Elections 2024 (Czechia)",
+    "url": "//www.google.com/logos/doodles/2024/temp-eu-elections-2024-czechia-6753651837110488-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/S36F0WYQAmOtdO-xsAcQi17SHpVBTJiiEkRLHqFe9I_7ukrh0fczSUhSfxU9k77AzD0eSOgpt0pb0lHaGju1s46b8HDeOkZtM8OfCYUGTZjynjhml3xCi98",
+    "high_res_url": "//www.google.com/logos/doodles/2024/temp-eu-elections-2024-czechia-6753651837110488-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      6,
+      7
+    ],
+    "translations": {
+      "en": {
+        "query": "EU Parliamentary Elections 2024",
+        "hover_text": "EU Parliamentary Election 2024",
+        "share_text": "EU Parliamentary Election! #GoogleDoodle"
+      },
+      "af": {
+        "query": "EU se parlementêre verkiesing 2024",
+        "hover_text": "EU se parlementêre verkiesing 2024",
+        "share_text": "EU se parlementêre verkiesing! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Zgjedhjet parlamentare në BE, 2024",
+        "hover_text": "Zgjedhjet parlamentare në BE, 2024",
+        "share_text": "Zgjedhjet parlamentare në BE! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአህ የፓርላማ ምርጫዎች 2024",
+        "hover_text": "የአህ የፓርላማ ምርጫ 2024",
+        "share_text": "የአህ የፓርላማ ምርጫ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "انتخابات البرلمان الأوروبي 2024",
+        "hover_text": "انتخابات البرلمان الأوروبي 2024",
+        "share_text": "انطلقت انتخابات البرلمان الأوروبي. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "ԵՄ խորհրդարանական ընտրություններ 2024",
+        "hover_text": "ԵՄ խորհրդարանական ընտրություններ 2024",
+        "share_text": "ԵՄ խորհրդարանական ընտրություններ #GoogleDoodle"
+      },
+      "az": {
+        "query": "Aİ Parlament Seçkiləri 2024",
+        "hover_text": "Aİ Parlament Seçkiləri 2024",
+        "share_text": "Aİ Parlament Seçkiləri! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ইউরোপীয় ইউনিয়নের সংসদীয় নির্বাচন ২০২৪",
+        "hover_text": "ইউরোপীয় ইউনিয়নের সংসদীয় নির্বাচন ২০২৪",
+        "share_text": "ইউরোপীয় ইউনিয়নের সংসদীয় নির্বাচন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "2024ko Europako Parlamenturako hauteskundeak",
+        "hover_text": "2024ko Europako Parlamenturako hauteskundeak",
+        "share_text": "Europako Parlamenturako hauteskundeak #GoogleDoodle"
+      },
+      "be": {
+        "query": "Выбары ў Еўрапарламент 2024",
+        "hover_text": "Выбары ў Еўрапарламент 2024",
+        "share_text": "Выбары ў Еўрапарламент! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Izbori za Evropski parlament 2024.",
+        "hover_text": "Izbori za Evropski parlament 2024.",
+        "share_text": "Izbori za Evropski parlament! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "EU parliamentary elections 2024",
+        "hover_text": "EU parliamentary election 2024",
+        "share_text": "EU parliamentary election! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Избори за Европейски парламент 2024 г.",
+        "hover_text": "Избори за Европейски парламент 2024 г.",
+        "share_text": "Избори за Европейски парламент! #GoogleDoodle"
+      },
+      "my": {
+        "query": "၂၀၂၄ အီးယူ ပါလီမန်ရွေးကောက်ပွဲများ",
+        "hover_text": "၂၀၂၄ အီးယူ ပါလီမန်ရွေးကောက်ပွဲများ",
+        "share_text": "အီးယူ ပါလီမန်ရွေးကောက်ပွဲ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Eleccions al Parlament Europeu 2024",
+        "hover_text": "Eleccions al Parlament Europeu 2024",
+        "share_text": "Eleccions al Parlament Europeu #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "2024 年歐盟議會選舉",
+        "hover_text": "2024 年歐盟議會選舉",
+        "share_text": "歐盟議會選舉！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "2024 年歐洲議會選舉",
+        "hover_text": "2024 年歐洲議會選舉",
+        "share_text": "歐洲議會選舉登場！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "2024 年欧洲议会选举",
+        "hover_text": "2024 年欧洲议会选举",
+        "share_text": "欧洲议会选举！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Izbori za Europski parlament 2024.",
+        "hover_text": "Izbori za Europski parlament 2024.",
+        "share_text": "Izbori za Europski parlament! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Volby do Evropského parlamentu 2024",
+        "hover_text": "Volby do Evropského parlamentu 2024",
+        "share_text": "Konají se volby do Evropského parlamentu! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Valg til Europa-Parlamentet 2024",
+        "hover_text": "Valg til Europa-Parlamentet 2024",
+        "share_text": "Valg til Europa-Parlamentet #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Europese parlementsverkiezingen 2024",
+        "hover_text": "Europese parlementsverkiezingen 2024",
+        "share_text": "De Europese parlementsverkiezingen! #GoogleDoodle"
+      },
+      "et": {
+        "query": "2024. aasta Euroopa Parlamendi valimised",
+        "hover_text": "2024. aasta Euroopa Parlamendi valimised",
+        "share_text": "Euroopa Parlamendi valimised! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Europarlamenttivaalit 2024",
+        "hover_text": "Europarlamenttivaalit 2024",
+        "share_text": "Europarlamenttivaalit #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Élections parlementaires européennes 2024",
+        "hover_text": "Élections parlementaires européennes 2024",
+        "share_text": "Élections parlementaires européennes ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Élections parlementaires de l'UE 2024",
+        "hover_text": "Élections parlementaires de l'UE 2024",
+        "share_text": "Élections parlementaires de l'UE! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Eleccións ao Parlamento Europeo 2024",
+        "hover_text": "Eleccións ao Parlamento Europeo 2024",
+        "share_text": "Eleccións ao Parlamento Europeo! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ევროკავშირის საპარლამენტო არჩევნები — 2024",
+        "hover_text": "ევროკავშირის საპარლამენტო არჩევნები — 2024",
+        "share_text": "ევროკავშირის საპარლამენტო არჩევნები! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Europawahl 2024",
+        "hover_text": "Europawahl 2024",
+        "share_text": "Europawahl #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ευρωεκλογές 2024",
+        "hover_text": "Ευρωεκλογές 2024",
+        "share_text": "Ευρωεκλογές! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "EUની રાષ્ટ્રીય ચૂંટણીઓ 2024",
+        "hover_text": "EUની રાષ્ટ્રીય ચૂંટણી 2024",
+        "share_text": "EUની રાષ્ટ્રીય ચૂંટણી! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "הבחירות לפרלמנט של האיחוד האירופי 2024",
+        "hover_text": "הבחירות לפרלמנט של האיחוד האירופי 2024",
+        "share_text": "הבחירות לפרלמנט של האיחוד האירופי GoogleDoodle#"
+      },
+      "hi": {
+        "query": "ईयू के संसदीय चुनाव 2024",
+        "hover_text": "ईयू का संसदीय चुनाव 2024",
+        "share_text": "ईयू का संसदीय चुनाव! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Európai parlamenti választások, 2024",
+        "hover_text": "Európai parlamenti választás, 2024",
+        "share_text": "Európai parlamenti választások #GoogleDoodle"
+      },
+      "is": {
+        "query": "Kosningar til Evrópuþings 2024",
+        "hover_text": "Kosningar til Evrópuþings 2024",
+        "share_text": "Kosningar til Evrópuþings! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Pemilu Parlemen Uni Eropa 2024",
+        "hover_text": "Pemilu Parlemen Uni Eropa 2024",
+        "share_text": "Pemilu Parlemen Uni Eropa #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Elezioni del Parlamento europeo 2024",
+        "hover_text": "Elezioni del Parlamento europeo 2024",
+        "share_text": "Elezioni del Parlamento europeo! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "2024 年欧州議会選挙",
+        "hover_text": "2024 年欧州議会選挙",
+        "share_text": "欧州議会選挙 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "EU ಸಂಸದೀಯ ಚುನಾವಣೆಗಳು 2024",
+        "hover_text": "EU ಸಂಸದೀಯ ಚುನಾವಣೆ 2024",
+        "share_text": "EU ಸಂಸದೀಯ ಚುನಾವಣೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Еуропалық одақ парламентінің сайлауы — 2024",
+        "hover_text": "Еуропалық одақ парламентінің сайлауы — 2024",
+        "share_text": "Еуропалық одақ парламентінің сайлауы #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការបោះឆ្នោត​សភា​សហភាព​អឺរ៉ុបឆ្នាំ 2024",
+        "hover_text": "ការបោះឆ្នោតសភាសហភាពអឺរ៉ុបឆ្នាំ 2024",
+        "share_text": "ការបោះឆ្នោតសភាសហភាពអឺរ៉ុប! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "2024년 EU 의회 선거",
+        "hover_text": "2024년 EU 의회 선거",
+        "share_text": "EU 의회 선거 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Европа Биримдигининин Парламентине шайлоо – 2024",
+        "hover_text": "Европа Биримдигининин Парламентине шайлоо – 2024",
+        "share_text": "Европа Биримдигининин Парламентине шайлоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ການເລືອກຕັ້ງລັດຖະສະພາສະຫະພາບຢູໂຣບປີ 2024",
+        "hover_text": "ການເລືອກຕັ້ງລັດຖະສະພາສະຫະພາບຢູໂຣບປີ 2024",
+        "share_text": "ການເລືອກຕັ້ງລັດຖະສະພາສະຫະພາບຢູໂຣບ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Elecciones parlamentarias de la UE 2024",
+        "hover_text": "Elecciones parlamentarias de la UE 2024",
+        "share_text": "Elecciones parlamentarias de la UE #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Eiropas Parlamenta vēlēšanas — 2024",
+        "hover_text": "Eiropas Parlamenta vēlēšanas — 2024",
+        "share_text": "Eiropas Parlamenta vēlēšanas! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "ES Parlamento rinkimai, 2024 m.",
+        "hover_text": "ES Parlamento rinkimai, 2024 m.",
+        "share_text": "ES Parlamento rinkimai! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Парламентарни избори во ЕУ, 2024 г.",
+        "hover_text": "Парламентарни избори во ЕУ, 2024 г.",
+        "share_text": "Парламентарни избори во ЕУ! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Pilihan Raya Parlimen EU 2024",
+        "hover_text": "Pilihan Raya Parlimen EU 2024",
+        "share_text": "Pilihan Raya Parlimen EU! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "EU പാർലമെന്ററി തിരഞ്ഞെടുപ്പ് 2024",
+        "hover_text": "EU പാർലമെന്ററി തിരഞ്ഞെടുപ്പ് 2024",
+        "share_text": "EU പാർലമെന്ററി തിരഞ്ഞെടുപ്പ്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "ईयूमधील संसदीय निवडणुका २०२४",
+        "hover_text": "ईयूमधील संसदीय निवडणूक २०२४",
+        "share_text": "ईयूमधील संसदीय निवडणूक! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "2024 оны ЕХ-ны парламентын сонгууль",
+        "hover_text": "2024 оны ЕХ-ны парламентын сонгууль",
+        "share_text": "ЕХ-ны парламентын сонгууль! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "युरोपेली सङ्घको संसदीय निर्वाचन २०२४",
+        "hover_text": "युरोपेली सङ्घको संसदीय निर्वाचन २०२४",
+        "share_text": "युरोपेली सङ्घको संसदीय निर्वाचन! #GoogleDoodle"
+      },
+      "no": {
+        "query": "EU-parlamentsvalget 2024",
+        "hover_text": "EU-parlamentsvalget 2024",
+        "share_text": "EU-parlamentsvalget! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "انتخابات ۲۰۲۴ مجلس اتحادیه اروپا",
+        "hover_text": "انتخابات ۲۰۲۴ مجلس اتحادیه اروپا",
+        "share_text": "انتخابات مجلس اتحادیه اروپا! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Wybory do Parlamentu UE 2024",
+        "hover_text": "Wybory do Parlamentu UE 2024",
+        "share_text": "Wybory do Parlamentu UE #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Eleições parlamentares da UE 2024",
+        "hover_text": "Eleições parlamentares da UE 2024",
+        "share_text": "Eleições parlamentares da UE #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Eleições para o Parlamento Europeu de 2024",
+        "hover_text": "Eleições para o Parlamento Europeu de 2024",
+        "share_text": "Eleições para o Parlamento Europeu! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "EU Parliamentary Elections 2024",
+        "hover_text": "EU ਦੀਆਂ ਸੰਸਦੀ ਚੋਣਾਂ 2024",
+        "share_text": "EU ਦੀਆਂ ਸੰਸਦੀ ਚੋਣਾਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Alegeri europarlamentare 2024",
+        "hover_text": "Alegeri europarlamentare 2024",
+        "share_text": "Alegeri europarlamentare! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Выборы в Европейский парламент – 2024",
+        "hover_text": "Выборы в Европейский парламент – 2024",
+        "share_text": "Выборы в Европейский парламент #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Избори за Европски парламент 2024.",
+        "hover_text": "Избори за Европски парламент 2024.",
+        "share_text": "Избори за Европски парламент! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Izbori za Evropski parlament 2024.",
+        "hover_text": "Izbori za Evropski parlament 2024.",
+        "share_text": "Izbori za Evropski parlament! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "යුරෝපා සංගමයේ පාර්ලිමේන්තු මැතිවරණය 2024",
+        "hover_text": "යුරෝපා සංගමයේ පාර්ලිමේන්තු මැතිවරණය 2024",
+        "share_text": "යුරෝපා සංගමයේ පාර්ලිමේන්තු මැතිවරණය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Voľby do Európskeho parlamentu 2024",
+        "hover_text": "Voľby do Európskeho parlamentu 2024",
+        "share_text": "Voľby do Európskeho parlamentu. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Volitve v Evropski parlament 2024",
+        "hover_text": "Volitve v Evropski parlament 2024",
+        "share_text": "Volitve v Evropski parlament! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Elecciones al Parlamento Europeo 2024",
+        "hover_text": "Elecciones al Parlamento Europeo 2024",
+        "share_text": "Hoy se celebran las elecciones al Parlamento Europeo #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Uchaguzi wa Bunge la Umoja wa Ulaya (EU) 2024",
+        "hover_text": "Uchaguzi wa Bunge la Umoja wa Ulaya (EU) 2024",
+        "share_text": "Uchaguzi wa Bunge la Umoja wa Ulaya (EU)! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Val till Europaparlamentet 2024",
+        "hover_text": "Val till Europaparlamentet 2024",
+        "share_text": "Val till Europaparlamentet #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஐரோப்பிய ஒன்றியப் பாராளுமன்றத் தேர்தல்கள் 2024",
+        "hover_text": "ஐரோப்பிய ஒன்றியப் பாராளுமன்றத் தேர்தல் 2024",
+        "share_text": "ஐரோப்பிய ஒன்றியப் பாராளுமன்றத் தேர்தல்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "EU పార్లమెంటరీ ఎన్నికలు 2024",
+        "hover_text": "EU పార్లమెంటరీ ఎన్నికలు 2024",
+        "share_text": "EU పార్లమెంటరీ ఎన్నికలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "การเลือกตั้งสมาชิกรัฐสภายุโรปปี 2024",
+        "hover_text": "การเลือกตั้งสมาชิกรัฐสภายุโรปปี 2024",
+        "share_text": "การเลือกตั้งสมาชิกรัฐสภายุโรป #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "2024 AB Parlamentosu Seçimleri",
+        "hover_text": "2024 AB Parlamentosu Seçimleri",
+        "share_text": "AB Parlamentosu Seçimleri #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Вибори до Європейського парламенту у 2024 році",
+        "hover_text": "Вибори до Європейського парламенту у 2024 році",
+        "share_text": "Вибори до Європейського парламенту! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یورپی یونین کے پارلیمانی انتخابات 2024",
+        "hover_text": "یورپی یونین کا پارلیمانی انتخاب 2024",
+        "share_text": "یورپی یونین کا پارلیمانی انتخاب! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Yevropa Ittifoqida Parlament saylovlari 2024",
+        "hover_text": "Yevropa Ittifoqida Parlament saylovi 2024",
+        "share_text": "Yevropa Ittifoqida Parlament saylovlari! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Bầu cử Nghị viện Liên minh Châu Âu năm 2024",
+        "hover_text": "Bầu cử Nghị viện Liên minh Châu Âu năm 2024",
+        "share_text": "Bầu cử Nghị viện Liên minh Châu Âu! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ukhetho Lwasephalamende lwe-EU Luka-2024",
+        "hover_text": "Ukhetho Lwasephalamende lwe-EU Luka-2024",
+        "share_text": "Ukhetho Lwasephalamende lwe-EU! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "EU Parliamentary Elections 2024",
+    "share_text": "EU Parliamentary Election! #GoogleDoodle"
+  },
+  {
+    "name": "eu-parlimentary-elections-estonia",
+    "title": "EU Parlimentary Elections (Estonia)",
+    "url": "//www.google.com/logos/doodles/2024/eu-parlimentary-elections-estonia-6753651837110556-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/o818resal1zMSUqw0RHWzA0KU07G-F7czpXBdRZEX-oNuybw5FkqndeKYTyoMohfGd-o-yz8lX3eTsCtOSAhb5CajmK-bZynY3XsF7zNQ70osoEOou9dpQ",
+    "high_res_url": "//www.google.com/logos/doodles/2024/eu-parlimentary-elections-estonia-6753651837110556-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      6,
+      7
+    ],
+    "translations": {
+      "en": {
+        "query": "EU Parliamentary Election 2024",
+        "hover_text": "EU Parliamentary Election 2024",
+        "share_text": "EU Parliamentary Election 2024! #GoogleDoodle"
+      },
+      "af": {
+        "query": "EU se parlementêre verkiesing 2024",
+        "hover_text": "EU se parlementêre verkiesing 2024",
+        "share_text": ""
+      },
+      "sq": {
+        "query": "Zgjedhjet parlamentare në BE, 2024",
+        "hover_text": "Zgjedhjet parlamentare në BE, 2024",
+        "share_text": "Zgjedhjet parlamentare në BE, 2024! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአህ የፓርላማ ምርጫ 2024",
+        "hover_text": "የአህ የፓርላማ ምርጫ 2024",
+        "share_text": ""
+      },
+      "ar": {
+        "query": "انتخابات البرلمان الأوروبي 2024",
+        "hover_text": "انتخابات البرلمان الأوروبي 2024",
+        "share_text": ""
+      },
+      "hy": {
+        "query": "ԵՄ խորհրդարանական ընտրություններ 2024",
+        "hover_text": "ԵՄ խորհրդարանական ընտրություններ 2024",
+        "share_text": "ԵՄ խորհրդարանական ընտրություններ 2024 #GoogleDoodle"
+      },
+      "az": {
+        "query": "Aİ Parlament Seçkiləri 2024",
+        "hover_text": "Aİ Parlament Seçkiləri 2024",
+        "share_text": ""
+      },
+      "bn": {
+        "query": "ইউরোপীয় ইউনিয়নের সংসদীয় নির্বাচন ২০২৪",
+        "hover_text": "ইউরোপীয় ইউনিয়নের সংসদীয় নির্বাচন ২০২৪",
+        "share_text": ""
+      },
+      "eu": {
+        "query": "2024ko Europako Parlamenturako hauteskundeak",
+        "hover_text": "2024ko Europako Parlamenturako hauteskundeak",
+        "share_text": "2024ko Europako Parlamenturako hauteskundeak #GoogleDoodle"
+      },
+      "be": {
+        "query": "Выбары ў Еўрапарламент 2024",
+        "hover_text": "Выбары ў Еўрапарламент 2024",
+        "share_text": "Выбары ў Еўрапарламент 2024! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Izbori za Evropski parlament 2024.",
+        "hover_text": "Izbori za Evropski parlament 2024.",
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": "EU parliamentary election 2024",
+        "hover_text": "EU parliamentary election 2024",
+        "share_text": ""
+      },
+      "bg": {
+        "query": "Избори за Европейски парламент 2024 г.",
+        "hover_text": "Избори за Европейски парламент 2024 г.",
+        "share_text": ""
+      },
+      "my": {
+        "query": "၂၀၂၄ အီးယူ ပါလီမန်ရွေးကောက်ပွဲများ",
+        "hover_text": "၂၀၂၄ အီးယူ ပါလီမန်ရွေးကောက်ပွဲများ",
+        "share_text": "၂၀၂၄ အီးယူ ပါလီမန်ရွေးကောက်ပွဲ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Eleccions al Parlament Europeu 2024",
+        "hover_text": "Eleccions al Parlament Europeu 2024",
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": "2024 年歐盟議會選舉",
+        "hover_text": "2024 年歐盟議會選舉",
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": "2024 年歐洲議會選舉",
+        "hover_text": "2024 年歐洲議會選舉",
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": "2024 年欧洲议会选举",
+        "hover_text": "2024 年欧洲议会选举",
+        "share_text": ""
+      },
+      "hr": {
+        "query": "Izbori za Europski parlament 2024.",
+        "hover_text": "Izbori za Europski parlament 2024.",
+        "share_text": ""
+      },
+      "cs": {
+        "query": "Volby do Evropského parlamentu 2024",
+        "hover_text": "Volby do Evropského parlamentu 2024",
+        "share_text": ""
+      },
+      "da": {
+        "query": "Valg til Europa-Parlamentet 2024",
+        "hover_text": "Valg til Europa-Parlamentet 2024",
+        "share_text": ""
+      },
+      "nl": {
+        "query": "Europese parlementsverkiezingen 2024",
+        "hover_text": "Europese parlementsverkiezingen 2024",
+        "share_text": ""
+      },
+      "et": {
+        "query": "2024. aasta Euroopa Parlamendi valimised",
+        "hover_text": "2024. aasta Euroopa Parlamendi valimised",
+        "share_text": "2024. aasta Euroopa Parlamend! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Europarlamenttivaalit 2024",
+        "hover_text": "Europarlamenttivaalit 2024",
+        "share_text": ""
+      },
+      "fr": {
+        "query": "Élections parlementaires européennes 2024",
+        "hover_text": "Élections parlementaires européennes 2024",
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": "Élections parlementaires de l'UE 2024",
+        "hover_text": "Élections parlementaires de l'UE 2024",
+        "share_text": "Élections parlementaires de l'UE 2024! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Eleccións ao Parlamento Europeo 2024",
+        "hover_text": "Eleccións ao Parlamento Europeo 2024",
+        "share_text": ""
+      },
+      "ka": {
+        "query": "ევროკავშირის საპარლამენტო არჩევნები — 2024",
+        "hover_text": "ევროკავშირის საპარლამენტო არჩევნები — 2024",
+        "share_text": ""
+      },
+      "de": {
+        "query": "Europawahl 2024",
+        "hover_text": "Europawahl 2024",
+        "share_text": ""
+      },
+      "el": {
+        "query": "Ευρωεκλογές 2024",
+        "hover_text": "Ευρωεκλογές 2024",
+        "share_text": ""
+      },
+      "gu": {
+        "query": "EUની રાષ્ટ્રીય ચૂંટણી 2024",
+        "hover_text": "EUની રાષ્ટ્રીય ચૂંટણી 2024",
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "הבחירות לפרלמנט של האיחוד האירופי 2024",
+        "hover_text": "הבחירות לפרלמנט של האיחוד האירופי 2024",
+        "share_text": ""
+      },
+      "hi": {
+        "query": "ईयू का संसदीय चुनाव 2024",
+        "hover_text": "ईयू का संसदीय चुनाव 2024",
+        "share_text": ""
+      },
+      "hu": {
+        "query": "Európai parlamenti választás, 2024",
+        "hover_text": "Európai parlamenti választás, 2024",
+        "share_text": ""
+      },
+      "is": {
+        "query": "Kosningar til Evrópuþings 2024",
+        "hover_text": "Kosningar til Evrópuþings 2024",
+        "share_text": "Kosningar til Evrópuþings 2024! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Pemilu Parlemen Uni Eropa 2024",
+        "hover_text": "Pemilu Parlemen Uni Eropa 2024",
+        "share_text": ""
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Elezioni del Parlamento europeo 2024",
+        "hover_text": "Elezioni del Parlamento europeo 2024",
+        "share_text": "Elezioni del Parlamento europeo 2024! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "2024 年欧州議会選挙",
+        "hover_text": "2024 年欧州議会選挙",
+        "share_text": "2024 年欧州議会選挙 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "EU ಸಂಸದೀಯ ಚುನಾವಣೆ 2024",
+        "hover_text": "EU ಸಂಸದೀಯ ಚುನಾವಣೆ 2024",
+        "share_text": ""
+      },
+      "kk": {
+        "query": "Еуропалық одақ парламентінің сайлауы — 2024",
+        "hover_text": "Еуропалық одақ парламентінің сайлауы — 2024",
+        "share_text": ""
+      },
+      "km": {
+        "query": "ការបោះឆ្នោតសភាសហភាពអឺរ៉ុបឆ្នាំ 2024",
+        "hover_text": "ការបោះឆ្នោតសភាសហភាពអឺរ៉ុបឆ្នាំ 2024",
+        "share_text": ""
+      },
+      "ko": {
+        "query": "2024년 EU 의회 선거",
+        "hover_text": "2024년 EU 의회 선거",
+        "share_text": "2024년 EU 의회 선거 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Европа Биримдигининин Парламентине шайлоо – 2024",
+        "hover_text": "Европа Биримдигининин Парламентине шайлоо – 2024",
+        "share_text": ""
+      },
+      "lo": {
+        "query": "ການເລືອກຕັ້ງລັດຖະສະພາສະຫະພາບຢູໂຣບປີ 2024",
+        "hover_text": "ການເລືອກຕັ້ງລັດຖະສະພາສະຫະພາບຢູໂຣບປີ 2024",
+        "share_text": ""
+      },
+      "es-419": {
+        "query": "Elecciones parlamentarias de la UE 2024",
+        "hover_text": "Elecciones parlamentarias de la UE 2024",
+        "share_text": ""
+      },
+      "lv": {
+        "query": "Eiropas Parlamenta vēlēšanas — 2024",
+        "hover_text": "Eiropas Parlamenta vēlēšanas — 2024",
+        "share_text": "Eiropas Parlamenta vēlēšanas — 2024! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "ES Parlamento rinkimai, 2024 m.",
+        "hover_text": "ES Parlamento rinkimai, 2024 m.",
+        "share_text": "ES Parlamento rinkimai, 2024 m.! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Парламентарни избори во ЕУ, 2024 г.",
+        "hover_text": "Парламентарни избори во ЕУ, 2024 г.",
+        "share_text": "Парламентарни избори во ЕУ, 2024 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Pilihan Raya Parlimen EU 2024",
+        "hover_text": "Pilihan Raya Parlimen EU 2024",
+        "share_text": "Pilihan Raya Parlimen EU 2024! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "EU പാർലമെന്ററി തിരഞ്ഞെടുപ്പ് 2024",
+        "hover_text": "EU പാർലമെന്ററി തിരഞ്ഞെടുപ്പ് 2024",
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "ईयूमधील संसदीय निवडणूक २०२४",
+        "hover_text": "ईयूमधील संसदीय निवडणूक २०२४",
+        "share_text": ""
+      },
+      "mn": {
+        "query": "2024 оны ЕХ-ны парламентын сонгууль",
+        "hover_text": "2024 оны ЕХ-ны парламентын сонгууль",
+        "share_text": "2024 оны ЕХ-ны парламентын сонгууль! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "युरोपेली सङ्घको संसदीय निर्वाचन २०२४",
+        "hover_text": "युरोपेली सङ्घको संसदीय निर्वाचन २०२४",
+        "share_text": ""
+      },
+      "no": {
+        "query": "EU-parlamentsvalget 2024",
+        "hover_text": "EU-parlamentsvalget 2024",
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "انتخابات ۲۰۲۴ مجلس اتحادیه اروپا",
+        "hover_text": "انتخابات ۲۰۲۴ مجلس اتحادیه اروپا",
+        "share_text": ""
+      },
+      "pl": {
+        "query": "Wybory do Parlamentu UE 2024",
+        "hover_text": "Wybory do Parlamentu UE 2024",
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": "Eleições parlamentares da UE 2024",
+        "hover_text": "Eleições parlamentares da UE 2024",
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": "Eleições para o Parlamento Europeu de 2024",
+        "hover_text": "Eleições para o Parlamento Europeu de 2024",
+        "share_text": "Eleições para o Parlamento Europeu de 2024! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "EU ਦੀਆਂ ਸੰਸਦੀ ਚੋਣਾਂ 2024",
+        "hover_text": "EU ਦੀਆਂ ਸੰਸਦੀ ਚੋਣਾਂ 2024",
+        "share_text": "EU ਦੀਆਂ ਸੰਸਦੀ ਚੋਣਾਂ 2024! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Alegeri europarlamentare 2024",
+        "hover_text": "Alegeri europarlamentare 2024",
+        "share_text": "Alegeri europarlamentare 2024! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Выборы в Европейский парламент – 2024",
+        "hover_text": "Выборы в Европейский парламент – 2024",
+        "share_text": ""
+      },
+      "sr": {
+        "query": "Избори за Европски парламент 2024.",
+        "hover_text": "Избори за Европски парламент 2024.",
+        "share_text": "Избори за Европски парламент 2024! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Izbori za Evropski parlament 2024.",
+        "hover_text": "Izbori za Evropski parlament 2024.",
+        "share_text": "Izbori za Evropski parlament 2024! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "යුරෝපා සංගමයේ පාර්ලිමේන්තු මැතිවරණය 2024",
+        "hover_text": "යුරෝපා සංගමයේ පාර්ලිමේන්තු මැතිවරණය 2024",
+        "share_text": ""
+      },
+      "sk": {
+        "query": "Voľby do Európskeho parlamentu 2024",
+        "hover_text": "Voľby do Európskeho parlamentu 2024",
+        "share_text": ""
+      },
+      "sl": {
+        "query": "Volitve v Evropski parlament 2024",
+        "hover_text": "Volitve v Evropski parlament 2024",
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Elecciones al Parlamento Europeo 2024",
+        "hover_text": "Elecciones al Parlamento Europeo 2024",
+        "share_text": "Hoy se celebran las elecciones al Parlamento Europeo 2024 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Uchaguzi wa Bunge la Umoja wa Ulaya (EU) 2024",
+        "hover_text": "Uchaguzi wa Bunge la Umoja wa Ulaya (EU) 2024",
+        "share_text": ""
+      },
+      "sv": {
+        "query": "Val till Europaparlamentet 2024",
+        "hover_text": "Val till Europaparlamentet 2024",
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஐரோப்பிய ஒன்றியப் பாராளுமன்றத் தேர்தல் 2024",
+        "hover_text": "ஐரோப்பிய ஒன்றியப் பாராளுமன்றத் தேர்தல் 2024",
+        "share_text": ""
+      },
+      "te": {
+        "query": "EU పార్లమెంటరీ ఎన్నికలు 2024",
+        "hover_text": "EU పార్లమెంటరీ ఎన్నికలు 2024",
+        "share_text": "EU పార్లమెంటరీ ఎన్నికలు 2024! #GoogleDoodle"
+      },
+      "th": {
+        "query": "การเลือกตั้งสมาชิกรัฐสภายุโรปปี 2024",
+        "hover_text": "การเลือกตั้งสมาชิกรัฐสภายุโรปปี 2024",
+        "share_text": ""
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "2024 AB Parlamentosu Seçimleri",
+        "hover_text": "2024 AB Parlamentosu Seçimleri",
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Вибори до Європейського парламенту у 2024 році",
+        "hover_text": "Вибори до Європейського парламенту у 2024 році",
+        "share_text": "Вибори до Європейського парламенту у 2024 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یورپی یونین کا پارلیمانی انتخاب 2024",
+        "hover_text": "یورپی یونین کا پارلیمانی انتخاب 2024",
+        "share_text": ""
+      },
+      "uz": {
+        "query": "Yevropa Ittifoqida Parlament saylovi 2024",
+        "hover_text": "Yevropa Ittifoqida Parlament saylovi 2024",
+        "share_text": "Yevropa Ittifoqi Parlament saylovlari 2024! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Bầu cử Nghị viện Liên minh Châu Âu năm 2024",
+        "hover_text": "Bầu cử Nghị viện Liên minh Châu Âu năm 2024",
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ukhetho Lwasephalamende lwe-EU Luka-2024",
+        "hover_text": "Ukhetho Lwasephalamende lwe-EU Luka-2024",
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "EU Parliamentary Election 2024",
+    "share_text": "EU Parliamentary Election 2024! #GoogleDoodle"
+  },
+  {
+    "name": "teachers-day-2024-jun-06",
+    "title": "Teachers' Day 2024 (Jun 06)",
+    "url": "//www.google.com/logos/doodles/2024/teachers-day-2024-jun-06-6753651837110421-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/HGLy6kjZp-jh7wJMd6zrFp2zlS7y95N2WVUVVtCmI1wmDRS_fkzT8dKAnm_uP-3oeFRr8S2NR705x63eR7iM7VTzCXX6Z4JlDYwXBy8L-TH23UpMJ-wd",
+    "high_res_url": "//www.google.com/logos/doodles/2024/teachers-day-2024-jun-06-6753651837110421-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      6,
+      6
+    ],
+    "translations": {
+      "en": {
+        "query": "Teachers' Day",
+        "hover_text": "Teachers' Day 2024 (Jun 06) 2024",
+        "share_text": "Happy Teachers' Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Onderwysersdag",
+        "hover_text": "Onderwyserdag 2024 (6 Junie) 2024",
+        "share_text": "Gelukkige Onderwysersdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Mësuesit 2019",
+        "hover_text": "Dita e Mësuesit, 2024 (6 qershor)",
+        "share_text": "Gëzuar Ditën e Mësuesit! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአስተማሪዎች ቀን",
+        "hover_text": "የአስተማሪዎች ቀን (ጁን 06) 2024",
+        "share_text": "መልካም የአስተማሪዎች ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "يوم المعلِّم",
+        "hover_text": "عيد المعلّم (6 يونيو) 2024",
+        "share_text": "نتمنّى عيدًا سعيدًا للمعلّمين. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ուսուցչի օր",
+        "hover_text": "Ուսուցիչների օր 2024 (հունիսի 06)",
+        "share_text": "Շնորհավո՛ր ուսուցիչների օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Müəllimlər Günü",
+        "hover_text": "2024 Müəllimlər Günü (6 iyun) 2024",
+        "share_text": "Müəllimlər Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "শিক্ষক দিবস",
+        "hover_text": "শিক্ষক দিবস ২০২৪ (৬ জুন) ২০২৪",
+        "share_text": "শিক্ষক দিবসের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Irakasleen Eguna",
+        "hover_text": "2024ko Irakasleen Eguna (ekainaren 6a)",
+        "share_text": "Irakasleen Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень настаўніка",
+        "hover_text": "Дзень настаўніка 2024 (6 чэрвеня)",
+        "share_text": "З Днём настаўніка! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nastavnika",
+        "hover_text": "Dan nastavnika (6. jun) 2024.",
+        "share_text": "Sretan Dan nastavnika! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Teachers' Day",
+        "hover_text": "Teacher's Day 2024 (6 Jun)",
+        "share_text": "Happy Teachers' Day! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на учителя",
+        "hover_text": "Ден на учителя (6 юни) 2024 г.",
+        "share_text": "Честит Ден на учителя! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဆရာများနေ့",
+        "hover_text": "၂၀၂၄ ဆရာများနေ့ (ဇွန် ၆) ၂၀၂၄",
+        "share_text": "ပျော်ရွှင်ဖွယ် ဆရာများနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia del Mestre",
+        "hover_text": "Dia del Mestre 2024 (6 de juny)",
+        "share_text": "Feliç Dia del Mestre! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "教師日",
+        "hover_text": "2024 年教師日 (6 月 6 日)",
+        "share_text": "教師日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "教師節",
+        "hover_text": "2024 年教師節",
+        "share_text": "教師節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "教师节",
+        "hover_text": "2024 年教师节（6 月 6 日）",
+        "share_text": "教师节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan učitelja",
+        "hover_text": "Dan učitelja (6. lipnja) 2024.",
+        "share_text": "Sretan Dan učitelja! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den učitelů",
+        "hover_text": "Den učitelů 2024 (6. června)",
+        "share_text": "Veselý Den učitelů! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Lærernes dag",
+        "hover_text": "Lærernes dag 2024 (6. juni)",
+        "share_text": "Glædelig lærernes dag! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Lerarendag",
+        "hover_text": "Dag van de Leerkracht 2024 (6 juni)",
+        "share_text": "Fijne Lerarendag! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Õpetajate päev",
+        "hover_text": "2024. aasta õpetajate päev (6. juuni)",
+        "share_text": "Head õpetajatepäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Opettajien päivä",
+        "hover_text": "Opettajien päivä 2024 (6.6.)",
+        "share_text": "Hyvää opettajien päivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Journée des professeurs",
+        "hover_text": "Journée des enseignants 2024 (6 juin)",
+        "share_text": "Bonne fête des professeurs ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête des professeurs",
+        "hover_text": "Journée des enseignantes et des enseignants 2024 (6 juin)",
+        "share_text": "Joyeuse fête des enseignants! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día do Mestre",
+        "hover_text": "Día do Mestre 2024",
+        "share_text": "Feliz Día do Mestre! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მასწავლებლის დღე",
+        "hover_text": "მასწავლებლის დღე (6 ივნისი) 2024",
+        "share_text": "გილოცავთ მასწავლებლის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Lehrertag",
+        "hover_text": "Weltlehrertag 2024 (06. Juni)",
+        "share_text": "Alles Gute zum Tag der Lehrer! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα των Εκπαιδευτικών",
+        "hover_text": "Ημέρα των Εκπαιδευτικών (6 Ιουνίου) 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα των Εκπαιδευτικών! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "શિક્ષક દિવસ",
+        "hover_text": "શિક્ષક દિવસ 2024 (06 જૂન) 2024",
+        "share_text": "શિક્ષક દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום המורים",
+        "hover_text": "יום המורה 2024 (6 ביוני)",
+        "share_text": "יום המורה שמח! ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "शिक्षक दिवस",
+        "hover_text": "शिक्षक दिवस 2024 (6 जून)",
+        "share_text": "शिक्षक दिवस की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Pedagógusnap",
+        "hover_text": "Pedagógusnap, 2024 (június 6.)",
+        "share_text": "Boldog pedagógusnapot! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Kennaradagurinn",
+        "hover_text": "Kennaradagurinn 2024 (6. júní) 2024",
+        "share_text": "Gleðilegan kennaradag! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Guru",
+        "hover_text": "Hari Guru 2024 (6 Juni)",
+        "share_text": "Selamat Hari Guru! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá na Múinteoirí",
+        "hover_text": null,
+        "share_text": "Lá na Múinteoirí faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa degli insegnanti",
+        "hover_text": "Festa degli insegnanti 2024 (6 giugno)",
+        "share_text": "Buona festa degli insegnanti! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "教師の日",
+        "hover_text": "2024 年教師の日（6 月 6 日）",
+        "share_text": "教師の日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಶಿಕ್ಷಕರ ದಿನಾಚರಣೆ",
+        "hover_text": "ಶಿಕ್ಷಕರ ದಿನ 2024 (ಜೂನ್ 06) 2024",
+        "share_text": "ಶಿಕ್ಷಕರ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Мұғалімдер күні",
+        "hover_text": "Мұғалімдер күні – 2024 (6 маусым)",
+        "share_text": "Мұғалімдер күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​គ្រូបង្រៀន",
+        "hover_text": "ទិវា​គ្រូបង្រៀន​ឆ្នាំ 2024 (ថ្ងៃទី 06 ខែមិថុនា) ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​គ្រូបង្រៀន! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "스승의 날",
+        "hover_text": "2024년 선생님의 날(6월 6일)",
+        "share_text": "스승의 날 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Мугалимдер күнү",
+        "hover_text": "Мугалимдер күнү – 2024 (6-июнь)",
+        "share_text": "Мугалимдер күнүңүз менен! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຄູ",
+        "hover_text": "ວັນຄູປີ 2024 (06 ມີຖຸນາ) 2024",
+        "share_text": "ສຸກສັນວັນຄູ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día del Maestro",
+        "hover_text": "Día del Maestro 2024 (6 de junio)",
+        "share_text": "¡Feliz Día del Maestro! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Skolotāju diena",
+        "hover_text": "Skolotāju diena — 2024. gada 6. jūnijs",
+        "share_text": "Sveicam Skolotāju dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Mokytojų diena",
+        "hover_text": "Mokytojų diena, 2024 m. (birželio 6 d.)",
+        "share_text": "Linksmos Mokytojų dienos! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на наставниците",
+        "hover_text": "Ден на наставниците (6 јуни), 2024 г.",
+        "share_text": "Среќен ден на наставниците! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Andron'ny mpampianatra",
+        "hover_text": null,
+        "share_text": "Tsarà Andron'ny mpampianatra ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Guru",
+        "hover_text": "Hari Guru 2024 (06 Jun) 2024",
+        "share_text": "Selamat Hari Guru! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "അദ്ധ്യാപകദിനം",
+        "hover_text": "അധ്യാപക ദിനം 2024 (ജൂൺ 06) 2024",
+        "share_text": "അദ്ധ്യാപക ദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "शिक्षक दिन",
+        "hover_text": "शिक्षकदिन (६ जून) २०२४",
+        "share_text": "शिक्षक दिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Багш нарын баяр",
+        "hover_text": "2024 оны Багш нарын баярын өдөр (6-р сарын 6)",
+        "share_text": "Багш нарын баярын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "शिक्षक दिवस",
+        "hover_text": "शिक्षक दिवस २०२४ (जुन ०६)",
+        "share_text": "शिक्षक दिवस शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Lærernes dag",
+        "hover_text": "Lærernes dag 2024 (6. juni)",
+        "share_text": "Gratulerer med lærernes dag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଗୁରୁ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ଗୁରୁ ଦିବସର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز معلم",
+        "hover_text": "روز معلم ۲۰۲۴ (۶ ژوئن)",
+        "share_text": "روز معلم مبارک! #GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Nauczyciela",
+        "hover_text": "Dzień Nauczyciela 2024",
+        "share_text": "Szczęśliwego Dnia Nauczyciela! #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia do Professor",
+        "hover_text": "Dia dos Professores 2024 (6 de junho)",
+        "share_text": "Feliz Dia do Professor! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia dos Professores",
+        "hover_text": "Dia do Professor de 2024 (6 de junho)",
+        "share_text": "Feliz dia do professor! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਅਧਿਆਪਕ ਦਿਵਸ",
+        "hover_text": "ਅਧਿਆਪਕ ਦਿਵਸ (06 ਜੂਨ) 2024",
+        "share_text": "ਅਧਿਆਪਕ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua profesorului",
+        "hover_text": "Ziua Profesorilor – 6 iunie 2024",
+        "share_text": "La mulți ani de Ziua Profesorului! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День учителя",
+        "hover_text": "День учителя – 2024 (6 июня)",
+        "share_text": "День учителя #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан учитеља",
+        "hover_text": "Дан учитеља (6. јун) 2024.",
+        "share_text": "Срећан Дан учитеља! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan učitelja",
+        "hover_text": "Dan učitelja (6. jun) 2024.",
+        "share_text": "Srećan Dan učitelja! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Ansenyan",
+        "hover_text": null,
+        "share_text": "Bonn fet asennyan! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ගුරු දිනය",
+        "hover_text": "2024 ගුරු දිනය 2024 (ජූනි 06)",
+        "share_text": "ප්‍රීතිමත් ගුරු දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň učiteľov",
+        "hover_text": "Deň učiteľov 2024 (6. jún)",
+        "share_text": "Šťastný Deň učiteľov! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan učiteljev",
+        "hover_text": "Dan učiteljev 2024 (6. junij)",
+        "share_text": "Vesel dan učiteljev! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Macalimiinta",
+        "hover_text": null,
+        "share_text": "Maalinta Macalinka oo Farxada leh! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Barutis",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Barutisi la 2021! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día del Maestro",
+        "hover_text": "Día de los Docentes 2024 (6 de junio)",
+        "share_text": "¡Feliz Día del Maestro! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Walimu",
+        "hover_text": "Siku ya Walimu 2024 (Tarehe 06 Juni) 2024",
+        "share_text": "Heri za Sikukuu ya Walimu! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Lärarnas dag",
+        "hover_text": "Lärarnas dag 2024 (6 juni)",
+        "share_text": "Vi firar lärarnas dag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஆசிரியர் தினம்",
+        "hover_text": "ஆசிரியர் தினம் 2024 (ஜூன் 06)",
+        "share_text": "ஆசிரியர் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఉపాధ్యాయుల దినోత్సవం",
+        "hover_text": "ఉపాధ్యాయుల దినోత్సవం 2024 (జూన్ 06)",
+        "share_text": "ఉపాధ్యాయుల దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันครู",
+        "hover_text": "วันครูปี 2024 (6 มิ.ย.) 2024",
+        "share_text": "สุขสันต์วันครู #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Barutabana",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Barutabana! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Öğretmenler Günü",
+        "hover_text": "6 Haziran 2024 Öğretmenler Günü",
+        "share_text": "Öğretmenler Günü Kutlaması. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День учителя",
+        "hover_text": "День учителя у 2024 році (6 червня)",
+        "share_text": "З Днем учителя! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم اساتذہ",
+        "hover_text": "یوم اساتذہ 2024 (6 جون)",
+        "share_text": "یوم اساتذہ مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Ustozlar kuni",
+        "hover_text": "Ustozlar kuni 2024 (6-iyun)",
+        "share_text": "Ustozlar kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Nhà giáo",
+        "hover_text": "Ngày Nhà giáo năm 2024 (ngày 6 tháng 6)",
+        "share_text": "Chúc mừng ngày Nhà giáo! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lothisha",
+        "hover_text": "Usuku Lothisha lwango-2024 (06 Jun) 2024",
+        "share_text": "Sikufisela Usuku Oluhle Lothisha! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Teachers' Day",
+    "share_text": "Happy Teachers' Day! #GoogleDoodle"
+  },
+  {
     "name": "sweden-national-day-2024",
     "title": "Sweden National Day 2024",
     "url": "//www.google.com/logos/doodles/2024/sweden-national-day-2024-6753651837110234-law.gif",
@@ -1012,9 +3008,9 @@
     ],
     "translations": {
       "en": {
-        "query": "Jeanne Cordova",
-        "hover_text": "Celebrating Jeanne Cordova",
-        "share_text": "Celebrating Jeanne Cordova! #GoogleDoodle"
+        "query": "Jeanne Córdova",
+        "hover_text": "Celebrating Jeanne Córdova",
+        "share_text": "Celebrating Jeanne Córdova! #GoogleDoodle"
       },
       "af": {
         "query": "Jeanne Cordova",
@@ -1493,8 +3489,8 @@
       }
     },
     "translated_blog_posts": {},
-    "query": "Jeanne Cordova",
-    "share_text": "Celebrating Jeanne Cordova! #GoogleDoodle"
+    "query": "Jeanne Córdova",
+    "share_text": "Celebrating Jeanne Córdova! #GoogleDoodle"
   },
   {
     "name": "denmark-constitution-day-2024",
