@@ -1,5 +1,1003 @@
 [
   {
+    "name": "belgium-national-elections-2024",
+    "title": "Belgium National Elections 2024",
+    "url": "//www.google.com/logos/doodles/2024/belgium-national-elections-2024-6753651837110548-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/wwjGhNx1-i-Hvr3mQQUQ-hOxwXcG1orMY2OkMOEZbfwISLqRsPySbF3qFsuu7lpLvIBhjOJFptds4b6nBAugQzN6t3cUlZZy8LB1Q9RAhzgN_0QNvVJ5Pg",
+    "high_res_url": "//www.google.com/logos/doodles/2024/belgium-national-elections-2024-6753651837110548-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      6,
+      9
+    ],
+    "translations": {
+      "en": {
+        "query": "Belgium National Elections 2024",
+        "hover_text": "Belgium National Elections 2024",
+        "share_text": "Belgium National Elections 2024! #GoogleDoodle"
+      },
+      "af": {
+        "query": "België se nasionale verkiesing 2024",
+        "hover_text": "België se nasionale verkiesing 2024",
+        "share_text": "België se nasionale verkiesing 2024! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Zgjedhjet kombëtare në Belgjikë, 2024",
+        "hover_text": "Zgjedhjet kombëtare në Belgjikë, 2024",
+        "share_text": "Zgjedhjet kombëtare në Belgjikë, 2024! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የቤልጂየም ብሔራዊ ምርጫዎች 2024",
+        "hover_text": "የቤልጂየም ብሔራዊ ምርጫዎች 2024",
+        "share_text": "የቤልጂየም ብሔራዊ ምርጫዎች 2024! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "الانتخابات الوطنية في بلجيكا 2024",
+        "hover_text": "الانتخابات الوطنية في بلجيكا 2024",
+        "share_text": "تنطلق اليوم الانتخابات الوطنية في بلجيكا لعام 2024. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Բելգիայի համապետական ընտրություններ 2024",
+        "hover_text": "Բելգիայի համապետական ընտրություններ 2024",
+        "share_text": "Բելգիայի համապետական ընտրություններ 2024 #GoogleDoodle"
+      },
+      "az": {
+        "query": "2024 Belçika Milli Seçkiləri",
+        "hover_text": "2024 Belçika Milli Seçkiləri",
+        "share_text": "2024 Belçika Milli Seçkiləri! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "বেলজিয়ামের জাতীয় নির্বাচন ২০২৪",
+        "hover_text": "বেলজিয়ামের জাতীয় নির্বাচন ২০২৪",
+        "share_text": "বেলজিয়ামের জাতীয় নির্বাচন ২০২৪! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "2024ko Belgikako hauteskunde orokorrak",
+        "hover_text": "2024ko Belgikako hauteskunde orokorrak",
+        "share_text": "2024ko Belgikako hauteskunde orokorrak #GoogleDoodle"
+      },
+      "be": {
+        "query": "Усеагульныя выбары ў Бельгіі 2024",
+        "hover_text": "Усеагульныя выбары ў Бельгіі 2024",
+        "share_text": "Усеагульныя выбары ў Бельгіі 2024! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Nacionalni izbori u Belgiji 2024.",
+        "hover_text": "Nacionalni izbori u Belgiji 2024.",
+        "share_text": "Nacionalni izbori u Belgiji 2024! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Belgium National Elections 2024",
+        "hover_text": "Belgium National Elections 2024",
+        "share_text": "Belgium National Elections 2024! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Национални избори в Белгия 2024 г.",
+        "hover_text": "Национални избори в Белгия 2024 г.",
+        "share_text": "Национални избори в Белгия 2024 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "၂၀၂၄ ဘယ်လ်ဂျီယမ်နိုင်ငံလုံးဆိုင်ရာ ရွေးကောက်ပွဲများ",
+        "hover_text": "၂၀၂၄ ဘယ်လ်ဂျီယမ်နိုင်ငံလုံးဆိုင်ရာ ရွေးကောက်ပွဲများ",
+        "share_text": "၂၀၂၄ ဘယ်လ်ဂျီယမ်နိုင်ငံလုံးဆိုင်ရာ ရွေးကောက်ပွဲများ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Eleccions nacionals a Bèlgica 2024",
+        "hover_text": "Eleccions nacionals a Bèlgica 2024",
+        "share_text": "Eleccions nacionals a Bèlgica 2024 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "2024 年比利時全國大選",
+        "hover_text": "2024 年比利時全國大選",
+        "share_text": "2024 年比利時全國大選！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "2024 年比利時全國大選",
+        "hover_text": "2024 年比利時全國大選",
+        "share_text": "2024 年比利時全國大選登場！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "2024 年比利时全国大选",
+        "hover_text": "2024 年比利时全国大选",
+        "share_text": "2024 年比利时全国大选！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Nacionalni izbori u Belgiji 2024.",
+        "hover_text": "Nacionalni izbori u Belgiji 2024.",
+        "share_text": "Nacionalni izbori u Belgiji 2024.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Belgické národní volby 2024",
+        "hover_text": "Belgické národní volby 2024",
+        "share_text": "Belgické národní volby 2024! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Valg i Belgien 2024",
+        "hover_text": "Valg i Belgien 2024",
+        "share_text": "Valg i Belgien 2024 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Nationale verkiezingen België 2024",
+        "hover_text": "Nationale verkiezingen België 2024",
+        "share_text": "Nationale verkiezingen België 2024! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Belgia 2024. aasta üleriigilised valimised",
+        "hover_text": "Belgia 2024. aasta üleriigilised valimised",
+        "share_text": "Belgia 2024. aasta üleriigilised valimised! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Belgian kansalliset vaalit 2024",
+        "hover_text": "Belgian kansalliset vaalit 2024",
+        "share_text": "Belgian kansalliset vaalit 2024 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Élections nationales 2024 en Belgique",
+        "hover_text": "Élections nationales 2024 en Belgique",
+        "share_text": "Élections nationales 2024 en Belgique ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Élections nationales de 2024 en Belgique",
+        "hover_text": "Élections nationales de 2024 en Belgique",
+        "share_text": "Élections nationales de 2024 en Belgique! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Eleccións nacionais de Bélxica 2024",
+        "hover_text": "Eleccións nacionais de Bélxica 2024",
+        "share_text": "Eleccións nacionais de Bélxica 2024! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ბელგიის 2024 წლის ეროვნული არჩევნები",
+        "hover_text": "ბელგიის 2024 წლის ეროვნული არჩევნები",
+        "share_text": "ბელგიის 2024 წლის ეროვნული არჩევნები! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Parlamentswahlen in Belgien 2024",
+        "hover_text": "Parlamentswahlen in Belgien 2024",
+        "share_text": "Parlamentswahlen in Belgien 2024 #GoogleDoodle"
+      },
+      "el": {
+        "query": "Εθνικές εκλογές στο Βέλγιο 2024",
+        "hover_text": "Εθνικές εκλογές στο Βέλγιο 2024",
+        "share_text": "Εθνικές εκλογές στο Βέλγιο 2024! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "બેલ્જિયમની રાષ્ટ્રીય ચૂંટણીઓ 2024",
+        "hover_text": "બેલ્જિયમની રાષ્ટ્રીય ચૂંટણીઓ 2024",
+        "share_text": "બેલ્જિયમની રાષ્ટ્રીય ચૂંટણીઓ 2024! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "הבחירות הארציות בבלגיה 2024",
+        "hover_text": "הבחירות הארציות בבלגיה 2024",
+        "share_text": "הבחירות הארציות בבלגיה 2024 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "बेल्जियम का राष्ट्रीय चुनाव 2024",
+        "hover_text": "बेल्जियम का राष्ट्रीय चुनाव 2024",
+        "share_text": "बेल्जियम का राष्ट्रीय चुनाव 2024! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Választások Belgiumban, 2024",
+        "hover_text": "Választások Belgiumban, 2024",
+        "share_text": "Választások Belgiumban, 2024! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Kosningar í Belgíu 2024",
+        "hover_text": "Kosningar í Belgíu 2024",
+        "share_text": "Kosningar í Belgíu 2024! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Pemilu Nasional Belgia 2024",
+        "hover_text": "Pemilu Nasional Belgia 2024",
+        "share_text": "Pemilu Nasional Belgia 2024 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Elezioni nazionali 2024 in Belgio",
+        "hover_text": "Elezioni nazionali 2024 in Belgio",
+        "share_text": "Elezioni nazionali 2024 in Belgio! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "2024 年ベルギー総選挙",
+        "hover_text": "2024 年ベルギー総選挙",
+        "share_text": "2024 年ベルギー総選挙 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಬೆಲ್ಜಿಯಂ ರಾಷ್ಟ್ರೀಯ ಚುನಾವಣೆಗಳು 2024",
+        "hover_text": "ಬೆಲ್ಜಿಯಂ ರಾಷ್ಟ್ರೀಯ ಚುನಾವಣೆಗಳು 2024",
+        "share_text": "ಬೆಲ್ಜಿಯಂ ರಾಷ್ಟ್ರೀಯ ಚುನಾವಣೆಗಳು 2024! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Бельгиядағы жалпыұлттық сайлау – 2024",
+        "hover_text": "Бельгиядағы жалпыұлттық сайлау – 2024",
+        "share_text": "Бельгиядағы жалпыұлттық сайлау – 2024 #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការបោះឆ្នោតជាតិ​បែលហ្ស៊ិក​ឆ្នាំ 2024",
+        "hover_text": "ការបោះឆ្នោតជាតិ​បែលហ្ស៊ិក​ឆ្នាំ 2024",
+        "share_text": "ការបោះឆ្នោតជាតិ​បែលហ្ស៊ិក​ឆ្នាំ 2024! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "2024년 벨기에 총선",
+        "hover_text": "2024년 벨기에 총선",
+        "share_text": "2024년 벨기에 총선 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Бельгиядагы Улуттук шайлоо — 2024",
+        "hover_text": "Бельгиядагы Улуттук шайлоо — 2024",
+        "share_text": "Бельгиядагы Улуттук шайлоо — 2024! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ການເລືອກຕັ້ງແຫ່ງຊາດເບວຢຽມ 2024",
+        "hover_text": "ການເລືອກຕັ້ງແຫ່ງຊາດເບວຢຽມ 2024",
+        "share_text": "ການເລືອກຕັ້ງແຫ່ງຊາດເບວຢຽມ 2024! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Elecciones nacionales en Bélgica 2024",
+        "hover_text": "Elecciones nacionales en Bélgica 2024",
+        "share_text": "Elecciones nacionales en Bélgica 2024 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Valsts vēlēšanas Beļģijā — 2024",
+        "hover_text": "Valsts vēlēšanas Beļģijā — 2024",
+        "share_text": "Valsts vēlēšanas Beļģijā — 2024! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Belgijos nacionaliniai rinkimai, 2024 m.",
+        "hover_text": "Belgijos nacionaliniai rinkimai, 2024 m.",
+        "share_text": "Belgijos nacionaliniai rinkimai, 2024 m.! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Национални избори во Белгија, 2024 г.",
+        "hover_text": "Национални избори во Белгија, 2024 г.",
+        "share_text": "Национални избори во Белгија, 2024 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Pilihan Raya Kebangsaan Belgium 2024",
+        "hover_text": "Pilihan Raya Kebangsaan Belgium 2024",
+        "share_text": "Pilihan Raya Kebangsaan Belgium 2024! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ബെൽജിയം ദേശീയ തിരഞ്ഞെടുപ്പ് 2024",
+        "hover_text": "ബെൽജിയം ദേശീയ തിരഞ്ഞെടുപ്പ് 2024",
+        "share_text": "ബെൽജിയം ദേശീയ തിരഞ്ഞെടുപ്പ് 2024! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "बेल्जियमच्या राष्ट्रीय निवडणुका २०२४",
+        "hover_text": "बेल्जियमच्या राष्ट्रीय निवडणुका २०२४",
+        "share_text": "बेल्जियमच्या राष्ट्रीय निवडणुका २०२४! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "2024 оны Бельгийн үндэсний сонгууль",
+        "hover_text": "2024 оны Бельгийн үндэсний сонгууль",
+        "share_text": "2024 оны Бельгийн үндэсний сонгууль! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "बेल्जियमको राष्ट्रिय निर्वाचन २०२४",
+        "hover_text": "बेल्जियमको राष्ट्रिय निर्वाचन २०२४",
+        "share_text": "बेल्जियमको राष्ट्रिय निर्वाचन २०२४! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Valget i Belgia 2024",
+        "hover_text": "Valget i Belgia 2024",
+        "share_text": "Valget i Belgia 2024! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "انتخابات سراسری ۲۰۲۴ بلژیک",
+        "hover_text": "انتخابات سراسری ۲۰۲۴ بلژیک",
+        "share_text": "انتخابات سراسری ۲۰۲۴ بلژیک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Wybory parlamentarne 2024 w Belgii",
+        "hover_text": "Wybory parlamentarne 2024 w Belgii",
+        "share_text": "Wybory parlamentarne 2024 w Belgii #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Eleições Nacionais da Bélgica 2024",
+        "hover_text": "Eleições Nacionais da Bélgica 2024",
+        "share_text": "Eleições Nacionais da Bélgica 2024 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Eleições Nacionais na Bélgica de 2024",
+        "hover_text": "Eleições Nacionais na Bélgica de 2024",
+        "share_text": "Eleições Nacionais na Bélgica de 2024! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Belgium National Elections 2024",
+        "hover_text": "Belgium National Elections 2024",
+        "share_text": "ਬੈਲਜੀਅਮ ਦੀਆਂ ਰਾਸ਼ਟਰੀ ਚੋਣਾਂ 2024! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Alegeri naționale în Belgia – 2024",
+        "hover_text": "Alegeri naționale în Belgia – 2024",
+        "share_text": "Alegeri naționale în Belgia – 2024 #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Парламентские выборы в Бельгии – 2024",
+        "hover_text": "Парламентские выборы в Бельгии – 2024",
+        "share_text": "Парламентские выборы в Бельгии – 2024! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Национални избори у Белгији 2024.",
+        "hover_text": "Национални избори у Белгији 2024.",
+        "share_text": "Национални избори у Белгији 2024. #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Nacionalni izbori u Belgiji 2024.",
+        "hover_text": "Nacionalni izbori u Belgiji 2024.",
+        "share_text": "Nacionalni izbori u Belgiji 2024. #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "බෙල්ජියම් ජාතික මැතිවරණය 2024",
+        "hover_text": "බෙල්ජියම් ජාතික මැතිවරණය 2024",
+        "share_text": "බෙල්ජියම් ජාතික මැතිවරණය 2024! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Celoštátne voľby v Belgicku 2024",
+        "hover_text": "Celoštátne voľby v Belgicku 2024",
+        "share_text": "Celoštátne voľby v Belgicku 2024. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Belgijske državne volitve 2024",
+        "hover_text": "Belgijske državne volitve 2024",
+        "share_text": "Belgijske državne volitve 2024! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Elecciones generales belgas 2024",
+        "hover_text": "Elecciones generales belgas 2024",
+        "share_text": "Hoy se celebran las elecciones generales belgas 2024 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Uchaguzi wa Kitaifa wa Ubelgiji 2024",
+        "hover_text": "Uchaguzi wa Kitaifa wa Ubelgiji 2024",
+        "share_text": "Uchaguzi wa Kitaifa wa Ubelgiji 2024! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Val i Belgien 2024",
+        "hover_text": "Val i Belgien 2024",
+        "share_text": "Val i Belgien 2024 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "பெல்ஜியம் தேசியத் தேர்தல்கள் 2024",
+        "hover_text": "பெல்ஜியம் தேசியத் தேர்தல்கள் 2024",
+        "share_text": "பெல்ஜியம் தேசியத் தேர்தல்கள் 2024! #GoogleDoodle"
+      },
+      "te": {
+        "query": "బెల్జియం జాతీయ ఎన్నికలు 2024",
+        "hover_text": "బెల్జియం జాతీయ ఎన్నికలు 2024",
+        "share_text": "బెల్జియం జాతీయ ఎన్నికలు 2024! #GoogleDoodle"
+      },
+      "th": {
+        "query": "การเลือกตั้งระดับชาติของเบลเยียมปี 2024",
+        "hover_text": "การเลือกตั้งระดับชาติของเบลเยียมปี 2024",
+        "share_text": "การเลือกตั้งระดับชาติของเบลเยียมปี 2024! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "2024 Belçika Ulusal Seçimleri",
+        "hover_text": "2024 Belçika Ulusal Seçimleri",
+        "share_text": "2024 Belçika Ulusal Seçimleri #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Загальні вибори в Бельгії у 2024 році",
+        "hover_text": "Загальні вибори в Бельгії у 2024 році",
+        "share_text": "Загальні вибори в Бельгії у 2024 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "بلجئیم کے قومی انتخابات 2024",
+        "hover_text": "بلجئیم کے قومی انتخابات 2024",
+        "share_text": "بلجئیم کے قومی انتخابات 2024! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Belgiyada umumxalq saylovi 2024",
+        "hover_text": "Belgiyada umumxalq saylovi 2024",
+        "share_text": "Belgiyada umumxalq saylovi 2024! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Bầu cử quốc gia ở Bỉ năm 2024",
+        "hover_text": "Bầu cử quốc gia ở Bỉ năm 2024",
+        "share_text": "Bầu cử quốc gia ở Bỉ năm 2024! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ukhetho Lukazwelonke lase-Belgium lwango-2024",
+        "hover_text": "Ukhetho Lukazwelonke lase-Belgium lwango-2024",
+        "share_text": "Ukhetho Lukazwelonke lase-Belgium lwango-2024! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Belgium National Elections 2024",
+    "share_text": "Belgium National Elections 2024! #GoogleDoodle"
+  },
+  {
+    "name": "eu-elections-2024-lithuania-estonia-greece-romania-sweden-netherlands-denmark-finland-luxemburg-spain-hungary-germany-austria-italy-france-croatia-slovenia-cyprus",
+    "title": "EU Elections 2024 (Lithuania, Estonia, Greece, Romania, Sweden, Netherlands, Denmark, Finland, Luxemburg, Spain, Hungary, Germany, Austria, Italy, France, Croatia, Slovenia, Cyprus)",
+    "url": "//www.google.com/logos/doodles/2024/temp-eu-elections-2024-lithuania-estonia-greece-romania-sweden-netherlands-denmark-finland-belgium-luxemburg-spain-hungary-germany-austria-italy-france-croatia-slovenia-cyprus-6753651837110486-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/_5rTkbnX6zIYT5QhiSzLYnEzEDV77TQMgbbYq4ZDN_0T-3tNlGv3zVrNPftKEVldCGwQkuSgN656eiQehoVtf4Hlqf3GQ7B5bcxLoK3nkLVeAnopcjyvktU",
+    "high_res_url": "//www.google.com/logos/doodles/2024/temp-eu-elections-2024-lithuania-estonia-greece-romania-sweden-netherlands-denmark-finland-belgium-luxemburg-spain-hungary-germany-austria-italy-france-croatia-slovenia-cyprus-6753651837110486-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      6,
+      9
+    ],
+    "translations": {
+      "en": {
+        "query": "EU Elections",
+        "hover_text": "EU Elections 2024",
+        "share_text": "EU Elections 2024! #GoogleDoodle"
+      },
+      "af": {
+        "query": "EU se verkiesing",
+        "hover_text": "EU se verkiesing 2024",
+        "share_text": "EU se verkiesing 2024! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Zgjedhjet në BE",
+        "hover_text": "Zgjedhjet në BE, 2024",
+        "share_text": "Zgjedhjet në BE, 2024! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአውሮፓ ህብረት (አህ) ምርጫዎች",
+        "hover_text": "የአውሮፓ ህብረት (አህ) ምርጫዎች 2024",
+        "share_text": "የአውሮፓ ህብረት (አህ) ምርጫዎች 2024! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "انتخابات الاتحاد الأوروبي",
+        "hover_text": "انتخابات الاتحاد الأوروبي 2024",
+        "share_text": "انطلقت انتخابات الاتحاد الأوروبي لعام 2024. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "ԵՄ ընտրություններ",
+        "hover_text": "ԵՄ ընտրություններ 2024",
+        "share_text": "ԵՄ ընտրություններ 2024 #GoogleDoodle"
+      },
+      "az": {
+        "query": "Aİ Seçkiləri",
+        "hover_text": "2024 Aİ Seçkiləri",
+        "share_text": "2024 Aİ Seçkiləri! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ইউরোপীয় ইউনিয়নের (EU) নির্বাচন",
+        "hover_text": "ইউরোপীয় ইউনিয়নের (EU) নির্বাচন ২০২৪",
+        "share_text": "ইউরোপীয় ইউনিয়নের (EU) নির্বাচন ২০২৪! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Europar Batasuneko hauteskundeak",
+        "hover_text": "2024ko Europar Batasuneko hauteskundeak",
+        "share_text": "2024ko Europar Batasuneko hauteskundeak #GoogleDoodle"
+      },
+      "be": {
+        "query": "Выбары ў ЕС",
+        "hover_text": "Выбары ў ЕС 2024",
+        "share_text": "Выбары ў ЕС 2024! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Izbori u EU",
+        "hover_text": "Izbori u EU 2024.",
+        "share_text": "Izbori u EU 2024! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "EU elections",
+        "hover_text": "EU elections 2024",
+        "share_text": "EU elections 2024! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Избори в ЕС",
+        "hover_text": "Избори в ЕС 2024 г.",
+        "share_text": "Избори в ЕС 2024 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အီးယူ ရွေးကောက်ပွဲများ",
+        "hover_text": "၂၀၂၄ အီးယူရွေးကောက်ပွဲများ",
+        "share_text": "၂၀၂၄ အီးယူရွေးကောက်ပွဲများ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Eleccions europees",
+        "hover_text": "Eleccions europees 2024",
+        "share_text": "Eleccions europees 2024 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "歐盟選舉",
+        "hover_text": "2024 年歐盟選舉",
+        "share_text": "2024 年歐盟選舉！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "歐盟大選",
+        "hover_text": "2024 年歐盟大選",
+        "share_text": "2024 年歐盟大選到來！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "欧盟大选",
+        "hover_text": "2024 年欧盟大选",
+        "share_text": "2024 年欧盟大选！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "EU izbori",
+        "hover_text": "EU izbori 2024.",
+        "share_text": "EU izbori 2024.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Volby do Evropského parlamentu",
+        "hover_text": "Volby do EU 2024",
+        "share_text": "Chystáme se na volby do EU 2024! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Valg i EU",
+        "hover_text": "EU-valget 2024",
+        "share_text": "EU-valget 2024 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Europese parlementsverkiezingen",
+        "hover_text": "Europese parlementsverkiezingen 2024",
+        "share_text": "De Europese parlementsverkiezingen 2024! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Euroopa Parlamendi valimised",
+        "hover_text": "EL-i 2024. aasta valimised",
+        "share_text": "EL-i 2024. aasta valimised! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "EU-vaalit",
+        "hover_text": "EU-vaalit 2024",
+        "share_text": "EU-vaalit 2024 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Élections européennes",
+        "hover_text": "Élections européennes 2024",
+        "share_text": "Élections européennes 2024 #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Élections de l'UE",
+        "hover_text": "Élections de l'UE 2024",
+        "share_text": "Élections de l'UE 2024! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Eleccións europeas",
+        "hover_text": "Eleccións europeas 2024",
+        "share_text": "Eleccións europeas 2024! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ევროკავშირის არჩევნები",
+        "hover_text": "ევროკავშირის არჩევნები 2024",
+        "share_text": "ევროკავშირის არჩევნები 2024! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Europawahl",
+        "hover_text": "Europawahl 2024",
+        "share_text": "Europawahl 2024 #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ευρωπαϊκές εκλογές",
+        "hover_text": "Ευρωπαϊκές εκλογές 2024",
+        "share_text": "Ευρωπαϊκές εκλογές 2024! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "EUની ચૂંટણીઓ",
+        "hover_text": "EUની ચૂંટણીઓ 2024",
+        "share_text": "EUની ચૂંટણીઓ 2024! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "הבחירות לפרלמנט האירופי",
+        "hover_text": "הבחירות לפרלמנט האירופי 2024",
+        "share_text": "הבחירות לפרלמנט האירופי 2024 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "ईयू के चुनाव",
+        "hover_text": "ईयू के चुनाव 2024",
+        "share_text": "ईयू के चुनाव 2024! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Európai választások",
+        "hover_text": "Európai választások, 2024",
+        "share_text": "Európai választások, 2024 #GoogleDoodle"
+      },
+      "is": {
+        "query": "Kosningar Evrópusambandsins",
+        "hover_text": "ESB-kosningar 2024",
+        "share_text": "ESB-kosningar 2024! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Pemilu Uni Eropa",
+        "hover_text": "Pemilu Uni Eropa 2024",
+        "share_text": "Pemilu Uni Eropa 2024 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Elezioni europee",
+        "hover_text": "Elezioni europee 2024",
+        "share_text": "Elezioni europee 2024 #GoogleDoodle"
+      },
+      "ja": {
+        "query": "欧州議会選挙",
+        "hover_text": "2024 年欧州議会選挙",
+        "share_text": "2024 年欧州議会選挙 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "EU ಚುನಾವಣೆಗಳು",
+        "hover_text": "EU ಚುನಾವಣೆಗಳು 2024",
+        "share_text": "EU ಚುನಾವಣೆಗಳು 2024! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Еуропалық одақтағы сайлау",
+        "hover_text": "Еуропалық одақтағы сайлау – 2024",
+        "share_text": "Еуропалық одақтағы сайлау – 2024 #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការបោះឆ្នោតនៅសហភាពអឺរ៉ុប",
+        "hover_text": "ការបោះឆ្នោតនៅសហភាពអឺរ៉ុប 2024",
+        "share_text": "ការបោះឆ្នោតនៅសហភាពអឺរ៉ុបឆ្នាំ 2024! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "유럽연합 선거",
+        "hover_text": "2024년 유럽연합 선거",
+        "share_text": "2024년 유럽연합 선거 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Европа Биримдигиндеги шайлоо",
+        "hover_text": "Европа Биримдигиндеги шайлоо – 2024",
+        "share_text": "Европа Биримдигиндеги шайлоо – 2024! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ການເລືອກຕັ້ງ EU",
+        "hover_text": "ວັນເລືອກຕັ້ງຂອງ EU ປີ 2024",
+        "share_text": "ວັນເລືອກຕັ້ງຂອງ EU ປີ 2024! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Elecciones en la UE",
+        "hover_text": "Elecciones europeas 2024",
+        "share_text": "Elecciones europeas 2024 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Eiropas vēlēšanas",
+        "hover_text": "Eiropas vēlēšanas — 2024",
+        "share_text": "Eiropas vēlēšanas — 2024! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "ES rinkimai",
+        "hover_text": "ES rinkimai, 2024 m.",
+        "share_text": "ES rinkimai, 2024 m.! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Избори во ЕУ",
+        "hover_text": "Избори во ЕУ, 2024 г.",
+        "share_text": "Избори во ЕУ, 2024 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Pilihan Raya EU",
+        "hover_text": "Pilihan Raya EU 2024",
+        "share_text": "Pilihan Raya EU 2024! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "EU തിരഞ്ഞെടുപ്പ്",
+        "hover_text": "EU തിരഞ്ഞെടുപ്പ് 2024",
+        "share_text": "EU തിരഞ്ഞെടുപ്പ് 2024! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "ईयूमधील निवडणुका",
+        "hover_text": "ईयूमधील निवडणुका २०२४",
+        "share_text": "ईयूमधील निवडणुका २०२४! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "ЕХ-ны сонгууль",
+        "hover_text": "2024 оны ЕХ-ны сонгууль",
+        "share_text": "2024 оны ЕХ-ны сонгууль! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "युरोपेली सङ्घको निर्वाचन",
+        "hover_text": "युरोपेली सङ्घको निर्वाचन २०२४",
+        "share_text": "युरोपेली सङ्घको निर्वाचन २०२४! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Valg i EU",
+        "hover_text": "Valg i EU 2024",
+        "share_text": "Valg i EU 2024! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "انتخابات اتحادیه اروپا",
+        "hover_text": "انتخابات ۲۰۲۴ اتحادیه اروپا",
+        "share_text": "انتخابات ۲۰۲۴ اتحادیه اروپا! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Wybory do Parlamentu Europejskiego",
+        "hover_text": "Wybory do Parlamentu Europejskiego 2024",
+        "share_text": "Wybory do Parlamentu Europejskiego 2024 #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Eleições na UE",
+        "hover_text": "Eleições na UE 2024",
+        "share_text": "Eleições na UE 2024 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Eleições Europeias",
+        "hover_text": "Eleições Europeias de 2024",
+        "share_text": "Eleições Europeias de 2024! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "EU ਦੀਆਂ ਚੋਣਾਂ",
+        "hover_text": "EU ਦੀਆਂ ਚੋਣਾਂ 2024",
+        "share_text": "EU ਦੀਆਂ ਚੋਣਾਂ 2024! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Alegerile europene",
+        "hover_text": "Alegerile europene din 2024",
+        "share_text": "Alegerile europene din 2024! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Выборы в Европейский парламент",
+        "hover_text": "Выборы в Европейский парламент – 2024",
+        "share_text": "Выборы в Европейский парламент – 2024 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Избори у ЕУ",
+        "hover_text": "Избори у ЕУ 2024.",
+        "share_text": "Избори у ЕУ 2024! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Izbori u EU",
+        "hover_text": "Izbori u EU 2024.",
+        "share_text": "Izbori u EU 2024! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "EU මැතිවරණ",
+        "hover_text": "2024 යුරෝපා සංගම් මැතිවරණ",
+        "share_text": "2024 යුරෝපා සංගම් මැතිවරණ! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Európske voľby",
+        "hover_text": "Európske voľby 2024",
+        "share_text": "Európske voľby 2024. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Evropske volitve",
+        "hover_text": "Evropske volitve 2024",
+        "share_text": "Evropske volitve 2024! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Elecciones al Parlamento Europeo",
+        "hover_text": "Elecciones al Parlamento Europeo 2024",
+        "share_text": "Hoy se celebran las elecciones al Parlamento Europeo 2024 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Uchaguzi wa Umoja wa Ulaya",
+        "hover_text": "Uchaguzi wa Umoja wa Ulaya 2024",
+        "share_text": "Uchaguzi wa Umoja wa Ulaya 2024! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "EU-val",
+        "hover_text": "EU-val 2024",
+        "share_text": "EU-val 2024 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஐரோப்பிய ஒன்றியத் தேர்தல்கள்",
+        "hover_text": "ஐரோப்பிய ஒன்றியத் தேர்தல்கள் 2024",
+        "share_text": "ஐரோப்பிய ஒன்றியத் தேர்தல்கள் 2024! #GoogleDoodle"
+      },
+      "te": {
+        "query": "EU ఎన్నికలు",
+        "hover_text": "EU ఎన్నికలు 2024",
+        "share_text": "EU ఎన్నికలు 2024! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันเลือกตั้งของสหภาพยุโรป",
+        "hover_text": "วันเลือกตั้งของสหภาพยุโรปปี 2024",
+        "share_text": "วันเลือกตั้งของสหภาพยุโรปปี 2024 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "AB Seçimleri",
+        "hover_text": "2024 AB Seçimleri",
+        "share_text": "2024 AB seçimleri yapılıyor. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Вибори в Європейський парламент",
+        "hover_text": "Вибори в Європейський парламент у 2024 році",
+        "share_text": "Вибори в Європейський парламент у 2024 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یورپی یونین کے انتخابات",
+        "hover_text": "یورپی یونین کے انتخابات 2024",
+        "share_text": "یورپی یونین کے انتخابات 2024! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Yevropada saylovlar",
+        "hover_text": "Yevropada saylovlar 2024",
+        "share_text": "Yevropada saylovlar 2024! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Bầu cử Nghị viện Liên minh Châu Âu",
+        "hover_text": "Bầu cử ở Liên minh Châu Âu năm 2024",
+        "share_text": "Bầu cử ở Liên minh Châu Âu năm 2024! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ukhetho lwase-EU",
+        "hover_text": "Ukhetho lwase-EU lwango-2024",
+        "share_text": "Ukhetho lwase-EU lwango-2024! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "EU Elections",
+    "share_text": "EU Elections 2024! #GoogleDoodle"
+  },
+  {
     "name": "eu-parlimentary-elections-italy",
     "title": "EU Parlimentary Elections (Italy)",
     "url": "//www.google.com/logos/doodles/2024/eu-parlimentary-elections-italy-6753651837110555-l.png",
@@ -1586,7 +2584,7 @@
         "share_text": "Eleccions al Parlament Europeu 2024 #GoogleDoodle"
       },
       "zh-HK": {
-        "query": null,
+        "query": "如何在愛爾蘭共和國選舉中投票",
         "hover_text": "2024 年歐盟議會選舉",
         "share_text": "2024 年歐盟議會選舉！#GoogleDoodle"
       },
@@ -1891,7 +2889,7 @@
         "share_text": "යුරෝපා සංගමයේ පාර්ලිමේන්තු මැතිවරණය 2024! #GoogleDoodle"
       },
       "sk": {
-        "query": null,
+        "query": "ako hlasovať vo voľbách v írskej republike",
         "hover_text": "Voľby do Európskeho parlamentu 2024",
         "share_text": "Voľby do Európskeho parlamentu 2024. #GoogleDoodle"
       },
@@ -4081,9 +5079,9 @@
         "share_text": "Homenatge a Jeanne Córdova #GoogleDoodle"
       },
       "zh-HK": {
-        "query": "Jeanne Cordova",
-        "hover_text": "紀念 Jeanne Cordova",
-        "share_text": "紀念 Jeanne Cordova！#GoogleDoodle"
+        "query": "Jeanne Córdova",
+        "hover_text": "紀念 Jeanne Córdova",
+        "share_text": "紀念 Jeanne Córdova！#GoogleDoodle"
       },
       "zh-TW": {
         "query": "珍妮科爾多瓦",
@@ -4386,9 +5384,9 @@
         "share_text": "ජීන් කෝර්ඩෝවා සමරමින්! #GoogleDoodle"
       },
       "sk": {
-        "query": "Jeanne Córdova",
-        "hover_text": "Pripomíname si Jeanne Córdovaovú",
-        "share_text": "Pripomíname si Jeanne Córdovaovú. #GoogleDoodle"
+        "query": "Jeanne Córdovová",
+        "hover_text": "Pripomíname si Jeanne Córdovovú",
+        "share_text": "Pripomíname si Jeanne Córdovovú. #GoogleDoodle"
       },
       "sl": {
         "query": "Jeanne Cordova",
