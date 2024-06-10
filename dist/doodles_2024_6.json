@@ -1,5 +1,1502 @@
 [
   {
+    "name": "portugal-national-day-2024",
+    "title": "Portugal National Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/portugal-national-day-2024-6753651837110236-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/Bw2RbvuKfF09TAj-36O-IqFcMeCF3HFn5vDFg3Oc-4H--r6c0vNmj0HrW7HPE5BEcl-Bk7uCg1aYa5Ju1QLFIzb11mtaR8JQsSu1_x_BJEATAWCWJObJtn0",
+    "high_res_url": "//www.google.com/logos/doodles/2024/portugal-national-day-2024-6753651837110236-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      6,
+      10
+    ],
+    "translations": {
+      "en": {
+        "query": "Portugal National Day",
+        "hover_text": "Portugal National Day 2024",
+        "share_text": "Happy National Day, Portugal! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Portugal se nasionale dag",
+        "hover_text": "Portugal se nasionale dag 2024",
+        "share_text": "Gelukkige nasionale dag, Portugal! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita Kombëtare e Portugalisë",
+        "hover_text": "Dita Kombëtare e Portugalisë, 2024",
+        "share_text": "Gëzuar Ditën Kombëtare, Portugali! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የፖርቱጋል ብሔራዊ ቀን",
+        "hover_text": "የፖርቹጋል ብሔራዊ ቀን 2024",
+        "share_text": "መልካም ብሔራዊ ቀን ፖርቱጋል! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "اليوم الوطني للبرتغال",
+        "hover_text": "اليوم الوطني للبرتغال 2024",
+        "share_text": "نتمنّى للبرتغال يومًا وطنيًا سعيدًا! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Պորտուգալիայի ազգային տոն",
+        "hover_text": "Պորտուգալիայի ազգային տոն 2024",
+        "share_text": "Շնորհավո՛ր Պորտուգալիայի ազգային տոնը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Portuqaliyanın Müstəqillik Günü",
+        "hover_text": "2024 Portuqaliyanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Portuqaliya! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "পর্তুগালের জাতীয় দিবস",
+        "hover_text": "পর্তুগালের জাতীয় দিবস ২০২৪",
+        "share_text": "জাতীয় দিবসের শুভেচ্ছা, পর্তুগাল! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Portugalgo Egun Nazionala",
+        "hover_text": "2024ko Portugalgo Egun Nazionala",
+        "share_text": "Egun Nazional zoriontsua izan, Portugal. #GoogleDoodle"
+      },
+      "be": {
+        "query": "Нацыянальны дзень Партугаліі",
+        "hover_text": "Нацыянальны дзень Партугаліі 2024",
+        "share_text": "З Нацыянальным днём, Партугалія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan državnosti Portugala",
+        "hover_text": "Dan državnosti Portugala 2024.",
+        "share_text": "Sretan Dan državnosti, Portugal! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Portugal National Day",
+        "hover_text": "Portugal National Day 2024",
+        "share_text": "Happy National Day, Portugal #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Национален празник на Португалия 2020 г.",
+        "hover_text": "Национален празник на Португалия 2024 г.",
+        "share_text": "Честит национален празник на Португалия! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ပေါ်တူဂီ အမျိုးသားနေ့",
+        "hover_text": "၂၀၂၄ ပေါ်တူဂီနိုင်ငံ အမျိုးသားနေ့",
+        "share_text": "ပျော်ရွှင်သော အမျိုးသားနေ့ဖြစ်ပါစေ၊ ပေါ်တူဂီ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia Nacional de Portugal",
+        "hover_text": "Dia Nacional de Portugal 2024",
+        "share_text": "Feliç Dia Nacional, Portugal! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "葡萄牙國慶日",
+        "hover_text": "2024 年葡萄牙國慶日",
+        "share_text": "葡萄牙，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "葡萄牙國慶日",
+        "hover_text": "2024 年葡萄牙國慶日",
+        "share_text": "葡萄牙，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "葡萄牙国庆日",
+        "hover_text": "2024 年葡萄牙国庆节",
+        "share_text": "葡萄牙，国庆日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan državnosti Portugala",
+        "hover_text": "Dan državnosti Portugala 2024.",
+        "share_text": "Sretan Dan državnosti, Portugal! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Státní svátek Portugalska",
+        "hover_text": "Den portugalské státnosti 2024",
+        "share_text": "Vše nejlepší ke státnímu svátku, Portugalsko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Portugals nationaldag",
+        "hover_text": "Portugals nationaldag 2024",
+        "share_text": "Glædelig nationaldag, Portugal! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Nationale feestdag Portugal",
+        "hover_text": "Nationale feestdag Portugal 2024",
+        "share_text": "Fijne nationale feestdag, Portugal #GoogleDoodle"
+      },
+      "et": {
+        "query": "Portugali rahvuspüha",
+        "hover_text": "Portugali 2024. aasta rahvuspüha",
+        "share_text": "Head rahvuspüha, Portugal! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Portugalin kansallispäivä",
+        "hover_text": "Portugalin kansallispäivä 2024",
+        "share_text": "Hyvää kansallispäivää, Portugali! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête nationale du Portugal",
+        "hover_text": "Fête nationale du Portugal 2024",
+        "share_text": "Fête nationale du Portugal ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête nationale du Portugal",
+        "hover_text": "Fête nationale du Portugal 2024",
+        "share_text": "Joyeuse fête nationale du Portugal! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día Nacional de Portugal",
+        "hover_text": "Día Nacional de Portugal 2024",
+        "share_text": "Feliz Día Nacional, Portugal! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "პორტუგალიის ეროვნული დღესასწაული",
+        "hover_text": "პორტუგალიის ეროვნული დღესასწაული — 2024",
+        "share_text": "ვულოცავთ პორტუგალიას ეროვნულ დღესასწაულს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Nationalfeiertag Portugal",
+        "hover_text": "Portugiesischer Nationalfeiertag 2024",
+        "share_text": "Alles Gute zum Nationalfeiertag in Portugal! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Εθνική Ημέρα Πορτογαλίας",
+        "hover_text": "Εθνική Ημέρα της Πορτογαλίας 2024",
+        "share_text": "Γιορτάζουμε την Εθνική Ημέρα της Πορτογαλίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "પોર્ટુગલનો રાષ્ટ્રીય દિવસ",
+        "hover_text": "પોર્ટુગલનો રાષ્ટ્રીય દિવસ 2024",
+        "share_text": "પોર્ટુગલના રાષ્ટ્રીય દિવસની શુભેચ્છાઓ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "החג הלאומי של פורטוגל",
+        "hover_text": "החג הלאומי של פורטוגל 2024",
+        "share_text": "חג לאומי שמח לפורטוגל! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "पुर्तगाल का राष्ट्रीय दिवस",
+        "hover_text": "पुर्तगाल का राष्ट्रीय दिवस 2024",
+        "share_text": "पुर्तगाल को राष्ट्रीय दिवस की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Portugália nemzeti ünnepe",
+        "hover_text": "Portugália nemzeti ünnepe, 2024",
+        "share_text": "Minden jót Portugália nemzeti ünnepén! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þjóðhátíðardagur Portúgals",
+        "hover_text": "Þjóðhátíðardagur Portúgals 2024",
+        "share_text": "Gleðilegan þjóðhátíðardag, Portúgal! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Nasional Portugal",
+        "hover_text": "Hari Nasional Portugal 2024",
+        "share_text": "Selamat Hari Nasional, Portugal! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Náisiúnta na Portaingéile",
+        "hover_text": null,
+        "share_text": "Lá Náisiúnta na Portaingéile faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa nazionale del Portogallo",
+        "hover_text": "Festa nazionale del Portogallo 2024",
+        "share_text": "Buona festa nazionale, Portogallo! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ポルトガル建国記念日",
+        "hover_text": "2024 年ポルトガル建国記念日",
+        "share_text": "ポルトガル建国記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಪೋರ್ಚುಗಲ್ ರಾಷ್ಟ್ರೀಯ ದಿನ",
+        "hover_text": "ಪೋರ್ಚುಗಲ್ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಪೋರ್ಚುಗಲ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Португалияның Ұлттық күні",
+        "hover_text": "Португалияның Ұлттық күні – 2024",
+        "share_text": "Ұлттық күнің құтты болсын, Португалия! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យជាតិ​ព័រទុយហ្គាល់",
+        "hover_text": "ទិវា​បុណ្យជាតិ​ព័រទុយហ្កាល់​ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​បុណ្យជាតិ​ព័រទុយហ្គាល់​! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "포르투갈 국경일",
+        "hover_text": "2024년 포르투갈 국경일",
+        "share_text": "포르투갈 국경일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Португалиянын Улуттук күнү",
+        "hover_text": "Португалиянын Улуттук күнү – 2024",
+        "share_text": "Улуттук күнүң менен, Португалия! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຊາດພອລຕູໂກ",
+        "hover_text": "ວັນຊາດປໍຕູໂກລປີ 2024",
+        "share_text": "ສຸກສັນວັນຊາດພອລຕູໂກ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día Nacional de Portugal",
+        "hover_text": "Día Nacional de Portugal 2024",
+        "share_text": "¡Feliz Día Nacional, Portugal! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Portugāles Nacionālie svētki",
+        "hover_text": "Portugāles Nacionālie svētki — 2024",
+        "share_text": "Sveicam Nacionālajos svētkos, Portugāle! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Portugalijos nacionalinė diena",
+        "hover_text": "Portugalijos nacionalinė diena, 2024 m.",
+        "share_text": "Sveikiname Portugaliją su nacionaline diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на државноста на Португалија",
+        "hover_text": "Ден на државноста на Португалија, 2024 г.",
+        "share_text": "Среќен Ден на државноста, Португалија! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetim-pirenen'i Portiogaly",
+        "hover_text": null,
+        "share_text": "Tsarà Fetim-pirenena ry Portiogaly ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kebangsaan Portugal",
+        "hover_text": "Hari Kebangsaan Portugal 2024",
+        "share_text": "Selamat Hari Kebangsaan, Potugal! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "പോർച്ചുഗൽ ദേശീയ ദിനം",
+        "hover_text": "പോർച്ചുഗൽ ദേശീയ ദിനം 2024",
+        "share_text": "ദേശീയ ദിനാശംസകൾ, പോർച്ചുഗൽ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "पोर्तुगालचा राष्ट्रीय दिन",
+        "hover_text": "पोर्तुगालचा राष्ट्रीय दिन २०२४",
+        "share_text": "पोर्तुगालला राष्ट्रीय दिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Португал улсын Үндэсний баярын өдөр",
+        "hover_text": "2024 оны Португал Улсын Үндэсний баярын өдөр",
+        "share_text": "Португал улсын ард иргэдэд Үндэсний баярын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "पोर्चुगलको राष्ट्रिय दिवस",
+        "hover_text": "पोर्चुगलको राष्ट्रिय दिवस २०२४",
+        "share_text": "राष्ट्रिय दिवसको शुभकामना, पोर्चुगल! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Portugals nasjonaldag",
+        "hover_text": "Portugals nasjonaldag 2024",
+        "share_text": "Gratulerer med nasjonaldagen, Portugal! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ପର୍ତ୍ତୁଗାଲ୍ ରାଷ୍ଟ୍ରୀୟ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ରାଷ୍ଟ୍ରୀୟ ଦିବସର ଶୁଭେଚ୍ଛା, ପର୍ତ୍ତୁଗାଲ୍! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز ملی پرتغال",
+        "hover_text": "روز ملی ۲۰۲۴ پرتغال",
+        "share_text": "روز ملی مبارک، پرتغال! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Narodowe Portugalii",
+        "hover_text": "Święto Narodowe Portugalii 2024",
+        "share_text": "Portugalia obchodzi Święto Narodowe #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia Nacional de Portugal",
+        "hover_text": "Dia de Portugal 2024",
+        "share_text": "Feliz Dia Nacional, Portugal! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia nacional de Portugal",
+        "hover_text": "Dia de Portugal de 2024",
+        "share_text": "Feliz dia nacional, Portugal! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਪੁਰਤਗਾਲ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ",
+        "hover_text": "ਪੁਰਤਗਾਲ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ 2024",
+        "share_text": "ਰਾਸ਼ਟਰੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਪੁਰਤਗਾਲ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Națională a Portugaliei",
+        "hover_text": "Ziua Națională a Portugaliei – 2024",
+        "share_text": "La mulți ani de Ziua Națională, Portugalia! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "день португалии",
+        "hover_text": "День Португалии – 2024",
+        "share_text": "День Португалии #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан државности Португалије",
+        "hover_text": "Дан државности Португалије 2024.",
+        "share_text": "Честитамо Дан државности Португалији! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan državnosti Portugalije",
+        "hover_text": "Dan državnosti Portugalije 2024.",
+        "share_text": "Čestitamo Dan državnosti Portugaliji! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen nasyonal Portugal",
+        "hover_text": null,
+        "share_text": "Bonn zournen naayonal, Portugal! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "පෘතුගාලයේ ජාතික දිනය",
+        "hover_text": "පෘතුගාලයේ ජාතික දිනය 2024",
+        "share_text": "සුබ ජාතික දිනයක්, පෘතුගාලය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Štátny sviatok Portugalska",
+        "hover_text": "Národný deň Portugalska 2024",
+        "share_text": "Šťastný štátny sviatok, Portugalsko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Portugalski dan državnosti",
+        "hover_text": "Portugalski dan državnosti 2024",
+        "share_text": "Vesel dan državnosti, Portugalska! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta caalamiga ah ee Burtaqaal",
+        "hover_text": null,
+        "share_text": "Maalin caalami oo farxad leh Burtuqaal! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Naha la Portugal",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Naha la Portugal! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día Nacional de Portugal",
+        "hover_text": "Día Nacional de Portugal 2024",
+        "share_text": "¡Feliz Día Nacional de Portugal! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Kitaifa ya Ureno",
+        "hover_text": "Sikukuu ya Kitaifa ya Ureno 2024",
+        "share_text": "Heri za Sikukuu ya Kitaifa, Ureno! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Portugals nationaldag",
+        "hover_text": "Portugals nationaldag 2024",
+        "share_text": "Vi firar Portugals nationaldag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "போர்ச்சுகல் தேசிய தினம்",
+        "hover_text": "போர்ச்சுகல் தேசிய தினம் 2024",
+        "share_text": "போர்ச்சுகல்லின் தேசிய தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "పోర్చుగల్ జాతీయ దినోత్సవం",
+        "hover_text": "పోర్చుగల్ జాతీయ దినోత్సవం 2024",
+        "share_text": "జాతీయ దినోత్సవ శుభాకాంక్షలు, పోర్చుగల్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันชาติโปรตุเกส",
+        "hover_text": "วันชาติโปรตุเกสปี 2024",
+        "share_text": "สุขสันต์วันชาติโปรตุเกส #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Setšhaba la Portugal",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Setšhaba, Portugal! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Portekiz Ulusal Günü",
+        "hover_text": "2024 Portekiz Ulusal Günü",
+        "share_text": "Portekiz'in Ulusal Gün Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Національний день Португалії",
+        "hover_text": "Національний день Португалії у 2024 році",
+        "share_text": "З національним днем, Португаліє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "پرتگال کا قومی دن",
+        "hover_text": "پرتگال کا قومی دن 2024",
+        "share_text": "قومی دن مبارک ہو، پرتگال! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Portugaliya milliy bayrami",
+        "hover_text": "Portugaliya Milliy bayrami 2024",
+        "share_text": "Portugaliya milliy bayrami muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Quốc khánh Bồ Đào Nha",
+        "hover_text": "Ngày Quốc khánh Bồ Đào Nha năm 2024",
+        "share_text": "Mừng ngày Quốc khánh Bồ Đào Nha! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lukazwelonke lwase-Portugal",
+        "hover_text": "Usuku Lukazwelonke lwase-Portugal lwango-2024",
+        "share_text": "Jabulela Usuku Lokuzalwa, Portugal! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Portugal National Day",
+    "share_text": "Happy National Day, Portugal! #GoogleDoodle"
+  },
+  {
+    "name": "dragon-boat-festival-2024",
+    "title": "Dragon Boat Festival 2024",
+    "url": "//www.google.com/logos/doodles/2024/dragon-boat-festival-2024-6753651837110449-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/Zhq_gjGHdPw-ryG5iJqgcHO_jPEPAOJqALt5djA_3QBmUsmCwsi3jLGvQRF7hUk66rmKoaIdEE9NkhFoeyYT6yq49ebWN74_Dy_gi5vglt0EBMtXIBSrEQ",
+    "high_res_url": "//www.google.com/logos/doodles/2024/dragon-boat-festival-2024-6753651837110449-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      6,
+      10
+    ],
+    "translations": {
+      "en": {
+        "query": "Dragon Boat Festival",
+        "hover_text": "Dragon Boat Festival 2024",
+        "share_text": "Happy Dragon Boat Festival! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Draakbootfees",
+        "hover_text": "Draakbootfees 2024",
+        "share_text": "Gelukkige Draakbootfees! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Festivali i Varkës Dragua",
+        "hover_text": "Festivali i Varkës Dragua, 2024",
+        "share_text": "Gëzuar Festivalin e Varkës Dragua! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የድራጎን ጀልባ ፌስቲቫል",
+        "hover_text": "የድራጎን ጀልባ ፌስቲቫል 2024",
+        "share_text": "መልካም የድራጎን ጀልባ ፌስቲቫል! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "مهرجان قوارب التنين",
+        "hover_text": "مهرجان قوارب التنّين 2024",
+        "share_text": "عيد سعيد بمناسبة مهرجان قوارب التنين. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Վիշապանավերի տոն",
+        "hover_text": "Վիշապանավերի տոն 2024",
+        "share_text": "Շնորհավո՛ր վիշապանավերի տոնը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Əjdəha qayıq festivalı",
+        "hover_text": "2024 Əjdaha Qayıq Festivalı",
+        "share_text": "Əjdəha Qayığı Festivalınız mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ড্রাগন বোট উৎসব",
+        "hover_text": "ড্রাগন বোট উৎসব ২০২৪",
+        "share_text": "ড্রাগন বোট উৎসবের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Dragoi-ontzien jaialdia",
+        "hover_text": "2024ko Dragoi-ontzien jaialdia",
+        "share_text": "Dragoi-ontzien jaialdi zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Свята драконавых лодак",
+        "hover_text": "Свята драконавых лодак 2024",
+        "share_text": "Шчаслівага Свята драконавых лодак! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Festival zmajevih čamaca",
+        "hover_text": "Festival zmajevih čamaca 2024.",
+        "share_text": "Sretan Festival zmajevih čamaca! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Dragon Boat Festival",
+        "hover_text": "Dragon Boat Festival 2024",
+        "share_text": "Happy Dragon Boat Festival! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Празник на драконовите лодки",
+        "hover_text": "Празник на драконовите лодки 2024 г.",
+        "share_text": "Честит празник на драконовите лодки! #GoogleDoodle"
+      },
+      "my": {
+        "query": "နဂါးလှေ ပွဲတော်",
+        "hover_text": "၂၀၂၄ နဂါးလှေပွဲတော်",
+        "share_text": "ပျော်ရွှင်ဖွယ် နဂါးလှေပွဲတော် ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Festival del Bot Dragó",
+        "hover_text": "Festival del Bot Dragó 2024",
+        "share_text": "Feliç Festival del Bot Dragó! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "端午節",
+        "hover_text": "2024 年端午節",
+        "share_text": "端午節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "端午節",
+        "hover_text": "2024 端午節",
+        "share_text": "端午安康! #GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "端午节",
+        "hover_text": "2024 年端午节",
+        "share_text": "端午节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Festival zmajskih brodova",
+        "hover_text": "Festival zmajskih brodova 2024.",
+        "share_text": "Sretan Festival zmajskih brodova! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Festival dračích lodí",
+        "hover_text": "Festival dračích lodí 2024",
+        "share_text": "Veselý festival dračích lodí! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Dragebådsfestival",
+        "hover_text": "Dragebådsfestival 2024",
+        "share_text": "Glædelig dragebådsfestival! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Drakenbootfestival",
+        "hover_text": "Drakenbootfestival 2024",
+        "share_text": "Fijn Drakenbootfestival #GoogleDoodle"
+      },
+      "et": {
+        "query": "Draakonipaatide festival",
+        "hover_text": "2024. aasta draakonipaatide festival",
+        "share_text": "Head draakonipaatide festivali! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Lohikäärmeveneiden juhla",
+        "hover_text": "Lohikäärmeveneiden juhla 2024",
+        "share_text": "Hyvää lohikäärmeveneiden juhlaa! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête des bateaux-dragons",
+        "hover_text": "Fête des bateaux-dragons 2024",
+        "share_text": "Joyeuse fête des bateaux-dragons ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête des bateaux-dragons",
+        "hover_text": "Fête des bateaux-dragons 2024",
+        "share_text": "Joyeuse fête des bateaux-dragons! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Festival do Barco Dragón",
+        "hover_text": "Festival do Barco Dragón 2024",
+        "share_text": "Feliz Festival do Barco Dragón! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "დრაკონის ნავების ფესტივალი",
+        "hover_text": "დრაკონის ნავების ფესტივალი — 2024",
+        "share_text": "გილოცავთ დრაკონის ნავების ფესტივალს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Drachenbootfest",
+        "hover_text": "Drachenbootfest 2024",
+        "share_text": "Alles Gute zum Drachenbootfest! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Φεστιβάλ βαρκών-δρακών",
+        "hover_text": "Φεστιβάλ βαρκών-δράκων 2024",
+        "share_text": "Γιορτάζουμε το φεστιβάλ βαρκών-δράκων! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ડ્રૅગન બોટ ઉત્સવ",
+        "hover_text": "ડ્રૅગન બોટ ઉત્સવ 2024",
+        "share_text": "ડ્રૅગન બોટ ઉત્સવની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "פסטיבל סירות הדרקון",
+        "hover_text": "חג סירות הדרקון 2024",
+        "share_text": "פסטיבל סירות הדרקון שמח! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "ड्रैगन बोट उत्सव",
+        "hover_text": "ड्रैगन बोट फ़ेस्टिवल 2024",
+        "share_text": "ड्रैगन बोट फ़ेस्टवल की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Sárkányhajó-fesztivál",
+        "hover_text": "Sárkányhajó-fesztivál, 2024",
+        "share_text": "Boldog Sárkányhajó-fesztivált! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Hátíð drekabáta",
+        "hover_text": "Hátíð drekabáta 2024",
+        "share_text": "Gleðilega hátíð drekabáta! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Festival Perahu Naga",
+        "hover_text": "Festival Perahu Naga 2024",
+        "share_text": "Selamat Merayakan Festival Perahu Naga! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Féile na mBád Dragain",
+        "hover_text": "Féile Bád Dragon, 2024",
+        "share_text": "Féile na mBád Dragain faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa delle barche drago",
+        "hover_text": "Festa delle barche drago 2024",
+        "share_text": "Auguri per la Festa delle barche drago! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ドラゴンボート祭り",
+        "hover_text": "2024 年ドラゴンボート祭り",
+        "share_text": "ドラゴンボート祭りを祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಡ್ರ್ಯಾಗನ್ ಬೋಟ್ ಹಬ್ಬ",
+        "hover_text": "ಡ್ರ್ಯಾಗನ್ ಬೋಟ್ ಹಬ್ಬ 2024",
+        "share_text": "ಡ್ರ್ಯಾಗನ್ ಬೋಟ್ ಹಬ್ಬದ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Айдаһар қайықтарының фестивалі",
+        "hover_text": "Айдаһар қайықтарының фестивалі – 2024",
+        "share_text": "Айдаһар қайықтары фестивалі құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ពិធីបុណ្យអុំទូកនាគ",
+        "hover_text": "ពិធីបុណ្យ​អុំទូកនាគឆ្នាំ 2024",
+        "share_text": "អបអរ​ពិធីបុណ្យ​អុំទូកនាគ! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "용선(龍船) 축제",
+        "hover_text": "2024년 용선(龍船) 축제",
+        "share_text": "용선(龍船) 축제 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "\"Ажыдаар\" кайыктарынын фестивалы",
+        "hover_text": "Ажыдаар кайыктарынын майрамы — 2024",
+        "share_text": "\"Ажыдаар\" кайыктарынын фестивалы кут болсун! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ບຸນເຮືອມັງກອນ",
+        "hover_text": "ບຸນເຮືອມັງກອນປີ 2024",
+        "share_text": "ສຸກສັນບຸນເຮືອມັງກອນ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Festival del Barco del Dragón",
+        "hover_text": "Festival del Bote del Dragón 2024",
+        "share_text": "¡Feliz Festival del Bote del Dragón! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Pūķu laivu festivāls",
+        "hover_text": "Pūķu laivu festivāls — 2024",
+        "share_text": "Priecīgu Pūķu laivu festivālu! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Drakono valčių šventė",
+        "hover_text": "Drakono valčių šventė, 2024 m.",
+        "share_text": "Linksmos drakono valčių šventės! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Празник на чамците со змејови",
+        "hover_text": "Празник на змејските чамци, 2024 г.",
+        "share_text": "Среќен Празник на чамците со змејови! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny sambon'ny dragona",
+        "hover_text": null,
+        "share_text": "Tsarà Fetiben'ny sambon'ny dragona ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Pesta Perahu Naga",
+        "hover_text": "Pesta Perahu Naga 2024",
+        "share_text": "Selamat Menyambut Perayaan Perahu Naga! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഡ്രാഗൺ ബോട്ട് ഫെസ്‌റ്റിവൽ",
+        "hover_text": "ഡ്രാഗൺ ബോട്ട് ഫെസ്‌റ്റിവൽ 2024",
+        "share_text": "ഡ്രാഗൺ ബോട്ട് ഫെസ്‌റ്റിവൽ ആശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "ड्रॅगन बोट महोत्सव",
+        "hover_text": "ड्रॅगन बोट फेस्टिव्हल २०२४",
+        "share_text": "ड्रॅगन बोट फेस्टिव्हलच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Луут завины баяр",
+        "hover_text": "2024 оны Луут завины баяр",
+        "share_text": "Луут завины баярын мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "ड्र्यागन बोट महोत्सव",
+        "hover_text": "ड्र्यागन बोट महोत्सव २०२४",
+        "share_text": "ड्र्यागन बोट महोत्सवको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Dragebåtfestivalen",
+        "hover_text": "Dragebåtfestivalen 2024",
+        "share_text": "Hurra for dragebåtfestivalen! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଡ୍ରାଗନ୍ ବୋଟ୍ ଉତ୍ସବ",
+        "hover_text": null,
+        "share_text": "ଡ୍ରାଗନ ବୋଟ ଉତ୍ସବର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "جشنواره قایق اژدها",
+        "hover_text": "جشنواره قایق اژدهای ۲۰۲۴",
+        "share_text": "جشنواره قایق اژدها مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Smoczych Łodzi",
+        "hover_text": "Święto Smoczych Łodzi 2024",
+        "share_text": "Obchodzimy Święto Smoczych Łodzi #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Festival do Barco-Dragão",
+        "hover_text": "Festival do Barco-Dragão 2024",
+        "share_text": "Feliz Festival do Barco-Dragão! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Festival Barco do dragão",
+        "hover_text": "Festival do Barco do Dragão de 2024",
+        "share_text": "Feliz festival do Barco do dragão! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਡਰੈਗਨ ਕਿਸ਼ਤੀ ਤਿਉਹਾਰ",
+        "hover_text": "ਡਰੈਗਨ ਬੋਟ ਫ਼ੈਸਟੀਵਲ 2024",
+        "share_text": "ਡਰੈਗਨ ਕਿਸ਼ਤੀ ਤਿਉਹਾਰ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Festivalul Duanwu",
+        "hover_text": "Festivalul Duanwu – 2024",
+        "share_text": "Festival Duanwu fericit! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Праздник драконьих лодок",
+        "hover_text": "Праздник драконьих лодок – 2024",
+        "share_text": "Праздник драконьих лодок #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Фестивал змајских бродова",
+        "hover_text": "Фестивал змајских чамаца 2024.",
+        "share_text": "Славимо Фестивал змајских бродова! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Festival zmajskih brodova",
+        "hover_text": "Festival zmajskih čamaca 2024.",
+        "share_text": "Slavimo Festival zmajskih brodova! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Festival Bato Dragon",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "මකර ඔරු උත්සවය",
+        "hover_text": "මකර ඔරු උත්සවය 2024",
+        "share_text": "ප්‍රීතිමත් මකර ඔරු උත්සවයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Festival dračích lodí",
+        "hover_text": "Festival dračích lodí 2024",
+        "share_text": "Šťastný Festival dračích lodí! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Festival zmajevih čolnov",
+        "hover_text": "Festival zmajevih čolnov 2024",
+        "share_text": "Vesel festival zmajevih čolnov! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Xaflada ciida Doonta Daroogaanka",
+        "hover_text": null,
+        "share_text": "Xadlada Dragon Boat oo farxad leh! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Mokete wa Dragon Boat",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Festival del Barco del Dragón",
+        "hover_text": "Festival del Barco del Dragón 2024",
+        "share_text": "¡Feliz Festival del Barco del Dragón! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Tamasha la Mashua la Uchina",
+        "hover_text": "Tamasha la Mashua ya Dragoni 2024",
+        "share_text": "Heri ya Tamasha la Mashua la Uchina! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Drakbåtsfestivalen",
+        "hover_text": "Drakbåtsfestivalen 2024",
+        "share_text": "Vi firar drakbåtsfestivalen #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "டிராகன் படகுப் பண்டிகை",
+        "hover_text": "டிராகன் படகுத் திருவிழா 2024",
+        "share_text": "டிராகன் படகுத் திருவிழா வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "డ్రాగన్ బోట్ పండుగ",
+        "hover_text": "డ్రాగన్ బోట్ ఫెస్టివల్ 2024",
+        "share_text": "డ్రాగన్ బోట్ పండుగ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "เทศกาลแข่งเรือมังกร",
+        "hover_text": "เทศกาลแข่งเรือมังกรปี 2024",
+        "share_text": "สุขสันต์วันเทศกาลแข่งเรือมังกร #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Mokete wa Mokoro wa Terakone",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Ejderha Kayığı Festivali",
+        "hover_text": "2024 Dragon Bot Festivali",
+        "share_text": "Ejderha Kayığı Festivali Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Свято човнів-драконів",
+        "hover_text": "Свято човнів-драконів у 2024 році",
+        "share_text": "Зі святом човнів-драконів! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Dragon Boat Festival",
+        "hover_text": "ڈریگن بوٹ فیسٹیول 2024",
+        "share_text": "Dragon Boat تہوار مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Ajdar kemasi festivali",
+        "hover_text": "Ajdar kemasi festivali 2024",
+        "share_text": "Ajdar kemasi festivali muborak! #GoogleDoodle‏"
+      },
+      "vi": {
+        "query": "Lễ hội thuyền rồng",
+        "hover_text": "Tết Đoan Ngọ năm 2024",
+        "share_text": "Chúc mừng Lễ hội thuyền rồng! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "I-Dragon Boat Festival",
+        "hover_text": "I-Dragon Boat Festival yango-2024",
+        "share_text": "Sikufisela i-Dragon Boat Festival Enhle! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Dragon Boat Festival",
+    "share_text": "Happy Dragon Boat Festival! #GoogleDoodle"
+  },
+  {
+    "name": "eu-parlimentary-2024-results",
+    "title": "EU Parlimentary 2024 Results",
+    "url": "//www.google.com/logos/doodles/2024/eu-parlimentary-2024-results-6753651837110514-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/WxkgZSy9aA2hmcx5kB_8lgfQCpeTLge5Ri4_Ug5_dphcomcFqRm-eHb371UKv91NV5Ocx4zyS6ToPVPs2Qwpbpv_Q5b4q3jJ26gMhF1gvuLYi9Y4pEzDO0k",
+    "high_res_url": "//www.google.com/logos/doodles/2024/eu-parlimentary-2024-results-6753651837110514-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      6,
+      9
+    ],
+    "translations": {
+      "en": {
+        "query": "european union election results",
+        "hover_text": "EU Parliamentary Election 2024",
+        "share_text": "EU Parliamentary Election 2024! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": "EU se parlementêre verkiesing 2024",
+        "share_text": "EU se parlementêre verkiesing 2024! #GoogleDoodle"
+      },
+      "sq": {
+        "query": null,
+        "hover_text": "Zgjedhjet parlamentare në BE, 2024",
+        "share_text": "Zgjedhjet parlamentare në BE, 2024! #GoogleDoodle"
+      },
+      "am": {
+        "query": null,
+        "hover_text": "የአህ የፓርላማ ምርጫ 2024",
+        "share_text": "የአህ የፓርላማ ምርጫ 2024! #GoogleDoodle"
+      },
+      "ar": {
+        "query": null,
+        "hover_text": "انتخابات البرلمان الأوروبي 2024",
+        "share_text": "انطلقت انتخابات البرلمان الأوروبي لعام 2024. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": null,
+        "hover_text": "ԵՄ խորհրդարանական ընտրություններ 2024",
+        "share_text": "ԵՄ խորհրդարանական ընտրություններ 2024 #GoogleDoodle"
+      },
+      "az": {
+        "query": "avropa ittifaqının seçki nəticələri",
+        "hover_text": "Aİ Parlament Seçkiləri 2024",
+        "share_text": "Aİ Parlament Seçkiləri 2024! #GoogleDoodle"
+      },
+      "bn": {
+        "query": null,
+        "hover_text": "ইউরোপীয় ইউনিয়নের সংসদীয় নির্বাচন ২০২৪",
+        "share_text": "ইউরোপীয় ইউনিয়নের সংসদীয় নির্বাচন ২০২৪! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Europar Batasuneko hauteskundeen emaitzak",
+        "hover_text": "2024ko Europako Parlamenturako hauteskundeak",
+        "share_text": "2024ko Europako Parlamenturako hauteskundeak #GoogleDoodle"
+      },
+      "be": {
+        "query": "вынікі выбараў у Еўрапейскім Саюзе",
+        "hover_text": "Выбары ў Еўрапарламент 2024",
+        "share_text": "Выбары ў Еўрапарламент 2024! #GoogleDoodle"
+      },
+      "bs": {
+        "query": null,
+        "hover_text": "Izbori za Evropski parlament 2024.",
+        "share_text": "Izbori za Evropski parlament 2024! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": "EU parliamentary election 2024",
+        "share_text": "EU Parliamentary Election 2024! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "резултати от изборите в(ъв) европейски съюз",
+        "hover_text": "Parlementsverkiezingen van de EU 2024",
+        "share_text": "Parlementsverkiezingen van de EU 2024! #GoogleDoodle"
+      },
+      "my": {
+        "query": null,
+        "hover_text": "၂၀၂၄ အီးယူ ပါလီမန်ရွေးကောက်ပွဲများ",
+        "share_text": "၂၀၂၄ အီးယူ ပါလီမန်ရွေးကောက်ပွဲ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "resultats de les eleccions europees",
+        "hover_text": "Eleccions al Parlament Europeu 2024",
+        "share_text": "Eleccions al Parlament Europeu 2024 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": "2024 年歐盟議會選舉",
+        "share_text": "2024 年歐盟議會選舉！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": "2024 年歐洲議會選舉",
+        "share_text": "2024 歐洲議會選舉登場！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": "2024 年欧洲议会选举",
+        "share_text": "2024 年欧洲议会选举！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "rezultati izbora u europska unija",
+        "hover_text": " Parlementsverkiezingen van de EU 2024",
+        "share_text": " Parlementsverkiezingen van de EU 2024! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "výsledky voleb evropská unie",
+        "hover_text": "Volby do Evropského parlamentu 2024",
+        "share_text": "Volby do Evropského parlamentu 2024! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Valgresultater i den Europæiske Union",
+        "hover_text": "EU-parlamentsvalg 2024",
+        "share_text": "EU-parlamentsvalg 2024! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "De uitslagen van de Europese verkiezingen",
+        "hover_text": "Parlementsverkiezingen van de EU 2024",
+        "share_text": "Parlementsverkiezingen van de EU 2024! #GoogleDoodle"
+      },
+      "et": {
+        "query": "euroopa liit valimistulemused",
+        "hover_text": "2024. aasta Euroopa Parlamendi valimised",
+        "share_text": "2024. aasta Euroopa Parlamendi valimised #GoogleDoodle"
+      },
+      "fi": {
+        "query": "euroopan unioni vaalitulokset",
+        "hover_text": "EU-parlamenttivaalit 2024",
+        "share_text": "EU-parlamenttivaalit 2024! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Résultats des élections européennes",
+        "hover_text": "Élections parlementaires européennes 2024",
+        "share_text": "Élections parlementaires européennes 2024! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "résultats des élections européennes",
+        "hover_text": "Élections parlementaires de l'UE 2024",
+        "share_text": "Élections parlementaires de l'UE 2024! #GoogleDoodle"
+      },
+      "gl": {
+        "query": null,
+        "hover_text": "Eleccións ao Parlamento Europeo 2024",
+        "share_text": "Eleccións ao Parlamento Europeo 2024! #GoogleDoodle"
+      },
+      "ka": {
+        "query": null,
+        "hover_text": "ევროკავშირის საპარლამენტო არჩევნები — 2024",
+        "share_text": "ევროკავშირის საპარლამენტო არჩევნები — 2024 #GoogleDoodle"
+      },
+      "de": {
+        "query": "Europäische Union Wahlergebnisse",
+        "hover_text": "EU-Parlamentswahl 2024",
+        "share_text": "EU-Parlamentswahl 2024! #GoogleDoodle"
+      },
+      "el": {
+        "query": "αποτελέσματα εκλογών στην Ευρωπαϊκή Ένωση",
+        "hover_text": "Κοινοβουλευτικές εκλογές της ΕΕ 2024",
+        "share_text": "Κοινοβουλευτικές εκλογές της ΕΕ 2024 #GoogleDoodle"
+      },
+      "gu": {
+        "query": "યુરોપિયન યુનિયનની ચૂંટણીના પરિણામો",
+        "hover_text": "EUની રાષ્ટ્રીય ચૂંટણી 2024",
+        "share_text": "EUની રાષ્ટ્રીય ચૂંટણી 2024! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": "הבחירות לפרלמנט של האיחוד האירופי 2024",
+        "share_text": "הבחירות לפרלמנט של האיחוד האירופי 2024 GoogleDoodle#"
+      },
+      "hi": {
+        "query": null,
+        "hover_text": "ईयू का संसदीय चुनाव 2024",
+        "share_text": "ईयू का संसदीय चुनाव 2024! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "európai unió választási eredmények",
+        "hover_text": "Európai Parlamenti választás, 2024",
+        "share_text": "Európai Parlamenti választás, 2024! #GoogleDoodle"
+      },
+      "is": {
+        "query": "úrslit kosninga í evrópusambandinu",
+        "hover_text": "Kosningar til Evrópuþings 2024",
+        "share_text": "Kosningar til Evrópuþings 2024! #GoogleDoodle"
+      },
+      "id": {
+        "query": null,
+        "hover_text": "Pemilu Parlemen Uni Eropa 2024",
+        "share_text": "Pemilu Parlemen Uni Eropa 2024 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "risultati elettorali a unione europea",
+        "hover_text": "Elezioni parlamentari europee 2024",
+        "share_text": "Elezioni parlamentari europee 2024! #GoogleDoodle"
+      },
+      "ja": {
+        "query": null,
+        "hover_text": "2024 年欧州議会選挙",
+        "share_text": "2024 年欧州議会選挙 #GoogleDoodle"
+      },
+      "kn": {
+        "query": null,
+        "hover_text": "EU ಸಂಸದೀಯ ಚುನಾವಣೆ 2024",
+        "share_text": "EU ಸಂಸದೀಯ ಚುನಾವಣೆ 2024! #GoogleDoodle"
+      },
+      "kk": {
+        "query": null,
+        "hover_text": "Еуропалық одақ парламентінің сайлауы — 2024",
+        "share_text": "Еуропалық одақ Парламентінің сайлауы — 2024 #GoogleDoodle"
+      },
+      "km": {
+        "query": null,
+        "hover_text": "ការបោះឆ្នោតសភាសហភាពអឺរ៉ុបឆ្នាំ 2024",
+        "share_text": "ការបោះឆ្នោតសភាសហភាពអឺរ៉ុបឆ្នាំ 2024! #GoogleDoodle"
+      },
+      "ko": {
+        "query": null,
+        "hover_text": "2024년 EU 의회 선거",
+        "share_text": "2024년 EU 의회 선거 #GoogleDoodle"
+      },
+      "ky": {
+        "query": null,
+        "hover_text": "Европа Биримдигининин Парламентине шайлоо – 2024",
+        "share_text": "Европа Биримдигинин Парламентине шайлоо – 2024! #GoogleDoodle"
+      },
+      "lo": {
+        "query": null,
+        "hover_text": "ການເລືອກຕັ້ງລັດຖະສະພາສະຫະພາບຢູໂຣບປີ 2024",
+        "share_text": "ການເລືອກຕັ້ງລັດຖະສະພາສະຫະພາບຢູໂຣບປີ 2024! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "resultados de las elecciones europeas",
+        "hover_text": "Elecciones parlamentarias de la UE 2024",
+        "share_text": "Elecciones parlamentarias de la UE 2024 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Eiropas Savienības vēlēšanu rezultāti",
+        "hover_text": "ES Parlamenta vēlēšanas — 2024",
+        "share_text": "ES Parlamenta vēlēšanas — 2024! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Europos Sąjungos rinkimų rezultatai",
+        "hover_text": "2024 m. ES Parlamento rinkimai",
+        "share_text": "2024 m. ES Parlamento rinkimai #GoogleDoodle"
+      },
+      "mk": {
+        "query": null,
+        "hover_text": "Парламентарни избори во ЕУ, 2024 г.",
+        "share_text": "Парламентарни избори во ЕУ, 2024 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": "Pilihan Raya Parlimen EU 2024",
+        "share_text": "Pilihan Raya Parlimen EU 2024! #GoogleDoodle"
+      },
+      "ml": {
+        "query": null,
+        "hover_text": "EU പാർലമെന്ററി തിരഞ്ഞെടുപ്പ് 2024",
+        "share_text": "EU പാർലമെന്ററി തിരഞ്ഞെടുപ്പ് 2024! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "युरोपियन युनियनमधील निवडणुकीचे निकाल",
+        "hover_text": "ईयूमधील संसदीय निवडणूक २०२४",
+        "share_text": "ईयूमधील संसदीय निवडणूक २०२४! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "европын холбооны сонгуулийн үр дүн",
+        "hover_text": "2024 оны ЕХ-ны парламентын сонгууль",
+        "share_text": "2024 оны ЕХ-ны парламентын сонгууль! #GoogleDoodle"
+      },
+      "ne": {
+        "query": null,
+        "hover_text": "युरोपेली सङ्घको संसदीय निर्वाचन २०२४",
+        "share_text": "युरोपेली सङ्घको संसदीय निर्वाचन २०२४! #GoogleDoodle"
+      },
+      "no": {
+        "query": "EU-valgresultater",
+        "hover_text": "EU-parlamentsvalget 2024",
+        "share_text": "EU-parlamentsvalget 2024! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": "انتخابات ۲۰۲۴ مجلس اتحادیه اروپا",
+        "share_text": "انتخابات ۲۰۲۴ پارلمان اتحادیه اروپا! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Wyniki wyborów europejskich",
+        "hover_text": "Wybory do Parlamentu Europejskiego 2024",
+        "share_text": "Wybory do Parlamentu Europejskiego 2024! #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": "Eleições parlamentares da UE 2024",
+        "share_text": "Eleições parlamentares da UE 2024 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "resultados das eleições em união europeia",
+        "hover_text": "Eleições Parlamentares da UE 2024",
+        "share_text": "Eleições Parlamentares da UE 2024 #GoogleDoodle"
+      },
+      "pa": {
+        "query": null,
+        "hover_text": "EU ਦੀਆਂ ਸੰਸਦੀ ਚੋਣਾਂ 2024",
+        "share_text": "EU ਦੀਆਂ ਸੰਸਦੀ ਚੋਣਾਂ 2024! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "rezultatele alegerilor din uniunea europeană",
+        "hover_text": "Alegerile parlamentare UE 2024",
+        "share_text": "Alegerile parlamentare UE 2024! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": "Выборы в Европейский парламент – 2024",
+        "share_text": "Выборы в Европейский парламент – 2024 #GoogleDoodle"
+      },
+      "sr": {
+        "query": null,
+        "hover_text": "Избори за Европски парламент 2024.",
+        "share_text": "Избори за Европски парламент 2024! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": "Izbori za Evropski parlament 2024.",
+        "share_text": "Izbori za Evropski parlament 2024! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": "යුරෝපා සංගමයේ පාර්ලිමේන්තු මැතිවරණය 2024",
+        "share_text": "යුරෝපා සංගමයේ පාර්ලිමේන්තු මැතිවරණය 2024! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "výsledky volieb európska únia",
+        "hover_text": "Voľby do Európskeho parlamentu 2024",
+        "share_text": "Voľby do Európskeho parlamentu 2024"
+      },
+      "sl": {
+        "query": "rezultati volitev na lokaciji evropska unija",
+        "hover_text": "Evropske parlamentarne volitve 2024",
+        "share_text": "Evropske parlamentarne volitve 2024! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "resultados de las elecciones en unión europea",
+        "hover_text": "Elecciones parlamentarias de la UE de 2024",
+        "share_text": "Elecciones parlamentarias de la UE de 2024 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "matokeo ya uchaguzi wa umoja wa ulaya",
+        "hover_text": "Uchaguzi wa Bunge la Umoja wa Ulaya (EU) 2024",
+        "share_text": "Uchaguzi wa Bunge la Umoja wa Ulaya (EU) 2024! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "valresultat i europeiska unionen",
+        "hover_text": "EU-parlamentsval 2024",
+        "share_text": "EU-parlamentsval 2024! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": "ஐரோப்பிய ஒன்றியப் பாராளுமன்றத் தேர்தல் 2024",
+        "share_text": "ஐரோப்பிய ஒன்றியப் பாராளுமன்றத் தேர்தல் 2024! #GoogleDoodle"
+      },
+      "te": {
+        "query": null,
+        "hover_text": "EU పార్లమెంటరీ ఎన్నికలు 2024",
+        "share_text": "EU పార్లమెంటరీ ఎన్నికలు 2024! #GoogleDoodle"
+      },
+      "th": {
+        "query": null,
+        "hover_text": "การเลือกตั้งสมาชิกรัฐสภายุโรปปี 2024",
+        "share_text": "การเลือกตั้งรัฐสภายุโรปปี 2024 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": "2024 AB Parlamentosu Seçimleri",
+        "share_text": "2024 AB Parlamentosu Seçimleri #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "результати виборів у Європейському Союзі",
+        "hover_text": "Вибори до Європейського парламенту у 2024 році",
+        "share_text": "Вибори до Європейського парламенту у 2024 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یورپی یونین کے انتخابات کے نتائج",
+        "hover_text": "یورپی یونین کا پارلیمانی انتخاب 2024",
+        "share_text": "یورپی یونین کا پارلیمانی انتخاب 2024! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "yevropa ittifoqida saylov natijalari",
+        "hover_text": "Yevropa Ittifoqida Parlament saylovi 2024",
+        "share_text": "Yevropa Ittifoqi Parlament saylovlari 2024! #GoogleDoodle"
+      },
+      "vi": {
+        "query": null,
+        "hover_text": "Bầu cử Nghị viện Liên minh Châu Âu năm 2024",
+        "share_text": "Bầu cử Nghị viện Liên minh Châu Âu năm 2024! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": "Ukhetho Lwasephalamende lwe-EU Luka-2024",
+        "share_text": "Ukhetho Lwasephalamende lwe-EU Luka-2024! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "european union election results",
+    "share_text": "EU Parliamentary Election 2024! #GoogleDoodle"
+  },
+  {
     "name": "belgium-national-elections-2024",
     "title": "Belgium National Elections 2024",
     "url": "//www.google.com/logos/doodles/2024/belgium-national-elections-2024-6753651837110548-l.png",
