@@ -1,5 +1,504 @@
 [
   {
+    "name": "philippines-independence-day-2024",
+    "title": "Philippines Independence Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/philippines-independence-day-2024-6753651837110237-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/BIX0JTBq2YhiBsSMacVFjI25VnekzWNDmHI2yoAJSl7Z_OrojpoZfp7tkWYFpsMXoKzv-nwRWY3z-Od1UE9h22QpR0qWzwWcWETafhz4HW8DSTOBcE01",
+    "high_res_url": "//www.google.com/logos/doodles/2024/philippines-independence-day-2024-6753651837110237-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      6,
+      12
+    ],
+    "translations": {
+      "en": {
+        "query": "Philippines Independence Day",
+        "hover_text": "Philippines Independence Day 2024",
+        "share_text": "Happy Independence Day, Philippines! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Filippyne se onafhanklikheidsdag",
+        "hover_text": "Die Filippyne se onafhanklikheidsdag 2024",
+        "share_text": "Gelukkige onafhanklikheidsdag, Filippyne! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Festa e Pavarësisë së Filipineve",
+        "hover_text": "Dita e Pavarësisë së Filipineve, 2024",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Filipine! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የፊሊፒንስ የነጻነት ቀን",
+        "hover_text": "የፊሊፒንስ የነፃነት ቀን 2024",
+        "share_text": "መልካም የነጻነት ቀን ፊሊፒንስ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال الفلبين",
+        "hover_text": "عيد استقلال الفلبين 2024",
+        "share_text": "نتمنّى لدولة الفلبين عيد استقلال سعيدًا. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ֆիլիպինների անկախության օր",
+        "hover_text": "Ֆիլիպինների անկախության օր 2024",
+        "share_text": "Շնորհավո՛ր Ֆիլիպինների անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Filippinin Müstəqillik Günü",
+        "hover_text": "2024 Filippinin Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Filippin! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ফিলিপিন্সের স্বাধীনতা দিবস",
+        "hover_text": "ফিলিপিন্সের স্বাধীনতা দিবস ২০২৪",
+        "share_text": "স্বাধীনতা দিবসের শুভেচ্ছা, ফিলিপিন্স! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Filipinetako Independentzia Eguna",
+        "hover_text": "2024ko Filipinetako Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Filipinak! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Філіпін",
+        "hover_text": "Дзень незалежнасці Філіпін 2024",
+        "share_text": "З Днём незалежнасці, Філіпіны! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Filipina",
+        "hover_text": "Dan nezavisnosti Filipina 2024.",
+        "share_text": "Sretan Dan nezavisnosti, Filipini! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Philippines Independence Day",
+        "hover_text": "Philippines Independence Day 2024",
+        "share_text": "Happy Independence Day, Philippines! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Филипините",
+        "hover_text": "Ден на независимостта на Филипините 2024 г.",
+        "share_text": "Честит Ден на независимостта на Филипините! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဖိလစ်ပိုင် လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ ဖိလစ်ပိုင်နိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ ဖြစ်ပါစေ၊ ဖိလစ်ပိုင်။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència de les Filipines",
+        "hover_text": "Dia de la Independència de les Filipines 2024",
+        "share_text": "Feliç Dia de la Independència, Filipines! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "菲律賓獨立日",
+        "hover_text": "2024 年菲律賓獨立日",
+        "share_text": "菲律賓，獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "菲律賓獨立紀念日",
+        "hover_text": "2024 年菲律賓獨立紀念日",
+        "share_text": "菲律賓，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "菲律宾独立日",
+        "hover_text": "2024 年菲律宾独立日",
+        "share_text": "菲律宾，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Filipina",
+        "hover_text": "Dan neovisnosti Filipina 2024.",
+        "share_text": "Sretan Dan neovisnosti, Filipini! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Filipín",
+        "hover_text": "Den nezávislosti Filipín 2024",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Filipíny! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Filippinernes uafhængighedsdag",
+        "hover_text": "Filippinernes uafhængighedsdag 2024",
+        "share_text": "Glædelig uafhængighedsdag, Filippinerne! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Filipijnen",
+        "hover_text": "Onafhankelijkheidsdag Filipijnen 2024",
+        "share_text": "Fijne Onafhankelijkheidsdag, Filipijnen #GoogleDoodle"
+      },
+      "et": {
+        "query": "Filipiinide iseseisvuspäev",
+        "hover_text": "Filipiinide 2024. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Filipiinid! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Filippiinien itsenäisyyspäivä",
+        "hover_text": "Filippiinien itsenäisyyspäivä 2024",
+        "share_text": "Hyvää itsenäisyyspäivää, Filippiinit! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance des Philippines",
+        "hover_text": "Fête de l'Indépendance des Philippines 2024",
+        "share_text": "Fête de l'Indépendance des Philippines ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Joue de l'indépendance des Philippines",
+        "hover_text": "Fête de l'Indépendance des Philippines 2024",
+        "share_text": "Joyeuse fête de l'indépendance des Philippines! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Filipinas",
+        "hover_text": "Día da Independencia de Filipinas 2024",
+        "share_text": "Feliz Día da Independencia, Filipinas! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ფილიპინების დამოუკიდებლობის დღე",
+        "hover_text": "ფილიპინების დამოუკიდებლობის დღე 2024",
+        "share_text": "ვულოცავთ ფილიპინებს დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Philippinen",
+        "hover_text": "Unabhängigkeitstag Philippinen 2024",
+        "share_text": "Alles Gute zum Unabhängigkeitstag auf den Philippinen! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας των Φιλιππίνων",
+        "hover_text": "Ημέρα Ανεξαρτησίας των Φιλιππίνων 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας των Φιλιππινών! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ફિલિપિન્સનો સ્વતંત્રતા દિવસ",
+        "hover_text": "ફિલિપિન્સનો સ્વતંત્રતા દિવસ 2024",
+        "share_text": "ફિલિપિન્સના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של הפיליפינים",
+        "hover_text": "יום העצמאות של הפיליפינים 2024",
+        "share_text": "יום עצמאות שמח, הפיליפינים! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "फ़िलिपींस का स्वतंत्रता दिवस",
+        "hover_text": "फ़िलिपींस का स्वतंत्रता दिवस 2024",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, फ़िलिपींस! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A Fülöp-szigetek függetlenségének napja",
+        "hover_text": "A Fülöp-szigetek függetlenségének napja, 2024",
+        "share_text": "Minden jót a függetlenség napján, Fülöp-szigetek! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Filippseyja",
+        "hover_text": "Sjálfstæðisdagur Filippseyja 2024",
+        "share_text": "Gleðilegan sjálfstæðisdag, Filippseyjar! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Filipina",
+        "hover_text": "Hari Kemerdekaan Filipina 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Filipina! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse na nOileán Filipíneach",
+        "hover_text": null,
+        "share_text": "Lá Saoirse na nOileán Filipíneach faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza delle Filippine",
+        "hover_text": "Festa dell'indipendenza delle Filippine 2024",
+        "share_text": "Buona festa dell'indipendenza, Filippine! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "フィリピン独立記念日",
+        "hover_text": "2024 年フィリピン独立記念日",
+        "share_text": "フィリピン独立記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಫಿಲಿಪ್ಪೀನ್ಸ್ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಫಿಲಿಪೀನ್ಸ್ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು ಫಿಲಿಪೀನ್ಸ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Филиппиннің Тәуелсіздік күні",
+        "hover_text": "Филиппиннің Тәуелсіздік күні – 2024",
+        "share_text": "Тәуелсіздік күні құтты болсын, Филиппин! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យឯករាជ្យជាតិ​ហ្វីលីពីន",
+        "hover_text": "ទិវាបុណ្យ​ឯករាជ្យជាតិ​ហ្វ៊ីលីពីនឆ្នាំ 2024",
+        "share_text": "អបអរទិវា​បុណ្យឯករាជ្យជាតិ​ហ្វ៊ីលីពីន! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "필리핀 독립기념일",
+        "hover_text": "2024년 필리핀 독립기념일",
+        "share_text": "필리핀 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Филиппиндердин Эгемендүүлүк күнү",
+        "hover_text": "Филиппиндердин Эгемендүүлүк күнү – 2024",
+        "share_text": "Эгемендүүлүк күнүң менен, Филиппин аралдары! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດຟິລິບປິນ",
+        "hover_text": "ວັນປະກາດເອກະລາດຟິລິບປິນ 2024",
+        "share_text": "ສຸກສັນວັນຊາດຟິລິບປິນ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Filipinas",
+        "hover_text": "Día de la Independencia de Filipinas 2024",
+        "share_text": "¡Feliz Día de la Independencia, Filipinas! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Filipīnu Neatkarības diena",
+        "hover_text": "Filipīnu Neatkarības diena — 2024",
+        "share_text": "Sveicam Neatkarības dienā, Filipīnas! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Filipinų nepriklausomybės diena",
+        "hover_text": "Filipinų nepriklausomybės diena, 2024 m.",
+        "share_text": "Sveikiname Filipinus su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Филипините",
+        "hover_text": "Ден на независноста на Филипини, 2024 г.",
+        "share_text": "Среќен Ден на независноста на Филипините! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantena Filipiana",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny fahaleovantena ry Filipinina ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Filipina",
+        "hover_text": "Hari Kemerdekaan Filipina 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Filipina! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഫിലിപ്പീൻസ് സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "ഫിലിപ്പീൻസ് സ്വാതന്ത്ര്യദിനം 2024",
+        "share_text": "സ്വാതന്ത്ര്യ ദിനാശംസകൾ, ഫിലിപ്പീൻസ്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "फिलीपीन्सचा स्वातंत्र्य दिन",
+        "hover_text": "फिलीपीन्सचा स्वातंत्र्यदिन २०२४",
+        "share_text": "फिलीपिन्सला स्वातंत्र्यदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Филиппин улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2024 оны Филиппин Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Филиппин улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "फिलिपिन्सको स्वतन्त्रता दिवस",
+        "hover_text": "फिलिपिन्सको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, फिलिपिन्स! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Filippinenes frigjøringsdag",
+        "hover_text": "Filippinenes uavhengighetsdag 2024",
+        "share_text": "Gratulerer med frigjøringsdagen, Filippinene! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଫିଲିପାଇନ୍ସ ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": null,
+        "share_text": "ଫିଲିପାଇନ୍ସର ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال فیلیپین",
+        "hover_text": "روز استقلال ۲۰۲۴ فیلیپین",
+        "share_text": "روز استقلال فیلیپین مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Niepodległości Filipin",
+        "hover_text": "Dzień Niepodległości Filipin 2024",
+        "share_text": "Filipiny obchodzą Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência das Filipinas",
+        "hover_text": "Dia da Independência das Filipinas 2024",
+        "share_text": "Feliz Dia da Independência, Filipinas! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência das Filipinas",
+        "hover_text": "Dia da Independência das Filipinas de 2024",
+        "share_text": "Feliz dia da independência, Filipinas! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਫਿਲੀਪੀਨਜ਼ ਦਾ ਆਜ਼ਾਦੀ ਦਿਹਾੜਾ",
+        "hover_text": "ਫਿਲੀਪੀਨਜ਼ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2024",
+        "share_text": "ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਫਿਲੀਪੀਨਜ਼! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței în Filipine",
+        "hover_text": "Ziua Independenței în Filipine – 2024",
+        "share_text": "La mulți ani de Ziua Independenței, Filipine! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Филиппин",
+        "hover_text": "День независимости Филиппин – 2024",
+        "share_text": "День независимости Филиппин #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Филипина",
+        "hover_text": "Дан независности Филипина 2024.",
+        "share_text": "Честитамо Дан независности Филипинима! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Filipina",
+        "hover_text": "Dan nezavisnosti Filipina 2024.",
+        "share_text": "Čestitamo Dan nezavisnosti Filipinima! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepandans Filipin",
+        "hover_text": null,
+        "share_text": "Bonn zournen lendepandans, Philippines! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "පිලිපීනයේ නිදහස් දිනය",
+        "hover_text": "පිලිපීනයේ නිදහස් දිනය 2024",
+        "share_text": "ප්‍රීතිමත් නිදහස් දිනයක්, පිලිපීනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Filipín",
+        "hover_text": "Deň nezávislosti Filipín 2024",
+        "share_text": "Šťastný Deň nezávislosti, Filipíny. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Filipinov",
+        "hover_text": "Dan neodvisnosti Filipinov 2024",
+        "share_text": "Vesel dan neodvisnosti, Filipini. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madax banaanida Philippines",
+        "hover_text": null,
+        "share_text": "Maalinta Madaxbanaanida Farxada leh, Filibiin! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la Philippines",
+        "hover_text": null,
+        "share_text": "Mahlohonolo a Letsatsi la Boipuso, Philippines! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Filipinas",
+        "hover_text": "Día de la Independencia de Filipinas 2024",
+        "share_text": "¡Feliz Día de la Independencia de Filipinas! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Ufilipino",
+        "hover_text": "Sikukuu ya Uhuru wa Ufilipino 2024",
+        "share_text": "Heri za Sikukuu ya Uhuru, Ufilipino! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Filippinernas självständighetsdag",
+        "hover_text": "Filippinernas självständighetsdag 2024",
+        "share_text": "Vi firar Filippinernas självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "பிலிப்பைன்ஸ் சுதந்திர தினம்",
+        "hover_text": "பிலிப்பைன்ஸ் சுதந்திர தினம் 2024",
+        "share_text": "பிலிப்பைன்ஸ் சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఫిలిప్పీన్స్ స్వాతంత్య్ర దినోత్సవం",
+        "hover_text": "ఫిలిప్పీన్స్ స్వాతంత్య్ర దినోత్సవం 2024",
+        "share_text": "స్వాతంత్య్ర దినోత్సవ శుభాకాంక్షలు, ఫిలిప్పీన్స్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของฟิลิปปินส์",
+        "hover_text": "วันประกาศอิสรภาพของฟิลิปปินส์ปี 2024",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของฟิลิปปินส์ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Philippines",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, Philippines! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Filipinler Bağımsızlık Günü",
+        "hover_text": "2024 Filipinler Bağımsızlık Günü",
+        "share_text": "Filipinler Bağımsızlık Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Філіппін",
+        "hover_text": "День незалежності Філіппін у 2024 році",
+        "share_text": "З Днем незалежності, Філіппіни! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "فلپائن کا یوم آزادی",
+        "hover_text": "فلپائن کا یوم آزادی 2024",
+        "share_text": "فلپائن کا یوم آزادی مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Filippin Mustaqillik kuni",
+        "hover_text": "Filippin Mustaqillik kuni 2024",
+        "share_text": "Mustaqillik kuning muborak, Filippin! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Philippines",
+        "hover_text": "Ngày Quốc khánh Philippines năm 2024",
+        "share_text": "Mừng ngày Quốc khánh Philippines! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lokuzimela lwase-Philippines",
+        "hover_text": "Usuku Lokuzimela Lwase-Philippines Lwango-2024",
+        "share_text": "Sinifisela Usuku Lokuzimela Oluhle, Philippines! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Philippines Independence Day",
+    "share_text": "Happy Independence Day, Philippines! #GoogleDoodle"
+  },
+  {
     "name": "portugal-national-day-2024",
     "title": "Portugal National Day 2024",
     "url": "//www.google.com/logos/doodles/2024/portugal-national-day-2024-6753651837110236-l.png",
@@ -1017,7 +1516,7 @@
         "share_text": "EU Parliamentary Election 2024! #GoogleDoodle"
       },
       "af": {
-        "query": null,
+        "query": "Europese Unie se verkiesinguitslae",
         "hover_text": "EU se parlementêre verkiesing 2024",
         "share_text": "EU se parlementêre verkiesing 2024! #GoogleDoodle"
       },
@@ -1027,17 +1526,17 @@
         "share_text": "Zgjedhjet parlamentare në BE, 2024! #GoogleDoodle"
       },
       "am": {
-        "query": null,
+        "query": "የአውሮፓ ህብረት ምርጫ ውጤቶች",
         "hover_text": "የአህ የፓርላማ ምርጫ 2024",
         "share_text": "የአህ የፓርላማ ምርጫ 2024! #GoogleDoodle"
       },
       "ar": {
-        "query": null,
+        "query": "نتائج انتخابات الاتحاد الأوروبي",
         "hover_text": "انتخابات البرلمان الأوروبي 2024",
         "share_text": "انطلقت انتخابات البرلمان الأوروبي لعام 2024. ‎#GoogleDoodle"
       },
       "hy": {
-        "query": null,
+        "query": "Եվրոպական միության ընտրությունների արդյունքներ",
         "hover_text": "ԵՄ խորհրդարանական ընտրություններ 2024",
         "share_text": "ԵՄ խորհրդարանական ընտրություններ 2024 #GoogleDoodle"
       },
@@ -1047,7 +1546,7 @@
         "share_text": "Aİ Parlament Seçkiləri 2024! #GoogleDoodle"
       },
       "bn": {
-        "query": null,
+        "query": "ইউরোপীয় ইউনিয়নের নির্বাচনের ফলাফল",
         "hover_text": "ইউরোপীয় ইউনিয়নের সংসদীয় নির্বাচন ২০২৪",
         "share_text": "ইউরোপীয় ইউনিয়নের সংসদীয় নির্বাচন ২০২৪! #GoogleDoodle"
       },
@@ -1062,12 +1561,12 @@
         "share_text": "Выбары ў Еўрапарламент 2024! #GoogleDoodle"
       },
       "bs": {
-        "query": null,
+        "query": "rezultati izbora u Evropskoj uniji",
         "hover_text": "Izbori za Evropski parlament 2024.",
         "share_text": "Izbori za Evropski parlament 2024! #GoogleDoodle"
       },
       "en-GB": {
-        "query": null,
+        "query": "European Union election results",
         "hover_text": "EU parliamentary election 2024",
         "share_text": "EU Parliamentary Election 2024! #GoogleDoodle"
       },
@@ -1087,7 +1586,7 @@
         "share_text": "Eleccions al Parlament Europeu 2024 #GoogleDoodle"
       },
       "zh-HK": {
-        "query": "歐盟大選結果",
+        "query": "歐盟選舉結果",
         "hover_text": "2024 年歐盟議會選舉",
         "share_text": "2024 年歐盟議會選舉！#GoogleDoodle"
       },
@@ -1097,7 +1596,7 @@
         "share_text": "2024 歐洲議會選舉登場！#GoogleDoodle"
       },
       "zh-CN": {
-        "query": null,
+        "query": "欧洲议会选举结果",
         "hover_text": "2024 年欧洲议会选举",
         "share_text": "2024 年欧洲议会选举！#GoogleDoodle"
       },
@@ -1142,12 +1641,12 @@
         "share_text": "Élections parlementaires de l'UE 2024! #GoogleDoodle"
       },
       "gl": {
-        "query": null,
+        "query": "resultados das eleccións da unión europea",
         "hover_text": "Eleccións ao Parlamento Europeo 2024",
         "share_text": "Eleccións ao Parlamento Europeo 2024! #GoogleDoodle"
       },
       "ka": {
-        "query": null,
+        "query": "ევროკავშირის არჩევნების შედეგები",
         "hover_text": "ევროკავშირის საპარლამენტო არჩევნები — 2024",
         "share_text": "ევროკავშირის საპარლამენტო არჩევნები — 2024 #GoogleDoodle"
       },
@@ -1172,12 +1671,12 @@
         "share_text": ""
       },
       "iw": {
-        "query": null,
+        "query": "תוצאות הבחירות לפרלמנט האיחוד האירופי",
         "hover_text": "הבחירות לפרלמנט של האיחוד האירופי 2024",
         "share_text": "הבחירות לפרלמנט של האיחוד האירופי 2024 GoogleDoodle#"
       },
       "hi": {
-        "query": null,
+        "query": "यूरोपियन यूनियन के संसदीय चुनाव के नतीजे",
         "hover_text": "ईयू का संसदीय चुनाव 2024",
         "share_text": "ईयू का संसदीय चुनाव 2024! #GoogleDoodle"
       },
@@ -1192,7 +1691,7 @@
         "share_text": "Kosningar til Evrópuþings 2024! #GoogleDoodle"
       },
       "id": {
-        "query": null,
+        "query": "hasil pemilu uni eropa",
         "hover_text": "Pemilu Parlemen Uni Eropa 2024",
         "share_text": "Pemilu Parlemen Uni Eropa 2024 #GoogleDoodle"
       },
@@ -1207,22 +1706,22 @@
         "share_text": "Elezioni parlamentari europee 2024! #GoogleDoodle"
       },
       "ja": {
-        "query": null,
+        "query": "欧州連合選挙結果",
         "hover_text": "2024 年欧州議会選挙",
         "share_text": "2024 年欧州議会選挙 #GoogleDoodle"
       },
       "kn": {
-        "query": null,
+        "query": "ಯುರೋಪಿಯನ್ ಯೂನಿಯನ್ ಚುನಾವಣಾ ಫಲಿತಾಂಶಗಳು",
         "hover_text": "EU ಸಂಸದೀಯ ಚುನಾವಣೆ 2024",
         "share_text": "EU ಸಂಸದೀಯ ಚುನಾವಣೆ 2024! #GoogleDoodle"
       },
       "kk": {
-        "query": null,
+        "query": "Еуропалық одақтағы сайлаудың нәтижелері",
         "hover_text": "Еуропалық одақ парламентінің сайлауы — 2024",
         "share_text": "Еуропалық одақ Парламентінің сайлауы — 2024 #GoogleDoodle"
       },
       "km": {
-        "query": null,
+        "query": "លទ្ធផលបោះឆ្នោតសហភាពអឺរ៉ុប",
         "hover_text": "ការបោះឆ្នោតសភាសហភាពអឺរ៉ុបឆ្នាំ 2024",
         "share_text": "ការបោះឆ្នោតសភាសហភាពអឺរ៉ុបឆ្នាំ 2024! #GoogleDoodle"
       },
@@ -1232,12 +1731,12 @@
         "share_text": "2024년 EU 의회 선거 #GoogleDoodle"
       },
       "ky": {
-        "query": null,
+        "query": "Европа Биримдигиндеги шайлоонун жыйынтыктары",
         "hover_text": "Европа Биримдигининин Парламентине шайлоо – 2024",
         "share_text": "Европа Биримдигинин Парламентине шайлоо – 2024! #GoogleDoodle"
       },
       "lo": {
-        "query": null,
+        "query": "ຜົນການເລືອກຕັ້ງສະຫະພາບຢູໂຣບ",
         "hover_text": "ການເລືອກຕັ້ງລັດຖະສະພາສະຫະພາບຢູໂຣບປີ 2024",
         "share_text": "ການເລືອກຕັ້ງລັດຖະສະພາສະຫະພາບຢູໂຣບປີ 2024! #GoogleDoodle"
       },
@@ -1272,7 +1771,7 @@
         "share_text": "Pilihan Raya Parlimen EU 2024! #GoogleDoodle"
       },
       "ml": {
-        "query": null,
+        "query": "യൂറോപ്യൻ യൂണിയനിലെ തെരഞ്ഞെടുപ്പ് ഫലങ്ങൾ",
         "hover_text": "EU പാർലമെന്ററി തിരഞ്ഞെടുപ്പ് 2024",
         "share_text": "EU പാർലമെന്ററി തിരഞ്ഞെടുപ്പ് 2024! #GoogleDoodle"
       },
@@ -1292,7 +1791,7 @@
         "share_text": "2024 оны ЕХ-ны парламентын сонгууль! #GoogleDoodle"
       },
       "ne": {
-        "query": null,
+        "query": "युरोपेली सङ्घको निर्वाचनको मत परिणाम",
         "hover_text": "युरोपेली सङ्घको संसदीय निर्वाचन २०२४",
         "share_text": "युरोपेली सङ्घको संसदीय निर्वाचन २०२४! #GoogleDoodle"
       },
@@ -1322,7 +1821,7 @@
         "share_text": ""
       },
       "fa": {
-        "query": null,
+        "query": "نتایج انتخابات اتحادیه اروپا",
         "hover_text": "انتخابات ۲۰۲۴ مجلس اتحادیه اروپا",
         "share_text": "انتخابات ۲۰۲۴ پارلمان اتحادیه اروپا! ‎#GoogleDoodle"
       },
@@ -1332,7 +1831,7 @@
         "share_text": "Wybory do Parlamentu Europejskiego 2024! #GoogleDoodle"
       },
       "pt-BR": {
-        "query": null,
+        "query": "resultados das eleições da União Europeia",
         "hover_text": "Eleições parlamentares da UE 2024",
         "share_text": "Eleições parlamentares da UE 2024 #GoogleDoodle"
       },
@@ -1342,7 +1841,7 @@
         "share_text": "Eleições Parlamentares da UE 2024 #GoogleDoodle"
       },
       "pa": {
-        "query": null,
+        "query": "ਯੂਰਪੀ ਸੰਘ ਦੀਆਂ ਚੋਣਾਂ ਦੇ ਨਤੀਜੇ",
         "hover_text": "EU ਦੀਆਂ ਸੰਸਦੀ ਚੋਣਾਂ 2024",
         "share_text": "EU ਦੀਆਂ ਸੰਸਦੀ ਚੋਣਾਂ 2024! #GoogleDoodle"
       },
@@ -1357,17 +1856,17 @@
         "share_text": ""
       },
       "ru": {
-        "query": null,
+        "query": "Результаты выборов в Европейский парламент",
         "hover_text": "Выборы в Европейский парламент – 2024",
         "share_text": "Выборы в Европейский парламент – 2024 #GoogleDoodle"
       },
       "sr": {
-        "query": null,
+        "query": "резултати избора у Европској унији",
         "hover_text": "Избори за Европски парламент 2024.",
         "share_text": "Избори за Европски парламент 2024! #GoogleDoodle"
       },
       "sr-Latn": {
-        "query": null,
+        "query": "rezultati izbora u Evropskoj uniji",
         "hover_text": "Izbori za Evropski parlament 2024.",
         "share_text": "Izbori za Evropski parlament 2024! #GoogleDoodle"
       },
@@ -1432,17 +1931,17 @@
         "share_text": ""
       },
       "ta": {
-        "query": null,
+        "query": "ஐரோப்பிய ஒன்றியத்தின் தேர்தல் முடிவுகள்",
         "hover_text": "ஐரோப்பிய ஒன்றியப் பாராளுமன்றத் தேர்தல் 2024",
         "share_text": "ஐரோப்பிய ஒன்றியப் பாராளுமன்றத் தேர்தல் 2024! #GoogleDoodle"
       },
       "te": {
-        "query": null,
+        "query": "యూరోపియన్ యూనియన్ ఎన్నికల ఫలితాలు",
         "hover_text": "EU పార్లమెంటరీ ఎన్నికలు 2024",
         "share_text": "EU పార్లమెంటరీ ఎన్నికలు 2024! #GoogleDoodle"
       },
       "th": {
-        "query": null,
+        "query": "ผลการเลือกตั้งในสหภาพยุโรป",
         "hover_text": "การเลือกตั้งสมาชิกรัฐสภายุโรปปี 2024",
         "share_text": "การเลือกตั้งรัฐสภายุโรปปี 2024 #GoogleDoodle"
       },
@@ -1452,7 +1951,7 @@
         "share_text": ""
       },
       "tr": {
-        "query": null,
+        "query": "avrupa birliği seçim sonuçları",
         "hover_text": "2024 AB Parlamentosu Seçimleri",
         "share_text": "2024 AB Parlamentosu Seçimleri #GoogleDoodle"
       },
@@ -1477,7 +1976,7 @@
         "share_text": "Yevropa Ittifoqi Parlament saylovlari 2024! #GoogleDoodle"
       },
       "vi": {
-        "query": null,
+        "query": "kết quả bầu cử ở liên minh châu âu",
         "hover_text": "Bầu cử Nghị viện Liên minh Châu Âu năm 2024",
         "share_text": "Bầu cử Nghị viện Liên minh Châu Âu năm 2024! #GoogleDoodle"
       },
@@ -1487,7 +1986,7 @@
         "share_text": ""
       },
       "zu": {
-        "query": null,
+        "query": "imiphumela yokhetho lwenyunyana yase-europe",
         "hover_text": "Ukhetho Lwasephalamende lwe-EU Luka-2024",
         "share_text": "Ukhetho Lwasephalamende lwe-EU Luka-2024! #GoogleDoodle"
       }
@@ -4036,7 +4535,7 @@
         "share_text": "ԵՄ խորհրդարանական ընտրություններ 2024 #GoogleDoodle"
       },
       "az": {
-        "query": null,
+        "query": "irlandiya seçkilərində səs vermək haqqında",
         "hover_text": "Aİ Parlament Seçkiləri 2024",
         "share_text": "Aİ Parlament Seçkiləri 2024! #GoogleDoodle"
       },
@@ -4071,7 +4570,7 @@
         "share_text": "Избори за Европейски парламент 2024 г.! #GoogleDoodle"
       },
       "my": {
-        "query": null,
+        "query": "အိုင်ယာလန်သမ္မတနိုင်ငံ၌ ရွေးကောက်ပွဲများတွင် မဲပေးနည်း",
         "hover_text": "၂၀၂၄ အီးယူ ပါလီမန်ရွေးကောက်ပွဲများ",
         "share_text": "၂၀၂၄ အီးယူ ပါလီမန်ရွေးကောက်ပွဲ။ #GoogleDoodle"
       },
@@ -4116,12 +4615,12 @@
         "share_text": "De Europese parlementsverkiezingen 2024! #GoogleDoodle"
       },
       "et": {
-        "query": null,
+        "query": "kuidas hääletada iirimaa valimistel",
         "hover_text": "2024. aasta Euroopa Parlamendi valimised",
         "share_text": "2024. aasta Euroopa Parlamendi valimised! #GoogleDoodle"
       },
       "fi": {
-        "query": null,
+        "query": "miten äänestetään irlannin vaaleissa",
         "hover_text": "Europarlamenttivaalit 2024",
         "share_text": "Europarlamenttivaalit 2024 #GoogleDoodle"
       },
@@ -4151,7 +4650,7 @@
         "share_text": "Europawahl 2024 #GoogleDoodle"
       },
       "el": {
-        "query": null,
+        "query": "πώς να ψηφίσετε στις εκλογές στη Δημοκρατία της Ιρλανδίας",
         "hover_text": "Ευρωεκλογές 2024",
         "share_text": "Ευρωεκλογές 2024! #GoogleDoodle"
       },
@@ -4181,12 +4680,12 @@
         "share_text": "Európai parlamenti választás, 2024! #GoogleDoodle"
       },
       "is": {
-        "query": null,
+        "query": "hvernig á að kjósa í kosningum írska lýðveldisins",
         "hover_text": "Kosningar til Evrópuþings 2024",
         "share_text": "Kosningar til Evrópuþings 2024! #GoogleDoodle"
       },
       "id": {
-        "query": null,
+        "query": "cara memberikan suara dalam pemilu di republik irlandia",
         "hover_text": "Pemilu Parlemen Uni Eropa 2024",
         "share_text": "Pemilu Parlemen Uni Eropa 2024 #GoogleDoodle"
       },
@@ -4201,7 +4700,7 @@
         "share_text": "Elezioni del Parlamento europeo 2024! #GoogleDoodle"
       },
       "ja": {
-        "query": null,
+        "query": "アイルランド共和国の選挙での投票方法",
         "hover_text": "2024 年欧州議会選挙",
         "share_text": "2024 年欧州議会選挙 #GoogleDoodle"
       },
@@ -4221,7 +4720,7 @@
         "share_text": "ការបោះឆ្នោតសភាសហភាពអឺរ៉ុបឆ្នាំ 2024! #GoogleDoodle"
       },
       "ko": {
-        "query": null,
+        "query": "아일랜드 공화국 선거 투표 방법",
         "hover_text": "2024년 EU 의회 선거",
         "share_text": "2024년 EU 의회 선거 #GoogleDoodle"
       },
@@ -4241,12 +4740,12 @@
         "share_text": "Elecciones parlamentarias de la UE 2024 #GoogleDoodle"
       },
       "lv": {
-        "query": null,
+        "query": "kā balsot vēlēšanās \"Īrijā\"",
         "hover_text": "Eiropas Parlamenta vēlēšanas — 2024",
         "share_text": "Eiropas Parlamenta vēlēšanas — 2024! #GoogleDoodle"
       },
       "lt": {
-        "query": null,
+        "query": "kaip balsuoti Airijos Respublikos rinkimuose",
         "hover_text": "ES Parlamento rinkimai, 2024 m.",
         "share_text": "ES Parlamento rinkimai, 2024 m.! #GoogleDoodle"
       },
@@ -4261,7 +4760,7 @@
         "share_text": ""
       },
       "ms": {
-        "query": null,
+        "query": "cara mengundi dalam pilihan raya di Republik Ireland",
         "hover_text": "Pilihan Raya Parlimen EU 2024",
         "share_text": "Pilihan Raya Parlimen EU 2024! #GoogleDoodle"
       },
@@ -4281,7 +4780,7 @@
         "share_text": "ईयूमधील संसदीय निवडणूक २०२४! #GoogleDoodle"
       },
       "mn": {
-        "query": null,
+        "query": "бүгд найрамдах ирланд улсын сонгуульд хэрхэн санал өгөх вэ?",
         "hover_text": "2024 оны ЕХ-ны парламентын сонгууль",
         "share_text": "2024 оны ЕХ-ны парламентын сонгууль! #GoogleDoodle"
       },
@@ -4291,7 +4790,7 @@
         "share_text": "युरोपेली सङ्घको संसदीय निर्वाचन २०२४! #GoogleDoodle"
       },
       "no": {
-        "query": null,
+        "query": "hvordan stemme i valget i Irland",
         "hover_text": "EU-parlamentsvalget 2024",
         "share_text": "EU-parlamentsvalget 2024! #GoogleDoodle"
       },
@@ -4406,7 +4905,7 @@
         "share_text": ""
       },
       "es": {
-        "query": null,
+        "query": "cómo votar en las elecciones de la república de irlanda",
         "hover_text": "Elecciones al Parlamento Europeo 2024",
         "share_text": "Hoy se celebran las elecciones al Parlamento Europeo 2024 #GoogleDoodle"
       },
@@ -4436,7 +4935,7 @@
         "share_text": "EU పార్లమెంటరీ ఎన్నికలు 2024! #GoogleDoodle"
       },
       "th": {
-        "query": null,
+        "query": "วิธีลงคะแนนเสียงเลือกตั้งในสาธารณรัฐไอร์แลนด์",
         "hover_text": "การเลือกตั้งสมาชิกรัฐสภายุโรปปี 2024",
         "share_text": "การเลือกตั้งรัฐสภายุโรปปี 2024 #GoogleDoodle"
       },
@@ -4456,12 +4955,12 @@
         "share_text": ""
       },
       "uk": {
-        "query": null,
+        "query": "як голосувати на виборах в Ірландії",
         "hover_text": "Вибори до Європейського парламенту у 2024 році",
         "share_text": "Вибори до Європейського парламенту у 2024 році! #GoogleDoodle"
       },
       "ur": {
-        "query": null,
+        "query": "جمہوریہ آئرلینڈ میں انتخابات میں ووٹ ڈالنے کا طریقہ",
         "hover_text": "یورپی یونین کا پارلیمانی انتخاب 2024",
         "share_text": "یورپی یونین کا پارلیمانی انتخاب 2024! GoogleDoodle#"
       },
@@ -6531,9 +7030,9 @@
         "share_text": "Տոնենք Ժաննա Կորդովայի օրը #GoogleDoodle"
       },
       "az": {
-        "query": "Jeanne Cordova",
-        "hover_text": "Jeanne Cordova günü",
-        "share_text": "Jeanne Cordova günü! #GoogleDoodle"
+        "query": "Jeanne Córdova",
+        "hover_text": "Jeanne Córdova günü",
+        "share_text": "Jeanne Córdova günü! #GoogleDoodle"
       },
       "bn": {
         "query": "জিন কর্ডোভা",
@@ -6566,9 +7065,9 @@
         "share_text": "Честване на Джийн Кордова! #GoogleDoodle"
       },
       "my": {
-        "query": "Jeanne Cordova",
-        "hover_text": "Jeanne Cordova ကို ဂုဏ်ပြုခြင်း",
-        "share_text": "Jeanne Cordova ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+        "query": "Jeanne Córdova",
+        "hover_text": "Jeanne Córdova ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "Jeanne Córdova ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
       },
       "ca": {
         "query": "Jeanne Córdova",
@@ -6611,14 +7110,14 @@
         "share_text": "Een doodle ter ere van Jeanne Córdova! #GoogleDoodle"
       },
       "et": {
-        "query": "Jeanne Cordova",
-        "hover_text": "Mälestame Jeanne Cordovat",
-        "share_text": "Mälestame Jeanne Cordovat! #GoogleDoodle"
+        "query": "Jeanne Córdova",
+        "hover_text": "Mälestame Jeanne Córdovat",
+        "share_text": "Mälestame Jeanne Córdovat! #GoogleDoodle"
       },
       "fi": {
-        "query": "Jeanne Cordova",
-        "hover_text": "Jeanne Cordova",
-        "share_text": "Jeanne Cordova #GoogleDoodle"
+        "query": "Jeanne Córdova",
+        "hover_text": "Jeanne Córdova",
+        "share_text": "Jeanne Córdova #GoogleDoodle"
       },
       "fr": {
         "query": "Jeanne Córdova",
@@ -6646,9 +7145,9 @@
         "share_text": "Zu Ehren von Jeanne Córdova #GoogleDoodle"
       },
       "el": {
-        "query": "Jeanne Cordova",
-        "hover_text": "Τιμούμε την Jeanne Cordova",
-        "share_text": "Τιμούμε την Jeanne Cordova! #GoogleDoodle"
+        "query": "Jeanne Córdova",
+        "hover_text": "Τιμούμε την Jeanne Córdova",
+        "share_text": "Τιμούμε την Jeanne Córdova! #GoogleDoodle"
       },
       "gu": {
         "query": "જીન કોર્ડોવા",
@@ -6676,9 +7175,9 @@
         "share_text": "Jeanne Cordova ünneplése. #GoogleDoodle"
       },
       "is": {
-        "query": "Jeanne Cordova",
-        "hover_text": "Við heiðrum Jeanne Cordova",
-        "share_text": "Við heiðrum Jeanne Cordova! #GoogleDoodle"
+        "query": "Jeanne Córdova",
+        "hover_text": "Við fögnum Jeanne Córdova",
+        "share_text": "Við fögnum Jeanne Córdova! #GoogleDoodle"
       },
       "id": {
         "query": "Jeanne Córdova",
@@ -6716,9 +7215,9 @@
         "share_text": "អបអរទិវារំលឹក Jeanne Cordova! #GoogleDoodle"
       },
       "ko": {
-        "query": "Jeanne Cordova",
-        "hover_text": "Jeanne Cordova를 기억하며",
-        "share_text": "Jeanne Cordova를 기억하며 #GoogleDoodle"
+        "query": "Jeanne Córdova",
+        "hover_text": "Jeanne Córdova를 기억하며",
+        "share_text": "Jeanne Córdova를 기억하며! #GoogleDoodle"
       },
       "ky": {
         "query": "Жанна Кордова",
@@ -6736,14 +7235,14 @@
         "share_text": "¡Celebramos a Jeanne Córdova! #GoogleDoodle"
       },
       "lv": {
-        "query": "Žanna Kordova",
-        "hover_text": "Žannas Kordovas godināšana",
-        "share_text": "Žannas Kordovas godināšana! #GoogleDoodle"
+        "query": "Jeanne Córdova",
+        "hover_text": "Džīnas Kordovas godināšana",
+        "share_text": "Godinām Džīnu Kordovu! #GoogleDoodle"
       },
       "lt": {
-        "query": "Jeanne Cordova",
-        "hover_text": "Jeanne Cordova minėjimas",
-        "share_text": "Jeanne Cordova minėjimas! #GoogleDoodle"
+        "query": "Jeanne Córdova",
+        "hover_text": "Jeanne Córdova minėjimas",
+        "share_text": "Jeanne Córdova minėjimas! #GoogleDoodle"
       },
       "mk": {
         "query": "Jeanne Cordova",
@@ -6756,9 +7255,9 @@
         "share_text": ""
       },
       "ms": {
-        "query": "Jeanne Cordova",
-        "hover_text": "Meraikan Jeanne Cordova",
-        "share_text": "Meraikan Jeanne Cordova! #GoogleDoodle"
+        "query": "Jeanne Córdova",
+        "hover_text": "Meraikan Jeanne Córdova",
+        "share_text": "Meraikan Jeanne Córdova! #GoogleDoodle"
       },
       "ml": {
         "query": "Jeanne Cordova",
@@ -6931,9 +7430,9 @@
         "share_text": "జీన్ కొర్డోవాను స్మరించుకుందాం! #GoogleDoodle"
       },
       "th": {
-        "query": "Jeanne Cordova",
-        "hover_text": "วันรำลึกถึง Jeanne Cordova",
-        "share_text": "วันรำลึกถึง Jeanne Cordova #GoogleDoodle"
+        "query": "Jeanne Córdova",
+        "hover_text": "วันรำลึกถึง Jeanne Córdova",
+        "share_text": "วันรำลึกถึง Jeanne Córdova #GoogleDoodle"
       },
       "tn": {
         "query": null,
@@ -6956,9 +7455,9 @@
         "share_text": "Ушановуємо Жанну Кордову! #GoogleDoodle"
       },
       "ur": {
-        "query": "Jeanne Cordova",
-        "hover_text": "‫Jeanne Cordova کی یاد میں",
-        "share_text": "‫Jeanne Cordova کی یاد میں! GoogleDoodle#"
+        "query": "Jeanne Córdova",
+        "hover_text": "‫Jeanne Córdova کی یاد میں",
+        "share_text": "‫Jeanne Córdova کی یاد میں! GoogleDoodle#"
       },
       "uz": {
         "query": "Jeanne Cordova",
