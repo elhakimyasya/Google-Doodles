@@ -1,5 +1,504 @@
 [
   {
+    "name": "uefa-mens-european-championship-2024",
+    "title": "UEFA Men’s European Championship 2024",
+    "url": "//www.google.com/logos/doodles/2024/uefa-mens-european-championship-2024-6753651837110512-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/0MVU2dWMZbGHXPU3StryWxisDpdfKDJK09ycf_yvfpFu1I4oX-rhDPRXGkGwzvADOBdZeFvAsNThARBu2-mS3IOPDEzP6dfMRni9x2rY3tLhW_7FgALckQ",
+    "high_res_url": "//www.google.com/logos/doodles/2024/uefa-mens-european-championship-2024-6753651837110512-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      6,
+      14
+    ],
+    "translations": {
+      "en": {
+        "query": "UEFA Men’s European Championship 2024",
+        "hover_text": "UEFA Men’s European Championship 2024",
+        "share_text": "UEFA Men’s European Championship 2024! #GoogleDoodle"
+      },
+      "af": {
+        "query": "UEFA se Europese kampioenskap vir mans 2024",
+        "hover_text": "UEFA se Europese kampioenskap vir mans 2024",
+        "share_text": "UEFA se Europese kampioenskap vir mans 2024! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Kampionati Evropian për Meshkuj i UEFA 2024",
+        "hover_text": "Kampionati Evropian për Meshkuj i UEFA 2024",
+        "share_text": "Kampionati Evropian për Meshkuj i UEFA 2024! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የUEFA የአውሮፓ የወንዶች ሻምፒዮና 2024",
+        "hover_text": "የUEFA የአውሮፓ የወንዶች ሻምፒዮና 2024",
+        "share_text": "የUEFA የአውሮፓ የወንዶች ሻምፒዮና 2024! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "بطولة الاتحاد الأوروبي لكرة القدم للرجال 2024",
+        "hover_text": "بطولة الاتحاد الأوروبي لكرة القدم للرجال 2024",
+        "share_text": "انطلقت اليوم بطولة الاتحاد الأوروبي لكرة القدم للرجال لعام 2024. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "ՈՒԵՖԱ տղամարդկանց Եվրոպայի առաջնություն 2024",
+        "hover_text": "ՈՒԵՖԱ տղամարդկանց Եվրոպայի առաջնություն 2024",
+        "share_text": "ՈՒԵՖԱ տղամարդկանց Եվրոպայի առաջնություն 2024 #GoogleDoodle"
+      },
+      "az": {
+        "query": "Kişilər arasında UEFA Avropa Çempionatı 2024",
+        "hover_text": "Kişilər arasında UEFA Avropa Çempionatı 2024",
+        "share_text": "Kişilər arasında UEFA Avropa Çempionatı 2024! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "UEFA পুরুষদের ইউরোপিয়ান চ্যাম্পিয়নশিপ ২০২৪",
+        "hover_text": "UEFA পুরুষদের ইউরোপিয়ান চ্যাম্পিয়নশিপ ২০২৪",
+        "share_text": "UEFA পুরুষদের ইউরোপিয়ান চ্যাম্পিয়নশিপ ২০২৪! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "2024ko UEFAko gizonezkoen txapelketa europarra",
+        "hover_text": "2024ko UEFAko gizonezkoen txapelketa europarra",
+        "share_text": "2024ko UEFAko gizonezkoen txapelketa europarra! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Чэмпіянат Еўропы па футболе сярод мужчын 2024!",
+        "hover_text": "Чэмпіянат Еўропы па футболе сярод мужчын 2024!",
+        "share_text": "Чэмпіянат Еўропы па футболе сярод мужчын 2024! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "UEFA Evropsko prvenstvo za muškarce 2024.",
+        "hover_text": "UEFA Evropsko prvenstvo za muškarce 2024.",
+        "share_text": "UEFA Evropsko prvenstvo za muškarce 2024! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "UEFA Men’s European Championship 2024",
+        "hover_text": "UEFA Men’s European Championship 2024",
+        "share_text": "UEFA Men’s European Championship 2024! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Европейско първенство по футбол за мъже на УЕФА 2024 г.",
+        "hover_text": "Европейско първенство по футбол за мъже на УЕФА 2024 г.",
+        "share_text": "Европейско първенство по футбол за мъже на УЕФА 2024 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "၂၀၂၄ ခုနှစ် UEFA ဥရောပ အမျိုးသား တံခွန်စိုက်ပြိုင်ပွဲ",
+        "hover_text": "၂၀၂၄ ခုနှစ် UEFA ဥရောပ အမျိုးသား တံခွန်စိုက်ပြိုင်ပွဲ",
+        "share_text": "၂၀၂၄ ခုနှစ် UEFA ဥရောပ အမျိုးသား တံခွန်စိုက်ပြိုင်ပွဲ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Campionat d'Europa de futbol masculí de la UEFA 2024",
+        "hover_text": "Campionat d'Europa de futbol masculí de la UEFA 2024",
+        "share_text": "Campionat d'Europa de futbol masculí de la UEFA 2024 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "2024 年男子歐洲聯賽冠軍盃",
+        "hover_text": "2024 年男子歐洲聯賽冠軍盃",
+        "share_text": "2024 年男子歐洲聯賽冠軍盃！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "2024 年男子歐洲足球錦標賽",
+        "hover_text": "2024 年男子歐洲足球錦標賽",
+        "share_text": "2024 年男子歐洲足球錦標賽登場！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "2024 年欧洲男子足球锦标赛",
+        "hover_text": "2024 年欧洲男子足球锦标赛",
+        "share_text": "2024 年欧洲男子足球锦标赛！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Europsko prvenstvo za muškarce UEFA 2024.",
+        "hover_text": "Europsko prvenstvo za muškarce UEFA 2024.",
+        "share_text": "Europsko prvenstvo za muškarce UEFA 2024.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Mistrovství Evropy ve fotbale 2024",
+        "hover_text": "Mistrovství Evropy ve fotbale 2024",
+        "share_text": "Mistrovství Evropy ve fotbale 2024! #GoogleDoodle"
+      },
+      "da": {
+        "query": "EM i fodbold 2024",
+        "hover_text": "EM i fodbold 2024",
+        "share_text": "EM i fodbold 2024 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "UEFA kampioenschap voor mannen 2024",
+        "hover_text": "UEFA kampioenschap voor mannen 2024",
+        "share_text": "Het UEFA kampioenschap voor mannen 2024! #GoogleDoodle"
+      },
+      "et": {
+        "query": "2024. aasta UEFA meeste jalgpalli Euroopa meistrivõistlused",
+        "hover_text": "2024. aasta UEFA meeste jalgpalli Euroopa meistrivõistlused",
+        "share_text": "2024. aasta UEFA meeste jalgpalli Euroopa meistrivõistlused! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Miesten jalkapallon EM-kisat 2024",
+        "hover_text": "Miesten jalkapallon EM-kisat 2024",
+        "share_text": "Miesten jalkapallon EM-kisat 2024 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Championnat d'Europe UEFA de football masculin 2024",
+        "hover_text": "Championnat d'Europe UEFA de football masculin 2024",
+        "share_text": "Championnat d'Europe UEFA de football masculin 2024 ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Championnat d'Europe de soccer masculin de l'UEFA 2024",
+        "hover_text": "Championnat d'Europe de soccer masculin de l'UEFA 2024",
+        "share_text": "Championnat d'Europe de soccer masculin de l'UEFA 2024! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Campionato Europeo Masculino da UEFA 2024",
+        "hover_text": "Campionato Europeo Masculino da UEFA 2024",
+        "share_text": "Campionato Europeo Masculino da UEFA 2024! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ევროპის საფეხბურთო ჩემპიონატი 2024",
+        "hover_text": "ევროპის საფეხბურთო ჩემპიონატი 2024",
+        "share_text": "ევროპის საფეხბურთო ჩემპიონატი 2024! #GoogleDoodle"
+      },
+      "de": {
+        "query": "UEFA EURO 2024",
+        "hover_text": "UEFA EURO 2024",
+        "share_text": "UEFA-Fußball-Europameisterschaft der Männer 2024 #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ευρωπαϊκό πρωτάθλημα ανδρών UEFA 2024",
+        "hover_text": "Ευρωπαϊκό πρωτάθλημα ανδρών UEFA 2024",
+        "share_text": "Ευρωπαϊκό πρωτάθλημα ανδρών UEFA 2024! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "UEFA પુરુષોની યુરોપિયન ચૅમ્પિયનશિપ 2024",
+        "hover_text": "UEFA પુરુષોની યુરોપિયન ચૅમ્પિયનશિપ 2024",
+        "share_text": "UEFA પુરુષોની યુરોપિયન ચૅમ્પિયનશિપ 2024! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "אליפות אירופה בכדורגל גברים של אופ\"א 2024",
+        "hover_text": "אליפות אירופה בכדורגל גברים של אופ\"א 2024",
+        "share_text": "אליפות אירופה בכדורגל גברים של אופ\"א 2024 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "यूईएफ़ए मेन्स यूरोपियन चैंपियनशिप 2024",
+        "hover_text": "यूईएफ़ए मेन्स यूरोपियन चैंपियनशिप 2024",
+        "share_text": "यूईएफ़ए मेन्स यूरोपियन चैंपियनशिप 2024! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "UEFA férfi Európa-bajnokság, 2024",
+        "hover_text": "UEFA férfi Európa-bajnokság, 2024",
+        "share_text": "UEFA férfi Európa-bajnokság, 2024! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Evrópukeppni UEFA í knattspyrnu karla 2024",
+        "hover_text": "Evrópukeppni UEFA í knattspyrnu karla 2024",
+        "share_text": "Evrópukeppni UEFA í knattspyrnu karla 2024! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Kejuaraan Eropa UEFA Pria 2024",
+        "hover_text": "Kejuaraan Eropa UEFA Pria 2024",
+        "share_text": "Kejuaraan Eropa UEFA Pria 2024 #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Craobh Eorpach na bhFear UEFA 2024",
+        "hover_text": "Craobh Eorpach na bhFear UEFA 2024",
+        "share_text": "Craobh Eorpach na bhFear UEFA 2024! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Campionato europeo di calcio maschile UEFA 2024",
+        "hover_text": "Campionato europeo di calcio maschile UEFA 2024",
+        "share_text": "Campionato europeo di calcio maschile UEFA 2024! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "2024 年 UEFA サッカー欧州選手権",
+        "hover_text": "2024 年 UEFA サッカー欧州選手権",
+        "share_text": "2024 年 UEFA サッカー欧州選手権！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "UEFA ಪುರುಷರ ಯುರೋಪಿಯನ್ ಚಾಂಪಿಯನ್‌ಶಿಪ್ 2024",
+        "hover_text": "UEFA ಪುರುಷರ ಯುರೋಪಿಯನ್ ಚಾಂಪಿಯನ್‌ಶಿಪ್ 2024",
+        "share_text": "UEFA ಪುರುಷರ ಯುರೋಪಿಯನ್ ಚಾಂಪಿಯನ್‌ಶಿಪ್ 2024! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Ерлер арасындағы 2024 жылғы UEFA чемпионаты",
+        "hover_text": "Ерлер арасындағы 2024 жылғы UEFA чемпионаты",
+        "share_text": "Ерлер арасындағы 2024 жылғы UEFA чемпионаты! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការប្រកួតជើងឯកអឺរ៉ុបផ្នែកបុរស UEFA ឆ្នាំ 2024",
+        "hover_text": "ការប្រកួតជើងឯកអឺរ៉ុបផ្នែកបុរស UEFA ឆ្នាំ 2024",
+        "share_text": "ការប្រកួតជើងឯកអឺរ៉ុបផ្នែកបុរស UEFA ឆ្នាំ 2024! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "2024년 UEFA 유럽 남자 축구 선수권 대회",
+        "hover_text": "2024년 UEFA 유럽 남자 축구 선수권 대회",
+        "share_text": "2024년 UEFA 유럽 남자 축구 선수권 대회 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Футбол боюнча эркектер арасындагы Европа чемпионаты — 2024",
+        "hover_text": "Футбол боюнча эркектер арасындагы Европа чемпионаты — 2024",
+        "share_text": "Футбол боюнча эркектер арасындагы Европа чемпионаты — 2024! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ບານເຕະຊາຍຢູຟາຊິງແຊ້ມແຫ່ງຊາດຢູໂຣບປີ 2024",
+        "hover_text": "ບານເຕະຊາຍຢູຟາຊິງແຊ້ມແຫ່ງຊາດຢູໂຣບປີ 2024",
+        "share_text": "ບານເຕະຊາຍຢູຟາຊິງແຊ້ມແຫ່ງຊາດຢູໂຣບປີ 2024! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Campeonato Europeo Masculino de la UEFA 2024",
+        "hover_text": "Campeonato Europeo Masculino de la UEFA 2024",
+        "share_text": "Campeonato Europeo Masculino de la UEFA 2024 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "UEFA Eiropas čempionāts vīriešiem futbolā — 2024",
+        "hover_text": "UEFA Eiropas čempionāts vīriešiem futbolā — 2024",
+        "share_text": "UEFA Eiropas čempionāts vīriešiem futbolā — 2024! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "2024 m. UEFA Europos vyrų futbolo čempionatas",
+        "hover_text": "2024 m. UEFA Europos vyrų futbolo čempionatas",
+        "share_text": "2024 m. UEFA Europos vyrų futbolo čempionatas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Европско првенство на УЕФА за мажи, 2024 г.",
+        "hover_text": "Европско првенство на УЕФА за мажи, 2024 г.",
+        "share_text": "Европско првенство на УЕФА за мажи, 2024 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Kejohanan Eropah UEFA Lelaki 2024",
+        "hover_text": "Kejohanan Eropah UEFA Lelaki 2024",
+        "share_text": "Kejohanan Eropah UEFA Lelaki 2024! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "UEFA മെൻസ് യൂറോപ്യൻ ചാമ്പ്യൻഷിപ്പ് 2024",
+        "hover_text": "UEFA മെൻസ് യൂറോപ്യൻ ചാമ്പ്യൻഷിപ്പ് 2024",
+        "share_text": "UEFA മെൻസ് യൂറോപ്യൻ ചാമ്പ്യൻഷിപ്പ് 2024! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "UEFA ची पुरुषांची युरोपियन चँपियनशिप २०२४",
+        "hover_text": "UEFA ची पुरुषांची युरोपियन चँपियनशिप २०२४",
+        "share_text": "UEFA ची पुरुषांची युरोपियन चँपियनशिप २०२४! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "2024 оны ЕХБХ-ны эрэгтэйчүүдийн Европын аварга шалгаруулах тэмцээн",
+        "hover_text": "2024 оны ЕХБХ-ны эрэгтэйчүүдийн Европын аварга шалгаруулах тэмцээн",
+        "share_text": "2024 оны ЕХБХ-ны эрэгтэйчүүдийн Европын аварга шалгаруулах тэмцээн! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "UEFA पुरुष युरोपेली च्याम्पियनसिप २०२४",
+        "hover_text": "UEFA पुरुष युरोपेली च्याम्पियनसिप २०२४",
+        "share_text": "UEFA पुरुष युरोपेली च्याम्पियनसिप २०२४! #GoogleDoodle"
+      },
+      "no": {
+        "query": "UEFA-cupen for menn 2024",
+        "hover_text": "UEFA-cupen for menn 2024",
+        "share_text": "UEFA-cupen for menn 2024! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "مسابقات قهرمانی فوتبال مردان اروپا - یوفا ۲۰۲۴",
+        "hover_text": "مسابقات قهرمانی فوتبال مردان اروپا - یوفا ۲۰۲۴",
+        "share_text": "مسابقات قهرمانی فوتبال مردان اروپا - یوفا ۲۰۲۴! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Mistrzostwa Europy w Piłce Nożnej Mężczyzn 2024",
+        "hover_text": "Mistrzostwa Europy w Piłce Nożnej Mężczyzn 2024",
+        "share_text": "Mistrzostwa Europy w Piłce Nożnej Mężczyzn 2024 #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Campeonato Europeu de Futebol Masculino da UEFA 2024",
+        "hover_text": "Campeonato Europeu de Futebol Masculino da UEFA 2024",
+        "share_text": "Campeonato Europeu de Futebol Masculino da UEFA 2024 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Campeonato Europeu Masculino da UEFA de 2024",
+        "hover_text": "Campeonato Europeu Masculino da UEFA de 2024",
+        "share_text": "Campeonato Europeu Masculino da UEFA de 2024! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "UEFA Men’s European Championship 2024",
+        "hover_text": "UEFA Men’s European Championship 2024",
+        "share_text": "UEFA ਪੁਰਸ਼ ਯੂਰਪੀ ਚੈਂਪੀਅਨਸ਼ਿਪ 2024! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Campionatul european UEFA 2024",
+        "hover_text": "Campionatul european UEFA 2024",
+        "share_text": "Campionatul european UEFA 2024! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Чемпионат Европы по футболу среди мужчин – 2024",
+        "hover_text": "Чемпионат Европы по футболу среди мужчин – 2024",
+        "share_text": "Чемпионат Европы по футболу среди мужчин – 2024 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "UEFA европско првенство за мушкарце 2024.",
+        "hover_text": "UEFA европско првенство за мушкарце 2024.",
+        "share_text": "UEFA европско првенство за мушкарце 2024! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "UEFA evropsko prvenstvo za muškarce 2024.",
+        "hover_text": "UEFA evropsko prvenstvo za muškarce 2024.",
+        "share_text": "UEFA evropsko prvenstvo za muškarce 2024! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "UEFA පිරිමි යුරෝපීය ශූරතාවලිය 2024",
+        "hover_text": "UEFA පිරිමි යුරෝපීය ශූරතාවලිය 2024",
+        "share_text": "UEFA පිරිමි යුරෝපීය ශූරතාවලිය 2024! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Majstrovstvá Európy mužov vo futbale 2024",
+        "hover_text": "Majstrovstvá Európy mužov vo futbale 2024",
+        "share_text": "Majstrovstvá Európy mužov vo futbale 2024. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Evropsko prvenstvo v nogometu za moške UEFA 2024",
+        "hover_text": "Evropsko prvenstvo v nogometu za moške UEFA 2024",
+        "share_text": "Evropsko prvenstvo v nogometu za moške UEFA 2024! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Eurocopa masculina de la UEFA 2024",
+        "hover_text": "Eurocopa masculina de la UEFA 2024",
+        "share_text": "Eurocopa masculina de la UEFA 2024 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Michuano ya UEFA ya Wanaume ya Ubingwa wa Ulaya 2024",
+        "hover_text": "Michuano ya UEFA ya Wanaume ya Ubingwa wa Ulaya 2024",
+        "share_text": "Michuano ya UEFA ya Wanaume ya Ubingwa wa Ulaya 2024! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Fotbolls-EM för herrar 2024",
+        "hover_text": "Fotbolls-EM för herrar 2024",
+        "share_text": "Fotbolls-EM för herrar 2024! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "UEFA Men’s European Championship 2024",
+        "hover_text": "UEFA Men’s European Championship 2024",
+        "share_text": "UEFA ஆடவர் ஐரோப்பியச் சாம்பியன்ஷிப் 2024! #GoogleDoodle"
+      },
+      "te": {
+        "query": "UEFA మెన్స్ యూరోపియన్ ఛాంపియన్‌షిప్ 2024",
+        "hover_text": "UEFA మెన్స్ యూరోపియన్ ఛాంపియన్‌షిప్ 2024",
+        "share_text": "UEFA మెన్స్ యూరోపియన్ ఛాంపియన్‌షిప్ 2024! #GoogleDoodle"
+      },
+      "th": {
+        "query": "ฟุตบอลชิงแชมป์แห่งชาติยุโรปปี 2024",
+        "hover_text": "ฟุตบอลชิงแชมป์แห่งชาติยุโรปปี 2024",
+        "share_text": "ฟุตบอลชิงแชมป์แห่งชาติยุโรปปี 2024 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "2024 UEFA Erkekler Avrupa Şampiyonası",
+        "hover_text": "2024 UEFA Erkekler Avrupa Şampiyonası",
+        "share_text": "2024 UEFA Erkekler Avrupa Şampiyonası #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Чемпіонат Європи з футболу 2024 року",
+        "hover_text": "Чемпіонат Європи з футболу 2024 року",
+        "share_text": "Чемпіонат Європи з футболу 2024 року! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "UEFA مردوں کی یورپی چیمپئن شپ 2024",
+        "hover_text": "UEFA مردوں کی یورپی چیمپئن شپ 2024",
+        "share_text": "UEFA مردوں کی یورپی چیمپئن شپ 2024! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "UEFA Erkaklar Yevropa chempionati 2024",
+        "hover_text": "UEFA Erkaklar Yevropa chempionati 2024",
+        "share_text": "UEFA Erkaklar Yevropa chempionati 2024! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Giải vô địch bóng đá Châu Âu năm 2024",
+        "hover_text": "Giải vô địch bóng đá Châu Âu năm 2024",
+        "share_text": "Giải vô địch bóng đá Châu Âu năm 2024! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Umqhudelwano Wamadoda WaseYurophu we-UEFA wango-2024",
+        "hover_text": "Umqhudelwano Wamadoda WaseYurophu we-UEFA wango-2024",
+        "share_text": "Umqhudelwano Wamadoda WaseYurophu we-UEFA wango-2024! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "UEFA Men’s European Championship 2024",
+    "share_text": "UEFA Men’s European Championship 2024! #GoogleDoodle"
+  },
+  {
     "name": "dia-dos-namorados-2024",
     "title": "Dia dos Namorados 2024",
     "url": "//www.google.com/logos/doodles/2024/valentines-day-2024-br-6753651837110553-l.png",
@@ -5169,7 +5668,7 @@
         "share_text": "הבחירות לפרלמנט של האיחוד האירופי 2024 GoogleDoodle#"
       },
       "hi": {
-        "query": null,
+        "query": "आयरलैंड गणराज्य के चुनाव में वोट करने का तरीका",
         "hover_text": "ईयू का संसदीय चुनाव 2024",
         "share_text": "ईयू का संसदीय चुनाव 2024! #GoogleDoodle"
       },
