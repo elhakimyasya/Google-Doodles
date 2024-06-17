@@ -1,5 +1,504 @@
 [
   {
+    "name": "iceland-national-day-2024",
+    "title": "Iceland National Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/iceland-national-day-2024-6753651837110239-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/mXlixOSiZIPhBmGI60TJoUXpd37TydEk_ykorFrdgBv4Yer1NZTi4arqqe2MklGSC0Y8Oy7WpOPqyBtg4B5m5DYHtOm5aw_lYy_Tj2lNltmGLGL1zOENww",
+    "high_res_url": "//www.google.com/logos/doodles/2024/iceland-national-day-2024-6753651837110239-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      6,
+      17
+    ],
+    "translations": {
+      "en": {
+        "query": "Iceland National Day",
+        "hover_text": "Iceland National Day 2024",
+        "share_text": "Happy National Day, Iceland! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Ysland se nasionale dag",
+        "hover_text": "Ysland se nasionale dag 2024",
+        "share_text": "Gelukkige nasionale dag, Ysland! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Festa Kombëtare e Islandës",
+        "hover_text": "Dita Kombëtare e Islandës, 2024",
+        "share_text": "Gëzuar Ditën Kombëtare, Islandë! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአይስላንድ ብሔራዊ ቀን",
+        "hover_text": "የአይስላንድ ብሔራዊ ቀን 2024",
+        "share_text": "መልካም ብሔራዊ ቀን አይስላንድ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "العيد الوطني لأيسلندا",
+        "hover_text": "اليوم الوطني لآيسلندا 2024",
+        "share_text": "نتمنّى لآيسلندا يومًا وطنيًا سعيدًا! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Իսլանդիայի ազգային տոն",
+        "hover_text": "Իսլանդիայի ազգային տոն 2024",
+        "share_text": "Շնորհավո՛ր Իսլանդիայի ազգային տոնը #GoogleDoodle"
+      },
+      "az": {
+        "query": "İslandiyanın müstəqillik günü",
+        "hover_text": "2024 İslandiyanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, İslandiya! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "আইসল্যান্ডের জাতীয় দিবস",
+        "hover_text": "আইসল্যান্ডের জাতীয় দিবস ২০২৪",
+        "share_text": "জাতীয় দিবসের শুভেচ্ছা, আইসল্যান্ড! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Islandiako Egun Nazionala",
+        "hover_text": "2024ko Islandiako Egun Nazionala",
+        "share_text": "Egun Nazional zoriontsua izan, Islandia! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Нацыянальны дзень Ісландыі",
+        "hover_text": "Нацыянальны дзень Ісландыі 2024",
+        "share_text": "З Нацыянальным днём, Ісландыя! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan državnosti Islanda",
+        "hover_text": "Dan državnosti Islanda 2024.",
+        "share_text": "Sretan Dan državnosti, Island! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Iceland National Day",
+        "hover_text": "Iceland National Day 2024",
+        "share_text": "Happy National Day, Iceland! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Национален празник на Исландия",
+        "hover_text": "Национален празник на Исландия 2024 г.",
+        "share_text": "Честит национален празник на Исландия! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အိုက်စလန် အမျိုးသားနေ့",
+        "hover_text": "၂၀၂၄ အိုက်စလန် အမျိုးသားနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် အိုက်စ်လန် အမျိုးသားနေ့ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia Nacional d'Islàndia",
+        "hover_text": "Dia Nacional d'Islàndia 2024",
+        "share_text": "Feliç Dia Nacional, Islàndia! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "冰島國慶日",
+        "hover_text": "2024 年冰島國慶日",
+        "share_text": "冰島，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "冰島國慶日",
+        "hover_text": "2024 年冰島國慶日",
+        "share_text": "冰島，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "冰岛国庆日",
+        "hover_text": "2024 年冰岛国庆节",
+        "share_text": "冰岛，国庆日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan državnosti na Islandu",
+        "hover_text": "Dan državnosti Islanda 2024.",
+        "share_text": "Sretan Dan državnosti, Islande! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Státní svátek Islandu",
+        "hover_text": "Den islandské státnosti 2024",
+        "share_text": "Vše nejlepší ke státnímu svátku, Islande! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Islands nationaldag",
+        "hover_text": "Islands nationaldag 2024",
+        "share_text": "Glædelig nationaldag, Island! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Nationale feestdag IJsland",
+        "hover_text": "Nationale feestdag IJsland 2024",
+        "share_text": "Fijne nationale feestdag, IJsland #GoogleDoodle"
+      },
+      "et": {
+        "query": "Islandi rahvuspüha",
+        "hover_text": "Islandi 2024. aasta rahvuspüha",
+        "share_text": "Head rahvuspüha, Island! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Islannin kansallispäivä",
+        "hover_text": "Islannin kansallispäivä 2024",
+        "share_text": "Hyvää kansallispäivää, Islanti! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête nationale de l'Islande 2019",
+        "hover_text": "Fête nationale de l'Islande 2024",
+        "share_text": "Fête nationale de l'Islande ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête nationale de l'Islande",
+        "hover_text": "Fête nationale de l'Islande 2024",
+        "share_text": "Joyeuse fête nationale de l'Islande! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día Nacional de Islandia",
+        "hover_text": "Día Nacional de Islandia 2024",
+        "share_text": "Feliz Día Nacional, Islandia! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ისლანდიის ეროვნული დღესასწაული",
+        "hover_text": "ისლანდიის ეროვნული დღესასწაული – 2024",
+        "share_text": "ვულოცავთ ისლანდიას ეროვნულ დღესასწაულს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Isländischer Nationalfeiertag",
+        "hover_text": "Isländischer Nationalfeiertag 2024",
+        "share_text": "Alles Gute zum Nationalfeiertag in Island! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Εθνική επέτειος Ισλανδίας",
+        "hover_text": "Εθνική επέτειος της Ισλανδίας 2024",
+        "share_text": "Γιορτάζουμε την Εθνική επέτειο της Ισλανδίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "આઇસલેન્ડનો રાષ્ટ્રીય દિવસ",
+        "hover_text": "આઇસલૅન્ડનો રાષ્ટ્રીય દિવસ 2024",
+        "share_text": "આઇસલેન્ડને રાષ્ટ્રીય દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "החג הלאומי של איסלנד",
+        "hover_text": "החג הלאומי של איסלנד 2024",
+        "share_text": "חג לאומי שמח לאיסלנד! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "आइसलैंड का राष्ट्रीय दिवस",
+        "hover_text": "आइसलैंड का राष्ट्रीय दिवस 2024",
+        "share_text": "आइसलैंड को राष्ट्रीय दिवस की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Izland nemzeti ünnepe",
+        "hover_text": "Izland nemzeti ünnepe, 2024",
+        "share_text": "Minden jót Izland nemzeti ünnepén! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þjóðhátíðardagurinn",
+        "hover_text": "Gleðilega þjóðhátíð!",
+        "share_text": "Gleðilega þjóðhátíð! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Nasional Islandia",
+        "hover_text": "Hari Nasional Islandia 2024",
+        "share_text": "Selamat Hari Nasional, Islandia! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Náisiúnta na hÍoslainne",
+        "hover_text": null,
+        "share_text": "Lá Náisiúnta na hÍoslainne faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa nazionale dell'Islanda",
+        "hover_text": "Festa nazionale dell'Islanda 2024",
+        "share_text": "Buona festa nazionale, Islanda! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "アイスランド独立記念日",
+        "hover_text": "2024 年アイスランド独立記念日",
+        "share_text": "アイスランド建国記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಐಸ್‌ಲ್ಯಾಂಡ್ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಐಸ್‌ಲ್ಯಾಂಡ್ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ರಾಷ್ಟ್ರೀಯ ದಿನಾಚಾರಣೆಯ ಶುಭಾಶಯಗಳು, ಐಸ್‌ಲ್ಯಾಂಡ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Исландияның Ұлттық күні",
+        "hover_text": "Исландияның Ұлттық күні – 2024",
+        "share_text": "Ұлттық күнің құтты болсын, Исландия! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាបុណ្យជាតិ​អ៊ីស្លង់",
+        "hover_text": "ទិវាបុណ្យជាតិ​អ៊ីស្លង់ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវាបុណ្យជាតិ​អ៊ីស្លង់! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "아이슬란드 국경일",
+        "hover_text": "2024년 아이슬란드 국경일",
+        "share_text": "아이슬란드 국경일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Исландиянын Улуттук күнү",
+        "hover_text": "Исландиянын Улуттук күнү – 2024",
+        "share_text": "Улуттук күнүң менен, Исландия! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຊາດໄອຊແລນ",
+        "hover_text": "ວັນຊາດໄອຊ໌ແລນປີ 2024",
+        "share_text": "ສຸກສັນວັນຊາດໄອຊແລນ, Iceland! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día Nacional de Islandia",
+        "hover_text": "Día Nacional de Islandia 2024",
+        "share_text": "¡Feliz Día Nacional, Islandia! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Islandes nacionālie svētki",
+        "hover_text": "Islandes Nacionālie svētki — 2024",
+        "share_text": "Sveicam Nacionālajos svētkos, Islande! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Islandijos nacionalinė diena",
+        "hover_text": "Islandijos nacionalinė diena, 2024 m.",
+        "share_text": "Sveikiname Islandiją su nacionaline diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на државноста на Исланд",
+        "hover_text": "Ден на државноста на Исланд, 2024 г.",
+        "share_text": "Среќен Ден на државноста на Исланд! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetim-pirenena Isilandey",
+        "hover_text": null,
+        "share_text": "Tsarà Fetim-pirenena ry Isilandy ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kebangsaan Iceland",
+        "hover_text": "Hari Kebangsaan Iceland 2024",
+        "share_text": "Selamat Hari Kebangsaan Iceland! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഐസ്‌ലാൻഡ് ദേശീയദിനം",
+        "hover_text": "ഐസ്‌ലൻഡ് ദേശീയദിനം 2024",
+        "share_text": "ദേശീയദിനാശംസകൾ, ഐസ്‌ലാൻഡ്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "आइसलॅंड राष्ट्रीय दिन",
+        "hover_text": "आइसलॅंडचा राष्ट्रीय दिन २०२४",
+        "share_text": "आइसलँडला राष्ट्रीय दिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Исланд улсын Үндэсний баярын өдөр",
+        "hover_text": "2024 оны Исланд Улсын Үндэсний баярын өдөр",
+        "share_text": "Исланд улсын ард иргэдэд Үндэсний баярын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "आइसल्यान्डको राष्ट्रिय दिवस",
+        "hover_text": "आइसल्यान्डको राष्ट्रिय दिवस २०२४",
+        "share_text": "राष्ट्रिय दिवसको शुभकामना, आइसल्यान्ड! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Islands nasjonaldag",
+        "hover_text": "Islands nasjonaldag 2024",
+        "share_text": "Gratulerer med nasjonaldagen, Island! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଆଇସ୍‌ଲ୍ୟାଣ୍ଡ ରାଷ୍ଟ୍ରୀୟ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ରାଷ୍ଟ୍ରୀୟ ଦିବସର ଶୁଭେଚ୍ଛା, ଆଇସଲ୍ୟାଣ୍ଡ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز ملی ایسلند",
+        "hover_text": "روز ملی ۲۰۲۴ ایسلند",
+        "share_text": "روز ملی مبارک، ایسلند! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Narodowe Islandii",
+        "hover_text": "Święto Narodowe Islandii 2024",
+        "share_text": "Islandia obchodzi Święto Narodowe #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia Nacional da Islândia",
+        "hover_text": "Dia Nacional da Islândia 2024",
+        "share_text": "Feliz Dia Nacional, Islândia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia nacional da Islândia",
+        "hover_text": "Dia Nacional da Islândia de 2024",
+        "share_text": "Feliz dia nacional, Islândia! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਆਈਸਲੈਂਡ ਰਾਸ਼ਟਰੀ ਦਿਵਸ",
+        "hover_text": "ਆਈਸਲੈਂਡ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ 2024",
+        "share_text": "ਰਾਸ਼ਟਰੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਆਈਸਲੈਂਡ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Națională a Islandei",
+        "hover_text": "Ziua Națională a Islandei – 2024",
+        "share_text": "La mulți ani de Ziua Națională, Islanda! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День провозглашения Исландской Республики",
+        "hover_text": "День провозглашения Исландской Республики – 2024",
+        "share_text": "День провозглашения Исландской Республики #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан државности Исланда",
+        "hover_text": "Дан државности Исланда 2024.",
+        "share_text": "Честитамо Дан државности Исланду! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan državnosti Islanda",
+        "hover_text": "Dan državnosti Islanda 2024.",
+        "share_text": "Čestitamo Dan državnosti Islandu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Nasyonal Iceland",
+        "hover_text": null,
+        "share_text": "Bonn zournen nasyonal, Iceland! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "අයිස්ලන්තයේ ජාතික දිනය",
+        "hover_text": "අයිස්ලන්තයේ ජාතික දිනය 2024",
+        "share_text": "සුබ ජාතික දිනයක්, අයිස්ලන්තය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Štátny sviatok Islandu",
+        "hover_text": "Národný deň Islandu 2024",
+        "share_text": "Šťastný štátny sviatok, Island! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Islandski dan državnosti",
+        "hover_text": "Islandski dan državnosti 2024",
+        "share_text": "Vesel dan državnosti, Islandija! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Qaranka Iceland",
+        "hover_text": null,
+        "share_text": "Maalin Qaran oo Wacan, Iceland! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Naha la Iceland",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Naha la Iceland! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día Nacional de Islandia",
+        "hover_text": "Día Nacional de Islandia 2024",
+        "share_text": "¡Feliz Día Nacional de Islandia! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya taifa la Aisilandi",
+        "hover_text": "Sikukuu ya Kitaifa ya Aisilandi 2024",
+        "share_text": "Heri za Sikukuu ya Kitaifa, Aisilandi! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Islands nationaldag",
+        "hover_text": "Islands nationaldag 2024",
+        "share_text": "Vi firar Islands nationaldag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஐஸ்லாந்து தேசிய தினம்",
+        "hover_text": "ஐஸ்லாந்தின் தேசிய தினம் 2024",
+        "share_text": "ஐஸ்லாந்தின் தேசிய தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఐస్‌లాండ్ జాతీయ దినోత్సవం",
+        "hover_text": "ఐస్‌ల్యాండ్ జాతీయ దినోత్సవం 2024",
+        "share_text": "జాతీయ దినోత్సవ శుభాకాంక్షలు, ఐస్‌లాండ్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันชาติไอซ์แลนด์",
+        "hover_text": "วันชาติไอซ์แลนด์ปี 2024",
+        "share_text": "สุขสันต์วันชาติไอซ์แลนด์ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Iceland la Setšhaba",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Setšhaba, Iceland! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "İzlanda Ulusal Günü",
+        "hover_text": "2024 İzlanda Bağımsızlık Günü",
+        "share_text": "İzlanda Ulusal Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Національний день Ісландії",
+        "hover_text": "Національний день Ісландії у 2024 році",
+        "share_text": "З національним днем, Ісландіє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "آئس لینڈ کا قومی دن",
+        "hover_text": "آئس لینڈ کا قومی دن 2024",
+        "share_text": "قومی دن مبارک ہو، آئس لینڈ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Islandiya milliy bayrami",
+        "hover_text": "Islandiya Milliy bayrami 2024",
+        "share_text": "Islandiya milliy bayrami muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Iceland",
+        "hover_text": "Ngày Quốc khánh Iceland năm 2024",
+        "share_text": "Mừng ngày Quốc khánh Iceland! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lezwe lase-Iceland",
+        "hover_text": "Usuku Lukazwelonke lwase-Iceland lwango-2024",
+        "share_text": "Sinifisela Usuku Lukazwelonke Oluhle, Iceland! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Iceland National Day",
+    "share_text": "Happy National Day, Iceland! #GoogleDoodle"
+  },
+  {
     "name": "fathers-day-2024-jun-16",
     "title": "Father's Day 2024 (Jun 16)",
     "url": "//www.google.com/logos/doodles/2024/fathers-day-2024-jun-16-6753651837110384-l.png",
@@ -1022,9 +1521,9 @@
         "share_text": "Gelukkige Valentynsdag! #GoogleDoodle"
       },
       "sq": {
-        "query": "Dita e Shën Valentinit në Brazil",
-        "hover_text": "Dita e Shën Valentinit në Brazil, 2024",
-        "share_text": "Gëzuar Festën e Shën-Valentinit! #GoogleDoodle"
+        "query": "Dia dos Namorados",
+        "hover_text": "Dia dos Namorados në Brazil, 2024",
+        "share_text": "Gëzuar Dia dos Namorados #GoogleDoodle"
       },
       "am": {
         "query": "የፍቅረኛሞች ቀን በብራዚል ውስጥ",
@@ -1057,9 +1556,9 @@
         "share_text": "Dia dos Namorados zoriontsua izan! #GoogleDoodle"
       },
       "be": {
-        "query": "Дзень святога Валянціна ў Бразіліі",
+        "query": "Дзень Святога Валянціна",
         "hover_text": "Дзень Святога Валянціна 2024 у Бразіліі",
-        "share_text": "З Днём святога Валянціна! #GoogleDoodle"
+        "share_text": "З Днём святога Валянціна #GoogleDoodle"
       },
       "bs": {
         "query": "Dan zaljubljenih u Brazilu",
@@ -1112,9 +1611,9 @@
         "share_text": "Šťastný Valentýn! #GoogleDoodle"
       },
       "da": {
-        "query": "Valentinsdag i Brasilien",
-        "hover_text": "Valentinsdag i Brasilien 2024",
-        "share_text": "Glædelig valentinsdag! #GoogleDoodle"
+        "query": "Dia dos Namorados",
+        "hover_text": "Dia dos Namorados 2024 i Brasilien",
+        "share_text": "Vi fejrer Dia dos Namorados #GoogleDoodle"
       },
       "nl": {
         "query": "Valentijnsdag in Brazilië",
@@ -1122,9 +1621,9 @@
         "share_text": "Fijne Valentijnsdag #GoogleDoodle"
       },
       "et": {
-        "query": "Sõbrapäev Brasiilias",
-        "hover_text": "2024. aasta sõbrapäev Brasiilias",
-        "share_text": "Head sõbrapäeva! #GoogleDoodle"
+        "query": "Dia dos Namorados",
+        "hover_text": "2024. aasta Dia dos Namorados Brasiilias",
+        "share_text": "Head Dia dos Namoradost #GoogleDoodle"
       },
       "fi": {
         "query": "Ystävänpäivä (Brasilia)",
@@ -1137,9 +1636,9 @@
         "share_text": "Joyeuse Saint-Valentin ! #GoogleDoodle"
       },
       "fr-CA": {
-        "query": "Jour de la Saint-Valentin au Brésil",
-        "hover_text": "Jour de la Saint-Valentin 2024 au Brésil",
-        "share_text": "Joyeuse Saint-Valentin! #GoogleDoodle"
+        "query": "Dia dos Namorados",
+        "hover_text": "Dia dos Namorados 2024 au Brésil",
+        "share_text": "Joyeux Dia dos Namorados #GoogleDoodle"
       },
       "gl": {
         "query": "Día de San Valentín no Brasil",
@@ -1187,9 +1686,9 @@
         "share_text": "Boldog Valentin-napot! #GoogleDoodle"
       },
       "is": {
-        "query": "Valentínusardagurinn í Brasilíu",
-        "hover_text": "Valentínusardagurinn í Brasilíu 2024",
-        "share_text": "Gleðilegan Valentínusardag! #GoogleDoodle"
+        "query": "Dia dos Namorados",
+        "hover_text": "Dia dos Namorados í Brasilíu 2024",
+        "share_text": "Gleðilegan Dia dos Namorados #GoogleDoodle"
       },
       "id": {
         "query": "Hari Valentine di Brasil",
@@ -1472,9 +1971,9 @@
         "share_text": "‫Dia dos Namorados مبارک ہو ‎#GoogleDoodle"
       },
       "uz": {
-        "query": "Braziliyada Valentin kuni",
-        "hover_text": "Braziliyada Valentin kuni 2024",
-        "share_text": "Avliyo Valentin kuni muborak! #GoogleDoodle"
+        "query": "Dia dos Namorados",
+        "hover_text": "Braziliyada Dia dos Namorados kuni 2024",
+        "share_text": "Dia dos Namorados kuni #GoogleDoodle"
       },
       "vi": {
         "query": "Ngày lễ tình nhân ở Brazil",
