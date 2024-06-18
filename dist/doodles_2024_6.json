@@ -1,5 +1,1003 @@
 [
   {
+    "name": "fathers-day-2024-jun-18",
+    "title": "Father's Day 2024 (Jun 18)",
+    "url": "//www.google.com/logos/doodles/2024/fathers-day-2024-jun-18-6753651837110388-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/wXmPWkJ93kfuhNli3qhEysXbc5lHvicLtSVckp5thQdmOzabvvMAy4Ea36vM-xd1YeetJ7sTFYyw2oT_AK9VFYryzLdR6eGKznHFmOOzmzEGK-5j97jC4w",
+    "high_res_url": "//www.google.com/logos/doodles/2024/fathers-day-2024-jun-18-6753651837110388-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      6,
+      18
+    ],
+    "translations": {
+      "en": {
+        "query": "Father's Day",
+        "hover_text": "Father's Day (Jun 18) 2024",
+        "share_text": "Happy Father's Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Vadersdag",
+        "hover_text": "Vadersdag (18 Junie) 2024",
+        "share_text": "Gelukkige Vadersdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Babait",
+        "hover_text": "Dita e Babait, 2024",
+        "share_text": "Gëzuar Ditën e Babait! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአባቶች ቀን",
+        "hover_text": "የአባቶች ቀን (ጁን 18) 2024",
+        "share_text": "መልካም የአባቶች ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد الأب",
+        "hover_text": "يصادف اليوم عيد الأب (18 يونيو) 2024",
+        "share_text": "عيد أب سعيد. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Հայրերի օր",
+        "hover_text": "Հայրերի օր 2024 (հունիսի 18)",
+        "share_text": "Շնորհավո՛ր հայրերի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Atalar Günü",
+        "hover_text": "2024 Atalar Günü (18 iyun)",
+        "share_text": "Atalar Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "পিতৃ দিবস",
+        "hover_text": "পিতৃ দিবস (১৮ জুন) ২০২৪",
+        "share_text": "ফাদার্স ডের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Aitaren Eguna",
+        "hover_text": "2024ko Aitaren Eguna (ekainaren 18a)",
+        "share_text": "Aitaren Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень бацькі",
+        "hover_text": "Дзень бацькі 2024 (18 чэрвеня)",
+        "share_text": "З Днём бацькі! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva (18. juni) 2024.",
+        "share_text": "Sretan Dan očeva! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Father's Day",
+        "hover_text": "Father's Day (18 Jun) 2024",
+        "share_text": "Happy Father's Day! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на бащата",
+        "hover_text": "Ден на бащата (18 юни) 2024 г.",
+        "share_text": "Честит Ден на бащата! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အဖေများနေ့",
+        "hover_text": "၂၀၂၄ အဖေများနေ့ (ဇွန် ၁၈)",
+        "share_text": "ပျော်ရွှင်ဖွယ် ဖခင်များနေ့ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia del Pare",
+        "hover_text": "Dia del Pare (18 de juny) 2024",
+        "share_text": "Feliç Dia del Pare! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "父親節",
+        "hover_text": "2024 年父親節 (6 月 18 日)",
+        "share_text": "父親節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "父親節",
+        "hover_text": "2024 年父親節",
+        "share_text": "父親節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "父亲节",
+        "hover_text": "2024 年父亲节（6 月 18 日）",
+        "share_text": "父亲节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva (18. lipnja) 2024.",
+        "share_text": "Sretan Dan očeva! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den otců",
+        "hover_text": "Den otců 2024 (18. června)",
+        "share_text": "Veselý Den otců! #GoogleDoodle"
+      },
+      "da": {
+        "query": "fars dag",
+        "hover_text": "Fars dag 2024 (18. juni)",
+        "share_text": "Glædelig fars dag! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Vaderdag",
+        "hover_text": "Vaderdag 2024",
+        "share_text": "Fijne Vaderdag! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Isadepäev",
+        "hover_text": "Isadepäev 2024",
+        "share_text": "Head isadepäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Isänpäivä",
+        "hover_text": "Isänpäivä 2024 (18.6.)",
+        "share_text": "Hyvää isänpäivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête des Pères",
+        "hover_text": "Fête des Pères 2024 (18 juin)",
+        "share_text": "Joyeuse fête des Pères ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête des Pères",
+        "hover_text": "Fête des Pères 2024 (18 juin)",
+        "share_text": "Joyeuse fête des Pères! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día do Pai",
+        "hover_text": "Día do Pai 2024",
+        "share_text": "Feliz Día do Pai! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მამის დღე",
+        "hover_text": "მამის დღე (18 ივნისი) 2024",
+        "share_text": "გილოცავთ მამის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Vatertag",
+        "hover_text": "Vatertag 2024 (18. Juni)",
+        "share_text": "Alles Liebe zum Vatertag! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Γιορτή του Πατέρα",
+        "hover_text": "Γιορτή του Πατέρα (18 Ιουνίου) 2024",
+        "share_text": "Πολλές ευχές για τη Γιορτή του Πατέρα! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "પિતૃ દિવસ",
+        "hover_text": "ફાધર્સ ડે (18 જૂન) 2024",
+        "share_text": "ફાધર્સ ડેની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום האב",
+        "hover_text": "יום האב 2024 (18 ביוני)",
+        "share_text": "יום האב שמח! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "फ़ादर्स डे",
+        "hover_text": "फ़ादर्स डे (18 जून) 2024",
+        "share_text": "फ़ादर्स डे की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Apák napja",
+        "hover_text": "Apák napja, 2024 (június 18.)",
+        "share_text": "Boldog apák napját! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Feðradagurinn",
+        "hover_text": "Feðradagurinn 2024 (18. júní)",
+        "share_text": "Gleðilegan feðradag! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Ayah",
+        "hover_text": "Hari Ayah (18 Juni) 2024",
+        "share_text": "Selamat Hari Ayah! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá na nAithreacha",
+        "hover_text": null,
+        "share_text": "Lá na nAithreacha faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa del papà",
+        "hover_text": "Festa del papà 2024 (18 giugno)",
+        "share_text": "Buona festa del papà! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "父の日",
+        "hover_text": "2024 年父の日（6 月 18 日）",
+        "share_text": "父の日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ತಂದೆಯಂದಿರ ದಿನ",
+        "hover_text": "ತಂದೆಯಂದಿರ ದಿನ (ಜೂನ್ 18) 2024",
+        "share_text": "ತಂದೆಯಂದಿರ ದಿನಾಚರಣೆ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Әкелер күні",
+        "hover_text": "Әкелер күні – 2024 (18 маусым)",
+        "share_text": "Әкелер күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​រំលឹកគុណឪពុក",
+        "hover_text": "ទិវា​ឪពុក (18 មិថុនា) ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​រំលឹកគុណ​ឪពុក​! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "아버지의 날",
+        "hover_text": "2024년 아버지의 날(6월 18일)",
+        "share_text": "아버지날 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Аталар күнү",
+        "hover_text": "Аталар күнү – 2024 (18-июнь)",
+        "share_text": "Аталар күнү менен куттуктайбыз! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນພໍ່",
+        "hover_text": "ວັນພໍ່ປີ 2024 (18 ມິຖຸນາ)",
+        "share_text": "ສຸກສັນວັນພໍ່! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día del Padre",
+        "hover_text": "Día del Padre 2024",
+        "share_text": "¡Feliz Día del Padre! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Tēva diena",
+        "hover_text": "Tēva diena — 2024. gada 18. jūnijs",
+        "share_text": "Sveicam Tēva dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Tėvo diena",
+        "hover_text": "Tėvo diena, 2024 m. (birželio 18 d.)",
+        "share_text": "Linksmos Tėvo dienos! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на таткото",
+        "hover_text": "Ден на таткото, 2024 г.",
+        "share_text": "Среќен ден на таткото! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny ray",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny ray ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Bapa",
+        "hover_text": "Hari Bapa (18 Jun) 2024",
+        "share_text": "Selamat Hari Bapa! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "പിതൃദിനം",
+        "hover_text": "പിതൃദിനം 2024 (ജൂൺ 18)",
+        "share_text": "പിതൃദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "पितृदिन",
+        "hover_text": "फादर्स डे (१८ जून) २०२४",
+        "share_text": "फादर्स डे च्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Аавуудын өдөр",
+        "hover_text": "2024 оны Аавуудын өдөр (6-р сарын 18)",
+        "share_text": "Аавуудын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "बुवाको मुख हेर्ने दिन",
+        "hover_text": "बुवाको मुख हेर्ने दिन (जुन १८) २०२४",
+        "share_text": "बुवाको मुख हेर्ने दिनको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Farsdag",
+        "hover_text": "Farsdag 2024 (18. juni)",
+        "share_text": "Gratulerer med farsdagen! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ପିତୃ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ପିତୃ ଦିବସର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز پدر",
+        "hover_text": "روز پدر ۲۰۲۴ (۱۸ ژوئن)",
+        "share_text": "روز پدر مبارک! #GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Ojca",
+        "hover_text": "Dzień Ojca 2024",
+        "share_text": "Obchodzimy Dzień Ojca #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia dos Pais",
+        "hover_text": "Dia dos Pais 2024 (18 de junho)",
+        "share_text": "Feliz Dia dos Pais! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia do pai",
+        "hover_text": "Dia do Pai de 2024 (18 de junho)",
+        "share_text": "Feliz dia do pai! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਪਿਓ ਦਿਵਸ",
+        "hover_text": "ਪਿਤਾ ਦਿਵਸ (18 ਜੂਨ) 2024",
+        "share_text": "ਪਿਤਾ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Tatălui",
+        "hover_text": "Ziua Tatălui – 18 iunie 2024",
+        "share_text": "La mulți ani de Ziua Tatălui! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День отца",
+        "hover_text": "День отца – 2024 (18 июня)",
+        "share_text": "С Днем отца! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан очева",
+        "hover_text": "Дан очева (18. јун) 2024.",
+        "share_text": "Срећан Дан очева! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva (18. jun) 2024.",
+        "share_text": "Srećan Dan očeva! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Papa",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "පියවරුන්ගේ දිනය",
+        "hover_text": "පියවරුන්ගේ දිනය (ජුනි 18) 2024",
+        "share_text": "ප්‍රීතිමත් පියවරුන්ගේ දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň otcov",
+        "hover_text": "Deň otcov 2024 (18. jún)",
+        "share_text": "Šťastný Deň otcov! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan očetov",
+        "hover_text": "Očetovski dan 2024 (18. junij)",
+        "share_text": "Vesel dan očetov! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Aabbaha",
+        "hover_text": null,
+        "share_text": "Maalinta Aabbaha oo Farxada leh #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Botate",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día del Padre",
+        "hover_text": "Día del Padre 2024 (18 de junio)",
+        "share_text": "¡Feliz Día del Padre! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Akina Baba",
+        "hover_text": "Siku ya Akina Baba (Tarehe 18 Juni) 2024",
+        "share_text": "Heri za Sikukuu ya Akina Baba! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Fars dag",
+        "hover_text": "Fars dag 2024 (18 juni)",
+        "share_text": "Grattis på fars dag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "தந்தையர் தினம்",
+        "hover_text": "தந்தையர் தினம் 2024 (ஜூன் 18)",
+        "share_text": "தந்தையர் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "పితృ దినోత్సవం",
+        "hover_text": "ఫాదర్స్ డే 2024 (జూన్ 18)",
+        "share_text": "ఫాదర్స్ డే శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันพ่อ",
+        "hover_text": "วันพ่อปี 2024",
+        "share_text": "สุขสันต์วันพ่อ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la ga Rre",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Babalar Günü",
+        "hover_text": "18 Haziran 2024 Babalar Günü",
+        "share_text": "Babalar Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День батька",
+        "hover_text": "День батька у 2024 році (18 червня)",
+        "share_text": "З Днем батька! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم پِدر",
+        "hover_text": "یوم پدر (18 جون) 2024",
+        "share_text": "یوم والد مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Otalar kuni",
+        "hover_text": "Otalar kuni 2024 (18-iyun)",
+        "share_text": "Otalar kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày của cha",
+        "hover_text": "Ngày của Cha năm 2024 (ngày 18 tháng 6)",
+        "share_text": "Mừng Ngày của Cha! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lobaba",
+        "hover_text": "Usuku Lobaba (18 Juni) lwango-2024",
+        "share_text": "Sinifisela Usuku Lobaba Oluhle! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Father's Day",
+    "share_text": "Happy Father's Day! #GoogleDoodle"
+  },
+  {
+    "name": "fathers-day-2024-jun-17",
+    "title": "Father's Day 2024 (Jun 17)",
+    "url": "//www.google.com/logos/doodles/2024/fathers-day-2024-jun-17-6753651837110386-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/DYRAgKbqpcLpo9EOK354sHawIsrDwew0fnsj2iz0fVLF1Jh2rUayURGOgdD3uxi9yOUm9DIGUioZW6J7ZPCMPqYeG5bDCjOFIRssXuG3bMr794NemYlGbA",
+    "high_res_url": "//www.google.com/logos/doodles/2024/fathers-day-2024-jun-17-6753651837110386-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      6,
+      17
+    ],
+    "translations": {
+      "en": {
+        "query": "Father's Day",
+        "hover_text": "Father's Day (Jun 17) 2024",
+        "share_text": "Happy Father's Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Vadersdag",
+        "hover_text": "Vadersdag (17 Junie) 2024",
+        "share_text": "Gelukkige Vadersdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Babait",
+        "hover_text": "Dita e Babait, 2024 (17 qershor)",
+        "share_text": "Gëzuar Ditën e Babait! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአባቶች ቀን",
+        "hover_text": "የአባቶች ቀን (ጁን 17) 2024",
+        "share_text": "መልካም የአባቶች ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد الأب",
+        "hover_text": "عيد الأب (17 يونيو) 2024",
+        "share_text": "عيد أب سعيد. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Հայրերի օր",
+        "hover_text": "Հայրերի օր 2024 (հունիսի 17)",
+        "share_text": "Շնորհավո՛ր հայրերի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Atalar Günü",
+        "hover_text": "2024 Atalar Günü (17 iyun)",
+        "share_text": "Atalar Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "পিতৃ দিবস",
+        "hover_text": "পিতৃ দিবস (১৭ জুন) ২০২৪",
+        "share_text": "ফাদার্স ডের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Aitaren Eguna",
+        "hover_text": "2024ko Aitaren Eguna (ekainaren 17a)",
+        "share_text": "Aitaren Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень бацькі",
+        "hover_text": "Дзень бацькі 2024 (17 чэрвеня)",
+        "share_text": "З Днём бацькі! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva (17. juni) 2024.",
+        "share_text": "Sretan Dan očeva! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Father's Day",
+        "hover_text": "Father's Day (17 Jun) 2024",
+        "share_text": "Happy Father's Day! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на бащата",
+        "hover_text": "Ден на бащата (17 юни) 2024 г.",
+        "share_text": "Честит Ден на бащата! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အဖေများနေ့",
+        "hover_text": "၂၀၂၄ အဖေများနေ့ (ဇွန် ၁၇)",
+        "share_text": "ပျော်ရွှင်ဖွယ် ဖခင်များနေ့ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia del Pare",
+        "hover_text": "Dia del Pare 2024 (17 de juny)",
+        "share_text": "Feliç Dia del Pare! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "父親節",
+        "hover_text": "2024 年父親節 (6 月 17 日)",
+        "share_text": "父親節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "父親節",
+        "hover_text": "2024 年父親節",
+        "share_text": "父親節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "父亲节",
+        "hover_text": "2024 年父亲节（6 月 17 日）",
+        "share_text": "父亲节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva (17. lipnja) 2024.",
+        "share_text": "Sretan Dan očeva! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den otců",
+        "hover_text": "Den otců 2024 (17. června)",
+        "share_text": "Veselý Den otců! #GoogleDoodle"
+      },
+      "da": {
+        "query": "fars dag",
+        "hover_text": "Fars dag 2024 (17. juni)",
+        "share_text": "Glædelig fars dag! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Vaderdag",
+        "hover_text": "Vaderdag 2024 (17 juni)",
+        "share_text": "Fijne Vaderdag! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Isadepäev",
+        "hover_text": "2024. aasta isadepäev (17. juuni)",
+        "share_text": "Head isadepäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Isänpäivä",
+        "hover_text": "Isänpäivä 2024 (17.6.)",
+        "share_text": "Hyvää isänpäivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête des Pères",
+        "hover_text": "Fête des Pères 2024 (17 juin)",
+        "share_text": "Joyeuse fête des Pères ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête des Pères",
+        "hover_text": "Fête des Pères 2024 (17 juin)",
+        "share_text": "Joyeuse fête des Pères! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día do Pai",
+        "hover_text": "Día do Pai 2024",
+        "share_text": "Feliz Día do Pai! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მამის დღე",
+        "hover_text": "მამის დღე (17 ივნისი) 2024",
+        "share_text": "გილოცავთ მამის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Vatertag",
+        "hover_text": "Vatertag 2024 (17. Juni)",
+        "share_text": "Alles Liebe zum Vatertag! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Γιορτή του Πατέρα",
+        "hover_text": "Γιορτή του Πατέρα (17 Ιουνίου) 2024",
+        "share_text": "Πολλές ευχές για τη Γιορτή του Πατέρα! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "પિતૃ દિવસ",
+        "hover_text": "ફાધર્સ ડે (17 જૂન) 2024",
+        "share_text": "ફાધર્સ ડેની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום האב",
+        "hover_text": "יום האב 2024 (17 ביוני)",
+        "share_text": "יום האב שמח! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "फ़ादर्स डे",
+        "hover_text": "फ़ादर्स डे (17 जून) 2024",
+        "share_text": "फ़ादर्स डे की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Apák napja",
+        "hover_text": "Apák napja, 2024 (június 17.)",
+        "share_text": "Boldog apák napját! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Feðradagurinn",
+        "hover_text": "Feðradagurinn 2024 (17. júní)",
+        "share_text": "Gleðilegan feðradag! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Ayah",
+        "hover_text": "Hari Ayah (17 Juni) 2024",
+        "share_text": "Selamat Hari Ayah! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá na nAithreacha",
+        "hover_text": null,
+        "share_text": "Lá na nAithreacha faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa del papà",
+        "hover_text": "Festa del papà 2024 (17 giugno)",
+        "share_text": "Buona festa del papà! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "父の日",
+        "hover_text": "2024 年父の日（6 月 17 日）",
+        "share_text": "父の日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ತಂದೆಯಂದಿರ ದಿನ",
+        "hover_text": "ತಂದೆಯಂದಿರ ದಿನ (17 ಜೂನ್) 2024",
+        "share_text": "ತಂದೆಯಂದಿರ ದಿನಾಚರಣೆ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Әкелер күні",
+        "hover_text": "Әкелер күні – 2024 (17 маусым)",
+        "share_text": "Әкелер күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​រំលឹកគុណឪពុក",
+        "hover_text": "ទិវា​ឪពុក (17 មិថុនា) ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​រំលឹកគុណ​ឪពុក​! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "아버지의 날",
+        "hover_text": "2024년 아버지의 날(6월 17일)",
+        "share_text": "아버지날 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Аталар күнү",
+        "hover_text": "Аталар күнү – 2024 (17-июнь)",
+        "share_text": "Аталар күнү менен куттуктайбыз! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນພໍ່",
+        "hover_text": "ວັນພໍ່ປີ 2024 (17 ມິຖຸນາ)",
+        "share_text": "ສຸກສັນວັນພໍ່! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día del Padre",
+        "hover_text": "Día del Padre 2024",
+        "share_text": "¡Feliz Día del Padre! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Tēva diena",
+        "hover_text": "Tēva diena — 2024. gada 17. jūnijs",
+        "share_text": "Sveicam Tēva dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Tėvo diena",
+        "hover_text": "Tėvo diena, 2024 m. (birželio 17 d.)",
+        "share_text": "Linksmos Tėvo dienos! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на таткото",
+        "hover_text": "Ден на таткото, 2024 г.",
+        "share_text": "Среќен ден на таткото! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny ray",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny ray ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Bapa",
+        "hover_text": "Hari Bapa (17 Jun) 2024",
+        "share_text": "Selamat Hari Bapa! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "പിതൃദിനം",
+        "hover_text": "പിതൃദിനം 2024 (ജൂൺ 17)",
+        "share_text": "പിതൃദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "पितृदिन",
+        "hover_text": "फादर्स डे (१७ जून) २०२४",
+        "share_text": "फादर्स डे च्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Аавуудын өдөр",
+        "hover_text": "2024 оны Аавуудын өдөр (6-р сарын 17)",
+        "share_text": "Аавуудын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "बुवाको मुख हेर्ने दिन",
+        "hover_text": "बुवाको मुख हेर्ने दिन (जुन १७) २०२४",
+        "share_text": "बुवाको मुख हेर्ने दिनको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Farsdag",
+        "hover_text": "Farsdag 2024 (17. juni)",
+        "share_text": "Gratulerer med farsdagen! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ପିତୃ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ପିତୃ ଦିବସର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز پدر",
+        "hover_text": "روز پدر ۲۰۲۴ (۱۷ ژوئن)",
+        "share_text": "روز پدر مبارک! #GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Ojca",
+        "hover_text": "Dzień Ojca 2024",
+        "share_text": "Obchodzimy Dzień Ojca #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia dos Pais",
+        "hover_text": "Dia dos Pais 2024",
+        "share_text": "Feliz Dia dos Pais! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia do pai",
+        "hover_text": "Dia do Pai de 2024 (17 de junho)",
+        "share_text": "Feliz dia do pai! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਪਿਓ ਦਿਵਸ",
+        "hover_text": "ਪਿਤਾ ਦਿਵਸ (17 ਜੂਨ) 2024",
+        "share_text": "ਪਿਤਾ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Tatălui",
+        "hover_text": "Ziua Tatălui – 17 iunie 2024",
+        "share_text": "La mulți ani de Ziua Tatălui! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День отца",
+        "hover_text": "День отца – 2024 (17 июня)",
+        "share_text": "С Днем отца! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан очева",
+        "hover_text": "Дан очева (17. јун) 2024.",
+        "share_text": "Срећан Дан очева! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva (17. jun) 2024.",
+        "share_text": "Srećan Dan očeva! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Papa",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "පියවරුන්ගේ දිනය",
+        "hover_text": "පියවරුන්ගේ දිනය (ජුනි 17) 2024",
+        "share_text": "ප්‍රීතිමත් පියවරුන්ගේ දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň otcov",
+        "hover_text": "Deň otcov 2024 (17. jún)",
+        "share_text": "Šťastný Deň otcov! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan očetov",
+        "hover_text": "Očetovski dan 2024 (17. junij)",
+        "share_text": "Vesel dan očetov! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Aabbaha",
+        "hover_text": null,
+        "share_text": "Maalinta Aabbaha oo Farxada leh #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Botate",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día del Padre",
+        "hover_text": "Día del Padre 2024 (17 de junio)",
+        "share_text": "¡Feliz Día del Padre! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Akina Baba",
+        "hover_text": "Siku ya Akina Baba (Tarehe 17 Juni) 2024",
+        "share_text": "Heri za Sikukuu ya Akina Baba! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Fars dag",
+        "hover_text": "Fars dag 2024 (17 juni)",
+        "share_text": "Grattis på fars dag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "தந்தையர் தினம்",
+        "hover_text": "தந்தையர் தினம் 2024 (ஜூன் 17)",
+        "share_text": "தந்தையர் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "పితృ దినోత్సవం",
+        "hover_text": "ఫాదర్స్ డే 2024 (జూన్ 17)",
+        "share_text": "ఫాదర్స్ డే శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันพ่อ",
+        "hover_text": "วันพ่อปี 2024 (17 มิถุนายน)",
+        "share_text": "สุขสันต์วันพ่อ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la ga Rre",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Babalar Günü",
+        "hover_text": "17 Haziran 2024 Babalar Günü",
+        "share_text": "Babalar Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День батька",
+        "hover_text": "День батька у 2024 році (17 червня)",
+        "share_text": "З Днем батька! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم پِدر",
+        "hover_text": "یوم پدر (17 جون) 2024",
+        "share_text": "یوم والد مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Otalar kuni",
+        "hover_text": "Otalar kuni 2024 (17-iyun)",
+        "share_text": "Otalar kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày của cha",
+        "hover_text": "Ngày của Cha năm 2024 (ngày 17 tháng 6)",
+        "share_text": "Mừng Ngày của Cha! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lobaba",
+        "hover_text": "Usuku Lobaba (17 Juni) lwango-2024",
+        "share_text": "Sinifisela Usuku Lobaba Oluhle! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Father's Day",
+    "share_text": "Happy Father's Day! #GoogleDoodle"
+  },
+  {
     "name": "iceland-national-day-2024",
     "title": "Iceland National Day 2024",
     "url": "//www.google.com/logos/doodles/2024/iceland-national-day-2024-6753651837110239-law.gif",
@@ -1531,9 +2529,9 @@
         "share_text": "መልካም የቫለንታይን ቀን! #GoogleDoodle"
       },
       "ar": {
-        "query": "عيد الحب في البرازيل",
+        "query": "عيد الحب",
         "hover_text": "عيد الحب في البرازيل 2024",
-        "share_text": "عيد حب سعيد #GoogleDoodle"
+        "share_text": "أجمل الأمنيات بمناسبة عيد الحب. ‎#GoogleDoodle"
       },
       "hy": {
         "query": "Վալենտինի օրը Բրազիլիայում",
@@ -1671,9 +2669,9 @@
         "share_text": ""
       },
       "iw": {
-        "query": "ולנטיין דיי בברזיל",
+        "query": "Dia dos Namorados",
         "hover_text": "ולנטיין דיי 2024 בברזיל",
-        "share_text": "ולנטיינס דיי שמח! GoogleDoodle#"
+        "share_text": "חוגגים את ולנטיין דיי בברזיל ‎#GoogleDoodle"
       },
       "hi": {
         "query": "ब्राज़ील में वैलेंटाइन डे",
@@ -1691,9 +2689,9 @@
         "share_text": "Gleðilegan Dia dos Namorados #GoogleDoodle"
       },
       "id": {
-        "query": "Hari Valentine di Brasil",
-        "hover_text": "Hari Valentine 2024 di Brasil",
-        "share_text": "Selamat Hari Valentine! #GoogleDoodle"
+        "query": "Dia dos Namorados",
+        "hover_text": "Dia dos Namorados 2024 di Brasil",
+        "share_text": "Selamat Merayakan Dia dos Namorados #GoogleDoodle"
       },
       "ga": {
         "query": null,
@@ -1726,9 +2724,9 @@
         "share_text": "រីករាយទិវានៃ​ក្ដីស្រឡាញ់! #GoogleDoodle"
       },
       "ko": {
-        "query": "브라질 밸런타인데이",
-        "hover_text": "2024년 브라질 밸런타인데이",
-        "share_text": "발렌타인 데이 기념 #Google기념일로고"
+        "query": "연인의 날",
+        "hover_text": "2024년 브라질 연인의 날",
+        "share_text": "연인의 날 기념 #GoogleDoodle"
       },
       "ky": {
         "query": "Бразилиядагы Ыйык Валентин күнү",
@@ -1751,9 +2749,9 @@
         "share_text": "Priecīgu Mīlētāju dienu! #GoogleDoodle"
       },
       "lt": {
-        "query": "Valentino diena Brazilijoje",
-        "hover_text": "Valentino diena Brazilijoje, 2024 m.",
-        "share_text": "Su Valentino diena! #GoogleDoodle"
+        "query": "Dia dos Namorados",
+        "hover_text": "Šventė „Dia dos Namorados“ Brazilijoje, 2024 m.",
+        "share_text": "Linksmos šventės „Dia dos Namorados“ #GoogleDoodle"
       },
       "mk": {
         "query": "Ден на вљубените во Бразил",
@@ -1791,9 +2789,9 @@
         "share_text": "Диа дос Наморадосын мэнд хүргэе #GoogleDoodle"
       },
       "ne": {
-        "query": "ब्राजिलको प्रणय दिवस",
+        "query": "प्रणय दिवस",
         "hover_text": "ब्राजिलको प्रणय दिवस २०२४",
-        "share_text": "प्रणय दिवसको शुभकामना! #GoogleDoodle"
+        "share_text": "प्रणय दिवसको शुभकामना #GoogleDoodle"
       },
       "no": {
         "query": "Dia Dos Namorados",
@@ -1821,9 +2819,9 @@
         "share_text": ""
       },
       "fa": {
-        "query": "روز ولنتاین در برزیل",
-        "hover_text": "روز ولنتاین ۲۰۲۴ در برزیل",
-        "share_text": "روز ولنتاین مبارک! ‎#GoogleDoodle"
+        "query": "روز «دیا دوس نامورادوس» (روز عشاق)",
+        "hover_text": "روز «دیا دوس نامورادوس» (روز عشاق) ۲۰۲۴ در برزیل",
+        "share_text": "روز «دیا دوس نامورادوس (روز عشاق) مبارک ‎#GoogleDoodle"
       },
       "pl": {
         "query": "Walentynki w Brazylii",
@@ -1886,9 +2884,9 @@
         "share_text": ""
       },
       "si": {
-        "query": "බ්‍රසීලයේ වැලන්ටයින් දිනය",
-        "hover_text": "බ්‍රසීලයේ වැලන්ටයින් දිනය 2024",
-        "share_text": "සුබ වැලන්ටයින් දිනයක්! #GoogleDoodle"
+        "query": "ඩය ඩොස් නමෝරාඩෝස්",
+        "hover_text": "බ්‍රසීලයේ ඩය ඩොස් නමෝරාඩෝස් 2024",
+        "share_text": "සුබ ඩය ඩොස් නමෝරාඩෝස් #GoogleDoodle"
       },
       "sk": {
         "query": "Deň svätého Valentína v Brazílii",
@@ -1941,9 +2939,9 @@
         "share_text": "జియ దొస్ నమొరాదొస్ (బ్రెజిల్‌లో జరుపుకునే ప్రేమికుల దినోత్సవం) శుభాకాంక్షలు #GoogleDoodle"
       },
       "th": {
-        "query": "วันวาเลนไทน์ในบราซิล",
-        "hover_text": "วันวาเลนไทน์ปี 2024 ในบราซิล",
-        "share_text": "สุขสันต์วันวาเลนไทน์ #GoogleDoodle"
+        "query": "วันคู่รัก (Dia dos Namorados)",
+        "hover_text": "วันคู่รัก (Dia dos Namorados) ปี 2024 ในบราซิล",
+        "share_text": "สุขสันต์วันคู่รัก (Dia dos Namorados) #GoogleDoodle"
       },
       "tn": {
         "query": null,
