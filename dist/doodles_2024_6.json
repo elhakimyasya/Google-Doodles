@@ -1,5 +1,504 @@
 [
   {
+    "name": "juneteenth-2024",
+    "title": "Juneteenth 2024",
+    "url": "//www.google.com/logos/doodles/2024/juneteenth-2024-6753651837110459-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/kuUYzghHfWHMwmJB71IE-IkoMw9gE4lx0_6UAr05lVYMkMknSMlYK-pOP25DJVVt2C4l3oALDF16kR_-P6YnOgl7yBteXyPfXoXjKrxaNVCCtPG17qOpcw",
+    "high_res_url": "//www.google.com/logos/doodles/2024/juneteenth-2024-6753651837110459-2xa.gif",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2024,
+      6,
+      19
+    ],
+    "translations": {
+      "en": {
+        "query": "Juneteenth",
+        "hover_text": "Juneteenth 2024",
+        "share_text": "Celebrating Juneteenth! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Juneteenth",
+        "hover_text": "Juneteenth 2024",
+        "share_text": "Gelukkige Juneteenth! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Emancipimit",
+        "hover_text": "Dita e Emancipimit, 2024",
+        "share_text": "Gëzuar Ditën e Emancipimit! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ጁንቲንዝ",
+        "hover_text": "ጁንቲንዝ 2024",
+        "share_text": "መልካም ጁንቲንዝ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "يوم الحرّية في الولايات المتحدة",
+        "hover_text": "نحتفل بيوم الحرية في الولايات المتحدة لعام 2024",
+        "share_text": "أجمل الأمنيات بمناسبة يوم الحرية في الولايات المتحدة! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ազատության օր",
+        "hover_text": "Ազատության օր 2024",
+        "share_text": "Շնորհավո՛ր ազատության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Juneteenth Azadlıq Günü",
+        "hover_text": "2024 Juneteenth Günü",
+        "share_text": "Juneteenth Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "জুনটিনথ",
+        "hover_text": "জুনটিনথ ২০২৪",
+        "share_text": "জুনটিনথের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Juneteenth",
+        "hover_text": "2024ko Juneteenth-a",
+        "share_text": "Juneteenth zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень эмансіпацыі",
+        "hover_text": "Дзень эмансіпацыі рабоў 2024",
+        "share_text": "З Днём эмансіпацыі рабоў! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Juneteenth",
+        "hover_text": "Juneteenth 2024.",
+        "share_text": "Sretan Juneteenth! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Juneteenth",
+        "hover_text": "Juneteenth 2024",
+        "share_text": "Happy Juneteenth! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на свободата",
+        "hover_text": "Ден на свободата 2024 г.",
+        "share_text": "Честит Ден на свободата! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဂျွန်တင်း",
+        "hover_text": "၂၀၂၄ ဂျွန်တင်းနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် ဂျွန်တင်းနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Juneteenth",
+        "hover_text": "Juneteenth 2024",
+        "share_text": "Feliç Juneteenth! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "六月節",
+        "hover_text": "2024 年六月節",
+        "share_text": "六月節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "六月節",
+        "hover_text": "2024 年六月節",
+        "share_text": "歡慶六月節！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "六月节",
+        "hover_text": "2024 年六月节",
+        "share_text": "2024 年六月节！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Juneteenth",
+        "hover_text": "Juneteenth 2024.",
+        "share_text": "Sretan Juneteenth! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Juneteenth",
+        "hover_text": "Juneteenth 2024",
+        "share_text": "Veselý Juneteenth! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Juneteenth",
+        "hover_text": "Juneteenth 2024",
+        "share_text": "Glædelig Juneteenth #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Juneteenth",
+        "hover_text": "Juneteenth 2024",
+        "share_text": "Fijne Juneteenth! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Vabaduse päev",
+        "hover_text": "2024. aasta vabaduse päev",
+        "share_text": "Head vabaduse päeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Juneteenth-päivä",
+        "hover_text": "Juneteenth-päivä 2024",
+        "share_text": "Hyvää juneteenth-päivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Juneteenth",
+        "hover_text": "Juneteenth 2024",
+        "share_text": "Bon Juneteenth ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Juneteenth",
+        "hover_text": "Juneteenth 2024",
+        "share_text": "Joyeux Juneteenth! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Juneteenth",
+        "hover_text": "Juneteenth 2024",
+        "share_text": "Feliz Juneteenth! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მონობისგან გათავისუფლების დღე",
+        "hover_text": "მონობისგან განთავისუფლების დღე 2024",
+        "share_text": "გილოცავთ მონობისგან განთავისუფლების დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Juneteenth",
+        "hover_text": "Juneteenth 2024",
+        "share_text": "Wir feiern Juneteenth #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ελευθερίας",
+        "hover_text": "Juneteenth 2024",
+        "share_text": "Χρόνια πολλά για το Juneteenth! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "જૂન્ટીન્થ",
+        "hover_text": "જૂન્ટીન્થ 2024",
+        "share_text": "જૂન્ટીન્થની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "ג'ונטינת'",
+        "hover_text": "יום השחרור מעבדות 2024",
+        "share_text": "חגיגות יום השחרור מעבדות GoogleDoodle#"
+      },
+      "hi": {
+        "query": "गुलामी उन्मूलन दिवस (जूनटींथ)",
+        "hover_text": "जूनटींथ 2024",
+        "share_text": "जूनटींथ की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Az amerikai rabszolgaság eltörlésének emléknapja",
+        "hover_text": "Az amerikai rabszolgaság eltörlésének emléknapja, 2024",
+        "share_text": "Minden jót az amerikai rabszolgaság eltörlésének emléknapján! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Juneteenth",
+        "hover_text": "Júnítjándi 2024",
+        "share_text": "Gleðilegan júnítjánda! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Emansipasi",
+        "hover_text": "Hari Emansipasi 2024",
+        "share_text": "Selamat Hari Emansipasi! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Juneteenth",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Juneteenth",
+        "hover_text": "Juneteenth 2024",
+        "share_text": "Felice Juneteenth! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ジューンティーンス",
+        "hover_text": "2024 年ジューンティーンス",
+        "share_text": "ハッピー ジューンティーンス！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "Juneteenth",
+        "hover_text": "ಜೂನ್‌ಟೀನ್ತ್ 2024",
+        "share_text": "ಜೂನ್‌ಟೀನ್ತ್‌ನ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Азаттық",
+        "hover_text": "Азаттық күні – 2024",
+        "share_text": "Азаттық күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាសេរីភាពអាមេរិក",
+        "hover_text": "ទិវាបញ្ចប់ទាសភាពឆ្នាំ 2024",
+        "share_text": "អបអរទិវាបញ្ចប់ទាសភាព! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "준틴스",
+        "hover_text": "2024년 준틴스",
+        "share_text": "준틴스 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Juneteenth",
+        "hover_text": "Эмансипация – 2024",
+        "share_text": "Эмансипация күнү кут болсун! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Juneteenth",
+        "hover_text": "ວັນ Juneteenth ປີ 2024",
+        "share_text": "ສຸກສັນວັນ Juneteenth! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Juneteenth",
+        "hover_text": "Juneteenth 2024",
+        "share_text": "¡Juneteenth! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Atbrīvošanas diena",
+        "hover_text": "Atbrīvošanas diena — 2024",
+        "share_text": "Sveicam Atbrīvošanas dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Vergijos panaikinimas",
+        "hover_text": "Vergijos panaikinimas, 2024 m.",
+        "share_text": "Su Vergijos panaikinimo diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на слободата",
+        "hover_text": "Ден на слободата, 2024 г.",
+        "share_text": "Среќен Ден на слободата! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Juneteenth",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Juneteenth",
+        "hover_text": "Juneteenth 2024",
+        "share_text": "Selamat menyambut Juneteenth! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ജൂൺടീന്ത്",
+        "hover_text": "ജൂൺടീൻത് 2024",
+        "share_text": "ജൂൺടീൻത് ആശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "जूनटीन्थ",
+        "hover_text": "जूनटीन्थ २०२४",
+        "share_text": "जूनटीन्थच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Эрх чөлөөний өдөр",
+        "hover_text": "2024 оны Juneteenth",
+        "share_text": "Juneteenth-н баярын мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Juneteenth",
+        "hover_text": "Juneteenth २०२४",
+        "share_text": "Juneteenth को शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Juneteenth",
+        "hover_text": "Juneteenth 2024",
+        "share_text": "God Juneteenth! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଜୁନଟିନ୍ଥ",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز آزادی",
+        "hover_text": "روز لغو برده‌داری ۲۰۲۴",
+        "share_text": "روز لغو برده‌داری، جونتینت، مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Juneteenth",
+        "hover_text": "Juneteenth (Dzień Wyzwolenia) 2024",
+        "share_text": "Obchodzimy Juneteenth (Dzień Wyzwolenia) #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Juneteenth",
+        "hover_text": "Juneteenth 2024",
+        "share_text": "Feliz Juneteenth, o Dia da Independência Negra nos EUA! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "19 de junho",
+        "hover_text": "Juneteenth de 2024",
+        "share_text": "Feliz Juneteenth! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Juneteenth",
+        "hover_text": "ਜੂਨਟੀਂਥ 2024",
+        "share_text": "ਜੂਨਟੀਂਥ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței Juneteenth",
+        "hover_text": "Ziua Independenței Juneteenth 2024",
+        "share_text": "La mulți ani de Ziua Independenței Juneteenth! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "день эмансипации",
+        "hover_text": "День эмансипации – 2024",
+        "share_text": "С днем эмансипации! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан слободе",
+        "hover_text": "Дан слободе 2024.",
+        "share_text": "Срећан Дан слободе! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan slobode",
+        "hover_text": "Dan slobode 2024.",
+        "share_text": "Srećan Dan slobode! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Juneteenth",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ජුනෙටීන්ත්",
+        "hover_text": "ජුනෙටීන්ත් 2024",
+        "share_text": "ප්‍රීතිමත් ජුනෙටීන්ත්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Juneteenth",
+        "hover_text": "Deň nezávislosti černochov 2024",
+        "share_text": "Šťastný Deň nezávislosti černochov. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Juneteenth",
+        "hover_text": "Juneteenth 2024",
+        "share_text": "Vesel Juneteenth! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Juneteenth",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": "Juneteenth",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Juneteenth",
+        "hover_text": "Juneteenth 2024",
+        "share_text": "Hoy es Juneteenth 2024 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Ukombozi wa Marekani",
+        "hover_text": "Sikukuu ya Ukombozi wa Marekani 2024",
+        "share_text": "Heri ya Sikukuu ya Ukombozi wa Marekani! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Frigivningen av de sista slavarna i Texas",
+        "hover_text": "Juneteenth 2024",
+        "share_text": "Glad Juneteenth! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஜூனெட்டீன்",
+        "hover_text": "ஜூன்டீன்த் 2024",
+        "share_text": "ஜூன்டீன்த் வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "జూన్‌టీన్త్",
+        "hover_text": "జూన్‌టీన్త్ 2024",
+        "share_text": "జూన్‌టీన్త్ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Juneteenth",
+        "hover_text": "วันจูนทีนธ์ปี 2024",
+        "share_text": "สุขสันต์วันจูนทีนธ์ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Di-19 tsa Seetebosigo",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Juneteenth",
+        "hover_text": "2024 Juneteenth",
+        "share_text": "Juneteenth'i kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День свободи",
+        "hover_text": "День свободи у 2024 році",
+        "share_text": "З Днем свободи! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "جون ٹینتھ",
+        "hover_text": "Juneteenth 2024",
+        "share_text": "Juneteenth مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Emansipatsiya kuni",
+        "hover_text": "Emansipatsiya kuni 2024",
+        "share_text": "Emansipatsiya kuni bilan! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày lễ Juneteenth",
+        "hover_text": "Ngày lễ Juneteenth năm 2024",
+        "share_text": "Chào mừng Ngày lễ Juneteenth! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "I-Juneteenth",
+        "hover_text": "I-Juneteenth 2024",
+        "share_text": "Sikufisela i-Juneteenth enhle! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Juneteenth",
+    "share_text": "Celebrating Juneteenth! #GoogleDoodle"
+  },
+  {
     "name": "fathers-day-2024-jun-18",
     "title": "Father's Day 2024 (Jun 18)",
     "url": "//www.google.com/logos/doodles/2024/fathers-day-2024-jun-18-6753651837110388-l.png",
