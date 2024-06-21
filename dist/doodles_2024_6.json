@@ -1,5 +1,1003 @@
 [
   {
+    "name": "fathers-day-2024-jun-21",
+    "title": "Father's Day 2024 (Jun 21)",
+    "url": "//www.google.com/logos/doodles/2024/fathers-day-2024-jun-21-6753651837110390-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/J62zrscbHc43vnbvGR-P2BUALFgoDZPVaEp0mFJ751hRASKNuswVcknYNZZmJKg94eBAP6gU9VUfXc3gAen2-wL2es__RV90PkxeQSvjiOs-VXJ6c82AB-E",
+    "high_res_url": "//www.google.com/logos/doodles/2024/fathers-day-2024-jun-21-6753651837110390-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      6,
+      21
+    ],
+    "translations": {
+      "en": {
+        "query": "Father's Day",
+        "hover_text": "Father's Day (Jun 21) 2024",
+        "share_text": "Happy Father's Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Vadersdag",
+        "hover_text": "Vadersdag (21 Junie) 2024",
+        "share_text": "Gelukkige Vadersdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Babait",
+        "hover_text": "Dita e Babait, 2024",
+        "share_text": "Gëzuar Ditën e Babait! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአባቶች ቀን",
+        "hover_text": "የአባቶች ቀን (ጁን 21) 2024",
+        "share_text": "መልካም የአባቶች ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد الأب",
+        "hover_text": "عيد الأب (21 يونيو) 2024",
+        "share_text": "عيد أب سعيد. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Հայրերի օր",
+        "hover_text": "Հայրերի օր 2024 (հունիսի 21)",
+        "share_text": "Շնորհավո՛ր հայրերի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Atalar Günü",
+        "hover_text": "2024 Atalar Günü (21 iyun)",
+        "share_text": "Atalar Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "পিতৃ দিবস",
+        "hover_text": "পিতৃ দিবস (২১ জুন) ২০২৪",
+        "share_text": "ফাদার্স ডের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Aitaren Eguna",
+        "hover_text": "2024ko Aitaren Eguna (ekainaren 21a)",
+        "share_text": "Aitaren Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень бацькі",
+        "hover_text": "Дзень бацькі 2024 (21 чэрвеня)",
+        "share_text": "З Днём бацькі! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva (21. juni) 2024.",
+        "share_text": "Sretan Dan očeva! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Father's Day",
+        "hover_text": "Father's Day (21 Jun) 2024",
+        "share_text": "Happy Father's Day! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на бащата",
+        "hover_text": "Ден на бащата (21 юни) 2024 г.",
+        "share_text": "Честит Ден на бащата! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အဖေများနေ့",
+        "hover_text": "၂၀၂၄ အဖေများနေ့ (ဇွန် ၂၁)",
+        "share_text": "ပျော်ရွှင်ဖွယ် ဖခင်များနေ့ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia del Pare",
+        "hover_text": "Dia del Pare 2024 (21 de juny)",
+        "share_text": "Feliç Dia del Pare! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "父親節",
+        "hover_text": "2024 年父親節 (6 月 21 日)",
+        "share_text": "父親節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "父親節",
+        "hover_text": "2024 年父親節",
+        "share_text": "父親節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "父亲节",
+        "hover_text": "2024 年父亲节（6 月 21 日）",
+        "share_text": "父亲节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva (21. lipnja) 2024.",
+        "share_text": "Sretan Dan očeva! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den otců",
+        "hover_text": "Den otců 2024 (21. června)",
+        "share_text": "Veselý Den otců! #GoogleDoodle"
+      },
+      "da": {
+        "query": "fars dag",
+        "hover_text": "Fars dag 2024 (21. juni)",
+        "share_text": "Glædelig fars dag! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Vaderdag",
+        "hover_text": "Vaderdag 2024 (21 juni)",
+        "share_text": "Fijne Vaderdag! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Isadepäev",
+        "hover_text": "2024. aasta isadepäev (21. juuni)",
+        "share_text": "Head isadepäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Isänpäivä",
+        "hover_text": "Isänpäivä 2024 (21.6.)",
+        "share_text": "Hyvää isänpäivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête des Pères",
+        "hover_text": "Fête des Pères 2024 (21 juin)",
+        "share_text": "Joyeuse fête des Pères ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête des Pères",
+        "hover_text": "Fête des Pères 2024 (21 juin)",
+        "share_text": "Joyeuse fête des Pères! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día do Pai",
+        "hover_text": "Día do Pai 2024",
+        "share_text": "Feliz Día do Pai! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მამის დღე",
+        "hover_text": "მამის დღე – 2024",
+        "share_text": "გილოცავთ მამის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Vatertag",
+        "hover_text": "Vatertag 2024 (21. Juni)",
+        "share_text": "Alles Liebe zum Vatertag! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Γιορτή του Πατέρα",
+        "hover_text": "Γιορτή του Πατέρα (21 Ιουνίου) 2024",
+        "share_text": "Πολλές ευχές για τη Γιορτή του Πατέρα! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "પિતૃ દિવસ",
+        "hover_text": "ફાધર્સ ડે (21 જૂન) 2024",
+        "share_text": "ફાધર્સ ડેની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום האב",
+        "hover_text": "יום האב 2024 (21 ביוני)",
+        "share_text": "יום האב שמח! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "फ़ादर्स डे",
+        "hover_text": "फ़ादर्स डे (21 जून) 2024",
+        "share_text": "फ़ादर्स डे की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Apák napja",
+        "hover_text": "Apák napja, 2024 (június 21.)",
+        "share_text": "Boldog apák napját! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Feðradagurinn",
+        "hover_text": "Feðradagurinn 2024 (21. júní)",
+        "share_text": "Gleðilegan feðradag! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Ayah",
+        "hover_text": "Hari Ayah (21 Juni) 2024",
+        "share_text": "Selamat Hari Ayah! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá na nAithreacha",
+        "hover_text": null,
+        "share_text": "Lá na nAithreacha faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa del papà",
+        "hover_text": "Festa del papà 2024 (21 giugno)",
+        "share_text": "Buona festa del papà! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "父の日",
+        "hover_text": "2024 年父の日（6 月 21 日）",
+        "share_text": "父の日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ತಂದೆಯಂದಿರ ದಿನ",
+        "hover_text": "ತಂದೆಯಂದಿರ ದಿನ (21 ಜೂನ್) 2024",
+        "share_text": "ತಂದೆಯಂದಿರ ದಿನಾಚರಣೆ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Әкелер күні",
+        "hover_text": "Әкелер күні – 2024 (21 маусым)",
+        "share_text": "Әкелер күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​រំលឹកគុណឪពុក",
+        "hover_text": "ទិវា​ឪពុក (21 មិថុនា) ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​រំលឹកគុណ​ឪពុក​! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "아버지의 날",
+        "hover_text": "2024년 아버지의 날(6월 21일)",
+        "share_text": "아버지날 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Аталар күнү",
+        "hover_text": "Аталар күнү – 2024 (21-июнь)",
+        "share_text": "Аталар күнү менен куттуктайбыз! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນພໍ່",
+        "hover_text": "ວັນພໍ່ປີ 2024 (21 ມິຖຸນາ)",
+        "share_text": "ສຸກສັນວັນພໍ່! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día del Padre",
+        "hover_text": "Día del Padre 2024",
+        "share_text": "¡Feliz Día del Padre! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Tēva diena",
+        "hover_text": "Tēva diena — 2024. gada 21. jūnijs",
+        "share_text": "Sveicam Tēva dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Tėvo diena",
+        "hover_text": "Tėvo diena, 2024 m. (birželio 21 d.)",
+        "share_text": "Linksmos Tėvo dienos! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на таткото",
+        "hover_text": "Ден на таткото, 2024 г.",
+        "share_text": "Среќен ден на таткото! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny ray",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny ray ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Bapa",
+        "hover_text": "Hari Bapa (21 Jun) 2024",
+        "share_text": "Selamat Hari Bapa! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "പിതൃദിനം",
+        "hover_text": "പിതൃദിനം 2024 (ജൂൺ 21)",
+        "share_text": "പിതൃദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "पितृदिन",
+        "hover_text": "फादर्स डे (२१ जून) २०२४",
+        "share_text": "फादर्स डे च्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Аавуудын өдөр",
+        "hover_text": "2024 оны Аавуудын өдөр (6-р сарын 21)",
+        "share_text": "Аавуудын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "बुवाको मुख हेर्ने दिन",
+        "hover_text": "बुवाको मुख हेर्ने दिन (जुन २१) २०२४",
+        "share_text": "बुवाको मुख हेर्ने दिनको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Farsdag",
+        "hover_text": "Farsdag 2024 (21. juni)",
+        "share_text": "Gratulerer med farsdagen! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ପିତୃ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ପିତୃ ଦିବସର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز پدر",
+        "hover_text": "روز پدر ۲۰۲۴ (۲۱ ژوئن)",
+        "share_text": "روز پدر مبارک! #GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Ojca",
+        "hover_text": "Dzień Ojca 2024",
+        "share_text": "Obchodzimy Dzień Ojca #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia dos Pais",
+        "hover_text": "Dia dos Pais 2024",
+        "share_text": "Feliz Dia dos Pais! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia do pai",
+        "hover_text": "Dia do Pai de 2024",
+        "share_text": "Feliz dia do pai! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਪਿਓ ਦਿਵਸ",
+        "hover_text": "ਪਿਤਾ ਦਿਵਸ (21 ਜੂਨ) 2024",
+        "share_text": "ਪਿਤਾ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Tatălui",
+        "hover_text": "Ziua Tatălui – 21 iunie 2024",
+        "share_text": "La mulți ani de Ziua Tatălui! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День отца",
+        "hover_text": "День отца – 2024 (21 июня)",
+        "share_text": "С Днем отца! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан очева",
+        "hover_text": "Дан очева (21. јун) 2024.",
+        "share_text": "Срећан Дан очева! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva (21. jun) 2024.",
+        "share_text": "Srećan Dan očeva! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Papa",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "පියවරුන්ගේ දිනය",
+        "hover_text": "පියවරුන්ගේ දිනය (ජුනි 21) 2024",
+        "share_text": "ප්‍රීතිමත් පියවරුන්ගේ දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň otcov",
+        "hover_text": "Deň otcov 2024 (21. jún)",
+        "share_text": "Šťastný Deň otcov! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan očetov",
+        "hover_text": "Očetovski dan 2024 (21. junij)",
+        "share_text": "Vesel dan očetov! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Aabbaha",
+        "hover_text": null,
+        "share_text": "Maalinta Aabbaha oo Farxada leh #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Botate",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día del Padre",
+        "hover_text": "Día del Padre 2024 (21 de junio)",
+        "share_text": "¡Feliz Día del Padre! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Akina Baba",
+        "hover_text": "Siku ya Akina Baba (Tarehe 21 Juni) 2024",
+        "share_text": "Heri za Sikukuu ya Akina Baba! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Fars dag",
+        "hover_text": "Fars dag 2024 (21 juni)",
+        "share_text": "Grattis på fars dag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "தந்தையர் தினம்",
+        "hover_text": "தந்தையர் தினம் 2024 (ஜூன் 21)",
+        "share_text": "தந்தையர் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "పితృ దినోత్సవం",
+        "hover_text": "ఫాదర్స్ డే (జూన్ 21) 2024",
+        "share_text": "ఫాదర్స్ డే శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันพ่อ",
+        "hover_text": "วันพ่อปี 2024 (21 มิถุนายน)",
+        "share_text": "สุขสันต์วันพ่อ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la ga Rre",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Babalar Günü",
+        "hover_text": "21 Haziran 2024 Babalar Günü",
+        "share_text": "Babalar Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День батька",
+        "hover_text": "День батька у 2024 році (21 червня)",
+        "share_text": "З Днем батька! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم پِدر",
+        "hover_text": "یوم پدر (21 جون) 2024",
+        "share_text": "یوم والد مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Otalar kuni",
+        "hover_text": "Otalar kuni 2024 (21-iyun)",
+        "share_text": "Otalar kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày của cha",
+        "hover_text": "Ngày của Cha năm 2024 (ngày 21 tháng 6)",
+        "share_text": "Mừng Ngày của Cha! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lobaba",
+        "hover_text": "Usuku loBaba (21 Juni) lwango-2024",
+        "share_text": "Sinifisela Usuku Lobaba Oluhle! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Father's Day",
+    "share_text": "Happy Father's Day! #GoogleDoodle"
+  },
+  {
+    "name": "conmebol-copa-america-2024",
+    "title": "CONMEBOL Copa America 2024",
+    "url": "//www.google.com/logos/doodles/2024/conmebol-copa-america-2024-6753651837110515.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/WH8bujr6JePcw99rOtkjuTjfJrvepV6enCfJA__4m720GMmsW7mtGwfGhfYuemaxcj4DwnAOf-cPQbn1sGZJY7TRQ63ifC3S6OR2fGZ4few3pZrZYtXF",
+    "high_res_url": "//www.google.com/logos/doodles/2024/conmebol-copa-america-2024-6753651837110515-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      6,
+      20
+    ],
+    "translations": {
+      "en": {
+        "query": "CONMEBOL Copa America",
+        "hover_text": "CONMEBOL Copa America 2024",
+        "share_text": "CONMEBOL Copa America 2024! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "am": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ar": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hy": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "az": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "eu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "be": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "my": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ca": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": "CONMEBOL Copa America 2024",
+        "hover_text": "CONMEBOL Copa America 2024",
+        "share_text": "CONMEBOL Copa America 2024! #GoogleDoodle"
+      },
+      "hr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "cs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "da": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "nl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "et": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "de": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "el": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hu": {
+        "query": "CONMEBOL Copa América",
+        "hover_text": "CONMEBOL Copa América, 2024",
+        "share_text": "CONMEBOL Copa América, 2024 #GoogleDoodle"
+      },
+      "is": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "id": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ja": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "kn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "kk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ko": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ky": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es-419": {
+        "query": "CONMEBOL Copa América",
+        "hover_text": "CONMEBOL Copa América 2024",
+        "share_text": "CONMEBOL Copa América 2024! #GoogleDoodle"
+      },
+      "lv": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ml": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ne": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "no": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": "CONMEBOL Copa America",
+        "hover_text": "CONMEBOL Copa America 2024",
+        "share_text": "CONMEBOL Copa America 2024! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ro": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "CONMEBOL Copa América",
+        "hover_text": "CONMEBOL Copa América 2024",
+        "share_text": "CONMEBOL Copa América 2024! #GoogleDoodle"
+      },
+      "sw": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sv": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "te": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "th": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ur": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uz": {
+        "query": "CONMEBOL Copa America",
+        "hover_text": "CONMEBOL Copa America 2024",
+        "share_text": "CONMEBOL Copa America 2024! #GoogleDoodle"
+      },
+      "vi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "CONMEBOL Copa America",
+    "share_text": "CONMEBOL Copa America 2024! #GoogleDoodle"
+  },
+  {
     "name": "juneteenth-2024",
     "title": "Juneteenth 2024",
     "url": "//www.google.com/logos/doodles/2024/juneteenth-2024-6753651837110459-law.gif",
@@ -21,77 +1019,77 @@
       "af": {
         "query": "Juneteenth",
         "hover_text": "Juneteenth 2024",
-        "share_text": "Gelukkige Juneteenth! #GoogleDoodle"
+        "share_text": "Ter viering van Juneteenth! #GoogleDoodle"
       },
       "sq": {
         "query": "Dita e Emancipimit",
         "hover_text": "Dita e Emancipimit, 2024",
-        "share_text": "Gëzuar Ditën e Emancipimit! #GoogleDoodle"
+        "share_text": "Festojmë Ditën e Emancipimit! #GoogleDoodle"
       },
       "am": {
         "query": "ጁንቲንዝ",
         "hover_text": "ጁንቲንዝ 2024",
-        "share_text": "መልካም ጁንቲንዝ! #GoogleDoodle"
+        "share_text": "ጁንቲንዝን በማክበር ላይ! #GoogleDoodle"
       },
       "ar": {
         "query": "يوم الحرّية في الولايات المتحدة",
         "hover_text": "نحتفل بيوم الحرية في الولايات المتحدة لعام 2024",
-        "share_text": "أجمل الأمنيات بمناسبة يوم الحرية في الولايات المتحدة! ‎#GoogleDoodle"
+        "share_text": "نحتفل اليوم بذكرى يوم الحرية في الولايات المتحدة. ‎#GoogleDoodle"
       },
       "hy": {
         "query": "Ազատության օր",
         "hover_text": "Ազատության օր 2024",
-        "share_text": "Շնորհավո՛ր ազատության օրը #GoogleDoodle"
+        "share_text": "Տոնե՛նք Ազատության օրը #GoogleDoodle"
       },
       "az": {
         "query": "Juneteenth Azadlıq Günü",
         "hover_text": "2024 Juneteenth Günü",
-        "share_text": "Juneteenth Gününüz Mübarək! #GoogleDoodle"
+        "share_text": "Juneteenth günü! #GoogleDoodle"
       },
       "bn": {
         "query": "জুনটিনথ",
         "hover_text": "জুনটিনথ ২০২৪",
-        "share_text": "জুনটিনথের শুভেচ্ছা! #GoogleDoodle"
+        "share_text": "জুনটিনথ উদযাপন! #GoogleDoodle"
       },
       "eu": {
         "query": "Juneteenth",
         "hover_text": "2024ko Juneteenth-a",
-        "share_text": "Juneteenth zoriontsua izan! #GoogleDoodle"
+        "share_text": "Juneteenth-aren omenez #GoogleDoodle"
       },
       "be": {
         "query": "Дзень эмансіпацыі",
         "hover_text": "Дзень эмансіпацыі рабоў 2024",
-        "share_text": "З Днём эмансіпацыі рабоў! #GoogleDoodle"
+        "share_text": "Святкуем Дзень эмансіпацыі рабоў! #GoogleDoodle"
       },
       "bs": {
         "query": "Juneteenth",
         "hover_text": "Juneteenth 2024.",
-        "share_text": "Sretan Juneteenth! #GoogleDoodle"
+        "share_text": "Slavimo Juneteenth! #GoogleDoodle"
       },
       "en-GB": {
         "query": "Juneteenth",
         "hover_text": "Juneteenth 2024",
-        "share_text": "Happy Juneteenth! #GoogleDoodle"
+        "share_text": "Celebrating Juneteenth #GoogleDoodle"
       },
       "bg": {
         "query": "Ден на свободата",
         "hover_text": "Ден на свободата 2024 г.",
-        "share_text": "Честит Ден на свободата! #GoogleDoodle"
+        "share_text": "Ден на свободата! #GoogleDoodle"
       },
       "my": {
         "query": "ဂျွန်တင်း",
         "hover_text": "၂၀၂၄ ဂျွန်တင်းနေ့",
-        "share_text": "ပျော်ရွှင်ဖွယ် ဂျွန်တင်းနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+        "share_text": "ဂျွန်တင်းနေ့ကို ဂုဏ်ပြုခြင်း #GoogleDoodle"
       },
       "ca": {
         "query": "Juneteenth",
         "hover_text": "Juneteenth 2024",
-        "share_text": "Feliç Juneteenth! #GoogleDoodle"
+        "share_text": "Celebració del Juneteenth #GoogleDoodle"
       },
       "zh-HK": {
         "query": "六月節",
         "hover_text": "2024 年六月節",
-        "share_text": "六月節快樂！#GoogleDoodle"
+        "share_text": "慶祝六月節！#GoogleDoodle"
       },
       "zh-TW": {
         "query": "六月節",
@@ -106,67 +1104,67 @@
       "hr": {
         "query": "Juneteenth",
         "hover_text": "Juneteenth 2024.",
-        "share_text": "Sretan Juneteenth! #GoogleDoodle"
+        "share_text": "Slavimo Juneteenth! #GoogleDoodle"
       },
       "cs": {
         "query": "Juneteenth",
         "hover_text": "Juneteenth 2024",
-        "share_text": "Veselý Juneteenth! #GoogleDoodle"
+        "share_text": "Oslava Juneteenth! #GoogleDoodle"
       },
       "da": {
         "query": "Juneteenth",
         "hover_text": "Juneteenth 2024",
-        "share_text": "Glædelig Juneteenth #GoogleDoodle"
+        "share_text": "Vi fejrer Juneteenth #GoogleDoodle"
       },
       "nl": {
         "query": "Juneteenth",
         "hover_text": "Juneteenth 2024",
-        "share_text": "Fijne Juneteenth! #GoogleDoodle"
+        "share_text": "Doodle ter ere van Juneteenth! #GoogleDoodle"
       },
       "et": {
         "query": "Vabaduse päev",
         "hover_text": "2024. aasta vabaduse päev",
-        "share_text": "Head vabaduse päeva! #GoogleDoodle"
+        "share_text": "Tähistame vabaduse päeva! #GoogleDoodle"
       },
       "fi": {
         "query": "Juneteenth-päivä",
         "hover_text": "Juneteenth-päivä 2024",
-        "share_text": "Hyvää juneteenth-päivää! #GoogleDoodle"
+        "share_text": "Juneteenth-päivä #GoogleDoodle"
       },
       "fr": {
         "query": "Juneteenth",
         "hover_text": "Juneteenth 2024",
-        "share_text": "Bon Juneteenth ! #GoogleDoodle"
+        "share_text": "Juneteenth à l'honneur ! #GoogleDoodle"
       },
       "fr-CA": {
         "query": "Juneteenth",
         "hover_text": "Juneteenth 2024",
-        "share_text": "Joyeux Juneteenth! #GoogleDoodle"
+        "share_text": "Célébration de Juneteenth! #GoogleDoodle"
       },
       "gl": {
         "query": "Juneteenth",
         "hover_text": "Juneteenth 2024",
-        "share_text": "Feliz Juneteenth! #GoogleDoodle"
+        "share_text": "Homenaxe ao Juneteenth! #GoogleDoodle"
       },
       "ka": {
         "query": "მონობისგან გათავისუფლების დღე",
         "hover_text": "მონობისგან განთავისუფლების დღე 2024",
-        "share_text": "გილოცავთ მონობისგან განთავისუფლების დღეს! #GoogleDoodle"
+        "share_text": "აღვნიშნავთ მონობისგან გათავისუფლების დღეს! #GoogleDoodle"
       },
       "de": {
         "query": "Juneteenth",
         "hover_text": "Juneteenth 2024",
-        "share_text": "Wir feiern Juneteenth #GoogleDoodle"
+        "share_text": "Wir feiern Juneteenth! #GoogleDoodle"
       },
       "el": {
         "query": "Ημέρα Ελευθερίας",
         "hover_text": "Juneteenth 2024",
-        "share_text": "Χρόνια πολλά για το Juneteenth! #GoogleDoodle"
+        "share_text": "Εορτασμός Juneteenth! #GoogleDoodle"
       },
       "gu": {
         "query": "જૂન્ટીન્થ",
         "hover_text": "જૂન્ટીન્થ 2024",
-        "share_text": "જૂન્ટીન્થની શુભેચ્છા! #GoogleDoodle"
+        "share_text": "જૂન્ટીન્થની ઉજવણી! #GoogleDoodle"
       },
       "ht": {
         "query": null,
@@ -176,27 +1174,27 @@
       "iw": {
         "query": "ג'ונטינת'",
         "hover_text": "יום השחרור מעבדות 2024",
-        "share_text": "חגיגות יום השחרור מעבדות GoogleDoodle#"
+        "share_text": "חוגגים את ג'ונטינת' ‎#GoogleDoodle"
       },
       "hi": {
         "query": "गुलामी उन्मूलन दिवस (जूनटींथ)",
         "hover_text": "जूनटींथ 2024",
-        "share_text": "जूनटींथ की शुभकामनाएं! #GoogleDoodle"
+        "share_text": "जूनटींथ का जश्न! #GoogleDoodle"
       },
       "hu": {
         "query": "Az amerikai rabszolgaság eltörlésének emléknapja",
         "hover_text": "Az amerikai rabszolgaság eltörlésének emléknapja, 2024",
-        "share_text": "Minden jót az amerikai rabszolgaság eltörlésének emléknapján! #GoogleDoodle"
+        "share_text": "Az amerikai rabszolgaság eltörlésének emléknapja! #GoogleDoodle"
       },
       "is": {
         "query": "Juneteenth",
         "hover_text": "Júnítjándi 2024",
-        "share_text": "Gleðilegan júnítjánda! #GoogleDoodle"
+        "share_text": "Við fögnum Juneteenth! #GoogleDoodle"
       },
       "id": {
         "query": "Hari Emansipasi",
         "hover_text": "Hari Emansipasi 2024",
-        "share_text": "Selamat Hari Emansipasi! #GoogleDoodle"
+        "share_text": "Merayakan Hari Emansipasi #GoogleDoodle"
       },
       "ga": {
         "query": "Juneteenth",
@@ -206,17 +1204,17 @@
       "it": {
         "query": "Juneteenth",
         "hover_text": "Juneteenth 2024",
-        "share_text": "Felice Juneteenth! #GoogleDoodle"
+        "share_text": "In onore del Juneteenth! #GoogleDoodle"
       },
       "ja": {
         "query": "ジューンティーンス",
         "hover_text": "2024 年ジューンティーンス",
-        "share_text": "ハッピー ジューンティーンス！#GoogleDoodle"
+        "share_text": "ジューンティーンスを祝して！#GoogleDoodle"
       },
       "kn": {
         "query": "Juneteenth",
         "hover_text": "ಜೂನ್‌ಟೀನ್ತ್ 2024",
-        "share_text": "ಜೂನ್‌ಟೀನ್ತ್‌ನ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+        "share_text": "ಜೂನ್‌ಟೀನ್ತ್ ದಿನವನ್ನು ಆಚರಿಸಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
       },
       "kk": {
         "query": "Азаттық",
@@ -236,12 +1234,12 @@
       "ky": {
         "query": "Juneteenth",
         "hover_text": "Эмансипация – 2024",
-        "share_text": "Эмансипация күнү кут болсун! #GoogleDoodle"
+        "share_text": "Эмансипация күнүн майрамдоо! #GoogleDoodle"
       },
       "lo": {
         "query": "Juneteenth",
         "hover_text": "ວັນ Juneteenth ປີ 2024",
-        "share_text": "ສຸກສັນວັນ Juneteenth! #GoogleDoodle"
+        "share_text": "ສະເຫຼີມສະຫຼອງ Juneteenth! #GoogleDoodle"
       },
       "es-419": {
         "query": "Juneteenth",
@@ -251,17 +1249,17 @@
       "lv": {
         "query": "Atbrīvošanas diena",
         "hover_text": "Atbrīvošanas diena — 2024",
-        "share_text": "Sveicam Atbrīvošanas dienā! #GoogleDoodle"
+        "share_text": "Atbrīvošanas dienas godināšana! #GoogleDoodle"
       },
       "lt": {
         "query": "Vergijos panaikinimas",
         "hover_text": "Vergijos panaikinimas, 2024 m.",
-        "share_text": "Su Vergijos panaikinimo diena! #GoogleDoodle"
+        "share_text": "Vergijos panaikinimo minėjimas! #GoogleDoodle"
       },
       "mk": {
         "query": "Ден на слободата",
         "hover_text": "Ден на слободата, 2024 г.",
-        "share_text": "Среќен Ден на слободата! #GoogleDoodle"
+        "share_text": "Во чест на Денот на слободата! #GoogleDoodle"
       },
       "mg": {
         "query": "Juneteenth",
@@ -271,12 +1269,12 @@
       "ms": {
         "query": "Juneteenth",
         "hover_text": "Juneteenth 2024",
-        "share_text": "Selamat menyambut Juneteenth! #GoogleDoodle"
+        "share_text": "Meraikan Juneteenth! #GoogleDoodle"
       },
       "ml": {
         "query": "ജൂൺടീന്ത്",
         "hover_text": "ജൂൺടീൻത് 2024",
-        "share_text": "ജൂൺടീൻത് ആശംസകൾ! #GoogleDoodle"
+        "share_text": "ജൂൺടീൻത് ആഘോഷിക്കുന്നു! #GoogleDoodle"
       },
       "mt": {
         "query": null,
@@ -286,22 +1284,22 @@
       "mr": {
         "query": "जूनटीन्थ",
         "hover_text": "जूनटीन्थ २०२४",
-        "share_text": "जूनटीन्थच्या शुभेच्छा! #GoogleDoodle"
+        "share_text": "जूनटीन्थ साजरा करत आहे! #GoogleDoodle"
       },
       "mn": {
         "query": "Эрх чөлөөний өдөр",
         "hover_text": "2024 оны Juneteenth",
-        "share_text": "Juneteenth-н баярын мэнд хүргэе! #GoogleDoodle"
+        "share_text": "Juneteenth-г тэмдэглэж байна! #GoogleDoodle"
       },
       "ne": {
         "query": "Juneteenth",
         "hover_text": "Juneteenth २०२४",
-        "share_text": "Juneteenth को शुभकामना! #GoogleDoodle"
+        "share_text": "Juneteenth को खुसियाली मनाउँदै! #GoogleDoodle"
       },
       "no": {
         "query": "Juneteenth",
         "hover_text": "Juneteenth 2024",
-        "share_text": "God Juneteenth! #GoogleDoodle"
+        "share_text": "Vi feirer Juneteenth! #GoogleDoodle"
       },
       "nn": {
         "query": null,
@@ -316,7 +1314,7 @@
       "or": {
         "query": "ଜୁନଟିନ୍ଥ",
         "hover_text": null,
-        "share_text": ""
+        "share_text": "ଜୁନଟିନ୍ଥ ପାଳନ କରାଯାଉଛି! #GoogleDoodle"
       },
       "ps": {
         "query": null,
@@ -326,7 +1324,7 @@
       "fa": {
         "query": "روز آزادی",
         "hover_text": "روز لغو برده‌داری ۲۰۲۴",
-        "share_text": "روز لغو برده‌داری، جونتینت، مبارک! ‎#GoogleDoodle"
+        "share_text": "بزرگداشت «جونتینت»! ‎#GoogleDoodle"
       },
       "pl": {
         "query": "Juneteenth",
@@ -336,22 +1334,22 @@
       "pt-BR": {
         "query": "Juneteenth",
         "hover_text": "Juneteenth 2024",
-        "share_text": "Feliz Juneteenth, o Dia da Independência Negra nos EUA! #GoogleDoodle"
+        "share_text": "Viva o Juneteenth! #GoogleDoodle"
       },
       "pt-PT": {
         "query": "19 de junho",
         "hover_text": "Juneteenth de 2024",
-        "share_text": "Feliz Juneteenth! #GoogleDoodle"
+        "share_text": "Celebração do Juneteenth! #GoogleDoodle"
       },
       "pa": {
         "query": "Juneteenth",
         "hover_text": "ਜੂਨਟੀਂਥ 2024",
-        "share_text": "ਜੂਨਟੀਂਥ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+        "share_text": "ਜੂਨਟੀਂਥ ਦੇ ਜਸ਼ਨ ਵਿੱਚ! #GoogleDoodle"
       },
       "ro": {
         "query": "Ziua Independenței Juneteenth",
         "hover_text": "Ziua Independenței Juneteenth 2024",
-        "share_text": "La mulți ani de Ziua Independenței Juneteenth! #GoogleDoodle"
+        "share_text": "Sărbătorim Ziua Independenței Juneteenth! #GoogleDoodle"
       },
       "ro-MD": {
         "query": null,
@@ -361,17 +1359,17 @@
       "ru": {
         "query": "день эмансипации",
         "hover_text": "День эмансипации – 2024",
-        "share_text": "С днем эмансипации! #GoogleDoodle"
+        "share_text": "День эмансипации #GoogleDoodle"
       },
       "sr": {
         "query": "Дан слободе",
         "hover_text": "Дан слободе 2024.",
-        "share_text": "Срећан Дан слободе! #GoogleDoodle"
+        "share_text": "Славимо Дан слободе! #GoogleDoodle"
       },
       "sr-Latn": {
         "query": "Dan slobode",
         "hover_text": "Dan slobode 2024.",
-        "share_text": "Srećan Dan slobode! #GoogleDoodle"
+        "share_text": "Slavimo Dan slobode! #GoogleDoodle"
       },
       "sr-ME": {
         "query": null,
@@ -391,17 +1389,17 @@
       "si": {
         "query": "ජුනෙටීන්ත්",
         "hover_text": "ජුනෙටීන්ත් 2024",
-        "share_text": "ප්‍රීතිමත් ජුනෙටීන්ත්! #GoogleDoodle"
+        "share_text": "ජුනෙටීන්ත් සමරමින් #GoogleDoodle"
       },
       "sk": {
         "query": "Juneteenth",
         "hover_text": "Deň nezávislosti černochov 2024",
-        "share_text": "Šťastný Deň nezávislosti černochov. #GoogleDoodle"
+        "share_text": "Oslavujeme Deň nezávislosti černochov. #GoogleDoodle"
       },
       "sl": {
         "query": "Juneteenth",
         "hover_text": "Juneteenth 2024",
-        "share_text": "Vesel Juneteenth! #GoogleDoodle"
+        "share_text": "Slavimo praznik Juneteenth! #GoogleDoodle"
       },
       "so": {
         "query": "Juneteenth",
@@ -421,12 +1419,12 @@
       "sw": {
         "query": "Ukombozi wa Marekani",
         "hover_text": "Sikukuu ya Ukombozi wa Marekani 2024",
-        "share_text": "Heri ya Sikukuu ya Ukombozi wa Marekani! #GoogleDoodle"
+        "share_text": "Tunasherehekea Ukombozi wa Marekani! #GoogleDoodle"
       },
       "sv": {
         "query": "Frigivningen av de sista slavarna i Texas",
         "hover_text": "Juneteenth 2024",
-        "share_text": "Glad Juneteenth! #GoogleDoodle"
+        "share_text": "Vi firar Juneteenth! #GoogleDoodle"
       },
       "tg": {
         "query": null,
@@ -436,17 +1434,17 @@
       "ta": {
         "query": "ஜூனெட்டீன்",
         "hover_text": "ஜூன்டீன்த் 2024",
-        "share_text": "ஜூன்டீன்த் வாழ்த்துகள்! #GoogleDoodle"
+        "share_text": "ஜூன்டீன்த்தைக் கொண்டாடுவோம்! #GoogleDoodle"
       },
       "te": {
         "query": "జూన్‌టీన్త్",
         "hover_text": "జూన్‌టీన్త్ 2024",
-        "share_text": "జూన్‌టీన్త్ శుభాకాంక్షలు! #GoogleDoodle"
+        "share_text": "జూన్‌టీన్త్ వేడుకలు! #GoogleDoodle"
       },
       "th": {
         "query": "Juneteenth",
         "hover_text": "วันจูนทีนธ์ปี 2024",
-        "share_text": "สุขสันต์วันจูนทีนธ์ #GoogleDoodle"
+        "share_text": "เฉลิมฉลองวันจูนทีนธ์ #GoogleDoodle"
       },
       "tn": {
         "query": "Di-19 tsa Seetebosigo",
@@ -456,7 +1454,7 @@
       "tr": {
         "query": "Juneteenth",
         "hover_text": "2024 Juneteenth",
-        "share_text": "Juneteenth'i kutluyoruz. #GoogleDoodle"
+        "share_text": "Juneteenth Kutlaması #GoogleDoodle"
       },
       "tk": {
         "query": null,
@@ -466,22 +1464,22 @@
       "uk": {
         "query": "День свободи",
         "hover_text": "День свободи у 2024 році",
-        "share_text": "З Днем свободи! #GoogleDoodle"
+        "share_text": "Святкуємо День свободи! #GoogleDoodle"
       },
       "ur": {
         "query": "جون ٹینتھ",
         "hover_text": "Juneteenth 2024",
-        "share_text": "Juneteenth مبارک ہو! GoogleDoodle#"
+        "share_text": "Juneteenth کا جشن! GoogleDoodle#"
       },
       "uz": {
         "query": "Emansipatsiya kuni",
         "hover_text": "Emansipatsiya kuni 2024",
-        "share_text": "Emansipatsiya kuni bilan! #GoogleDoodle"
+        "share_text": "Emansipatsiya kuni #GoogleDoodle"
       },
       "vi": {
         "query": "Ngày lễ Juneteenth",
         "hover_text": "Ngày lễ Juneteenth năm 2024",
-        "share_text": "Chào mừng Ngày lễ Juneteenth! #GoogleDoodle"
+        "share_text": "Kỷ niệm ngày lễ Juneteenth! #GoogleDoodle"
       },
       "wo": {
         "query": null,
@@ -491,7 +1489,7 @@
       "zu": {
         "query": "I-Juneteenth",
         "hover_text": "I-Juneteenth 2024",
-        "share_text": "Sikufisela i-Juneteenth enhle! #GoogleDoodle"
+        "share_text": "Sibungaza i-Juneteenth #GoogleDoodle"
       }
     },
     "translated_blog_posts": {},
