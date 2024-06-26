@@ -1,5 +1,504 @@
 [
   {
+    "name": "slovenia-national-day-2024",
+    "title": "Slovenia National Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/slovenia-national-day-2024-6753651837110240-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/ylTFiaREWCx2FFx61A_0CDAyncrSyRrn9hvmoSwWeTEhM2fxm5V8lQM0wgMYU-Y2WdzQ8Gi9JhewY6LZ5M5zPoHn8p4OgVRAHcMyW8BvicnDApUeAalcgFk",
+    "high_res_url": "//www.google.com/logos/doodles/2024/slovenia-national-day-2024-6753651837110240-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      6,
+      25
+    ],
+    "translations": {
+      "en": {
+        "query": "Slovenia National Day",
+        "hover_text": "Slovenia National Day 2024",
+        "share_text": "Happy National Day, Slovenia! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Slowenië se nasionale dag",
+        "hover_text": "Slowenië se nasionale dag 2024",
+        "share_text": "Gelukkige nasionale dag, Slowenië! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Festa Kombëare e Sllovenisë",
+        "hover_text": "Dita Kombëtare e Sllovenisë, 2024",
+        "share_text": "Gëzuar Festën Kombëtare, Slloveni! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የስሎቬኒያ ብሔራዊ ቀን",
+        "hover_text": "የስሎቬኒያ ብሔራዊ ቀን 2024",
+        "share_text": "መልካም ብሔራዊ ቀን፣ ስሎቬኒያ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "العيد الوطني لسلوفينيا",
+        "hover_text": "العيد الوطني لسلوفينيا 2024",
+        "share_text": "عيد وطني سعيد لسلوفينيا #GoogleDoodle"
+      },
+      "hy": {
+        "query": "Սլովենիայի ազգային տոն",
+        "hover_text": "Սլովենիայի ազգային օր 2024",
+        "share_text": "Շնորհավո՛ր ազգային տոնը, Սլովենիա #GoogleDoodle"
+      },
+      "az": {
+        "query": "Sloveniyanın müstəqillik günü",
+        "hover_text": "2024 Sloveniyanın Müstəqillik Günü",
+        "share_text": "Müstəqillik günün mübarək, Sloveniya! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "স্লোভানিয়ার জাতীয় দিবস",
+        "hover_text": "স্লোভানিয়ার জাতীয় দিবস ২০২৪",
+        "share_text": "জাতীয় দিবস, স্লোভানিয়া! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Esloveniako Egun Nazionala",
+        "hover_text": "2024ko Esloveniako Egun Nazionala",
+        "share_text": "Egun Nazional zoriontsua izan, Eslovenia! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Нацыянальны дзень Славеніі",
+        "hover_text": "Нацыянальны дзень Славеніі 2024",
+        "share_text": "З Нацыянальным днём, Славенія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan državnosti Slovenije",
+        "hover_text": "Dan državnosti Slovenije 2024.",
+        "share_text": "Sretan Dan državnosti, Slovenija! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Slovenia National Day",
+        "hover_text": "Slovenia National Day 2024",
+        "share_text": "Happy National Day, Slovenia! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Национален празник на Словения",
+        "hover_text": "Национален празник на Словения 2024 г.",
+        "share_text": "Честит национален празник на Словения! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဆလိုဗေးနီးယား အမျိုးသားနေ့",
+        "hover_text": "၂၀၂၄ ဆလိုဗေးနီးယားနိုင်ငံ အမျိုးသားနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် အမျိုးသားနေ့ဖြစ်ပါစေ ဆလိုဗေးနီးယား။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia Nacional d'Eslovènia",
+        "hover_text": "Dia Nacional d'Eslovènia 2024",
+        "share_text": "Feliç Dia Nacional, Eslovènia! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "斯洛文尼亞國慶日",
+        "hover_text": "2024 年斯洛文尼亞國慶日",
+        "share_text": "斯洛文尼亞國慶日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "斯洛維尼亞國慶日",
+        "hover_text": "2024 年斯洛維尼亞國慶日",
+        "share_text": "斯洛維尼亞，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "斯洛文尼亚国庆日",
+        "hover_text": "2024 年斯洛文尼亚国庆节",
+        "share_text": "斯洛文尼亚，国庆日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan državnosti Slovenije",
+        "hover_text": "Dan državnosti Slovenije 2024.",
+        "share_text": "Sretan Dan državnosti, Slovenijo! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Státní svátek Slovinska",
+        "hover_text": "Den slovinské státnosti 2024",
+        "share_text": "Vše nejlepší ke státnímu svátku, Slovinsko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Sloveniens nationaldag",
+        "hover_text": "Sloveniens nationaldag 2024",
+        "share_text": "Glædelig nationaldag, Slovenien! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Nationale feestdag Slovenië",
+        "hover_text": "Dag van de Staatsvorming Slovenië 2024",
+        "share_text": "Fijne nationale feestdag, Slovenië #GoogleDoodle"
+      },
+      "et": {
+        "query": "Sloveenia rahvuspüha",
+        "hover_text": "Sloveenia 2024. aasta rahvuspüha",
+        "share_text": "Head rahvuspüha, Sloveenia! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Slovenian kansallispäivä",
+        "hover_text": "Slovenian kansallispäivä 2024",
+        "share_text": "Hyvää kansallispäivää, Slovenia! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête nationale de la Slovénie",
+        "hover_text": "Fête nationale de la Slovénie 2024",
+        "share_text": "Fête nationale de la Slovénie #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête nationale de la Slovénie",
+        "hover_text": "Fête nationale de la Slovénie 2024",
+        "share_text": "Joyeuse fête nationale de la Slovénie! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día Nacional de Eslovenia",
+        "hover_text": "Día Nacional de Eslovenia 2024",
+        "share_text": "Feliz Día Nacional, Eslovenia! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "სლოვენიის ეროვნული დღესასწაული",
+        "hover_text": "სლოვენიის ეროვნული დღესასწაული — 2024",
+        "share_text": "ვულოცავთ სლოვენიას ეროვნულ დღესასწაულს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Slowenischer Nationalfeiertag",
+        "hover_text": "Slowenischer Nationalfeiertag 2024",
+        "share_text": "Alles Gute zum Nationalfeiertag in Slowenien! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Εθνική επέτειος Σλοβενίας",
+        "hover_text": "Εθνική Ημέρα της Σλοβενίας 2024",
+        "share_text": "Εορτασμός για την Εθνική Επέτειο της Σλοβενίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "સ્લોવેનિયાનો રાષ્ટ્રીય દિવસ",
+        "hover_text": "સ્લોવેનિયાનો રાષ્ટ્રીય દિવસ 2024",
+        "share_text": "સ્લોવેનિયાના રાષ્ટ્રીય દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "החג הלאומי של סלובניה",
+        "hover_text": "החג הלאומי של סלובניה 2024",
+        "share_text": "חג לאומי שמח לסלובניה! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "स्लोवेनिया का राष्ट्रीय दिवस",
+        "hover_text": "स्लोवेनिया का राष्ट्रीय दिवस 2024",
+        "share_text": "स्लोवेनिया को राष्ट्रीय दिवस की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Szlovénia nemzeti ünnepe",
+        "hover_text": "Szlovénia nemzeti ünnepe, 2024",
+        "share_text": "Minden jót Szlovénia nemzeti ünnepén! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þjóðhátíðardagur Slóvena",
+        "hover_text": "Þjóðhátíðardagur Slóveníu 2024",
+        "share_text": "Gleðilegan þjóðhátíðardag, Slóvenía! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Nasional Slovenia",
+        "hover_text": "Hari Kenegaraan Slovenia 2024",
+        "share_text": "Selamat Hari Nasional, Slovenia! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Náisiúnta na Slóivéine",
+        "hover_text": null,
+        "share_text": "Lá Náisiúnta na Slóivéine faoi mhaise duit. #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa nazionale della Slovenia",
+        "hover_text": "Festa nazionale della Slovenia 2024",
+        "share_text": "Auguri per la Festa nazionale, Slovenia! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "スロベニア建国記念日",
+        "hover_text": "2024 年スロベニア建国記念日",
+        "share_text": "スロベニア建国記念日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಸ್ಲೊವೀನಿಯಾ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಸ್ಲೊವೀನಿಯಾ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಸ್ಲೊವೀನಿಯ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Словенияның Ұлттық күні",
+        "hover_text": "Словенияның Ұлттық күні – 2024",
+        "share_text": "Словения, Ұлттық күн құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យជាតិ​ស្លូវេនី",
+        "hover_text": "ទិវា​បុណ្យជាតិ​ស្លូវេនីឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​បុណ្យជាតិស្លូវេនី! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "슬로베니아 국경일",
+        "hover_text": "2024년 슬로베니아 건국기념일",
+        "share_text": "슬로베니아 국경일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Словениянын Улуттук күнү",
+        "hover_text": "Словениянын Улуттук күнү — 2024",
+        "share_text": "Улуттук күнүң менен, Словения! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຊາດສະໂລເວເນຍ",
+        "hover_text": "ວັນຊາດສະໂລເວເນຍ 2024",
+        "share_text": "ສຸກສັນວັນຊາດສະໂລເວເນຍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día Nacional de Eslovenia",
+        "hover_text": "Día Nacional de Eslovenia 2024",
+        "share_text": "¡Feliz Día Nacional de Eslovenia! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Slovēnijas nacionālie svētki",
+        "hover_text": "Slovēnijas Nacionālie svētki — 2024",
+        "share_text": "Sveicam nacionālajos svētkos, Slovēnija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Slovėnijos nacionalinė diena",
+        "hover_text": "Slovėnijos nacionalinė diena, 2024 m.",
+        "share_text": "Su Nacionaline diena, Slovėnija! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на државноста на Словенија",
+        "hover_text": "Ден на државноста на Словенија, 2024 г.",
+        "share_text": "Среќен Ден на државноста, Словенија! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetim-pirenena Slôveniana",
+        "hover_text": null,
+        "share_text": "Tsarà Fetim-pirenena ry Slôvenia ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kebangsaan Slovenia",
+        "hover_text": "Hari Kebangsaan Slovenia 2024",
+        "share_text": "Selamat Hari Kebangsaan, Slovenia! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "സ്ലോവേനിയ ദേശീയ ദിനം",
+        "hover_text": "സ്ലോവേനിയൻ ദേശീയ ദിനം 2024",
+        "share_text": "ദേശീയ ദിനാശംസകൾ, സ്ലോവേനിയ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "स्लोव्हेनियाचा राष्ट्रीय दिन",
+        "hover_text": "स्लोव्हेनियाचा राष्ट्रीय दिन २०२४",
+        "share_text": "स्लोव्हेनियाला राष्ट्रीय दिनाच्या हार्दिक शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Словени улсын Үндэсний баярын өдөр",
+        "hover_text": "2024 оны Словени Улсын Үндэсний баярын өдөр",
+        "share_text": "Словени улсын ард иргэдэд Үндэсний баярын мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "स्लोभेनियाको राष्ट्रिय दिवस",
+        "hover_text": "स्लोभेनियाको राष्ट्रिय दिवस २०२४",
+        "share_text": "राष्ट्रिय दिवसको शुभकामना, स्लोभेनिया! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Slovenias nasjonaldag",
+        "hover_text": "Slovenias nasjonaldag 2024",
+        "share_text": "Gratulerer med nasjonaldagen, Slovenia! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ସ୍ଲୋଭେନିଆ ରାଷ୍ଟ୍ରୀୟ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ରାଷ୍ଟ୍ରୀୟ ଦିବସର ଶୁଭେଚ୍ଛା, ସ୍ଲୋଭେନିଆ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز ملی اسلوونی",
+        "hover_text": "روز ملی ۲۰۲۴ اسلوونی",
+        "share_text": "روز ملی اسلوونی مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Narodowe Słowenii",
+        "hover_text": "Święto Narodowe Słowenii 2024",
+        "share_text": "Udanego Święta Narodowego Słowenii! #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia Nacional da Eslovênia",
+        "hover_text": "Dia Nacional da Eslovênia 2024",
+        "share_text": "Feliz Dia Nacional, Eslovênia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia nacional da Eslovénia",
+        "hover_text": "Dia do Estado da Eslovénia de 2024",
+        "share_text": "Feliz dia nacional, Eslovénia! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਸਲੋਵੇਨੀਆ ਰਾਸ਼ਟਰੀ ਦਿਵਸ",
+        "hover_text": "ਸਲੋਵੇਨੀਆ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ 2024",
+        "share_text": "ਸਲੋਵੇਨੀਆ ਦੇ ਰਾਸ਼ਟਰੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Națională a Sloveniei",
+        "hover_text": "Ziua Națională a Sloveniei – 2024",
+        "share_text": "La mulți ani de Ziua Națională a Sloveniei! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День государственности в Словении",
+        "hover_text": "День государственности Словении – 2024",
+        "share_text": "День государственности в Словении #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан државности Словеније",
+        "hover_text": "Дан државности Словеније 2024.",
+        "share_text": "Честитамо Дан државности Словенији! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan državnosti Slovenije",
+        "hover_text": "Dan državnosti Slovenije 2024.",
+        "share_text": "Čestitamo Dan državnosti Sloveniji! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Nasyonal Slovenya",
+        "hover_text": null,
+        "share_text": "Bonn zournen nasyonal, Slovenya! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ස්ලොවේනියාවේ ජාතික දිනය",
+        "hover_text": "ස්ලෝවේනියාවේ ජාතික දිනය 2024",
+        "share_text": "ස්ලොවේනියාවේ ශුභ ජාතික දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Štátny sviatok Slovinska",
+        "hover_text": "Národný deň Slovinska 2024",
+        "share_text": "Šťastný štátny sviatok, Slovinsko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "dan državnosti",
+        "hover_text": "Dan državnosti 2024",
+        "share_text": "Dan državnosti 2024 #GoogleDoodle"
+      },
+      "so": {
+        "query": "Slovenia Maalinta Qaranka",
+        "hover_text": null,
+        "share_text": "Maalinta Qaranka Farxada leh, Slovenia! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Setjaba la Slovenia",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Setjaba, Slovenia! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día Nacional de Eslovenia",
+        "hover_text": "Día Nacional de Eslovenia 2024",
+        "share_text": "¡Feliz Día Nacional de Eslovenia! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya taifa la Slovenia",
+        "hover_text": "Sikukuu ya Kitaifa ya Slovenia 2024",
+        "share_text": "Heri za Sikukuu ya taifa, Slovenia! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Sloveniens nationaldag",
+        "hover_text": "Sloveniens nationaldag 2024",
+        "share_text": "Vi firar Sloveniens nationaldag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஸ்லோவேனியா தேசிய தினம்",
+        "hover_text": "ஸ்லோவேனியாவின் தேசிய தினம் 2024",
+        "share_text": "ஸ்லோவேனியா தேசிய தின நல்வாழ்த்துகள் #GoogleDoodle"
+      },
+      "te": {
+        "query": "స్లొవేనియా జాతీయ దినోత్సవం",
+        "hover_text": "స్లొవేనియా జాతీయ దినోత్సవం 2024",
+        "share_text": "స్లొవేనియా జాతీయ దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันชาติสโลวีเนีย",
+        "hover_text": "วันชาติสโลวีเนียปี 2024",
+        "share_text": "สุขสันต์วันชาติสโลวีเนีย #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Setšhaba la Slovenia",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Setšhaba, Slovenia! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Slovenya Ulusal Günü",
+        "hover_text": "2024 Slovenya Ulusal Günü",
+        "share_text": "Slovenya Ulusal Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Національний день Словенії",
+        "hover_text": "Національний день Словенії у 2024 році",
+        "share_text": "З Національним днем, Словеніє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "سلووینیا کا قومی دن",
+        "hover_text": "سلووینیا کا قومی دن 2024",
+        "share_text": "سلووینیا، قومی دن مبارک ہو! ‎#GoogleDoodle"
+      },
+      "uz": {
+        "query": "Sloveniya milliy bayrami",
+        "hover_text": "Sloveniya Milliy bayrami 2024",
+        "share_text": "Sloveniya milliy bayrami muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Slovenia",
+        "hover_text": "Ngày Quốc khánh Slovenia năm 2024",
+        "share_text": "Chúc mừng ngày quốc khánh Slovenia! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lezwe e-Slovenia",
+        "hover_text": "Usuku Lukazwelonke lase-Slovenia lango-2024",
+        "share_text": "Usuku Lezwe Oluhle, e-Slovenia! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Slovenia National Day",
+    "share_text": "Happy National Day, Slovenia! #GoogleDoodle"
+  },
+  {
     "name": "fathers-day-2024-jun-23",
     "title": "Father's Day 2024 (Jun 23)",
     "url": "//www.google.com/logos/doodles/2024/fathers-day-2024-jun-23-6753651837110392-l.png",
