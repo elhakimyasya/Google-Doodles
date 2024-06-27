@@ -1,5 +1,1003 @@
 [
   {
+    "name": "djibouti-independence-day-2024",
+    "title": "Djibouti Independence Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/djibouti-independence-day-2024-6753651837110241.2-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/KikYh-OcLbQXvHw0kjyBaK5tTnaERaLH5pswcF1y6w0xQNmZn-wCLVHijOCL9a_EfmIxS0D7qmbrmOJjtZ3kAdtU3igij675Kit4D8p9fdgovf6M0pbung",
+    "high_res_url": "//www.google.com/logos/doodles/2024/djibouti-independence-day-2024-6753651837110241.2-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      6,
+      27
+    ],
+    "translations": {
+      "en": {
+        "query": "Djibouti Independence Day",
+        "hover_text": "Djibouti Independence Day 2024",
+        "share_text": "Happy Independence Day, Djibouti! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Djiboeti se onafhanklikheidsdag",
+        "hover_text": "Djiboeti se onafhanklikheidsdag 2024",
+        "share_text": "Gelukkige onafhanklikheidsdag, Djiboeti! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë së Xhibutit",
+        "hover_text": "Dita e Pavarësisë së Xhibutit, 2024",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Xhibuti! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የጅቡቲ ነጻነት ቀን",
+        "hover_text": "የጅቡቲ ነፃነት ቀን 2024",
+        "share_text": "መልካም የነጻነት ቀን ጅቡቲ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال جيبوتي",
+        "hover_text": "عيد استقلال جيبوتي 2024",
+        "share_text": "نتمنّى لجيبوتي عيد استقلال سعيدًا. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ջիբութիի անկախության օր",
+        "hover_text": "Ջիբութիի անկախության օր 2024",
+        "share_text": "Շնորհավո՛ր Ջիբութիի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Cibutinin Müstəqillik Günü",
+        "hover_text": "2024 Cibutinin Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Cibuti! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "জিবুটির স্বাধীনতা দিবস",
+        "hover_text": "জিবুতির স্বাধীনতা দিবস ২০২৪",
+        "share_text": "স্বাধীনতা দিবসের শুভেচ্ছা, জিবুটি! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Djibutiko Independentzia Eguna",
+        "hover_text": "2024ko Djibutiko Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Djibuti! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Джыбуці",
+        "hover_text": "Дзень незалежнасці Джыбуці 2024",
+        "share_text": "З Днём незалежнасці, Джыбуці! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Džibutija",
+        "hover_text": "Dan nezavisnosti Džibutija 2024.",
+        "share_text": "Sretan Dan nezavisnosti, Džibuti! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Djibouti Independence Day",
+        "hover_text": "Djibouti Independence Day 2024",
+        "share_text": "Happy Independence Day, Djibouti! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Джибути",
+        "hover_text": "Ден на независимостта на Джибути 2024 г.",
+        "share_text": "Честит Ден на независимостта на Джибути! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဂျီဘူတီ လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ ဂျီဘူတီနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ ဖြစ်ပါစေ၊ ဂျီဘူတီ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència de Djibouti",
+        "hover_text": "Dia de la Independència de Djibouti 2024",
+        "share_text": "Feliç Dia de la Independència, Djibouti! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "吉布提獨立日",
+        "hover_text": "2024 年吉布提獨立日",
+        "share_text": "吉布提，獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "吉布地獨立紀念日",
+        "hover_text": "2024 年吉布地獨立紀念日",
+        "share_text": "吉布地，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "吉布提独立日",
+        "hover_text": "2024 年吉布提独立日",
+        "share_text": "吉布提，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Džibutija",
+        "hover_text": "Dan neovisnosti Džibutija 2024.",
+        "share_text": "Sretan Dan neovisnosti, Džibuti! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Džibutska",
+        "hover_text": "Den nezávislosti Džibutska 2024",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Džibutsko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Djiboutis uafhængighedsdag",
+        "hover_text": "Djiboutis uafhængighedsdag 2024",
+        "share_text": "Vi fejrer Djiboutis uafhængighedsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Djibouti",
+        "hover_text": "Onafhankelijkheidsdag Djibouti 2024",
+        "share_text": "Fijne Onafhankelijkheidsdag, Djibouti #GoogleDoodle"
+      },
+      "et": {
+        "query": "Djibouti iseseisvuspäev",
+        "hover_text": "Djibouti 2024. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Djibouti! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Djiboutin itsenäisyyspäivä",
+        "hover_text": "Djiboutin itsenäisyyspäivä 2024",
+        "share_text": "Hyvää itsenäisyyspäivää, Djibouti! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance de Djibouti",
+        "hover_text": "Fête de l'Indépendance de Djibouti 2024",
+        "share_text": "Fête de l'Indépendance de Djibouti! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête de l'indépendance du Djibouti",
+        "hover_text": "Fête de l'Indépendance du Djibouti 2024",
+        "share_text": "Joyeuse fête de l'indépendance du Djibouti! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Djibuti",
+        "hover_text": "Día da Independencia de Djibuti 2024",
+        "share_text": "Feliz Día da Independencia, Djibuti! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ჯიბუტის დამოუკიდებლობის დღე",
+        "hover_text": "ჯიბუტის დამოუკიდებლობის დღე — 2024",
+        "share_text": "ვულოცავთ ჯიბუტის დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Dschibuti",
+        "hover_text": "Unabhängigkeitstag Dschibuti 2024",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Dschibuti! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας Τζιμπουτί",
+        "hover_text": "Ημέρα Ανεξαρτησίας του Τζιμπουτί 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας του Τζιμπουτί! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "જીબુટીનો સ્વતંત્રતા દિવસ",
+        "hover_text": "જીબુટીનો સ્વતંત્રતા દિવસ 2024",
+        "share_text": "જીબુટીના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של ג'יבוטי",
+        "hover_text": "יום העצמאות של ג'יבוטי 2024",
+        "share_text": "יום עצמאות שמח, ג'יבוטי! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "जिबूती का स्वतंत्रता दिवस",
+        "hover_text": "जिबूती का स्वतंत्रता दिवस 2024",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, जिबूती! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Dzsibuti függetlenségének napja",
+        "hover_text": "Dzsibuti függetlenségének napja, 2024",
+        "share_text": "Minden jót a függetlenség napján, Dzsibuti! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Djíbútí",
+        "hover_text": "Sjálfstæðisdagur Djíbútí 2024",
+        "share_text": "Gleðilegan sjálfstæðisdag, Djíbútí! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Djibouti",
+        "hover_text": "Hari Kemerdekaan Djibouti 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Djibouti! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse Djibouti",
+        "hover_text": null,
+        "share_text": "Lá Saoirse Djibouti faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza del Gibuti",
+        "hover_text": "Festa dell'indipendenza del Gibuti 2024",
+        "share_text": "Buona festa dell'indipendenza, Gibuti! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ジブチ独立記念日",
+        "hover_text": "2024 年ジブチ独立記念日",
+        "share_text": "ジブチ独立記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಜಿಬೂಟಿಯ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಜಿಬೂಟಿ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಜಿಬೂಟಿ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Джибутидің Тәуелсіздік күні",
+        "hover_text": "Джибутидің Тәуелсіздік күні — 2024",
+        "share_text": "Тәуелсіздік күні құтты болсын, Джибути! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យឯករាជ្យជាតិ​ជីប៊ូទី",
+        "hover_text": "ទិវា​បុណ្យឯករាជ្យជាតិ​ជីប៊ូទី​ឆ្នាំ 2024",
+        "share_text": "អបអរទិវា​បុណ្យឯករាជ្យជាតិ​ជីប៊ូទី! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "지부티 독립기념일",
+        "hover_text": "2024년 지부티 독립기념일",
+        "share_text": "지부티 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Жибутинин эгемендүүлүк күнү",
+        "hover_text": "Жибутинин Эгемендүүлүк күнү – 2024",
+        "share_text": "Эгемендүүлүк күнүң менен, Жибути! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດຈິບູຕິ",
+        "hover_text": "ວັນປະກາດເອກະລາດຈິບູຕິ 2024",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດຈິບູຕິ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Yibuti",
+        "hover_text": "Día de la Independencia de Yibuti 2024",
+        "share_text": "¡Feliz Día de la Independencia, Yibuti! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Džibutijas Neatkarības diena",
+        "hover_text": "Džibutijas Neatkarības diena — 2024",
+        "share_text": "Sveicam Neatkarības dienā, Džibutija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Džibučio nepriklausomybės diena",
+        "hover_text": "Džibučio nepriklausomybės diena, 2024 m.",
+        "share_text": "Sveikiname Džibutį su nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Џибути",
+        "hover_text": "Ден на независноста на Џибути, 2024 г.",
+        "share_text": "Среќен Ден на независноста, Џибути! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Jibotia",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny fahaleovantena ry Jibotia ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Djibouti",
+        "hover_text": "Hari Kemerdekaan Djibouti 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Djibouti! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ജിബൂട്ടി സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "ജിബൂട്ടി സ്വാതന്ത്ര്യദിനം 2024",
+        "share_text": "ദേശീയ ദിനാശംസകൾ, ജിബൂട്ടി! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "जबूटीचा स्वातंत्र्यदिन",
+        "hover_text": "जिबूतीचा स्वातंत्र्यदिन २०२४",
+        "share_text": "जमैकाला राष्ट्रीय दिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Жибути улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2024 оны Жибути Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Жибути улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "जिबुटीको स्वतन्त्रता दिवस",
+        "hover_text": "जिबुटीको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, जिबुटी! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Djiboutis frigjøringsdag",
+        "hover_text": "Djiboutis frigjøringsdag 2024",
+        "share_text": "Gratulerer med frigjøringsdagen, Djibouti! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଜିବୁତୀର ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": null,
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, ଜିବୁତୀ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال جیبوتی",
+        "hover_text": "روز استقلال ۲۰۲۴ جیبوتی",
+        "share_text": "روز استقلال جیبوتی مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Niepodległości Dżibuti",
+        "hover_text": "Dzień Niepodległości Dżibuti 2024",
+        "share_text": "Dżibuti obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência do Djibuti",
+        "hover_text": "Dia da Independência do Djibuti 2024",
+        "share_text": "Feliz Dia da Independência, Djibuti! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência do Jibuti",
+        "hover_text": "Dia da Independência do Jibuti de 2024",
+        "share_text": "Feliz dia da independência, Jibuti! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਜਾਇਬੂਟੀ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ",
+        "hover_text": "ਜਿਬੂਤੀ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2024",
+        "share_text": "ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਜਾਇਬੂਟੀ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței în Djibouti",
+        "hover_text": "Ziua Independenței în Djibouti – 2024",
+        "share_text": "La mulți ani de Ziua Independenței, Djibouti! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Джибути",
+        "hover_text": "День независимости Джибути – 2024",
+        "share_text": "День независимости Джибути #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Џибутија",
+        "hover_text": "Дан независности Џибутија 2024.",
+        "share_text": "Честитамо Дан независности Џибутију! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Džibutija",
+        "hover_text": "Dan nezavisnosti Džibutija 2024.",
+        "share_text": "Čestitamo Dan nezavisnosti Džibutiju! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepandans Djibouti",
+        "hover_text": null,
+        "share_text": "Bonn zournen lendepandans, Djibouti! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ජිබුති නිදහස් දිනය",
+        "hover_text": "ජිබුටි නිදහස් දිනය 2024",
+        "share_text": "ප්‍රීතිමත් නිදහස් දිනයක්, ජිබුති ජනරජය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Džibutska",
+        "hover_text": "Deň nezávislosti Džibutska 2024",
+        "share_text": "Šťastný Deň nezávislosti, Džibutsko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Džibutija",
+        "hover_text": "Dan neodvisnosti Džibutija 2024",
+        "share_text": "Vesel dan neodvisnosti, Džibuti! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madax banaanida Jabuuti",
+        "hover_text": null,
+        "share_text": "Maalinta Madaxbanaanida Farxada leh, Jabuuti! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Boipuso la Djibouti",
+        "hover_text": null,
+        "share_text": "Happy Independence Day, Djibouti! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Yibuti",
+        "hover_text": "Día de la Independencia de Yibuti 2024",
+        "share_text": "¡Feliz Día de la Independencia de Yibuti! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Jibuti",
+        "hover_text": "Sikukuu ya Uhuru wa Jibuti 2024",
+        "share_text": "Heri za Sikukuu ya Uhuru, Jibuti! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Djiboutis självständighetsdag",
+        "hover_text": "Djiboutis självständighetsdag 2024",
+        "share_text": "Vi firar Djiboutis självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஜிபூட்டியின் சுதந்திர தினம்",
+        "hover_text": "ஜிபூட்டி சுதந்திர தினம் 2024",
+        "share_text": "ஜிபூட்டியின் சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "జిబౌటి స్వాతంత్య్ర దినోత్సవం",
+        "hover_text": "జిబూటీ స్వాతంత్య్ర దినోత్సవం 2024",
+        "share_text": "స్వాతంత్య్ర దినోత్సవ శుభాకాంక్షలు, జిబౌటి! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของจิบูตี",
+        "hover_text": "วันประกาศอิสรภาพของจิบูตีปี 2024",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของจิบูตี #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Djibouti",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipusp, Djibouti! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Cibuti Bağımsızlık Günü",
+        "hover_text": "2024 Cibuti Bağımsızlık Günü",
+        "share_text": "Cibuti Bağımsızlık Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Джибуті",
+        "hover_text": "День незалежності Джибуті у 2024 році",
+        "share_text": "З Днем незалежності, Джибуті! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "جبوتی کا یوم آزادی",
+        "hover_text": "جبوتی کا یوم آزادی 2024",
+        "share_text": "جبوتی، یوم آزادی مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Jibuti mustaqillik kuni",
+        "hover_text": "Jibuti Mustaqillik kuni 2024",
+        "share_text": "Jibuti mustaqillik kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Quốc khánh Djibouti",
+        "hover_text": "Ngày Quốc khánh Djibouti năm 2024",
+        "share_text": "Mừng Ngày Quốc khánh Djibouti! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lokuzimela lwase-Djibouti",
+        "hover_text": "Usuku Lokuzimela lwase-Djibouti lwango-2024",
+        "share_text": "Jabulela Usuku Lokuzimela, Djibouti! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Djibouti Independence Day",
+    "share_text": "Happy Independence Day, Djibouti! #GoogleDoodle"
+  },
+  {
+    "name": "doodle-for-google-2024-us-winner",
+    "title": "Doodle for Google 2024 - US Winner",
+    "url": "//www.google.com/logos/doodles/2024/doodle-for-google-2024-us-winner-6753651837110496.3-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/8jE8xeHhbO8GgQlbEPtv8Jswaz7JH7dJAbhqx8NpCGM6G3W5EwLBdEH43A0q_xN3BgrPgiO1lnRH0TJNT8_-ErgMSviL3WBdbM3TIlkDh56JH4RPyp7U",
+    "high_res_url": "//www.google.com/logos/doodles/2024/doodle-for-google-2024-us-winner-6753651837110496-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      6,
+      26
+    ],
+    "translations": {
+      "en": {
+        "query": "Doodle for Google",
+        "hover_text": "Doodle for Google Winner 2024",
+        "share_text": "Doodle for Google 2024 Winner! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Logoskets vir Google",
+        "hover_text": "Wenner van Krabbel vir Google 2024!",
+        "share_text": "Wenner van Krabbel vir Google 2024! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Vizatimi për Google",
+        "hover_text": "Fituesi i \"Doodle për Google\" për vitin 2024",
+        "share_text": "Fituesi i \"Doodle për Google\" për vitin 2024! #GoogleDoodle"
+      },
+      "am": {
+        "query": "Doodle ለ Google",
+        "hover_text": "የDoodle ለGoogle 2024 አሸናፊ",
+        "share_text": "የDoodle ለGoogle 2024 አሸናፊ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "رسومات شعار Google المبتكرة",
+        "hover_text": "إليكم الفائز في مسابقة رسومات شعار Google لعام 2024",
+        "share_text": "إليكم الفائز في مسابقة رسومات شعار Google لعام 2024! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Doodle for Google",
+        "hover_text": "Doodle for Google-ի 2024 թվականի հաղթող",
+        "share_text": "Doodle for Google-ի 2024 թվականի հաղթող #GoogleDoodle"
+      },
+      "az": {
+        "query": "Google üçün Doodle",
+        "hover_text": "2024 Google Qalibi üçün Doodle",
+        "share_text": "2024 Google Qalibi üçün Doodle! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "Google-এর জন্য ডুডল",
+        "hover_text": "Google-এর জন্য ডুডল ২০২৪-এর বিজয়ী",
+        "share_text": "Google-এর জন্য ডুডল ২০২৪-এর বিজয়ী! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Doodle for Google",
+        "hover_text": "2024ko Doodle for Google lehiaketaren irabazlea",
+        "share_text": "2024ko Doodle for Google lehiaketaren irabazlea #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дудл для Google",
+        "hover_text": "Пераможца конкурсу \"Дудл для Google 2024\"!",
+        "share_text": "Пераможца конкурсу \"Дудл для Google 2024\"! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Crtaj za Google",
+        "hover_text": "Pobjednik takmičenja Crtaj za Google 2024.",
+        "share_text": "Pobjednik takmičenja Crtaj za Google 2024! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Doodle for Google",
+        "hover_text": "Doodle for Google Winner 2024",
+        "share_text": "Doodle for Google 2024 Winner! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Драскулка за Google",
+        "hover_text": "Победител в Драскулка за Google 2024 г.",
+        "share_text": "Победител в Драскулка за Google 2024 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Google အတွက် Doodle",
+        "hover_text": "၂၀၂၄ Doodle for Google အနိုင်ရရှိသူ",
+        "share_text": "၂၀၂၄ Doodle for Google အနိုင်ရရှိသူ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Doodle 4 Google",
+        "hover_text": "Guanyador de Doodle for Google 2024",
+        "share_text": "Guanyador de Doodle for Google 2024 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Google 塗鴉達人",
+        "hover_text": "2024 年 Doodle for Google 冠軍",
+        "share_text": "2024 年 Doodle for Google 冠軍！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "Doodle for Google",
+        "hover_text": "2024 年 Doodle for Google 優勝作品",
+        "share_text": "2024 年 Doodle for Google 優勝作品出爐！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "Doodle for Google",
+        "hover_text": "2024 年 Doodle for Google 竞赛冠军",
+        "share_text": "2024 年 Doodle for Google 竞赛冠军！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Doodle for Google",
+        "hover_text": "Pobjednik natječaja Doodle for Google 2024.",
+        "share_text": "Pobjednik natječaja Doodle for Google 2024.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Doodle for Google",
+        "hover_text": "Vítěz soutěže Doodle pro Google 2024",
+        "share_text": "Známe vítěze soutěže Doodle pro Google 2024! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Doodle for Google",
+        "hover_text": "Vinderen af Doodle for Google 2024",
+        "share_text": "Vinderen af Doodle for Google 2024 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Doodle for Google",
+        "hover_text": "Winnaar van Doodle for Google 2024",
+        "share_text": "De winnaar van Doodle for Google 2024! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Doodle for Google",
+        "hover_text": "Doodle for Google 2024. aasta võitja!",
+        "share_text": "Doodle for Google 2024. aasta võitja! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Doodle for Google",
+        "hover_text": "Doodle for Google ‑voittaja 2024",
+        "share_text": "Doodle for Google ‑voittaja 2024 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Doodle 4 Google",
+        "hover_text": "Premier prix du concours Doodle for Google 2024",
+        "share_text": "Premier prix du concours Doodle for Google 2024 ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Doodle for Google",
+        "hover_text": "Gagnant du concours Doodle for Google 2024",
+        "share_text": "Gagnant du concours Doodle for Google 2024! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Doodle for Google",
+        "hover_text": "Gañador de Doodle for Google 2024",
+        "share_text": "Gañador de Doodle for Google 2024! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "Doodle Google-ისთვის",
+        "hover_text": "Doodle გადაეცემა Google-ის 2024 წლის გამარჯვებულს",
+        "share_text": "Doodle გადაეცემა Google-ის 2024 წლის გამარჯვებულს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Doodle for Google",
+        "hover_text": "Doodle for Google 2024 – Gewinner USA",
+        "share_text": "Doodle for Google 2024 – Gewinner USA #GoogleDoodle"
+      },
+      "el": {
+        "query": "Doodle για την Google",
+        "hover_text": "Νικητήριο Doodle for Google για το 2024",
+        "share_text": "Νικητήριο Doodle for Google για το 2024! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "Google માટે ડૂડલ",
+        "hover_text": "Doodle for Google 2024ના વિજેતા",
+        "share_text": "Doodle for Google 2024ના વિજેતા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Doodle for Google",
+        "hover_text": "הזוכה בתחרות Doodle for Google לשנת 2024",
+        "share_text": "הזוכה בתחרות Doodle for Google לשנת 2024 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "Doodle for Google",
+        "hover_text": "Google के लिए डूडल 2024 के विजेता!",
+        "share_text": "Google के लिए डूडल 2024 के विजेता! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Doodle for Google",
+        "hover_text": "A Doodle for Google 2024-es nyertese",
+        "share_text": "A Doodle for Google 2024-es nyertese #GoogleDoodle"
+      },
+      "is": {
+        "query": "Dúlla fyrir Google",
+        "hover_text": "Sigurvegari Doodle for Google 2024",
+        "share_text": "Sigurvegari Doodle for Google 2024! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Doodle for Google",
+        "hover_text": "Pemenang Doodle for Google 2024",
+        "share_text": "Pemenang Doodle for Google 2024 #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Doodle for Google",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Doodle for Google",
+        "hover_text": "Vincitore di Doodle for Google 2024",
+        "share_text": "Vincitore di Doodle for Google 2024! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "Doodle 4 Google",
+        "hover_text": "2024 年の Doodle for Google 最優秀作品",
+        "share_text": "Doodle for Google 2024 最優秀作品 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "Doodle for Google",
+        "hover_text": "Doodle for Google 2024 ರ ವಿಜೇತರು",
+        "share_text": "Doodle for Google 2024 ರ ವಿಜೇತರು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Doodle for Google",
+        "hover_text": "Google үшін Doodle – 2024 жылғы жеңімпаз",
+        "share_text": "\"Google үшін Doodle – 2024\" жеңімпазы #GoogleDoodle"
+      },
+      "km": {
+        "query": "Doodle for Google",
+        "hover_text": "អ្នកឈ្នះ Doodle for Google ឆ្នាំ 2024",
+        "share_text": "អ្នកឈ្នះ Doodle for Google ឆ្នាំ 2024! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Doodle for Google",
+        "hover_text": "2024년 Doodle for Google 수상자",
+        "share_text": "2024년 Doodle for Google 수상자 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Google үчүн Doodle",
+        "hover_text": "Google үчүн Doodle — 2024 мелдешинин жеңүүчүсү!",
+        "share_text": "Google үчүн Doodle — 2024 мелдешинин жеңүүчүсү! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Doodle ສຳລັບ Google",
+        "hover_text": "ຜູ້ຊະນະ Doodle ສຳລັບ Google ປີ 2024",
+        "share_text": "ຜູ້ຊະນະ Doodle ສຳລັບ Google ປີ 2024! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Doodle for Google",
+        "hover_text": "Doodle for Google ganador del 2024",
+        "share_text": "Doodle for Google ganador del 2024 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Google svētku logotips",
+        "hover_text": "Konkursa “Doodle for Google” 2024. gada uzvarētājs",
+        "share_text": "Konkursa “Doodle for Google” 2024. gada uzvarētājs! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Doodle for Google",
+        "hover_text": "2024 m. „Doodle for Google“ laimėtojas (-a)",
+        "share_text": "2024 m. „Doodle for Google“ laimėtojas (-a)! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Црткање за Google",
+        "hover_text": "Победник на „Doodle за Google“, 2024 г.",
+        "share_text": "Победник на „Doodle за Google“, 2024 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Doodle ho an'ny Google",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Doodle for Google",
+        "hover_text": "Pemenang Doodle for Google 2024",
+        "share_text": "Pemenang Doodle for Google 2024! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Google ഡൂഡ്‌ൽ",
+        "hover_text": "Doodle for Google വിജയി 2024",
+        "share_text": "Doodle for Google 2024 വിജയി! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "Google साठी डूडल",
+        "hover_text": "Doodle for Google २०२४ चे विजेते",
+        "share_text": "Doodle for Google २०२४ चे विजेते! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Google-н Doodle",
+        "hover_text": "Doodle for Google-н 2024 оны ялагч",
+        "share_text": "Doodle for Google-н 2024 оны ялагч! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Google को Doodle",
+        "hover_text": "Doodle for Google २०२४ विजेता",
+        "share_text": "Doodle for Google २०२४ विजेता! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Doodle for Google",
+        "hover_text": "Vinner av Doodle for Google 2024",
+        "share_text": "Vinner av Doodle for Google 2024! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "Google ପାଇଁ ଡୁଡଲ୍",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "Doodle برای Google",
+        "hover_text": "برنده «گوگل‌واره برای Google» ‏۲۰۲۴",
+        "share_text": "برنده «گوگل‌واره برای Google» ‏۲۰۲۴! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Doodle for Google",
+        "hover_text": "Zwycięzca Doodle for Google 2024",
+        "share_text": "Zwycięzca Doodle for Google 2024 #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Doodle for Google",
+        "hover_text": "Vencedor do Doodle for Google 2024",
+        "share_text": "Vencedor do Doodle for Google 2024 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Doodle do Google",
+        "hover_text": "Vencedor do Doodle do Google de 2024",
+        "share_text": "Vencedor do Doodle do Google de 2024! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Google ਲਈ Doodle",
+        "hover_text": "Doodle for Google ਦੇ 2024 ਦੇ ਜੇਤੂ",
+        "share_text": "Doodle for Google ਦੇ 2024 ਦੇ ਜੇਤੂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Doodle for Google",
+        "hover_text": "Câștigătorul competiției Doodle for Google 2024",
+        "share_text": "Câștigătorul competiției Doodle for Google 2024! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Дудл для Google",
+        "hover_text": "Победитель конкурса \"Дудл для Google\" 2024 года",
+        "share_text": "Победитель конкурса \"Дудл для Google\" 2024 года #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дудл логотип за Google",
+        "hover_text": "Победник такмичења Doodle for Google 2024.",
+        "share_text": "Победник такмичења Doodle for Google 2024! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dudl logotip za Google",
+        "hover_text": "Pobednik takmičenja Doodle for Google 2024.",
+        "share_text": "Pobednik takmičenja Doodle for Google 2024! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Doodle pour Google",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "Google සඳහා ඩූඩලය",
+        "hover_text": "Google 2024 ජයග්‍රාහකයා සඳහා ඩූඩලය",
+        "share_text": "Google 2024 ජයග්‍රාහකයා සඳහා ඩූඩලය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Doodle for Google",
+        "hover_text": "Víťaz súťaže Doodle for Google 2024",
+        "share_text": "Víťaz súťaže Doodle for Google 2024. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Doodle for Google",
+        "hover_text": "Zmagovalec natečaja Doodle for Google 2024",
+        "share_text": "Zmagovalec natečaja Doodle for Google 2024! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Doodle ee Google",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": "Doodle ya Google",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Doodle 4 Google",
+        "hover_text": "Ganador del Doodle for Google 2024",
+        "share_text": "¡Ganador del Doodle for Google 2024! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Doodle ya Google",
+        "hover_text": "Mshindi wa Shindano la Doodle for Google 2024",
+        "share_text": "Mshindi wa Shindano la Doodle for Google 2024! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Doodle for Google",
+        "hover_text": "Vinnaren i Doodle for Google 2024",
+        "share_text": "Vinnaren i Doodle for Google 2024 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Googleளுக்கான Doodle",
+        "hover_text": "2024ம் ஆண்டின் Googleளுக்கான Doodle போட்டியின் வெற்றியாளர்",
+        "share_text": "2024ம் ஆண்டின் Googleளுக்கான Doodle போட்டியின் வெற்றியாளர்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "Google కోసం డూడుల్",
+        "hover_text": "Google కోసం డూడుల్ విజేత 2024",
+        "share_text": "Google కోసం డూడుల్ 2024 విజేత! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Doodle สำหรับ Google",
+        "hover_text": "ผู้ชนะ Doodle สำหรับ Google ปี 2024",
+        "share_text": "ผู้ชนะ Doodle สำหรับ Google ปี 2024 #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Doodle ya Google",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Google için Doodle",
+        "hover_text": "2024 Doodle for Google'ın Kazananı",
+        "share_text": "2024 Doodle for Google'ın Kazananı #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Doodle for Google",
+        "hover_text": "Переможець Дудл для Google у 2024 році",
+        "share_text": "Переможець Дудл для Google у 2024 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Google کے لیے doodle",
+        "hover_text": "Google کے لیے Doodle‏ 2024 کا فاتح",
+        "share_text": "Google کے لیے Doodle‏ 2024 کا فاتح! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Google uchun Doodle",
+        "hover_text": "2024-yilgi “Google uchun Doodle” tanlovi gʻolibi!",
+        "share_text": "2024-yilgi “Google uchun Doodle” tanlovi gʻolibi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Doodle cho Google",
+        "hover_text": "Người chiến thắng cuộc thi Hình tượng trưng cho Google năm 2024",
+        "share_text": "Người chiến thắng cuộc thi Hình tượng trưng cho Google năm 2024! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "I-doodle ye-Google",
+        "hover_text": "I-Doodle yowinile we-Google yango-2024",
+        "share_text": "I-Doodle yowinile we-Google yango-2024! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Doodle for Google",
+    "share_text": "Doodle for Google 2024 Winner! #GoogleDoodle"
+  },
+  {
     "name": "slovenia-national-day-2024",
     "title": "Slovenia National Day 2024",
     "url": "//www.google.com/logos/doodles/2024/slovenia-national-day-2024-6753651837110240-law.gif",
