@@ -1,5 +1,504 @@
 [
   {
+    "name": "canada-day-2024",
+    "title": "Canada Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/canada-day-2024-6753651837110244-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/gKPZ7BFkvKdLKqd0bysvdvTgKa2RDCEhhjVMRN7yR9PJ3CyedFAL6EZIQEI3kVmPJd2jETRfNnDhwHMIHxGh0NIbtGALd8HazxulfeiMMFMgttLG7dIEDAc",
+    "high_res_url": "//www.google.com/logos/doodles/2024/canada-day-2024-6753651837110244-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      7,
+      1
+    ],
+    "translations": {
+      "en": {
+        "query": "Canada Day",
+        "hover_text": "Canada Day 2024",
+        "share_text": "Happy Canada Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Kanada-dag",
+        "hover_text": "Kanadadag 2024",
+        "share_text": "Gelukkige Kanada-dag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë së Kanadasë",
+        "hover_text": "Dita e Kanadasë, 2024",
+        "share_text": "Gëzuar Ditën e Kanadasë! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የካናዳ ቀን",
+        "hover_text": "የካናዳ ቀን 2024",
+        "share_text": "መልካም የነጻነት ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد كندا الوطني",
+        "hover_text": "يوم كندا الوطني 2024",
+        "share_text": "عيد وطني سعيد لكندا ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Կանադայի օր",
+        "hover_text": "Կանադայի օր 2024",
+        "share_text": "Շնորհավո՛ր Կանադայի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Kanadanın müstəqillik günü",
+        "hover_text": "2024 Kanada Günü",
+        "share_text": "Müstəqillik günün mübarək, Kanada! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "কানাডা দিবস",
+        "hover_text": "কানাডা দিবস ২০২৪",
+        "share_text": "কানাডা দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Kanadaren Eguna",
+        "hover_text": "2024ko Kanadaren Eguna",
+        "share_text": "Kanadaren Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень Канады",
+        "hover_text": "Дзень Канады 2024",
+        "share_text": "Шчаслівага Дня Канады! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan Kanade",
+        "hover_text": "Dan Kanade 2024.",
+        "share_text": "Sretan Dan Kanade! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Canada Day",
+        "hover_text": "Canada Day 2024",
+        "share_text": "Happy Canada Day! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на Канада",
+        "hover_text": "Ден на Канада 2024 г.",
+        "share_text": "Честит Ден на Канада! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ကနေဒါနေ့",
+        "hover_text": "၂၀၂၄ ကနေဒါနိုင်ငံနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် ကနေဒါနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia del Canadà",
+        "hover_text": "Dia del Canadà 2024",
+        "share_text": "Feliç Dia del Canadà! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "加拿大國慶日",
+        "hover_text": "2024 年加拿大國慶日",
+        "share_text": "加拿大國慶日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "加拿大國慶日",
+        "hover_text": "2024 年加拿大國慶日",
+        "share_text": "加拿大國慶日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "加拿大国庆日",
+        "hover_text": "2024 年加拿大国庆节",
+        "share_text": "加拿大国庆日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan Kanade",
+        "hover_text": "Dan Kanade 2024.",
+        "share_text": "Sretan Dan Kanade! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den Kanady",
+        "hover_text": "Den Kanady 2024",
+        "share_text": "Vše nejlepší ke dni Kanady! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Canadas nationaldag",
+        "hover_text": "Canadas nationaldag 2024",
+        "share_text": "Vi fejrer Canadas nationaldag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Canada Day",
+        "hover_text": "Canada Day 2024",
+        "share_text": "Fijne Canada Day! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Kanada päev",
+        "hover_text": "Kanada päev 2024",
+        "share_text": "Head Kanada päeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Kanada-päivä",
+        "hover_text": "Kanada-päivä 2024",
+        "share_text": "Hyvää Kanada-päivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête nationale du Canada",
+        "hover_text": "Fête du Canada 2024",
+        "share_text": "Bonne fête du Canada ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête du Canada",
+        "hover_text": "Fête du Canada 2024",
+        "share_text": "Bonne fête du Canada! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día do Canadá",
+        "hover_text": "Día do Canadá 2024",
+        "share_text": "Feliz día do Canadá! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "კანადის დღე",
+        "hover_text": "კანადის დღე — 2024",
+        "share_text": "გილოცავთ კანადის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Kanadischer Nationalfeiertag",
+        "hover_text": "Kanadischer Nationalfeiertag 2024",
+        "share_text": "Alles Gute zum Nationalfeiertag in Kanada! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Καναδά",
+        "hover_text": "Ημέρα Καναδά 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα του Καναδά! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "કેનેડા દિવસ",
+        "hover_text": "કેનેડા દિવસ 2024",
+        "share_text": "કેનેડા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום קנדה",
+        "hover_text": "יום קנדה 2024",
+        "share_text": "יום קנדה שמח! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "कनाडा दिवस",
+        "hover_text": "कनाडा दिवस 2024",
+        "share_text": "कनाडा दिवस की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Kanada napja",
+        "hover_text": "Kanada napja, 2024",
+        "share_text": "Minden jót Kanada napján! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Kanadadagurinn",
+        "hover_text": "Kanadadagurinn 2024",
+        "share_text": "Gleðilegan Kanadadag! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kanada",
+        "hover_text": "Hari Kanada 2024",
+        "share_text": "Selamat Hari Kanada! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Cheanada",
+        "hover_text": null,
+        "share_text": "Lá Cheanada faoi mhaise duit. #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa nazionale del Canada",
+        "hover_text": "Festa nazionale del Canada 2024",
+        "share_text": "Buona festa nazionale del Canada! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "カナダの日",
+        "hover_text": "2024 年カナダ建国記念日",
+        "share_text": "カナダの日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಕೆನಡಾ ದಿನಾಚರಣೆ",
+        "hover_text": "ಕೆನಡಾ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಕೆನಡಾ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Канада күні",
+        "hover_text": "Канада күні – 2024",
+        "share_text": "Канада күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យជាតិកាណាដា",
+        "hover_text": "ទិវា​បុណ្យជាតិកាណាដាឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​បុណ្យជាតិកាណាដា! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "캐나다 건국기념일",
+        "hover_text": "2024년 캐나다의 날",
+        "share_text": "캐나다 건국기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Канада күнү",
+        "hover_text": "Канада күнү — 2024",
+        "share_text": "Канада күнү кут болсун! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຄານາດາ",
+        "hover_text": "ວັນຊາດຄານາດາ 2024",
+        "share_text": "ສຸກສັນວັນຄານາດາ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de Canadá",
+        "hover_text": "Día de Canadá 2024",
+        "share_text": "¡Feliz Día de Canadá! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Kanādas diena",
+        "hover_text": "Kanādas diena — 2024",
+        "share_text": "Sveicam Kanādas dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Kanados diena",
+        "hover_text": "Kanados diena, 2024 m.",
+        "share_text": "Su Kanados diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на Канада",
+        "hover_text": "Ден на Канада, 2024 г.",
+        "share_text": "Среќен Ден на Канада! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Andron'i Kanadà",
+        "hover_text": null,
+        "share_text": "Tsarà Andron'i Kanadà ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kanada",
+        "hover_text": "Hari Kanada 2024",
+        "share_text": "Selamat Hari Kanada! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "കാനഡാ ദിനം",
+        "hover_text": "കാനഡാ ദിനം 2024",
+        "share_text": "കാനഡാ ദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "कॅनडा डे",
+        "hover_text": "कॅनडा डे २०२४",
+        "share_text": "कॅनडा डेच्या हार्दिक शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Канадын өдөр",
+        "hover_text": "2024 оны Канадын өдөр",
+        "share_text": "Канадын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "क्यानाडा दिवस",
+        "hover_text": "क्यानाडा दिवस २०२४",
+        "share_text": "क्यानाडा दिवसको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Canadas nasjonaldag",
+        "hover_text": "Canadas nasjonaldag 2024",
+        "share_text": "Hurra for Canadas nasjonaldag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "କାନାଡା ଦିବସ",
+        "hover_text": null,
+        "share_text": "କାନାଡା ଦିବସର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز کانادا",
+        "hover_text": "روز کانادا - ۲۰۲۴",
+        "share_text": "روز کانادا مبارک! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Kanady",
+        "hover_text": "Dzień Kanady 2024",
+        "share_text": "Szczęśliwego Dnia Kanady! #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia do Canadá",
+        "hover_text": "Dia do Canadá 2024",
+        "share_text": "Feliz Dia do Canadá! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia do Canadá",
+        "hover_text": "Dia do Canadá de 2024",
+        "share_text": "Feliz dia do Canadá! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਕੈਨੇਡਾ ਦਿਵਸ",
+        "hover_text": "ਕੈਨੇਡਾ ਦਿਵਸ 2024",
+        "share_text": "ਕੈਨੇਡਾ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Canadei",
+        "hover_text": "Ziua Canadei 2024",
+        "share_text": "La mulți ani de Ziua Canadei! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День Канады",
+        "hover_text": "День Канады – 2024",
+        "share_text": "День Канады #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан Канаде",
+        "hover_text": "Дан Канаде 2024.",
+        "share_text": "Срећан Дан Канаде! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan Kanade",
+        "hover_text": "Dan Kanade 2024.",
+        "share_text": "Srećan Dan Kanade! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Kanada",
+        "hover_text": null,
+        "share_text": "Bonn zournen Kanada! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "කැනඩා දිනය",
+        "hover_text": "කැනඩා දිනය 2024",
+        "share_text": "ශුභ කැනඩා දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň Kanady",
+        "hover_text": "Deň Kanady 2024",
+        "share_text": "Šťastný deň Kanady! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan Kanade",
+        "hover_text": "Dan Kanade 2024",
+        "share_text": "Vesel dan Kanade. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Canada",
+        "hover_text": null,
+        "share_text": "Maalinta Farxada Canada! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Canada",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Canada! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de Canadá",
+        "hover_text": "Día de Canadá 2024",
+        "share_text": "¡Feliz Día de Canadá! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Kanada",
+        "hover_text": "Sikukuu ya Kanada 2024",
+        "share_text": "Heri ya Sikukuu ya Kanada! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Kanadas nationaldag",
+        "hover_text": "Kanadas nationaldag 2024",
+        "share_text": "Vi firar Kanadas nationaldag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "கனடா தினம்",
+        "hover_text": "கனடா தினம் 2024",
+        "share_text": "கனடா தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "కెనడా దినోత్సవం",
+        "hover_text": "కెనడా దినోత్సవం 2024",
+        "share_text": "కెనడా దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันชาติแคนาดา",
+        "hover_text": "วันชาติแคนาดาปี 2024",
+        "share_text": "สุขสันต์วันชาติแคนาดา #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Canada",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Canada! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Kanada Günü",
+        "hover_text": "2024 Kanada Günü",
+        "share_text": "Kanada Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День Канади",
+        "hover_text": "День Канади у 2024 році",
+        "share_text": "З Днем Канади! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم کینیڈا",
+        "hover_text": "یوم کینیڈا 2024",
+        "share_text": "یوم کینیڈا مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Kanada kuni",
+        "hover_text": "Kanada kuni 2024",
+        "share_text": "Kanada kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Canada",
+        "hover_text": "Ngày Quốc khánh Canada năm 2024",
+        "share_text": "Chúc mừng ngày quốc khánh Canada! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lwase-Canada",
+        "hover_text": "Usuku lwaseCanada lwango-2024",
+        "share_text": "Sikufisela usuku lwe-Canada oluhle! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Canada Day",
+    "share_text": "Happy Canada Day! #GoogleDoodle"
+  },
+  {
     "name": "france-parliamentary-elections-results-2024",
     "title": "France Parliamentary Elections Results 2024",
     "url": "//www.google.com/logos/doodles/2024/france-parliamentary-elections-results-2024-6753651837110575-l.png",
