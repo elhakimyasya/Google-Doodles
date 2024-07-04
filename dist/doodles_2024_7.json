@@ -1,5 +1,504 @@
 [
   {
+    "name": "united-kingdom-national-elections-2024",
+    "title": "United Kingdom National Elections 2024",
+    "url": "//www.google.com/logos/doodles/2024/united-kingdom-national-elections-2024-6753651837110552-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/qz9iYLsgtnhHNC7CwoQVaLQY_ksHNaSgwzs7AGRa1_KeQLx76z6eUoDuGPmXX5RN_D96PsEMevmLxdV7ViGRD3K9xBgr8krK10muYLjnz7YBECN1C8FLrQ",
+    "high_res_url": "//www.google.com/logos/doodles/2024/united-kingdom-national-elections-2024-6753651837110552-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      7,
+      4
+    ],
+    "translations": {
+      "en": {
+        "query": "United Kingdom National Elections 2024",
+        "hover_text": "United Kingdom National Elections 2024",
+        "share_text": "United Kingdom National Elections 2024! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Verenigde Koninkryk se nasionale verkiesing 2024",
+        "hover_text": "Verenigde Koninkryk se nasionale verkiesing 2024",
+        "share_text": "Verenigde Koninkryk se nasionale verkiesing 2024! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Zgjedhjet kombëtare në Mbretërinë e Bashkuar, 2024",
+        "hover_text": "Zgjedhjet kombëtare në Mbretërinë e Bashkuar, 2024",
+        "share_text": "Zgjedhjet kombëtare në Mbretërinë e Bashkuar, 2024! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የዩናይትድ ኪንግደም ብሔራዊ ምርጫዎች 2024",
+        "hover_text": "የዩናይትድ ኪንግደም ብሔራዊ ምርጫዎች 2024",
+        "share_text": "የዩናይትድ ኪንግደም ብሔራዊ ምርጫዎች 2024! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "الانتخابات الوطنية في المملكة المتحدة 2024",
+        "hover_text": "الانتخابات الوطنية في المملكة المتحدة 2024",
+        "share_text": "انطلقت الانتخابات الوطنية في المملكة المتحدة لعام 2024. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Միացյալ Թագավորության համապետական ընտրություններ 2024",
+        "hover_text": "Միացյալ Թագավորության համապետական ընտրություններ 2024",
+        "share_text": "Միացյալ Թագավորության համապետական ընտրություններ 2024 #GoogleDoodle"
+      },
+      "az": {
+        "query": "2024 Birləşmiş Krallığın Milli Seçkiləri",
+        "hover_text": "2024 Birləşmiş Krallığın Milli Seçkiləri",
+        "share_text": "2024 Birləşmiş Krallığın Milli Seçkiləri! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "যুক্তরাজ্যের জাতীয় নির্বাচন ২০২৪",
+        "hover_text": "যুক্তরাজ্যের জাতীয় নির্বাচন ২০২৪",
+        "share_text": "যুক্তরাজ্যের জাতীয় নির্বাচন ২০২৪! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "2024ko Erresuma Batuko hauteskunde orokorrak",
+        "hover_text": "2024ko Erresuma Batuko hauteskunde orokorrak",
+        "share_text": "2024ko Erresuma Batuko hauteskunde orokorrak! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Усеагульныя выбары ў Вялікабрытаніі 2024",
+        "hover_text": "Усеагульныя выбары ў Вялікабрытаніі 2024",
+        "share_text": "Усеагульныя выбары ў Вялікабрытаніі 2024! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Nacionalni izbori u Ujedinjenom Kraljevstvu 2024.",
+        "hover_text": "Nacionalni izbori u Ujedinjenom Kraljevstvu 2024.",
+        "share_text": "Nacionalni izbori u Ujedinjenom Kraljevstvu 2024! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "How to vote in the UK",
+        "hover_text": "United Kingdom National Elections 2024",
+        "share_text": "United Kingdom National Elections 2024 #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Национални избори в Обединеното кралство 2024 г.",
+        "hover_text": "Национални избори в Обединеното кралство 2024 г.",
+        "share_text": "Национални избори в Обединеното кралство 2024 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "၂၀၂၄ ယူနိုက်တက်ကင်းဒမ်းနိုင်ငံလုံးဆိုင်ရာ ရွေးကောက်ပွဲများ",
+        "hover_text": "၂၀၂၄ ယူနိုက်တက်ကင်းဒမ်းနိုင်ငံလုံးဆိုင်ရာ ရွေးကောက်ပွဲများ",
+        "share_text": "၂၀၂၄ ယူနိုက်တက်ကင်းဒမ်းနိုင်ငံလုံးဆိုင်ရာ ရွေးကောက်ပွဲများ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Eleccions nacionals al Regne Unit 2024",
+        "hover_text": "Eleccions nacionals al Regne Unit 2024",
+        "share_text": "Eleccions nacionals al Regne Unit 2024 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "2024 年英國全國大選",
+        "hover_text": "2024 年英國全國大選",
+        "share_text": "2024 年英國全國大選！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "2024 英國全國大選",
+        "hover_text": "2024 英國全國大選",
+        "share_text": "2024 英國全國大選登場！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "2024 年英国大选",
+        "hover_text": "2024 年英国大选",
+        "share_text": "2024 年英国大选！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Državni izbori u Ujedinjenom Kraljevstvu 2024.",
+        "hover_text": "Državni izbori u Ujedinjenom Kraljevstvu 2024.",
+        "share_text": "Državni izbori u Ujedinjenom Kraljevstvu 2024.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Volby ve Spojeném království 2024",
+        "hover_text": "Volby ve Spojeném království 2024",
+        "share_text": "Konají se volby ve Spojeném království 2024! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Valg i Storbritannien 2024",
+        "hover_text": "Valg i Storbritannien 2024",
+        "share_text": "Valg i Storbritannien 2024 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Nationale verkiezingen Verenigd Koninkrijk 2024",
+        "hover_text": "Nationale verkiezingen Verenigd Koninkrijk 2024",
+        "share_text": "De nationale verkiezingen in het Verenigd Koninkrijk van 2024! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Ühendkuningriigi 2024. aasta üleriigilised valimised",
+        "hover_text": "Ühendkuningriigi 2024. aasta üleriigilised valimised",
+        "share_text": "Ühendkuningriigi 2024. aasta üleriigilised valimised! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Yhdistyneen kuningaskunnan kansalliset vaalit 2024",
+        "hover_text": "Yhdistyneen kuningaskunnan kansalliset vaalit 2024",
+        "share_text": "Yhdistyneen kuningaskunnan kansalliset vaalit 2024 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Élections nationales 2024 au Royaume-Uni",
+        "hover_text": "Élections nationales 2024 au Royaume-Uni",
+        "share_text": "Élections nationales 2024 au Royaume-Uni #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Élections nationales de 2024 au Royaume-Uni",
+        "hover_text": "Élections nationales de 2024 au Royaume-Uni",
+        "share_text": "Élections nationales de 2024 au Royaume-Uni! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Eleccións nacionais do Reino Unido 2024",
+        "hover_text": "Eleccións nacionais do Reino Unido 2024",
+        "share_text": "Eleccións nacionais do Reino Unido 2024! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "გაერთიანებული სამეფოს ეროვნული არჩევნები — 2024",
+        "hover_text": "გაერთიანებული სამეფოს ეროვნული არჩევნები — 2024",
+        "share_text": "გაერთიანებული სამეფოს ეროვნული არჩევნები — 2024! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Britische Unterhauswahl 2024",
+        "hover_text": "Britische Unterhauswahl 2024",
+        "share_text": "Britische Unterhauswahl 2024 #GoogleDoodle"
+      },
+      "el": {
+        "query": "Εθνικές εκλογές στο Ηνωμένο Βασίλειο 2024",
+        "hover_text": "Εθνικές εκλογές στο Ηνωμένο Βασίλειο 2024",
+        "share_text": "Εθνικές εκλογές στο Ηνωμένο Βασίλειο 2024! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "યુનાઇટેડ કિંગડમની રાષ્ટ્રીય ચૂંટણીઓ 2024",
+        "hover_text": "યુનાઇટેડ કિંગડમની રાષ્ટ્રીય ચૂંટણીઓ 2024",
+        "share_text": "યુનાઇટેડ કિંગડમની રાષ્ટ્રીય ચૂંટણીઓ 2024! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "הבחירות הארציות בבריטניה 2024",
+        "hover_text": "הבחירות הארציות בבריטניה 2024",
+        "share_text": "הבחירות הארציות בבריטניה 2024 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "यूनाइटेड किंगडम का राष्ट्रीय चुनाव 2024",
+        "hover_text": "यूनाइटेड किंगडम का राष्ट्रीय चुनाव 2024",
+        "share_text": "यूनाइटेड किंगडम का राष्ट्रीय चुनाव 2024! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "2024-es választások az Egyesült Királyságban",
+        "hover_text": "2024-es választások az Egyesült Királyságban",
+        "share_text": "2024-es választások az Egyesült Királyságban. #GoogleDoodle"
+      },
+      "is": {
+        "query": "Kosningar í Bretlandi 2024",
+        "hover_text": "Kosningar í Bretlandi 2024",
+        "share_text": "Kosningar í Bretlandi 2024! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Pemilu Nasional Inggris Raya 2024",
+        "hover_text": "Pemilu Nasional Inggris Raya 2024",
+        "share_text": "Pemilu Nasional Inggris Raya 2024 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Elezioni nazionali 2024 nel Regno Unito",
+        "hover_text": "Elezioni nazionali 2024 nel Regno Unito",
+        "share_text": "Elezioni nazionali 2024 nel Regno Unito! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "2024 年英国総選挙",
+        "hover_text": "2024 年英国総選挙",
+        "share_text": "2024 年英国総選挙 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಯುನೈಟೆಡ್ ಕಿಂಗ್‌ಡಮ್ ರಾಷ್ಟ್ರೀಯ ಚುನಾವಣೆಗಳು 2024",
+        "hover_text": "ಯುನೈಟೆಡ್ ಕಿಂಗ್‌ಡಮ್ ರಾಷ್ಟ್ರೀಯ ಚುನಾವಣೆಗಳು 2024",
+        "share_text": "ಯುನೈಟೆಡ್ ಕಿಂಗ್‌ಡಮ್ ರಾಷ್ಟ್ರೀಯ ಚುನಾವಣೆಗಳು 2024! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Біріккен Корольдіктегі жалпыұлттық сайлау – 2024",
+        "hover_text": "Біріккен Корольдіктегі жалпыұлттық сайлау – 2024",
+        "share_text": "Біріккен Корольдіктегі жалпыұлттық сайлау – 2024 #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការបោះឆ្នោតជាតិ​ចក្រភពអង់គ្លេសឆ្នាំ 2024",
+        "hover_text": "ការបោះឆ្នោតជាតិ​ចក្រភពអង់គ្លេសឆ្នាំ 2024",
+        "share_text": "ការបោះឆ្នោតជាតិ​ចក្រភពអង់គ្លេសឆ្នាំ 2024! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "2024년 영국 총선",
+        "hover_text": "2024년 영국 총선",
+        "share_text": "2024년 영국 총선 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Улуу Британиядагы Улуттук шайлоо – 2024",
+        "hover_text": "Улуу Британиядагы Улуттук шайлоо – 2024",
+        "share_text": "Улуу Британиядагы Улуттук шайлоо – 2024! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ການເລືອກຕັ້ງແຫ່ງຊາດຂອງສະຫະລາຊະອານາຈັກປີ 2024",
+        "hover_text": "ການເລືອກຕັ້ງແຫ່ງຊາດຂອງສະຫະລາຊະອານາຈັກປີ 2024",
+        "share_text": "ການເລືອກຕັ້ງແຫ່ງຊາດຂອງສະຫະລາຊະອານາຈັກປີ 2024! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Elecciones generales del Reino Unido 2024",
+        "hover_text": "Elecciones generales del Reino Unido 2024",
+        "share_text": "Elecciones generales del Reino Unido 2024 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Valsts vēlēšanas Apvienotajā Karalistē — 2024",
+        "hover_text": "Valsts vēlēšanas Apvienotajā Karalistē — 2024",
+        "share_text": "Valsts vēlēšanas Apvienotajā Karalistē — 2024! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Jungtinės Karalystės nacionaliniai rinkimai, 2024 m.",
+        "hover_text": "Jungtinės Karalystės nacionaliniai rinkimai, 2024 m.",
+        "share_text": "Jungtinės Karalystės nacionaliniai rinkimai, 2024 m.! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Национални избори во Обединетото Кралство, 2024 г.",
+        "hover_text": "Национални избори во Обединетото Кралство, 2024 г.",
+        "share_text": "Национални избори во Обединетото Кралство, 2024 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Pilihan Raya Kebangsaan United Kingdom 2024",
+        "hover_text": "Pilihan Raya Kebangsaan United Kingdom 2024",
+        "share_text": "Pilihan Raya Kebangsaan United Kingdom 2024! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "യുണൈറ്റഡ് കിംഗ്‌ഡം ദേശീയ തിരഞ്ഞെടുപ്പ് 2024",
+        "hover_text": "യുണൈറ്റഡ് കിംഗ്‌ഡം ദേശീയ തിരഞ്ഞെടുപ്പ് 2024",
+        "share_text": "യുണൈറ്റഡ് കിംഗ്‌ഡം ദേശീയ തിരഞ്ഞെടുപ്പ് 2024! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "युनायटेड किंगडममधील राष्ट्रीय निवडणुका २०२४",
+        "hover_text": "युनायटेड किंगडममधील राष्ट्रीय निवडणुका २०२४",
+        "share_text": "युनायटेड किंगडममधील राष्ट्रीय निवडणुका २०२४! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "2024 оны Их Британи, Умард Ирландын Нэгдсэн Хаант Улсын үндэсний сонгууль",
+        "hover_text": "2024 оны Их Британи, Умард Ирландын Нэгдсэн Хаант Улсын үндэсний сонгууль",
+        "share_text": "2024 оны Их Британи, Умард Ирландын Нэгдсэн Хаант Улсын үндэсний сонгууль! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "संयुक्त अधिराज्यको राष्ट्रिय निर्वाचन २०२४",
+        "hover_text": "संयुक्त अधिराज्यको राष्ट्रिय निर्वाचन २०२४",
+        "share_text": "संयुक्त अधिराज्यको राष्ट्रिय निर्वाचन २०२४! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Valget i Storbritannia 2024",
+        "hover_text": "Valget i Storbritannia 2024",
+        "share_text": "Valget i Storbritannia 2024! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "انتخابات ملی ۲۰۲۴ بریتانیا",
+        "hover_text": "انتخابات ملی ۲۰۲۴ بریتانیا",
+        "share_text": "انتخابات ملی ۲۰۲۴ بریتانیا! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Wybory parlamentarne 2024 w Wielkiej Brytanii",
+        "hover_text": "Wybory parlamentarne 2024 w Wielkiej Brytanii",
+        "share_text": "Wybory parlamentarne 2024 w Wielkiej Brytanii #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Eleições Nacionais do Reino Unido 2024",
+        "hover_text": "Eleições Nacionais do Reino Unido 2024",
+        "share_text": "Eleições Nacionais do Reino Unido 2024 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Eleições Nacionais do Reino Unido de 2024",
+        "hover_text": "Eleições Nacionais do Reino Unido de 2024",
+        "share_text": "Eleições Nacionais do Reino Unido de 2024! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "United Kingdom National Elections 2024",
+        "hover_text": "United Kingdom National Elections 2024",
+        "share_text": "ਯੂਨਾਈਟਡ ਕਿੰਗਡਮ ਦੀਆਂ ਰਾਸ਼ਟਰੀ ਚੋਣਾਂ 2024! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Alegeri naționale în Regatul Unit – 2024",
+        "hover_text": "Alegeri naționale în Regatul Unit – 2024",
+        "share_text": "Alegeri naționale în Regatul Unit – 2024! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Парламентские выборы в Великобритании – 2024",
+        "hover_text": "Парламентские выборы в Великобритании – 2024",
+        "share_text": "Парламентские выборы в Великобритании – 2024 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Национални избори у Уједињеном Краљевству 2024.",
+        "hover_text": "Национални избори у Уједињеном Краљевству 2024.",
+        "share_text": "Национални избори у Уједињеном Краљевству 2024! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Nacionalni izbori u Ujedinjenom Kraljevstvu 2024.",
+        "hover_text": "Nacionalni izbori u Ujedinjenom Kraljevstvu 2024.",
+        "share_text": "Nacionalni izbori u Ujedinjenom Kraljevstvu 2024! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "එක්සත් රාජධානියේ ජාතික මැතිවරණය 2024",
+        "hover_text": "එක්සත් රාජධානියේ ජාතික මැතිවරණය 2024",
+        "share_text": "එක්සත් රාජධානියේ ජාතික මැතිවරණය 2024! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Celoštátne voľby v Spojenom kráľovstve 2024",
+        "hover_text": "Celoštátne voľby v Spojenom kráľovstve 2024",
+        "share_text": "Celoštátne voľby v Spojenom kráľovstve 2024. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Državne volitve v Združenem kraljestvu 2024",
+        "hover_text": "Državne volitve v Združenem kraljestvu 2024",
+        "share_text": "Državne volitve v Združenem kraljestvu 2024! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Elecciones generales del Reino Unido 2024",
+        "hover_text": "Elecciones generales del Reino Unido 2024",
+        "share_text": "Elecciones generales del Reino Unido 2024 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Uchaguzi wa Kitaifa wa Uingereza 2024",
+        "hover_text": "Uchaguzi wa Kitaifa wa Uingereza 2024",
+        "share_text": "Uchaguzi wa Kitaifa wa Uingereza 2024! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Val i Förenade kungariket 2024",
+        "hover_text": "Val i Förenade kungariket 2024",
+        "share_text": "Val i Förenade kungariket 2024 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "யுனைடெட் கிங்டம் தேசியத் தேர்தல்கள் 2024",
+        "hover_text": "யுனைடெட் கிங்டம் தேசியத் தேர்தல்கள் 2024",
+        "share_text": "யுனைடெட் கிங்டம் தேசியத் தேர்தல்கள் 2024! #GoogleDoodle"
+      },
+      "te": {
+        "query": "యునైటెడ్ కింగ్‌డమ్ జాతీయ ఎన్నికలు 2024",
+        "hover_text": "యునైటెడ్ కింగ్‌డమ్ జాతీయ ఎన్నికలు 2024",
+        "share_text": "యునైటెడ్ కింగ్‌డమ్ జాతీయ ఎన్నికలు 2024! #GoogleDoodle"
+      },
+      "th": {
+        "query": "การเลือกตั้งระดับชาติของสหราชอาณาจักรปี 2024",
+        "hover_text": "การเลือกตั้งระดับชาติของสหราชอาณาจักรปี 2024",
+        "share_text": "การเลือกตั้งระดับชาติของสหราชอาณาจักรปี 2024 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "2024 Birleşik Krallık Ulusal Seçimleri",
+        "hover_text": "2024 Birleşik Krallık Ulusal Seçimleri",
+        "share_text": "2024 Birleşik Krallık Ulusal Seçimleri #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Національні вибори у Великій Британії у 2024 році",
+        "hover_text": "Національні вибори у Великій Британії у 2024 році",
+        "share_text": "Національні вибори у Великій Британії у 2024 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "سلطنت متحدہ کے قومی انتخابات 2024",
+        "hover_text": "سلطنت متحدہ کے قومی انتخابات 2024",
+        "share_text": "سلطنت متحدہ کے قومی انتخابات 2024! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Birlashgan Qirollik Umumxalq saylovi 2024",
+        "hover_text": "Birlashgan Qirollik Umumxalq saylovi 2024",
+        "share_text": "Birlashgan Qirollik Umumxalq saylovi 2024! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Bầu cử quốc gia ở Vương quốc Anh năm 2024",
+        "hover_text": "Bầu cử quốc gia ở Vương quốc Anh năm 2024",
+        "share_text": "Bầu cử quốc gia ở Vương quốc Anh năm 2024! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ukhetho Lukazwelonke Lwase-United Kingdom Luka-2024",
+        "hover_text": "Ukhetho Lukazwelonke Lwase-United Kingdom Luka-2024",
+        "share_text": "Ukhetho Lukazwelonke Lwase-United Kingdom Luka-2024! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "United Kingdom National Elections 2024",
+    "share_text": "United Kingdom National Elections 2024! #GoogleDoodle"
+  },
+  {
     "name": "canada-day-2024",
     "title": "Canada Day 2024",
     "url": "//www.google.com/logos/doodles/2024/canada-day-2024-6753651837110244-l.png",
