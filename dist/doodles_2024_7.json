@@ -1,5 +1,1502 @@
 [
   {
+    "name": "algeria-independence-day-2024",
+    "title": "Algeria Independence Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/algeria-independence-day-2024-6753651837110247-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/-tiURmSLx4m4Tvwu0guenIi0jO33BeHpkFp9aANKxtuzF7hJC9_4GotgbQfvBpO8v7s1EimsOR0NsLRkvdBbtSvZPy1lz-4yi_aASO8oHSXyj8zk4sO8",
+    "high_res_url": "//www.google.com/logos/doodles/2024/algeria-independence-day-2024-6753651837110247-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      7,
+      5
+    ],
+    "translations": {
+      "en": {
+        "query": "Algeria Independence Day",
+        "hover_text": "Algeria Independence Day 2024",
+        "share_text": "Happy Independence Day, Algeria! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Algerië se onafhanklikheidsdag",
+        "hover_text": "Algerië se Onafhanklikheidsdag 2024",
+        "share_text": "Gelukkige onafhanklikheidsdag, Algerië! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë e Algjerisë",
+        "hover_text": "Dita e Pavarësisë së Algjerisë, 2024",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Algjeri! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአልጄሪያ የነጻነት ቀን",
+        "hover_text": "የአልጄሪያ የነፃነት ቀን 2024",
+        "share_text": "መልካም የነጻነት ቀን፣ አልጄሪያ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال الجزائر",
+        "hover_text": "عيد استقلال الجزائر 2024",
+        "share_text": "عيد استقلال سعيد للجزائر ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ալժիրի անկախության օր",
+        "hover_text": "Ալժիրի անկախության օր 2024",
+        "share_text": "Շնորհավո՛ր Ալժիրի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Əlcəzairin müstəqillik günü",
+        "hover_text": "2024 Əlcəzairin Müstəqillik Günü",
+        "share_text": "Müstəqillik günün mübarək, Əlcəzair! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "আলজেরিয়ার স্বাধীনতা দিবস",
+        "hover_text": "আলজেরিয়ার স্বাধীনতা দিবস ২০২৪",
+        "share_text": "আলজেরিয়ার স্বাধীনতা দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Aljeriako Independentzia Eguna",
+        "hover_text": "2024ko Aljeriako Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Aljeria! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Алжыра",
+        "hover_text": "Дзень незалежнасці Алжыра 2024",
+        "share_text": "З Днём незалежнасці, Алжыр! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Alžira",
+        "hover_text": "Dan nezavisnosti Alžira 2024.",
+        "share_text": "Sretan Dan nezavisnosti, Alžir! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Algeria Independence Day",
+        "hover_text": "Algeria Independence Day 2024",
+        "share_text": "Happy Independence Day, Algeria! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Алжир",
+        "hover_text": "Ден на независимостта на Алжир 2024 г.",
+        "share_text": "Честит Ден на независимостта на Алжир! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အယ်လ်ဂျီးရီးယား လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ အယ်လ်ဂျီးရီးယားနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ ဖြစ်ပါစေ၊ အယ်လ်ဂျီးရီးယား။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència d'Algèria",
+        "hover_text": "Dia de la Independència d'Algèria 2024",
+        "share_text": "Feliç Dia de la Independència, Algèria! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "阿爾及利亞獨立日",
+        "hover_text": "2024 年阿爾及利亞獨立日",
+        "share_text": "阿爾及利亞獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "阿爾及利亞獨立紀念日",
+        "hover_text": "2024 年阿爾及利亞獨立紀念日",
+        "share_text": "阿爾及利亞，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "阿尔及利亚独立日",
+        "hover_text": "2024 年阿尔及利亚独立日",
+        "share_text": "阿尔及利亚，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Alžira",
+        "hover_text": "Dan neovisnosti Alžira 2024.",
+        "share_text": "Sretan Dan neovisnosti, Alžire! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Alžírska",
+        "hover_text": "Den nezávislosti Alžírska 2024",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Alžírsko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Algeriets uafhængighedsdag",
+        "hover_text": "Algeriets uafhængighedsdag 2024",
+        "share_text": "Glædelig uafhængighedsdag til Algeriet! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Algerije",
+        "hover_text": "Onafhankelijkheidsdag Algerije 2024",
+        "share_text": "Fijne Onafhankelijkheidsdag, Algerije! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Alžeeria iseseisvuspäev",
+        "hover_text": "Alžeeria 2024. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Alžeeria! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Algerian itsenäisyyspäivä",
+        "hover_text": "Algerian itsenäisyyspäivä 2024",
+        "share_text": "Hyvää itsenäisyyspäivää, Algeria! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance de l'Algérie",
+        "hover_text": "Fête de l'Indépendance de l'Algérie 2024",
+        "share_text": "Fête de l'Indépendance de l'Algérie #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance de l'Algérie",
+        "hover_text": "Fête de l'Indépendance de l'Algérie 2024",
+        "share_text": "Joyeux jour de l'indépendance de l'Algérie! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Alxeria",
+        "hover_text": "Día da Independencia de Alxeria 2024",
+        "share_text": "Feliz Día da Independencia, Alxeria! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ალჟირის დამოუკიდებლობის დღე",
+        "hover_text": "ალჟირის დამოუკიდებლობის დღე — 2024",
+        "share_text": "ვულოცავთ ალჟირს დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Algerischer Unabhängigkeitstag",
+        "hover_text": "Algerischer Unabhängigkeitstag 2024",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Algerien! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας της Αλγερίας",
+        "hover_text": "Ημέρα Ανεξαρτησίας της Αλγερίας 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας της Αλγερίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "અલ્જેરિયાનો સ્વતંત્રતા દિવસ",
+        "hover_text": "અલ્જીરિયાનો સ્વતંત્રતા દિવસ 2024",
+        "share_text": "અલ્જેરિયાના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של אלג'יריה",
+        "hover_text": "יום העצמאות של אלג'יריה 2024",
+        "share_text": "יום עצמאות שמח, אלג'יריה! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "अल्जीरिया का स्वतंत्रता दिवस",
+        "hover_text": "अल्जीरिया का स्वतंत्रता दिवस 2024",
+        "share_text": "स्वतंत्रता दिवस मुबारक हो, अल्जीरिया! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Algéria függetlenségének napja",
+        "hover_text": "Algéria függetlenségének napja, 2024",
+        "share_text": "Minden jót a függetlenség napján, Algéria! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Alsír",
+        "hover_text": "Þjóðhátíðardagur Alsír 2024",
+        "share_text": "Gleðilegan sjálfstæðisdag, Alsír! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Aljazair",
+        "hover_text": "Hari Kemerdekaan Aljazair 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Aljazair! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse na hAilgéire",
+        "hover_text": null,
+        "share_text": "Lá Saoirse na hAilgéire faoi mhaise duit. #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza dell'Algeria",
+        "hover_text": "Festa dell'indipendenza dell'Algeria 2024",
+        "share_text": "Buona festa dell'indipendenza, Algeria! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "アルジェリア独立記念日",
+        "hover_text": "2024 年アルジェリア独立記念日",
+        "share_text": "アルジェリア独立記念日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಅಲ್ಜೀರಿಯಾದ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಅಲ್ಜೀರಿಯಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಷಯಗಳು, ಅಲ್ಜೀರಿಯಾ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Алжирдің Тәуелсіздік күні",
+        "hover_text": "Алжирдің Тәуелсіздік күні – 2024",
+        "share_text": "Тәуелсіздік күні құтты болсын, Алжир! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យឯករាជ្យជាតិ​អាល់ហ្សេរី",
+        "hover_text": "ទិវា​បុណ្យឯករាជ្យជាតិ​អាល់ហ្សេរី​ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​បុណ្យឯករាជ្យជាតិ​អាល់ហ្សេរី! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "알제리 독립기념일",
+        "hover_text": "2024년 알제리 독립기념일",
+        "share_text": "알제리 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Алжирдин Эгемендүүлүк күнү",
+        "hover_text": "Алжирдин Эгемендүүлүк күнү — 2024",
+        "share_text": "Эгемендүүлүк күнүң менен, Алжир! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດອັລຈີເຣຍ",
+        "hover_text": "ວັນປະກາດເອກະລາດອັລຈີເຣຍ 2024",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດ, ອັລຈີເຣຍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Argelia",
+        "hover_text": "Día de la Independencia de Argelia 2024",
+        "share_text": "¡Feliz Día de la Independencia de Argelia! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Alžīrijas neatkarības diena",
+        "hover_text": "Alžīrijas Neatkarības diena — 2024",
+        "share_text": "Sveicam Neatkarības dienā, Alžīrija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Alžyro nepriklausomybės diena",
+        "hover_text": "Alžyro nepriklausomybės diena, 2024 m.",
+        "share_text": "Sveikiname Alžyrą su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Алжир",
+        "hover_text": "Ден на независноста на Алжир, 2024 г.",
+        "share_text": "Среќен Ден на независноста на Алжир! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Alzeria",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny fahaleovantena ry Alzeria ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Algeria",
+        "hover_text": "Hari Kemerdekaan Algeria 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Algeria! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "അള്‍ജീരിയയുടെ സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "അൾജീരിയൻ സ്വാതന്ത്ര്യദിനം 2024",
+        "share_text": "സ്വാതന്ത്ര്യദിനാശംസകൾ, അള്‍ജീരിയ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "अल्जेरियाचा स्वातंत्र्य दिन",
+        "hover_text": "अल्जीरियाचा स्वातंत्र्यदिन २०२४",
+        "share_text": "अल्जेरियाला स्वातंत्र्य दिनाच्या हार्दिक शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Алжир улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2024 оны Алжирын Тусгаар тогтнолын өдөр",
+        "share_text": "Алжир улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "अल्जेरियाको स्वतन्त्रता दिवस",
+        "hover_text": "अल्जेरियाको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, अल्जेरिया! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Algeries frigjøringsdag",
+        "hover_text": "Algeries uavhengighetsdag 2024",
+        "share_text": "Gratulerer med frigjøringsdagen, Algerie! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଆଲଜେରିଆର ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": null,
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, ଆଲଜେରିଆ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال الجزایر",
+        "hover_text": "روز استقلال ۲۰۲۴ الجزایر",
+        "share_text": "روز استقلال الجزایر مبارک! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Niepodległości Algierii",
+        "hover_text": "Dzień Niepodległości Algierii 2024",
+        "share_text": "Algieria obchodzi Święto Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência da Argélia",
+        "hover_text": "Dia da Independência da Argélia 2024",
+        "share_text": "Feliz Dia da Independência, Argélia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência da Argélia",
+        "hover_text": "Dia da Independência da Argélia de 2024",
+        "share_text": "Feliz dia da independência, Argélia! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਅਲਜੀਰੀਆ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ",
+        "hover_text": "ਅਲਜੀਰੀਆ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2024",
+        "share_text": "ਅਲਜੀਰੀਆ ਦੇ ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței Algeriei",
+        "hover_text": "Ziua Independenței Algeriei 2024",
+        "share_text": "La mulți ani de Ziua Independenței, Algeria! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Алжира",
+        "hover_text": "День независимости Алжира – 2024",
+        "share_text": "День независимости Алжира #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Алжира",
+        "hover_text": "Дан независности Алжира 2024.",
+        "share_text": "Честитамо Дан независности Алжиру! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Alžira",
+        "hover_text": "Dan nezavisnosti Alžira 2024.",
+        "share_text": "Čestitamo Dan nezavisnosti Alžiru! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepandans Algeria",
+        "hover_text": null,
+        "share_text": "Bonn zourmen lendepandans, Algeria! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "අල්ජීරියාවේ නිදහස් දිනය",
+        "hover_text": "ඇල්ජීරියාවේ නිදහස් දිනය 2024",
+        "share_text": "ශුභ නිදහස් දිනයක්, අල්ජීරියාව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Alžírska",
+        "hover_text": "Deň nezávislosti Alžírska 2024",
+        "share_text": "Šťastný deň nezávislosti, Alžírsko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Alžirije",
+        "hover_text": "Dan neodvisnosti Alžirije 2024",
+        "share_text": "Vesel dan neodvisnosti, Alžirija. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madax banaanida Aljeeriya",
+        "hover_text": null,
+        "share_text": "Maalinta Madax banaanida Aljeeriya! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la Algeria",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Tokoloho, Algeria! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Argelia",
+        "hover_text": "Día de la Independencia de Argelia 2024",
+        "share_text": "¡Feliz Día de la Independencia de Argelia! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Aljeria",
+        "hover_text": "Sikukuu ya Uhuru wa Aljeria 2024",
+        "share_text": "Heri ya Sikukuu ya Uhuru, Aljeria! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Algeriets självständighetsdag",
+        "hover_text": "Algeriets självständighetsdag 2024",
+        "share_text": "Vi firar Algeriets självständighetsdag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "அல்ஜீரியாவின் சுதந்திர தினம்",
+        "hover_text": "அல்ஜீரியாவின் சுதந்திர தினம் 2024",
+        "share_text": "அல்ஜீரிய சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "అల్జీరియా స్వాతంత్య్ర దినోత్సవం",
+        "hover_text": "అల్జీరియా స్వాతంత్య్ర దినోత్సవం 2024",
+        "share_text": "స్వాతంత్ర దినోత్సవ శుభాకాంక్షలు, అల్జీరియా! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของแอลจีเรีย",
+        "hover_text": "วันประกาศอิสรภาพของแอลจีเรียปี 2024",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของแอลจีเรีย #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Algeria",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, Algeria! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Cezayir Bağımsızlık Günü",
+        "hover_text": "2024 Cezayir Bağımsızlık Günü",
+        "share_text": "Cezayir'in Bağımsızlık Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Алжиру",
+        "hover_text": "День незалежності Алжиру у 2024 році",
+        "share_text": "З Днем незалежності, Алжире! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "الجزائر کا یوم آزادی",
+        "hover_text": "الجیریا کا یوم آزادی 2024",
+        "share_text": "الجزائر کا یوم آزادی مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Jazoir mustaqillik kuni",
+        "hover_text": "Jazoir Mustaqillik kuni 2024",
+        "share_text": "Mustaqillik kuni muborak, Jazoir! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Algeria",
+        "hover_text": "Ngày Quốc khánh Algeria năm 2024",
+        "share_text": "Chúc mừng ngày quốc khánh Algeria! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lokuzimela lwase-Algeria",
+        "hover_text": "Usuku Lokuzimela lwase-Algeria lwango-2024",
+        "share_text": "Sinifisela usuku lokuzimela oluhle, Algeria! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Algeria Independence Day",
+    "share_text": "Happy Independence Day, Algeria! #GoogleDoodle"
+  },
+  {
+    "name": "celebrating-jacqueline-harpman",
+    "title": "Celebrating Jacqueline Harpman",
+    "url": "//www.google.com/logos/doodles/2024/celebrating-jacqueline-harpman-6753651837110560.4-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/YJtLLBivw8pVi4xEa4b3L-c6X_lbptFSW_dkSJAhsQJsQ5JN4vTzgJDcRGM-ruRAkcSamLoho5Nf0FV7BKXVAOMmR8Giv2r_Wa6bxzrPIdIEASm15UZE",
+    "high_res_url": "//www.google.com/logos/doodles/2024/celebrating-jacqueline-harpman-6753651837110560.2-2xa.gif",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2024,
+      7,
+      5
+    ],
+    "translations": {
+      "en": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Celebrating Jacqueline Harpman",
+        "share_text": "Celebrating Jacqueline Harpman! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Ter viering van Jacqueline Harpman",
+        "share_text": "Ter viering van Jacqueline Harpman! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Përkujtojmë Jacqueline Harpman",
+        "share_text": "Përkujtojmë Jacqueline Harpman! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ጃኩሊን ሃርፕማን",
+        "hover_text": "ጃኩሊን ሃርፕማንን በማክበር ላይ",
+        "share_text": "ጃኩሊን ሃርፕማንን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "\"جاكلين هاربمان\"",
+        "hover_text": "نحتفل بذكرى \"جاكلين هاربمان\"",
+        "share_text": "نحتفل اليوم بذكرى \"جاكلين هاربمان\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ժակլին Հարփման",
+        "hover_text": "Տոնենք Ժակլին Հարփմանի օրը",
+        "share_text": "Տոնենք Ժակլին Հարփմանի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Jacqueline Harpman günü",
+        "share_text": "Jacqueline Harpman günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "জ্যাকলিন হার্পম্যান",
+        "hover_text": "জ্যাকলিন হার্পম্যানের অবদান স্মরণ করা হচ্ছে",
+        "share_text": "জ্যাকলিন হার্পম্যানের অবদান স্মরণ করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Jacqueline Harpmanen omenez",
+        "share_text": "Jacqueline Harpmanen omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Жаклін Арпман",
+        "hover_text": "Ушаноўваем Жаклін Арпман",
+        "share_text": "Ушаноўваем Жаклін Арпман! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Slavimo Jacqueline Harpman",
+        "share_text": "Slavimo Jacqueline Harpman! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Celebrating Jacqueline Harpman",
+        "share_text": "Celebrating Jacqueline Harpman #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Жаклин Харпман",
+        "hover_text": "Честване на Жаклин Харпман",
+        "share_text": "Честване на Жаклин Харпман! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Jacqueline Harpman ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "Jacqueline Harpman ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Homenatge a Jacqueline Harpman",
+        "share_text": "Homenatge a Jacqueline Harpman #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "紀念 Jacqueline Harpman",
+        "share_text": "紀念 Jacqueline Harpman！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "賈桂琳阿普曼",
+        "hover_text": "紀念賈桂琳阿普曼",
+        "share_text": "紀念賈桂琳阿普曼！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "雅克琳娜·哈普曼",
+        "hover_text": "纪念雅克琳娜·哈普曼",
+        "share_text": "纪念雅克琳娜·哈普曼！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "U čast Jacqueline Harpman",
+        "share_text": "U čast Jacqueline Harpman! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Oslavujeme Jacqueline Harpman",
+        "share_text": "Oslavujeme Jacqueline Harpman! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Vi hylder Jacqueline Harpman",
+        "share_text": "Vi hylder Jacqueline Harpman #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Doodle ter ere van Jacqueline Harpman",
+        "share_text": "Doodle ter ere van Jacqueline Harpman #GoogleDoodle"
+      },
+      "et": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Mälestame Jacqueline Harpmanit",
+        "share_text": "Mälestame Jacqueline Harpmanit! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Jacqueline Harpman",
+        "share_text": "Jacqueline Harpman #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Hommage à Jacqueline Harpman",
+        "share_text": "Hommage à Jacqueline Harpman #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Célébration de Jacqueline Harpman",
+        "share_text": "Célébration de Jacqueline Harpman! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Homenaxe a Jacqueline Harpman",
+        "share_text": "Homenaxe a Jacqueline Harpman! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ჟაკლინ ჰარპმანი",
+        "hover_text": "აღვნიშნავთ ჟაკლინ ჰარპმანის დღეს",
+        "share_text": "აღვნიშნავთ ჟაკლინ ჰარპმანის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Zu Ehren von Jacqueline Harpman",
+        "share_text": "Zu Ehren von Jacqueline Harpman #GoogleDoodle"
+      },
+      "el": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Τιμούμε τη Jacqueline Harpman",
+        "share_text": "Τιμούμε τη Jacqueline Harpman! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "જૅક્લીન હાર્પમેન",
+        "hover_text": "જૅક્લીન હાર્પમેનની યાદમાં",
+        "share_text": "જૅક્લીન હાર્પમેનની યાદમાં! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "מחווה לז'קלין הרפמן",
+        "share_text": "מחווה לז'קלין הרפמן GoogleDoodle#"
+      },
+      "hi": {
+        "query": "जैकलीन हार्पमन",
+        "hover_text": "जैकलीन हार्पमन की याद में",
+        "share_text": "जैकलीन हार्पमन की याद में! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Jacqueline Harpman ünneplése",
+        "share_text": "Jacqueline Harpman ünneplése #GoogleDoodle"
+      },
+      "is": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Við heiðrum Jacqueline Harpman",
+        "share_text": "Við heiðrum Jacqueline Harpman! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Mengenang Jacqueline Harpman",
+        "share_text": "Mengenang Jacqueline Harpman #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "In onore di Jacqueline Harpman",
+        "share_text": "In onore di Jacqueline Harpman! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ジャクリーン・ハープマン",
+        "hover_text": "ジャクリーン・ハープマンを称えて",
+        "share_text": "ジャクリーン・ハープマンを称えて #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಜಾಕ್ವೆಲಿನ್ ಹಾರ್ಪ್‌ಮನ್",
+        "hover_text": "ಜಾಕ್ವೆಲಿನ್ ಹಾರ್ಪ್‌ಮನ್ ಅವರನ್ನು ಸ್ಮರಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಜಾಕ್ವೆಲಿನ್ ಹಾರ್ಪ್‌ಮನ್ ಅವರನ್ನು ಸ್ಮರಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Жаклин Aрпман",
+        "hover_text": "Жаклин Aрпманды еске алу",
+        "share_text": "Жаклин Aрпманды еске алу #GoogleDoodle"
+      },
+      "km": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "អបអរទិវារំលឹក Jacqueline Harpman",
+        "share_text": "អបអរទិវារំលឹក Jacqueline Harpman! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Jacqueline Harpman을 기억하며",
+        "share_text": "Jacqueline Harpman을 기억하며 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Жаклин Харпман",
+        "hover_text": "Жаклин Харпман күнүн майрамдоо",
+        "share_text": "Жаклин Харпман күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "ວັນລະນຶກເຖິງ Jacqueline Harpman",
+        "share_text": "ວັນລະນຶກເຖິງ Jacqueline Harpman! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Celebrando a Jacqueline Harpman",
+        "share_text": "¡Celebrando a Jacqueline Harpman! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Žaklīna Harpmane",
+        "hover_text": "Žaklīnas Harpmanes godināšana",
+        "share_text": "Žaklīnas Harpmanes godināšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Jacqueline Harpman minėjimas",
+        "share_text": "Jacqueline Harpman minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Во чест на Jacqueline Harpman",
+        "share_text": "Во чест на Jacqueline Harpman! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Meraikan Jacqueline Harpman",
+        "share_text": "Meraikan Jacqueline Harpman! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Jacqueline Harpman-നെ ആദരിക്കുന്നു",
+        "share_text": "Jacqueline Harpman-നെ ആദരിക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "जॅकलिन हार्पमन",
+        "hover_text": "जॅकलिन हार्पमन यांच्या स्मरणार्थ",
+        "share_text": "जॅकलिन हार्पमन यांच्या स्मरणार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Жаклин Харпман",
+        "hover_text": "Жаклин Харпманы өдрийг тэмдэглэж байна",
+        "share_text": "Жаклин Харпманы өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Jacqueline Harpman को सम्झना",
+        "share_text": "Jacqueline Harpman को सम्झना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Vi minnes Jacqueline Harpman",
+        "share_text": "Vi minnes Jacqueline Harpman! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "بزرگداشت ژاکلین هارپمن",
+        "share_text": "بزرگداشت ژاکلین هارپمن! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Wspominamy Jacqueline Harpman",
+        "share_text": "Wspominamy Jacqueline Harpman #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Celebrando as contribuições de Jacqueline Harpman para a literatura",
+        "share_text": "Celebrando as contribuições de Jacqueline Harpman para a literatura #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Celebração de Jacqueline Harpman",
+        "share_text": "Celebração de Jacqueline Harpman! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "ਜੈਕਲੀਨ ਹਾਰਪਮਨ ਦੀ ਯਾਦ ਵਿੱਚ",
+        "share_text": "ਜੈਕਲੀਨ ਹਾਰਪਮਨ ਦੀ ਯਾਦ ਵਿੱਚ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "În cinstea lui Jacqueline Harpman",
+        "share_text": "În cinstea lui Jacqueline Harpman! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Жаклин Арпман",
+        "hover_text": "День Жаклин Арпман",
+        "share_text": "День Жаклин Арпман #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Жаклин Арпман",
+        "hover_text": "Славимо Жаклин Арпман",
+        "share_text": "Славимо Жаклин Арпман! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Žaklin Arpman",
+        "hover_text": "Slavimo Žaklin Arpman",
+        "share_text": "Slavimo Žaklin Arpman! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ජැකලින් හාප්මන්",
+        "hover_text": "ජැකලින් හාප්මන් සමරමින්",
+        "share_text": "ජැකලින් හාප්මන් සමරමින්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Jacqueline Harpmanová",
+        "hover_text": "Pripomíname si Jacqueline Harpmanovú",
+        "share_text": "Pripomíname si Jacqueline Harpmanovú. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Slavimo Jacqueline Harpman",
+        "share_text": "Slavimo Jacqueline Harpman! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Homenaje a Jacqueline Harpman",
+        "share_text": "Hoy rendimos homenaje a Jacqueline Harpman #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Tunamwenzi Jacqueline Harpman",
+        "share_text": "Tunamwenzi Jacqueline Harpman! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Vi hyllar Jacqueline Harpman",
+        "share_text": "Vi hyllar Jacqueline Harpman! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "ஜாக்குலின் ஹார்ப்மனைக் கொண்டாடுவோம்",
+        "share_text": "ஜாக்குலின் ஹார்ப்மனைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "జాక్వెలిన్ హార్ప్‌మన్",
+        "hover_text": "జాక్వెలిన్ హార్ప్‌మన్‌ను స్మరించుకుందాం",
+        "share_text": "జాక్వెలిన్ హార్ప్‌మన్‌ను స్మరించుకుందాం! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "วันรำลึกถึง Jacqueline Harpman",
+        "share_text": "วันรำลึกถึง Jacqueline Harpman #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Jacqueline Harpman'ı Anıyoruz",
+        "share_text": "Jacqueline Harpman'ı anıyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Жаклін Харпман",
+        "hover_text": "Присвячено Жаклін Харпман",
+        "share_text": "Присвячено Жаклін Харпман! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "‫Jacqueline Harpman کی یاد میں",
+        "share_text": "‫Jacqueline Harpman کی یاد میں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Jacqueline Harpman kuni",
+        "share_text": "Jacqueline Harpman kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Jacqueline Harpman",
+        "hover_text": "Tôn vinh Jacqueline Harpman",
+        "share_text": "Tôn vinh Jacqueline Harpman! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "UJacqueline Harpman",
+        "hover_text": "Sibungaza uJacqueline Harpman",
+        "share_text": "Sibungaza uJacqueline Harpman! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Jacqueline Harpman",
+    "share_text": "Celebrating Jacqueline Harpman! #GoogleDoodle"
+  },
+  {
+    "name": "fourth-of-july-2024",
+    "title": "Fourth of July 2024",
+    "url": "//www.google.com/logos/doodles/2024/fourth-of-july-2024-6753651837110246-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/iC-6zUjwGdkkUShnAvT287IewKhEqvyyMbYS-JuAjAaV_FDq98FwAUqsT9jKpDgxJ8xjc8ydwxH6YkO058DEjZyGVoNF41ushmO0W2t82PZLDqP593Bl",
+    "high_res_url": "//www.google.com/logos/doodles/2024/fourth-of-july-2024-6753651837110246-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      7,
+      4
+    ],
+    "translations": {
+      "en": {
+        "query": "Fourth of July",
+        "hover_text": "Fourth of July 2024",
+        "share_text": "Happy Fourth of July, United States! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Onafhanklikheidsdag",
+        "hover_text": "Onafhanklikheidsdag 2024",
+        "share_text": "Gelukkige Onafhanklikheidsdag, Verenigde State van Amerika! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Festa e Katër Korrikut",
+        "hover_text": "Festa e 4 Korrikut, 2024",
+        "share_text": "Gëzuar Festën e 4 Korrikut, Shtetet e Bashkuara! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የነጻነት ቀን",
+        "hover_text": "ጁላይ አራት 2024",
+        "share_text": "መልካም ጁላይ አራት፣ አሜሪካ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد الاستقلال الأمريكي",
+        "hover_text": "عيد استقلال الولايات المتحدة 2024",
+        "share_text": "نتمنى للولايات المتحدة عيد استقلال سعيدًا! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "ԱՄՆ-ի անկախության օր",
+        "hover_text": "ԱՄՆ-ի անկախության օր 2024",
+        "share_text": "Շնորհավո՛ր ԱՄՆ-ի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "4 iyul",
+        "hover_text": "2024 Dörd İyul günü",
+        "share_text": "Dörd İyul gününüz mübarək, Amerika Birləşmiş Ştatları! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "চতুর্থ জুলাই",
+        "hover_text": "চৌঠা জুলাই ২০২৪",
+        "share_text": "চৌঠা জুলাইয়ের শুভেচ্ছা, মার্কিন যুক্তরাষ্ট্র! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Uztailaren laua",
+        "hover_text": "2024ko uztailaren 4a",
+        "share_text": "Uztailaren 4 zoriontsua izan, Ameriketako Estatu Batuak! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці ЗША",
+        "hover_text": "Дзень незалежнасці ЗША 2024",
+        "share_text": "Віншуем з Днём незалежнасці, Злучаныя Штаты! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti SAD-a",
+        "hover_text": "Dan nezavisnosti SAD-a 2024.",
+        "share_text": "Sretan Dan nezavisnost, Sjedinjene Američke Države! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Fourth of July",
+        "hover_text": "Fourth of July 2024",
+        "share_text": "Happy Fourth of July, United States! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на САЩ",
+        "hover_text": "Ден на независимостта на САЩ 2024 г.",
+        "share_text": "Честит Ден на независимостта на САЩ! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဇူလိုင် လေးရက်နေ့",
+        "hover_text": "၂၀၂၄ ဇူလိုင်လေးရက်နေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် ဇူလိုင်လေးရက်နေ့ ဖြစ်ပါစေ အမေရိကန်ပြည်ထောင်စု။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència dels Estats Units",
+        "hover_text": "Dia de la Independència dels Estats Units 2024",
+        "share_text": "Feliç Dia de la Independència, Estats Units! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "美國國慶日",
+        "hover_text": "2024 年美國國慶日",
+        "share_text": "美國，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "美國國慶日",
+        "hover_text": "2024 年美國國慶日",
+        "share_text": "美國國慶日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "美国国庆日（7 月 4 日）",
+        "hover_text": "2024 年美国国庆节",
+        "share_text": "欢庆美国国庆节！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "4. srpnja",
+        "hover_text": "4. srpnja 2024.",
+        "share_text": "Sretan 4. srpnja, SAD! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti",
+        "hover_text": "Den nezávislosti USA 2024",
+        "share_text": "Všechno nejlepší ke Dni nezávislosti, Spojené státy! #GoogleDoodle"
+      },
+      "da": {
+        "query": "4. juli",
+        "hover_text": "4. juli 2024",
+        "share_text": "Glædelig 4. juli, USA! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Fourth of July",
+        "hover_text": "Fourth of July 2024",
+        "share_text": "Fijne Fourth of July, Verenigde Staten! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Neljas juuli",
+        "hover_text": "USA 2024. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Ameerika Ühendriigid! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Yhdysvaltain itsenäisyyspäivä",
+        "hover_text": "Yhdysvaltain itsenäisyyspäivä 2024",
+        "share_text": "Hyvää itsenäisyyspäivää, Yhdysvallat! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête nationale des États-Unis",
+        "hover_text": "Fête nationale des États-Unis 2024",
+        "share_text": "Bonne fête nationale des États-Unis ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "4 juillet",
+        "hover_text": "4 juillet 2024",
+        "share_text": "Bon 4 juillet, États-Unis! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Catro de Xullo",
+        "hover_text": "Catro de Xullo de 2024",
+        "share_text": "Feliz Catro de Xullo, Estados Unidos! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ოთხი ივლისი",
+        "hover_text": "ოთხი ივლისი — 2024",
+        "share_text": "შეერთებულ შტატებს ვულოცავთ ოთხ ივლისს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "US-amerikanischer Unabhängigkeitstag",
+        "hover_text": "Unabhängigkeitstag USA 2024",
+        "share_text": "Wir feiern den Unabhängigkeitstag der USA #GoogleDoodle"
+      },
+      "el": {
+        "query": "4η Ιουλίου",
+        "hover_text": "4η Ιουλίου 2024",
+        "share_text": "Γιορτάζουμε την 4η Ιουλίου μαζί με τις Ηνωμένες Πολιτείες! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ચોથી જુલાઈ",
+        "hover_text": "ચોથી જુલાઈ, સ્વતંત્રતા દિવસ 2024",
+        "share_text": "યુનાઇટેડ સ્ટેટ્સ, ચોથી જુલાઈના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות האמריקאי",
+        "hover_text": "יום העצמאות של ארה\"ב 2024",
+        "share_text": "יום עצמאות שמח לארה\"ב GoogleDoodle#"
+      },
+      "hi": {
+        "query": "चार जुलाई",
+        "hover_text": "अमेरिका का स्वतंत्रता दिवस 2024",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, अमेरिका! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Július negyedike",
+        "hover_text": "Július negyedike, 2024",
+        "share_text": "Boldog július negyedikét, Amerikai Egyesült Államok! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Fjórði júlí",
+        "hover_text": "Fjórði júlí 2024",
+        "share_text": "Gleðilegan þjóðhátíðardag, Bandaríkin! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Amerika Serikat",
+        "hover_text": "Hari Kemerdekaan Amerika Serikat 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Amerika Serikat! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "An 4ú Iúil",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Quattro luglio",
+        "hover_text": "Giorno dell'Indipendenza 2024",
+        "share_text": "Buon Giorno dell'Indipendenza, Stati Uniti! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "アメリカ独立記念日",
+        "hover_text": "2024 年アメリカ独立記念日",
+        "share_text": "アメリカ独立記念日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಜುಲೈ ನಾಲ್ಕನೇ ದಿನಾಚರಣೆ",
+        "hover_text": "2024 ರ ಜುಲೈ ನಾಲ್ಕರ ದಿನಾಚರಣೆ",
+        "share_text": "ಜುಲೈ ನಾಲ್ಕರ ಶುಭಾಶಯಗಳು, ಯುನೈಟೆಡ್ ಸ್ಟೇಟ್ಸ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "АҚШ-тың Тәуелсіздік күні",
+        "hover_text": "АҚШ-тың Тәуелсіздік күні – 2024",
+        "share_text": "Тәуелсіздік күні құтты болсын, АҚШ! #GoogleDoodle"
+      },
+      "km": {
+        "query": "បួន​កក្កដា",
+        "hover_text": "ទិវាបួន​កក្កដាឆ្នាំ 2024",
+        "share_text": "អបអរទិវាបួន​កក្កដានៅសហរដ្ឋអាមេរិក! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "미국 독립기념일",
+        "hover_text": "2024년 미국 독립기념일",
+        "share_text": "미국 독립기념일 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Төртүнчү июль",
+        "hover_text": "АКШнын Эгемендүүлүк күнү — 2024",
+        "share_text": "Эгемендүүлүк күнү кут болсун, Америка Кошмо Штаттары! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຊາດອາເມລິກາ",
+        "hover_text": "ວັນຊາດສະຫະລັດອາເມລິກາ 2024",
+        "share_text": "ສຸກສັນວັນຊາດສະຫະລັດອາເມລິກາ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Cuatro de julio",
+        "hover_text": "Cuatro de Julio 2024",
+        "share_text": "¡Feliz Cuatro de Julio, Estados Unidos! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Ceturtais jūlijs",
+        "hover_text": "Ceturtais jūlijs — 2024",
+        "share_text": "Priecīgu ceturto jūliju, ASV! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Liepos ketvirtoji",
+        "hover_text": "Liepos ketvirtoji, 2024 m.",
+        "share_text": "Sveikiname Jungtines Amerikos Valstijas su Liepos ketvirtąja! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "4-ти Јули",
+        "hover_text": "4 Јули, 2024 г.",
+        "share_text": "Среќен 4 Јули, Соединети Американски Држави! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Faha-4 Jolay",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Fourth of July",
+        "hover_text": "Hari Kemerdekaan AS 2024",
+        "share_text": "Selamat menyambut Hari Kemerdekaan, Amerika Syarikat! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ജൂലൈ നാല്",
+        "hover_text": "2024 ജൂലൈ നാല്",
+        "share_text": "ജൂലൈ നാല് ആശംസകൾ, യുണൈറ്റഡ് സ്‌റ്റേറ്റ്‌സ്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "चार जुलै",
+        "hover_text": "चार जुलै २०२४",
+        "share_text": "युनायटेड स्टेट्सला चार जुलैच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "7-р сарын 4",
+        "hover_text": "2024 оны 7-р сарын 4",
+        "share_text": "Америкийн Нэгдсэн Улсын иргэдэд 7-р сарын 4-ний мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "चार जुलाई",
+        "hover_text": "४ जुलाई २०२४",
+        "share_text": "४ जुलाईको शुभकामना, संयुक्त राज्य अमेरिका! #GoogleDoodle"
+      },
+      "no": {
+        "query": "USAs uavhengighetsdag",
+        "hover_text": "USAs uavhengighetsdag 2024",
+        "share_text": "Gratulerer med dagen, USA! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଚତୁର୍ଥ ଜୁଲାଇ",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "چهارم ژوئیه",
+        "hover_text": "چهارم ژوئیه ۲۰۲۴",
+        "share_text": "«چهارم ژوئیه» را به ایالات متحده تبریک می‌گوییم! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Czwarty lipca",
+        "hover_text": "Dzień Niepodległości USA 2024",
+        "share_text": "Stany Zjednoczone obchodzą Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Quatro de julho",
+        "hover_text": "Quatro de julho 2024",
+        "share_text": "Feliz quatro de julho, Estados Unidos! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Quatro de Julho",
+        "hover_text": "Quatro de Julho de 2024",
+        "share_text": "Feliz Quatro de Julho, Estados Unidos! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਚਾਰ ਜੁਲਾਈ",
+        "hover_text": "ਚਾਰ ਜੁਲਾਈ 2024",
+        "share_text": "ਚਾਰ ਜੁਲਾਈ ਦੀਆਂ ਵਧਾਈਆਂ, ਸੰਯੁਕਤ ਰਾਜ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Patru iulie",
+        "hover_text": "4 iulie 2024",
+        "share_text": "La mulți ani de 4 iulie, Statele Unite! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости США",
+        "hover_text": "День независимости США – 2024",
+        "share_text": "День независимости США #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Четврти јул",
+        "hover_text": "Четврти јул 2024.",
+        "share_text": "Честитамо Четврти јул Сједињеним Америчким Државама! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Četvrti jul",
+        "hover_text": "Četvrti jul 2024.",
+        "share_text": "Čestitamo Četvrti jul Sjedinjenim Američkim Državama! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Kat Zilyet",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ජූලි හතර වෙනිදා",
+        "hover_text": "2024 ජූලි හතර වෙනිදා",
+        "share_text": "සුබ ජූලි හතරක්, එක්සත් ජනපදය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "4. júl",
+        "hover_text": "4. júl 2024",
+        "share_text": "Veselý 4. júl, Spojené štáty. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Združenih držav",
+        "hover_text": "Dan neodvisnosti Združenih držav 2024",
+        "share_text": "Vesel dan neodvisnosti, Združene države! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Afarta Juulay",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": "Letsatsi la Bone la July",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Cuatro de julio",
+        "hover_text": "Día de la Independencia de Estados Unidos 2024",
+        "share_text": "¡Feliz día de la Independencia de Estados Unidos! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Marekani",
+        "hover_text": "Sikukuu ya Uhuru wa Marekani 2024",
+        "share_text": "Heri ya Sikukuu ya Uhuru, Marekani! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "USA:s nationaldag",
+        "hover_text": "USA:s nationaldag 2024",
+        "share_text": "Glad nationaldag USA! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஜுலை 4",
+        "hover_text": "அமெரிக்காவின் சுதந்திர தினம் 2024",
+        "share_text": "இனிய அமெரிக்க சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "జూలై ఫోర్త్",
+        "hover_text": "జూలై నాలుగవ తేదీ, 2024",
+        "share_text": "యునైటెడ్ స్టేట్స్ ప్రజలకు జూలై నాలుగవ తేదీ సందర్భంగా స్వాతంత్య్ర దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันชาติสหรัฐอเมริกา",
+        "hover_text": "วันชาติสหรัฐอเมริกาปี 2024",
+        "share_text": "สุขสันต์วันชาติสหรัฐอเมริกา #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Di-4 tsa Phukwi",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Dört Temmuz",
+        "hover_text": "4 Temmuz 2024",
+        "share_text": "ABD'nin 4 Temmuz Bayramı'nı kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності США",
+        "hover_text": "День незалежності США у 2024 році",
+        "share_text": "З Днем незалежності, Сполучені Штати! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "چوتھی جولائی",
+        "hover_text": "چار جولائی 2024",
+        "share_text": "چار جولائی مبارک ہو، ریاستہائے متحدہ امریکہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "AQSH mustaqillik kuni",
+        "hover_text": "AQSH Mustaqillik kuni 2024",
+        "share_text": "AQSH Mustaqillik kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Hoa Kỳ",
+        "hover_text": "Ngày Quốc khánh Hoa Kỳ năm 2024",
+        "share_text": "Chúc mừng Ngày Quốc khánh Hoa Kỳ! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lwesine lwango-Julayi",
+        "hover_text": "Umhla Wesine kaJulayi 2024",
+        "share_text": "Sikufisela Umhla Wesine kuJulayi Ojabulisayo, United States! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Fourth of July",
+    "share_text": "Happy Fourth of July, United States! #GoogleDoodle"
+  },
+  {
     "name": "united-kingdom-national-elections-2024",
     "title": "United Kingdom National Elections 2024",
     "url": "//www.google.com/logos/doodles/2024/united-kingdom-national-elections-2024-6753651837110552-l.png",
