@@ -1,5 +1,504 @@
 [
   {
+    "name": "argentina-independence-day-2024",
+    "title": "Argentina Independence Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/argentina-independence-day-2024-6753651837110250-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/eKEORZiWaoTc7GdX0LpGBeaaPzedhWlkQmF4-Xp0Fa3ozOm-nhCzJJWtzm8sdgBV6vIE3Q88THe3EY_5PbtzpWsz1U0SatfEjd6MS9W8LgfhmSsonKBk0A",
+    "high_res_url": "//www.google.com/logos/doodles/2024/argentina-independence-day-2024-6753651837110250-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      7,
+      9
+    ],
+    "translations": {
+      "en": {
+        "query": "Argentina Independence Day",
+        "hover_text": "Argentina Independence Day 2024",
+        "share_text": "Happy Independence Day, Argentina! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Argentinë se onafhanklikheidsdag",
+        "hover_text": "Argentinië se onafhanklikheidsdag 2024",
+        "share_text": "Gelukkige onafhanklikheidsdag, Argentinië! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë e Argjentinës",
+        "hover_text": "Dita e Pavarësisë së Argjentinës, 2024",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Argjentinë! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአርጀንቲና የነጻነት ቀን",
+        "hover_text": "የአርጀንቲና የነፃነት ቀን 2024",
+        "share_text": "መልካም የነጻነት በዓል፣ አርጀንቲና! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال الأرجنتين",
+        "hover_text": "عيد استقلال الأرجنتين لعام 2024",
+        "share_text": "عيد استقلال سعيد للأرجنتين ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Արգենտինայի անկախության օր",
+        "hover_text": "Արգենտինայի անկախության օր 2024",
+        "share_text": "Շնորհավո՛ր Արգենտինայի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Argentinanın müstəqillik günü",
+        "hover_text": "2024 Argentinanın Müstəqillik Günü",
+        "share_text": "Müstəqllik günün mübarək, Argentina! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "আর্জেন্তিনার স্বাধীনতা দিবস",
+        "hover_text": "আর্জেন্টিনার স্বাধীনতা দিবস ২০২৪",
+        "share_text": "আর্জেন্তিনার স্বাধীনতা দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Argentinako Independentzia Eguna",
+        "hover_text": "2024ko Argentinako Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Argentina! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Аргенціны",
+        "hover_text": "Дзень незалежнасці Аргенціны 2024",
+        "share_text": "З Днём незалежнасці, Аргенціна! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Argentine",
+        "hover_text": "Dan nezavisnosti Argentine 2024.",
+        "share_text": "Sretan Dan nezavisnosti, Argentino! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Argentina Independence Day",
+        "hover_text": "Argentina Independence Day 2024",
+        "share_text": "Happy Independence Day, Argentina! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Аржентина",
+        "hover_text": "Ден на независимостта на Аржентина 2024 г.",
+        "share_text": "Честит Ден на независимостта на Аржентина! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အာဂျင်တီးနား လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ အာဂျင်တီးနားနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ဖြစ်ပါစေ၊ အာဂျင်တီးနား။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència de l'Argentina",
+        "hover_text": "Dia de la Independència de l'Argentina 2024",
+        "share_text": "Feliç Dia de la Independència, Argentina! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "阿根廷獨立日",
+        "hover_text": "2024 年阿根廷獨立日",
+        "share_text": "阿根廷獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "阿根廷獨立紀念日",
+        "hover_text": "2024 年阿根廷獨立紀念日",
+        "share_text": "阿根廷，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "阿根廷独立日",
+        "hover_text": "2024 年阿根廷独立日",
+        "share_text": "阿根廷，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Argentine",
+        "hover_text": "Dan neovisnosti Argentine 2024.",
+        "share_text": "Sretan Dan neovisnosti, Argentino! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Argentiny",
+        "hover_text": "Den nezávislosti Argentiny 2024",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Argentino! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Argentinas uafhængighedsdag",
+        "hover_text": "Argentinas uafhængighedsdag 2024",
+        "share_text": "Glædelig uafhængighedsdag til Argentina! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Argentinië",
+        "hover_text": "Onafhankelijkheidsdag Argentinië 2024",
+        "share_text": "Fijne Onafhankelijkheidsdag, Argentinië! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Argentina iseseisvuspäev",
+        "hover_text": "Argentina 2024. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Argentina! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Argentiinan itsenäisyyspäivä",
+        "hover_text": "Argentiinan itsenäisyyspäivä 2024",
+        "share_text": "Hyvää itsenäisyyspäivää, Argentiina! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'indépendance de l'Argentine",
+        "hover_text": "Fête de l'Indépendance de l'Argentine 2024",
+        "share_text": "Fête de l'Indépendance de l'Argentine #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance de l'Argentine",
+        "hover_text": "Fête de l'Indépendance de l'Argentine 2024",
+        "share_text": "Joyeux jour de l'indépendance de l'Argentine! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia da Arxentina",
+        "hover_text": "Día da Independencia da Arxentina 2024",
+        "share_text": "Feliz Día da Independencia, Arxentina! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "არგენტინის დამოუკიდებლობის დღე",
+        "hover_text": "არგენტინის დამოუკიდებლობის დღე — 2024",
+        "share_text": "ვულოცავთ არგენტინას დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Argentinischer Unabhängigkeitstag",
+        "hover_text": "Argentinischer Unabhängigkeitstag 2024",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Argentinien! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας της Αργεντινής",
+        "hover_text": "Ημέρα Ανεξαρτησίας της Αργεντινής 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας της Αργεντινής! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "અર્જેન્ટિનાનો સ્વતંત્રતા દિવસ",
+        "hover_text": "આર્જેન્ટિનાનો સ્વતંત્રતા દિવસ 2024",
+        "share_text": "અર્જેન્ટિનાના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של ארגנטינה",
+        "hover_text": "יום העצמאות של ארגנטינה 2024",
+        "share_text": "יום עצמאות שמח, ארגנטינה! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "अर्जेंटीना का स्वतंत्रता दिवस",
+        "hover_text": "अर्जेंटीना का स्वतंत्रता दिवस 2024",
+        "share_text": "स्वतंत्रता दिवस मुबारक हो, अर्जेंटीना! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Argentína függetlenségének napja",
+        "hover_text": "Argentína függetlenségének napja, 2024",
+        "share_text": "Minden jót a függetlenség napján, Argentína! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Argentínu",
+        "hover_text": "Sjálfstæðisdagur Argentínu 2024",
+        "share_text": "Gleðilegan sjálfstæðisdag, Argentína! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Argentina",
+        "hover_text": "Hari Kemerdekaan Argentina 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Argentina! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse na hAirgintíne",
+        "hover_text": null,
+        "share_text": "Lá Saoirse na hAirgintíne faoi mhaise duit. #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza dell'Argentina",
+        "hover_text": "Festa dell'indipendenza dell'Argentina 2024",
+        "share_text": "Buona festa dell'indipendenza, Argentina! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "アルゼンチン独立記念日",
+        "hover_text": "2024 年アルゼンチン独立記念日",
+        "share_text": "アルゼンチン独立記念日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಅರ್ಜೆಂಟಿನಾದ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಅರ್ಜೆಂಟೀನಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಷಯಗಳು, ಅರ್ಜೆಂಟಿನಾ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Аргентинаның Тәуелсіздік күні",
+        "hover_text": "Аргентинаның Тәуелсіздік күні – 2024",
+        "share_text": "Тәуелсіздік күні құтты болсын, Аргентина! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យ​ឯករាជ្យជាតិ​អាហ្សង់ទីន",
+        "hover_text": "ទិវាបុណ្យ​ឯករាជ្យជាតិ​អាហ្សង់ទីន​ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវាបុណ្យឯករាជ្យជាតិ​អាហ្សង់ទីន! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "아르헨티나 독립기념일",
+        "hover_text": "2024년 아르헨티나 독립기념일",
+        "share_text": "아르헨티나 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Аргентинанын Эгемендүүлүк күнү",
+        "hover_text": "Аргентинанын Эгемендүүлүк күнү — 2024",
+        "share_text": "Эгемендүүлүк күнүң менен, Аргентина! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດອາເຈນຕິນາ",
+        "hover_text": "ວັນປະກາດເອກະລາດອາເຈນຕິນາ 2024",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດ, ອາເຈນຕິນາ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Argentina",
+        "hover_text": "Día de la Independencia de Argentina 2024",
+        "share_text": "¡Feliz Día de la Independencia de Argentina! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Argentīnas neatkarības diena",
+        "hover_text": "Argentīnas Neatkarības diena — 2024",
+        "share_text": "Sveicam Neatkarības dienā, Argentīna! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Argentinos nepriklausomybės diena",
+        "hover_text": "Argentinos nepriklausomybės diena, 2024 m.",
+        "share_text": "Sveikiname Argentiną su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Аргентина",
+        "hover_text": "Ден на независноста на Аргентина, 2024 г.",
+        "share_text": "Среќен Ден на независноста на Аргентина! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Arzentina",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny fahaleovantena ry Arzentina ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Argentina",
+        "hover_text": "Hari Kemerdekaan Argentina 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Argentina! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "അർജന്റീനയുടെ സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "അർജന്റീനിയൻ സ്വാതന്ത്ര്യദിനം 2024",
+        "share_text": "സ്വാതന്ത്യ്ര ദിനാശംസകൾ, അർജന്റീന! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "अर्जेंटिनाचा स्वातंत्र्य दिन",
+        "hover_text": "अर्जेंटिनाचा स्वातंत्र्यदिन २०२४",
+        "share_text": "अर्जेंटिनाला स्वातंत्र्य दिनाच्या हार्दिक शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Аргентин улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2024 оны Аргентин Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Аргентин улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "अर्जेन्टिनाको स्वतन्त्रता दिवस",
+        "hover_text": "अर्जेन्टिनाको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, अर्जेन्टिना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Argentinas frigjøringsdag",
+        "hover_text": "Argentinas uavhengighetsdag 2024",
+        "share_text": "Gratulerer med frigjøringsdagen, Argentina! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଆର୍ଜେଣ୍ଟିନାର ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": null,
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, ଆର୍ଜେଣ୍ଟିନା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال آرژانتین",
+        "hover_text": "روز استقلال ۲۰۲۴ آرژانتین",
+        "share_text": "روز استقلال آرژانتین مبارک! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Niepodległości Argentyny",
+        "hover_text": "Dzień Niepodległości Argentyny 2024",
+        "share_text": "Argentyna obchodzi Święto Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência da Argentina",
+        "hover_text": "Dia da Independência da Argentina 2024",
+        "share_text": "Feliz Dia da Independência, Argentina! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência da Argentina",
+        "hover_text": "Dia da Independência da Argentina de 2024",
+        "share_text": "Feliz dia da independência, Argentina! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਅਰਜਨਟੀਨਾ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ",
+        "hover_text": "ਅਰਜਨਟੀਨਾ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2024",
+        "share_text": "ਅਰਜਨਟੀਨਾ ਦੇ ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței Argentinei",
+        "hover_text": "Ziua Independenței în Argentina – 2024",
+        "share_text": "La mulți ani de Ziua Independenței, Argentina! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Аргентины",
+        "hover_text": "День независимости Аргентины – 2024",
+        "share_text": "День независимости Аргентины #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Аргентине",
+        "hover_text": "Дан независности Аргентине 2024.",
+        "share_text": "Честитамо Дан независности Аргентини! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Argentine",
+        "hover_text": "Dan nezavisnosti Argentine 2024.",
+        "share_text": "Čestitamo Dan nezavisnosti Argentini! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazoirnen lendepandans Larzantin",
+        "hover_text": null,
+        "share_text": "Bonn fet lendepandans, Argentina! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ආජන්ටීනාවේ නිදහස් දිනය",
+        "hover_text": "ආර්ජන්ටිනාවේ නිදහස් දිනය 2024",
+        "share_text": "ශුභ නිදහස් දිනයක්, ආජන්ටීනාව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Argentíny",
+        "hover_text": "Deň nezávislosti Argentíny 2024",
+        "share_text": "Šťastný deň nezávsilosti, Argentína! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Argentine",
+        "hover_text": "Dan neodvisnosti Argentine 2024",
+        "share_text": "Vesel dan neodvisnosti, Argentina. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madax banaanida Argentina",
+        "hover_text": null,
+        "share_text": "Maalinta Madax banaanida Argentina! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la Argentina",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Tokoloho, Argentina! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Argentina",
+        "hover_text": "Día de la Independencia de Argentina 2024",
+        "share_text": "¡Feliz Día de la Independencia de Argentina! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Ajentina",
+        "hover_text": "Sikukuu ya Uhuru wa Ajentina 2024",
+        "share_text": "Heri ya Sikukuu ya Uhuru, Ajentina! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Argentinas självständighetsdag",
+        "hover_text": "Argentinas självständighetsdag 2024",
+        "share_text": "Vi firar Argentinas självständighetsdag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "அர்ஜெண்டினா சுதந்திர தினம்",
+        "hover_text": "அர்ஜென்டினா சுதந்திர தினம் 2024",
+        "share_text": "அர்ஜெண்டினா சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "అర్జెంటీనా స్వాతంత్య్ర దినోత్సవం",
+        "hover_text": "అర్జెంటీనా స్వాతంత్య్ర దినోత్సవం 2024",
+        "share_text": "స్వాతంత్య్ర దినోత్సవ శుభాకాంక్షలు, అర్జెంటీనా! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของอาร์เจนตินา",
+        "hover_text": "วันประกาศอิสรภาพของอาร์เจนตินาปี 2024",
+        "share_text": "วันประกาศอิสรภาพของอาร์เจนตินา #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Argentina",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, Argentina! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Arjantin Bağımsızlık Günü",
+        "hover_text": "2024 Arjantin Bağımsızlık Günü",
+        "share_text": "Arjantin Bağımsızlık Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Аргентини",
+        "hover_text": "День незалежності Аргентини у 2024 році",
+        "share_text": "З Днем незалежності, Аргентино! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "ارجنٹینا کا یوم آزادی",
+        "hover_text": "ارجنٹینا کا یوم آزادی 2024",
+        "share_text": "ارجنٹینا کا یوم آزادی مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Argentina mustaqillik kuni",
+        "hover_text": "Argentina Mustaqillik kuni 2024",
+        "share_text": "Mustaqillik kuning muborak, Argentina! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Argentina",
+        "hover_text": "Ngày Quốc khánh Argentina năm 2024",
+        "share_text": "Chúc mừng ngày quốc khánh Argentina! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lokuzimela lwase-Argentina",
+        "hover_text": "Usuku Lokuzimela lwase-Argentina lwango-2024",
+        "share_text": "Sinifisela usuku lokuzimela oluhle, Argentina! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Argentina Independence Day",
+    "share_text": "Happy Independence Day, Argentina! #GoogleDoodle"
+  },
+  {
     "name": "france-parliamentary-election-results-2024",
     "title": "France Parliamentary Election Results 2024",
     "url": "//www.google.com/logos/doodles/2024/france-parliamentary-election-results-2024-6753651837110577-l.png",
