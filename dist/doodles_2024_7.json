@@ -1,5 +1,504 @@
 [
   {
+    "name": "celebrating-shiratani-unsuikyo",
+    "title": "Celebrating Shiratani Unsuikyo",
+    "url": "//www.google.com/logos/doodles/2024/celebrating-shiratani-unsuikyo-6753651837110188.4-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/7litiG1wgToD8MyDVOzqyPBsKxCvn4NBNsLfpcJJKvaCKrsfEKEIJqal_Z2KUhAJBq8f1-uT-nh3OCUoXV1q8PbX6MHrzokW4BkHsA8kzLdzDGVGSrf_BA",
+    "high_res_url": "//www.google.com/logos/doodles/2024/celebrating-shiratani-unsuikyo-6753651837110188-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      7,
+      12
+    ],
+    "translations": {
+      "en": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Celebrating Shiratani Unsuikyo",
+        "share_text": "Celebrating Shiratani Unsuikyo! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Ter viering van Shiratani Unsuikyo",
+        "share_text": "Ter viering van Shiratani Unsuikyo! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Përkujtojmë Shiratani Unsuikyo",
+        "share_text": "Përkujtojmë Shiratani Unsuikyo! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ሺራታኒ አንሱይክዮ",
+        "hover_text": "ሺራታኒ አንሱይክዮን በማክበር ላይ",
+        "share_text": "ሺራታኒ አንሱይክዮን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "شيراتاني أونسيكيو",
+        "hover_text": "الاحتفال بغابة \"شيراتاني أونسيكيو\" الطبيعية",
+        "share_text": "الاحتفال بغابة \"شيراتاني أونسيكيو\" الطبيعية ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Սիրատանի Ունսուիկյո",
+        "hover_text": "Տոնենք Սիրատանի Ունսուիկյոյի օրը",
+        "share_text": "Տոնենք Սիրատանի Ունսուիկյոյի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Shiratani Unsuikyo günü",
+        "share_text": "Shiratani Unsuikyo günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "শিরাটানি উনসুইকিও",
+        "hover_text": "শিরাটানি উনসুইকিও নেচার পার্কের ঐতিহ্য উদযাপন করা হচ্ছে",
+        "share_text": "শিরাটানি উনসুইকিও নেচার পার্কের ঐতিহ্য উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Shiratani Unsuikyoren omenez",
+        "share_text": "Shiratani Unsuikyoren omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Сіратані Унсуйкё",
+        "hover_text": "Ушаноўваем Сіратані Унсуйкё – парк на востраве Якусіма",
+        "share_text": "Ушаноўваем Сіратані Унсуйкё – парк на востраве Якусіма! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Slavimo park Shiratani Unsuikyo",
+        "share_text": "Slavimo park Shiratani Unsuikyo! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Celebrating Shiratani Unsuikyo",
+        "share_text": "Celebrating Shiratani Unsuikyo! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ширaтани Унсуикио",
+        "hover_text": "Честване на Ширатани Унсуикио",
+        "share_text": "Честване на Ширaтани Унсуикио! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Shiratani Unsuikyo ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "Shiratani Unsuikyo ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Homenatge a Shiratani Unsuikyo",
+        "share_text": "Homenatge a Shiratani Unsuikyo #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "白谷雲水峽",
+        "hover_text": "欣賞白谷雲水峽壯麗景色",
+        "share_text": "欣賞白谷雲水峽壯麗景色！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "白谷雲水峽",
+        "hover_text": "欣賞白谷雲水峽美景",
+        "share_text": "欣賞白谷雲水峽美景！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "白谷云水峡",
+        "hover_text": "风景优美的白谷云水峡",
+        "share_text": "风景优美的白谷云水峡！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Slavimo Shiratani Unsuikyo",
+        "share_text": "Slavimo Shiratani Unsuikyo! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Širatani Unsuikyo",
+        "hover_text": "Oslava parku Širatani Unsuikyo",
+        "share_text": "Oslavujeme park Širatani Unsuikyo! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Vi hylder Shiratani Unsuikyo",
+        "share_text": "Vi hylder Shiratani Unsuikyo #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Doodle ter ere van Shiratani Unsuikyo",
+        "share_text": "Een doodle ter ere van Shiratani Unsuikyo #GoogleDoodle"
+      },
+      "et": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Hoiame au sees Shiratani Unsuikyo jõeorgu",
+        "share_text": "Hoiame au sees Shiratani Unsuikyo jõeorgu! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Shiratani Unsuikyo",
+        "share_text": "Shiratani Unsuikyo #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Le parc Shiratani Unsuikyo à l'honneur",
+        "share_text": "Le parc Shiratani Unsuikyo à l'honneur ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Célébration de Shiratani Unsuikyo",
+        "share_text": "Célébration de Shiratani Unsuikyo! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Homenaxe ao parque natural Shiratani Unsuikyo",
+        "share_text": "Homenaxe ao parque natural Shiratani Unsuikyo! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "შირატანი უნსუიკიო",
+        "hover_text": "აღვნიშნავთ შირატანი უნსუიკიოს დღეს",
+        "share_text": "აღვნიშნავთ შირატანი უნსუიკიოს დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Zur Feier der Shiratani-Unsuikyo-Schlucht",
+        "share_text": "Zur Feier der Shiratani-Unsuikyo-Schlucht! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Τιμούμε το Shiratani Unsuikyo",
+        "share_text": "Τιμούμε το Shiratani Unsuikyo! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "શિરાતાની ઉનસુકિયો",
+        "hover_text": "શિરાતાની ઉનસુકિયોની ઉજવણી કરી રહ્યાં છીએ",
+        "share_text": "શિરાતાની ઉનસુકિયોની ઉજવણી કરી રહ્યાં છીએ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "מחווה לשיראטני אונסוויקיו",
+        "share_text": "מחווה לשיראטני אונסוויקיו ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "शिरातानी उनसुकियो",
+        "hover_text": "शिरातानी उनसुकियो का जश्न",
+        "share_text": "शिरातानी उनसुकियो का जश्न! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "A Shiratani Unsuikyo ünneplése",
+        "share_text": "A Shiratani Unsuikyo ünneplése #GoogleDoodle"
+      },
+      "is": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Við heiðrum Shiratani Unsuikyo",
+        "share_text": "Við heiðrum Shiratani Unsuikyo! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Merayakan Shiratani Unsuikyo",
+        "share_text": "Merayakan Shiratani Unsuikyo #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "In onore di Shiratani Unsuikyo",
+        "share_text": "In onore di Shiratani Unsuikyo! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "白谷雲水峡",
+        "hover_text": "白谷雲水峡を称えて",
+        "share_text": "白谷雲水峡を称えて！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಶಿರಟಾನಿ ಅನ್‌ಸಕ್ಯೋ",
+        "hover_text": "ಶಿರಟಾನಿ ಅನ್‌ಸಕ್ಯೋವನ್ನು ಸಂಭ್ರಮಿಸಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಶಿರಟಾನಿ ಅನ್‌ಸಕ್ಯೋವನ್ನು ಸಂಭ್ರಮಿಸಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Ширатани Унсуйкио",
+        "hover_text": "Ширатани Унсуйкио күні",
+        "share_text": "Ширатани Унсуйкио күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "អបអរទិវារំលឹក Shiratani Unsuikyo",
+        "share_text": "អបអរទិវារំលឹក Shiratani Unsuikyo! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "시라타니운스이쿄",
+        "hover_text": "시라타니운스이쿄 기념",
+        "share_text": "시라타니운스이쿄 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Ширатани Унсуйкё",
+        "hover_text": "Ширатани Унсуйкё күнүн майрамдоо",
+        "share_text": "Ширатани Унсуйкё күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ປ່າ Shiratani Unsuikyo",
+        "hover_text": "ສະເຫຼີມສະຫຼອງປ່າ Shiratani Unsuikyo",
+        "share_text": "ສະເຫຼີມສະຫຼອງປ່າ Shiratani Unsuikyo! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Celebrando Shiratani Unsuikyo",
+        "share_text": "Celebrando Shiratani Unsuikyo #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Dabas parks “Shiratani Unsuikyo”",
+        "hover_text": "Dabas parka “Shiratani Unsuikyo” godināšana",
+        "share_text": "Dabas parka “Shiratani Unsuikyo” godināšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Shiratani Unsuikyo gamtos parkas",
+        "hover_text": "Shiratani Unsuikyo gamtos parko minėjimas",
+        "share_text": "Shiratani Unsuikyo gamtos parko minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Во чест на Shiratani Unsuikyo",
+        "share_text": "Во чест на Shiratani Unsuikyo! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Meraikan Shiratani Unsuikyo",
+        "share_text": "Meraikan Shiratani Unsuikyo! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഷിറാതനി ഉൻസുകിയോ",
+        "hover_text": "ഷിറാതനി ഉൻസുകിയോ ആഘോഷമാക്കുന്നു",
+        "share_text": "ഷിറാതനി ഉൻസുകിയോ ആഘോഷമാക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "शिरातानी उनसुइक्यो",
+        "hover_text": "शिरातानी उनसुइक्योच्या सन्मानार्थ",
+        "share_text": "शिरातानी उनसुइक्योच्या सन्मानार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Ширатани Унсуикео",
+        "hover_text": "Ширатани Унсуикеогийн өдрийг тэмдэглэж байна",
+        "share_text": "Ширатани Унсуикеогийн өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Shiratani Unsuikyo को उत्सव",
+        "share_text": "Shiratani Unsuikyo को उत्सव! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Vi feirer Shiratani Unsuikyo",
+        "share_text": "Vi feirer Shiratani Unsuikyo! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "شیراتانی اونسو ایکیو",
+        "hover_text": "بزرگداشت شیراتانی اونسو ایکیو",
+        "share_text": "بزرگداشت شیراتانی اونسو ایکیو! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Podziwiamy Shiratani Unsuikyo",
+        "share_text": "Podziwiamy Shiratani Unsuikyo #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Viva o parque natural Shiratani Unsuikyo",
+        "share_text": "Viva o parque natural Shiratani Unsuikyo! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Celebração do Shiratani Unsuikyo",
+        "share_text": "Celebração do Shiratani Unsuikyo! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "ਸ਼ਿਰਾਤਾਨੀ ਉਨਸੂਈਕਿਓ ਦੇ ਜਸ਼ਨ ਵਜੋਂ",
+        "share_text": "ਸ਼ਿਰਾਤਾਨੀ ਉਨਸੂਈਕਿਓ ਦੇ ਜਸ਼ਨ ਵਜੋਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "În cinstea lui Shiratani Unsuikyo",
+        "share_text": "În cinstea lui Shiratani Unsuikyo! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Сиратани Унсуикё",
+        "hover_text": "День Сиратани Унсуикё",
+        "share_text": "День Сиратани Унсуикё #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Ширатани Унсуикјо",
+        "hover_text": "Славимо Ширатани Унсуикјо",
+        "share_text": "Славимо Ширатани Унсуикјо! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Širatani Unsuikjo",
+        "hover_text": "Slavimo Širatani Unsuikjo",
+        "share_text": "Slavimo Širatani Unsuikjo! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Shiratani Unsuikyo සැමරීම",
+        "share_text": "Shiratani Unsuikyo සැමරීම! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Oslavujeme park Shiratani Unsuikyo",
+        "share_text": "Oslavujeme park Shiratani Unsuikyo. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Slavimo park Shiratani Unsuikyo",
+        "share_text": "Slavimo park Shiratani Unsuikyo! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Homenaje al Shiratani Unsuikyo",
+        "share_text": "Hoy rendimos homenaje al Shiratani Unsuikyo #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Tunaenzi Shiratani Unsuikyo",
+        "share_text": "Tunaenzi Shiratani Unsuikyo! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Shiratani unsuikyo",
+        "hover_text": "Vi hyllar Shiratani unsuikyo",
+        "share_text": "Vi hyllar Shiratani unsuikyo #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "ஷிரட்டனி அன்ஸய்க்யோவைக் கொண்டாடுவோம்",
+        "share_text": "ஷிரட்டனி அன்ஸய்க்யோவைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "షిరతని ఉన్‌‌సూక్యో",
+        "hover_text": "షిరతని ఉన్‌‌సూక్యో వేడుకలు",
+        "share_text": "షిరతని ఉన్‌‌సూక్యో వేడుకలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "ป่า Shiratani Unsuikyo",
+        "hover_text": "วันเฉลิมฉลองป่า Shiratani Unsuikyo",
+        "share_text": "วันเฉลิมฉลองป่า Shiratani Unsuikyo #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Shiratani Unsuikyo'yu Kutluyoruz",
+        "share_text": "Shiratani Unsuikyo'yu kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Сіратані Унсуйкьо",
+        "hover_text": "Ушановуємо Сіратані Унсуйкьо",
+        "share_text": "Ушановуємо Сіратані Унсуйкьо! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Shiratani Unsuikyo کی یاد میں",
+        "share_text": "Shiratani Unsuikyo کی یاد میں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Shiratani Unsuikyo kuni",
+        "share_text": "Shiratani Unsuikyo kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Shiratani Unsuikyo",
+        "hover_text": "Tôn vinh Shiratani Unsuikyo",
+        "share_text": "Tôn vinh Shiratani Unsuikyo! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Shiratani Unsuikyo",
+        "hover_text": "Sibungaza u-Shiratani Unsuikyo",
+        "share_text": "Sibungaza u-Shiratani Unsuikyo! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Shiratani Unsuikyo",
+    "share_text": "Celebrating Shiratani Unsuikyo! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-cesar-lattes",
     "title": "Celebrating César Lattes",
     "url": "//www.google.com/logos/doodles/2024/celebrating-cesar-lattes-6753651837110340.2-law.gif",
