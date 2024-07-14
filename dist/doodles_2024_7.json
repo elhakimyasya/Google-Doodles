@@ -1,5 +1,504 @@
 [
   {
+    "name": "bastille-day-2024",
+    "title": "Bastille Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/bastille-day-2024-6753651837110253.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/o1MkZha1tbdE9BoJZFN4O_AfvpDNzTZgYaaPjj7L-VMnivQRZy2d2e1C5Wn8M7SEVmfhf6w7uRRUa9HpBB7EH6qwDSk_Pa0l0AJIjynCjRi24UflbSlnU4k",
+    "high_res_url": "//www.google.com/logos/doodles/2024/bastille-day-2024-6753651837110253-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      7,
+      14
+    ],
+    "translations": {
+      "en": {
+        "query": "Bastille Day",
+        "hover_text": "Bastille Day 2024",
+        "share_text": "Happy Bastille Day, France! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Bastille-dag",
+        "hover_text": "Bastilledag 2024",
+        "share_text": "Gelukkige Bastilledag, Frankryk! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Bastijës",
+        "hover_text": "Dita e Bastijës, 2024",
+        "share_text": "Gëzuar Ditën e Bastijës, Francë! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የባስቲል ቀን",
+        "hover_text": "የባስቲል ቀን 2024",
+        "share_text": "መልካም የባስቲል ቀን፣ ፈረንሳይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "ذكرى سقوط الباستيل",
+        "hover_text": "ذكرى سقوط \"الباستيل\" 2024",
+        "share_text": "نحتفل اليوم بذكرى يوم الباستيل (العيد الوطني الفرنسي). ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Բաստիլի գրավման օր",
+        "hover_text": "Բաստիլի գրավման օր 2024",
+        "share_text": "Շնորհավո՛ր Բաստիլի գրավման օրը, Ֆրանսիա #GoogleDoodle"
+      },
+      "az": {
+        "query": "Bastille günü",
+        "hover_text": "2024 Bastiliya Günü",
+        "share_text": "Bastiliya Günün Mübarək, Fransa! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "বাস্তিল দিবস",
+        "hover_text": "বাস্তিল দিবস ২০২৪",
+        "share_text": "বাস্তিল দিবসের শুভেচ্ছা, ফ্রান্স! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Bastillaren eguna",
+        "hover_text": "2024ko Frantziako Jaiegun Nazionala",
+        "share_text": "Frantziako Jaiegun Nazional zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень узяцця Бастыліі",
+        "hover_text": "Дзень узяцця Бастыліі 2024",
+        "share_text": "З Днём узяцця Бастыліі, Францыя! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan Bastilje",
+        "hover_text": "Dan Bastilje 2024.",
+        "share_text": "Sretan Dan Bastilje, Francuska! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Bastille Day",
+        "hover_text": "Bastille Day 2024",
+        "share_text": "Happy Bastille Day, France! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на Бастилията",
+        "hover_text": "Ден на Бастилията 2024 г.",
+        "share_text": "Честит Ден на Бастилията на Франция! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ပြင်သစ်အမျိုးသားနေ့",
+        "hover_text": "၂၀၂၄ ပြင်သစ်နိုင်ငံ အမျိုးသားနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် ပြင်သစ်အမျိုးသားနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Bastilla",
+        "hover_text": "Dia de la Bastilla 2024",
+        "share_text": "Feliç Dia de la Bastilla, França! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "法國國慶日",
+        "hover_text": "2024 年法國國慶日",
+        "share_text": "法國，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "法國國慶日",
+        "hover_text": "2024 年法國國慶日",
+        "share_text": "法國，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "法国国庆日",
+        "hover_text": "2024 年法国国庆节",
+        "share_text": "法国，国庆节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan Bastille",
+        "hover_text": "Dan pada Bastille 2024.",
+        "share_text": "Sretan Dan Bastille, Francuska! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den dobytí Bastily",
+        "hover_text": "Den dobytí Bastily 2024",
+        "share_text": "Šťastné oslavy dobytí Bastily, Francie! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Bastilledag",
+        "hover_text": "Bastilledagen 2024",
+        "share_text": "Tillykke med Bastilledagen, Frankrig! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Franse nationale feestdag",
+        "hover_text": "Quatorze juillet 2024",
+        "share_text": "Fijne nationale feestdag, Frankrijk #GoogleDoodle"
+      },
+      "et": {
+        "query": "Bastille' päev",
+        "hover_text": "2024. aasta Bastille' päev",
+        "share_text": "Head Bastille’ päeva, Prantsusmaa! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Ranskan kansallispäivä",
+        "hover_text": "Ranskan kansallispäivä 2024",
+        "share_text": "Hyvää kansallispäivää, Ranska! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête du 14 Juillet",
+        "hover_text": "Fête nationale du 14 Juillet 2024",
+        "share_text": "Joyeux 14 Juillet ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête de la Fédération",
+        "hover_text": "Jour de la Bastille 2024",
+        "share_text": "Joyeuse fête de la Fédération, la France! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Bastilla",
+        "hover_text": "Día da Bastilla 2024",
+        "share_text": "Feliz Día da Bastilla, Francia! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ბასტილიის დღე",
+        "hover_text": "ბასტილიის დღე — 2024",
+        "share_text": "ვულოცავთ საფრანგეთს ბასტილიის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Französischer Nationalfeiertag",
+        "hover_text": "Französischer Nationalfeiertag 2024",
+        "share_text": "Alles Gute zum Nationalfeiertag in Frankreich! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα της Βαστίλης",
+        "hover_text": "Ημέρα της Βαστίλης 2024",
+        "share_text": "Η Γαλλία γιορτάζει την Ημέρα της Βαστίλης! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "બૅસ્ટિલ દિવસ",
+        "hover_text": "બૅસ્ટિલ દિવસ 2024",
+        "share_text": "બૅસ્ટિલ દિવસની શુભેચ્છા, ફ્રાન્સ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום הבסטיליה",
+        "hover_text": "יום הבסטיליה 2024",
+        "share_text": "יום בסטיליה שמח לצרפת! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "बैस्टिल दिवस",
+        "hover_text": "बैस्टिल दिवस 2024",
+        "share_text": "फ़्रांस को बैस्टिल दिवस की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A Bastille ostromának napja",
+        "hover_text": "A Bastille ostromának napja, 2024",
+        "share_text": "Minden jót a Bastille ostromának napján, Franciaország! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Bastilludagur",
+        "hover_text": "Bastilludagurinn 2024",
+        "share_text": "Gleðilegan Bastilludag, Frakkland! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Bastille",
+        "hover_text": "Hari Bastille 2024",
+        "share_text": "Selamat Hari Bastille, Prancis! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá an Bastille",
+        "hover_text": null,
+        "share_text": "Lá Bastille na Fraince, 2020 faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa nazionale francese",
+        "hover_text": "Festa nazionale francese 2024",
+        "share_text": "Felice festa nazionale francese! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "パリ祭",
+        "hover_text": "2024 年パリ祭",
+        "share_text": "パリ祭（フランス）を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಬಾಸ್ಟಿಲ್ ದಿನಾಚರಣೆ",
+        "hover_text": "ಬಾಸ್ಟಿಲ್ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಬಾಸ್ಟಿಲ್ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಫ್ರಾನ್ಸ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Бастилия күні",
+        "hover_text": "Бастилия күні – 2024",
+        "share_text": "Бастилия күні құтты болсын, Франция! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាបុណ្យជាតិ​បារាំង",
+        "hover_text": "ទិវាបុណ្យបាស់ស្ទីល​ឆ្នាំ 2024",
+        "share_text": "អបអរទិវាបុណ្យជាតិ​បារាំង​! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "프랑스 혁명기념일",
+        "hover_text": "2024년 프랑스 혁명 기념일",
+        "share_text": "프랑스 혁명 기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Бастилия күнү",
+        "hover_text": "Бастилия күнү — 2024",
+        "share_text": "Бастилия күнү кут болсун, Франция! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນບັສຕີ",
+        "hover_text": "ວັນຊາດຝຣັ່ງ 2024",
+        "share_text": "ສຸກສັນວັນຊາດຝຣັ່ງ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Bastilla",
+        "hover_text": "Día de la Bastilla 2024",
+        "share_text": "¡Feliz Día de la Bastilla, Francia! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Bastīlijas diena",
+        "hover_text": "Bastīlijas ieņemšanas diena — 2024",
+        "share_text": "Sveicam Bastīlijas ieņemšanas dienā, Francija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Bastilijos diena",
+        "hover_text": "Bastilijos diena, 2024 m.",
+        "share_text": "Sveikiname Prancūziją su Bastilijos diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на Бастилја",
+        "hover_text": "Ден на Бастилја, 2024 г.",
+        "share_text": "Среќен Ден на Бастилја, Франција! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny Bastille",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny Bastille ry Frantsa ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Bastille",
+        "hover_text": "Hari Bastille 2024",
+        "share_text": "Selamat Hari Bastille, Perancis! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ബാസ്‌റ്റിൽ ദിനം",
+        "hover_text": "ബാസ്‌റ്റിൽ ദിനം 2024",
+        "share_text": "ബാസ്‌റ്റിൽ ദിനാശംസകൾ, ഫ്രാൻസ്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "बास्टील डे",
+        "hover_text": "बॅस्टिल डे २०२४",
+        "share_text": "बास्टील डे च्या हार्दिक शुभेच्छा, फ्रान्स! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Бастилын өдөр",
+        "hover_text": "2024 оны Бастилын өдөр",
+        "share_text": "Францын ард иргэдэд Бастилын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "ब्यास्टिल दिवस",
+        "hover_text": "ब्यास्टिल दिवस २०२४",
+        "share_text": "ब्यास्टिल दिवसको शुभकामना, फ्रान्स! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Frankrikes nasjonaldag",
+        "hover_text": "Frankrikes nasjonaldag 2024",
+        "share_text": "Gratulerer med nasjonaldagen, Frankrike! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ବାସ୍ତିଲ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ବାଷ୍ଟିଲ୍ ଦିବସର ଶୁଭେଚ୍ଛା, ଫ୍ରାନ୍ସ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز ملی فرانسه",
+        "hover_text": "روز باستیل ۲۰۲۴",
+        "share_text": "روز باستیل فرانسه مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Rocznica zdobycia Bastylii",
+        "hover_text": "Rocznica zdobycia Bastylii 2024",
+        "share_text": "Francja świętuje rocznicę zdobycia Bastylii #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Bastilha",
+        "hover_text": "Dia da Bastilha 2024",
+        "share_text": "Feliz Dia da Bastilha, França! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da Bastilha",
+        "hover_text": "Dia da Bastilha de 2024",
+        "share_text": "Feliz dia da Bastilha, França! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਬੈਸਟਿੱਲੇ ਦਿਵਸ",
+        "hover_text": "ਬਾਸਤੀਲ ਦਿਵਸ 2024",
+        "share_text": "ਬੈਸਟਿੱਲੇ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਫਰਾਂਸ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Bastiliei",
+        "hover_text": "Ziua Bastiliei – 2024",
+        "share_text": "La mulți ani de Ziua Bastiliei, Franța! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День взятия Бастилии",
+        "hover_text": "День взятия Бастилии – 2024",
+        "share_text": "День взятия Бастилии #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан пада Бастиље",
+        "hover_text": "Дан пада Бастиље 2024.",
+        "share_text": "Честитамо Дан пада Бастиље Француској! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan pada Bastilje",
+        "hover_text": "Dan pada Bastilje 2024.",
+        "share_text": "Čestitamo Dan pada Bastilje Francuskoj! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Bastille",
+        "hover_text": null,
+        "share_text": "Bonn zournen Bastille Lafrans! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "බැස්ටිල් දිනය",
+        "hover_text": "බැස්ටිල් දිනය 2024",
+        "share_text": "සුබ බැස්ටිල් දිනයක්, ප්‍රංශය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň dobytia Bastily",
+        "hover_text": "Deň dobytia Bastily 2024",
+        "share_text": "Šťastný deň dobytia Bastily, Francúzsko. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan Bastije",
+        "hover_text": "Dan Bastije 2024",
+        "share_text": "Vesel dan Bastije, Francija! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Bastille",
+        "hover_text": null,
+        "share_text": "Maalinta Bastille ee Farxada leh, Faransiiska! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tora ya Bastille",
+        "hover_text": null,
+        "share_text": "Mahlohonolo a Letsatsi la Bastille, Fora! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Bastilla",
+        "hover_text": "Fiesta Nacional de Francia 2024",
+        "share_text": "¡Feliz Día de la Revolución Francesa! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Bastille",
+        "hover_text": "Sikukuu ya Bastille 2024",
+        "share_text": "Heri ya Sikukuu ya Bastille, Ufaransa! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Frankrikes nationaldag",
+        "hover_text": "Frankrikes nationaldag 2024",
+        "share_text": "Vi firar Frankrikes nationaldag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "பாஸ்டில் தினம்",
+        "hover_text": "பாஸ்டில் தினம் 2024",
+        "share_text": "ஃபிரான்ஸ் நாட்டின் பாஸ்டில் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "బాస్టిల్లె దినోత్సవం",
+        "hover_text": "బస్టీల్ డే 2024",
+        "share_text": "బాస్టీల్ దినోత్సవ శుభాకాంక్షలు, ఫ్రాన్స్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันชาติฝรั่งเศส",
+        "hover_text": "วันชาติฝรั่งเศสปี 2024",
+        "share_text": "สุขสันต์วันชาติฝรั่งเศส #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Bastille",
+        "hover_text": null,
+        "share_text": "Itumeleleng Letsatsi al Bastille, France! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Bastille Günü",
+        "hover_text": "2024 Bastille Günü",
+        "share_text": "Fransa Bastille Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День взяття Бастилії",
+        "hover_text": "День узяття Бастилії у 2024 році",
+        "share_text": "З Днем взяття Бастилії, Франціє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Bastille ڈے",
+        "hover_text": "باسٹیل ڈے 2024",
+        "share_text": "باسٹیل ڈے مبارک ہو، فرانس! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Bastilya kuni",
+        "hover_text": "Bastiliya kuni 2024",
+        "share_text": "Bastilya kuni muborak, Fransiya! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Pháp",
+        "hover_text": "Ngày Quốc khánh Pháp năm 2024",
+        "share_text": "Mừng ngày Quốc khánh Pháp! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lwe-Bastille",
+        "hover_text": "Usuku lweBastille lwango-2024",
+        "share_text": "Usuku oluhle lwe-Bastille, e-France! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Bastille Day",
+    "share_text": "Happy Bastille Day, France! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-shiratani-unsuikyo",
     "title": "Celebrating Shiratani Unsuikyo",
     "url": "//www.google.com/logos/doodles/2024/celebrating-shiratani-unsuikyo-6753651837110188.4-l.png",
