@@ -1,5 +1,504 @@
 [
   {
+    "name": "celebrating-juan-gabriel",
+    "title": "Celebrating Juan Gabriel",
+    "url": "//www.google.com/logos/doodles/2024/celebrating-juan-gabriel-6753651837110018-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/IA_zDiMXeOoBX6rSXniTU3hCVNPXNrtIU01zywZdx2thCQ-gYghkMwTboWUg4R3bBTMgafJNgtjmYB5-glM2KKczEPjUCLrS9lVZ6cx161NwU3m6v8MU",
+    "high_res_url": "//www.google.com/logos/doodles/2024/celebrating-juan-gabriel-6753651837110018.2-2xa.gif",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2024,
+      7,
+      15
+    ],
+    "translations": {
+      "en": {
+        "query": "Juan Gabriel",
+        "hover_text": "Celebrating Juan Gabriel",
+        "share_text": "Celebrating Juan Gabriel! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Juan Gabriel",
+        "hover_text": "Ter viering van Juan Gabriel",
+        "share_text": "Ter viering van Juan Gabriel! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Juan Gabriel",
+        "hover_text": "Përkujtojmë Juan Gabriel",
+        "share_text": "Përkujtojmë Juan Gabriel! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ጁአን ጋብሪኤል",
+        "hover_text": "ለጁአን ጋብሪኤል አክብሮት መስጫ",
+        "share_text": "ሁዋን ጋብሬልን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "خوان غابرييل",
+        "hover_text": "الاحتفال بذكرى \"خوان غابرييل\"",
+        "share_text": "نحتفل اليوم بذكرى \"خوان غابرييل\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Խուան Գաբրիել",
+        "hover_text": "Խուան Գաբրիելի օր",
+        "share_text": "Տոնե՛նք Խուան Գաբրիելի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Yuan Qabriel",
+        "hover_text": "Yuan Qabriel Günü",
+        "share_text": "Juan Gabriel günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "Juan Gabriel",
+        "hover_text": "Juan Gabriel-এর জন্মদিনে",
+        "share_text": "হুয়ান গ্যাব্রিয়েলের স্মৃতিতে উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Juan Gabriel",
+        "hover_text": "Juan Gabrielen omenez",
+        "share_text": "Juan Gabrielen omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Хуан Габрыэль",
+        "hover_text": "Ушаноўваем Хуана Габрыэля",
+        "share_text": "Ушаноўваем Хуана Габрыэля! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Juan Gabriel",
+        "hover_text": "Slavimo Juana Gabriela",
+        "share_text": "Slavimo Juana Gabriela! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Juan Gabriel",
+        "hover_text": "Celebrating Juan Gabriel",
+        "share_text": "Celebrating Juan Gabriel #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Хуан Габриел",
+        "hover_text": "Честване на Хуан Габриел",
+        "share_text": "Честване на Хуан Габриел! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Juan Gabriel",
+        "hover_text": "Juan Gabriel ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "Juan Gabriel ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Juan Gabriel",
+        "hover_text": "Homenatge a Juan Gabriel",
+        "share_text": "Homenatge a Juan Gabriel #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "胡安．蓋伯瑞",
+        "hover_text": "紀念胡安．蓋伯瑞",
+        "share_text": "紀念 Juan Gabriel！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "璜蓋伯瑞",
+        "hover_text": "紀念璜蓋伯瑞",
+        "share_text": "紀念璜蓋伯瑞！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "胡安·加布里埃尔",
+        "hover_text": "纪念胡安·加布里埃尔",
+        "share_text": "纪念胡安·加布里埃尔！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Juan Gabriel",
+        "hover_text": "U čast Juanu Gabrielu",
+        "share_text": "U čast Juanu Gabrielu! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Juan Gabriel",
+        "hover_text": "Pocta Juanu Gabrielovi",
+        "share_text": "Pocta Juanu Gabrielovi! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Juan Gabriel",
+        "hover_text": "Vi fejrer Juan Gabriel",
+        "share_text": "Vi hylder Juan Gabriel #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Juan Gabriel",
+        "hover_text": "Doodle ter ere van Juan Gabriel",
+        "share_text": "Een doodle ter ere van Juan Gabriel! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Juan Gabriel",
+        "hover_text": "Hoiame au sees Juan Gabrieli",
+        "share_text": "Mälestame Juan Gabrieli! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Juan Gabriel",
+        "hover_text": "Juan Gabriel",
+        "share_text": "Juan Gabriel #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Juan Gabriel",
+        "hover_text": "Hommage à Juan Gabriel",
+        "share_text": "Hommage à Juan Gabriel ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Juan Gabriel",
+        "hover_text": "Hommage à Juan Gabriel",
+        "share_text": "Célébration de Juan Gabriel! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Juan Gabriel",
+        "hover_text": "Homenaxe a Juan Gabriel",
+        "share_text": "Homenaxe a Juan Gabriel #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ხუან გაბრიელი",
+        "hover_text": "ხუან გაბრიელის დღე",
+        "share_text": "ხუან გაბრიელის დღე! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Juan Gabriel",
+        "hover_text": "Zu Ehren von Juan Gabriel",
+        "share_text": "Zu Ehren von Juan Gabriel! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Juan Gabriel",
+        "hover_text": "Τιμούμε τον Juan Gabriel",
+        "share_text": "Τιμούμε τον Juan Gabriel! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "Juan Gabriel",
+        "hover_text": "Juan Gabrielની યાદમાં",
+        "share_text": "હુઆન ગેબ્રિયલની યાદમાં! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "חואן גבריאל",
+        "hover_text": "לציון חואן גבריאל",
+        "share_text": "מחווה לחואן גבריאל GoogleDoodle#"
+      },
+      "hi": {
+        "query": "हुआन गैब्रिएल",
+        "hover_text": "हुआन गैब्रिएल की याद में",
+        "share_text": "हुआन गैब्रिएल की याद में! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Juan Gabriel",
+        "hover_text": "Juan Gabriel ünneplése",
+        "share_text": "Juan Gabriel ünneplése #GoogleDoodle"
+      },
+      "is": {
+        "query": "Juan Gabriel",
+        "hover_text": "Við minnumst Juans Gabriel",
+        "share_text": "Við heiðrum Juan Gabriel! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Juan Gabriel",
+        "hover_text": "Mengenang Juan Gabriel",
+        "share_text": "Mengenang Juan Gabriel #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Juan Gabriel",
+        "hover_text": "Juan Gabriel á cheiliúradh",
+        "share_text": ""
+      },
+      "it": {
+        "query": "Juan Gabriel",
+        "hover_text": "Festeggiamenti in onore di Juan Gabriel",
+        "share_text": "In onore di Juan Gabriel! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "フアン・ガブリエル",
+        "hover_text": "フアン・ガブリエルを称えて",
+        "share_text": "フアン・ガブリエルを称えて #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಜುವಾನ್ ಗೇಬ್ರಿಯಲ್",
+        "hover_text": "ಜುವಾನ್ ಗೇಬ್ರಿಯಲ್ ಅವರನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಜುವಾನ್ ಗೇಬ್ರಿಯಲ್ ಅವರನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Хуан Габриель",
+        "hover_text": "Хуан Габриельдің туған күні",
+        "share_text": "Хуан Габриель күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Juan Gabriel",
+        "hover_text": "អបអរ​ទិវារំលឹកដល់ Juan Gabriel",
+        "share_text": "អបអរការរំលឹក Juan Gabriel! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "후안 가브리엘",
+        "hover_text": "후안 가브리엘 기념",
+        "share_text": "후안 가브리엘을 기억하며 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Хуан Габриэль",
+        "hover_text": "Хуан Габриэлдин мааракеси",
+        "share_text": "Хуан Габриэлдин мааракеси! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Juan Gabriel",
+        "hover_text": "ສະເຫຼີມສະຫຼອງ Juan Gabriel",
+        "share_text": "ວັນລະນຶກເຖິງ Juan Gabriel! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Juan Gabriel ",
+        "hover_text": "Celebramos a Juan Gabriel",
+        "share_text": "Celebramos a Juan Gabriel. #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Huans Gabriels",
+        "hover_text": "Huana Gabriela godināšana",
+        "share_text": "Godinām Huanu Gabrielu! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Juanas Gabrielis",
+        "hover_text": "Juano Gabrielio minėjimas",
+        "share_text": "Juano Gabrielio minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Хуан Габриел",
+        "hover_text": "Во чест на Хуан Габриел",
+        "share_text": "Во чест на Juan Gabriel! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Juan Gabriel",
+        "hover_text": "Mankalaza an'i Juan Gabriel",
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Juan Gabriel",
+        "hover_text": "Meraikan Juan Gabriel",
+        "share_text": "Meraikan Juan Gabriel! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഹുവാൻ ഗബ്രിയേൽ",
+        "hover_text": "ഹുവാൻ ഗബ്രിയേലിന്റെ ജന്മദിനം ആഘോഷിക്കുന്നു",
+        "share_text": "ഹുവാൻ ഗബ്രിയേലിനെ ആദരിക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "हुआन गॅब्रिएल",
+        "hover_text": "हुआन गॅब्रिएल यांची जयंती साजरी करत आहे",
+        "share_text": "हुआन गॅब्रिएल यांच्या स्मरणार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Хуан Габриел",
+        "hover_text": "Хуан Габриелын мэндэлсэн өдрийг тэмдэглэж байна",
+        "share_text": "Хуан Габриелын мэндэлсэн өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Juan Gabriel",
+        "hover_text": "Juan Gabriel को सम्झना गर्दै",
+        "share_text": "Juan Gabriel को सम्झना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Juan Gabriel",
+        "hover_text": "Vi feirer Juan Gabriel",
+        "share_text": "Vi feirer Juan Gabriel! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ହୁଆନ୍ ଗାବ୍ରିଆଲ୍",
+        "hover_text": "ହୁଆନ୍ ଗାବ୍ରିଆଲ୍‍‍ଙ୍କ ସ୍ମୃତିରେ ଜନ୍ମଦିନର ପାଳନ",
+        "share_text": "ହୁଆନ ଗାବ୍ରିଆଲଙ୍କ ସ୍ମୃତିରେ ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "خوآن گابریِل",
+        "hover_text": "بزرگداشت خوآن گابریِل",
+        "share_text": "بزرگداشت خوآن گابریِل! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Juan Gabriel",
+        "hover_text": "Ku pamięci Juana Gabriela",
+        "share_text": "Wspominamy Juana Gabriela #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Juan Gabriel",
+        "hover_text": "Celebração da vida de Juan Gabriel",
+        "share_text": "Celebração da vida de Juan Gabriel #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Juan Gabriel",
+        "hover_text": "Celebração de Juan Gabriel",
+        "share_text": "Celebração de Juan Gabriel! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਖਵਾਂਗ ਗੈਬਰੀਅਲ",
+        "hover_text": "ਖਵਾਂਗ ਗੈਬਰੀਅਲ ਦੀ ਸਿਫ਼ਤ ਵਿੱਚ",
+        "share_text": "ਹੁਆਨ ਗੈਬਰੀਅਲ ਦੀ ਯਾਦ ਵਿੱਚ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Juan Gabriel",
+        "hover_text": "În cinstea lui Juan Gabriel",
+        "share_text": "În cinstea lui Juan Gabriel! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Хуан Габриэль",
+        "hover_text": "День Хуана Габриэля",
+        "share_text": "День Хуана Габриэля #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Хуан Габријел",
+        "hover_text": "Славимо Хуана Габријела",
+        "share_text": "Славимо Хуана Габријела! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Huan Gabrijel",
+        "hover_text": "Slavimo Huana Gabrijela",
+        "share_text": "Slavimo Huana Gabrijela! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Juan Gabriel",
+        "hover_text": "Selebre Juan Gabriel",
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "හුවාන් ගැබ්‍රියේල්",
+        "hover_text": "හුවාන් ගැබ්‍රියේල් සැමරීම",
+        "share_text": "ජුවාන් ගේබ්‍රියෙල් සමරමින්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Juan Gabriel",
+        "hover_text": "Oslavujeme Juana Gabriela",
+        "share_text": "Oslavujeme Juana Gabriela! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Juan Gabriel",
+        "hover_text": "Slavimo Juana Gabriela",
+        "share_text": "Slavimo Juana Gabriela! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Juan Gabriel",
+        "hover_text": "U dabaal degaya Juan Gabriel",
+        "share_text": ""
+      },
+      "st": {
+        "query": "Juan Gabriel",
+        "hover_text": "Re Keteka Juan Gabriel",
+        "share_text": ""
+      },
+      "es": {
+        "query": "Juan Gabriel",
+        "hover_text": "Homenaje a Juan Gabriel",
+        "share_text": "Hoy rendimos homenaje a Juan Gabriel #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Juan Gabriel",
+        "hover_text": "Tunasherehekea Juan Gabriel",
+        "share_text": "Tunamwenzi Juan Gabriel! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Juan Gabriel",
+        "hover_text": "Vi firar Juan Gabriel",
+        "share_text": "Vi firar Juan Gabriel #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "சூவான் கேப்ரியல்",
+        "hover_text": "சூவான் கேப்ரியலைக் கொண்டாடுவோம்",
+        "share_text": "ஹுவான் கேப்ரியலைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "జువాన్ గాబ్రియేల్",
+        "hover_text": "జువాన్ గాబ్రియేల్ సంబరాలు",
+        "share_text": "హువాన్ గాబ్రియెల్‌ను స్మరించుకుందాం! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Juan Gabriel",
+        "hover_text": "วันเฉลิมฉลอง Juan Gabriel",
+        "share_text": "วันรำลึกถึง Juan Gabriel #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Juan Gabriel",
+        "hover_text": "Go Keteta Juan Gabriel",
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Juan Gabriel",
+        "hover_text": "Juan Gabriel Kutlaması",
+        "share_text": "Juan Gabriel'i Anıyoruz #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Хуан Габріель",
+        "hover_text": "Ушанування Хуана Габріеля",
+        "share_text": "Ушановуємо Хуана Габріеля! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Juan Gabriel",
+        "hover_text": "Juan Gabriel کا جشن",
+        "share_text": "Juan Gabriel کا جشن! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Juan Gabriel",
+        "hover_text": "Juan Gabriel tavallud topgan kun",
+        "share_text": "Juan Gabriel tavallud topgan kun! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Juan Gabriel",
+        "hover_text": "Tôn vinh Juan Gabriel",
+        "share_text": "Tôn vinh Juan Gabriel! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Juan Gabriel",
+        "hover_text": "Ukubungaza u-Juan Gabriel",
+        "share_text": "Ukubungaza u-Juan Gabriel! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Juan Gabriel",
+    "share_text": "Celebrating Juan Gabriel! #GoogleDoodle"
+  },
+  {
     "name": "bastille-day-2024",
     "title": "Bastille Day 2024",
     "url": "//www.google.com/logos/doodles/2024/bastille-day-2024-6753651837110253.2-l.png",
