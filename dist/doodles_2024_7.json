@@ -1,5 +1,504 @@
 [
   {
+    "name": "celebrating-simone-louise-des-forest",
+    "title": "Celebrating Simone Louise des Forest",
+    "url": "//www.google.com/logos/doodles/2024/celebrating-simone-louise-des-forest-6753651837110255-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/MGt5CctxlXv4e_s4eJ4WrPedtCbJZ6C6-WGlVxzi8RBlQhqW7nu9a6IsERKoF8ANoo_L-xz-PA5dxzHAEMqQJIOT4mHRosBaX67F5DDlTWIayXMrBTbX",
+    "high_res_url": "//www.google.com/logos/doodles/2024/celebrating-simone-louise-des-forest-6753651837110255-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2024,
+      7,
+      19
+    ],
+    "translations": {
+      "en": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "Simone Louise des Forest's 114th Birthday",
+        "share_text": "Simone Louise des Forest's 114th Birthday! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "Simone Louise des Forest se 114e verjaarsdag",
+        "share_text": "Simone Louise des Forest se 114e verjaarsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "114-vjetori i lindjes së Simone Louise des Forest",
+        "share_text": "114-vjetori i lindjes së Simone Louise des Forest #GoogleDoodle"
+      },
+      "am": {
+        "query": "ሲሞን ሉዊ ዴ ፎረስት",
+        "hover_text": "የሲሞን ሉዊ ዴ ፎረስት 114ኛ ልደት",
+        "share_text": "የሲሞን ሉዊ ዴ ፎረስት 114ኛ ልደት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "سيمون لويز دي فورست",
+        "hover_text": "الذكرى 114 لميلاد \"سيمون لويز دي فورست\"",
+        "share_text": "يصادف اليوم الذكرى 114 لميلاد \"سيمون لويز دي فورست\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Սիմոն Լուիզ դե Ֆորեստ",
+        "hover_text": "Սիմոն Լուիզ դե Ֆորեստի ծննդյան 114-ամյակը",
+        "share_text": "Սիմոն Լուիզ դե Ֆորեստի ծննդյան 114-ամյակը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Simon Luiz de Forest",
+        "hover_text": "Simone Louise des Forest-in 114-cü ildönümü",
+        "share_text": "Simone Louise des Forest-in 114-cü ildönümü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "সিমোন লুইস দে ফরেস্ট",
+        "hover_text": "সিমোন লুইস ডে ফরেস্টের ১১৪তম জন্মদিন",
+        "share_text": "সিমোন লুইস ডে ফরেস্টের ১১৪তম জন্মদিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "Simone Louise des Foresten jaiotzaren 114. urteurrena",
+        "share_text": "Simone Louise des Foresten jaiotzaren 114. urteurrena #GoogleDoodle"
+      },
+      "be": {
+        "query": "Сімона Луіза дэ Фарэст",
+        "hover_text": "114 гадоў з дня нараджэння Сімоны Луізы дэ Фарэст",
+        "share_text": "114 гадоў з дня нараджэння Сімоны Луізы дэ Фарэст! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "114 godina od rođenja Simone Louise des Forest",
+        "share_text": "114 godina od rođenja Simone Louise des Forest! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "Simone Louise des Forest's 114th Birthday",
+        "share_text": "Simone Louise des Forest's 114th Birthday! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Симон Луис де Форест",
+        "hover_text": "114 години от рождението на Симон Луис де Форест",
+        "share_text": "114 години от рождението на Симон Луис де Форест! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "Simone Louise des Forest ၏ ၁၁၄ နှစ်မြောက်မွေးနေ့",
+        "share_text": "Simone Louise des Forest ၏ ၁၁၄ နှစ်မြောက်မွေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "114è aniversari del naixement de Simone Louise des Forest",
+        "share_text": "114è aniversari del naixement de Simone Louise des Forest #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "Simone Louise des Forest 誕辰 114 週年",
+        "share_text": "Simone Louise des Forest 誕辰 114 週年！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "西蒙尼路易絲德斯富雷斯特",
+        "hover_text": "西蒙尼路易絲德斯富雷斯特 114 歲冥誕",
+        "share_text": "紀念西蒙尼路易絲德斯富雷斯特 114 歲冥誕！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "Simone Louise des Forest 诞辰 114 周年",
+        "share_text": "Simone Louise des Forest 诞辰 114 周年！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "114. godišnjica rođenja Simone Louise des Forest",
+        "share_text": "114. godišnjica rođenja Simone Louise des Forest! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "114. výročí narození Simone Louise des Forest",
+        "share_text": "Slavíme 114. výročí narození Simone Louise des Forest! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "Simone Louise des Forests 114-års fødselsdag",
+        "share_text": "Simone Louise des Forests 114-års fødselsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "114e geboortedag van Simone Louise des Forest",
+        "share_text": "De 114e geboortedag van Simone Louise des Forest! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "Simone Louise des Foresti 114. sünniaastapäev",
+        "share_text": "Simone Louise des Foresti 114. sünniaastapäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "114 vuotta Simone Louise des Forestin syntymästä",
+        "share_text": "114 vuotta Simone Louise des Forestin syntymästä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "Il y a 114 ans naissait Simone Louise des Forest",
+        "share_text": "Il y a 114 ans naissait Simone Louise des Forest #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "114ᵉ anniversaire de naissance de Simone Louise des Forest",
+        "share_text": "114ᵉ anniversaire de naissance de Simone Louise des Forest! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "114.º aniversario do nacemento de Simone Louise des Forest",
+        "share_text": "114.º aniversario do nacemento de Simone Louise des Forest! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "სიმონ ლუიზ დე ფორესტი",
+        "hover_text": "114 წელი სიმონ ლუიზ დე ფორესტის დაბადებიდან",
+        "share_text": "114 წელი სიმონ ლუიზ დე ფორესტის დაბადებიდან! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "114. Geburtstag von Simone Louise des Forest",
+        "share_text": "114. Geburtstag von Simone Louise des Forest #GoogleDoodle"
+      },
+      "el": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "114 χρόνια από τη γέννηση της Simone Louise des Forest",
+        "share_text": "114 χρόνια από τη γέννηση της Simone Louise des Forest! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "સિમૉન લૂઇસ ડેસ ફોરેસ્ટ",
+        "hover_text": "સિમૉન લૂઇસ ડેસ ફોરેસ્ટનો 114મો જન્મદિવસ",
+        "share_text": "સિમૉન લૂઇસ ડેસ ફોરેસ્ટનો 114મો જન્મદિવસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "סימון לואיז דס פורסט",
+        "hover_text": "114 שנים להולדת סימון לואיז דה פורה",
+        "share_text": "114 שנים להולדת סימון לואיז דה פורה GoogleDoodle#"
+      },
+      "hi": {
+        "query": "सिमॉन लुईज़ देफ़ॉरेस्त",
+        "hover_text": "सिमॉन लुईज़ दे फ़ॉरेस्त की 114वीं जयंती",
+        "share_text": "सिमॉन लुईज़ दे फ़ॉरेस्त की 114वीं जयंती! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "Simone Louise des Forest születésének 114. évfordulója",
+        "share_text": "Simone Louise des Forest születésének 114. évfordulója. #GoogleDoodle"
+      },
+      "is": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "114 ár frá fæðingu Simone Louise des Forest",
+        "share_text": "114 ár frá fæðingu Simone Louise des Forest! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "Ulang Tahun Ke-114 Simone Louise des Forest",
+        "share_text": "Ulang Tahun Ke-114 Simone Louise des Forest #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "114° anniversario della nascita di Simone Louise des Forest",
+        "share_text": "114° anniversario della nascita di Simone Louise des Forest! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "シモーヌ・ルイーズ・デ・フォレスト",
+        "hover_text": "シモーヌ・ルイーズ・デ・フォレスト生誕 114 周年",
+        "share_text": "シモーヌ・ルイーズ・デ・フォレスト生誕 114 周年 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಸಿಮೋನ್ ಲೂಯಿಸ್ ಡೆಸ್ ಫಾರೆಸ್ಟ್",
+        "hover_text": "ಸಿಮೋನ್ ಲೂಯಿಸ್ ಡೆಸ್ ಫಾರೆಸ್ಟ್ ಅವರ 114ನೇ ಜನ್ಮದಿನದ ಸವಿನೆನಪಿನಲ್ಲಿ",
+        "share_text": "ಸಿಮೋನ್ ಲೂಯಿಸ್ ಡೆಸ್ ಫಾರೆಸ್ಟ್ ಅವರ 114ನೇ ಜನ್ಮದಿನದ ಸವಿನೆನಪಿನಲ್ಲಿ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Симона Луиза де Форест",
+        "hover_text": "Симона Луиза де Форесттің 114 жылдығы",
+        "share_text": "Симона Луиза де Форесттің 114 жылдығы құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "ខួបកំណើតគម្រប់ 114 ឆ្នាំរបស់ Simone Louise des Forest",
+        "share_text": "ខួបកំណើតគម្រប់ 114 ឆ្នាំរបស់ Simone Louise des Forest! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "시몬 루이즈 데스 포레스트",
+        "hover_text": "Simone Louise des Forest 탄생 114주년",
+        "share_text": "Simone Louise des Forest 탄생 114주년! #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Симона Луиза де Форест",
+        "hover_text": "Симона Луиза де Форесттин 114 жаш мааракеси",
+        "share_text": "Симона Луиза де Форесттин 114 жаш мааракеси! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 114 ປີຂອງ Simone Louise des Forest",
+        "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 114 ປີຂອງ Simone Louise des Forest! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "114º aniversario del nacimiento de Simone Louise des Forest",
+        "share_text": "¡114º aniversario del nacimiento de Simone Louise des Forest! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Simona Luīza de Foresta",
+        "hover_text": "Simonas Luīzas de Forestas 114. dzimšanas diena",
+        "share_text": "Simonas Luīzas de Forestas 114. dzimšanas diena! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "114-asis Simone Louise des Forest gimtadienis",
+        "share_text": "114-asis Simone Louise des Forest gimtadienis! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Симон Луиз де Форест",
+        "hover_text": "114. роденден на Simone Louise des Forest",
+        "share_text": "114. роденден на Simone Louise des Forest! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "Ulang tahun kelahiran Simone Louise des Forest yang ke-114",
+        "share_text": "Ulang tahun kelahiran Simone Louise des Forest yang ke-114! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "സിമോൺ ലൂയിസ് ദെ ഫോറസ്റ്റ്",
+        "hover_text": "Simone Louise des Forest-ന്റെ 114-ാം ജന്മദിനം",
+        "share_text": "Simone Louise des Forest-ന്റെ 114-ാം ജന്മദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "सिमोन लुइस दे फॉरेस्ट",
+        "hover_text": "सिमोन लुइ दे फॉरेस्ट यांचा ११४ वा स्मृतिदिन",
+        "share_text": "सिमोन लुइ दे फॉरेस्ट यांचा ११४ वा स्मृतिदिन! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Симон Лүиз де Форест",
+        "hover_text": "Симон Лүиз де Форестын мэндэлсний 114 жилийн ой",
+        "share_text": "Симон Лүиз де Форестын мэндэлсний 114 жилийн ой! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "Simone Louise des Forest को ११४ औँ जन्मजयन्ती",
+        "share_text": "Simone Louise des Forest को ११४ औँ जन्मजयन्ती! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "Simone Louise des Forests 114-årsdag",
+        "share_text": "Simone Louise des Forests 114-årsdag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ସିମୋନ ଲୁଇ ଡି ଫରେଷ୍ଟ",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "سیمون لوئیز دو فورِست",
+        "hover_text": "صدوچهاردهمین زادروز سیمون لوئیز دی فورِست",
+        "share_text": "صدوچهاردهمین زادروز سیمون لوئیز دی فورِست! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "Simone Louise des Forest – 114 rocznica urodzin",
+        "share_text": "Simone Louise des Forest – 114 rocznica urodzin #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "114º aniversário de Simone Louise des Forest",
+        "share_text": "114º aniversário de Simone Louise des Forest #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "114.º Aniversário de Simone Louise des Forest",
+        "share_text": "114.º Aniversário de Simone Louise des Forest! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "ਸਿਮੋਨ ਲੂਈਜ਼ ਡੇ ਫੋਰੈਸਟ ਦਾ 114ਵਾਂ ਜਨਮਦਿਨ",
+        "share_text": "ਸਿਮੋਨ ਲੂਈਜ਼ ਡੇ ਫੋਰੈਸਟ 114ਵਾਂ ਜਨਮਦਿਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "114 ani de la nașterea Simonei Louise des Forest",
+        "share_text": "114 ani de la nașterea Simonei Louise des Forest! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Симона Луиза де Форест",
+        "hover_text": "114 лет со дня рождения Симоны Луизы де Форест",
+        "share_text": "114 лет со дня рождения Симоны Луизы де Форест #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Симон Луиз де Форест",
+        "hover_text": "114 година од рођења Симон Луиз де Форест",
+        "share_text": "114 година од рођења Симон Луиз де Форест! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Simon Luiz de Forest",
+        "hover_text": "114 godina od rođenja Simon Luiz de Forest",
+        "share_text": "114 godina od rođenja Simon Luiz de Forest! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "සිමෝන් ලුයිස් ඩෙස් ෆොරස්ට්",
+        "hover_text": "සිමෝන් ලුයිස් ඩෙස් ෆොරස්ට්ගේ 114 වැනි උපන් දිනය",
+        "share_text": "සිමෝන් ලුයිස් ඩෙස් ෆොරස්ට්ගේ 114 වැනි උපන් දිනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Simone Louise des Forestová",
+        "hover_text": "114. výročie narodenia Simone Louise des Forestovej",
+        "share_text": "114. výročie narodenia Simone Louise des Forestovej. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "114. rojstni dan Simone Louise des Forest",
+        "share_text": "114. rojstni dan Simone Louise des Forest! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "114.º aniversario del nacimiento de Simone Louise des Forest",
+        "share_text": "Hoy es el 114.º aniversario del nacimiento de Simone Louise des Forest #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "Miaka 114 Tangu Kuzaliwa kwa Simone Louise des Forest",
+        "share_text": "Miaka 114 Tangu Kuzaliwa kwa Simone Louise des Forest! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "Simone Louise des Forest 114 år",
+        "share_text": "Simone Louise des Forest 114 år #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "சிமோன் லூயிஸ் டெஸ் ஃபாரஸ்ட்",
+        "hover_text": "சிமோன் லூயிஸ் டெஸ் ஃபாரஸ்ட்டின் 114வது பிறந்தநாள்",
+        "share_text": "சிமோன் லூயிஸ் டெஸ் ஃபாரஸ்ட்டின் 114வது பிறந்தநாள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "సిమోన్ లూయీజ్ డి ఫారెస్ట్",
+        "hover_text": "సిమోన్ లూయీజ్ డి ఫారెస్ట్ 114వ జయంతి",
+        "share_text": "సిమోన్ లూయీజ్ డి ఫారెస్ట్ 114వ జయంతి! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "วันเกิดปีที่ 114 ของ Simone Louise des Forest",
+        "share_text": "วันเกิดปีที่ 114 ของ Simone Louise des Forest #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "Simone Louise des Forest’ın 114. Doğum Günü",
+        "share_text": "Simone Louise des Forest’ın 114. doğum gününü kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Симона Луїза де Форест",
+        "hover_text": "114 років від дня народження Симони Луїзи де Форест",
+        "share_text": "114 років від дня народження Симони Луїзи де Форест! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "Simone Louise des Forest کی 114 ویں سالگرہ",
+        "share_text": "Simone Louise des Forest کی 114 ویں سالگرہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "Simone Louise des Forest tavalludining 114 yilligi",
+        "share_text": "Simone Louise des Forest tavalludining 114 yilligi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Simone Louise des Forest",
+        "hover_text": "Kỷ niệm 114 năm ngày sinh của Simone Louise des Forest",
+        "share_text": "Kỷ niệm 114 năm ngày sinh của Simone Louise des Forest! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Simone Louise des Forest",
+        "hover_text": "Usuku lokuzalwa luka-Simone Louise des Forest lweminyaka engu-114",
+        "share_text": "Usuku lokuzalwa luka-Simone Louise des Forest lweminyaka engu-114! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Simone Louise des Forest",
+    "share_text": "Simone Louise des Forest's 114th Birthday! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-juan-gabriel",
     "title": "Celebrating Juan Gabriel",
     "url": "//www.google.com/logos/doodles/2024/celebrating-juan-gabriel-6753651837110018-l.png",
