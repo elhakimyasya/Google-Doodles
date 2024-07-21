@@ -1,5 +1,1003 @@
 [
   {
+    "name": "belgium-national-day-2024",
+    "title": "Belgium National Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/belgium-national-day-2024-6753651837110257-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/_CH4VWTTMIf8vxMMPQaDSPPGhMYlVO7NW6c57Vclr4PQmUpCyX4vVUpmQCn2pq02se75LHLBxr4YgkNp9LhUhSZwmtTMs5A7xoAo52STMgXp6WVRYhzo",
+    "high_res_url": "//www.google.com/logos/doodles/2024/belgium-national-day-2024-6753651837110257-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      7,
+      21
+    ],
+    "translations": {
+      "en": {
+        "query": "Belgium National Day",
+        "hover_text": "Belgium National Day 2024",
+        "share_text": "Happy National Day, Belgium! #GoogleDoodle"
+      },
+      "af": {
+        "query": "België se nasionale dag",
+        "hover_text": "België se nasionale dag 2024",
+        "share_text": "Gelukkige nasionale dag, België! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita Kombëtare e Belgjikës",
+        "hover_text": "Dita Kombëtare e Belgjikës, 2024",
+        "share_text": "Gëzuar Festën Kombëtare, Belgjikë! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የቤልጂየም ብሔራዊ ቀን",
+        "hover_text": "የቤልጂየም ብሔራዊ ቀን 2024",
+        "share_text": "መልካም ብሔራዊ ቀን፣ ቤልጂየም! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد بلجيكا الوطني",
+        "hover_text": "العيد الوطني لبلجيكا 2024",
+        "share_text": "عيد وطني سعيد لبلجيكا ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Բելգիայի ազգային տոն",
+        "hover_text": "Բելգիայի ազգային տոն 2024",
+        "share_text": "Շնորհավո՛ր Բելգիայի ազգային տոնը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Belçikanın müstəqillik günü",
+        "hover_text": "2024 Belçikanın Müstəqillik Günü",
+        "share_text": "Müstəqillik günün mübarək, Belçika! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "বেলজিয়ামের জাতীয় দিবস",
+        "hover_text": "বেলজিয়ামের জাতীয় দিবস ২০২৪",
+        "share_text": "বেলজিয়ামের জাতীয় দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Belgikako Egun Nazionala",
+        "hover_text": "2024ko Belgikako Egun Nazionala",
+        "share_text": "Egun Nazional zoriontsua izan, Belgika! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Нацыянальны дзень Бельгіі",
+        "hover_text": "Нацыянальны дзень Бельгіі 2024",
+        "share_text": "З Нацыянальным днём, Бельгія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan državnosti Belgije",
+        "hover_text": "Dan državnosti Belgije 2024.",
+        "share_text": "Sretan Dan državnosti, Belgijo! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Belgium National Day",
+        "hover_text": "Belgium National Day 2024",
+        "share_text": "Happy National Day, Belgium! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Национален празник на Белгия",
+        "hover_text": "Национален празник на Белгия 2024 г.",
+        "share_text": "Честит национален празник на Белгия! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဘယ်လ်ဂျီယမ် အမျိုးသားနေ့",
+        "hover_text": "၂၀၂၄ ဘယ်လ်ဂျီယမ်နိုင်ငံ အမျိုးသားနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် အမျိုးသားနေ့ဖြစ်ပါစေ၊ ဘယ်လ်ဂျီယမ်။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia Nacional de Bèlgica",
+        "hover_text": "Dia Nacional de Bèlgica 2024",
+        "share_text": "Feliç Dia Nacional, Bèlgica! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "比利時國慶日",
+        "hover_text": "2024 年比利時國慶日",
+        "share_text": "比利時國慶日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "比利時國慶日",
+        "hover_text": "2024 年比利時國慶日",
+        "share_text": "比利時，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "比利时国庆日",
+        "hover_text": "2024 年比利时国庆节",
+        "share_text": "比利时，国庆日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan državnosti Belgije",
+        "hover_text": "Dan državnosti Belgije 2024.",
+        "share_text": "Sretan Dan državnosti, Belgijo! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Státní svátek Belgie",
+        "hover_text": "Den belgické státnosti 2024",
+        "share_text": "Vše nejlepší ke státnímu svátku, Belgie! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Belgiens nationaldag",
+        "hover_text": "Belgiens nationaldag 2024",
+        "share_text": "Glædelig uafhængighedsdag til Belgien! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Belgische nationale feestdag",
+        "hover_text": "Nationale Feestdag van België",
+        "share_text": "Gelukkige nationale feestdag, België! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Belgia rahvuspüha",
+        "hover_text": "Belgia 2024. aasta rahvuspüha",
+        "share_text": "Head rahvuspüha, Belgia! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Belgian kansallispäivä",
+        "hover_text": "Belgian kansallispäivä 2024",
+        "share_text": "Hyvää kansallispäivää, Belgia! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête nationale de la Belgique",
+        "hover_text": "Fête nationale de la Belgique 2024",
+        "share_text": "Joyeuse fête nationale belge! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête nationale de la Belgique",
+        "hover_text": "Fête nationale de la Belgique 2024",
+        "share_text": "Joyeuse fête nationale de la Belgique! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día Nacional de Bélxica",
+        "hover_text": "Día Nacional de Bélxica 2024",
+        "share_text": "Feliz Día Nacional, Bélxica! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ბელგიის ეროვნული დღესასწაული",
+        "hover_text": "ბელგიის ეროვნული დღესასწაული — 2024",
+        "share_text": "ვულოცავთ ბელგიას ეროვნულ დღესასწაულს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Belgischer Nationalfeiertag",
+        "hover_text": "Belgischer Nationalfeiertag 2024",
+        "share_text": "Alles Gute zum Nationalfeiertag, Belgien! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Εθνική Ημέρα Βελγίου 2019",
+        "hover_text": "Εθνική Ημέρα του Βελγίου 2024",
+        "share_text": "Γιορτάζουμε την Εθνική Ημέρα του Βελγίου! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "બેલ્જિયમનો રાષ્ટ્રીય દિવસ",
+        "hover_text": "બેલ્જિયમનો રાષ્ટ્રીય દિવસ 2024",
+        "share_text": "બેલ્જિયમના રાષ્ટ્રીય દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "החג הלאומי של בלגיה",
+        "hover_text": "החג הלאומי של בלגיה 2024",
+        "share_text": "חג לאומי שמח לבלגיה! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "बेल्जियम का राष्ट्रीय दिवस",
+        "hover_text": "बेल्जियम का राष्ट्रीय दिवस 2024",
+        "share_text": "राष्ट्रीय दिवस मुबारक हो, बेल्जियम! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Belgium nemzeti ünnepe",
+        "hover_text": "Belgium nemzeti ünnepe, 2024",
+        "share_text": "Minden jót Belgium nemzeti ünnepén! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þjóðhátíðardagur Belgíu",
+        "hover_text": "Þjóðhátíðardagur Belgíu 2024",
+        "share_text": "Gleðilegan þjóðhátíðardag, Belgía! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Nasional Belgia",
+        "hover_text": "Hari Nasional Belgia 2024",
+        "share_text": "Selamat Hari Nasional, Belgia! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Náisiúnta na Beilge",
+        "hover_text": null,
+        "share_text": "Lá Náisiúnta na Beilge faoi mhaise duit. #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa nazionale del Belgio",
+        "hover_text": "Festa nazionale del Belgio 2024",
+        "share_text": "Buona festa nazionale, Belgio! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ベルギー建国記念日",
+        "hover_text": "2024 年ベルギー建国記念日",
+        "share_text": "ベルギー建国記念日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಬೆಲ್ಜಿಯಂ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಬೆಲ್ಜಿಯಂ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಬೆಲ್ಜಿಯಂ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Бельгияның Ұлттық күні",
+        "hover_text": "Бельгияның Ұлттық күні – 2024",
+        "share_text": "Ұлттық күн құтты болсын, Бельгия! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យជាតិ​បែលហ្ស៊ិក",
+        "hover_text": "ទិវាបុណ្យជាតិ​បែលហ្ស៊ិក​ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវាបុណ្យជាតិ​បែលហ្ស៊ិក! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "벨기에 국경일",
+        "hover_text": "2024년 벨기에 국경일",
+        "share_text": "벨기에 국경일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Белгиянын Улуттук күнү",
+        "hover_text": "Бельгиянын Улуттук күнү — 2024",
+        "share_text": "Улуттук күнүң менен, Белгия! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຊາດເບວຢຽມ",
+        "hover_text": "ວັນຊາດເບວຢຽມປີ 2024",
+        "share_text": "ສຸກສັນວັນຊາດ, ບຽວຢຽມ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día Nacional de Bélgica",
+        "hover_text": "Día Nacional de Bélgica 2024",
+        "share_text": "¡Feliz Día Nacional de Bélgica! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Beļģijas nacionālie svētki",
+        "hover_text": "Beļģijas Nacionālie svētki — 2024",
+        "share_text": "Sveicam nacionālajos svētkos, Beļģija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Belgijos nacionalinė diena",
+        "hover_text": "Belgijos nacionalinė diena, 2024 m.",
+        "share_text": "Sveikiname Belgiją su Nacionaline diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на државноста на Белгија",
+        "hover_text": "Ден на државноста на Белгија, 2024 г.",
+        "share_text": "Среќен Ден на државноста на Белгија! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetim-pirenen'i Belizika",
+        "hover_text": null,
+        "share_text": "Tsarà Fetim-pirenena ry Belizika ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kebangsaan Belgium",
+        "hover_text": "Hari Kebangsaan Belgium 2024",
+        "share_text": "Selamat Hari Kebangsaan, Belgium! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ബെൽജിയത്തിന്റെ ദേശീയ ദിനം",
+        "hover_text": "ബെൽജിയം ദേശീയ ദിനം 2024",
+        "share_text": "ദേശീയ ദിനാശംസകൾ, ബെൽജിയം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "बेल्जियमचा राष्ट्रीय दिन",
+        "hover_text": "बेल्जियमचा राष्ट्रीय दिन २०२४",
+        "share_text": "बेल्जियमला राष्ट्रीय दिनाच्या हार्दिक शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Бельги улсын Үндэсний баярын өдөр",
+        "hover_text": "2024 оны Бельги Улсын Үндэсний баярын өдөр",
+        "share_text": "Бельги улсын ард иргэдэд Үндэсний баярын мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "बेल्जियमको राष्ट्रिय दिवस",
+        "hover_text": "बेल्जियमको राष्ट्रिय दिवस २०२४",
+        "share_text": "राष्ट्रिय दिवसको शुभकामना, बेल्जियम! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Belgias nasjonaldag",
+        "hover_text": "Belgias nasjonaldag 2024",
+        "share_text": "Gratulerer med nasjonaldagen, Belgia! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ବେଲଜିୟମ୍‍ର ରାଷ୍ଟ୍ରୀୟ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ରାଷ୍ଟ୍ରୀୟ ଦିବସର ଶୁଭେଚ୍ଛା, ବେଲଜିୟମ୍! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز ملی بلژیک",
+        "hover_text": "روز ملی ۲۰۲۴ بلژیک",
+        "share_text": "روز ملی بلژیک مبارک! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Narodowe Belgii 2019",
+        "hover_text": "Święto Narodowe Belgii 2024",
+        "share_text": "Belgia obchodzi Święto Narodowe #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia Nacional da Bélgica",
+        "hover_text": "Dia Nacional da Bélgica 2024",
+        "share_text": "Feliz Dia Nacional, Bélgica! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia nacional da Bélgica",
+        "hover_text": "Dia Nacional da Bélgica de 2024",
+        "share_text": "Feliz dia nacional, Bélgica! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਬੈਲਜੀਅਮ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ",
+        "hover_text": "ਬੈਲਜੀਅਮ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ 2024",
+        "share_text": "ਬੈਲਜੀਅਮ ਦੇ ਰਾਸ਼ਟਰੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Națională a Belgiei",
+        "hover_text": "Ziua Națională a Belgiei 2024",
+        "share_text": "La mulți ani de Ziua Națională, Belgia! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Национальный праздник Бельгии",
+        "hover_text": "Национальный день Бельгии – 2024",
+        "share_text": "Национальный праздник Бельгии #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан државности Белгије",
+        "hover_text": "Дан државности Белгије 2024.",
+        "share_text": "Честитамо Дан државности Белгији! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan državnosti Belgije",
+        "hover_text": "Dan državnosti Belgije 2024.",
+        "share_text": "Čestitamo Dan državnosti Belgiji! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen nasyonal Belgium",
+        "hover_text": null,
+        "share_text": "Bonn zournen nasyonal Belgium! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "බෙල්ජියම් ජාතික දිනය",
+        "hover_text": "බෙල්ජියමේ ජාතික දිනය 2024",
+        "share_text": "ශුභ ජාතික දිනයක්, බෙල්ජියම්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Štátny sviatok Belgicka",
+        "hover_text": "Národný deň Belgicka 2024",
+        "share_text": "Šťastný štátny sviatok, Belgicko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Belgijski dan državnosti",
+        "hover_text": "Belgijski dan državnosti 2024",
+        "share_text": "Vesel dan državnosti, Belgija. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Qaranka Beljam",
+        "hover_text": null,
+        "share_text": "Maalinta Qaranka Farxada leh, Belgium! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Naha la Belgium",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Naha, Belgium! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día Nacional de Bélgica",
+        "hover_text": "Día Nacional de Bélgica 2024",
+        "share_text": "¡Feliz Día Nacional de Bélgica! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Kitaifa ya Ubelgiji",
+        "hover_text": "Sikukuu ya Kitaifa ya Ubelgiji 2024",
+        "share_text": "Heri ya Sikukuu ya Kitaifa, Ubelgiji! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Belgiens nationaldag",
+        "hover_text": "Belgiens nationaldag 2024",
+        "share_text": "Vi firar Belgiens nationaldag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "பெல்ஜிய தேசிய தினம்",
+        "hover_text": "பெல்ஜியமின் தேசிய தினம் 2024",
+        "share_text": "பெல்ஜிய தேசிய தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "బెల్జియం జాతీయ దినోత్సవం",
+        "hover_text": "బెల్జియం జాతీయ దినోత్సవం 2024",
+        "share_text": "జాతీయ దినోత్సవ శుభాకాంక్షలు, బెల్జియం! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันชาติเบลเยียม",
+        "hover_text": "วันชาติเบลเยียมปี 2024",
+        "share_text": "สุขสันต์วันชาติเบลเยียม #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Setšhaba la Belgium",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Setšhaba, Belgium! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Belçika Ulusal Günü",
+        "hover_text": "2024 Belçika Ulusal Günü",
+        "share_text": "Belçika'nın Ulusal Gün Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Національний день Бельгії",
+        "hover_text": "Національний день Бельгії у 2024 році",
+        "share_text": "З Національним днем, Бельгіє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "بیلجیم کا قومی دن",
+        "hover_text": "بیلجیم کا قومی دن 2024",
+        "share_text": "بیلجیم، قومی دن مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Belgiya milliy bayrami",
+        "hover_text": "Belgiya Milliy bayrami 2024",
+        "share_text": "Belgiya milliy bayrami muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Bỉ",
+        "hover_text": "Ngày Quốc khánh Bỉ năm 2024",
+        "share_text": "Chúc mừng ngày quốc khánh Bỉ! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lukazwelonke lwase-Belgium",
+        "hover_text": "Usuku Lukazwelonke lwase-Belgium lwango-2024",
+        "share_text": "Sinifisela usuku lukazwelonke oluhle, Belgium! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Belgium National Day",
+    "share_text": "Happy National Day, Belgium! #GoogleDoodle"
+  },
+  {
+    "name": "colombia-independence-day-2024",
+    "title": "Colombia Independence Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/colombia-independence-day-2024-6753651837110256.3-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/1P9loYQVOm16R8_tJmgKNFWu8YPI5FSYHSXMlejJotN1bN5qj2tSumuDlqa5GAxf1tNWnEgUxetrysy9xgCYASQ8UBLKnLa425ralwRQtmDbwcrw0CNlgw",
+    "high_res_url": "//www.google.com/logos/doodles/2024/colombia-independence-day-2024-6753651837110256-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      7,
+      20
+    ],
+    "translations": {
+      "en": {
+        "query": "Colombia Independence Day",
+        "hover_text": "Colombia Independence Day 2024",
+        "share_text": "Happy Independence Day, Colombia! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Colombië se onafhanklikheidsdag",
+        "hover_text": "Colombië se onafhanklikheidsdag 2024",
+        "share_text": "Gelukkige onafhanklikheidsdag, Colombië! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë e Kolumbisë",
+        "hover_text": "Dita e Pavarësisë së Kolumbisë, 2024",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Kolumbi! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የኮሎምቢያ የነጻነት ቀን",
+        "hover_text": "የኮሎምቢያ የነፃነት ቀን 2024",
+        "share_text": "መልካም የነጻነት በዓል፣ ኮሎምቢያ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال كولومبيا",
+        "hover_text": "عيد استقلال كولومبيا 2024",
+        "share_text": "عيد استقلال سعيد لكولومبيا ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Կոլումբիայի անկախության օր",
+        "hover_text": "Կոլումբիայի անկախության օր 2024",
+        "share_text": "Շնորհավո՛ր Կոլումբիայի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Kolumbiyanın müstəqillik günü",
+        "hover_text": "2024 Kolumbiyanın Müstəqillik Günü",
+        "share_text": "Müstəqllik günün mübarək, Kolumbiya! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "কলম্বিয়ার স্বাধীনতা দিবস",
+        "hover_text": "কলম্বিয়ার স্বাধীনতা দিবস ২০২৪",
+        "share_text": "কলম্বিয়ার স্বাধীনতা দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Kolonbiako Independentzia Eguna",
+        "hover_text": "2024ko Kolonbiako Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Kolonbia! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Калумбіі",
+        "hover_text": "Дзень незалежнасці Калумбіі 2024",
+        "share_text": "З Днём незалежнасці, Калумбія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Kolumbije",
+        "hover_text": "Dan nezavisnosti Kolumbije 2024.",
+        "share_text": "Sretan Dan nezavisnosti, Kolumbijo! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Colombia Independence Day",
+        "hover_text": "Colombia Independence Day 2024",
+        "share_text": "Happy Independence Day, Colombia! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Колумбия",
+        "hover_text": "Ден на независимостта на Колумбия 2024 г.",
+        "share_text": "Честит Ден на независимостта на Колумбия! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ကိုလံဘီယာ လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ ကိုလံဘီယာနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ဖြစ်ပါစေ၊ ကိုလံဘီယာ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència de Colòmbia",
+        "hover_text": "Dia de la Independència de Colòmbia 2024",
+        "share_text": "Feliç Dia de la Independència, Colòmbia! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "哥倫比亞獨立日",
+        "hover_text": "2024 年哥倫比亞獨立日",
+        "share_text": "哥倫比亞獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "哥倫比亞獨立紀念日",
+        "hover_text": "2024 年哥倫比亞獨立紀念日",
+        "share_text": "哥倫比亞，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "哥伦比亚独立日",
+        "hover_text": "2024 年哥伦比亚独立日",
+        "share_text": "哥伦比亚，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Kolumbije",
+        "hover_text": "Dan neovisnosti Kolumbije 2024.",
+        "share_text": "Sretan Dan neovisnosti, Kolumbijo! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Kolumbie",
+        "hover_text": "Den nezávislosti Kolumbie 2024",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Kolumbie! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Colombias uafhængighedsdag",
+        "hover_text": "Colombias uafhængighedsdag 2024",
+        "share_text": "Glædelig uafhængighedsdag til Colombia! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Colombia",
+        "hover_text": "Onafhankelijkheidsdag Colombia 2024",
+        "share_text": "Fijne Onafhankelijkheidsdag, Colombia! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Colombia iseseisvuspäev",
+        "hover_text": "Colombia 2024. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Colombia! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Kolumbian itsenäisyyspäivä",
+        "hover_text": "Kolumbian itsenäisyyspäivä 2024",
+        "share_text": "Hyvää itsenäisyyspäivää, Kolumbia! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'indépendance de la Colombie",
+        "hover_text": "Fête de l'Indépendance de la Colombie 2024",
+        "share_text": "Fête de l'Indépendance de la Colombie #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance de la Colombie",
+        "hover_text": "Fête de l'Indépendance de la Colombie 2024",
+        "share_text": "Joyeux jour de l'indépendance de la Colombie! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Colombia",
+        "hover_text": "Día da Independencia de Colombia 2024",
+        "share_text": "Feliz Día da Independencia, Colombia! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "კოლუმბიის დამოუკიდებლობის დღე",
+        "hover_text": "კოლუმბიის დამოუკიდებლობის დღე — 2024",
+        "share_text": "ვულოცავთ კოლუმბიას დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Kolumbianischer Unabhängigkeitstag",
+        "hover_text": "Kolumbianischer Unabhängigkeitstag 2024",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Kolumbien! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας Κολομβίας",
+        "hover_text": "Ημέρα Ανεξαρτησίας της Κολομβίας 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας της Κολομβίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "કોલંબિયાનો સ્વતંત્રતા દિવસ",
+        "hover_text": "કોલમ્બિયાનો સ્વતંત્રતા દિવસ 2024",
+        "share_text": "કોલંબિયાના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של קולומביה",
+        "hover_text": "יום העצמאות של קולומביה 2024",
+        "share_text": "יום עצמאות שמח, קולומביה! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "कोलंबिया का स्वतंत्रता दिवस",
+        "hover_text": "कोलंबिया का स्वतंत्रता दिवस 2024",
+        "share_text": "स्वतंत्रता दिवस मुबारक हो, कोलंबिया! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Kolumbia függetlenségének napja",
+        "hover_text": "Kolumbia függetlenségének napja, 2024",
+        "share_text": "Minden jót a függetlenség napján, Kolumbia! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Kólumbíu",
+        "hover_text": "Sjálfstæðisdagur Kólumbíu 2024",
+        "share_text": "Gleðilegan sjálfstæðisdag, Kólumbía! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Kolombia",
+        "hover_text": "Hari Kemerdekaan Kolombia 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Kolombia! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse na Colóime",
+        "hover_text": null,
+        "share_text": "Lá Saoirse na Colóime faoi mhaise duit. #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza della Colombia",
+        "hover_text": "Festa dell'indipendenza della Colombia 2024",
+        "share_text": "Buona festa dell'indipendenza, Colombia! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "コロンビア独立記念日",
+        "hover_text": "2024 年コロンビア独立記念日",
+        "share_text": "コロンビア独立記念日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಕೊಲಂಬಿಯಾದ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಕೊಲಂಬಿಯಾದ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಷಯಗಳು, ಕೊಲಂಬಿಯಾ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Колумбияның Тәуелсіздік күні",
+        "hover_text": "Колумбияның Тәуелсіздік күні – 2024",
+        "share_text": "Тәуелсіздік күні құтты болсын, Колумбия! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យ​ឯករាជ្យជាតិ​កូឡុំប៊ី",
+        "hover_text": "ទិវា​បុណ្យឯករាជ្យជាតិ​កូឡុំប៊ី​ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវាបុណ្យ​ឯករាជ្យជាតិ​កូឡុំប៊ី! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "콜롬비아 독립기념일",
+        "hover_text": "2024년 콜롬비아 독립 기념일",
+        "share_text": "콜롬비아 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Колумбиянын Эгемендүүлүк күнү",
+        "hover_text": "Колумбиянын Эгемендүүлүк күнү — 2024",
+        "share_text": "Эгемендүүлүк күнүң менен, Колумбия! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດໂຄລອມເບຍ",
+        "hover_text": "ວັນປະກາດເອກະລາດໂຄລອມເບຍ 2024",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດ, ໂຄລອມເບຍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Colombia",
+        "hover_text": "Día de la Independencia de Colombia 2024",
+        "share_text": "¡Feliz Día de la Independencia de Colombia! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Kolumbijas neatkarības diena",
+        "hover_text": "Kolumbijas Neatkarības diena — 2024",
+        "share_text": "Sveicam Neatkarības dienā, Kolumbija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Kolumbijos nepriklausomybės diena",
+        "hover_text": "Kolumbijos nepriklausomybės diena, 2024 m.",
+        "share_text": "Sveikiname Kolumbiją su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Колумбија",
+        "hover_text": "Ден на независноста на Колумбија, 2024 г.",
+        "share_text": "Среќен Ден на независноста на Колумбија! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Kôlômbia",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny fahaleovantena ry Kôlômbia ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Colombia",
+        "hover_text": "Hari Kemerdekaan Colombia 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Colombia! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "കൊളംബിയയുടെ സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "കൊളംബിയൻ സ്വാതന്ത്ര്യദിനം 2024",
+        "share_text": "സ്വാതന്ത്ര്യദിനാശംസകൾ, കൊളംബിയ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "कोलंबियाचा स्वातंत्र्य दिन",
+        "hover_text": "कोलंबियाचा स्वातंत्र्यदिन २०२४",
+        "share_text": "कोलंबियाला स्वातंत्र्य दिनाच्या हार्दिक शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Колумби улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2024 оны Колумби Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Колумби улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "कोलोम्बियाको स्वतन्त्रता दिवस",
+        "hover_text": "कोलोम्बियाको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, कोलोम्बिया! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Colombias frigjøringsdag",
+        "hover_text": "Colombias frigjøringsdag 2024",
+        "share_text": "Gratulerer med frigjøringsdagen, Colombia! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "କଲମ୍ବିଆର ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": null,
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, କଲମ୍ବିଆ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال کلمبیا",
+        "hover_text": "روز استقلال ۲۰۲۴ کلمبیا",
+        "share_text": "روز استقلال کلمبیا مبارک! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Niepodległości Kolumbii",
+        "hover_text": "Dzień Niepodległości Kolumbii 2024",
+        "share_text": "Kolumbia obchodzi Święto Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência da Colômbia",
+        "hover_text": "Dia da Independência da Colômbia 2024",
+        "share_text": "Feliz Dia da Independência, Colômbia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da Independência da Colômbia",
+        "hover_text": "Dia da Independência da Colômbia de 2024",
+        "share_text": "Feliz dia da independência, Colômbia! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਕੋਲੰਬੀਆ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ",
+        "hover_text": "ਕੋਲੰਬੀਆ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2024",
+        "share_text": "ਕੋਲੰਬੀਆ ਦੇ ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței în Columbia",
+        "hover_text": "Ziua Independenței Columbiei 2024",
+        "share_text": "La mulți ani de Ziua Independenței, Columbia! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Колумбии",
+        "hover_text": "День независимости Колумбии – 2024",
+        "share_text": "День независимости Колумбии #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Колумбије",
+        "hover_text": "Дан независности Колумбије 2024.",
+        "share_text": "Честитамо Дан независности Колумбији! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Kolumbije",
+        "hover_text": "Dan nezavisnosti Kolumbije 2024.",
+        "share_text": "Čestitamo Dan nezavisnosti Kolumbiji! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepandams Columbia 2019",
+        "hover_text": null,
+        "share_text": "Bonn fet lendepandans, Colombia! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "කොලම්බියාවේ නිදහස් දිනය",
+        "hover_text": "කොළොම්බියාවේ නිදහස් දිනය 2024",
+        "share_text": "ශුභ නිදහස් දිනයක්, කොලම්බියාව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Kolumbie",
+        "hover_text": "Deň nezávislosti Kolumbie 2024",
+        "share_text": "Šťastný deň nezávislosti, Kolumbia! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Kolumbije",
+        "hover_text": "Dan neodvisnosti Kolumbije 2024",
+        "share_text": "Vesel dan neodvisnosti, Kolumbija. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madax banaanida Colombia",
+        "hover_text": null,
+        "share_text": "Maalinta Madax banaanida Colombia! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la Colombia",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Tokoloho, Colombia! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Colombia",
+        "hover_text": "Día de la Independencia de Colombia 2024",
+        "share_text": "¡Feliz Día de la Independencia de Colombia! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Kolombia",
+        "hover_text": "Sikukuu ya Uhuru wa Kolombia 2024",
+        "share_text": "Heri ya Sikukuu ya Uhuru, Kolombia! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Colombias självständighetsdag",
+        "hover_text": "Colombias självständighetsdag 2024",
+        "share_text": "Vi firar Colombias självständighetsdag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "கொலம்பியாவின் சுதந்திர தினம்",
+        "hover_text": "கொலம்பியாவின் சுதந்திர தினம் 2024",
+        "share_text": "கொலம்பிய சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "కొలంబియా స్వాతంత్య్ర దినోత్సవం",
+        "hover_text": "కొలంబియా స్వాతంత్య్ర దినోత్సవం 2024",
+        "share_text": "స్వాతంత్య్ర దినోత్సవ శుభాకాంక్షలు, కొలంబియా! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของโคลอมเบีย",
+        "hover_text": "วันประกาศอิสรภาพของโคลอมเบียปี 2024",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของโคลอมเบีย #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Colombia",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, Colombia! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Kolombiya Bağımsızlık Günü",
+        "hover_text": "2024 Kolombiya Bağımsızlık Günü",
+        "share_text": "Kolombiya'nın Bağımsızlık Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Колумбії",
+        "hover_text": "День незалежності Колумбії у 2024 році",
+        "share_text": "З Днем незалежності, Колумбіє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "کولمبیا کا یوم آزادی",
+        "hover_text": "کولمبیا کا یوم آزادی 2024",
+        "share_text": "کولمبیا کا یوم آزادی مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Kolumbiya mustaqillik kuni",
+        "hover_text": "Kolumbiya Mustaqillik kuni 2024",
+        "share_text": "Mustaqillik kuning muborak, Kolumbiya! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Colombia",
+        "hover_text": "Ngày Quốc khánh Colombia năm 2024",
+        "share_text": "Chúc mừng ngày quốc khánh Colombia! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lokuzimela lwase-Colombia",
+        "hover_text": "Usuku Lokuzimela lwase-Colombia lwango-2024",
+        "share_text": "Sinifisela usuku lokuzimela oluhle, Colombia! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Colombia Independence Day",
+    "share_text": "Happy Independence Day, Colombia! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-simone-louise-des-forest",
     "title": "Celebrating Simone Louise des Forest",
     "url": "//www.google.com/logos/doodles/2024/celebrating-simone-louise-des-forest-6753651837110255-l.png",
