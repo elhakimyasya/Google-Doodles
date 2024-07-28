@@ -1,5 +1,504 @@
 [
   {
+    "name": "paris-games-football",
+    "title": "Paris Games - Football",
+    "url": "//www.google.com/logos/doodles/2024/paris-games-football-6753651837110524-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/XyGqQ-JF7BYLKCRp_biaSC5AKHyWDPf_2j6s2VTSkINKGprFdNKveGXWnwckO4sZDFNFztkTH9ZaPg1OandDywRXGDOyo2fI_caNzYFI5vhXGEETs0ab",
+    "high_res_url": "//www.google.com/logos/doodles/2024/paris-games-football-6753651837110524-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      7,
+      28
+    ],
+    "translations": {
+      "en": {
+        "query": "soccer olympics",
+        "hover_text": "Paris Games - Football",
+        "share_text": "Paris Games Football! #GoogleDoodle"
+      },
+      "af": {
+        "query": "olimpiese spele van sokker",
+        "hover_text": "Parys Spele – Sokker",
+        "share_text": "Parys Spele – Sokker! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "futbolli në lojërat olimpike",
+        "hover_text": "Lojërat e Parisit - Futboll",
+        "share_text": "Futbolli në Lojërat e Parisit! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የእግር ኳስ ኦሎምፒክ",
+        "hover_text": "የፓሪስ ጨዋታዎች - እግር ኳስ",
+        "share_text": "የፓሪስ ጨዋታዎች እግር ኳስ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "أولمبياد كرة القدم",
+        "hover_text": "أولمبياد باريس - كرة القدم",
+        "share_text": "مسابقات كرة القدم في ألعاب باريس! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "ֆուտբոլը օլիմպիական խաղերում",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "az": {
+        "query": "futbol olimpiadaları",
+        "hover_text": "Paris Oyunları - Futbol",
+        "share_text": "Paris Oyunları Futbolu! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ফুটবল অলিম্পিক",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "eu": {
+        "query": "futbola olinpiar jokoak",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "be": {
+        "query": "футбол алімпіяда",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "bs": {
+        "query": "fudbal na olimpijskim igrama",
+        "hover_text": "Igre u Parizu – fudbal",
+        "share_text": "Fudbal na igrama u Parizu! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Football Olympics",
+        "hover_text": "Paris Games – Football",
+        "share_text": "Paris Games Football #GoogleDoodle"
+      },
+      "bg": {
+        "query": "футбол на Олимпийските игри",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "my": {
+        "query": "ဘောလုံး အိုလံပစ်",
+        "hover_text": "ပဲရစ်ဂိမ်းများ - အမေရိကန်ဘောလုံး",
+        "share_text": "ပဲရစ်ဂိမ်းများ အမေရိကန်ဘောလုံး။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "futbol als Jocs Olímpics",
+        "hover_text": "Jocs de París: futbol",
+        "share_text": "Futbol als Jocs de París #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "奧運足球",
+        "hover_text": "巴黎賽事 - 足球",
+        "share_text": "巴黎賽事足球項目！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "足球 奧運",
+        "hover_text": "巴黎賽事 - 足球項目",
+        "share_text": "巴黎賽事足球項目熱血開賽！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "足球 奥运会",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "hr": {
+        "query": "nogomet olimpijske igre",
+        "hover_text": "Igre u Parizu – nogomet",
+        "share_text": "Nogomet na igrama u Parizu! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "olympiáda ve fotbale",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "da": {
+        "query": "fodbold ol",
+        "hover_text": "OL i Paris – fodbold",
+        "share_text": "Fodbold ved OL i Paris #GoogleDoodle"
+      },
+      "nl": {
+        "query": "voetbal olympische spelen",
+        "hover_text": "Spelen in Parijs - Voetbal",
+        "share_text": "Voetbal op de Spelen in Parijs! #GoogleDoodle"
+      },
+      "et": {
+        "query": "jalgpall olümpiamängudel",
+        "hover_text": "Pariisi olümpiamängud – jalgpall",
+        "share_text": "Pariisi olümpiamängude jalgpall! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "jalkapallo olympialaiset",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "fr": {
+        "query": "football jeux olympiques",
+        "hover_text": "Jeux de Paris - Football",
+        "share_text": "Football aux Jeux de Paris ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "soccer aux Jeux olympiques",
+        "hover_text": "Jeux de Paris : Soccer",
+        "share_text": "Le soccer aux Jeux de Paris! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "fútbol nos Xogos Olímpicos",
+        "hover_text": "Xogos de París: Fútbol",
+        "share_text": "Fútbol nos Xogos de París! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ფეხბურთი ოლიმპიადაზე",
+        "hover_text": "პარიზის თამაშები — ფეხბურთი",
+        "share_text": "პარიზის თამაშები — სკეიტბორდინგი! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Fußball Olympia",
+        "hover_text": "Sommerspiele in Paris – Fußball",
+        "share_text": "Fußball bei den Sommerspielen in Paris #GoogleDoodle"
+      },
+      "el": {
+        "query": "ποδόσφαιρο στους ολυμπιακούς αγώνες",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "gu": {
+        "query": "ફુટબોલ ઓલિમ્પિક્સ",
+        "hover_text": "પેરિસ ગેમ - ફૂટબૉલ",
+        "share_text": "પેરિસ ગેમમાં ફૂટબૉલ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "iw": {
+        "query": "כדורגל אולימפיאדה",
+        "hover_text": "כדורגל במשחקים בפריז",
+        "share_text": "כדורגל במשחקי בפריז ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "फुटबॉल ओलम्पिक",
+        "hover_text": "पेरिस गेम्स में फ़ुटबॉल",
+        "share_text": "पेरिस गेम्स में फ़ुटबॉल! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "futball az olimpián",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "is": {
+        "query": "fótbolti á Ólympíuleikunum",
+        "hover_text": "Parísarleikarnir – Fótbolti",
+        "share_text": "Parísarleikarnir – Fótbolti! #GoogleDoodle"
+      },
+      "id": {
+        "query": "sepak bola olimpiade",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ga": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "it": {
+        "query": "calcio olimpiadi",
+        "hover_text": "Giochi di Parigi - Calcio",
+        "share_text": "Calcio ai Giochi di Parigi! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "サッカー　オリンピック",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "kn": {
+        "query": "ಫುಟ್‌ಬಾಲ್ ಒಲಿಂಪಿಕ್ಸ್",
+        "hover_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ - ಫುಟ್‌ಬಾಲ್",
+        "share_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಫುಟ್ಬಾಲ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "футбол олимпиада",
+        "hover_text": "\\",
+        "share_text": ""
+      },
+      "km": {
+        "query": "បាល់ទាត់នៅព្រឹត្តិការណ៍កីឡាអូឡាំពិក",
+        "hover_text": "ព្រឹត្តិការណ៍កីឡានៅប៉ារីស - បាល់ឱប",
+        "share_text": "បាល់ទាត់នៅព្រឹត្តិការណ៍កីឡានៅប៉ារីស! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "축구 올림픽",
+        "hover_text": "파리 2024 - 축구",
+        "share_text": "파리 2024 축구 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "футбол олимпиада оюндары",
+        "hover_text": "Париж оюндары – Футбол",
+        "share_text": "Париж оюндары – Футбол! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ບານເຕະໂອລິມປິກ",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "es-419": {
+        "query": "fútbol olimpiadas",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "lv": {
+        "query": "futbols olimpiskajās spēlēs",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "lt": {
+        "query": "futbolas olimpinėse žaidynėse",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "mk": {
+        "query": "фудбал на олимпијада",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "mg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ms": {
+        "query": "bola sepak olimpik",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ml": {
+        "query": "സോക്കർ ഒളിമ്പിക്സ്",
+        "hover_text": "പാരീസ് ഗെയിംസ് - ഫുട്‌ബോൾ",
+        "share_text": "പാരീസ് ഗെയിംസ് ഫുട്‌ബോൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "mr": {
+        "query": "फुटबॉल ऑलिंपिक्स",
+        "hover_text": "पॅरिस गेम्स - फुटबॉल",
+        "share_text": "पॅरिस गेम्समधील फुटबॉल! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "хөлбөмбөг олимп",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ne": {
+        "query": "फुटबल ओलम्पिक",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "no": {
+        "query": "fotball-OL",
+        "hover_text": "OL i Paris – fotball",
+        "share_text": "Fotball i OL i Paris! #GoogleDoodle"
+      },
+      "nn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ny": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "or": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ps": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "fa": {
+        "query": "فوتبال در بازی‌های المپیک",
+        "hover_text": "مسابقات پاریس - فوتبال",
+        "share_text": "فوتبال در مسابقات پاریس! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "piłka nożna olimpiada",
+        "hover_text": "Igrzyska w Paryżu – piłka nożna",
+        "share_text": "Piłka nożna na igrzyskach w Paryżu #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "futebol olimpíadas",
+        "hover_text": "Jogos de Paris: futebol",
+        "share_text": "Futebol nos Jogos de Paris #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "futebol olímpicos",
+        "hover_text": "Jogos de Paris – Futebol",
+        "share_text": "Futebol nos Jogos de Paris! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਫੁੱਟਬਾਲ ਓਲੰਪਿਕਸ",
+        "hover_text": "ਪੈਰਿਸ ਖੇਡਾਂ - ਫੁੱਟਬਾਲ",
+        "share_text": "ਪੈਰਿਸ ਖੇਡਾਂ ਵਿੱਚ ਫੁੱਟਬਾਲ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "jocurile olimpice fotbal",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ru": {
+        "query": "футбол олимпиада",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sr": {
+        "query": "фудбал олимпијада",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": "fudbal olimpijada",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "crs": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "si": {
+        "query": "පාපන්දු ඔලිම්පික්",
+        "hover_text": "පැරිස් ක්‍රීඩා - පාපන්දු",
+        "share_text": "පැරිස් ක්‍රීඩා පාපන්දු! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "futbal olympiáda",
+        "hover_text": "Hry v Paríži – futbal",
+        "share_text": "Futbal na hrách v Paríži. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "olimpijske igre v nogometu",
+        "hover_text": "Igre v Parizu – nogomet",
+        "share_text": "Nogomet na igrah v Parizu! #GoogleDoodle"
+      },
+      "so": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "st": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "es": {
+        "query": "fútbol olímpico",
+        "hover_text": "Juegos de París: fútbol",
+        "share_text": "Fútbol en los juegos de París #GoogleDoodle"
+      },
+      "sw": {
+        "query": "mpira wa miguu olimpiki",
+        "hover_text": "Michezo ya Paris - Kandanda",
+        "share_text": "Michezo ya Paris ya Kandanda! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "fotboll os",
+        "hover_text": "Parisspelen – fotboll",
+        "share_text": "Fotboll under Parisspelen #GoogleDoodle"
+      },
+      "tg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ta": {
+        "query": "கால்பந்து ஒலிம்பிக்ஸ்",
+        "hover_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் - கால்பந்து",
+        "share_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் கால்பந்து! #GoogleDoodle"
+      },
+      "te": {
+        "query": "సాకర్ ఒలింపిక్స్",
+        "hover_text": "ప్యారిస్ గేమ్స్ - ఫుట్‌బాల్",
+        "share_text": "ప్యారిస్ గేమ్స్ ఫుట్‌బాల్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "ฟุตบอล โอลิมปิก",
+        "hover_text": "ปารีสเกมส์ - ฟุตบอล",
+        "share_text": "ฟุตบอลที่ปารีสเกมส์! #GoogleDoodle"
+      },
+      "tn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "tr": {
+        "query": "yaz olimpiyatları'nda futbol",
+        "hover_text": "Paris Yaz Oyunları - Futbol",
+        "share_text": "Paris Yaz Oyunları Futbol #GoogleDoodle"
+      },
+      "tk": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "uk": {
+        "query": "футбол олімпіада",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ur": {
+        "query": "فٹ بال اولمپکس",
+        "hover_text": "پیرس گیمز - فٹ بال",
+        "share_text": "پیرس گیمز فٹ بال! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "futbol olimpiada",
+        "hover_text": "Parij oʻyinlari - futbol",
+        "share_text": "Parij oʻyinlari futbol! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "bóng đá olympics",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "wo": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "zu": {
+        "query": "ibhola olympics",
+        "hover_text": "Amageyimu aseParis - Ibhola lezinyawo",
+        "share_text": "Amageyimu ebhola lezinyawo aseParis! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "soccer olympics",
+    "share_text": "Paris Games Football! #GoogleDoodle"
+  },
+  {
     "name": "paris-games-skateboarding",
     "title": "Paris Games - Skateboarding",
     "url": "//www.google.com/logos/doodles/2024/paris-games-skateboarding-6753651837110523-law.gif",
@@ -175,8 +674,8 @@
       },
       "iw": {
         "query": "סקייטבורד אולימפיאדה",
-        "hover_text": "",
-        "share_text": ""
+        "hover_text": "סקייטבורד במשחקים בפריז",
+        "share_text": "סקייטבורד במשחקים בפריז #GoogleDoodle"
       },
       "hi": {
         "query": "स्केटबोर्डिंग ओलम्पिक",
