@@ -1,5 +1,1003 @@
 [
   {
+    "name": "paris-games-artistic-gymnastics",
+    "title": "Paris Games - Artistic Gymnastics",
+    "url": "//www.google.com/logos/doodles/2024/paris-games-artistic-gymnastics-6753651837110525-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/VY3oNVsmPKMa-FDQrMYdj6o-KzKffw5JJuBimntW_TTWi1T26pky52kpD7DRdW1eZqeRikv6EzGKToBh9F9hhiVQBMeOPuqvGgj6OxExtkJlAryy-1xQypg",
+    "high_res_url": "//www.google.com/logos/doodles/2024/paris-games-artistic-gymnastics-6753651837110525-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      7,
+      29
+    ],
+    "translations": {
+      "en": {
+        "query": "artistic gymnastics olympics",
+        "hover_text": "Paris Games - Artistic Gymnastics",
+        "share_text": "Paris Games Artistic Gymnastics! #GoogleDoodle"
+      },
+      "af": {
+        "query": "olimpiese spele van artistieke gimnastiek",
+        "hover_text": "Parys Spele – Artistieke Gimnastiek",
+        "share_text": "Parys Spele Artistieke Gimnastiek! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "gjimnastika artistike në lojërat olimpike",
+        "hover_text": "Lojërat e Parisit - Gjimnastikë artistike",
+        "share_text": "Gjimnastika artistike në Lojërat e Parisit! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአርቲስቲክስ ጂምናስቲክስ ኦሎምፒክ",
+        "hover_text": "የፓሪስ ጨዋታዎች - አርቲስቲክስ ጂምናስቲክስ",
+        "share_text": "የፓሪስ ጨዋታዎች አርቲስቲክስ ጂምናስቲክስ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "أولمبياد الجمباز الفني",
+        "hover_text": "ألعاب باريس - الجمباز الفني",
+        "share_text": "مسابقات الجمباز الفني في ألعاب باريس! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "գեղարվեստական մարմնամարզությունը օլիմպիական խաղերում",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "az": {
+        "query": "bədii gimnastika olimpiadası",
+        "hover_text": "Paris Oyunları - Bədii Gimnastika",
+        "share_text": "Paris Oyunları Bədii Gimnastika! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "শৈল্পিক জিমন্যাস্টিক অলিম্পিক",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "eu": {
+        "query": "gimnasia artistikoa olinpiar jokoak",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "be": {
+        "query": "спартыўная гімнастыка алімпіяда",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "bs": {
+        "query": "umjetnička gimnastika na olimpijskim igrama",
+        "hover_text": "Igre u Parizu – umjetnička gimnastika",
+        "share_text": "Umjetnička gimnastika na igrama u Parizu! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Artistic Gymnastics Olympics",
+        "hover_text": "Paris Games – Artistic Gymnastics",
+        "share_text": "Paris Games Artistic Gymnastics #GoogleDoodle"
+      },
+      "bg": {
+        "query": "спортна гимнастика на Олимпийските игри",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "my": {
+        "query": "အလှကျွမ်းဘားအိုလံပစ်",
+        "hover_text": "ပဲရစ်ဂိမ်းများ - အလှကျွမ်းဘား",
+        "share_text": "ပဲရစ်ဂိမ်းများ အလှကျွမ်းဘား။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "gimnàstica artística als Jocs Olímpics",
+        "hover_text": "Jocs de París: gimnàstica artística",
+        "share_text": "Gimnàstica artística als Jocs de París #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "奧運競技體操",
+        "hover_text": "巴黎賽事 - 競技體操項目",
+        "share_text": "巴黎賽事競技體操項目！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "競技體操  奧運",
+        "hover_text": "巴黎賽事 - 競技體操項目",
+        "share_text": "巴黎賽事競技體操項目熱血開賽！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "竞技体操 奥运会",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "hr": {
+        "query": "umjetnička gimnastika olimpijske igre",
+        "hover_text": "Igre u Parizu – umjetnička gimnastika",
+        "share_text": "Umjetnička gimnastika na igrama u Parizu! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "olympiáda v umělecké gymnastice",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "da": {
+        "query": "redskabsgymnastik ol redskabsgymnastik ol",
+        "hover_text": "OL i Paris – redskabsgymnastik",
+        "share_text": "Redskabsgymnastik ved OL i Paris #GoogleDoodle"
+      },
+      "nl": {
+        "query": "turnen olympische spelen",
+        "hover_text": "Spelen in Parijs - Turnen",
+        "share_text": "Turnen op de Spelen in Parijs! #GoogleDoodle"
+      },
+      "et": {
+        "query": "riistvõimlemine olümpiamängudel",
+        "hover_text": "Pariisi olümpiamängud – riistvõimlemine",
+        "share_text": "Pariisi olümpiamängude riistvõimlemine! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "telinevoimistelu olympialaiset",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "fr": {
+        "query": "gymnastique artistique jeux olympiques",
+        "hover_text": "Jeux de Paris - Gymnastique artistique",
+        "share_text": "Gymnastique artistique aux Jeux de Paris ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "gymnastique artistique aux Jeux olympiques",
+        "hover_text": "",
+        "share_text": "La gymnastique artistique aux Jeux de Paris! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "ximnasia artística nos Xogos Olímpicos",
+        "hover_text": "Xogos de París: Ximnasia artística",
+        "share_text": "Ximnasia artística nos Xogos de París! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მხატვრული ტანვარჯიში ოლიმპიადაზე",
+        "hover_text": "პარიზის თამაშები — მხატვრული ტანვარჯიში",
+        "share_text": "პარიზის თამაშები — მხატვრული ტანვარჯიში! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Kunstturnen Olympia",
+        "hover_text": "Sommerspiele in Paris – Gerätturnen",
+        "share_text": "Gerätturnen bei den Sommerspielen in Paris #GoogleDoodle"
+      },
+      "el": {
+        "query": "ενόργανη γυμναστική στους ολυμπιακούς αγώνες",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "gu": {
+        "query": "કલાત્મક જિમ્નેસ્ટિક્સ ઓલિમ્પિક",
+        "hover_text": "પેરિસ ગેમ - કલાત્મક જિમ્નાસ્ટિક્સ",
+        "share_text": "પેરિસ ગેમમાં કલાત્મક જિમ્નાસ્ટિક્સ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "iw": {
+        "query": "התעמלות מכשירים אולימפיאדה",
+        "hover_text": "התעמלות מכשירים - משחקי פריז",
+        "share_text": "התעמלות מכשירים - משחקי פריז #GoogleDoodle"
+      },
+      "hi": {
+        "query": "कलात्मक जिमनास्टिक ओलम्पिक",
+        "hover_text": "पेरिस गेम्स में आर्टिस्टिक जिमनास्टिक",
+        "share_text": "पेरिस गेम्स में आर्टिस्टिक जिमनास्टिक! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "torna az olimpián",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "is": {
+        "query": "áhaldafimleikar á Ólympíuleikunum",
+        "hover_text": "Parísarleikarnir – Áhaldafimleikar",
+        "share_text": "Parísarleikarnir – Áhaldafimleikar! #GoogleDoodle"
+      },
+      "id": {
+        "query": "senam artistik olimpiade",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ga": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "it": {
+        "query": "ginnastica artistica olimpiadi",
+        "hover_text": "Giochi di Parigi - Ginnastica artistica",
+        "share_text": "Ginnastica artistica ai Giochi di Parigi! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "体操　オリンピック",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "kn": {
+        "query": "ಕಲಾತ್ಮಕ ಜಿಮ್ನಾಸ್ಟಿಕ್ಸ್ ಒಲಿಂಪಿಕ್ಸ್",
+        "hover_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ - ಆರ್ಟಿಸ್ಟಿಕ್ ಜಿಮ್ನಾಸ್ಟಿಕ್ಸ್",
+        "share_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಆರ್ಟಿಸ್ಟಿಕ್ ಜಿಮ್ನಾಸ್ಟಿಕ್ಸ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "спорттық гимнастика олимпиада",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "km": {
+        "query": "កាយសម្ព័ន្ធបែបសិល្បៈនៅព្រឹត្តិការណ៍កីឡាអូឡាំពិក",
+        "hover_text": "ព្រឹត្តិការណ៍កីឡានៅប៉ារីស - កាយសម្ព័ន្ធបែបសិល្បៈ",
+        "share_text": "កាយសម្ព័ន្ធបែបសិល្បៈនៅព្រឹត្តិការណ៍កីឡានៅប៉ារីស! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "기계 체조 올림픽",
+        "hover_text": "",
+        "share_text": "파리 2024 기계 체조 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "көркөм гимнастика олимпиада оюндары",
+        "hover_text": "Париж оюндары – Көркөм гимнастика",
+        "share_text": "Париж оюндары – Көркөм гимнастика! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ຢິມນາສຕິກສາກົນໂອລິມປິກ",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "es-419": {
+        "query": "gimnasia artística olimpiadas",
+        "hover_text": "Juegos Olímpicos de París - Gimnasia artística",
+        "share_text": "Gimnasia artística en los Juegos Olímpicos de París #GoogleDoodle"
+      },
+      "lv": {
+        "query": "mākslas vingrošana olimpiskajās spēlēs",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "lt": {
+        "query": "sportinė gimnastika žaidynėse",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "mk": {
+        "query": "спортска гимнастика на олимпијада",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "mg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ms": {
+        "query": "gimnastik artistik olimpik",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ml": {
+        "query": "ആർട്ടിസ്റ്റിക് ജിംനാസ്റ്റിക്സ് ഒളിമ്പിക്സ്",
+        "hover_text": "പാരീസ് ഗെയിംസ് - ആർട്ടിസ്റ്റിക് ജിംനാസ്റ്റിക്‌സ്",
+        "share_text": "പാരീസ് ഗെയിംസ് ആർട്ടിസ്റ്റിക് ജിംനാസ്റ്റിക്‌സ്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "mr": {
+        "query": "कलात्मक जिम्नॅस्टिक्स ऑलिंपिक्स",
+        "hover_text": "पॅरिस गेम्स - आर्टिस्टिक जिम्नॅस्टिक्स",
+        "share_text": "पॅरिस गेम्समधील आर्टिस्टिक जिम्नॅस्टिक्स! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "уран гимнастик олимп",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ne": {
+        "query": "आर्टिस्टिक जिम्नास्टिक्स ओलम्पिक",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "no": {
+        "query": "turn-OL",
+        "hover_text": "OL i Paris – turn",
+        "share_text": "Turn i OL i Paris! #GoogleDoodle"
+      },
+      "nn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ny": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "or": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ps": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "fa": {
+        "query": "ژیمناستیک هنری در بازی‌های المپیک",
+        "hover_text": "مسابقات پاریس - ژیمناستیک هنری",
+        "share_text": "ژیمناستیک هنری در مسابقات پاریس! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "gimnastyka artystyczna olimpiada",
+        "hover_text": "Igrzyska w Paryżu – gimnastyka artystyczna",
+        "share_text": "Gimnastyka artystyczna na igrzyskach w Paryżu #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "ginástica artística olimpíadas",
+        "hover_text": "Jogos de Paris: ginástica artística",
+        "share_text": "Ginástica artística nos Jogos de Paris #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "ginástica artística olímpicos",
+        "hover_text": "Jogos de Paris – Ginástica Artística",
+        "share_text": "Ginástica Artística nos Jogos de Paris! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਕਲਾਤਮਕ ਜਿਮਨਾਸਟਿਕਸ ਓਲੰਪਿਕਸ",
+        "hover_text": "ਪੈਰਿਸ ਖੇਡਾਂ - ਕਲਾਤਮਿਕ ਜਿਮਨਾਸਟਿਕ",
+        "share_text": "ਪੈਰਿਸ ਖੇਡਾਂ ਵਿੱਚ ਕਲਾਤਮਿਕ ਜਿਮਨਾਸਟਿਕ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "jocurile olimpice gimnastică artistică",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ru": {
+        "query": "спортивная гимнастика олимпиада",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sr": {
+        "query": "уметничка гимнастика олимпијада",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": "umetnička gimnastika olimpijada",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "crs": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "si": {
+        "query": "කලාත්මක ජිම්නාස්ටික් ඔලිම්පික්",
+        "hover_text": "පැරිස් ක්‍රීඩා - කලාත්මක ජිම්නාස්ටික්",
+        "share_text": "පැරිස් ක්‍රීඩා කලාත්මක ජිම්නාස්ටික්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "športová gymnastika olympiáda",
+        "hover_text": "Hry v Paríži – športová gymnastika",
+        "share_text": "Športová gymnastika na hrách v Paríži. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "olimpijske igre v umetnostni gimnastiki",
+        "hover_text": "Igre v Parizu – umetnostna gimnastika",
+        "share_text": "Umetnostna gimnastika na igrah v Parizu! #GoogleDoodle"
+      },
+      "so": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "st": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "es": {
+        "query": "gimnasia artística olimpiadas",
+        "hover_text": "Juegos de París: gimnasia artística",
+        "share_text": "Gimnasia artística en los juegos de París #GoogleDoodle"
+      },
+      "sw": {
+        "query": "jimnastiki ya kisanaa olimpiki",
+        "hover_text": "Michezo ya Paris - Sarakasi za Kisanaa",
+        "share_text": "Michezo ya Paris ya Sarakasi za Kisanaa! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "artistisk gymnastik os",
+        "hover_text": "Parisspelen – artistisk gymnastik",
+        "share_text": "Artistisk gymnastik under Parisspelen #GoogleDoodle"
+      },
+      "tg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஆர்டிஸ்டிக் ஜிம்னாஸ்டிக்ஸ் ஒலிம்பிக்ஸ்",
+        "hover_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் - ஆர்டிஸ்டிக் ஜிம்னாஸ்டிக்ஸ்",
+        "share_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் ஆர்டிஸ்டிக் ஜிம்னாஸ்டிக்ஸ்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఆర్టిస్టిక్ జిమ్నాస్టిక్స్ ఒలింపిక్స్",
+        "hover_text": "ప్యారిస్ గేమ్స్ - ఆర్టిస్టిక్ జిమ్నాస్టిక్స్",
+        "share_text": "ప్యారిస్ గేమ్స్ ఆర్టిస్టిక్ జిమ్నాస్టిక్స్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "ยิมนาสติกสากล โอลิมปิก",
+        "hover_text": "ปารีสเกมส์ - ยิมนาสติกสากล",
+        "share_text": "ยิมนาสติกสากลที่ปารีสเกมส์! #GoogleDoodle"
+      },
+      "tn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "tr": {
+        "query": "yaz olimpiyatları'nda artistik jimnastik",
+        "hover_text": "Paris Yaz Oyunları - Artistik Jimnastik",
+        "share_text": "Paris Yaz Oyunları Artistik Jimnastik #GoogleDoodle"
+      },
+      "tk": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "uk": {
+        "query": "спортивна гімнастика олімпіада",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ur": {
+        "query": "آرٹسٹک جمناسٹک اولمپکس",
+        "hover_text": "پیرس گیمز - آرٹسٹک جمناسٹکس",
+        "share_text": "پیرس گیمز آرٹسٹک جمناسٹکس! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "sport gimnastikasi olimpiada",
+        "hover_text": "Parij oʻyinlari - sport gimnastikasi",
+        "share_text": "Parij oʻyinlari sport gimnastikasi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "thể dục nghệ thuật olympics",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "wo": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "zu": {
+        "query": "gymnastics ngobuciko olympics",
+        "hover_text": "Amageyimu aseParis - iGymnastics Yobuciko",
+        "share_text": "IGymnastics Yobuciko Yamageyimu aseParis! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "artistic gymnastics olympics",
+    "share_text": "Paris Games Artistic Gymnastics! #GoogleDoodle"
+  },
+  {
+    "name": "peru-independence-day-2024",
+    "title": "Peru Independence Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/peru-independence-day-2024-6753651837110258-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/APQTbWS_vpLiVe7BgMgZ9rvtzAgrRlHkdAl1-IvbGjmi0IVrcgaltJjGuyLDE9ThW7YCUs7MMkHsJ92dZKL0cvv0sY3obbiA6lsg81FaovvnxaJ8d41kgw",
+    "high_res_url": "//www.google.com/logos/doodles/2024/peru-independence-day-2024-6753651837110258-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      7,
+      28
+    ],
+    "translations": {
+      "en": {
+        "query": "Peru Independence Day",
+        "hover_text": "Peru Independence Day 2024",
+        "share_text": "Happy Independence Day, Peru! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Peru se onafhanklikheidsdag",
+        "hover_text": "Peru se onafhanklikheidsdag 2024",
+        "share_text": "Gelukkige onafhanklikheidsdag, Peru! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë e Perusë",
+        "hover_text": "Dita e Pavarësisë së Perusë, 2024",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Peru! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የፔሩ የነጻነት ቀን",
+        "hover_text": "የፔሩ የነፃነት ቀን 2024",
+        "share_text": "መልካም የነጻነት ቀን ፔሩ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال بيرو",
+        "hover_text": "عيد استقلال بيرو 2024",
+        "share_text": "عيد استقلال سعيد لبيرو ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Պերուի անկախության օր",
+        "hover_text": "Պերուի անկախության օր 2024",
+        "share_text": "Շնորհավո՛ր Պերուի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Perunun müstəqillik günü",
+        "hover_text": "2024 Perunun Müstəqillik Günü",
+        "share_text": "Müstəqillik günün mübarək, Peru! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "পেরুর স্বাধীনতা দিবস",
+        "hover_text": "পেরুর স্বাধীনতা দিবস ২০২৪",
+        "share_text": "পেরুর স্বাধীনতা দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Peruko Independentzia Eguna",
+        "hover_text": "2024ko Peruko Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Peru! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Перу",
+        "hover_text": "Дзень незалежнасці Перу 2024",
+        "share_text": "З Днём незалежнасці, Перу! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Perua",
+        "hover_text": "Dan nezavisnosti Perua 2024.",
+        "share_text": "Sretan Dan nezavisnosti, Peru! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Peru Independence Day",
+        "hover_text": "Peru Independence Day 2024",
+        "share_text": "Happy Independence Day, Peru! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Перу",
+        "hover_text": "Ден на независимостта на Перу 2024 г.",
+        "share_text": "Честит Ден на независимостта на Перу! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ပီရူး လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ ပီရူးနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ဖြစ်ပါစေ၊ ပီရူး။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència del Perú",
+        "hover_text": "Dia de la Independència del Perú 2024",
+        "share_text": "Feliç Dia de la Independència, Perú! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "秘魯獨立日",
+        "hover_text": "2024 年秘魯獨立日",
+        "share_text": "秘魯獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "秘魯獨立紀念日",
+        "hover_text": "2024 年秘魯獨立紀念日",
+        "share_text": "祕魯，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "秘鲁独立日",
+        "hover_text": "2024 年秘鲁独立日",
+        "share_text": "秘鲁，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Perua",
+        "hover_text": "Dan neovisnosti Perua 2024.",
+        "share_text": "Sretan Dan neovisnosti, Peru! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Peru",
+        "hover_text": "Den nezávislosti Peru 2024",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Peru! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Perus uafhængighedsdag",
+        "hover_text": "Perus uafhængighedsdag 2024",
+        "share_text": "Glædelig uafhængighedsdag til Peru! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Peru",
+        "hover_text": "Onafhankelijkheidsdag Peru 2024",
+        "share_text": "Fijne Onafhankelijkheidsdag, Peru #GoogleDoodle"
+      },
+      "et": {
+        "query": "Peruu iseseisvuspäev",
+        "hover_text": "Peruu 2024. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Peruu! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Perun itsenäisyyspäivä",
+        "hover_text": "Perun itsenäisyyspäivä 2024",
+        "share_text": "Hyvää itsenäisyyspäivää, Peru! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance du Pérou",
+        "hover_text": "Fête de l'Indépendance du Pérou 2024",
+        "share_text": "Fête de l'Indépendance du Pérou #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance du Pérou",
+        "hover_text": "Fête de l'Indépendance du Pérou 2024",
+        "share_text": "Joyeux jour de l'indépendance du Pérou! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia do Perú",
+        "hover_text": "Día da Independencia do Perú 2024",
+        "share_text": "Feliz Día da Independencia, Perú! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "პერუს დამოუკიდებლობის დღე",
+        "hover_text": "პერუს დამოუკიდებლობის დღე — 2024",
+        "share_text": "ვულოცავთ პერუს დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Peruanischer Unabhängigkeitstag",
+        "hover_text": "Unabhängigkeitstag Peru 2024",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Peru! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας του Περού",
+        "hover_text": "Ημέρα Ανεξαρτησίας του Περού 2024",
+        "share_text": "Πολλές ευχές για την Ημέρα Ανεξαρτησίας του Περού! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "પેરુનો સ્વતંત્રતા દિવસ",
+        "hover_text": "પેરુનો સ્વતંત્રતા દિવસ 2024",
+        "share_text": "પેરુ નિવાસીઓને સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של פרו",
+        "hover_text": "יום העצמאות של פרו 2024",
+        "share_text": "יום עצמאות שמח, פרו! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "पेरू का स्वतंत्रता दिवस",
+        "hover_text": "पेरू का स्वतंत्रता दिवस 2024",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, पेरू! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "peru függetlenség napja",
+        "hover_text": "Peru függetlenségének napja, 2024",
+        "share_text": "Boldog függetlenség napját, Peru! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Perú",
+        "hover_text": "Sjálfstæðisdagur Perú 2024",
+        "share_text": "Gleðilegan sjálfstæðisdag, Perú! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Peru",
+        "hover_text": "Hari Kemerdekaan Peru 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Peru! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse Pheiriú",
+        "hover_text": null,
+        "share_text": "Lá Saoirse Pheiriú faoi mhaise duit. #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza del Perù",
+        "hover_text": "Festa dell'indipendenza del Perù 2024",
+        "share_text": "Buona festa dell'indipendenza, Perù! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ペルー独立記念日",
+        "hover_text": "2024 年ペルー独立記念日",
+        "share_text": "ペルー独立記念日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಪೆರುವಿನಲ್ಲಿ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಪೆರು ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಪೆರು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Перудің Тәуелсіздік күні",
+        "hover_text": "Перудің Тәуелсіздік күні – 2024",
+        "share_text": "Тәуелсіздік күні құтты болсын, Перу! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យឯករាជ្យជាតិ​ប៉េរូ",
+        "hover_text": "ទិវា​បុណ្យឯករាជ្យជាតិ​ប៉េរូឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវាបុណ្យ​ឯករាជ្យជាតិ​ប៉េរូ! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "페루 독립기념일",
+        "hover_text": "2024년 페루 독립기념일",
+        "share_text": "페루 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Перунун Эгемендүүлүк күнү",
+        "hover_text": "Перунун Эгемендүүлүк күнү – 2024",
+        "share_text": "Эгемендүүлүк күнүң менен, Перу! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດເປຣູ",
+        "hover_text": "ວັນປະກາດເອກະລາດເປຣູ 2024",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດ, ເປຣູ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Perú",
+        "hover_text": "Día de la Independencia de Perú 2024",
+        "share_text": "¡Feliz Día de la Independencia de Perú! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Peru neatkarības diena",
+        "hover_text": "Peru Neatkarības diena — 2024",
+        "share_text": "Sveicam neatkarības dienā, Peru! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Peru nepriklausomybės diena",
+        "hover_text": "Peru nepriklausomybės diena, 2024 m.",
+        "share_text": "Sveikiname Peru su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Перу",
+        "hover_text": "Ден на независноста на Перу, 2024 г.",
+        "share_text": "Среќен Ден на независноста на Перу! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Peroa",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny fahaleovantena ry Peroa ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Peru",
+        "hover_text": "Hari Kemerdekaan Peru 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Peru! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "പെറു സ്വാതന്ത്ര്യ ദിനം",
+        "hover_text": "പെറു സ്വാതന്ത്ര്യ ദിനം 2024",
+        "share_text": "സ്വാതന്ത്ര്യ ദിനാശംസകൾ, പെറു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "पेरूचा स्वातंत्र्य दिन",
+        "hover_text": "पेरुचा स्वातंत्र्यदिन २०२४",
+        "share_text": "स्वातंत्र्य दिनाच्या शुभेच्छा, पेरू! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Перу улсын тусгаар тогтнолын өдөр",
+        "hover_text": "2024 оны Перу Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Перу улсын ард иргэдэд тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "पेरूको स्वतन्त्रता दिवस",
+        "hover_text": "पेरूको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, पेरू! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Perus frigjøringsdag",
+        "hover_text": "Perus frigjøringsdag 2024",
+        "share_text": "Gratulerer med frigjøringsdagen, Peru! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ପେରୁର ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": null,
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, ପେରୁ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال پرو",
+        "hover_text": "روز استقلال ۲۰۲۴ پرو",
+        "share_text": "روز استقلال پرو مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Niepodległości Peru",
+        "hover_text": "Dzień Niepodległości Peru 2024",
+        "share_text": "Peru obchodzi Święto Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência do Peru",
+        "hover_text": "Dia da Independência do Peru 2024",
+        "share_text": "Feliz Dia da Independência, Peru! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência do Peru",
+        "hover_text": "Dia da Independência do Peru de 2024",
+        "share_text": "Feliz dia da independência, Peru! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਪੇਰੂ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ",
+        "hover_text": "ਪੇਰੂ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2024",
+        "share_text": "ਪੇਰੂ ਦੇ ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței în Peru",
+        "hover_text": "Ziua Independenței în Peru 2024",
+        "share_text": "La mulți ani de Ziua Independenței, Peru! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Перу",
+        "hover_text": "День независимости Перу – 2024",
+        "share_text": "День независимости Перу #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Перуа",
+        "hover_text": "Дан независности Перуа 2024.",
+        "share_text": "Честитамо Дан независности Перуу! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Perua",
+        "hover_text": "Dan nezavisnosti Perua 2024.",
+        "share_text": "Čestitamo Dan nezavisnosti Peruu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Lendepandans Peru",
+        "hover_text": null,
+        "share_text": "Bonn zournen lendepandans, Peru! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "පේරු නිදහස් දිනය",
+        "hover_text": "පේරු නිදහස් දිනය 2024",
+        "share_text": "සුබ නිදහස් දිනයක්, පේරු! #Googleඩූඩල්"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Peru",
+        "hover_text": "Deň nezávislosti Peru 2024",
+        "share_text": "Šťastný deň nezávislosti, Peru. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Peruja",
+        "hover_text": "Dan neodvisnosti Peruja 2024",
+        "share_text": "Vesel dan neodvisnosti, Peru. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madax banaanida Beeruu",
+        "hover_text": null,
+        "share_text": "Maalinta Madax banaanida Farxada leh ee Beeruu! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la Peru",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Tokoloho, Peru! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Perú",
+        "hover_text": "Día de la Independencia de Perú 2024",
+        "share_text": "¡Feliz Día de la Independencia de Perú! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Peruu",
+        "hover_text": "Sikukuu ya Uhuru wa Peruu 2024",
+        "share_text": "Heri ya Sikukuu ya Uhuru, Peruu! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Perus självständighetsdag",
+        "hover_text": "Perus självständighetsdag 2024",
+        "share_text": "Vi firar Perus självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "பெருவின் சுதந்திர தினம்",
+        "hover_text": "பெருவின் சுதந்திர தினம் 2024",
+        "share_text": "பெருவிற்கு சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "పెరూ స్వాతంత్ర దినోత్సవం",
+        "hover_text": "పెరూ స్వాతంత్ర దినోత్సవం 2024",
+        "share_text": "స్వాతంత్ర దినోత్సవ శుభాకాంక్షలు, పెరూ! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของเปรู",
+        "hover_text": "วันประกาศอิสรภาพของเปรูปี 2024",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของเปรู #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Peru",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, Peru! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Peru Bağımsızlık Günü",
+        "hover_text": "2024 Peru Bağımsızlık Günü",
+        "share_text": "Peru Bağımsızlık Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Перу",
+        "hover_text": "День незалежності Перу у 2024 році",
+        "share_text": "З Днем незалежності, Перу! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "پیرو کا یوم آزادی",
+        "hover_text": "پیرو کا یوم آزادی 2024",
+        "share_text": "پیرو کا یوم آزادی مبارک! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Peru mustaqillik kuni",
+        "hover_text": "Peru Mustaqillik kuni 2024",
+        "share_text": "Mustaqillik kuning muborak, Peru! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Peru",
+        "hover_text": "Ngày Quốc khánh Peru năm 2024",
+        "share_text": "Chúc mừng ngày quốc khánh Peru! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lokuzimela e-Peru",
+        "hover_text": "Usuku Lokuzimela e-Peru lwango-2024",
+        "share_text": "Usuku oluhle lokuzimela, Peru! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Peru Independence Day",
+    "share_text": "Happy Independence Day, Peru! #GoogleDoodle"
+  },
+  {
     "name": "paris-games-football",
     "title": "Paris Games - Football",
     "url": "//www.google.com/logos/doodles/2024/paris-games-football-6753651837110524-law.gif",
