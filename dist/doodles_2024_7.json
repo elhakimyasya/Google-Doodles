@@ -1,5 +1,504 @@
 [
   {
+    "name": "paris-games-artistic-gymnastics-day-2",
+    "title": "Paris Games - Artistic Gymnastics (Day 2)",
+    "url": "//www.google.com/logos/doodles/2024/paris-games-artistic-gymnastics-day-2-6753651837110526-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/CNMfd5xNkZxZrblreWURic15yoNUqjLCODuAJ6jmgNuUYLLc5dgQRGO2DmrLkWRmml2Ys_xXl7RyIN5EwBdvN6CC8FEn6zizyS9M-ZewLnhoOEcrbpRE8g",
+    "high_res_url": "//www.google.com/logos/doodles/2024/paris-games-artistic-gymnastics-day-2-6753651837110526-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      7,
+      30
+    ],
+    "translations": {
+      "en": {
+        "query": "artistic gymnastics olympics",
+        "hover_text": "Paris Games - Artistic Gymnastics",
+        "share_text": "Paris Games Artistic Gymnastics! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "am": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ar": {
+        "query": "أولمبياد الجمباز الفني",
+        "hover_text": "ألعاب باريس - الجمباز الفني",
+        "share_text": "مسابقات الجمباز الفني في ألعاب باريس! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "az": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bn": {
+        "query": "শৈল্পিক জিমন্যাস্টিক অলিম্পিক",
+        "hover_text": "প্যারিস অলিম্পিক গেমস - আর্টিস্টিক জিমন্যাস্টিকস",
+        "share_text": "প্যারিস অলিম্পিক গেমস, আর্টিস্টিক জিমন্যাস্টিকস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "be": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": "Artistic Gymnastics Olympics",
+        "hover_text": "Paris Games – Artistic Gymnastics",
+        "share_text": "Paris Games Artistic Gymnastics #GoogleDoodle"
+      },
+      "bg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "my": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ca": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": "奧運競技體操",
+        "hover_text": "巴黎賽事 - 競技體操項目",
+        "share_text": "巴黎賽事競技體操項目！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "競技體操  奧運  ",
+        "hover_text": "巴黎賽事 - 競技體操項目",
+        "share_text": "巴黎賽事競技體操項目熱血開賽！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "竞技体操 奥运会",
+        "hover_text": "巴黎奥运会 - 艺术体操运动",
+        "share_text": "巴黎奥运会艺术体操运动！#GoogleDoodle"
+      },
+      "hr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "cs": {
+        "query": "olympiáda v moderní gymnastice",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "da": {
+        "query": "redskabsgymnastik ol",
+        "hover_text": "OL i Paris – redskabsgymnastik",
+        "share_text": "Redskabsgymnastik ved OL i Paris #GoogleDoodle"
+      },
+      "nl": {
+        "query": "turnen olympische spelen turnen olympische spelen",
+        "hover_text": "Spelen in Parijs - Turnen",
+        "share_text": "Turnen op de Spelen in Parijs! #GoogleDoodle"
+      },
+      "et": {
+        "query": "riistvõimlemine olümpiamängudel",
+        "hover_text": "Pariisi olümpiamängud – riistvõimlemine",
+        "share_text": "Pariisi olümpiamängude riistvõimlemine! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "telinevoimistelu olympialaiset",
+        "hover_text": " ",
+        "share_text": " "
+      },
+      "fr": {
+        "query": "gymnastique artistique jeux olympiques",
+        "hover_text": "Jeux de Paris - Gymnastique artistique",
+        "share_text": "Gymnastique artistique aux Jeux de Paris ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "gymnastique artistique aux Jeux olympiques",
+        "hover_text": "Jeux de Paris : Gymnastique artistique",
+        "share_text": "La gymnastique artistique aux Jeux de Paris! #GoogleDoodle"
+      },
+      "gl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "de": {
+        "query": "Kunstturnen Olympia",
+        "hover_text": "Sommerspiele in Paris – Gerätturnen ",
+        "share_text": "Gerätturnen bei den Sommerspielen in Paris #GoogleDoodle"
+      },
+      "el": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gu": {
+        "query": "કલાત્મક જિમ્નેસ્ટિક્સ ઓલિમ્પિક",
+        "hover_text": "પેરિસ ગેમ - કલાત્મક જિમ્નાસ્ટિક્સ",
+        "share_text": "પેરિસ ગેમમાં કલાત્મક જિમ્નાસ્ટિક્સ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "התעמלות מכשירים אולימפיאדה",
+        "hover_text": "התעמלות מכשירים - משחקי פריז",
+        "share_text": "התעמלות מכשירים במשחקים בפריז GoogleDoodle#"
+      },
+      "hi": {
+        "query": "कलात्मक जिमनास्टिक ओलम्पिक",
+        "hover_text": "पेरिस गेम्स में आर्टिस्टिक जिमनास्टिक",
+        "share_text": "पेरिस गेम्स में आर्टिस्टिक जिमनास्टिक! #GoogleDoodle"
+      },
+      "hu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "is": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "id": {
+        "query": "senam artistik olimpiade",
+        "hover_text": "Olimpiade Paris - Senam Artistik",
+        "share_text": "Senam Artistik Olimpiade Paris #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "ginnastica artistica olimpiadi",
+        "hover_text": "Giochi di Parigi - Ginnastica artistica",
+        "share_text": "Ginnastica artistica ai Giochi di Parigi! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "体操　五輪",
+        "hover_text": "パリ試合 体操",
+        "share_text": "パリ試合 体操 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಕಲಾತ್ಮಕ ಜಿಮ್ನಾಸ್ಟಿಕ್ಸ್ ಒಲಿಂಪಿಕ್ಸ್",
+        "hover_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ - ಆರ್ಟಿಸ್ಟಿಕ್ ಜಿಮ್ನಾಸ್ಟಿಕ್ಸ್",
+        "share_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಆರ್ಟಿಸ್ಟಿಕ್ ಜಿಮ್ನಾಸ್ಟಿಕ್ಸ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ko": {
+        "query": "기계 체조 올림픽",
+        "hover_text": "파리 2024 종목 - 기계 체조",
+        "share_text": "파리 2024 기계 체조 종목 #GoogleDoodle"
+      },
+      "ky": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es-419": {
+        "query": "gimnasia artística olimpiadas",
+        "hover_text": "Juegos de París: gimnasia artística",
+        "share_text": "Gimnasia artística en los juegos de París #GoogleDoodle"
+      },
+      "lv": {
+        "query": "mākslas vingrošana olimpiskajās spēlēs",
+        "hover_text": "Parīzes olimpiskās spēles — mākslas vingrošana",
+        "share_text": "Parīzes olimpiskās spēles — mākslas vingrošana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "sportinė gimnastika žaidynėse",
+        "hover_text": "Paryžiaus olimpinės žaidynės – sportinė gimnastika",
+        "share_text": "Sportinė gimnastika Paryžiaus olimpinėse žaidynėse! #GoogleDoodle"
+      },
+      "mk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "gimnastik artistik olimpik",
+        "hover_text": " ",
+        "share_text": " "
+      },
+      "ml": {
+        "query": "ആർട്ടിസ്റ്റിക് ജിംനാസ്റ്റിക്സ് ഒളിമ്പിക്സ്",
+        "hover_text": "പാരീസ് ഗെയിംസ് - ആർട്ടിസ്റ്റിക് ജിംനാസ്റ്റിക്‌സ്",
+        "share_text": "പാരീസ് ഗെയിംസ് ആർട്ടിസ്റ്റിക് ജിംനാസ്റ്റിക്‌സ്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "कलात्मक जिम्नॅस्टिक्स ऑलिंपिक्स",
+        "hover_text": "पॅरिस गेम्स - आर्टिस्टिक जिम्नॅस्टिक्स",
+        "share_text": "पॅरिस गेम्समधील आर्टिस्टिक जिम्नॅस्टिक्स! #GoogleDoodle"
+      },
+      "mn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ne": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "no": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pl": {
+        "query": "gimnastyka artystyczna olimpiada",
+        "hover_text": "Igrzyska w Paryżu – gimnastyka artystyczna",
+        "share_text": "Gimnastyka artystyczna na igrzyskach w Paryżu #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "ginástica artística olimpíadas",
+        "hover_text": "Jogos de Paris: ginástica artística",
+        "share_text": "Ginástica artística nos Jogos de Paris #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "ginástica artística olímpicos",
+        "hover_text": "Jogos de Paris – Ginástica Artística",
+        "share_text": "Ginástica Artística nos Jogos de Paris! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਕਲਾਤਮਕ ਜਿਮਨਾਸਟਿਕਸ ਓਲੰਪਿਕਸ",
+        "hover_text": "ਪੈਰਿਸ ਖੇਡਾਂ - ਕਲਾਤਮਿਕ ਜਿਮਨਾਸਟਿਕ",
+        "share_text": "ਪੈਰਿਸ ਖੇਡਾਂ ਵਿੱਚ ਕਲਾਤਮਿਕ ਜਿਮਨਾਸਟਿਕ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "jocurile olimpice gimnastică artistică",
+        "hover_text": "Jocurile Olimpice de la Paris – Gimnastică artistică",
+        "share_text": "Gimnastică artistică la Jocurile Olimpice de la Paris! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "спортивная гимнастика олимпиада",
+        "hover_text": "Спортивная гимнастика на Олимпийских играх в Париже",
+        "share_text": "Спортивная гимнастика на Олимпийских играх в Париже #GoogleDoodle"
+      },
+      "sr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "gimnasia artística olimpiadas",
+        "hover_text": "Juegos de París: gimnasia artística",
+        "share_text": "Gimnasia artística en los juegos de París #GoogleDoodle"
+      },
+      "sw": {
+        "query": "jimnastiki ya kisanaa olimpiki",
+        "hover_text": "Michezo ya Paris - Sarakasi za Kisanaa",
+        "share_text": "Michezo ya Paris ya Sarakasi za Kisanaa! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "artistisk gymnastik os",
+        "hover_text": "Parisspelen – artistisk gymnastik",
+        "share_text": "Artistisk gymnastik under Parisspelen #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஆர்டிஸ்டிக் ஜிம்னாஸ்டிக்ஸ் ஒலிம்பிக்ஸ்",
+        "hover_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் - ஆர்டிஸ்டிக் ஜிம்னாஸ்டிக்ஸ்",
+        "share_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் ஆர்டிஸ்டிக் ஜிம்னாஸ்டிக்ஸ்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఆర్టిస్టిక్ జిమ్నాస్టిక్స్ ఒలింపిక్స్",
+        "hover_text": "ప్యారిస్ గేమ్స్ - ఆర్టిస్టిక్ జిమ్నాస్టిక్స్",
+        "share_text": "ప్యారిస్ గేమ్స్ ఆర్టిస్టిక్ జిమ్నాస్టిక్స్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "ยิมนาสติกสากล โอลิมปิก",
+        "hover_text": "ปารีสเกมส์ - ยิมนาสติกสากล",
+        "share_text": "ยิมนาสติกสากลที่ปารีสเกมส์! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "yaz olimpiyatları'nda artistik jimnastik",
+        "hover_text": "Paris Yaz Oyunları - Artistik Jimnastik",
+        "share_text": "Paris Yaz Oyunları Artistik Jimnastik #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "спортивна гімнастика олімпіада",
+        "hover_text": "Олімпійські ігри в Парижі: художня гімнастика",
+        "share_text": "Олімпійські ігри в Парижі: художня гімнастика! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "آرٹسٹک جمناسٹک اولمپکس",
+        "hover_text": "پیرس گیمز - آرٹسٹک جمناسٹکس",
+        "share_text": "پیرس گیمز آرٹسٹک جمناسٹکس! GoogleDoodle#"
+      },
+      "uz": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "vi": {
+        "query": "thể dục nghệ thuật olympics",
+        "hover_text": "Thế vận hội Paris – Thể dục nghệ thuật",
+        "share_text": "Môn Thể dục nghệ thuật tại Thế vận hội Paris! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "i-artistic gymnastics olympics",
+        "hover_text": "Amageyimu aseParis - iGymnastics Yobuciko",
+        "share_text": "IGymnastics Yobuciko Yamageyimu aseParis! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "artistic gymnastics olympics",
+    "share_text": "Paris Games Artistic Gymnastics! #GoogleDoodle"
+  },
+  {
     "name": "paris-games-artistic-gymnastics",
     "title": "Paris Games - Artistic Gymnastics",
     "url": "//www.google.com/logos/doodles/2024/paris-games-artistic-gymnastics-6753651837110525-law.gif",
@@ -49,9 +548,9 @@
         "share_text": "Paris Oyunları Bədii Gimnastika! #GoogleDoodle"
       },
       "bn": {
-        "query": "শৈল্পিক জিমন্যাস্টিক অলিম্পিক",
-        "hover_text": "",
-        "share_text": ""
+        "query": "আর্টিস্টিক জিমন্যাস্টিকস",
+        "hover_text": "প্যারিস অলিম্পিক গেমস - আর্টিস্টিক জিমন্যাস্টিকস",
+        "share_text": "প্যারিস অলিম্পিক গেমস - আর্টিস্টিক জিমন্যাস্টিকস #GoogleDoodle"
       },
       "eu": {
         "query": "gimnasia artistikoa olinpiar jokoak",
@@ -109,7 +608,7 @@
         "share_text": "Umjetnička gimnastika na igrama u Parizu! #GoogleDoodle"
       },
       "cs": {
-        "query": "olympiáda v umělecké gymnastice",
+        "query": "olympiáda v moderní gymnastice",
         "hover_text": "",
         "share_text": ""
       },
