@@ -1,5 +1,504 @@
 [
   {
+    "name": "paris-games-sailing-day-2",
+    "title": "Paris Games - Sailing (Day 2)",
+    "url": "//www.google.com/logos/doodles/2024/paris-games-sailing-day-2-6753651837110530-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/E-HiQ32dAO_o2VR6QddvPs8SkP7LZBaygjlw6PPktjl5fe2Fc5MKiCldLLCWffzFKY3WVC_eBZ5D9lnOUisG26ZpsYziiQqb9d1x6CkFAVCpsdLqkbcT",
+    "high_res_url": "//www.google.com/logos/doodles/2024/paris-games-sailing-day-2-6753651837110530-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      8,
+      3
+    ],
+    "translations": {
+      "en": {
+        "query": "sailing olympics",
+        "hover_text": "Paris Games - Sailing",
+        "share_text": "Paris Games Sailing! #GoogleDoodle"
+      },
+      "af": {
+        "query": "olimpiese spele van seilvaart",
+        "hover_text": "Parys Spele – Seilvaart",
+        "share_text": "Parys Spele – Seilvaart! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "lundrimi në lojërat olimpike",
+        "hover_text": "Lojërat e Parisit - Lundrim",
+        "share_text": "Lundrimi në Lojërat e Parisit! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የጀልባ ጉዞ ውድድር ኦሎምፒክ",
+        "hover_text": "የፓሪስ ጨዋታዎች - የጀልባ ጉዞ ውድድር",
+        "share_text": "የፓሪስ ጨዋታዎች የጀልባ ጉዞ ውድድር! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "أولمبياد الإبحار",
+        "hover_text": "الإبحار الشراعي في أولمبياد باريس",
+        "share_text": "مسابقات الإبحار الشراعي في أولمبياد باريس! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "առագաստանավային սպորտ օլիմպիական խաղերում",
+        "hover_text": "Առագաստանավային սպորտ Փարիզի խաղերում",
+        "share_text": "Առագաստանավային սպորտ Փարիզի խաղերում #GoogleDoodle"
+      },
+      "az": {
+        "query": "yelkənli idman olimpiadası",
+        "hover_text": "Paris Oyunları - yelkənli idman",
+        "share_text": "Paris Oyunları yelkənli idman! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "সেইলিং অলিম্পিক",
+        "hover_text": "প্যারিস গেমস - সেইলিং ইভেন্ট",
+        "share_text": "প্যারিস গেমসে সেইলিং ইভেন্ট! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "bela olinpiar jokoak",
+        "hover_text": "Parisko Jokoak: bela",
+        "share_text": "Parisko Jokoetako bela #GoogleDoodle"
+      },
+      "be": {
+        "query": "парусны спорт алімпіяда",
+        "hover_text": "Гульні ў Парыжы – Парусны спорт",
+        "share_text": "Гульні ў Парыжы – Парусны спорт! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "jedrenje na olimpijskim igrama",
+        "hover_text": "Igre u Parizu – jedrenje",
+        "share_text": "Jedrenje na igrama u Parizu! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Sailing Olympics",
+        "hover_text": "Paris Games – Sailing",
+        "share_text": "Paris Games Sailing #GoogleDoodle"
+      },
+      "bg": {
+        "query": "ветроходство на Олимпийските игри",
+        "hover_text": "Игрите в Париж – ветроходство",
+        "share_text": "Ветроходство на Игрите в Париж! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ရွက်လွှင့်ခြင်း အိုလံပစ်",
+        "hover_text": "ပဲရစ်ဂိမ်းများ - ရွက်လွှင့်ခြင်း",
+        "share_text": "ပဲရစ်ဂိမ်းများ ရွက်လွှင့်ခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "vela jocs olímpics",
+        "hover_text": "Jocs de París: Vela",
+        "share_text": "Vela als Jocs de París #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "奧運帆船",
+        "hover_text": "巴黎賽事 - 帆船項目",
+        "share_text": "巴黎賽事帆船項目！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "帆船 奧運 ",
+        "hover_text": "巴黎賽事 - 帆船項目",
+        "share_text": "巴黎賽事帆船項目熱血開賽！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "帆船 奥运会",
+        "hover_text": "巴黎奥运会帆船项目",
+        "share_text": "巴黎奥运会帆船项目！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "jedrenje na olimpijadi",
+        "hover_text": "Igre u Parizu – jedrenje",
+        "share_text": "Igre u Parizu – jedrenje! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "olympiáda v jachtingu",
+        "hover_text": "Olympiáda v Paříži: Jachting",
+        "share_text": "Sledujeme jachting na olympiádě v Paříži! #GoogleDoodle"
+      },
+      "da": {
+        "query": "sejlsport ol",
+        "hover_text": "OL i Paris – sejlsport",
+        "share_text": "Sejlsport ved OL i Paris #GoogleDoodle"
+      },
+      "nl": {
+        "query": "zeilen olympische spelen",
+        "hover_text": "Zeilen op de Spelen in Parijs",
+        "share_text": "Zeilen op de Spelen in Parijs! #GoogleDoodle"
+      },
+      "et": {
+        "query": "purjetamine olümpiamängudel",
+        "hover_text": "Pariisi mängude purjetamine",
+        "share_text": "Pariisi mängude purjetamine! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "purjehdus olympialaiset",
+        "hover_text": " ",
+        "share_text": " "
+      },
+      "fr": {
+        "query": "voile jeux olympiques",
+        "hover_text": "Jeux de Paris - Voile",
+        "share_text": "Voile aux Jeux de Paris ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "voile aux Jeux olympiques",
+        "hover_text": "La voile aux Jeux de Paris",
+        "share_text": "La voile aux Jeux de Paris! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "vela nos Xogos Olímpicos",
+        "hover_text": "Xogos de París: Vela",
+        "share_text": "Vela nos Xogos de París! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "აფროსნობა ოლიმპიურ თამაშებზე",
+        "hover_text": "პარიზის თამაშები – აფროსნობა",
+        "share_text": "აფროსნობა პარიზის თამაშებზე! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Segeln Olympia",
+        "hover_text": "Sommerspiele in Paris – Segeln",
+        "share_text": "Segeln bei den Sommerspielen in Paris #GoogleDoodle"
+      },
+      "el": {
+        "query": "ιστιοπλοΐα στους ολυμπιακούς αγώνες",
+        "hover_text": "Αγώνες στο Παρίσι – Ιστιοπλοΐα",
+        "share_text": "Ιστιοπλοΐα στους Αγώνες στο Παρίσι! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "સેઈલિંગ ઓલિમ્પિક",
+        "hover_text": "પેરિસ ગેમ - નૌકા ચલાવવી",
+        "share_text": "પેરિસ ગેમ નૌકા ચલાવવી! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "שייט אולימפיאדה",
+        "hover_text": "המשחקים בפריז – שייט",
+        "share_text": "שייט במשחקים בפריז GoogleDoodle#"
+      },
+      "hi": {
+        "query": "सेलिंग ओलम्पिक",
+        "hover_text": "पेरिस गेम्स में सेलिंग",
+        "share_text": "पेरिस गेम्स में सेलिंग! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "vitorlázás olimpia",
+        "hover_text": "Vitorlázás a párizsi játékokon",
+        "share_text": "Vitorlázás a párizsi játékokon. #GoogleDoodle"
+      },
+      "is": {
+        "query": "siglingar á ólympíuleikunum",
+        "hover_text": "Parísarleikarnir – Siglingar",
+        "share_text": "Parísarleikarnir – Siglingar #GoogleDoodle"
+      },
+      "id": {
+        "query": "berlayar olimpiade",
+        "hover_text": "Pertandingan Paris - Berlayar",
+        "share_text": "Pertandingan Paris - Berlayar #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "vela olimpiadi",
+        "hover_text": "Vela ai Giochi di Parigi",
+        "share_text": "Vela ai Giochi di Parigi! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "セーリング　オリンピック",
+        "hover_text": "パリ大会 - セーリング",
+        "share_text": "パリ大会セーリング #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಸೇಲಿಂಗ್‌ ಒಲಿಂಪಿಕ್ಸ್",
+        "hover_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ - ಸೈಲಿಂಗ್",
+        "share_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಸೈಲಿಂಗ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "олимпиада желкенді қайық спорты",
+        "hover_text": "Париж ойындары – желкенді қайық спорты",
+        "share_text": "Париж ойындары – желкенді қайық спорты #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការជិះទូកក្ដោងក្នុងព្រឹត្តិការណ៍កីឡាអូឡាំពិក",
+        "hover_text": "ព្រឹត្តិការណ៍កីឡានៅប៉ារីស - ការជិះទូកក្ដោង",
+        "share_text": "ការជិះទូកក្ដោងក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "요트 올림픽",
+        "hover_text": "파리 2024 - 요트",
+        "share_text": "파리 2024 요트 종목 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "жел кайыкта сүзүү боюнча олимпиада оюндары",
+        "hover_text": "Париж оюндары – Жел кайыкта сүзүү",
+        "share_text": "Париж оюндары – Жел кайыкта сүзүү! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ແລ່ນເຮືອໃບໂອລິມປິກ",
+        "hover_text": "ການແຂ່ງຂັນກິລາໂອລິມປິກປາຣີສ - ແລ່ນເຮືອໃບ",
+        "share_text": "ແລ່ນເຮືອໃບຢູ່ການແຂ່ງຂັນກິລາໂອລິມປິກປາຣີສ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "vela olimpiadas",
+        "hover_text": "Juegos de París: vela",
+        "share_text": "Vela en los Juegos de París #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Burāšana — olimpiskās spēles",
+        "hover_text": "Parīzes spēles — burāšana",
+        "share_text": "Parīzes spēles — burāšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "buriavimas olimpinėse žaidynėse",
+        "hover_text": "Paryžiaus olimpinės žaidynės – buriavimas",
+        "share_text": "Buriavimas Paryžiaus olimpinėse žaidynėse! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "едрење на олимпијада",
+        "hover_text": "Игри во Париз – Едрење",
+        "share_text": "Едрење на игрите во Париз! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "pelayaran olimpik",
+        "hover_text": " ",
+        "share_text": " "
+      },
+      "ml": {
+        "query": "സെയ്‌ലിംഗ് ഒളിമ്പിക്സ്",
+        "hover_text": "പാരീസ് ഗെയിംസ് - സെയിലിംഗ്",
+        "share_text": "പാരീസ് ഗെയിംസ് സെയിലിംഗ്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "सेलिंग ऑलिम्पिक",
+        "hover_text": "पॅरिस गेम्समधील नौकानयन",
+        "share_text": "पॅरिस गेम्समधील नौकानयन! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "олимпын дарвуулт завины уралдаан",
+        "hover_text": "Парисын наадам - Дарвуулт завины уралдаан",
+        "share_text": "Парисын наадмын дарвуулт завины уралдаан! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "सेलिङ ओलम्पिक",
+        "hover_text": "पेरिस खेल - सेलिङ",
+        "share_text": "पेरिस खेलअन्तर्गतको सेलिङ! #GoogleDoodle"
+      },
+      "no": {
+        "query": "seile-OL",
+        "hover_text": "Paris-lekene – seiling",
+        "share_text": "Seiling i Paris-lekene! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "قایق‌رانی بادبانی در بازی‌های المپیک",
+        "hover_text": "«بازی‌های پاریس» - قایق‌رانی بادبانی",
+        "share_text": "قایق‌رانی بادبانی در «بازی‌های پاریس»! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "żeglarstwo olimpiada",
+        "hover_text": "Igrzyska w Paryżu – żeglarstwo",
+        "share_text": "Żeglarstwo na igrzyskach w Paryżu #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "vela olimpíadas",
+        "hover_text": "Vela nos Jogos de Paris",
+        "share_text": "Vela nos Jogos de Paris #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "vela olímpicos",
+        "hover_text": "Jogos de Paris – Vela",
+        "share_text": "Jogos de Paris – Vela! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਸੇਲਿੰਗ ਓਲੰਪਿਕਸ",
+        "hover_text": "ਪੈਰਿਸ ਖੇਡਾਂ - ਸੇਲਿੰਗ",
+        "share_text": "ਪੈਰਿਸ ਖੇਡਾਂ ਵਿੱਚ ਸੇਲਿੰਗ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "jocurile olimpice navigație",
+        "hover_text": "Jocurile Olimpice de la Paris – Navigație",
+        "share_text": "Navigație la Jocurile Olimpice de la Paris! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "парусный спорт олимпиада",
+        "hover_text": "Парусный спорт на Олимпийских играх в Париже",
+        "share_text": "Парусный спорт на Олимпийских играх в Париже #GoogleDoodle"
+      },
+      "sr": {
+        "query": "једрење на олимпијади",
+        "hover_text": "Игре у Паризу – једрење",
+        "share_text": "Једрење на Играма у Паризу! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "jedrenje na olimpijadi",
+        "hover_text": "Igre u Parizu – jedrenje",
+        "share_text": "Jedrenje na Igrama u Parizu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "යාත්‍රා කිරීම ඔලිම්පික්",
+        "hover_text": "පැරිස් ක්‍රීඩා - යාත්‍රා කිරීම",
+        "share_text": "පැරිස් ක්‍රීඩා යාත්‍රා කිරීම! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Jachting na olympiáde",
+        "hover_text": "Hry v Paríži – jachting",
+        "share_text": "Jachting na hrách v Paríži. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "jadranje na olimpijskih igrah",
+        "hover_text": "Igre v Parizu – jadranje",
+        "share_text": "Jadranje na igrah v Parizu! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "vela olimpiadas",
+        "hover_text": "Juegos de París: vela",
+        "share_text": "Vela en los Juegos de París #GoogleDoodle"
+      },
+      "sw": {
+        "query": "mchezo wa mashua olimpiki",
+        "hover_text": "Michezo ya Paris - Uendeshaji Mashua ya Matanga",
+        "share_text": "Michezo ya Paris ya Uendeshaji Mashua ya Matanga! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "segling os",
+        "hover_text": "Parisspelen – segling",
+        "share_text": "Segling under Parisspelen #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "செயிலிங் ஒலிம்பிக்ஸ்",
+        "hover_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் - பாய்மரப் படகோட்டம்",
+        "share_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் பாய்மரப் படகோட்டம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "సెయిలింగ్ ఒలింపిక్స్",
+        "hover_text": "ప్యారిస్ గేమ్స్ - సెయిలింగ్",
+        "share_text": "ప్యారిస్ గేమ్స్ సెయిలింగ్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "กีฬาเรือใบ โอลิมปิก",
+        "hover_text": "ปารีสเกมส์ - แล่นเรือใบ",
+        "share_text": "แล่นเรือใบที่ปารีสเกมส์! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "yaz olimpiyatları'nda yelken",
+        "hover_text": "Paris Yaz Oyunları Yelken",
+        "share_text": "Paris Yaz Oyunları Yelken #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "вітрильний спорт олімпіада",
+        "hover_text": "Олімпійські ігри в Парижі: вітрильний спорт",
+        "share_text": "Олімпійські ігри в Парижі: вітрильний спорт! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "سیلنگ اولمپکس",
+        "hover_text": "پیرس گیمز سیلنگ",
+        "share_text": "پیرس گیمز سیلنگ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "yelkanli sport olimpiada",
+        "hover_text": "Paris oʻyinlari – Yelkanli sport",
+        "share_text": "Paris oʻyinlari yelkanli sport! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "đua thuyền buồm olympics",
+        "hover_text": "Thế vận hội Paris – Bơi thuyền buồm",
+        "share_text": "Môn bơi thuyền buồm tại Thế vận hội Paris! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "i-sailing olympics",
+        "hover_text": "Amageyimu aseParis - Ukuhamba ngesikebhe",
+        "share_text": "Amageyimu aseParis Okuhamba ngesikebhe #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "sailing olympics",
+    "share_text": "Paris Games Sailing! #GoogleDoodle"
+  },
+  {
     "name": "paris-games-sailing",
     "title": "Paris Games - Sailing",
     "url": "//www.google.com/logos/doodles/2024/paris-games-sailing-6753651837110529.4-law.gif",
@@ -455,8 +954,8 @@
       },
       "tr": {
         "query": "yaz olimpiyatları'nda yelken",
-        "hover_text": "Paris Olimpiyat Oyunları Yelken",
-        "share_text": "Paris Olimpiyat Oyunları Yelken #GoogleDoodle"
+        "hover_text": "Paris Oyunları Yelken",
+        "share_text": "Paris Oyunları Yelken #GoogleDoodle"
       },
       "tk": {
         "query": "",
