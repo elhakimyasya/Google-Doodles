@@ -1,5 +1,504 @@
 [
   {
+    "name": "paris-games-rings",
+    "title": "Paris Games - Rings",
+    "url": "//www.google.com/logos/doodles/2024/paris-games-rings-6753651837110531-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/Xnni-Veizeyelzf4TJq3ibyLeuBd969zoyN_r3l5ZjQDpCgntbPD1LG8Jbg0YB35o0KCrnFOz54gmQUyxsRwCtmkMpJjUchhoiUTV0xg3Iia4zPr0AMuXg",
+    "high_res_url": "//www.google.com/logos/doodles/2024/paris-games-rings-6753651837110531-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      8,
+      4
+    ],
+    "translations": {
+      "en": {
+        "query": "gymnastics rings olympics",
+        "hover_text": "Paris Games Rings",
+        "share_text": "Paris Games Rings! #GoogleDoodle"
+      },
+      "af": {
+        "query": "olimpiese ringe – gimnastiek",
+        "hover_text": "Parys Spele – Ringe",
+        "share_text": "Parys Spele – Ringe! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "unazat gjimnastikore në lojërat olimpike",
+        "hover_text": "Lojërat e Parisit - Unaza",
+        "share_text": "Unazat në Lojërat e Parisit! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የጂምናስቲክ ቀለበቶች ኦሎምፒክስ",
+        "hover_text": "የፓሪስ ጨዋታዎች ቀለበቶች",
+        "share_text": "የፓሪስ ጨዋታዎች ቀለበቶች! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "أولمبياد الجمباز حلق",
+        "hover_text": "مسابقات الجمباز الفني بالحلقات في أولمبياد باريس",
+        "share_text": "مسابقات الجمباز الفني بالحلقات في أولمبياد باريس! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "օղակների վրա վարժություններ օլիմպիական խաղերում",
+        "hover_text": "Օղակների վրա վարժություններ Փարիզի խաղերում",
+        "share_text": "Օղակների վրա վարժություններ Փարիզի խաղերում #GoogleDoodle"
+      },
+      "az": {
+        "query": "gimnastika halqaları olimpiadası",
+        "hover_text": "Paris Oyunları halqaları",
+        "share_text": "Paris Oyunları halqaları! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "জিমন্যাস্টিক রিং অলিম্পিক",
+        "hover_text": "প্যারিস গেমসে রিং ইভেন্ট",
+        "share_text": "প্যারিস গেমসে রিং ইভেন্ট! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "gimnasia eraztunak olinpiar jokoak",
+        "hover_text": "Parisko Jokoetako eraztunak",
+        "share_text": "Parisko Jokoetako eraztunak #GoogleDoodle"
+      },
+      "be": {
+        "query": "гімнастыка кольцы алімпіяда",
+        "hover_text": "Гульні ў Парыжы – Кольцы",
+        "share_text": "Гульні ў Парыжы – Кольцы! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "gimnastičke karike na olimpijskim igrama",
+        "hover_text": "Karike na igrama u Parizu",
+        "share_text": "Karike na igrama u Parizu! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Gymnastics Rings Olympics",
+        "hover_text": "Paris Games Rings",
+        "share_text": "Paris Games Rings #GoogleDoodle"
+      },
+      "bg": {
+        "query": "обръчи на Олимпийските игри в Париж",
+        "hover_text": "Кръгове на Игрите в Париж!",
+        "share_text": "Кръгове на Игрите в Париж! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ကျွမ်းဘားကွင်း အိုလံပစ်",
+        "hover_text": "ပဲရစ်ဂိမ်းများ ကျွမ်းဘားကွင်း",
+        "share_text": "ပဲရစ်ဂိမ်းများ ကျွမ်းဘားကွင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "gimnàstica anelles jocs olímpics",
+        "hover_text": "Anelles als Jocs de París",
+        "share_text": "Anelles als Jocs de París #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "奧運體操吊環",
+        "hover_text": "巴黎賽事吊環項目",
+        "share_text": "巴黎賽事吊環項目！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "競技體操吊環 奧運 ",
+        "hover_text": "巴黎賽事 - 競技體操吊環項目",
+        "share_text": "巴黎賽事吊環項目熱血開賽！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "体操 吊环 奥运会",
+        "hover_text": "巴黎奥运会吊环项目",
+        "share_text": "巴黎奥运会吊环项目！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "gimnastički prstenovi na olimpijadi",
+        "hover_text": "Igre u Parizu – prstenovi",
+        "share_text": "Igre u Parizu – prstenovi! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "olympiáda v gymnastických kruzích",
+        "hover_text": "Olympiáda v Paříži: Kruhy",
+        "share_text": "Sledujeme gymnastické kruhy na olympiádě v Paříži! #GoogleDoodle"
+      },
+      "da": {
+        "query": "gymnastik ringe ol",
+        "hover_text": "Ringgymnastik ved OL i Paris",
+        "share_text": "Ringgymnastik ved OL i Paris #GoogleDoodle"
+      },
+      "nl": {
+        "query": "turnen ringen olympische spelen",
+        "hover_text": "Ringen op de Spelen in Parijs",
+        "share_text": "Ringen op de Spelen in Parijs! #GoogleDoodle"
+      },
+      "et": {
+        "query": "võimlemisrõngad olümpiamängudel",
+        "hover_text": "Pariisi mängude rõngad",
+        "share_text": "Pariisi mängude rõngad! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "telinevoimistelu renkaat olympialaiset renkaat olympialaiset",
+        "hover_text": " ",
+        "share_text": " "
+      },
+      "fr": {
+        "query": "gymnastique anneaux jeux olympiques",
+        "hover_text": "Anneaux aux Jeux de Paris",
+        "share_text": "Anneaux aux Jeux de Paris ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "anneaux de gymnastique aux Jeux olympiques",
+        "hover_text": "Les anneaux aux Jeux de Paris",
+        "share_text": "Les anneaux aux Jeux de Paris! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "argolas de ximnasia nos Xogos Olímpicos",
+        "hover_text": "Argolas nos Xogos de París",
+        "share_text": "Argolas nos Xogos de París! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ტანვარჯიშის რგოლები ოლიმპიურ თამაშებზე",
+        "hover_text": "რინგები პარიზის თამაშებზე",
+        "share_text": "რინგები პარიზის თამაშებზე! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Gerätturnen Ringe Olympia",
+        "hover_text": "Sommerspiele in Paris – Ringeturnen",
+        "share_text": "Ringeturnen bei den Sommerspielen in Paris #GoogleDoodle"
+      },
+      "el": {
+        "query": "κρίκοι ενόργανης γυμναστικής στους ολυμπιακούς αγώνες",
+        "hover_text": "Κρίκοι στους Αγώνες στο Παρίσι",
+        "share_text": "Κρίκοι στους Αγώνες στο Παρίσι! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "જિમ્નેસ્ટિક્સ રિંગ્સ ઓલિમ્પિક",
+        "hover_text": "પેરિસ ગેમ રિંગ",
+        "share_text": "પેરિસ ગેમ રિંગ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "טבעות התעמלות אולימפיאדה",
+        "hover_text": "התעמלות במתקן הטבעות במשחקים בפריז",
+        "share_text": "התעמלות במתקן הטבעות במשחקים בפריז GoogleDoodle#"
+      },
+      "hi": {
+        "query": "जिमनास्टिक रिंग ओलम्पिक",
+        "hover_text": "पेरिस गेम्स में रिंग्स",
+        "share_text": "पेरिस गेम्स में रिंग्स! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "torna gyűrű olimpia",
+        "hover_text": "Gyűrű a párizsi játékokon",
+        "share_text": "Gyűrű a párizsi játékokon. #GoogleDoodle"
+      },
+      "is": {
+        "query": "fimleikahringir á ólympíuleikunum",
+        "hover_text": "Parísarleikarnir – Hringir",
+        "share_text": "Parísarleikarnir – Hringir! #GoogleDoodle"
+      },
+      "id": {
+        "query": "senam gelang-gelang olimpiade",
+        "hover_text": "Ring Senam Olimpiade Paris",
+        "share_text": "Ring Senam Olimpiade Paris #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "ginnastica anelli olimpiadi",
+        "hover_text": "Anelli ai Giochi di Parigi",
+        "share_text": "Anelli ai Giochi di Parigi! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "体操　つり輪　オリンピック",
+        "hover_text": "パリ大会つり輪",
+        "share_text": "パリ大会つり輪 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಜಿಮ್ನಾಸ್ಟಿಕ್ಸ್ ರಿಂಗ್ಸ್ ಒಲಿಂಪಿಕ್ಸ್",
+        "hover_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ರಿಂಗ್ಸ್",
+        "share_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ರಿಂಗ್ಸ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "олимпиада гимнастикалық сақиналар",
+        "hover_text": "Париж ойындары – сақиналар",
+        "share_text": "Париж ойындары – сақиналар #GoogleDoodle"
+      },
+      "km": {
+        "query": "កងកាយសម្ព័ន្ធក្នុងព្រឹត្តិការណ៍កីឡាអូឡាំពិក",
+        "hover_text": "កងកាយសម្ព័ន្ធក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស",
+        "share_text": "កងកាយសម្ព័ន្ធក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "체조 링 올림픽",
+        "hover_text": "파리 2024 링",
+        "share_text": "파리 2024 링 종목 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "гимнастикалык шакекчелер боюнча олимпиада оюндары",
+        "hover_text": "Париж оюндары – Шакекчелер",
+        "share_text": "Париж оюндары – Шакекчелер! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ຢິມນາສຕິກປະເພດຫ່ວງໂອລິມປິກ",
+        "hover_text": "ຢິມນາສຕິກປະເພດຫ່ວງຢູ່ການແຂ່ງຂັນກິລາໂອລິມປິກປາຣີສ",
+        "share_text": "ຢິມນາສຕິກປະເພດຫ່ວງຢູ່ການແຂ່ງຂັນກິລາໂອລິມປິກປາຣີສ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "gimnasia anillas olimpiadas",
+        "hover_text": "Anillas en los Juegos de París",
+        "share_text": "Anillas en los Juegos de París #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Vingrošana apļos — olimpiskās spēles",
+        "hover_text": "Parīzes olimpiskās spēles — vingrošana apļos",
+        "share_text": "Parīzes olimpiskās spēles — vingrošana apļos! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "gimnastiniai pratimai ant žiedų olimpinėse žaidynėse",
+        "hover_text": "Gimnastiniai pratimai ant žiedų Paryžiaus olimpinėse žaidynėse",
+        "share_text": "Gimnastiniai pratimai ant žiedų Paryžiaus olimpinėse žaidynėse! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "гимнастички алки на олимпијадата",
+        "hover_text": "Алки на игрите во Париз",
+        "share_text": "Алки на игрите во Париз! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "gimnastik gelang roman olimpik",
+        "hover_text": " ",
+        "share_text": " "
+      },
+      "ml": {
+        "query": "ജിംനാസ്റ്റിക്സ് റിങ്സ് ഒളിമ്പിക്സ്",
+        "hover_text": "പാരീസ് ഗെയിംസ് റിംഗുകൾ",
+        "share_text": "പാരീസ് ഗെയിംസ് റിംഗുകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "जिम्नॅस्टिक्स रिंग्ज ऑलिम्पिक",
+        "hover_text": "पॅरिस गेम्सच्या रिंग",
+        "share_text": "पॅरिस गेम्सच्या रिंग! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "олимпын гимнастикийн цагаригт дүүжин",
+        "hover_text": "Парисын наадмын цагаригт дүүжин",
+        "share_text": "Парисын наадмын цагаригт дүүжин! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "जिम्नास्टिक्स रिङ ओलम्पिक",
+        "hover_text": "पेरिस खेलका जिम्नास्टिक्स रिङ",
+        "share_text": "पेरिस खेलका जिम्नास्टिक्स रिङ! #GoogleDoodle"
+      },
+      "no": {
+        "query": "turnring-OL",
+        "hover_text": "Ringer i Paris-lekene",
+        "share_text": "Ringer i Paris-lekene! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "دارحلقه ژیمناستیک در بازی‌های المپیک",
+        "hover_text": "دارحلقه در «بازی‌های پاریس»",
+        "share_text": "دارحلقه در «بازی‌های پاریس»! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "gimnastyka ćwiczenia na kółkach olimpiada",
+        "hover_text": "Ćwiczenia na kółkach na igrzyskach w Paryżu",
+        "share_text": "Ćwiczenia na kółkach na igrzyskach w Paryżu #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "ginástica argolas olimpíadas",
+        "hover_text": "Argolas nos Jogos de Paris",
+        "share_text": "Argolas nos Jogos de Paris #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "ginástica argolas olímpicos",
+        "hover_text": "Jogos de Paris – Argolas",
+        "share_text": "Jogos de Paris – Argolas! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਜਿਮਨਾਸਟਿਕਸ ਰਿੰਗਸ ਓਲੰਪਿਕਸ",
+        "hover_text": "ਪੈਰਿਸ ਖੇਡਾਂ ਵਿੱਚ ਰਿੰਗ",
+        "share_text": "ਪੈਰਿਸ ਖੇਡਾਂ ਵਿੱਚ ਰਿੰਗ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "jocurile olimpice inele",
+        "hover_text": "Inele la Jocurile Olimpice de la Paris",
+        "share_text": "Inele la Jocurile Olimpice de la Paris! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "гимнастика кольца олимпиада",
+        "hover_text": "Упражнения на кольцах на Олимпийских играх в Париже",
+        "share_text": "Упражнения на кольцах на Олимпийских играх в Париже #GoogleDoodle"
+      },
+      "sr": {
+        "query": "гимнастички кругови на олимпијади",
+        "hover_text": "Кругови на Играма у Паризу",
+        "share_text": "Кругови на Играма у Паризу! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "gimnastički krugovi na olimpijadi",
+        "hover_text": "Krugovi na Igrama u Parizu",
+        "share_text": "Krugovi na Igrama u Parizu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ජිම්නාස්ටික් වළලු ඔලිම්පික්",
+        "hover_text": "පැරිස් ක්‍රීඩා වළලු",
+        "share_text": "පැරිස් ක්‍රීඩා වළලු! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Gymnastické kruhy na olympiáde",
+        "hover_text": "Kruhy na hrách v Paríži",
+        "share_text": "Kruhy na hrách v Paríži. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "gimnastični krogi na olimpijskih igrah",
+        "hover_text": "Krogi na igrah v Parizu",
+        "share_text": "Krogi na igrah v Parizu! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "gimnasia anillas olimpiadas",
+        "hover_text": "Anillas en los Juegos de París",
+        "share_text": "Anillas en los Juegos de París #GoogleDoodle"
+      },
+      "sw": {
+        "query": "pete za jimnastiki",
+        "hover_text": "Pete za Michezo ya Paris",
+        "share_text": "Pete za Michezo ya Paris! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "gymnastik ringar os",
+        "hover_text": "Ringar under Parisspelen",
+        "share_text": "Ringar under Parisspelen #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஜிம்னாஸ்டிக்ஸ் ரிங்ஸ் ஒலிம்பிக்ஸ்",
+        "hover_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் வளையங்கள்",
+        "share_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் வளையங்கள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "జిమ్నాస్టిక్స్ రింగ్స్ ఒలింపిక్స్",
+        "hover_text": "ప్యారిస్ గేమ్స్ రింగ్స్",
+        "share_text": "ప్యారిస్ గేమ్స్ రింగ్స్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "ยิมนาสติกสากล ห่วง โอลิมปิก",
+        "hover_text": "ยิมนาสติกประเภทห่วงที่ปารีสเกมส์",
+        "share_text": "ยิมนาสติกประเภทห่วงที่ปารีสเกมส์! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "yaz olimpiyatları'nda jimnastik halka ",
+        "hover_text": "Paris Yaz Oyunları Halka",
+        "share_text": "Paris Yaz Oyunları Halka #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "гімнастика кільця олімпіада",
+        "hover_text": "Олімпійські ігри в Парижі: кільця",
+        "share_text": "Олімпійські ігри в Парижі: кільця! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "جمناسٹکس رنگس اولمپکس",
+        "hover_text": "پیرس گیمز رِنگز",
+        "share_text": "پیرس گیمز رِنگز! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "gimnastika halqalari olimpiada",
+        "hover_text": "Parij oʻyinlari halqalar",
+        "share_text": "Parij oʻyinlari halqalar! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "thể dục dụng cụ olympics",
+        "hover_text": "Môn thể dục dụng cụ vòng treo tại Thế vận hội Paris",
+        "share_text": "Môn thể dục dụng cụ vòng treo tại Thế vận hội Paris! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "i-gymnastics rings olympics",
+        "hover_text": "AmaRingi Amageyimu aseParis",
+        "share_text": "AmaRingi Amageyimu aseParis! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "gymnastics rings olympics",
+    "share_text": "Paris Games Rings! #GoogleDoodle"
+  },
+  {
     "name": "paris-games-sailing-day-2",
     "title": "Paris Games - Sailing (Day 2)",
     "url": "//www.google.com/logos/doodles/2024/paris-games-sailing-day-2-6753651837110530-law.gif",
@@ -14,7 +513,7 @@
     ],
     "translations": {
       "en": {
-        "query": "sailing olympics",
+        "query": "sailing olympics 2024",
         "hover_text": "Paris Games - Sailing",
         "share_text": "Paris Games Sailing! #GoogleDoodle"
       },
@@ -209,7 +708,7 @@
         "share_text": "Vela ai Giochi di Parigi! #GoogleDoodle"
       },
       "ja": {
-        "query": "セーリング　オリンピック",
+        "query": "2024年セーリングオリンピック",
         "hover_text": "パリ大会 - セーリング",
         "share_text": "パリ大会セーリング #GoogleDoodle"
       },
@@ -495,7 +994,7 @@
       }
     },
     "translated_blog_posts": {},
-    "query": "sailing olympics",
+    "query": "sailing olympics 2024",
     "share_text": "Paris Games Sailing! #GoogleDoodle"
   },
   {
