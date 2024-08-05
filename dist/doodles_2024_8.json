@@ -1,5 +1,504 @@
 [
   {
+    "name": "paris-games-artistic-swimming",
+    "title": "Paris Games - Artistic Swimming",
+    "url": "//www.google.com/logos/doodles/2024/paris-games-artistic-swimming-6753651837110445-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/jsG6NixxY-W4PHBj3tWggVDglZupk9n-c08sD0S7kApSknz1rF7kRrskd5aC--sgYTlY61K71xsOdAETx4H3m5pXxaAsi7cTeZzt8hl2iwlUVzijL9kvcQ",
+    "high_res_url": "//www.google.com/logos/doodles/2024/paris-games-artistic-swimming-6753651837110445-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      8,
+      5
+    ],
+    "translations": {
+      "en": {
+        "query": "artistic swimming olympics",
+        "hover_text": "Paris Games Artistic Swimming",
+        "share_text": "Paris Games Artistic Swimming! #GoogleDoodle"
+      },
+      "af": {
+        "query": "olimpiese spele van artistieke swem",
+        "hover_text": "Parys Spele – Artistieke Swem",
+        "share_text": "Parys Spele – Artistieke Swem! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "noti artistik në lojërat olimpike",
+        "hover_text": "Lojërat e Parisit - Not artistik",
+        "share_text": "Noti artistik në Lojërat e Parisit! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአርቲስታዊ ዋና ኦሎምፒክ",
+        "hover_text": "የፓሪስ ጨዋታዎች አርቲስታዊ ዋና",
+        "share_text": "የፓሪስ ጨዋታዎች አርቲስታዊ ዋና! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "أولمبياد السباحة الفنية",
+        "hover_text": "مسابقات السباحة الإيقاعية في أولمبياد باريس",
+        "share_text": "مسابقات السباحة الإيقاعية في أولمبياد باريس! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "սինքրոն լող օլիմպիական խաղերում",
+        "hover_text": "Սինքրոն լող Փարիզի խաղերում",
+        "share_text": "Սինքրոն լող Փարիզի խաղերում #GoogleDoodle"
+      },
+      "az": {
+        "query": "bədii üzgüçülük olimpiadası",
+        "hover_text": "Paris Oyunları bədii üzgüçülük",
+        "share_text": "Paris Oyunları bədii üzgüçülük! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "শৈল্পিক সাঁতার অলিম্পিক",
+        "hover_text": "প্যারিস গেমসে আর্টিস্টিক সুইমিং ইভেন্ট",
+        "share_text": "প্যারিস গেমসে আর্টিস্টিক সুইমিং ইভেন্ট! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "igeriketa artistikoa olinpiar jokoak",
+        "hover_text": "Parisko Jokoetako igeriketa artistikoa",
+        "share_text": "Parisko Jokoetako igeriketa artistikoa #GoogleDoodle"
+      },
+      "be": {
+        "query": "сінхроннае плаванне алімпіяда",
+        "hover_text": "Гульні ў Парыжы – Сінхроннае плаванне",
+        "share_text": "Гульні ў Парыжы – Сінхроннае плаванне! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "sinhronizirano plivanje na olimpijskim igrama",
+        "hover_text": "Sinhronizirano plivanje na igrama u Parizu",
+        "share_text": "Sinhronizirano plivanje na igrama u Parizu! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Artistic Swimming Olympics",
+        "hover_text": "Paris Games Artistic Swimming",
+        "share_text": "Paris Games Artistic Swimming #GoogleDoodle"
+      },
+      "bg": {
+        "query": "синхронно плуване на Олимпийските игри",
+        "hover_text": "Синхронно плуване на Игрите в Париж",
+        "share_text": "Синхронно плуване на Игрите в Париж! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အလှပြရေကူးအိုလံပစ်",
+        "hover_text": "ပဲရစ်ဂိမ်းများ အလှပြရေကူး",
+        "share_text": "ပဲရစ်ဂိမ်းများ အလှပြရေကူး။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "natació artística jocs olímpics",
+        "hover_text": "Natació artística als Jocs de París",
+        "share_text": "Natació artística als Jocs de París #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "奧運韻律泳",
+        "hover_text": "巴黎賽事韻律泳項目",
+        "share_text": "巴黎賽事韻律泳項目！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "水上芭蕾 奧運 ",
+        "hover_text": "巴黎賽事 - 水上芭蕾項目",
+        "share_text": "巴黎賽事水上芭蕾項目熱血開賽！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "花样游泳 奥运会",
+        "hover_text": "巴黎奥运会花样游泳项目",
+        "share_text": "巴黎奥运会花样游泳项目！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "umjetničko plivanje na olimpijadi",
+        "hover_text": "Umjetničko plivanje na igrama u Parizu",
+        "share_text": "Umjetničko plivanje na igrama u Parizu! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "olympiáda v uměleckém plavání",
+        "hover_text": "Olympiáda v Paříži – umělecké plavání",
+        "share_text": "Olympiáda v Paříži – soutěží se v uměleckém plavání! #GoogleDoodle"
+      },
+      "da": {
+        "query": "kunstsvømning ol",
+        "hover_text": "Kunstsvømning ved OL i Paris",
+        "share_text": "Kunstsvømning ved OL i Paris #GoogleDoodle"
+      },
+      "nl": {
+        "query": "synchroonzwemmen olympische spelen",
+        "hover_text": "Synchroonzwemmen op de Spelen in Parijs",
+        "share_text": "Synchroonzwemmen op de Spelen in Parijs! #GoogleDoodle"
+      },
+      "et": {
+        "query": "sünkroonujumine olümpiamängudel",
+        "hover_text": "Pariisi olümpiamängud – sünkroonujumine",
+        "share_text": "Sünkroonujumine Pariisi suveolümpiamängudel #GoogleDoodle"
+      },
+      "fi": {
+        "query": "taitouinti olympialaiset",
+        "hover_text": "Taitouinti Pariisin kisoissa",
+        "share_text": "Taitouinti Pariisin kisoissa #GoogleDoodle"
+      },
+      "fr": {
+        "query": "natation synchronisée jeux olympiques",
+        "hover_text": "Natation artistique aux Jeux de Paris",
+        "share_text": "Natation artistique aux Jeux de Paris ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "natation artistique aux Jeux olympiques",
+        "hover_text": "La natation artistique aux Jeux de Paris",
+        "share_text": "La natation artistique aux Jeux de Paris! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "natación sincronizada nos Xogos Olímpicos",
+        "hover_text": "Natación sincronizada nos Xogos de París",
+        "share_text": "Natación sincronizada nos Xogos de París! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ოლიმპიური თამაშები მხატვრულ ცურვაში",
+        "hover_text": "პარიზის თამაშები მხატვრულ ცურვაში",
+        "share_text": "პარიზის თამაშები მხატვრულ ცურვაში! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Synchronschwimmen Olympia",
+        "hover_text": "Sommerspiele in Paris – Synchronschwimmen",
+        "share_text": "Synchronschwimmen bei den Sommerspielen in Paris #GoogleDoodle"
+      },
+      "el": {
+        "query": "καλλιτεχνική κολύμβηση στους ολυμπιακούς αγώνες",
+        "hover_text": "Καλλιτεχνική κολύμβηση στους Αγώνες στο Παρίσι",
+        "share_text": "Καλλιτεχνική κολύμβηση στους Αγώνες στο Παρίσι! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "આર્ટિસ્ટિક સ્વિમિંગ ઓલિમ્પિક્સ",
+        "hover_text": "પેરિસ ગેમ કલાત્મક સ્વિમિંગ",
+        "share_text": "પેરિસ ગેમ - કલાત્મક સ્વિમિંગ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "שחייה אומנותית אולימפיאדה",
+        "hover_text": "שחייה אומנותית במשחקים בפריז",
+        "share_text": "שחייה אומנותית במשחקים בפריז GoogleDoodle#"
+      },
+      "hi": {
+        "query": "कलात्मक तैराकी ओलम्पिक",
+        "hover_text": "पेरिस गेम्स में आर्टिस्टिक स्विमिंग",
+        "share_text": "पेरिस गेम्स में आर्टिस्टिक स्विमिंग! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "szinkronúszás olimpia",
+        "hover_text": "Szinkronúszás a párizsi játékokon",
+        "share_text": "Szinkronúszás a párizsi játékokon. #GoogleDoodle"
+      },
+      "is": {
+        "query": "sundballett á ólympíuleikunum",
+        "hover_text": "Sundballett á Parísarleikunum",
+        "share_text": "Sundballett á Parísarleikunum! #GoogleDoodle"
+      },
+      "id": {
+        "query": "renang indah olimpiade",
+        "hover_text": "Renang Artistik Olimpiade Paris",
+        "share_text": "Renang Artistik Olimpiade Paris #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "nuoto artistico olimpiadi",
+        "hover_text": "Nuoto artistico ai Giochi di Parigi",
+        "share_text": "Nuoto artistico ai Giochi di Parigi! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "アーティスティックスイミング　五輪",
+        "hover_text": "パリ大会アーティスティック スイミング",
+        "share_text": "パリ大会アーティスティック スイミング #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಕಲಾತ್ಮಕ ಈಜು ಒಲಿಂಪಿಕ್ಸ್",
+        "hover_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಆರ್ಟಿಸ್ಟಿಕ್ ಸ್ವಿಮ್ಮಿಂಗ್‌",
+        "share_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಆರ್ಟಿಸ್ಟಿಕ್ ಸ್ವಿಮ್ಮಿಂಗ್‌! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "олимпиада көркем жүзу",
+        "hover_text": "Париж ойындары – көркем жүзу",
+        "share_text": "Париж ойындары – көркем жүзу #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការហែលទឹកបែបសិល្បៈក្នុងព្រឹត្តិការណ៍កីឡាអូឡាំពិក",
+        "hover_text": "ការហែលទឹកបែបសិល្បៈក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស",
+        "share_text": "ការហែលទឹកបែបសិល្បៈក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "아티스틱스위밍 올림픽",
+        "hover_text": "파리 2024 아티스틱 스위밍",
+        "share_text": "파리 2024 아티스틱 스위밍 종목 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "көркөм сүзүү боюнча олимпиада оюндары",
+        "hover_text": "Париж оюндары – Көркөм сүзүү",
+        "share_text": "Париж оюндары – Көркөм сүзүү! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ລະບຳໃຕ້ນ້ຳໂອລິມປິກ",
+        "hover_text": "ລະບຳໃຕ້ນ້ຳຢູ່ການແຂ່ງຂັນກິລາໂອລິມປິກປາຣີສ",
+        "share_text": "ລະບຳໃຕ້ນ້ຳຢູ່ການແຂ່ງຂັນກິລາໂອລິມປິກປາຣີສ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "natación artística olimpiadas",
+        "hover_text": "Natación artística en los Juegos de París",
+        "share_text": "Natación artística en los Juegos de París #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Sinhronā peldēšanā — olimpiskās spēles",
+        "hover_text": "Parīzes olimpiskās spēles — sinhronā peldēšana",
+        "share_text": "Parīzes olimpiskās spēles — sinhronā peldēšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "sinchroninis plaukimas olimpinėse žaidynėse",
+        "hover_text": "Sinchroninis plaukimas Paryžiaus olimpinėse žaidynėse",
+        "share_text": "Sinchroninis plaukimas Paryžiaus olimpinėse žaidynėse! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "синхронизирано пливање на олимпијада",
+        "hover_text": "Синхронизирано пливање на игрите во Париз",
+        "share_text": "Синхронизирано пливање на игрите во Париз! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "renang artistik olimpik",
+        "hover_text": "Sukan Paris - Renang Artistik",
+        "share_text": "Sukan Paris - Renang Artistik! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ആർട്ടിസ്റ്റിക് സ്വിമ്മിങ് ഒളിമ്പിക്സ്",
+        "hover_text": "പാരീസ് ഗെയിംസ് ആർട്ടിസ്റ്റിക് സ്വിമ്മിംഗ്",
+        "share_text": "പാരീസ് ഗെയിംസ് ആർട്ടിസ്റ്റിക് സ്വിമ്മിംഗ്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "आर्टिस्टिक स्विमिंग ऑलिम्पिक",
+        "hover_text": "पॅरिस गेम्समधील आर्टिस्टिक स्विमिंग",
+        "share_text": "पॅरिस गेम्समधील आर्टिस्टिक स्विमिंग! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "олимпын уран сайхны сэлэлт",
+        "hover_text": "Парисын наадмын уран сайхны сэлэлт",
+        "share_text": "Парисын наадмын уран сайхны сэлэлт! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "आर्टिस्टिक स्विमिङ ओलम्पिक",
+        "hover_text": "पेरिस खेलअन्तर्गतको आर्टिस्टिक स्विमिङ",
+        "share_text": "पेरिस खेलअन्तर्गतको आर्टिस्टिक स्विमिङ! #GoogleDoodle"
+      },
+      "no": {
+        "query": "synkronsvømming-OL",
+        "hover_text": "Synkronsvømming i Paris-lekene",
+        "share_text": "Synkronsvømming i Paris-lekene! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "شنای موزون در بازی‌های المپیک",
+        "hover_text": "شنای موزون در «بازی‌های پاریس»",
+        "share_text": "شنای موزون در «بازی‌های پاریس»! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "pływanie artystyczne olimpiada",
+        "hover_text": "Pływanie artystyczne na igrzyskach w Paryżu",
+        "share_text": "Pływanie artystyczne na igrzyskach w Paryżu #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "nado artístico olimpíadas",
+        "hover_text": "Nado sincronizado nos Jogos de Paris",
+        "share_text": "Nado sincronizado nos Jogos de Paris #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "nado sincronizado olímpicos",
+        "hover_text": "Jogos de Paris – Nado Sincronizado",
+        "share_text": "Jogos de Paris – Nado Sincronizado! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਕਲਾਤਮਕ ਤੈਰਾਕੀ ਓਲੰਪਿਕਸ",
+        "hover_text": "ਪੈਰਿਸ ਖੇਡਾਂ ਵਿੱਚ ਕਲਾਤਮਿਕ ਤੈਰਾਕੀ",
+        "share_text": "ਪੈਰਿਸ ਖੇਡਾਂ ਵਿੱਚ ਕਲਾਤਮਿਕ ਤੈਰਾਕੀ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "jocurile olimpice de înot sincron",
+        "hover_text": "Înot sincron la Jocurile de la Paris",
+        "share_text": "Înot sincron la Jocurile de la Paris! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "синхронное плавание олимпиада",
+        "hover_text": "Синхронное плавание на Олимпийских играх в Париже",
+        "share_text": "Синхронное плавание на Олимпийских играх в Париже #GoogleDoodle"
+      },
+      "sr": {
+        "query": "синхроно пливање на олимпијади",
+        "hover_text": "Синхроно пливање на Играма у Паризу",
+        "share_text": "Синхроно пливање на Играма у Паризу! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "sinhrono plivanje na olimpijadi",
+        "hover_text": "Sinhrono plivanje na Igrama u Parizu",
+        "share_text": "Sinhrono plivanje na Igrama u Parizu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "කලාත්මක පිහිනුම් ඔලිම්පික්",
+        "hover_text": "පැරිස් ක්‍රීඩා කලාත්මක පිහිනුම්",
+        "share_text": "පැරිස් ක්‍රීඩා කලාත්මක පිහිනුම්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Synchronizované plávanie na olympiáde",
+        "hover_text": "Synchronizované plávanie na hrách v Paríži",
+        "share_text": "Synchronizované plávanie na hrách v Paríži. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "umetnostno plavanje na olimpijskih igrah",
+        "hover_text": "Umetnostno plavanje na igrah v Parizu",
+        "share_text": "Umetnostno plavanje na igrah v Parizu! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "natación artística olimpiadas",
+        "hover_text": "Natación artística en los Juegos de París",
+        "share_text": "Natación artística en los Juegos de París #GoogleDoodle"
+      },
+      "sw": {
+        "query": "uogeleaji wa kisanaa olimpiki",
+        "hover_text": "Michezo ya Paris ya Uogeleaji wa Kisanaa",
+        "share_text": "Michezo ya Paris ya Uogeleaji wa Kisanaa! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "konstsim os",
+        "hover_text": "Konstsim under Parisspelen",
+        "share_text": "Konstsim under Parisspelen #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஆர்டிஸ்டிக் நீச்சல் ஒலிம்பிக்ஸ்",
+        "hover_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் ஆர்டிஸ்டிக் நீச்சல்",
+        "share_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் ஆர்டிஸ்டிக் நீச்சல்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "కళాత్మక ఈత ఒలింపిక్స్",
+        "hover_text": "ప్యారిస్ గేమ్స్ ఆర్టిస్టిక్ స్విమ్మింగ్",
+        "share_text": "ప్యారిస్ గేమ్స్ ఆర్టిస్టిక్ స్విమ్మింగ్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "กีฬาระบำใต้น้ำ โอลิมปิก",
+        "hover_text": "ระบำใต้น้ำที่ปารีสเกมส์",
+        "share_text": "ระบำใต้น้ำที่ปารีสเกมส์! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "yaz olimpiyatları'nda artistik yüzme",
+        "hover_text": "Paris Yaz Oyunları Artistik Yüzme",
+        "share_text": "Paris Yaz Oyunları Artistik Yüzme #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "артистичне плавання олімпіада",
+        "hover_text": "Олімпійські ігри в Парижі: артистичне плавання",
+        "share_text": "Олімпійські ігри в Парижі: артистичне плавання! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "آرٹسٹک سوئمنگ اولمپکس",
+        "hover_text": "پیرس گیمز - آرٹسٹک تیراکی",
+        "share_text": "پیرس گیمز - آرٹسٹک تیراکی! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "badiiy suzish olimpiada",
+        "hover_text": "Parij oʻyinlari badiiy suzish",
+        "share_text": "Parij oʻyinlari badiiy suzish! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "bơi nghệ thuật olympics",
+        "hover_text": "Môn bơi nghệ thuật tại Thế vận hội Paris",
+        "share_text": "Môn bơi nghệ thuật tại Thế vận hội Paris! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ukubhukuda kobuciko olympics",
+        "hover_text": "Ukubhukuda Kobuciko Kwamageyimu aseParis",
+        "share_text": "Ukubhukuda Kobuciko Kwamageyimu aseParis! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "artistic swimming olympics",
+    "share_text": "Paris Games Artistic Swimming! #GoogleDoodle"
+  },
+  {
     "name": "paris-games-rings",
     "title": "Paris Games - Rings",
     "url": "//www.google.com/logos/doodles/2024/paris-games-rings-6753651837110531-law.gif",
