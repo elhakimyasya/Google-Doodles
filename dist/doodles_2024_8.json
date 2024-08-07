@@ -1,5 +1,1003 @@
 [
   {
+    "name": "paris-games-climbing",
+    "title": "Paris Games - Climbing",
+    "url": "//www.google.com/logos/doodles/2024/paris-games-climbing-6753651837110564-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/Fv7__7252zzea7hoa0B9MbkRm3wHv2mBZSxfDxoflGqJn8FxykJRkoIsCa1Ob2q2W_TMDwjcvKKhu0l-5ss6IPQPzC9hEKQpk-7_iJ-I0d-pCxe036oQhA",
+    "high_res_url": "//www.google.com/logos/doodles/2024/paris-games-climbing-6753651837110564-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      8,
+      7
+    ],
+    "translations": {
+      "en": {
+        "query": "sport climbing combined olympics",
+        "hover_text": "Paris Games Climbing",
+        "share_text": "Paris Games Climbing! #GoogleDoodle"
+      },
+      "af": {
+        "query": "olimpiese spele van sportklim gekombineer",
+        "hover_text": "Parys Spele – Klim",
+        "share_text": "Parys Spele – Klim! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "disiplinat e kombinuara të alpinizmit sportiv në lojërat olimpike",
+        "hover_text": "Lojërat e Parisit - Alpinizëm",
+        "share_text": "Alpinizmi në Lojërat e Parisit! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የስፖርት ከፍታ መውጣት ቅልቅል ኦሎምፒክስ",
+        "hover_text": "የፓሪስ ጨዋታዎች ከፍታ መውጣት",
+        "share_text": "የፓሪስ ጨዋታዎች ከፍታ መውጣት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "أولمبياد التسلق الرياضي",
+        "hover_text": "مسابقات التسلق الرياضي في أولمبياد باريس",
+        "share_text": "مسابقات التسلق الرياضي في أولمبياد باريس! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "միավորված սպորտային մագլցում օլիմպիական խաղերում",
+        "hover_text": "Սպորտային մագլցում Փարիզի խաղերում",
+        "share_text": "Սպորտային մագլցում Փարիզի խաղերում #GoogleDoodle"
+      },
+      "az": {
+        "query": "dırmanma idmanı üzrə birləşmiş olimpiada",
+        "hover_text": "Paris Oyunları dırmanma",
+        "share_text": "Paris Oyunları dırmanma! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "কমবাইন্ড অলিম্পিক",
+        "hover_text": "প্যারিস গেমসে ক্লাইম্বিং ইভেন্ট",
+        "share_text": "প্যারিস গেমসে ক্লাইম্বিং ইভেন্ট! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "kirola eskalada joko olinpiar konbinatuak",
+        "hover_text": "Parisko Jokoetako eskalada",
+        "share_text": "Parisko Jokoetako eskalada #GoogleDoodle"
+      },
+      "be": {
+        "query": "cпартыўнае скалалажанне аб’яднаная праграма алімпіяда",
+        "hover_text": "Гульні ў Парыжы – Спартыўнае скалалажанне",
+        "share_text": "Гульні ў Парыжы – Спартыўнае скалалажанне! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "kombinirano sportsko penjanje na olimpijskim igrama",
+        "hover_text": "Penjanje na igrama u Parizu",
+        "share_text": "Penjanje na igrama u Parizu! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Sport Climbing Combined Olympics",
+        "hover_text": "Paris Games Climbing",
+        "share_text": "Paris Games Climbing #GoogleDoodle"
+      },
+      "bg": {
+        "query": "комбинирано спортно катерене на Олимпийските игри",
+        "hover_text": "Катерене на Игрите в Париж",
+        "share_text": "Катерене на Игрите в Париж! #GoogleDoodle"
+      },
+      "my": {
+        "query": "sukan memanjat kombinasi olimpik",
+        "hover_text": "ပဲရစ်ဂိမ်းများ တောင်တက်ခြင်း",
+        "share_text": "ပဲရစ်ဂိမ်းများ တောင်တက်ခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "escalada esportiva combinada jocs olímpics",
+        "hover_text": "Escalada als Jocs de París",
+        "share_text": "Escalada als Jocs de París #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "奧運運動攀登混合賽",
+        "hover_text": "巴黎賽事運動攀登項目",
+        "share_text": "巴黎賽事攀登項目！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "運動攀登 奧運",
+        "hover_text": "巴黎賽事 - 攀登項目",
+        "share_text": "巴黎賽事攀登項目熱血開賽！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "运动攀岩全能奥运项目",
+        "hover_text": "巴黎运动盛会攀岩项目",
+        "share_text": "巴黎运动盛会攀岩项目！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "kombinirano sportsko penjanje na olimpijadi",
+        "hover_text": "Igre u Parizu – penjanje",
+        "share_text": "Igre u Parizu – penjanje! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "kombinované sportovní lezení na olympiádě",
+        "hover_text": "Pařížské hry – lezení",
+        "share_text": "Pařížské hry – soutěží se v lezení! #GoogleDoodle"
+      },
+      "da": {
+        "query": "kombineret sportsklatring OL",
+        "hover_text": "Klatring ved OL i Paris",
+        "share_text": "Klatring ved OL i Paris #GoogleDoodle"
+      },
+      "nl": {
+        "query": "klimsport gecombineerd olympische spelen",
+        "hover_text": "Klimmen op de Spelen in Parijs",
+        "share_text": "Klimmen op de Spelen in Parijs! #GoogleDoodle"
+      },
+      "et": {
+        "query": "sportlik ronimine olümpiamängudel",
+        "hover_text": "Pariisi olümpiamängud – sportlik ronimine",
+        "share_text": "Sportlik ronimine Pariisi suveolümpiamängudel #GoogleDoodle"
+      },
+      "fi": {
+        "query": "urheilukiipeily yhdistetty olympialaiset",
+        "hover_text": "Kiipeily Pariisin olympialaisissa",
+        "share_text": "Kiipeily Pariisin olympialaisissa #GoogleDoodle"
+      },
+      "fr": {
+        "query": "escalade combiné jeux olympiques",
+        "hover_text": "Escalade aux Jeux de Paris",
+        "share_text": "Escalade aux Jeux de Paris ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "combiné d'escalade sportive aux Jeux olympiques",
+        "hover_text": "L'escalade aux Jeux de Paris",
+        "share_text": "L'escalade aux Jeux de Paris! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "escalada deportiva combinada nos Xogos Olímpicos",
+        "hover_text": "Escalada nos Xogos de París",
+        "share_text": "Escalada nos Xogos de París! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "სპორტული კომბინირებული კლდეზე ცოცვა ოლიმპიურ თამაშებზე",
+        "hover_text": "კლდეზე ცოცვა პარიზის თამაშებზე!",
+        "share_text": "კლდეზე ცოცვა პარიზის თამაშებზე! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Sportklettern Kombination Olympia",
+        "hover_text": "Sommerspiele in Paris – Sportklettern",
+        "share_text": "Sportklettern bei den Sommerspielen in Paris #GoogleDoodle"
+      },
+      "el": {
+        "query": "σύνθετο αθλητικής αναρρίχησης στους ολυμπιακούς αγώνες",
+        "hover_text": "Αναρρίχηση στους Αγώνες στο Παρίσι",
+        "share_text": "Αναρρίχηση στους Αγώνες στο Παρίσι! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "સ્પોર્ટ ક્લાઇમ્બીંગ સંયુક્ત ઓલિમ્પિક",
+        "hover_text": "પેરિસ ગેમ ઉપર ચઢવું",
+        "share_text": "પેરિસ ગેમ ઉપર ચઢવું! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "טיפוס ספורטיבי אולימפיאדה",
+        "hover_text": "טיפוס במשחקים בפריז",
+        "share_text": "טיפוס במשחקים בפריז GoogleDoodle#"
+      },
+      "hi": {
+        "query": "स्पोर्ट क्लाइम्बिंग कंबाइन ओलम्पिक",
+        "hover_text": "पेरिस गेम्स में क्लाइंबिंग",
+        "share_text": "पेरिस गेम्स में क्लाइंबिंग! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "sportmászás kombinált olimpia",
+        "hover_text": "Sportmászás a párizsi játékokon",
+        "share_text": "Sportmászás a párizsi játékokon. #GoogleDoodle"
+      },
+      "is": {
+        "query": "sameinað sportklifur á ólympíuleikunum",
+        "hover_text": "Parísarleikarnir – Klifur",
+        "share_text": "Parísarleikarnir – Klifur! #GoogleDoodle"
+      },
+      "id": {
+        "query": "panjat tebing kombinasi olimpiade",
+        "hover_text": "Pertandingan Paris - Panjat Tebing",
+        "share_text": "Pertandingan Paris - Panjat Tebing #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "arrampicata sportiva combinata olimpiadi",
+        "hover_text": "Arrampicata ai Giochi di Parigi",
+        "share_text": "Arrampicata ai Giochi di Parigi! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "スポーツクライミング　複合　五輪リンピック",
+        "hover_text": "パリ大会クライミング",
+        "share_text": "パリ大会クライミング #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಸ್ಪೋರ್ಟ್ ಕ್ಲೈಂಬಿಂಗ್ ಸಂಯೋಜಿತ ಒಲಿಂಪಿಕ್ಸ್",
+        "hover_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಕ್ಲೈಂಬಿಂಗ್",
+        "share_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಕ್ಲೈಂಬಿಂಗ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "олимпиада комбинациялы спорттық құзға өрмелеу",
+        "hover_text": "Париж ойындары – құзға өрмелеу",
+        "share_text": "Париж ойындары – құзға өрмелеу #GoogleDoodle"
+      },
+      "km": {
+        "query": "ព្រឹត្តិការណ៍កីឡាអូឡាំពិកដែលដាក់បញ្ចូលកីឡាឡើងជញ្ជាំង",
+        "hover_text": "ការឡើងជញ្ជាំងក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស",
+        "share_text": "ការឡើងជញ្ជាំងក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "스포츠클라이밍 올림픽",
+        "hover_text": "파리 2024 클라이밍",
+        "share_text": "파리 2024 클라이밍 종목 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "бириктирилген спорттук зоого чыгуу боюнча олимпиада оюндары",
+        "hover_text": "Париж оюндары – Зоого чыгуу",
+        "share_text": "Париж оюндары –Зоого чыгуу! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ກິລາປີນຜາແບບປະສົມໂອລິມປິກ",
+        "hover_text": "ປີນຜາຢູ່ການແຂ່ງຂັນກິລາໂອລິມປິກປາຣີສ",
+        "share_text": "ປີນຜາຢູ່ການແຂ່ງຂັນກິລາໂອລິມປິກປາຣີສ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "escalada deportiva combinada olimpiada",
+        "hover_text": "Escalada deportiva en los Juegos de París",
+        "share_text": "Escalada deportiva en los Juegos de París #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Kombinētais kāpšanas sporta veids — olimpiskās spēles",
+        "hover_text": "Parīzes spēles — kāpšanas sports",
+        "share_text": "Parīzes spēles — kāpšanas sports! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "laipiojimo daugiakovė olimpinėse žaidynėse",
+        "hover_text": "Laipiojimas Paryžiaus olimpinėse žaidynėse",
+        "share_text": "Laipiojimas Paryžiaus olimpinėse žaidynėse! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "комбинирано спортско искачување на олимпијада",
+        "hover_text": "Искачување на игрите во Париз",
+        "share_text": "Искачување на игрите во Париз! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "olimpik sukan pendakian gabungan",
+        "hover_text": "Sukan Paris - Pendakian",
+        "share_text": "Sukan Paris - Pendakian! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "സ്പോർട്ട് ക്ലൈമ്പിങ് കംബൈൻഡ് ഒളിമ്പിക്സ്",
+        "hover_text": "പാരീസ് ഗെയിംസ് ക്ലൈംബിംഗ്",
+        "share_text": "പാരീസ് ഗെയിംസ് ക്ലൈംബിംഗ്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "स्पोर्ट क्लाइंबिंग कंबाइंड ऑलिम्पिक",
+        "hover_text": "पॅरिस गेम्समधील क्लाइम्बिंग",
+        "share_text": "पॅरिस गेम्समधील क्लाइम्बिंग! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "олимпын гурван төрөлт авиралтын спорт",
+        "hover_text": "Парисын наадмын авиралт",
+        "share_text": "Парисын наадмын авиралт! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "स्पोर्ट क्लाइम्बिङ कम्बाइन्ड ओलम्पिक",
+        "hover_text": "पेरिस खेलअन्तर्गतको स्पोर्ट क्लाइम्बिङ",
+        "share_text": "पेरिस खेलअन्तर्गतको स्पोर्ट क्लाइम्बिङ! #GoogleDoodle"
+      },
+      "no": {
+        "query": "kombinert sportsklatring-OL",
+        "hover_text": "Klatring i Paris-lekene",
+        "share_text": "Klatring i Paris-lekene! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "ورزش صخره‌نوردی ترکیبی در بازی‌های المپیک",
+        "hover_text": "صخره‌نوردی در «بازی‌های پاریس»",
+        "share_text": "صخره‌نوردی در «بازی‌های پاریس»! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "wspinaczka łączna olimpiada",
+        "hover_text": "Wspinaczka na igrzyskach w Paryżu",
+        "share_text": "Wspinaczka na igrzyskach w Paryżu #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "escalada esportiva combinado olimpíadas",
+        "hover_text": "Escalada nos Jogos de Paris",
+        "share_text": "Escalada nos Jogos de Paris #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "escalada olímpica",
+        "hover_text": "Jogos de Paris – Escalada",
+        "share_text": "Jogos de Paris – Escalada! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਸਪੋਰਟ ਕਲਾਇਮਬਿੰਗ ਕਮਬਾਈਂਡ ਓਲੰਪਿਕਸ",
+        "hover_text": "ਪੈਰਿਸ ਖੇਡਾਂ ਵਿੱਚ ਕਲਾਈਮਿੰਗ",
+        "share_text": "ਪੈਰਿਸ ਖੇਡਾਂ ਵਿੱਚ ਕਲਾਈਮਿੰਗ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "jocurile olimpice escaladă sportivă",
+        "hover_text": "Escaladă la Jocurile de la Paris",
+        "share_text": "Escaladă la Jocurile de la Paris! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "комбинированное спортивное скалолазание олимпиада",
+        "hover_text": "Спортивное скалолазание на Олимпийских играх в Париже",
+        "share_text": "Спортивное скалолазание на Олимпийских играх в Париже #GoogleDoodle"
+      },
+      "sr": {
+        "query": "комбиновано спортско пењање на олимпијади",
+        "hover_text": "Спортско пењање на Играма у Паризу",
+        "share_text": "Спортско пењање на Играма у Паризу! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "kombinovano sportsko penjanje na olimpijadi",
+        "hover_text": "Sportsko penjanje na Igrama u Parizu",
+        "share_text": "Sportsko penjanje na Igrama u Parizu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ක්‍රීඩා කඳු නැගීම ඒකාබද්ධ ඔලිම්පික්",
+        "hover_text": "පැරිස් ක්‍රීඩා තරණය",
+        "share_text": "පැරිස් ක්‍රීඩා තරණය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Kombinované športové lezenie na olympiáde",
+        "hover_text": "Lezenie na hrách v Paríži",
+        "share_text": "Lezenie na hrách v Paríži. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "kombinirano športno plezanje na olimpijskih igrah",
+        "hover_text": "Plezanje na igrah v Parizu",
+        "share_text": "Plezanje na igrah v Parizu! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "escalada deportiva combinada olimpiada",
+        "hover_text": "Escalada en los Juegos de París",
+        "share_text": "Escalada en los Juegos de París #GoogleDoodle"
+      },
+      "sw": {
+        "query": "michezo ya kupanda iliyounganishwa olimpiki",
+        "hover_text": "Michezo ya Paris ya Kukwea",
+        "share_text": "Michezo ya Paris ya Kukwea! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "kombinerad sportklättring os",
+        "hover_text": "Klättring under Parisspelen",
+        "share_text": "Klättring under Parisspelen #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஸ்போர்ட் க்ளைம்பிங் கம்பைன்ட் ஒலிம்பிக்ஸ்",
+        "hover_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் ஏறுதல்",
+        "share_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் ஏறுதல்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "స్పోర్ట్ క్లైంబింగ్ కంబైన్డ్ ఒలింపిక్స్",
+        "hover_text": "ప్యారిస్ గేమ్స్ క్లయింబింగ్",
+        "share_text": "ప్యారిస్ గేమ్స్ క్లయింబింగ్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "ปีนหน้าผาในโอลิมปิกฤดูร้อน - รวม โอลิมปิก",
+        "hover_text": "ปีนผาที่ปารีสเกมส์",
+        "share_text": "ปีนผาที่ปารีสเกมส์! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "yaz olimpiyatları'nda spor tırmanış",
+        "hover_text": "Paris Yaz Oyunları Tırmanış",
+        "share_text": "Paris Yaz Oyunları Tırmanış #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "комбіноване спортивне скелелазіння олімпіада",
+        "hover_text": "Олімпійські ігри в Парижі: скелелазіння",
+        "share_text": "Олімпійські ігри в Парижі: скелелазіння! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "سپورٹ کلائمبنگ کمبائنڈ اولمپکس",
+        "hover_text": "پیرس گیمز کوہ پیمائی",
+        "share_text": "پیرس گیمز کوہ پیمائی! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "olimpiadaga qoʻshilgan sportcha qoyaga chiqish",
+        "hover_text": "Parij oʻyinlari qoyaga chiqish",
+        "share_text": "Parij oʻyinlari qoyaga chiqish! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "môn leo núi kết hợp tại thế vận hội",
+        "hover_text": "Môn leo núi tại Thế vận hội Paris",
+        "share_text": "Môn leo núi tại Thế vận hội Paris! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "sport climbing combined olympics",
+        "hover_text": "Ukugibela Kwamageyimu aseParis",
+        "share_text": "Ukugibela Kwamageyimu aseParis! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "sport climbing combined olympics",
+    "share_text": "Paris Games Climbing! #GoogleDoodle"
+  },
+  {
+    "name": "jamaica-independence-day-2024",
+    "title": "Jamaica Independence Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/jamaica-independence-day-2024-6753651837110265-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/ij8VW8JrGMs1ZKh8LzNYhxbj1tBulwZVfYwsd34kaqVOOTAPOxWSMr8mwJWiLQpjmvn6IZtVldGHKb4zoa5IaFZaRZ9O7ZocA8mhbVLap2YG251XQwDo3g",
+    "high_res_url": "//www.google.com/logos/doodles/2024/jamaica-independence-day-2024-6753651837110265-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      8,
+      6
+    ],
+    "translations": {
+      "en": {
+        "query": "Jamaica Independence Day",
+        "hover_text": "Jamaica Independence Day 2024",
+        "share_text": "Happy Independence Day, Jamaica! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Jamaika se onafhanklikheidsdag",
+        "hover_text": "Jamaika se onafhanklikheidsdag 2024",
+        "share_text": "Gelukkige onafhanklikheidsdag, Jamaika! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë së Xhamajkës",
+        "hover_text": "Dita e Pavarësisë së Xhamajkës, 2024",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Xhamajkë! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የጃማይካ ነጻነት ቀን",
+        "hover_text": "የጃማይካ የነፃነት ቀን 2024",
+        "share_text": "መልካም ነጻነት ቀን ጃማይካ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال جامايكا",
+        "hover_text": "عيد استقلال جامايكا 2024",
+        "share_text": "نتمنّى لجامايكا عيد استقلال سعيدًا. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ճամայկայի անկախության օր",
+        "hover_text": "Ճամայկայի անկախության օր 2024",
+        "share_text": "Շնորհավո՛ր Ճամայկայի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Yamaykanın Müstəqllik Günü",
+        "hover_text": "2024 Yamaykanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Yamayka! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "জামাইকার স্বাধীনতা দিবস",
+        "hover_text": "জামাইকার স্বাধীনতা দিবস ২০২৪",
+        "share_text": "স্বাধীনতা দিবসের শুভেচ্ছা, জামাইকা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Jamaikako Independentzia Eguna",
+        "hover_text": "2024ko Jamaikako Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Jamaika! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Ямайкі",
+        "hover_text": "Дзень незалежнасці Ямайкі 2024",
+        "share_text": "З Днём незалежнасці, Ямайка! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Jamajke",
+        "hover_text": "Dan nezavisnosti Jamajke 2024.",
+        "share_text": "Sretan Dan nezavisnosti, Jamajka! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Jamaica Independence Day",
+        "hover_text": "Jamaica Independence Day 2024",
+        "share_text": "Happy Independence Day, Jamaica! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Ямайка",
+        "hover_text": "Ден на независимостта на Ямайка 2024 г.",
+        "share_text": "Честит Ден на независимостта на Ямайка! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဂျမေကာ လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ ဂျမေကာနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ ဖြစ်ပါစေ၊ ဂျမေကာ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència de Jamaica",
+        "hover_text": "Dia de la Independència de Jamaica 2024",
+        "share_text": "Feliç Dia de la Independència, Jamaica! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "牙買加獨立日",
+        "hover_text": "2024 年牙買加獨立日",
+        "share_text": "牙買加，獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "牙買加獨立紀念日",
+        "hover_text": "2024 年牙買加獨立紀念日",
+        "share_text": "牙買加，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "牙买加独立日",
+        "hover_text": "2024 年牙买加独立日",
+        "share_text": "牙买加，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Jamajke",
+        "hover_text": "Dan neovisnosti Jamajke 2024.",
+        "share_text": "Sretan Dan neovisnosti, Jamajko! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Jamajky",
+        "hover_text": "Den nezávislosti Jamajky 2024",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Jamajko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Jamaicas uafhængighedsdag",
+        "hover_text": "Jamaicas uafhængighedsdag 2024",
+        "share_text": "Vi fejrer Jamaicas uafhængighedsdag! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Jamaica",
+        "hover_text": "Onafhankelijkheidsdag Jamaica 2024",
+        "share_text": "Fijne Onafhankelijkheidsdag, Jamaica! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Jamaica iseseisvuspäev",
+        "hover_text": "Jamaica 2024. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Jamaica! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Jamaikan itsenäisyyspäivä",
+        "hover_text": "Jamaikan itsenäisyyspäivä 2024",
+        "share_text": "Hyvää itsenäisyyspäivää, Jamaika! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Jour de l'indépendance de la Jamaïque",
+        "hover_text": "Fête de l'Indépendance de la Jamaïque 2024",
+        "share_text": "Fête de l'Indépendance de la Jamaïque ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance de la Jamaïque",
+        "hover_text": "Fête de l'Indépendance de la Jamaïque 2024",
+        "share_text": "Joyeuse fête de l'indépendance de la Jamaïque! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Xamaica",
+        "hover_text": "Día da Independencia de Xamaica 2024",
+        "share_text": "Feliz Día da Independencia, Xamaica! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "იამაიკის დამოუკიდებლობის დღე",
+        "hover_text": "იამაიკის დამოუკიდებლობის დღე — 2024",
+        "share_text": "ვულოცავთ იამაიკას დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Jamaika",
+        "hover_text": "Unabhängigkeitstag Jamaika 2024",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Jamaika! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας Τζαμάικα",
+        "hover_text": "Ημέρα Ανεξαρτησίας της Τζαμάικα 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας της Τζαμάικα! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "જમૈકાનો સ્વતંત્રતા દિવસ",
+        "hover_text": "જમૈકાનો સ્વતંત્રતા દિવસ 2024",
+        "share_text": "જમૈકાના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של ג'מייקה",
+        "hover_text": "יום העצמאות של ג'מייקה 2024",
+        "share_text": "יום עצמאות שמח, ג'מייקה! ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "जमैका का स्वतंत्रता दिवस",
+        "hover_text": "जमैका का स्वतंत्रता दिवस 2024",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, जमैका! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Jamaica függetlenségének napja",
+        "hover_text": "Jamaica függetlenségének napja, 2024",
+        "share_text": "Minden jót a függetlenség napján, Jamaica! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Jamaíku",
+        "hover_text": "Sjálfstæðisdagur Jamaíku 2024",
+        "share_text": "Gleðilegan sjálfstæðisdag, Jamaíka! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Jamaika",
+        "hover_text": "Hari Kemerdekaan Jamaika 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Jamaika! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse Iamáice",
+        "hover_text": null,
+        "share_text": "Lá Saoirse Iamáice faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza della Giamaica",
+        "hover_text": "Festa dell'indipendenza della Giamaica 2024",
+        "share_text": "Buona festa dell'indipendenza, Giamaica! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ジャマイカ独立記念日",
+        "hover_text": "2024 年ジャマイカ独立記念日",
+        "share_text": "ジャマイカ独立記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಜಮೈಕಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಜಮೈಕಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಜಮೈಕಾ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Ямайканың Тәуелсіздік күні",
+        "hover_text": "Ямайканың Тәуелсіздік күні – 2024",
+        "share_text": "Тәуелсіздік күні құтты болсын, Ямайка! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យ​ឯករាជ្យជាតិ​ហ្សាម៉ាអ៊ីក",
+        "hover_text": "ទិវា​បុណ្យ​ឯករាជ្យជាតិ​ហ្សាម៉ាអ៊ីក​ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​បុណ្យ​ឯករាជ្យជាតិ​ហ្សាម៉ាអ៊ីក! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "자메이카 독립기념일",
+        "hover_text": "2024년 자메이카 독립기념일",
+        "share_text": "자메이카 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Ямайканын Эгемендүүлүк күнү",
+        "hover_text": "Ямайканын Эгемендүүлүк күнү — 2024",
+        "share_text": "Эгемендүүлүк күнүң менен, Ямайка! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດຈາໄມກາ",
+        "hover_text": "ວັນປະກາດເອກະລາດຈາໄມກາ 2024",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດຈາໄມກາ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Jamaica",
+        "hover_text": "Día de la Independencia de Jamaica 2024",
+        "share_text": "¡Feliz Día de la Independencia, Jamaica! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Jamaikas Neatkarības diena",
+        "hover_text": "Jamaikas Neatkarības diena — 2024",
+        "share_text": "Sveicam Neatkarības dienā, Jamaika! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Jamaikos nepriklausomybės diena",
+        "hover_text": "Jamaikos nepriklausomybės diena, 2024 m.",
+        "share_text": "Sveikiname Jamaiką su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Јамајка",
+        "hover_text": "Ден на независноста на Јамајка, 2024 г.",
+        "share_text": "Среќен Ден на независноста, Јамајка! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Jamaïka",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny fahaleovantena ry Jamaïka ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Jamaica",
+        "hover_text": "Hari Kemerdekaan Jamaica 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Jamaica! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ജമൈക്കൻ സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "ജമൈക്കൻ സ്വാതന്ത്ര്യദിനം 2024",
+        "share_text": "സ്വാതന്ത്ര്യ ദിനാശംസകൾ, ജമൈക്ക! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "जमैकाचा स्वातंत्र्यदिन",
+        "hover_text": "जमैकाचा स्वातंत्र्यदिन २०२४",
+        "share_text": "जमैकाला स्वातंत्र्यदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Ямайка улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2024 оны Ямайка Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Ямайка улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "जमैकाको स्वतन्त्रता दिवस",
+        "hover_text": "जमैकाको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, जमैका! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Jamaicas uavhengighetsdag",
+        "hover_text": "Jamaicas uavhengighetsdag 2024",
+        "share_text": "Gratulerer med frigjøringsdagen, Jamaica! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଜାମାଇକାର ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": null,
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, ଜାମାଇକା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال جامائیکا",
+        "hover_text": "روز استقلال ۲۰۲۴ جامائیکا",
+        "share_text": "روز استقلال جامائیکا مبارک! #GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Niepodległości Jamajki",
+        "hover_text": "Dzień Niepodległości Jamajki 2024",
+        "share_text": "Jamajka obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência da Jamaica",
+        "hover_text": "Dia da Independência da Jamaica 2024",
+        "share_text": "Feliz Dia da Independência, Jamaica! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência da Jamaica",
+        "hover_text": "Dia da Independência da Jamaica de 2024",
+        "share_text": "Feliz dia da independência, Jamaica! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਜਮਾਇਕਾ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ",
+        "hover_text": "ਜਮੈਕਾ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2024",
+        "share_text": "ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਜਮਾਇਕਾ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței în Jamaica",
+        "hover_text": "Ziua Independenței în Jamaica – 2024",
+        "share_text": "La mulți ani de Ziua Independenței, Jamaica! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Ямайки",
+        "hover_text": "День независимости Ямайки – 2024",
+        "share_text": "День независимости Ямайки #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Јамајке",
+        "hover_text": "Дан независности Јамајке 2024.",
+        "share_text": "Честитамо Дан независности Јамајци! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Jamajke",
+        "hover_text": "Dan nezavisnosti Jamajke 2024.",
+        "share_text": "Čestitamo Dan nezavisnosti Jamajci! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepandans Jamaica",
+        "hover_text": null,
+        "share_text": "Bonn zournen lendepandans, Jamaica! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ජැමෙයිකාවේ නිදහස් දිනය",
+        "hover_text": "ජැමෙයිකාවේ නිදහස් දිනය 2024",
+        "share_text": "ප්‍රීතිමත් නිදහස් දිනයක්, ජැමෙයිකාව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Jamajky",
+        "hover_text": "Deň nezávislosti Jamajky 2024",
+        "share_text": "Šťastný deň nezávislosti, Jamajka! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Jamajški dan neodvisnosti",
+        "hover_text": "Dan neodvisnosti Jamajke 2024",
+        "share_text": "Vesel dan neodvisnosti, Jamajka! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madaxbaaninada Jamaica",
+        "hover_text": null,
+        "share_text": "Maalinta Madaxbaaninada oo Farxad leh, Jamaica! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Boipuso la Jamaica",
+        "hover_text": null,
+        "share_text": "Mahlohonolo a Letsatsi la Boipuso, Jamaica! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Jamaica",
+        "hover_text": "Día de la Independencia de Jamaica 2024",
+        "share_text": "¡Feliz Día de la Independencia de Jamaica! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Jamaika",
+        "hover_text": "Sikukuu ya Uhuru wa Jamaika 2024",
+        "share_text": "Heri za Sikukuu ya Uhuru, Jamaika! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Jamaicas självständighetsdag",
+        "hover_text": "Jamaicas självständighetsdag 2024",
+        "share_text": "Vi firar Jamaicas självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஜமைக்காவின் சுதந்திர தினம்",
+        "hover_text": "ஜமைக்காவின் சுதந்திர தினம் 2024",
+        "share_text": "ஜமைக்காவின் சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "జమైకా స్వాతంత్య్ర దినోత్సవం",
+        "hover_text": "జమైకా స్వాతంత్య్ర దినోత్సవం 2024",
+        "share_text": "జమైకా స్వాతంత్య్ర దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของจาเมกา",
+        "hover_text": "วันประกาศเอกราชของจาเมกาปี 2024",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของจาเมกา #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Jamaica",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, Jamaica! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Jamaika Bağımsızlık Günü",
+        "hover_text": "2024 Jamaika Bağımsızlık Günü",
+        "share_text": "Jamaika Bağımsızlık Günü Kutlaması. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Ямайки",
+        "hover_text": "День незалежності Ямайки у 2024 році",
+        "share_text": "З Днем незалежності, Ямайко! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "جمائیکا کا یوم آزادی",
+        "hover_text": "جمائیکا کا یوم آزادی 2024",
+        "share_text": "جمائیکا کا یوم آزادی مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Yamayka mustaqillik kuni",
+        "hover_text": "Yamayka Mustaqillik kuni 2024",
+        "share_text": "Mustaqillik kuni muborak, Yamayka! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Quốc khánh Jamaica",
+        "hover_text": "Ngày Quốc khánh Jamaica năm 2024",
+        "share_text": "Chào mừng Ngày Quốc khánh Jamaica! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lokuzimela lwase-Jamaica",
+        "hover_text": "Usuku Lokuzimela lwase-Jamaica lwango-2024",
+        "share_text": "Jabulela Usuku Lokuzimela, Jamaica! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Jamaica Independence Day",
+    "share_text": "Happy Independence Day, Jamaica! #GoogleDoodle"
+  },
+  {
     "name": "paris-games-artistic-swimming-day-2",
     "title": "Paris Games - Artistic Swimming (Day 2)",
     "url": "//www.google.com/logos/doodles/2024/paris-games-artistic-swimming-day-2-6753651837110563-law.gif",
@@ -1971,7 +2969,7 @@
         "share_text": "پیرس گیمز سیلنگ! GoogleDoodle#"
       },
       "uz": {
-        "query": null,
+        "query": "yelkanli sport olimpiada 2024",
         "hover_text": "Paris oʻyinlari – Yelkanli sport",
         "share_text": "Paris oʻyinlari yelkanli sport! #GoogleDoodle"
       },
