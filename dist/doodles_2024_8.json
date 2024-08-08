@@ -1,5 +1,1003 @@
 [
   {
+    "name": "fathers-day-2024-aug-8",
+    "title": "Father's Day 2024 (Aug 8)",
+    "url": "//www.google.com/logos/doodles/2024/fathers-day-2024-aug-8-6753651837110398-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/pYokRUAFUBY3D7Z-b9yRaMdiJCh5dk03UryM_2cZwHfzJpJY7JmvMopRJ8kVVDAOlkrKRdTQnkK5JlMxWrV6LPw3k9xPvOPnhuY3pWcBDudLOsL8fuw7",
+    "high_res_url": "//www.google.com/logos/doodles/2024/fathers-day-2024-aug-8-6753651837110398-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      8,
+      8
+    ],
+    "translations": {
+      "en": {
+        "query": "Father's Day",
+        "hover_text": "Father's Day (Aug 8) 2024",
+        "share_text": "Happy Father's Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Vadersdag",
+        "hover_text": "Vadersdag (8 Augustus) 2024",
+        "share_text": "Gelukkige Vadersdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Babait",
+        "hover_text": "Dita e Babait, 2024",
+        "share_text": "Gëzuar Ditën e Babait! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአባቶች ቀን",
+        "hover_text": "የአባቶች ቀን (ኦገስት 8) 2024",
+        "share_text": "መልካም የአባቶች ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد الأب",
+        "hover_text": "عيد الأب 2024",
+        "share_text": "عيد أب سعيد. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Հայրերի օր",
+        "hover_text": "Հայրերի օր 2024 (օգոստոսի 8)",
+        "share_text": "Շնորհավո՛ր հայրերի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Atalar Günü",
+        "hover_text": "Atalar Günü (8 avqust) 2024",
+        "share_text": "Atalar Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "পিতৃ দিবস",
+        "hover_text": "পিতৃ দিবস (৮ আগস্ট) ২০২৪",
+        "share_text": "ফাদার্স ডের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Aitaren Eguna",
+        "hover_text": "2024ko Aitaren Eguna (abuztuaren 8a)",
+        "share_text": "Aitaren Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень бацькі",
+        "hover_text": "Дзень бацькі 2024 (8 жніўня)",
+        "share_text": "З Днём бацькі! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva (8. aug) 2024.",
+        "share_text": "Sretan Dan očeva! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Father's Day",
+        "hover_text": "Father's Day 2024",
+        "share_text": "Happy Father's Day! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на бащата",
+        "hover_text": "Ден на бащата 2024 г.",
+        "share_text": "Честит Ден на бащата! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အဖေများနေ့",
+        "hover_text": "၂၀၂၄ အဖေများနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် ဖခင်များနေ့ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia del Pare",
+        "hover_text": "Dia del Pare 2024 (8 d'agost)",
+        "share_text": "Feliç Dia del Pare! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "父親節",
+        "hover_text": "2024 年父親節",
+        "share_text": "父親節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "父親節",
+        "hover_text": "2024 八八父親節",
+        "share_text": "爸爸我愛你! #GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "父亲节",
+        "hover_text": "2024 年父亲节（8 月 8 日）",
+        "share_text": "父亲节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva 2024. (8. kolovoza)",
+        "share_text": "Sretan Dan očeva! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den otců",
+        "hover_text": "Den otců 2024 (8. srpna)",
+        "share_text": "Veselý Den otců! #GoogleDoodle"
+      },
+      "da": {
+        "query": "fars dag",
+        "hover_text": "Fars dag 2024 (8. august)",
+        "share_text": "Glædelig fars dag! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Vaderdag",
+        "hover_text": "Vaderdag 2024",
+        "share_text": "Fijne Vaderdag! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Isadepäev",
+        "hover_text": "2024. aasta isadepäev",
+        "share_text": "Head isadepäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Isänpäivä",
+        "hover_text": "Isänpäivä 2024 (8.8.)",
+        "share_text": "Hyvää isänpäivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête des Pères",
+        "hover_text": "Fête des Pères 2024",
+        "share_text": "Joyeuse fête des Pères ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête des Pères",
+        "hover_text": "Fêtes des Pères 2024",
+        "share_text": "Joyeuse fête des Pères! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día do Pai",
+        "hover_text": "Día do Pai 2024 (8 de agosto)",
+        "share_text": "Feliz Día do Pai! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მამის დღე",
+        "hover_text": "მამის დღე – 2024 (8 აგვისტო)",
+        "share_text": "გილოცავთ მამის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Vatertag",
+        "hover_text": "Vatertag 2024",
+        "share_text": "Alles Liebe zum Vatertag! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Γιορτή του Πατέρα",
+        "hover_text": "Γιορτή του Πατέρα (8 Αυγούστου) 2024",
+        "share_text": "Πολλές ευχές για τη Γιορτή του Πατέρα! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "પિતૃ દિવસ",
+        "hover_text": "ફાધર્સ ડે (8 ઑગસ્ટ) 2024",
+        "share_text": "ફાધર્સ ડેની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום האב",
+        "hover_text": "יום האב 2024",
+        "share_text": "יום האב שמח! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "फ़ादर्स डे",
+        "hover_text": "फ़ादर्स डे (8 अगस्त) 2024",
+        "share_text": "फ़ादर्स डे की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Apák napja",
+        "hover_text": "Apák napja, 2024 (augusztus 8.)",
+        "share_text": "Boldog apák napját! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Feðradagurinn",
+        "hover_text": "Feðradagurinn 2024 (8. ágúst)",
+        "share_text": "Gleðilegan feðradag! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Ayah",
+        "hover_text": "Hari Ayah 2024",
+        "share_text": "Selamat Hari Ayah! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá na nAithreacha",
+        "hover_text": null,
+        "share_text": "Lá na nAithreacha faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa del papà",
+        "hover_text": "Festa del papà 2024",
+        "share_text": "Buona festa del papà! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "父の日",
+        "hover_text": "2024 年父の日（8 月 8 日）",
+        "share_text": "父の日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ತಂದೆಯಂದಿರ ದಿನ",
+        "hover_text": "ತಂದೆಯಂದಿರ ದಿನ (8ನೇ ಆಗಸ್ಟ್) 2024",
+        "share_text": "ತಂದೆಯಂದಿರ ದಿನಾಚರಣೆ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Әкелер күні",
+        "hover_text": "Әкелер күні – 2024 (8 тамыз)",
+        "share_text": "Әкелер күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​រំលឹកគុណឪពុក",
+        "hover_text": "ទិវា​ឪពុក (8 សីហា) ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​រំលឹកគុណ​ឪពុក​! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "아버지의 날",
+        "hover_text": "2024년 아버지날",
+        "share_text": "아버지날 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Аталар күнү",
+        "hover_text": "Аталар күнү – 2024 (8-август)",
+        "share_text": "Аталар күнү менен куттуктайбыз! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນພໍ່",
+        "hover_text": "ວັນພໍ່ (8 ສິງຫາ) 2024",
+        "share_text": "ສຸກສັນວັນພໍ່! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día del Padre",
+        "hover_text": "Día del Padre 2024",
+        "share_text": "¡Feliz Día del Padre! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Tēva diena",
+        "hover_text": "Tēva diena — 2024. gada 8. augusts",
+        "share_text": "Sveicam Tēva dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Tėvo diena",
+        "hover_text": "Tėvo diena, 2024 m. (rugpjūčio 8 d.)",
+        "share_text": "Linksmos Tėvo dienos! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на таткото",
+        "hover_text": "Ден на таткото, 2024 г.",
+        "share_text": "Среќен ден на таткото! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny ray",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny ray ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Bapa",
+        "hover_text": "Hari Bapa (08 Ogos) 2024",
+        "share_text": "Selamat Hari Bapa! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "പിതൃദിനം",
+        "hover_text": "പിതൃദിനം 2024 (ഓഗസ്റ്റ് 08)",
+        "share_text": "പിതൃദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "पितृदिन",
+        "hover_text": "फादर्स डे (८ ऑगस्ट) २०२४",
+        "share_text": "फादर्स डे च्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Аавуудын өдөр",
+        "hover_text": "2024 оны Аавуудын өдөр (8-р сарын 8)",
+        "share_text": "Аавуудын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "बुवाको मुख हेर्ने दिन",
+        "hover_text": "बुवाको मुख हेर्ने दिन (अगस्ट ८) २०२४",
+        "share_text": "बुवाको मुख हेर्ने दिनको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Farsdag",
+        "hover_text": "Farsdag 2024 (8. august)",
+        "share_text": "Gratulerer med farsdagen! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ପିତୃ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ପିତୃ ଦିବସର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز پدر",
+        "hover_text": "روز پدر ۲۰۲۴ (۸ اوت)",
+        "share_text": "روز پدر مبارک! #GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Ojca",
+        "hover_text": "Dzień Ojca 2024",
+        "share_text": "Obchodzimy Dzień Ojca #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia dos Pais",
+        "hover_text": "Dia dos Pais 2024",
+        "share_text": "Feliz Dia dos Pais! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia do pai",
+        "hover_text": "Dia do Pai de 2024",
+        "share_text": "Feliz dia do pai! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਪਿਓ ਦਿਵਸ",
+        "hover_text": "ਪਿਤਾ ਦਿਵਸ (8 ਅਗਸਤ) 2024",
+        "share_text": "ਪਿਤਾ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Tatălui",
+        "hover_text": "Ziua Tatălui 2024 (8 august)",
+        "share_text": "La mulți ani de Ziua Tatălui! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День отца",
+        "hover_text": "День отца – 2024",
+        "share_text": "С Днем отца! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан очева",
+        "hover_text": "Дан очева (8. август) 2024.",
+        "share_text": "Срећан Дан очева! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva (8. avgust) 2024.",
+        "share_text": "Srećan Dan očeva! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Papa",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "පියවරුන්ගේ දිනය",
+        "hover_text": "පියවරුන්ගේ දිනය 2024 (අගෝස්තු 8)",
+        "share_text": "ප්‍රීතිමත් පියවරුන්ගේ දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň otcov",
+        "hover_text": "Deň otcov 2024",
+        "share_text": "Šťastný Deň otcov! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan očetov",
+        "hover_text": "Dan očetov 2024 (8. avgust)",
+        "share_text": "Vesel dan očetov! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Aabbaha",
+        "hover_text": null,
+        "share_text": "Maalinta Aabbaha oo Farxada leh #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Botate",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día del Padre",
+        "hover_text": "Día del Padre 2024",
+        "share_text": "¡Feliz Día del Padre! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Akina Baba",
+        "hover_text": "Siku ya Akina Baba 2024",
+        "share_text": "Heri za Sikukuu ya Akina Baba! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Fars dag",
+        "hover_text": "Fars dag 2024 (8 augusti)",
+        "share_text": "Grattis på fars dag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "தந்தையர் தினம்",
+        "hover_text": "தந்தையர் தினம் 2024 (ஆகஸ்ட் 08)",
+        "share_text": "தந்தையர் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "పితృ దినోత్సవం",
+        "hover_text": "ఫాదర్స్ డే (ఆగస్ట్ 8) 2024",
+        "share_text": "ఫాదర్స్ డే శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันพ่อ",
+        "hover_text": "วันพ่อปี 2024",
+        "share_text": "สุขสันต์วันพ่อ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la ga Rre",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Babalar Günü",
+        "hover_text": "2024 Babalar Günü",
+        "share_text": "Babalar Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День батька",
+        "hover_text": "День батька у 2024 році",
+        "share_text": "З Днем батька! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم پِدر",
+        "hover_text": "یوم پدر 2024 (8 اگست)",
+        "share_text": "یوم والد مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Otalar kuni",
+        "hover_text": "Otalar kuni 2024 (8-avgust)",
+        "share_text": "Otalar kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày của cha",
+        "hover_text": "Ngày của Cha năm 2024 (ngày 8 tháng 8)",
+        "share_text": "Mừng Ngày của Cha! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lobaba",
+        "hover_text": "Usuku loBaba lwango-2024 (8 Aga)",
+        "share_text": "Sinifisela Usuku Lobaba Oluhle! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Father's Day",
+    "share_text": "Happy Father's Day! #GoogleDoodle"
+  },
+  {
+    "name": "paris-games-climbing-day-2",
+    "title": "Paris Games - Climbing (Day 2)",
+    "url": "//www.google.com/logos/doodles/2024/paris-games-climbing-day-2-6753651837110565-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/U-NkxhdFOZ-A-4QGcbWdDhAYmg-sunHteZ7lcE7dZ7rnUa-Aoqj9F9nD0eMCASS2f-e1SjRJdYFBoIKsSnhd2kh8N3iKqkLeDhH5P4TZiPn-JjuPThXRqDU",
+    "high_res_url": "//www.google.com/logos/doodles/2024/paris-games-climbing-day-2-6753651837110565-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      8,
+      8
+    ],
+    "translations": {
+      "en": {
+        "query": "sport climbing combined olympics",
+        "hover_text": "Paris Games Climbing",
+        "share_text": "Paris Games Climbing! #GoogleDoodle"
+      },
+      "af": {
+        "query": "olimpiese spele van sportklim gekombineer",
+        "hover_text": "Parys Spele – Klim",
+        "share_text": "Parys Spele – Klim! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "disiplinat e kombinuara të alpinizmit sportiv në lojërat olimpike",
+        "hover_text": "Lojërat e Parisit - Alpinizëm",
+        "share_text": "Alpinizmi në Lojërat e Parisit! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የስፖርት ከፍታ መውጣት ቅልቅል ኦሎምፒክስ",
+        "hover_text": "የፓሪስ ጨዋታዎች ከፍታ መውጣት",
+        "share_text": "የፓሪስ ጨዋታዎች ከፍታ መውጣት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "أولمبياد التسلق الرياضي",
+        "hover_text": "مسابقات التسلق الرياضي في أولمبياد باريس",
+        "share_text": "مسابقات التسلق الرياضي في أولمبياد باريس! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "միավորված սպորտային մագլցում օլիմպիական խաղերում",
+        "hover_text": "Սպորտային մագլցում Փարիզի խաղերում",
+        "share_text": "Սպորտային մագլցում Փարիզի խաղերում #GoogleDoodle"
+      },
+      "az": {
+        "query": "dırmanma idmanı üzrə birləşmiş olimpiada",
+        "hover_text": "Paris Oyunları dırmanma",
+        "share_text": "Paris Oyunları dırmanma! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "কমবাইন্ড অলিম্পিক",
+        "hover_text": "প্যারিস গেমসে ক্লাইম্বিং ইভেন্ট",
+        "share_text": "প্যারিস গেমসে ক্লাইম্বিং ইভেন্ট! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "kirola eskalada joko olinpiar konbinatuak",
+        "hover_text": "Parisko Jokoetako eskalada",
+        "share_text": "Parisko Jokoetako eskalada #GoogleDoodle"
+      },
+      "be": {
+        "query": "cпартыўнае скалалажанне аб’яднаная праграма алімпіяда",
+        "hover_text": "Гульні ў Парыжы – Спартыўнае скалалажанне",
+        "share_text": "Гульні ў Парыжы – Спартыўнае скалалажанне! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "kombinirano sportsko penjanje na olimpijskim igrama",
+        "hover_text": "Penjanje na igrama u Parizu",
+        "share_text": "Penjanje na igrama u Parizu! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Sport Climbing Combined Olympics",
+        "hover_text": "Paris Games Climbing",
+        "share_text": "Paris Games Climbing #GoogleDoodle"
+      },
+      "bg": {
+        "query": "комбинирано спортно катерене на Олимпийските игри",
+        "hover_text": "Катерене на Игрите в Париж",
+        "share_text": "Катерене на Игрите в Париж! #GoogleDoodle"
+      },
+      "my": {
+        "query": "တောင်တက်အားကစား ပေါင်းစပ် အိုလံပစ်",
+        "hover_text": "ပဲရစ်ဂိမ်းများ တောင်တက်ခြင်း",
+        "share_text": "ပဲရစ်ဂိမ်းများ တောင်တက်ခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "escalada esportiva combinada jocs olímpics",
+        "hover_text": "Escalada als Jocs de París",
+        "share_text": "Escalada als Jocs de París #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "奧運運動攀登混合賽",
+        "hover_text": "巴黎賽事攀登項目",
+        "share_text": "巴黎賽事攀登項目！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "運動攀登 奧運",
+        "hover_text": "巴黎賽事 - 攀登項目",
+        "share_text": "巴黎賽事攀登項目熱血開賽！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "全能攀岩 奥运会",
+        "hover_text": "巴黎奥运会攀岩项目",
+        "share_text": "巴黎奥运会攀岩项目！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "kombinirano sportsko penjanje na olimpijadi",
+        "hover_text": "Igre u Parizu – penjanje",
+        "share_text": "Igre u Parizu – penjanje! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "kombinované sportovní lezení na olympiádě",
+        "hover_text": "Olympiáda v Paříži: Lezení",
+        "share_text": "Olympiáda v Paříži – soutěží se v lezení! #GoogleDoodle"
+      },
+      "da": {
+        "query": "kombineret sportsklatring OL",
+        "hover_text": "Klatring ved OL i Paris",
+        "share_text": "Klatring ved OL i Paris #GoogleDoodle"
+      },
+      "nl": {
+        "query": "klimsport gecombineerd olympische spelen",
+        "hover_text": "Klimmen op de Spelen in Parijs",
+        "share_text": "Klimmen op de Spelen in Parijs! #GoogleDoodle"
+      },
+      "et": {
+        "query": "sportlik ronimine olümpiamängudel",
+        "hover_text": "Pariisi olümpiamängud - sportlik ronimine",
+        "share_text": "Sportlik ronimine Pariisi suveolümpiamängudel #GoogleDoodle"
+      },
+      "fi": {
+        "query": "urheilukiipeily yhdistetty olympialaiset",
+        "hover_text": "Kiipeily Pariisin olympialaisissa",
+        "share_text": "Kiipeily Pariisin olympialaisissa #GoogleDoodle"
+      },
+      "fr": {
+        "query": "escalade combiné jeux olympiques",
+        "hover_text": "Escalade aux Jeux de Paris",
+        "share_text": "Escalade aux Jeux de Paris ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "combiné d'escalade sportive aux Jeux olympiques",
+        "hover_text": "L'escalade aux Jeux de Paris",
+        "share_text": "L'escalade aux Jeux de Paris! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "escalada deportiva combinada nos Xogos Olímpicos",
+        "hover_text": "Escalada nos Xogos de París",
+        "share_text": "Escalada nos Xogos de París! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "სპორტული კომბინირებული კლდეზე ცოცვა ოლიმპიურ თამაშებზე",
+        "hover_text": "კლდეზე ცოცვა პარიზის თამაშებზე!",
+        "share_text": "კლდეზე ცოცვა პარიზის თამაშებზე! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Sportklettern Kombination Olympia",
+        "hover_text": "Sommerspiele in Paris – Sportklettern",
+        "share_text": "Sportklettern bei den Sommerspielen in Paris #GoogleDoodle"
+      },
+      "el": {
+        "query": "σύνθετο αθλητικής αναρρίχησης στους ολυμπιακούς αγώνες",
+        "hover_text": "Αναρρίχηση στους Αγώνες στο Παρίσι",
+        "share_text": "Αναρρίχηση στους Αγώνες στο Παρίσι! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ઉપર ચઢવાની રમતગમત સંયુક્ત ઑલિમ્પિક",
+        "hover_text": "પેરિસ ગેમ ક્લાઇમ્બિંગ",
+        "share_text": "પેરિસ ગેમ ક્લાઇમ્બિંગ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "טיפוס ספורטיבי אולימפיאדה",
+        "hover_text": "טיפוס במשחקים בפריז",
+        "share_text": "טיפוס במשחקים בפריז GoogleDoodle#"
+      },
+      "hi": {
+        "query": "ओलंपिक में स्पोर्ट्स क्लाइंबिंग कंबाइंड",
+        "hover_text": "पेरिस गेम्स में क्लाइंबिंग",
+        "share_text": "पेरिस गेम्स में क्लाइंबिंग! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "sportmászás kombinált olimpia",
+        "hover_text": "Sportmászás a párizsi játékokon",
+        "share_text": "Sportmászás a párizsi játékokon. #GoogleDoodle"
+      },
+      "is": {
+        "query": "sameinað sportklifur á ólympíuleikunum",
+        "hover_text": "Parísarleikarnir – Klifur",
+        "share_text": "Parísarleikarnir – Klifur! #GoogleDoodle"
+      },
+      "id": {
+        "query": "panjat tebing kombinasi olimpiade",
+        "hover_text": "Panjat Tebing Olimpiade Paris",
+        "share_text": "Panjat Tebing Olimpiade Paris #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "arrampicata sportiva combinata olimpiadi",
+        "hover_text": "Arrampicata ai Giochi di Parigi",
+        "share_text": "Arrampicata ai Giochi di Parigi! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "スポーツクライミング　複合　オリンピック",
+        "hover_text": "パリ大会クライミング",
+        "share_text": "パリ大会クライミング #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಸ್ಪೋರ್ಟ್ ಕ್ಲೈಂಬಿಂಗ್ ಕಂಬೈನ್ಡ್ ಒಲಿಂಪಿಕ್ಸ್",
+        "hover_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಕ್ಲೈಂಬಿಂಗ್",
+        "share_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಕ್ಲೈಂಬಿಂಗ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "олимпиада комбинациялы спорттық құзға өрмелеу",
+        "hover_text": "Париж ойындары – құзға өрмелеу",
+        "share_text": "Париж ойындары – құзға өрмелеу #GoogleDoodle"
+      },
+      "km": {
+        "query": "ព្រឹត្តិការណ៍កីឡាអូឡាំពិកដែលដាក់បញ្ចូលកីឡាឡើងជញ្ជាំង",
+        "hover_text": "ការឡើងជញ្ជាំងក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស",
+        "share_text": "ការឡើងជញ្ជាំងក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "스포츠클라이밍 올림픽",
+        "hover_text": "파리 2024 클라이밍",
+        "share_text": "파리 2024 클라이밍 종목 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "бириктирилген спорттук зоого чыгуу боюнча олимпиада оюндары",
+        "hover_text": "Париж оюндары – Зоого чыгуу",
+        "share_text": "Париж оюндары –Зоого чыгуу! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ກິລາປີນຜາແບບປະສົມໂອລິມປິກ",
+        "hover_text": "ປີນຜາຢູ່ການແຂ່ງຂັນກິລາໂອລິມປິກປາຣີສ",
+        "share_text": "ປີນຜາຢູ່ການແຂ່ງຂັນກິລາໂອລິມປິກປາຣີສ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "escalada deportiva combinada olimpiada",
+        "hover_text": "Escalada deportiva en los Juegos de París",
+        "share_text": "Escalada deportiva en los Juegos de París #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Kombinētais kāpšanas sporta veids — olimpiskās spēles",
+        "hover_text": "Parīzes spēles — kāpšanas sports",
+        "share_text": "Parīzes spēles — kāpšanas sports! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "laipiojimo daugiakovė olimpinėse žaidynėse",
+        "hover_text": "Laipiojimas Paryžiaus olimpinėse žaidynėse",
+        "share_text": "Laipiojimas Paryžiaus olimpinėse žaidynėse! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "комбинирано спортско искачување на олимпијада",
+        "hover_text": "Искачување на игрите во Париз",
+        "share_text": "Искачување на игрите во Париз! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "sukan memanjat kombinasi olimpik",
+        "hover_text": "Pendakian Sukan Olimpik Paris",
+        "share_text": "Pendakian Sukan Olimpik Paris! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "സ്പോർട്ട് ക്ലൈമ്പിങ് കംബൈൻഡ് ഒളിമ്പിക്സ്",
+        "hover_text": "പാരീസ് ഗെയിംസ് ക്ലൈംബിംഗ്",
+        "share_text": "പാരീസ് ഗെയിംസ് ക്ലൈംബിംഗ്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "स्पोर्ट क्लाइंबिंग कंबाइंड ऑलिम्पिक",
+        "hover_text": "पॅरिस गेम्समधील क्लाइम्बिंग",
+        "share_text": "पॅरिस गेम्समधील क्लाइम्बिंग! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "олимпын гурван төрөлт авиралтын спорт",
+        "hover_text": "Парисын наадмын авиралт",
+        "share_text": "Парисын наадмын авиралт! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "स्पोर्ट क्लाइम्बिङ कम्बाइन्ड ओलम्पिक",
+        "hover_text": "पेरिस खेलअन्तर्गतको स्पोर्ट क्लाइम्बिङ",
+        "share_text": "पेरिस खेलअन्तर्गतको स्पोर्ट क्लाइम्बिङ! #GoogleDoodle"
+      },
+      "no": {
+        "query": "kombinert sportsklatring-OL",
+        "hover_text": "Klatring i Paris-lekene",
+        "share_text": "Klatring i Paris-lekene! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": "ਸਪੋਰਟ ਕਲਾਇਮਬਿੰਗ ਕਮਬਾਈਂਡ ਓਲੰਪਿਕਸ",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "fa": {
+        "query": "ورزش صخره‌نوردی ترکیبی در بازی‌های المپیک",
+        "hover_text": "صخره‌نوردی در «بازی‌های پاریس»",
+        "share_text": "صخره‌نوردی در «بازی‌های پاریس»! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "wspinaczka łączna olimpiada",
+        "hover_text": "Wspinaczka na igrzyskach w Paryżu",
+        "share_text": "Wspinaczka na igrzyskach w Paryżu #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "escalada esportiva combinado olimpíadas",
+        "hover_text": "Escalada nos Jogos de Paris",
+        "share_text": "Escalada nos Jogos de Paris #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "escalada olímpica",
+        "hover_text": "Jogos de Paris – Escalada",
+        "share_text": "Jogos de Paris – Escalada! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "sport climbing combined olympics",
+        "hover_text": "ਪੈਰਿਸ ਖੇਡਾਂ ਵਿੱਚ ਕਲਾਈਮਿੰਗ",
+        "share_text": "ਪੈਰਿਸ ਖੇਡਾਂ ਵਿੱਚ ਕਲਾਈਮਿੰਗ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "jocurile olimpice de escaladă sportivă",
+        "hover_text": "Escaladă la Jocurile de la Paris",
+        "share_text": "Escaladă la Jocurile de la Paris! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "комбинированное спортивное скалолазание олимпиада",
+        "hover_text": "Спортивное скалолазание на Олимпийских играх в Париже",
+        "share_text": "Спортивное скалолазание на Олимпийских играх в Париже #GoogleDoodle"
+      },
+      "sr": {
+        "query": "комбиновано спортско пењање на олимпијади",
+        "hover_text": "Спортско пењање на Играма у Паризу",
+        "share_text": "Спортско пењање на Играма у Паризу! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "kombinovano sportsko penjanje na olimpijadi",
+        "hover_text": "Sportsko penjanje na Igrama u Parizu",
+        "share_text": "Sportsko penjanje na Igrama u Parizu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ක්‍රීඩා කඳු නැගීම ඒකාබද්ධ ඔලිම්පික්",
+        "hover_text": "පැරිස් ක්‍රීඩා තරණය",
+        "share_text": "පැරිස් ක්‍රීඩා තරණය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Kombinované športové lezenie na olympiáde",
+        "hover_text": "Lezenie na olympiáde v Paríži",
+        "share_text": "Lezenie na hrách v Paríži. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "kombinirano športno plezanje na olimpijskih igrah",
+        "hover_text": "Plezanje na igrah v Parizu",
+        "share_text": "Plezanje na igrah v Parizu! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "escalada deportiva combinada olimpiada",
+        "hover_text": "Escalada en los Juegos de París",
+        "share_text": "Escalada en los Juegos de París #GoogleDoodle"
+      },
+      "sw": {
+        "query": "michezo ya kupanda iliyounganishwa olimpiki",
+        "hover_text": "Michezo ya Paris ya Kukwea",
+        "share_text": "Michezo ya Paris ya Kukwea! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "kombinerad sportklättring os",
+        "hover_text": "Klättring under Parisspelen",
+        "share_text": "Klättring under Parisspelen #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஸ்போர்ட் க்ளைம்பிங் கம்பைன்ட் ஒலிம்பிக்ஸ்",
+        "hover_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் ஏறுதல்",
+        "share_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் ஏறுதல்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "స్పోర్ట్ క్లైంబింగ్ కంబైన్డ్ ఒలింపిక్స్",
+        "hover_text": "ప్యారిస్ గేమ్స్ క్లయింబింగ్",
+        "share_text": "ప్యారిస్ గేమ్స్ క్లయింబింగ్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "ปีนหน้าผาในโอลิมปิกฤดูร้อน - รวม โอลิมปิก",
+        "hover_text": "ปีนผาที่ปารีสเกมส์",
+        "share_text": "ปีนผาที่ปารีสเกมส์! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "yaz olimpiyatları'nda spor tırmanış",
+        "hover_text": "Paris Yaz Oyunları Tırmanış",
+        "share_text": "Paris Yaz Oyunları Tırmanış #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "комбіноване спортивне скелелазіння олімпіада",
+        "hover_text": "Олімпійські ігри в Парижі: скелелазіння",
+        "share_text": "Олімпійські ігри в Парижі: скелелазіння! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "સ્પોર્ટ ક્લાઇમ્બીંગ સંયુક્ત ઓલિમ્પિક",
+        "hover_text": "پیرس گیمز کوہ پیمائی",
+        "share_text": "پیرس گیمز کوہ پیمائی! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "olimpiadaga qoʻshilgan sportcha qoyaga chiqish",
+        "hover_text": "Parij oʻyinlari qoyaga chiqish",
+        "share_text": "Parij oʻyinlari qoyaga chiqish! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "leo núi thể thao kết hợp olympics",
+        "hover_text": "Môn leo núi tại Thế vận hội Paris",
+        "share_text": "Môn leo núi tại Thế vận hội Paris! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "i-sport climbing combined olympics",
+        "hover_text": "Ukugibela Kwamageyimu aseParis",
+        "share_text": "Ukugibela Kwamageyimu aseParis! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "sport climbing combined olympics",
+    "share_text": "Paris Games Climbing! #GoogleDoodle"
+  },
+  {
     "name": "paris-games-climbing",
     "title": "Paris Games - Climbing",
     "url": "//www.google.com/logos/doodles/2024/paris-games-climbing-6753651837110564-law.gif",
@@ -2534,7 +3532,7 @@
         "share_text": "مسابقات الإبحار الشراعي في أولمبياد باريس! ‎#GoogleDoodle"
       },
       "hy": {
-        "query": null,
+        "query": "առագաստանավային սպորտը 2024 թ. օլիմպիական խաղերում",
         "hover_text": "Առագաստանավային սպորտ Փարիզի խաղերում",
         "share_text": "Առագաստանավային սպորտ Փարիզի խաղերում #GoogleDoodle"
       },
@@ -2679,7 +3677,7 @@
         "share_text": "पेरिस गेम्स में सेलिंग! #GoogleDoodle"
       },
       "hu": {
-        "query": null,
+        "query": "vitorlázás olimpia 2024",
         "hover_text": "Vitorlázás a párizsi játékokon",
         "share_text": "Vitorlázás a párizsi játékokon. #GoogleDoodle"
       },
