@@ -1,5 +1,1003 @@
 [
   {
+    "name": "singapore-national-day-2024",
+    "title": "Singapore National Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/singapore-national-day-2024-6753651837110266.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/FoJQoD_Xsn3HslekQHXtgSkah0-J4wwL2jdN4MgXqV5jPXu5uDx8vMAOUKzdlUxnIHpH7Ko75qqILQG3JCOL2JaMZpTNb1tsB9ClbzaIbnC9Jbs0ruSKyA",
+    "high_res_url": "//www.google.com/logos/doodles/2024/singapore-national-day-2024-6753651837110266-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      8,
+      9
+    ],
+    "translations": {
+      "en": {
+        "query": "Singapore National Day",
+        "hover_text": "Singapore National Day 2024",
+        "share_text": "Happy National Day, Singapore! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Singapoer se nasionale dag",
+        "hover_text": "Singapoer se nasionale dag 2024",
+        "share_text": "Gelukkige nasionale dag, Singapoer! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita Kombëtare e Singaporit",
+        "hover_text": "Dita Kombëtare e Singaporit, 2024",
+        "share_text": "Gëzuar Ditën Kombëtare, Singapor! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የሲንጋፖር ብሔራዊ ቀን",
+        "hover_text": "የሲንጋፖር ብሔራዊ ቀን 2024",
+        "share_text": "መልካም ብሔራዊ ቀን ሲንጋፖር! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "العيد الوطني لسنغافورة",
+        "hover_text": "العيد الوطني لسنغافورة 2024",
+        "share_text": "الاحتفال بالعيد الوطني لسنغافورة #GoogleDoodle"
+      },
+      "hy": {
+        "query": "Սինգապուրի ազգային տոն",
+        "hover_text": "Սինգապուրի ազգային օր 2024",
+        "share_text": "Շնորհավո՛ր Սինգապուրի ազգային տոնը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Sinqapurun Müstəqllik Günü",
+        "hover_text": "2024 Sinqapurun Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Sinqapur! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "সিঙ্গাপুরের জাতীয় দিবস",
+        "hover_text": "সিঙ্গাপুরের জাতীয় দিবস ২০২৪",
+        "share_text": "জাতীয় দিবস, সিঙ্গাপুর! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Singapurko Egun Nazionala",
+        "hover_text": "2024ko Singapurko Egun Nazionala",
+        "share_text": "Egun Nazional zoriontsua izan, Singapur! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Нацыянальнае свята Сінгапура",
+        "hover_text": "Нацыянальны дзень Сінгапура 2024",
+        "share_text": "З Нацыянальным святам, Сінгапур! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan državnosti Singapura",
+        "hover_text": "Dan državnosti Singapura 2024.",
+        "share_text": "Sretan Dan državnosti, Singapur! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Singapore National Day",
+        "hover_text": "Singapore National Day 2024",
+        "share_text": "Happy National Day, Singapore! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Национален празник на Сингапур",
+        "hover_text": "Национален празник на Сингапур 2024 г.",
+        "share_text": "Честит национален празник на Сингапур! #GoogleDoodle"
+      },
+      "my": {
+        "query": "စင်္ကာပူ အမျိုးသားနေ့",
+        "hover_text": "၂၀၂၄ စင်္ကာပူနိုင်ငံ အမျိုးသားနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် အမျိုးသားနေ့ဖြစ်ပါစေ၊ စင်္ကာပူ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia Nacional de Singapur",
+        "hover_text": "Dia Nacional de Singapur 2024",
+        "share_text": "Feliç Dia Nacional, Singapur! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "新加坡國慶日",
+        "hover_text": "2024 年新加坡國慶日",
+        "share_text": "新加坡國慶日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "新加坡國慶日",
+        "hover_text": "2024 年新加坡國慶日",
+        "share_text": "新加坡，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "新加坡国庆日",
+        "hover_text": "2024 年新加坡国庆节",
+        "share_text": "新加坡，国庆日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan državnosti Singapura",
+        "hover_text": "Dan državnosti Singapura 2024.",
+        "share_text": "Sretan Dan državnosti, Singapure! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Státní svátek Singapuru",
+        "hover_text": "Den singapurské státnosti 2024",
+        "share_text": "Vše nejlepší ke státnímu svátku, Singapure! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Singapores nationaldag",
+        "hover_text": "Singapores nationaldag 2024",
+        "share_text": "Glædelig nationaldag, Singapore! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Nationale feestdag Singapore",
+        "hover_text": "Nationale feestdag Singapore 2024",
+        "share_text": "Fijne nationale feestdag, Singapore! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Singapuri rahvuspüha",
+        "hover_text": "Singapuri 2024. aasta rahvuspüha",
+        "share_text": "Head rahvuspüha, Singapur! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Singaporen kansallispäivä",
+        "hover_text": "Singaporen kansallispäivä 2024",
+        "share_text": "Hyvää kansallispäivää, Singapore! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête nationale de Singapour",
+        "hover_text": "Fête nationale de Singapour 2024",
+        "share_text": "Fête nationale de Singapour #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête nationale du Singapour",
+        "hover_text": "Fête nationale de Singapour 2024",
+        "share_text": "Joyeuse fête nationale, Singapour! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día Nacional de Singapur",
+        "hover_text": "Día Nacional de Singapur 2024",
+        "share_text": "Feliz Día Nacional, Singapur! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "სინგაპურის ეროვნული დღესასწაული",
+        "hover_text": "სინგაპურის ეროვნული დღესასწაული — 2024",
+        "share_text": "ვულოცავთ სინგაპურს ეროვნულ დღესასწაულს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Nationalfeiertag Singapur",
+        "hover_text": "Nationalfeiertag Singapur 2024",
+        "share_text": "Alles Gute zum Nationalfeiertag, Singapur! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Εθνική Επέτειος Σιγκαπούρης",
+        "hover_text": "Εθνική Ημέρα της Σιγκαπούρης 2024",
+        "share_text": "Εορτασμός για την Εθνική Επέτειο της Σιγκαπούρης! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "સિંગાપોરનો રાષ્ટ્રીય દિવસ",
+        "hover_text": "સિંગાપોરનો રાષ્ટ્રીય દિવસ 2024",
+        "share_text": "સિંગાપોરના રાષ્ટ્રીય દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "החג הלאומי של סינגפור",
+        "hover_text": "החג הלאומי של סינגפור 2024",
+        "share_text": "חג לאומי שמח לסינגפור! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "सिंगापुर का राष्ट्रीय दिवस",
+        "hover_text": "सिंगापुर का राष्ट्रीय दिवस 2024",
+        "share_text": "राष्ट्रीय दिवस मुबारक हो, सिंगापुर! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Szingapúr nemzeti ünnepe",
+        "hover_text": "Szingapúr nemzeti ünnepe, 2024",
+        "share_text": "Kellemes nemzeti ünnepeket, Szingapúr! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þjóðhátíðardagur Singapúr",
+        "hover_text": "Þjóðhátíðardagur Singapúr 2024",
+        "share_text": "Gleðilegan þjóðhátíðardag, Singapúr! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Nasional Singapura",
+        "hover_text": "Hari Nasional Singapura 2024",
+        "share_text": "Selamat Hari Nasional, Singapura! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Náisiúnta Shingeapór",
+        "hover_text": null,
+        "share_text": "Lá Náisiúnta Shingeapór faoi mhaise duit. #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa nazionale di Singapore",
+        "hover_text": "Festa nazionale di Singapore 2024",
+        "share_text": "Auguri per la Festa nazionale, Singapore! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "シンガポール建国記念日",
+        "hover_text": "2024 年シンガポール建国記念日",
+        "share_text": "シンガポール建国記念日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಸಿಂಗಾಪುರ್ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಸಿಂಗಾಪುರ್ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಸಿಂಗಾಪುರ್ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆಯ ಶುಭಾಷಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Сингапурдың Ұлттық күні",
+        "hover_text": "Сингапурдың Ұлттық күні – 2024",
+        "share_text": "Ұлттық күн құтты болсын, Сингапур! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យជាតិ​សិង្ហបុរី",
+        "hover_text": "ទិវា​បុណ្យជាតិ​សិង្ហបុរី​ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​បុណ្យជាតិ​សិង្ហបុរី! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "싱가포르 국경일",
+        "hover_text": "2024년 싱가포르 국경일",
+        "share_text": "싱가포르 국경일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Сингапурдун Улуттук күнү",
+        "hover_text": "Сингапурдун Улуттук күнү – 2024",
+        "share_text": "Улуттук күнүң менен, Сингапур! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຊາດສິງກະໂປ",
+        "hover_text": "ວັນຊາດສິງກະໂປປີ 2024",
+        "share_text": "ສຸກສັນວັນຊາດສິງກະໂປ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día Nacional de Singapur",
+        "hover_text": "Día Nacional de Singapur 2024",
+        "share_text": "¡Feliz Día Nacional de Singapur! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Singapūras nacionālie svētki",
+        "hover_text": "Singapūras Nacionālie svētki — 2024",
+        "share_text": "Sveicam nacionālajos svētkos, Singapūra! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Singapūro nacionalinė diena",
+        "hover_text": "Singapūro nacionalinė diena, 2024 m.",
+        "share_text": "Su nacionaline diena, Singapūre! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на државноста на Сингапур",
+        "hover_text": "Ден на државноста на Сингапур, 2024 г.",
+        "share_text": "Среќен ден на државноста, Сингапур! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetim-pirenen'i Singaporo",
+        "hover_text": null,
+        "share_text": "Tsarà Fetim-pirenena ry Singaporo ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kebangsaan Singapura",
+        "hover_text": "Hari Kebangsaan Singapura 2024",
+        "share_text": "Selamat Menyambut Hari Kebangsaan, Singapura! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "സിംഗപ്പൂര്‍ ദേശീയ ദിനം",
+        "hover_text": "സിംഗപ്പൂർ ദേശീയ ദിനം 2024",
+        "share_text": "ദേശീയ ദിനാശംസകൾ, സിംഗപ്പൂര്‍! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "सिंगापूरचा राष्ट्रीय दिन",
+        "hover_text": "सिंगापूरचा राष्ट्रीय दिन २०२४",
+        "share_text": "सिंगापूरला राष्ट्रीय दिनाच्या हार्दिक शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Сингапурын үндэсний баярын өдөр",
+        "hover_text": "2024 оны Сингапурын Үндэсний баярын өдөр",
+        "share_text": "Сингапурын иргэдэд үндэсний баярын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "सिङ्गापुरको राष्ट्रिय दिवस",
+        "hover_text": "सिङ्गापुरको राष्ट्रिय दिवस २०२४",
+        "share_text": "राष्ट्रिय दिवसको शुभकामना, सिङ्गापुर! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Singapores nasjonaldag",
+        "hover_text": "Singapores nasjonaldag 2024",
+        "share_text": "Gratulerer med nasjonaldagen, Singapore! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ସିଙ୍ଗାପୁର ରାଷ୍ଟ୍ରୀୟ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ଶୁଭ ରାଷ୍ଟ୍ରୀୟ ଦିବସ, ସିଙ୍ଗାପୁର! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز ملی سنگاپور",
+        "hover_text": "روز ملی ۲۰۲۴ سنگاپور",
+        "share_text": "روز ملی سنگاپور مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Narodowe Singapuru",
+        "hover_text": "Święto Narodowe Singapuru 2024",
+        "share_text": "Szczęśliwego Święta Narodowego Singapuru #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia Nacional de Singapura",
+        "hover_text": "Dia Nacional de Singapura 2024",
+        "share_text": "Feliz Dia Nacional, Singapura! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia nacional de Singapura",
+        "hover_text": "Dia Nacional de Singapura de 2024",
+        "share_text": "Feliz dia nacional, Singapura! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਸਿੰਗਾਪੁਰ ਰਾਸ਼ਟਰੀ ਦਿਵਸ",
+        "hover_text": "ਸਿੰਗਾਪੁਰ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ 2024",
+        "share_text": "ਰਾਸ਼ਟਰੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਸਿੰਗਾਪੁਰ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Națională în Singapore",
+        "hover_text": "Ziua Națională în Singapore – 2024",
+        "share_text": "La mulți ani de ziua națională, Singapore! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Национальный праздник Сингапура",
+        "hover_text": "День независимости Сингапура – 2024",
+        "share_text": "С праздником, Сингапур! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан државности Сингапура",
+        "hover_text": "Дан државности Сингапура 2024.",
+        "share_text": "Честитамо Дан државности Сингапуру! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan državnosti Singapura",
+        "hover_text": "Dan državnosti Singapura 2024.",
+        "share_text": "Čestitamo Dan državnosti Singapuru! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Nasyonal Sengapour",
+        "hover_text": null,
+        "share_text": "Bonn fet national Sengapour! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "සිංගප්පූරුවේ ජාතික දිනය",
+        "hover_text": "සිංගප්පූරුවේ ජාතික දිනය 2024",
+        "share_text": "සුබ ජාතික දිනයක්, සිංගප්පූරුව! #Googleඩූඩල්"
+      },
+      "sk": {
+        "query": "Štátny sviatok Singapuru",
+        "hover_text": "Deň nezávislosti Singapuru 2024",
+        "share_text": "Šťastný štátny sviatok, Singapur! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Singapurski dan državnosti",
+        "hover_text": "Singapurski dan državnosti 2024",
+        "share_text": "Vesel dan državnosti, Singapur. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Qaranka Singapore",
+        "hover_text": null,
+        "share_text": "Maalinta Qaranka Faraxada leh ee Singapore #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Setshaba la Singapore",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Setshaba, Singapore! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día Nacional de Singapur",
+        "hover_text": "Día Nacional de Singapur 2024",
+        "share_text": "¡Feliz Día Nacional, Singapur! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Kitaifa ya Singapuri",
+        "hover_text": "Sikukuu ya Kitaifa ya Singapoo 2024",
+        "share_text": "Heri za Sikukuu ya Kitaifa ya Singapuri! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Singapores nationaldag",
+        "hover_text": "Singapores nationaldag 2024",
+        "share_text": "Vi firar Singapores nationaldag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "சிங்கப்பூர் தேசிய தினம்",
+        "hover_text": "சிங்கப்பூரின் தேசிய தினம் 2024",
+        "share_text": "சிங்கப்பூர் தேசிய தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "సింగపూర్ జాతీయ దినోత్సవం",
+        "hover_text": "సింగపూర్ జాతీయ దినోత్సవం 2024",
+        "share_text": "సింగపూర్ జాతీయ దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันชาติสิงคโปร์",
+        "hover_text": "วันชาติสิงคโปร์ปี 2024",
+        "share_text": "สุขสันต์วันชาติสิงคโปร์ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Setšhaba la Singapore",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Setšhaba, Singapore! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Singapur Ulusal Günü",
+        "hover_text": "2024 Singapur Milli Günü",
+        "share_text": "Singapur Ulusal Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Національний день Сінгапуру",
+        "hover_text": "Національний день Сінгапуру у 2024 році",
+        "share_text": "З Національним днем, Сінгапуре! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "سنگاپور کا قومی دن",
+        "hover_text": "سنگاپور کا قومی دن 2024",
+        "share_text": "سنگاپور کا قومی دن مبارک ہو! ‎#GoogleDoodle"
+      },
+      "uz": {
+        "query": "Singapur milliy bayrami",
+        "hover_text": "Singapur Milliy bayrami 2024",
+        "share_text": "Singapur milliy bayrami muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Singapore",
+        "hover_text": "Ngày Quốc khánh Singapore năm 2024",
+        "share_text": "Mừng ngày quốc khánh Singapore! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lwezwe lonke lwase-Singapore",
+        "hover_text": "Usuku Lukazwelonke lwase-Singapore lwango-2024",
+        "share_text": "Sikufisela usuku lwezwe lonke, e-Singapore! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Singapore National Day",
+    "share_text": "Happy National Day, Singapore! #GoogleDoodle"
+  },
+  {
+    "name": "paris-games-breaking",
+    "title": "Paris Games - Breaking",
+    "url": "//www.google.com/logos/doodles/2024/paris-games-breaking-6753651837110566-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/lTU974vhZiM5Odx6TxUg9GoKZmZEko_ulmkphE40JjZv90zn4Oif0xLduXBKZD453MWbk7-H17io28EqVWlLF-CZsh9VNK7G7PgvQ1qboiIEfDIBLnGh2w",
+    "high_res_url": "//www.google.com/logos/doodles/2024/paris-games-breaking-6753651837110566-2xa.gif",
+    "high_res_width": 750,
+    "high_res_height": 300,
+    "run_date_array": [
+      2024,
+      8,
+      9
+    ],
+    "translations": {
+      "en": {
+        "query": "breaking olympics",
+        "hover_text": "Paris Games Breaking",
+        "share_text": "Paris Games Breaking! #GoogleDoodle"
+      },
+      "af": {
+        "query": "olimpiese spele van briekdans",
+        "hover_text": "Parys Spele – Briekdans",
+        "share_text": "Parys Spele – Briekdans! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "kërcimi breakdance në lojërat olimpike",
+        "hover_text": "Lojërat e Parisit - Kërcim breakdance",
+        "share_text": "Kërcimi breakdance në Lojërat e Parisit! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ሰበር ኦሎምፒክስ",
+        "hover_text": "የፓሪስ ጨዋታዎች ሰበር",
+        "share_text": "የፓሪስ ጨዋታዎች ሰበር! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "مسابقات رقص البريكنغ في الأولمبياد",
+        "hover_text": "مسابقات رقص \"البريك دانس\" في ألعاب باريس",
+        "share_text": "مسابقات رقص \"البريك دانس\" في ألعاب باريس! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "բրեյքինգ օլիմպիական խաղերում",
+        "hover_text": "Բրեյքինգ Փարիզի խաղերում",
+        "share_text": "Բրեյքինգ Փարիզի խաղերում #GoogleDoodle"
+      },
+      "az": {
+        "query": "breyk dans olimpiadası",
+        "hover_text": "Paris Oyunları breyk dans",
+        "share_text": "Paris Oyunları breyk dans! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "অলিম্পিকে ব্রেকডান্সিং স্পোর্টসের ইভেন্ট",
+        "hover_text": "প্যারিস গেমসে ব্রেকডান্সিং স্পোর্টসের ইভেন্ট",
+        "share_text": "প্যারিস গেমসে ব্রেকডান্সিং স্পোর্টসের ইভেন্ট! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "breakdancea olinpiar jokoak",
+        "hover_text": "Parisko Jokoetako breakdancea",
+        "share_text": "Parisko Jokoetako breakdancea #GoogleDoodle"
+      },
+      "be": {
+        "query": "брэйк-данс алімпіяда",
+        "hover_text": "Гульні ў Парыжы – Брэйк-данс",
+        "share_text": "Гульні ў Парыжы – Брэйк-данс! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "breakdance na olimpijskim igrama",
+        "hover_text": "Breakdance na igrama u Parizu",
+        "share_text": "Breakdance na igrama u Parizu! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Breaking Olympics",
+        "hover_text": "Paris Games Breaking",
+        "share_text": "Paris Games Breaking #GoogleDoodle"
+      },
+      "bg": {
+        "query": "брейк на Олимпийските игри",
+        "hover_text": "Брейк на Игрите в Париж",
+        "share_text": "Брейк на Игрите в Париж! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဘရိတ်ဒန့်ကခြင်း အိုလံပစ်",
+        "hover_text": "ပဲရစ်ဂိမ်းများ ဘရိတ်ဒန့်ကခြင်း",
+        "share_text": "ပဲရစ်ဂိမ်းများ ဘရိတ်ဒန့်ကခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "breakdance jocs olímpics",
+        "hover_text": "Breakdance als Jocs de París",
+        "share_text": "Breakdance als Jocs de París #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "奧運霹靂舞",
+        "hover_text": "巴黎賽事霹靂舞項目",
+        "share_text": "巴黎賽事霹靂舞項目！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "奧運霹靂舞項目",
+        "hover_text": "巴黎賽事 - 霹靂舞項目",
+        "share_text": "巴黎賽事霹靂舞項目熱血開賽！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "霹雳舞奥运项目",
+        "hover_text": "巴黎运动盛会霹雳舞项目",
+        "share_text": "巴黎运动盛会霹雳舞项目！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "breakdancing na olimpijadi",
+        "hover_text": "Igre u Parizu – breakdancing",
+        "share_text": "Igre u Parizu – breakdancing! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "olympiáda v breakingu",
+        "hover_text": "Pařížské hry – breaking",
+        "share_text": "Pařížské hry – breakuje se! #GoogleDoodle"
+      },
+      "da": {
+        "query": "breakdance ved OL",
+        "hover_text": "Breakdance ved legene i Paris",
+        "share_text": "Breakdance ved legene i Paris #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Breakdance Olympische Spelen",
+        "hover_text": "Breakdance op de Spelen in Parijs",
+        "share_text": "Breakdance op de Spelen in Parijs! #GoogleDoodle"
+      },
+      "et": {
+        "query": "breiktants olümpiamängudel",
+        "hover_text": "Pariisi mängude breiktants",
+        "share_text": "Pariisi mängude breiktants! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "breakdance olympialaiset",
+        "hover_text": "Breakdance Pariisin kisoissa",
+        "share_text": "Breakdance Pariisin kisoissa #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Breaking aux Jeux olympiques",
+        "hover_text": "Breaking aux Jeux de Paris",
+        "share_text": "Breaking aux Jeux de Paris ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "breaking aux Jeux olympiques",
+        "hover_text": "Le breaking aux Jeux de Paris",
+        "share_text": "Le breaking aux Jeux de Paris! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "breaking nos Xogos Olímpicos",
+        "hover_text": "Breaking nos Xogos de París",
+        "share_text": "Breaking nos Xogos de París! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ბრეიქ დანსი ოლიმპიადაზე",
+        "hover_text": "ბრეიქ დანსი პარიზის თამაშებზე",
+        "share_text": "ბრეიქ დანსი პარიზის თამაშებზე! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Breaking Olympia 2024",
+        "hover_text": "Sommerspiele in Paris – Breaking",
+        "share_text": "Breaking bei den Sommerspielen in Paris #GoogleDoodle"
+      },
+      "el": {
+        "query": "breaking στους ολυμπιακούς αγώνες",
+        "hover_text": "Breaking στους Αγώνες στο Παρίσι",
+        "share_text": "Breaking στους Αγώνες στο Παρίσι! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "બ્રેકિંગ ઑલિમ્પિક",
+        "hover_text": "પેરિસ ગેમ બ્રેકિંગ",
+        "share_text": "પેરિસ ગેમ બ્રેકિંગ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "ברייקדאנס באולימפיאדה",
+        "hover_text": "ברייקדאנס במשחקים בפריז",
+        "share_text": "ברייקדאנס במשחקים בפריז GoogleDoodle#"
+      },
+      "hi": {
+        "query": "ओलंपिक में ब्रेकिंग",
+        "hover_text": "पेरिस गेम्स में ब्रेकडांस",
+        "share_text": "पेरिस गेम्स में ब्रेकडांस! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "breaktánc olimpia",
+        "hover_text": "Breaking a párizsi játékokon",
+        "share_text": "Breaking a párizsi játékokon. #GoogleDoodle"
+      },
+      "is": {
+        "query": "breikdans á ólympíuleikunum",
+        "hover_text": "Parísarleikarnir – Breikdans",
+        "share_text": "Parísarleikarnir – Breikdans! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Olimpiade Breaking",
+        "hover_text": "Pertandingan Paris - Breaking",
+        "share_text": "Pertandingan Paris - Breaking #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Olimpiadi breaking",
+        "hover_text": "Breaking ai Giochi di Parigi",
+        "share_text": "Breaking ai Giochi di Parigi! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ブレイキン オリンピック",
+        "hover_text": "パリ大会ブレイキング",
+        "share_text": "パリ大会ブレイキング #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಬ್ರೇಕಿಂಗ್ ಒಲಿಂಪಿಕ್ಸ್",
+        "hover_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಬ್ರೇಕಿಂಗ್",
+        "share_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಬ್ರೇಕಿಂಗ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "олимпиада брейкинг",
+        "hover_text": "Париж ойындары – брейкинг",
+        "share_text": "Париж ойындары – брейкинг #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការរាំចាក់ក្បាច់ប្រ៊េកដាន់ស៊ីងក្នុងព្រឹត្តិការណ៍កីឡាអូឡាំពិក",
+        "hover_text": "ការរាំចាក់ក្បាច់ប្រ៊េកដាន់ស៊ីងក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស",
+        "share_text": "ការរាំចាក់ក្បាច់ប្រ៊េកដាន់ស៊ីងក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "브레이킹 파리 2024",
+        "hover_text": "파리 2024 브레이킹 종목",
+        "share_text": "파리 2024 브레이킹 종목 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "брейк бийи боюнча олимпиада оюндары",
+        "hover_text": "Париж оюндары – Брейк бийи",
+        "share_text": "Париж оюндары – Брейк бийи! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ການເຕັ້ນເບຣກແດນຊ໌ໂອລິມປິກ",
+        "hover_text": "ການເຕັ້ນເບຣກແດນຊ໌ຢູ່ການແຂ່ງຂັນກິລາໂອລິມປິກປາຣີສ",
+        "share_text": "ການເຕັ້ນເບຣກແດນຊ໌ຢູ່ການແຂ່ງຂັນກິລາໂອລິມປິກປາຣີສ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Juegos Olímpicos de Breakdance",
+        "hover_text": "Juegos de París: Breakdance",
+        "share_text": "Breakdance en los Juegos de París #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Breika dejošana — olimpiskās spēles",
+        "hover_text": "Parīzes spēles — breika dejošana",
+        "share_text": "Parīzes spēles — breika dejošana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "breikas olimpinėse žaidynėse",
+        "hover_text": "Breikas Paryžiaus olimpinėse žaidynėse",
+        "share_text": "Breikas Paryžiaus olimpinėse žaidynėse! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "брејкденс на олимпијада",
+        "hover_text": "Брејкденс на игрите во Париз",
+        "share_text": "Брејкденс на игрите во Париз! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "olimpik tarian Breakdance",
+        "hover_text": "Sukan Paris - Tarian Breakdance",
+        "share_text": "Sukan Paris - Tarian Breakdance! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ബ്രേക്കിംഗ് ഒളിമ്പിക്‌സ്",
+        "hover_text": "പാരീസ് ഗെയിംസ് ബ്രേക്കിംഗ്",
+        "share_text": "പാരീസ് ഗെയിംസ് ബ്രേക്കിംഗ്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "ब्रेकिंग ऑलिंपिक",
+        "hover_text": "पॅरिस गेम्समधील ब्रेकिंग",
+        "share_text": "पॅरिस गेम्समधील ब्रेकिंग! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "олимпын брейк бүжиг",
+        "hover_text": "Парисын наадмын брейк бүжиг",
+        "share_text": "Парисын наадмын брейк бүжиг! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "ब्रेकिङ ओलम्पिक",
+        "hover_text": "पेरिस गेमअन्तर्गतको ब्रेकिङ",
+        "share_text": "पेरिस गेमअन्तर्गतको ब्रेकिङ! #GoogleDoodle"
+      },
+      "no": {
+        "query": "breakdance-OL",
+        "hover_text": "Breakdance i Paris-lekene",
+        "share_text": "Breakdance i Paris-lekene! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "مسابقات رقص برِیک در بازی‌های المپیک",
+        "hover_text": "مسابقات رقص برِیک در «بازی‌های پاریس»",
+        "share_text": "مسابقات رقص برِیک در «بازی‌های پاریس»! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "breaking na igrzyskach olimpijskich",
+        "hover_text": "Breaking na igrzyskach w Paryżu",
+        "share_text": "Breaking na igrzyskach w Paryżu #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Breaking nas Olimpíadas",
+        "hover_text": "Breaking nos Jogos de Paris",
+        "share_text": "Breaking nos Jogos de Paris #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "breaking jogos olímpicos",
+        "hover_text": "Jogos de Paris – Breaking",
+        "share_text": "Jogos de Paris – Breaking! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "breaking olympics",
+        "hover_text": "ਪੈਰਿਸ ਖੇਡਾਂ ਵਿੱਚ ਬ੍ਰੇਕਿੰਗ",
+        "share_text": "ਪੈਰਿਸ ਖੇਡਾਂ ਵਿੱਚ ਬ੍ਰੇਕਿੰਗ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "jocurile olimpice break dance",
+        "hover_text": "Break dance la Jocurile Olimpice de la Paris",
+        "share_text": "Break dance la Jocurile Olimpice de la Paris! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "брейкинг на олимпийских играх",
+        "hover_text": "Брейкинг на Играх в Париже",
+        "share_text": "Брейкинг на Играх в Париже #GoogleDoodle"
+      },
+      "sr": {
+        "query": "брејкденс на олимпијади",
+        "hover_text": "Брејкденс на Играма у Паризу",
+        "share_text": "Брејкденс на Играма у Паризу! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "brejkdens na olimpijadi",
+        "hover_text": "Brejkdens na Igrama u Parizu",
+        "share_text": "Brejkdens na Igrama u Parizu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "බිඳීම ඔලිම්පික්",
+        "hover_text": "පැරිස් ක්‍රීඩා බිඳීම",
+        "share_text": "පැරිස් ක්‍රීඩා බිඳීම! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Breaking na olympiáde",
+        "hover_text": "Breaking na hrách v Paríži",
+        "share_text": "Breaking na hrách v Paríži. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "brejking na olimpijskih igrah",
+        "hover_text": "Brejking na igrah v Parizu",
+        "share_text": "Brejking na igrah v Parizu! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "breaking olímpico",
+        "hover_text": "Breaking en los Juegos de París",
+        "share_text": "Breaking en los Juegos de París #GoogleDoodle"
+      },
+      "sw": {
+        "query": "michezo ya olimpiki ya kucheza dansi",
+        "hover_text": "Michezo ya Paris ya Kucheza Dansi",
+        "share_text": "Michezo ya Paris ya Kucheza Dansi! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "breaking OS",
+        "hover_text": "Breaking under Parisspelen",
+        "share_text": "Breaking under Parisspelen #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "பிரேக் டான்சிங் ஒலிம்பிக்ஸ்",
+        "hover_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் பிரேக் டான்சிங்",
+        "share_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் பிரேக் டான்சிங்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "బ్రేకింగ్ ఒలింపిక్స్",
+        "hover_text": "ప్యారిస్ గేమ్స్ బ్రేకింగ్",
+        "share_text": "ప్యారిస్ గేమ్స్ బ్రేకింగ్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "กีฬาเบรกแดนซ์โอลิมปิก",
+        "hover_text": "กีฬาเบรกแดนซ์ที่ปารีสเกมส์",
+        "share_text": "กีฬาเบรกแดนซ์ที่ปารีสเกมส์! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "yaz olimpiyatları'nda break dans ",
+        "hover_text": "Paris Yaz Oyunları Break Dans",
+        "share_text": "Paris Yaz Oyunları Break Dans #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "брейкданс на Олімпійських іграх",
+        "hover_text": "Паризькі ігри: брейкданс",
+        "share_text": "Паризькі ігри: брейкданс! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "بریکنگ اولمپکس",
+        "hover_text": "پیرس گیمز بریکنگ",
+        "share_text": "پیرس گیمز بریکنگ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "breyking olimpiada",
+        "hover_text": "Parij oʻyinlari breyking",
+        "share_text": "Parij oʻyinlari breyking! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "nhảy breaking tại thế vận hội",
+        "hover_text": "Môn nhảy breaking tại Thế vận hội Paris",
+        "share_text": "Môn nhảy breaking tại Thế vận hội Paris! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "ama-olympic ebreaking",
+        "hover_text": "IBreaking Yamageyimu aseParis",
+        "share_text": "IBreaking Yamageyimu aseParis! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "breaking olympics",
+    "share_text": "Paris Games Breaking! #GoogleDoodle"
+  },
+  {
     "name": "fathers-day-2024-aug-8",
     "title": "Father's Day 2024 (Aug 8)",
     "url": "//www.google.com/logos/doodles/2024/fathers-day-2024-aug-8-6753651837110398-l.png",
@@ -794,8 +1792,8 @@
       },
       "ne": {
         "query": "स्पोर्ट क्लाइम्बिङ कम्बाइन्ड ओलम्पिक",
-        "hover_text": "पेरिस खेलअन्तर्गतको स्पोर्ट क्लाइम्बिङ",
-        "share_text": "पेरिस खेलअन्तर्गतको स्पोर्ट क्लाइम्बिङ! #GoogleDoodle"
+        "hover_text": "पेरिस गेमअन्तर्गतको स्पोर्ट क्लाइम्बिङ",
+        "share_text": "पेरिस गेमअन्तर्गतको स्पोर्ट क्लाइम्बिङ! #GoogleDoodle"
       },
       "no": {
         "query": "kombinert sportsklatring-OL",
@@ -1293,8 +2291,8 @@
       },
       "ne": {
         "query": "स्पोर्ट क्लाइम्बिङ कम्बाइन्ड ओलम्पिक",
-        "hover_text": "पेरिस खेलअन्तर्गतको स्पोर्ट क्लाइम्बिङ",
-        "share_text": "पेरिस खेलअन्तर्गतको स्पोर्ट क्लाइम्बिङ! #GoogleDoodle"
+        "hover_text": "पेरिस गेमअन्तर्गतको स्पोर्ट क्लाइम्बिङ",
+        "share_text": "पेरिस गेमअन्तर्गतको स्पोर्ट क्लाइम्बिङ! #GoogleDoodle"
       },
       "no": {
         "query": "kombinert sportsklatring-OL",
@@ -2291,8 +3289,8 @@
       },
       "ne": {
         "query": "आर्टिस्टिक स्विमिङ ओलम्पिक",
-        "hover_text": "पेरिस खेलअन्तर्गतको आर्टिस्टिक स्विमिङ",
-        "share_text": "पेरिस खेलअन्तर्गतको आर्टिस्टिक स्विमिङ! #GoogleDoodle"
+        "hover_text": "पेरिस गेमअन्तर्गतको आर्टिस्टिक स्विमिङ",
+        "share_text": "पेरिस गेमअन्तर्गतको आर्टिस्टिक स्विमिङ! #GoogleDoodle"
       },
       "no": {
         "query": "synkronsvømming-OL",
@@ -2790,8 +3788,8 @@
       },
       "ne": {
         "query": "आर्टिस्टिक स्विमिङ ओलम्पिक",
-        "hover_text": "पेरिस खेलअन्तर्गतको आर्टिस्टिक स्विमिङ",
-        "share_text": "पेरिस खेलअन्तर्गतको आर्टिस्टिक स्विमिङ! #GoogleDoodle"
+        "hover_text": "पेरिस गेमअन्तर्गतको आर्टिस्टिक स्विमिङ",
+        "share_text": "पेरिस गेमअन्तर्गतको आर्टिस्टिक स्विमिङ! #GoogleDoodle"
       },
       "no": {
         "query": "synkronsvømming-OL",
@@ -3517,12 +4515,12 @@
         "share_text": "Parys Spele – Seilvaart! #GoogleDoodle"
       },
       "sq": {
-        "query": null,
+        "query": "lundrimi në lojërat olimpike 2024",
         "hover_text": "Lojërat e Parisit - Lundrim",
         "share_text": "Lundrimi në Lojërat e Parisit! #GoogleDoodle"
       },
       "am": {
-        "query": null,
+        "query": "የጀልባ ጉዞ ውድድር ኦሎምፒክ 2024",
         "hover_text": "የፓሪስ ጨዋታዎች - የጀልባ ጉዞ ውድድር",
         "share_text": "የፓሪስ ጨዋታዎች የጀልባ ጉዞ ውድድር! #GoogleDoodle"
       },
@@ -3552,7 +4550,7 @@
         "share_text": "Parisko Jokoetako bela #GoogleDoodle"
       },
       "be": {
-        "query": null,
+        "query": "парусны спорт алімпіяда 2024",
         "hover_text": "Гульні ў Парыжы – Парусны спорт",
         "share_text": "Гульні ў Парыжы – Парусны спорт! #GoogleDoodle"
       },
@@ -3572,12 +4570,12 @@
         "share_text": "Ветроходство на Игрите в Париж! #GoogleDoodle"
       },
       "my": {
-        "query": null,
+        "query": "၂၀၂၄ အိုလံပစ် ရွက်လွှင့်ခြင်း",
         "hover_text": "ပဲရစ်ဂိမ်းများ - ရွက်လွှင့်ခြင်း",
         "share_text": "ပဲရစ်ဂိမ်းများ ရွက်လွှင့်ခြင်း။ #GoogleDoodle"
       },
       "ca": {
-        "query": null,
+        "query": "vela jocs olímpics 2024",
         "hover_text": "Jocs de París: Vela",
         "share_text": "Vela als Jocs de París #GoogleDoodle"
       },
@@ -3682,7 +4680,7 @@
         "share_text": "Vitorlázás a párizsi játékokon. #GoogleDoodle"
       },
       "is": {
-        "query": null,
+        "query": "siglingar á ólympíuleikunum 2024",
         "hover_text": "Parísarleikarnir – Siglingar",
         "share_text": "Parísarleikarnir – Siglingar #GoogleDoodle"
       },
@@ -3742,7 +4740,7 @@
         "share_text": "Vela en los Juegos de París #GoogleDoodle"
       },
       "lv": {
-        "query": null,
+        "query": "burāšana — olimpiskās spēles (2024)",
         "hover_text": "Parīzes spēles — burāšana",
         "share_text": "Parīzes spēles — burāšana! #GoogleDoodle"
       },
@@ -3782,14 +4780,14 @@
         "share_text": "पॅरिस गेम्समधील नौकानयन! #GoogleDoodle"
       },
       "mn": {
-        "query": null,
+        "query": "2024 оны олимпын дарвуулт завины уралдаан",
         "hover_text": "Парисын наадам - Дарвуулт завины уралдаан",
         "share_text": "Парисын наадмын дарвуулт завины уралдаан! #GoogleDoodle"
       },
       "ne": {
         "query": null,
         "hover_text": "पेरिस खेल - सेलिङ",
-        "share_text": "पेरिस खेलअन्तर्गतको सेलिङ! #GoogleDoodle"
+        "share_text": "पेरिस गेमअन्तर्गतको सेलिङ! #GoogleDoodle"
       },
       "no": {
         "query": null,
@@ -3857,12 +4855,12 @@
         "share_text": "Парусный спорт на Олимпийских играх в Париже #GoogleDoodle"
       },
       "sr": {
-        "query": null,
+        "query": "једрење на олимпијади 2024.",
         "hover_text": "Игре у Паризу – једрење",
         "share_text": "Једрење на Играма у Паризу! #GoogleDoodle"
       },
       "sr-Latn": {
-        "query": null,
+        "query": "jedrenje na olimpijadi 2024.",
         "hover_text": "Igre u Parizu – jedrenje",
         "share_text": "Jedrenje na Igrama u Parizu! #GoogleDoodle"
       },
@@ -3882,7 +4880,7 @@
         "share_text": ""
       },
       "si": {
-        "query": null,
+        "query": "යාත්‍රා කිරීම ඔලිම්පික් 2024",
         "hover_text": "පැරිස් ක්‍රීඩා - යාත්‍රා කිරීම",
         "share_text": "පැරිස් ක්‍රීඩා යාත්‍රා කිරීම! #GoogleDoodle"
       },
@@ -5784,8 +6782,8 @@
       },
       "ne": {
         "query": "सर्फिङ ओलम्पिक",
-        "hover_text": "पेरिस खेलअन्तर्गतको सर्फिङ",
-        "share_text": "पेरिस खेलअन्तर्गतको सर्फिङ! #GoogleDoodle"
+        "hover_text": "पेरिस गेमअन्तर्गतको सर्फिङ",
+        "share_text": "पेरिस गेमअन्तर्गतको सर्फिङ! #GoogleDoodle"
       },
       "no": {
         "query": "surfe-OL",
