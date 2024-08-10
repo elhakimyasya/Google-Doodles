@@ -1,5 +1,504 @@
 [
   {
+    "name": "paris-games-breaking-day-2",
+    "title": "Paris Games - Breaking (Day 2)",
+    "url": "//www.google.com/logos/doodles/2024/paris-games-breaking-day-2-6753651837110567-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/DHfA3Ia73a4-I6eGPSP2XM7PPlMytPlAOO9m5W4_A5ved1ACAHD5TXMtoz78Seqej4G0_YToRPVzFQkQjRse6cMzaZVNn9XK6f_8zros4svCxFCvskXw",
+    "high_res_url": "//www.google.com/logos/doodles/2024/paris-games-breaking-day-2-6753651837110567-2xa.gif",
+    "high_res_width": 750,
+    "high_res_height": 300,
+    "run_date_array": [
+      2024,
+      8,
+      10
+    ],
+    "translations": {
+      "en": {
+        "query": "breaking olympics 2024",
+        "hover_text": "Paris Games Breaking",
+        "share_text": "Paris Games Breaking! #GoogleDoodle"
+      },
+      "af": {
+        "query": "olimpiese spele van briekdans",
+        "hover_text": "Parys Spele – Briekdans",
+        "share_text": "Parys Spele – Briekdans! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "kërcimi breakdance në lojërat olimpike",
+        "hover_text": "Lojërat e Parisit - Kërcim breakdance",
+        "share_text": "Kërcimi breakdance në Lojërat e Parisit! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ሰበር ኦሎምፒክስ",
+        "hover_text": "የፓሪስ ጨዋታዎች ሰበር",
+        "share_text": "የፓሪስ ጨዋታዎች ሰበር! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "مسابقات رقص البريكنغ في الأولمبياد",
+        "hover_text": "مسابقات رقص \"البريك دانس\" في ألعاب باريس",
+        "share_text": "مسابقات رقص \"البريك دانس\" في ألعاب باريس! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "բրեյքինգ օլիմպիական խաղերում",
+        "hover_text": "Բրեյքինգ Փարիզի խաղերում",
+        "share_text": "Բրեյքինգ Փարիզի խաղերում #GoogleDoodle"
+      },
+      "az": {
+        "query": "breyk dans olimpiadası",
+        "hover_text": "Paris Oyunları breyk dans",
+        "share_text": "Paris Oyunları breyk dans! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "অলিম্পিকে ব্রেকডান্সিং স্পোর্টসের ইভেন্ট",
+        "hover_text": "প্যারিস গেমসে ব্রেকডান্সিং স্পোর্টসের ইভেন্ট",
+        "share_text": "প্যারিস গেমসে ব্রেকডান্সিং স্পোর্টসের ইভেন্ট! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "breakdancea olinpiar jokoak",
+        "hover_text": "Parisko Jokoetako breakdancea",
+        "share_text": "Parisko Jokoetako breakdancea #GoogleDoodle"
+      },
+      "be": {
+        "query": "брэйк-данс алімпіяда",
+        "hover_text": "Гульні ў Парыжы – Брэйк-данс",
+        "share_text": "Гульні ў Парыжы – Брэйк-данс! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "breakdance na olimpijskim igrama",
+        "hover_text": "Breakdance na igrama u Parizu",
+        "share_text": "Breakdance na igrama u Parizu! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "breaking olympics 2024",
+        "hover_text": "Paris Games Breaking",
+        "share_text": "Paris Games Breaking #GoogleDoodle"
+      },
+      "bg": {
+        "query": "брейк на Олимпийските игри",
+        "hover_text": "Брейк на Игрите в Париж",
+        "share_text": "Брейк на Игрите в Париж! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဘရိတ်ဒန့်ကခြင်း အိုလံပစ်",
+        "hover_text": "ပဲရစ်ဂိမ်းများ ဘရိတ်ဒန့်ကခြင်း",
+        "share_text": "ပဲရစ်ဂိမ်းများ ဘရိတ်ဒန့်ကခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "breakdance jocs olímpics",
+        "hover_text": "Breakdance als Jocs de París",
+        "share_text": "Breakdance als Jocs de París #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "奧運霹靂舞",
+        "hover_text": "巴黎賽事霹靂舞項目",
+        "share_text": "巴黎賽事霹靂舞項目！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "奧運霹靂舞項目",
+        "hover_text": "巴黎賽事 - 霹靂舞項目",
+        "share_text": "巴黎賽事霹靂舞項目熱血開賽！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "霹雳舞奥运项目",
+        "hover_text": "巴黎运动盛会霹雳舞项目",
+        "share_text": "巴黎运动盛会霹雳舞项目！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "breakdancing na olimpijadi",
+        "hover_text": "Igre u Parizu – breakdancing",
+        "share_text": "Igre u Parizu – breakdancing! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "olympiáda v breakingu",
+        "hover_text": "Pařížské hry – breaking",
+        "share_text": "Pařížské hry – breakuje se! #GoogleDoodle"
+      },
+      "da": {
+        "query": "breakdance ved OL",
+        "hover_text": "Breakdance ved legene i Paris",
+        "share_text": "Breakdance ved legene i Paris #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Breakdance Olympische Spelen",
+        "hover_text": "Breakdance op de Spelen in Parijs",
+        "share_text": "Breakdance op de Spelen in Parijs! #GoogleDoodle"
+      },
+      "et": {
+        "query": "breiktants olümpiamängudel",
+        "hover_text": "Pariisi mängude breiktants",
+        "share_text": "Pariisi mängude breiktants! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "breakdance olympialaiset",
+        "hover_text": "Breakdance Pariisin kisoissa",
+        "share_text": "Breakdance Pariisin kisoissa #GoogleDoodle"
+      },
+      "fr": {
+        "query": "breaking jeux olympiques",
+        "hover_text": "Breaking aux Jeux de Paris",
+        "share_text": "Breaking aux Jeux de Paris ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "breaking aux Jeux olympiques",
+        "hover_text": "Le breaking aux Jeux de Paris",
+        "share_text": "Le breaking aux Jeux de Paris! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "breaking nos Xogos Olímpicos",
+        "hover_text": "Breaking nos Xogos de París",
+        "share_text": "Breaking nos Xogos de París! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ბრეიკი ოლიმპიადაზე",
+        "hover_text": "ბრეიკი პარიზის თამაშებზე",
+        "share_text": "ბრეიკი პარიზის თამაშებზე! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Breaking bei denBreaking Olympia 2024 Olympischen Sommerspielen",
+        "hover_text": "Sommerspiele in Paris – Breaking",
+        "share_text": "Breaking bei den Sommerspielen in Paris #GoogleDoodle"
+      },
+      "el": {
+        "query": "breaking στους ολυμπιακούς αγώνες",
+        "hover_text": "Breaking στους Αγώνες στο Παρίσι",
+        "share_text": "Breaking στους Αγώνες στο Παρίσι! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "બ્રેકિંગ ઑલિમ્પિક",
+        "hover_text": "પેરિસ ગેમ બ્રેકિંગ",
+        "share_text": "પેરિસ ગેમ બ્રેકિંગ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "ברייקדאנס באולימפיאדה",
+        "hover_text": "ברייקדאנס במשחקים בפריז",
+        "share_text": "ברייקדאנס במשחקים בפריז GoogleDoodle#"
+      },
+      "hi": {
+        "query": "ओलंपिक में ब्रेकिंग",
+        "hover_text": "पेरिस गेम्स में ब्रेकडांस",
+        "share_text": "पेरिस गेम्स में ब्रेकडांस! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "breaktánc olimpia",
+        "hover_text": "Breaking a párizsi játékokon",
+        "share_text": "Breaking a párizsi játékokon. #GoogleDoodle"
+      },
+      "is": {
+        "query": "breikdans á ólympíuleikunum",
+        "hover_text": "Parísarleikarnir – Breikdans",
+        "share_text": "Parísarleikarnir – Breikdans! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Olimpiade Breaking",
+        "hover_text": "Pertandingan Paris - Breaking",
+        "share_text": "Pertandingan Paris - Breaking #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Olimpiadi breaking",
+        "hover_text": "Breaking ai Giochi di Parigi",
+        "share_text": "Breaking ai Giochi di Parigi! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ブレイキン オリンピック",
+        "hover_text": "パリ大会ブレイキング",
+        "share_text": "パリ大会ブレイキング #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಬ್ರೇಕಿಂಗ್ ಒಲಿಂಪಿಕ್ಸ್",
+        "hover_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಬ್ರೇಕಿಂಗ್",
+        "share_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಬ್ರೇಕಿಂಗ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "олимпиада брейкинг",
+        "hover_text": "Париж ойындары – брейкинг",
+        "share_text": "Париж ойындары – брейкинг #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការរាំចាក់ក្បាច់ប្រ៊េកដាន់ស៊ីងក្នុងព្រឹត្តិការណ៍កីឡាអូឡាំពិក",
+        "hover_text": "ការរាំចាក់ក្បាច់ប្រ៊េកដាន់ស៊ីងក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស",
+        "share_text": "ការរាំចាក់ក្បាច់ប្រ៊េកដាន់ស៊ីងក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "브레이킹 파리 2024",
+        "hover_text": "파리 2024 브레이킹 종목",
+        "share_text": "파리 2024 브레이킹 종목 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "брейк бийи боюнча олимпиада оюндары",
+        "hover_text": "Париж оюндары – Брейк бийи",
+        "share_text": "Париж оюндары – Брейк бийи! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ການເຕັ້ນເບຣກແດນຊ໌ໂອລິມປິກ",
+        "hover_text": "ການເຕັ້ນເບຣກແດນຊ໌ຢູ່ການແຂ່ງຂັນກິລາໂອລິມປິກປາຣີສ",
+        "share_text": "ການເຕັ້ນເບຣກແດນຊ໌ຢູ່ການແຂ່ງຂັນກິລາໂອລິມປິກປາຣີສ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Juegos Olímpicos de Breakdance",
+        "hover_text": "Juegos de París: Breakdance",
+        "share_text": "Breakdance en los Juegos de París #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Breika dejošana — olimpiskās spēles",
+        "hover_text": "Parīzes spēles — breika dejošana",
+        "share_text": "Parīzes spēles — breika dejošana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "breikas olimpinėse žaidynėse",
+        "hover_text": "Breikas Paryžiaus olimpinėse žaidynėse",
+        "share_text": "Breikas Paryžiaus olimpinėse žaidynėse! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "брејкденс на олимпијада",
+        "hover_text": "Брејкденс на игрите во Париз",
+        "share_text": "Брејкденс на игрите во Париз! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "olimpik tarian Breakdance",
+        "hover_text": "Sukan Paris - Tarian Breakdance",
+        "share_text": "Sukan Paris - Tarian Breakdance! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ബ്രേക്കിംഗ് ഒളിമ്പിക്‌സ്",
+        "hover_text": "പാരീസ് ഗെയിംസ് ബ്രേക്കിംഗ്",
+        "share_text": "പാരീസ് ഗെയിംസ് ബ്രേക്കിംഗ്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "ब्रेकिंग ऑलिंपिक",
+        "hover_text": "पॅरिस गेम्समधील ब्रेकिंग",
+        "share_text": "पॅरिस गेम्समधील ब्रेकिंग! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "олимпын брейк бүжиг",
+        "hover_text": "Парисын наадмын брейк бүжиг",
+        "share_text": "Парисын наадмын брейк бүжиг! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "ब्रेकिङ ओलम्पिक",
+        "hover_text": "पेरिस गेमअन्तर्गतको ब्रेकिङ",
+        "share_text": "पेरिस गेमअन्तर्गतको ब्रेकिङ! #GoogleDoodle"
+      },
+      "no": {
+        "query": "breakdance-OL",
+        "hover_text": "Breakdance i Paris-lekene",
+        "share_text": "Breakdance i Paris-lekene! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "مسابقات رقص برِیک در بازی‌های المپیک",
+        "hover_text": "مسابقات رقص برِیک در «بازی‌های پاریس»",
+        "share_text": "مسابقات رقص برِیک در «بازی‌های پاریس»! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "breaking na igrzyskach olimpijskich",
+        "hover_text": "Breaking na igrzyskach w Paryżu",
+        "share_text": "Breaking na igrzyskach w Paryżu #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Breaking nas Olimpíadas",
+        "hover_text": "Breaking nos Jogos de Paris",
+        "share_text": "Breaking nos Jogos de Paris #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "breaking jogos olímpicos",
+        "hover_text": "Jogos de Paris – Breaking",
+        "share_text": "Jogos de Paris – Breaking! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "breaking olympics",
+        "hover_text": "ਪੈਰਿਸ ਖੇਡਾਂ ਵਿੱਚ ਬ੍ਰੇਕਿੰਗ",
+        "share_text": "ਪੈਰਿਸ ਖੇਡਾਂ ਵਿੱਚ ਬ੍ਰੇਕਿੰਗ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "jocurile olimpice de break dance",
+        "hover_text": "Breakdance la Jocurile de la Paris",
+        "share_text": "Breakdance la Jocurile de la Paris! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "брейкинг на олимпийских играх",
+        "hover_text": "Брейкинг на Играх в Париже",
+        "share_text": "Брейкинг на Играх в Париже #GoogleDoodle"
+      },
+      "sr": {
+        "query": "брејкденс на олимпијади",
+        "hover_text": "Брејкденс на Играма у Паризу",
+        "share_text": "Брејкденс на Играма у Паризу! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "brejkdens na olimpijadi",
+        "hover_text": "Brejkdens na Igrama u Parizu",
+        "share_text": "Brejkdens na Igrama u Parizu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "බිඳීම ඔලිම්පික්",
+        "hover_text": "පැරිස් ක්‍රීඩා බිඳීම",
+        "share_text": "පැරිස් ක්‍රීඩා බිඳීම! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Breaking na olympiáde",
+        "hover_text": "Breaking na hrách v Paríži",
+        "share_text": "Breaking na hrách v Paríži. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "brejking na olimpijskih igrah",
+        "hover_text": "Brejking na igrah v Parizu",
+        "share_text": "Brejking na igrah v Parizu! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "breaking olímpico",
+        "hover_text": "Breaking en los Juegos de París",
+        "share_text": "Breaking en los Juegos de París #GoogleDoodle"
+      },
+      "sw": {
+        "query": "michezo ya olimpiki ya kucheza dansi",
+        "hover_text": "Michezo ya Paris ya Kucheza Dansi",
+        "share_text": "Michezo ya Paris ya Kucheza Dansi! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "breaking OS",
+        "hover_text": "Breaking under Parisspelen",
+        "share_text": "Breaking under Parisspelen #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "பிரேக் டான்சிங் ஒலிம்பிக்ஸ்",
+        "hover_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் பிரேக் டான்சிங்",
+        "share_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் பிரேக் டான்சிங்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "బ్రేకింగ్ ఒలింపిక్స్",
+        "hover_text": "ప్యారిస్ గేమ్స్ బ్రేకింగ్",
+        "share_text": "ప్యారిస్ గేమ్స్ బ్రేకింగ్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "กีฬาเบรกแดนซ์โอลิมปิก",
+        "hover_text": "กีฬาเบรกแดนซ์ที่ปารีสเกมส์",
+        "share_text": "กีฬาเบรกแดนซ์ที่ปารีสเกมส์! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "yaz olimpiyatları'nda break dans ",
+        "hover_text": "Paris Yaz Oyunları Break Dans",
+        "share_text": "Paris Yaz Oyunları Break Dans #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "брейкданс на Олімпійських іграх",
+        "hover_text": "Паризькі ігри: брейкданс",
+        "share_text": "Паризькі ігри: брейкданс! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "بریکنگ اولمپکس",
+        "hover_text": "پیرس گیمز بریکنگ",
+        "share_text": "پیرس گیمز بریکنگ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "breyking olimpiada",
+        "hover_text": "Parij oʻyinlari breyking",
+        "share_text": "Parij oʻyinlari breyking! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "nhảy breaking tại thế vận hội",
+        "hover_text": "Môn nhảy breaking tại Thế vận hội Paris",
+        "share_text": "Môn nhảy breaking tại Thế vận hội Paris! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "ama-olympic ebreaking",
+        "hover_text": "IBreaking Yamageyimu aseParis",
+        "share_text": "IBreaking Yamageyimu aseParis! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "breaking olympics 2024",
+    "share_text": "Paris Games Breaking! #GoogleDoodle"
+  },
+  {
     "name": "singapore-national-day-2024",
     "title": "Singapore National Day 2024",
     "url": "//www.google.com/logos/doodles/2024/singapore-national-day-2024-6753651837110266.2-l.png",
@@ -513,7 +1012,7 @@
     ],
     "translations": {
       "en": {
-        "query": "breaking olympics",
+        "query": "breaking olympics 2024",
         "hover_text": "Paris Games Breaking",
         "share_text": "Paris Games Breaking! #GoogleDoodle"
       },
@@ -568,7 +1067,7 @@
         "share_text": "Breakdance na igrama u Parizu! #GoogleDoodle"
       },
       "en-GB": {
-        "query": "Breaking Olympics",
+        "query": "breaking olympics 2024",
         "hover_text": "Paris Games Breaking",
         "share_text": "Paris Games Breaking #GoogleDoodle"
       },
@@ -994,7 +1493,7 @@
       }
     },
     "translated_blog_posts": {},
-    "query": "breaking olympics",
+    "query": "breaking olympics 2024",
     "share_text": "Paris Games Breaking! #GoogleDoodle"
   },
   {
@@ -4510,7 +5009,7 @@
         "share_text": "Paris Games Sailing! #GoogleDoodle"
       },
       "af": {
-        "query": null,
+        "query": "olimpiese spele van seilvaart 2024",
         "hover_text": "Parys Spele – Seilvaart",
         "share_text": "Parys Spele – Seilvaart! #GoogleDoodle"
       },
@@ -4535,7 +5034,7 @@
         "share_text": "Առագաստանավային սպորտ Փարիզի խաղերում #GoogleDoodle"
       },
       "az": {
-        "query": null,
+        "query": "2024 yelkənli idman olimpiadası",
         "hover_text": "Paris Oyunları - yelkənli idman",
         "share_text": "Paris Oyunları yelkənli idman! #GoogleDoodle"
       },
@@ -4545,7 +5044,7 @@
         "share_text": "প্যারিস গেমসে সেইলিং ইভেন্ট! #GoogleDoodle"
       },
       "eu": {
-        "query": null,
+        "query": "bela olinpiar jokoak 2024",
         "hover_text": "Parisko Jokoak: bela",
         "share_text": "Parisko Jokoetako bela #GoogleDoodle"
       },
@@ -4555,7 +5054,7 @@
         "share_text": "Гульні ў Парыжы – Парусны спорт! #GoogleDoodle"
       },
       "bs": {
-        "query": null,
+        "query": "jedrenje na olimpijskim igrama 2024.",
         "hover_text": "Igre u Parizu – jedrenje",
         "share_text": "Jedrenje na igrama u Parizu! #GoogleDoodle"
       },
@@ -4565,7 +5064,7 @@
         "share_text": "Paris Games Sailing #GoogleDoodle"
       },
       "bg": {
-        "query": null,
+        "query": "ветроходство на Олимпийските игри 2024 г.",
         "hover_text": "Игрите в Париж – ветроходство",
         "share_text": "Ветроходство на Игрите в Париж! #GoogleDoodle"
       },
@@ -4595,7 +5094,7 @@
         "share_text": "巴黎奥运会帆船项目！#GoogleDoodle"
       },
       "hr": {
-        "query": null,
+        "query": "jedrenje na olimpijadi 2024.",
         "hover_text": "Igre u Parizu – jedrenje",
         "share_text": "Igre u Parizu – jedrenje! #GoogleDoodle"
       },
@@ -4630,12 +5129,12 @@
         "share_text": "Voile aux Jeux de Paris ! #GoogleDoodle"
       },
       "fr-CA": {
-        "query": null,
+        "query": "voile aux olympiques 2024",
         "hover_text": "La voile aux Jeux de Paris",
         "share_text": "La voile aux Jeux de Paris! #GoogleDoodle"
       },
       "gl": {
-        "query": null,
+        "query": "vela nos Xogos Olímpicos 2024",
         "hover_text": "Xogos de París: Vela",
         "share_text": "Vela nos Xogos de París! #GoogleDoodle"
       },
@@ -4650,7 +5149,7 @@
         "share_text": "Segeln bei den Sommerspielen in Paris #GoogleDoodle"
       },
       "el": {
-        "query": null,
+        "query": "ιστιοπλοΐα στους ολυμπιακούς αγώνες 2024",
         "hover_text": "Αγώνες στο Παρίσι – Ιστιοπλοΐα",
         "share_text": "Ιστιοπλοΐα στους Αγώνες στο Παρίσι! #GoogleDoodle"
       },
@@ -4710,12 +5209,12 @@
         "share_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಸೈಲಿಂಗ್! #GoogleDoodle"
       },
       "kk": {
-        "query": null,
+        "query": "олимпиада желкенді қайық спорты — 2024",
         "hover_text": "Париж ойындары – желкенді қайық спорты",
         "share_text": "Париж ойындары – желкенді қайық спорты #GoogleDoodle"
       },
       "km": {
-        "query": null,
+        "query": "ការជិះទូកក្ដោងក្នុងព្រឹត្តិការណ៍កីឡាអូឡាំពិកឆ្នាំ 2024",
         "hover_text": "ព្រឹត្តិការណ៍កីឡានៅប៉ារីស - ការជិះទូកក្ដោង",
         "share_text": "ការជិះទូកក្ដោងក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស! #GoogleDoodle"
       },
@@ -4725,12 +5224,12 @@
         "share_text": "파리 2024 요트 종목 기념 #GoogleDoodle"
       },
       "ky": {
-        "query": null,
+        "query": "жел кайыкта сүзүү боюнча олимпиада оюндары — 2024",
         "hover_text": "Париж оюндары – Жел кайыкта сүзүү",
         "share_text": "Париж оюндары – Жел кайыкта сүзүү! #GoogleDoodle"
       },
       "lo": {
-        "query": null,
+        "query": "ແລ່ນເຮືອໃບໂອລິມປິກ 2024",
         "hover_text": "ການແຂ່ງຂັນກິລາໂອລິມປິກປາຣີສ - ແລ່ນເຮືອໃບ",
         "share_text": "ແລ່ນເຮືອໃບຢູ່ການແຂ່ງຂັນກິລາໂອລິມປິກປາຣີສ! #GoogleDoodle"
       },
@@ -4750,7 +5249,7 @@
         "share_text": "Buriavimas Paryžiaus olimpinėse žaidynėse! #GoogleDoodle"
       },
       "mk": {
-        "query": null,
+        "query": "едрење на олимпијада, 2024 г.",
         "hover_text": "Игри во Париз – Едрење",
         "share_text": "Едрење на игрите во Париз! #GoogleDoodle"
       },
@@ -4785,12 +5284,12 @@
         "share_text": "Парисын наадмын дарвуулт завины уралдаан! #GoogleDoodle"
       },
       "ne": {
-        "query": null,
+        "query": "सेलिङ ओलम्पिक २०२४",
         "hover_text": "पेरिस खेल - सेलिङ",
         "share_text": "पेरिस गेमअन्तर्गतको सेलिङ! #GoogleDoodle"
       },
       "no": {
-        "query": null,
+        "query": "seile-OL 2024",
         "hover_text": "Paris-lekene – seiling",
         "share_text": "Seiling i Paris-lekene! #GoogleDoodle"
       },
@@ -4815,7 +5314,7 @@
         "share_text": ""
       },
       "fa": {
-        "query": null,
+        "query": "قایق‌رانی بادبانی در بازی‌های المپیک ۲۰۲۴",
         "hover_text": "«بازی‌های پاریس» - قایق‌رانی بادبانی",
         "share_text": "قایق‌رانی بادبانی در «بازی‌های پاریس»! ‎#GoogleDoodle"
       },
@@ -4885,12 +5384,12 @@
         "share_text": "පැරිස් ක්‍රීඩා යාත්‍රා කිරීම! #GoogleDoodle"
       },
       "sk": {
-        "query": null,
+        "query": "jachting na olympiáde 2024",
         "hover_text": "Hry v Paríži – jachting",
         "share_text": "Jachting na hrách v Paríži. #GoogleDoodle"
       },
       "sl": {
-        "query": null,
+        "query": "jadranje na olimpijskih igrah 2024",
         "hover_text": "Igre v Parizu – jadranje",
         "share_text": "Jadranje na igrah v Parizu! #GoogleDoodle"
       },
