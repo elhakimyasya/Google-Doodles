@@ -1,5 +1,504 @@
 [
   {
+    "name": "paris-games-conclude",
+    "title": "Paris Games Conclude!",
+    "url": "//www.google.com/logos/doodles/2024/paris-games-conclude-6753651837110568-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/UWKS_PQeuE_6hS6YNaRJxbZGXI_tO8LljcpWw_Q2gV0lFASPUMYTBTV_QUU6HheIS5rHM1CHg4DaNlzgRrXRhEQB_Guw9ARi8YjyFic-Q8QQ4QprMqljzw",
+    "high_res_url": "//www.google.com/logos/doodles/2024/paris-games-conclude-6753651837110568-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      8,
+      11
+    ],
+    "translations": {
+      "en": {
+        "query": "olympics",
+        "hover_text": "Paris Games Conclude!",
+        "share_text": "Paris Games Conclude! #GoogleDoodle"
+      },
+      "af": {
+        "query": "olimpiese spele",
+        "hover_text": "Parys Spele sluit af!",
+        "share_text": "Parys Spele sluit af! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "lojërat olimpike",
+        "hover_text": "Lojërat e Parisit kanë përfunduar!",
+        "share_text": "Lojërat e Parisit kanë përfunduar! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ኦሎምፒክ",
+        "hover_text": "የፓሪስ ጨዋታዎች ተጠናቅቀዋል!",
+        "share_text": "የፓሪስ ጨዋታዎች ተጠናቅቀዋል! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "أولمبياد",
+        "hover_text": "تنتهي اليوم ألعاب باريس!",
+        "share_text": "تنتهي اليوم ألعاب باريس! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "օլիմպիական խաղեր",
+        "hover_text": "Փարիզի խաղերն ավարտվում են",
+        "share_text": "Փարիզի խաղերն ավարտվում են #GoogleDoodle"
+      },
+      "az": {
+        "query": "olimpiya",
+        "hover_text": "Paris Oyunları Bitdi!",
+        "share_text": "Paris Oyunları Bitdi! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "অলিম্পিক",
+        "hover_text": "প্যারিস গেমস শেষ হয়েছে!",
+        "share_text": "প্যারিস গেমস শেষ হয়েছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "olinpiar jokoak",
+        "hover_text": "Parisko Jokoen amaiera",
+        "share_text": "Parisko Jokoen amaiera #GoogleDoodle"
+      },
+      "be": {
+        "query": "алімпійскія гульні",
+        "hover_text": "Гульні ў Парыжы завяршаюцца!",
+        "share_text": "Гульні ў Парыжы завяршаюцца! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "olimpijske igre",
+        "hover_text": "Završavaju se igre u Parizu!",
+        "share_text": "Završavaju se igre u Parizu! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Olympics",
+        "hover_text": "Paris Games Conclude",
+        "share_text": "Paris Games Conclude #GoogleDoodle"
+      },
+      "bg": {
+        "query": "олимпийски игри",
+        "hover_text": "Игрите в Париж приключват!",
+        "share_text": "Игрите в Париж приключват! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အိုလံပစ်",
+        "hover_text": "ပဲရစ်ဂိမ်းများ ပြီးဆုံးပါပြီ။",
+        "share_text": "ပဲရစ်ဂိမ်းများ ပြီးဆုံးပါပြီ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Jocs Olímpics",
+        "hover_text": "Finalitzen els Jocs de París!",
+        "share_text": "Finalitzen els Jocs de París! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "奧運會",
+        "hover_text": "巴黎賽事閉幕!",
+        "share_text": "巴黎賽事閉幕! #GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "奧運",
+        "hover_text": "巴黎賽事 - 熱血完結!",
+        "share_text": "巴黎賽事 - 完結! #GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "奥运会",
+        "hover_text": "巴黎运动盛会闭幕！",
+        "share_text": "巴黎运动盛会闭幕！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "olimpijske igre",
+        "hover_text": "Završavaju igre u Parizu!",
+        "share_text": "Završavaju igre u Parizu! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "olympijské hry",
+        "hover_text": "Pařížské hry končí!",
+        "share_text": "Pařížské hry končí! #GoogleDoodle"
+      },
+      "da": {
+        "query": "olympiske lege",
+        "hover_text": "Legene i Paris er slut",
+        "share_text": "Legene i Paris er slut #GoogleDoodle"
+      },
+      "nl": {
+        "query": "olympische spelen",
+        "hover_text": "Het einde van de Spelen in Parijs nadert!",
+        "share_text": "Het einde van de Spelen in Parijs nadert! #GoogleDoodle"
+      },
+      "et": {
+        "query": "olümpiamängud",
+        "hover_text": "Pariisi olümpiamängude lõputseremoonia",
+        "share_text": "Pariisi olümpiamängude lõputseremoonia #GoogleDoodle"
+      },
+      "fi": {
+        "query": "olympialaiset",
+        "hover_text": "Pariisin kisat päättyvät",
+        "share_text": "Pariisin kisat päättyvät #GoogleDoodle"
+      },
+      "fr": {
+        "query": "jeux olympiques",
+        "hover_text": "Les Jeux de Paris se terminent !",
+        "share_text": "Les Jeux de Paris se terminent ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jeux olympiques",
+        "hover_text": "Les Jeux de Paris se terminent!",
+        "share_text": "Les Jeux de Paris se terminent! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Xogos Olímpicos",
+        "hover_text": "Finalizan os Xogos de París!",
+        "share_text": "Finalizan os Xogos de París! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ოლიმპიადის დახურვა",
+        "hover_text": "პარიზის თამაშების დახურვა",
+        "share_text": "პარიზის თამაშების დახურვა! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Olympische Sommerspiele",
+        "hover_text": "Sommerspiele in Paris – Abschlussfeier",
+        "share_text": "Abschlussfeier der Sommerspiele in Paris #GoogleDoodle"
+      },
+      "el": {
+        "query": "ολυμπιακοί αγώνες",
+        "hover_text": "Λήξη Ολυμπιακών Αγώνων στο Παρίσι",
+        "share_text": "Λήξη Ολυμπιακών Αγώνων στο Παρίσι #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ઑલિમ્પિક",
+        "hover_text": "પેરિસ ગેમ થયા સમાપ્ત!",
+        "share_text": "પેરિસ ગેમ થયા સમાપ્ત! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "אולימפיאדה",
+        "hover_text": "המשחקים בפריז מסתיימים",
+        "share_text": "המשחקים בפריז מסתיימים GoogleDoodle#"
+      },
+      "hi": {
+        "query": "ओलंपिक",
+        "hover_text": "पेरिस गेम्स खत्म हो गए हैं!",
+        "share_text": "पेरिस गेम्स खत्म हो गए हैं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "olimpia",
+        "hover_text": "Véget érnek a párizsi játékok!",
+        "share_text": "Véget érnek a párizsi játékok! #GoogleDoodle"
+      },
+      "is": {
+        "query": "ólympíuleikar",
+        "hover_text": "Parísarleikunum er að ljúka!",
+        "share_text": "Parísarleikunum er að ljúka! #GoogleDoodle"
+      },
+      "id": {
+        "query": "olimpiade",
+        "hover_text": "Pertandingan Paris Berakhir!",
+        "share_text": "Pertandingan Paris Berakhir! #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "olimpiadi",
+        "hover_text": "Si concludono i Giochi di Parigi!",
+        "share_text": "#GoogleDoodle"
+      },
+      "ja": {
+        "query": "オリンピック",
+        "hover_text": "パリ大会閉会",
+        "share_text": "パリ大会閉会"
+      },
+      "kn": {
+        "query": "ಒಲಿಂಪಿಕ್ಸ್",
+        "hover_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಸಮಾರೋಪ!",
+        "share_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಸಮಾರೋಪ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Олимпиада ойындары",
+        "hover_text": "Париж ойындары аяқталды!",
+        "share_text": "Париж ойындары аяқталды! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ព្រឹត្តិការណ៍​កីឡា​អូឡាំពិក",
+        "hover_text": "ព្រឹត្តិការណ៍កីឡានៅប៉ារីសបានបញ្ចប់!",
+        "share_text": "ព្រឹត្តិការណ៍កីឡានៅប៉ារីសបានបញ្ចប់! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "올림픽",
+        "hover_text": "파리 2024 폐막 기념",
+        "share_text": "파리 2024 폐막 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "олимпиада оюндары",
+        "hover_text": "Париж оюндары аяктады!",
+        "share_text": "Париж оюндары аяктады! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ໂອລິມປິກ",
+        "hover_text": "ການແຂ່ງຂັນກິລາປາຣີສຈົບລົງແລ້ວ!",
+        "share_text": "ການແຂ່ງຂັນກິລາປາຣີສຈົບລົງແລ້ວ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Juegos olímpicos",
+        "hover_text": "¡Los Juegos de París finalizan!",
+        "share_text": "¡Los Juegos de París terminan! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "olimpiskās spēles",
+        "hover_text": "Noslēdzas Parīzes spēles!",
+        "share_text": "Noslēdzas Parīzes spēles! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "olimpinės žaidynės",
+        "hover_text": "Žaidynės Paryžiuje baigėsi!",
+        "share_text": "Žaidynės Paryžiuje baigėsi! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "олимпијада",
+        "hover_text": "Игрите во Париз завршуваат!",
+        "share_text": "Игрите во Париз завршуваат! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "olimpik",
+        "hover_text": "Sukan Paris Berakhir!",
+        "share_text": "Sukan Paris Berakhir! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഒളിമ്പിക്‌സ്",
+        "hover_text": "പാരീസ് ഗെയിംസിന് സമാപനമായി!",
+        "share_text": "പാരീസ് ഗെയിംസിന് സമാപനമായി! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "ऑलिंपिक",
+        "hover_text": "पॅरिस गेम्सची सांगता झाली आहे!",
+        "share_text": "पॅरिस गेम्सची सांगता झाली आहे! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "олимп",
+        "hover_text": "Парисын наадам өндөрлөлөө!",
+        "share_text": "Парисын наадам өндөрлөлөө! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "ओलम्पिक",
+        "hover_text": "पेरिस खेल सम्पन्न भएको छ!",
+        "share_text": "पेरिस खेल सम्पन्न भएको छ! #GoogleDoodle"
+      },
+      "no": {
+        "query": "OL",
+        "hover_text": "Lekene i Paris avsluttes!",
+        "share_text": "Lekene i Paris avsluttes! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "بازی‌های المپیک",
+        "hover_text": "«بازی‌های پاریس» به‌پایان رسید!",
+        "share_text": "«بازی‌های پاریس» به‌پایان رسید! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "igrzyska olimpijskie",
+        "hover_text": "Zakończenie igrzysk w Paryżu",
+        "share_text": "Zakończenie igrzysk w Paryżu #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "olimpíadas",
+        "hover_text": "Terminam os Jogos de Paris!",
+        "share_text": "Terminam os Jogos de Paris! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "jogos olímpicos",
+        "hover_text": "Terminam os Jogos de Paris!",
+        "share_text": "Terminam os Jogos de Paris! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਓਲੰਪਿਕ",
+        "hover_text": "ਪੈਰਿਸ ਖੇਡਾਂ ਸਮਾਪਤ!",
+        "share_text": "ਪੈਰਿਸ ਖੇਡਾਂ ਸਮਾਪਤ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "jocurile olimpice",
+        "hover_text": "Finala Jocurilor Olimpice de la Paris",
+        "share_text": "Finala Jocurilor Olimpice de la Paris! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "олимпийские игры",
+        "hover_text": "Игры в Париже завершились",
+        "share_text": "Игры в Париже завершились #GoogleDoodle"
+      },
+      "sr": {
+        "query": "олимпијада",
+        "hover_text": "Игре у Паризу се завршавају!",
+        "share_text": "Игре у Паризу се завршавају! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "olimpijada",
+        "hover_text": "Igre u Parizu se završavaju!",
+        "share_text": "Igre u Parizu se završavaju! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ඔලිම්පික්",
+        "hover_text": "පැරිස් ක්‍රීඩා නිමා වේ!",
+        "share_text": "පැරිස් ක්‍රීඩා නිමා වේ! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "olympiáda",
+        "hover_text": "Hry v Paríži sa končia!",
+        "share_text": "Hry v Paríži sa končia! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "olimpijske igre",
+        "hover_text": "Konec iger v Parizu!",
+        "share_text": "Konec iger v Parizu! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "juegos olímpicos",
+        "hover_text": "¡Terminan los Juegos de París!",
+        "share_text": "#GoogleDoodle"
+      },
+      "sw": {
+        "query": "olimpiki",
+        "hover_text": "Michezo ya Paris Imemalizika!",
+        "share_text": "Michezo ya Paris Imemalizika! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "olympiska spelen",
+        "hover_text": "Parisspelen slutar!",
+        "share_text": "Parisspelen slutar! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஒலிம்பிக்ஸ்",
+        "hover_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் முடிந்துவிட்டன!",
+        "share_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் முடிந்துவிட்டன! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఒలింపిక్స్",
+        "hover_text": "ప్యారిస్ గేమ్స్ ముగింపు!",
+        "share_text": "ప్యారిస్ గేమ్స్ ముగింపు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "โอลิมปิก",
+        "hover_text": "ปารีสเกมส์จบลงแล้ว!",
+        "share_text": "ปารีสเกมส์จบลงแล้ว! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "olimpiyatlar",
+        "hover_text": "Paris Yaz Oyunları Kapanış Töreni",
+        "share_text": "Paris Yaz Oyunları Kapanış Töreni! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Олімпійські ігри",
+        "hover_text": "Паризькі ігри завершуються!",
+        "share_text": "Паризькі ігри завершуються! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "اولمپکس",
+        "hover_text": "پیرس گیمز اختتام کو پہنچ گئی ہیں!",
+        "share_text": "پیرس گیمز اختتام کو پہنچ گئی ہیں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "olimpiada",
+        "hover_text": "Parij oʻyinlari yakunlandi!",
+        "share_text": "Parij oʻyinlari yakunlandi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "thế vận hội",
+        "hover_text": "Bế mạc Thế vận hội Paris!",
+        "share_text": "Bế mạc Thế vận hội Paris! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "ama-olympics",
+        "hover_text": "Amageyimu AseParis Ayaphetha!",
+        "share_text": "Amageyimu AseParis Ayaphetha! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "olympics",
+    "share_text": "Paris Games Conclude! #GoogleDoodle"
+  },
+  {
     "name": "paris-games-breaking-day-2",
     "title": "Paris Games - Breaking (Day 2)",
     "url": "//www.google.com/logos/doodles/2024/paris-games-breaking-day-2-6753651837110567-law.gif",
