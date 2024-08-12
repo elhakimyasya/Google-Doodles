@@ -1,5 +1,1502 @@
 [
   {
+    "name": "mothers-day-2024-aug-12",
+    "title": "Mother's Day 2024 (Aug 12)",
+    "url": "//www.google.com/logos/doodles/2024/mothers-day-2024-aug-12-6753651837110370-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/ixj7wzXENCNP4sTadBJ-lPpQpd6mT42nAEkGBXu4rAasG37mx1DRTbkdSEqhv-59vIbkt-_xU_gi0IMR0xksfus7-a8TKwz3vvhEmbZTBgL6zV1qxLl0gQ",
+    "high_res_url": "//www.google.com/logos/doodles/2024/mothers-day-2024-aug-12-6753651837110370-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      8,
+      12
+    ],
+    "translations": {
+      "en": {
+        "query": "Mother's Day",
+        "hover_text": "Mother's Day (Aug 12) 2024",
+        "share_text": "Happy Mother's Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Moedersdag",
+        "hover_text": "Moedersdag (12 Augustus) 2024",
+        "share_text": "Gelukkige Moedersdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Nënës",
+        "hover_text": "Dita e Nënës, 2024",
+        "share_text": "Gëzuar Ditën e Nënës! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የእናቶች ቀን",
+        "hover_text": "የእናቶች ቀን (ኦገስት 12) 2024",
+        "share_text": "መልካም የእናቶች ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد الأم",
+        "hover_text": "عيد الأم 2024",
+        "share_text": "أجمل التهاني بمناسبة عيد الأمّ. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Մայրերի օր",
+        "hover_text": "Մայրերի օր 2024 (օգոստոսի 12)",
+        "share_text": "Շնորհավո՛ր մայրերի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Analar Günü",
+        "hover_text": "Analar Günü (12 avqust) 2024",
+        "share_text": "Analar Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "মাতৃ দিবস",
+        "hover_text": "মাতৃ দিবস (১২ আগস্ট) ২০২৪",
+        "share_text": "মাদার্স ডেয়ের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Amaren Eguna",
+        "hover_text": "2024ko Amaren Eguna (abuztuaren 12a)",
+        "share_text": "Amaren Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень маці",
+        "hover_text": "Дзень маці 2024 (12 жніўня)",
+        "share_text": "З Днём маці! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan majki",
+        "hover_text": "Dan majki (12. aug) 2024.",
+        "share_text": "Sretan Dan majki! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Mother's Day",
+        "hover_text": "Mother's Day 2024",
+        "share_text": "Happy Mother's Day! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на майката",
+        "hover_text": "Ден на майката 2024 г.",
+        "share_text": "Честит Ден на майката! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အမေများနေ့",
+        "hover_text": "၂၀၂၄ အမေများနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ်အမေများနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Mare",
+        "hover_text": "Dia de la Mare 2024 (12 d'agost)",
+        "share_text": "Feliç Dia de la Mare! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "母親節",
+        "hover_text": "2024 年母親節",
+        "share_text": "母親節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "母親節",
+        "hover_text": "2024 年母親節",
+        "share_text": "母親節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "母亲节",
+        "hover_text": "2024 年母亲节（8 月 12 日）",
+        "share_text": "母亲节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Majčin dan",
+        "hover_text": "Majčin dan 2024. (1. kolovoza)",
+        "share_text": "Sretan Majčin dan! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den matek",
+        "hover_text": "Den matek 2024 (12. srpna)",
+        "share_text": "Vše nejlepší ke Dni matek! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Mors dag",
+        "hover_text": "Mors dag 2024 (12. august)",
+        "share_text": "Vi fejrer mors dag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Moederdag",
+        "hover_text": "Moederdag 2024",
+        "share_text": "Fijne Moederdag #GoogleDoodle"
+      },
+      "et": {
+        "query": "Emadepäev",
+        "hover_text": "2024. aasta emadepäev",
+        "share_text": "Head emadepäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Äitienpäivä",
+        "hover_text": "Äitienpäivä 2024 (12.8.)",
+        "share_text": "Hyvää äitienpäivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête des Mères",
+        "hover_text": "Fête des Mères 2024",
+        "share_text": "Bonne fête des Mères ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête des Mères",
+        "hover_text": "Fête des Mères 2024",
+        "share_text": "Joyeuse fête des Mères! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Nai",
+        "hover_text": "Día da Nai 2024 (12 de agosto)",
+        "share_text": "Feliz Día da Nai! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "დედის დღე",
+        "hover_text": "დედის დღე — 2024 (12 აგვისტო)",
+        "share_text": "გილოცავთ დედის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Muttertag",
+        "hover_text": "Muttertag 2024",
+        "share_text": "Alles Gute zum Muttertag! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Γιορτή της Μητέρας",
+        "hover_text": "Γιορτή της Μητέρας (12 Αυγούστου) 2024",
+        "share_text": "Πολλές ευχές για τη Γιορτή της Μητέρας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "માતૃ દિવસ",
+        "hover_text": "મધર્સ ડે (12 ઑગસ્ટ) 2024",
+        "share_text": "મધર્સ ડેની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום האם",
+        "hover_text": "יום האם 2024",
+        "share_text": "יום האם שמח! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "मदर्स डे",
+        "hover_text": "मदर्स डे (12 अगस्त) 2024",
+        "share_text": "मदर्स डे की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Anyák napja",
+        "hover_text": "Anyák napja, 2024 (augusztus 12.)",
+        "share_text": "Boldog anyák napját! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Mæðradagurinn",
+        "hover_text": "Mæðradagurinn 2024 (12. ágúst)",
+        "share_text": "Gleðilegan mæðradag! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Ibu",
+        "hover_text": "Hari Ibu 2024",
+        "share_text": "Selamat Hari Ibu! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá na Máithreacha",
+        "hover_text": null,
+        "share_text": "Lá na Máithreacha faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa della mamma",
+        "hover_text": "Festa della mamma 2024",
+        "share_text": "Felice festa della mamma! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "母の日",
+        "hover_text": "2024 年母の日（8 月 12 日）",
+        "share_text": "母の日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ತಾಯಂದಿರ ದಿನ",
+        "hover_text": "ತಾಯಂದಿರ ದಿನ (12ನೇ ಆಗಸ್ಟ್) 2024",
+        "share_text": "ತಾಯಂದಿರ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Аналар күні",
+        "hover_text": "Аналар күні – 2024 (12 тамыз)",
+        "share_text": "Аналар күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​រំលឹកគុណម្ដាយ",
+        "hover_text": "ទិវាអ្នកម្ដាយ (12 សីហា) ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​រំលឹកគុណ​ម្ដាយ​! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "어머니날",
+        "hover_text": "2024년 어머니날",
+        "share_text": "어머니날 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Энелер күнү",
+        "hover_text": "Энелер күнү — 2024 (12-август)",
+        "share_text": "Энелер күнү кут болсун! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນແມ່",
+        "hover_text": "ວັນແມ່ (12 ສິງຫາ) 2024",
+        "share_text": "ສຸກສັນວັນແມ່! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Madre",
+        "hover_text": "Día de la Madre 2024",
+        "share_text": "¡Feliz Día de la Madre! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Mātes diena",
+        "hover_text": "Mātes diena — 2024. gada 12. augusts",
+        "share_text": "Sveicam Mātes dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Motinos diena",
+        "hover_text": "Motinos diena, 2024 m. (rugpjūčio 12 d.)",
+        "share_text": "Su Motinos diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на мајката",
+        "hover_text": "Ден на мајката, 2024 г.",
+        "share_text": "Среќен Ден на мајката! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny reny",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny reny ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Ibu",
+        "hover_text": "Hari Ibu (12 Ogos) 2024",
+        "share_text": "Selamat Hari Ibu! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "മാതൃദിനം",
+        "hover_text": "മാതൃദിനം 2024 (ഓഗസ്റ്റ് 12)",
+        "share_text": "മാതൃദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "मदर्स डे",
+        "hover_text": "मदर्स डे (१२ ऑगस्ट) २०२४",
+        "share_text": "मदर्स डे च्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Ээжүүдийн өдөр",
+        "hover_text": "2024 оны Ээжүүдийн өдөр (8-р сарын 12)",
+        "share_text": "Ээжүүдийн өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "आमाको मुख हेर्ने दिन",
+        "hover_text": "आमाको मुख हेर्ने दिन (अगस्ट १२) २०२४",
+        "share_text": "आमाको मुख हेर्ने दिनको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Morsdag",
+        "hover_text": "Morsdag 2024 (12. august)",
+        "share_text": "Gratulerer med morsdagen! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ମାତୃ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ମାତୃ ଦିବସର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز مادر",
+        "hover_text": "روز مادر ۲۰۲۴ (۱۲ اوت)",
+        "share_text": "روز مادر مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Matki",
+        "hover_text": "Dzień Matki 2024",
+        "share_text": "Obchodzimy Dzień Matki #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia das Mães",
+        "hover_text": "Dia das Mães 2024",
+        "share_text": "Feliz Dia das Mães! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da mãe",
+        "hover_text": "Dia da Mãe de 2024",
+        "share_text": "Feliz dia da mãe! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਮਾਂ ਦਿਵਸ",
+        "hover_text": "ਮਾਂ ਦਿਵਸ (12 ਅਗਸਤ) 2024",
+        "share_text": "ਮਾਂ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Mamei",
+        "hover_text": "Ziua Mamei – 2024 (12 aug)",
+        "share_text": "La mulți ani de Ziua Mamei! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День матери",
+        "hover_text": "День матери – 2024",
+        "share_text": "С Днем матери! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан мајки",
+        "hover_text": "Дан мајки (12. август) 2024.",
+        "share_text": "Срећан Дан мајки! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan majki",
+        "hover_text": "Dan majki (12. avgust) 2024.",
+        "share_text": "Srećan Dan majki! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Manman",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "මව්වරුන්ගේ දිනය",
+        "hover_text": "මව්වරුන්ගේ දිනය 2024 (අගෝස්තු 12)",
+        "share_text": "ප්‍රීතිමත් මව්වරුන්ගේ දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň matiek",
+        "hover_text": "Deň matiek 2024",
+        "share_text": "Šťastný Deň matiek! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Materinski dan",
+        "hover_text": "Materinski dan 2024 (12. avgust)",
+        "share_text": "Vesel materinski dan! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Hooyada",
+        "hover_text": null,
+        "share_text": "Maalinta Hooyada Farxada leh! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Bomme",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día de la Madre",
+        "hover_text": "Día de la Madre 2024",
+        "share_text": "¡Feliz Día de la Madre! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Akina Mama",
+        "hover_text": "Siku ya Akina Mama 2024",
+        "share_text": "Heri za Sikukuu ya Akina Mama! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Mors dag",
+        "hover_text": "Mors dag 2024 (12 augusti)",
+        "share_text": "Grattis på mors dag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "அன்னையர் தினம்",
+        "hover_text": "அன்னையர் தினம் 2024 (ஆகஸ்ட் 12)",
+        "share_text": "அன்னையர் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "మాతృ దినోత్సవం",
+        "hover_text": "మదర్స్ డే (ఆగస్ట్ 12) 2024",
+        "share_text": "మాతృ దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันแม่แห่งชาติ",
+        "hover_text": "วันแม่แห่งชาติ",
+        "share_text": "สุขสันต์วันแม่ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la ga Mme",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Anneler Günü",
+        "hover_text": "2024 Anneler Günü",
+        "share_text": "Anneler Gününüz Kutlu Olsun. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День матері",
+        "hover_text": "День матері у 2024 році",
+        "share_text": "З Днем матері! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم مادر",
+        "hover_text": "یوم مادر 2024 (12 اگست)",
+        "share_text": "یوم مادر مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Onalar kuni",
+        "hover_text": "Onalar kuni 2024 (12-avgust)",
+        "share_text": "Onalar kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày của mẹ",
+        "hover_text": "Ngày của Mẹ năm 2024 (ngày 12 tháng 8)",
+        "share_text": "Mừng ngày của Mẹ! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lomama",
+        "hover_text": "Usuku loMama lwango-2024 (Agasti 12)",
+        "share_text": "Sikufisela Usuku Oluhle Lomama! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Mother's Day",
+    "share_text": "Happy Mother's Day! #GoogleDoodle"
+  },
+  {
+    "name": "mountain-day-2024",
+    "title": "Mountain Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/mountain-day-2024-6753651837110268-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/LTEbz2Q0U0Kdenv3cX2wrbliUzonD-GUB2EujRT3IQO4uhC7gRjUrGTzynX6PL1nkbB3HxDH7qBx40_DW4edLdUCToa5hDaSzWer4y77w0AdNUe5e5n97g",
+    "high_res_url": "//www.google.com/logos/doodles/2024/mountain-day-2024-6753651837110268-2xa.gif",
+    "high_res_width": 1100,
+    "high_res_height": 440,
+    "run_date_array": [
+      2024,
+      8,
+      12
+    ],
+    "translations": {
+      "en": {
+        "query": "Moutain Day",
+        "hover_text": "Mountain Day 2024",
+        "share_text": "Happy Moutain Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Bergdag",
+        "hover_text": "Bergdag 2024",
+        "share_text": "Gelukkige Bergdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Maleve",
+        "hover_text": "Dita e Maleve, 2024",
+        "share_text": "Gëzuar Ditën e Maleve! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የተራራ ቀን",
+        "hover_text": "የተራራ ቀን 2024",
+        "share_text": "መልካም የተራራ ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "يوم الجبل في اليابان",
+        "hover_text": "يوم الجبل في اليابان 2024",
+        "share_text": "نحتفل بيوم الجبل في اليابان. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Լեռների օր",
+        "hover_text": "Լեռների օր 2024",
+        "share_text": "Շնորհավո՛ր լեռների օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Dağlar günü",
+        "hover_text": "2024 Dağlar Günü",
+        "share_text": "Dağlar Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "মাউন্টেন ডে",
+        "hover_text": "মাউন্টেন ডে ২০২৪",
+        "share_text": "মাউন্টেন ডে-র শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Mendien Eguna",
+        "hover_text": "2024ko Mendien Eguna",
+        "share_text": "Mendien Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Міжнародны дзень гор",
+        "hover_text": "Міжнародны дзень гор 2024",
+        "share_text": "З Міжнародным днём гор! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan planina",
+        "hover_text": "Dan planina 2024.",
+        "share_text": "Sretan dan planina! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Mountain Day",
+        "hover_text": "Mountain Day 2024",
+        "share_text": "Happy Mountain Day! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на планините",
+        "hover_text": "Ден на планините 2024 г.",
+        "share_text": "Честит Ден на планините! #GoogleDoodle"
+      },
+      "my": {
+        "query": "တောင်တန်းများနေ့",
+        "hover_text": "၂၀၂၄ တောင်တန်းများနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် တောင်တန်းများနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia Internacional de les Muntanyes",
+        "hover_text": "Dia Internacional de les Muntanyes 2024",
+        "share_text": "Feliç Dia Internacional de les Muntanyes! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "山之日",
+        "hover_text": "2024 年山之日",
+        "share_text": "山之日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "山之日",
+        "hover_text": "2024 年山之日",
+        "share_text": "山之日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "山之日",
+        "hover_text": "2024 年山之日",
+        "share_text": "山之日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan planina",
+        "hover_text": "Dan planina 2024.",
+        "share_text": "Sretan dan planina! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den hor",
+        "hover_text": "Den hor 2024",
+        "share_text": "Šťastný Den hor! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Bjergdag",
+        "hover_text": "Bjergdag 2024",
+        "share_text": "Vi fejrer bjergdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Dag van de Bergen",
+        "hover_text": "Dag van de Bergen 2024",
+        "share_text": "Fijne Dag van de Bergen! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Mäepäev",
+        "hover_text": "2024. aasta mäepäev",
+        "share_text": "Head mäepäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Vuoristopäivä",
+        "hover_text": "Vuoristopäivä 2024",
+        "share_text": "Hyvää vuoristopäivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Journée de la montagne",
+        "hover_text": "Journée de la montagne 2024",
+        "share_text": "Bonne journée de la montagne ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Journée de la montagne",
+        "hover_text": "Journée de la montagne 2024",
+        "share_text": "Joyeuse journée de la montagne! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día das Montañas",
+        "hover_text": "Día das Montañas 2024",
+        "share_text": "Feliz Día das Montañas! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მთების დღე",
+        "hover_text": "მთების დღე — 2024",
+        "share_text": "გილოცავთ მთების დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Tag der Berge",
+        "hover_text": "Tag der Berge 2024",
+        "share_text": "Wir feiern den Tag der Berge #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Βουνού",
+        "hover_text": "Ημέρα Βουνού 2024",
+        "share_text": "Ευχές για την Ημέρα Βουνού! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "માઉન્ટેન ડે",
+        "hover_text": "માઉન્ટેન ડે 2024",
+        "share_text": "માઉન્ટેન ડેની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום ההרים",
+        "hover_text": "יום ההרים 2024",
+        "share_text": "חוגגים את יום ההרים GoogleDoodle#"
+      },
+      "hi": {
+        "query": "पर्वत दिवस",
+        "hover_text": "पर्वत दिवस 2024",
+        "share_text": "पर्वत दिवस की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A hegyek napja",
+        "hover_text": "A hegyek napja, 2024",
+        "share_text": "Kellemes hegyek napját! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Fjalladagurinn",
+        "hover_text": "Fjalladagurinn 2024",
+        "share_text": "Gleðilegan fjalladag! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Gunung",
+        "hover_text": "Hari Gunung 2024",
+        "share_text": "Selamat Hari Gunung! #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Giornata della montagna",
+        "hover_text": "Giornata della montagna 2024",
+        "share_text": "Felice giornata della montagna! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "山の日",
+        "hover_text": "2024 年山の日",
+        "share_text": "山の日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಮೌಂಟೇನ್ ಡೇ",
+        "hover_text": "ಮೌಂಟೇನ್ ಡೇ 2024",
+        "share_text": "ಮೌಂಟೇನ್ ಡೇ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Тау күні",
+        "hover_text": "Тау күні – 2024",
+        "share_text": "Тау күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាបុណ្យភ្នំ",
+        "hover_text": "ទិវាបុណ្យភ្នំឆ្នាំ 2024",
+        "share_text": "រីករាយទិវាបុណ្យភ្នំ! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "산의 날",
+        "hover_text": "2024년 산의 날",
+        "share_text": "산의 날 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Тоолор күнү",
+        "hover_text": "Тоолор күнү — 2024",
+        "share_text": "Тоолор күнү кут болсун! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນພູເຂົາ",
+        "hover_text": "ວັນພູເຂົາ 2024",
+        "share_text": "ສຸກສັນວັນພູເຂົາ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Montaña",
+        "hover_text": "Día de la Montaña 2024",
+        "share_text": "¡Feliz Día de la Montaña! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Kalnu diena",
+        "hover_text": "Kalnu diena — 2024",
+        "share_text": "Sveicam Kalnu dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Kalnų diena",
+        "hover_text": "Kalnų diena, 2024 m.",
+        "share_text": "Sveikiname su Kalnų diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на планината",
+        "hover_text": "Ден на планината, 2024 г.",
+        "share_text": "Среќен Ден на планината! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Hari Gunung",
+        "hover_text": "Hari Gunung 2024",
+        "share_text": "Selamat Hari Gunung! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "മൗണ്ടൻ ദിനം",
+        "hover_text": "മൗണ്ടൻ ദിനം 2024",
+        "share_text": "മൗണ്ടൻ ദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "माउंटन डे",
+        "hover_text": "माउंटन डे २०२४",
+        "share_text": "माउंटन डे च्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Уулын өдөр",
+        "hover_text": "2024 оны Уулын өдөр",
+        "share_text": "Уулын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "हिमालय दिवस",
+        "hover_text": "हिमालय दिवस २०२४",
+        "share_text": "हिमालय दिवसको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Fjelldagen",
+        "hover_text": "Fjelldagen 2024",
+        "share_text": "Gratulerer med fjelldagen! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز کوهستان",
+        "hover_text": "روز کوهستان ۲۰۲۴",
+        "share_text": "روز کوهستان مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Terenów Górskich",
+        "hover_text": "Dzień Terenów Górskich 2024",
+        "share_text": "Świętujemy Dzień Terenów Górskich! #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia Internacional das Montanhas",
+        "hover_text": "Dia Internacional das Montanhas 2024",
+        "share_text": "Feliz Dia Internacional das Montanhas! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia das Montanhas",
+        "hover_text": "Dia das Montanhas de 2024",
+        "share_text": "Feliz Dia das Montanhas! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Moutain Day",
+        "hover_text": "ਪਰਬਤ ਦਿਵਸ 2024",
+        "share_text": "ਪਰਬਤ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Muntelui",
+        "hover_text": "Ziua Muntelui – 2024",
+        "share_text": "La mulți ani de Ziua Muntelui! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День гор",
+        "hover_text": "День гор – 2024",
+        "share_text": "С Днем гор! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан планина",
+        "hover_text": "Дан планина 2024.",
+        "share_text": "Срећан Дан планина! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan planina",
+        "hover_text": "Dan planina 2024.",
+        "share_text": "Srećan Dan planina! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "කඳුකර දිනය",
+        "hover_text": "කඳුකර දිනය 2024",
+        "share_text": "සුබ කඳුකර දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň hôr",
+        "hover_text": "Deň hôr 2024",
+        "share_text": "Šťastný Deň hôr! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan gora",
+        "hover_text": "Dan gora 2024",
+        "share_text": "Vesel dan gora! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día de las Montañas",
+        "hover_text": "Día de las Montañas 2024",
+        "share_text": "¡Feliz Día de las Montañas! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Milima",
+        "hover_text": "Siku ya Milima 2024",
+        "share_text": "Heri ya Siku ya Milima! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Nationella bergsdagen",
+        "hover_text": "Nationella bergsdagen 2024",
+        "share_text": "Vi firar internationella bergsdagen #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "மலைகள் தினம்",
+        "hover_text": "மலைகள் தினம் 2024",
+        "share_text": "மலைகள் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "మౌంటెన్ డే",
+        "hover_text": "మౌంటెన్ డే 2024",
+        "share_text": "మౌంటెన్ డే శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันภูเขา",
+        "hover_text": "วันภูเขาปี 2024",
+        "share_text": "สุขสันต์วันภูเขา! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Dağ Günü",
+        "hover_text": "2024 Dağ Günü",
+        "share_text": "Dağ Günü'nü kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День гір",
+        "hover_text": "День гір у 2024 році",
+        "share_text": "Вітаємо з Днем гір! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم پہاڑ",
+        "hover_text": "یوم پہاڑ 2024",
+        "share_text": "یوم پہاڑ مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Togʻlar kuni",
+        "hover_text": "Togʻlar kuni 2024",
+        "share_text": "Togʻlar kuni bilan! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày của Núi",
+        "hover_text": "Ngày của Núi năm 2024",
+        "share_text": "Chào mừng Ngày của Núi! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lwentaba",
+        "hover_text": "Usuku Lwentaba lwango-2024",
+        "share_text": "Sikufisela Usuku Oluhle Lwentaba! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Moutain Day",
+    "share_text": "Happy Moutain Day! #GoogleDoodle"
+  },
+  {
+    "name": "fathers-day-2024-aug-11",
+    "title": "Father's Day 2024 (Aug 11)",
+    "url": "//www.google.com/logos/doodles/2024/fathers-day-2024-aug-11-6753651837110472-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/e4ihcC90j1O4rnXLIbRB_4pOwYqgRWfHqdaUgGV0wAgjZx4SNuQ2L61R8Sp3ItDwLnI2pi2xVqx84zvMoziipTqrd67WhSuPGh2e7HjWxb9hhhcydgkAjQ",
+    "high_res_url": "//www.google.com/logos/doodles/2024/fathers-day-2024-aug-11-6753651837110472-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      8,
+      11
+    ],
+    "translations": {
+      "en": {
+        "query": "Father's Day",
+        "hover_text": "Father's Day 2024",
+        "share_text": "Father's Day 2024! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Vadersdag",
+        "hover_text": "Vadersdag 2024",
+        "share_text": "Vadersdag 2024! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Babait",
+        "hover_text": "Dita e Babait, 2024",
+        "share_text": "Dita e Babait, 2024! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአባቶች ቀን",
+        "hover_text": "የአባቶች ቀን 2024",
+        "share_text": "የአባቶች ቀን 2024! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد الأب",
+        "hover_text": "نحتفل اليوم بعيد الأب 2024",
+        "share_text": "أجمل الأمنيات بمناسبة عيد الأب 2024. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Հայրերի օր",
+        "hover_text": "Հայրերի օր 2024",
+        "share_text": "Հայրերի օր 2024 #GoogleDoodle"
+      },
+      "az": {
+        "query": "Atalar Günü",
+        "hover_text": "2024 Atalar Günü",
+        "share_text": "2024 Atalar Günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "পিতৃ দিবস",
+        "hover_text": "পিতৃ দিবস ২০২৪",
+        "share_text": "পিতৃ দিবস ২০২৪! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Aitaren Eguna",
+        "hover_text": "2024ko Aitaren Eguna",
+        "share_text": "2024ko Aitaren Eguna #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень бацькі",
+        "hover_text": "Дзень бацькі 2024",
+        "share_text": "Дзень бацькі 2024! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva 2024.",
+        "share_text": "Dan očeva 2024! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Father's Day",
+        "hover_text": "Father's Day 2024",
+        "share_text": "Father's Day 2024! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на бащата",
+        "hover_text": "Ден на бащата 2024 г.",
+        "share_text": "Ден на бащата 2024 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အဖေများနေ့",
+        "hover_text": "၂၀၂၄ အဖေများနေ့",
+        "share_text": "၂၀၂၄ အဖေများနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia del Pare",
+        "hover_text": "Dia del Pare 2024",
+        "share_text": "Dia del Pare 2024 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "父親節",
+        "hover_text": "2024 年父親節",
+        "share_text": "2024 年父親節！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "父親節",
+        "hover_text": "2024 年父親節",
+        "share_text": "2024 年父親節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "父亲节",
+        "hover_text": "2024 年父亲节",
+        "share_text": "2024 年父亲节！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva 2024.",
+        "share_text": "Dan očeva 2024.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den otců",
+        "hover_text": "Den otců 2024",
+        "share_text": "Den otců 2024! #GoogleDoodle"
+      },
+      "da": {
+        "query": "fars dag",
+        "hover_text": "Fars dag 2024",
+        "share_text": "Fars dag 2024 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Vaderdag",
+        "hover_text": "Vaderdag 2024",
+        "share_text": "Vaderdag 2024! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Isadepäev",
+        "hover_text": "Isadepäev 2024",
+        "share_text": "Isadepäev 2024! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Isänpäivä",
+        "hover_text": "Isänpäivä 2024",
+        "share_text": "Isänpäivä 2024 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête des Pères",
+        "hover_text": "Fête des Pères 2024",
+        "share_text": "Fête des Pères 2024 ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête des Pères",
+        "hover_text": "Fête des Pères 2024",
+        "share_text": "Fête des Pères 2024! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día do Pai",
+        "hover_text": "Día do Pai 2024",
+        "share_text": "Día do Pai 2024! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მამის დღე",
+        "hover_text": "მამის დღე — 2024",
+        "share_text": "გილოცავთ 2024 წლის მამის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Vatertag",
+        "hover_text": "Vatertag 2024",
+        "share_text": "Vatertag 2024 #GoogleDoodle"
+      },
+      "el": {
+        "query": "Γιορτή του Πατέρα",
+        "hover_text": "Γιορτή του Πατέρα 2024",
+        "share_text": "Γιορτή του Πατέρα 2024! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "પિતૃ દિવસ",
+        "hover_text": "ફાધર્સ ડે 2024",
+        "share_text": "ફાધર્સ ડે 2024! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום האב",
+        "hover_text": "יום האב 2024",
+        "share_text": "יום האב 2024 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "फ़ादर्स डे",
+        "hover_text": "फ़ादर्स डे 2024",
+        "share_text": "फ़ादर्स डे 2024! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Apák napja",
+        "hover_text": "Apák napja, 2024",
+        "share_text": "Apák napja, 2024! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Feðradagurinn",
+        "hover_text": "Feðradagurinn 2024",
+        "share_text": "Feðradagurinn 2024! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Ayah",
+        "hover_text": "Hari Ayah 2024",
+        "share_text": "Hari Ayah 2024 #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá na nAithreacha",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Festa del papà",
+        "hover_text": "Festa del papà 2024",
+        "share_text": "Festa del papà 2024! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "父の日",
+        "hover_text": "2024 年父の日",
+        "share_text": "2024 年父の日 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ತಂದೆಯಂದಿರ ದಿನ",
+        "hover_text": "ತಂದೆಯಂದಿರ ದಿನ 2024",
+        "share_text": "ತಂದೆಯಂದಿರ ದಿನ 2024! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Әкелер күні",
+        "hover_text": "Әкелер күні – 2024",
+        "share_text": "Әкелер күні – 2024 #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​រំលឹកគុណឪពុក",
+        "hover_text": "ទិវា​ឪពុក​ឆ្នាំ 2024",
+        "share_text": "ទិវាឪពុក​ឆ្នាំ 2024! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "아버지의 날",
+        "hover_text": "2024년 아버지의 날",
+        "share_text": "2024년 아버지날 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Аталар күнү",
+        "hover_text": "Аталар күнү – 2024",
+        "share_text": "Аталар күнү – 2024! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນພໍ່",
+        "hover_text": "ວັນພໍ່ປີ 2024",
+        "share_text": "ວັນພໍ່ 2024! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día del Padre",
+        "hover_text": "Día del Padre 2024",
+        "share_text": "Día del Padre 2024 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Tēva diena",
+        "hover_text": "Tēva diena — 2024",
+        "share_text": "Tēva diena — 2024! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Tėvo diena",
+        "hover_text": "Tėvo diena, 2024 m.",
+        "share_text": "Tėvo diena, 2024 m.! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на таткото",
+        "hover_text": "Ден на таткото, 2024 г.",
+        "share_text": "Ден на таткото, 2024 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny ray",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Hari Bapa",
+        "hover_text": "Hari Bapa 2024",
+        "share_text": "Hari Bapa 2024! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "പിതൃദിനം",
+        "hover_text": "പിതൃദിനം 2024",
+        "share_text": "പിതൃദിനം 2024! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "पितृदिन",
+        "hover_text": "फादर्स डे २०२४",
+        "share_text": "फादर्स डे २०२४! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Аавуудын өдөр",
+        "hover_text": "2024 оны Аавуудын өдөр",
+        "share_text": "2024 оны Аавуудын өдөр! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "बुवाको मुख हेर्ने दिन",
+        "hover_text": "बुवाको मुख हेर्ने दिन २०२४",
+        "share_text": "बुवाको मुख हेर्ने दिन २०२४! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Farsdag",
+        "hover_text": "Farsdag 2024",
+        "share_text": "Farsdag 2024! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ପିତୃ ଦିବସ",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز پدر",
+        "hover_text": "روز پدر ۲۰۲۴",
+        "share_text": "روز پدر ۲۰۲۴! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Ojca",
+        "hover_text": "Dzień Ojca 2024",
+        "share_text": "Dzień Ojca 2024 #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia dos pais",
+        "hover_text": "Dia dos Pais 2024",
+        "share_text": "Feliz Dia dos pais! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia do pai",
+        "hover_text": "Dia do Pai de 2024",
+        "share_text": "Dia do Pai de 2024! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਪਿਓ ਦਿਵਸ",
+        "hover_text": "ਪਿਤਾ ਦਿਵਸ 2024",
+        "share_text": "ਪਿਤਾ ਦਿਵਸ 2024! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Tatălui",
+        "hover_text": "Ziua Tatălui – 2024",
+        "share_text": "Ziua Tatălui – 2024 #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День отца",
+        "hover_text": "День отца – 2024",
+        "share_text": "День отца –2024! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан очева",
+        "hover_text": "Дан очева 2024.",
+        "share_text": "Дан очева 2024. #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva 2024.",
+        "share_text": "Dan očeva 2024. #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Papa",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "පියවරුන්ගේ දිනය",
+        "hover_text": "පියවරුන්ගේ දිනය 2024",
+        "share_text": "පියවරුන්ගේ දිනය 2024! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň otcov",
+        "hover_text": "Deň otcov 2024",
+        "share_text": "Deň otcov 2024. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan očetov",
+        "hover_text": "Očetovski dan 2024",
+        "share_text": "Dan očetov 2024! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Aabbaha",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": "Letsatsi la Botate",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día del Padre",
+        "hover_text": "Día del Padre 2024",
+        "share_text": "¡Feliz Día del Padre 2024! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Akina Baba",
+        "hover_text": "Siku ya Akina Baba 2024",
+        "share_text": "Siku ya Akina Baba 2024! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Fars dag",
+        "hover_text": "Fars dag 2024",
+        "share_text": "Fars dag 2024 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "தந்தையர் தினம்",
+        "hover_text": "தந்தையர் தினம் 2024",
+        "share_text": "தந்தையர் தினம் 2024! #GoogleDoodle"
+      },
+      "te": {
+        "query": "పితృ దినోత్సవం",
+        "hover_text": "ఫాదర్స్ డే 2024",
+        "share_text": "ఫాదర్స్ డే 2024! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันพ่อ",
+        "hover_text": "วันพ่อปี 2024",
+        "share_text": "วันพ่อปี 2024! #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la ga Rre",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Babalar Günü",
+        "hover_text": "2024 Babalar Günü",
+        "share_text": "2024 Babalar Günü #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День батька",
+        "hover_text": "День батька у 2024 році",
+        "share_text": "День батька у 2024 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم پِدر",
+        "hover_text": "یوم پدر 2024",
+        "share_text": "یوم پدر 2024! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Otalar kuni",
+        "hover_text": "Otalar kuni 2024",
+        "share_text": "Otalar kuni 2024! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày của cha",
+        "hover_text": "Ngày của Cha năm 2024",
+        "share_text": "Ngày của Cha năm 2024! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lobaba",
+        "hover_text": "Usuku Lobaba Lwango-2024",
+        "share_text": "Usuku loBaba lwango-2024! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Father's Day",
+    "share_text": "Father's Day 2024! #GoogleDoodle"
+  },
+  {
     "name": "paris-games-conclude",
     "title": "Paris Games Conclude!",
     "url": "//www.google.com/logos/doodles/2024/paris-games-conclude-6753651837110568-law.gif",
@@ -518,52 +2015,52 @@
         "share_text": "Paris Games Breaking! #GoogleDoodle"
       },
       "af": {
-        "query": "olimpiese spele van briekdans",
+        "query": null,
         "hover_text": "Parys Spele – Briekdans",
         "share_text": "Parys Spele – Briekdans! #GoogleDoodle"
       },
       "sq": {
-        "query": "kërcimi breakdance në lojërat olimpike",
+        "query": null,
         "hover_text": "Lojërat e Parisit - Kërcim breakdance",
         "share_text": "Kërcimi breakdance në Lojërat e Parisit! #GoogleDoodle"
       },
       "am": {
-        "query": "ሰበር ኦሎምፒክስ",
+        "query": null,
         "hover_text": "የፓሪስ ጨዋታዎች ሰበር",
         "share_text": "የፓሪስ ጨዋታዎች ሰበር! #GoogleDoodle"
       },
       "ar": {
-        "query": "مسابقات رقص البريكنغ في الأولمبياد",
+        "query": null,
         "hover_text": "مسابقات رقص \"البريك دانس\" في ألعاب باريس",
         "share_text": "مسابقات رقص \"البريك دانس\" في ألعاب باريس! ‎#GoogleDoodle"
       },
       "hy": {
-        "query": "բրեյքինգ օլիմպիական խաղերում",
+        "query": null,
         "hover_text": "Բրեյքինգ Փարիզի խաղերում",
         "share_text": "Բրեյքինգ Փարիզի խաղերում #GoogleDoodle"
       },
       "az": {
-        "query": "breyk dans olimpiadası",
+        "query": null,
         "hover_text": "Paris Oyunları breyk dans",
         "share_text": "Paris Oyunları breyk dans! #GoogleDoodle"
       },
       "bn": {
-        "query": "অলিম্পিকে ব্রেকডান্সিং স্পোর্টসের ইভেন্ট",
+        "query": null,
         "hover_text": "প্যারিস গেমসে ব্রেকডান্সিং স্পোর্টসের ইভেন্ট",
         "share_text": "প্যারিস গেমসে ব্রেকডান্সিং স্পোর্টসের ইভেন্ট! #GoogleDoodle"
       },
       "eu": {
-        "query": "breakdancea olinpiar jokoak",
+        "query": null,
         "hover_text": "Parisko Jokoetako breakdancea",
         "share_text": "Parisko Jokoetako breakdancea #GoogleDoodle"
       },
       "be": {
-        "query": "брэйк-данс алімпіяда",
+        "query": null,
         "hover_text": "Гульні ў Парыжы – Брэйк-данс",
         "share_text": "Гульні ў Парыжы – Брэйк-данс! #GoogleDoodle"
       },
       "bs": {
-        "query": "breakdance na olimpijskim igrama",
+        "query": null,
         "hover_text": "Breakdance na igrama u Parizu",
         "share_text": "Breakdance na igrama u Parizu! #GoogleDoodle"
       },
@@ -573,17 +2070,17 @@
         "share_text": "Paris Games Breaking #GoogleDoodle"
       },
       "bg": {
-        "query": "брейк на Олимпийските игри",
+        "query": null,
         "hover_text": "Брейк на Игрите в Париж",
         "share_text": "Брейк на Игрите в Париж! #GoogleDoodle"
       },
       "my": {
-        "query": "ဘရိတ်ဒန့်ကခြင်း အိုလံပစ်",
+        "query": null,
         "hover_text": "ပဲရစ်ဂိမ်းများ ဘရိတ်ဒန့်ကခြင်း",
         "share_text": "ပဲရစ်ဂိမ်းများ ဘရိတ်ဒန့်ကခြင်း။ #GoogleDoodle"
       },
       "ca": {
-        "query": "breakdance jocs olímpics",
+        "query": null,
         "hover_text": "Breakdance als Jocs de París",
         "share_text": "Breakdance als Jocs de París #GoogleDoodle"
       },
@@ -598,37 +2095,37 @@
         "share_text": "巴黎賽事霹靂舞項目熱血開賽！#GoogleDoodle"
       },
       "zh-CN": {
-        "query": "霹雳舞奥运项目",
+        "query": null,
         "hover_text": "巴黎运动盛会霹雳舞项目",
         "share_text": "巴黎运动盛会霹雳舞项目！#GoogleDoodle"
       },
       "hr": {
-        "query": "breakdancing na olimpijadi",
+        "query": null,
         "hover_text": "Igre u Parizu – breakdancing",
         "share_text": "Igre u Parizu – breakdancing! #GoogleDoodle"
       },
       "cs": {
-        "query": "olympiáda v breakingu",
+        "query": null,
         "hover_text": "Pařížské hry – breaking",
         "share_text": "Pařížské hry – breakuje se! #GoogleDoodle"
       },
       "da": {
-        "query": "breakdance ved OL",
+        "query": null,
         "hover_text": "Breakdance ved legene i Paris",
         "share_text": "Breakdance ved legene i Paris #GoogleDoodle"
       },
       "nl": {
-        "query": "Breakdance Olympische Spelen",
+        "query": null,
         "hover_text": "Breakdance op de Spelen in Parijs",
         "share_text": "Breakdance op de Spelen in Parijs! #GoogleDoodle"
       },
       "et": {
-        "query": "breiktants olümpiamängudel",
+        "query": null,
         "hover_text": "Pariisi mängude breiktants",
         "share_text": "Pariisi mängude breiktants! #GoogleDoodle"
       },
       "fi": {
-        "query": "breakdance olympialaiset",
+        "query": null,
         "hover_text": "Breakdance Pariisin kisoissa",
         "share_text": "Breakdance Pariisin kisoissa #GoogleDoodle"
       },
@@ -638,17 +2135,17 @@
         "share_text": "Breaking aux Jeux de Paris ! #GoogleDoodle"
       },
       "fr-CA": {
-        "query": "breaking aux Jeux olympiques",
+        "query": null,
         "hover_text": "Le breaking aux Jeux de Paris",
         "share_text": "Le breaking aux Jeux de Paris! #GoogleDoodle"
       },
       "gl": {
-        "query": "breaking nos Xogos Olímpicos",
+        "query": null,
         "hover_text": "Breaking nos Xogos de París",
         "share_text": "Breaking nos Xogos de París! #GoogleDoodle"
       },
       "ka": {
-        "query": "ბრეიკი ოლიმპიადაზე",
+        "query": null,
         "hover_text": "ბრეიკი პარიზის თამაშებზე",
         "share_text": "ბრეიკი პარიზის თამაშებზე! #GoogleDoodle"
       },
@@ -658,12 +2155,12 @@
         "share_text": "Breaking bei den Sommerspielen in Paris #GoogleDoodle"
       },
       "el": {
-        "query": "breaking στους ολυμπιακούς αγώνες",
+        "query": null,
         "hover_text": "Breaking στους Αγώνες στο Παρίσι",
         "share_text": "Breaking στους Αγώνες στο Παρίσι! #GoogleDoodle"
       },
       "gu": {
-        "query": "બ્રેકિંગ ઑલિમ્પિક",
+        "query": null,
         "hover_text": "પેરિસ ગેમ બ્રેકિંગ",
         "share_text": "પેરિસ ગેમ બ્રેકિંગ! #GoogleDoodle"
       },
@@ -678,22 +2175,22 @@
         "share_text": "ברייקדאנס במשחקים בפריז GoogleDoodle#"
       },
       "hi": {
-        "query": "ओलंपिक में ब्रेकिंग",
+        "query": null,
         "hover_text": "पेरिस गेम्स में ब्रेकडांस",
         "share_text": "पेरिस गेम्स में ब्रेकडांस! #GoogleDoodle"
       },
       "hu": {
-        "query": "breaktánc olimpia",
+        "query": null,
         "hover_text": "Breaking a párizsi játékokon",
         "share_text": "Breaking a párizsi játékokon. #GoogleDoodle"
       },
       "is": {
-        "query": "breikdans á ólympíuleikunum",
+        "query": null,
         "hover_text": "Parísarleikarnir – Breikdans",
         "share_text": "Parísarleikarnir – Breikdans! #GoogleDoodle"
       },
       "id": {
-        "query": "Olimpiade Breaking",
+        "query": null,
         "hover_text": "Pertandingan Paris - Breaking",
         "share_text": "Pertandingan Paris - Breaking #GoogleDoodle"
       },
@@ -703,7 +2200,7 @@
         "share_text": ""
       },
       "it": {
-        "query": "Olimpiadi breaking",
+        "query": null,
         "hover_text": "Breaking ai Giochi di Parigi",
         "share_text": "Breaking ai Giochi di Parigi! #GoogleDoodle"
       },
@@ -713,32 +2210,32 @@
         "share_text": "パリ大会ブレイキング #GoogleDoodle"
       },
       "kn": {
-        "query": "ಬ್ರೇಕಿಂಗ್ ಒಲಿಂಪಿಕ್ಸ್",
+        "query": null,
         "hover_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಬ್ರೇಕಿಂಗ್",
         "share_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಬ್ರೇಕಿಂಗ್! #GoogleDoodle"
       },
       "kk": {
-        "query": "олимпиада брейкинг",
+        "query": null,
         "hover_text": "Париж ойындары – брейкинг",
         "share_text": "Париж ойындары – брейкинг #GoogleDoodle"
       },
       "km": {
-        "query": "ការរាំចាក់ក្បាច់ប្រ៊េកដាន់ស៊ីងក្នុងព្រឹត្តិការណ៍កីឡាអូឡាំពិក",
+        "query": null,
         "hover_text": "ការរាំចាក់ក្បាច់ប្រ៊េកដាន់ស៊ីងក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស",
         "share_text": "ការរាំចាក់ក្បាច់ប្រ៊េកដាន់ស៊ីងក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស! #GoogleDoodle"
       },
       "ko": {
-        "query": "브레이킹 파리 2024",
+        "query": null,
         "hover_text": "파리 2024 브레이킹 종목",
         "share_text": "파리 2024 브레이킹 종목 기념 #GoogleDoodle"
       },
       "ky": {
-        "query": "брейк бийи боюнча олимпиада оюндары",
+        "query": null,
         "hover_text": "Париж оюндары – Брейк бийи",
         "share_text": "Париж оюндары – Брейк бийи! #GoogleDoodle"
       },
       "lo": {
-        "query": "ການເຕັ້ນເບຣກແດນຊ໌ໂອລິມປິກ",
+        "query": null,
         "hover_text": "ການເຕັ້ນເບຣກແດນຊ໌ຢູ່ການແຂ່ງຂັນກິລາໂອລິມປິກປາຣີສ",
         "share_text": "ການເຕັ້ນເບຣກແດນຊ໌ຢູ່ການແຂ່ງຂັນກິລາໂອລິມປິກປາຣີສ! #GoogleDoodle"
       },
@@ -748,7 +2245,7 @@
         "share_text": "Breakdance en los Juegos de París #GoogleDoodle"
       },
       "lv": {
-        "query": "Breika dejošana — olimpiskās spēles",
+        "query": null,
         "hover_text": "Parīzes spēles — breika dejošana",
         "share_text": "Parīzes spēles — breika dejošana! #GoogleDoodle"
       },
@@ -758,7 +2255,7 @@
         "share_text": "Breikas Paryžiaus olimpinėse žaidynėse! #GoogleDoodle"
       },
       "mk": {
-        "query": "брејкденс на олимпијада",
+        "query": null,
         "hover_text": "Брејкденс на игрите во Париз",
         "share_text": "Брејкденс на игрите во Париз! #GoogleDoodle"
       },
@@ -768,12 +2265,12 @@
         "share_text": ""
       },
       "ms": {
-        "query": "olimpik tarian Breakdance",
+        "query": null,
         "hover_text": "Sukan Paris - Tarian Breakdance",
         "share_text": "Sukan Paris - Tarian Breakdance! #GoogleDoodle"
       },
       "ml": {
-        "query": "ബ്രേക്കിംഗ് ഒളിമ്പിക്‌സ്",
+        "query": null,
         "hover_text": "പാരീസ് ഗെയിംസ് ബ്രേക്കിംഗ്",
         "share_text": "പാരീസ് ഗെയിംസ് ബ്രേക്കിംഗ്! #GoogleDoodle"
       },
@@ -783,22 +2280,22 @@
         "share_text": ""
       },
       "mr": {
-        "query": "ब्रेकिंग ऑलिंपिक",
+        "query": null,
         "hover_text": "पॅरिस गेम्समधील ब्रेकिंग",
         "share_text": "पॅरिस गेम्समधील ब्रेकिंग! #GoogleDoodle"
       },
       "mn": {
-        "query": "олимпын брейк бүжиг",
+        "query": null,
         "hover_text": "Парисын наадмын брейк бүжиг",
         "share_text": "Парисын наадмын брейк бүжиг! #GoogleDoodle"
       },
       "ne": {
-        "query": "ब्रेकिङ ओलम्पिक",
+        "query": null,
         "hover_text": "पेरिस गेमअन्तर्गतको ब्रेकिङ",
         "share_text": "पेरिस गेमअन्तर्गतको ब्रेकिङ! #GoogleDoodle"
       },
       "no": {
-        "query": "breakdance-OL",
+        "query": null,
         "hover_text": "Breakdance i Paris-lekene",
         "share_text": "Breakdance i Paris-lekene! #GoogleDoodle"
       },
@@ -823,32 +2320,32 @@
         "share_text": ""
       },
       "fa": {
-        "query": "مسابقات رقص برِیک در بازی‌های المپیک",
+        "query": null,
         "hover_text": "مسابقات رقص برِیک در «بازی‌های پاریس»",
         "share_text": "مسابقات رقص برِیک در «بازی‌های پاریس»! ‎#GoogleDoodle"
       },
       "pl": {
-        "query": "breaking na igrzyskach olimpijskich",
+        "query": null,
         "hover_text": "Breaking na igrzyskach w Paryżu",
         "share_text": "Breaking na igrzyskach w Paryżu #GoogleDoodle"
       },
       "pt-BR": {
-        "query": "Breaking nas Olimpíadas",
+        "query": null,
         "hover_text": "Breaking nos Jogos de Paris",
         "share_text": "Breaking nos Jogos de Paris #GoogleDoodle"
       },
       "pt-PT": {
-        "query": "breaking jogos olímpicos",
+        "query": null,
         "hover_text": "Jogos de Paris – Breaking",
         "share_text": "Jogos de Paris – Breaking! #GoogleDoodle"
       },
       "pa": {
-        "query": "breaking olympics",
+        "query": null,
         "hover_text": "ਪੈਰਿਸ ਖੇਡਾਂ ਵਿੱਚ ਬ੍ਰੇਕਿੰਗ",
         "share_text": "ਪੈਰਿਸ ਖੇਡਾਂ ਵਿੱਚ ਬ੍ਰੇਕਿੰਗ! #GoogleDoodle"
       },
       "ro": {
-        "query": "jocurile olimpice de break dance",
+        "query": null,
         "hover_text": "Breakdance la Jocurile de la Paris",
         "share_text": "Breakdance la Jocurile de la Paris! #GoogleDoodle"
       },
@@ -858,17 +2355,17 @@
         "share_text": ""
       },
       "ru": {
-        "query": "брейкинг на олимпийских играх",
+        "query": null,
         "hover_text": "Брейкинг на Играх в Париже",
         "share_text": "Брейкинг на Играх в Париже #GoogleDoodle"
       },
       "sr": {
-        "query": "брејкденс на олимпијади",
+        "query": null,
         "hover_text": "Брејкденс на Играма у Паризу",
         "share_text": "Брејкденс на Играма у Паризу! #GoogleDoodle"
       },
       "sr-Latn": {
-        "query": "brejkdens na olimpijadi",
+        "query": null,
         "hover_text": "Brejkdens na Igrama u Parizu",
         "share_text": "Brejkdens na Igrama u Parizu! #GoogleDoodle"
       },
@@ -888,17 +2385,17 @@
         "share_text": ""
       },
       "si": {
-        "query": "බිඳීම ඔලිම්පික්",
+        "query": null,
         "hover_text": "පැරිස් ක්‍රීඩා බිඳීම",
         "share_text": "පැරිස් ක්‍රීඩා බිඳීම! #GoogleDoodle"
       },
       "sk": {
-        "query": "Breaking na olympiáde",
+        "query": null,
         "hover_text": "Breaking na hrách v Paríži",
         "share_text": "Breaking na hrách v Paríži. #GoogleDoodle"
       },
       "sl": {
-        "query": "brejking na olimpijskih igrah",
+        "query": null,
         "hover_text": "Brejking na igrah v Parizu",
         "share_text": "Brejking na igrah v Parizu! #GoogleDoodle"
       },
@@ -918,12 +2415,12 @@
         "share_text": "Breaking en los Juegos de París #GoogleDoodle"
       },
       "sw": {
-        "query": "michezo ya olimpiki ya kucheza dansi",
+        "query": null,
         "hover_text": "Michezo ya Paris ya Kucheza Dansi",
         "share_text": "Michezo ya Paris ya Kucheza Dansi! #GoogleDoodle"
       },
       "sv": {
-        "query": "breaking OS",
+        "query": null,
         "hover_text": "Breaking under Parisspelen",
         "share_text": "Breaking under Parisspelen #GoogleDoodle"
       },
@@ -933,17 +2430,17 @@
         "share_text": ""
       },
       "ta": {
-        "query": "பிரேக் டான்சிங் ஒலிம்பிக்ஸ்",
+        "query": null,
         "hover_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் பிரேக் டான்சிங்",
         "share_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் பிரேக் டான்சிங்! #GoogleDoodle"
       },
       "te": {
-        "query": "బ్రేకింగ్ ఒలింపిక్స్",
+        "query": null,
         "hover_text": "ప్యారిస్ గేమ్స్ బ్రేకింగ్",
         "share_text": "ప్యారిస్ గేమ్స్ బ్రేకింగ్! #GoogleDoodle"
       },
       "th": {
-        "query": "กีฬาเบรกแดนซ์โอลิมปิก",
+        "query": null,
         "hover_text": "กีฬาเบรกแดนซ์ที่ปารีสเกมส์",
         "share_text": "กีฬาเบรกแดนซ์ที่ปารีสเกมส์! #GoogleDoodle"
       },
@@ -963,22 +2460,22 @@
         "share_text": ""
       },
       "uk": {
-        "query": "брейкданс на Олімпійських іграх",
+        "query": null,
         "hover_text": "Паризькі ігри: брейкданс",
         "share_text": "Паризькі ігри: брейкданс! #GoogleDoodle"
       },
       "ur": {
-        "query": "بریکنگ اولمپکس",
+        "query": null,
         "hover_text": "پیرس گیمز بریکنگ",
         "share_text": "پیرس گیمز بریکنگ! GoogleDoodle#"
       },
       "uz": {
-        "query": "breyking olimpiada",
+        "query": null,
         "hover_text": "Parij oʻyinlari breyking",
         "share_text": "Parij oʻyinlari breyking! #GoogleDoodle"
       },
       "vi": {
-        "query": "nhảy breaking tại thế vận hội",
+        "query": null,
         "hover_text": "Môn nhảy breaking tại Thế vận hội Paris",
         "share_text": "Môn nhảy breaking tại Thế vận hội Paris! #GoogleDoodle"
       },
@@ -988,7 +2485,7 @@
         "share_text": ""
       },
       "zu": {
-        "query": "ama-olympic ebreaking",
+        "query": null,
         "hover_text": "IBreaking Yamageyimu aseParis",
         "share_text": "IBreaking Yamageyimu aseParis! #GoogleDoodle"
       }
@@ -1516,52 +3013,52 @@
         "share_text": "Paris Games Breaking! #GoogleDoodle"
       },
       "af": {
-        "query": "olimpiese spele van briekdans",
+        "query": null,
         "hover_text": "Parys Spele – Briekdans",
         "share_text": "Parys Spele – Briekdans! #GoogleDoodle"
       },
       "sq": {
-        "query": "kërcimi breakdance në lojërat olimpike",
+        "query": null,
         "hover_text": "Lojërat e Parisit - Kërcim breakdance",
         "share_text": "Kërcimi breakdance në Lojërat e Parisit! #GoogleDoodle"
       },
       "am": {
-        "query": "ሰበር ኦሎምፒክስ",
+        "query": null,
         "hover_text": "የፓሪስ ጨዋታዎች ሰበር",
         "share_text": "የፓሪስ ጨዋታዎች ሰበር! #GoogleDoodle"
       },
       "ar": {
-        "query": "مسابقات رقص البريكنغ في الأولمبياد",
+        "query": null,
         "hover_text": "مسابقات رقص \"البريك دانس\" في ألعاب باريس",
         "share_text": "مسابقات رقص \"البريك دانس\" في ألعاب باريس! ‎#GoogleDoodle"
       },
       "hy": {
-        "query": "բրեյքինգ օլիմպիական խաղերում",
+        "query": null,
         "hover_text": "Բրեյքինգ Փարիզի խաղերում",
         "share_text": "Բրեյքինգ Փարիզի խաղերում #GoogleDoodle"
       },
       "az": {
-        "query": "breyk dans olimpiadası",
+        "query": null,
         "hover_text": "Paris Oyunları breyk dans",
         "share_text": "Paris Oyunları breyk dans! #GoogleDoodle"
       },
       "bn": {
-        "query": "অলিম্পিকে ব্রেকডান্সিং স্পোর্টসের ইভেন্ট",
+        "query": null,
         "hover_text": "প্যারিস গেমসে ব্রেকডান্সিং স্পোর্টসের ইভেন্ট",
         "share_text": "প্যারিস গেমসে ব্রেকডান্সিং স্পোর্টসের ইভেন্ট! #GoogleDoodle"
       },
       "eu": {
-        "query": "breakdancea olinpiar jokoak",
+        "query": null,
         "hover_text": "Parisko Jokoetako breakdancea",
         "share_text": "Parisko Jokoetako breakdancea #GoogleDoodle"
       },
       "be": {
-        "query": "брэйк-данс алімпіяда",
+        "query": null,
         "hover_text": "Гульні ў Парыжы – Брэйк-данс",
         "share_text": "Гульні ў Парыжы – Брэйк-данс! #GoogleDoodle"
       },
       "bs": {
-        "query": "breakdance na olimpijskim igrama",
+        "query": null,
         "hover_text": "Breakdance na igrama u Parizu",
         "share_text": "Breakdance na igrama u Parizu! #GoogleDoodle"
       },
@@ -1571,17 +3068,17 @@
         "share_text": "Paris Games Breaking #GoogleDoodle"
       },
       "bg": {
-        "query": "брейк на Олимпийските игри",
+        "query": null,
         "hover_text": "Брейк на Игрите в Париж",
         "share_text": "Брейк на Игрите в Париж! #GoogleDoodle"
       },
       "my": {
-        "query": "ဘရိတ်ဒန့်ကခြင်း အိုလံပစ်",
+        "query": null,
         "hover_text": "ပဲရစ်ဂိမ်းများ ဘရိတ်ဒန့်ကခြင်း",
         "share_text": "ပဲရစ်ဂိမ်းများ ဘရိတ်ဒန့်ကခြင်း။ #GoogleDoodle"
       },
       "ca": {
-        "query": "breakdance jocs olímpics",
+        "query": null,
         "hover_text": "Breakdance als Jocs de París",
         "share_text": "Breakdance als Jocs de París #GoogleDoodle"
       },
@@ -1596,27 +3093,27 @@
         "share_text": "巴黎賽事霹靂舞項目熱血開賽！#GoogleDoodle"
       },
       "zh-CN": {
-        "query": "霹雳舞奥运项目",
+        "query": null,
         "hover_text": "巴黎运动盛会霹雳舞项目",
         "share_text": "巴黎运动盛会霹雳舞项目！#GoogleDoodle"
       },
       "hr": {
-        "query": "breakdancing na olimpijadi",
+        "query": null,
         "hover_text": "Igre u Parizu – breakdancing",
         "share_text": "Igre u Parizu – breakdancing! #GoogleDoodle"
       },
       "cs": {
-        "query": "olympiáda v breakingu",
+        "query": null,
         "hover_text": "Pařížské hry – breaking",
         "share_text": "Pařížské hry – breakuje se! #GoogleDoodle"
       },
       "da": {
-        "query": "breakdance ved OL",
+        "query": null,
         "hover_text": "Breakdance ved legene i Paris",
         "share_text": "Breakdance ved legene i Paris #GoogleDoodle"
       },
       "nl": {
-        "query": "Breakdance Olympische Spelen",
+        "query": null,
         "hover_text": "Breakdance op de Spelen in Parijs",
         "share_text": "Breakdance op de Spelen in Parijs! #GoogleDoodle"
       },
@@ -1626,22 +3123,22 @@
         "share_text": "Pariisi mängude breiktants! #GoogleDoodle"
       },
       "fi": {
-        "query": "breakdance olympialaiset",
+        "query": null,
         "hover_text": "Breakdance Pariisin kisoissa",
         "share_text": "Breakdance Pariisin kisoissa #GoogleDoodle"
       },
       "fr": {
-        "query": "Breaking aux Jeux olympiques",
+        "query": null,
         "hover_text": "Breaking aux Jeux de Paris",
         "share_text": "Breaking aux Jeux de Paris ! #GoogleDoodle"
       },
       "fr-CA": {
-        "query": "breaking aux Jeux olympiques",
+        "query": null,
         "hover_text": "Le breaking aux Jeux de Paris",
         "share_text": "Le breaking aux Jeux de Paris! #GoogleDoodle"
       },
       "gl": {
-        "query": "breaking nos Xogos Olímpicos",
+        "query": null,
         "hover_text": "Breaking nos Xogos de París",
         "share_text": "Breaking nos Xogos de París! #GoogleDoodle"
       },
@@ -1656,12 +3153,12 @@
         "share_text": "Breaking bei den Sommerspielen in Paris #GoogleDoodle"
       },
       "el": {
-        "query": "breaking στους ολυμπιακούς αγώνες",
+        "query": null,
         "hover_text": "Breaking στους Αγώνες στο Παρίσι",
         "share_text": "Breaking στους Αγώνες στο Παρίσι! #GoogleDoodle"
       },
       "gu": {
-        "query": "બ્રેકિંગ ઑલિમ્પિક",
+        "query": null,
         "hover_text": "પેરિસ ગેમ બ્રેકિંગ",
         "share_text": "પેરિસ ગેમ બ્રેકિંગ! #GoogleDoodle"
       },
@@ -1676,22 +3173,22 @@
         "share_text": "ברייקדאנס במשחקים בפריז GoogleDoodle#"
       },
       "hi": {
-        "query": "ओलंपिक में ब्रेकिंग",
+        "query": null,
         "hover_text": "पेरिस गेम्स में ब्रेकडांस",
         "share_text": "पेरिस गेम्स में ब्रेकडांस! #GoogleDoodle"
       },
       "hu": {
-        "query": "breaktánc olimpia",
+        "query": null,
         "hover_text": "Breaking a párizsi játékokon",
         "share_text": "Breaking a párizsi játékokon. #GoogleDoodle"
       },
       "is": {
-        "query": "breikdans á ólympíuleikunum",
+        "query": null,
         "hover_text": "Parísarleikarnir – Breikdans",
         "share_text": "Parísarleikarnir – Breikdans! #GoogleDoodle"
       },
       "id": {
-        "query": "Olimpiade Breaking",
+        "query": null,
         "hover_text": "Pertandingan Paris - Breaking",
         "share_text": "Pertandingan Paris - Breaking #GoogleDoodle"
       },
@@ -1701,7 +3198,7 @@
         "share_text": ""
       },
       "it": {
-        "query": "Olimpiadi breaking",
+        "query": null,
         "hover_text": "Breaking ai Giochi di Parigi",
         "share_text": "Breaking ai Giochi di Parigi! #GoogleDoodle"
       },
@@ -1711,32 +3208,32 @@
         "share_text": "パリ大会ブレイキング #GoogleDoodle"
       },
       "kn": {
-        "query": "ಬ್ರೇಕಿಂಗ್ ಒಲಿಂಪಿಕ್ಸ್",
+        "query": null,
         "hover_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಬ್ರೇಕಿಂಗ್",
         "share_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಬ್ರೇಕಿಂಗ್! #GoogleDoodle"
       },
       "kk": {
-        "query": "олимпиада брейкинг",
+        "query": null,
         "hover_text": "Париж ойындары – брейкинг",
         "share_text": "Париж ойындары – брейкинг #GoogleDoodle"
       },
       "km": {
-        "query": "ការរាំចាក់ក្បាច់ប្រ៊េកដាន់ស៊ីងក្នុងព្រឹត្តិការណ៍កីឡាអូឡាំពិក",
+        "query": null,
         "hover_text": "ការរាំចាក់ក្បាច់ប្រ៊េកដាន់ស៊ីងក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស",
         "share_text": "ការរាំចាក់ក្បាច់ប្រ៊េកដាន់ស៊ីងក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស! #GoogleDoodle"
       },
       "ko": {
-        "query": "브레이킹 파리 2024",
+        "query": null,
         "hover_text": "파리 2024 브레이킹 종목",
         "share_text": "파리 2024 브레이킹 종목 기념 #GoogleDoodle"
       },
       "ky": {
-        "query": "брейк бийи боюнча олимпиада оюндары",
+        "query": null,
         "hover_text": "Париж оюндары – Брейк бийи",
         "share_text": "Париж оюндары – Брейк бийи! #GoogleDoodle"
       },
       "lo": {
-        "query": "ການເຕັ້ນເບຣກແດນຊ໌ໂອລິມປິກ",
+        "query": null,
         "hover_text": "ການເຕັ້ນເບຣກແດນຊ໌ຢູ່ການແຂ່ງຂັນກິລາໂອລິມປິກປາຣີສ",
         "share_text": "ການເຕັ້ນເບຣກແດນຊ໌ຢູ່ການແຂ່ງຂັນກິລາໂອລິມປິກປາຣີສ! #GoogleDoodle"
       },
@@ -1746,7 +3243,7 @@
         "share_text": "Breakdance en los Juegos de París #GoogleDoodle"
       },
       "lv": {
-        "query": "Breika dejošana — olimpiskās spēles",
+        "query": null,
         "hover_text": "Parīzes spēles — breika dejošana",
         "share_text": "Parīzes spēles — breika dejošana! #GoogleDoodle"
       },
@@ -1756,7 +3253,7 @@
         "share_text": "Breikas Paryžiaus olimpinėse žaidynėse! #GoogleDoodle"
       },
       "mk": {
-        "query": "брејкденс на олимпијада",
+        "query": null,
         "hover_text": "Брејкденс на игрите во Париз",
         "share_text": "Брејкденс на игрите во Париз! #GoogleDoodle"
       },
@@ -1766,12 +3263,12 @@
         "share_text": ""
       },
       "ms": {
-        "query": "olimpik tarian Breakdance",
+        "query": null,
         "hover_text": "Sukan Paris - Tarian Breakdance",
         "share_text": "Sukan Paris - Tarian Breakdance! #GoogleDoodle"
       },
       "ml": {
-        "query": "ബ്രേക്കിംഗ് ഒളിമ്പിക്‌സ്",
+        "query": null,
         "hover_text": "പാരീസ് ഗെയിംസ് ബ്രേക്കിംഗ്",
         "share_text": "പാരീസ് ഗെയിംസ് ബ്രേക്കിംഗ്! #GoogleDoodle"
       },
@@ -1781,22 +3278,22 @@
         "share_text": ""
       },
       "mr": {
-        "query": "ब्रेकिंग ऑलिंपिक",
+        "query": null,
         "hover_text": "पॅरिस गेम्समधील ब्रेकिंग",
         "share_text": "पॅरिस गेम्समधील ब्रेकिंग! #GoogleDoodle"
       },
       "mn": {
-        "query": "олимпын брейк бүжиг",
+        "query": null,
         "hover_text": "Парисын наадмын брейк бүжиг",
         "share_text": "Парисын наадмын брейк бүжиг! #GoogleDoodle"
       },
       "ne": {
-        "query": "ब्रेकिङ ओलम्पिक",
+        "query": null,
         "hover_text": "पेरिस गेमअन्तर्गतको ब्रेकिङ",
         "share_text": "पेरिस गेमअन्तर्गतको ब्रेकिङ! #GoogleDoodle"
       },
       "no": {
-        "query": "breakdance-OL",
+        "query": null,
         "hover_text": "Breakdance i Paris-lekene",
         "share_text": "Breakdance i Paris-lekene! #GoogleDoodle"
       },
@@ -1821,27 +3318,27 @@
         "share_text": ""
       },
       "fa": {
-        "query": "مسابقات رقص برِیک در بازی‌های المپیک",
+        "query": null,
         "hover_text": "مسابقات رقص برِیک در «بازی‌های پاریس»",
         "share_text": "مسابقات رقص برِیک در «بازی‌های پاریس»! ‎#GoogleDoodle"
       },
       "pl": {
-        "query": "breaking na igrzyskach olimpijskich",
+        "query": null,
         "hover_text": "Breaking na igrzyskach w Paryżu",
         "share_text": "Breaking na igrzyskach w Paryżu #GoogleDoodle"
       },
       "pt-BR": {
-        "query": "Breaking nas Olimpíadas",
+        "query": null,
         "hover_text": "Breaking nos Jogos de Paris",
         "share_text": "Breaking nos Jogos de Paris #GoogleDoodle"
       },
       "pt-PT": {
-        "query": "breaking jogos olímpicos",
+        "query": null,
         "hover_text": "Jogos de Paris – Breaking",
         "share_text": "Jogos de Paris – Breaking! #GoogleDoodle"
       },
       "pa": {
-        "query": "breaking olympics",
+        "query": null,
         "hover_text": "ਪੈਰਿਸ ਖੇਡਾਂ ਵਿੱਚ ਬ੍ਰੇਕਿੰਗ",
         "share_text": "ਪੈਰਿਸ ਖੇਡਾਂ ਵਿੱਚ ਬ੍ਰੇਕਿੰਗ! #GoogleDoodle"
       },
@@ -1856,17 +3353,17 @@
         "share_text": ""
       },
       "ru": {
-        "query": "брейкинг на олимпийских играх",
+        "query": null,
         "hover_text": "Брейкинг на Играх в Париже",
         "share_text": "Брейкинг на Играх в Париже #GoogleDoodle"
       },
       "sr": {
-        "query": "брејкденс на олимпијади",
+        "query": null,
         "hover_text": "Брејкденс на Играма у Паризу",
         "share_text": "Брејкденс на Играма у Паризу! #GoogleDoodle"
       },
       "sr-Latn": {
-        "query": "brejkdens na olimpijadi",
+        "query": null,
         "hover_text": "Brejkdens na Igrama u Parizu",
         "share_text": "Brejkdens na Igrama u Parizu! #GoogleDoodle"
       },
@@ -1886,7 +3383,7 @@
         "share_text": ""
       },
       "si": {
-        "query": "බිඳීම ඔලිම්පික්",
+        "query": null,
         "hover_text": "පැරිස් ක්‍රීඩා බිඳීම",
         "share_text": "පැරිස් ක්‍රීඩා බිඳීම! #GoogleDoodle"
       },
@@ -1896,7 +3393,7 @@
         "share_text": "Breaking na hrách v Paríži. #GoogleDoodle"
       },
       "sl": {
-        "query": "brejking na olimpijskih igrah",
+        "query": null,
         "hover_text": "Brejking na igrah v Parizu",
         "share_text": "Brejking na igrah v Parizu! #GoogleDoodle"
       },
@@ -1916,12 +3413,12 @@
         "share_text": "Breaking en los Juegos de París #GoogleDoodle"
       },
       "sw": {
-        "query": "michezo ya olimpiki ya kucheza dansi",
+        "query": null,
         "hover_text": "Michezo ya Paris ya Kucheza Dansi",
         "share_text": "Michezo ya Paris ya Kucheza Dansi! #GoogleDoodle"
       },
       "sv": {
-        "query": "breaking OS",
+        "query": null,
         "hover_text": "Breaking under Parisspelen",
         "share_text": "Breaking under Parisspelen #GoogleDoodle"
       },
@@ -1931,17 +3428,17 @@
         "share_text": ""
       },
       "ta": {
-        "query": "பிரேக் டான்சிங் ஒலிம்பிக்ஸ்",
+        "query": null,
         "hover_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் பிரேக் டான்சிங்",
         "share_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் பிரேக் டான்சிங்! #GoogleDoodle"
       },
       "te": {
-        "query": "బ్రేకింగ్ ఒలింపిక్స్",
+        "query": null,
         "hover_text": "ప్యారిస్ గేమ్స్ బ్రేకింగ్",
         "share_text": "ప్యారిస్ గేమ్స్ బ్రేకింగ్! #GoogleDoodle"
       },
       "th": {
-        "query": "กีฬาเบรกแดนซ์โอลิมปิก",
+        "query": null,
         "hover_text": "กีฬาเบรกแดนซ์ที่ปารีสเกมส์",
         "share_text": "กีฬาเบรกแดนซ์ที่ปารีสเกมส์! #GoogleDoodle"
       },
@@ -1961,22 +3458,22 @@
         "share_text": ""
       },
       "uk": {
-        "query": "брейкданс на Олімпійських іграх",
+        "query": null,
         "hover_text": "Паризькі ігри: брейкданс",
         "share_text": "Паризькі ігри: брейкданс! #GoogleDoodle"
       },
       "ur": {
-        "query": "بریکنگ اولمپکس",
+        "query": null,
         "hover_text": "پیرس گیمز بریکنگ",
         "share_text": "پیرس گیمز بریکنگ! GoogleDoodle#"
       },
       "uz": {
-        "query": "breyking olimpiada",
+        "query": null,
         "hover_text": "Parij oʻyinlari breyking",
         "share_text": "Parij oʻyinlari breyking! #GoogleDoodle"
       },
       "vi": {
-        "query": "nhảy breaking tại thế vận hội",
+        "query": null,
         "hover_text": "Môn nhảy breaking tại Thế vận hội Paris",
         "share_text": "Môn nhảy breaking tại Thế vận hội Paris! #GoogleDoodle"
       },
@@ -1986,7 +3483,7 @@
         "share_text": ""
       },
       "zu": {
-        "query": "ama-olympic ebreaking",
+        "query": null,
         "hover_text": "IBreaking Yamageyimu aseParis",
         "share_text": "IBreaking Yamageyimu aseParis! #GoogleDoodle"
       }
