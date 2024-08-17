@@ -1,5 +1,504 @@
 [
   {
+    "name": "indonesia-independence-day-2024",
+    "title": "Indonesia Independence Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/indonesia-independence-day-2024-6753651837110272-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/kgAp3MoFJLIKe6QQ4E_Bu9c3RGKk77tzb6Mdh-BOFR7BuiNjkJIQNkupg4zajVwSIusMkWTE0lJrXmBNBXKWuMpk3BPbnMPApKglWmrM5hpkIlR6vOz3Og",
+    "high_res_url": "//www.google.com/logos/doodles/2024/indonesia-independence-day-2024-6753651837110272-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2024,
+      8,
+      17
+    ],
+    "translations": {
+      "en": {
+        "query": "Indonesia Independence Day",
+        "hover_text": "Indonesia Independence Day 2024",
+        "share_text": "Happy Independence Day, Indonesia! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Indonesia se onafhanklikheidsdag",
+        "hover_text": "Indonesië se onafhanklikheidsdag 2024",
+        "share_text": "Gelukkige onafhanklikheidsdag, Indonesië! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë e Indonezisë",
+        "hover_text": "Dita e Pavarësisë së Indonezisë, 2024",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Indonezi! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የኢንዶኔዥያ ነጻነት ቀን",
+        "hover_text": "የኢንዶኔዢያ የነፃነት ቀን 2024",
+        "share_text": "መልካም ነጻነት ቀን ኢንዶኔዥያ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال إندونيسيا",
+        "hover_text": "عيد استقلال إندونيسيا 2024",
+        "share_text": "عيد استقلال سعيد لإندونيسيا ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ինդոնեզիայի անկախության օր",
+        "hover_text": "Ինդոնեզիայի անկախության օր 2024",
+        "share_text": "Շնորհավո՛ր անկախության օրը, Ինդոնեզիա #GoogleDoodle"
+      },
+      "az": {
+        "query": "İndoneziyanın Müstəqillik Günü",
+        "hover_text": "2024 İndoneziyanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, İndoneziya! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ইন্দোনেশিয়ার স্বাধীনতা দিবস",
+        "hover_text": "ইন্দোনেশিয়ার স্বাধীনতা দিবস ২০২৪",
+        "share_text": "ইন্দোনেশিয়ার স্বাধীনতা দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Indonesiako Independentzia Eguna",
+        "hover_text": "2024ko Indonesiako Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Indonesia! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Інданезіі",
+        "hover_text": "Дзень незалежнасці Інданезіі 2024",
+        "share_text": "З Днём незалежнасці, Інданезія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Indonezije",
+        "hover_text": "Dan nezavisnosti Indonezije 2024.",
+        "share_text": "Sretan Dan nezavisnosti, Indonezijo! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Indonesia Independence Day",
+        "hover_text": "Indonesia Independence Day 2024",
+        "share_text": "Happy Independence Day, Indonesia! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Индонезия",
+        "hover_text": "Ден на независимостта на Индонезия 2024 г.",
+        "share_text": "Честит Ден на независимостта на Индонезия! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အင်ဒိုနီးရှား လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ အင်ဒိုနီးရှားနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ ဖြစ်ပါစေ၊ အင်ဒိုနီးရှား။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència d'Indonèsia",
+        "hover_text": "Dia de la Independència d'Indonèsia 2024",
+        "share_text": "Feliç Dia de la Independència, Indonèsia! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "印尼獨立日",
+        "hover_text": "2024 年印尼獨立日",
+        "share_text": "印尼獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "印尼獨立紀念日",
+        "hover_text": "2024 年印尼獨立紀念日",
+        "share_text": "印尼，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "印度尼西亚独立日",
+        "hover_text": "2024 年印度尼西亚独立日",
+        "share_text": "印度尼西亚，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Indonezije",
+        "hover_text": "Dan neovisnosti Indonezije 2024.",
+        "share_text": "Sretan Dan neovisnosti, Indonezijo! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Indonésie",
+        "hover_text": "Den nezávislosti Indonésie 2024",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Indonésie! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Indonesiens uafhængighedsdag",
+        "hover_text": "Indonesiens uafhængighedsdag 2024",
+        "share_text": "Glædelig uafhængighedsdag, Indonesien! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Indonesië",
+        "hover_text": "Onafhankelijkheidsdag Indonesië 2024",
+        "share_text": "Fijne Onafhankelijkheidsdag, Indonesië! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Indoneesia iseseisvuspäev",
+        "hover_text": "Indoneesia 2024. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Indoneesia! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Indonesian itsenäisyyspäivä",
+        "hover_text": "Indonesian itsenäisyyspäivä 2024",
+        "share_text": "Hyvää itsenäisyyspäivää, Indonesia! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance de l'Indonésie",
+        "hover_text": "Fête de l'Indépendance de l'Indonésie 2024",
+        "share_text": "Fête de l'Indépendance de l'Indonésie #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance de l'Indonésie",
+        "hover_text": "Fête de l'Indépendance de l'Indonésie 2024",
+        "share_text": "Joyeux jour de l'indépendance de l'Indonésie! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Indonesia",
+        "hover_text": "Día da Independencia de Indonesia 2024",
+        "share_text": "Feliz Día da Independencia, Indonesia! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ინდონეზიის დამოუკიდებლობის დღე",
+        "hover_text": "ინდონეზიის დამოუკიდებლობის დღე — 2024",
+        "share_text": "ვულოცავთ ინდონეზიას დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Indonesien",
+        "hover_text": "Unabhängigkeitstag Indonesien 2024",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Indonesien! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας της Ινδονησίας",
+        "hover_text": "Ημέρα Ανεξαρτησίας της Ινδονησίας 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας της Ινδονησίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ઇન્ડોનેશિયાનો સ્વતંત્રતા દિવસ",
+        "hover_text": "ઇન્ડોનેશિયાનો સ્વતંત્રતા દિવસ 2024",
+        "share_text": "ઇન્ડોનેશિયાના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של אינדונזיה",
+        "hover_text": "יום העצמאות של אינדונזיה 2024",
+        "share_text": "יום עצמאות שמח, אינדונזיה! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "इंडोनेशिया का स्वतंत्रता दिवस",
+        "hover_text": "इंडोनेशिया का स्वतंत्रता दिवस 2024",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, इंडोनेशिया! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Indonézia függetlenségének napja",
+        "hover_text": "Indonézia függetlenségének napja, 2024",
+        "share_text": "Boldog függetlenség napját, Indonézia! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Indónesíu",
+        "hover_text": "Þjóðhátíðardagur Indónesíu 2024",
+        "share_text": "Gleðilegan sjálfstæðisdag, Indónesía! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Indonesia",
+        "hover_text": "Hari Kemerdekaan Indonesia 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Indonesia! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse na hIndinéise",
+        "hover_text": null,
+        "share_text": "Lá Saoirse na hIndinéise faoi mhaise duit. #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza in Indonesia",
+        "hover_text": "Festa dell'indipendenza dell'Indonesia 2024",
+        "share_text": "Buona festa dell'indipendenza, Indonesia! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "インドネシア独立記念日",
+        "hover_text": "2024 年インドネシア独立記念日",
+        "share_text": "インドネシア独立記念日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಇಂಡೋನೇಷ್ಯಾದಲ್ಲಿ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಇಂಡೋನೇಷ್ಯಾದ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಇಂಡೋನೇಷ್ಯಾ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Индонезияның Тәуелсіздік күні",
+        "hover_text": "Индонезияның Тәуелсіздік күні – 2024",
+        "share_text": "Тәуелсіздік күні құтты болсын, Индонезия! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យឯករាជ្យជាតិឥណ្ឌូណេស៊ី",
+        "hover_text": "ទិវាបុណ្យឯករាជ្យជាតិឥណ្ឌូណេស៊ីឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវាបុណ្យ​ឯករាជ្យជាតិឥណ្ឌូណេស៊ី! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "인도네시아 독립기념일",
+        "hover_text": "2024년 인도네시아 독립기념일",
+        "share_text": "인도네시아 독립기념일 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Индонезиянын Эгемендүүлүк күнү",
+        "hover_text": "Индонезиянын Эгемендүүлүк күнү — 2024",
+        "share_text": "Эгемендүүлүк күнүң менен, Индонезия! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດອິນໂດນີເຊຍ",
+        "hover_text": "ວັນປະກາດເອກະລາດອິນໂດເນເຊຍ 2024",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດ, ອິນໂດນີເຊຍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Indonesia",
+        "hover_text": "Día de la Independencia de Indonesia 2024",
+        "share_text": "¡Feliz Día de la Independencia de Indonesia! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Indonēzijas neatkarības diena",
+        "hover_text": "Indonēzijas Neatkarības diena — 2024",
+        "share_text": "Sveicam neatkarības dienā, Indonēzija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Indonezijos nepriklausomybės diena",
+        "hover_text": "Indonezijos nepriklausomybės diena, 2024 m.",
+        "share_text": "Sveikiname Indoneziją su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Индонезија",
+        "hover_text": "Ден на независноста на Индонезија, 2024 г.",
+        "share_text": "Среќен Ден на независноста, Индонезија! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Indonezia",
+        "hover_text": null,
+        "share_text": "Tsarà fetin'ny fahaleovantena ry Indonezia ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Indonesia",
+        "hover_text": "Hari Kemerdekaan Indonesia 2024",
+        "share_text": "Selamat Menyambut Hari Kemerdekaan, Indonesia! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഇന്തോനേഷ്യൻ സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "ഇന്തോനേഷ്യൻ സ്വാതന്ത്ര്യദിനം 2024",
+        "share_text": "സ്വാതന്ത്ര്യ ദിനാശംസകൾ, ഇന്തോനേഷ്യ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "इंडोनेशियाचा स्वातंत्र्यदिन",
+        "hover_text": "इंडोनेशियाचा स्वातंत्र्यदिन २०२४",
+        "share_text": "इंडोनेशियाला स्वातंत्र्यदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Индонез улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2024 оны Индонезийн Тусгаар тогтнолын өдөр",
+        "share_text": "Индонез улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "इन्डोनेसियाको स्वतन्त्रता दिवस",
+        "hover_text": "इन्डोनेसियाको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, इन्डोनेसिया! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Indonesias frigjøringsdag",
+        "hover_text": "Indonesias frigjøringsdag 2024",
+        "share_text": "Gratulerer med frigjøringsdagen, Indonesia! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଇଣ୍ଡୋନେସିଆର ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": null,
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, ଇଣ୍ଡୋନେସିଆ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال اندونزی",
+        "hover_text": "روز استقلال ۲۰۲۴ اندونزی",
+        "share_text": "روز استقلال اندونزی مبارک! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Niepodległości Indonezji",
+        "hover_text": "Dzień Niepodległości Indonezji 2024",
+        "share_text": "Indonezja obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência da Indonésia",
+        "hover_text": "Dia da Independência da Indonésia 2024",
+        "share_text": "Feliz Dia da Independência, Indonésia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência da Indonésia",
+        "hover_text": "Dia da Independência da Indonésia de 2024",
+        "share_text": "Feliz dia da independência, Indonésia! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਇੰਡੋਨੇਸ਼ੀਆ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ",
+        "hover_text": "ਇੰਡੋਨੇਸ਼ੀਆ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2024",
+        "share_text": "ਇੰਡੋਨੇਸ਼ੀਆ ਦੇ ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței Indoneziei",
+        "hover_text": "Ziua Independenței Indoneziei – 2024",
+        "share_text": "La mulți ani de Ziua Independenței, Indonezia! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Индонезии",
+        "hover_text": "День независимости Индонезии – 2024",
+        "share_text": "День независимости Индонезии #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Индонезије",
+        "hover_text": "Дан независности Индонезије 2024.",
+        "share_text": "Честитамо Дан независности Индонезији! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Indonezije",
+        "hover_text": "Dan nezavisnosti Indonezije 2024.",
+        "share_text": "Čestitamo Dan nezavisnosti Indoneziji! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepandans Lendonezi",
+        "hover_text": null,
+        "share_text": "Bonn zournen lendepadans, Lendonezi! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ඉන්දුනීසියාවේ නිදහස් දිනය",
+        "hover_text": "ඉන්දුනීසියාවේ නිදහස් දිනය 2024",
+        "share_text": "ශුභ නිදහස් දිනයක්, ඉන්දුනීසියාව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Indonézie",
+        "hover_text": "Deň nezávislosti Indonézie 2024",
+        "share_text": "Šťastný deň nezávislosti, Indonézia! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Indonezijski dan neodvisnosti",
+        "hover_text": "Dan neodvisnosti Indonezije 2024",
+        "share_text": "Vesel dan neodvisnosti, Indonezija. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madax banaanida Indooniisiya",
+        "hover_text": null,
+        "share_text": "Maalinta Madax banaanida Farxada leh, Indooniisiya! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la Indonesia",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Tokoloho la Indonesia! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Indonesia",
+        "hover_text": "Día de la Independencia de Indonesia 2024",
+        "share_text": "¡Feliz Día de la Independencia de Indonesia! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Indonesia",
+        "hover_text": "Sikukuu ya Uhuru wa Indonesia 2024",
+        "share_text": "Heri za Sikukuu ya Uhuru, Indonesia! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Indonesiens självständighetsdag",
+        "hover_text": "Indonesiens självständighetsdag 2024",
+        "share_text": "Vi firar Indonesiens självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "இந்தோனேஷியாவின் சுதந்திர தினம்",
+        "hover_text": "இந்தோனேசியாவின் சுதந்திர தினம் 2024",
+        "share_text": "இந்தோனேஷியாவின் சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఇండోనేషియా స్వాతంత్ర్య దినోత్సవం",
+        "hover_text": "ఇండోనేషియా స్వాతంత్య్ర దినోత్సవం 2024",
+        "share_text": "స్వాతంత్ర్య దినోత్సవ శుభాకాంక్షలు, ఇండోనేషియా! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของอินโดนีเซีย",
+        "hover_text": "วันประกาศอิสรภาพของอินโดนีเซียปี 2024",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของอินโดนีเซีย #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Indonesi",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, Indonesia! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Endonezya Bağımsızlık Günü",
+        "hover_text": "2024 Endonezya Bağımsızlık Günü",
+        "share_text": "Endonezya Bağımsızlık Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Індонезії",
+        "hover_text": "День незалежності Індонезії у 2024 році",
+        "share_text": "З Днем незалежності, Індонезіє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "انڈونیشیا کا یوم آزادی",
+        "hover_text": "انڈونیشیا کا یوم آزادی 2024",
+        "share_text": "انڈونیشیا کا یوم آزادی مبارک! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Indoneziya mustaqillik kuni",
+        "hover_text": "Indoneziya Mustaqillik kuni 2024",
+        "share_text": "Mustaqillik kuning muborak, Indoneziya! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Indonesia",
+        "hover_text": "Ngày Quốc khánh Indonesia năm 2024",
+        "share_text": "Chúc mừng Ngày quốc khánh Indonesia! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lokuzimela lwase-Indonesia",
+        "hover_text": "Usuku Lokuzimela lwase-Indonesia lwango-2024",
+        "share_text": "Sinifisela usuku oluhle lokuzimela, Indonesia! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Indonesia Independence Day",
+    "share_text": "Happy Independence Day, Indonesia! #GoogleDoodle"
+  },
+  {
     "name": "india-independence-day-2024",
     "title": "India Independence Day 2024",
     "url": "//www.google.com/logos/doodles/2024/india-independence-day-2024-6753651837110270.3-l.png",
@@ -3512,7 +4011,7 @@
         "share_text": "Paris Games Breaking! #GoogleDoodle"
       },
       "af": {
-        "query": null,
+        "query": "olimpiese spele van briekdans 2024",
         "hover_text": "Parys Spele – Briekdans",
         "share_text": "Parys Spele – Briekdans! #GoogleDoodle"
       },
@@ -3527,7 +4026,7 @@
         "share_text": "የፓሪስ ጨዋታዎች ሰበር! #GoogleDoodle"
       },
       "ar": {
-        "query": null,
+        "query": "مسابقات رقص البريكنغ في الألعاب الأولمبية 2024",
         "hover_text": "مسابقات رقص \"البريك دانس\" في ألعاب باريس",
         "share_text": "مسابقات رقص \"البريك دانس\" في ألعاب باريس! ‎#GoogleDoodle"
       },
@@ -3542,7 +4041,7 @@
         "share_text": "Paris Oyunları breyk dans! #GoogleDoodle"
       },
       "bn": {
-        "query": null,
+        "query": "অলিম্পিকে ব্রেকডান্সিং স্পোর্টসের ইভেন্ট ২০২৪",
         "hover_text": "প্যারিস গেমসে ব্রেকডান্সিং স্পোর্টসের ইভেন্ট",
         "share_text": "প্যারিস গেমসে ব্রেকডান্সিং স্পোর্টসের ইভেন্ট! #GoogleDoodle"
       },
@@ -3557,7 +4056,7 @@
         "share_text": "Гульні ў Парыжы – Брэйк-данс! #GoogleDoodle"
       },
       "bs": {
-        "query": null,
+        "query": "breakdancing na olimpijadi 2024.",
         "hover_text": "Breakdance na igrama u Parizu",
         "share_text": "Breakdance na igrama u Parizu! #GoogleDoodle"
       },
@@ -3567,7 +4066,7 @@
         "share_text": "Paris Games Breaking #GoogleDoodle"
       },
       "bg": {
-        "query": null,
+        "query": "брейк на Олимпийските игри 2024 г.",
         "hover_text": "Брейк на Игрите в Париж",
         "share_text": "Брейк на Игрите в Париж! #GoogleDoodle"
       },
@@ -3577,7 +4076,7 @@
         "share_text": "ပဲရစ်ဂိမ်းများ ဘရိတ်ဒန့်ကခြင်း။ #GoogleDoodle"
       },
       "ca": {
-        "query": null,
+        "query": "breakdance jocs olímpics 2024",
         "hover_text": "Breakdance als Jocs de París",
         "share_text": "Breakdance als Jocs de París #GoogleDoodle"
       },
@@ -3592,17 +4091,17 @@
         "share_text": "巴黎賽事霹靂舞項目熱血開賽！#GoogleDoodle"
       },
       "zh-CN": {
-        "query": null,
+        "query": "2024 年霹雳舞奥运项目",
         "hover_text": "巴黎运动盛会霹雳舞项目",
         "share_text": "巴黎运动盛会霹雳舞项目！#GoogleDoodle"
       },
       "hr": {
-        "query": null,
+        "query": "breakdancing na olimpijadi 2024.",
         "hover_text": "Igre u Parizu – breakdancing",
         "share_text": "Igre u Parizu – breakdancing! #GoogleDoodle"
       },
       "cs": {
-        "query": null,
+        "query": "breaking na olympiádě 2024",
         "hover_text": "Pařížské hry – breaking",
         "share_text": "Pařížské hry – breakuje se! #GoogleDoodle"
       },
@@ -3612,7 +4111,7 @@
         "share_text": "Breakdance ved legene i Paris #GoogleDoodle"
       },
       "nl": {
-        "query": null,
+        "query": "Breakdance Olympische Spelen 2024",
         "hover_text": "Breakdance op de Spelen in Parijs",
         "share_text": "Breakdance op de Spelen in Parijs! #GoogleDoodle"
       },
@@ -3632,17 +4131,17 @@
         "share_text": "Breaking aux Jeux de Paris ! #GoogleDoodle"
       },
       "fr-CA": {
-        "query": null,
+        "query": "breaking aux Jeux olympiques 2024",
         "hover_text": "Le breaking aux Jeux de Paris",
         "share_text": "Le breaking aux Jeux de Paris! #GoogleDoodle"
       },
       "gl": {
-        "query": null,
+        "query": "breaking nos Xogos Olímpicos 2024",
         "hover_text": "Breaking nos Xogos de París",
         "share_text": "Breaking nos Xogos de París! #GoogleDoodle"
       },
       "ka": {
-        "query": null,
+        "query": "ბრეიკი ოლიმპიადაზე 2024",
         "hover_text": "ბრეიკი პარიზის თამაშებზე",
         "share_text": "ბრეიკი პარიზის თამაშებზე! #GoogleDoodle"
       },
@@ -3652,12 +4151,12 @@
         "share_text": "Breaking bei den Sommerspielen in Paris #GoogleDoodle"
       },
       "el": {
-        "query": null,
+        "query": "breaking στους αγώνες 2024",
         "hover_text": "Breaking στους Αγώνες στο Παρίσι",
         "share_text": "Breaking στους Αγώνες στο Παρίσι! #GoogleDoodle"
       },
       "gu": {
-        "query": null,
+        "query": "બ્રેકિંગ ઑલિમ્પિક 2024",
         "hover_text": "પેરિસ ગેમ બ્રેકિંગ",
         "share_text": "પેરિસ ગેમ બ્રેકિંગ! #GoogleDoodle"
       },
@@ -3677,7 +4176,7 @@
         "share_text": "पेरिस गेम्स में ब्रेकडांस! #GoogleDoodle"
       },
       "hu": {
-        "query": null,
+        "query": "breaktánc olimpia 2024",
         "hover_text": "Breaking a párizsi játékokon",
         "share_text": "Breaking a párizsi játékokon. #GoogleDoodle"
       },
@@ -3687,7 +4186,7 @@
         "share_text": "Parísarleikarnir – Breikdans! #GoogleDoodle"
       },
       "id": {
-        "query": null,
+        "query": "olimpiade breaking 2024",
         "hover_text": "Pertandingan Paris - Breaking",
         "share_text": "Pertandingan Paris - Breaking #GoogleDoodle"
       },
@@ -3697,7 +4196,7 @@
         "share_text": ""
       },
       "it": {
-        "query": null,
+        "query": "Olimpiadi breaking 2024",
         "hover_text": "Breaking ai Giochi di Parigi",
         "share_text": "Breaking ai Giochi di Parigi! #GoogleDoodle"
       },
@@ -3712,7 +4211,7 @@
         "share_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಬ್ರೇಕಿಂಗ್! #GoogleDoodle"
       },
       "kk": {
-        "query": null,
+        "query": "олимпиада брейкданс – 2024",
         "hover_text": "Париж ойындары – брейкинг",
         "share_text": "Париж ойындары – брейкинг #GoogleDoodle"
       },
@@ -3722,17 +4221,17 @@
         "share_text": "ការរាំចាក់ក្បាច់ប្រ៊េកដាន់ស៊ីងក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស! #GoogleDoodle"
       },
       "ko": {
-        "query": null,
+        "query": "브레이킹 파리 2024",
         "hover_text": "파리 2024 브레이킹 종목",
         "share_text": "파리 2024 브레이킹 종목 기념 #GoogleDoodle"
       },
       "ky": {
-        "query": null,
+        "query": "брейк бийи боюнча олимпиада оюндары — 2024",
         "hover_text": "Париж оюндары – Брейк бийи",
         "share_text": "Париж оюндары – Брейк бийи! #GoogleDoodle"
       },
       "lo": {
-        "query": null,
+        "query": "ການເຕັ້ນເບຣກແດນຊ໌ໂອລິມປິກ 2024",
         "hover_text": "ການເຕັ້ນເບຣກແດນຊ໌ຢູ່ການແຂ່ງຂັນກິລາໂອລິມປິກປາຣີສ",
         "share_text": "ການເຕັ້ນເບຣກແດນຊ໌ຢູ່ການແຂ່ງຂັນກິລາໂອລິມປິກປາຣີສ! #GoogleDoodle"
       },
@@ -3752,7 +4251,7 @@
         "share_text": "Breikas Paryžiaus olimpinėse žaidynėse! #GoogleDoodle"
       },
       "mk": {
-        "query": null,
+        "query": "брејкденс на олимпијада, 2024 г.",
         "hover_text": "Брејкденс на игрите во Париз",
         "share_text": "Брејкденс на игрите во Париз! #GoogleDoodle"
       },
@@ -3787,7 +4286,7 @@
         "share_text": "Парисын наадмын брейк бүжиг! #GoogleDoodle"
       },
       "ne": {
-        "query": null,
+        "query": "ब्रेकिङ ओलम्पिक २०२४",
         "hover_text": "पेरिस गेमअन्तर्गतको ब्रेकिङ",
         "share_text": "पेरिस गेमअन्तर्गतको ब्रेकिङ! #GoogleDoodle"
       },
@@ -3817,7 +4316,7 @@
         "share_text": ""
       },
       "fa": {
-        "query": null,
+        "query": "breaking olympics 2024",
         "hover_text": "مسابقات رقص برِیک در «بازی‌های پاریس»",
         "share_text": "مسابقات رقص برِیک در «بازی‌های پاریس»! ‎#GoogleDoodle"
       },
@@ -3827,7 +4326,7 @@
         "share_text": "Breaking na igrzyskach w Paryżu #GoogleDoodle"
       },
       "pt-BR": {
-        "query": null,
+        "query": "breaking nas olimpíadas 2024",
         "hover_text": "Breaking nos Jogos de Paris",
         "share_text": "Breaking nos Jogos de Paris #GoogleDoodle"
       },
@@ -3842,7 +4341,7 @@
         "share_text": "ਪੈਰਿਸ ਖੇਡਾਂ ਵਿੱਚ ਬ੍ਰੇਕਿੰਗ! #GoogleDoodle"
       },
       "ro": {
-        "query": null,
+        "query": "jocurile de break dance 2024",
         "hover_text": "Breakdance la Jocurile de la Paris",
         "share_text": "Breakdance la Jocurile de la Paris! #GoogleDoodle"
       },
@@ -3852,7 +4351,7 @@
         "share_text": ""
       },
       "ru": {
-        "query": null,
+        "query": "брейкинг на олимпийских играх 2024",
         "hover_text": "Брейкинг на Играх в Париже",
         "share_text": "Брейкинг на Играх в Париже #GoogleDoodle"
       },
@@ -3887,12 +4386,12 @@
         "share_text": "පැරිස් ක්‍රීඩා බිඳීම! #GoogleDoodle"
       },
       "sk": {
-        "query": null,
+        "query": "breaking na olympiáde 2024",
         "hover_text": "Breaking na hrách v Paríži",
         "share_text": "Breaking na hrách v Paríži. #GoogleDoodle"
       },
       "sl": {
-        "query": null,
+        "query": "brejking na olimpijskih igrah 2024",
         "hover_text": "Brejking na igrah v Parizu",
         "share_text": "Brejking na igrah v Parizu! #GoogleDoodle"
       },
@@ -3917,7 +4416,7 @@
         "share_text": "Michezo ya Paris ya Kucheza Dansi! #GoogleDoodle"
       },
       "sv": {
-        "query": null,
+        "query": "breaking OS 2024",
         "hover_text": "Breaking under Parisspelen",
         "share_text": "Breaking under Parisspelen #GoogleDoodle"
       },
@@ -3927,7 +4426,7 @@
         "share_text": ""
       },
       "ta": {
-        "query": null,
+        "query": "பிரேக் டான்சிங் ஒலிம்பிக்ஸ் 2024",
         "hover_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் பிரேக் டான்சிங்",
         "share_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் பிரேக் டான்சிங்! #GoogleDoodle"
       },
@@ -3962,7 +4461,7 @@
         "share_text": "Паризькі ігри: брейкданс! #GoogleDoodle"
       },
       "ur": {
-        "query": null,
+        "query": "بریکنگ اولمپکس 2024",
         "hover_text": "پیرس گیمز بریکنگ",
         "share_text": "پیرس گیمز بریکنگ! GoogleDoodle#"
       },
@@ -3972,7 +4471,7 @@
         "share_text": "Parij oʻyinlari breyking! #GoogleDoodle"
       },
       "vi": {
-        "query": null,
+        "query": "nhảy breaking thế vận hội 2024",
         "hover_text": "Môn nhảy breaking tại Thế vận hội Paris",
         "share_text": "Môn nhảy breaking tại Thế vận hội Paris! #GoogleDoodle"
       },
@@ -3982,7 +4481,7 @@
         "share_text": ""
       },
       "zu": {
-        "query": null,
+        "query": "breaking olympics 2024",
         "hover_text": "IBreaking Yamageyimu aseParis",
         "share_text": "IBreaking Yamageyimu aseParis! #GoogleDoodle"
       }
@@ -4510,7 +5009,7 @@
         "share_text": "Paris Games Breaking! #GoogleDoodle"
       },
       "af": {
-        "query": null,
+        "query": "olimpiese spele van briekdans 2024",
         "hover_text": "Parys Spele – Briekdans",
         "share_text": "Parys Spele – Briekdans! #GoogleDoodle"
       },
@@ -4525,7 +5024,7 @@
         "share_text": "የፓሪስ ጨዋታዎች ሰበር! #GoogleDoodle"
       },
       "ar": {
-        "query": null,
+        "query": "مسابقات رقص البريكنغ في الألعاب الأولمبية 2024",
         "hover_text": "مسابقات رقص \"البريك دانس\" في ألعاب باريس",
         "share_text": "مسابقات رقص \"البريك دانس\" في ألعاب باريس! ‎#GoogleDoodle"
       },
@@ -4540,7 +5039,7 @@
         "share_text": "Paris Oyunları breyk dans! #GoogleDoodle"
       },
       "bn": {
-        "query": null,
+        "query": "অলিম্পিকে ব্রেকডান্সিং স্পোর্টসের ইভেন্ট ২০২৪",
         "hover_text": "প্যারিস গেমসে ব্রেকডান্সিং স্পোর্টসের ইভেন্ট",
         "share_text": "প্যারিস গেমসে ব্রেকডান্সিং স্পোর্টসের ইভেন্ট! #GoogleDoodle"
       },
@@ -4555,7 +5054,7 @@
         "share_text": "Гульні ў Парыжы – Брэйк-данс! #GoogleDoodle"
       },
       "bs": {
-        "query": null,
+        "query": "breakdancing na olimpijadi 2024.",
         "hover_text": "Breakdance na igrama u Parizu",
         "share_text": "Breakdance na igrama u Parizu! #GoogleDoodle"
       },
@@ -4565,7 +5064,7 @@
         "share_text": "Paris Games Breaking #GoogleDoodle"
       },
       "bg": {
-        "query": null,
+        "query": "брейк на Олимпийските игри 2024 г.",
         "hover_text": "Брейк на Игрите в Париж",
         "share_text": "Брейк на Игрите в Париж! #GoogleDoodle"
       },
@@ -4575,7 +5074,7 @@
         "share_text": "ပဲရစ်ဂိမ်းများ ဘရိတ်ဒန့်ကခြင်း။ #GoogleDoodle"
       },
       "ca": {
-        "query": null,
+        "query": "breakdance jocs olímpics 2024",
         "hover_text": "Breakdance als Jocs de París",
         "share_text": "Breakdance als Jocs de París #GoogleDoodle"
       },
@@ -4590,17 +5089,17 @@
         "share_text": "巴黎賽事霹靂舞項目熱血開賽！#GoogleDoodle"
       },
       "zh-CN": {
-        "query": null,
+        "query": "2024 年霹雳舞奥运项目",
         "hover_text": "巴黎运动盛会霹雳舞项目",
         "share_text": "巴黎运动盛会霹雳舞项目！#GoogleDoodle"
       },
       "hr": {
-        "query": null,
+        "query": "breakdancing na olimpijadi 2024.",
         "hover_text": "Igre u Parizu – breakdancing",
         "share_text": "Igre u Parizu – breakdancing! #GoogleDoodle"
       },
       "cs": {
-        "query": null,
+        "query": "breaking na olympiádě 2024",
         "hover_text": "Pařížské hry – breaking",
         "share_text": "Pařížské hry – breakuje se! #GoogleDoodle"
       },
@@ -4610,7 +5109,7 @@
         "share_text": "Breakdance ved legene i Paris #GoogleDoodle"
       },
       "nl": {
-        "query": null,
+        "query": "Breakdance Olympische Spelen 2024",
         "hover_text": "Breakdance op de Spelen in Parijs",
         "share_text": "Breakdance op de Spelen in Parijs! #GoogleDoodle"
       },
@@ -4625,17 +5124,17 @@
         "share_text": "Breakdance Pariisin kisoissa #GoogleDoodle"
       },
       "fr": {
-        "query": null,
+        "query": "breaking aux jeux olympiques 2024",
         "hover_text": "Breaking aux Jeux de Paris",
         "share_text": "Breaking aux Jeux de Paris ! #GoogleDoodle"
       },
       "fr-CA": {
-        "query": null,
+        "query": "breaking aux Jeux olympiques 2024",
         "hover_text": "Le breaking aux Jeux de Paris",
         "share_text": "Le breaking aux Jeux de Paris! #GoogleDoodle"
       },
       "gl": {
-        "query": null,
+        "query": "breaking nos Xogos Olímpicos 2024",
         "hover_text": "Breaking nos Xogos de París",
         "share_text": "Breaking nos Xogos de París! #GoogleDoodle"
       },
@@ -4650,12 +5149,12 @@
         "share_text": "Breaking bei den Sommerspielen in Paris #GoogleDoodle"
       },
       "el": {
-        "query": null,
+        "query": "breaking στους αγώνες 2024",
         "hover_text": "Breaking στους Αγώνες στο Παρίσι",
         "share_text": "Breaking στους Αγώνες στο Παρίσι! #GoogleDoodle"
       },
       "gu": {
-        "query": null,
+        "query": "બ્રેકિંગ ઑલિમ્પિક 2024",
         "hover_text": "પેરિસ ગેમ બ્રેકિંગ",
         "share_text": "પેરિસ ગેમ બ્રેકિંગ! #GoogleDoodle"
       },
@@ -4675,7 +5174,7 @@
         "share_text": "पेरिस गेम्स में ब्रेकडांस! #GoogleDoodle"
       },
       "hu": {
-        "query": null,
+        "query": "breaktánc olimpia 2024",
         "hover_text": "Breaking a párizsi játékokon",
         "share_text": "Breaking a párizsi játékokon. #GoogleDoodle"
       },
@@ -4685,7 +5184,7 @@
         "share_text": "Parísarleikarnir – Breikdans! #GoogleDoodle"
       },
       "id": {
-        "query": null,
+        "query": "olimpiade breaking 2024",
         "hover_text": "Pertandingan Paris - Breaking",
         "share_text": "Pertandingan Paris - Breaking #GoogleDoodle"
       },
@@ -4695,7 +5194,7 @@
         "share_text": ""
       },
       "it": {
-        "query": null,
+        "query": "Olimpiadi breaking 2024",
         "hover_text": "Breaking ai Giochi di Parigi",
         "share_text": "Breaking ai Giochi di Parigi! #GoogleDoodle"
       },
@@ -4710,7 +5209,7 @@
         "share_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಬ್ರೇಕಿಂಗ್! #GoogleDoodle"
       },
       "kk": {
-        "query": null,
+        "query": "олимпиада брейкданс – 2024",
         "hover_text": "Париж ойындары – брейкинг",
         "share_text": "Париж ойындары – брейкинг #GoogleDoodle"
       },
@@ -4720,17 +5219,17 @@
         "share_text": "ការរាំចាក់ក្បាច់ប្រ៊េកដាន់ស៊ីងក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស! #GoogleDoodle"
       },
       "ko": {
-        "query": null,
+        "query": "브레이킹 파리 2024",
         "hover_text": "파리 2024 브레이킹 종목",
         "share_text": "파리 2024 브레이킹 종목 기념 #GoogleDoodle"
       },
       "ky": {
-        "query": null,
+        "query": "брейк бийи боюнча олимпиада оюндары — 2024",
         "hover_text": "Париж оюндары – Брейк бийи",
         "share_text": "Париж оюндары – Брейк бийи! #GoogleDoodle"
       },
       "lo": {
-        "query": null,
+        "query": "ການເຕັ້ນເບຣກແດນຊ໌ໂອລິມປິກ 2024",
         "hover_text": "ການເຕັ້ນເບຣກແດນຊ໌ຢູ່ການແຂ່ງຂັນກິລາໂອລິມປິກປາຣີສ",
         "share_text": "ການເຕັ້ນເບຣກແດນຊ໌ຢູ່ການແຂ່ງຂັນກິລາໂອລິມປິກປາຣີສ! #GoogleDoodle"
       },
@@ -4750,7 +5249,7 @@
         "share_text": "Breikas Paryžiaus olimpinėse žaidynėse! #GoogleDoodle"
       },
       "mk": {
-        "query": null,
+        "query": "брејкденс на олимпијада, 2024 г.",
         "hover_text": "Брејкденс на игрите во Париз",
         "share_text": "Брејкденс на игрите во Париз! #GoogleDoodle"
       },
@@ -4785,7 +5284,7 @@
         "share_text": "Парисын наадмын брейк бүжиг! #GoogleDoodle"
       },
       "ne": {
-        "query": null,
+        "query": "ब्रेकिङ ओलम्पिक २०२४",
         "hover_text": "पेरिस गेमअन्तर्गतको ब्रेकिङ",
         "share_text": "पेरिस गेमअन्तर्गतको ब्रेकिङ! #GoogleDoodle"
       },
@@ -4815,7 +5314,7 @@
         "share_text": ""
       },
       "fa": {
-        "query": null,
+        "query": "breaking olympics 2024",
         "hover_text": "مسابقات رقص برِیک در «بازی‌های پاریس»",
         "share_text": "مسابقات رقص برِیک در «بازی‌های پاریس»! ‎#GoogleDoodle"
       },
@@ -4825,7 +5324,7 @@
         "share_text": "Breaking na igrzyskach w Paryżu #GoogleDoodle"
       },
       "pt-BR": {
-        "query": null,
+        "query": "breaking nas olimpíadas 2024",
         "hover_text": "Breaking nos Jogos de Paris",
         "share_text": "Breaking nos Jogos de Paris #GoogleDoodle"
       },
@@ -4850,7 +5349,7 @@
         "share_text": ""
       },
       "ru": {
-        "query": null,
+        "query": "брейкинг на олимпийских играх 2024",
         "hover_text": "Брейкинг на Играх в Париже",
         "share_text": "Брейкинг на Играх в Париже #GoogleDoodle"
       },
@@ -4890,7 +5389,7 @@
         "share_text": "Breaking na hrách v Paríži. #GoogleDoodle"
       },
       "sl": {
-        "query": null,
+        "query": "brejking na olimpijskih igrah 2024",
         "hover_text": "Brejking na igrah v Parizu",
         "share_text": "Brejking na igrah v Parizu! #GoogleDoodle"
       },
@@ -4915,7 +5414,7 @@
         "share_text": "Michezo ya Paris ya Kucheza Dansi! #GoogleDoodle"
       },
       "sv": {
-        "query": null,
+        "query": "breaking OS 2024",
         "hover_text": "Breaking under Parisspelen",
         "share_text": "Breaking under Parisspelen #GoogleDoodle"
       },
@@ -4925,7 +5424,7 @@
         "share_text": ""
       },
       "ta": {
-        "query": null,
+        "query": "பிரேக் டான்சிங் ஒலிம்பிக்ஸ் 2024",
         "hover_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் பிரேக் டான்சிங்",
         "share_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் பிரேக் டான்சிங்! #GoogleDoodle"
       },
@@ -4960,7 +5459,7 @@
         "share_text": "Паризькі ігри: брейкданс! #GoogleDoodle"
       },
       "ur": {
-        "query": null,
+        "query": "بریکنگ اولمپکس 2024",
         "hover_text": "پیرس گیمز بریکنگ",
         "share_text": "پیرس گیمز بریکنگ! GoogleDoodle#"
       },
@@ -4970,7 +5469,7 @@
         "share_text": "Parij oʻyinlari breyking! #GoogleDoodle"
       },
       "vi": {
-        "query": null,
+        "query": "nhảy breaking thế vận hội 2024",
         "hover_text": "Môn nhảy breaking tại Thế vận hội Paris",
         "share_text": "Môn nhảy breaking tại Thế vận hội Paris! #GoogleDoodle"
       },
@@ -4980,7 +5479,7 @@
         "share_text": ""
       },
       "zu": {
-        "query": null,
+        "query": "breaking olympics 2024",
         "hover_text": "IBreaking Yamageyimu aseParis",
         "share_text": "IBreaking Yamageyimu aseParis! #GoogleDoodle"
       }
