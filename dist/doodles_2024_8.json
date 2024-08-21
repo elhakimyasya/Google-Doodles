@@ -1,5 +1,504 @@
 [
   {
+    "name": "celebrating-rendang",
+    "title": "Celebrating Rendang",
+    "url": "//www.google.com/logos/doodles/2024/celebrating-rendang-6753651837110275-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/S25hahWQt4LP64N3_KHEcgLFKUbXqxlffBr37nDWEndsCHBbhHQdOkqqhQ9-dCluwrufIeFQ76MWlrR-PkEiYXQQgDdv6vPsYaxeMu9-VbHzGcKtl5mduLk",
+    "high_res_url": "//www.google.com/logos/doodles/2024/celebrating-rendang-6753651837110275-2x.png",
+    "high_res_width": 924,
+    "high_res_height": 440,
+    "run_date_array": [
+      2024,
+      8,
+      21
+    ],
+    "translations": {
+      "en": {
+        "query": "Rendang",
+        "hover_text": "Celebrating Rendang",
+        "share_text": "Celebrating Rendang! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Rendang",
+        "hover_text": "Ter viering van Rendang",
+        "share_text": "Ter viering van Rendang! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Rendang",
+        "hover_text": "Përkujtojmë Rendang",
+        "share_text": "Përkujtojmë Rendang! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ሬንዳንግ",
+        "hover_text": "ሬንዳንግን በማክበር ላይ",
+        "share_text": "ሬንዳንግን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "\"الرندانغ\"",
+        "hover_text": "نحتفل بطبق \"الرندانغ\"",
+        "share_text": "نحتفل اليوم بطبق \"الرندانغ\". ‏‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ռենդանգ",
+        "hover_text": "Տոնենք ռենդանգի օրը",
+        "share_text": "Տոնենք ռենդանգի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Rendang",
+        "hover_text": "Rendang günü",
+        "share_text": "Rendang günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "রেনডাং",
+        "hover_text": "রেনডাংয়ের ঐতিহ্য উদযাপন করা হচ্ছে",
+        "share_text": "রেনডাংয়ের ঐতিহ্য উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Rendang-a",
+        "hover_text": "Rendang-aren omenez",
+        "share_text": "Rendang-aren omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Рэнданг",
+        "hover_text": "Ушаноўваем нацыянальную страву рэнданг",
+        "share_text": "Ушаноўваем нацыянальную страву рэнданг! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Rendang",
+        "hover_text": "Slavimo rendang",
+        "share_text": "Slavimo rendang! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Rendang",
+        "hover_text": "Celebrating Rendang",
+        "share_text": "Celebrating Rendang #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ренданг",
+        "hover_text": "Честване на ренданг",
+        "share_text": "Честване на ренданг! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Rendang",
+        "hover_text": "Rendang ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "Rendang ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Rendang",
+        "hover_text": "Homenatge al rendang",
+        "share_text": "Homenatge al rendang #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "巴東牛肉",
+        "hover_text": "品嚐美味的巴東牛肉",
+        "share_text": "品嚐美味的巴東牛肉！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "印尼仁當料理",
+        "hover_text": "認識印尼仁當料理",
+        "share_text": "認識印尼仁當料理！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "仁当",
+        "hover_text": "美味仁当",
+        "share_text": "美味仁当！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Rendang",
+        "hover_text": "Slavimo rendang",
+        "share_text": "Slavimo rendang! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Rendang",
+        "hover_text": "Dnes oslavujeme rendang",
+        "share_text": "Dnes oslavujeme rendang! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Rendang",
+        "hover_text": "En hyldest til rendang",
+        "share_text": "En hyldest til rendang #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Rendang",
+        "hover_text": "Doodle ter ere van rendang",
+        "share_text": "Een doodle ter ere van rendang! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Rendang",
+        "hover_text": "Austame rendangi",
+        "share_text": "Austame rendangi! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Rendang",
+        "hover_text": "Rendang",
+        "share_text": "Rendang #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Rendang",
+        "hover_text": "Le rendang à l'honneur",
+        "share_text": "Le rendang à l'honneur ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Rendang",
+        "hover_text": "Célébration du rendang",
+        "share_text": "Célébration du rendang! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Rendang",
+        "hover_text": "Homenaxe ao rendang",
+        "share_text": "Homenaxe ao rendang! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "რენდანგი",
+        "hover_text": "აღვნიშნავთ რენდანგის დღეს",
+        "share_text": "აღვნიშნავთ რენდანგის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Rendang",
+        "hover_text": "Zu Ehren der Speise Rendang",
+        "share_text": "Zu Ehren der Speise Rendang #GoogleDoodle"
+      },
+      "el": {
+        "query": "Rendang",
+        "hover_text": "Τιμούμε το rendang",
+        "share_text": "Τιμούμε το rendang! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "રેન્ડાંગ",
+        "hover_text": "રેન્ડાંગની ઉજવણી કરી રહ્યાં છીએ",
+        "share_text": "રેન્ડાંગની ઉજવણી કરી રહ્યાં છીએ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "רנדאנג",
+        "hover_text": "מנת היום: רנדאנג",
+        "share_text": "מנת היום: רנדאנג GoogleDoodle#"
+      },
+      "hi": {
+        "query": "रैनडांग",
+        "hover_text": "रैनडांग का जश्न",
+        "share_text": "रैनडांग का जश्न! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Rendang",
+        "hover_text": "A rendang ünneplése",
+        "share_text": "A rendang ünneplése #GoogleDoodle"
+      },
+      "is": {
+        "query": "Rendang",
+        "hover_text": "Við heiðrum Rendang",
+        "share_text": "Við heiðrum Rendang! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Rendang",
+        "hover_text": "Merayakan Rendang",
+        "share_text": "Merayakan Rendang #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Rendang",
+        "hover_text": "Un omaggio al rendang",
+        "share_text": "Un omaggio al rendang! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ルンダン",
+        "hover_text": "ルンダンを称えて",
+        "share_text": "ルンダンを称えて #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ರೆಂಡಾಂಗ್",
+        "hover_text": "ರೆಂಡಾಂಗ್ ಅನ್ನು ಗೌರವಿಸಲಾಗುತ್ತಿದೆ",
+        "share_text": "ರೆಂಡಾಂಗ್ ಅನ್ನು ಗೌರವಿಸಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Ренданг",
+        "hover_text": "Ренданг тағамы күні",
+        "share_text": "Ренданг тағамы күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Rendang",
+        "hover_text": "អបអរទិវារំលឹក Rendang",
+        "share_text": "អបអរទិវារំលឹក Rendang! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "렌당",
+        "hover_text": "렌당 기념",
+        "share_text": "렌당 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Ренданг",
+        "hover_text": "Ренданг күнүн майрамдоо",
+        "share_text": "Ренданг күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Rendang",
+        "hover_text": "ສະເຫຼີມສະຫຼອງ Rendang",
+        "share_text": "ສະເຫຼີມສະຫຼອງ Rendang! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Rendang",
+        "hover_text": "Celebrando el rendang",
+        "share_text": "Celebrando el rendang #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Rendangs",
+        "hover_text": "Rendanga godināšana",
+        "share_text": "Godinām rendangu! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Rendangas",
+        "hover_text": "Rendango minėjimas",
+        "share_text": "Rendango minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ренданг",
+        "hover_text": "Во чест на ренданг",
+        "share_text": "Во чест на ренданг! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Rendang",
+        "hover_text": "Meraikan Rendang",
+        "share_text": "Meraikan Rendang! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "റെൻഡാംഗ്",
+        "hover_text": "റെൻഡാംഗ് ആഘോഷമാക്കുന്നു",
+        "share_text": "റെൻഡാംഗ് ആഘോഷമാക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "रेनडँग",
+        "hover_text": "रेनडँगच्या सन्मानार्थ",
+        "share_text": "रेनडँगच्या सन्मानार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Ренданг",
+        "hover_text": "Рендангийн өдрийг тэмдэглэж байна",
+        "share_text": "Рендангийн өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "रेन्दाङ",
+        "hover_text": "रेन्दाङको उत्सव",
+        "share_text": "रेन्दाङको उत्सव! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Rendang",
+        "hover_text": "Vi feirer rendang",
+        "share_text": "Vi feirer rendang! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "خوراک رِندانگ",
+        "hover_text": "روز خوراک رِندانگ",
+        "share_text": "روز خوراک رِندانگ! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Rendang",
+        "hover_text": "Delektujemy się rendangiem",
+        "share_text": "Delektujemy się rendangiem. #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Rendang",
+        "hover_text": "Viva o rendang, prato típico da culinária indonésia",
+        "share_text": "Viva o rendang, prato típico da culinária indonésia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Rendang",
+        "hover_text": "Celebração do Rendang",
+        "share_text": "Celebração do Rendang! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਰੇਂਡਾਂਗ",
+        "hover_text": "ਰੇਂਡਾਂਗ ਦਾ ਜਸ਼ਨ",
+        "share_text": "ਰੇਂਡਾਂਗ ਦਾ ਜਸ਼ਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Rendang",
+        "hover_text": "În cinstea preparatului Rendang",
+        "share_text": "În cinstea preparatului Rendang! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Ренданг",
+        "hover_text": "День ренданга",
+        "share_text": "День ренданга #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Ренданг",
+        "hover_text": "Славимо ренданг",
+        "share_text": "Славимо ренданг! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Rendang",
+        "hover_text": "Slavimo rendang",
+        "share_text": "Slavimo rendang! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "රෙන්ඩන්ග්",
+        "hover_text": "රෙන්ඩන්ග් සමරමින්",
+        "share_text": "රෙන්ඩන්ග් සමරමින්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Rendang",
+        "hover_text": "Oslavujeme rendang",
+        "share_text": "Oslavujeme rendang. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Rendang",
+        "hover_text": "Slavimo jed rendang",
+        "share_text": "Slavimo jed rendang! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Rendang",
+        "hover_text": "Homenaje al rendang",
+        "share_text": "Hoy rendimos homenaje al rendang #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Rendang",
+        "hover_text": "Tunaenzi Rendang",
+        "share_text": "Tunaenzi Rendang! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Rendang",
+        "hover_text": "Vi hyllar rendang",
+        "share_text": "Vi hyllar rendang #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ரெண்டாங்",
+        "hover_text": "ரெண்டாங்கைக் கொண்டாடுவோம்",
+        "share_text": "ரெண்டாங்கைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "రెండాంగ్",
+        "hover_text": "రెండాంగ్ వేడుక చేసుకుందాం",
+        "share_text": "రెండాంగ్ వేడుక చేసుకుందాం! #GoogleDoodle"
+      },
+      "th": {
+        "query": "เรินดัง",
+        "hover_text": "เฉลิมฉลองให้กับเรินดัง",
+        "share_text": "เฉลิมฉลองให้กับเรินดัง! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Rendang",
+        "hover_text": "Rendang'i Kutluyoruz",
+        "share_text": "Rendang'i kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Ренданг",
+        "hover_text": "Ушановуємо ренданг",
+        "share_text": "Ушановуємо ренданг! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Rendang",
+        "hover_text": "‫Rendang کی یاد میں",
+        "share_text": "‫Rendang کی یاد میں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Rendang",
+        "hover_text": "Rendang kuni",
+        "share_text": "Rendang kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Rendang",
+        "hover_text": "Tôn vinh món Rendang",
+        "share_text": "Tôn vinh món Rendang! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "IRendang",
+        "hover_text": "Sibungaza iRendang",
+        "share_text": "Sibungaza iRendang! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Rendang",
+    "share_text": "Celebrating Rendang! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-dorothy-miles",
     "title": "Celebrating Dorothy Miles",
     "url": "//www.google.com/logos/doodles/2024/celebrating-dorothy-miles-6753651837110273.4-law.gif",
