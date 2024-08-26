@@ -1,5 +1,504 @@
 [
   {
+    "name": "uruguay-independence-day-2024",
+    "title": "Uruguay Independence Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/uruguay-independence-day-2024-6753651837110278.2-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/fRW7bkv3N8fOnjcRXZxjQh_7WvJGXYLpoRPpL01oNMqVEFiPUQ5K_B64q293-qVNaXdcn0HiO2qYZEQbh7gPe7TyA0wG4KsA576nVOp-nctwHNr-ChLwqg",
+    "high_res_url": "//www.google.com/logos/doodles/2024/uruguay-independence-day-2024-6753651837110278.2-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      8,
+      25
+    ],
+    "translations": {
+      "en": {
+        "query": "Uruguay Independence Day",
+        "hover_text": "Uruguay Independence Day 2024",
+        "share_text": "Happy Independence Day, Uruguay! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Uruguay se onafhanklikheidsdag",
+        "hover_text": "Uruguay se onafhanklikheidsdag 2024",
+        "share_text": "Gelukkige onafhanklikheidsdag, Uruguay! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë e Uruguait",
+        "hover_text": "Dita e Pavarësisë së Uruguait, 2024",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Uruguai! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የኡራጓይ ነጻነት ቀን",
+        "hover_text": "የኡራጓይ የነፃነት ቀን 2024",
+        "share_text": "መልካም ነጻነት ቀን ኡራጓይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال الأوروغواي",
+        "hover_text": "عيد استقلال الأوروغواي 2024",
+        "share_text": "عيد استقلال سعيد للأورغواي ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ուրուգվայի անկախության օր",
+        "hover_text": "Ուրուգվայի անկախության օր 2024",
+        "share_text": "Շնորհավո՛ր անկախության օրը, Ուրուգվայ #GoogleDoodle"
+      },
+      "az": {
+        "query": "Uruqvayın Müstəqillik Günü",
+        "hover_text": "2024 Uruqvayın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Uruqvay! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "উরুগুয়ের স্বাধীনতা দিবস",
+        "hover_text": "উরুগুয়ের স্বাধীনতা দিবস ২০২৪",
+        "share_text": "উরুগুয়ের স্বাধীনতা দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Uruguaiko Independentzia Eguna",
+        "hover_text": "2024ko Uruguaiko Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Uruguai! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Уругвая",
+        "hover_text": "Дзень незалежнасці Уругвая 2024",
+        "share_text": "З Днём незалежнасці, Уругвай! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Urugvaja",
+        "hover_text": "Dan nezavisnosti Urugvaja 2024.",
+        "share_text": "Sretan Dan nezavisnosti, Urugvaju! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Uruguay Independence Day",
+        "hover_text": "Uruguay Independence Day 2024",
+        "share_text": "Happy Independence Day, Uruguay! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Уругвай",
+        "hover_text": "Ден на независимостта на Уругвай 2024 г.",
+        "share_text": "Честит Ден на независимостта на Уругвай! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဥရုဂွေး လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ ဥရုဂွေးနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ဖြစ်ပါစေ၊ ဥရုဂွေး။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència de l'Uruguai",
+        "hover_text": "Dia de la Independència de l'Uruguai 2024",
+        "share_text": "Feliç Dia de la Independència, Uruguai! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "烏拉圭獨立日",
+        "hover_text": "2024 年烏拉圭獨立日",
+        "share_text": "烏拉圭獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "烏拉圭獨立紀念日",
+        "hover_text": "2024 年烏拉圭獨立紀念日",
+        "share_text": "烏拉圭，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "乌拉圭独立日",
+        "hover_text": "2024 年乌拉圭独立日",
+        "share_text": "乌拉圭，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Urugvaja",
+        "hover_text": "Dan neovisnosti Urugvaja 2024.",
+        "share_text": "Sretan Dan neovisnosti, Urugvaju! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Uruguaye",
+        "hover_text": "Den nezávislosti Uruguaye 2024",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Uruguayi! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Uruguays uafhængighedsdag",
+        "hover_text": "Uruguays uafhængighedsdag 2024",
+        "share_text": "Glædelig uafhængighedsdag, Uruguay! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Uruguay",
+        "hover_text": "Onafhankelijkheidsdag Uruguay 2024",
+        "share_text": "Fijne Onafhankelijkheidsdag, Uruguay! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Uruguay iseseisvuspäev",
+        "hover_text": "Uruguay 2024. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Uruguay! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Uruguayn itsenäisyyspäivä",
+        "hover_text": "Uruguayn itsenäisyyspäivä 2024",
+        "share_text": "Hyvää itsenäisyyspäivää, Uruguay! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance de l'Uruguay",
+        "hover_text": "Fête de l'Indépendance de l'Uruguay 2024",
+        "share_text": "Fête de l'Indépendance de l'Uruguay #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance de l'Uruguay",
+        "hover_text": "Fête de l'Indépendance de l'Uruguay 2024",
+        "share_text": "Joyeux jour de l'indépendance de l'Uruguay! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Uruguai",
+        "hover_text": "Día da Independencia do Uruguai 2024",
+        "share_text": "Feliz Día da Independencia, Uruguai! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ურუგვაის დამოუკიდებლობის დღე",
+        "hover_text": "ურუგვაის დამოუკიდებლობის დღე — 2024",
+        "share_text": "ვულოცავთ ურუგვაის დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Uruguay",
+        "hover_text": "Unabhängigkeitstag Uruguay 2024",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Uruguay! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας της Ουρουγουάης",
+        "hover_text": "Ημέρα Ανεξαρτησίας της Ουρουγουάης 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας της Ουρουγουάης! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ઉરુગ્વેનો સ્વતંત્રતા દિવસ",
+        "hover_text": "ઉરુગ્વેનો સ્વતંત્રતા દિવસ 2024",
+        "share_text": "ઉરુગ્વેના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של אורוגוואי",
+        "hover_text": "יום העצמאות של אורוגוואי 2024",
+        "share_text": "יום עצמאות שמח, אורוגוואי! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "उरुग्वे का स्वतंत्रता दिवस",
+        "hover_text": "उरुग्वे का स्वतंत्रता दिवस 2024",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, उरुग्वे! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Uruguay függetlenségének napja",
+        "hover_text": "Uruguay függetlenségének napja, 2024",
+        "share_text": "Boldog függetlenség napját, Uruguay! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Úrúgvæ",
+        "hover_text": "Þjóðhátíðardagur Úrúgvæ 2024",
+        "share_text": "Gleðilegan sjálfstæðisdag, Úrúgvæ! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Uruguay",
+        "hover_text": "Hari Kemerdekaan Uruguay 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Uruguay! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse Uragua",
+        "hover_text": null,
+        "share_text": "Lá Saoirse Uragua faoi mhaise duit. #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza dell'Uruguay",
+        "hover_text": "Festa dell'indipendenza dell'Uruguay 2024",
+        "share_text": "Buona festa dell'indipendenza, Uruguay! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ウルグアイ独立記念日",
+        "hover_text": "2024 年ウルグアイ独立記念日",
+        "share_text": "ウルグアイ独立記念日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಉರುಗ್ವೇಯಲ್ಲಿ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಉರುಗ್ವೆ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಉರುಗ್ವೇ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Уругвайдың Тәуелсіздік күні",
+        "hover_text": "Уругвайдың Тәуелсіздік күні – 2024",
+        "share_text": "Тәуелсіздік күні құтты болсын, Уругвай! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យឯករាជ្យជាតិអ៊ុយរូហ្គាយ",
+        "hover_text": "ទិវា​បុណ្យឯករាជ្យជាតិ​អ៊ុយរូហ្កាយឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវាបុណ្យ​ឯករាជ្យជាតិអ៊ុយរូហ្គាយ! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "우루과이 독립기념일",
+        "hover_text": "2024년 우루과이 독립기념일",
+        "share_text": "우루과이 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Уругвайдын Эгемендүүлүк күнү",
+        "hover_text": "Уругвайдын Эгемендүүлүк күнү — 2024",
+        "share_text": "Эгемендүүлүк күнүң менен, Уругвай! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດອູຣູກວຍ",
+        "hover_text": "ວັນປະກາດເອກະລາດອູຣູກວຍ 2024",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດ, ອູຣູກວຍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Uruguay",
+        "hover_text": "Día de la Independencia de Uruguay 2024",
+        "share_text": "¡Feliz Día de la Independencia de Uruguay! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Urugvajas neatkarības diena",
+        "hover_text": "Urugvajas Neatkarības diena — 2024",
+        "share_text": "Sveicam neatkarības dienā, Urugvaja! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Urugvajaus nepriklausomybės diena",
+        "hover_text": "Urugvajaus nepriklausomybės diena, 2024 m.",
+        "share_text": "Sveikiname Urugvajų su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Уругвај",
+        "hover_text": "Ден на независноста на Уругвај, 2024 г.",
+        "share_text": "Среќен Ден на независноста, Уругвај! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Orogoay",
+        "hover_text": null,
+        "share_text": "Tsarà fetin'ny fahaleovantena ry Orogoay ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Uruguay",
+        "hover_text": "Hari Kemerdekaan Uruguay 2024",
+        "share_text": "Selamat Menyambut Hari Kemerdekaan, Uruguay! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഉറുഗ്വേൻ സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "ഉറുഗ്വേ സ്വാതന്ത്ര്യദിനം 2024",
+        "share_text": "സ്വാതന്ത്ര്യ ദിനാശംസകൾ, ഉറുഗ്വേ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "उरुग्वेचा स्वातंत्र्यदिन",
+        "hover_text": "उरुग्वेचा स्वातंत्र्यदिन २०२४",
+        "share_text": "उरुग्वेला स्वातंत्र्यदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Уругвай улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2024 оны Уругвайн Тусгаар тогтнолын өдөр",
+        "share_text": "Уругвай улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "उरुग्वेको स्वतन्त्रता दिवस",
+        "hover_text": "उरुग्वेको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, उरुग्वे! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Uruguays frigjøringsdag",
+        "hover_text": "Uruguays frigjøringsdag 2024",
+        "share_text": "Gratulerer med frigjøringsdagen, Uruguay! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଉରୁଗୁଏର ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": null,
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, ଉରୁଗୁଏ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال اروگوئه",
+        "hover_text": "روز استقلال ۲۰۲۴ اروگوئه",
+        "share_text": "روز استقلال اروگوئه مبارک! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Niepodległości Urugwaju",
+        "hover_text": "Dzień Niepodległości Urugwaju 2024",
+        "share_text": "Urugwaj obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência do Uruguai",
+        "hover_text": "Dia da Independência do Uruguai 2024",
+        "share_text": "Feliz Dia da Independência, Uruguai! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência do Uruguai",
+        "hover_text": "Dia da Independência do Uruguai de 2024",
+        "share_text": "Feliz dia da independência, Uruguai! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਉਰੂਗੁਏ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ",
+        "hover_text": "ਉਰੂਗੁਏ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2024",
+        "share_text": "ਉਰੂਗੁਏ ਦੇ ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței în Uruguay",
+        "hover_text": "Ziua Independenței în Uruguay – 2024",
+        "share_text": "La mulți ani de Ziua Independenței, Uruguay! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Уругвая",
+        "hover_text": "День независимости Уругвая – 2024",
+        "share_text": "День независимости Уругвая #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Уругваја",
+        "hover_text": "Дан независности Уругваја 2024.",
+        "share_text": "Честитамо Дан независности Уругвају! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Urugvaja",
+        "hover_text": "Dan nezavisnosti Urugvaja 2024.",
+        "share_text": "Čestitamo Dan nezavisnosti Urugvaju! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepandans Uruguay",
+        "hover_text": null,
+        "share_text": "Bonn zournen lendepandans, Uruguay! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "උරුගුවෛහි නිදහස් දිනය",
+        "hover_text": "උරුගුවේ නිදහස් දිනය 2024",
+        "share_text": "ශුභ නිදහස් දිනයක්, උරුගුවෛ! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Uruguaja",
+        "hover_text": "Deň nezávislosti Uruguaja 2024",
+        "share_text": "Šťastný deň nezávislosti, Uruguaj! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Urugvaja",
+        "hover_text": "Dan neodvisnosti Urugvaja 2024",
+        "share_text": "Vesel dan neodvisnosti, Urugvaj. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madax banaanida Urugway",
+        "hover_text": null,
+        "share_text": "Maalinta Madax banaanida Urugwaay! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la Uruguay",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Tokoloho la Uruguay! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Uruguay",
+        "hover_text": "Día de la Independencia de Uruguay 2024",
+        "share_text": "¡Feliz Día de la Independencia de Uruguay! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Urugwai",
+        "hover_text": "Sikukuu ya Uhuru wa Urugwai 2024",
+        "share_text": "Heri za Sikukuu ya Uhuru, Urugwai! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Uruguays självständighetsdag",
+        "hover_text": "Uruguays självständighetsdag 2024",
+        "share_text": "Vi firar Uruguays självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "உருகுவே சுதந்திர தினம்",
+        "hover_text": "உருகுவேயின் சுதந்திர தினம் 2024",
+        "share_text": "உருகுவேயின் சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఉరుగ్వే స్వాతంత్ర్య దినోత్సవం",
+        "hover_text": "ఉరుగ్వే స్వాతంత్య్ర దినోత్సవం 2024",
+        "share_text": "స్వాతంత్ర్య దినోత్సవ శుభాకాంక్షలు, ఉరుగ్వే! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของอุรุกวัย",
+        "hover_text": "วันประกาศเอกราชของอุรุกวัยปี 2024",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของอุรุกวัย #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Uruguay",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, Uruguay! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Uruguay Bağımsızlık Günü",
+        "hover_text": "2024 Uruguay Bağımsızlık Günü",
+        "share_text": "Uruguay Bağımsızlık Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Уругваю",
+        "hover_text": "День незалежності Уругваю у 2024 році",
+        "share_text": "З Днем незалежності, Уругваю! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوروگوئے کا یوم آزادی",
+        "hover_text": "یوروگوئے کا یوم آزادی 2024",
+        "share_text": "یوروگوئے کا یوم آزادی مبارک! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Urugvay mustaqillik kuni",
+        "hover_text": "Urugvay Mustaqillik kuni 2024",
+        "share_text": "Mustaqillik kuning muborak, Urugvay! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Uruguay",
+        "hover_text": "Ngày Quốc khánh Uruguay năm 2024",
+        "share_text": "Chúc mừng Ngày quốc khánh Uruguay! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lokuzimela lwase-Uruguay",
+        "hover_text": "Usuku Lokuzimela lwase-Uruguay lwango-2024",
+        "share_text": "Sinifisela usuku oluhle lokuzimela, Uruguay! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Uruguay Independence Day",
+    "share_text": "Happy Independence Day, Uruguay! #GoogleDoodle"
+  },
+  {
     "name": "ukraine-independence-day-2024",
     "title": "Ukraine Independence Day 2024",
     "url": "//www.google.com/logos/doodles/2024/ukraine-independence-day-2024-6753651837110277-law.gif",
