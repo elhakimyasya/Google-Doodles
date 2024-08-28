@@ -1,5 +1,504 @@
 [
   {
+    "name": "paris-games-begin-august",
+    "title": "Paris Games Begin - August",
+    "url": "//www.google.com/logos/doodles/2024/paris-games-august-begin-6753651837110532-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/W0YWtvonoZZ-zf_npEgdIHsHJhJOe0LqXhKEpw7eyOhdODcdx0rPdeOiTSsG5IEihSgAMUb19b-Qsvt4SQK4gk40h27iqw3L77FRU-befCnw2WjZOM0sDW0",
+    "high_res_url": "//www.google.com/logos/doodles/2024/paris-games-august-begin-6753651837110532-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      8,
+      28
+    ],
+    "translations": {
+      "en": {
+        "query": "paralympics",
+        "hover_text": "Paris Games Begin! ",
+        "share_text": "Paris Games Begin! #GoogleDoodle"
+      },
+      "af": {
+        "query": "paralimpiese spele",
+        "hover_text": "Parys Spele begin!",
+        "share_text": "Parys Spele begin! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "lojërat paralimpike",
+        "hover_text": "Lojërat e Parisit kanë filluar!",
+        "share_text": "Lojërat e Parisit kanë filluar! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ፓራሊምፒክስ",
+        "hover_text": "የፓሪስ ጨዋታዎች ጀምረዋል!",
+        "share_text": "የፓሪስ ጨዋታዎች ጀምረዋል! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "الألعاب البارالمبية",
+        "hover_text": "انطلقت اليوم ألعاب باريس!",
+        "share_text": "انطلقت اليوم ألعاب باريس! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "պարալիմպիկ խաղեր",
+        "hover_text": "Փարիզի խաղերը սկսվում են",
+        "share_text": "Փարիզի խաղերը սկսվում են #GoogleDoodle"
+      },
+      "az": {
+        "query": "paralimpiya oyunları",
+        "hover_text": "Paris Oyunları Başlayır!",
+        "share_text": "Paris Oyunları Başlayır! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "প্যারালিম্পিক",
+        "hover_text": "প্যারিস গেমস শুরু হয়েছে!",
+        "share_text": "প্যারিস গেমস শুরু হয়েছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "paralinpiar jokoak",
+        "hover_text": "Parisko Jokoen hasiera",
+        "share_text": "Parisko Jokoen hasiera #GoogleDoodle"
+      },
+      "be": {
+        "query": "Паралімпійскія гульні",
+        "hover_text": "Гульні ў Парыжы пачынаюцца!",
+        "share_text": "Гульні ў Парыжы пачынаюцца! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "paraolimpijske igre",
+        "hover_text": "Počinju igre u Parizu!",
+        "share_text": "Počinju igre u Parizu! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Paralympics",
+        "hover_text": "Paris Games Begin",
+        "share_text": "Paris Games Begin #GoogleDoodle"
+      },
+      "bg": {
+        "query": "параолимпийски игри",
+        "hover_text": "Игрите в Париж започват!",
+        "share_text": "Игрите в Париж започват! #GoogleDoodle"
+      },
+      "my": {
+        "query": "မသန်စွမ်းအိုလံပစ်",
+        "hover_text": "ပဲရစ်ဂိမ်းများ စတင်ပါပြီ။",
+        "share_text": "ပဲရစ်ဂိမ်းများ စတင်ပါပြီ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "jocs paralímpics",
+        "hover_text": "Comencen els Jocs de París!",
+        "share_text": "Comencen els Jocs de París! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "殘疾人奧運會",
+        "hover_text": "巴黎運動會開幕！",
+        "share_text": "巴黎運動會開幕！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "帕拉林匹克運動會",
+        "hover_text": "巴黎賽事熱血開賽！",
+        "share_text": "巴黎賽事熱血開賽！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "残奥会",
+        "hover_text": "巴黎运动盛会拉开帷幕！",
+        "share_text": "巴黎运动盛会拉开帷幕！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "paraolimpijske igre",
+        "hover_text": "Počinju igre u Parizu!",
+        "share_text": "Počinju igre u Parizu! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "paralympiáda",
+        "hover_text": "Pařížské hry začínají!",
+        "share_text": "Pařížské hry začínají! #GoogleDoodle"
+      },
+      "da": {
+        "query": "paralympiske lege",
+        "hover_text": "Legene i Paris begynder nu",
+        "share_text": "Legene i Paris begynder nu #GoogleDoodle"
+      },
+      "nl": {
+        "query": "paralympische spelen",
+        "hover_text": "De Spelen in Parijs beginnen!",
+        "share_text": "De Spelen in Parijs beginnen! #GoogleDoodle"
+      },
+      "et": {
+        "query": "paraolümpia",
+        "hover_text": "Pariisi mängud algavad!",
+        "share_text": "Pariisi mängud algavad! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "paralympialaiset",
+        "hover_text": "Pariisin kisat alkavat",
+        "share_text": "Pariisin kisat alkavat #GoogleDoodle"
+      },
+      "fr": {
+        "query": "jeux paralympiques",
+        "hover_text": "Les Jeux de Paris commencent !",
+        "share_text": "Les Jeux de Paris commencent ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jeux paralympiques",
+        "hover_text": "Les Jeux de Paris commencent!",
+        "share_text": "Les Jeux de Paris commencent! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Xogos Paralímpicos",
+        "hover_text": "Comezan os Xogos de París!",
+        "share_text": "Comezan os Xogos de París! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "პარალიმპიური თამაშები",
+        "hover_text": "პარიზის თამაშები იწყება!",
+        "share_text": "პარიზის თამაშები იწყება! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Paralympische Sommerspiele Paris 2024",
+        "hover_text": "Eröffnungsfeier der Sommerspiele im August in Paris",
+        "share_text": "Eröffnungsfeier der Sommerspiele im August in Paris! #GoogleDoodle"
+      },
+      "el": {
+        "query": "παραολυμπιακοί αγώνες",
+        "hover_text": "Οι Παραολυμπιακοί αγώνες στο Παρίσι ξεκινούν!",
+        "share_text": "Οι Παραολυμπιακοί αγώνες στο Παρίσι ξεκινούν! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "પેરાલિમ્પિક",
+        "hover_text": "પેરિસ ગેમ થયા શરૂ!",
+        "share_text": "પેરિસ ગેમ થયા શરૂ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "המשחקים הפאראלימפיים",
+        "hover_text": "המשחקים בפריז מתחילים",
+        "share_text": "המשחקים בפריז מתחילים GoogleDoodle#"
+      },
+      "hi": {
+        "query": "पैरालंपिक",
+        "hover_text": "पेरिस गेम्स शुरू हो गए हैं!",
+        "share_text": "पेरिस गेम्स शुरू हो गए हैं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Paralimpia",
+        "hover_text": "Kezdődnek a párizsi játékok!",
+        "share_text": "Kezdődnek a párizsi játékok! #GoogleDoodle"
+      },
+      "is": {
+        "query": "ólympíuleikar fatlaðra",
+        "hover_text": "Parísarleikarnir eru að hefjast!",
+        "share_text": "Parísarleikarnir eru að hefjast! #GoogleDoodle"
+      },
+      "id": {
+        "query": "paralimpiade",
+        "hover_text": "Pertandingan Paris Dimulai!",
+        "share_text": "Pertandingan Paris Dimulai! #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Giochi Paralimpici",
+        "hover_text": "Inizio dei Giochi di Parigi!",
+        "share_text": "Inizio dei Giochi di Parigi! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "パラリンピック",
+        "hover_text": "パリ大会開催",
+        "share_text": "パリ大会開催 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಪ್ಯಾರಾಲಿಂಪಿಕ್ಸ್",
+        "hover_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಪ್ರಾರಂಭವಾಗುತ್ತಿವೆ!",
+        "share_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಪ್ರಾರಂಭವಾಗುತ್ತಿವೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "паралимпиада ойындары",
+        "hover_text": "Париж ойындары басталды!",
+        "share_text": "Париж ойындары басталды! #GoogleDoodle"
+      },
+      "km": {
+        "query": "កីឡាប៉ារ៉ាឡាំពិក",
+        "hover_text": "ព្រឹត្តិការណ៍កីឡានៅប៉ារីសចាប់ផ្ដើម!",
+        "share_text": "ព្រឹត្តិការណ៍កីឡានៅប៉ារីសចាប់ផ្ដើម! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "패럴림픽",
+        "hover_text": "파리 2024 개막 기념",
+        "share_text": "파리 2024 개막 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "паралимпиада оюндары",
+        "hover_text": "Париж оюндары башталды!",
+        "share_text": "Париж оюндары башталды! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ພາຣາລິມປິກ",
+        "hover_text": "ການແຂ່ງຂັນກິລາປາຣີສເລີ່ມຂຶ້ນແລ້ວ!",
+        "share_text": "ການແຂ່ງຂັນກິລາປາຣີສເລີ່ມຂຶ້ນແລ້ວ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "juegos paralímpicos 2024",
+        "hover_text": "¡Los Juegos de París comienzan! ",
+        "share_text": "¡Los Juegos de París comienzan!  #GoogleDoodle"
+      },
+      "lv": {
+        "query": "paraolimpiskās spēles",
+        "hover_text": "Sākas Parīzes spēles!",
+        "share_text": "Sākas Parīzes spēles! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "paralimpinės žaidynės",
+        "hover_text": "Paryžiaus žaidynės prasideda!",
+        "share_text": "Paryžiaus paralimpinės žaidynės prasideda! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "параолимпијада",
+        "hover_text": "Игрите во Париз започнуваат!",
+        "share_text": "Игрите во Париз започнуваат! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "paralimpik",
+        "hover_text": "Sukan Paris Bermula!",
+        "share_text": "Sukan Paris Bermula! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "പാരാലിമ്പിക്‌സ്",
+        "hover_text": "പാരീസ് ഗെയിംസിന് തുടക്കമായി!",
+        "share_text": "പാരീസ് ഗെയിംസിന് തുടക്കമായി! #GoogleDoodle"
+      },
+      "mt": {
+        "query": "",
+        "hover_text": "",
+        "share_text": "#GoogleDoodle"
+      },
+      "mr": {
+        "query": "पॅरालिंपिक्स",
+        "hover_text": "पॅरिस गेम्स सुरू झाले आहेत!",
+        "share_text": "पॅरिस गेम्स सुरू झाले आहेत! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "паралимп",
+        "hover_text": "Парисын наадам эхэллээ!",
+        "share_text": "Парисын наадам эхэллээ! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "पारालम्पिक",
+        "hover_text": "पेरिस खेल सुरु भएको छ!",
+        "share_text": "पेरिस खेल सुरु भएको छ! #GoogleDoodle"
+      },
+      "no": {
+        "query": "paralympiske leker",
+        "hover_text": "Lekene i Paris starter!",
+        "share_text": "Lekene i Paris starter! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "پارالمپیک",
+        "hover_text": "«بازی‌های پاریس» شروع شد!",
+        "share_text": "«بازی‌های پاریس» شروع شد! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "igrzyska paralimpijskie",
+        "hover_text": "Rozpoczęcie igrzysk w Paryżu",
+        "share_text": "Rozpoczęcie igrzysk w Paryżu #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "jogos paralímpicos",
+        "hover_text": "Começam os Jogos de Paris!",
+        "share_text": "Começam os Jogos de Paris! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "jogos paralímpicos",
+        "hover_text": "Começam os Jogos de Paris!",
+        "share_text": "Começam os Jogos de Paris! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਪੈਰਾਲੰਪਿਕ",
+        "hover_text": "ਪੈਰਿਸ ਖੇਡਾਂ ਸ਼ੁਰੂ!",
+        "share_text": "ਪੈਰਿਸ ਖੇਡਾਂ ਸ਼ੁਰੂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Jocurile Paralimpice",
+        "hover_text": "Jocurile Paralimpice de la Paris",
+        "share_text": "Încep jocurile paralimpice de la Paris! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "паралимпийские игры",
+        "hover_text": "Игры в Париже начались",
+        "share_text": "Игры в Париже начались #GoogleDoodle"
+      },
+      "sr": {
+        "query": "параолимпијада",
+        "hover_text": "Игре у Паризу почињу!",
+        "share_text": "Игре у Паризу почињу! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "paraolimpijada",
+        "hover_text": "Igre u Parizu počinju!",
+        "share_text": "Igre u Parizu počinju! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "පැරාලිම්පික්",
+        "hover_text": "පැරිස් ක්‍රීඩා ඇරඹේ!",
+        "share_text": "පැරිස් ක්‍රීඩා ඇරඹේ! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "paralympiáda",
+        "hover_text": "Hry v Paríži sa začínajú!",
+        "share_text": "Hry v Paríži sa začínajú! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "paraolimpijske igre",
+        "hover_text": "Začetek iger v Parizu!",
+        "share_text": "Začetek iger v Parizu! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "juegos paralímpicos 2024",
+        "hover_text": "¡Los Juegos de París comienzan! ",
+        "share_text": "¡Los Juegos de París comienzan!  #GoogleDoodle"
+      },
+      "sw": {
+        "query": "paralimpiki",
+        "hover_text": "Michezo ya Paris Imeanza!",
+        "share_text": "Michezo ya Paris Imeanza! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "paralympiska spelen",
+        "hover_text": "Parisspelen börjar!",
+        "share_text": "Parisspelen börjar! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "பாரா ஒலிம்பிக்ஸ்",
+        "hover_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் தொடங்கிவிட்டன!",
+        "share_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் தொடங்கிவிட்டன! #GoogleDoodle"
+      },
+      "te": {
+        "query": "పారాలింపిక్స్",
+        "hover_text": "ప్యారిస్ గేమ్స్ ప్రారంభం!",
+        "share_text": "ప్యారిస్ గేమ్స్ ప్రారంభం! #GoogleDoodle"
+      },
+      "th": {
+        "query": "พาราลิมปิก",
+        "hover_text": "ปารีสเกมส์เริ่มขึ้นแล้ว!",
+        "share_text": "ปารีสเกมส์เริ่มขึ้นแล้ว! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "paralimpik oyunları",
+        "hover_text": "Paris Paralimpik Yaz Oyunları Açılış Töreni",
+        "share_text": "Paris Paralimpik Yaz Oyunları Açılış Töreni! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "паралімпійські ігри",
+        "hover_text": "Паризькі ігри починаються!",
+        "share_text": "Паризькі ігри починаються! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "پیرا اولمپکس",
+        "hover_text": "پیرس گیمز شروع ہو گئی ہیں!",
+        "share_text": "پیرس گیمز شروع ہو گئی ہیں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "paralimpiya oʻyinlari",
+        "hover_text": "Parij oʻyinlari boshlandi!",
+        "share_text": "Parij oʻyinlari boshlandi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "thế vận hội dành cho người khuyết tật",
+        "hover_text": "Khai mạc Thế vận hội Paris!",
+        "share_text": "Khai mạc Thế vận hội Paris! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "amaparalympic",
+        "hover_text": "Amageyimu AseParis Ayaqala!",
+        "share_text": "Amageyimu AseParis Ayaqala! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "paralympics",
+    "share_text": "Paris Games Begin! #GoogleDoodle"
+  },
+  {
     "name": "republic-of-moldova-independence-day-2024",
     "title": "Republic of Moldova Independence Day 2024",
     "url": "//www.google.com/logos/doodles/2024/republic-of-moldova-independence-day-2024-6753651837110279-law.gif",
