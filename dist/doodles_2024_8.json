@@ -1,5 +1,504 @@
 [
   {
+    "name": "paris-games-august-most-searched-playground",
+    "title": "Paris Games -  August Most Searched Playground",
+    "url": "//www.google.com/logos/doodles/2024/paris-games-august-most-searched-playground-6753651837110533-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/Myvhss4cTZnyV2mtMAaGAQmd8NrisS6f1Q82ExNg2ltGJX6Tztkxg7AIVr8pqKvP1OGU-aeHPKDhVZJRqtT5Ieme_ama-D2rjcvRIotS5TWs9z64b0TLtLs",
+    "high_res_url": "//www.google.com/logos/doodles/2024/paris-games-august-most-searched-playground-6753651837110533-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      8,
+      29
+    ],
+    "translations": {
+      "en": {
+        "query": "Google search playground",
+        "hover_text": "Paris Games August Most Searched Playground",
+        "share_text": "Paris Games August Most Searched Playground! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Google-soektog-speelgrond",
+        "hover_text": "Parys Spele Augustus se Most Searched Playground",
+        "share_text": "Parys Spele Augustus se Most Searched Playground! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Google search playground",
+        "hover_text": "Lojërat e Parisit - Most Searched Playground në gusht",
+        "share_text": "Lojërat e Parisit - Most Searched Playground në gusht! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የGoogle ፍለጋ መጫወቻ ሜዳ",
+        "hover_text": "የፓሪስ ጨዋታዎች - ኦገስት Most Searched Playground",
+        "share_text": "የፓሪስ ጨዋታዎች - ኦገስት Most Searched Playground! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "مساحة اللعب حول البحث على Google",
+        "hover_text": "ألعاب باريس - Most Searched Playground لشهر أغسطس",
+        "share_text": "ألعاب باريس - Most Searched Playground لشهر أغسطس! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Google search playground",
+        "hover_text": "Փարիզի խաղեր – Օգոստոսի Most Searched Playground-ը",
+        "share_text": "Փարիզի խաղեր – Օգոստոսի Most Searched Playground-ը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Google axtarış üzrə oyun meydançası",
+        "hover_text": "Paris Oyunları avqustda ən çox axtarılan oyun meydançası",
+        "share_text": "Paris Oyunları avqustda ən çox axtarılan oyun meydançası! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "Google Search Playground",
+        "hover_text": "প্যারিস গেমসে আগস্টে Most Searched Playground",
+        "share_text": "প্যারিস গেমসে আগস্টে Most Searched Playground! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Google Bilaketa jolastokia",
+        "hover_text": "Parisko Jokoak: abuztuko Most Searched Playground",
+        "share_text": "Parisko Jokoak: abuztuko Most Searched Playground! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Гульнявая пляцоўка Google Пошуку",
+        "hover_text": "Гульні ў Парыжы – Most Searched Playground у жніўні",
+        "share_text": "Гульні ў Парыжы – Most Searched Playground у жніўні! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Google igralište za pretraživanje",
+        "hover_text": "Igre u Parizu – Most Searched Playground u augustu",
+        "share_text": "Igre u Parizu – Most Searched Playground u augustu! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Google most searched playground",
+        "hover_text": "Paris Games August Most Searched Playground",
+        "share_text": "Paris Games August Most Searched Playground #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Google search playground",
+        "hover_text": "Игрите в Париж – Most Searched Playground за август",
+        "share_text": "Игрите в Париж – Most Searched Playground за август! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Google search playground",
+        "hover_text": "Paris ဂိမ်းများ - ဩဂုတ်လအတွက် Most Searched Playground",
+        "share_text": "Paris ဂိမ်းများ - ဩဂုတ်လအတွက် Most Searched Playground။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Google search playground",
+        "hover_text": "Jocs de París - Most Searched Playground d'agost",
+        "share_text": "Jocs de París - Most Searched Playground d'agost #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Google 搜尋遊樂場",
+        "hover_text": "巴黎運動會 8 月 Most Searched Playground",
+        "share_text": "巴黎運動會 8 月 Most Searched Playground！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "Google 搜尋遊樂場",
+        "hover_text": "巴黎賽事 - 8 月 Most Searched Playground",
+        "share_text": "巴黎賽事 - 8 月 Most Searched Playground！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "Google 搜索游乐场",
+        "hover_text": "巴黎运动盛会 - 8 月 Most Searched Playground",
+        "share_text": "巴黎运动盛会 - 8 月 Most Searched Playground！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Igralište Google pretraživanja",
+        "hover_text": "Igre u Parizu – najčešće pretraživano u kolovozu",
+        "share_text": "Igre u Parizu – najčešće pretraživano u kolovozu! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Hra s nejčastěji vyhledávanými položkami na Googlu",
+        "hover_text": "Pařížské hry – Most Searched Playground za srpen",
+        "share_text": "Pařížské hry – Most Searched Playground za srpen! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Google search playground",
+        "hover_text": "Legene i Paris – Most Searched Playground i august",
+        "share_text": "Legene i Paris – Most Searched Playground i august #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Google search playground",
+        "hover_text": "Spelen in Parijs: Most Searched Playground voor augustus",
+        "share_text": "Spelen in Parijs: de Most Searched Playground voor augustus! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Google'i otsingu mänguväljak",
+        "hover_text": "Pariisi mängud – augusti Most Searched Playground",
+        "share_text": "Pariisi mängud – augusti Most Searched Playground! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Google search playground",
+        "hover_text": "Pariisin kisat – Most Searched Playground (elokuu)",
+        "share_text": "Pariisin kisat – Most Searched Playground (elokuu) #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Google search playground",
+        "hover_text": "Un \"Cherche et Trouve\" spécial Jeux de Paris",
+        "share_text": "Jeux de Paris : Most Searched Playground ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Terrain de jeu recherché sur Google",
+        "hover_text": "Jeux de Paris : Le terrain de jeu le plus recherché d'août",
+        "share_text": "Les jeux de Paris : Le terrain de jeu le plus recherché d'août ! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Área de xogo da Busca de Google",
+        "hover_text": "Xogos de París: Most Searched Playground de agosto",
+        "share_text": "Xogos de París: Most Searched Playground de agosto! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "Google ძიების Playground",
+        "hover_text": "პარიზის თამაშები — აგვისტოს Most Searched Playground",
+        "share_text": "პარიზის თამაშები — აგვისტოს Most Searched Playground! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Playground in der Google Suche",
+        "hover_text": "Spiele in Paris – Most Searched Playground im August",
+        "share_text": "Spiele in Paris – Most Searched Playground im August #GoogleDoodle"
+      },
+      "el": {
+        "query": "Παιχνίδια με την Αναζήτηση Google",
+        "hover_text": "Most Searched Playground Αυγούστου για τους Αγώνες στο Παρίσι",
+        "share_text": "Most Searched Playground Αυγούστου για τους Αγώνες στο Παρίσι! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "Googleનું સૌથી વધુ શોધવામાં આવેલું પ્લેગ્રાઉન્ડ",
+        "hover_text": "પેરિસ ગેમ, ઑગસ્ટમાં Most Searched Playground",
+        "share_text": "પેરિસ ગેમ, ઑગસ્ટમાં Most Searched Playground! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Google search playground",
+        "hover_text": "‫Most Searched Playground של המשחקים בפריז בחודש אוגוסט",
+        "share_text": "‫Most Searched Playground של המשחקים בפריז בחודש אוגוסט ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "Google search playground",
+        "hover_text": "पेरिस गेम्स के लिए अगस्त का Most Searched Playground",
+        "share_text": "पेरिस गेम्स के लिए अगस्त का Most Searched Playground! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Google-keresés játszótere",
+        "hover_text": "Párizsi játékok – Most Searched Playground, augusztus",
+        "share_text": "Párizsi játékok – Most Searched Playground, augusztus. #GoogleDoodle"
+      },
+      "is": {
+        "query": "Google search playground",
+        "hover_text": "Parísarleikarnir eru Most Searched Playground í ágústmánuði",
+        "share_text": "Parísarleikarnir eru Most Searched Playground í ágústmánuði! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Google search playground",
+        "hover_text": "Pertandingan Paris - Most Searched Playground Agustus",
+        "share_text": "Pertandingan Paris - Most Searched Playground Agustus #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Google search playground",
+        "hover_text": "Giochi di Parigi - Most Searched Playground di agosto",
+        "share_text": "Giochi di Parigi - Most Searched Playground di agosto! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "Google 検索 遊び場",
+        "hover_text": "パリ大会 8月 The Most Searched Playground ",
+        "share_text": "パリ大会 8月 The Most Searched Playground #GoodleDoodle"
+      },
+      "kn": {
+        "query": "Google search ಪ್ಲೇಗ್ರೌಂಡ್",
+        "hover_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಆಗಸ್ಟ್ Most Searched Playground",
+        "share_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಆಗಸ್ಟ್ Most Searched Playground! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Google search playground",
+        "hover_text": "Париж ойындары – тамыз айының Most Searched Playground мәліметі",
+        "share_text": "Париж ойындары – тамыз айының Most Searched Playground мәліметі #GoogleDoodle"
+      },
+      "km": {
+        "query": "សួនកម្សាន្តសម្រាប់ការស្វែងរកនៅលើ Google",
+        "hover_text": "Most Searched Playground នៅខែសីហាក្នុងអំឡុងកីឡានៅប៉ារីស",
+        "share_text": "Most Searched Playground នៅខែសីហាក្នុងអំឡុងកីឡានៅប៉ារីស! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Google search playground",
+        "hover_text": "파리 2024 - 8월의 Most Searched Playground",
+        "share_text": "파리 2024 - 8월의 Most Searched Playground #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Google'да изделген оюн платформалары",
+        "hover_text": "Paris оюндары - Most Searched Playground (август)",
+        "share_text": "Paris оюндары - Most Searched Playground (август)! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Google ຊອກຫາສະໜາມເດັກຫຼິ້ນ",
+        "hover_text": "ການແຂ່ງຂັນກິລາປາຣີສ ສະໜາມເດັກຫຼິ້ນທີ່ມີການຊອກຫາຫຼາຍທີ່ສຸດໃນເດືອນສິງຫາ",
+        "share_text": "ການແຂ່ງຂັນກິລາປາຣີສ ສະໜາມເດັກຫຼິ້ນທີ່ມີການຊອກຫາຫຼາຍທີ່ສຸດໃນເດືອນສິງຫາ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Google most search playground",
+        "hover_text": "Juegos de París: Most Searched Playground ",
+        "share_text": "Juegos de París: Most Searched Playground #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Google meklēšanas rotaļlaukums",
+        "hover_text": "Spēles Parīzē — Most Searched Playground augustā",
+        "share_text": "Spēles Parīzē — Most Searched Playground augustā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Žaidimų aikštelė „Google“ paieškoje",
+        "hover_text": "Paryžiaus žaidynės – rugpjūčio mėn. „Most Searched Playground“",
+        "share_text": "Paryžiaus žaidynės – rugpjūčio mėn. „Most Searched Playground“! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Google search playground",
+        "hover_text": "Игри во Париз – Most Searched Playground во август",
+        "share_text": "Игри во Париз – Most Searched Playground во август! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Google search playground",
+        "hover_text": "Most Searched Playground Bulan Ogos pada Sukan Paris",
+        "share_text": "Most Searched Playground Bulan Ogos pada Sukan Paris! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Google search playground",
+        "hover_text": "പാരീസ് ഗെയിംസ് ഓഗസ്റ്റ് Most Searched Playground",
+        "share_text": "പാരീസ് ഗെയിംസ് ഓഗസ്റ്റ് Most Searched Playground! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "Google चे सर्वाधिक शोधलेले प्लेग्राउंड",
+        "hover_text": "पॅरिस गेम्स - ऑगस्टमधील Most Searched Playground",
+        "share_text": "पॅरिस गेम्स - ऑगस्टमधील Most Searched Playground! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Google хайлтын тоглоомын талбай",
+        "hover_text": "Парисын наадам - 8-р сарын Most Searched Playground",
+        "share_text": "Парисын наадам - 8-р сарын Most Searched Playground! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Google Search को प्लेग्राउन्ड",
+        "hover_text": "पेरिस खेल - अगस्टमा सबैभन्दा बढी खोजिएको प्लेग्राउन्ड",
+        "share_text": "पेरिस खेल - अगस्टमा सबैभन्दा बढी खोजिएको प्लेग्राउन्ड! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Mest søkt etter på Google",
+        "hover_text": "Paris-lekene – Most Searched Playground i august",
+        "share_text": "Paris-lekene – Most Searched Playground i august! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "حوزه جستجوی Google",
+        "hover_text": "مسابقات پاریس - Most Searched Playground در ماه اوت",
+        "share_text": "مسابقات پاریس - Most Searched Playground در ماه اوت! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Plac zabaw w wyszukiwarce Google",
+        "hover_text": "Igrzyska w Paryżu – Most Searched Playground w sierpniu",
+        "share_text": "Igrzyska w Paryżu – Most Searched Playground w sierpniu #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Os jogos mais buscados no Google",
+        "hover_text": "Jogos de Paris - Os jogos mais buscados em julho",
+        "share_text": "Os Jogos de Paris mais buscados no Google #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Parque infantil da Pesquisa Google",
+        "hover_text": "Jogos de Paris – Most Searched Playground de agosto",
+        "share_text": "Jogos de Paris – Most Searched Playground de agosto! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Google ਦਾ ਸਭ ਤੋਂ ਵੱਧ ਖੋਜਿਆ ਗਿਆ ਪਲੇਗ੍ਰਾਊਂਡ",
+        "hover_text": "ਪੈਰਿਸ ਖੇਡਾਂ, ਅਗਸਤ ਦਾ Most Searched Playground",
+        "share_text": "ਪੈਰਿਸ ਖੇਡਾਂ, ਅਗਸਤ ਦਾ Most Searched Playground! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Joc de căutare pe Google",
+        "hover_text": "Jocurile de la Paris – Most Searched Playground în luna august",
+        "share_text": "Jocurile de la Paris – Most Searched Playground în luna august! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Найти детские площадки в Google Поиске",
+        "hover_text": "Игры в Париже – Most Searched Playground, август",
+        "share_text": "Игры в Париже – Most Searched Playground, август #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Google search playground",
+        "hover_text": "Игре у Паризу – Most Searched Playground за август",
+        "share_text": "Игре у Паризу – Most Searched Playground за август! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Google search playground",
+        "hover_text": "Igre u Parizu – Most Searched Playground za avgust",
+        "share_text": "Igre u Parizu – Most Searched Playground za avgust! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "Google සෙවීම් ක්‍රීඩාභූමිය",
+        "hover_text": "පැරිස් ක්‍රීඩා අගෝස්තු වැඩිපුරම සෙවූ ක්‍රීඩා පිටිය",
+        "share_text": "පැරිස් ක්‍රීඩා අගෝස්තු වැඩිපුරම සෙවූ ක්‍රීඩා පිටිය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Hra s vyhľadávanými položkami na Googli",
+        "hover_text": "Hry v Paríži – Most Searched Playground za august",
+        "share_text": "Hry v Paríži – Most Searched Playground za august. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Igrišče v Iskanju Google",
+        "hover_text": "Igre v Parizu – avgustovska igra Most Searched Playground",
+        "share_text": "Igre v Parizu – avgustovska igra Most Searched Playground! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Google most search playground",
+        "hover_text": "Juegos de París: Most Searched Playground ",
+        "share_text": "Juegos de París: Most Searched Playground #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Google search playground",
+        "hover_text": "Michezo ya Paris katika Most Searched Playground Mwezi Agosti",
+        "share_text": "Michezo ya Paris katika Most Searched Playground mwezi Agosti! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Utforska sökningar på Google",
+        "hover_text": "Parisspelen – Most Searched Playground i augusti",
+        "share_text": "Parisspelen – Most Searched Playground i augusti #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Google search playground",
+        "hover_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் - ஆகஸ்ட் Most Searched Playground",
+        "share_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் - ஆகஸ்ட் Most Searched Playground! #GoogleDoodle"
+      },
+      "te": {
+        "query": "Googleలో సెర్చ్ చేయబడిన ప్లేగ్రౌండ్",
+        "hover_text": "ప్యారిస్ గేమ్స్ ఆగస్ట్ Most Searched Playground",
+        "share_text": "ప్యారిస్ గేమ్స్ ఆగస్ట్ Most Searched Playground! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Google Search สนามเด็กเล่น",
+        "hover_text": "ปารีสเกมส์ Most Searched Playground ในเดือนสิงหาคม",
+        "share_text": "ปารีสเกมส์ Most Searched Playground ในเดือนสิงหาคม! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Google search playground",
+        "hover_text": "Paris Oyunları Ağustos Most Searched Playground",
+        "share_text": "Paris Oyunları Ağustos Most Searched Playground #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Google search playground",
+        "hover_text": "Паризькі ігри – Most Searched Playground у серпні",
+        "share_text": "Паризькі ігри – Most Searched Playground у серпні! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Google تلاش پلے گراؤںڈ",
+        "hover_text": "پیرس گیمز - اگست میں سب سے زیادہ تلاش کیا گیا پلے گراؤںڈ",
+        "share_text": "پیرس گیمز - اگست میں سب سے زیادہ تلاش کیا گیا پلے گراؤںڈ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Google search playground",
+        "hover_text": "Parij oʻyinlari avgust oyining eng koʻp qidirilgan oʻyin maydonchasi",
+        "share_text": "Parij oʻyinlari avgust oyining eng koʻp qidirilgan oʻyin maydonchasi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Google search playground",
+        "hover_text": "Thế vận hội Paris – Most Searched Playground tháng 8!",
+        "share_text": "Thế vận hội Paris – Most Searched Playground tháng 8! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "I-playground ye-Google search",
+        "hover_text": "Imidlalo yaseParis - Inkundla Yezemidlalo Eseshwe Kakhulu Ngo-Agasti",
+        "share_text": "Imidlalo yaseParis - Inkundla Yezemidlalo Eseshwe Kakhulu Ngo-Agasti! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Google search playground",
+    "share_text": "Paris Games August Most Searched Playground! #GoogleDoodle"
+  },
+  {
     "name": "paris-games-begin-august",
     "title": "Paris Games Begin - August",
     "url": "//www.google.com/logos/doodles/2024/paris-games-august-begin-6753651837110532-law.gif",
