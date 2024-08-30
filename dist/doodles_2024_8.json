@@ -1,5 +1,504 @@
 [
   {
+    "name": "paris-games-basketball",
+    "title": "Paris Games - Basketball",
+    "url": "//www.google.com/logos/doodles/2024/paris-games-basketball-6753651837110534-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/mpz8xX20CF7SQOE_7E7It8wJ_wgzIfJVJ8vZvNdFRGmviRlRro4MYJLJkVdyJ7ROEu5I8NxAZ9mrL1_M4t3HMjFlVw5fjfzVoP3Ha-RwfIoBXw9rLNDVDw",
+    "high_res_url": "//www.google.com/logos/doodles/2024/paris-games-basketball-6753651837110534.2-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      8,
+      30
+    ],
+    "translations": {
+      "en": {
+        "query": "wheelchair basketball paralympics",
+        "hover_text": "Paris Games Basketball",
+        "share_text": "Paris Games Basketball! #GoogleDoodle"
+      },
+      "af": {
+        "query": "paralimpiese spele van rolstoelbasketbal",
+        "hover_text": "Parys Spele – Basketbal",
+        "share_text": "Parys Spele – Basketbal! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "basketbolli në karrocë invalidësh në lojërat paralimpike",
+        "hover_text": "Lojërat e Parisit - Basketboll",
+        "share_text": "Basketbolli në Lojërat e Parisit! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የተሽከርካሪ ወንበር ቅርጫት ኳስ ፓራሊምፒክስ",
+        "hover_text": "የፓሪስ ጨዋታዎች የቅርጫት ኳስ",
+        "share_text": "የፓሪስ ጨዋታዎች የቅርጫት ኳስ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "بارالمبياد كرة السلة على الكراسي المتحركة",
+        "hover_text": "مسابقات كرة السلة في ألعاب باريس",
+        "share_text": "مسابقات كرة السلة في ألعاب باريس! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "անվասայլակով բասկետբոլ պարալիմպիկ խաղերում",
+        "hover_text": "Բասկետբոլ Փարիզի խաղերում",
+        "share_text": "Բասկետբոլ Փարիզի խաղերում #GoogleDoodle"
+      },
+      "az": {
+        "query": "əlil arabası basketbolu paralimpiya oyunları",
+        "hover_text": "Paris Oyunları basketbol",
+        "share_text": "Paris Oyunları basketbol! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "হুইলচেয়ার বাস্কেটবল প্যারালিম্পিক",
+        "hover_text": "প্যারিস গেমসে বাস্কেটবল",
+        "share_text": "প্যারিস গেমসে বাস্কেটবল! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "gurpil-aulkiko saskibaloi paralinpikoa",
+        "hover_text": "Parisko Jokoetako saskibaloia",
+        "share_text": "Parisko Jokoetako saskibaloia #GoogleDoodle"
+      },
+      "be": {
+        "query": "баскетбол на інвалідных калясках на Паралімпійскіх гульнях",
+        "hover_text": "Гульні ў Парыжы – Баскетбол",
+        "share_text": "Гульні ў Парыжы – Баскетбол! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "paraolimpijska košarka u invalidskim kolicima",
+        "hover_text": "Košarka na igrama u Parizu",
+        "share_text": "Košarka na igrama u Parizu! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Wheelchair Basketball Paralympics",
+        "hover_text": "Paris Games Basketball",
+        "share_text": "Paris Games Basketball #GoogleDoodle"
+      },
+      "bg": {
+        "query": "баскетбол с инвалидни колички на параолимпийските игри",
+        "hover_text": "Баскетбол на Игрите в Париж",
+        "share_text": "Баскетбол на Игрите в Париж! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဘီးတပ်ကုလားထိုင် ဘတ်စကက်ဘော မသန်စွမ်းအိုလံပစ်",
+        "hover_text": "ပဲရစ်ဂိမ်းများ ဘတ်စကက်ဘော",
+        "share_text": "ပဲရစ်ဂိမ်းများ ဘတ်စကက်ဘော။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "bàsquet amb cadira de rodes als jocs paralímpics",
+        "hover_text": "Bàsquet als Jocs de París",
+        "share_text": "Bàsquet als Jocs de París #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "輪椅籃球殘疾人奧運會",
+        "hover_text": "巴黎運動會籃球項目",
+        "share_text": "巴黎運動會籃球項目！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "輪椅籃球 帕運",
+        "hover_text": "巴黎賽事籃球項目",
+        "share_text": "巴黎賽事籃球項目熱血開賽！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "轮椅篮球 残奥会",
+        "hover_text": "巴黎运动盛会篮球项目",
+        "share_text": "巴黎运动盛会篮球项目！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "paraolimpijske igre – košarka u invalidskim kolicima",
+        "hover_text": "Igre u Parizu – košarka",
+        "share_text": "Igre u Parizu – košarka! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "paralympiáda basketbal na vozíku",
+        "hover_text": "Pařížské hry – basketbal",
+        "share_text": "Pařížské hry – basketbal! #GoogleDoodle"
+      },
+      "da": {
+        "query": "kørestolsbasketball para-ol",
+        "hover_text": "Basketball ved legene i Paris",
+        "share_text": "Basketball ved legene i Paris #GoogleDoodle"
+      },
+      "nl": {
+        "query": "rolstoelbasketbal paralympische spelen",
+        "hover_text": "Basketbal op de Spelen in Parijs",
+        "share_text": "Basketbal op de Spelen in Parijs! #GoogleDoodle"
+      },
+      "et": {
+        "query": "paraolümpia ratastoolikorvpall",
+        "hover_text": "Pariisi mängude korvpall",
+        "share_text": "Pariisi mängude korvpall! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "pyörätuolikoripallo",
+        "hover_text": "Koripallo Pariisin kisoissa",
+        "share_text": "Koripallo Pariisin kisoissa #GoogleDoodle"
+      },
+      "fr": {
+        "query": "basket fauteuil jeux paralympiques",
+        "hover_text": "Basket-ball aux Jeux de Paris",
+        "share_text": "Basket-ball aux Jeux de Paris ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Basket fauteuil aux Jeux paralympiques",
+        "hover_text": "Le basket fauteuil aux Jeux de Paris",
+        "share_text": "Le basket fauteuil aux Jeux de Paris! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "baloncesto en cadeira de rodas nos Xogos Paralímpicos",
+        "hover_text": "Baloncesto nos Xogos de París",
+        "share_text": "Baloncesto nos Xogos de París! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ეტლის კალათბურთი — პარალიმპიური თამაშები",
+        "hover_text": "პარიზის თამაშები — კალათბურთი",
+        "share_text": "პარიზის თამაშები — კალათბურთი! #GoogleDoodle"
+      },
+      "de": {
+        "query": "rollstuhlbasketball paralympics",
+        "hover_text": "Basketball bei den Sommerspielen in Paris",
+        "share_text": "Basketball bei den Sommerspielen in Paris! #GoogleDoodle"
+      },
+      "el": {
+        "query": "καλαθοσφαίριση με αμαξίδια στους Παραολυμπιακούς Αγώνες",
+        "hover_text": "Καλαθοσφαίριση στους Αγώνες στο Παρίσι",
+        "share_text": "Καλαθοσφαίριση στους Αγώνες στο Παρίσι! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "વ્હીલચેર બાસ્કેટબોલ પેરાલિમ્પિક્સ",
+        "hover_text": "પેરિસ ગેમમાં બાસ્કેટબૉલ",
+        "share_text": "પેરિસ ગેમમાં બાસ્કેટબૉલ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "iw": {
+        "query": "כדורסל בכיסאות גלגלים",
+        "hover_text": "כדורסל במשחקים בפריז",
+        "share_text": "כדורסל במשחקים בפריז GoogleDoodle#"
+      },
+      "hi": {
+        "query": "व्हीलचेयर बास्केटबॉल पैरालंपिक्स",
+        "hover_text": "पेरिस गेम्स में बास्केटबॉल",
+        "share_text": "पेरिस गेम्स में बास्केटबॉल! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Kerekesszékes kosárlabda paralimpia",
+        "hover_text": "Kosárlabda a Párizsi Játékokon",
+        "share_text": "Kosárlabda a Párizsi Játékokon! #GoogleDoodle"
+      },
+      "is": {
+        "query": "ólympíuleikar fatlaðra – körfubolti",
+        "hover_text": "Parísarleikarnir – Körfubolti",
+        "share_text": "Parísarleikarnir – Körfubolti! #GoogleDoodle"
+      },
+      "id": {
+        "query": "bola basket kursi roda paralimpiade",
+        "hover_text": "Pertandingan Paris - Basket",
+        "share_text": "Pertandingan Paris - Basket #GoogleDoodle"
+      },
+      "ga": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "it": {
+        "query": "pallacanestro in carrozzina paralimpiadi",
+        "hover_text": "Pallacanestro ai Giochi di Parigi",
+        "share_text": "Pallacanestro ai Giochi di Parigi! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "車いすバスケットボール　パラリンピック",
+        "hover_text": "パリ大会 車いすバスケットボール",
+        "share_text": "パリ大会車いすバスケットボール #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಗಾಲಿಕುರ್ಚಿ ಬ್ಯಾಸ್ಕೆಟ್‌ಬಾಲ್‌ ಪ್ಯಾರಾಲಿಂಪಿಕ್ಸ್",
+        "hover_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಬಾಸ್ಕೆಟ್‌ಬಾಲ್",
+        "share_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಬಾಸ್ಕೆಟ್‌ಬಾಲ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "арбадағы баскетбол паралимпиада ойындары",
+        "hover_text": "Париж ойындары – баскетбол",
+        "share_text": "Париж ойындары – баскетбол! #GoogleDoodle"
+      },
+      "km": {
+        "query": "កីឡាប៉ារ៉ាឡាំពិកបាល់បោះជិះរទេះ",
+        "hover_text": "កីឡាបាល់បោះក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស",
+        "share_text": "កីឡាបាល់បោះក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "휠체어 농구 패럴림픽",
+        "hover_text": "파리 2024 농구 종목",
+        "share_text": "파리 2024 농구 종목 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "майып арабачандардын баскетболу паралимпиада оюндары",
+        "hover_text": "Париж оюндары – Баскетбол",
+        "share_text": "Париж оюндары – Баскетбол! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ກິລາບານບ້ວງແບບຂີ່ລໍ້ພາຣາລິມປິກ",
+        "hover_text": "ບານບ້ວງຢູ່ການແຂ່ງຂັນກິລາປາຣີສ",
+        "share_text": "ບານບ້ວງຢູ່ການແຂ່ງຂັນກິລາປາຣີສ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "baloncesto en silla de ruedas paralímpicos",
+        "hover_text": "Baloncesto en los Juegos de París",
+        "share_text": "Baloncesto en los Juegos de París #GoogleDoodle"
+      },
+      "lv": {
+        "query": "ratiņkrēslu basketbols — paraolimpiskās spēles",
+        "hover_text": "Parīzes spēles — basketbols",
+        "share_text": "Parīzes spēles — basketbols! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "krepšinis paralimpinėse žaidynėse",
+        "hover_text": "Krepšinis Paryžiaus paralimpinėse žaidynėse",
+        "share_text": "Krepšinis Paryžiaus paralimpinėse žaidynėse! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "кошарка во инвалидска количка на параолимпијадата",
+        "hover_text": "Кошарка на игрите во Париз",
+        "share_text": "Кошарка на игрите во Париз! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ms": {
+        "query": "bola keranjang kerusi roda paralimpik",
+        "hover_text": "Bola Keranjang Kejohanan Paris",
+        "share_text": "Bola Keranjang Kejohanan Paris! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "വീൽചെയർ ബാസ്കറ്റ്ബോൾ പാരാലിമ്പിക്സ്‌",
+        "hover_text": "പാരീസ് ഗെയിംസ് ബാസ്ക്കറ്റ്‌ബോൾ",
+        "share_text": "പാരീസ് ഗെയിംസ് ബാസ്ക്കറ്റ്‌ബോൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "mr": {
+        "query": "व्हीलचेअर बास्केटबॉल पॅरालिम्पिक्स",
+        "hover_text": "पॅरिस गेम्समधील बास्केटबॉल",
+        "share_text": "पॅरिस गेम्समधील बास्केटबॉल! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "паралимпын тэргэнцэртэй сагсан бөмбөг",
+        "hover_text": "Парисын наадмын сагсан бөмбөг",
+        "share_text": "Парисын наадмын сагсан бөмбөг! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "ह्विलचेयर बास्केटबल पारालम्पिक",
+        "hover_text": "पेरिस गेमअन्तर्गतको ह्विलचेयर बास्केटबल",
+        "share_text": "पेरिस गेमअन्तर्गतको ह्विलचेयर बास्केटबल! #GoogleDoodle"
+      },
+      "no": {
+        "query": "rullestolbasket i de paralympiske leker",
+        "hover_text": "Basketball i Paris-lekene",
+        "share_text": "Basketball i Paris-lekene! #GoogleDoodle"
+      },
+      "nn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ny": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "or": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ps": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "fa": {
+        "query": "بسکتبال با صندلی چرخدار در پارالمپیک",
+        "hover_text": "بسکتبال در «بازی‌های پاریس»",
+        "share_text": "بسکتبال در «بازی‌های پاریس»! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "koszykówka na wózkach paraolimpiada",
+        "hover_text": "Koszykówka na igrzyskach w Paryżu",
+        "share_text": "Koszykówka na igrzyskach w Paryżu #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "basquete em cadeira de rodas paralimpíadas",
+        "hover_text": "Basquete nos Jogos de Paris",
+        "share_text": "Basquete nos Jogos de Paris #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "basquetebol em cadeira de rodas paralímpicos",
+        "hover_text": "Jogos de Paris – Basquete",
+        "share_text": "Jogos de Paris – Basquete! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਵ੍ਹੀਲਚੇਅਰ ਬਾਸਕਟਬਾਲ ਪੈਰਾਲਿੰਪਿਕਸ",
+        "hover_text": "ਪੈਰਿਸ ਖੇਡਾਂ - ਬਾਸਕਟਬਾਲ",
+        "share_text": "ਪੈਰਿਸ ਖੇਡਾਂ - ਬਾਸਕਟਬਾਲ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Jocurile Paralimpice de baschet în fotoliu rulant",
+        "hover_text": "Baschet la Jocurile de la Paris",
+        "share_text": "Baschet la Jocurile de la Paris! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ru": {
+        "query": "баскетбол на колясках паралимпиада",
+        "hover_text": "Баскетбол на Играх в Париже",
+        "share_text": "Баскетбол на Играх в Париже #GoogleDoodle"
+      },
+      "sr": {
+        "query": "кошарка у колицима на параолимпијади",
+        "hover_text": "Кошарка на Играма у Паризу",
+        "share_text": "Кошарка на Играма у Паризу! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "košarka u kolicima na paraolimpijadi",
+        "hover_text": "Košarka na Igrama u Parizu",
+        "share_text": "Košarka na Igrama u Parizu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "crs": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "si": {
+        "query": "රෝද පුටු පැසිපන්දු පැරාලිම්පික්",
+        "hover_text": "පැරිස් ක්‍රීඩා පැසිපන්දු",
+        "share_text": "පැරිස් ක්‍රීඩා පැසිපන්දු! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "basketbal na vozíku paralympiáda",
+        "hover_text": "Basketbal na hrách v Paríži",
+        "share_text": "Basketbal na hrách v Paríži. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "košarka na invalidskih vozičkih na paraolimpijskih igrah",
+        "hover_text": "Košarka na igrah v Parizu",
+        "share_text": "Košarka na igrah v Parizu! #GoogleDoodle"
+      },
+      "so": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "st": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "es": {
+        "query": "baloncesto en silla de ruedas paralímpicos",
+        "hover_text": "Baloncesto en los Juegos de París",
+        "share_text": "Baloncesto en los Juegos de París #GoogleDoodle"
+      },
+      "sw": {
+        "query": "mpira wa kikapu kwa wachezaji wanaotumia viti vya magurudumu",
+        "hover_text": "Michezo ya Paris ya Mpira wa Kikapu",
+        "share_text": "Michezo ya Paris ya Mpira wa Kikapu! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "rullstolsbasket paralympics",
+        "hover_text": "Basket i Parisspelen",
+        "share_text": "Basket i Parisspelen! #GoogleDoodle"
+      },
+      "tg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ta": {
+        "query": "வீல்சேர் கூடைப்பந்து ஒலிம்பிக்ஸ்",
+        "hover_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் கூடைப்பந்து",
+        "share_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் கூடைப்பந்து! #GoogleDoodle"
+      },
+      "te": {
+        "query": "వీల్‌చైర్ బాస్కెట్‌బాల్ పారాలింపిక్స్",
+        "hover_text": "ప్యారిస్ గేమ్స్ బాస్కెట్‌బాల్",
+        "share_text": "ప్యారిస్ గేమ్స్ బాస్కెట్‌బాల్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วีลแชร์บาสเกตบอล พาราโอลิมปิก",
+        "hover_text": "บาสเกตบอลที่ปารีสเกมส์",
+        "share_text": "บาสเกตบอลที่ปารีสเกมส์! #GoogleDoodle"
+      },
+      "tn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "tr": {
+        "query": "tekerlekli sandalye basketbol paralimpik oyunları",
+        "hover_text": "Paris Yaz Oyunları Basketbol",
+        "share_text": "Paris Yaz Oyunları Basketbol #GoogleDoodle"
+      },
+      "tk": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "uk": {
+        "query": "баскетбол на візках паралімпіада",
+        "hover_text": "Паризькі ігри: баскетбол",
+        "share_text": "Паризькі ігри: баскетбол! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "ویل چیئر باسکیٹ بال پیرالمپکس",
+        "hover_text": "پیرس گیمز باسکٹ بال",
+        "share_text": "پیرس گیمز باسکٹ بال! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "nogironlar aravachasida basketbol paralimpiya oʻyinlari",
+        "hover_text": "Parij oʻyinlari basketbol",
+        "share_text": "Parij oʻyinlari basketbol! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "bóng rổ xe lăn paralympics",
+        "hover_text": "Môn bóng rổ tại Thế vận hội Paris",
+        "share_text": "Môn bóng rổ tại Thế vận hội Paris! #GoogleDoodle"
+      },
+      "wo": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "zu": {
+        "query": "i-wheelchair basketball paralympics",
+        "hover_text": "IBasketball Emidlalweni YaseParis",
+        "share_text": "IBasketball Emidlalweni YaseParis! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "wheelchair basketball paralympics",
+    "share_text": "Paris Games Basketball! #GoogleDoodle"
+  },
+  {
     "name": "paris-games-august-most-searched-playground",
     "title": "Paris Games -  August Most Searched Playground",
     "url": "//www.google.com/logos/doodles/2024/paris-games-august-most-searched-playground-6753651837110533-law.gif",
