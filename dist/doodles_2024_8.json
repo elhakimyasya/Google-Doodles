@@ -1,5 +1,1003 @@
 [
   {
+    "name": "hari-merdeka-2024",
+    "title": "Hari Merdeka 2024",
+    "url": "//www.google.com/logos/doodles/2024/hari-merdeka-2024-6753651837110281-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/e4Q7cTOwfRwDlQje1xzxljpXhZMpo-R3UAdOPbYUXwIUxlHDFzCIWK9w2hB1cwZwZvtp_Chcmvk8gE3jsvwDlKl7KHT9AqhR6zjRl4pVt577LgUZjmrzww",
+    "high_res_url": "//www.google.com/logos/doodles/2024/hari-merdeka-2024-6753651837110281-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      8,
+      31
+    ],
+    "translations": {
+      "en": {
+        "query": "Merdeka",
+        "hover_text": "Merdeka 2024",
+        "share_text": "Happy Merdeka, Malaysia! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Merdeka",
+        "hover_text": "Merdeka 2024",
+        "share_text": "Gelukkige Merdeka, Maleisië! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Merdeka",
+        "hover_text": "Merdeka, 2024",
+        "share_text": "Gëzuar Merdeka, Malajzi! #GoogleDoodle"
+      },
+      "am": {
+        "query": "መርዴካ",
+        "hover_text": "መርዴካ 2024",
+        "share_text": "መልካም መርዴካ፣ ማሌዢያ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال ماليزيا (ميرديكا)",
+        "hover_text": "عيد استقلال ماليزيا (ميرديكا) 2024",
+        "share_text": "أجمل الأمنيات بمناسبة عيد استقلال ماليزيا (ميرديكا). ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Մերդեկա",
+        "hover_text": "Մերդեկա 2024",
+        "share_text": "Շնորհավո՛ր Մերդեկա, Մալա՛յզիա։ #GoogleDoodle"
+      },
+      "az": {
+        "query": "Merdeka",
+        "hover_text": "2024 Merdeka",
+        "share_text": "Merdeka Gününüz Mübarək, Malayziya! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "মারডেকা",
+        "hover_text": "মারডেকা ২০২৪",
+        "share_text": "মারডেকার শুভেচ্ছা, মালয়েশিয়া! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Hari Merdeka",
+        "hover_text": "2024ko Hari Merdeka",
+        "share_text": "Hari Merdeka zoriontsua izan, Malaysia! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Мердэка",
+        "hover_text": "Мердэка 2024",
+        "share_text": "Віншуем з мердэкай – Днём незалежнасці, Малайзія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Merdeka",
+        "hover_text": "Merdeka 2024.",
+        "share_text": "Sretna Merdeka, Malezijo! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Merdeka",
+        "hover_text": "Merdeka 2024",
+        "share_text": "Happy Merdeka, Malaysia! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта",
+        "hover_text": "Ден на независимостта на Малайзия 2024 г.",
+        "share_text": "Честит Ден на независимостта на Малайзия! #GoogleDoodle"
+      },
+      "my": {
+        "query": "လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ ဖြစ်ပါစေ၊ မလေးရှားနိုင်ငံ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Merdeka",
+        "hover_text": "Merdeka 2024",
+        "share_text": "Feliç Merdeka, Malàisia! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "馬來西亞獨立日",
+        "hover_text": "2024 年馬來西亞獨立日",
+        "share_text": "馬來西亞，獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "馬來西亞獨立日",
+        "hover_text": "2024 年馬來西亞獨立日",
+        "share_text": "馬來西亞獨立日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "马来西亚独立日",
+        "hover_text": "2024 年马来西亚独立日",
+        "share_text": "欢庆马来西亚独立日！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Merdeka",
+        "hover_text": "Merdeka 2024.",
+        "share_text": "Sretna merdeka, Malezijo! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Merdeka",
+        "hover_text": "Merdeka 2024",
+        "share_text": "Vše nejlepší ke svátku Merdeka, Malajsie! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Merdeka",
+        "hover_text": "Merdeka 2024",
+        "share_text": "Glædelig Merdeka, Malaysia #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Hari Merdeka",
+        "hover_text": "Hari Merdeka 2024",
+        "share_text": "Fijne Hari Merdeka, Maleisië! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Malaisia iseseisvuspäev",
+        "hover_text": "Malaisia 2024. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Malaisia! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Merdeka",
+        "hover_text": "Merdeka 2024",
+        "share_text": "Hyvää Merdekaa, Malesia! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance de la Malaisie",
+        "hover_text": "Fête de l'Indépendance de la Malaisie 2024",
+        "share_text": "Fête de l'Indépendance de la Malaisie ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête nationale de la Malaisie",
+        "hover_text": "Fête nationale de la Malaisie 2024",
+        "share_text": "Joyeuse fête nationale de la Malaisie! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Merdeka",
+        "hover_text": "Merdeka 2024",
+        "share_text": "Feliz Día da Independencia, Malaisia! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მერდეკა",
+        "hover_text": "მერდეკა — 2024",
+        "share_text": "ვულოცავთ მალაიზიას მერდეკას! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Merdeka",
+        "hover_text": "Merdeka 2024",
+        "share_text": "Wir feiern den Unabhängigkeitstag „Merdeka“ in Malaysia. #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας της Μαλαισίας",
+        "hover_text": "Ημέρα Ανεξαρτησίας της Μαλαισίας 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας της Μαλαισίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "મર્ડેકા",
+        "hover_text": "મર્ડેકા 2024",
+        "share_text": "મલેશિયા, મર્ડેકાની શુભેચ્છાઓ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Merdeka",
+        "hover_text": "יום העצמאות של מלזיה 2024",
+        "share_text": "חוגגים את יום העצמאות של מלזיה GoogleDoodle#"
+      },
+      "hi": {
+        "query": "मर्डेका",
+        "hover_text": "मर्डेका 2024",
+        "share_text": "मर्डेका की शुभकामनाएं, मलेशिया! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Merdeka",
+        "hover_text": "Merdeka, 2024",
+        "share_text": "Minden jót a merdeka napján, Malajzia! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Merdeka",
+        "hover_text": "Merdeka 2024",
+        "share_text": "Gleðilegt Merdeka, Malasía! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Merdeka",
+        "hover_text": "Hari Merdeka 2024",
+        "share_text": "Selamat Hari Merdeka, Malaysia! #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Merdeka",
+        "hover_text": "Merdeka 2024",
+        "share_text": "Felice Merdeka, Malaysia! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ムルデカ",
+        "hover_text": "2024 年ムルデカ",
+        "share_text": "マレーシアのムルデカを祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಮೆರ್ಡೆಕಾ",
+        "hover_text": "ಮೆರ್ಡೆಕಾ 2024",
+        "share_text": "ಮೆರ್ಡೆಕಾ ಶುಭಾಶಯಗಳು, ಮಲೇಷ್ಯಾ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Мердека",
+        "hover_text": "Мердека – 2024",
+        "share_text": "Мердека күні құтты болсын, Малайзия! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាបុណ្យ​ឯករាជ្យជាតិ​ម៉ាឡេស៊ី",
+        "hover_text": "ទិវាបុណ្យ​ឯករាជ្យជាតិ​ម៉ាឡេស៊ីឆ្នាំ 2024",
+        "share_text": "អបអរទិវាបុណ្យ​ឯករាជ្យជាតិ​ម៉ាឡេស៊ី! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "말레이시아 독립기념일",
+        "hover_text": "2024년 말레이시아 독립기념일",
+        "share_text": "말레이시아 독립기념일 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Мердека",
+        "hover_text": "Мердека — 2024",
+        "share_text": "Мердека күнүң менен, Малайзия! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຊາດມາເລເຊຍ",
+        "hover_text": "ວັນຊາດມາເລເຊຍ 2024",
+        "share_text": "ສຸກສັນວັນຊາດມາເລເຊຍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Malasia",
+        "hover_text": "Día de la Independencia de Malasia 2024",
+        "share_text": "¡Feliz Día de la Independencia, Malasia! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Malaizijas Neatkarības diena",
+        "hover_text": "Malaizijas Neatkarības diena — 2024",
+        "share_text": "Sveicam Neatkarības dienā, Malaizija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Malaizijos nepriklausomybės diena",
+        "hover_text": "Malaizijos nepriklausomybės diena, 2024 m.",
+        "share_text": "Sveikiname Malaiziją su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста",
+        "hover_text": "Ден на независноста, 2024 г.",
+        "share_text": "Среќен Ден на независноста, Малезија! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Merdeka",
+        "hover_text": "Merdeka 2024",
+        "share_text": "Selamat Hari Merdeka, Malaysia! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "മെർഡേക്ക",
+        "hover_text": "മെർഡേക്ക 2024",
+        "share_text": "മെർഡേക്ക ആശംസകൾ, മലേഷ്യ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "मर्देका",
+        "hover_text": "मर्देका २०२४",
+        "share_text": "मलेशियाला मर्देकाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Мердека",
+        "hover_text": "2024 оны Мердека",
+        "share_text": "Мердекагийн баярын мэнд, Малайз! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "स्वतन्त्रता दिवस",
+        "hover_text": "स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, मलेसिया! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Merdeka",
+        "hover_text": "Merdeka 2024",
+        "share_text": "Gratulerer med Merdeka, Malaysia! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "مِردِکا، روز استقلال مالزی",
+        "hover_text": "مِردِکا ۲۰۲۴، روز استقلال مالزی",
+        "share_text": "مِردِکا، روز استقلال مالزی، مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Merdeka",
+        "hover_text": "Merdeka 2024",
+        "share_text": "Malezja świętuje Merdekę #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Merdeka",
+        "hover_text": "Dia da Independência da Malásia 2024",
+        "share_text": "Feliz Dia da Independência, Malásia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Merdeka",
+        "hover_text": "Merdeka de 2024",
+        "share_text": "Feliz Merdeka, Malásia! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਮਰਡੇਕਾ",
+        "hover_text": "ਮਰਡੇਕਾ 2024",
+        "share_text": "ਮਰਡੇਕਾ ਦੀਆਂ ਵਧਾਈਆਂ, ਮਲੇਸ਼ੀਆ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Merdeka",
+        "hover_text": "Merdeka 2024",
+        "share_text": "O zi fericită de Merdeka, Malaysia! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Хари Мердека",
+        "hover_text": "Хари Мердека – 2024",
+        "share_text": "Хари Мердека в Малайзии #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Мердека",
+        "hover_text": "Мердека 2024.",
+        "share_text": "Честитамо Мердеку Малезији! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Merdeka",
+        "hover_text": "Merdeka 2024.",
+        "share_text": "Čestitamo Merdeku Maleziji! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "මර්ඩේකා",
+        "hover_text": "මර්ඩේකා 2024",
+        "share_text": "ප්‍රීතිමත් මර්ඩේකා, මැලේසියාව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Merdeka",
+        "hover_text": "Merdeka 2024",
+        "share_text": "Šťastný sviatok Merdeka, Malajzia! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Merdeka",
+        "hover_text": "Merdeka 2024",
+        "share_text": "Veselo merdeko, Malezija! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Merdeka",
+        "hover_text": "Merdeka 2024",
+        "share_text": "¡Feliz Merdeka, Malasia! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Merdeka",
+        "hover_text": "Merdeka 2024",
+        "share_text": "Heri ya Merdeka, Malesia! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Malaysias självständighetsdag",
+        "hover_text": "Malaysias självständighetsdag 2024",
+        "share_text": "Vi firar Malaysias självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "மலேசிய சுதந்திர தினம்",
+        "hover_text": "மலேசிய சுதந்திர தினம் 2024",
+        "share_text": "சுதந்திர தின வாழ்த்துகள், மலேசியா! #GoogleDoodle"
+      },
+      "te": {
+        "query": "మెర్డెకా",
+        "hover_text": "మెర్డెకా 2024",
+        "share_text": "మలేషియా ప్రజలకు మెర్డెకా శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันชาติมาเลเซีย",
+        "hover_text": "วันชาติมาเลเซียปี 2024",
+        "share_text": "สุขสันต์วันชาติมาเลเซีย! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Malezya Bağımsızlık Günü",
+        "hover_text": "2024 Malezya Bağımsızlık Günü",
+        "share_text": "Malezya'nın Bağımsızlık Günü'nü kutluyoruz #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Мердека",
+        "hover_text": "Мердека у 2024 році",
+        "share_text": "З Днем незалежності, Малайзіє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "مرڈیکا",
+        "hover_text": "مرڈیکا 2024",
+        "share_text": "مرڈیکا مبارک ہو، ملائیشیا! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Merdeka",
+        "hover_text": "Merdeka 2024",
+        "share_text": "Merdeka kuni bilan, Malayziya! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Quốc khánh Malaysia",
+        "hover_text": "Ngày Quốc khánh Malaysia năm 2024",
+        "share_text": "Chúc mừng Ngày Quốc khánh Malaysia! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "IMerdeka",
+        "hover_text": "IMerdeka ka-2024",
+        "share_text": "Sikufisela iMerdeka ejabulisayo, Malaysia! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Merdeka",
+    "share_text": "Happy Merdeka, Malaysia! #GoogleDoodle"
+  },
+  {
+    "name": "paris-games-athletics",
+    "title": "Paris Games - Athletics",
+    "url": "//www.google.com/logos/doodles/2024/paris-games-athletics-6753651837110535.2-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/7YAOfj044l8dqhyAJLSCRKfWzisfroNr_ZycKvFPmn_yMlW9KynaPyoza-9caRvY9k4_aathGTaB-gHFBe9NCRkdYG0Cu207ajWx3q0tL9Qh-ifc6cA5",
+    "high_res_url": "//www.google.com/logos/doodles/2024/paris-games-athletics-6753651837110535-2xa.gif",
+    "high_res_width": 750,
+    "high_res_height": 300,
+    "run_date_array": [
+      2024,
+      8,
+      31
+    ],
+    "translations": {
+      "en": {
+        "query": "athletics paralympics",
+        "hover_text": "Paris Games Athletics",
+        "share_text": "Paris Games Athletics! #GoogleDoodle"
+      },
+      "af": {
+        "query": "paralimpiese spele van atletiek",
+        "hover_text": "Parys Spele – Atletiek",
+        "share_text": "Parys Spele – Atletiek! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "atletika në lojërat paralimpike",
+        "hover_text": "Lojërat e Parisit - Atletikë",
+        "share_text": "Atletika në Lojërat e Parisit! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአትሌቲክስ ፓራሊምፒክስ",
+        "hover_text": "የፓሪስ ጨዋታዎች አትሌቲክስ",
+        "share_text": "የፓሪስ ጨዋታዎች አትሌቲክስ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "بارالمبياد ألعاب القوى",
+        "hover_text": "مسابقات ألعاب القوى في ألعاب باريس",
+        "share_text": "مسابقات ألعاب القوى في ألعاب باريس! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "աթլետիկա պարալիմպիկ խաղերում",
+        "hover_text": "Աթլետիկա Փարիզի խաղերում",
+        "share_text": "Աթլետիկա Փարիզի խաղերում #GoogleDoodle"
+      },
+      "az": {
+        "query": "atletika paralimpiya oyunları",
+        "hover_text": "Paris Oyunları atletika",
+        "share_text": "Paris Oyunları atletika! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "অ্যাথলেটিকস প্যারালিম্পিক",
+        "hover_text": "প্যারিস গেমসে অ্যাথলেটিক্স",
+        "share_text": "প্যারিস গেমসে অ্যাথলেটিক্স! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "atletismo paralinpikoa",
+        "hover_text": "Parisko Jokoetako atletismoa",
+        "share_text": "Parisko Jokoetako atletismoa #GoogleDoodle"
+      },
+      "be": {
+        "query": "лёгкая атлетыка на Паралімпійскіх гульнях",
+        "hover_text": "Гульні ў Парыжы – Лёгкая атлетыка",
+        "share_text": "Гульні ў Парыжы – Лёгкая атлетыка! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "paraolimpijska atletika",
+        "hover_text": "Atletika na igrama u Parizu",
+        "share_text": "Atletika na igrama u Parizu! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Athletics Paralympics",
+        "hover_text": "Paris Games Athletics",
+        "share_text": "Paris Games Athletics #GoogleDoodle"
+      },
+      "bg": {
+        "query": "атлетика на Параолимпийските игри",
+        "hover_text": "Атлетика на Игрите в Париж",
+        "share_text": "Атлетика на Игрите в Париж! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ပြေးခုန်ပစ် မသန်စွမ်းအိုလံပစ်",
+        "hover_text": "ပဲရစ်ဂိမ်းများ ပြေးခုန်ပစ်",
+        "share_text": "ပဲရစ်ဂိမ်းများ ပြေးခုန်ပစ်။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "atletisme als jocs paralímpics",
+        "hover_text": "Atletisme als Jocs de París",
+        "share_text": "Atletisme als Jocs de París #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "田徑殘疾人奧運會",
+        "hover_text": "巴黎運動會田徑項目",
+        "share_text": "巴黎運動會田徑項目！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "田徑 帕運",
+        "hover_text": "巴黎賽事田徑項目",
+        "share_text": "巴黎賽事田徑項目熱血開賽！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "田径 残奥会",
+        "hover_text": "巴黎运动盛会田径项目",
+        "share_text": "巴黎运动盛会田径项目！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "paraolimpijske igre – atletika",
+        "hover_text": "Igre u Parizu – atletika",
+        "share_text": "Igre u Parizu – atletika! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "paralympiáda atletika",
+        "hover_text": "Pařížské hry – atletika",
+        "share_text": "Pařížské hry – atletika! #GoogleDoodle"
+      },
+      "da": {
+        "query": "atletik paralympiske lege",
+        "hover_text": "Atletik ved legene i Paris",
+        "share_text": "Atletik ved legene i Paris #GoogleDoodle"
+      },
+      "nl": {
+        "query": "atletiek paralympische spelen",
+        "hover_text": "Atletiek op de Spelen in Parijs",
+        "share_text": "Atletiek op de Spelen in Parijs! #GoogleDoodle"
+      },
+      "et": {
+        "query": "paraolümpia kergejõustik",
+        "hover_text": "Pariisi mängude kergejõustik",
+        "share_text": "Pariisi mängude kergejõustik! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "yleisurheilu paralympialaiset",
+        "hover_text": "Yleisurheilu Pariisin kisoissa",
+        "share_text": "Yleisurheilu Pariisin kisoissa #GoogleDoodle"
+      },
+      "fr": {
+        "query": "athlétisme jeux paralympiques",
+        "hover_text": "Athlétisme aux Jeux de Paris",
+        "share_text": "Athlétisme aux Jeux de Paris ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "athlétisme aux Jeux paralympiques",
+        "hover_text": "L'athlétisme aux Jeux de Paris",
+        "share_text": "L'athlétisme aux Jeux de Paris! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "atletismo nos Xogos Paralímpicos",
+        "hover_text": "Atletismo nos Xogos de París",
+        "share_text": "Atletismo nos Xogos de París! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ათლეტიკა — პარალიმპიური თამაშები",
+        "hover_text": "პარიზის თამაშები — ათლეტიკა",
+        "share_text": "პარიზის თამაშები — ათლეტიკა! #GoogleDoodle"
+      },
+      "de": {
+        "query": "leichtathletik paralympics",
+        "hover_text": "Leichtathletik bei den Sommerspielen in Paris",
+        "share_text": "Leichtathletik bei den Sommerspielen in Paris! #GoogleDoodle"
+      },
+      "el": {
+        "query": "αθλήματα στους Παραολυμπιακούς Αγώνες",
+        "hover_text": "Αθλήματα στους Αγώνες στο Παρίσι",
+        "share_text": "Αθλήματα στους Αγώνες στο Παρίσι! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "એથલેટિક્સ પેરાલિમ્પિક્સ",
+        "hover_text": "પેરિસ ગેમમાં ઍથ્લેટિક્સ",
+        "share_text": "પેરિસ ગેમમાં ઍથ્લેટિક્સ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "iw": {
+        "query": "אתלטיקה במשחקים הפאראלימפיים",
+        "hover_text": "אתלטיקה במשחקים בפריז",
+        "share_text": "אתלטיקה במשחקים בפריז GoogleDoodle#"
+      },
+      "hi": {
+        "query": "एथलेटिक्स पैरालंपिक्स",
+        "hover_text": "पेरिस गेम्स में एथलेटिक्स",
+        "share_text": "पेरिस गेम्स में एथलेटिक्स! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Atlétika paralimpia",
+        "hover_text": "Atlétika a Párizsi Játékokon",
+        "share_text": "Atlétika a Párizsi Játékokon! #GoogleDoodle"
+      },
+      "is": {
+        "query": "ólympíuleikar fatlaðra – íþróttafólk",
+        "hover_text": "Parísarleikarnir – Frjálsíþróttir",
+        "share_text": "Parísarleikarnir – Frjálsíþróttir! #GoogleDoodle"
+      },
+      "id": {
+        "query": "atletik paralimpiade",
+        "hover_text": "Pertandingan Paris - Atletik",
+        "share_text": "Pertandingan Paris - Atletik #GoogleDoodle"
+      },
+      "ga": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "it": {
+        "query": "atletica leggera paralimpiadi",
+        "hover_text": "Atletica ai Giochi di Parigi",
+        "share_text": "Atletica ai Giochi di Parigi! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "陸上　パラリンピック",
+        "hover_text": "パリ大会 陸上競技",
+        "share_text": "パリ大会 陸上競技 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಅಥ್ಲೆಟಿಕ್ಸ್ ಪ್ಯಾರಾಲಿಂಪಿಕ್ಸ್",
+        "hover_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಅಥ್ಲೆಟಿಕ್ಸ್",
+        "share_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಅಥ್ಲೆಟಿಕ್ಸ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "жеңіл атлетика бойынша паралимпиада ойындары",
+        "hover_text": "Париж ойындары – жеңіл атлетика",
+        "share_text": "Париж ойындары – жеңіл атлетика! #GoogleDoodle"
+      },
+      "km": {
+        "query": "កីឡាប៉ារ៉ាឡាំពិកអត្តពលកម្ម",
+        "hover_text": "កីឡាអត្តពលកម្មក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស",
+        "share_text": "កីឡាអត្តពលកម្មក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "육상 패럴림픽",
+        "hover_text": "파리 2024 육상 종목",
+        "share_text": "파리 2024 육상 종목 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "жеңил атлетика паралимпиада оюндары",
+        "hover_text": "Париж оюндары – Жеңил атлетика",
+        "share_text": "Париж оюндары – Жеңил атлетика! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ກິລາກຣີທາພາຣາລິມປິກ",
+        "hover_text": "ກຣີທາຢູ່ການແຂ່ງຂັນກິລາປາຣີສ",
+        "share_text": "ກຣີທາຢູ່ການແຂ່ງຂັນກິລາປາຣີສ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "atletismo paralímpicos",
+        "hover_text": "Atletismo en los Juegos de París",
+        "share_text": "Atletismo en los Juegos de París #GoogleDoodle"
+      },
+      "lv": {
+        "query": "vieglatlētika — paraolimpiskās spēles",
+        "hover_text": "Parīzes spēles — vieglatlētika",
+        "share_text": "Parīzes spēles — vieglatlētika! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "lengvoji atletika paralimpinėse žaidynėse",
+        "hover_text": "Lengvoji atletika Paryžiaus paralimpinėse žaidynėse",
+        "share_text": "Lengvoji atletika Paryžiaus paralimpinėse žaidynėse! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "атлетика на параолимпијадата",
+        "hover_text": "Атлетика на игрите во Париз",
+        "share_text": "Атлетика на игрите во Париз! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ms": {
+        "query": "olahraga paralimpik",
+        "hover_text": "Olahraga Kejohanan Paris",
+        "share_text": "Olahraga Kejohanan Paris! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "അത്‌ലെറ്റിക്സ് പാരാലിമ്പിക്സ്‌",
+        "hover_text": "പാരീസ് ഗെയിംസ് അത്‌ലറ്റിക്സ്",
+        "share_text": "പാരീസ് ഗെയിംസ് അത്‌ലറ്റിക്സ്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "mr": {
+        "query": "अ‍ॅथलेटिक्स पॅरालिम्पिक्स",
+        "hover_text": "पॅरिस गेम्समधील ॲथलेटिक्स",
+        "share_text": "पॅरिस गेम्समधील ॲथलेटिक्स! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "паралимпын хөнгөн атлетик",
+        "hover_text": "Парисын наадмын хөнгөн атлетик",
+        "share_text": "Парисын наадмын хөнгөн атлетик! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "एथलेटिक्स पारालम्पिक",
+        "hover_text": "पेरिस गेमअन्तर्गतको एथलेटिक्स",
+        "share_text": "पेरिस गेमअन्तर्गतको एथलेटिक्स! #GoogleDoodle"
+      },
+      "no": {
+        "query": "friidrett i de paralympiske leker",
+        "hover_text": "Friidrett i Paris-lekene",
+        "share_text": "Friidrett i Paris-lekene! #GoogleDoodle"
+      },
+      "nn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ny": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "or": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ps": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "fa": {
+        "query": "دوومیدانی در پارالمپیک",
+        "hover_text": "دوومیدانی در «بازی‌های پاریس»",
+        "share_text": "دوومیدانی در «بازی‌های پاریس»! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "lekkoatletyka paraolimpiada",
+        "hover_text": "Lekkoatletyka na igrzyskach w Paryżu",
+        "share_text": "Lekkoatletyka na igrzyskach w Paryżu #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "atletismo paralimpíadas",
+        "hover_text": "Atletismo nos Jogos de Paris",
+        "share_text": "Atletismo nos Jogos de Paris #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "atletismo paralímpicos",
+        "hover_text": "Jogos de Paris – Atletismo",
+        "share_text": "Jogos de Paris – Atletismo! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਅਥਲੈਟਿਕਸ ਪੈਰਾਲਿੰਪਿਕਸ",
+        "hover_text": "ਪੈਰਿਸ ਖੇਡਾਂ - ਅਥਲੈਟਿਕਸ",
+        "share_text": "ਪੈਰਿਸ ਖੇਡਾਂ - ਅਥਲੈਟਿਕਸ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Jocurile Paralimpice de atletism",
+        "hover_text": "Atletism la Jocurile de la Paris",
+        "share_text": "Atletism la Jocurile de la Paris! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ru": {
+        "query": "лёгкая атлетика паралимпиада",
+        "hover_text": "Легкая атлетика на Играх в Париже",
+        "share_text": "Легкая атлетика на Играх в Париже #GoogleDoodle"
+      },
+      "sr": {
+        "query": "атлетика на параолимпијади",
+        "hover_text": "Атлетика на Играма у Паризу",
+        "share_text": "Атлетика на Играма у Паризу! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "atletika na paraolimpijadi",
+        "hover_text": "Atletika na Igrama u Parizu",
+        "share_text": "Atletika na Igrama u Parizu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "crs": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "si": {
+        "query": "මලල ක්‍රීඩා පැරාලිම්පික්",
+        "hover_text": "පැරිස් ක්‍රීඩා මලල ක්‍රීඩා",
+        "share_text": "පැරිස් ක්‍රීඩා මලල ක්‍රීඩා! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "atletika paralympiáda",
+        "hover_text": "Atletika na hrách v Paríži",
+        "share_text": "Atletika na hrách v Paríži. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "atletika na paraolimpijskih igrah",
+        "hover_text": "Atletika na igrah v Parizu",
+        "share_text": "Atletika na igrah v Parizu! #GoogleDoodle"
+      },
+      "so": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "st": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "es": {
+        "query": "atletismo paralímpicos",
+        "hover_text": "Atletismo en los Juegos de París",
+        "share_text": "Atletismo en los Juegos de París #GoogleDoodle"
+      },
+      "sw": {
+        "query": "riadha paralimpiki",
+        "hover_text": "Michezo ya Paris ya Riadha",
+        "share_text": "Michezo ya Paris ya Riadha! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "friidrott paralympics",
+        "hover_text": "Friidrott i Parisspelen",
+        "share_text": "Friidrott i Parisspelen! #GoogleDoodle"
+      },
+      "tg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ta": {
+        "query": "தடகளம் பாராலிம்பிக்ஸ்",
+        "hover_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் தடகளம்",
+        "share_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் தடகளம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "అథ్లెటిక్స్ పారాలింపిక్స్",
+        "hover_text": "ప్యారిస్ గేమ్స్ అథ్లెటిక్స్",
+        "share_text": "ప్యారిస్ గేమ్స్ అథ్లెటిక్స్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "กรีฑา พาราลิมปิก",
+        "hover_text": "กรีฑาที่ปารีสเกมส์",
+        "share_text": "กรีฑาที่ปารีสเกมส์! #GoogleDoodle"
+      },
+      "tn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "tr": {
+        "query": "atletizm paralimpik oyunları",
+        "hover_text": "Paris Yaz Oyunları Atletizm",
+        "share_text": "Paris Yaz Oyunları Atletizm #GoogleDoodle"
+      },
+      "tk": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "uk": {
+        "query": "легка атлетика паралімпіада",
+        "hover_text": "Паризькі ігри: легка атлетика",
+        "share_text": "Паризькі ігри: легка атлетика! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "ایتھلیٹکس پیرالمپکس",
+        "hover_text": "پیرس گیمز ایتھلیٹکس",
+        "share_text": "پیرس گیمز ایتھلیٹکس! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "atletika paralimpiya oʻyinlari",
+        "hover_text": "Parij oʻyinlari atletika",
+        "share_text": "Parij oʻyinlari atletika! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "điền kinh paralympics",
+        "hover_text": "Môn điền kinh tại Thế vận hội Paris",
+        "share_text": "Môn điền kinh tại Thế vận hội Paris! #GoogleDoodle"
+      },
+      "wo": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "zu": {
+        "query": "ama-athletics paralympics",
+        "hover_text": "Abasubathi Emidlalweni YaseParis",
+        "share_text": "Abasubathi Emidlalweni YaseParis! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "athletics paralympics",
+    "share_text": "Paris Games Athletics! #GoogleDoodle"
+  },
+  {
     "name": "paris-games-basketball",
     "title": "Paris Games - Basketball",
     "url": "//www.google.com/logos/doodles/2024/paris-games-basketball-6753651837110534-law.gif",
@@ -434,7 +1432,7 @@
         "share_text": ""
       },
       "ta": {
-        "query": "வீல்சேர் கூடைப்பந்து ஒலிம்பிக்ஸ்",
+        "query": "வீல்சேர் கூடைப்பந்து பாராலிம்பிக்ஸ்",
         "hover_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் கூடைப்பந்து",
         "share_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் கூடைப்பந்து! #GoogleDoodle"
       },
