@@ -1,5 +1,1003 @@
 [
   {
+    "name": "paris-games-tennis",
+    "title": "Paris Games - Tennis",
+    "url": "//www.google.com/logos/doodles/2024/paris-games-tennis-6753651837110569-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/yeSbXAekKt0CSgi35S9sJP4y2G9tGF1DizCpOqHIxokIv7KQy_VNNSZGV2a3hXiDBiYv5a_bKrQdVSk3qoHkKMcTdp95fRT3WYenmzKFBSu0rDogf-5e",
+    "high_res_url": "//www.google.com/logos/doodles/2024/paris-games-tennis-6753651837110569-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      9,
+      3
+    ],
+    "translations": {
+      "en": {
+        "query": "wheelchair tennis paralympics",
+        "hover_text": "Paris Games Tennis",
+        "share_text": "Paris Games Tennis! #GoogleDoodle"
+      },
+      "af": {
+        "query": "paralimpiese spele van rolstoeltennis",
+        "hover_text": "Parys Spele – Tennis",
+        "share_text": "Parys Spele – Tennis! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "tenisi në karrocë invalidësh në lojërat paralimpike",
+        "hover_text": "Lojërat e Parisit - Tenis",
+        "share_text": "Tenisi në Lojërat e Parisit! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የተሽከርካሪ ወንበር ቴኒስ ፓራሊምፒክስ",
+        "hover_text": "የፓሪስ ጨዋታዎች ቴኒስ",
+        "share_text": "የፓሪስ ጨዋታዎች ቴኒስ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "بارالمبياد تنس الكراسي المتحركة",
+        "hover_text": "مسابقات التنس في ألعاب باريس",
+        "share_text": "مسابقات التنس في ألعاب باريس! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "անվասայլակով թենիս պարալիմպիկ խաղերում",
+        "hover_text": "Թենիս Փարիզի խաղերում",
+        "share_text": "Թենիս Փարիզի խաղերում #GoogleDoodle"
+      },
+      "az": {
+        "query": "əlil arabası tennis paralimpiya oyunları",
+        "hover_text": "Paris Oyunları tennis",
+        "share_text": "Paris Oyunları tennis! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "হুইলচেয়ার টেনিস প্যারালিম্পিক",
+        "hover_text": "প্যারিস গেমসে টেনিস",
+        "share_text": "প্যারিস গেমসে টেনিস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "gurpil-aulkiko tenis paralinpikoa",
+        "hover_text": "Parisko Jokoetako tenisa",
+        "share_text": "Parisko Jokoetako tenisa #GoogleDoodle"
+      },
+      "be": {
+        "query": "тэніс на інвалідных калясках на Паралімпійскіх гульнях",
+        "hover_text": "Гульні ў Парыжы – Тэніс",
+        "share_text": "Гульні ў Парыжы – Тэніс! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "paraolimipijski tenis u invalidskim kolicima",
+        "hover_text": "Tenis na igrama u Parizu",
+        "share_text": "Tenis na igrama u Parizu! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Wheelchair Tennis Paralympics",
+        "hover_text": "Paris Games tennis",
+        "share_text": "Paris Games Tennis #GoogleDoodle"
+      },
+      "bg": {
+        "query": "тенис с инвалидни колички на параолимпийските игри",
+        "hover_text": "Тенис на Игрите в Париж",
+        "share_text": "Тенис на Игрите в Париж! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဘီးတပ်ကုလားထိုင် တင်းနစ် မသန်စွမ်းအိုလံပစ်",
+        "hover_text": "ပဲရစ်ဂိမ်းများ တင်းနစ်",
+        "share_text": "ပဲရစ်ဂိမ်းများ တင်းနစ်။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "tennis amb cadira de rodes als jocs paralímpics",
+        "hover_text": "Tennis als Jocs de París",
+        "share_text": "Tennis als Jocs de París #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "輪椅網球殘疾人奧運會",
+        "hover_text": "巴黎運動會網球項目",
+        "share_text": "巴黎運動會網球項目！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "輪椅網球 帕運",
+        "hover_text": "巴黎賽事網球項目",
+        "share_text": "巴黎賽事網球項目熱血開賽！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "轮椅网球 残奥会",
+        "hover_text": "巴黎运动盛会网球项目",
+        "share_text": "巴黎运动盛会网球项目！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "paraolimpijske igre – tenis u invalidskim kolicima",
+        "hover_text": "Igre u Parizu – tenis",
+        "share_text": "Igre u Parizu – tenis! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "paralympiáda tenis na vozíku",
+        "hover_text": "Pařížské hry – tenis",
+        "share_text": "Pařížské hry – tenis! #GoogleDoodle"
+      },
+      "da": {
+        "query": "kørestoltennis paralympiske lege",
+        "hover_text": "Tennis ved legene i Paris",
+        "share_text": "Tennis ved legene i Paris #GoogleDoodle"
+      },
+      "nl": {
+        "query": "rolstoeltennis paralympische spelen",
+        "hover_text": "Tennis op de Spelen in Parijs",
+        "share_text": "Tennis op de Spelen in Parijs! #GoogleDoodle"
+      },
+      "et": {
+        "query": "paraolümpia ratastoolitennis",
+        "hover_text": "Pariisi mängude tennis",
+        "share_text": "Pariisi mängude tennis! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "pyörätuolitennis paralympialaiset",
+        "hover_text": "Tennis Pariisin kisoissa",
+        "share_text": "Tennis Pariisin kisoissa #GoogleDoodle"
+      },
+      "fr": {
+        "query": "tennis fauteuil jeux paralympiques",
+        "hover_text": "Tennis aux Jeux de Paris",
+        "share_text": "Tennis aux Jeux de Paris ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "tennis fauteuil aux Jeux paralympiques",
+        "hover_text": "Le tennis aux Jeux de Paris",
+        "share_text": "Le tennis aux Jeux de Paris! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "tenis en cadeira de rodas nos Xogos Paralímpicos",
+        "hover_text": "Tenis nos Xogos de París",
+        "share_text": "Tenis nos Xogos de París! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ეტლის ჩოგბურთი — პარალიმპიური თამაშები",
+        "hover_text": "პარიზის თამაშები — ჩოგბურთი",
+        "share_text": "პარიზის თამაშები — ჩოგბურთი! #GoogleDoodle"
+      },
+      "de": {
+        "query": "rollstuhltennis paralympics",
+        "hover_text": "Tennis bei den Sommerspielen in Paris",
+        "share_text": "Tennis bei den Sommerspielen in Paris! #GoogleDoodle"
+      },
+      "el": {
+        "query": "αντισφαίριση με αμαξίδιο στους Παραολυμπιακούς Αγώνες",
+        "hover_text": "Αντισφαίριση στους Αγώνες στο Παρίσι",
+        "share_text": "Αντισφαίριση στους Αγώνες στο Παρίσι! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "વ્હીલચેર ટેનિસ પેરાલિમ્પિક્સ",
+        "hover_text": "પેરિસ ગેમમાં ટેનિસ",
+        "share_text": "પેરિસ ગેમમાં ટેનિસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "iw": {
+        "query": "טניס בכיסאות גלגלים במשחקים הפאראלימפיים",
+        "hover_text": "המשחקים בפריז – טניס",
+        "share_text": "המשחקים בפריז – טניס GoogleDoodle#"
+      },
+      "hi": {
+        "query": "व्हीलचेयर टेनिस पैरालंपिक्स",
+        "hover_text": "पेरिस गेम्स में टेनिस",
+        "share_text": "पेरिस गेम्स में टेनिस! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Kerekesszékes tenisz paralimpia",
+        "hover_text": "Tenisz a Párizsi Játékokon",
+        "share_text": "Tenisz a Párizsi Játékokon! #GoogleDoodle"
+      },
+      "is": {
+        "query": "ólympíuleikar fatlaðra – tennis",
+        "hover_text": "Parísarleikarnir – Tennis",
+        "share_text": "Parísarleikarnir – Tennis! #GoogleDoodle"
+      },
+      "id": {
+        "query": "tenis kursi roda paralimpiade",
+        "hover_text": "Pertandingan Paris - Tenis",
+        "share_text": "Pertandingan Paris - Tenis #GoogleDoodle"
+      },
+      "ga": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "it": {
+        "query": "tennis in carrozzina paralimpiadi",
+        "hover_text": "Tennis ai Giochi di Parigi",
+        "share_text": "Tennis ai Giochi di Parigi! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "車いすテニス　パラリンピック",
+        "hover_text": "パリ大会車いす テニス",
+        "share_text": "パリ大会車いす テニス #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಗಾಲಿಕುರ್ಚಿ ಟೆನಿಸ್ ಪ್ಯಾರಾಲಿಂಪಿಕ್ಸ್",
+        "hover_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಟೆನಿಸ್",
+        "share_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಟೆನಿಸ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "арбадағы теннис бойынша паралимпиада ойындары",
+        "hover_text": "Париж ойындары – теннис",
+        "share_text": "Париж ойындары – теннис! #GoogleDoodle"
+      },
+      "km": {
+        "query": "កីឡាប៉ារ៉ាឡាំពិកតិន្នីសជិះរទេះ",
+        "hover_text": "កីឡាតិន្នីសក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស",
+        "share_text": "កីឡាតិន្នីសក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "휠체어 테니스 패럴림픽",
+        "hover_text": "파리 2024 테니스 종목",
+        "share_text": "파리 2024 테니스 종목 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "майып арабачандардын тенниси паралимпиада оюндары",
+        "hover_text": "Париж оюндары – Теннис",
+        "share_text": "Париж оюндары – Теннис! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ກິລາເທນນິສແບບຂີ່ລໍ້ພາຣາລິມປິກ",
+        "hover_text": "ເທນນິສຢູ່ການແຂ່ງຂັນກິລາປາຣີສ",
+        "share_text": "ເທນນິສຢູ່ການແຂ່ງຂັນກິລາປາຣີສ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "tenis en silla de ruedas paralímpicos",
+        "hover_text": "Tenis en los Juegos de París",
+        "share_text": "Tenis en los Juegos de París #GoogleDoodle"
+      },
+      "lv": {
+        "query": "ratiņkrēslu teniss — paraolimpiskās spēles",
+        "hover_text": "Parīzes spēles — teniss",
+        "share_text": "Parīzes spēles — teniss! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "tenisas paralimpinėse žaidynėse",
+        "hover_text": "Tenisas Paryžiaus paralimpinėse žaidynėse",
+        "share_text": "Tenisas Paryžiaus paralimpinėse žaidynėse! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "тенис во инвалидска количка на параолимпијадата",
+        "hover_text": "Тенис на игрите во Париз",
+        "share_text": "Тенис на игрите во Париз! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ms": {
+        "query": "tenis kerusi roda paralimpik",
+        "hover_text": "Tenis Kejohanan Paris",
+        "share_text": "Tenis Kejohanan Paris! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "വീൽചെയർ ടെന്നീസ് പാരാലിമ്പിക്സ്‌",
+        "hover_text": "പാരീസ് ഗെയിംസ് ടെന്നീസ്",
+        "share_text": "പാരീസ് ഗെയിംസ് ടെന്നീസ്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "mr": {
+        "query": "व्हीलचेअर टेनिस पॅरालिम्पिक्स",
+        "hover_text": "पॅरिस गेम्समधील टेनिस",
+        "share_text": "पॅरिस गेम्समधील टेनिस! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "паралимпын тэргэнцэртэй талбайн теннис",
+        "hover_text": "Парисын наадмын талбайн теннис",
+        "share_text": "Парисын наадмын талбайн теннис! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "ह्विलचेयर टेनिस पारालम्पिक",
+        "hover_text": "पेरिस गेमअन्तर्गतको ह्विलचेयर टेनिस",
+        "share_text": "पेरिस गेमअन्तर्गतको ह्विलचेयर टेनिस! #GoogleDoodle"
+      },
+      "no": {
+        "query": "rullestoltennis i de paralympiske leker",
+        "hover_text": "Tennis i Paris-lekene",
+        "share_text": "Tennis i Paris-lekene! #GoogleDoodle"
+      },
+      "nn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ny": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "or": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ps": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "fa": {
+        "query": "تنیس با صندلی چرخدار در پارالمپیک",
+        "hover_text": "تنیس در «بازی‌های پاریس»",
+        "share_text": "تنیس در «بازی‌های پاریس»! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "tenis na wózkach paraolimpiada",
+        "hover_text": "Tenis na igrzyskach w Paryżu",
+        "share_text": "Tenis na igrzyskach w Paryżu #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "tênis em cadeira de rodas paralimpíadas",
+        "hover_text": "Tênis nos Jogos de Paris",
+        "share_text": "Tênis nos Jogos de Paris #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "ténis em cadeira de rodas paralímpicos",
+        "hover_text": "Jogos de Paris – Ténis",
+        "share_text": "Jogos de Paris – Ténis! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਵ੍ਹੀਲਚੇਅਰ ਟੈਨਿਸ ਪੈਰਾਲਿੰਪਿਕਸ",
+        "hover_text": "ਪੈਰਿਸ ਖੇਡਾਂ - ਟੈਨਿਸ",
+        "share_text": "ਪੈਰਿਸ ਖੇਡਾਂ - ਟੈਨਿਸ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Jocurile Paralimpice de tenis în fotoliu rulant",
+        "hover_text": "Tenis la Jocurile de la Paris",
+        "share_text": "Tenis la Jocurile de la Paris! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ru": {
+        "query": "теннис на колясках паралимпиада",
+        "hover_text": "Теннис на Играх в Париже",
+        "share_text": "Теннис на Играх в Париже #GoogleDoodle"
+      },
+      "sr": {
+        "query": "тенис у колицима на параолимпијади",
+        "hover_text": "Тенис на Играма у Паризу",
+        "share_text": "Тенис на Играма у Паризу! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "tenis u kolicima na paraolimpijadi",
+        "hover_text": "Tenis na Igrama u Parizu",
+        "share_text": "Tenis na Igrama u Parizu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "crs": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "si": {
+        "query": "රෝද පුටු ටෙනිස් පැරාලිම්පික්",
+        "hover_text": "පැරිස් ක්‍රීඩා ටෙනිස්",
+        "share_text": "පැරිස් ක්‍රීඩා ටෙනිස්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "tenis na vozíku paralympiáda",
+        "hover_text": "Tenis na hrách v Paríži",
+        "share_text": "Tenis na hrách v Paríži. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "tenis na invalidskih vozičkih na paraolimpijskih igrah",
+        "hover_text": "Tenis na igrah v Parizu",
+        "share_text": "Tenis na igrah v Parizu! #GoogleDoodle"
+      },
+      "so": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "st": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "es": {
+        "query": "tenis en silla de ruedas paralímpico",
+        "hover_text": "Tenis en los Juegos de París",
+        "share_text": "Tenis en los Juegos de París #GoogleDoodle"
+      },
+      "sw": {
+        "query": "tenisi ya wachezaji wanaotumia viti vya magurudumu paralimpiki",
+        "hover_text": "Michezo ya Paris ya Tenisi",
+        "share_text": "Michezo ya Paris ya Tenisi! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "rullstolstennis paralympics",
+        "hover_text": "Tennis i Parisspelen",
+        "share_text": "Tennis i Parisspelen! #GoogleDoodle"
+      },
+      "tg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ta": {
+        "query": "வீல்சேர் டென்னிஸ் பாராலிம்பிக்ஸ்",
+        "hover_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் டென்னிஸ்",
+        "share_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் டென்னிஸ்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "వీల్‌చైర్ టెన్నిస్ పారాలింపిక్స్",
+        "hover_text": "ప్యారిస్ గేమ్స్ టెన్నిస్",
+        "share_text": "ప్యారిస్ గేమ్స్ టెన్నిస్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วีลแชร์เทนนิส พาราลิมปิก",
+        "hover_text": "เทนนิสที่ปารีสเกมส์",
+        "share_text": "เทนนิสที่ปารีสเกมส์! #GoogleDoodle"
+      },
+      "tn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "tr": {
+        "query": "tekerlekli sandalye tenis paralimpik oyunları",
+        "hover_text": "Paris Yaz Oyunları Tenis",
+        "share_text": "Paris Yaz Oyunları Tenis #GoogleDoodle"
+      },
+      "tk": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "uk": {
+        "query": "теніс на візках паралімпіада",
+        "hover_text": "Паризькі ігри: теніс",
+        "share_text": "Паризькі ігри: теніс! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "ویل چیئر ٹینس پیرالمپکس",
+        "hover_text": "پیرس گیمز ٹینس",
+        "share_text": "پیرس گیمز ٹینس! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "nogironlar aravachasida tennis paralimpiya oyinlari",
+        "hover_text": "Parij oʻyinlari tennis",
+        "share_text": "Parij oʻyinlari tennis! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "quần vợt xe lăn paralympics",
+        "hover_text": "Môn quần vợt tại Thế vận hội Paris",
+        "share_text": "Môn quần vợt tại Thế vận hội Paris! #GoogleDoodle"
+      },
+      "wo": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "zu": {
+        "query": "i-wheelchair tennis paralympics",
+        "hover_text": "Ithenisi Emidlalweni YaseParis",
+        "share_text": "Ithenisi Emidlalweni YaseParis! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "wheelchair tennis paralympics",
+    "share_text": "Paris Games Tennis! #GoogleDoodle"
+  },
+  {
+    "name": "labor-day-2024",
+    "title": "Labor Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/labor-day-2024-6753651837110455-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/RiOqhUaVIACVPW00CII2NTiIO_GmFLG7clY4fnHB0Sh518NsI78L04OB_b5OIpLW5ixqqmPC6KCHPtukB0NcoXuXh0NBOj8faf0VVPt98ffMLrQKxNYiYA",
+    "high_res_url": "//www.google.com/logos/doodles/2024/labor-day-2024-6753651837110455-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      9,
+      2
+    ],
+    "translations": {
+      "en": {
+        "query": "Labor Day",
+        "hover_text": "Labor Day 2024",
+        "share_text": "Happy Labor Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Werkersdag",
+        "hover_text": "Werkersdag 2024",
+        "share_text": "Gelukkige Werkersdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Punës",
+        "hover_text": "Dita e Punës, 2024",
+        "share_text": "Gëzuar Ditën e Punës! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የሠራተኞች ቀን",
+        "hover_text": "የላብ አደሮች ቀን 2024",
+        "share_text": "መልካም የላብ አደሮች ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد العمال",
+        "hover_text": "عيد العمّال 2024",
+        "share_text": "أطيب الأمنيات بمناسبة عيد العمّال. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Աշխատանքի օր",
+        "hover_text": "Աշխատանքի օր 2024",
+        "share_text": "Շնորհավո՛ր աշխատանքի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Əmək günü",
+        "hover_text": "2024 Əmək Günü",
+        "share_text": "Əmək Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "শ্রমিক দিবস",
+        "hover_text": "শ্রমিক দিবস ২০২৪",
+        "share_text": "শুভ শ্রমিক দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Langileen Eguna",
+        "hover_text": "2024ko Langileen Eguna",
+        "share_text": "Langileen Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень працы",
+        "hover_text": "Дзень працы 2024",
+        "share_text": "З Днём працы! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Praznik rada",
+        "hover_text": "Praznik rada 2024.",
+        "share_text": "Sretan Praznik rada! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Labour Day (US)",
+        "hover_text": "Labour Day 2024",
+        "share_text": "Happy Labour Day! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на труда",
+        "hover_text": "Ден на труда 2024 г.",
+        "share_text": "Честит Ден на труда! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အလုပ်သမားနေ့",
+        "hover_text": "၂၀၂၄ အလုပ်သမားနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် အလုပ်သမားနေ့ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia del Treball",
+        "hover_text": "Dia del Treball 2024",
+        "share_text": "Feliç Dia del Treball! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "勞動節",
+        "hover_text": "2024 年勞動節",
+        "share_text": "勞動節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "勞動節",
+        "hover_text": "2024 勞動節",
+        "share_text": "勞動節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "劳动节",
+        "hover_text": "2024 年劳动节",
+        "share_text": "欢庆劳动节！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Praznik rada",
+        "hover_text": "Praznik rada 2024.",
+        "share_text": "Sretan Praznik rada! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Svátek práce",
+        "hover_text": "Svátek práce 2024",
+        "share_text": "Vše nejlepší ke Svátku práce! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Labor Day",
+        "hover_text": "Labor Day 2024",
+        "share_text": "Vi fejrer Labor Day #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Dag van de Arbeid",
+        "hover_text": "Labor Day 2024",
+        "share_text": "Fijne Labor Day! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Tööpüha",
+        "hover_text": "2024. aasta tööpüha",
+        "share_text": "Head tööpüha! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Labor Day",
+        "hover_text": "Labor Day 2024",
+        "share_text": "Hyvää Labor Day ‑päivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête du Travail",
+        "hover_text": "Labor Day 2024",
+        "share_text": "Joyeux Labor Day ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête du Travail",
+        "hover_text": "Fête du Travail 2024",
+        "share_text": "Joyeuse fête du Travail! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día do Traballo",
+        "hover_text": "Día do Traballo 2024",
+        "share_text": "Feliz Día do Traballo! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "შრომის დღე",
+        "hover_text": "შრომის დღე — 2024",
+        "share_text": "გილოცავთ შრომის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Labor Day",
+        "hover_text": "Labor Day 2024",
+        "share_text": "Einen schönen Labor Day #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα των Εργατών",
+        "hover_text": "Ημέρα της Εργασίας 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα της Εργασίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "કામદાર દિવસ",
+        "hover_text": "કામગાર દિવસ 2024",
+        "share_text": "કામગાર દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העבודה",
+        "hover_text": "לייבור דיי 2024",
+        "share_text": "חוגגים את לייבור דיי GoogleDoodle#"
+      },
+      "hi": {
+        "query": "मज़दूर दिवस",
+        "hover_text": "मज़दूर दिवस 2024",
+        "share_text": "मज़दूर दिवस की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Munka ünnepe",
+        "hover_text": "A munka ünnepe, 2024",
+        "share_text": "Boldog munka ünnepét! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Verkalýðsdagurinn",
+        "hover_text": "Verkalýðsdagurinn 2024 (Bandaríkin og Kanada)",
+        "share_text": "Gleðilegan verkalýðsdag Bandaríkjanna og Kanada! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Buruh",
+        "hover_text": "Hari Buruh 2024",
+        "share_text": "Selamat Hari Buruh! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá an tSaothair",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Festa del lavoro (Stati Uniti)",
+        "hover_text": "Festa del lavoro 2024",
+        "share_text": "Buona festa del lavoro! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "レイバー デー",
+        "hover_text": "2024 年レイバーデー",
+        "share_text": "レイバーデーを祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಕಾರ್ಮಿಕರ ದಿನ",
+        "hover_text": "ಕಾರ್ಮಿಕರ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಕಾರ್ಮಿಕರ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Еңбекшілер күні",
+        "hover_text": "Еңбек күні – 2024",
+        "share_text": "Еңбек күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាពលកម្ម",
+        "hover_text": "ទិវាពលកម្មឆ្នាំ 2024",
+        "share_text": "អបអរទិវាពលកម្ម! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "노동절",
+        "hover_text": "2024년 노동절",
+        "share_text": "노동절 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Эмгек күнү",
+        "hover_text": "Эмгек күнү — 2024",
+        "share_text": "Эмгек күнү кут болсун! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນແຮງງານ",
+        "hover_text": "ວັນກຳມະກອນປີ 2024",
+        "share_text": "ສຸກສັນວັນກຳມະກອນ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día del Trabajo",
+        "hover_text": "Día del Trabajo 2024",
+        "share_text": "¡Feliz Día del Trabajo! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Darba svētki",
+        "hover_text": "Darba svētki — 2024",
+        "share_text": "Priecīgus Darba svētkus! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Darbo diena",
+        "hover_text": "Darbo diena, 2024 m.",
+        "share_text": "Smagios Darbo dienos! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на трудот",
+        "hover_text": "Ден на трудот, 2024 г.",
+        "share_text": "Среќен Ден на трудот! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny asa",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Hari Buruh",
+        "hover_text": "Hari Buruh 2024",
+        "share_text": "Selamat Hari Buruh! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "തൊഴിലാളി ദിനം",
+        "hover_text": "തൊഴിലാളി ദിനം 2024",
+        "share_text": "തൊഴിലാളി ദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "कामगार दिन",
+        "hover_text": "कामगारदिन २०२४",
+        "share_text": "कामगारदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Хөдөлмөрчдийн өдөр",
+        "hover_text": "2024 оны Хөдөлмөрчдийн өдөр",
+        "share_text": "Хөдөлмөрчдийн өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "मजदुर दिवस",
+        "hover_text": "मजदुर दिवस २०२४",
+        "share_text": "मजदुर दिवसको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Labor Day",
+        "hover_text": "Labor Day 2024",
+        "share_text": "Hurra for Labor Day! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଶ୍ରମିକ ଦିବସ",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز کارگر",
+        "hover_text": "روز کارگر ۲۰۲۴",
+        "share_text": "روز کارگر مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Pracy",
+        "hover_text": "Święto Pracy 2024",
+        "share_text": "Obchodzimy Święto Pracy #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia do Trabalho",
+        "hover_text": "Dia do Trabalho 2024",
+        "share_text": "Feliz Dia do Trabalho! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia do trabalhador",
+        "hover_text": "Dia do Trabalhador de 2024",
+        "share_text": "Feliz Dia do Trabalhador! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਮਜ਼ਦੂਰ ਦਿਵਸ",
+        "hover_text": "ਮਜ਼ਦੂਰ ਦਿਵਸ 2024",
+        "share_text": "ਮਜ਼ਦੂਰ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Muncii",
+        "hover_text": "Ziua Muncii – 2024",
+        "share_text": "La mulți ani de Ziua Muncii! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День труда",
+        "hover_text": "День труда – 2024",
+        "share_text": "День труда #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Празник рада",
+        "hover_text": "Празник рада 2024.",
+        "share_text": "Срећан Празник рада! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Praznik rada",
+        "hover_text": "Praznik rada 2024.",
+        "share_text": "Srećan Praznik rada! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lafet Travayer",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "කම්කරු දිනය",
+        "hover_text": "කම්කරු දිනය 2024",
+        "share_text": "ප්‍රීතිමත් කම්කරු දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň práce",
+        "hover_text": "Deň práce 2024",
+        "share_text": "Šťastný Deň práce. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Praznik dela",
+        "hover_text": "Praznik dela 2024",
+        "share_text": "Vesel praznik dela! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Shaqaalaha",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": "Letsatsi la Basebetsi",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día del Trabajo de Estados Unidos",
+        "hover_text": "Día del Trabajo 2024 (Estados Unidos)",
+        "share_text": "¡Feliz Día del Trabajo de Estados Unidos! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Wafanyakazi",
+        "hover_text": "Siku ya Wafanyakazi 2024",
+        "share_text": "Heri ya Siku ya Wafanyakazi! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Labor Day",
+        "hover_text": "Labor Day 2024",
+        "share_text": "Vi firar Labor Day! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "தொழிலாளர் தினம்",
+        "hover_text": "தொழிலாளர் தினம் 2024",
+        "share_text": "தொழிலாளர் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "కార్మిక దినోత్సవం",
+        "hover_text": "కార్మిక దినోత్సవం 2024",
+        "share_text": "కార్మిక దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันแรงงาน",
+        "hover_text": "วันแรงงานปี 2024",
+        "share_text": "สุขสันต์วันแรงงาน! #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Babereki",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "İşçi Bayramı",
+        "hover_text": "2024 İşçi Bayramı",
+        "share_text": "İşçi Bayramı'nı kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День праці",
+        "hover_text": "День праці у 2024 році",
+        "share_text": "З Днем праці! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم مزدور",
+        "hover_text": "یوم مزدور 2024",
+        "share_text": "یوم مزدور مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Mehnat kuni",
+        "hover_text": "Mehnat kuni 2024",
+        "share_text": "Mehnat kuni bilan! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày lễ lao động",
+        "hover_text": "Lễ Lao động năm 2024",
+        "share_text": "Chào mừng Lễ Lao động! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lwezisebenzi",
+        "hover_text": "Usuku Lwabasebenzi Luka-2024",
+        "share_text": "Sikufisela Usuku Oluhle Lwabasebenzi! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Labor Day",
+    "share_text": "Happy Labor Day! #GoogleDoodle"
+  },
+  {
     "name": "vietnam-national-day-2024",
     "title": "Vietnam National Day 2024",
     "url": "//www.google.com/logos/doodles/2024/vietnam-national-day-2024-6753651837110285-law.gif",
