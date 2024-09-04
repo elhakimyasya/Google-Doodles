@@ -1,5 +1,504 @@
 [
   {
+    "name": "paris-games-tennis-day-2",
+    "title": "Paris Games - Tennis (Day 2)",
+    "url": "//www.google.com/logos/doodles/2024/paris-games-tennis-day-2-6753651837110570-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/0SBZqpaFdaH1Q7M5s3Taeoceba16ym1tRXmgiu0Bjm5_goEr--TI5Mvqzz5ld13rkdd_lqfKO9TQbN9G7e3xjYpp3sWfw9yPJLK6VekWeGpjOxyzMzL6",
+    "high_res_url": "//www.google.com/logos/doodles/2024/paris-games-tennis-day-2-6753651837110570-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      9,
+      4
+    ],
+    "translations": {
+      "en": {
+        "query": "wheelchair tennis paralympics 2024",
+        "hover_text": "Paris Games Tennis",
+        "share_text": "Paris Games Tennis! #GoogleDoodle"
+      },
+      "af": {
+        "query": "paralimpiese spele van rolstoeltennis",
+        "hover_text": "Parys Spele – Tennis",
+        "share_text": "Parys Spele – Tennis! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "tenisi në karrocë invalidësh në lojërat paralimpike",
+        "hover_text": "Lojërat e Parisit - Tenis",
+        "share_text": "Tenisi në Lojërat e Parisit! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የተሽከርካሪ ወንበር ቴኒስ ፓራሊምፒክስ",
+        "hover_text": "የፓሪስ ጨዋታዎች ቴኒስ",
+        "share_text": "የፓሪስ ጨዋታዎች ቴኒስ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "الألعاب البارالمبية للتنس على الكراسي المتحرّكة",
+        "hover_text": "مسابقات التنس في ألعاب باريس",
+        "share_text": "مسابقات التنس في ألعاب باريس! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "անվասայլակով թենիս պարալիմպիկ խաղերում",
+        "hover_text": "Թենիս Փարիզի խաղերում",
+        "share_text": "Թենիս Փարիզի խաղերում #GoogleDoodle"
+      },
+      "az": {
+        "query": "əlil arabası tennis paralimpiya oyunları",
+        "hover_text": "Paris Oyunları tennis",
+        "share_text": "Paris Oyunları tennis! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "প্যারালিম্পিকে হুইলচেয়ার টেনিস",
+        "hover_text": "প্যারিস গেমসে টেনিস",
+        "share_text": "প্যারিস গেমসে টেনিস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "gurpil-aulkiko tenis paralinpikoa",
+        "hover_text": "Parisko Jokoetako tenisa",
+        "share_text": "Parisko Jokoetako tenisa #GoogleDoodle"
+      },
+      "be": {
+        "query": "тэніс на інвалідных калясках на Паралімпійскіх гульнях",
+        "hover_text": "Гульні ў Парыжы – Тэніс",
+        "share_text": "Гульні ў Парыжы – Тэніс! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "paraolimipijski tenis u invalidskim kolicima",
+        "hover_text": "Tenis na igrama u Parizu",
+        "share_text": "Tenis na igrama u Parizu! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Wheelchair Tennis Paralympics",
+        "hover_text": "Paris Games Tennis",
+        "share_text": "Paris Games Tennis #GoogleDoodle"
+      },
+      "bg": {
+        "query": "тенис с инвалидни колички на параолимпийските игри",
+        "hover_text": "Тенис на Игрите в Париж",
+        "share_text": "Тенис на Игрите в Париж! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဘီးတပ်ကုလားထိုင် တင်းနစ် မသန်စွမ်းအိုလံပစ်",
+        "hover_text": "ပဲရစ်ဂိမ်းများ တင်းနစ်",
+        "share_text": "ပဲရစ်ဂိမ်းများ တင်းနစ်။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "tennis amb cadira de rodes als jocs paralímpics",
+        "hover_text": "Tennis als Jocs de París",
+        "share_text": "Tennis als Jocs de París #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "輪椅網球殘疾人奧運會",
+        "hover_text": "巴黎運動會網球項目",
+        "share_text": "巴黎運動會網球項目！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "帕運輪椅網球項目",
+        "hover_text": "巴黎賽事網球項目",
+        "share_text": "巴黎賽事網球項目熱血開賽！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "轮椅网球残奥项目",
+        "hover_text": "巴黎运动盛会网球项目",
+        "share_text": "巴黎运动盛会网球项目！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "paraolimpijske igre – tenis u invalidskim kolicima",
+        "hover_text": "Igre u Parizu – tenis",
+        "share_text": "Igre u Parizu – tenis! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "paralympiáda tenis na vozíku",
+        "hover_text": "Pařížské hry – tenis",
+        "share_text": "Pařížské hry – tenis! #GoogleDoodle"
+      },
+      "da": {
+        "query": "kørestolstennis ved de paralympiske lege",
+        "hover_text": "Tennis ved legene i Paris",
+        "share_text": "Tennis ved legene i Paris #GoogleDoodle"
+      },
+      "nl": {
+        "query": "rolstoeltennis paralympische spelen",
+        "hover_text": "Tennis op de Spelen in Parijs",
+        "share_text": "Tennis op de Spelen in Parijs! #GoogleDoodle"
+      },
+      "et": {
+        "query": "paraolümpia ratastoolitennis",
+        "hover_text": "Pariisi mängude tennis",
+        "share_text": "Pariisi mängude tennis! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "pyörätuolitennis paralympialaiset",
+        "hover_text": "Tennis Pariisin kisoissa",
+        "share_text": "Tennis Pariisin kisoissa #GoogleDoodle"
+      },
+      "fr": {
+        "query": "tennis fauteuil aux jeux paralympiques",
+        "hover_text": "Tennis aux Jeux de Paris",
+        "share_text": "Tennis aux Jeux de Paris ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "tennis fauteuil aux Jeux paralympiques",
+        "hover_text": "Le tennis aux Jeux de Paris",
+        "share_text": "Le tennis aux Jeux de Paris! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "tenis en cadeira de rodas nos Xogos Paralímpicos",
+        "hover_text": "Tenis nos Xogos de París",
+        "share_text": "Tenis nos Xogos de París! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ეტლის ჩოგბურთი — პარალიმპიური თამაშები",
+        "hover_text": "პარიზის თამაშები — ჩოგბურთი",
+        "share_text": "პარიზის თამაშები — ჩოგბურთი! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Rollstuhltennis bei den Paralympischen Spielen",
+        "hover_text": "Tennis bei den Sommerspielen in Paris",
+        "share_text": "Tennis bei den Sommerspielen in Paris! #GoogleDoodle"
+      },
+      "el": {
+        "query": "αντισφαίριση με αμαξίδιο στους Παραολυμπιακούς Αγώνες",
+        "hover_text": "Αντισφαίριση στους Αγώνες στο Παρίσι",
+        "share_text": "Αντισφαίριση στους Αγώνες στο Παρίσι! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "વ્હીલચેર ટેનિસની પેરાલિમ્પિક",
+        "hover_text": "પેરિસ ગેમમાં ટેનિસ",
+        "share_text": "પેરિસ ગેમમાં ટેનિસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "טניס בכיסאות גלגלים במשחקים האולימפיים בפריז",
+        "hover_text": "המשחקים בפריז – טניס",
+        "share_text": "המשחקים בפריז – טניס GoogleDoodle#"
+      },
+      "hi": {
+        "query": "पैरालंपिक में व्हीलचेयर टेनिस",
+        "hover_text": "पेरिस गेम्स में टेनिस",
+        "share_text": "पेरिस गेम्स में टेनिस! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Kerekesszékes tenisz paralimpia",
+        "hover_text": "Tenisz a Párizsi Játékokon",
+        "share_text": "Tenisz a Párizsi Játékokon! #GoogleDoodle"
+      },
+      "is": {
+        "query": "ólympíuleikar fatlaðra – tennis",
+        "hover_text": "Parísarleikarnir – Tennis",
+        "share_text": "Parísarleikarnir – Tennis! #GoogleDoodle"
+      },
+      "id": {
+        "query": "paralimpiade tenis kursi roda",
+        "hover_text": "Pertandingan Paris - Tenis",
+        "share_text": "Pertandingan Paris - Tenis #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Giochi Paralimpici Tennis in carrozzina",
+        "hover_text": "Tennis ai Giochi di Parigi",
+        "share_text": "Tennis ai Giochi di Parigi! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "車いすテニス パラリンピック",
+        "hover_text": "パリ大会車いす テニス",
+        "share_text": "パリ大会車いす テニス テニス #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ವೀಲ್‌ಚೇರ್ ಟೆನಿಸ್ ಪ್ಯಾರಾಲಿಂಪಿಕ್ಸ್",
+        "hover_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಟೆನಿಸ್",
+        "share_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಟೆನಿಸ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "арбадағы теннис бойынша паралимпиада ойындары",
+        "hover_text": "Париж ойындары – теннис",
+        "share_text": "Париж ойындары – теннис! #GoogleDoodle"
+      },
+      "km": {
+        "query": "កីឡាប៉ារ៉ាឡាំពិកតិន្នីសជិះរទេះ",
+        "hover_text": "កីឡាតិន្នីសក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស",
+        "share_text": "កីឡាតិន្នីសក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "휠체어 테니스 종목 패럴림픽",
+        "hover_text": "파리 2024 테니스 종목",
+        "share_text": "파리 2024 테니스 종목 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "майып арабачандардын тенниси паралимпиада оюндары",
+        "hover_text": "Париж оюндары – Теннис",
+        "share_text": "Париж оюндары – Теннис! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ກິລາເທນນິສແບບຂີ່ລໍ້ພາຣາລິມປິກ",
+        "hover_text": "ເທນນິສຢູ່ການແຂ່ງຂັນກິລາປາຣີສ",
+        "share_text": "ເທນນິສຢູ່ການແຂ່ງຂັນກິລາປາຣີສ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "juegos paralímpicos tenis",
+        "hover_text": "Tenis en los Juegos de París",
+        "share_text": "Tenis en los Juegos de París #GoogleDoodle"
+      },
+      "lv": {
+        "query": "ratiņkrēslu teniss — paraolimpiskās spēles",
+        "hover_text": "Parīzes spēles — teniss",
+        "share_text": "Parīzes spēles — teniss! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "tenisas paralimpinėse žaidynėse",
+        "hover_text": "Tenisas Paryžiaus paralimpinėse žaidynėse",
+        "share_text": "Tenisas Paryžiaus paralimpinėse žaidynėse! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "тенис во инвалидска количка на параолимпијадата",
+        "hover_text": "Тенис на игрите во Париз",
+        "share_text": "Тенис на игрите во Париз! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "tenis kerusi roda peringkat paralimpik",
+        "hover_text": "Tenis Kejohanan Paris",
+        "share_text": "Tenis Kejohanan Paris! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "വീൽചെയർ ടെന്നീസ് പാരാലിമ്പിക്‌സ്",
+        "hover_text": "പാരീസ് ഗെയിംസ് ടെന്നീസ്",
+        "share_text": "പാരീസ് ഗെയിംസ് ടെന്നീസ്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "व्हीलचेअर टेनिसचे पॅरालिंपिक्स",
+        "hover_text": "पॅरिस गेम्समधील टेनिस",
+        "share_text": "पॅरिस गेम्समधील टेनिस! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "паралимпын тэргэнцэртэй талбайн теннис",
+        "hover_text": "Парисын наадмын талбайн теннис",
+        "share_text": "Парисын наадмын талбайн теннис! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "ह्विलचेयर टेनिस पारालम्पिक",
+        "hover_text": "पेरिस गेमअन्तर्गतको ह्विलचेयर टेनिस",
+        "share_text": "पेरिस गेमअन्तर्गतको ह्विलचेयर टेनिस! #GoogleDoodle"
+      },
+      "no": {
+        "query": "rullestoltennis i de paralympiske leker",
+        "hover_text": "Tennis i Paris-lekene",
+        "share_text": "Tennis i Paris-lekene! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "تنیس با صندلی چرخدار در پارالمپیک",
+        "hover_text": "تنیس در «بازی‌های پاریس»",
+        "share_text": "تنیس در «بازی‌های پاریس»! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "tenis na wózkach na igrzyskach paralimpijskich",
+        "hover_text": "Tenis na igrzyskach w Paryżu",
+        "share_text": "Tenis na igrzyskach w Paryżu #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "tênis em cadeira de rodas nos jogos paralímpicos",
+        "hover_text": "Tênis nos Jogos de Paris",
+        "share_text": "Tênis nos Jogos de Paris #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "ténis em cadeira de rodas jogos paralímpicos",
+        "hover_text": "Jogos de Paris – Ténis",
+        "share_text": "Jogos de Paris – Ténis! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਵ੍ਹੀਲਚੇਅਰ ਟੈਨਿਸ ਪੈਰਾਲੰਪਿਕ",
+        "hover_text": "ਪੈਰਿਸ ਖੇਡਾਂ - ਟੈਨਿਸ",
+        "share_text": "ਪੈਰਿਸ ਖੇਡਾਂ - ਟੈਨਿਸ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Jocurile Paralimpice de tenis în fotoliu rulant",
+        "hover_text": "Tenis la Jocurile de la Paris",
+        "share_text": "Tenis la Jocurile de la Paris! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "паралимпийские игры – теннис на колясках",
+        "hover_text": "Теннис на Играх в Париже",
+        "share_text": "Теннис на Играх в Париже #GoogleDoodle"
+      },
+      "sr": {
+        "query": "тенис у колицима на параолимпијади",
+        "hover_text": "Тенис на Играма у Паризу",
+        "share_text": "Тенис на Играма у Паризу! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "tenis u kolicima na paraolimpijadi",
+        "hover_text": "Tenis na Igrama u Parizu",
+        "share_text": "Tenis na Igrama u Parizu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "රෝද පුටු ටෙනිස් පැරාලිම්පික්",
+        "hover_text": "පැරිස් ක්‍රීඩා ටෙනිස්",
+        "share_text": "පැරිස් ක්‍රීඩා ටෙනිස්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "tenis na vozíku paralympiáda",
+        "hover_text": "Tenis na hrách v Paríži",
+        "share_text": "Tenis na hrách v Paríži. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "tenis na invalidskih vozičkih na paraolimpijskih igrah",
+        "hover_text": "Tenis na igrah v Parizu",
+        "share_text": "Tenis na igrah v Parizu! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "juegos paralímpicos tenis",
+        "hover_text": "Tenis en los Juegos de París",
+        "share_text": "Tenis en los Juegos de París #GoogleDoodle"
+      },
+      "sw": {
+        "query": "paralimpiki ya tenisi ya kiti cha magurudumu",
+        "hover_text": "Michezo ya Paris ya Tenisi",
+        "share_text": "Michezo ya Paris ya Tenisi! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "rullstolstennis i paralympiska spelen",
+        "hover_text": "Tennis i Parisspelen",
+        "share_text": "Tennis i Parisspelen! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "wheelchair tennis paralympics",
+        "hover_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் டென்னிஸ்",
+        "share_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் டென்னிஸ்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "వీల్‌చెయిర్ టెన్నిస్ పారాలింపిక్స్",
+        "hover_text": "ప్యారిస్ గేమ్స్ టెన్నిస్",
+        "share_text": "ప్యారిస్ గేమ్స్ టెన్నిస్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วีลแชร์เทนนิสพาราลิมปิก",
+        "hover_text": "เทนนิสที่ปารีสเกมส์",
+        "share_text": "เทนนิสที่ปารีสเกมส์! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "tekerlekli sandalye tenis paralimpik oyunları",
+        "hover_text": "Paris Yaz Oyunları Tenis",
+        "share_text": "Paris Yaz Oyunları Tenis #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "паралімпійські ігри: теніс на інвалідних візках",
+        "hover_text": "Паризькі ігри: теніс",
+        "share_text": "Паризькі ігри: теніс! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "وہیل چیئر ٹینس پیرا اولمپکس",
+        "hover_text": "پیرس گیمز ٹینس",
+        "share_text": "پیرس گیمز ٹینس! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "nogironlar aravachasida tennis paralimpiya oyinlari",
+        "hover_text": "Parij oʻyinlari tennis",
+        "share_text": "Parij oʻyinlari tennis! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "môn quần vợt xe lăn tại thế vận hội dành cho người khuyết tật",
+        "hover_text": "Môn quần vợt tại Thế vận hội Paris",
+        "share_text": "Môn quần vợt tại Thế vận hội Paris! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "ithenisi edlalwa ngezihlalo zabakhubazekile kumaparalympic",
+        "hover_text": "Ithenisi Emidlalweni YaseParis",
+        "share_text": "Ithenisi Emidlalweni YaseParis! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "wheelchair tennis paralympics 2024",
+    "share_text": "Paris Games Tennis! #GoogleDoodle"
+  },
+  {
     "name": "paris-games-tennis",
     "title": "Paris Games - Tennis",
     "url": "//www.google.com/logos/doodles/2024/paris-games-tennis-6753651837110569-law.gif",
@@ -14,7 +513,7 @@
     ],
     "translations": {
       "en": {
-        "query": "wheelchair tennis paralympics",
+        "query": "wheelchair tennis paralympics 2024",
         "hover_text": "Paris Games Tennis",
         "share_text": "Paris Games Tennis! #GoogleDoodle"
       },
@@ -69,7 +568,7 @@
         "share_text": "Tenis na igrama u Parizu! #GoogleDoodle"
       },
       "en-GB": {
-        "query": "Wheelchair Tennis Paralympics",
+        "query": "wheelchair tennis paralympics 2024",
         "hover_text": "Paris Games tennis",
         "share_text": "Paris Games Tennis #GoogleDoodle"
       },
@@ -154,7 +653,7 @@
         "share_text": "პარიზის თამაშები — ჩოგბურთი! #GoogleDoodle"
       },
       "de": {
-        "query": "rollstuhltennis paralympics",
+        "query": "rollstuhltennis paralympics 2024",
         "hover_text": "Tennis bei den Sommerspielen in Paris",
         "share_text": "Tennis bei den Sommerspielen in Paris! #GoogleDoodle"
       },
@@ -495,7 +994,7 @@
       }
     },
     "translated_blog_posts": {},
-    "query": "wheelchair tennis paralympics",
+    "query": "wheelchair tennis paralympics 2024",
     "share_text": "Paris Games Tennis! #GoogleDoodle"
   },
   {
