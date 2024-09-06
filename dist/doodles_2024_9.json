@@ -1,5 +1,504 @@
 [
   {
+    "name": "paris-games-powerlifting-day-2",
+    "title": "Paris Games - Powerlifting (Day 2)",
+    "url": "//www.google.com/logos/doodles/2024/paris-games-powelifting-day-2-6753651837110572-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/bdMTuLMeC8h74XANi35TlLyzXGgeWxJ8OgaGpZ_8J5QEeRtDDkFfgaLZA-jnHua1nb4lCK4CwY7p3VNJRyF3qu4TFNFXyM_F_S0Ukd1eFgHPxgTA-haVrYk",
+    "high_res_url": "//www.google.com/logos/doodles/2024/paris-games-powelifting-day-2-6753651837110572-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      9,
+      6
+    ],
+    "translations": {
+      "en": {
+        "query": "powerlifting paralympics 2024",
+        "hover_text": "Paris Games Powerlifting",
+        "share_text": "Paris Games Powerlifting! #GoogleDoodle"
+      },
+      "af": {
+        "query": "paralimpiese spele van kragoptel",
+        "hover_text": "Parys Spele – Kragoptel",
+        "share_text": "Parys Spele – Kragoptel! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "peshëngritja në lojërat paralimpike",
+        "hover_text": "Lojërat e Parisit - Peshëngritje",
+        "share_text": "Peshëngritja në Lojërat e Parisit! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የፓወርሊፍቲንግ ፓራሊምፒክስ",
+        "hover_text": "የፓሪስ ጨዋታዎች ፓወርሊፍቲንግ!",
+        "share_text": "የፓሪስ ጨዋታዎች ፓወርሊፍቲንግ #GoogleDoodle"
+      },
+      "ar": {
+        "query": "بارالمبياد رفع الأثقال",
+        "hover_text": "مسابقات رفع الأثقال في ألعاب باريس",
+        "share_text": "مسابقات رفع الأثقال في ألعاب باريس! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "փաուերլիֆթինգ պարալիմպիկ խաղերում",
+        "hover_text": "Փաուերլիֆթինգ Փարիզի խաղերում",
+        "share_text": "Փաուերլիֆթինգ Փարիզի խաղերում #GoogleDoodle"
+      },
+      "az": {
+        "query": "ağırlıqqaldırma paralimpiya oyunları",
+        "hover_text": "Paris Oyunları ağırlıqqaldırma",
+        "share_text": "Paris Oyunları ağırlıqqaldırma! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "পাওয়ারলিফটিং প্যারালিম্পিক",
+        "hover_text": "প্যারিস গেমসে ভারোত্তোলন",
+        "share_text": "প্যারিস গেমসে ভারোত্তোলন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "powerlifting paralinpikoa",
+        "hover_text": "Parisko Jokoetako powerlifting-a",
+        "share_text": "Parisko Jokoetako powerlifting-a #GoogleDoodle"
+      },
+      "be": {
+        "query": "паўэрліфтынг на Паралімпійскіх гульнях",
+        "hover_text": "Гульні ў Парыжы – Паўэрліфтынг",
+        "share_text": "Гульні ў Парыжы – Паўэрліфтынг! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "paraolimpijski powerlifting",
+        "hover_text": "Powerlifting na igrama u Parizu",
+        "share_text": "Powerlifting na igrama u Parizu! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Powerlifting Paralympics",
+        "hover_text": "Paris Games Powerlifting",
+        "share_text": "Paris Games Powerlifting #GoogleDoodle"
+      },
+      "bg": {
+        "query": "вдигане на тежести на Параолимпийските игри",
+        "hover_text": "Вдигане на тежести на Игрите в Париж",
+        "share_text": "Вдигане на тежести на Игрите в Париж! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အလေးမခြင်း မသန်စွမ်းအိုလံပစ်",
+        "hover_text": "ပဲရစ်ဂိမ်းများ အလေးမခြင်း",
+        "share_text": "ပဲရစ်ဂိမ်းများ အလေးမခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "aixecament amb potència als jocs paralímpics",
+        "hover_text": "Aixecament amb potència als Jocs de París",
+        "share_text": "Aixecament amb potència als Jocs de París #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "舉重殘疾人奧運會",
+        "hover_text": "巴黎運動會舉重項目",
+        "share_text": "巴黎運動會舉重項目！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "力量舉重 帕運",
+        "hover_text": "巴黎賽事舉重項目",
+        "share_text": "巴黎賽事舉重項目熱血開賽！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "力量举重 残奥会",
+        "hover_text": "巴黎运动盛会举重项目",
+        "share_text": "巴黎运动盛会举重项目！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "paraolimpijske igre – powerlifting",
+        "hover_text": "Igre u Parizu – powerlifting",
+        "share_text": "Igre u Parizu – powerlifting! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "paralympiáda vzpírání",
+        "hover_text": "Pařížské hry – vzpírání",
+        "share_text": "Pařížské hry – vzpírání! #GoogleDoodle"
+      },
+      "da": {
+        "query": "vægtløftning paralympiske lege",
+        "hover_text": "Styrkeløft ved legene i Paris",
+        "share_text": "Styrkeløft ved legene i Paris #GoogleDoodle"
+      },
+      "nl": {
+        "query": "powerlifting paralympische spelen",
+        "hover_text": "Gewichtheffen op de Spelen in Parijs",
+        "share_text": "Gewichtheffen op de Spelen in Parijs! #GoogleDoodle"
+      },
+      "et": {
+        "query": "paraolümpia jõutõstmine",
+        "hover_text": "Pariisi mängude jõutõstmine",
+        "share_text": "Pariisi mängude jõutõstmine! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "voimannosto paralympialaiset",
+        "hover_text": "Voimanosto Pariisin kisoissa",
+        "share_text": "Voimanosto Pariisin kisoissa #GoogleDoodle"
+      },
+      "fr": {
+        "query": "force athlétique jeux paralympiques",
+        "hover_text": "Powerlifting aux Jeux de Paris",
+        "share_text": "Powerlifting aux Jeux de Paris ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "haltérophilie aux Jeux paralympiques",
+        "hover_text": "L'haltérophilie aux Jeux de Paris",
+        "share_text": "L'haltérophilie aux Jeux de Paris! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "levantamento de potencia nos Xogos Paralímpicos",
+        "hover_text": "Levantamento de potencia nos Xogos de París",
+        "share_text": "Levantamento de potencia nos Xogos de París! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ძალოსნობა — პარალიმპიური თამაშები",
+        "hover_text": "პარიზის თამაშები — ძალოსნობა",
+        "share_text": "პარიზის თამაშები — ძალოსნობა! #GoogleDoodle"
+      },
+      "de": {
+        "query": "kraftdreikampf paralympics 2024",
+        "hover_text": "Kraftdreikampf bei den Sommerspielen in Paris",
+        "share_text": "Kraftdreikampf bei den Sommerspielen in Paris! #GoogleDoodle"
+      },
+      "el": {
+        "query": "δυναμικό τρίαθλο στους Παραολυμπιακούς Αγώνες",
+        "hover_text": "Δυναμικό τρίαθλο στους Αγώνες στο Παρίσι",
+        "share_text": "Δυναμικό τρίαθλο στους Αγώνες στο Παρίσι! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "પાવરલિફ્ટિંગ પેરાલિમ્પિક્સ",
+        "hover_text": "પેરિસ ગેમમાં પાવરલિફ્ટિંગ",
+        "share_text": "પેરિસ ગેમમાં પાવરલિફ્ટિંગ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "iw": {
+        "query": "הרמת כוח במשחקים הפאראלימפיים",
+        "hover_text": "המשחקים בפריז – הרמת כוח",
+        "share_text": "המשחקים בפריז – הרמת כוח GoogleDoodle#"
+      },
+      "hi": {
+        "query": "पावरलिफ्टिंग पैरालंपिक्स",
+        "hover_text": "पेरिस गेम्स में पावरलिफ़्टिंग",
+        "share_text": "पेरिस गेम्स में पावरलिफ़्टिंग! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Erőemelés paralimpia",
+        "hover_text": "Erőemelés a Párizsi Játékokon",
+        "share_text": "Erőemelés a Párizsi Játékokon! #GoogleDoodle"
+      },
+      "is": {
+        "query": "kraftlyftingar ólympíuleikar fatlaðra",
+        "hover_text": "Parísarleikarnir – Kraftlyftingar",
+        "share_text": "Parísarleikarnir – Kraftlyftingar! #GoogleDoodle"
+      },
+      "id": {
+        "query": "angkat berat paralimpiade",
+        "hover_text": "Pertandingan Paris - Angkat Besi",
+        "share_text": "Pertandingan Paris - Angkat Besi #GoogleDoodle"
+      },
+      "ga": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "it": {
+        "query": "powerlifting paralimpiadi",
+        "hover_text": "Sollevamento pesi ai Giochi di Parigi",
+        "share_text": "Sollevamento pesi ai Giochi di Parigi! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "パワーリフティング　パラリンピック",
+        "hover_text": "パリ大会 パワーリフティング",
+        "share_text": "パリ大会 パワーリフティング #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಪವರ್‌ಲಿಫ್ಟಿಂಗ್‌ ಪ್ಯಾರಾಲಿಂಪಿಕ್ಸ್",
+        "hover_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಪವರ್‌ಲಿಫ್ಟಿಂಗ್",
+        "share_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಪವರ್‌ಲಿಫ್ಟಿಂಗ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "пауэрлифтинг бойынша паралимпиада ойындары",
+        "hover_text": "Париж ойындары – пауэрлифтинг",
+        "share_text": "Париж ойындары – пауэрлифтинг! #GoogleDoodle"
+      },
+      "km": {
+        "query": "កីឡាប៉ារ៉ាឡាំពិកលើកទម្ងន់",
+        "hover_text": "កីឡាលើកទម្ងន់ក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស",
+        "share_text": "កីឡាលើកទម្ងន់ក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "파워리프팅 패럴림픽",
+        "hover_text": "파리 2024 역도 종목",
+        "share_text": "파리 2024 역도 종목 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "штанга көтөрүү паралимпиада оюндары",
+        "hover_text": "Париж оюндары – пауэрлифтинг",
+        "share_text": "Париж оюндары – пауэрлифтинг! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ກິລາຍົກນ້ຳໜັກພາຣາລິມປິກ",
+        "hover_text": "ຍົກນ້ຳໜັກຢູ່ການແຂ່ງຂັນກິລາປາຣີສ",
+        "share_text": "ຍົກນ້ຳໜັກຢູ່ການແຂ່ງຂັນກິລາປາຣີສ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "levantamiento de potencia paralímpicos",
+        "hover_text": "Halterofilia en los Juegos de París",
+        "share_text": "Halterofilia en los Juegos de París #GoogleDoodle"
+      },
+      "lv": {
+        "query": "spēka trīscīņa — paraolimpiskās spēles",
+        "hover_text": "Parīzes spēles — spēka trīscīņa",
+        "share_text": "Parīzes spēles — spēka trīscīņa! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "jėgos trikovė paralimpinėse žaidynėse",
+        "hover_text": "Jėgos trikovė Paryžiaus paralimpinėse žaidynėse",
+        "share_text": "Jėgos trikovė Paryžiaus paralimpinėse žaidynėse! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "кревање тегови на параолимпијадата",
+        "hover_text": "Кревање тегови на игрите во Париз",
+        "share_text": "Кревање тегови на игрите во Париз! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ms": {
+        "query": "powerlifting paralimpik",
+        "hover_text": "Powerlifting Kejohanan Paris",
+        "share_text": "Powerlifting Kejohanan Paris! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "പവർ ലിഫ്റ്റിങ് പാരാലിമ്പിക്സ്‌",
+        "hover_text": "പാരീസ് ഗെയിംസ് പവർലിഫ്റ്റിംഗ്",
+        "share_text": "പാരീസ് ഗെയിംസ് പവർലിഫ്റ്റിംഗ്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "mr": {
+        "query": "पावरलिफ्टिंग पॅरालिम्पिक्स",
+        "hover_text": "पॅरिस गेम्समधील पॉवरलिफ्टिंग",
+        "share_text": "पॅरिस गेम्समधील पॉवरलिफ्टिंग! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "паралимпын пауэрлифтинг",
+        "hover_text": "Парисын наадмын пауэрлифтинг",
+        "share_text": "Парисын наадмын пауэрлифтинг! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "पावरलिफ्टिङ पारालम्पिक",
+        "hover_text": "पेरिस गेमअन्तर्गतको पावरलिफ्टिङ",
+        "share_text": "पेरिस गेमअन्तर्गतको पावरलिफ्टिङ! #GoogleDoodle"
+      },
+      "no": {
+        "query": "styrkeløft i de paralympiske leker",
+        "hover_text": "Styrkeløft i Paris-lekene",
+        "share_text": "Styrkeløft i Paris-lekene! #GoogleDoodle"
+      },
+      "nn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ny": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "or": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ps": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "fa": {
+        "query": "وزنه‌برداری قدرتی در پارالمپیک",
+        "hover_text": "وزنه‌برداری قدرتی در «بازی‌های پاریس»",
+        "share_text": "وزنه‌برداری قدرتی در «بازی‌های پاریس»! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "trójbój siłowy paraolimpiada",
+        "hover_text": "Trójbój siłowy na igrzyskach w Paryżu",
+        "share_text": "Trójbój siłowy na igrzyskach w Paryżu #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "levantamento de peso paralimpíadas",
+        "hover_text": "Levantamento de peso nos Jogos de Paris",
+        "share_text": "Levantamento de peso nos Jogos de Paris #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "halterofilismo paralímpicos",
+        "hover_text": "Jogos de Paris – Halterofilismo",
+        "share_text": "Jogos de Paris – Halterofilismo! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਪਾਵਰਲਿਫਟਿੰਗ ਪੈਰਾਲਿੰਪਿਕਸ",
+        "hover_text": "ਪੈਰਿਸ ਖੇਡਾਂ - ਪਾਵਰਲਿਫ਼ਟਿੰਗ",
+        "share_text": "ਪੈਰਿਸ ਖੇਡਾਂ - ਪਾਵਰਲਿਫ਼ਟਿੰਗ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Jocurile Paralimpice de powerlifting",
+        "hover_text": "Powerlifting la Jocurile de la Paris",
+        "share_text": "Powerlifting la Jocurile de la Paris! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ru": {
+        "query": "пауэрлифтинг паралимпиада",
+        "hover_text": "Пауэрлифтинг на Играх в Париже",
+        "share_text": "Пауэрлифтинг на Играх в Париже #GoogleDoodle"
+      },
+      "sr": {
+        "query": "дизање тегова на параолимпијади",
+        "hover_text": "Дизање тегова на Играма у Паризу",
+        "share_text": "Дизање тегова на Играма у Паризу! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "dizanje tegova na paraolimpijadi",
+        "hover_text": "Dizanje tegova na Igrama u Parizu",
+        "share_text": "Dizanje tegova na Igrama u Parizu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "crs": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "si": {
+        "query": "බල ඉසිලීම පැරාලිම්පික්",
+        "hover_text": "පැරිස් ක්‍රීඩා බල ඉසිලීම",
+        "share_text": "පැරිස් ක්‍රීඩා බල ඉසිලීම! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "silový trojboj paralympiáda",
+        "hover_text": "Silový trojboj na hrách v Paríži",
+        "share_text": "Silový trojboj na hrách v Paríži. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "dvigovanje uteži na paraolimpijskih igrah",
+        "hover_text": "Dvigovanje uteži na igrah v Parizu",
+        "share_text": "Dvigovanje uteži na igrah v Parizu! #GoogleDoodle"
+      },
+      "so": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "st": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "es": {
+        "query": "levantamiento de potencia paralímpicos",
+        "hover_text": "Halterofilia en los Juegos de París",
+        "share_text": "Halterofilia en los Juegos de París #GoogleDoodle"
+      },
+      "sw": {
+        "query": "powerlifting paralimpiki",
+        "hover_text": "Michezo ya Paris ya Kuinua Uzito",
+        "share_text": "Michezo ya Paris ya Kuinua Uzito! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "styrkelyft paralympics",
+        "hover_text": "Styrkelyft i Parisspelen",
+        "share_text": "Styrkelyft i Parisspelen! #GoogleDoodle"
+      },
+      "tg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ta": {
+        "query": "பவர் லிஃப்டிங் பாராலிம்பிக்ஸ்",
+        "hover_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் பவர்லிஃப்டிங்",
+        "share_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் பவர்லிஃப்டிங்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "పవర్‌లిఫ్టింగ్‌ పారాలింపిక్స్",
+        "hover_text": "ప్యారిస్ గేమ్స్ పవర్‌లిఫ్టింగ్",
+        "share_text": "ప్యారిస్ గేమ్స్ పవర్‌లిఫ్టింగ్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "กีฬาพาวเวอร์ลิฟติ้ง พาราลิมปิก",
+        "hover_text": "กีฬายกน้ำหนักที่ปารีสเกมส์",
+        "share_text": "กีฬายกน้ำหนักที่ปารีสเกมส์! #GoogleDoodle"
+      },
+      "tn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "tr": {
+        "query": "halter paralimpik oyunları",
+        "hover_text": "Paris Yaz Oyunları Halter",
+        "share_text": "Paris Yaz Oyunları Halter #GoogleDoodle"
+      },
+      "tk": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "uk": {
+        "query": "пауерліфтинг паралімпіада",
+        "hover_text": "Паризькі ігри: пауерліфтинг",
+        "share_text": "Паризькі ігри: пауерліфтинг! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "پاور لفٹنگ پیرالمپکس",
+        "hover_text": "پیرس گیمز پاور لفٹنگ",
+        "share_text": "پیرس گیمز پاور لفٹنگ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "pauer-lifting paralimpiya oʻyinlari",
+        "hover_text": "Parij oʻyinlari pauer-lifting",
+        "share_text": "Parij oʻyinlari pauer-lifting! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "cử tạ paralympics",
+        "hover_text": "Môn cử tạ tại Thế vận hội Paris",
+        "share_text": "Môn nâng tạ tại Thế vận hội Paris! #GoogleDoodle"
+      },
+      "wo": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "zu": {
+        "query": "powerlifting ama-paralympics",
+        "hover_text": "IPowerlifting Emidlalweni YaseParis",
+        "share_text": "IPowerlifting Emidlalweni YaseParis! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "powerlifting paralympics 2024",
+    "share_text": "Paris Games Powerlifting! #GoogleDoodle"
+  },
+  {
     "name": "paris-games-powerlifting",
     "title": "Paris Games - Powerlifting",
     "url": "//www.google.com/logos/doodles/2024/paris-games-powerlifting-6753651837110571-law.gif",
@@ -518,17 +1017,17 @@
         "share_text": "Paris Games Tennis! #GoogleDoodle"
       },
       "af": {
-        "query": "paralimpiese spele van rolstoeltennis",
+        "query": null,
         "hover_text": "Parys Spele – Tennis",
         "share_text": "Parys Spele – Tennis! #GoogleDoodle"
       },
       "sq": {
-        "query": "tenisi në karrocë invalidësh në lojërat paralimpike",
+        "query": null,
         "hover_text": "Lojërat e Parisit - Tenis",
         "share_text": "Tenisi në Lojërat e Parisit! #GoogleDoodle"
       },
       "am": {
-        "query": "የተሽከርካሪ ወንበር ቴኒስ ፓራሊምፒክስ",
+        "query": null,
         "hover_text": "የፓሪስ ጨዋታዎች ቴኒስ",
         "share_text": "የፓሪስ ጨዋታዎች ቴኒስ! #GoogleDoodle"
       },
@@ -538,32 +1037,32 @@
         "share_text": "مسابقات التنس في ألعاب باريس! ‎#GoogleDoodle"
       },
       "hy": {
-        "query": "անվասայլակով թենիս պարալիմպիկ խաղերում",
+        "query": null,
         "hover_text": "Թենիս Փարիզի խաղերում",
         "share_text": "Թենիս Փարիզի խաղերում #GoogleDoodle"
       },
       "az": {
-        "query": "əlil arabası tennis paralimpiya oyunları",
+        "query": null,
         "hover_text": "Paris Oyunları tennis",
         "share_text": "Paris Oyunları tennis! #GoogleDoodle"
       },
       "bn": {
-        "query": "প্যারালিম্পিকে হুইলচেয়ার টেনিস",
+        "query": null,
         "hover_text": "প্যারিস গেমসে টেনিস",
         "share_text": "প্যারিস গেমসে টেনিস! #GoogleDoodle"
       },
       "eu": {
-        "query": "gurpil-aulkiko tenis paralinpikoa",
+        "query": null,
         "hover_text": "Parisko Jokoetako tenisa",
         "share_text": "Parisko Jokoetako tenisa #GoogleDoodle"
       },
       "be": {
-        "query": "тэніс на інвалідных калясках на Паралімпійскіх гульнях",
+        "query": null,
         "hover_text": "Гульні ў Парыжы – Тэніс",
         "share_text": "Гульні ў Парыжы – Тэніс! #GoogleDoodle"
       },
       "bs": {
-        "query": "paraolimipijski tenis u invalidskim kolicima",
+        "query": null,
         "hover_text": "Tenis na igrama u Parizu",
         "share_text": "Tenis na igrama u Parizu! #GoogleDoodle"
       },
@@ -573,22 +1072,22 @@
         "share_text": "Paris Games Tennis #GoogleDoodle"
       },
       "bg": {
-        "query": "тенис с инвалидни колички на параолимпийските игри",
+        "query": null,
         "hover_text": "Тенис на Игрите в Париж",
         "share_text": "Тенис на Игрите в Париж! #GoogleDoodle"
       },
       "my": {
-        "query": "ဘီးတပ်ကုလားထိုင် တင်းနစ် မသန်စွမ်းအိုလံပစ်",
+        "query": null,
         "hover_text": "ပဲရစ်ဂိမ်းများ တင်းနစ်",
         "share_text": "ပဲရစ်ဂိမ်းများ တင်းနစ်။ #GoogleDoodle"
       },
       "ca": {
-        "query": "tennis amb cadira de rodes als jocs paralímpics",
+        "query": null,
         "hover_text": "Tennis als Jocs de París",
         "share_text": "Tennis als Jocs de París #GoogleDoodle"
       },
       "zh-HK": {
-        "query": "輪椅網球殘疾人奧運會",
+        "query": null,
         "hover_text": "巴黎運動會網球項目",
         "share_text": "巴黎運動會網球項目！#GoogleDoodle"
       },
@@ -598,57 +1097,57 @@
         "share_text": "巴黎賽事網球項目熱血開賽！#GoogleDoodle"
       },
       "zh-CN": {
-        "query": "轮椅网球残奥项目",
+        "query": null,
         "hover_text": "巴黎运动盛会网球项目",
         "share_text": "巴黎运动盛会网球项目！#GoogleDoodle"
       },
       "hr": {
-        "query": "paraolimpijske igre – tenis u invalidskim kolicima",
+        "query": null,
         "hover_text": "Igre u Parizu – tenis",
         "share_text": "Igre u Parizu – tenis! #GoogleDoodle"
       },
       "cs": {
-        "query": "paralympiáda tenis na vozíku",
+        "query": null,
         "hover_text": "Pařížské hry – tenis",
         "share_text": "Pařížské hry – tenis! #GoogleDoodle"
       },
       "da": {
-        "query": "kørestolstennis ved de paralympiske lege",
+        "query": null,
         "hover_text": "Tennis ved legene i Paris",
         "share_text": "Tennis ved legene i Paris #GoogleDoodle"
       },
       "nl": {
-        "query": "rolstoeltennis paralympische spelen",
+        "query": null,
         "hover_text": "Tennis op de Spelen in Parijs",
         "share_text": "Tennis op de Spelen in Parijs! #GoogleDoodle"
       },
       "et": {
-        "query": "paraolümpia ratastoolitennis",
+        "query": null,
         "hover_text": "Pariisi mängude tennis",
         "share_text": "Pariisi mängude tennis! #GoogleDoodle"
       },
       "fi": {
-        "query": "pyörätuolitennis paralympialaiset",
+        "query": null,
         "hover_text": "Tennis Pariisin kisoissa",
         "share_text": "Tennis Pariisin kisoissa #GoogleDoodle"
       },
       "fr": {
-        "query": "tennis fauteuil aux jeux paralympiques",
+        "query": null,
         "hover_text": "Tennis aux Jeux de Paris",
         "share_text": "Tennis aux Jeux de Paris ! #GoogleDoodle"
       },
       "fr-CA": {
-        "query": "tennis fauteuil aux Jeux paralympiques",
+        "query": null,
         "hover_text": "Le tennis aux Jeux de Paris",
         "share_text": "Le tennis aux Jeux de Paris! #GoogleDoodle"
       },
       "gl": {
-        "query": "tenis en cadeira de rodas nos Xogos Paralímpicos",
+        "query": null,
         "hover_text": "Tenis nos Xogos de París",
         "share_text": "Tenis nos Xogos de París! #GoogleDoodle"
       },
       "ka": {
-        "query": "ეტლის ჩოგბურთი — პარალიმპიური თამაშები",
+        "query": null,
         "hover_text": "პარიზის თამაშები — ჩოგბურთი",
         "share_text": "პარიზის თამაშები — ჩოგბურთი! #GoogleDoodle"
       },
@@ -658,12 +1157,12 @@
         "share_text": "Tennis bei den Sommerspielen in Paris! #GoogleDoodle"
       },
       "el": {
-        "query": "αντισφαίριση με αμαξίδιο στους Παραολυμπιακούς Αγώνες",
+        "query": null,
         "hover_text": "Αντισφαίριση στους Αγώνες στο Παρίσι",
         "share_text": "Αντισφαίριση στους Αγώνες στο Παρίσι! #GoogleDoodle"
       },
       "gu": {
-        "query": "વ્હીલચેર ટેનિસની પેરાલિમ્પિક",
+        "query": null,
         "hover_text": "પેરિસ ગેમમાં ટેનિસ",
         "share_text": "પેરિસ ગેમમાં ટેનિસ! #GoogleDoodle"
       },
@@ -673,27 +1172,27 @@
         "share_text": ""
       },
       "iw": {
-        "query": "טניס בכיסאות גלגלים במשחקים האולימפיים בפריז",
+        "query": null,
         "hover_text": "המשחקים בפריז – טניס",
         "share_text": "המשחקים בפריז – טניס GoogleDoodle#"
       },
       "hi": {
-        "query": "पैरालंपिक में व्हीलचेयर टेनिस",
+        "query": null,
         "hover_text": "पेरिस गेम्स में टेनिस",
         "share_text": "पेरिस गेम्स में टेनिस! #GoogleDoodle"
       },
       "hu": {
-        "query": "Kerekesszékes tenisz paralimpia",
+        "query": null,
         "hover_text": "Tenisz a Párizsi Játékokon",
         "share_text": "Tenisz a Párizsi Játékokon! #GoogleDoodle"
       },
       "is": {
-        "query": "ólympíuleikar fatlaðra – tennis",
+        "query": null,
         "hover_text": "Parísarleikarnir – Tennis",
         "share_text": "Parísarleikarnir – Tennis! #GoogleDoodle"
       },
       "id": {
-        "query": "paralimpiade tenis kursi roda",
+        "query": null,
         "hover_text": "Pertandingan Paris - Tenis",
         "share_text": "Pertandingan Paris - Tenis #GoogleDoodle"
       },
@@ -703,7 +1202,7 @@
         "share_text": ""
       },
       "it": {
-        "query": "Giochi Paralimpici Tennis in carrozzina",
+        "query": null,
         "hover_text": "Tennis ai Giochi di Parigi",
         "share_text": "Tennis ai Giochi di Parigi! #GoogleDoodle"
       },
@@ -713,17 +1212,17 @@
         "share_text": "パリ大会車いす テニス テニス #GoogleDoodle"
       },
       "kn": {
-        "query": "ವೀಲ್‌ಚೇರ್ ಟೆನಿಸ್ ಪ್ಯಾರಾಲಿಂಪಿಕ್ಸ್",
+        "query": null,
         "hover_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಟೆನಿಸ್",
         "share_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಟೆನಿಸ್! #GoogleDoodle"
       },
       "kk": {
-        "query": "арбадағы теннис бойынша паралимпиада ойындары",
+        "query": null,
         "hover_text": "Париж ойындары – теннис",
         "share_text": "Париж ойындары – теннис! #GoogleDoodle"
       },
       "km": {
-        "query": "កីឡាប៉ារ៉ាឡាំពិកតិន្នីសជិះរទេះ",
+        "query": null,
         "hover_text": "កីឡាតិន្នីសក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស",
         "share_text": "កីឡាតិន្នីសក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស! #GoogleDoodle"
       },
@@ -733,12 +1232,12 @@
         "share_text": "파리 2024 테니스 종목 기념 #GoogleDoodle"
       },
       "ky": {
-        "query": "майып арабачандардын тенниси паралимпиада оюндары",
+        "query": null,
         "hover_text": "Париж оюндары – Теннис",
         "share_text": "Париж оюндары – Теннис! #GoogleDoodle"
       },
       "lo": {
-        "query": "ກິລາເທນນິສແບບຂີ່ລໍ້ພາຣາລິມປິກ",
+        "query": null,
         "hover_text": "ເທນນິສຢູ່ການແຂ່ງຂັນກິລາປາຣີສ",
         "share_text": "ເທນນິສຢູ່ການແຂ່ງຂັນກິລາປາຣີສ! #GoogleDoodle"
       },
@@ -748,7 +1247,7 @@
         "share_text": "Tenis en los Juegos de París #GoogleDoodle"
       },
       "lv": {
-        "query": "ratiņkrēslu teniss — paraolimpiskās spēles",
+        "query": null,
         "hover_text": "Parīzes spēles — teniss",
         "share_text": "Parīzes spēles — teniss! #GoogleDoodle"
       },
@@ -758,7 +1257,7 @@
         "share_text": "Tenisas Paryžiaus paralimpinėse žaidynėse! #GoogleDoodle"
       },
       "mk": {
-        "query": "тенис во инвалидска количка на параолимпијадата",
+        "query": null,
         "hover_text": "Тенис на игрите во Париз",
         "share_text": "Тенис на игрите во Париз! #GoogleDoodle"
       },
@@ -768,12 +1267,12 @@
         "share_text": ""
       },
       "ms": {
-        "query": "tenis kerusi roda peringkat paralimpik",
+        "query": null,
         "hover_text": "Tenis Kejohanan Paris",
         "share_text": "Tenis Kejohanan Paris! #GoogleDoodle"
       },
       "ml": {
-        "query": "വീൽചെയർ ടെന്നീസ് പാരാലിമ്പിക്‌സ്",
+        "query": null,
         "hover_text": "പാരീസ് ഗെയിംസ് ടെന്നീസ്",
         "share_text": "പാരീസ് ഗെയിംസ് ടെന്നീസ്! #GoogleDoodle"
       },
@@ -783,22 +1282,22 @@
         "share_text": ""
       },
       "mr": {
-        "query": "व्हीलचेअर टेनिसचे पॅरालिंपिक्स",
+        "query": null,
         "hover_text": "पॅरिस गेम्समधील टेनिस",
         "share_text": "पॅरिस गेम्समधील टेनिस! #GoogleDoodle"
       },
       "mn": {
-        "query": "паралимпын тэргэнцэртэй талбайн теннис",
+        "query": null,
         "hover_text": "Парисын наадмын талбайн теннис",
         "share_text": "Парисын наадмын талбайн теннис! #GoogleDoodle"
       },
       "ne": {
-        "query": "ह्विलचेयर टेनिस पारालम्पिक",
+        "query": null,
         "hover_text": "पेरिस गेमअन्तर्गतको ह्विलचेयर टेनिस",
         "share_text": "पेरिस गेमअन्तर्गतको ह्विलचेयर टेनिस! #GoogleDoodle"
       },
       "no": {
-        "query": "rullestoltennis i de paralympiske leker",
+        "query": null,
         "hover_text": "Tennis i Paris-lekene",
         "share_text": "Tennis i Paris-lekene! #GoogleDoodle"
       },
@@ -823,32 +1322,32 @@
         "share_text": ""
       },
       "fa": {
-        "query": "تنیس با صندلی چرخدار در پارالمپیک",
+        "query": null,
         "hover_text": "تنیس در «بازی‌های پاریس»",
         "share_text": "تنیس در «بازی‌های پاریس»! ‎#GoogleDoodle"
       },
       "pl": {
-        "query": "tenis na wózkach na igrzyskach paralimpijskich",
+        "query": null,
         "hover_text": "Tenis na igrzyskach w Paryżu",
         "share_text": "Tenis na igrzyskach w Paryżu #GoogleDoodle"
       },
       "pt-BR": {
-        "query": "tênis em cadeira de rodas nos jogos paralímpicos",
+        "query": null,
         "hover_text": "Tênis nos Jogos de Paris",
         "share_text": "Tênis nos Jogos de Paris #GoogleDoodle"
       },
       "pt-PT": {
-        "query": "ténis em cadeira de rodas jogos paralímpicos",
+        "query": null,
         "hover_text": "Jogos de Paris – Ténis",
         "share_text": "Jogos de Paris – Ténis! #GoogleDoodle"
       },
       "pa": {
-        "query": "ਵ੍ਹੀਲਚੇਅਰ ਟੈਨਿਸ ਪੈਰਾਲੰਪਿਕ",
+        "query": null,
         "hover_text": "ਪੈਰਿਸ ਖੇਡਾਂ - ਟੈਨਿਸ",
         "share_text": "ਪੈਰਿਸ ਖੇਡਾਂ - ਟੈਨਿਸ! #GoogleDoodle"
       },
       "ro": {
-        "query": "Jocurile Paralimpice de tenis în fotoliu rulant",
+        "query": null,
         "hover_text": "Tenis la Jocurile de la Paris",
         "share_text": "Tenis la Jocurile de la Paris! #GoogleDoodle"
       },
@@ -858,17 +1357,17 @@
         "share_text": ""
       },
       "ru": {
-        "query": "паралимпийские игры – теннис на колясках",
+        "query": null,
         "hover_text": "Теннис на Играх в Париже",
         "share_text": "Теннис на Играх в Париже #GoogleDoodle"
       },
       "sr": {
-        "query": "тенис у колицима на параолимпијади",
+        "query": null,
         "hover_text": "Тенис на Играма у Паризу",
         "share_text": "Тенис на Играма у Паризу! #GoogleDoodle"
       },
       "sr-Latn": {
-        "query": "tenis u kolicima na paraolimpijadi",
+        "query": null,
         "hover_text": "Tenis na Igrama u Parizu",
         "share_text": "Tenis na Igrama u Parizu! #GoogleDoodle"
       },
@@ -888,17 +1387,17 @@
         "share_text": ""
       },
       "si": {
-        "query": "රෝද පුටු ටෙනිස් පැරාලිම්පික්",
+        "query": null,
         "hover_text": "පැරිස් ක්‍රීඩා ටෙනිස්",
         "share_text": "පැරිස් ක්‍රීඩා ටෙනිස්! #GoogleDoodle"
       },
       "sk": {
-        "query": "tenis na vozíku paralympiáda",
+        "query": null,
         "hover_text": "Tenis na hrách v Paríži",
         "share_text": "Tenis na hrách v Paríži. #GoogleDoodle"
       },
       "sl": {
-        "query": "tenis na invalidskih vozičkih na paraolimpijskih igrah",
+        "query": null,
         "hover_text": "Tenis na igrah v Parizu",
         "share_text": "Tenis na igrah v Parizu! #GoogleDoodle"
       },
@@ -918,12 +1417,12 @@
         "share_text": "Tenis en los Juegos de París #GoogleDoodle"
       },
       "sw": {
-        "query": "paralimpiki ya tenisi ya kiti cha magurudumu",
+        "query": null,
         "hover_text": "Michezo ya Paris ya Tenisi",
         "share_text": "Michezo ya Paris ya Tenisi! #GoogleDoodle"
       },
       "sv": {
-        "query": "rullstolstennis i paralympiska spelen",
+        "query": null,
         "hover_text": "Tennis i Parisspelen",
         "share_text": "Tennis i Parisspelen! #GoogleDoodle"
       },
@@ -933,12 +1432,12 @@
         "share_text": ""
       },
       "ta": {
-        "query": "wheelchair tennis paralympics",
+        "query": null,
         "hover_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் டென்னிஸ்",
         "share_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் டென்னிஸ்! #GoogleDoodle"
       },
       "te": {
-        "query": "వీల్‌చెయిర్ టెన్నిస్ పారాలింపిక్స్",
+        "query": null,
         "hover_text": "ప్యారిస్ గేమ్స్ టెన్నిస్",
         "share_text": "ప్యారిస్ గేమ్స్ టెన్నిస్! #GoogleDoodle"
       },
@@ -963,17 +1462,17 @@
         "share_text": ""
       },
       "uk": {
-        "query": "паралімпійські ігри: теніс на інвалідних візках",
+        "query": null,
         "hover_text": "Паризькі ігри: теніс",
         "share_text": "Паризькі ігри: теніс! #GoogleDoodle"
       },
       "ur": {
-        "query": "وہیل چیئر ٹینس پیرا اولمپکس",
+        "query": null,
         "hover_text": "پیرس گیمز ٹینس",
         "share_text": "پیرس گیمز ٹینس! GoogleDoodle#"
       },
       "uz": {
-        "query": "nogironlar aravachasida tennis paralimpiya oyinlari",
+        "query": null,
         "hover_text": "Parij oʻyinlari tennis",
         "share_text": "Parij oʻyinlari tennis! #GoogleDoodle"
       },
@@ -988,7 +1487,7 @@
         "share_text": ""
       },
       "zu": {
-        "query": "ithenisi edlalwa ngezihlalo zabakhubazekile kumaparalympic",
+        "query": null,
         "hover_text": "Ithenisi Emidlalweni YaseParis",
         "share_text": "Ithenisi Emidlalweni YaseParis! #GoogleDoodle"
       }
