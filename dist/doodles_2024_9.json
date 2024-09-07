@@ -1,5 +1,504 @@
 [
   {
+    "name": "paris-games-equestrian",
+    "title": "Paris Games - Equestrian",
+    "url": "//www.google.com/logos/doodles/2024/paris-games-equestrian-6753651837110573-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/7AAPywSDK7EwYRhW9NpJ2eIPt3VOJfs2djtuMa8VgtmlwT_Xmu__BZrwYYBqcyIV7O3QUGkdwmzlswZ9K6YYiwCPUXTlF8xlhTjG6AnYlKOTNaIPkKd2jQ",
+    "high_res_url": "//www.google.com/logos/doodles/2024/paris-games-equestrian-6753651837110573.3-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      9,
+      7
+    ],
+    "translations": {
+      "en": {
+        "query": "equestrian paralympics 2024 2024",
+        "hover_text": "Paris Games Equestrian",
+        "share_text": "Paris Games Equestrian! #GoogleDoodle"
+      },
+      "af": {
+        "query": "paralimpiese spele van perdry",
+        "hover_text": "Parys Spele – Perdry",
+        "share_text": "Parys Spele – Perdry! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "hipizmi në lojërat paralimpike",
+        "hover_text": "Lojërat e Parisit - Hipizëm",
+        "share_text": "Hipizmi në Lojërat e Parisit! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የፈረስ ግልቢያ ፓራሊምፒክስ",
+        "hover_text": "የፓሪስ ጨዋታዎች ፈረስ ግልቢያ",
+        "share_text": "የፓሪስ ጨዋታዎች ፈረስ ግልቢያ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "بارالمبياد 2024 الفروسية",
+        "hover_text": "مسابقات الفروسية في ألعاب باريس",
+        "share_text": "مسابقات الفروسية في ألعاب باريس! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "ձիասպորտ պարալիմպիկ խաղերում",
+        "hover_text": "Ձիասպորտ Փարիզի խաղերում",
+        "share_text": "Ձիասպորտ Փարիզի խաղերում #GoogleDoodle"
+      },
+      "az": {
+        "query": "atçılıq paralimpiya oyunları",
+        "hover_text": "Paris Oyunları atçılıq",
+        "share_text": "Paris Oyunları atçılıq! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "অশ্বারোহণ প্যারালিম্পিক",
+        "hover_text": "প্যারিস গেমসে অশ্বারোহণ",
+        "share_text": "প্যারিস গেমসে অশ্বারোহণ! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "hipika paralinpikoa",
+        "hover_text": "Parisko Jokoetako hipika",
+        "share_text": "Parisko Jokoetako hipika #GoogleDoodle"
+      },
+      "be": {
+        "query": "конны спорт на Паралімпійскіх гульнях",
+        "hover_text": "Гульні ў Парыжы – Конны спорт",
+        "share_text": "Гульні ў Парыжы – Конны спорт! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "paraolimpijsko jahanje",
+        "hover_text": "Jahanje na igrama u Parizu",
+        "share_text": "Jahanje na igrama u Parizu! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Equestrian Paralympics",
+        "hover_text": "Paris Games Equestrian",
+        "share_text": "Paris Games Equestrian #GoogleDoodle"
+      },
+      "bg": {
+        "query": "конни спортове на Параолимпийските игри",
+        "hover_text": "Конни спортове на Игрите в Париж",
+        "share_text": "Конни спортове на Игрите в Париж! #GoogleDoodle"
+      },
+      "my": {
+        "query": "မြင်းစီးခြင်း မသန်စွမ်းအိုလံပစ်",
+        "hover_text": "ပဲရစ်ဂိမ်းများ မြင်းစီးခြင်း",
+        "share_text": "ပဲရစ်ဂိမ်းများ မြင်းစီးခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "hípica als jocs paralímpics",
+        "hover_text": "Hípica als Jocs de París",
+        "share_text": "Hípica als Jocs de París #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "馬術殘疾人奧運會",
+        "hover_text": "巴黎運動會馬術項目",
+        "share_text": "巴黎運動會馬術項目！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "馬術 帕運",
+        "hover_text": "巴黎賽事馬術項目",
+        "share_text": "巴黎賽事馬術項目熱血開賽！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "马术 残奥会 2024",
+        "hover_text": "巴黎运动盛会马术项目",
+        "share_text": "巴黎运动盛会马术项目！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "paraolimpijske igre – jahanje",
+        "hover_text": "Igre u Parizu – jahanje",
+        "share_text": "Igre u Parizu – jahanje! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "paralympiáda jezdectví",
+        "hover_text": "Pařížské hry – jezdectví",
+        "share_text": "Pařížské hry – jezdectví! #GoogleDoodle"
+      },
+      "da": {
+        "query": "ridesport paralympiske lege",
+        "hover_text": "Ridesport ved legene i Paris",
+        "share_text": "Ridesport ved legene i Paris #GoogleDoodle"
+      },
+      "nl": {
+        "query": "paardensport paralympische spelen",
+        "hover_text": "Paardensport op de Spelen in Parijs",
+        "share_text": "Paardensport op de Spelen in Parijs! #GoogleDoodle"
+      },
+      "et": {
+        "query": "paraolümpia ratsutamine",
+        "hover_text": "Pariisi mängude ratsutamine",
+        "share_text": "Pariisi mängude ratsutamine! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "pararatsastus paralympialaiset",
+        "hover_text": "Ratsastus Pariisin kisoissa",
+        "share_text": "Ratsastus Pariisin kisoissa #GoogleDoodle"
+      },
+      "fr": {
+        "query": "équitation jeux paralympiques",
+        "hover_text": "Équitation aux Jeux de Paris",
+        "share_text": "Équitation aux Jeux de Paris ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "équitation aux Jeux paralympiques",
+        "hover_text": "L'équitation aux Jeux de Paris",
+        "share_text": "L'équitation aux Jeux de Paris! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "hípica nos Xogos Paralímpicos",
+        "hover_text": "Hípica nos Xogos de París",
+        "share_text": "Hípica nos Xogos de París! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ცხენოსნობა — პარალიმპიური თამაშები",
+        "hover_text": "პარიზის თამაშები — ცხენოსნობა",
+        "share_text": "პარიზის თამაშები — ცხენოსნობა! #GoogleDoodle"
+      },
+      "de": {
+        "query": "reiten paralympics 2024",
+        "hover_text": "Reitsport bei den Sommerspielen in Paris",
+        "share_text": "Reitsport bei den Sommerspielen in Paris! #GoogleDoodle"
+      },
+      "el": {
+        "query": "ιππασία στους Παραολυμπιακούς Αγώνες",
+        "hover_text": "Ιππασία στους Αγώνες στο Παρίσι",
+        "share_text": "Ιππασία στους Αγώνες στο Παρίσι! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "અશ્વારોહણ પેરાલિમ્પિક્સ",
+        "hover_text": "પેરિસ ગેમમાં ઘોડેસવારી",
+        "share_text": "પેરિસ ગેમમાં ઘોડેસવારી! #GoogleDoodle"
+      },
+      "ht": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "iw": {
+        "query": "רכיבה על סוסים במשחקים הפאראלימפיים",
+        "hover_text": "המשחקים בפריז – רכיבה על סוסים",
+        "share_text": "המשחקים בפריז – רכיבה על סוסים GoogleDoodle#"
+      },
+      "hi": {
+        "query": "घुड़सवारी पैरालंपिक्स",
+        "hover_text": "पेरिस गेम्स में घुड़सवारी",
+        "share_text": "पेरिस गेम्स में घुड़सवारी! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "lovaglás paralimpia",
+        "hover_text": "Lovaglás a Párizsi Játékokon",
+        "share_text": "Lovaglás a Párizsi Játékokon! #GoogleDoodle"
+      },
+      "is": {
+        "query": "ólympíuleikar fatlaðra – hestaíþróttir",
+        "hover_text": "Parísarleikarnir – Hestaíþróttir",
+        "share_text": "Parísarleikarnir – Hestaíþróttir! #GoogleDoodle"
+      },
+      "id": {
+        "query": "berkuda paralimpiade",
+        "hover_text": "Pertandingan paris - Berkuda",
+        "share_text": "Pertandingan Paris - Berkuda #GoogleDoodle"
+      },
+      "ga": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "it": {
+        "query": "equitazione paralimpiadi",
+        "hover_text": "Equitazione ai Giochi di Parigi",
+        "share_text": "Equitazione ai Giochi di Parigi! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "馬術　パラリンピック",
+        "hover_text": "パリ大会 馬術",
+        "share_text": "パリ大会 馬術 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಕುದುರೆ ಸವಾರಿ ಪ್ಯಾರಾಲಿಂಪಿಕ್ಸ್",
+        "hover_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಈಕ್ವೆಸ್ಟ್ರಿಯನ್",
+        "share_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಈಕ್ವೆಸ್ಟ್ರಿಯನ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "ат спорты бойынша паралимпиада ойындары",
+        "hover_text": "Париж ойындары – ат спорты",
+        "share_text": "Париж ойындары – ат спорты! #GoogleDoodle"
+      },
+      "km": {
+        "query": "កីឡាប៉ារ៉ាឡាំពិកជិះសេះ",
+        "hover_text": "កីឡាជិះសេះក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស",
+        "share_text": "កីឡាជិះសេះក្នុងព្រឹត្តិការណ៍កីឡានៅប៉ារីស! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "승마 패럴림픽 2024",
+        "hover_text": "파리 2024 승마 종목",
+        "share_text": "파리 2024 승마 종목 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "ат спорту паралимпиада оюндары",
+        "hover_text": "Париж оюндары – Ат спорту",
+        "share_text": "Париж оюндары – Ат спорту! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ກິລາຂີ່ມ້າພາຣາລິມປິກ",
+        "hover_text": "ຂີ່ມ້າຢູ່ການແຂ່ງຂັນກິລາປາຣີສ",
+        "share_text": "ຂີ່ມ້າຢູ່ການແຂ່ງຂັນກິລາປາຣີສ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "hípica paralímpicos",
+        "hover_text": "Hípica en los Juegos de París",
+        "share_text": "Hípica en los Juegos de París #GoogleDoodle"
+      },
+      "lv": {
+        "query": "jāšana — paraolimpiskās spēles",
+        "hover_text": "Parīzes spēles — jāšana",
+        "share_text": "Parīzes spēles — jāšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "jojimas paralimpinėse žaidynėse",
+        "hover_text": "Jojimas Paryžiaus paralimpinėse žaidynėse",
+        "share_text": "Jojimas Paryžiaus paralimpinėse žaidynėse! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "коњички спортови на параолимпијадата",
+        "hover_text": "Коњички спортови на игрите во Париз",
+        "share_text": "Коњички спортови на игрите во Париз! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ms": {
+        "query": "ekuestrian paralimpik",
+        "hover_text": "Menunggang Kuda Kejohanan Paris",
+        "share_text": "Menunggang Kuda Kejohanan Paris! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "അശ്വാഭ്യാസം പാരാലിമ്പിക്സ്‌",
+        "hover_text": "പാരീസ് ഗെയിംസ് ഇക്വസ്ട്രിയൻ",
+        "share_text": "പാരീസ് ഗെയിംസ് ഇക്വസ്ട്രിയൻ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "mr": {
+        "query": "घोडेस्वारी पॅरालिम्पिक्स",
+        "hover_text": "पॅरिस गेम्समधील घोडेस्वारी स्पर्धा",
+        "share_text": "पॅरिस गेम्समधील घोडेस्वारी स्पर्धा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "паралимпын морин спорт",
+        "hover_text": "Парисын наадмын морин спорт",
+        "share_text": "Парисын наадмын морин спорт! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "घोडचढी पारालम्पिक",
+        "hover_text": "पेरिस गेमअन्तर्गतको घोडचढी",
+        "share_text": "पेरिस गेमअन्तर्गतको घोडचढी! #GoogleDoodle"
+      },
+      "no": {
+        "query": "hestesport i de paralympiske leker",
+        "hover_text": "Hestesport i Paris-lekene",
+        "share_text": "Hestesport i Paris-lekene! #GoogleDoodle"
+      },
+      "nn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ny": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "or": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ps": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "fa": {
+        "query": "سوارکاری در پارالمپیک",
+        "hover_text": "سوارکاری در «بازی‌های پاریس»",
+        "share_text": "سوارکاری در «بازی‌های پاریس»! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "jeździectwo paraolimpiada",
+        "hover_text": "Jeździectwo na igrzyskach w Paryżu",
+        "share_text": "Jeździectwo na igrzyskach w Paryżu #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "hipismo paralimpíadas",
+        "hover_text": "Hipismo nos Jogos de Paris",
+        "share_text": "Hipismo nos Jogos de Paris #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "equitação paralímpicos",
+        "hover_text": "Jogos de Paris – Hipismo",
+        "share_text": "Jogos de Paris – Hipismo! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਘੋੜਸਵਾਰੀ ਪੈਰਾਲਿੰਪਿਕਸ",
+        "hover_text": "ਪੈਰਿਸ ਖੇਡਾਂ - ਘੋੜਸਵਾਰੀ",
+        "share_text": "ਪੈਰਿਸ ਖੇਡਾਂ - ਘੋੜਸਵਾਰੀ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Jocurile Paralimpice de echitație",
+        "hover_text": "Echitație la Jocurile de la Paris",
+        "share_text": "Echitație la Jocurile de la Paris! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ru": {
+        "query": "верховая езда паралимпиада",
+        "hover_text": "Конный спорт на Играх в Париже",
+        "share_text": "Конный спорт на Играх в Париже #GoogleDoodle"
+      },
+      "sr": {
+        "query": "коњички спортови на параолимпијади",
+        "hover_text": "Коњички спортови на Играма у Паризу",
+        "share_text": "Коњички спортови на Играма у Паризу! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "konjički sportovi na paraolimpijadi",
+        "hover_text": "Konjički sportovi na Igrama u Parizu",
+        "share_text": "Konjički sportovi na Igrama u Parizu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "crs": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "si": {
+        "query": "තුරඟ තරඟ පැරාලිම්පික්",
+        "hover_text": "පැරිස් ක්‍රීඩා තුරඟ තරඟ",
+        "share_text": "පැරිස් ක්‍රීඩා තුරඟ තරඟ! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "jazdectvo paralympiáda",
+        "hover_text": "Jazdectvo na hrách v Paríži",
+        "share_text": "Jazdectvo na hrách v Paríži. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "konjeništvo na paraolimpijskih igrah",
+        "hover_text": "Konjeništvo na igrah v Parizu",
+        "share_text": "Konjeništvo na igrah v Parizu! #GoogleDoodle"
+      },
+      "so": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "st": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "es": {
+        "query": "hípica paralímpicos",
+        "hover_text": "Hípica en los Juegos de París",
+        "share_text": "Hípica en los Juegos de París #GoogleDoodle"
+      },
+      "sw": {
+        "query": "mchezo wa ustadi wa kupanda farasi paralimpiki",
+        "hover_text": "Michezo ya Paris ya Kuendesha Farasi",
+        "share_text": "Michezo ya Paris ya Kuendesha Farasi! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "ridning paralympics",
+        "hover_text": "Ridsport i Parisspelen",
+        "share_text": "Ridsport i Parisspelen! #GoogleDoodle"
+      },
+      "tg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ta": {
+        "query": "குதிரையேற்றம் பாராலிம்பிக்ஸ்",
+        "hover_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் குதிரையேற்றம்",
+        "share_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் குதிரையேற்றம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఈక్వెస్ట్రియన్ పారాలింపిక్స్",
+        "hover_text": "ప్యారిస్ గేమ్స్ ఇక్వెస్ట్రియన్",
+        "share_text": "ప్యారిస్ గేమ్స్ ఇక్వెస్ట్రియన్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "กีฬาขี่ม้า พาราลิมปิก 2024",
+        "hover_text": "กีฬาขี่ม้าที่ปารีสเกมส์",
+        "share_text": "กีฬาขี่ม้าที่ปารีสเกมส์! #GoogleDoodle"
+      },
+      "tn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "tr": {
+        "query": "binicilik paralimpik oyunları",
+        "hover_text": "Paris Yaz Oyunları Binicilik",
+        "share_text": "Paris Yaz Oyunları Binicilik #GoogleDoodle"
+      },
+      "tk": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "uk": {
+        "query": "верхова їзда паралімпіада",
+        "hover_text": "Паризькі ігри: кінний спорт",
+        "share_text": "Паризькі ігри: кінний спорт! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "گھڑ سواری پیرالمپکس",
+        "hover_text": "پیرس گیمز گھڑ سواری",
+        "share_text": "پیرس گیمز گھڑ سواری! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "ot sporti paralimpiya oʻyinlari",
+        "hover_text": "Parij oʻyinlari ot sporti",
+        "share_text": "Parij oʻyinlari ot sporti #GoogleDoodle"
+      },
+      "vi": {
+        "query": "cưỡi ngựa paralympics 2024",
+        "hover_text": "Môn cưỡi ngựa tại Thế vận hội Paris",
+        "share_text": "Môn cưỡi ngựa tại Thế vận hội Paris! #GoogleDoodle"
+      },
+      "wo": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "zu": {
+        "query": "i-equestrian paralympics",
+        "hover_text": "I-equestrian Emidlalweni YaseParis",
+        "share_text": "I-equestrian Emidlalweni YaseParis! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "equestrian paralympics 2024 2024",
+    "share_text": "Paris Games Equestrian! #GoogleDoodle"
+  },
+  {
     "name": "paris-games-powerlifting-day-2",
     "title": "Paris Games - Powerlifting (Day 2)",
     "url": "//www.google.com/logos/doodles/2024/paris-games-powelifting-day-2-6753651837110572-law.gif",
