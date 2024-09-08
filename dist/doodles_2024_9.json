@@ -1,5 +1,1502 @@
 [
   {
+    "name": "fathers-day-sep-8-2024",
+    "title": "Father's Day (Sep 8) 2024",
+    "url": "//www.google.com/logos/doodles/2024/fathers-day-sep-8-2024-6753651837110411-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/hneaCrX2ajtDoC8ySZC4RDirala0u4vY5HymBIFEnYqH_7wT4Lo57qsNnV08W1j7DjlCuig5Rky5WroO5-BLSI1FbqDi3ViOb0RmpYPxo2JaTfU4jltH",
+    "high_res_url": "//www.google.com/logos/doodles/2024/fathers-day-sep-8-2024-6753651837110411-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      9,
+      8
+    ],
+    "translations": {
+      "en": {
+        "query": "Father's Day",
+        "hover_text": "Father's Day (Sep 8) 2024",
+        "share_text": "Happy Father's Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Vadersdag",
+        "hover_text": "Vadersdag (8 September) 2024",
+        "share_text": "Gelukkige Vadersdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Babait",
+        "hover_text": "Dita e Babait, 2024",
+        "share_text": "Gëzuar Ditën e Babait! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአባቶች ቀን",
+        "hover_text": "የአባቶች ቀን (ሴፕቴምበር 8) 2024",
+        "share_text": "መልካም የአባቶች ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد الأب",
+        "hover_text": "عيد الأب 2024",
+        "share_text": "عيد أب سعيد. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Հայրերի օր",
+        "hover_text": "Հայրերի օր 2024 (սեպտեմբերի 8)",
+        "share_text": "Շնորհավո՛ր հայրերի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Atalar Günü",
+        "hover_text": "Atalar Günü (8 sentyabr) 2024",
+        "share_text": "Atalar Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "পিতৃ দিবস",
+        "hover_text": "পিতৃ দিবস (৮ সেপ্টেম্বর) ২০২৪",
+        "share_text": "ফাদার্স ডের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Aitaren Eguna",
+        "hover_text": "2024ko Aitaren Eguna (irailaren 8a)",
+        "share_text": "Aitaren Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень бацькі",
+        "hover_text": "Дзень бацькі 8 верасня 2024 года",
+        "share_text": "З Днём бацькі! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva (8. sep) 2024.",
+        "share_text": "Sretan Dan očeva! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Father's Day",
+        "hover_text": "Father's Day 2024",
+        "share_text": "Happy Father's Day! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на бащата",
+        "hover_text": "Ден на бащата 2024 г.",
+        "share_text": "Честит Ден на бащата! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အဖေများနေ့",
+        "hover_text": "၂၀၂၄ အဖေများနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် ဖခင်များနေ့ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia del Pare",
+        "hover_text": "Dia del Pare 2024",
+        "share_text": "Feliç Dia del Pare! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "父親節",
+        "hover_text": "2024 年父親節",
+        "share_text": "父親節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "父親節",
+        "hover_text": "2024 父親節",
+        "share_text": "父親節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "父亲节",
+        "hover_text": "2024 年父亲节",
+        "share_text": "父亲节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva 2024. (8. rujna)",
+        "share_text": "Sretan Dan očeva! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den otců",
+        "hover_text": "Den otců 2024",
+        "share_text": "Veselý Den otců! #GoogleDoodle"
+      },
+      "da": {
+        "query": "fars dag",
+        "hover_text": "Fars dag 2024 (8. september)",
+        "share_text": "Glædelig fars dag! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Vaderdag",
+        "hover_text": "Vaderdag 2024",
+        "share_text": "Fijne Vaderdag! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Isadepäev",
+        "hover_text": "2024. aasta isadepäev",
+        "share_text": "Head isadepäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Isänpäivä",
+        "hover_text": "Isänpäivä 2024 (8.9.)",
+        "share_text": "Hyvää isänpäivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête des Pères",
+        "hover_text": "Fête des Pères 2024",
+        "share_text": "Joyeuse fête des Pères ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête des Pères",
+        "hover_text": "Fête des Pères 2024",
+        "share_text": "Joyeuse fête des Pères! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día do Pai",
+        "hover_text": "Día do Pai 2024 (8 de setembro)",
+        "share_text": "Feliz Día do Pai! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მამის დღე",
+        "hover_text": "მამის დღე – 2024 (8 სექტემბერი)",
+        "share_text": "გილოცავთ მამის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Vatertag",
+        "hover_text": "Vatertag 2024",
+        "share_text": "Alles Liebe zum Vatertag! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Γιορτή του Πατέρα",
+        "hover_text": "Γιορτή του Πατέρα (8 Σεπτεμβρίου) 2024",
+        "share_text": "Πολλές ευχές για τη Γιορτή του Πατέρα! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "પિતૃ દિવસ",
+        "hover_text": "ફાધર્સ ડે (8 સપ્ટેમ્બર) 2024",
+        "share_text": "ફાધર્સ ડેની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום האב",
+        "hover_text": "יום האב 2024",
+        "share_text": "יום האב שמח! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "फ़ादर्स डे",
+        "hover_text": "फ़ादर्स डे (8 सितंबर) 2024",
+        "share_text": "फ़ादर्स डे की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Apák napja",
+        "hover_text": "Apák napja, 2024 (szeptember 8.)",
+        "share_text": "Boldog apák napját! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Feðradagurinn",
+        "hover_text": "Feðradagurinn (8. sept.) 2024",
+        "share_text": "Gleðilegan feðradag! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Ayah",
+        "hover_text": "Hari Ayah 2024",
+        "share_text": "Selamat Hari Ayah! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá na nAithreacha",
+        "hover_text": null,
+        "share_text": "Lá na nAithreacha faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa del papà",
+        "hover_text": "Festa del papà 2024",
+        "share_text": "Buona festa del papà! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "父の日",
+        "hover_text": "2024 年父の日",
+        "share_text": "父の日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ತಂದೆಯಂದಿರ ದಿನ",
+        "hover_text": "ತಂದೆಯಂದಿರ ದಿನ (ಸೆಪ್ಟೆಂಬರ್ 8) 2024",
+        "share_text": "ತಂದೆಯಂದಿರ ದಿನಾಚರಣೆ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Әкелер күні",
+        "hover_text": "Әкелер күні – 2024 (8 қыркүйек)",
+        "share_text": "Әкелер күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​រំលឹកគុណឪពុក",
+        "hover_text": "ទិវាឪពុក (8 កញ្ញា) ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​រំលឹកគុណ​ឪពុក​! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "아버지의 날",
+        "hover_text": "2024년 아버지의 날",
+        "share_text": "아버지날 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Аталар күнү",
+        "hover_text": "Аталар күнү – 2024 (8-cентябрь)",
+        "share_text": "Аталар күнү менен куттуктайбыз! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນພໍ່",
+        "hover_text": "ວັນພໍ່ (8 ກັນຍາ) 2024",
+        "share_text": "ສຸກສັນວັນພໍ່! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día del Padre",
+        "hover_text": "Día del Padre 2024",
+        "share_text": "¡Feliz Día del Padre! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Tēva diena",
+        "hover_text": "Tēva diena — 2024. gada 8. septembris",
+        "share_text": "Sveicam Tēva dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Tėvo diena",
+        "hover_text": "Tėvo diena, 2024 m. (rugsėjo 8 d.)",
+        "share_text": "Linksmos Tėvo dienos! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на таткото",
+        "hover_text": "Ден на таткото, 2024 г.",
+        "share_text": "Среќен ден на таткото! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny ray",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny ray ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Bapa",
+        "hover_text": "Hari Bapa 2024",
+        "share_text": "Selamat Hari Bapa! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "പിതൃദിനം",
+        "hover_text": "പിതൃദിനം 2024 (സെപ്‌തംബർ 8)",
+        "share_text": "പിതൃദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "पितृदिन",
+        "hover_text": "फादर्स डे (८ सप्टेंबर) २०२४",
+        "share_text": "फादर्स डे च्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Аавуудын өдөр",
+        "hover_text": "2024 оны Аавуудын өдөр (9-р сарын 8)",
+        "share_text": "Аавуудын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "बुवाको मुख हेर्ने दिन",
+        "hover_text": "बुवाको मुख हेर्ने दिन (सेप्टेम्बर ८) २०२४",
+        "share_text": "बुवाको मुख हेर्ने दिनको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Farsdag",
+        "hover_text": "Farsdag 2024",
+        "share_text": "Gratulerer med farsdagen! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ପିତୃ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ପିତୃ ଦିବସର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز پدر",
+        "hover_text": "روز پدر ۲۰۲۴ (۸ سپتامبر)",
+        "share_text": "روز پدر مبارک! #GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Ojca",
+        "hover_text": "Dzień Ojca 2024",
+        "share_text": "Obchodzimy Dzień Ojca #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia dos Pais",
+        "hover_text": "Dia dos Pais 2024",
+        "share_text": "Feliz Dia dos Pais! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia do pai",
+        "hover_text": "Dia do Pai de 2024",
+        "share_text": "Feliz dia do pai! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਪਿਓ ਦਿਵਸ",
+        "hover_text": "ਪਿਤਾ ਦਿਵਸ (8 ਸਤੰਬਰ) 2024",
+        "share_text": "ਪਿਤਾ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Tatălui",
+        "hover_text": "Ziua Tatălui 2024 (8 septembrie)",
+        "share_text": "La mulți ani de Ziua Tatălui! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День отца",
+        "hover_text": "День отца – 2024",
+        "share_text": "С Днем отца! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан очева",
+        "hover_text": "Дан очева (8. септембар) 2024.",
+        "share_text": "Срећан Дан очева! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva (8. septembar) 2024.",
+        "share_text": "Srećan Dan očeva! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Papa",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "පියවරුන්ගේ දිනය",
+        "hover_text": "පියවරුන්ගේ දිනය (සැප් 8) 2024",
+        "share_text": "ප්‍රීතිමත් පියවරුන්ගේ දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň otcov",
+        "hover_text": "Deň otcov 2024",
+        "share_text": "Šťastný Deň otcov! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan očetov",
+        "hover_text": "Dan očetov 2024",
+        "share_text": "Vesel dan očetov! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Aabbaha",
+        "hover_text": null,
+        "share_text": "Maalinta Aabbaha oo Farxada leh #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Botate",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día del Padre",
+        "hover_text": "Día del Padre 2024",
+        "share_text": "¡Feliz Día del Padre! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Akina Baba",
+        "hover_text": "Siku ya Akina Baba 2024",
+        "share_text": "Heri za Sikukuu ya Akina Baba! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Fars dag",
+        "hover_text": "Fars dag 2024",
+        "share_text": "Grattis på fars dag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "தந்தையர் தினம்",
+        "hover_text": "தந்தையர் தினம் (செப் 8) 2024",
+        "share_text": "தந்தையர் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "పితృ దినోత్సవం",
+        "hover_text": "ఫాదర్స్ డే (సెప్టెంబర్ 8) 2024",
+        "share_text": "ఫాదర్స్ డే శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันพ่อ",
+        "hover_text": "วันพ่อปี 2024",
+        "share_text": "สุขสันต์วันพ่อ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la ga Rre",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Babalar Günü",
+        "hover_text": "2024 Babalar Günü",
+        "share_text": "Babalar Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День батька",
+        "hover_text": "День батька у 2024 році",
+        "share_text": "З Днем батька! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم پِدر",
+        "hover_text": "یوم پدر (8 ستمبر) 2024",
+        "share_text": "یوم والد مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Otalar kuni",
+        "hover_text": "Otalar kuni (8-sentabr) 2024",
+        "share_text": "Otalar kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày của cha",
+        "hover_text": "Ngày của Cha năm 2024 (ngày 8 tháng 9)",
+        "share_text": "Mừng Ngày của Cha! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lobaba",
+        "hover_text": "Usuku Lobaba Lwango-2024 (8 Sep)",
+        "share_text": "Sinifisela Usuku Lobaba Oluhle! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Father's Day",
+    "share_text": "Happy Father's Day! #GoogleDoodle"
+  },
+  {
+    "name": "paris-games-september-conclude",
+    "title": "Paris Games September Conclude!",
+    "url": "//www.google.com/logos/doodles/2024/paris-games-september-conclude-6753651837110574-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/tYPHUBcM7dOmMe9csmQrd00oMVsCdIGLAxVQx7Pr4MpUvTettbmw94W7QCGGYojqhxWjVjrHhHvd7SLkXPcrMXFeVq_dn_6MB-wZW2kvdVh4RBtcuK2kCiE",
+    "high_res_url": "//www.google.com/logos/doodles/2024/paris-games-september-conclude-6753651837110574-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      9,
+      8
+    ],
+    "translations": {
+      "en": {
+        "query": "paralympics 2024",
+        "hover_text": "Paris Games Conclude! ",
+        "share_text": "Paris Games Conclude!  #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": "Parys Spele sluit af!",
+        "share_text": "Parys Spele sluit af!  #GoogleDoodle"
+      },
+      "sq": {
+        "query": null,
+        "hover_text": "Lojërat e Parisit kanë përfunduar!",
+        "share_text": "Lojërat e Parisit kanë përfunduar!  #GoogleDoodle"
+      },
+      "am": {
+        "query": "ፓራሊምፒክስ 2024",
+        "hover_text": "የፓሪስ ጨዋታዎች ተጠናቅቀዋል!",
+        "share_text": "የፓሪስ ጨዋታዎች ተጠናቅቀዋል!  #GoogleDoodle"
+      },
+      "ar": {
+        "query": null,
+        "hover_text": "تنتهي اليوم ألعاب باريس!",
+        "share_text": "تنتهي اليوم ألعاب باريس!  ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "պարալիմպիկ խաղեր 2024",
+        "hover_text": "Փարիզի խաղերն ավարտվում են",
+        "share_text": "Փարիզի խաղերն ավարտվում են  #GoogleDoodle"
+      },
+      "az": {
+        "query": null,
+        "hover_text": "Paris Oyunları Bitdi!",
+        "share_text": "Paris Oyunları Bitdi!  #GoogleDoodle"
+      },
+      "bn": {
+        "query": null,
+        "hover_text": "প্যারিস গেমস শেষ হয়েছে!",
+        "share_text": "প্যারিস গেমস শেষ হয়েছে!  #GoogleDoodle"
+      },
+      "eu": {
+        "query": null,
+        "hover_text": "Parisko Jokoen amaiera",
+        "share_text": "Parisko Jokoen amaiera  #GoogleDoodle"
+      },
+      "be": {
+        "query": null,
+        "hover_text": "Гульні ў Парыжы завяршаюцца!",
+        "share_text": "Гульні ў Парыжы завяршаюцца!  #GoogleDoodle"
+      },
+      "bs": {
+        "query": null,
+        "hover_text": "Završavaju se igre u Parizu!",
+        "share_text": "Završavaju se igre u Parizu!  #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Paralympics",
+        "hover_text": "Paris Games September Conclude",
+        "share_text": "Paris Games Conclude #GoogleDoodle"
+      },
+      "bg": {
+        "query": "параолимпийски игри 2024 г.",
+        "hover_text": "Игрите в Париж приключват!",
+        "share_text": "Игрите в Париж приключват!  #GoogleDoodle"
+      },
+      "my": {
+        "query": null,
+        "hover_text": "ပဲရစ်ဂိမ်းများ ပြီးဆုံးပါပြီ။",
+        "share_text": "ပဲရစ်ဂိမ်းများ ပြီးဆုံးပါပြီ။  #GoogleDoodle"
+      },
+      "ca": {
+        "query": null,
+        "hover_text": "Finalitzen els Jocs de París!",
+        "share_text": "Finalitzen els Jocs de París!  #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "2024 年殘疾人奧運會",
+        "hover_text": "巴黎運動會完滿結束！",
+        "share_text": "巴黎運動會完滿結束！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "帕拉林匹克運動會",
+        "hover_text": "巴黎賽事圓滿結束！",
+        "share_text": "巴黎運動會圓滿結束！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": "巴黎运动盛会闭幕！",
+        "share_text": "巴黎运动盛会闭幕！#GoogleDoodle"
+      },
+      "hr": {
+        "query": null,
+        "hover_text": "Završavaju igre u Parizu!",
+        "share_text": "Završavaju igre u Parizu!  #GoogleDoodle"
+      },
+      "cs": {
+        "query": null,
+        "hover_text": "Pařížské hry končí!",
+        "share_text": "Pařížské hry končí!  #GoogleDoodle"
+      },
+      "da": {
+        "query": null,
+        "hover_text": "Legene i Paris er slut",
+        "share_text": "Legene i Paris er slut  #GoogleDoodle"
+      },
+      "nl": {
+        "query": null,
+        "hover_text": "Het einde van de Spelen in Parijs nadert!",
+        "share_text": "Het einde van de Spelen in Parijs nadert!  #GoogleDoodle"
+      },
+      "et": {
+        "query": "2024. aasta paraolümpia",
+        "hover_text": "Pariisi mängud lõpevad!",
+        "share_text": "Pariisi mängud lõpevad!  #GoogleDoodle"
+      },
+      "fi": {
+        "query": "paralympialaiset 2024",
+        "hover_text": "Pariisin kisat päättyvät",
+        "share_text": "Pariisin kisat päättyvät  #GoogleDoodle"
+      },
+      "fr": {
+        "query": null,
+        "hover_text": "Les Jeux de Paris se terminent !",
+        "share_text": "Les Jeux de Paris se terminent !  #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jeux paralympiques",
+        "hover_text": "Les Jeux de Paris se terminent! ",
+        "share_text": "Les Jeux de Paris se terminent!  #GoogleDoodle"
+      },
+      "gl": {
+        "query": null,
+        "hover_text": "Finalizan os Xogos de París!",
+        "share_text": "Finalizan os Xogos de París!  #GoogleDoodle"
+      },
+      "ka": {
+        "query": null,
+        "hover_text": "პარიზის თამაშები სრულდება!",
+        "share_text": "პარიზის თამაშები სრულდება!  #GoogleDoodle"
+      },
+      "de": {
+        "query": "Paralympische Spiele 2024",
+        "hover_text": "Ende der Spiele in Paris",
+        "share_text": "Ende der Spiele in Paris  #GoogleDoodle"
+      },
+      "el": {
+        "query": "παραολυμπιακοί αγώνες",
+        "hover_text": "Λήξη Παραολυμπιακών Αγώνων στο Παρίσι! ",
+        "share_text": "Λήξη Παραολυμπιακών Αγώνων στο Παρίσι!  #GoogleDoodle"
+      },
+      "gu": {
+        "query": null,
+        "hover_text": "પેરિસ ગેમ થયા સમાપ્ત!",
+        "share_text": "પેરિસ ગેમ થયા સમાપ્ત!  #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": "המשחקים בפריז מסתיימים",
+        "share_text": "המשחקים בפריז מסתיימים  GoogleDoodle#"
+      },
+      "hi": {
+        "query": "पैरालंपिक 2024",
+        "hover_text": "पेरिस गेम्स खत्म हो गए हैं!",
+        "share_text": "पेरिस गेम्स खत्म हो गए हैं!  #GoogleDoodle"
+      },
+      "hu": {
+        "query": null,
+        "hover_text": "Véget érnek a párizsi játékok!",
+        "share_text": "Véget érnek a párizsi játékok!  #GoogleDoodle"
+      },
+      "is": {
+        "query": "Ólympíuleikar fatlaðra 2024",
+        "hover_text": "Parísarleikunum er að ljúka!",
+        "share_text": "Parísarleikunum er að ljúka!  #GoogleDoodle"
+      },
+      "id": {
+        "query": "paralimpiade 2024",
+        "hover_text": "Pertandingan Paris Berakhir!",
+        "share_text": "Pertandingan Paris Berakhir!  #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "giochi paralimpici 2024",
+        "hover_text": "Fine dei Giochi di Parigi!",
+        "share_text": "Fine dei Giochi di Parigi!  #GoogleDoodle"
+      },
+      "ja": {
+        "query": "パラリンピック",
+        "hover_text": "パリ大会閉会",
+        "share_text": "パリ大会閉会 #GoogleDoodle"
+      },
+      "kn": {
+        "query": null,
+        "hover_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಸಮಾರೋಪ!",
+        "share_text": "ಪ್ಯಾರಿಸ್ ಗೇಮ್ಸ್ ಸಮಾರೋಪ!  #GoogleDoodle"
+      },
+      "kk": {
+        "query": null,
+        "hover_text": "Париж ойындары аяқталды!",
+        "share_text": "Париж ойындары аяқталды!  #GoogleDoodle"
+      },
+      "km": {
+        "query": null,
+        "hover_text": "ព្រឹត្តិការណ៍កីឡានៅប៉ារីសបានបញ្ចប់!",
+        "share_text": "ព្រឹត្តិការណ៍កីឡានៅប៉ារីសបានបញ្ចប់!  #GoogleDoodle"
+      },
+      "ko": {
+        "query": null,
+        "hover_text": "파리 2024 폐막 기념",
+        "share_text": "파리 2024 폐막 기념  #GoogleDoodle"
+      },
+      "ky": {
+        "query": null,
+        "hover_text": "Париж оюндары аяктады!",
+        "share_text": "Париж оюндары аяктады!  #GoogleDoodle"
+      },
+      "lo": {
+        "query": null,
+        "hover_text": "ການແຂ່ງຂັນກິລາປາຣີສຈົບລົງແລ້ວ!",
+        "share_text": "ການແຂ່ງຂັນກິລາປາຣີສຈົບລົງແລ້ວ!  #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "juegos paralímpicos 2024",
+        "hover_text": "¡Los Juegos de París finalizan!",
+        "share_text": "¡Los Juegos de París terminan! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "paraolimpiskās spēles (2024)",
+        "hover_text": "Noslēdzas Parīzes spēles!",
+        "share_text": "Noslēdzas Parīzes spēles!  #GoogleDoodle"
+      },
+      "lt": {
+        "query": "paralimpinės žaidynės",
+        "hover_text": "Paryžiaus paralimpinės žaidynės baigiasi!",
+        "share_text": "Paryžiaus paralimpinės žaidynės baigiasi!  #GoogleDoodle"
+      },
+      "mk": {
+        "query": null,
+        "hover_text": "Игрите во Париз завршуваат!",
+        "share_text": "Игрите во Париз завршуваат!  #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": "Sukan Paris Berakhir!",
+        "share_text": "Sukan Paris Berakhir!  #GoogleDoodle"
+      },
+      "ml": {
+        "query": null,
+        "hover_text": "പാരീസ് ഗെയിംസിന് സമാപനമായി!",
+        "share_text": "പാരീസ് ഗെയിംസിന് സമാപനമായി!  #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "पॅरालिंपिक्स २०२४",
+        "hover_text": "पॅरिस गेम्सची सांगता झाली आहे!",
+        "share_text": "पॅरिस गेम्सची सांगता झाली आहे!  #GoogleDoodle"
+      },
+      "mn": {
+        "query": "2024 оны паралимп",
+        "hover_text": "Парисын наадам өндөрлөлөө!",
+        "share_text": "Парисын наадам өндөрлөлөө!  #GoogleDoodle"
+      },
+      "ne": {
+        "query": null,
+        "hover_text": "पेरिस खेल सम्पन्न भएको छ!",
+        "share_text": "पेरिस खेल सम्पन्न भएको छ!  #GoogleDoodle"
+      },
+      "no": {
+        "query": null,
+        "hover_text": "Lekene i Paris avsluttes!",
+        "share_text": "Lekene i Paris avsluttes!  #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": "«بازی‌های پاریس» به‌پایان رسید!",
+        "share_text": "«بازی‌های پاریس» به‌پایان رسید!  ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": null,
+        "hover_text": "Zakończenie igrzysk w Paryżu",
+        "share_text": "Zakończenie igrzysk w Paryżu  #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "jogos paralímpicos",
+        "hover_text": "Terminam os Jogos de Paris!",
+        "share_text": "Terminam os Jogos de Paris! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "jogos paralímpicos de 2024",
+        "hover_text": "Terminam os Jogos de Paris!",
+        "share_text": "Terminam os Jogos de Paris!  #GoogleDoodle"
+      },
+      "pa": {
+        "query": null,
+        "hover_text": "ਪੈਰਿਸ ਖੇਡਾਂ ਸਮਾਪਤ!",
+        "share_text": "ਪੈਰਿਸ ਖੇਡਾਂ ਸਮਾਪਤ!  #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Jocurile Paralimpice",
+        "hover_text": "Finala Jocurilor Paralimpice de la Paris",
+        "share_text": "Finala Jocurilor Paralimpice de la Paris! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": "Игры в Париже завершились",
+        "share_text": "Игры в Париже завершились  #GoogleDoodle"
+      },
+      "sr": {
+        "query": "параолимпијада 2024.",
+        "hover_text": "Игре у Паризу се завршавају!",
+        "share_text": "Игре у Паризу се завршавају!  #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "paraolimpijada 2024.",
+        "hover_text": "Igre u Parizu se završavaju!",
+        "share_text": "Igre u Parizu se završavaju!  #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": "පැරිස් ක්‍රීඩා නිමා වේ!",
+        "share_text": "පැරිස් ක්‍රීඩා නිමා වේ!  #GoogleDoodle"
+      },
+      "sk": {
+        "query": null,
+        "hover_text": "Hry v Paríži sa končia!",
+        "share_text": "Hry v Paríži sa končia!  #GoogleDoodle"
+      },
+      "sl": {
+        "query": null,
+        "hover_text": "Konec iger v Parizu!",
+        "share_text": "Konec iger v Parizu!  #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "juegos paralímpicos 2024",
+        "hover_text": "¡Los Juegos de París finalizan!",
+        "share_text": "¡Los Juegos de París terminan! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "paralimpiki 2024",
+        "hover_text": "Michezo ya Paris Imemalizika!",
+        "share_text": "Michezo ya Paris Imemalizika!  #GoogleDoodle"
+      },
+      "sv": {
+        "query": null,
+        "hover_text": "Parisspelen slutar!",
+        "share_text": "Parisspelen slutar!  #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் முடிந்துவிட்டன!",
+        "share_text": "பாரிஸ் விளையாட்டுப் போட்டிகள் முடிந்துவிட்டன!  #GoogleDoodle"
+      },
+      "te": {
+        "query": null,
+        "hover_text": "ప్యారిస్ గేమ్స్ ముగింపు!",
+        "share_text": "ప్యారిస్ గేమ్స్ ముగింపు!  #GoogleDoodle"
+      },
+      "th": {
+        "query": "พาราลิมปิก 2024",
+        "hover_text": "ปารีสเกมส์จบลงแล้ว!",
+        "share_text": "ปารีสเกมส์จบลงแล้ว!  #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "paralimpik oyunları",
+        "hover_text": "Paris Paralimpik Yaz Oyunları Kapanış Töreni",
+        "share_text": "Paris Paralimpik Yaz Oyunları Kapanış Töreni! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "паралімпійські ігри 2024",
+        "hover_text": "Паризькі ігри завершуються!",
+        "share_text": "Паризькі ігри завершуються!  #GoogleDoodle"
+      },
+      "ur": {
+        "query": "پیرالمپکس 2024",
+        "hover_text": "پیرس گیمز اختتام کو پہنچ گئی ہیں!",
+        "share_text": "پیرس گیمز اختتام کو پہنچ گئی ہیں!  GoogleDoodle#"
+      },
+      "uz": {
+        "query": null,
+        "hover_text": "Parij oʻyinlari yakunlandi!",
+        "share_text": "Parij oʻyinlari yakunlandi!  #GoogleDoodle"
+      },
+      "vi": {
+        "query": null,
+        "hover_text": "Bế mạc Thế vận hội Paris!",
+        "share_text": "Bế mạc Thế vận hội Paris!  #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": "Amageyimu AseParis Ayaphetha!",
+        "share_text": "Amageyimu AseParis Ayaphetha!  #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "paralympics 2024",
+    "share_text": "Paris Games Conclude!  #GoogleDoodle"
+  },
+  {
+    "name": "brazil-independence-day-2024",
+    "title": "Brazil Independence Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/brazil-independence-day-2024-6753651837110287.3-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/Oe-rb9dUHuAIxIIJqv0D75BuwrpXRpCmZf6u0aIXjAWS7L3G204golLy1W_gn__a-sa3yLNbKiFLxGWH0rHQovV3O3mzNEBLtwwIDHq6gKNooqj3djkUx1g",
+    "high_res_url": "//www.google.com/logos/doodles/2024/brazil-independence-day-2024-6753651837110287-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      9,
+      7
+    ],
+    "translations": {
+      "en": {
+        "query": "Brazil Independence Day",
+        "hover_text": "Brazil Independence Day 2024",
+        "share_text": "Happy Independence Day, Brazil! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Brasilië se onafhanklikheidsdag",
+        "hover_text": "Brasilië se onafhanklikheidsdag 2024",
+        "share_text": "Gelukkige onafhanklikheidsdag, Brasilië! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë e Brazilit",
+        "hover_text": "Dita e Pavarësisë së Brazilit, 2024",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Brazil! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የብራዚል ነጻነት ቀን",
+        "hover_text": "የብራዚል ነጻነት ቀን 2024",
+        "share_text": "መልካም ነጻነት ቀን ብራዚል! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال البرازيل",
+        "hover_text": "عيد استقلال البرازيل 2024",
+        "share_text": "عيد استقلال سعيد للبرازيل ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Բրազիլիայի անկախության օր",
+        "hover_text": "Բրազիլիայի անկախության օր 2024",
+        "share_text": "Շնորհավո՛ր անկախության օրը, Բրազիլիա #GoogleDoodle"
+      },
+      "az": {
+        "query": "Braziliyanın Müstəqillik Günü",
+        "hover_text": "2024 Braziliyanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Braziliya! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ব্রাজিলের স্বাধীনতা দিবস",
+        "hover_text": "ব্রাজিলের স্বাধীনতা দিবস ২০২৪",
+        "share_text": "ব্রাজিলের স্বাধীনতা দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Brasilgo Independentzia Eguna",
+        "hover_text": "2024ko Brasilgo Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Brasil! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Бразіліі",
+        "hover_text": "Дзень незалежнасці Бразіліі 2024",
+        "share_text": "З Днём незалежнасці, Бразілія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Brazila",
+        "hover_text": "Dan nezavisnosti Brazila 2024.",
+        "share_text": "Sretan Dan nezavisnosti, Brazilu! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Brazil Independence Day",
+        "hover_text": "Brazil Independence Day 2024",
+        "share_text": "Happy Independence Day, Brazil! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Бразилия",
+        "hover_text": "Ден на независимостта на Бразилия 2024 г.",
+        "share_text": "Честит Ден на независимостта на Бразилия! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဘရာဇီး လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ ဘရာဇီးနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ ဖြစ်ပါစေ၊ ဘရာဇီး။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència del Brasil",
+        "hover_text": "Dia de la Independència del Brasil 2024",
+        "share_text": "Feliç Dia de la Independència, Brasil! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "巴西獨立日",
+        "hover_text": "2024 年巴西獨立日",
+        "share_text": "巴西獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "巴西獨立紀念日",
+        "hover_text": "2024 巴西獨立紀念日",
+        "share_text": "巴西，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "巴西独立日",
+        "hover_text": "2024 年巴西独立日",
+        "share_text": "巴西，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Brazila",
+        "hover_text": "Dan neovisnosti Brazila 2024.",
+        "share_text": "Sretan Dan neovisnosti, Brazile! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Brazílie",
+        "hover_text": "Den nezávislosti Brazílie 2024",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Brazílie! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Brasiliens uafhængighedsdag",
+        "hover_text": "Brasiliens uafhængighedsdag 2024",
+        "share_text": "Glædelig uafhængighedsdag, Brasilien! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Brazilië",
+        "hover_text": "Onafhankelijkheidsdag Brazilië 2024",
+        "share_text": "Fijne Onafhankelijkheidsdag, Brazilië! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Brasiilia iseseisvuspäev",
+        "hover_text": "Brasiilia 2024. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Brasiilia! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Brasilian itsenäisyyspäivä",
+        "hover_text": "Brasilian itsenäisyyspäivä 2024",
+        "share_text": "Hyvää itsenäisyyspäivää, Brasilia! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance du Brésil",
+        "hover_text": "Fête de l'Indépendance du Brésil 2024",
+        "share_text": "Fête de l'Indépendance du Brésil #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance du Brésil",
+        "hover_text": "Fête de l'Indépendance du Brésil 2024",
+        "share_text": "Joyeux jour de l'indépendance du Brésil! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia do Brasil",
+        "hover_text": "Día da Independencia do Brasil 2024",
+        "share_text": "Feliz Día da Independencia, Brasil! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ბრაზილიის დამოუკიდებლობის დღე",
+        "hover_text": "ბრაზილიის დამოუკიდებლობის დღე — 2024",
+        "share_text": "ვულოცავთ ბრაზილიას დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Brasilien",
+        "hover_text": "Unabhängigkeitstag Brasilien 2024",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Brasilien! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας της Βραζιλίας",
+        "hover_text": "Ημέρα Ανεξαρτησίας της Βραζιλίας 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας της Βραζιλίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "બ્રાઝિલનો સ્વતંત્રતા દિવસ",
+        "hover_text": "બ્રાઝિલનો સ્વતંત્રતા દિવસ 2024",
+        "share_text": "બ્રાઝિલના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של ברזיל",
+        "hover_text": "יום העצמאות של ברזיל 2024",
+        "share_text": "יום עצמאות שמח, ברזיל! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "ब्राज़ील का स्वतंत्रता दिवस",
+        "hover_text": "ब्राज़ील का स्वतंत्रता दिवस 2024",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, ब्राज़ील! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Brazília függetlenségének napja",
+        "hover_text": "Brazília függetlenségének napja, 2024",
+        "share_text": "Boldog függetlenség napját, Brazília! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Brasilíu",
+        "hover_text": "Sjálfstæðisdagur Brasilíu 2024",
+        "share_text": "Gleðilegan sjálfstæðisdag, Brasilía! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Brasil",
+        "hover_text": "Hari Kemerdekaan Brasil 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Brasil! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse na Brasaíle",
+        "hover_text": null,
+        "share_text": "Lá Saoirse na Brasaíle faoi mhaise duit. #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza del Brasile",
+        "hover_text": "Festa dell'indipendenza del Brasile 2024",
+        "share_text": "Buona festa dell'indipendenza, Brasile! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ブラジル独立記念日",
+        "hover_text": "2024 年ブラジル独立記念日",
+        "share_text": "ブラジル独立記念日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಬ್ರಝೀಲ್‌ನಲ್ಲಿ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಬ್ರೆಜಿಲ್ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಬ್ರಝೀಲ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Бразилияның Тәуелсіздік күні",
+        "hover_text": "Бразилияның Тәуелсіздік күні – 2024",
+        "share_text": "Тәуелсіздік күні құтты болсын, Бразилия! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យឯករាជ្យជាតិប្រេស៊ីល",
+        "hover_text": "ទិវា​បុណ្យឯករាជ្យជាតិប្រេស៊ីលឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវាបុណ្យ​ឯករាជ្យជាតិប្រេស៊ីល! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "브라질 독립기념일",
+        "hover_text": "2024년 브라질 독립기념일",
+        "share_text": "브라질 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Бразилиянын Эгемендүүлүк күнү",
+        "hover_text": "Бразилиянын Эгемендүүлүк күнү — 2024",
+        "share_text": "Эгемендүүлүк күнүң менен, Бразилия! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດບຣາຊິວ",
+        "hover_text": "ວັນປະກາດເອກະລາດບຣາຊິວ 2024",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດ, ບຣາຊິວ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Brasil",
+        "hover_text": "Día de la Independencia de Brasil 2024",
+        "share_text": "¡Feliz Día de la Independencia de Brasil! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Brazīlijas neatkarības diena",
+        "hover_text": "Brazīlijas Neatkarības diena — 2024",
+        "share_text": "Sveicam Neatkarības dienā, Brazīlija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Brazilijos nepriklausomybės diena",
+        "hover_text": "Brazilijos nepriklausomybės diena, 2024 m.",
+        "share_text": "Sveikiname Braziliją su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Бразил",
+        "hover_text": "Ден на независноста на Бразил, 2024 г.",
+        "share_text": "Среќен Ден на независноста, Бразил! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Brezila",
+        "hover_text": null,
+        "share_text": "Tsarà fetin'ny fahaleovantena ry Brezila ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Brazil",
+        "hover_text": "Hari Kemerdekaan Brazil 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Brazil! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ബ്രസീല്‍ സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "ബ്രസീൽ സ്വാതന്ത്ര്യദിനം 2024",
+        "share_text": "സ്വാതന്ത്ര്യ ദിനാശംസകൾ, ബ്രസീൽ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "ब्राझीलचा स्वातंत्र्यदिन",
+        "hover_text": "ब्राझीलचा स्वातंत्र्यदिन २०२४",
+        "share_text": "ब्राझीलला स्वातंत्र्यदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Бразил улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2024 оны Бразилын Тусгаар тогтнолын өдөр",
+        "share_text": "Бразил улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "ब्राजिलको स्वतन्त्रता दिवस",
+        "hover_text": "ब्राजिलको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, ब्राजिल! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Brasils frigjøringsdag",
+        "hover_text": "Brasils frigjøringsdag 2024",
+        "share_text": "Gratulerer med frigjøringsdagen, Brasil! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ବ୍ରାଜିଲର ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": null,
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, ବ୍ରାଜିଲ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال برزیل",
+        "hover_text": "روز استقلال ۲۰۲۴ برزیل",
+        "share_text": "روز استقلال برزیل مبارک! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Niepodległości Brazylii",
+        "hover_text": "Dzień Niepodległości Brazylii 2024",
+        "share_text": "Brazylia obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência do Brasil",
+        "hover_text": "Dia da Independência do Brasil 2024",
+        "share_text": "Feliz Dia da Independência, Brasil! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência do Brasil",
+        "hover_text": "Dia da Independência do Brasil de 2024",
+        "share_text": "Feliz dia da independência, Brasil! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਬ੍ਰਾਜ਼ੀਲ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ",
+        "hover_text": "ਬ੍ਰਾਜ਼ੀਲ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2024",
+        "share_text": "ਬ੍ਰਾਜ਼ੀਲ ਦੇ ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței Braziliei",
+        "hover_text": "Ziua Independenței Braziliei – 2024",
+        "share_text": "La mulți ani de Ziua Independenței, Brazilia! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Бразилии",
+        "hover_text": "День независимости Бразилии – 2024",
+        "share_text": "День независимости Бразилии #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Бразила",
+        "hover_text": "Дан независности Бразила 2024.",
+        "share_text": "Честитамо Дан независности Бразилу! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Brazila",
+        "hover_text": "Dan nezavisnosti Brazila 2024.",
+        "share_text": "Čestitamo Dan nezavisnosti Brazilu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepandans Brazil",
+        "hover_text": null,
+        "share_text": "Bonn zournen Lendepandans, Brazil! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "බ්‍රසීලයේ නිදහස් දිනය",
+        "hover_text": "බ්‍රසීලයේ නිදහස් දිනය 2024",
+        "share_text": "ශුභ නිදහස් දිනයක්, බ්‍රසීලය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Brazílie",
+        "hover_text": "Deň nezávislosti Brazílie 2024",
+        "share_text": "Šťastný deň nezávislosti, Brazília! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Brazilije",
+        "hover_text": "Dan neodvisnosti Brazilije 2024",
+        "share_text": "Vesel dan neodvisnosti, Brazilija. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madax Banaanida Baraasiil",
+        "hover_text": null,
+        "share_text": "Maalinta Madax banaanida Farxada leh, Brazil! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la Brazil",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Tokoloho la Brazil! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Brasil",
+        "hover_text": "Día de la Independencia de Brasil 2024",
+        "share_text": "¡Feliz Día de la Independencia de Brasil! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Brazil",
+        "hover_text": "Sikukuu ya Uhuru wa Brazili 2024",
+        "share_text": "Heri za Sikukuu ya Uhuru, Brazil! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Brasiliens självständighetsdag",
+        "hover_text": "Brasiliens självständighetsdag 2024",
+        "share_text": "Vi firar Brasiliens självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "பிரேசிலின் சுதந்திர தினம்",
+        "hover_text": "பிரேசிலின் சுதந்திர தினம் 2024",
+        "share_text": "பிரேசிலின் சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "బ్రెజిల్ స్వాతంత్ర్య దినోత్సవం",
+        "hover_text": "బ్రెజిల్ స్వాతంత్య్ర దినోత్సవం 2024",
+        "share_text": "స్వాతంత్ర్య దినోత్సవ శుభాకాంక్షలు, బ్రెజిల్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของบราซิล",
+        "hover_text": "วันชาติบราซิลปี 2024",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของบราซิล #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Brazil",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, Brazil! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Brezilya Bağımsızlık Günü",
+        "hover_text": "2024 Brezilya Bağımsızlık Günü",
+        "share_text": "Brezilya Bağımsızlık Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Бразилії",
+        "hover_text": "День незалежності Бразилії у 2024 році",
+        "share_text": "З Днем незалежності, Бразиліє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "ﺑﺮﺍﺯﻳﻞ کا یوم آزادی",
+        "hover_text": "ﺑﺮﺍﺯﻳﻞ کا یوم آزادی 2024",
+        "share_text": "برازیل کا یوم آزادی مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Braziliya mustaqillik kuni",
+        "hover_text": "Braziliya Mustaqillik kuni 2024",
+        "share_text": "Mustaqillik kuning muborak, Braziliya! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Brazil",
+        "hover_text": "Ngày Quốc khánh Brazil năm 2024",
+        "share_text": "Chúc mừng Ngày quốc khánh Brazil! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lokuzimela lwase-Brazil",
+        "hover_text": "Usuku Lokuzimela LwaseBrazil Lwango-2024",
+        "share_text": "Sinifisela usuku oluhle lokuzimela, Brazil! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Brazil Independence Day",
+    "share_text": "Happy Independence Day, Brazil! #GoogleDoodle"
+  },
+  {
     "name": "paris-games-equestrian",
     "title": "Paris Games - Equestrian",
     "url": "//www.google.com/logos/doodles/2024/paris-games-equestrian-6753651837110573-law.gif",
@@ -1526,7 +3023,7 @@
         "share_text": "Tenisi në Lojërat e Parisit! #GoogleDoodle"
       },
       "am": {
-        "query": null,
+        "query": "የተሽከርካሪ ወንበር ቴኒስ ፓራሊምፒክስ 2024",
         "hover_text": "የፓሪስ ጨዋታዎች ቴኒስ",
         "share_text": "የፓሪስ ጨዋታዎች ቴኒስ! #GoogleDoodle"
       },
@@ -1536,7 +3033,7 @@
         "share_text": "مسابقات التنس في ألعاب باريس! ‎#GoogleDoodle"
       },
       "hy": {
-        "query": null,
+        "query": "անվասայլակով թենիս 2024-ի պարալիմպիկ խաղերում",
         "hover_text": "Թենիս Փարիզի խաղերում",
         "share_text": "Թենիս Փարիզի խաղերում #GoogleDoodle"
       },
@@ -1571,7 +3068,7 @@
         "share_text": "Paris Games Tennis #GoogleDoodle"
       },
       "bg": {
-        "query": null,
+        "query": "тенис с инвалидни колички на параолимпийските игри 2024 г.",
         "hover_text": "Тенис на Игрите в Париж",
         "share_text": "Тенис на Игрите в Париж! #GoogleDoodle"
       },
@@ -1586,7 +3083,7 @@
         "share_text": "Tennis als Jocs de París #GoogleDoodle"
       },
       "zh-HK": {
-        "query": null,
+        "query": "2024 年殘疾人奧運會輪椅網球項目",
         "hover_text": "巴黎運動會網球項目",
         "share_text": "巴黎運動會網球項目！#GoogleDoodle"
       },
@@ -1621,12 +3118,12 @@
         "share_text": "Tennis op de Spelen in Parijs! #GoogleDoodle"
       },
       "et": {
-        "query": null,
+        "query": "2024. aasta paraolümpia ratastoolitennis",
         "hover_text": "Pariisi mängude tennis",
         "share_text": "Pariisi mängude tennis! #GoogleDoodle"
       },
       "fi": {
-        "query": null,
+        "query": "pyörätuolitennis paralympialaiset 2024",
         "hover_text": "Tennis Pariisin kisoissa",
         "share_text": "Tennis Pariisin kisoissa #GoogleDoodle"
       },
@@ -1676,7 +3173,7 @@
         "share_text": "המשחקים בפריז – טניס GoogleDoodle#"
       },
       "hi": {
-        "query": null,
+        "query": "पैरालंपिक 2024 में व्हीलचेयर टेनिस",
         "hover_text": "पेरिस गेम्स में टेनिस",
         "share_text": "पेरिस गेम्स में टेनिस! #GoogleDoodle"
       },
@@ -1686,12 +3183,12 @@
         "share_text": "Tenisz a Párizsi Játékokon! #GoogleDoodle"
       },
       "is": {
-        "query": null,
+        "query": "Ólympíuleikar fatlaðra 2024 – tennis",
         "hover_text": "Parísarleikarnir – Tennis",
         "share_text": "Parísarleikarnir – Tennis! #GoogleDoodle"
       },
       "id": {
-        "query": null,
+        "query": "paralimpiade tenis kursi roda 2024",
         "hover_text": "Pertandingan Paris - Tenis",
         "share_text": "Pertandingan Paris - Tenis #GoogleDoodle"
       },
@@ -1701,7 +3198,7 @@
         "share_text": ""
       },
       "it": {
-        "query": null,
+        "query": "giochi paralimpici tennis in carrozzina 2024",
         "hover_text": "Tennis ai Giochi di Parigi",
         "share_text": "Tennis ai Giochi di Parigi! #GoogleDoodle"
       },
@@ -1746,7 +3243,7 @@
         "share_text": "Tenis en los Juegos de París #GoogleDoodle"
       },
       "lv": {
-        "query": null,
+        "query": "ratiņkrēslu teniss — paraolimpiskās spēles (2024)",
         "hover_text": "Parīzes spēles — teniss",
         "share_text": "Parīzes spēles — teniss! #GoogleDoodle"
       },
@@ -1781,12 +3278,12 @@
         "share_text": ""
       },
       "mr": {
-        "query": null,
+        "query": "व्हीलचेअर टेनिसचे पॅरालिंपिक्स २०२४",
         "hover_text": "पॅरिस गेम्समधील टेनिस",
         "share_text": "पॅरिस गेम्समधील टेनिस! #GoogleDoodle"
       },
       "mn": {
-        "query": null,
+        "query": "2024 оны паралимпын тэргэнцэртэй талбайн теннис",
         "hover_text": "Парисын наадмын талбайн теннис",
         "share_text": "Парисын наадмын талбайн теннис! #GoogleDoodle"
       },
@@ -1836,7 +3333,7 @@
         "share_text": "Tênis nos Jogos de Paris #GoogleDoodle"
       },
       "pt-PT": {
-        "query": null,
+        "query": "ténis em cadeira de rodas jogos paralímpicos de 2024",
         "hover_text": "Jogos de Paris – Ténis",
         "share_text": "Jogos de Paris – Ténis! #GoogleDoodle"
       },
@@ -1861,12 +3358,12 @@
         "share_text": "Теннис на Играх в Париже #GoogleDoodle"
       },
       "sr": {
-        "query": null,
+        "query": "тенис у колицима на параолимпијади 2024.",
         "hover_text": "Тенис на Играма у Паризу",
         "share_text": "Тенис на Играма у Паризу! #GoogleDoodle"
       },
       "sr-Latn": {
-        "query": null,
+        "query": "tenis u kolicima na paraolimpijadi 2024.",
         "hover_text": "Tenis na Igrama u Parizu",
         "share_text": "Tenis na Igrama u Parizu! #GoogleDoodle"
       },
@@ -1916,7 +3413,7 @@
         "share_text": "Tenis en los Juegos de París #GoogleDoodle"
       },
       "sw": {
-        "query": null,
+        "query": "paralimpiki ya tenisi ya kiti cha magurudumu 2024",
         "hover_text": "Michezo ya Paris ya Tenisi",
         "share_text": "Michezo ya Paris ya Tenisi! #GoogleDoodle"
       },
@@ -1961,12 +3458,12 @@
         "share_text": ""
       },
       "uk": {
-        "query": null,
+        "query": "паралімпійські ігри 2024: теніс на інвалідних візках",
         "hover_text": "Паризькі ігри: теніс",
         "share_text": "Паризькі ігри: теніс! #GoogleDoodle"
       },
       "ur": {
-        "query": null,
+        "query": "وہیل چیئر ٹینس پیرالمپکس 2024",
         "hover_text": "پیرس گیمز ٹینس",
         "share_text": "پیرس گیمز ٹینس! GoogleDoodle#"
       },
