@@ -1,5 +1,504 @@
 [
   {
+    "name": "celebrating-smores",
+    "title": "Celebrating S'mores",
+    "url": "//www.google.com/logos/doodles/2024/celebrating-smores-6753651837110243-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/HC-XszvCR0c9SE9KAHWxZHLZUmhOsHuqTsKE33BmW527Luc1y7BFvx56H3ep6ygywnUrO--XCOeGdgPd962EWHB10HuyHvxzMYUi6pxJ9iZhu6JZdjk2hw",
+    "high_res_url": "//www.google.com/logos/doodles/2024/celebrating-smores-6753651837110243-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      9,
+      9
+    ],
+    "translations": {
+      "en": {
+        "query": "S'mores",
+        "hover_text": "Celebrating S'mores",
+        "share_text": "Celebrating S'mores! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Malvalekker-en-sjokoladekoekies",
+        "hover_text": "Ons vier malvalekker-en-sjokoladekoekies",
+        "share_text": "Ons vier malvalekker-en-sjokoladekoekies! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "S'mores",
+        "hover_text": "Përkujtojmë S'mores",
+        "share_text": "Përkujtojmë S'mores! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ስሞርስ",
+        "hover_text": "ስሞርስን በማክበር ላይ",
+        "share_text": "ስሞርስን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "حلوى السمور (S'more)",
+        "hover_text": "نحتفل اليوم بحلوى السمور (S'more)",
+        "share_text": "نحتفل اليوم بحلوى السمور (S'more)! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Սմոր",
+        "hover_text": "Տոնենք սմորի օրը",
+        "share_text": "Տոնենք սմորի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "S'mores",
+        "hover_text": "S'mores günü",
+        "share_text": "S'mores günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "স্মোর",
+        "hover_text": "স্মোরের ঐতিহ্য উদযাপন করা হচ্ছে",
+        "share_text": "স্মোরের ঐতিহ্য উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "S'more-ak",
+        "hover_text": "S'more-en omenez",
+        "share_text": "S'more-en omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Смор",
+        "hover_text": "Ушаноўваем смор – амерыканскі дэсерт",
+        "share_text": "Ушаноўваем смор – амерыканскі дэсерт! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "S'mores",
+        "hover_text": "Slavimo s'mores",
+        "share_text": "Slavimo s'mores! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "S'mores",
+        "hover_text": "Celebrating s'mores",
+        "share_text": "Celebrating s'mores! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Сморс",
+        "hover_text": "Честване на Сморс",
+        "share_text": "Честване на Сморс! #GoogleDoodle"
+      },
+      "my": {
+        "query": "စမိုးမုန့်",
+        "hover_text": "စမိုးမုန့်ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "စမိုးမုန့်ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "S'mores",
+        "hover_text": "Homenatge als s'mores",
+        "share_text": "Homenatge als s'mores #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "烤棉花糖朱古力夾心餅",
+        "hover_text": "品嚐香甜的烤棉花糖朱古力夾心餅",
+        "share_text": "品嚐香甜的烤棉花糖朱古力夾心餅！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "烤棉花糖巧克力夾心餅",
+        "hover_text": "紀念烤棉花糖巧克力夾心餅問世",
+        "share_text": "紀念烤棉花糖巧克力夾心餅問世！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "棉花糖夹心饼干",
+        "hover_text": "美味的棉花糖夹心饼干",
+        "share_text": "美味的棉花糖夹心饼干！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "S'mores",
+        "hover_text": "Slavimo S'mores",
+        "share_text": "Slavimo S'mores! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "S'mores",
+        "hover_text": "Oslava s'mores",
+        "share_text": "Dnes oslavujeme s'mores! #GoogleDoodle"
+      },
+      "da": {
+        "query": "S'mores",
+        "hover_text": "Vi hylder s'mores",
+        "share_text": "Vi hylder s'mores #GoogleDoodle"
+      },
+      "nl": {
+        "query": "S'mores",
+        "hover_text": "Doodle ter ere van s'mores",
+        "share_text": "Een doodle ter ere van s'mores! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Grillitud vahukommid küpsistega",
+        "hover_text": "Tunneme rõõmu grillitud vahukommidest küpsistega",
+        "share_text": "Tunneme rõõmu grillitud vahukommidest küpsistega! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "S'more",
+        "hover_text": "S'more",
+        "share_text": "S'more #GoogleDoodle"
+      },
+      "fr": {
+        "query": "S'mores",
+        "hover_text": "Les s'mores à l'honneur",
+        "share_text": "Les s'mores à l'honneur ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Sandwichs choco-guimauves",
+        "hover_text": "Célébration des sandwichs choco-guimauves",
+        "share_text": "Célébration des sandwichs choco-guimauves #GoogleDoodle"
+      },
+      "gl": {
+        "query": "S'mores",
+        "hover_text": "Homenaxe aos s'mores",
+        "share_text": "Homenaxe aos s'mores! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "სმორი",
+        "hover_text": "აღვნიშნავთ სმორის დღეს",
+        "share_text": "აღვნიშნავთ სმორის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "S'mores",
+        "hover_text": "Wir feiern S'mores",
+        "share_text": "Wir feiern S'mores #GoogleDoodle"
+      },
+      "el": {
+        "query": "S'more",
+        "hover_text": "Τιμούμε τα S'more",
+        "share_text": "Τιμούμε τα S'more! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "સ્મોર",
+        "hover_text": "સ્મોરની ઉજવણી",
+        "share_text": "સ્મોરની ઉજવણી! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "סמורס",
+        "hover_text": "מחווה לקינוח סמורס",
+        "share_text": "מחווה לקינוח סמורס GoogleDoodle#"
+      },
+      "hi": {
+        "query": "स्मोर्स",
+        "hover_text": "स्मोर्स का जश्न",
+        "share_text": "स्मोर्स का जश्न! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "S'mores",
+        "hover_text": "A s'mores ünneplése",
+        "share_text": "A s'mores ünneplése! #GoogleDoodle"
+      },
+      "is": {
+        "query": "S'mores",
+        "hover_text": "Heiðrum S'mores",
+        "share_text": "Heiðrum S'mores! #GoogleDoodle"
+      },
+      "id": {
+        "query": "S'more",
+        "hover_text": "Merayakan S'more",
+        "share_text": "Merayakan S'more #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "S'mores",
+        "hover_text": "Un omaggio agli S'mores",
+        "share_text": "Un omaggio agli S'mores! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "スモア",
+        "hover_text": "スモアを称えて",
+        "share_text": "スモアを称えて #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಸ್ಮೋರ್ಸ್",
+        "hover_text": "ಸ್ಮೋರ್ಸ್ ಅನ್ನು ಆಸ್ವಾದಿಸಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಸ್ಮೋರ್ಸ್ ಅನ್ನು ಆಸ್ವಾದಿಸಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Смор",
+        "hover_text": "Смор күні",
+        "share_text": "Смор күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "S'mores",
+        "hover_text": "អបអរទិវារំលឹក S'mores",
+        "share_text": "អបអរទិវារំលឹក S'mores! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "스모어",
+        "hover_text": "스모어 기념",
+        "share_text": "스모어 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Смор",
+        "hover_text": "Cмор күнүн майрамдоо",
+        "share_text": "Смор күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "S'mores",
+        "hover_text": "ວັນສະເຫຼີມສະຫຼອງໃຫ້ກັບ S'mores",
+        "share_text": "ວັນສະເຫຼີມສະຫຼອງໃຫ້ກັບ S'mores! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "S'mores",
+        "hover_text": "Celebrando los s'mores",
+        "share_text": "Celebrando los s'mores #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Grauzdēts zefīrs ar šokolādi starp cepumiem (S'mores)",
+        "hover_text": "Grauzdēta zefīra ar šokolādi starp cepumiem (S'mores) godināšana",
+        "share_text": "Grauzdēta zefīra ar šokolādi starp cepumiem (S'mores) godināšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Kepti zefyrai su sausainiais ir šokoladu",
+        "hover_text": "Keptų zefyrų su sausainiais ir šokoladu minėjimas",
+        "share_text": "Keptų zefyrų su sausainiais ir šokoladu minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "S'mores",
+        "hover_text": "Во чест на S'mores",
+        "share_text": "Во чест на S'mores! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "S'mores",
+        "hover_text": "Meraikan S'mores",
+        "share_text": "Meraikan S'mores! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "സ്‌മോഴ്‌സ്",
+        "hover_text": "സ്‌മോഴ്‌സ് ആഘോഷമാക്കുന്നു",
+        "share_text": "സ്‌മോഴ്‌സ് ആഘോഷമാക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "स्मोर्स",
+        "hover_text": "स्मोर्सचा आस्वाद घ्या",
+        "share_text": "स्मोर्सचा आस्वाद घ्या! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Смор",
+        "hover_text": "Сморын өдрийг тэмдэглэж байна",
+        "share_text": "Сморын өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "S'mores",
+        "hover_text": "S'mores को उत्सव",
+        "share_text": "S'mores को उत्सव! #GoogleDoodle"
+      },
+      "no": {
+        "query": "S'mores",
+        "hover_text": "Vi feirer s'mores",
+        "share_text": "Vi feirer s'mores! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "اس‌مور",
+        "hover_text": "جشن دسر اس‌مور",
+        "share_text": "جشن دسر اس‌مور! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "S'more",
+        "hover_text": "Smakujemy S'more",
+        "share_text": "Smakujemy S'more #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "S'mores",
+        "hover_text": "Viva o doce s'more",
+        "share_text": "Viva o doce s'more! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "S'mores",
+        "hover_text": "Celebração dos S'mores",
+        "share_text": "Celebração dos S'mores! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "S'mores",
+        "hover_text": "ਸਮੋਰ ਦਾ ਜਸ਼ਨ",
+        "share_text": "ਸਮੋਰ ਦਾ ਜਸ਼ਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Biscuitele S'mores",
+        "hover_text": "În cinstea biscuitelui S'mores",
+        "share_text": "În cinstea biscuitelui S'mores! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Смор",
+        "hover_text": "День смора",
+        "share_text": "День смора #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Сморси",
+        "hover_text": "Славимо сморсе",
+        "share_text": "Славимо сморсе! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Smorsi",
+        "hover_text": "Slavimo smorse",
+        "share_text": "Slavimo smorse! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "එස්'මෝර්ස්",
+        "hover_text": "එස්'මෝර්ස් සමරමින්",
+        "share_text": "එස්'මෝර්ස් සමරමින්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "S'mores",
+        "hover_text": "Oslavujeme cukrovinku s'more",
+        "share_text": "Oslavujeme cukrovinku s'more. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Piškoti S'more",
+        "hover_text": "Slavimo piškote S'more",
+        "share_text": "Slavimo piškote S'more! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "S'mores",
+        "hover_text": "Homenaje a los s'mores",
+        "share_text": "Hoy rendimos homenaje a los s'mores #GoogleDoodle"
+      },
+      "sw": {
+        "query": "S'mores",
+        "hover_text": "Tunaenzi S'mores",
+        "share_text": "Tunaenzi S'mores! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "S'mores",
+        "hover_text": "Vi hyllar s'mores",
+        "share_text": "Vi hyllar s'mores #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "S'mores",
+        "hover_text": "ஸ்மோர்ஸைக் கொண்டாடுவோம்",
+        "share_text": "ஸ்மோர்ஸைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "స్మోర్‌లు",
+        "hover_text": "స్మోర్‌లతో రుచుల వేడుక చేసుకుందాం",
+        "share_text": "స్మోర్‌లతో రుచుల వేడుక చేసుకుందాం! #GoogleDoodle"
+      },
+      "th": {
+        "query": "สมอร์",
+        "hover_text": "เฉลิมฉลองสมอร์!",
+        "share_text": "เฉลิมฉลองให้กับสมอร์ #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "S'mores Günü",
+        "hover_text": "S'mores Günü Kutlaması",
+        "share_text": "S'mores Günü'nü kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Смор",
+        "hover_text": "Ушановуємо смор",
+        "share_text": "Ушановуємо смор! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "S'mores",
+        "hover_text": "S'mores کا جشن",
+        "share_text": "S'mores کا جشن! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Smorlar",
+        "hover_text": "Smorlar kuni",
+        "share_text": "Smorlar kuni bilan! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Món S'more",
+        "hover_text": "Tôn vinh món S'more",
+        "share_text": "Tôn vinh món S'more! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ama-S'more",
+        "hover_text": "Sibungaza ama-S'more",
+        "share_text": "Sibungaza ama-S'more! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "S'mores",
+    "share_text": "Celebrating S'mores! #GoogleDoodle"
+  },
+  {
     "name": "fathers-day-sep-8-2024",
     "title": "Father's Day (Sep 8) 2024",
     "url": "//www.google.com/logos/doodles/2024/fathers-day-sep-8-2024-6753651837110411-l.png",
@@ -578,7 +1077,7 @@
         "share_text": "Игрите в Париж приключват!  #GoogleDoodle"
       },
       "my": {
-        "query": null,
+        "query": "၂၀၂၄ မသန်စွမ်းအိုလံပစ်",
         "hover_text": "ပဲရစ်ဂိမ်းများ ပြီးဆုံးပါပြီ။",
         "share_text": "ပဲရစ်ဂိမ်းများ ပြီးဆုံးပါပြီ။  #GoogleDoodle"
       },
@@ -888,7 +1387,7 @@
         "share_text": ""
       },
       "si": {
-        "query": null,
+        "query": "පැරාලිම්පික් 2024",
         "hover_text": "පැරිස් ක්‍රීඩා නිමා වේ!",
         "share_text": "පැරිස් ක්‍රීඩා නිමා වේ!  #GoogleDoodle"
       },
@@ -973,12 +1472,12 @@
         "share_text": "پیرس گیمز اختتام کو پہنچ گئی ہیں!  GoogleDoodle#"
       },
       "uz": {
-        "query": null,
+        "query": "paralimpiya oʻyinlari 2024",
         "hover_text": "Parij oʻyinlari yakunlandi!",
         "share_text": "Parij oʻyinlari yakunlandi!  #GoogleDoodle"
       },
       "vi": {
-        "query": null,
+        "query": "thế vận hội dành cho người khuyết tật năm 2024",
         "hover_text": "Bế mạc Thế vận hội Paris!",
         "share_text": "Bế mạc Thế vận hội Paris!  #GoogleDoodle"
       },
@@ -3073,7 +3572,7 @@
         "share_text": "Тенис на Игрите в Париж! #GoogleDoodle"
       },
       "my": {
-        "query": null,
+        "query": "၂၀၂၄ မသန်စွမ်းအိုလံပစ် ဘီးတပ်ကုလားထိုင် တင်းနစ်",
         "hover_text": "ပဲရစ်ဂိမ်းများ တင်းနစ်",
         "share_text": "ပဲရစ်ဂိမ်းများ တင်းနစ်။ #GoogleDoodle"
       },
@@ -3133,7 +3632,7 @@
         "share_text": "Tennis aux Jeux de Paris ! #GoogleDoodle"
       },
       "fr-CA": {
-        "query": null,
+        "query": "tennis fauteuil aux Jeux paralympiques 2024",
         "hover_text": "Le tennis aux Jeux de Paris",
         "share_text": "Le tennis aux Jeux de Paris! #GoogleDoodle"
       },
@@ -3383,7 +3882,7 @@
         "share_text": ""
       },
       "si": {
-        "query": null,
+        "query": "රෝද පුටු ටෙනිස් පැරාලිම්පික් 2024",
         "hover_text": "පැරිස් ක්‍රීඩා ටෙනිස්",
         "share_text": "පැරිස් ක්‍රීඩා ටෙනිස්! #GoogleDoodle"
       },
@@ -3468,7 +3967,7 @@
         "share_text": "پیرس گیمز ٹینس! GoogleDoodle#"
       },
       "uz": {
-        "query": null,
+        "query": "nogironlar aravachasida tennis paralimpiya oyinlari 2024",
         "hover_text": "Parij oʻyinlari tennis",
         "share_text": "Parij oʻyinlari tennis! #GoogleDoodle"
       },
