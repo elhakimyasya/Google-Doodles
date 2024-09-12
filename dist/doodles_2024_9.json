@@ -1,5 +1,504 @@
 [
   {
+    "name": "celebrating-scoubidous",
+    "title": "Celebrating Scoubidous",
+    "url": "//www.google.com/logos/doodles/2024/celebrating-scoubidous-6753651837110288.3-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/ohHlhgOmkcfiMD__0u85ctdmbGqgsDPgtkM61Bj1Ldd8CkQCLiKqvHlpa5a8TjXUFrSMioG5Z8z9mhq3yM6NnXE5kQmjprfcsk7y1ofhWjVVB8WNsgAG5A",
+    "high_res_url": "//www.google.com/logos/doodles/2024/celebrating-scoubidous-6753651837110288-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      9,
+      12
+    ],
+    "translations": {
+      "en": {
+        "query": "Scoubidous",
+        "hover_text": "Celebrating Scoubidous",
+        "share_text": "Celebrating Scoubidous! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Scoubidous",
+        "hover_text": "Ter viering van Scoubidous",
+        "share_text": "Ter viering van Scoubidous! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Scoubidous",
+        "hover_text": "Festojmë me scoubidous",
+        "share_text": "Festojmë me scoubidous! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ስካቢዶስ",
+        "hover_text": "ስካቢዶስን በማክበር ላይ",
+        "share_text": "ስካቢዶስን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "خيوط \"سكوبيدو\" (المستخدمة في حرفة الغزل)",
+        "hover_text": "نحتفل بخيوط \"سكوبيدو\" (المستخدمة في حرفة الغزل)",
+        "share_text": "نحتفل اليوم بخيوط \"سكوبيدو\" (المستخدمة في حرفة الغزل)! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Սկուբիդուներ",
+        "hover_text": "Տոնենք սկուբիդուների օրը",
+        "share_text": "Տոնենք սկուբիդուների օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Scoubidous",
+        "hover_text": "Scoubidous günü",
+        "share_text": "Scoubidous günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "স্কুবিদু",
+        "hover_text": "স্কুবিদুর ঐতিহ্য উদযাপন করা হচ্ছে",
+        "share_text": "স্কুবিদুর ঐতিহ্য উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Scoubidou hariak",
+        "hover_text": "Scoubidou harien omenez",
+        "share_text": "Scoubidou harien omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Пляценне трубачкамі скубіду",
+        "hover_text": "Ушаноўваем пляценне трубачкамі скубіду",
+        "share_text": "Ушаноўваем пляценне трубачкамі скубіду! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Pletenje plastičnim nitima",
+        "hover_text": "Slavimo pletenje plastičnim nitima",
+        "share_text": "Slavimo pletenje plastičnim nitima! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Scoubidous",
+        "hover_text": "Celebrating scoubidous",
+        "share_text": "Celebrating scoubidous #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Гривни „скубиду“",
+        "hover_text": "Честване на гривните „скубиду“",
+        "share_text": "Честване на гривните „скубиду“! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Scoubidous",
+        "hover_text": "Scoubidous ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "Scoubidous ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Escubidús",
+        "hover_text": "Homenatge als escubidús",
+        "share_text": "Homenatge als escubidús #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Scoubidous",
+        "hover_text": "欣賞法國 Scoubidou 繩結工藝",
+        "share_text": "欣賞法國 Scoubidou 繩結工藝！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "法國傳統繩結工藝",
+        "hover_text": "認識法國傳統繩結工藝",
+        "share_text": "認識法國傳統繩結工藝！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "塑料彩线编结物",
+        "hover_text": "精美的塑料彩线编结物",
+        "share_text": "精美的塑料彩线编结物！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Plastične uzice",
+        "hover_text": "Slavimo plastične uzice",
+        "share_text": "Slavimo plastične uzice! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Scoubidou",
+        "hover_text": "Oslavujeme provazy scoubidou",
+        "share_text": "Oslavujeme provazy scoubidou! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Scoubidous",
+        "hover_text": "Vi hylder scoubidous",
+        "share_text": "Vi hylder scoubidous #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Scoubidou",
+        "hover_text": "Een doodle ter ere van scoubidou",
+        "share_text": "Een doodle ter ere van scoubidou! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Punumisnöör",
+        "hover_text": "Hoiame au sees punumisnööri",
+        "share_text": "Hoiame au sees punumisnööri! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Scoubidou",
+        "hover_text": "Scoubidou",
+        "share_text": "Scoubidou #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Scoubidous",
+        "hover_text": "Les scoubidous à l'honneur",
+        "share_text": "Les scoubidous à l'honneur ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Scoubidous",
+        "hover_text": "Célébration des scoubidous",
+        "share_text": "Célébration des scoubidous! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Scoubidous",
+        "hover_text": "Homenaxe aos Scoubidous",
+        "share_text": "Homenaxe aos Scoubidous! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "სკუბიდუ",
+        "hover_text": "აღვნიშნავთ სკუბიდუს დღეს",
+        "share_text": "აღვნიშნავთ სკუბიდუს დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Scoubidou",
+        "hover_text": "Wir feiern die Tradition des Scoubidou-Flechtens",
+        "share_text": "Wir feiern die Tradition des Scoubidou-Flechtens #GoogleDoodle"
+      },
+      "el": {
+        "query": "Scoubidou",
+        "hover_text": "Τιμούμε τα Scoubidou",
+        "share_text": "Τιμούμε τα Scoubidou! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "સ્કૂબિદુ",
+        "hover_text": "સ્કૂબિદુની યાદમાં",
+        "share_text": "સ્કૂબિદુની યાદમાં! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Scoubidous",
+        "hover_text": "מחווה ליצירות מחוטי סקובידו",
+        "share_text": "מחווה ליצירות מחוטי סקובידו GoogleDoodle#"
+      },
+      "hi": {
+        "query": "स्कूबीदू",
+        "hover_text": "स्कूबीदू का जश्न",
+        "share_text": "स्कूबीदू का जश्न! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Térfonás",
+        "hover_text": "A térfonás ünneplése",
+        "share_text": "A térfonás ünneplése. #GoogleDoodle"
+      },
+      "is": {
+        "query": "Scoubidou",
+        "hover_text": "Við heiðrum Scoubidou",
+        "share_text": "Við heiðrum Scoubidou! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Scoubidou",
+        "hover_text": "Merayakan Scoubidou",
+        "share_text": "Merayakan Scoubidou #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Scoubidou",
+        "hover_text": "Un omaggio agli scoubidou",
+        "share_text": "Un omaggio agli scoubidou! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "スクービドゥー",
+        "hover_text": "スクービドゥーを称えて",
+        "share_text": "スクービドゥーを称えて #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಸ್ಕೌಬಿಡೋಸ್",
+        "hover_text": "ಸ್ಕೌಬಿಡಸ್ ಅನ್ನು ಆಚರಿಸಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಸ್ಕೌಬಿಡಸ್ ಅನ್ನು ಆಚರಿಸಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Скубиду",
+        "hover_text": "Скубиду күні",
+        "share_text": "Скубиду күні #GoogleDoodle"
+      },
+      "km": {
+        "query": "ខ្សែក្រងស្គូប៊ីឌូស៍",
+        "hover_text": "អបអរទិវារំលឹកខ្សែក្រងស្គូប៊ីឌូស៍",
+        "share_text": "អបអរទិវារំលឹកខ្សែក្រងស្គូប៊ីឌូស៍! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "장식 매듭",
+        "hover_text": "장식 매듭 기념",
+        "share_text": "장식 매듭 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Скубиду",
+        "hover_text": "Скубиду күнүн майрамдоо",
+        "share_text": "Скубиду күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ການຖັກເຊືອກ",
+        "hover_text": "ວັນສະເຫຼີມສະຫຼອງການຖັກເຊືອກ",
+        "share_text": "ວັນສະເຫຼີມສະຫຼອງການຖັກເຊືອກ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Scoubidou",
+        "hover_text": "Celebrando el Scoubidou",
+        "share_text": "Celebrando el Scoubidou #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Plastmasas pinuma auklas (Scoubidou)",
+        "hover_text": "Plastmasas pinuma auklu (Scoubidou) godināšana",
+        "share_text": "Plastmasas pinuma auklu (Scoubidou) godināšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Plastikinės pynimo virvelės",
+        "hover_text": "Plastikinių pynimo virvelių minėjimas",
+        "share_text": "Plastikinių pynimo virvelių minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Scoubidous",
+        "hover_text": "Во чест на Scoubidous",
+        "share_text": "Во чест на Scoubidous! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Scoubidous",
+        "hover_text": "Meraikan Scoubidous",
+        "share_text": "Meraikan Scoubidous! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "സ്‌കൂബിഡൂകൾ",
+        "hover_text": "സ്‌കൂബിഡൂകൾ ആഘോഷമാക്കുന്നു",
+        "share_text": "സ്‌കൂബിഡൂകൾ ആഘോഷമാക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "स्कुबिडू",
+        "hover_text": "स्कुबिडूच्या सन्मानार्थ",
+        "share_text": "स्कुबिडूच्या सन्मानार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Скубиду",
+        "hover_text": "Скубидугийн өдрийг тэмдэглэж байна",
+        "share_text": "Скубидугийн өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "स्काउबिडस",
+        "hover_text": "स्काउबिडसको उत्सव",
+        "share_text": "स्काउबिडसको उत्सव! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Scoubidou",
+        "hover_text": "Vi feirer scoubidou",
+        "share_text": "Vi feirer scoubidou! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "اسکوبیدوها",
+        "hover_text": "روز اسکوبیدوها",
+        "share_text": "روز اسکوبیدوها! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Filofuny",
+        "hover_text": "Zaplatamy filofuny",
+        "share_text": "Zaplatamy filofuny #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Scoubidous",
+        "hover_text": "Viva o scoubidous, material de trançado francês",
+        "share_text": "Viva o scoubidous, material de trançado francês! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Scoubidous",
+        "hover_text": "Celebração dos Scoubidous",
+        "share_text": "Celebração dos Scoubidous! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Scoubidous",
+        "hover_text": "ਸਕੂਬੀਡੂ ਦਾ ਜਸ਼ਨ",
+        "share_text": "ਸਕੂਬੀਡੂ ਦਾ ਜਸ਼ਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Scoubidou",
+        "hover_text": "În cinstea firelor scoubidou",
+        "share_text": "În cinstea firelor scoubidou! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Трубочки скубиду",
+        "hover_text": "День трубочек скубиду",
+        "share_text": "День трубочек скубиду #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Плетење накита од гумица",
+        "hover_text": "Славимо плетење накита од гумица",
+        "share_text": "Славимо плетење накита од гумица! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Pletenje nakita od gumica",
+        "hover_text": "Slavimo pletenje nakita od gumica",
+        "share_text": "Slavimo pletenje nakita od gumica! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ස්කූබිඩස්",
+        "hover_text": "ස්කූබිඩස් සමරමින්",
+        "share_text": "ස්කූබිඩස් සමරමින්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Scoubidous",
+        "hover_text": "Oslavujeme scoubidous",
+        "share_text": "Oslavujeme scoubidous. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Vrvice za pletenje",
+        "hover_text": "Slavimo vrvice za pletenje",
+        "share_text": "Slavimo vrvice za pletenje! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Escubidú",
+        "hover_text": "Homenaje a los escubidú",
+        "share_text": "Hoy hacemos un homenaje a los escubidú #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Scoubidous",
+        "hover_text": "Tunaenzi Scoubidous",
+        "share_text": "Tunaenzi Scoubidous! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Scoubidous",
+        "hover_text": "Vi hyllar scoubidous",
+        "share_text": "Vi hyllar scoubidous! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Scoubidous",
+        "hover_text": "ஸ்கூபிடூஸைக் கொண்டாடுவோம்",
+        "share_text": "ஸ்கூபிடூஸைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "స్కూబీడూస్",
+        "hover_text": "స్కూబీడూస్ వేడుకలు",
+        "share_text": "స్కూబీడూస్ వేడుకలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "การถักเชือก",
+        "hover_text": "วันเฉลิมฉลองการถักเชือก",
+        "share_text": "วันเฉลิมฉลองการถักเชือก! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Scoubidou",
+        "hover_text": "Scoubidou'yu Kutluyoruz",
+        "share_text": "Scoubidou'yu kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Скубіду",
+        "hover_text": "Ушановуємо скубіду",
+        "share_text": "Ушановуємо скубіду! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Scoubidous",
+        "hover_text": "‫Scoubidous کی یاد میں",
+        "share_text": "‫Scoubidous کی یاد میں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Scoubidous",
+        "hover_text": "Scoubidous kuni",
+        "share_text": "Scoubidous kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Đồ thủ công Scoubidous",
+        "hover_text": "Tôn vinh đồ thủ công Scoubidous",
+        "share_text": "Tôn vinh đồ thủ công Scoubidous! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "IScoubidous",
+        "hover_text": "Sibungaza iScoubidous",
+        "share_text": "Sibungaza iScoubidous! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Scoubidous",
+    "share_text": "Celebrating Scoubidous! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-smores",
     "title": "Celebrating S'mores",
     "url": "//www.google.com/logos/doodles/2024/celebrating-smores-6753651837110243-l.png",
