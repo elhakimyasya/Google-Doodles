@@ -1,5 +1,504 @@
 [
   {
+    "name": "el-salvador-independence-day-2024",
+    "title": "El Salvador Independence Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/el-salvador-independence-day-2024-6753651837110290-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/8kKCIyEyxbgf2ilp69rJWGlRRBXnII7iY5Gsol7-wzoagWwzYAYTXmdXh0TE3rcDTXtUdkn5beJbcbm7xbmxlAyUvWIeHUue_MgPTqEHHOoF4RmDCH1P",
+    "high_res_url": "//www.google.com/logos/doodles/2024/el-salvador-independence-day-2024-6753651837110290-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      9,
+      15
+    ],
+    "translations": {
+      "en": {
+        "query": "El Salvador Independence Day",
+        "hover_text": "El Salvador Independence Day 2024",
+        "share_text": "Happy Independence Day, El Salvador! #GoogleDoodle"
+      },
+      "af": {
+        "query": "El Salvador se onafhanklikheidsdag",
+        "hover_text": "El Salvador se onafhanklikheidsdag 2024",
+        "share_text": "Gelukkige onafhanklikheidsdag, El Salvador! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë e Salvadorit",
+        "hover_text": "Dita e Pavarësisë së Salvadorit, 2024",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Salvador! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የኤል ሳልቫዶር ነጻነት ቀን",
+        "hover_text": "የኤል ሳልቫዶር የነፃነት ቀን 2024",
+        "share_text": "መልካም ነጻነት ቀን ኤል ሳልቫዶር! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال السلفادور",
+        "hover_text": "عيد استقلال السلفادور 2024",
+        "share_text": "عيد استقلال سعيد للسلفادور ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Էլ Սալվադորի անկախության օր",
+        "hover_text": "Էլ Սալվադորի անկախության օր 2024",
+        "share_text": "Շնորհավո՛ր անկախության օրը, Էլ Սալվադոր #GoogleDoodle"
+      },
+      "az": {
+        "query": "Salvadorun Müstəqillik Günü",
+        "hover_text": "2024 Salvadorun Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Salvador! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "এল সালভাদরের স্বাধীনতা দিবস",
+        "hover_text": "এল সালভাদরের স্বাধীনতা দিবস ২০২৪",
+        "share_text": "এল সালভাদোরের স্বাধীনতা দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "El Salvadorko Independentzia Eguna",
+        "hover_text": "2024ko El Salvadorko Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, El Salvador! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Сальвадора",
+        "hover_text": "Дзень незалежнасці Сальвадора 2024",
+        "share_text": "З Днём незалежнасці, Сальвадор! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti El Salvadora",
+        "hover_text": "Dan nezavisnosti Salvadora 2024.",
+        "share_text": "Sretan Dan nezavisnosti, El Salvadore! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "El Salvador Independence Day",
+        "hover_text": "El Salvador Independence Day 2024",
+        "share_text": "Happy Independence Day, El Salvador! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Салвадор",
+        "hover_text": "Ден на независимостта на Ел Салвадор 2024 г.",
+        "share_text": "Честит Ден на независимостта на Салвадор! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အယ်လ်ဆာဗေးဒိုး လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ အယ်လ်ဆာဗေးဒိုးနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ဖြစ်ပါစေ၊ အယ်လ်ဆာဗေးဒိုး။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència d'El Salvador",
+        "hover_text": "Dia de la Independència d'El Salvador 2024",
+        "share_text": "Feliç Dia de la Independència, El Salvador! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "薩爾瓦多獨立日",
+        "hover_text": "2024 年薩爾瓦多獨立日",
+        "share_text": "薩爾瓦多獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "薩爾瓦多獨立紀念日",
+        "hover_text": "2024 薩爾瓦多獨立紀念日",
+        "share_text": "薩爾瓦多，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "萨尔瓦多独立日",
+        "hover_text": "2024 年萨尔瓦多独立日",
+        "share_text": "萨尔瓦多，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti El Salvadora",
+        "hover_text": "Dan neovisnosti El Salvadora 2024.",
+        "share_text": "Sretan Dan neovisnosti, El Salvadore! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Salvadoru",
+        "hover_text": "Den nezávislosti Salvadoru 2024",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Salvadore! #GoogleDoodle"
+      },
+      "da": {
+        "query": "El Salvadors uafhængighedsdag",
+        "hover_text": "El Salvadors uafhængighedsdag 2024",
+        "share_text": "Glædelig uafhængighedsdag, El Salvador! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag El Salvador",
+        "hover_text": "Onafhankelijkheidsdag El Salvador 2024",
+        "share_text": "Fijne Onafhankelijkheidsdag, El Salvador! #GoogleDoodle"
+      },
+      "et": {
+        "query": "El Salvadori iseseisvuspäev",
+        "hover_text": "El Salvadori 2024. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, El Salvador! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "El Salvadorin itsenäisyyspäivä",
+        "hover_text": "El Salvadorin itsenäisyyspäivä 2024",
+        "share_text": "Hyvää itsenäisyyspäivää, El Salvador! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance du Salvador",
+        "hover_text": "Fête de l'Indépendance d'El Salvador 2024",
+        "share_text": "Fête de l'Indépendance du Salvador #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance du Salvador",
+        "hover_text": "Fête de l'Indépendance du Salvador 2024",
+        "share_text": "Joyeux jour de l'indépendance du Salvador! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia do Salvador",
+        "hover_text": "Día da Independencia do Salvador 2024",
+        "share_text": "Feliz Día da Independencia, O Salvador! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ელ-სალვადორის დამოუკიდებლობის დღე",
+        "hover_text": "სალვადორის დამოუკიდებლობის დღე — 2024",
+        "share_text": "ვულოცავთ ელ-სალვადორს დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag El Salvador",
+        "hover_text": "Unabhängigkeitstag El Salvador 2024",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in El Salvador! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας του Ελ Σαλβαδόρ",
+        "hover_text": "Ημέρα Ανεξαρτησίας του Ελ Σαλβαδόρ 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας του Ελ Σαλβαδόρ! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "એલ સાલ્વડોરાનો સ્વતંત્રતા દિવસ",
+        "hover_text": "એલ સાલ્વાડોરનો સ્વતંત્રતા દિવસ 2024",
+        "share_text": "એલ સાલ્વાડોરના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של אל סלוודור",
+        "hover_text": "יום העצמאות של אל סלבדור 2024",
+        "share_text": "יום עצמאות שמח, אל סלוודור! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "अल सल्वाडोर का स्वतंत्रता दिवस",
+        "hover_text": "अल सल्वाडोर का स्वतंत्रता दिवस 2024",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, एल सल्वाडोर! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Salvador függetlenségének napja",
+        "hover_text": "Salvador függetlenségének napja, 2024",
+        "share_text": "Boldog függetlenség napját, Salvador! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur El Salvador",
+        "hover_text": "Sjálfstæðisdagur El Salvador 2024",
+        "share_text": "Gleðilegan sjálfstæðisdag, El Salvador! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan El Salvador",
+        "hover_text": "Hari Kemerdekaan El Salvador 2024",
+        "share_text": "Selamat Hari Kemerdekaan, El Salvador! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse na Salvadóire",
+        "hover_text": null,
+        "share_text": "Lá Saoirse na Salvadóire faoi mhaise duit. #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza di El Salvador",
+        "hover_text": "Festa dell'indipendenza di El Salvador 2024",
+        "share_text": "Buona festa dell'indipendenza, El Salvador! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "エルサルバドル独立記念日",
+        "hover_text": "2024 年エルサルバドル独立記念日",
+        "share_text": "エルサルバドル独立記念日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಎಲ್ ಸಾಲ್ವಡಾರ್‌ನಲ್ಲಿ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಎಲ್ ಸಾಲ್ವಡಾರ್ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಎಲ್ ಸಾಲ್ವಡಾರ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Эль-Сальвадордың Тәуелсіздік күні",
+        "hover_text": "Эль-Сальвадордың Тәуелсіздік күні – 2024",
+        "share_text": "Тәуелсіздік күні құтты болсын, Эль-Сальвадор! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យឯករាជ្យជាតិអែលសាល់វ៉ាឌ័រ",
+        "hover_text": "ទិវា​បុណ្យឯករាជ្យជាតិ​អែលសាល់វ៉ាឌ័រ​ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​បុណ្យឯករាជ្យជាតិអែលសាល់វ៉ាឌ័រ! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "엘살바도르 독립기념일",
+        "hover_text": "2024년 엘살바도르 독립기념일",
+        "share_text": "엘살바도르 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Сальвадордун Эгемендүүлүк күнү",
+        "hover_text": "Сальвадордун Эгемендүүлүк күнү — 2024",
+        "share_text": "Эгемендүүлүк күнүң менен, Сальвадор! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດເອວຊາວາດໍ",
+        "hover_text": "ວັນປະກາດເອກະລາດເອວ ຊາວາດໍ 2024",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດ, ເອວຊາວາດໍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de El Salvador",
+        "hover_text": "Día de la Independencia de El Salvador 2024",
+        "share_text": "¡Feliz Día de la Independencia de El Salvador! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Salvadoras neatkarības diena",
+        "hover_text": "Salvadoras Neatkarības diena — 2024",
+        "share_text": "Sveicam neatkarības dienā, Salvadora! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Salvadoro nepriklausomybės diena",
+        "hover_text": "Salvadoro nepriklausomybės diena, 2024 m.",
+        "share_text": "Sveikiname Salvadorą su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Ел Салвадор",
+        "hover_text": "Ден на независноста на Ел Салвадор, 2024 г.",
+        "share_text": "Среќен Ден на независноста, Ел Салвадор! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i El-salvadaoro",
+        "hover_text": null,
+        "share_text": "Tsarà fetin'ny fahaleovantena ry El-salvadaoro ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan El Salvador",
+        "hover_text": "Hari Kemerdekaan El Salvador 2024",
+        "share_text": "Selamat Menyambut Hari Kemerdekaan, El Salvador! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "എൽ സാൽവദോർ സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "എൽ സാൽവദോർ സ്വാതന്ത്ര്യദിനം 2024",
+        "share_text": "സ്വാതന്ത്ര്യ ദിനാശംസകൾ, എൽ സാൽവദോർ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "एल साल्वाडोरचा स्वातंत्र्यदिन",
+        "hover_text": "एल साल्वादोरचा स्वातंत्र्यदिन २०२४",
+        "share_text": "एल साल्वाडोरला स्वातंत्र्यदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Эль Сальвадор улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2024 оны Эль Сальвадорын Тусгаар тогтнолын өдөр",
+        "share_text": "Эль-Сальвадор улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "एल साल्भाडोरको स्वतन्त्रता दिवस",
+        "hover_text": "एल् साल्भाडोरको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, एल साल्भाडोर! #GoogleDoodle"
+      },
+      "no": {
+        "query": "El Salvadors frigjøringsdag",
+        "hover_text": "El Salvadors frigjøringsdag 2024",
+        "share_text": "Gratulerer med frigjøringsdagen, El Salvador! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଏଲ୍ ସାଲ୍‌ଭାଡୋର୍‌ର ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": null,
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, ଏଲ୍ ସାଲ୍‌ଭାଡୋର୍! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال السالوادور",
+        "hover_text": "روز استقلال ۲۰۲۴ السالوادور",
+        "share_text": "روز استقلال السالوادور مبارک! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Niepodległości Salwadoru",
+        "hover_text": "Dzień Niepodległości Salwadoru 2024",
+        "share_text": "Salwador obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência de El Salvador",
+        "hover_text": "Dia da Independência de El Salvador 2024",
+        "share_text": "Feliz Dia da Independência, El Salvador! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência de Salvador",
+        "hover_text": "Dia da Independência de Salvador de 2024",
+        "share_text": "Feliz dia da independência, Salvador! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਏਲ ਸਾਲਵਾਡੋਰ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ",
+        "hover_text": "ਏਲ ਸਾਲਵਾਦੋਰ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2024",
+        "share_text": "ਏਲ ਸਾਲਵਾਡੋਰ ਦੇ ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței în El Salvador",
+        "hover_text": "Ziua Independenței în El Salvador – 2024",
+        "share_text": "La mulți ani de Ziua Independenței, El Salvador! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Сальвадора",
+        "hover_text": "День независимости Сальвадора – 2024",
+        "share_text": "День независимости Сальвадора #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Салвадора",
+        "hover_text": "Дан независности Салвадора 2024.",
+        "share_text": "Честитамо Дан независности Салвадору! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Salvadora",
+        "hover_text": "Dan nezavisnosti Salvadora 2024.",
+        "share_text": "Čestitamo Dan nezavisnosti Salvadoru! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepandans El Salvador",
+        "hover_text": null,
+        "share_text": "Bonn zournen lendepandand, El Salvador! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "එල් සැල්වදෝරයේ නිදහස් දිනය",
+        "hover_text": "එල් සැල්වදෝරයේ නිදහස් දිනය 2024",
+        "share_text": "ශුභ නිදහස් දිනයක්, එල් සැල්වදෝරය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Salvádora",
+        "hover_text": "Deň nezávislosti Salvádora 2024",
+        "share_text": "Šťastný deň nezávislosti, Salvádor! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti El Salvadorja",
+        "hover_text": "Dan neodvisnosti Salvadorja 2024",
+        "share_text": "Vesel dan neodvisnosti, Salvador. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madax banaanida El Salvador",
+        "hover_text": null,
+        "share_text": "Maalinta Madax banaanida Farxada leh, El Salvador! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la El Salvador",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Tokoloho El Salvador! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de El Salvador",
+        "hover_text": "Día de la Independencia de El Salvador 2024",
+        "share_text": "¡Feliz Día de la Independencia de El Salvador! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa El Salvado",
+        "hover_text": "Sikukuu ya Uhuru wa Elsavado 2024",
+        "share_text": "Heri za Sikukuu ya Uhuru, Elsavado! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "El Salvadors självständighetsdag",
+        "hover_text": "El Salvadors självständighetsdag 2024",
+        "share_text": "Vi firar El Salvadors självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "எல் சல்வேடாரின் சுதந்திர தினம்",
+        "hover_text": "எல் சல்வடோரின் சுதந்திர தினம் 2024",
+        "share_text": "எல் சல்வேடாரின் சுதந்திர தினம் வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఎల్ సాల్వడోర్ స్వాతంత్ర్య దినోత్సవం",
+        "hover_text": "ఎల్ సాల్వడార్ స్వాతంత్య్ర దినోత్సవం 2024",
+        "share_text": "స్వాతంత్ర్య దినోత్సవ శుభాకాంక్షలు, ఎల్ సాల్వడోర్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของเอลซัลวาดอร์",
+        "hover_text": "วันประกาศอิสรภาพของเอลซัลวาดอร์ปี 2024",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของเอลซัลวาดอร์ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Bopuso la El Salvador",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, El Salvador! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "El Salvador Bağımsızlık Günü",
+        "hover_text": "2024 El Salvador Bağımsızlık Günü",
+        "share_text": "El Salvador Bağımsızlık Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Сальвадору",
+        "hover_text": "День незалежності Сальвадору у 2024 році",
+        "share_text": "З Днем незалежності, Сальвадоре! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "ایل سلواڈور کا یوم آزادی",
+        "hover_text": "ایل سیلواڈور کا یومِ آزادی 2024",
+        "share_text": "ال سلواڈور کا یوم آزادی مبارک! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Salvador mustaqillik kuni",
+        "hover_text": "El-Salvador Mustaqillik kuni 2024",
+        "share_text": "Mustaqillik kuning muborak, Salvador! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh El Salvador",
+        "hover_text": "Ngày Quốc khánh El Salvador năm 2024",
+        "share_text": "Chúc mừng Ngày quốc khánh El Salvador! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lokuzimela lwase-El Salvador",
+        "hover_text": "Usuku Lokuzimela lwase-El Salvador luka-2024",
+        "share_text": "Sinifisela usuku oluhle lokuzimela, El Salvador! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "El Salvador Independence Day",
+    "share_text": "Happy Independence Day, El Salvador! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-scoubidous",
     "title": "Celebrating Scoubidous",
     "url": "//www.google.com/logos/doodles/2024/celebrating-scoubidous-6753651837110288.3-l.png",
