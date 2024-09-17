@@ -1,5 +1,1502 @@
 [
   {
+    "name": "celebrating-sophie-xeon",
+    "title": "Celebrating Sophie Xeon",
+    "url": "//www.google.com/logos/doodles/2024/celebrating-sophie-xeon-6753651837110296-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/LfR-D558MvCZkOsj9sQ5GK1cU0TRqR6qHtsqWH5olcq10c6WLG_HOWXISPJS26VkCRl06ZptAmwr7HLhr-Kf8Gs49UjfGoJ9gtdviPZNsxF-APy2vV-JrRw",
+    "high_res_url": "//www.google.com/logos/doodles/2024/celebrating-sophie-xeon-6753651837110296-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      9,
+      17
+    ],
+    "translations": {
+      "en": {
+        "query": "Sophie Xeon",
+        "hover_text": "Celebrating Sophie Xeon",
+        "share_text": "Celebrating Sophie Xeon! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "am": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ar": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hy": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "az": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "eu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "be": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": "Sophie Xeon",
+        "hover_text": "Celebrating Sophie Xeon",
+        "share_text": "Celebrating Sophie Xeon #GoogleDoodle"
+      },
+      "bg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "my": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ca": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "cs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "da": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "nl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "et": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "de": {
+        "query": "Sophie Xeon",
+        "hover_text": "Zu Ehren von Sophie Xeon",
+        "share_text": "Zu Ehren von Sophie Xeon #GoogleDoodle"
+      },
+      "el": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "is": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "id": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ja": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "kn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "kk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ko": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ky": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es-419": {
+        "query": "Sophie Xeon",
+        "hover_text": "Celebrando a Sophie Xeon",
+        "share_text": "¡Celebrando a Sophie Xeon! #GoogleDoodle"
+      },
+      "lv": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ml": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ne": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "no": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ro": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Sophie Xeon",
+        "hover_text": "Celebrando a Sophie Xeon",
+        "share_text": "¡Celebrando a Sophie Xeon! #GoogleDoodle"
+      },
+      "sw": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sv": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "te": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "th": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ur": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uz": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "vi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Sophie Xeon",
+    "share_text": "Celebrating Sophie Xeon! #GoogleDoodle"
+  },
+  {
+    "name": "mid-autumn-festival-2024-multiple",
+    "title": "Mid-Autumn Festival 2024 (Multiple)",
+    "url": "//www.google.com/logos/doodles/2024/mid-autumn-festival-2024-multiple-6753651837110450-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/Y00ugvsS1NhEnKQ4jlFz4sfuERTYW-B3ziIK7XNr56mmrqsXKrudzQfWdmdugkNpoq5NsKxdM1kNcILaDGDldxaGYGYze5q3uzcCDgRLpcms3mgtDPA_Pw",
+    "high_res_url": "//www.google.com/logos/doodles/2024/mid-autumn-festival-2024-multiple-6753651837110450-2xa.gif",
+    "high_res_width": 600,
+    "high_res_height": 240,
+    "run_date_array": [
+      2024,
+      9,
+      17
+    ],
+    "translations": {
+      "en": {
+        "query": "Mid-Autumn Festival",
+        "hover_text": "Mid-Autumn Festival 2024 (Multiple)",
+        "share_text": "Happy Mid-Autumn Festival! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Midherfsfees",
+        "hover_text": "Middelherfsfees 2024 (veelvuldig)",
+        "share_text": "Gelukkige middelherfsfees! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Festivali i Mesvjeshtës",
+        "hover_text": "Festivali i Mesvjeshtës, 2024",
+        "share_text": "Gëzuar Festivalin e Mesvjeshtës! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የበልግ አጋማሽ ፌስቲቫል",
+        "hover_text": "የበልግ አጋማሽ ፌስቲቫል 2024 (በርካታ)",
+        "share_text": "መልካም የበልግ አጋማሽ ፌስቲቫል! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "مهرجان منتصف الخريف",
+        "hover_text": "مهرجان منتصف الخريف 2024 (في بلدان متعدّدة)",
+        "share_text": "تمنياتنا بقضاء أوقات سعيدة بمناسبة مهرجان منتصف الخريف. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Լուսնի տոն",
+        "hover_text": "Աշնանակեսի տոն 2024 (կրկնվող)",
+        "share_text": "Շնորհավոր Աշնանակեսի տոնը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Payızortası Festivalı",
+        "hover_text": "2024 Payızortası Festivalı (bir neçə)",
+        "share_text": "Payızortası Festivalınız Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "মধ্য শরতের উৎসব",
+        "hover_text": "মধ্য শরৎ উৎসবের শুভেচ্ছা ২০২৪ (একাধিক দেশে)",
+        "share_text": "মধ্য শরৎ উৎসবের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Udazken Erdiko Jaialdia",
+        "hover_text": "2024ko Udazken Erdiko Jaialdia (herrialde bat baino gehiago)",
+        "share_text": "Udazken Erdiko Jaialdi zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Свята сярэдзіны восені",
+        "hover_text": "Свята сярэдзіны восені 2024 (некалькі краін)",
+        "share_text": "Са святам сярэдзіны восені! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Festival sredine jeseni",
+        "hover_text": "Festival sredine jeseni 2024. (više)",
+        "share_text": "Sretan festival sredine jeseni! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Mid-Autumn Festival",
+        "hover_text": "Mid-Autumn Festival 2024 (multiple)",
+        "share_text": "Happy Mid-Autumn Festival! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Празник „Средата на есента“",
+        "hover_text": "Празник „Средата на есента“ 2024 г. (няколко държави)",
+        "share_text": "Честит празник „Средата на есента“! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဆောင်းဦးရာသီတွင်းပွဲတော်",
+        "hover_text": "၂၀၂၄ ဆောင်းဦးရာသီတွင်းပွဲတော် (နိုင်ငံအများအပြား)",
+        "share_text": "ပျော်ရွှင်ဖွယ် ဆောင်းဦးရာသီတွင်းပွဲတော် ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Festa de la Mitja Tardor",
+        "hover_text": "Festa de la Mitja Tardor 2024 (diversos països)",
+        "share_text": "Feliç Festa de la Mitja Tardor! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "中秋節",
+        "hover_text": "2024 年中秋節",
+        "share_text": "中秋節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "中秋節",
+        "hover_text": "2024 中秋節",
+        "share_text": "中秋節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "中秋节",
+        "hover_text": "2024 年中秋节",
+        "share_text": "欢庆中秋节！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Jesenski festival",
+        "hover_text": "Jesenski festival 2024. (više država)",
+        "share_text": "Sretan Jesenski festival! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Svátek poloviny podzimu",
+        "hover_text": "Svátek poloviny podzimu 2024",
+        "share_text": "Šťastný svátek poloviny podzimu! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Efterårsfestival",
+        "hover_text": "Efterårsfestival 2024 (flere steder)",
+        "share_text": "Glædelig efterårsfestival 2024 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Midherfstfestival",
+        "hover_text": "Midherfstfestival 2024 (meerdere landen)",
+        "share_text": "Fijn Midherfstfestival! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Sügisene pööripäev",
+        "hover_text": "2024. aasta sügisene pööripäev",
+        "share_text": "Head sügisest pööripäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Keskisyksyn juhla",
+        "hover_text": "Keskisyksyn juhla 2024 (Useissa paikoissa)",
+        "share_text": "Hyvää keskisyksyn juhlaa! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de la mi-automne",
+        "hover_text": "Festival de la mi-automne 2024",
+        "share_text": "Festival de la mi-automne ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête de la mi-automne",
+        "hover_text": "Fête de la mi-automne 2024",
+        "share_text": "Joyeuse fête de la mi-automne! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Festival de Mediados de Outono",
+        "hover_text": "Festival de Mediados do Outono 2024 (varios países)",
+        "share_text": "Feliz Festival de Mediados do Outono! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "შუა შემოდგომის დღესასწაული",
+        "hover_text": "შუა შემოდგომის დღესასწაული 2024 (რამდენიმე)",
+        "share_text": "გილოცავთ შუა შემოდგომის დღესასწაულს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Mondfest",
+        "hover_text": "Mondfest 2024",
+        "share_text": "Fröhliches Mondfest! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Φεστιβάλ μέσων του φθινοπώρου",
+        "hover_text": "Φεστιβάλ Μεσοφθινοπώρου 2024 (Διάφορες χώρες)",
+        "share_text": "Γιορτάζουμε το Φεστιβάλ Μεσοφθινοπώρου! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "મધ્ય પાનખર ઉત્સવ",
+        "hover_text": "મધ્ય પાનખર ઉત્સવ 2024 (એકથી વધુ)",
+        "share_text": "મધ્ય પાનખર ઉત્સવની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "פסטיבל אמצע הסתיו",
+        "hover_text": "חוגגים את פסטיבל אמצע הסתיו 2024",
+        "share_text": "חוגגים את פסטיבל אמצע הסתיו GoogleDoodle#"
+      },
+      "hi": {
+        "query": "मिड ऑटम फ़ेस्टिवल",
+        "hover_text": "मिड ऑटम फ़ेस्टिवल 2024 (कई देशों में)",
+        "share_text": "मिड ऑटम फ़ेस्टिवल की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Őszközépünnep",
+        "hover_text": "Őszközépünnep, 2024 (több helyen)",
+        "share_text": "Boldog őszközépünnepet! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Hausthátíð",
+        "hover_text": "Hausthátíð 2024 (í mörgum löndum)",
+        "share_text": "Gleðilega hausthátíð 2024! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Festival Pertengahan Musim Gugur",
+        "hover_text": "Festival Pertengahan Musim Gugur 2024",
+        "share_text": "Selamat Merayakan Festival Pertengahan Musim Gugur! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Féile Lárfhómhair",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Festa di metà autunno",
+        "hover_text": "Festa di metà autunno 2024",
+        "share_text": "Buona festa di metà autunno! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "2021 年中秋節",
+        "hover_text": "2024 年中秋節",
+        "share_text": "中秋節を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಶರತ್ಕಾಲದ ಮಧ್ಯದಲ್ಲಿ ನಡೆಯುವ ಹಬ್ಬ",
+        "hover_text": "ಮಿಡ್ ಆಟಮ್ ಫೆಸ್ಟಿವಲ್ 2024 (ಹಲವು)",
+        "share_text": "ಮಿಡ್-ಆಟಮ್ ಫೆಸ್ಟಿವಲ್ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Күз ортасындағы фестиваль",
+        "hover_text": "Күз ортасы фестивалі – 2024 (бірнеше)",
+        "share_text": "Күз ортасы фестивалі құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ពិធីបុណ្យ​សែនព្រះខែ",
+        "hover_text": "ពិធីបុណ្យសែនព្រះខែឆ្នាំ 2024 (ច្រើន)",
+        "share_text": "អបអរពិធីបុណ្យសែនព្រះខែ! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "중추절",
+        "hover_text": "2024년 중추절",
+        "share_text": "중추절 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Күз ортосундагы фестиваль",
+        "hover_text": "Күз ортосундагы фестиваль — 2024 (Бир нече)",
+        "share_text": "Күз ортосундагы фестиваль кут болсун! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ບຸນໄຫວ້ພະຈັນ",
+        "hover_text": "ເທດສະການໄຫວ້ພະຈັນປີ 2024 (ຫຼາຍປະເທດ)",
+        "share_text": "ຂໍໃຫ້ມີຄວາມສຸກໃນເທດສະການໄຫວ້ພະຈັນ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Festival del Medio Otoño",
+        "hover_text": "Festival del Medio Otoño 2024",
+        "share_text": "¡Feliz Festival del Medio Otoño! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Rudens vidus svētki",
+        "hover_text": "Rudens vidus svētki — 2024 (vairākas)",
+        "share_text": "Priecīgus rudens vidus svētkus! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Rudens vidurio šventė",
+        "hover_text": "Rudens vidurio šventė, 2024 m. (kelios šalys)",
+        "share_text": "Laimingos rudens vidurio šventės! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Фестивал среде есен",
+        "hover_text": "Фестивал среде есен, 2024 г. (повеќе)",
+        "share_text": "Среќен Фестивал среде есен! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fety fankalazana manasa-pararano",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Pesta Tengah Musim Luruh",
+        "hover_text": "Pesta Tengah Musim Luruh 2024",
+        "share_text": "Selamat Menyambut Pesta Tengah Musim Luruh! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "മധ്യ ശരത്‌കാല ഉത്സവം",
+        "hover_text": "മധ്യ ശരത്കാല ഉത്സവാശംസകൾ 2024 (ഒന്നിലധികം)",
+        "share_text": "മധ്യ ശരത്കാല ഉത്സവാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "मध्य शरद ऋतुतील महोत्सव",
+        "hover_text": "मध्य शरद ऋतूतील महोत्सव २०२४ (एकाहून अधिक)",
+        "share_text": "मध्य शरद ऋतूतील महोत्सवाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Намрын дунд сарын баяр",
+        "hover_text": "2024 оны Намрын дунд сарын наадам (oлон)",
+        "share_text": "Намрын дунд сарын наадмын мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "मध्य शरद्कालीन उत्सव",
+        "hover_text": "मध्य शरद्कालीन उत्सव २०२४ (विभिन्न देशमा)",
+        "share_text": "मध्य शरद्कालीन उत्सवको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Midthøstfestivalen",
+        "hover_text": "Midthøstfestivalen 2024",
+        "share_text": "God midthøstfestival! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ମିଡ୍-ଅଟମ୍ ଫେଷ୍ଟିଭାଲ୍",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "جشن نیمه پاییز",
+        "hover_text": "جشن نیمه پاییز ۲۰۲۴ (ویژه چندین کشور)",
+        "share_text": "جشن نیمه پاییز مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Środka Jesieni",
+        "hover_text": "Święto Środka Jesieni 2024",
+        "share_text": "Obchodzimy Święto Środka Jesieni #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Festival de Meio do Outono",
+        "hover_text": "Festival de Meio do Outono 2024",
+        "share_text": "Feliz Festival de Meio do Outono! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Festival da lua",
+        "hover_text": "Festival da Lua de 2024 (vários)",
+        "share_text": "Feliz Festival da Lua! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਮੱਧ-ਪਤਝੜ ਦਾ ਤਿਉਹਾਰ",
+        "hover_text": "ਮੱਧ-ਪਤਝੜ ਦੇ ਤਿਉਹਾਰ 2024 ਦੀਆਂ ਵਧਾਈਆਂ (ਇੱਕ ਤੋਂ ਵੱਧ ਤਾਰੀਖਾਂ)",
+        "share_text": "ਮੱਧ-ਪਤਝੜ ਦੇ ਤਿਉਹਾਰ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Festivalul din Mijlocul Toamnei – 2021",
+        "hover_text": "Festivalul din Mijlocul Toamnei 2024 (mai multe țări)",
+        "share_text": "Festival fericit la Mijlocul Toamnei! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Праздник середины осени",
+        "hover_text": "Праздник середины осени – 2024",
+        "share_text": "Праздник середины осени #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Јесењи фестивал",
+        "hover_text": "Јесењи фестивал 2024. (више земаља)",
+        "share_text": "Срећан Јесењи фестивал! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Jesenji festival",
+        "hover_text": "Jesenji festival 2024. (više zemalja)",
+        "share_text": "Srećan Jesenji festival! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Festival Milye-Lotonm",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "මධ්‍ය ශරත් ඍතුවේ උත්සවය",
+        "hover_text": "මධ්‍ය ඍරත් ඍතු‌වේ උත්සවය 2024 (බහු)",
+        "share_text": "ප්‍රීතිමත් මධ්‍ය ඍරත් ඍතු‌වේ උත්සවය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Sviatok polovice jesene",
+        "hover_text": "Sviatok polovice jesene 2024",
+        "share_text": "Šťastný sviatok polovice jesene! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Poznojesenski festival",
+        "hover_text": "Poznojesenski festival 2024 (več držav)",
+        "share_text": "Vesel poznojesenski festival! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Xaflada Dayrta Dhexdeeda",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": "Mokete wa Mahareng ha Lehwetla",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Fiesta del Medio Otoño",
+        "hover_text": "Festival del Medio Otoño 2024 (varios países)",
+        "share_text": "¡Feliz Festival del Medio Otoño! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Tamasha la Katikati ya Majira ya Kupukutika",
+        "hover_text": "Tamasha la Katikati ya Majira ya Kupukutika 2024",
+        "share_text": "Heri ya Tamasha la Katikati ya Majira ya Kupukutika! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Månfestivalen",
+        "hover_text": "Månfestivalen 2024 (flera)",
+        "share_text": "Glad månfestival! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "இடை இலையுதிர்காலத் திருவிழா",
+        "hover_text": "இடை இலையுதிர் காலத் திருவிழா 2024",
+        "share_text": "இடை இலையுதிர் காலத் திருவிழா வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "మధ్య శరత్కాల పండుగ",
+        "hover_text": "ఆకురాలే కాలం మధ్యలో జరుపుకొనే పండుగ 2024 (పలు దేశాలు)",
+        "share_text": "ఆకురాలే కాలం మధ్యలో జరుపుకొనే పండుగ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "เทศกาลไหว้พระจันทร์",
+        "hover_text": "เทศกาลไหว้พระจันทร์ปี 2024 (หลายประเทศ)",
+        "share_text": "ขอให้มีความสุขในเทศกาลไหว้พระจันทร์! #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Moletlo wa Bogare jwa Letlhafula wa 2021",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Sonbahar Ortası Festivali",
+        "hover_text": "2024 Ay Festivali (Birden Fazla Ülke)",
+        "share_text": "Ay Festivali'ni kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Свято середини осені",
+        "hover_text": "Свято середини осені у 2024 році (різні країни)",
+        "share_text": "Щасливого свята середини осені! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "مڈ آٹم فیسٹیول",
+        "hover_text": "وسط خزاں کا تہوار 2024 (متعدد)",
+        "share_text": "وسط خزاں کا تہوار مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Kuz orasi festivali – 2021",
+        "hover_text": "Kuz orasi festivali 2024 (bir nechta)",
+        "share_text": "Kuz orasi festivali muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Tết Trung thu",
+        "hover_text": "Tết Trung thu năm 2024 (nhiều nơi)",
+        "share_text": "Vui Tết Trung thu! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ifestivali Yaphakathi Nekwindla",
+        "hover_text": "Ifestivali Yaphakathi Nekwindla yango-2024 (Okuningi)",
+        "share_text": "Jabulela Ifestivali Yaphakathi Nekwindla! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Mid-Autumn Festival",
+    "share_text": "Happy Mid-Autumn Festival! #GoogleDoodle"
+  },
+  {
+    "name": "mexico-independence-day-2024",
+    "title": "Mexico Independence Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/mexico-independence-day-2024-6753651837110294-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/NYOuH6jfsuUx28SdGABwGblRuYtYPygn7Xy3YF4xcoBgBX0oLJ0-AkmqAIdw6l92AK8DOXOciBlN-JAZYUTL9z5Q2A3fnEEQ6OvGYjMJtgWYb9erKQbDXg",
+    "high_res_url": "//www.google.com/logos/doodles/2024/mexico-independence-day-2024-6753651837110294-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      9,
+      16
+    ],
+    "translations": {
+      "en": {
+        "query": "Mexico Independence Day",
+        "hover_text": "Mexico Independence Day 2024",
+        "share_text": "Happy Independence Day, Mexico! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Meksiko se onafhanklikheidsdag",
+        "hover_text": "Meksiko se onafhanklikheidsdag 2024",
+        "share_text": "Gelukkige onafhanklikheidsdag, Meksiko! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë e Meksikës",
+        "hover_text": "Dita e Pavarësisë së Meksikës, 2024",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Meksikë! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የሜክሲኮ ነጻነት ቀን",
+        "hover_text": "የሜክሲኮ ነጻነት ቀን 2024",
+        "share_text": "መልካም ነጻነት ቀን ሜክሲኮ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال المكسيك",
+        "hover_text": "عيد استقلال المكسيك 2024",
+        "share_text": "عيد استقلال سعيد للمكسيك ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Մեքսիկայի անկախության օր",
+        "hover_text": "Մեքսիկայի անկախության օր 2024",
+        "share_text": "Շնորհավո՛ր անկախության օրը, Մեքսիկա #GoogleDoodle"
+      },
+      "az": {
+        "query": "Meksikanın Müstəqillik Günü",
+        "hover_text": "2024 Meksikanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Meksika! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "মেক্সিকোর স্বাধীনতা দিবস",
+        "hover_text": "মেক্সিকোর স্বাধীনতা দিবস ২০২৪",
+        "share_text": "মেক্সিকোর স্বাধীনতা দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Mexikoko Independentzia Eguna",
+        "hover_text": "2024ko Mexikoko Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Mexiko! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Мексікі",
+        "hover_text": "Дзень незалежнасці Мексікі 2024",
+        "share_text": "З Днём незалежнасці, Мексіка! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Meksika",
+        "hover_text": "Dan nezavisnosti Meksika 2024.",
+        "share_text": "Sretan Dan nezavisnosti, Meksiko! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Mexico Independence Day",
+        "hover_text": "Mexico Independence Day 2024",
+        "share_text": "Happy Independence Day, Mexico! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Мексико",
+        "hover_text": "Ден на независимостта на Мексико 2024 г.",
+        "share_text": "Честит Ден на независимостта на Мексико! #GoogleDoodle"
+      },
+      "my": {
+        "query": "မက္ကဆီကို လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ မက္ကဆီကိုနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ဖြစ်ပါစေ၊ မက္ကဆီကို။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència de Mèxic",
+        "hover_text": "Dia de la Independència de Mèxic 2024",
+        "share_text": "Feliç Dia de la Independència, Mèxic! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "墨西哥獨立日",
+        "hover_text": "2024 年墨西哥獨立日",
+        "share_text": "墨西哥獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "墨西哥獨立紀念日",
+        "hover_text": "2024 墨西哥獨立紀念日",
+        "share_text": "墨西哥，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "墨西哥独立日",
+        "hover_text": "2024 年墨西哥独立日",
+        "share_text": "墨西哥，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Meksika",
+        "hover_text": "Dan neovisnosti Meksika 2024.",
+        "share_text": "Sretan Dan neovisnosti, Meksiko! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Mexika",
+        "hover_text": "Den nezávislosti Mexika 2024",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Mexiko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Mexicos uafhængighedsdag",
+        "hover_text": "Mexicos uafhængighedsdag 2024",
+        "share_text": "Glædelig uafhængighedsdag, Mexico! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Mexico",
+        "hover_text": "Onafhankelijkheidsdag Mexico 2024",
+        "share_text": "Fijne Onafhankelijkheidsdag, Mexico! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Mehhiko iseseisvuspäev",
+        "hover_text": "Mehhiko 2024. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Mehhiko! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Meksikon itsenäisyyspäivä",
+        "hover_text": "Meksikon itsenäisyyspäivä 2024",
+        "share_text": "Hyvää itsenäisyyspäivää, Meksiko! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance du Mexique",
+        "hover_text": "Fête de l'Indépendance du Mexique 2024",
+        "share_text": "Fête de l'Indépendance du Mexique #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance du Mexique",
+        "hover_text": "Fête de l'Indépendance du Mexique 2024",
+        "share_text": "Joyeux jour de l'indépendance du Mexique! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de México",
+        "hover_text": "Día da Independencia de México 2024",
+        "share_text": "Feliz Día da Independencia, México! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მექსიკის დამოუკიდებლობის დღე",
+        "hover_text": "მექსიკის დამოუკიდებლობის დღე — 2024",
+        "share_text": "ვულოცავთ მექსიკას დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Mexiko",
+        "hover_text": "Unabhängigkeitstag Mexiko 2024",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Mexiko! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας του Μεξικού",
+        "hover_text": "Ημέρα Ανεξαρτησίας του Μεξικού 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας του Μεξικού! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "મેક્સિકોનો સ્વતંત્રતા દિવસ",
+        "hover_text": "મેક્સિકોનો સ્વતંત્રતા દિવસ 2024",
+        "share_text": "મેક્સિકોના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של מקסיקו",
+        "hover_text": "יום העצמאות של מקסיקו 2024",
+        "share_text": "יום עצמאות שמח, מקסיקו! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "मेक्सिको का स्वतंत्रता दिवस",
+        "hover_text": "मेक्सिको का स्वतंत्रता दिवस 2024",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, मेक्सिको! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Mexikó függetlenségének napja",
+        "hover_text": "Mexikó függetlenségének napja, 2024",
+        "share_text": "Boldog függetlenség napját, Mexikó! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Mexíkó",
+        "hover_text": "Sjálfstæðisdagur Mexíkó 2024",
+        "share_text": "Gleðilegan sjálfstæðisdag, Mexíkó! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Meksiko",
+        "hover_text": "Hari Kemerdekaan Meksiko 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Meksiko! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse Mheicsiceo",
+        "hover_text": null,
+        "share_text": "Lá Saoirse Mheicsiceo faoi mhaise duit. #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza del Messico",
+        "hover_text": "Festa dell'indipendenza del Messico 2024",
+        "share_text": "Buona festa dell'indipendenza, Messico! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "メキシコ独立記念日",
+        "hover_text": "2024 年メキシコ独立記念日",
+        "share_text": "メキシコ独立記念日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಮೆಕ್ಸಿಕೊದಲ್ಲಿ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಮೆಕ್ಸಿಕೊ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಮೆಕ್ಸಿಕೊ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Мексиканың Тәуелсіздік күні",
+        "hover_text": "Мексиканың Тәуелсіздік күні – 2024",
+        "share_text": "Тәуелсіздік күні құтты болсын, Мексика! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យឯករាជ្យជាតិមុិកសុិក",
+        "hover_text": "ទិវា​បុណ្យឯករាជ្យជាតិ​ម៉ិកស៊ិក​ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវាបុណ្យ​ឯករាជ្យជាតិម៉ិកស៊ិក! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "멕시코 독립기념일",
+        "hover_text": "2024년 멕시코 독립기념일",
+        "share_text": "멕시코 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Мексиканын Эгемендүүлүк күнү",
+        "hover_text": "Мексиканын Эгемендүүлүк күнү – 2024",
+        "share_text": "Эгемендүүлүк күнүң менен, Мексика! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດເມັກຊິໂກ",
+        "hover_text": "ວັນປະກາດເອກະລາດເມັກຊິໂກ 2024",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດ, ເມັກຊິໂກ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de México",
+        "hover_text": "Día de la Independencia de México 2024",
+        "share_text": "¡Feliz Día de la Independencia de México! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Meksikas neatkarības diena",
+        "hover_text": "Meksikas Neatkarības diena — 2024",
+        "share_text": "Sveicam neatkarības dienā, Meksika! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Meksikos nepriklausomybės diena",
+        "hover_text": "Meksikos nepriklausomybės diena, 2024 m.",
+        "share_text": "Sveikiname Meksiką su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Мексико",
+        "hover_text": "Ден на независноста на Мексико, 2024 г.",
+        "share_text": "Среќен Ден на независноста, Мексико! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Meksika",
+        "hover_text": null,
+        "share_text": "Tsarà fetin'ny fahaleovantena ry Meksika ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Mexico",
+        "hover_text": "Hari Kemerdekaan Mexico 2024",
+        "share_text": "Selamat Menyambut Hari Kemerdekaan, Mexico! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "മെക്‌സിക്കൻ സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "മെക്‌സിക്കൻ സ്വാതന്ത്ര്യദിനം 2024",
+        "share_text": "സ്വാതന്ത്ര്യ ദിനാശംസകൾ, മെക്‌സിക്കോ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "मेक्सिकोचा स्वातंत्र्यदिन",
+        "hover_text": "मेक्सिकोचा स्वातंत्र्यदिन २०२४",
+        "share_text": "मेक्सिकोला स्वातंत्र्यदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Мексик улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2024 оны Мексикийн Тусгаар тогтнолын өдөр",
+        "share_text": "Мексик улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "मेक्सिकोको स्वतन्त्रता दिवस",
+        "hover_text": "मेक्सिकोको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, मेक्सिको! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Mexicos frigjøringsdag",
+        "hover_text": "Mexicos frigjøringsdag 2024",
+        "share_text": "Gratulerer med frigjøringsdagen, Mexico! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ମେକ୍ସିକୋର ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": null,
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, ମେକ୍ସିକୋ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال مکزیک",
+        "hover_text": "روز استقلال ۲۰۲۴ مکزیک",
+        "share_text": "روز استقلال مکزیک مبارک! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Niepodległości Meksyku",
+        "hover_text": "Dzień Niepodległości Meksyku 2024",
+        "share_text": "Meksyk obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência do México",
+        "hover_text": "Dia da Independência do México 2024",
+        "share_text": "Feliz Dia da Independência, México! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência do México",
+        "hover_text": "Dia da Independência do México de 2024",
+        "share_text": "Feliz dia da independência, México! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਮੈਕਸੀਕੋ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ",
+        "hover_text": "ਮੈਕਸੀਕੋ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2024",
+        "share_text": "ਮੈਕਸੀਕੋ ਦੇ ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței Mexicului",
+        "hover_text": "Ziua Independenței Mexicului 2024",
+        "share_text": "La mulți ani de Ziua Independenței, Mexic! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Мексики",
+        "hover_text": "День независимости Мексики – 2024",
+        "share_text": "День независимости Мексики #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Мексика",
+        "hover_text": "Дан независности Мексика 2024.",
+        "share_text": "Честитамо Дан независности Мексику! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Meksika",
+        "hover_text": "Dan nezavisnosti Meksika 2024.",
+        "share_text": "Čestitamo Dan nezavisnosti Meksiku! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepandans Mexico",
+        "hover_text": null,
+        "share_text": "Bonn zournen lendepandans, Mexico! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "මෙක්සිකෝවේ නිදහස් දිනය",
+        "hover_text": "මෙක්සිකෝවේ නිදහස් දිනය 2024",
+        "share_text": "ශුභ නිදහස් දිනයක්, මෙක්සිකෝව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Mexika",
+        "hover_text": "Deň nezávislosti Mexika 2024",
+        "share_text": "Šťastný deň nezávislosti, Mexiko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Mehike",
+        "hover_text": "Dan neodvisnosti Mehike 2024",
+        "share_text": "Vesel dan neodvisnosti, Mehika. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madax banaanida Meksiko",
+        "hover_text": null,
+        "share_text": "Maalinta Madax banaanida Farxada leh, Meksiko! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la Mexico",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Tokoloho la Mexico! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de México",
+        "hover_text": "Día de la Independencia de México 2024",
+        "share_text": "¡Feliz Día de la Independencia de México! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Meksiko",
+        "hover_text": "Sikukuu ya Uhuru wa Meksiko 2024",
+        "share_text": "Heri za Sikukuu ya Uhuru, Meksiko! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Mexikos självständighetsdag",
+        "hover_text": "Mexikos självständighetsdag 2024",
+        "share_text": "Vi firar Mexikos självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "மெக்ஸிகோ சுதந்திர தினம்",
+        "hover_text": "மெக்சிகோ சுதந்திர தினம் 2024",
+        "share_text": "மெக்ஸிகோவின் சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "మెక్సికో స్వాతంత్ర్య దినోత్సవం",
+        "hover_text": "మెక్సికో స్వాతంత్య్ర దినోత్సవం 2024",
+        "share_text": "స్వాతంత్ర్య దినోత్సవ శుభాకాంక్షలు, మెక్సికో! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของเม็กซิโก",
+        "hover_text": "วันประกาศอิสรภาพของเม็กซิโกปี 2024",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของเม็กซิโก #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Mexico",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, Mexico! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Meksika Bağımsızlık Günü",
+        "hover_text": "2024 Meksika Bağımsızlık Günü",
+        "share_text": "Meksika Bağımsızlık Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Мексики",
+        "hover_text": "День незалежності Мексики у 2024 році",
+        "share_text": "З Днем незалежності, Мексико! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "میکسیکو کا یوم آزادی",
+        "hover_text": "میکسیکو کا یومِ آزادی 2024",
+        "share_text": "میکسیکو کا یوم آزادی مبارک! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Meksika mustaqillik kuni",
+        "hover_text": "Meksika Mustaqilligi kuni 2024",
+        "share_text": "Mustaqillik kuning muborak, Meksika! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Mexico",
+        "hover_text": "Ngày Quốc khánh Mexico năm 2024",
+        "share_text": "Chúc mừng Ngày quốc khánh Mexico! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lokuzimela lwase-Mexico",
+        "hover_text": "Usuku Lokuzimela lwaseMexico luka-2024",
+        "share_text": "Sinifisela usuku lokuzimela oluhle, Mexico! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Mexico Independence Day",
+    "share_text": "Happy Independence Day, Mexico! #GoogleDoodle"
+  },
+  {
     "name": "el-salvador-independence-day-2024",
     "title": "El Salvador Independence Day 2024",
     "url": "//www.google.com/logos/doodles/2024/el-salvador-independence-day-2024-6753651837110290-law.gif",
