@@ -1,5 +1,504 @@
 [
   {
+    "name": "united-states-voter-registration-day-2024",
+    "title": "United States Voter Registration Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/united-states-voter-registration-day-2024-6753651837110295-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/bgtKFOekTcLAEeh1iZ1oIOFD7LRFk-KXFylOp1P8JoBpYgoi7fMCr5Q34UOH-pvYQMgEI04lS3MFW5yHFrhQ3q3zqDatZPAQREN7gO-ih2ouiOe-LLxO6ZI",
+    "high_res_url": "//www.google.com/logos/doodles/2024/united-states-voter-registration-day-2024-6753651837110295-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      9,
+      17
+    ],
+    "translations": {
+      "en": {
+        "query": "how to register to vote in the us",
+        "hover_text": "United States Voter Registration Day 2024",
+        "share_text": "United States Voter Registration Day 2024! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Hoe om te registreer om te stem in die Verenigde State",
+        "hover_text": "Verenigde State se Kieserregistrasiedag 2024",
+        "share_text": "Verenigde State se Kieserregistrasiedag 2024! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "si të regjistrohesh për të votuar në shba",
+        "hover_text": "Dita e Regjistrimit të Votuesve në Shtetet e Bashkuara, 2024",
+        "share_text": "Dita e Regjistrimit të Votuesve në Shtetet e Bashkuara, 2024! #GoogleDoodle"
+      },
+      "am": {
+        "query": "አሜሪካ ውስጥ ለመምረጥ እንዴት እንደሚመዘገቡ",
+        "hover_text": "የአሜሪካ የመራጭ ምዝገባ ቀን 2024",
+        "share_text": "የአሜሪካ የመራጭ ምዝገባ ቀን 2024! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "كيفية التسجيل للتصويت في الولايات المتحدة",
+        "hover_text": "يوم تسجيل الناخبين في الولايات المتحدة 2024",
+        "share_text": "يوم تسجيل الناخبين في الولايات المتحدة لعام 2024. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "ինչպես գրանցվել՝ ԱՄՆ-ում քվեարկելու համար",
+        "hover_text": "ԱՄՆ ընտրողների գրանցման օր 2024",
+        "share_text": "ԱՄՆ ընտրողների գրանցման օր 2024 #GoogleDoodle"
+      },
+      "az": {
+        "query": "ABŞ-da səs vermək üçün qeydiyyatdan keçmə qaydası",
+        "hover_text": "2024 Amerika Birləşmiş Ştatları Seçici Qeydiyyatı Günü",
+        "share_text": "2024 Amerika Birləşmiş Ştatları Seçici Qeydiyyatı Günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "মার্কিন যুক্তরাষ্ট্রে ভোট দেওয়ার জন্য কীভাবে নাম রেজিস্টার করতে হয়",
+        "hover_text": "মার্কিন যুক্তরাষ্ট্রের ভোটার রেজিস্ট্রেশন দিবস ২০২৪",
+        "share_text": "মার্কিন যুক্তরাষ্ট্রের ভোটার রেজিস্ট্রেশন দিবস ২০২৪! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "AEBko hauteskundeetan bozkatzeko erregistratzeko argibideak",
+        "hover_text": "AEBko hautesleak erregistratzeko 2024ko eguna",
+        "share_text": "AEBko hautesleak erregistratzeko 2024ko eguna #GoogleDoodle"
+      },
+      "be": {
+        "query": "як зарэгістравацца для галасавання ў ЗША",
+        "hover_text": "Дзень рэгістрацыі выбаршчыкаў у ЗША 2024",
+        "share_text": "Дзень рэгістрацыі выбаршчыкаў у ЗША 2024! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "kako se registrirati za glasanje u sad-u",
+        "hover_text": "Dan registracije glasača u SAD-u 2024.",
+        "share_text": "Dan registracije glasača u SAD-u 2024! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "How to register to vote in the US",
+        "hover_text": "United States Voter Registration Day 2024",
+        "share_text": "United States Voter Registration Day 2024! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "как да се регистрирате, за да гласувате в САЩ",
+        "hover_text": "Ден за регистриране на гласоподавателите в САЩ 2024 г.",
+        "share_text": "Ден за регистриране на гласоподавателите в САЩ 2024 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အမေရိကန်ပြည်ထောင်စုတွင် မဲပေးရန်အတွက် မှတ်ပုံတင်နည်း",
+        "hover_text": "၂၀၂၄ အမေရိကန်ပြည်ထောင်စု မဲစာရင်းမှတ်ပုံတင်နေ့",
+        "share_text": "၂၀၂၄ အမေရိကန်ပြည်ထောင်စု မဲစာရင်းမှတ်ပုံတင်နေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "com et pots registrar per votar als eua",
+        "hover_text": "Dia de registre de votants als Estats Units 2024",
+        "share_text": "Dia de registre de votants als Estats Units 2024 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "如何在美國登記投票",
+        "hover_text": "2024 年美國選民登記日",
+        "share_text": "2024 年美國選民登記日！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "如何在美國登記投票",
+        "hover_text": "2024 美國選民登記日",
+        "share_text": "2024 美國選民登記日！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "如何在美国登记投票",
+        "hover_text": "2024 年美国选民登记日",
+        "share_text": "2024 年美国选民登记日！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "kako se registrirati za glasanje u SAD-u",
+        "hover_text": "Dan registracije birača u Sjedinjenim Američkim Državama 2024.",
+        "share_text": "Dan registracije birača u Sjedinjenim Američkim Državama 2024.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "jak se registrovat k volbám v usa",
+        "hover_text": "Den registrace voličů v USA 2024",
+        "share_text": "Nadešel Den registrace voličů v USA 2024! #GoogleDoodle"
+      },
+      "da": {
+        "query": "sådan registrerer du dig som vælger i usa",
+        "hover_text": "Voter Registration Day i USA 2024",
+        "share_text": "Voter Registration Day i USA 2024 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "hoe registreren om te stemmen in de vs",
+        "hover_text": "Dag voor kiezersregistratie in de Verenigde Staten 2024",
+        "share_text": "De dag voor kiezersregistratie in de Verenigde Staten 2024! #GoogleDoodle"
+      },
+      "et": {
+        "query": "kuidas registreeruda USA-s hääletamiseks",
+        "hover_text": "Ameerika Ühendriikide 2024. aasta hääletajaks registreerumise päev",
+        "share_text": "Ameerika Ühendriikide 2024. aasta hääletajaks registreerumise päev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "miten rekisteröityä äänestäjäksi yhdysvalloissa",
+        "hover_text": "Yhdysvaltojen äänestäjien rekisteröintipäivä 2024",
+        "share_text": "Yhdysvaltojen äänestäjien rekisteröintipäivä 2024 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "comment s'inscrire pour voter aux États-Unis",
+        "hover_text": "Journée d'inscription des électeurs aux États-Unis 2024",
+        "share_text": "Journée d'inscription des électeurs aux États-Unis 2024 #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "comment s'inscrire pour voter aux États-Unis",
+        "hover_text": "Journée d'inscription des électeurs aux États-Unis 2024",
+        "share_text": "Journée d'inscription des électeurs aux États-Unis 2024! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "como rexistrarse para votar nos EUA",
+        "hover_text": "Día do Rexistro de Votantes dos EUA 2024",
+        "share_text": "Día do Rexistro de Votantes dos EUA 2024! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "აშშ-ში ხმის მისაცემად რეგისტრაციის წესი",
+        "hover_text": "აშშ-ის ამომრჩეველთა რეგისტრაციის დღე — 2024",
+        "share_text": "აშშ-ის ამომრჩეველთა რეგისტრაციის დღე — 2024! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Anleitung zur Registrierung für die US‑Wahlen",
+        "hover_text": "Tag der Wählerregistrierung in den USA 2024",
+        "share_text": "Tag der Wählerregistrierung in den USA 2024 #GoogleDoodle"
+      },
+      "el": {
+        "query": "πώς μπορείτε να εγγραφείτε για να ψηφίσετε στις ΗΠΑ",
+        "hover_text": "Ημέρα εγγραφής ψηφοφόρων στις ΗΠΑ 2024",
+        "share_text": "Ημέρα εγγραφής ψηφοφόρων στις ΗΠΑ 2024! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "યુએસમાં મત આપવા માટે નોંધણી કરવાની રીત",
+        "hover_text": "યુનાઇટેડ સ્ટેટ્સનો મતદાર નોંધણી દિવસ 2024",
+        "share_text": "યુનાઇટેડ સ્ટેટ્સનો મતદાર નોંધણી દિવસ 2024! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "איך נרשמים כדי להצביע בבחירות בארה\"ב",
+        "hover_text": "יום רישום הבוחרים בארצות הברית 2024",
+        "share_text": "יום רישום הבוחרים בארצות הברית 2024 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "अमेरिका में होने वाले चुनावों में वोट देने के लिए रजिस्ट्रेशन करने का तरीका",
+        "hover_text": "अमेरिका का मतदाता पंजीकरण दिवस 2024",
+        "share_text": "अमेरिका का मतदाता पंजीकरण दिवस 2024! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "hogyan lehet szavazásra regisztrálni az egyesült államokban",
+        "hover_text": "A választási regisztráció napja az Amerikai Egyesült Államokban, 2024",
+        "share_text": "A választási regisztráció napja az Amerikai Egyesült Államokban, 2024 #GoogleDoodle"
+      },
+      "is": {
+        "query": "hvernig á að skrá sig á kjörskrá í Bandaríkjunum",
+        "hover_text": "Skráningardagur í Bandaríkjunum fyrir kjörskrá 2024",
+        "share_text": "Skráningardagur í Bandaríkjunum fyrir kjörskrá 2024! #GoogleDoodle"
+      },
+      "id": {
+        "query": "cara mendaftar untuk memberikan suara di amerika serikat",
+        "hover_text": "Hari Pendaftaran Pemilih Amerika Serikat 2024",
+        "share_text": "Hari Pendaftaran Pemilih Amerika Serikat 2024 #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Náisiúnta um Chlárú Vótálaithe",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "come registrarsi per votare negli stati uniti",
+        "hover_text": "Giornata per la registrazione alle elezioni 2024 negli Stati Uniti",
+        "share_text": "Giornata per la registrazione alle elezioni 2024 negli Stati Uniti! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "米国で有権者登録する方法",
+        "hover_text": "2024 年米国有権者登録日",
+        "share_text": "2024 年米国有権者登録日！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಯುಎಸ್‌ನಲ್ಲಿ ಮತ ಚಲಾಯಿಸಲು ನೋಂದಾಯಿಸಿಕೊಳ್ಳುವುದು ಹೇಗೆ",
+        "hover_text": "ಯುನೈಟೆಡ್ ಸ್ಟೇಟ್ಸ್ ಮತದಾರರ ನೋಂದಣಿ ದಿನ 2024",
+        "share_text": "ಯುನೈಟೆಡ್ ಸ್ಟೇಟ್ಸ್ ಮತದಾರರ ನೋಂದಣಿ ದಿನ 2024! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "АҚШ-та дауыс беру үшін тіркелу жолы",
+        "hover_text": "Америка Құрама Штаттарындағы сайлаушыны тіркеу күні – 2024",
+        "share_text": "Америка Құрама Штаттарындағы сайлаушыны тіркеу күні – 2024 #GoogleDoodle"
+      },
+      "km": {
+        "query": "របៀបចុះឈ្មោះបោះឆ្នោតនៅសហរដ្ឋអាមេរិក",
+        "hover_text": "ទិវាចុះឈ្មោះអ្នកបោះឆ្នោតនៅសហរដ្ឋអាមេរិកឆ្នាំ 2024",
+        "share_text": "ទិវាចុះឈ្មោះអ្នកបោះឆ្នោតនៅសហរដ្ឋអាមេរិកឆ្នាំ 2024! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "미국 내 유권자 등록 방법",
+        "hover_text": "2024년 미국 유권자 등록일",
+        "share_text": "2024년 미국 유권자 등록일 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "АКШда добуш берүү үчүн кантип катталуу керек",
+        "hover_text": "Америка Кошмо Штаттарынын Шайлоочуларды каттоо күнү — 2024",
+        "share_text": "Америка Кошмо Штаттарынын Шайлоочуларды каттоо күнү — 2024! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວິທີລົງທະບຽນເພື່ອໃຫ້ຄະແນນໃນສະຫະລັດ",
+        "hover_text": "ວັນລົງທະບຽນຜູ້ລົງຄະແນນຂອງສະຫະລັດ 2024",
+        "share_text": "ວັນລົງທະບຽນຜູ້ລົງຄະແນນຂອງສະຫະລັດ 2024! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "cómo registrarse para votar en estados unidos",
+        "hover_text": "Día Nacional de Registro de Votantes 2024",
+        "share_text": "Día Nacional de Registro de Votantes 2024 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "kā reģistrēties balsošanai ASV",
+        "hover_text": "ASV vēlētāju reģistrācijas diena — 2024",
+        "share_text": "ASV vēlētāju reģistrācijas diena — 2024! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "kaip užsiregistruoti balsuoti JAV",
+        "hover_text": "JAV rinkėjų registravimo diena, 2024 m.",
+        "share_text": "JAV rinkėjų registravimo diena, 2024 m.! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "како да се регистрирате за да гласате во САД",
+        "hover_text": "Ден за регистрација на гласачи во Соединетите Американски Држави, 2024 г.",
+        "share_text": "Ден за регистрација на гласачи во Соединетите Американски Држави, 2024 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Androm-pirenena fisoratana anaran'ny mpifidy",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "cara mendaftar untuk mengundi di AS",
+        "hover_text": "Hari Pendaftaran Pengundi Amerika Syarikat 2024",
+        "share_text": "Hari Pendaftaran Pengundi Amerika Syarikat 2024! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "യുഎസിൽ വോട്ട് ചെയ്യാൻ എങ്ങനെ രജിസ്റ്റർ ചെയ്യാം",
+        "hover_text": "യുണൈറ്റഡ് സ്റ്റേറ്റ്‌സ് വോട്ടർ രജിസ്ട്രേഷൻ ദിനം 2024",
+        "share_text": "യുണൈറ്റഡ് സ്റ്റേറ്റ്‌സ് വോട്ടർ രജിസ്ട്രേഷൻ ദിനം 2024! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "यूएसमध्ये मतदान करण्यासाठी नोंदणी कशी करावी",
+        "hover_text": "युनायटेड स्टेट्सचा राष्ट्रीय मतदार नोंदणी दिन २०२४",
+        "share_text": "युनायटेड स्टेट्सचा राष्ट्रीय मतदार नोंदणी दिन २०२४! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "АНУ-д санал өгөхийн тулд хэрхэн бүртгүүлэх вэ",
+        "hover_text": "2024 оны Америкийн Нэгдсэн Улсын Сонгогчийн бүртгэлийн өдөр",
+        "share_text": "2024 оны Америкийн Нэгдсэн Улсын Сонгогчийн бүртгэлийн өдөр! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "संयुक्त राज्य अमेरिकामा मतदान गर्न नाम दर्ता गर्ने तरिका",
+        "hover_text": "संयुक्त राज्य अमेरिकाको मतदाता दर्ता दिवस २०२४",
+        "share_text": "संयुक्त राज्य अमेरिकाको मतदाता दर्ता दिवस २०२४! #GoogleDoodle"
+      },
+      "no": {
+        "query": "slik registrerer du deg for å stemme i USA",
+        "hover_text": "Voter Registration Day USA 2024",
+        "share_text": "Voter Registration Day USA 2024! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଜାତୀୟ ଭୋଟର ପଞ୍ଜିକରଣ ଦିବସ",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "نحوه نام‌نویسی برای رأی دادن در ایالات متحده",
+        "hover_text": "روز نام‌نویسی رأی‌دهندگان ۲۰۲۴ ایالات متحده",
+        "share_text": "روز نام‌نویسی رأی‌دهندگان ۲۰۲۴ ایالات متحده! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "jak zarejestrować się jako wyborca w Stanach Zjednoczonych",
+        "hover_text": "Narodowy Dzień Rejestracji Wyborców 2024 (USA)",
+        "share_text": "Narodowy Dzień Rejestracji Wyborców 2024 (USA) #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "como se registrar para votar nos Estados Unidos",
+        "hover_text": "Dia de Registro Eleitoral dos Estados Unidos 2024",
+        "share_text": "Dia de Registro Eleitoral dos Estados Unidos 2024 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "como se registar para votar nos EUA",
+        "hover_text": "Dia de Recenseamento Eleitoral dos Estados Unidos de 2024",
+        "share_text": "Dia de Recenseamento Eleitoral dos Estados Unidos de 2024! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "how to register to vote in the us",
+        "hover_text": "ਸੰਯੁਕਤ ਰਾਜ ਵੋਟਰ ਰਜਿਸਟਰੇਸ਼ਨ ਦਾ ਦਿਨ 2024",
+        "share_text": "ਸੰਯੁਕਤ ਰਾਜ ਵੋਟਰ ਰਜਿਸਟਰੇਸ਼ਨ ਦਾ ਦਿਨ 2024! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "cum să te înregistrezi ca să votezi în SUA",
+        "hover_text": "Ziua înregistrării alegătorilor în Statele Unite 2024",
+        "share_text": "Ziua înregistrării alegătorilor în Statele Unite 2024! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "как зарегистрироваться для голосования в сша",
+        "hover_text": "День регистрации избирателей на выборы в США – 2024",
+        "share_text": "День регистрации избирателей на выборы в США – 2024 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "како да се региструјете за гласање у сад",
+        "hover_text": "Дан регистрације гласача из САД 2024.",
+        "share_text": "Дан регистрације гласача из САД 2024! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "kako da se registrujete za glasanje u sad",
+        "hover_text": "Dan registracije glasača iz SAD 2024.",
+        "share_text": "Dan registracije glasača iz SAD 2024! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "එක්සත් ජනපදයේ ඡන්දය ප්‍රකාශ කිරීමට ලියාපදිංචි වන ආකාරය",
+        "hover_text": "එක්සත් ජනපද ඡන්දදායකයින් ලියාපදිංචි කිරීමේ දිනය 2024",
+        "share_text": "එක්සත් ජනපද ඡන්දදායකයින් ලියාපදිංචි කිරීමේ දිනය 2024! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "ako sa zaregistrovať k voľbám v usa",
+        "hover_text": "Deň registrácie k voľbám v Spojených štátoch 2024",
+        "share_text": "Deň registrácie k voľbám v Spojených štátoch 2024. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "kako se registrirati za glasovanje v zda",
+        "hover_text": "Dan registracije volivcev v Združenih državah 2024",
+        "share_text": "Dan registracije volivcev v Združenih državah 2024! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Qaran ee Diiwaangelinta Cod bixiyaha",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "cómo registrarse para votar en estados unidos",
+        "hover_text": "Día Nacional de Registro de Votantes 2024 (Estados Unidos)",
+        "share_text": "Día Nacional de Registro de Votantes 2024 (Estados Unidos) #GoogleDoodle"
+      },
+      "sw": {
+        "query": "jinsi ya kujisajili ili upige kura marekani",
+        "hover_text": "Siku ya Usajili wa Wapiga Kura Marekani 2024",
+        "share_text": "Siku ya Usajili wa Wapiga Kura Marekani 2024! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "hur man registrerar sig för att rösta i usa",
+        "hover_text": "USA:s röstregistreringsdag 2024",
+        "share_text": "USA:s röstregistreringsdag 2024 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "how to register to vote in the us",
+        "hover_text": "அமெரிக்க வாக்காளர் பதிவு தினம் 2024",
+        "share_text": "அமெரிக்க வாக்காளர் பதிவு தினம் 2024! #GoogleDoodle"
+      },
+      "te": {
+        "query": "USలో ఓటు వేయడానికి ఎలా రిజిస్టర్ చేసుకోవాలి",
+        "hover_text": "యునైటెడ్ స్టేట్స్ ఓటర్ రిజిస్ట్రేషన్ డే 2024",
+        "share_text": "యునైటెడ్ స్టేట్స్ ఓటర్ రిజిస్ట్రేషన్ డే 2024! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วิธีลงทะเบียนเพื่อลงคะแนนเสียงในสหรัฐอเมริกา",
+        "hover_text": "วันลงทะเบียนผู้มีสิทธิ์เลือกตั้งของสหรัฐอเมริกาปี 2024",
+        "share_text": "วันลงทะเบียนผู้มีสิทธิ์เลือกตั้งของสหรัฐอเมริกาปี 2024 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "abd'de oy vermek için nasıl kaydolunur",
+        "hover_text": "2024 ABD Seçmen Kayıt Günü",
+        "share_text": "2024 ABD Seçmen Kayıt Günü. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "як зареєструватися для голосування в США",
+        "hover_text": "День реєстрації виборців у США у 2024 році",
+        "share_text": "День реєстрації виборців у США у 2024 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "امریکہ میں ووٹ کرنے کیلئے رجسٹر کرنے کا طریقہ",
+        "hover_text": "امریکہ کا ووٹر رجسٹریشن کا قومی دن 2024",
+        "share_text": "امریکہ کا ووٹر رجسٹریشن کا قومی دن 2024! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "aqsh hududida qanday ovoz berish mumkin",
+        "hover_text": "AQSH ovoz beruvchilarni qayd qilish kuni 2024",
+        "share_text": "AQSH ovoz beruvchilarni qayd qilish kuni 2024! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "cách đăng ký bỏ phiếu tại hoa kỳ",
+        "hover_text": "Ngày đăng ký cử tri tại Hoa Kỳ năm 2024",
+        "share_text": "Ngày đăng ký cử tri tại Hoa Kỳ năm 2024! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "ukuze ubhalisele ukuvota e-us",
+        "hover_text": "Usuku Lokubhalisela Ukuvota lase-United States lwango-2024",
+        "share_text": "Usuku Lokubhalisela Ukuvota lase-United States lwango-2024! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "how to register to vote in the us",
+    "share_text": "United States Voter Registration Day 2024! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-sophie-xeon",
     "title": "Celebrating Sophie Xeon",
     "url": "//www.google.com/logos/doodles/2024/celebrating-sophie-xeon-6753651837110296-l.png",
