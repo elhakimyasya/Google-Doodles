@@ -1,5 +1,504 @@
 [
   {
+    "name": "chile-national-day-2024",
+    "title": "Chile National Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/chile-national-day-2024-6753651837110298-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/vL_QrafiL8QJ-XXs_LZbotTxRD7estg5fZQ2jRaEEcigkqzkitMcS4xCgtJZcGYotrpdECrxp3Vi70myUHXz_PXo7WEBApPFOLxkvYukrJIS1MSDlgPlBg",
+    "high_res_url": "//www.google.com/logos/doodles/2024/chile-national-day-2024-6753651837110298-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      9,
+      18
+    ],
+    "translations": {
+      "en": {
+        "query": "Chile National Day",
+        "hover_text": "Chile National Holiday 2024",
+        "share_text": "Happy National Holiday, Chile! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Chili se nasionale dag",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sq": {
+        "query": "Dita Kombëtare e Kilit",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "am": {
+        "query": "የቺሊ ነጻነት ቀን",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ar": {
+        "query": "العيد الوطني لتشيلي",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hy": {
+        "query": "Չիլիի ազգային տոն",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "az": {
+        "query": "Çilinin Müstəqillik Günü",
+        "hover_text": "2024 Çili Milli Bayramı",
+        "share_text": "Milli bayramınız mübarək, Çili! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "চিলির জাতীয় দিবস",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "eu": {
+        "query": "Txileko Egun Nazionala",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "be": {
+        "query": "Нацыянальны дзень Чылі",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bs": {
+        "query": "Dan državnosti Čilea",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "en-GB": {
+        "query": "Chile National Day",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bg": {
+        "query": "Национален празник на Чили",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "my": {
+        "query": "ချီလီ အမျိုးသားနေ့",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ca": {
+        "query": "Dia Nacional de Xile",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": "智利國慶日",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-TW": {
+        "query": "智利國慶日",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": "智利国庆日",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": "Dan državnosti Čilea",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "cs": {
+        "query": "Státní svátek Chile",
+        "hover_text": "Den chilské státnosti 2024",
+        "share_text": "Vše nejlepší ke Dni státnosti, Chile! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Chiles nationaldag",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "nl": {
+        "query": "Nationale feestdag van Chili",
+        "hover_text": "Nationale feestdag Chili 2024",
+        "share_text": "Fijne nationale feestdag, Chili! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Tšiili rahvuspüha",
+        "hover_text": "Tšiili 2024. aasta rahvuspüha",
+        "share_text": "Head rahvuspüha, Tšiili! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Chilen kansallispäivä",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fr": {
+        "query": "Fête nationale du Chili",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": "Fête nationale du Chili",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": "Día Nacional de Chile",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ka": {
+        "query": "ჩილეს ეროვნული დღესასწაული",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "de": {
+        "query": "Nationalfeiertag Chile",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "el": {
+        "query": "Εθνική Ημέρα της Χιλής",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gu": {
+        "query": "ચિલીનો રાષ્ટ્રીય દિવસ",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "החג הלאומי של צ'ילה",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hi": {
+        "query": "चिली का राष्ट्रीय दिवस",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hu": {
+        "query": "Chile nemzeti ünnepe",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "is": {
+        "query": "Þjóðhátíðardagur Síle",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "id": {
+        "query": "Hari Nasional Cile",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ga": {
+        "query": "Lá Náisiúnta na Sile",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Festa nazionale del Cile",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ja": {
+        "query": "チリ建国記念日",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "kn": {
+        "query": "ಚಿಲಿ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "kk": {
+        "query": "Чилидің Ұлттық күні",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "km": {
+        "query": "ទិវាបុណ្យជាតិ​ស៊ីលី",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ko": {
+        "query": "칠레 국경일",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ky": {
+        "query": "Чилинин Улуттук күнү",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lo": {
+        "query": "ວັນຊາດຊິລີ",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es-419": {
+        "query": "Fiestas Patrias de Chile",
+        "hover_text": "Fiestas Patrias de Chile 2024",
+        "share_text": "Fiestas Patrias de Chile! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Čīles nacionālie svētki",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lt": {
+        "query": "Čilės nacionalinė diena",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mk": {
+        "query": "Ден на државноста на Чиле",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mg": {
+        "query": "Fetim-pirenen'i Silia",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Hari Kebangsaan Chile",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ml": {
+        "query": "ചിലി ദേശീയ ദിനം",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "चिली राष्ट्रीय दिन",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mn": {
+        "query": "Чили улсын Үндэсний баярын өдөр",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ne": {
+        "query": "चिलीको राष्ट्रिय दिवस",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "no": {
+        "query": "Chiles nasjonaldag",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଚିଲିର ରାଷ୍ଟ୍ରୀୟ ଦିବସ",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز ملی شیلی",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pl": {
+        "query": "Święto Narodowe Chile",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": "Dia Nacional do Chile",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": "Dia nacional do Chile",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pa": {
+        "query": "ਚਿਲੀ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ro": {
+        "query": "Ziua Națională în Chile",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Национальный праздник Чили",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr": {
+        "query": "Дан државности Чилеа",
+        "hover_text": "Дан државности Чилеа 2024.",
+        "share_text": "Честитамо Дан државности Чилеу! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan državnosti Čilea",
+        "hover_text": "Dan državnosti Čilea 2024.",
+        "share_text": "Čestitamo Dan državnosti Čileu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen nasyonal Chile",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "චිලේ ජාතික දිනය",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sk": {
+        "query": "Štátny sviatok Čile",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sl": {
+        "query": "Čilenski dan državnosti",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "so": {
+        "query": "Maalinta Qaranka Jili",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": "Letsatsi la Naha la Chile",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Fiestas Patrias de Chile",
+        "hover_text": "Fiestas Patrias de Chile 2024",
+        "share_text": "¡Fiestas Patrias de Chile! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Kitaifa ya Chile",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sv": {
+        "query": "Chiles nationaldag",
+        "hover_text": "Chiles nationaldag 2024",
+        "share_text": "Vi firar Chiles nationaldag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "சிலி தேசிய தினம்",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "te": {
+        "query": "చిలీ జాతీయ దినోత్సవం",
+        "hover_text": "చిలీ జాతీయ సెలవుదినం 2024",
+        "share_text": "చిలీ ప్రజలకు జాతీయ సెలవుదినం శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันชาติชิลี",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tn": {
+        "query": "Letsatsi la Setšhaba la Chile",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Şili Ulusal Günü",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Національний день Чилі",
+        "hover_text": "Національне свято в Чилі у 2024 році",
+        "share_text": "З національним святом, Чилі! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "چلی کا قومی دن",
+        "hover_text": "چلی کی قومی تعطیل 2024",
+        "share_text": "چلی کی قومی تعطیل، مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Chili milliy bayrami",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Chile",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lukazwelonke lase-Chile",
+        "hover_text": null,
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Chile National Day",
+    "share_text": "Happy National Holiday, Chile! #GoogleDoodle"
+  },
+  {
     "name": "united-states-voter-registration-day-2024",
     "title": "United States Voter Registration Day 2024",
     "url": "//www.google.com/logos/doodles/2024/united-states-voter-registration-day-2024-6753651837110295-l.png",
