@@ -1,5 +1,504 @@
 [
   {
+    "name": "celebrating-emerson-romero",
+    "title": "Celebrating Emerson Romero",
+    "url": "//www.google.com/logos/doodles/2024/celebrating-emerson-romero-6753651837110274-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/h51nxQOICg6TgPbNIpGqvb6ekW_AtwrnPNkptj6idA1oCkBg81Dqwb3DYtIT9nsQRUecpHuMEhGAVois-hwyCEiwGjb6o9YU0YCErryTxVcFj2QRU9vl",
+    "high_res_url": "//www.google.com/logos/doodles/2024/celebrating-emerson-romero-6753651837110274-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2024,
+      9,
+      19
+    ],
+    "translations": {
+      "en": {
+        "query": "Emerson Romero",
+        "hover_text": "Celebrating Emerson Romero",
+        "share_text": "Celebrating Emerson Romero! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Emerson Romero",
+        "hover_text": "Ter viering van Emerson Romero",
+        "share_text": "Ter viering van Emerson Romero! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Emerson Romero",
+        "hover_text": "Përkujtojmë Emerson Romero",
+        "share_text": "Përkujtojmë Emerson Romero! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ኤመርሰን ሮሜሮ",
+        "hover_text": "ኤመርሰን ሮሜሮን በማክበር ላይ",
+        "share_text": "ኤመርሰን ሮሜሮን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "\"إيمرسون روميرو\"",
+        "hover_text": "نحتفل بذكرى \"إيمرسون روميرو\"",
+        "share_text": "نحتفل اليوم بذكرى \"إيمرسون روميرو\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Էմերսոն Ռոմերո",
+        "hover_text": "Տոնենք Էմերսոն Ռոմերոյի օրը",
+        "share_text": "Տոնենք Էմերսոն Ռոմերոյի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Emerson Romero",
+        "hover_text": "Emerson Romero günü",
+        "share_text": "Emerson Romero günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "এমার্সন রোমেরো",
+        "hover_text": "এমার্সন রোমেরোর অবদান স্মরণ করা হচ্ছে",
+        "share_text": "এমার্সন রোমেরোর অবদান স্মরণ করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Emerson Romero",
+        "hover_text": "Emerson Romeroren omenez",
+        "share_text": "Emerson Romeroren omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Эмерсан Рамэра",
+        "hover_text": "Ушаноўваем Эмерсана Рамэра",
+        "share_text": "Ушаноўваем Эмерсана Рамэра! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Emerson Romero",
+        "hover_text": "Slavimo Emersona Romera",
+        "share_text": "Slavimo Emersona Romera! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Emerson Romero",
+        "hover_text": "Celebrating Emerson Romero",
+        "share_text": "Celebrating Emerson Romero! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Емерсън Ромеро",
+        "hover_text": "Честване на Емерсън Ромеро",
+        "share_text": "Честване на Емерсън Ромеро! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Emerson Romero",
+        "hover_text": "Emerson Romero ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "Emerson Romero ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Emerson Romero",
+        "hover_text": "Homenatge a Emerson Romero",
+        "share_text": "Homenatge a Emerson Romero #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Emerson Romero",
+        "hover_text": "紀念 Emerson Romero",
+        "share_text": "紀念 Emerson Romero！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "艾默生羅梅羅",
+        "hover_text": "紀念艾默生羅梅羅",
+        "share_text": "紀念艾默生羅梅羅！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "Emerson Romero",
+        "hover_text": "纪念 Emerson Romero",
+        "share_text": "纪念 Emerson Romero！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Emerson Romero",
+        "hover_text": "U čast Emersonu Romeru",
+        "share_text": "U čast Emersonu Romeru! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Emerson Romero",
+        "hover_text": "Oslavujeme Emersona Romera",
+        "share_text": "Oslavujeme Emersona Romera! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Emerson Romero",
+        "hover_text": "Vi hylder Emerson Romero",
+        "share_text": "Vi hylder Emerson Romero #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Emerson Romero",
+        "hover_text": "Doodle ter ere van Emerson Romero",
+        "share_text": "Een doodle ter ere van Emerson Romero! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Emerson Romero",
+        "hover_text": "Mälestame Emerson Romerot",
+        "share_text": "Mälestame Emerson Romerot! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Emerson Romero",
+        "hover_text": "Emerson Romero",
+        "share_text": "Emerson Romero #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Emerson Romero",
+        "hover_text": "Hommage à Emerson Romero",
+        "share_text": "Hommage à Emerson Romero ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Emerson Romero",
+        "hover_text": "Célébration d'Emerson Romero",
+        "share_text": "Célébration d'Emerson Romero! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Emerson Romero",
+        "hover_text": "Homenaxe a Emerson Romero",
+        "share_text": "Homenaxe a Emerson Romero! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ემერსონ რომერო",
+        "hover_text": "აღვნიშნავთ ემერსონ რომეროს დღეს",
+        "share_text": "აღვნიშნავთ ემერსონ რომეროს დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Emerson Romero",
+        "hover_text": "Zu Ehren von Emerson Romero",
+        "share_text": "Zu Ehren von Emerson Romero #GoogleDoodle"
+      },
+      "el": {
+        "query": "Emerson Romero",
+        "hover_text": "Τιμούμε τον Emerson Romero",
+        "share_text": "Τιμούμε τον Emerson Romero! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ઍમર્સન રૉમૅરો",
+        "hover_text": "ઍમર્સન રૉમૅરોની યાદમાં",
+        "share_text": "ઍમર્સન રૉમૅરોની યાદમાં! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Emerson Romero",
+        "hover_text": "מחווה לאמרסון רומרו",
+        "share_text": "מחווה לאמרסון רומרו GoogleDoodle#"
+      },
+      "hi": {
+        "query": "एमर्सन रोमेरो",
+        "hover_text": "एमर्सन रोमेरो की याद में",
+        "share_text": "एमर्सन रोमेरो की याद में! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Emerson Romero",
+        "hover_text": "Emerson Romero ünneplése",
+        "share_text": "Emerson Romero ünneplése! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Emerson Romero",
+        "hover_text": "Við heiðrum Emerson Romero",
+        "share_text": "Við heiðrum Emerson Romero! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Emerson Romero",
+        "hover_text": "Mengenang Emerson Romero",
+        "share_text": "Mengenang Emerson Romero #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Emerson Romero",
+        "hover_text": "In onore di Emerson Romero",
+        "share_text": "In onore di Emerson Romero! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "エマーソン・ロメロ",
+        "hover_text": "エマーソン・ロメロを称えて",
+        "share_text": "エマーソン・ロメロを称えて #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಎಮರ್ಸನ್ ರೊಮೆರೊ",
+        "hover_text": "ಎಮರ್ಸನ್ ರೊಮೆರೊ ಅವರನ್ನು ಸ್ಮರಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಎಮರ್ಸನ್ ರೊಮೆರೊ ಅವರನ್ನು ಸ್ಮರಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Эмерсон Ромеро",
+        "hover_text": "Эмерсон Ромеро күні",
+        "share_text": "Эмерсон Ромеро күні #GoogleDoodle"
+      },
+      "km": {
+        "query": "Emerson Romero",
+        "hover_text": "អបអរទិវារំលឹក Emerson Romero",
+        "share_text": "អបអរទិវារំលឹក Emerson Romero! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Emerson Romero",
+        "hover_text": "Emerson Romero를 기억하며",
+        "share_text": "Emerson Romero를 기억하며 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Эмерсон Ромеро",
+        "hover_text": "Эмерсон Ромеро күнүн майрамдоо",
+        "share_text": "Эмерсон Ромеро күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Emerson Romero",
+        "hover_text": "ວັນລະນຶກເຖິງ Emerson Romero",
+        "share_text": "ວັນລະນຶກເຖິງ Emerson Romero! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Emerson Romero",
+        "hover_text": "Celebrando a Emerson Romero",
+        "share_text": "¡Celebrando a Emerson Romero! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Emersons Romero",
+        "hover_text": "Emersona Romero godināšana",
+        "share_text": "Emersona Romero godināšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Emersonas Romero",
+        "hover_text": "Emersono Romero minėjimas",
+        "share_text": "Emersono Romero minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Emerson Romero",
+        "hover_text": "Во чест на Emerson Romero",
+        "share_text": "Во чест на Emerson Romero! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Emerson Romero",
+        "hover_text": "Meraikan Emerson Romero",
+        "share_text": "Meraikan Emerson Romero! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Emerson Romero",
+        "hover_text": "Emerson Romero-യെ ആദരിക്കുന്നു",
+        "share_text": "Emerson Romero-യെ ആദരിക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "इमर्सन रोमेरो",
+        "hover_text": "इमर्सन रोमेरो यांच्या स्मरणार्थ",
+        "share_text": "इमर्सन रोमेरो यांच्या स्मरणार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Эмерсон Ромеро",
+        "hover_text": "Эмерсон Ромерогийн өдрийг тэмдэглэж байна",
+        "share_text": "Эмерсон Ромерогийн өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Emerson Romero",
+        "hover_text": "Emerson Romero को सम्झना",
+        "share_text": "Emerson Romero को सम्झना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Emerson Romero",
+        "hover_text": "Vi minnes Emerson Romero",
+        "share_text": "Vi minnes Emerson Romero! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "اِمرسون رومِرو",
+        "hover_text": "بزرگداشت «اِمرسون رومِرو»",
+        "share_text": "بزرگداشت «اِمرسون رومِرو»! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Emerson Romero",
+        "hover_text": "Wspominamy Emersona Romero",
+        "share_text": "Wspominamy Emersona Romero #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Emerson Romero",
+        "hover_text": "Celebrando as contribuições de Emerson Romero para o cinema",
+        "share_text": "Celebrando as contribuições de Emerson Romero para o cinema #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Emerson Romero",
+        "hover_text": "Celebração de Emerson Romero",
+        "share_text": "Celebração de Emerson Romero! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Emerson Romero",
+        "hover_text": "ਐਮਰਸਨ ਰੋਮੇਰੋ ਦੀ ਯਾਦ ਵਿੱਚ",
+        "share_text": "ਐਮਰਸਨ ਰੋਮੇਰੋ ਦੀ ਯਾਦ ਵਿੱਚ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Emerson Romero",
+        "hover_text": "În cinstea lui Emerson Romero",
+        "share_text": "În cinstea lui Emerson Romero! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Эмерсон Ромеро",
+        "hover_text": "День Эмерсона Ромеро",
+        "share_text": "День Эмерсона Ромеро #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Емерсон Ромеро",
+        "hover_text": "Славимо Емерсона Ромера",
+        "share_text": "Славимо Емерсона Ромера! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Emerson Romero",
+        "hover_text": "Slavimo Emersona Romera",
+        "share_text": "Slavimo Emersona Romera! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "එමර්සන් රොමේරෝ",
+        "hover_text": "එමර්සන් රොමේරෝ සමරමින්",
+        "share_text": "එමර්සන් රොමේරෝ සමරමින්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Emerson Romero",
+        "hover_text": "Pripomíname si Emersona Romera",
+        "share_text": "Pripomíname si Emersona Romera. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Emerson Romero",
+        "hover_text": "Slavimo Emersona Romera",
+        "share_text": "Slavimo Emersona Romera! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Emerson Romero",
+        "hover_text": "Homenaje a Emerson Romero",
+        "share_text": "Hoy rendimos homenaje a Emerson Romero #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Emerson Romero",
+        "hover_text": "Tunamwenzi Emerson Romero",
+        "share_text": "Tunamwenzi Emerson Romero! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Emerson Romero",
+        "hover_text": "Vi hyllar Emerson Romero",
+        "share_text": "Vi hyllar Emerson Romero #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "எமெர்சன் ரோமெரோ",
+        "hover_text": "எமெர்சன் ரோமெரோவைக் கொண்டாடுவோம்",
+        "share_text": "எமெர்சன் ரோமெரோவைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఎమర్సన్ రొమేరో",
+        "hover_text": "ఎమర్సన్ రొమేరోను స్మరించుకుందాం",
+        "share_text": "ఎమర్సన్ రొమేరోను స్మరించుకుందాం! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Emerson Romero",
+        "hover_text": "วันรำลึกถึง Emerson Romero",
+        "share_text": "วันรำลึกถึง Emerson Romero #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Emerson Romero",
+        "hover_text": "Emerson Romero'yu Anıyoruz",
+        "share_text": "Emerson Romero'yu anıyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Емерсон Ромеро",
+        "hover_text": "Ушановуємо Емерсона Ромеро",
+        "share_text": "Ушановуємо Емерсона Ромеро! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "‫Emerson Romero",
+        "hover_text": "‫Emerson Romero کی یاد میں",
+        "share_text": "‫Emerson Romero کی یاد میں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Emerson Romero",
+        "hover_text": "Emerson Romero kuni",
+        "share_text": "Emerson Romero kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Emerson Romero",
+        "hover_text": "Tôn vinh Emerson Romero",
+        "share_text": "Tôn vinh Emerson Romero! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Emerson Romero",
+        "hover_text": "Sibungaza u-Emerson Romero",
+        "share_text": "Sibungaza u-Emerson Romero! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Emerson Romero",
+    "share_text": "Celebrating Emerson Romero! #GoogleDoodle"
+  },
+  {
     "name": "chile-national-day-2024",
     "title": "Chile National Day 2024",
     "url": "//www.google.com/logos/doodles/2024/chile-national-day-2024-6753651837110298-l.png",
@@ -30,8 +529,8 @@
       },
       "am": {
         "query": "የቺሊ ነጻነት ቀን",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "የቺሊ ብሔራዊ በዓል 2024",
+        "share_text": "መልካም ብሔራዊ በዓል፣ ቺሊ! #GoogleDoodle"
       },
       "ar": {
         "query": "العيد الوطني لتشيلي",
@@ -55,8 +554,8 @@
       },
       "eu": {
         "query": "Txileko Egun Nazionala",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "2024ko Txileko Jaiegun Nazionala",
+        "share_text": "Egun Nazional zoriontsua izan, Txile! #GoogleDoodle"
       },
       "be": {
         "query": "Нацыянальны дзень Чылі",
@@ -65,8 +564,8 @@
       },
       "bs": {
         "query": "Dan državnosti Čilea",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Dan državnosti Čilea 2024.",
+        "share_text": "Sretan Dan državnosti, Čile! #GoogleDoodle"
       },
       "en-GB": {
         "query": "Chile National Day",
@@ -100,13 +599,13 @@
       },
       "zh-CN": {
         "query": "智利国庆日",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "2024 年智利国庆节",
+        "share_text": "欢庆智利国庆节！#GoogleDoodle"
       },
       "hr": {
         "query": "Dan državnosti Čilea",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Dan državnosti Čilea 2024.",
+        "share_text": "Sretan Dan državnosti, Čile! #GoogleDoodle"
       },
       "cs": {
         "query": "Státní svátek Chile",
@@ -115,8 +614,8 @@
       },
       "da": {
         "query": "Chiles nationaldag",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Chiles nationaldag 2024",
+        "share_text": "Vi fejrer Chiles nationaldag #GoogleDoodle"
       },
       "nl": {
         "query": "Nationale feestdag van Chili",
@@ -140,8 +639,8 @@
       },
       "fr-CA": {
         "query": "Fête nationale du Chili",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Fête nationale du Chili 2024",
+        "share_text": "Joyeuse fête nationale du Chili! #GoogleDoodle"
       },
       "gl": {
         "query": "Día Nacional de Chile",
@@ -190,13 +689,13 @@
       },
       "is": {
         "query": "Þjóðhátíðardagur Síle",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Þjóðhátíðardagur Chile 2024",
+        "share_text": "Gleðilegan þjóðhátíðardag, Chile! #GoogleDoodle"
       },
       "id": {
         "query": "Hari Nasional Cile",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Hari Libur Nasional Cile 2024",
+        "share_text": "Selamat Hari Libur Nasional, Cile! #GoogleDoodle"
       },
       "ga": {
         "query": "Lá Náisiúnta na Sile",
@@ -205,13 +704,13 @@
       },
       "it": {
         "query": "Festa nazionale del Cile",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Festa nazionale del Cile 2024",
+        "share_text": "Buona festa nazionale, Cile! #GoogleDoodle"
       },
       "ja": {
         "query": "チリ建国記念日",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "2024 年チリ共和国独立記念日",
+        "share_text": "チリ共和国独立記念日を祝おう！#GoogleDoodle"
       },
       "kn": {
         "query": "ಚಿಲಿ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ",
@@ -230,13 +729,13 @@
       },
       "ko": {
         "query": "칠레 국경일",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "2024년 칠레 국경일",
+        "share_text": "칠레 국경일 기념 #GoogleDoodle"
       },
       "ky": {
         "query": "Чилинин Улуттук күнү",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Чилинин Улуттук майрамы — 2024",
+        "share_text": "Улуттук майрамың менен, Чили! #GoogleDoodle"
       },
       "lo": {
         "query": "ວັນຊາດຊິລີ",
@@ -250,8 +749,8 @@
       },
       "lv": {
         "query": "Čīles nacionālie svētki",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Čīles Nacionālie svētki — 2024",
+        "share_text": "Sveicam Nacionālajos svētkos, Čīle! #GoogleDoodle"
       },
       "lt": {
         "query": "Čilės nacionalinė diena",
@@ -270,8 +769,8 @@
       },
       "ms": {
         "query": "Hari Kebangsaan Chile",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Hari Kebangsaan Chile 2024",
+        "share_text": "Selamat Hari Kebangsaan, Chile! #GoogleDoodle"
       },
       "ml": {
         "query": "ചിലി ദേശീയ ദിനം",
@@ -285,13 +784,13 @@
       },
       "mr": {
         "query": "चिली राष्ट्रीय दिन",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "चिलीची राष्ट्रीय सुट्टी २०२४",
+        "share_text": "चिलीला राष्ट्रीय सुट्टीच्या शुभेच्छा! #GoogleDoodle"
       },
       "mn": {
         "query": "Чили улсын Үндэсний баярын өдөр",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "2024 оны Чилийн Үндэсний баяр",
+        "share_text": "Чилийн иргэдэд Үндэсний баярын мэнд хүргэе! #GoogleDoodle"
       },
       "ne": {
         "query": "चिलीको राष्ट्रिय दिवस",
@@ -300,8 +799,8 @@
       },
       "no": {
         "query": "Chiles nasjonaldag",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Chiles nasjonaldag 2024",
+        "share_text": "Gratulerer med nasjonaldagen, Chile! #GoogleDoodle"
       },
       "nn": {
         "query": null,
@@ -330,18 +829,18 @@
       },
       "pl": {
         "query": "Święto Narodowe Chile",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Święto Narodowe Chile 2024",
+        "share_text": "Chile obchodzi Święto Narodowe #GoogleDoodle"
       },
       "pt-BR": {
         "query": "Dia Nacional do Chile",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Dia Nacional do Chile 2024",
+        "share_text": "Feliz Dia Nacional, Chile! #GoogleDoodle"
       },
       "pt-PT": {
         "query": "Dia nacional do Chile",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Feriado Nacional do Chile de 2024",
+        "share_text": "Feliz Dia Nacional, Chile! #GoogleDoodle"
       },
       "pa": {
         "query": "ਚਿਲੀ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ",
@@ -400,8 +899,8 @@
       },
       "sl": {
         "query": "Čilenski dan državnosti",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Čilenski državni praznik 2024",
+        "share_text": "Vesel državni praznik, Čile! #GoogleDoodle"
       },
       "so": {
         "query": "Maalinta Qaranka Jili",
@@ -420,8 +919,8 @@
       },
       "sw": {
         "query": "Sikukuu ya Kitaifa ya Chile",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Sikukuu ya Kitaifa Chile 2024",
+        "share_text": "Heri ya Sikukuu ya Kitaifa, Chile! #GoogleDoodle"
       },
       "sv": {
         "query": "Chiles nationaldag",
@@ -445,8 +944,8 @@
       },
       "th": {
         "query": "วันชาติชิลี",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "วันชาติชิลีปี 2024",
+        "share_text": "สุขสันต์วันชาติชิลี! #GoogleDoodle"
       },
       "tn": {
         "query": "Letsatsi la Setšhaba la Chile",
@@ -455,8 +954,8 @@
       },
       "tr": {
         "query": "Şili Ulusal Günü",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "2024 Şili Ulusal Bağımsızlık Günü",
+        "share_text": "Şili Ulusal Bağımsızlık Günü'nü kutluyoruz. #GoogleDoodle"
       },
       "tk": {
         "query": null,
@@ -475,13 +974,13 @@
       },
       "uz": {
         "query": "Chili milliy bayrami",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Chili Milliy bayrami 2024",
+        "share_text": "Chili Milliy bayrami muborak! #GoogleDoodle"
       },
       "vi": {
         "query": "Ngày quốc khánh Chile",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Ngày Độc lập Chile năm 2024",
+        "share_text": "Mừng Ngày Độc lập Chile! #GoogleDoodle"
       },
       "wo": {
         "query": null,
