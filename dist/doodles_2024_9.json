@@ -1,5 +1,504 @@
 [
   {
+    "name": "armenia-independence-day-2024",
+    "title": "Armenia Independence Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/armenia-independence-day-2024-6753651837110299-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/f4EkhfRaKotNtMsVLUyRvHnwFKjzfx06QmKvyWMSJcVdatVytzhsiWOnVQGJkg4tzZZkm0UrLct9khFh52LYrrHxCP_aQRbiZXp_H_IOUGh9qYKG3URGXw",
+    "high_res_url": "//www.google.com/logos/doodles/2024/armenia-independence-day-2024-6753651837110299-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      9,
+      21
+    ],
+    "translations": {
+      "en": {
+        "query": "Armenia Independence Day",
+        "hover_text": "Armenia Independence Day 2024",
+        "share_text": "Happy Independence Day, Armenia! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Armenië se onafhanklikheidsdag",
+        "hover_text": "Armenië se onafhanklikheidsdag 2024",
+        "share_text": "Gelukkige onafhanklikheidsdag, Armenië! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë e Armenisë",
+        "hover_text": "Dita e Pavarësisë së Armenisë, 2024",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Armeni! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአርሜኒያ ነጻነት ቀን",
+        "hover_text": "የአርሜኒያ ነፃነት ቀን 2024",
+        "share_text": "መልካም ነጻነት ቀን አርሜኒያ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال أرمينيا",
+        "hover_text": "عيد استقلال أرمينيا 2024",
+        "share_text": "عيد استقلال سعيد لأرمينيا ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Հայաստանի անկախության տոն",
+        "hover_text": "Հայաստանի անկախության օր 2024",
+        "share_text": "Շնորհավո՛ր անկախության օրը, Հայաստան #GoogleDoodle"
+      },
+      "az": {
+        "query": "Ermənistanın Müstəqillik Günü",
+        "hover_text": "2024 Ermənistanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Ermənistan! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "আর্মেনিয়ার স্বাধীনতা দিবস",
+        "hover_text": "আর্মেনিয়ার স্বাধীনতা দিবস ২০২৪",
+        "share_text": "আর্মেনিয়ার স্বাধীনতা দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Armeniako Independentzia Eguna",
+        "hover_text": "2024ko Armeniako Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Armenia! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Арменіі",
+        "hover_text": "Дзень незалежнасці Арменіі 2024",
+        "share_text": "З Днём незалежнасці, Арменія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Armenije",
+        "hover_text": "Dan nezavisnosti Armenije 2024.",
+        "share_text": "Sretan Dan nezavisnosti, Armenijo! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Armenia Independence Day",
+        "hover_text": "Armenia Independence Day 2024",
+        "share_text": "Happy Independence Day, Armenia! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Армения",
+        "hover_text": "Ден на независимостта на Армения 2024 г.",
+        "share_text": "Честит Ден на независимостта на Армения! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အာမေးနီးယား လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ အာမေးနီးယားနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ ဖြစ်ပါစေ၊ အာမေးနီးယား။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència d'Armènia",
+        "hover_text": "Dia de la Independència d'Armènia 2024",
+        "share_text": "Feliç Dia de la Independència, Armènia! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "亞美尼亞獨立日",
+        "hover_text": "2024 年亞美尼亞獨立日",
+        "share_text": "亞美尼亞獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "亞美尼亞獨立紀念日",
+        "hover_text": "2024 亞美尼亞獨立紀念日",
+        "share_text": "亞美尼亞，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "亚美尼亚独立日",
+        "hover_text": "2024 年亚美尼亚独立日",
+        "share_text": "亚美尼亚，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Armenije",
+        "hover_text": "Dan neovisnosti Armenije 2024.",
+        "share_text": "Sretan Dan neovisnosti, Armenijo! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Arménie",
+        "hover_text": "Den nezávislosti Arménie 2024",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Arménie! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Armeniens uafhængighedsdag",
+        "hover_text": "Armeniens uafhængighedsdag 2024",
+        "share_text": "Glædelig uafhængighedsdag, Armenien! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Armenië",
+        "hover_text": "Onafhankelijkheidsdag Armenië 2024",
+        "share_text": "Fijne Onafhankelijkheidsdag, Armenië! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Armeenia iseseisvuspäev",
+        "hover_text": "Armeenia 2024. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Armeenia! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Armenian itsenäisyyspäivä",
+        "hover_text": "Armenian itsenäisyyspäivä 2024",
+        "share_text": "Hyvää itsenäisyyspäivää, Armenia! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance de l'Arménie",
+        "hover_text": "Fête de l'Indépendance de l'Arménie 2024",
+        "share_text": "Fête de l'Indépendance de l'Arménie #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance de l'Arménie",
+        "hover_text": "Fête de l'Indépendance de l'Arménie 2024",
+        "share_text": "Joyeux jour de l'indépendance de l'Arménie! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Armenia",
+        "hover_text": "Día da Independencia de Armenia 2024",
+        "share_text": "Feliz Día da Independencia, Armenia! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "სომხეთის დამოუკიდებლობის დღე",
+        "hover_text": "სომხეთის დამოუკიდებლობის დღე — 2024",
+        "share_text": "ვულოცავთ სომხეთს დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Armenien",
+        "hover_text": "Unabhängigkeitstag Armenien 2024",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Armenien! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας της Αρμενίας",
+        "hover_text": "Ημέρα Ανεξαρτησίας της Αρμενίας 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας της Αρμενίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "આર્મેનિયાનો સ્વતંત્રતા દિવસ",
+        "hover_text": "આર્મેનિયાનો સ્વતંત્રતા દિવસ 2024",
+        "share_text": "અર્મેનિયાના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של ארמניה",
+        "hover_text": "יום העצמאות של ארמניה 2024",
+        "share_text": "יום עצמאות שמח, ארמניה! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "आर्मेनिया का स्वतंत्रता दिवस",
+        "hover_text": "आर्मेनिया का स्वतंत्रता दिवस 2024",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, आर्मेनिया! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Örményország függetlenségének napja",
+        "hover_text": "Örményország függetlenségének napja, 2024",
+        "share_text": "Boldog függetlenség napját, Örményország! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Armeníu",
+        "hover_text": "Sjálfstæðisdagur Armeníu 2024",
+        "share_text": "Gleðilegan sjálfstæðisdag, Armenía! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Armenia",
+        "hover_text": "Hari Kemerdekaan Armenia 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Armenia! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse na hAirméine",
+        "hover_text": null,
+        "share_text": "Lá Saoirse na hAirméine faoi mhaise duit. #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza dell'Armenia",
+        "hover_text": "Festa dell'indipendenza dell'Armenia 2024",
+        "share_text": "Buona festa dell'indipendenza, Armenia! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "アルメニア独立記念日",
+        "hover_text": "2024 年アルメニア独立記念日",
+        "share_text": "アルメニア独立記念日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಅರ್ಮೇನಿಯದಲ್ಲಿ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಅರ್ಮೇನಿಯಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಅರ್ಮೇನಿಯ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Арменияның Тәуелсіздік күні",
+        "hover_text": "Арменияның Тәуелсіздік күні — 2024",
+        "share_text": "Тәуелсіздік күні құтты болсын, Армения! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យឯករាជ្យជាតិ​អាមេនី",
+        "hover_text": "ទិវា​បុណ្យឯករាជ្យជាតិ​អាមេនីឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវាបុណ្យ​ឯករាជ្យជាតិអាមេនី! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "아르메니아 독립기념일",
+        "hover_text": "2024년 아르메니아 독립기념일",
+        "share_text": "아르메니아 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Армениянын Эгемендүүлүк күнү",
+        "hover_text": "Армениянын Эгемендүүлүк күнү — 2024",
+        "share_text": "Эгемендүүлүк күнүң менен, Армения! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດອາເມເນຍ",
+        "hover_text": "ວັນປະກາດເອກະລາດອາເມເນຍ 2024",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດ, Armenia! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Armenia",
+        "hover_text": "Día de la Independencia de Armenia 2024",
+        "share_text": "¡Feliz Día de la Independencia de Armenia! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Armēnijas neatkarības diena",
+        "hover_text": "Armēnijas Neatkarības diena — 2024",
+        "share_text": "Sveicam Neatkarības dienā, Armēnija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Armėnijos nepriklausomybės diena",
+        "hover_text": "Armėnijos nepriklausomybės diena, 2024 m.",
+        "share_text": "Sveikiname Armėniją su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Ерменија",
+        "hover_text": "Ден на независноста на Ерменија, 2024 г.",
+        "share_text": "Среќен Ден на независноста, Ерменија! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Armenia",
+        "hover_text": null,
+        "share_text": "Tsarà fetin'ny fahaleovantena ry Armenia ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Armenia",
+        "hover_text": "Hari Kemerdekaan Armenia 2024",
+        "share_text": "Selamat Menyambut Hari Kemerdekaan, Armenia! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "അർമേനിയൻ സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "അർമേനിയൻ സ്വാതന്ത്ര്യദിനം 2024",
+        "share_text": "സ്വാതന്ത്ര്യ ദിനാശംസകൾ, അർമേനിയ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "आर्मेनियाचा स्वातंत्र्यदिन",
+        "hover_text": "आर्मेनियाचा स्वातंत्र्यदिन २०२४",
+        "share_text": "आर्मेनियाला स्वातंत्र्यदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Армени улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2024 оны Арменийн Тусгаар тогтнолын өдөр",
+        "share_text": "Армени улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "अर्मेनियाको स्वतन्त्रता दिवस",
+        "hover_text": "अर्मेनियाको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, अर्मेनिया! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Armenias frigjøringsdag",
+        "hover_text": "Armenias frigjøringsdag 2024",
+        "share_text": "Gratulerer med frigjøringsdagen, Armenia! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଆର୍ମେନିଆର ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": null,
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, ଆର୍ମେନିଆ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال ارمنستان",
+        "hover_text": "روز استقلال ۲۰۲۴ ارمنستان",
+        "share_text": "روز استقلال ارمنستان مبارک! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Niepodległości Armenii",
+        "hover_text": "Dzień Niepodległości Armenii 2024",
+        "share_text": "Armenia obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência da Armênia",
+        "hover_text": "Dia da Independência da Armênia 2024",
+        "share_text": "Feliz Dia da Independência, Armênia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência da Arménia",
+        "hover_text": "Dia da Independência da Arménia de 2024",
+        "share_text": "Feliz dia da independência, Arménia! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਅਰਮੇਨੀਆ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ",
+        "hover_text": "ਅਰਮੀਨੀਆ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2024",
+        "share_text": "ਅਰਮੇਨੀਆ ਦੇ ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței în Armenia",
+        "hover_text": "Ziua Independenței în Armenia – 2024",
+        "share_text": "La mulți ani de Ziua Independenței, Armenia! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Армении",
+        "hover_text": "День независимости Армении – 2024",
+        "share_text": "День независимости Армении #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Јерменије",
+        "hover_text": "Дан независности Јерменије 2024.",
+        "share_text": "Честитамо Дан независности Јерменији! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Jermenije",
+        "hover_text": "Dan nezavisnosti Jermenije 2024.",
+        "share_text": "Čestitamo Dan nezavisnosti Jermeniji! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepandans Armenia",
+        "hover_text": null,
+        "share_text": "Bonn zournen lendepandans, Armenia! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "අර්මේනියාවේ නිදහස් දිනය",
+        "hover_text": "අර්මේනියාවේ නිදහස් දිනය 2024",
+        "share_text": "ශුභ නිදහස් දිනයක්, අර්මේනියාව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Arménska",
+        "hover_text": "Deň nezávislosti Arménska 2024",
+        "share_text": "Šťastný deň nezávislosti, Arménsko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Armenije",
+        "hover_text": "Dan neodvisnosti Armenije 2024",
+        "share_text": "Vesel dan neodvisnosti, Armenija. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madax banaanida ee Armiiniya",
+        "hover_text": null,
+        "share_text": "Maalinta Madax banaanida Farxada leh, Armiiniya! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la Armenia",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Tokoloho Armenia! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Armenia",
+        "hover_text": "Día de la Independencia de Armenia 2024",
+        "share_text": "¡Feliz Día de la Independencia de Armenia! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Armenia",
+        "hover_text": "Sikukuu ya Uhuru wa Armenia 2024",
+        "share_text": "Heri za Sikukuu ya Uhuru, Armenia! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Armeniens självständighetsdag",
+        "hover_text": "Armeniens självständighetsdag 2024",
+        "share_text": "Vi firar Armeniens självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "அர்மேனியாவின் சுதந்திர தினம்",
+        "hover_text": "ஆர்மீனியாவின் சுதந்திர தினம் 2024",
+        "share_text": "அர்மேனியாவின் சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఆర్మేనియా స్వాతంత్ర్య దినోత్సవం",
+        "hover_text": "ఆర్మీనియా స్వాతంత్య్ర దినోత్సవం 2024",
+        "share_text": "స్వాతంత్ర్య దినోత్సవ శుభాకాంక్షలు, ఆర్మేనియా! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของอาร์เมเนีย",
+        "hover_text": "วันเอกราชของสาธารณรัฐอาร์เมเนียปี 2024",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของอาร์เมเนีย #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Armenia",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, Armenia! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Ermenistan Bağımsızlık Günü",
+        "hover_text": "2024 Ermenistan Bağımsızlık Günü",
+        "share_text": "Ermenistan Bağımsızlık Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Вірменії",
+        "hover_text": "День незалежності Вірменії у 2024 році",
+        "share_text": "З Днем незалежності, Вірменіє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "آرمینیا کا یوم آزادی",
+        "hover_text": "آرمینیا کا یومِ آزادی 2024",
+        "share_text": "آرمینیا کا یوم آزادی مبارک! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Armaniston mustaqillik kuni",
+        "hover_text": "Armaniston Mustaqillik kuni 2024",
+        "share_text": "Mustaqillik kuning muborak, Armaniston! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Armenia",
+        "hover_text": "Ngày Quốc khánh Armenia năm 2024",
+        "share_text": "Chúc mừng Ngày quốc khánh Armenia! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lokuzimela lwase-Armenia",
+        "hover_text": "Usuku Lokuzimela lwase-Armenia Luka-2024",
+        "share_text": "Sinifisela usuku lokuzimela oluhle, Armenia! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Armenia Independence Day",
+    "share_text": "Happy Independence Day, Armenia! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-emerson-romero",
     "title": "Celebrating Emerson Romero",
     "url": "//www.google.com/logos/doodles/2024/celebrating-emerson-romero-6753651837110274-l.png",
@@ -519,13 +1018,13 @@
       },
       "af": {
         "query": "Chili se nasionale dag",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Chili se Nasionale dag 2024",
+        "share_text": "Gelukkige Nasionale Dag, Chili! #GoogleDoodle"
       },
       "sq": {
         "query": "Dita Kombëtare e Kilit",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Festa Kombëtare e Kilit, 2024",
+        "share_text": "Gëzuar Festën Kombëtare, Kili! #GoogleDoodle"
       },
       "am": {
         "query": "የቺሊ ነጻነት ቀን",
@@ -534,13 +1033,13 @@
       },
       "ar": {
         "query": "العيد الوطني لتشيلي",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "العيد الوطني لتشيلي 2024",
+        "share_text": "نتمنى عيدًا وطنيًا سعيدًا لتشيلي! ‎#GoogleDoodle"
       },
       "hy": {
         "query": "Չիլիի ազգային տոն",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Չիլիի ազգային տոն 2024",
+        "share_text": "Շնորհավո՛ր Չիլիի ազգային տոնը։ #GoogleDoodle"
       },
       "az": {
         "query": "Çilinin Müstəqillik Günü",
@@ -549,8 +1048,8 @@
       },
       "bn": {
         "query": "চিলির জাতীয় দিবস",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "চিলির জাতীয় দিবস ২০২৪",
+        "share_text": "জাতীয় দিবসের শুভেচ্ছা, চিলি! #GoogleDoodle"
       },
       "eu": {
         "query": "Txileko Egun Nazionala",
@@ -559,8 +1058,8 @@
       },
       "be": {
         "query": "Нацыянальны дзень Чылі",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Нацыянальны дзень Чылі 2024",
+        "share_text": "З Нацыянальным днём, Чылі! #GoogleDoodle"
       },
       "bs": {
         "query": "Dan državnosti Čilea",
@@ -569,33 +1068,33 @@
       },
       "en-GB": {
         "query": "Chile National Day",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Chile National Holiday 2024",
+        "share_text": "Happy National Holiday, Chile! #GoogleDoodle"
       },
       "bg": {
         "query": "Национален празник на Чили",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Национален празник на Чили 2024 г.",
+        "share_text": "Честит национален празник на Чили! #GoogleDoodle"
       },
       "my": {
         "query": "ချီလီ အမျိုးသားနေ့",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "၂၀၂၄ ချီလီနိုင်ငံ အမျိုးသားနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် အမျိုးသားနေ့ဖြစ်ပါစေ ချီလီနိုင်ငံ။ #GoogleDoodle"
       },
       "ca": {
         "query": "Dia Nacional de Xile",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Dia Nacional de Xile 2024",
+        "share_text": "Feliç Dia Nacional, Xile! #GoogleDoodle"
       },
       "zh-HK": {
         "query": "智利國慶日",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "2024 年智利國慶假期",
+        "share_text": "智利，國慶假期快樂！#GoogleDoodle"
       },
       "zh-TW": {
         "query": "智利國慶日",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "2024 智利國慶日",
+        "share_text": "智利，國慶日快樂！#GoogleDoodle"
       },
       "zh-CN": {
         "query": "智利国庆日",
@@ -629,13 +1128,13 @@
       },
       "fi": {
         "query": "Chilen kansallispäivä",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Chilen kansallispäivä 2024",
+        "share_text": "Hyvää kansallispäivää, Chile! #GoogleDoodle"
       },
       "fr": {
         "query": "Fête nationale du Chili",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Fête nationale du Chili 2024",
+        "share_text": "Fête nationale du Chili ! #GoogleDoodle"
       },
       "fr-CA": {
         "query": "Fête nationale du Chili",
@@ -644,28 +1143,28 @@
       },
       "gl": {
         "query": "Día Nacional de Chile",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Festa Nacional de Chile 2024",
+        "share_text": "Feliz Festa Nacional, Chile! #GoogleDoodle"
       },
       "ka": {
         "query": "ჩილეს ეროვნული დღესასწაული",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "ჩილეს ეროვნული დღესასწაული — 2024",
+        "share_text": "ვულოცავთ ჩილეს ეროვნულ დღესასწაულს! #GoogleDoodle"
       },
       "de": {
         "query": "Nationalfeiertag Chile",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Nationalfeiertag Chile 2024",
+        "share_text": "Heute wird der Nationalfeiertag in Chile gefeiert. #GoogleDoodle"
       },
       "el": {
         "query": "Εθνική Ημέρα της Χιλής",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Εθνική Γιορτή της Χιλής 2024",
+        "share_text": "Χρόνια πολλά για την Εθνική Γιορτή της Χιλής! #GoogleDoodle"
       },
       "gu": {
         "query": "ચિલીનો રાષ્ટ્રીય દિવસ",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "ચિલીની રાષ્ટ્રીય રજા 2024",
+        "share_text": "રાષ્ટ્રીય રજાની શુભેચ્છા, ચિલી! #GoogleDoodle"
       },
       "ht": {
         "query": null,
@@ -674,18 +1173,18 @@
       },
       "iw": {
         "query": "החג הלאומי של צ'ילה",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "החג הלאומי של צ'ילה 2024",
+        "share_text": "חוגגים את החג הלאומי של צ'ילה. ‎#GoogleDoodle"
       },
       "hi": {
         "query": "चिली का राष्ट्रीय दिवस",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "चिली का राष्ट्रीय दिवस 2024",
+        "share_text": "राष्ट्रीय दिवस की शुभकामनाएं, चिली! #GoogleDoodle"
       },
       "hu": {
         "query": "Chile nemzeti ünnepe",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Chile nemzeti ünnepe, 2024",
+        "share_text": "Minden jót Chile nemzeti ünnepén! #GoogleDoodle"
       },
       "is": {
         "query": "Þjóðhátíðardagur Síle",
@@ -714,18 +1213,18 @@
       },
       "kn": {
         "query": "ಚಿಲಿ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "ಚಿಲಿ ರಾಷ್ಟ್ರೀಯ ರಜಾದಿನ 2024",
+        "share_text": "ರಾಷ್ಟ್ರೀಯ ರಜಾದಿನದ ಶುಭಾಶಯಗಳು, ಚಿಲಿ! #GoogleDoodle"
       },
       "kk": {
         "query": "Чилидің Ұлттық күні",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Чилидің Ұлттық мейрамы – 2024",
+        "share_text": "Ұлттық мейрам құтты болсын, Чили! #GoogleDoodle"
       },
       "km": {
         "query": "ទិវាបុណ្យជាតិ​ស៊ីលី",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "ទិវាបុណ្យជាតិស៊ីលីឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវាបុណ្យជាតិស៊ីលី! #GoogleDoodle"
       },
       "ko": {
         "query": "칠레 국경일",
@@ -739,8 +1238,8 @@
       },
       "lo": {
         "query": "ວັນຊາດຊິລີ",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "ວັນຊາດຊິລີ 2024",
+        "share_text": "ສຸກສັນວັນຊາດຊິລີ! #GoogleDoodle"
       },
       "es-419": {
         "query": "Fiestas Patrias de Chile",
@@ -754,13 +1253,13 @@
       },
       "lt": {
         "query": "Čilės nacionalinė diena",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Čilės nacionalinė diena, 2024 m.",
+        "share_text": "Sveikiname Čilę su Nacionaline diena! #GoogleDoodle"
       },
       "mk": {
         "query": "Ден на државноста на Чиле",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Празник на државноста на Чиле, 2024 г.",
+        "share_text": "Среќен Празник на државноста, Чиле! #GoogleDoodle"
       },
       "mg": {
         "query": "Fetim-pirenen'i Silia",
@@ -774,8 +1273,8 @@
       },
       "ml": {
         "query": "ചിലി ദേശീയ ദിനം",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "ചിലി ദേശീയ ദിനം 2024",
+        "share_text": "ദേശീയ ദിനാശംസകൾ, ചിലി! #GoogleDoodle"
       },
       "mt": {
         "query": null,
@@ -794,8 +1293,8 @@
       },
       "ne": {
         "query": "चिलीको राष्ट्रिय दिवस",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "चिलीको राष्ट्रिय बिदा २०२४",
+        "share_text": "राष्ट्रिय बिदाको शुभकामना, चिली! #GoogleDoodle"
       },
       "no": {
         "query": "Chiles nasjonaldag",
@@ -824,8 +1323,8 @@
       },
       "fa": {
         "query": "روز ملی شیلی",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "روز ملی ۲۰۲۴ شیلی",
+        "share_text": "روز ملی شیلی مبارک! ‎#GoogleDoodle"
       },
       "pl": {
         "query": "Święto Narodowe Chile",
@@ -844,13 +1343,13 @@
       },
       "pa": {
         "query": "ਚਿਲੀ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "ਚਿਲੀ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ 2024",
+        "share_text": "ਰਾਸ਼ਟਰੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਚਿਲੀ! #GoogleDoodle"
       },
       "ro": {
         "query": "Ziua Națională în Chile",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Sărbătoarea Națională în Chile 2024",
+        "share_text": "La mulți ani de Sărbătoarea Națională, Chile! #GoogleDoodle"
       },
       "ro-MD": {
         "query": null,
@@ -859,8 +1358,8 @@
       },
       "ru": {
         "query": "Национальный праздник Чили",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Национальный день Чили – 2024",
+        "share_text": "Национальный день Чили #GoogleDoodle"
       },
       "sr": {
         "query": "Дан државности Чилеа",
@@ -889,13 +1388,13 @@
       },
       "si": {
         "query": "චිලේ ජාතික දිනය",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "චිලී ජාතික නිවාඩු දිනය 2024",
+        "share_text": "ප්‍රීතිමත් ජාතික නිවාඩු දිනයක්, චිලී! #GoogleDoodle"
       },
       "sk": {
         "query": "Štátny sviatok Čile",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Štátny sviatok Čile 2024",
+        "share_text": "Šťastný národný deň, Čile! #GoogleDoodle"
       },
       "sl": {
         "query": "Čilenski dan državnosti",
@@ -934,8 +1433,8 @@
       },
       "ta": {
         "query": "சிலி தேசிய தினம்",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "சிலி தேசிய தினம் 2024",
+        "share_text": "சிலி தேசிய தின வாழ்த்துகள்! #GoogleDoodle"
       },
       "te": {
         "query": "చిలీ జాతీయ దినోత్సవం",
@@ -989,8 +1488,8 @@
       },
       "zu": {
         "query": "Usuku lukazwelonke lase-Chile",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Iholide Lesizwe LaseChile Lango-2024",
+        "share_text": "Sinifisela Iholide Elihle Lesizwe, Chile! #GoogleDoodle"
       }
     },
     "translated_blog_posts": {},
