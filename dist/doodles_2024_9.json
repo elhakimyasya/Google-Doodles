@@ -1,5 +1,1003 @@
 [
   {
+    "name": "celebrating-oskar-picht",
+    "title": "Celebrating Oskar Picht",
+    "url": "//www.google.com/logos/doodles/2024/celebrating-oskar-picht-6753651837110226.3-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/IwVyKBWVKw-w_R_uDVVBikNY3k2afTNq_W8l8dpXFswlja47FlYfIUGZXEwKF2CIURwJpzvMXf3F2t6kd9jtE5mUcjwjHLbHy3Gxm3aFLmR2GLW-wu5Psw",
+    "high_res_url": "//www.google.com/logos/doodles/2024/celebrating-oskar-picht-6753651837110226-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2024,
+      9,
+      23
+    ],
+    "translations": {
+      "en": {
+        "query": "Oskar Picht",
+        "hover_text": "Celebrating Oskar Picht",
+        "share_text": "Celebrating Oskar Picht! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Oskar Picht",
+        "hover_text": "Ter viering van Oskar Picht",
+        "share_text": "Ter viering van Oskar Picht! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Oskar Picht",
+        "hover_text": "Përkujtojmë Oskar Picht",
+        "share_text": "Përkujtojmë Oskar Picht! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ኦስካር ፒችት",
+        "hover_text": "ኦስካር ፒችትን በማክበር ላይ",
+        "share_text": "ኦስካር ፒችትን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "\"أوسكار بيشت\"",
+        "hover_text": "الاحتفال بذكرى \"أوسكار بيشت\"",
+        "share_text": "نحتفل اليوم بذكرى \"أوسكار بيشت\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Օսկար Պիխտ",
+        "hover_text": "Տոնենք Օսկար Պիխտի օրը",
+        "share_text": "Տոնենք Օսկար Պիխտի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Oskar Picht",
+        "hover_text": "Oskar Picht günü",
+        "share_text": "Oskar Picht günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "অস্কার পিখট",
+        "hover_text": "অস্কার পিখটের স্মরণে উদযাপন করা হচ্ছে",
+        "share_text": "অস্কার পিখটের স্মরণে উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Oskar Picht",
+        "hover_text": "Oskar Pichten omenez",
+        "share_text": "Oskar Pichten omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Оскар Піхт",
+        "hover_text": "Ушаноўваем Оскара Піхта",
+        "share_text": "Ушаноўваем Оскара Піхта! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Oskar Picht",
+        "hover_text": "Slavimo Oskara Pichta",
+        "share_text": "Slavimo Oskara Pichta! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Oskar Picht",
+        "hover_text": "Celebrating Oskar Picht",
+        "share_text": "Celebrating Oskar Picht #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Оскар Пихт",
+        "hover_text": "Честване на Оскар Пихт",
+        "share_text": "Честване на Оскар Пихт! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Oskar Picht",
+        "hover_text": "Oskar Picht ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "Oskar Picht ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Oskar Picht",
+        "hover_text": "Homenatge a Oskar Picht",
+        "share_text": "Homenatge a Oskar Picht #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Oskar Picht",
+        "hover_text": "紀念 Oskar Picht",
+        "share_text": "紀念 Oskar Picht！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "奧斯卡皮希特",
+        "hover_text": "紀念奧斯卡皮希特",
+        "share_text": "紀念奧斯卡皮希特！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "Oskar Picht",
+        "hover_text": "纪念 Oskar Picht",
+        "share_text": "纪念 Oskar Picht！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Oskar Picht",
+        "hover_text": "U čast Oskaru Pichtu",
+        "share_text": "U čast Oskaru Pichtu! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Oskar Picht",
+        "hover_text": "Pocta Oskaru Pichtovi",
+        "share_text": "Dnes oslavujeme Oskara Pichta! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Oskar Picht",
+        "hover_text": "Vi hylder Oskar Picht",
+        "share_text": "Vi hylder Oskar Picht #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Oskar Picht",
+        "hover_text": "Doodle ter ere van Oskar Picht",
+        "share_text": "Een doodle ter ere van Oskar Picht! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Oskar Picht",
+        "hover_text": "Mälestame Oskar Pichti",
+        "share_text": "Mälestame Oskar Pichti! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Oskar Picht",
+        "hover_text": "Oskar Picht",
+        "share_text": "Oskar Picht #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Oskar Picht",
+        "hover_text": "Hommage à Oskar Picht",
+        "share_text": "Hommage à Oskar Picht ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Oskar Picht",
+        "hover_text": "Célébration d'Oskar Picht",
+        "share_text": "Célébration d'Oskar Picht! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Oskar Picht",
+        "hover_text": "Homenaxe a Oskar Picht",
+        "share_text": "Homenaxe a Oskar Picht! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ოსკარ პიხტი",
+        "hover_text": "აღვნიშნავთ ოსკარ პიხტის დღეს",
+        "share_text": "აღვნიშნავთ ოსკარ პიხტის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Oskar Picht",
+        "hover_text": "Zu Ehren von Oskar Picht",
+        "share_text": "Zu Ehren von Oskar Picht! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Oskar Picht",
+        "hover_text": "Τιμούμε τον Oskar Picht",
+        "share_text": "Τιμούμε τον Oskar Picht! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ઑસ્કર પિચ્ટ",
+        "hover_text": "ઑસ્કર પિચ્ટની યાદમાં",
+        "share_text": "ઑસ્કર પિચ્ટની યાદમાં! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Oskar Picht",
+        "hover_text": "מחווה לאוסקר פישט",
+        "share_text": "מחווה לאוסקר פישט GoogleDoodle#"
+      },
+      "hi": {
+        "query": "ऑस्कर पिश्ट",
+        "hover_text": "ऑस्कर पिश्ट की याद में",
+        "share_text": "ऑस्कर पिश्ट की याद में! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Oskar Picht",
+        "hover_text": "Oskar Picht ünneplése",
+        "share_text": "Oskar Picht ünneplése #GoogleDoodle"
+      },
+      "is": {
+        "query": "Oskar Picht",
+        "hover_text": "Við heiðrum Oskar Picht",
+        "share_text": "Við heiðrum Oskar Picht! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Oskar Picht",
+        "hover_text": "Mengenang Oskar Picht",
+        "share_text": "Mengenang Oskar Picht #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Oskar Picht",
+        "hover_text": "In onore di Oskar Picht",
+        "share_text": "In onore di Oskar Picht! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "オスカー・ピヒト",
+        "hover_text": "オスカー・ピヒトを称えて",
+        "share_text": "オスカー・ピヒトを称えて #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಆಸ್ಕರ್ ಪಿಕ್ಟ್",
+        "hover_text": "ಆಸ್ಕರ್ ಪಿಕ್ಟ್ ಅವರನ್ನು ಸ್ಮರಿಸಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಆಸ್ಕರ್ ಪಿಕ್ಟ್ ಅವರನ್ನು ಸ್ಮರಿಸಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Оскар Пихт",
+        "hover_text": "Оскар Пихт күні",
+        "share_text": "Оскар Пихт күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Oskar Picht",
+        "hover_text": "អបអរទិវារំលឹក Oskar Picht",
+        "share_text": "អបអរទិវារំលឹក Oskar Picht! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Oskar Picht",
+        "hover_text": "Oskar Picht를 기억하며",
+        "share_text": "Oskar Picht를 기억하며 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Оскар Пихт",
+        "hover_text": "Оскар Пихт күнүн майрамдоо",
+        "share_text": "Оскар Пихт күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Oskar Picht",
+        "hover_text": "ວັນລະນຶກເຖິງ Oskar Picht",
+        "share_text": "ວັນລະນຶກເຖິງ Oskar Picht! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Oskar Picht",
+        "hover_text": "Celebrando a Oskar Picht",
+        "share_text": "¡Celebrando a Oskar Picht! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Oskars Pihts",
+        "hover_text": "Oskara Pihta godināšana",
+        "share_text": "Oskara Pihta godināšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Oskaras Pichtas",
+        "hover_text": "Oskaro Pichto minėjimas",
+        "share_text": "Oskaro Pichto minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Oskar Picht",
+        "hover_text": "Во чест на Oskar Picht",
+        "share_text": "Во чест на Oskar Picht! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Oskar Picht",
+        "hover_text": "Meraikan Oskar Picht",
+        "share_text": "Meraikan Oskar Picht! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Oskar Picht",
+        "hover_text": "Oskar Picht-നെ ആദരിക്കുന്നു",
+        "share_text": "Oskar Picht-നെ ആദരിക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "ऑस्कर पिख्त",
+        "hover_text": "ऑस्कर पिख्त यांच्या स्मरणार्थ",
+        "share_text": "ऑस्कर पिख्त यांच्या स्मरणार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Оскар Пихт",
+        "hover_text": "Оскар Пихтийн өдрийг тэмдэглэж байна",
+        "share_text": "Оскар Пихтийн өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Oskar Picht",
+        "hover_text": "Oskar Picht को सम्झना",
+        "share_text": "Oskar Picht को सम्झना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Oskar Picht",
+        "hover_text": "Vi minnes Oskar Picht",
+        "share_text": "Vi minnes Oskar Picht! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "اسکار پیخت",
+        "hover_text": "بزرگداشت اسکار پیخت",
+        "share_text": "بزرگداشت اسکار پیخت! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Oskar Picht",
+        "hover_text": "Wspominamy Oskara Pichta",
+        "share_text": "Wspominamy Oskara Pichta #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Oskar Picht",
+        "hover_text": "Celebração da vida de Oskar Picht",
+        "share_text": "Celebração da vida de Oskar Picht #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Oskar Picht",
+        "hover_text": "Celebração de Oskar Picht",
+        "share_text": "Celebração de Oskar Picht! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Oskar Picht",
+        "hover_text": "ਆਸਕਰ ਪਿਕਟ ਦੀ ਯਾਦ ਵਿੱਚ",
+        "share_text": "ਆਸਕਰ ਪਿਕਟ ਦੀ ਯਾਦ ਵਿੱਚ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Oskar Picht",
+        "hover_text": "În cinstea lui Oskar Picht",
+        "share_text": "În cinstea lui Oskar Picht! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Оскар Пихт",
+        "hover_text": "День Оскара Пихта",
+        "share_text": "День Оскара Пихта #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Оскар Пихт",
+        "hover_text": "Славимо Оскара Пихта",
+        "share_text": "Славимо Оскара Пихта! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Oskar Piht",
+        "hover_text": "Slavimo Oskara Pihta",
+        "share_text": "Slavimo Oskara Pihta! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ඔස්කාර් පිච්ට්",
+        "hover_text": "ඔස්කාර් පිච්ට් සමරමින්",
+        "share_text": "ඔස්කාර් පිච්ට් සමරමින්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Oskar Picht",
+        "hover_text": "Pripomíname si Oskara Pichta",
+        "share_text": "Pripomíname si Oskara Pichta. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Oskar Picht",
+        "hover_text": "Slavimo Oskarja Pichta",
+        "share_text": "Slavimo Oskarja Pichta! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sw": {
+        "query": "Oskar Picht",
+        "hover_text": "Tunamwenzi Oskar Picht",
+        "share_text": "Tunamwenzi Oskar Picht! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Oskar Picht",
+        "hover_text": "Vi hyllar Oskar Picht",
+        "share_text": "Vi hyllar Oskar Picht! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Oskar Picht",
+        "hover_text": "ஆஸ்கார் பிக்ட்டைக் கொண்டாடுவோம்",
+        "share_text": "ஆஸ்கார் பிக்ட்டைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఆస్కార్ పిష్ట్",
+        "hover_text": "ఆస్కార్ పిష్ట్‌ను స్మరించుకుందాం!",
+        "share_text": "ఆస్కార్ పిష్ట్‌ను స్మరించుకుందాం! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Oskar Picht",
+        "hover_text": "วันรำลึกถึง Oskar Picht",
+        "share_text": "วันรำลึกถึง Oskar Picht #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Oskar Picht",
+        "hover_text": "Oskar Picht'i Anıyoruz",
+        "share_text": "Oskar Picht'i anıyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Оскар Піхт",
+        "hover_text": "Ушановуємо Оскара Піхта",
+        "share_text": "Ушановуємо Оскара Піхта! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Oskar Picht",
+        "hover_text": "Oskar Picht کی یاد میں",
+        "share_text": "Oskar Picht کی یاد میں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Oskar Picht",
+        "hover_text": "Oskar Picht kuni",
+        "share_text": "Oskar Picht kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Oskar Picht",
+        "hover_text": "Tôn vinh Oskar Picht",
+        "share_text": "Tôn vinh Oskar Picht! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Oskar Picht",
+        "hover_text": "Sibungaza u-Oskar Picht",
+        "share_text": "Sibungaza u-Oskar Picht! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Oskar Picht",
+    "share_text": "Celebrating Oskar Picht! #GoogleDoodle"
+  },
+  {
+    "name": "saudi-arabia-national-day-2024",
+    "title": "Saudi Arabia National Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/saudi-arabia-national-day-2024-6753651837110301-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/FX_SbgNb_1IfRUOjV1gxHRd4HJwC-uANEBCbFEXqveIachm1RXB4SyEWRj7xmoO-HaPhOVNXLo3DNO_9Ptq6iera7c7JdvafWXMANxx_jYHbl_JW2vir",
+    "high_res_url": "//www.google.com/logos/doodles/2024/saudi-arabia-national-day-2024-6753651837110301-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      9,
+      23
+    ],
+    "translations": {
+      "en": {
+        "query": "Saudi Arabia National Day",
+        "hover_text": "Saudi Arabia National Day 2024",
+        "share_text": "Happy National Day, Saudi Arabia! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Saoedi-Arabië se nasionale dag",
+        "hover_text": "Saoedi-Arabië se nasionale dag 2024",
+        "share_text": "Gelukkige nasionale dag, Saoedi-Arabië! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Festa Kombëtare e Arabisë Saudite",
+        "hover_text": "Dita Kombëtare e Arabisë Saudite, 2024",
+        "share_text": "Gëzuar Festën Kombëtare, Arabi Saudite! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የሳውዲ አረቢያ ብሔራዊ ቀን",
+        "hover_text": "የሳውዲ ዓረቢያ ብሔራዊ ቀን 2024",
+        "share_text": "መልካም ብሔራዊ ቀን ሳውዲ አረቢያ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "اليوم الوطني للمملكة العربية السعودية",
+        "hover_text": "اليوم الوطني السعودي 2024",
+        "share_text": "عيد وطني سعيد للمملكة العربية السعودية ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Սաուդյան Արաբիայի ազգային տոն",
+        "hover_text": "Սաուդյան Արաբիայի ազգային տոն 2024",
+        "share_text": "Շնորհավո՛ր ազգային տոնը, Սաուդյան Արաբիա #GoogleDoodle"
+      },
+      "az": {
+        "query": "Səudiyyə Ərəbistanın Müstəqillik Günü",
+        "hover_text": "2024 Səudiyyə Ərəbistanının Müstəqillik Günü",
+        "share_text": "Müsətqillik Günün Mübarək, Səudiyyə Ərəbistan! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "সৌদি আরবের জাতীয় দিবস",
+        "hover_text": "সৌদি আরবের জাতীয় দিবস ২০২৪",
+        "share_text": "সৌদি আরবের জাতীয় দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Saudi Arabiako Egun Nazionala",
+        "hover_text": "2024ko Saudi Arabiako Egun Nazionala",
+        "share_text": "Egun Nazional zoriontsua izan, Saudi Arabia! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Нацыянальны дзень Саудаўскай Аравіі",
+        "hover_text": "Нацыянальны дзень Саудаўскай Аравіі 2024",
+        "share_text": "З Нацыянальным днём, Саудаўская Аравія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan državnosti Saudijske Arabije",
+        "hover_text": "Dan državnosti Saudijske Arabije 2024.",
+        "share_text": "Sretan Dan državnosti, Saudijska Arabijo! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Saudi Arabia National Day",
+        "hover_text": "Saudi Arabia National Day 2024",
+        "share_text": "Happy National Day, Saudi Arabia! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Национален празник на Саудитска Арабия",
+        "hover_text": "Национален празник на Саудитска Арабия 2024 г.",
+        "share_text": "Честит национален празник на Саудитска Арабия! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဆော်ဒီအာရေဗျ အမျိုးသားနေ့",
+        "hover_text": "၂၀၂၄ ဆော်ဒီအာရေဗျနိုင်ငံ အမျိုးသားနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် အမျိုးသားနေ့ ဖြစ်ပါစေ၊ ဆော်ဒီ‌အာရေဗျ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia Nacional de l'Aràbia Saudita",
+        "hover_text": "Dia Nacional de l'Aràbia Saudita 2024",
+        "share_text": "Feliç Dia Nacional, Aràbia Saudita! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "沙地阿拉伯國慶日",
+        "hover_text": "2024 年沙地阿拉伯國慶日",
+        "share_text": "沙地阿拉伯國慶日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "沙烏地阿拉伯國慶日",
+        "hover_text": "2024 沙烏地阿拉伯國慶日",
+        "share_text": "沙烏地阿拉伯，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "沙特阿拉伯国庆日",
+        "hover_text": "2024 年沙特阿拉伯国庆日",
+        "share_text": "沙特阿拉伯，国庆日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan državnosti Saudijske Arabije",
+        "hover_text": "Dan državnosti Saudijske Arabije 2024.",
+        "share_text": "Sretan Dan državnosti, Arabijo! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Státní svátek Saúdské Arábie",
+        "hover_text": "Den saúdskoarabské státnosti 2024",
+        "share_text": "Vše nejlepší ke státnímu svátku, Saúdská Arábie! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Saudi-Arabiens nationaldag",
+        "hover_text": "Saudi-Arabiens nationaldag 2024",
+        "share_text": "Glædelig nationaldag, Saudi-Arabien! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Nationale feestdag Saudi-Arabië",
+        "hover_text": "Nationale feestdag Saudi-Arabië 2024",
+        "share_text": "Fijne nationale feestdag, Saudi-Arabië! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Saudi Araabia rahvuspüha",
+        "hover_text": "Saudi Araabia 2024. aasta rahvuspüha",
+        "share_text": "Head rahvuspüha, Saudi Araabia! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Saudi-Arabian kansallispäivä",
+        "hover_text": "Saudi-Arabian kansallispäivä 2024",
+        "share_text": "Hyvää kansallispäivää, Saudi-Arabia! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête nationale de l'Arabie saoudite",
+        "hover_text": "Fête nationale de l'Arabie saoudite 2024",
+        "share_text": "Fête nationale de l'Arabie saoudite #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête nationale de l'Arabie saoudite",
+        "hover_text": "Fête nationale de l'Arabie saoudite 2024",
+        "share_text": "Joyeuse fête nationale de l'Arabie saoudite! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día Nacional de Arabia Saudita",
+        "hover_text": "Día Nacional de Arabia Saudita 2024",
+        "share_text": "Feliz Día Nacional, Arabia Saudita! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "საუდის არაბეთის ეროვნული დღესასწაული",
+        "hover_text": "საუდის არაბეთის ეროვნული დღესასწაული — 2024",
+        "share_text": "ვულოცავთ საუდის არაბეთს ეროვნულ დღესასწაულს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Nationalfeiertag Saudi-Arabien",
+        "hover_text": "Nationalfeiertag Saudi-Arabien 2024",
+        "share_text": "Alles Gute zum Nationalfeiertag in Saudi-Arabien! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Εθνική Ημέρα της Σαουδικής Αραβίας",
+        "hover_text": "Εθνική Ημέρα της Σαουδικής Αραβίας 2024",
+        "share_text": "Γιορτάζουμε την Εθνική Ημέρα της Σαουδικής Αραβίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "સાઉદી અરબનો રાષ્ટ્રીય દિવસ",
+        "hover_text": "સાઉદી અરેબિયાનો રાષ્ટ્રીય દિવસ 2024",
+        "share_text": "સાઉદી અરબના રાષ્ટ્રીય દિવસને શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "החג הלאומי של ערב הסעודית",
+        "hover_text": "החג הלאומי של ערב הסעודית 2024",
+        "share_text": "חג לאומי שמח לערב הסעודית! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "सऊदी अरब का राष्ट्रीय दिवस",
+        "hover_text": "सऊदी अरब का राष्ट्रीय दिवस 2024",
+        "share_text": "राष्ट्रीय दिवस की शुभकामनाएं, सऊदी अरब! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Szaúd-Arábia nemzeti ünnepe",
+        "hover_text": "Szaúd-Arábia nemzeti ünnepe, 2024",
+        "share_text": "Minden jót Szaúd-Arábia nemzeti ünnepén! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þjóðhátíðardagur Sádi-Arabíu",
+        "hover_text": "Þjóðhátíðardagur Sádi-Arabíu 2024",
+        "share_text": "Gleðilegan þjóðhátíðardag, Sádi-Arabía! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Nasional Arab Saudi",
+        "hover_text": "Hari Nasional Arab Saudi 2024",
+        "share_text": "Selamat Hari Nasional, Arab Saudi! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Náisiúnta na hAraibe Sádaí",
+        "hover_text": null,
+        "share_text": "Lá Náisiúnta na hAraibe Sádaí faoi mhaise duit. #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa nazionale dell'Arabia Saudita",
+        "hover_text": "Festa nazionale dell'Arabia Saudita 2024",
+        "share_text": "Buona festa nazionale, Arabia Saudita! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "サウジアラビア建国記念日",
+        "hover_text": "2024 年サウジアラビア建国記念日",
+        "share_text": "サウジアラビア建国記念日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಸೌದಿ ಅರೇಬಿಯಾ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಸೌದಿ ಅರೇಬಿಯಾ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಸೌದಿ ಅರೇಬಿಯ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Сауд Арабиясының Ұлттық күні",
+        "hover_text": "Сауд Арабиясының Ұлттық күні – 2024",
+        "share_text": "Ұлттық күн құтты болсын, Сауд Арабиясы! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យជាតិអារ៉ាប៊ីសាអូឌីត",
+        "hover_text": "ទិវាបុណ្យជាតិអារ៉ាប៊ីសាអូឌីតឆ្នាំ 2024",
+        "share_text": "អបអរទិវាបុណ្យជាតិ​អា​រ៉ា​ប៊ី​សា​អូឌីត!​ #GoogleDoodle"
+      },
+      "ko": {
+        "query": "사우디아라비아 국경일",
+        "hover_text": "2024년 사우디아라비아 국경일",
+        "share_text": "사우디아라비아 국경일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Сауд Арабиясынын Улуттук күнү",
+        "hover_text": "Сауд Арабиясынын Улуттук күнү — 2024",
+        "share_text": "Улуттук күнүң менен, Сауд Арабиясы! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຊາດຊາອູດິອາຣາເບຍ",
+        "hover_text": "ວັນຊາດຊາອູດິ ອາຣາເບຍ 2024",
+        "share_text": "ສຸກສັນວັນຊາດ, ຊາອູດິ ອາຣາເບຍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día Nacional de Arabia Saudita",
+        "hover_text": "Día Nacional de Arabia Saudita 2024",
+        "share_text": "¡Feliz Día Nacional de Arabia Saudita! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Saūda Arābijas nacionālie svētki",
+        "hover_text": "Saūda Arābijas Nacionālie svētki — 2024",
+        "share_text": "Sveicam nacionālajos svētkos, Saūda Arābija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Saudo Arabijos nacionalinė diena",
+        "hover_text": "Saudo Arabijos nacionalinė diena, 2024 m.",
+        "share_text": "Sveikiname Saudo Arabiją su Nacionaline diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на државноста на Саудиска Арабија",
+        "hover_text": "Ден на државноста на Саудиска Арабија, 2024 г.",
+        "share_text": "Среќен Ден на државноста, Саудиска Арабија! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetim-pirenen'i Arabia Saodita",
+        "hover_text": null,
+        "share_text": "Tsarà fetim-pirenena ry Arabia Saodita ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kebangsaan Arab Saudi",
+        "hover_text": "Hari Kebangsaan Arab Saudi 2024",
+        "share_text": "Selamat Menyambut Hari Kebangsaan, Arab Saudi! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "സൗദി അറേബ്യൻ ദേശീയ ദിനം",
+        "hover_text": "സൗദി അറേബ്യൻ ദേശീയ ദിനം 2024",
+        "share_text": "ദേശീയ ദിനാശംസകൾ, സൗദി അറേബ്യ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "सौदी अरेबियाचा राष्ट्रीय दिन",
+        "hover_text": "सौदी अरेबियाचा राष्ट्रीय दिन २०२४",
+        "share_text": "सौदी अरेबियाला राष्ट्रीय दिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Саудын Араб улсын Үндэсний баярын өдөр",
+        "hover_text": "2024 оны Саудын Арабын Үндэсний баярын өдөр",
+        "share_text": "Саудын Араб улсын ард иргэдэд Үндэсний баярын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "साउदी अरबको राष्ट्रिय दिवस",
+        "hover_text": "साउदी अरबको राष्ट्रिय दिवस २०२४",
+        "share_text": "राष्ट्रिय दिवसको शुभकामना, साउदी अरब! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Saudi-Arabias nasjonaldag",
+        "hover_text": "Saudi-Arabias nasjonaldag 2024",
+        "share_text": "Gratulerer med nasjonaldagen, Saudi-Arabia! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ସାଉଦି ଆରବର ରାଷ୍ଟ୍ରୀୟ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ରାଷ୍ଟ୍ରୀୟ ଦିବସର ଶୁଭେଚ୍ଛା, ସାଉଦି ଆରବ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز ملی عربستان سعودی",
+        "hover_text": "روز ملی ۲۰۲۴ عربستان سعودی",
+        "share_text": "روز ملی عربستان سعودی مبارک! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Narodowe Arabii Saudyjskiej",
+        "hover_text": "Święto Narodowe Arabii Saudyjskiej 2024",
+        "share_text": "Arabia Saudyjska obchodzi Święto Narodowe #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia Nacional da Arábia Saudita",
+        "hover_text": "Dia Nacional da Arábia Saudita 2024",
+        "share_text": "Feliz Dia Nacional, Arábia Saudita! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia nacional da Arábia Saudita",
+        "hover_text": "Dia Nacional da Arábia Saudita de 2024",
+        "share_text": "Feliz dia nacional, Arábia Saudita! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਸਾਊਦੀ ਅਰਬ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ",
+        "hover_text": "ਸਾਊਦੀ ਅਰਬ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ 2024",
+        "share_text": "ਸਾਊਦੀ ਅਰਬ ਦੇ ਰਾਸ਼ਟਰੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Națională a Arabiei Saudite",
+        "hover_text": "Ziua Națională a Arabiei Saudite – 2024",
+        "share_text": "La mulți ani de Ziua Națională, Arabia Saudită! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Национальный праздник Саудовской Аравии",
+        "hover_text": "Национальный день Саудовской Аравии – 2024",
+        "share_text": "Национальный праздник Саудовской Аравии #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан државности Саудијске Арабије",
+        "hover_text": "Дан државности Саудијске Арабије 2024.",
+        "share_text": "Честитамо Дан државности Саудијској Арабији! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan državnosti Saudijske Arabije",
+        "hover_text": "Dan državnosti Saudijske Arabije 2024.",
+        "share_text": "Čestitamo Dan državnosti Saudijskoj Arabiji! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen nasyonal Arabi Saudi",
+        "hover_text": null,
+        "share_text": "Bonn zournen nasyonal, Saudi Arabia! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "සවුදි අරාබියේ ජාතික දිනය",
+        "hover_text": "සවුදි අරාබියේ ජාතික දිනය 2024",
+        "share_text": "ශුභ ජාතික දිනයක්, සවුදි අරාබිය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Štátny sviatok Saudskej Arábie",
+        "hover_text": "Národný deň Saudskej Arábie 2024",
+        "share_text": "Šťastný štátny sviatok, Saudská Arábia! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan državnosti v Saudovi Arabiji",
+        "hover_text": "Dan državnosti v Saudovi Arabiji 2024",
+        "share_text": "Vesel dan državnosti, Saudova Arabija. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Qaranka Sucuudi Areebiya",
+        "hover_text": null,
+        "share_text": "Maalinta Qaranka Farxada leh, Sucuudi Areebiya! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Naha la Saudi Arabia",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Naha la Saudi Arabia! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día Nacional de Arabia Saudí",
+        "hover_text": "Día Nacional de Arabia Saudí 2024",
+        "share_text": "¡Feliz Día Nacional de Arabia Saudí! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Kitaifa ya Saudia",
+        "hover_text": "Sikukuu ya Kitaifa Saudia 2024",
+        "share_text": "Heri za Sikukuu ya Kitaifa, Saudia! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Saudiarabiens nationaldag",
+        "hover_text": "Saudiarabiens nationaldag 2024",
+        "share_text": "Vi firar Saudiarabiens nationaldag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "சவுதி அரேபியாவின் தேசிய தினம்",
+        "hover_text": "சவுதி அரேபியாவின் தேசிய தினம் 2024",
+        "share_text": "சவுதி அரேபியாவின் தேசிய தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "సౌదీ అరేబియా జాతీయ దినోత్సవం",
+        "hover_text": "సౌదీ అరేబియా జాతీయ దినోత్సవం 2024",
+        "share_text": "జాతీయ దినోత్సవ శుభాకాంక్షలు, సౌదీ అరేబియా! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันชาติซาอุดีอาระเบีย",
+        "hover_text": "วันชาติซาอุดีอาระเบียปี 2024",
+        "share_text": "สุขสันต์วันชาติซาอุดีอาระเบีย #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Setšhaba la Saudi Arabia",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Setšhaba, Saudi Arabia! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Suudi Arabistan Ulusal Günü",
+        "hover_text": "2024 Suudi Arabistan Milli Günü",
+        "share_text": "Suudi Arabistan Ulusal Gün Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Національний день Саудівської Аравії",
+        "hover_text": "Національний день Саудівської Аравії у 2024 році",
+        "share_text": "З Національним днем, Саудівська Аравіє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "سعودی عرب کا قومی دن",
+        "hover_text": "سعودی عرب کا قومی دن 2024",
+        "share_text": "سعودی عرب کا قومی دن مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Saudiya Arabistoni milliy bayrami",
+        "hover_text": "Saudiya Arabistoni Milliy bayrami 2024",
+        "share_text": "Mustaqillik kuning muborak, Saudiya Arabistoni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Ả Rập Xê Út",
+        "hover_text": "Ngày Quốc khánh Ả Rập Xê Út năm 2024",
+        "share_text": "Chúc mừng Ngày quốc khánh Ả Rập Xê Út! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lukazwelonke lwase-Saudi Arabia",
+        "hover_text": "Usuku lukazwelonke lwaseSaudi Arabia luka-2024",
+        "share_text": "Sinifisela usuku oluhle lukazwelonke, Saudi Arabia! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Saudi Arabia National Day",
+    "share_text": "Happy National Day, Saudi Arabia! #GoogleDoodle"
+  },
+  {
     "name": "armenia-independence-day-2024",
     "title": "Armenia Independence Day 2024",
     "url": "//www.google.com/logos/doodles/2024/armenia-independence-day-2024-6753651837110299-law.gif",
