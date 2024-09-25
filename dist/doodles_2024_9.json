@@ -1,5 +1,504 @@
 [
   {
+    "name": "celebrating-popcorn",
+    "title": "Celebrating Popcorn",
+    "url": "//www.google.com/logos/doodles/2024/celebrating-popcorn-6753651837110076.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/y3aWhsP33ypRr3IdZeraFt9GUY9aF4nTLE7TqCNw-0a7v_434ZrZJ09QhA0tXpxgWwWCtV14ZH7XAg_jfoz5qCLFjqfyXhGsV4EA15obwuK6FfBXwbz0aA",
+    "high_res_url": "//www.google.com/logos/doodles/2024/celebrating-popcorn-6753651837110076.3-2xa.gif",
+    "high_res_width": 889,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      9,
+      25
+    ],
+    "translations": {
+      "en": {
+        "query": "Popcorn",
+        "hover_text": "Celebrating Popcorn",
+        "share_text": "Celebrating Popcorn! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Springmielies",
+        "hover_text": "Ter viering van springmielies",
+        "share_text": "Ter viering van springmielies! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Kokoshkat",
+        "hover_text": "Festojmë me kokoshka",
+        "share_text": "Festojmë me kokoshka #GoogleDoodle"
+      },
+      "am": {
+        "query": "ፈንዲሻ",
+        "hover_text": "ፈንዲሻን በማክበር ላይ",
+        "share_text": "ፈንዲሻን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "فشار",
+        "hover_text": "الاحتفال بالفشار",
+        "share_text": "نحتفل اليوم بالفشار. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Փոփքորն",
+        "hover_text": "Տոնե՛նք փոփքորնի օրը",
+        "share_text": "Տոնե՛նք փոփքորնի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Popkorn",
+        "hover_text": "Popkorn günü",
+        "share_text": "Popkorn günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "পপকর্ন",
+        "hover_text": "পপকর্ন উদযাপন করা হচ্ছে",
+        "share_text": "পপকর্ন উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Krispetak",
+        "hover_text": "Krispeten omenez",
+        "share_text": "Krispeten omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Папкорн",
+        "hover_text": "Ушаноўваем папкорн",
+        "share_text": "Ушаноўваем папкорн! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Kokice",
+        "hover_text": "Slavimo kokice",
+        "share_text": "Slavimo kokice! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Popcorn",
+        "hover_text": "Celebrating popcorn",
+        "share_text": "Celebrating popcorn #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Пуканки",
+        "hover_text": "Честване на пуканките",
+        "share_text": "Честване на пуканките! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ပြောင်းဖူးပေါက်ပေါက်",
+        "hover_text": "ပြောင်းဖူးပေါက်ပေါက်ကို ဆင်နွှဲခြင်း",
+        "share_text": "ပြောင်းဖူးပေါက်ပေါက်ကို ဆင်နွှဲခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Crispetes",
+        "hover_text": "Homenatge a les crispetes",
+        "share_text": "Homenatge a les crispetes #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "爆谷",
+        "hover_text": "爆谷食不停",
+        "share_text": "爆谷食不停！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "爆米花",
+        "hover_text": "紀念爆米花問世",
+        "share_text": "紀念爆米花問世！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "爆米花",
+        "hover_text": "美味的爆米花",
+        "share_text": "美味的爆米花！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Kokice",
+        "hover_text": "Slavimo kokice",
+        "share_text": "Slavimo kokice! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Popcorn",
+        "hover_text": "Oslava popcornu",
+        "share_text": "Oslava popcornu! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Popcorn",
+        "hover_text": "Vi hylder popcorn",
+        "share_text": "Vi hylder popcorn #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Popcorn",
+        "hover_text": "Doodle ter ere van popcorn",
+        "share_text": "Een doodle ter ere van popcorn! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Popkorn",
+        "hover_text": "Austame popkorni",
+        "share_text": "Austame popkorni! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Popcorn",
+        "hover_text": "Popcorn",
+        "share_text": "Popcorn #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Pop-corn",
+        "hover_text": "Le pop-corn à l'honneur",
+        "share_text": "Le pop-corn à l'honneur ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Maïs soufflé",
+        "hover_text": "Célébration du maïs soufflé",
+        "share_text": "Célébration du maïs soufflé! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Flocos de millo",
+        "hover_text": "Homenaxe aos flocos de millo",
+        "share_text": "Homenaxe aos flocos de millo! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "პოპკორნი",
+        "hover_text": "აღვნიშნავთ პოპკორნის დღეს",
+        "share_text": "აღვნიშნავთ პოპკორნის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Popcorn",
+        "hover_text": "Zur Feier des Popcorns",
+        "share_text": "Zur Feier des Popcorns! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ποπ κορν",
+        "hover_text": "Τιμούμε τα Ποπ κορν",
+        "share_text": "Τιμούμε τα Ποπ κορν! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "પૉપકૉર્ન",
+        "hover_text": "પૉપકૉર્નની ઉજવણી કરી રહ્યાં છીએ",
+        "share_text": "પૉપકૉર્નની ઉજવણી કરી રહ્યાં છીએ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "פופקורן",
+        "hover_text": "פופקורן",
+        "share_text": "מנת היום: פופקורן GoogleDoodle#"
+      },
+      "hi": {
+        "query": "पॉपकॉर्न",
+        "hover_text": "जश्न-ए-पॉपकॉर्न",
+        "share_text": "जश्न-ए-पॉपकॉर्न! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Pattogatott kukorica",
+        "hover_text": "A pattogatott kukorica ünneplése",
+        "share_text": "A pattogatott kukorica ünneplése! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Poppkorn",
+        "hover_text": "Við fögnum poppkorni",
+        "share_text": "Við fögnum poppkorni! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Popcorn",
+        "hover_text": "Merayakan Popcorn",
+        "share_text": "Merayakan Popcorn #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Popcorn",
+        "hover_text": "Popcorn á cheiliúradh",
+        "share_text": "Popcorn á cheiliúradh! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Popcorn",
+        "hover_text": "In onore dei popcorn",
+        "share_text": "In onore dei popcorn! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ポップコーン",
+        "hover_text": "ポップコーンを称えて",
+        "share_text": "ポップコーンを称えて！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಪಾಪ್‌‍‍ಕಾರ್ನ್",
+        "hover_text": "ಪಾಪ್‌‍‍ಕಾರ್ನ್ ಅನ್ನು ಸಂಭ್ರಮಿಸಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಪಾಪ್‌‍‍ಕಾರ್ನ್ ಅನ್ನು ಸಂಭ್ರಮಿಸಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Попкорн",
+        "hover_text": "Попкорн күні",
+        "share_text": "Попкорн күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ពោតលីង",
+        "hover_text": "អបអរការរំលឹកអំពីពោតលីង",
+        "share_text": "អបអរការរំលឹកអំពីពោតលីង! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "팝콘",
+        "hover_text": "팝콘 기념",
+        "share_text": "팝콘 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Попкорн",
+        "hover_text": "Попкорн күнүн майрамдоо",
+        "share_text": "Попкорн күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ປັອບຄອນ",
+        "hover_text": "ປັອບຄອນເພື່ອການສະເຫຼີມສະຫຼອງ",
+        "share_text": "ປັອບຄອນເພື່ອການສະເຫຼີມສະຫຼອງ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "palomitas de maíz",
+        "hover_text": "¡Celebramos a las palomitas de maíz!",
+        "share_text": "Hoy celebramos a las palomitas de maíz #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Popkorns",
+        "hover_text": "Popkorna godināšana",
+        "share_text": "Popkorna godināšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Spragėsiai",
+        "hover_text": "Tegyvuoja spragėsiai!",
+        "share_text": "Spragėsių minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Пуканки",
+        "hover_text": "Во чест на пуканките",
+        "share_text": "Во чест на пуканките! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Bertih Jagung",
+        "hover_text": "Meraikan Bertih Jagung",
+        "share_text": "Meraikan Bertih Jagung! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "പോപ്പ്കോൺ",
+        "hover_text": "പോപ്പ്കോൺ ആഘോഷമാക്കുന്നു",
+        "share_text": "പോപ്പ്കോൺ ആഘോഷമാക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "पॉपकॉर्न",
+        "hover_text": "पॉपकॉर्नचा आनंद घेत आहे",
+        "share_text": "पॉपकॉर्नचा आनंद घेत आहे! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Эрдэнэ шишийн хөөсөнцөр",
+        "hover_text": "Эрдэнэ шишийн хөөсөнцрийн өдрийг тэмдэглэж байна",
+        "share_text": "Эрдэнэ шишийн хөөсөнцрийн өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "पपकर्न",
+        "hover_text": "पपकर्नको उत्सव मनाउँदै",
+        "share_text": "पपकर्नको उत्सव मनाउँदै! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Popkorn",
+        "hover_text": "Vi feirer popkorn",
+        "share_text": "Vi feirer popkorn! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ପପକର୍ନ",
+        "hover_text": "ପପକର୍ନର ଉତ୍ସବ ପାଳନ କରାଯାଉଛି",
+        "share_text": "ପପକର୍ନର ଉତ୍ସବ ପାଳନ କରାଯାଉଛି! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "ذرت بوداده",
+        "hover_text": "بزرگداشت ذرت بوداده",
+        "share_text": "بزرگداشت ذرت بوداده! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Popcorn",
+        "hover_text": "Jemy popcorn",
+        "share_text": "Jemy popcorn #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "pipoca",
+        "hover_text": "Celebrando a pipoca",
+        "share_text": "Celebrando a Pipoca! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Pipocas",
+        "hover_text": "Celebração das Pipocas",
+        "share_text": "Celebração das Pipocas! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਮੱਕੀ ਦੇ ਫੁੱਲੇ",
+        "hover_text": "ਮੱਕੀ ਦੇ ਫੁੱਲਿਆਂ ਦੀ ਸਿਫ਼ਤ ਵਿੱਚ",
+        "share_text": "ਮੱਕੀ ਦੇ ਫੁੱਲਿਆਂ ਦੀ ਸਿਫ਼ਤ ਵਿੱਚ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Popcorn",
+        "hover_text": "Sărbătorim popcornul",
+        "share_text": "Sărbătorim popcornul! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Попкорн",
+        "hover_text": "День попкорна",
+        "share_text": "День попкорна #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Кокице",
+        "hover_text": "Славимо кокице",
+        "share_text": "Славимо кокице! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Kokice",
+        "hover_text": "Slavimo kokice",
+        "share_text": "Slavimo kokice! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "පොරි",
+        "hover_text": "පොරි සමරමින්",
+        "share_text": "පොරි සමරමින්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Pukance",
+        "hover_text": "Oslavujeme pukance",
+        "share_text": "Oslavujeme pukance. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Pokovka",
+        "hover_text": "Slavimo pokovko",
+        "share_text": "Slavimo pokovko! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "palomitas de maíz",
+        "hover_text": "¡Celebramos a las palomitas de maíz!",
+        "share_text": "Hoy rendimos homenaje a las palomitas de maíz #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Bisi",
+        "hover_text": "Tunaenzi Bisi",
+        "share_text": "Tunaenzi Bisi! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Popcorn",
+        "hover_text": "Vi hyllar popcorn",
+        "share_text": "Vi hyllar popcorn #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "பாப்கார்ன்",
+        "hover_text": "பாப்கார்னைக் கொண்டாடுவோம்",
+        "share_text": "பாப்கார்னைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "పాప్‌కార్న్",
+        "hover_text": "పాప్‌కార్న్ వేడుకలు",
+        "share_text": "పాప్‌కార్న్ వేడుకలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "ป๊อปคอร์น",
+        "hover_text": "สุขสันต์วันป๊อปคอร์น",
+        "share_text": "สุขสันต์วันป๊อปคอร์น #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Patlamış Mısır",
+        "hover_text": "Patlamış Mısır Kutlaması",
+        "share_text": "Patlamış Mısır Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Попкорн",
+        "hover_text": "Відзначаємо день попкорну",
+        "share_text": "Відзначаємо день попкорну! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "پاپ کارن",
+        "hover_text": "پاپ کارن کا جشن",
+        "share_text": "پاپ کارن کا جشن! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Popkorn",
+        "hover_text": "Popkorn kuni",
+        "share_text": "Popkorn kuni bilan! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Bỏng ngô",
+        "hover_text": "Tôn vinh bỏng ngô",
+        "share_text": "Tôn vinh bỏng ngô! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Popcorn",
+        "hover_text": "Sibungaza u-Popcorn",
+        "share_text": "Sibungaza u-Popcorn! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Popcorn",
+    "share_text": "Celebrating Popcorn! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-oskar-picht",
     "title": "Celebrating Oskar Picht",
     "url": "//www.google.com/logos/doodles/2024/celebrating-oskar-picht-6753651837110226.3-l.png",
