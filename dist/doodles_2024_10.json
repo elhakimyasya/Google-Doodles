@@ -1,5 +1,2001 @@
 [
   {
+    "name": "german-unity-day-2024",
+    "title": "German Unity Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/german-unity-day-2024-6753651837110304-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/TolaU5x_xH_37LuOn678NKZPtMfweZbhEgbSjAFF7Vfd9rZnKp7lMnmtVPR5huAA1wyDb2h_zZL2f9O66UcZjDCAnWRwCCOjozzBbh85LjvrSgtvprhQ4w",
+    "high_res_url": "//www.google.com/logos/doodles/2024/german-unity-day-2024-6753651837110304-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2024,
+      10,
+      3
+    ],
+    "translations": {
+      "en": {
+        "query": "German Unity Day",
+        "hover_text": "German Unity Day 2024",
+        "share_text": "Happy German Unity Day, Germany! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Duitse eenheidsdag",
+        "hover_text": "Duitse Eenheidsdag 2024",
+        "share_text": "Gelukkige Duitse Eenheidsdag, Duitsland! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Bashkimit të Gjermanisë",
+        "hover_text": "Dita e Bashkimit të Gjermanisë, 2024",
+        "share_text": "Gëzuar Ditën e Bashkimit, Gjermani! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የጀርመን አንድነት ቀን",
+        "hover_text": "የጀርመን አንድነት ቀን 2024",
+        "share_text": "መልካም የጀርመን አንድነት ቀን፣ ጀርመን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "يوم الوحدة الألمانية",
+        "hover_text": "يوم الوحدة الألمانية 2024",
+        "share_text": "أجمل الأمنيات بمناسبة يوم الوحدة الألمانية! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Գերմանական միասնության օր",
+        "hover_text": "Գերմանիայի միասնության օր 2024",
+        "share_text": "Շնորհավո՛ր Գերմանիայի միասնության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Almaniyanın Birləşməsi Günü",
+        "hover_text": "2024 Almaniyanın Birlik Günü",
+        "share_text": "Almaniya Birlik Günün Mübarək, Almaniya! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "জার্মান ঐক্য দিবস",
+        "hover_text": "জার্মানির ঐক্য দিবস ২০২৪",
+        "share_text": "ঐক্য দিবসের শুভেচ্ছা, জার্মানি! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Alemaniako Batasunaren Eguna",
+        "hover_text": "2024ko Alemaniako Batasunaren Eguna",
+        "share_text": "Batasunaren Egun zoriontsua izan, Alemania! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень нямецкага адзінства",
+        "hover_text": "Дзень нямецкага адзінства 2024",
+        "share_text": "З Днём нямецкага адзінства, Германія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan ujedinjenja Njemačke",
+        "hover_text": "Dan ujedinjenja Njemačke 2024.",
+        "share_text": "Sretan Dan ujedinjenja Njemačke, Njemačka! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "German Unity Day",
+        "hover_text": "German Unity Day 2024",
+        "share_text": "Happy German Unity Day, Germany! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на обединението на Германия",
+        "hover_text": "Ден на обединението на Германия 2024 г.",
+        "share_text": "Честит Ден на обединението на Германия! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဂျာမနီ အမျိုးသားနေ့",
+        "hover_text": "၂၀၂၄ ဂျာမနီနိုင်ငံ အမျိုးသားနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် အမျိုးသားနေ့ဖြစ်ပါစေ ဂျာမနီနိုင်ငံ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Unitat Alemanya",
+        "hover_text": "Dia de la Unitat Alemanya 2024",
+        "share_text": "Feliç Dia de la Unitat Alemanya! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "德國統一日",
+        "hover_text": "2024 年德國統一日",
+        "share_text": "德國，統一日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "德國統一紀念日",
+        "hover_text": "2024 德國統一紀念日",
+        "share_text": "德國統一紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "德国统一日",
+        "hover_text": "2024 年德国统一日",
+        "share_text": "欢庆德国统一日！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan njemačkog jedinstva",
+        "hover_text": "Dan njemačkog jedinstva 2024.",
+        "share_text": "Sretan Dan njemačkog jedinstva, Njemačko! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den sjednocení Německa",
+        "hover_text": "Den sjednocení Německa 2024",
+        "share_text": "Užijte si Den sjednocení Německa! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Tysklands genforeningsdag",
+        "hover_text": "Tysklands genforeningsdag 2024",
+        "share_text": "Vi fejrer Tysklands genforeningsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Dag van de Duitse eenheid",
+        "hover_text": "Dag van de Duitse Eenheid 2024",
+        "share_text": "Fijne Dag van de Eenheid, Duitsland! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Saksamaa ühtsuse päev",
+        "hover_text": "Saksamaa 2024. aasta ühtsuse päev",
+        "share_text": "Head ühtsuse päeva, Saksamaa! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Saksan yhtenäisyyspäivä",
+        "hover_text": "Saksan yhtenäisyyspäivä 2024",
+        "share_text": "Hyvää yhtenäisyyspäivää, Saksa! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Jour de la réunification de l'Allemagne",
+        "hover_text": "Jour de l'Unité allemande 2024",
+        "share_text": "Joyeux Jour de l'Unité ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'Unité allemande",
+        "hover_text": "Fête de l'Unité allemande 2024",
+        "share_text": "Joyeuse fête de l'Unité allemande! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Unidade Alemá",
+        "hover_text": "Día da Unidade Alemá 2024",
+        "share_text": "Feliz Día da Unidade, Alemaña! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "გერმანიის გაერთიანების დღე",
+        "hover_text": "გერმანიის გაერთიანების დღე — 2024",
+        "share_text": "გერმანია, გილოცავთ გერმანიის გაერთიანების დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Tag der Deutschen Einheit",
+        "hover_text": "Tag der Deutschen Einheit 2024",
+        "share_text": "Alles Gute zur Einheit, Deutschland! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα της Γερμανικής Ενότητας",
+        "hover_text": "Ημέρα της Γερμανικής Ενότητας 2024",
+        "share_text": "Ευχόμαστε καλή Ημέρα της Γερμανικής Ενότητας στη Γερμανία! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "જર્મન એકતા દિવસ",
+        "hover_text": "જર્મનીનો એકતા દિવસ 2024",
+        "share_text": "જર્મનીના એકતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום האחדות הגרמנית",
+        "hover_text": "יום האחדות הגרמנית 2024",
+        "share_text": "חוגגים את יום האחדות הגרמנית GoogleDoodle#"
+      },
+      "hi": {
+        "query": "जर्मनी का एकता दिवस",
+        "hover_text": "जर्मनी का एकता दिवस 2024",
+        "share_text": "एकता दिवस की शुभकामनाएं, जर्मनी! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A német egység napja",
+        "hover_text": "A német egység napja, 2024",
+        "share_text": "Minden jót a német egység napján, Németország! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sameiningardagur Þýskalands",
+        "hover_text": "Sameiningardagur Þýskalands 2024",
+        "share_text": "Gleðilegan sameiningardag Þýskalands! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Persatuan Jerman",
+        "hover_text": "Hari Persatuan Jerman 2024",
+        "share_text": "Selamat Hari Persatuan, Jerman! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Aontachta na Gearmáine",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Giorno dell'unità tedesca",
+        "hover_text": "Giorno dell'unità tedesca 2024",
+        "share_text": "Felice Giorno dell'unità tedesca, Germania! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ドイツ統一の日",
+        "hover_text": "2024 年ドイツ統一の日",
+        "share_text": "ドイツ統一の日を祝おう、ドイツ万歳！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಜರ್ಮನ್ ಐಕ್ಯತಾ ದಿನಾಚರಣೆ",
+        "hover_text": "ಜರ್ಮನ್ ಐಕ್ಯತಾ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಜರ್ಮನ್ ಐಕ್ಯತಾ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಜರ್ಮನಿ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Герман бірлігі күні",
+        "hover_text": "Германия бірлігі күні – 2024",
+        "share_text": "Германия бірлігі күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវារួបរួមជាតិអាល្លឺម៉ង់",
+        "hover_text": "ទិវាបង្រួបបង្រួមជាតិអាល្លឺម៉ង់ឆ្នាំ 2024",
+        "share_text": "អបអរទិវាបង្រួបបង្រួមជាតិអាល្លឺម៉ង់! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "독일 통일 기념일",
+        "hover_text": "2024년 독일 통일의 날",
+        "share_text": "독일 통일의 날 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Германиянын Биримдүүлүк күнү",
+        "hover_text": "Германиянын Биримдүүлүк күнү — 2024",
+        "share_text": "Биримдүүлүк күнүң менен, Германия! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຮວມຊາດເຢຍລະມັນ",
+        "hover_text": "ວັນຮວມຊາດເຢຍລະມັນ 2024",
+        "share_text": "ສຸກສັນວັນຮວມຊາດເຢຍລະມັນ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Unidad de Alemania",
+        "hover_text": "Día de la Unidad Alemana 2024",
+        "share_text": "¡Feliz Día de la Unidad, Alemania! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Vācijas Vienības diena",
+        "hover_text": "Vācijas Vienības diena — 2024",
+        "share_text": "Sveicam Vienības dienā, Vācija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Vokietijos vienybės diena",
+        "hover_text": "Vokietijos susivienijimo diena, 2024 m.",
+        "share_text": "Sveikiname Vokietiją su Susivienijimo diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Денот на обединување на Германија",
+        "hover_text": "Ден на германското единство, 2024 г.",
+        "share_text": "Среќен Ден на германското единство, Германија! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Andron'ny fampiraisana an'i Alimaina",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Hari Perpaduan Jerman",
+        "hover_text": "Hari Perpaduan Jerman 2024",
+        "share_text": "Selamat Hari Perpaduan, Jerman! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ജർമ്മൻ ഐക്യ ദിനം",
+        "hover_text": "ജർമ്മൻ ഏകീകരണ ദിനം 2024",
+        "share_text": "ജർമ്മൻ ഏകീകരണ ദിന ആശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "जर्मन एकता दिन",
+        "hover_text": "जर्मन युनिटी डे २०२४",
+        "share_text": "जर्मनीला जर्मन युनिटी डे च्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Герман улс нэгдсэн өдөр",
+        "hover_text": "2024 оны Герман Улс нэгдсэн өдөр",
+        "share_text": "Германы иргэдэд Герман Улс нэгдсэн өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "जर्मन एकता दिवस",
+        "hover_text": "जर्मन एकता दिवस २०२४",
+        "share_text": "जर्मन एकता दिवसको शुभकामना, जर्मनी! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Tysklands gjenforeningsdag",
+        "hover_text": "Tysklands gjenforeningsdag 2024",
+        "share_text": "Gratulerer med gjenforeningsdagen, Tyskland! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଜର୍ମାନୀ ଏକତା ଦିବସ",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز وحدت آلمان",
+        "hover_text": "روز وحدت ۲۰۲۴ آلمان",
+        "share_text": "روز وحدت آلمان مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Zjednoczenia Niemiec",
+        "hover_text": "Dzień Jedności Niemiec 2024",
+        "share_text": "Niemcy obchodzą Dzień Jedności #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Unidade Alemã",
+        "hover_text": "Dia da Unidade Alemã 2024",
+        "share_text": "Feliz Dia da Unidade, Alemanha! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da reunificação da Alemanha",
+        "hover_text": "Dia da Unidade Alemã de 2024",
+        "share_text": "Feliz Dia da Unidade Alemã, Alemanha! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਜਰਮਨ ਏਕਤਾ ਦਿਹਾੜਾ",
+        "hover_text": "ਜਰਮਨ ਏਕਤਾ ਦਿਵਸ 2024",
+        "share_text": "ਜਰਮਨ ਏਕਤਾ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Unității Germane",
+        "hover_text": "Ziua Unității Germane 2024",
+        "share_text": "La mulți ani, Germania, de Ziua Unității Germane! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День германского единства",
+        "hover_text": "День германского единства – 2024",
+        "share_text": "День германского единства #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан уједињења Немачке",
+        "hover_text": "Дан уједињења Немачке 2024.",
+        "share_text": "Срећан дан уједињења Немачке! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan ujedinjenja Nemačke",
+        "hover_text": "Dan ujedinjenja Nemačke 2024.",
+        "share_text": "Srećan dan ujedinjenja Nemačke! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen linite Lalmany",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ජර්මානු එක්සේසත් කළ දිනය",
+        "hover_text": "ජර්මානු එක්සත් දිනය 2024",
+        "share_text": "ප්‍රීතිමත් ජර්මානු එක්සත් දිනයක්, ජර්මනිය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň zjednotenia Nemecka",
+        "hover_text": "Deň nemeckej jednoty 2024",
+        "share_text": "Šťastný Deň nemeckej jednoty. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan združitve Nemčije",
+        "hover_text": "Dan združitve obeh Nemčij 2024",
+        "share_text": "Vesel dan združitve obeh Nemčij, Nemčija! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Midawga Jarmalka",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": "Letsatsi la Bonngwe la Jeremane",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día de la Unidad Alemana",
+        "hover_text": "Día de la Unidad Alemana 2024",
+        "share_text": "¡Feliz Día de la Unidad, Alemania! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Kuunganishwa kwa Ujerumani",
+        "hover_text": "Sikukuu ya Umoja wa Ujerumani 2024",
+        "share_text": "Heri ya Sikukuu ya Umoja wa Ujerumani! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Tyska enighetsdagen",
+        "hover_text": "Tyska enhetens dag 2024",
+        "share_text": "Vi firar tyska enhetens dag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஜெர்மன் ஒற்றுமை தினம்",
+        "hover_text": "ஜெர்மனியின் ஒற்றுமை தினம் 2024",
+        "share_text": "ஒற்றுமை தின வாழ்த்துகள், ஜெர்மனி! #GoogleDoodle"
+      },
+      "te": {
+        "query": "జర్మన్ ఐక్యత దినోత్సవం",
+        "hover_text": "జర్మన్ ఐక్యతా దినోత్సవం 2024",
+        "share_text": "జర్మనీ ప్రజలకు జర్మన్ ఐక్యతా దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันรวมชาติเยอรมนี",
+        "hover_text": "วันรวมชาติเยอรมนีปี 2024",
+        "share_text": "สุขสันต์วันรวมชาติเยอรมนี! #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Kopano ya Jeremane",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Alman Birlik Günü",
+        "hover_text": "2024 Almanya'nın Birleşme Günü",
+        "share_text": "Almanya'nın Birleşme Günü'nü kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День німецької єдності",
+        "hover_text": "День німецької єдності у 2024 році",
+        "share_text": "З Днем німецької єдності, Німеччино! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "German Unity Day",
+        "hover_text": "جرمنی کا یوم اتحاد 2024",
+        "share_text": "جرمنی کا یوم اتحاد مبارک ہو، جرمنی! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Germaniya birdamlik kuni",
+        "hover_text": "Germaniya Birdamlik kuni 2024",
+        "share_text": "Germaniya Birdamlik kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày thống nhất nước Đức",
+        "hover_text": "Ngày Thống nhất nước Đức năm 2024",
+        "share_text": "Mừng ngày Thống nhất nước Đức! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lwembumba lwase-Germany",
+        "hover_text": "Usuku Lobunye lwamaGerman lwango-2024",
+        "share_text": "Sikufisela Usuku Oluhle Lobunye lwamaGerman, Germany! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "German Unity Day",
+    "share_text": "Happy German Unity Day, Germany! #GoogleDoodle"
+  },
+  {
+    "name": "at-mahmuds-94th-birthday",
+    "title": "AT Mahmud's 94th Birthday",
+    "url": "//www.google.com/logos/doodles/2024/at-mahmuds-94th-birthday-6753651837110183-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/yXlXVa7Vo5jNGlfBPADpMaMspKFo_DgGPOWrFhcucGwK9t3GnH25gRZUmLlq45jVYgvmBqpYIBNRv7RlPGNmMkpZJbXo3pkHIXn65IViOX8LrLtaWQoBVw",
+    "high_res_url": "//www.google.com/logos/doodles/2024/at-mahmuds-94th-birthday-6753651837110183-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      10,
+      3
+    ],
+    "translations": {
+      "en": {
+        "query": "AT Mahmud",
+        "hover_text": "AT Mahmud's 94th Birthday",
+        "share_text": "AT Mahmud's 94th Birthday! #GoogleDoodle"
+      },
+      "af": {
+        "query": "AT Mahmud",
+        "hover_text": "AT Mahmud se 94e verjaarsdag",
+        "share_text": "AT Mahmud se 94e verjaarsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "AT Mahmud",
+        "hover_text": "94-vjetori i lindjes së AT Mahmud",
+        "share_text": "94-vjetori i lindjes së AT Mahmud! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ኤቲ ማህሙድ",
+        "hover_text": "የኤቲ ማህሙድ 94ኛ ልደት",
+        "share_text": "የኤቲ ማህሙድ 94ኛ ልደት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "إيه تي محمود",
+        "hover_text": "الذكرى 94 لميلاد \"إيه تي محمود\"",
+        "share_text": "نحتفل اليوم بالذكرى 94 لميلاد \"إيه تي محمود\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ա. Թ. Մահմուդ",
+        "hover_text": "Ա. Թ. Մահմուդի ծննդյան 94-ամյակը",
+        "share_text": "Ա. Թ. Մահմուդի ծննդյան 94-ամյակը #GoogleDoodle"
+      },
+      "az": {
+        "query": "AT Mahmud",
+        "hover_text": "AT Mahmud'un 94-cü ildönümü",
+        "share_text": "AT Mahmud'un 94-cü ildönümü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "এ.টি. মাহমুদ",
+        "hover_text": "এ.টি. মাহমুদের ৯৪তম জন্মদিন",
+        "share_text": "এ.টি. মাহমুদের ৯৪তম জন্মদিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "AT Mahmud",
+        "hover_text": "AT Mahmuden jaiotzaren 94. urteurrena",
+        "share_text": "AT Mahmuden jaiotzaren 94. urteurrena #GoogleDoodle"
+      },
+      "be": {
+        "query": "А.Т. Махмуд",
+        "hover_text": "94 гады з дня нараджэння А.Т. Махмуда",
+        "share_text": "94 гады з дня нараджэння А.Т. Махмуда! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "A. T. Mahmud",
+        "hover_text": "94 godine od rođenja A. T. Mahmuda",
+        "share_text": "94 godine od rođenja A. T. Mahmuda! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "AT Mahmud",
+        "hover_text": "AT Mahmud's 94th birthday",
+        "share_text": "AT Mahmud's 94th birthday! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Абдула Тотонг Махмуд",
+        "hover_text": "94 години от рождението на Абдула Тотонг Махмуд",
+        "share_text": "94 години от рождението на Абдула Тотонг Махмуд! #GoogleDoodle"
+      },
+      "my": {
+        "query": "AT Mahmud",
+        "hover_text": "AT Mahmud ၏ ၉၄ နှစ်မြောက်မွေးနေ့",
+        "share_text": "AT Mahmud ၏ ၉၄ နှစ်မြောက်မွေးနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "A. T. Mahmud",
+        "hover_text": "94è aniversari del naixement d'A. T. Mahmud",
+        "share_text": "94è aniversari del naixement d'A. T. Mahmud #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "A. T. Mahmud",
+        "hover_text": "A. T. Mahmud 誕辰 94 週年",
+        "share_text": "A. T. Mahmud 誕辰 94 週年！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "A. T. 馬哈茂德",
+        "hover_text": "A. T. 馬哈茂德 94 歲冥誕",
+        "share_text": "紀念 A. T. 馬哈茂德 94 歲冥誕！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "AT Mahmud",
+        "hover_text": "AT Mahmud 诞辰 94 周年",
+        "share_text": "AT Mahmud 诞辰 94 周年！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "A. T. Mahmud",
+        "hover_text": "94. godišnjica rođenja A. T. Mahmuda",
+        "share_text": "94. godišnjica rođenja A. T. Mahmuda! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "A. T. Mahmud",
+        "hover_text": "94. výročí narození A. T. Mahmuda",
+        "share_text": "94. výročí narození A. T. Mahmuda! #GoogleDoodle"
+      },
+      "da": {
+        "query": "A.T. Mahmud",
+        "hover_text": "A.T. Mahmuds 94-års fødselsdag",
+        "share_text": "A.T. Mahmuds 94-års fødselsdag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "A.T. Mahmud",
+        "hover_text": "94e geboortedag van A.T. Mahmud",
+        "share_text": "De 94e geboortedag van A.T. Mahmud! #GoogleDoodle"
+      },
+      "et": {
+        "query": "A.T. Mahmud",
+        "hover_text": "A.T. Mahmudi 94. sünniaastapäev",
+        "share_text": "A.T. Mahmudi 94. sünniaastapäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "AT Mahmud",
+        "hover_text": "94 vuotta AT Mahmudin syntymästä",
+        "share_text": "94 vuotta AT Mahmudin syntymästä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "A.T. Mahmud",
+        "hover_text": "Il y a 94 ans naissait A.T. Mahmud",
+        "share_text": "94e anniversaire d'A.T. Mahmud #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "A.T. Mahmud",
+        "hover_text": "94ᵉ anniversaire de naissance d'A.T. Mahmud",
+        "share_text": "94ᵉ anniversaire de naissance d'A.T. Mahmud! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "A. T. Mahmud",
+        "hover_text": "94.º aniversario do nacemento de A. T. Mahmud",
+        "share_text": "94.º aniversario do nacemento de A. T. Mahmud! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ეი თი მაჰმუდი",
+        "hover_text": "94 წელი ეი თი მაჰმუდის დაბადებიდან",
+        "share_text": "94 წელი ეი თი მაჰმუდის დაბადებიდან! #GoogleDoodle"
+      },
+      "de": {
+        "query": "A. T. Mahmud",
+        "hover_text": "94. Geburtstag von A. T. Mahmud",
+        "share_text": "94. Geburtstag von A. T. Mahmud! #GoogleDoodle"
+      },
+      "el": {
+        "query": "AT Mahmud",
+        "hover_text": "94 χρόνια από τη γέννηση του AT Mahmud",
+        "share_text": "94 χρόνια από τη γέννηση του AT Mahmud! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "એ. ટી. મહમુદ",
+        "hover_text": "એ. ટી. મહમુદનો 94મો જન્મદિવસ",
+        "share_text": "એ. ટી. મહમુદનો 94મો જન્મદિવસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "AT Mahmud",
+        "hover_text": "94 שנים להולדת א.ט. מחמוד",
+        "share_text": "94 שנים להולדת א.ט. מחמוד GoogleDoodle#"
+      },
+      "hi": {
+        "query": "ए॰टी॰ महमूद",
+        "hover_text": "ए॰टी॰ महमूद की 94वीं जयंती",
+        "share_text": "ए॰टी॰ महमूद की 94वीं जयंती! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A. T. Mahmud",
+        "hover_text": "A. T. Mahmud születésének 94. évfordulója",
+        "share_text": "A. T. Mahmud születésének 94. évfordulója. #GoogleDoodle"
+      },
+      "is": {
+        "query": "AT Mahmud",
+        "hover_text": "94 ár frá fæðingu AT Mahmud",
+        "share_text": "94 ár frá fæðingu AT Mahmud! #GoogleDoodle"
+      },
+      "id": {
+        "query": "A. T. Mahmud",
+        "hover_text": "Ulang Tahun Ke-94 A. T. Mahmud",
+        "share_text": "Ulang Tahun Ke-94 A. T. Mahmud #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "A.T. Mahmud",
+        "hover_text": "94° anniversario della nascita di A.T. Mahmud",
+        "share_text": "94° anniversario della nascita di A.T. Mahmud! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "A. T. マフムード",
+        "hover_text": "A. T. マフムード生誕 94 周年",
+        "share_text": "A. T. マフムード生誕 94 周年 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಎ. ಟಿ. ಮಹಮೂದ್",
+        "hover_text": "ಎ. ಟಿ. ಮಹಮೂದ್ ಅವರ 94ನೇ ಜನ್ಮದಿನ",
+        "share_text": "ಎ. ಟಿ. ಮಹಮೂದ್ ಅವರ 94ನೇ ಜನ್ಮದಿನ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "А.Т. Махмуд",
+        "hover_text": "А.Т. Махмудтың 94 жылдығы",
+        "share_text": "А.Т. Махмудтың 94 жылдығы #GoogleDoodle"
+      },
+      "km": {
+        "query": "AT Mahmud",
+        "hover_text": "ខួបកំណើតគម្រប់ 94 ឆ្នាំរបស់ AT Mahmud",
+        "share_text": "ខួបកំណើតគម្រប់ 94 ឆ្នាំរបស់ AT Mahmud! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "A. T. Mahmud",
+        "hover_text": "A. T. Mahmud 탄생 94주년",
+        "share_text": "A. T. Mahmud 탄생 94주년 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "А.Т. Махмуд",
+        "hover_text": "А.Т. Махмуддун 94 жаш мааракеси",
+        "share_text": "А.Т. Махмуддун 94 жаш мааракеси! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "AT Mahmud",
+        "hover_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 94 ປີຂອງ AT Mahmud",
+        "share_text": "ວັນຄ້າຍວັນເກີດຄົບຮອບ 94 ປີຂອງ AT Mahmud! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "A.T. Mahmud",
+        "hover_text": "94º aniversario del nacimiento de A.T. Mahmud",
+        "share_text": "¡94º aniversario del nacimiento de A.T. Mahmud! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "A. T. Mahmuds",
+        "hover_text": "A. T. Mahmuda 94. dzimšanas diena",
+        "share_text": "A. T. Mahmuda 94. dzimšanas diena! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "AT Mahmud",
+        "hover_text": "94-osios AT Mahmud gimimo metinės",
+        "share_text": "94-osios AT Mahmud gimimo metinės! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "A. T. Mahmud",
+        "hover_text": "94. роденден на A. T. Mahmud",
+        "share_text": "94. роденден на A. T. Mahmud! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "AT Mahmud",
+        "hover_text": "Ulang Tahun Kelahiran AT Mahmud yang ke-94",
+        "share_text": "Ulang Tahun Kelahiran AT Mahmud yang ke-94! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "AT Mahmud",
+        "hover_text": "AT Mahmud-ന്റെ 94-ാം ജന്മദിനം",
+        "share_text": "AT Mahmud-ന്റെ 94-ാം ജന്മദിനം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "अब्दुल्ला तातोंग महमूद",
+        "hover_text": "अब्दुल्ला तातोंग महमूद यांचा ९४ वा स्मृतिदिन",
+        "share_text": "अब्दुल्ला तातोंग महमूद यांचा ९४ वा स्मृतिदिन! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "АТ Махмуд",
+        "hover_text": "АТ Махмудын мэндэлсний 94 жилийн ой",
+        "share_text": "АТ Махмудын мэндэлсний 94 жилийн ой! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "AT Mahmud",
+        "hover_text": "AT Mahmud को ९४ औँ जन्मजयन्ती",
+        "share_text": "AT Mahmud को ९४ औँ जन्मजयन्ती! #GoogleDoodle"
+      },
+      "no": {
+        "query": "A. T. Mahmud",
+        "hover_text": "A. T. Mahmuds 94-årsdag",
+        "share_text": "A. T. Mahmuds 94-årsdag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "اِی.تی. محمود",
+        "hover_text": "نودوچهارمین زادروز اِی.تی. محمود",
+        "share_text": "نودوچهارمین زادروز اِی.تی. محمود! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "A. T. Mahmud",
+        "hover_text": "A. T. Mahmud – 94 rocznica urodzin",
+        "share_text": "A. T. Mahmud – 94 rocznica urodzin! #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "A. T. Mahmud",
+        "hover_text": "94º aniversário de A. T. Mahmud",
+        "share_text": "94º aniversário de A. T. Mahmud #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "A.T. Mahmud",
+        "hover_text": "94.º Aniversário de A.T. Mahmud",
+        "share_text": "94.º Aniversário de A.T. Mahmud! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "AT Mahmud",
+        "hover_text": "ਏ.ਟੀ. ਮਹਿਮੂਦ ਦਾ 94ਵਾਂ ਜਨਮਦਿਨ",
+        "share_text": "ਏ.ਟੀ. ਮਹਿਮੂਦ ਦਾ 94ਵਾਂ ਜਨਮਦਿਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "AT Mahmud",
+        "hover_text": "94 de ani de la nașterea lui AT Mahmud",
+        "share_text": "94 de ani de la nașterea lui AT Mahmud! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "А. Т. Махмуд",
+        "hover_text": "94 года со дня рождения А. Т. Махмуда",
+        "share_text": "94 года со дня рождения А. Т. Махмуда #GoogleDoodle"
+      },
+      "sr": {
+        "query": "А. Т. Махмуд",
+        "hover_text": "94 године од рођења А. Т. Махмуда",
+        "share_text": "94 године од рођења А. Т. Махмуда! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "A. T. Mahmud",
+        "hover_text": "94 godine od rođenja A. T. Mahmuda",
+        "share_text": "94 godine od rođenja A. T. Mahmuda! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "AT මහමුද්",
+        "hover_text": "AT මහමුද්ගේ 94 වැනි උපන් දිනය",
+        "share_text": "AT මහමුද්ගේ 94 වැනි උපන් දිනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "A. T. Mahmud",
+        "hover_text": "94. výročie narodenia A. T. Mahmuda",
+        "share_text": "94. výročie narodenia A. T. Mahmuda. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "A. T. Mahmud",
+        "hover_text": "94. rojstni dan A. T.-ja Mahmuda",
+        "share_text": "94. rojstni dan A. T.-ja Mahmuda! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "A. T. Mahmud",
+        "hover_text": "94.º aniversario del nacimiento de A. T. Mahmud",
+        "share_text": "Hoy es el 94.º aniversario del nacimiento de A. T. Mahmud #GoogleDoodle"
+      },
+      "sw": {
+        "query": "AT Mahmud",
+        "hover_text": "Miaka 94 Tangu Kuzaliwa kwa AT Mahmud",
+        "share_text": "Miaka 94 Tangu Kuzaliwa kwa AT Mahmud! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "A.T. Mahmud",
+        "hover_text": "A.T. Mahmud 94 år",
+        "share_text": "A.T. Mahmud 94 år #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "AT மஹ்மூத்",
+        "hover_text": "ஏடி மஹ்மூத்தின் 94வது பிறந்தநாள்",
+        "share_text": "ஏடி மஹ்மூத்தின் 94வது பிறந்தநாள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఏ.టీ. మహ్మూద్",
+        "hover_text": "ఏ.టీ. మహ్మూద్ 94వ జయంతి",
+        "share_text": "ఏ.టీ. మహ్మూద్ 94వ జయంతి! #GoogleDoodle"
+      },
+      "th": {
+        "query": "A. T. Mahmud",
+        "hover_text": "วันเกิดปีที่ 94 ของ A. T. Mahmud",
+        "share_text": "วันเกิดปีที่ 94 ของ A. T. Mahmud #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "A. T. Mahmud",
+        "hover_text": "A. T. Mahmud'un 94. Doğum Günü",
+        "share_text": "A. T. Mahmud'un 94. doğum gününü kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "А. Т. Махмуд",
+        "hover_text": "94 роки від дня народження А. Т. Махмуда",
+        "share_text": "94 роки від дня народження А. Т. Махмуда! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "A. T. Mahmud",
+        "hover_text": "A. T. Mahmud کی 94 ویں سالگرہ",
+        "share_text": "A. T. Mahmud کی 94 ویں سالگرہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "AT Mahmud",
+        "hover_text": "AT Mahmud tavalludining 94 yilligi",
+        "share_text": "AT Mahmud tavalludining 94 yilligi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "AT Mahmud",
+        "hover_text": "Kỷ niệm 94 năm ngày sinh của AT Mahmud",
+        "share_text": "Kỷ niệm 94 năm ngày sinh của AT Mahmud! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-AT Mahmud",
+        "hover_text": "AT Usuku Lokuzalwa luka-Mahmud Lweminyaka engu-94",
+        "share_text": "Usuku Lokuzalwa luka-Mahmud Lweminyaka engu-94! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "AT Mahmud",
+    "share_text": "AT Mahmud's 94th Birthday! #GoogleDoodle"
+  },
+  {
+    "name": "celebrating-iboshi-hokuto",
+    "title": "Celebrating Iboshi Hokuto",
+    "url": "//www.google.com/logos/doodles/2024/celebrating-iboshi-hokuto-6753651837110303.3-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/hRGclzyBYA74Mhn3-aFIhD9p4PHuq8W0wkpD3x5Fv14j1PReHQbC8BEGKLLegisjaiMl0z_a4LVMbovfMEyFqQqlRUuUhe4TAFokgmRfj60a64VgTIUg-_0",
+    "high_res_url": "//www.google.com/logos/doodles/2024/celebrating-iboshi-hokuto-6753651837110303-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      10,
+      3
+    ],
+    "translations": {
+      "en": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Celebrating Iboshi Hokuto",
+        "share_text": "Celebrating Iboshi Hokuto! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Ter viering van Iboshi Hokuto",
+        "share_text": "Ter viering van Iboshi Hokuto! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Përkujtojmë Iboshi Hokuto",
+        "share_text": "Përkujtojmë Iboshi Hokuto! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ኢቦሺ ሆኩቶ",
+        "hover_text": "ኢቦሺ ሆኩቶን በማክበር ላይ",
+        "share_text": "ኢቦሺ ሆኩቶን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "\"إيبوشي هوكوتو\"",
+        "hover_text": "نحتفل اليوم بذكرى \"إيبوشي هوكوتو\"",
+        "share_text": "نحتفل اليوم بذكرى \"إيبوشي هوكوتو\"! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Իբոշի Հոկուտո",
+        "hover_text": "Տոնենք Իբոշի Հոկուտոյի օրը",
+        "share_text": "Տոնենք Իբոշի Հոկուտոյի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Iboshi Hokuto günü",
+        "share_text": "Iboshi Hokuto günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ইবোশি হোকুতো",
+        "hover_text": "ইবোশি হোকুতোর অবদান স্মরণ করা হচ্ছে",
+        "share_text": "ইবোশি হোকুতোর অবদান স্মরণ করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Iboshi Hokutoren omenez",
+        "share_text": "Iboshi Hokutoren omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Ібасі Хокута",
+        "hover_text": "Ушаноўваем Ібасі Хокута",
+        "share_text": "Ушаноўваем Ібасі Хокута! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Slavimo Iboshija Hokuta",
+        "share_text": "Slavimo Iboshija Hokuta! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Celebrating Iboshi Hokuto",
+        "share_text": "Celebrating Iboshi Hokuto! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ибоши Хокуто",
+        "hover_text": "Честване на Ибоши Хокуто",
+        "share_text": "Честване на Ибоши Хокуто! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Iboshi Hokuto ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "Iboshi Hokuto ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Homenatge a Iboshi Hokuto",
+        "share_text": "Homenatge a Iboshi Hokuto #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "違星北斗",
+        "hover_text": "紀念違星北斗",
+        "share_text": "紀念違星北斗！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "違星北斗",
+        "hover_text": "紀念違星北斗",
+        "share_text": "紀念違星北斗！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "違星北斗",
+        "hover_text": "纪念違星北斗",
+        "share_text": "纪念違星北斗！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "U čast Iboshija Hokuta",
+        "share_text": "U čast Iboshija Hokuta! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Iboši Hokuto",
+        "hover_text": "Oslavujeme Ibošiho Hokutu",
+        "share_text": "Oslavujeme Ibošiho Hokutu! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Vi hylder Iboshi Hokuto",
+        "share_text": "Vi hylder Iboshi Hokuto #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Doodle ter ere van Iboshi Hokuto",
+        "share_text": "Doodle ter ere van Iboshi Hokuto! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Mälestame Iboshi Hokutot",
+        "share_text": "Mälestame Iboshi Hokutot! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Iboshi Hokuto",
+        "share_text": "Iboshi Hokuto #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Hommage à Iboshi Hokuto",
+        "share_text": "Hommage à Iboshi Hokuto ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Célébration de Iboshi Hokuto",
+        "share_text": "Célébration de Iboshi Hokuto! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Homenaxe a Iboshi Hokuto",
+        "share_text": "Homenaxe a Iboshi Hokuto! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "იბოში ჰოკუტო",
+        "hover_text": "აღვნიშნავთ იბოში ჰოკუტოს დღეს",
+        "share_text": "აღვნიშნავთ იბოში ჰოკუტოს დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Hokuto Iboshi",
+        "hover_text": "Zu Ehren von Hokuto Iboshi",
+        "share_text": "Zu Ehren von Hokuto Iboshi #GoogleDoodle"
+      },
+      "el": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Τιμούμε τον Iboshi Hokuto",
+        "share_text": "Τιμούμε τον Iboshi Hokuto! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "આઇબોશી હોકુટો",
+        "hover_text": "આઇબોશી હોકુટોની યાદમાં",
+        "share_text": "આઇબોશી હોકુટોની યાદમાં! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "מחווה לאבושי הוקטו",
+        "share_text": "מחווה לאבושי הוקטו GoogleDoodle#"
+      },
+      "hi": {
+        "query": "इबोशी होकुतो",
+        "hover_text": "इबोशी होकुतो की याद में",
+        "share_text": "इबोशी होकुतो की याद में! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Iboshi Hokuto ünneplése",
+        "share_text": "Iboshi Hokuto ünneplése. #GoogleDoodle"
+      },
+      "is": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Við heiðrum Iboshi Hokuto",
+        "share_text": "Við heiðrum Iboshi Hokuto! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Mengenang Iboshi Hokuto",
+        "share_text": "Mengenang Iboshi Hokuto #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Hokuto Iboshi",
+        "hover_text": "In onore di Hokuto Iboshi",
+        "share_text": "In onore di Hokuto Iboshi! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "違星北斗",
+        "hover_text": "違星北斗を称えて",
+        "share_text": "違星北斗を称えて #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಇಬೋಶಿ ಹೊಕುತೊ",
+        "hover_text": "ಇಬೋಶಿ ಹೊಕುತೊ ಅವರನ್ನು ಸ್ಮರಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಇಬೋಶಿ ಹೊಕುತೊ ಅವರನ್ನು ಸ್ಮರಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Ибоши Хокуто",
+        "hover_text": "Ибоши Хокуто күні",
+        "share_text": "Ибоши Хокуто күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "អបអរទិវារំលឹក Iboshi Hokuto",
+        "share_text": "អបអរទិវារំលឹក Iboshi Hokuto! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Iboshi Hokuto를 기억하며",
+        "share_text": "Iboshi Hokuto를 기억하며 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Ибоши Хокуто",
+        "hover_text": "Ибоши Хокуто күнүн майрамдоо",
+        "share_text": "Ибоши Хокуто күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "ວັນລະນຶກເຖິງ Iboshi Hokuto",
+        "share_text": "ວັນລະນຶກເຖິງ Iboshi Hokuto! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Celebrando a Iboshi Hokuto",
+        "share_text": "¡Celebrando a Iboshi Hokuto! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Iboši Hokuto",
+        "hover_text": "Iboši Hokuto godināšana",
+        "share_text": "Iboši Hokuto godināšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Iboshis Hokutas",
+        "hover_text": "Iboshio Hokuto minėjimas",
+        "share_text": "Iboshio Hokuto minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Во чест на Iboshi Hokuto",
+        "share_text": "Во чест на Iboshi Hokuto! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Meraikan Iboshi Hokuto",
+        "share_text": "Meraikan Iboshi Hokuto! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Iboshi Hokuto-വിനെ ആദരിക്കുന്നു",
+        "share_text": "Iboshi Hokuto-വിനെ ആദരിക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "इबोशी होकुतो",
+        "hover_text": "इबोशी होकुतो यांच्या स्मरणार्थ",
+        "share_text": "इबोशी होकुतो यांच्या स्मरणार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Ибоши Хокуто",
+        "hover_text": "Ибоши Хокутогийн өдрийг тэмдэглэж байна",
+        "share_text": "Ибоши Хокутогийн өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Iboshi Hokuto को सम्झना",
+        "share_text": "Iboshi Hokuto को सम्झना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Vi minnes Iboshi Hokuto",
+        "share_text": "Vi minnes Iboshi Hokuto! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "بزرگداشت «ایبوشی هوکوتو»",
+        "share_text": "بزرگداشت «ایبوشی هوکوتو»! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Hokuto Iboshi",
+        "hover_text": "Wspominamy Hokuto Iboshiego",
+        "share_text": "Wspominamy Hokuto Iboshiego #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Homenagem a Iboshi Hokuto por suas contribuições para a literatura e o ativismo",
+        "share_text": "Homenagem a Iboshi Hokuto por suas contribuições para a literatura e o ativismo #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Celebração de Iboshi Hokuto",
+        "share_text": "Celebração de Iboshi Hokuto! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "ਇਬੋਸ਼ੀ ਹੋਕੁਤੋ ਦੀ ਯਾਦ ਵਿੱਚ",
+        "share_text": "ਇਬੋਸ਼ੀ ਹੋਕੁਤੋ ਦੀ ਯਾਦ ਵਿੱਚ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "În cinstea lui Iboshi Hokuto",
+        "share_text": "În cinstea lui Iboshi Hokuto! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Ибоси Хокуто",
+        "hover_text": "День Ибоси Хокуто",
+        "share_text": "День Ибоси Хокуто #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Ибоши Хокуто",
+        "hover_text": "Славимо Ибошија Хокутоа",
+        "share_text": "Славимо Ибошија Хокутоа! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Iboši Hokuto",
+        "hover_text": "Slavimo Ibošija Hokutoa",
+        "share_text": "Slavimo Ibošija Hokutoa! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ඉබෝෂි හොකුටෝ",
+        "hover_text": "ඉබෝෂි හොකුටෝ සැමරීම",
+        "share_text": "ඉබෝෂි හොකුටෝ සැමරීම! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Iboši Hokuto",
+        "hover_text": "Pripomíname si Ibošiho Hokuta",
+        "share_text": "Pripomíname si Ibošiho Hokuta. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Slavimo Iboshija Hokuta",
+        "share_text": "Slavimo Iboshija Hokuta! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Homenaje a Iboshi Hokuto",
+        "share_text": "Hoy rendimos homenaje a Iboshi Hokuto #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Tunamwezi Iboshi Hokuto",
+        "share_text": "Tunamwenzi Iboshi Hokuto! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Vi hyllar Iboshi Hokuto",
+        "share_text": "Vi hyllar Iboshi Hokuto #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "இபோஷி ஹோகுடோவைக் கொண்டாடுவோம்",
+        "share_text": "இபோஷி ஹோகுடோவைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఇబోషీ హొక్తో",
+        "hover_text": "ఇబోషీ హొక్తోను స్మరించుకుందాం",
+        "share_text": "ఇబోషీ హొక్తోను స్మరించుకుందాం! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "วันรำลึกถึง Iboshi Hokuto",
+        "share_text": "วันรำลึกถึง Iboshi Hokuto #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Iboshi Hokuto'yu Anıyoruz",
+        "share_text": "Iboshi Hokuto'yu anıyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Ібоші Хокуто",
+        "hover_text": "Присвячено Ібоші Хокуто",
+        "share_text": "Присвячено Ібоші Хокуто! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "‫Iboshi Hokuto کی یاد میں",
+        "share_text": "‫Iboshi Hokuto کی یاد میں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Iboshi Hokuto kuni",
+        "share_text": "Iboshi Hokuto kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Iboshi Hokuto",
+        "hover_text": "Tôn vinh Iboshi Hokuto",
+        "share_text": "Tôn vinh Iboshi Hokuto! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Iboshi Hokuto",
+        "hover_text": "Sibungaza u-Iboshi Hokuto",
+        "share_text": "Sibungaza u-Iboshi Hokuto! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Iboshi Hokuto",
+    "share_text": "Celebrating Iboshi Hokuto! #GoogleDoodle"
+  },
+  {
+    "name": "2024-icc-womens-t20-world-cup",
+    "title": "2024 ICC Women’s T20 World Cup",
+    "url": "//www.google.com/logos/doodles/2024/2024-icc-womens-t20-world-cup-6753651837110522.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/o_ioTQYmJeXkAxbmcWSPbW-b2J9_-fEw4lSeZuD9O2XPrRCzu3l3-LyySbiClHYGKer9-VxsfXFowKJgls2hrI2i73czBJLQ8HtSAo1bg-nyhYNoN0mv",
+    "high_res_url": "//www.google.com/logos/doodles/2024/2024-icc-womens-t20-world-cup-6753651837110522-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      10,
+      3
+    ],
+    "translations": {
+      "en": {
+        "query": "2024 ICC Women’s T20 World Cup",
+        "hover_text": "2024 ICC Women’s T20 World Cup",
+        "share_text": "2024 ICC Women’s T20 World Cup! #GoogleDoodle"
+      },
+      "af": {
+        "query": "IKR se T20-vrouewêreldbeker 2024",
+        "hover_text": "IKR se T20-vrouewêreldbeker 2024",
+        "share_text": "IKR se T20-vrouewêreldbeker 2024! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Kampionati Botëror T20 për femra nga ICC-ja, 2024",
+        "hover_text": "Kampionati Botëror T20 për femra nga ICC-ja, 2024",
+        "share_text": "Kampionati Botëror T20 për femra nga ICC-ja, 2024! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የ2024 ICC የሴቶች T20 የዓለም ዋንጫ",
+        "hover_text": "የ2024 ICC የሴቶች T20 የዓለም ዋንጫ",
+        "share_text": "የ2024 ICC የሴቶች T20 የዓለም ዋንጫ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "كأس العالم للكريكت T20 للسيدات 2024",
+        "hover_text": "كأس العالم للكريكت T20 للسيدات 2024",
+        "share_text": "انطلق كأس العالم للكريكت T20 للسيدات 2024. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "ICC T20 կանանց աշխարհի առաջնություն 2024",
+        "hover_text": "ICC T20 կանանց աշխարհի առաջնություն 2024",
+        "share_text": "ICC T20 կանանց աշխարհի առաջնություն 2024 #GoogleDoodle"
+      },
+      "az": {
+        "query": "2024 ICC Qadınlar arasında T20 Dünya Kuboku",
+        "hover_text": "2024 ICC Qadınlar arasında T20 Dünya Kuboku",
+        "share_text": "2024 ICC Qadınlar arasında T20 Dünya Kuboku! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "২০২৪ আইসিসি মহিলা টি২০ বিশ্বকাপ",
+        "hover_text": "২০২৪ আইসিসি মহিলা টি২০ বিশ্বকাপ",
+        "share_text": "২০২৪ আইসিসি মহিলা টি২০ বিশ্বকাপ #GoogleDoodle"
+      },
+      "eu": {
+        "query": "2024ko Emakumezkoen ICC T20 Munduko Kriket Txapelketa",
+        "hover_text": "2024ko Emakumezkoen ICC T20 Munduko Kriket Txapelketa",
+        "share_text": "2024ko Emakumezkoen ICC T20 Munduko Kriket Txapelketa #GoogleDoodle"
+      },
+      "be": {
+        "query": "Чэмпіянат свету ICC па крыкеце T20 сярод жанчын 2024",
+        "hover_text": "Чэмпіянат свету ICC па крыкеце T20 сярод жанчын 2024",
+        "share_text": "Чэмпіянат свету ICC па крыкеце T20 сярод жанчын 2024! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "ICC T20 Svjetsko prvenstvo za žene 2024.",
+        "hover_text": "ICC T20 Svjetsko prvenstvo za žene 2024.",
+        "share_text": "ICC T20 Svjetsko prvenstvo za žene 2024! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "2024 ICC Women’s T20 World Cup",
+        "hover_text": "2024 ICC Women’s T20 World Cup",
+        "share_text": "2024 ICC Women’s T20 World Cup #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Световно първенство за жени по T20 на Международния съвет по крикет (ICC) 2024 г.",
+        "hover_text": "Световно първенство за жени по T20 на Международния съвет по крикет (ICC) 2024 г.",
+        "share_text": "Световно първенство за жени по T20 на Международния съвет по крикет (ICC) 2024 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "၂၀၂၄ ICC အမျိုးသမီး T20 ကမ္ဘာ့ဖလား",
+        "hover_text": "၂၀၂၄ ICC အမျိုးသမီး T20 ကမ္ဘာ့ဖလား",
+        "share_text": "၂၀၂၄ ICC အမျိုးသမီး T20 ကမ္ဘာ့ဖလား။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Copa del Món de Criquet Femení T20 de l'ICC 2024",
+        "hover_text": "Copa del Món de Criquet Femení T20 de l'ICC 2024",
+        "share_text": "Copa del Món de Criquet Femení T20 de l'ICC 2024 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "2024 年國際板球協會女子 T20 板球世界盃",
+        "hover_text": "2024 年國際板球協會女子 T20 板球世界盃",
+        "share_text": "2024 年國際板球協會女子 T20 板球世界盃！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "2024 國際板球協會女子 T20 世界盃",
+        "hover_text": "2024 國際板球協會女子 T20 世界盃",
+        "share_text": "2024 國際板球協會女子 T20 世界盃開打！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "2024 年国际板球理事会女子 T20 板球世界杯",
+        "hover_text": "2024 年国际板球理事会女子 T20 板球世界杯",
+        "share_text": "2024 年国际板球理事会女子 T20 板球世界杯！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "ICC Svjetsko prvenstvo T20 za žene 2024.",
+        "hover_text": "ICC Svjetsko prvenstvo T20 za žene 2024.",
+        "share_text": "ICC Svjetsko prvenstvo T20 za žene 2024.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Mistrovství světa v kriketu žen ICC T20 2024",
+        "hover_text": "Mistrovství světa v kriketu žen ICC T20 2024",
+        "share_text": "Koná se mistrovství světa v kriketu žen ICC T20 2024! #GoogleDoodle"
+      },
+      "da": {
+        "query": "ICC Women's T20 World Cup 2024",
+        "hover_text": "ICC Women's T20 World Cup 2024",
+        "share_text": "ICC Women's T20 World Cup 2024 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "ICC-wereldkampioenschap T20 voor vrouwen 2024",
+        "hover_text": "ICC-wereldkampioenschap T20 voor vrouwen 2024",
+        "share_text": "Het ICC-wereldkampioenschap T20 voor vrouwen 2024! #GoogleDoodle"
+      },
+      "et": {
+        "query": "2024. aasta ICC T20 naiste kriketi maailmameistrivõistlused",
+        "hover_text": "2024. aasta ICC T20 naiste kriketi maailmameistrivõistlused",
+        "share_text": "2024. aasta ICC T20 naiste kriketi maailmameistrivõistlused! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Naisten T20-kriketin MM-kisat 2024",
+        "hover_text": "Naisten T20-kriketin MM-kisat 2024",
+        "share_text": "Naisten T20-kriketin MM-kisat 2024 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Coupe du monde ICC T20 féminine 2024",
+        "hover_text": "Coupe du monde ICC T20 féminine 2024",
+        "share_text": "Coupe du monde ICC T20 féminine 2024 ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Coupe du monde féminine T20 de l'ICC 2024",
+        "hover_text": "Coupe du monde féminine T20 de l'ICC 2024",
+        "share_text": "Coupe du monde féminine T20 de l'ICC 2024! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Copa Mundial Feminina de Crícket T20 da ICC 2024",
+        "hover_text": "Copa Mundial Feminina de Crícket T20 da ICC 2024",
+        "share_text": "Copa Mundial Feminina de Crícket T20 da ICC 2024! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ქალთა შორის 2024 წლის T20 კლასის მსოფლიო ჩემპიონატი კრიკეტში",
+        "hover_text": "ქალთა შორის 2024 წლის T20 კლასის მსოფლიო ჩემპიონატი კრიკეტში",
+        "share_text": "ქალთა შორის 2024 წლის T20 კლასის მსოფლიო ჩემპიონატი კრიკეტში! #GoogleDoodle"
+      },
+      "de": {
+        "query": "ICC Women’s T20 World Cup 2024",
+        "hover_text": "ICC Women’s T20 World Cup 2024",
+        "share_text": "ICC Women’s T20 World Cup 2024. #GoogleDoodle"
+      },
+      "el": {
+        "query": "Παγκόσμιο κύπελλο κρίκετ γυναικών T20 του ICC 2024",
+        "hover_text": "Παγκόσμιο κύπελλο κρίκετ γυναικών T20 του ICC 2024",
+        "share_text": "Παγκόσμιο κύπελλο κρίκετ γυναικών T20 του ICC 2024! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "2024 ICC મહિલાનો T20 વિશ્વ કપ",
+        "hover_text": "2024 ICC મહિલાનો T20 વિશ્વ કપ",
+        "share_text": "2024 ICC મહિલાનો T20 વિશ્વ કપ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "2024 ICC Women’s T20 World Cup",
+        "hover_text": "2024 ICC Women’s T20 World Cup",
+        "share_text": "גביע העולם בקריקט T20 לנשים של מועצת הקריקט הבינלאומית (ICC) לשנת 2024 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "2024 आईसीसी वीमेन्स T20 विश्व कप!",
+        "hover_text": "2024 आईसीसी वीमेन्स T20 विश्व कप!",
+        "share_text": "2024 आईसीसी वीमेन्स T20 विश्व कप! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A 2024-es női ICC T20 világbajnokság",
+        "hover_text": "A 2024-es női ICC T20 világbajnokság",
+        "share_text": "A 2024-es női ICC T20 világbajnokság! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Heimsmeistaramót kvenna í T20-krikket árið 2024",
+        "hover_text": "Heimsmeistaramót kvenna í T20-krikket árið 2024",
+        "share_text": "Heimsmeistaramót kvenna í T20-krikket árið 2024! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Piala Dunia ICC T20 Putri 2024",
+        "hover_text": "Piala Dunia ICC T20 Putri 2024",
+        "share_text": "Piala Dunia ICC T20 Putri 2024 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Coppa del Mondo T20 femminile di cricket ICC 2024",
+        "hover_text": "Coppa del Mondo T20 femminile di cricket ICC 2024",
+        "share_text": "Coppa del Mondo T20 femminile di cricket ICC 2024! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "2024 年 ICC 女子 T20 ワールドカップ",
+        "hover_text": "2024 年 ICC 女子 T20 ワールドカップ",
+        "share_text": "2024 年 ICC 女子 T20 ワールドカップ！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "2024 ರ ICC ಮಹಿಳೆಯರ T20 ವಿಶ್ವಕಪ್",
+        "hover_text": "2024 ರ ICC ಮಹಿಳೆಯರ T20 ವಿಶ್ವಕಪ್",
+        "share_text": "2024 ರ ICC ಮಹಿಳೆಯರ T20 ವಿಶ್ವಕಪ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "2024 жылғы ICC T20 әйелдер арасындағы әлем чемпионаты",
+        "hover_text": "2024 жылғы ICC T20 әйелдер арасындағы әлем чемпионаты",
+        "share_text": "2024 жылғы ICC T20 әйелдер арасындағы әлем чемпионаты! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការប្រកួត ICC Women’s T20 World Cup ឆ្នាំ 2024",
+        "hover_text": "ការប្រកួត ICC Women’s T20 World Cup ឆ្នាំ 2024",
+        "share_text": "ការប្រកួត ICC Women’s T20 World Cup ឆ្នាំ 2024! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "2024년 ICC 여자 T20 월드컵",
+        "hover_text": "2024년 ICC 여자 T20 월드컵",
+        "share_text": "2024년 ICC 여자 T20 월드컵 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Аялдардын арасындагы 2024 ICC T20 Дүйнөлүк кубогу",
+        "hover_text": "Аялдардын арасындагы 2024 ICC T20 Дүйнөлүк кубогу",
+        "share_text": "Аялдардын арасындагы 2024 ICC T20 Дүйнөлүк кубогу! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ການແຂ່ງຂັນຄຣິກເກັດໂລກທີມຍິງ ICC T20 ປີ 2024",
+        "hover_text": "ການແຂ່ງຂັນຄຣິກເກັດໂລກທີມຍິງ ICC T20 ປີ 2024",
+        "share_text": "ການແຂ່ງຂັນຄຣິກເກັດໂລກທີມຍິງ ICC T20 ປີ 2024! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Copa Mundial femenina ICC T20 2024",
+        "hover_text": "Copa Mundial femenina ICC T20 2024",
+        "share_text": "Copa Mundial femenina ICC T20 2024 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "2024. gada ICC Pasaules kauss T20 kriketā sievietēm",
+        "hover_text": "2024. gada ICC Pasaules kauss T20 kriketā sievietēm",
+        "share_text": "2024. gada ICC Pasaules kauss T20 kriketā sievietēm! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "2024 m. Tarptautinės kriketo tarybos T20 moterų pasaulio čempionatas",
+        "hover_text": "2024 m. Tarptautinės kriketo tarybos T20 moterų pasaulio čempionatas",
+        "share_text": "2024 m. Tarptautinės kriketo tarybos T20 moterų pasaulio čempionatas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Светско првенство во T20 за жени на ICC, 2024 г.",
+        "hover_text": "Светско првенство во T20 за жени на ICC, 2024 г.",
+        "share_text": "Светско првенство во T20 за жени на ICC, 2024 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Piala Dunia T20 Wanita ICC 2024",
+        "hover_text": "Piala Dunia T20 Wanita ICC 2024",
+        "share_text": "Piala Dunia T20 Wanita ICC 2024! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ICC വനിതാ T20 ലോകകപ്പ് 2024",
+        "hover_text": "ICC വനിതാ T20 ലോകകപ്പ് 2024",
+        "share_text": "ICC വനിതാ T20 ലോകകപ്പ് 2024! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "२०२४ ICC महिला T20 विश्वचषक",
+        "hover_text": "२०२४ ICC महिला T20 विश्वचषक",
+        "share_text": "२०२४ ICC महिला T20 विश्वचषक! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "2024 оны Олон улсын крикетийн зөвлөлийн эмэгтэйчүүдийн T20-ийн дэлхийн аварга шалгаруулах тэмцээн",
+        "hover_text": "2024 оны Олон улсын крикетийн зөвлөлийн эмэгтэйчүүдийн T20-ийн дэлхийн аварга шалгаруулах тэмцээн",
+        "share_text": "2024 оны Олон улсын крикетийн зөвлөлийн эмэгтэйчүүдийн T20-ийн дэлхийн аварга шалгаруулах тэмцээн! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "ICC महिला T20 विश्वकप २०२४",
+        "hover_text": "ICC महिला T20 विश्वकप २०२४",
+        "share_text": "ICC महिला T20 विश्वकप २०२४! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Twenty20-VM i cricket for kvinner 2024",
+        "hover_text": "Twenty20-VM i cricket for kvinner 2024",
+        "share_text": "Twenty20-VM i cricket for kvinner 2024! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "جام جهانی ۲۰۲۴ کریکت تی۲۰ آی‌سی‌سی زنان",
+        "hover_text": "جام جهانی ۲۰۲۴ کریکت تی۲۰ آی‌سی‌سی زنان",
+        "share_text": "جام جهانی ۲۰۲۴ کریکت تی۲۰ آی‌سی‌سی زنان! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Puchar Świata w krykiecie kobiet T20 ICC 2024",
+        "hover_text": "Puchar Świata w krykiecie kobiet T20 ICC 2024",
+        "share_text": "Puchar Świata w krykiecie kobiet T20 ICC 2024 #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Copa do Mundo Feminina de Críquete T20 2024",
+        "hover_text": "Copa do Mundo Feminina de Críquete T20 2024",
+        "share_text": "Copa do Mundo Feminina de Críquete T20 2024 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Campeonato do Mundo T20 Feminio da ICC de 2024",
+        "hover_text": "Campeonato do Mundo T20 Feminio da ICC de 2024",
+        "share_text": "Campeonato do Mundo T20 Feminino da ICC de 2024! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ICC ਮਹਿਲਾ T20 ਵਿਸ਼ਵ ਕੱਪ 2024",
+        "hover_text": "ICC ਮਹਿਲਾ T20 ਵਿਸ਼ਵ ਕੱਪ 2024",
+        "share_text": "ICC ਮਹਿਲਾ T20 ਵਿਸ਼ਵ ਕੱਪ 2024! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Cupa Mondială ICC de T20 feminin 2024",
+        "hover_text": "Cupa Mondială ICC de T20 feminin 2024",
+        "share_text": "Cupa Mondială ICC de T20 feminin 2024! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Чемпионат мира в формате T20 среди женщин под эгидой ICC – 2024",
+        "hover_text": "Чемпионат мира в формате T20 среди женщин под эгидой ICC – 2024",
+        "share_text": "Чемпионат мира в формате T20 среди женщин под эгидой ICC – 2024 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Светско првенство у крикету T20 2024. за жене",
+        "hover_text": "Светско првенство у крикету T20 2024. за жене",
+        "share_text": "Светско првенство у крикету T20 2024. за жене! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Svetsko prvenstvo u kriketu T20 2024. za žene",
+        "hover_text": "Svetsko prvenstvo u kriketu T20 2024. za žene",
+        "share_text": "Svetsko prvenstvo u kriketu T20 2024. za žene! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "2024 ICC කාන්තා T20 ලෝක කුසලානය",
+        "hover_text": "2024 ICC කාන්තා T20 ලෝක කුසලානය",
+        "share_text": "2024 ICC කාන්තා T20 ලෝක කුසලානය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Svetový pohár žien ICC T20 2024",
+        "hover_text": "Svetový pohár žien ICC T20 2024",
+        "share_text": "Svetový pohár žien ICC T20 2024. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Svetovno prvenstvo v kriketu ICC T20 za ženske 2024",
+        "hover_text": "Svetovno prvenstvo v kriketu ICC T20 za ženske 2024",
+        "share_text": "Svetovno prvenstvo v kriketu ICC T20 za ženske 2024! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Hoy se celebra la Copa Mundial Femenina de Críquet T20 2024, organizada por el ICC",
+        "hover_text": "Hoy se celebra la Copa Mundial Femenina de Críquet T20 2024, organizada por el ICC",
+        "share_text": "Hoy se celebra la Copa Mundial Femenina de Críquet T20 2024, organizada por el ICC #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Kombe la Dunia la Wanawake la ICC 2024 la T20",
+        "hover_text": "Kombe la Dunia la Wanawake la ICC 2024 la T20",
+        "share_text": "Kombe la Dunia la Wanawake la ICC 2024 la T20! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "ICC:s T20-VM för damer 2024",
+        "hover_text": "ICC:s T20-VM för damer 2024",
+        "share_text": "ICC:s T20-VM för damer 2024! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஐசிசி பெண்கள் T20 உலகக் கோப்பை 2024",
+        "hover_text": "ஐசிசி பெண்கள் T20 உலகக் கோப்பை 2024",
+        "share_text": "ஐசிசி பெண்கள் T20 உலகக் கோப்பை 2024! #GoogleDoodle"
+      },
+      "te": {
+        "query": "2024 ICC మహిళల T20 ప్రపంచ కప్",
+        "hover_text": "2024 ICC మహిళల T20 ప్రపంచ కప్",
+        "share_text": "2024 ICC మహిళల T20 ప్రపంచ కప్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "ICC Women’s T20 World Cup ปี 2024",
+        "hover_text": "ICC Women’s T20 World Cup ปี 2024",
+        "share_text": "ICC Women’s T20 World Cup ปี 2024! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "2024 ICC Kadınlar T20 Dünya Kupası",
+        "hover_text": "2024 ICC Kadınlar T20 Dünya Kupası",
+        "share_text": "2024 ICC Kadınlar T20 Dünya Kupası #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Чемпіонат світу з крикету серед жінок ICC T20 2024 року",
+        "hover_text": "Чемпіонат світу з крикету серед жінок ICC T20 2024 року",
+        "share_text": "Чемпіонат світу з крикету серед жінок ICC T20 2024 року! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "‫2024 کا ICC خواتین کا T20 ورلڈ کپ",
+        "hover_text": "‫2024 کا ICC خواتین کا T20 ورلڈ کپ",
+        "share_text": "‫2024 کا ICC خواتین کا T20 ورلڈ کپ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "2024 ICC ayollar oʻrtasidagi T20 jahon chempionati",
+        "hover_text": "2024 ICC ayollar oʻrtasidagi T20 jahon chempionati",
+        "share_text": "2024 ICC ayollar oʻrtasidagi T20 jahon chempionati! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Giải vô địch bóng gậy nữ T20 thế giới năm 2024",
+        "hover_text": "Giải vô địch bóng gậy nữ T20 thế giới năm 2024",
+        "share_text": "Giải vô địch bóng gậy nữ T20 thế giới năm 2024! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Indebe Yomhlaba Yabesifazane ye-T20 ye-ICC yango-2024",
+        "hover_text": "Indebe Yomhlaba Yabesifazane ye-T20 ye-ICC yango-2024",
+        "share_text": "Indebe Yomhlaba Yabesifazane ye-T20 ye-ICC yango-2024! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "2024 ICC Women’s T20 World Cup",
+    "share_text": "2024 ICC Women’s T20 World Cup! #GoogleDoodle"
+  },
+  {
     "name": "nigeria-independence-day-2024",
     "title": "Nigeria Independence Day 2024",
     "url": "//www.google.com/logos/doodles/2024/nigeria-independence-day-2024-6753651837110302-law.gif",
