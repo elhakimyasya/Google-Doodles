@@ -1,5 +1,1003 @@
 [
   {
+    "name": "celebrating-lizzie-emeh",
+    "title": "Celebrating Lizzie Emeh",
+    "url": "//www.google.com/logos/doodles/2024/celebrating-lizzie-emeh-6753651837110557.3-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/3zMDfO-wdIf8zeHbJVjMe5Esyo1aj0AeN7KcskQBlFfScf7-E9k3wlcI-7uiTkqpzozSyt7WRg3iwDzABX8bHy5gpfKcT-jdH1qzfNXEH8yTFU1y3uWO5w",
+    "high_res_url": "//www.google.com/logos/doodles/2024/celebrating-lizzie-emeh-6753651837110557-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      10,
+      9
+    ],
+    "translations": {
+      "en": {
+        "query": "Lizzie Emeh ",
+        "hover_text": "Celebrating Lizzie Emeh ",
+        "share_text": "Celebrating Lizzie Emeh "
+      },
+      "af": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Ter viering van Lizzie Emeh",
+        "share_text": "Ter viering van Lizzie Emeh"
+      },
+      "sq": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Përkujtojmë Lizzie Emeh",
+        "share_text": "Përkujtojmë Lizzie Emeh"
+      },
+      "am": {
+        "query": "ሊዚ ኢምህ",
+        "hover_text": "ሊዚ ኢምህን በማክበር ላይ",
+        "share_text": "ሊዚ ኢምህን በማክበር ላይ"
+      },
+      "ar": {
+        "query": "\"ليزي إيميه\"",
+        "hover_text": "نحتفل اليوم بذكرى \"ليزي إيميه\"",
+        "share_text": "نحتفل اليوم بذكرى \"ليزي إيميه\""
+      },
+      "hy": {
+        "query": "Լիզի Էմեհ",
+        "hover_text": "Տոնենք Լիզի Էմեհի օրը",
+        "share_text": "Տոնենք Լիզի Էմեհի օրը"
+      },
+      "az": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Lizzie Emeh günü",
+        "share_text": "Lizzie Emeh günü"
+      },
+      "bn": {
+        "query": "লিজি এমে",
+        "hover_text": "লিজি এমের স্মৃতিতে উদযাপন করা হচ্ছে",
+        "share_text": "লিজি এমের স্মৃতিতে উদযাপন করা হচ্ছে"
+      },
+      "eu": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Lizzie Emehren omenez",
+        "share_text": "Lizzie Emehren omenez"
+      },
+      "be": {
+        "query": "Лізі Эмех",
+        "hover_text": "Ушаноўваем Лізі Эмех",
+        "share_text": "Ушаноўваем Лізі Эмех"
+      },
+      "bs": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Slavimo Lizzie Emeh",
+        "share_text": "Slavimo Lizzie Emeh"
+      },
+      "en-GB": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Celebrating Lizzie Emeh",
+        "share_text": "Celebrating Lizzie Emeh"
+      },
+      "bg": {
+        "query": "Лизи Емех",
+        "hover_text": "Честване на Лизи Емех",
+        "share_text": "Честване на Лизи Емех"
+      },
+      "my": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Lizzie Emeh ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "Lizzie Emeh ကို ဂုဏ်ပြုခြင်း"
+      },
+      "ca": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Homenatge a Lizzie Emeh",
+        "share_text": "Homenatge a Lizzie Emeh"
+      },
+      "zh-HK": {
+        "query": "Lizzie Emeh",
+        "hover_text": "紀念 Lizzie Emeh",
+        "share_text": "紀念 Lizzie Emeh"
+      },
+      "zh-TW": {
+        "query": "莉希艾梅",
+        "hover_text": "紀念莉希艾梅",
+        "share_text": "紀念莉希艾梅"
+      },
+      "zh-CN": {
+        "query": "Lizzie Emeh",
+        "hover_text": "纪念 Lizzie Emeh",
+        "share_text": "纪念 Lizzie Emeh"
+      },
+      "hr": {
+        "query": "Lizzie Emeh",
+        "hover_text": "U čast Lizzie Emeh",
+        "share_text": "U čast Lizzie Emeh"
+      },
+      "cs": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Oslavujeme Lizzie Emeh",
+        "share_text": "Oslavujeme Lizzie Emeh"
+      },
+      "da": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Vi hylder Lizzie Emeh",
+        "share_text": "Vi hylder Lizzie Emeh"
+      },
+      "nl": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Doodle ter ere van Lizzie Emeh",
+        "share_text": "Doodle ter ere van Lizzie Emeh"
+      },
+      "et": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Mälestame Lizzie Emeh'd!",
+        "share_text": "Mälestame Lizzie Emeh'd!"
+      },
+      "fi": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Lizzie Emeh",
+        "share_text": "Lizzie Emeh"
+      },
+      "fr": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Hommage à Lizzie Emeh",
+        "share_text": "Hommage à Lizzie Emeh"
+      },
+      "fr-CA": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Célébration de Lizzie Emeh",
+        "share_text": "Célébration de Lizzie Emeh"
+      },
+      "gl": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Homenaxe a Lizzie Emeh",
+        "share_text": "Homenaxe a Lizzie Emeh"
+      },
+      "ka": {
+        "query": "ლიზი ემეი",
+        "hover_text": "აღვნიშნავთ ლიზი ემეის დღეს",
+        "share_text": "აღვნიშნავთ ლიზი ემეის დღეს"
+      },
+      "de": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Zu Ehren von Lizzie Emeh",
+        "share_text": "Zu Ehren von Lizzie Emeh"
+      },
+      "el": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Τιμούμε τη Lizzie Emeh",
+        "share_text": "Τιμούμε τη Lizzie Emeh"
+      },
+      "gu": {
+        "query": "લિઝી એમેહ",
+        "hover_text": "લિઝી એમેહની યાદમાં",
+        "share_text": "લિઝી એમેહની યાદમાં"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Lizzie Emeh",
+        "hover_text": "מחווה לליזי אימה",
+        "share_text": "מחווה לליזי אימה"
+      },
+      "hi": {
+        "query": "लिज़ी एमा",
+        "hover_text": "लिज़ी एमा की याद में",
+        "share_text": "लिज़ी एमा की याद में"
+      },
+      "hu": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Lizzie Emeh ünneplése",
+        "share_text": "Lizzie Emeh ünneplése"
+      },
+      "is": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Við heiðrum Lizzie Emeh",
+        "share_text": "Við heiðrum Lizzie Emeh"
+      },
+      "id": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Mengenang Lizzie Emeh",
+        "share_text": "Mengenang Lizzie Emeh"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Lizzie Emeh",
+        "hover_text": "In onore di Lizzie Emeh",
+        "share_text": "In onore di Lizzie Emeh"
+      },
+      "ja": {
+        "query": "リジー・エメ",
+        "hover_text": "リジー・エメを称えて",
+        "share_text": "リジー・エメを称えて"
+      },
+      "kn": {
+        "query": "ಲಿಜ್ಜೀ ಎಮೆಹ್",
+        "hover_text": "ಲಿಜ್ಜೀ ಎಮೆಹ್ ಅವರನ್ನು ಸ್ಮರಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಲಿಜ್ಜೀ ಎಮೆಹ್ ಅವರನ್ನು ಸ್ಮರಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ"
+      },
+      "kk": {
+        "query": "Лиззи Эме",
+        "hover_text": "Лиззи Эмені еске алу күні",
+        "share_text": "Лиззи Эмені еске алу күні"
+      },
+      "km": {
+        "query": "Lizzie Emeh",
+        "hover_text": "អបអរទិវារំលឹក Lizzie Emeh",
+        "share_text": "អបអរទិវារំលឹក Lizzie Emeh"
+      },
+      "ko": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Lizzie Emeh를 기억하며",
+        "share_text": "Lizzie Emeh를 기억하며"
+      },
+      "ky": {
+        "query": "Лиззи Эмех",
+        "hover_text": "Лиззи Эмех күнүн майрамдоо",
+        "share_text": "Лиззи Эмех күнүн майрамдоо"
+      },
+      "lo": {
+        "query": "Lizzie Emeh",
+        "hover_text": "ວັນລະນຶກເຖິງ Lizzie Emeh",
+        "share_text": "ວັນລະນຶກເຖິງ Lizzie Emeh"
+      },
+      "es-419": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Celebrando a Lizzie Emeh",
+        "share_text": "Celebrando a Lizzie Emeh"
+      },
+      "lv": {
+        "query": "Lizija Emē",
+        "hover_text": "Lizijas Emē godināšana",
+        "share_text": "Lizijas Emē godināšana"
+      },
+      "lt": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Lizzie Emeh minėjimas",
+        "share_text": "Lizzie Emeh minėjimas"
+      },
+      "mk": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Во чест на Lizzie Emeh",
+        "share_text": "Во чест на Lizzie Emeh"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Meraikan Lizzie Emeh",
+        "share_text": "Meraikan Lizzie Emeh"
+      },
+      "ml": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Lizzie Emeh-യെ ആദരിക്കുന്നു",
+        "share_text": "Lizzie Emeh-യെ ആദരിക്കുന്നു"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "लिझी इमे",
+        "hover_text": "लिझी इमे यांच्या स्मरणार्थ",
+        "share_text": "लिझी इमे यांच्या स्मरणार्थ"
+      },
+      "mn": {
+        "query": "Лиззи Эма",
+        "hover_text": "Лиззи Эмагийн өдрийг тэмдэглэж байна",
+        "share_text": "Лиззи Эмагийн өдрийг тэмдэглэж байна"
+      },
+      "ne": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Lizzie Emeh को सम्झना",
+        "share_text": "Lizzie Emeh को सम्झना"
+      },
+      "no": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Vi feirer Lizzie Emeh",
+        "share_text": "Vi feirer Lizzie Emeh"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "Lizzie Emeh",
+        "hover_text": "بزرگداشت «لیزی اِمه»",
+        "share_text": "بزرگداشت «لیزی اِمه»"
+      },
+      "pl": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Wspominamy Lizzie Emeh",
+        "share_text": "Wspominamy Lizzie Emeh"
+      },
+      "pt-BR": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Homenagem a Lizzie Emeh por suas contribuições para a música e o ativismo",
+        "share_text": "Homenagem a Lizzie Emeh por suas contribuições para a música e o ativismo"
+      },
+      "pt-PT": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Celebração de Lizzie Emeh",
+        "share_text": "Celebração de Lizzie Emeh"
+      },
+      "pa": {
+        "query": "Lizzie Emeh",
+        "hover_text": "ਲਿਜ਼ੀ ਈਮੇਹ ਦੀ ਯਾਦ ਵਿੱਚ",
+        "share_text": "ਲਿਜ਼ੀ ਈਮੇਹ ਦੀ ਯਾਦ ਵਿੱਚ"
+      },
+      "ro": {
+        "query": "Lizzie Emeh",
+        "hover_text": "În cinstea lui Lizzie Emeh",
+        "share_text": "În cinstea lui Lizzie Emeh"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Лиззи Эма",
+        "hover_text": "День Лиззи Эма",
+        "share_text": "День Лиззи Эма"
+      },
+      "sr": {
+        "query": "Лизи Еме",
+        "hover_text": "Славимо Лизи Еме",
+        "share_text": "Славимо Лизи Еме"
+      },
+      "sr-Latn": {
+        "query": "Lizi Eme",
+        "hover_text": "Slavimo Lizi Eme",
+        "share_text": "Slavimo Lizi Eme"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ලිසී එමේ",
+        "hover_text": "ලිසී එමේ සමරමින්",
+        "share_text": "ලිසී එමේ සමරමින්"
+      },
+      "sk": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Pripomíname si Lizzie Emehovú",
+        "share_text": "Pripomíname si Lizzie Emehovú"
+      },
+      "sl": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Slavimo Lizzie Emeh",
+        "share_text": "Slavimo Lizzie Emeh"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Homenaje a Lizzie Emeh",
+        "share_text": "Homenaje a Lizzie Emeh"
+      },
+      "sw": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Tunamwenzi Lizzie Emeh",
+        "share_text": "Tunamwenzi Lizzie Emeh"
+      },
+      "sv": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Vi hyllar Lizzie Emeh",
+        "share_text": "Vi hyllar Lizzie Emeh"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Lizzie Emeh",
+        "hover_text": "லிஸ்ஸி எமாவைக் கொண்டாடுவோம்",
+        "share_text": "லிஸ்ஸி எமாவைக் கொண்டாடுவோம்"
+      },
+      "te": {
+        "query": "లిజీ ఎమా",
+        "hover_text": "లిజీ ఎమాను స్మరించుకుందాం",
+        "share_text": "లిజీ ఎమాను స్మరించుకుందాం"
+      },
+      "th": {
+        "query": "Lizzie Emeh",
+        "hover_text": "วันรำลึกถึง Lizzie Emeh",
+        "share_text": "วันรำลึกถึง Lizzie Emeh"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Lizzie Emeh'yi Anıyoruz",
+        "share_text": "Lizzie Emeh'yi Anıyoruz"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Ліззі Емех",
+        "hover_text": "Присвячено Ліззі Емех",
+        "share_text": "Присвячено Ліззі Емех"
+      },
+      "ur": {
+        "query": "Lizzie Emeh",
+        "hover_text": "‫Lizzie Emeh کی یاد میں",
+        "share_text": "‫Lizzie Emeh کی یاد میں"
+      },
+      "uz": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Lizzie Emeh kuni",
+        "share_text": "Lizzie Emeh kuni"
+      },
+      "vi": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Tôn vinh Lizzie Emeh",
+        "share_text": "Tôn vinh Lizzie Emeh"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Lizzie Emeh",
+        "hover_text": "Sibungaza uLizzie Emeh",
+        "share_text": "Sibungaza uLizzie Emeh"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Lizzie Emeh ",
+    "share_text": "Celebrating Lizzie Emeh "
+  },
+  {
+    "name": "uganda-independence-day-2024",
+    "title": "Uganda Independence Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/uganda-independence-day-2024-6753651837110306-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/z6FuovedcvoR9gMjMSlnjh_8PseJVluQOTWcQqT_HqSuwTTi9PhvTssejw0FWMWENkqcX9hD7-45Rbb7bD1gzbRapKlZ0kkald-oX5MrIo26Wu2OOOmroA",
+    "high_res_url": "//www.google.com/logos/doodles/2024/uganda-independence-day-2024-6753651837110306-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      10,
+      9
+    ],
+    "translations": {
+      "en": {
+        "query": "Uganda Independence Day",
+        "hover_text": "Uganda Independence Day 2024",
+        "share_text": "Happy Independence Day, Uganda! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Uganda se onafhanklikheidsdag",
+        "hover_text": "Uganda se onafhanklikheidsdag 2024",
+        "share_text": "Gelukkige Onafhanklikheidsdag, Uganda! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë së Ugandës",
+        "hover_text": "Dita e Pavarësisë së Ugandës, 2024",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Ugandë #GoogleDoodle"
+      },
+      "am": {
+        "query": "የኡጋንዳ ነጻነት ቀን",
+        "hover_text": "የኡጋንዳ ነፃነት ቀን 2024",
+        "share_text": "መልካም የነጻነት ቀን ኡጋንዳ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال أوغندا",
+        "hover_text": "عيد استقلال أوغندا 2024",
+        "share_text": "نتمنى لأوغندا عيد استقلال سعيدًا. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ուգանդայի անկախության օր",
+        "hover_text": "Ուգանդայի անկախության օր 2024",
+        "share_text": "Շնորհավո՛ր Ուգանդայի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Uqandanın Müstəqillik Günü",
+        "hover_text": "2024 Uqandanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Uqanda! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "উগান্ডার স্বাধীনতা দিবস",
+        "hover_text": "উগান্ডার স্বাধীনতা দিবস ২০২৪",
+        "share_text": "স্বাধীনতা দিবসের সুভেচ্ছা, উগান্ডা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Ugandako Independentzia Eguna",
+        "hover_text": "2024ko Ugandako Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Uganda! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Уганды",
+        "hover_text": "Дзень незалежнасці Уганды 2024",
+        "share_text": "З Днём незалежнасці, Уганда! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Ugande",
+        "hover_text": "Dan nezavisnosti Ugande 2024.",
+        "share_text": "Sretan Dan nezavisnosti, Ugando! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Uganda Independence Day",
+        "hover_text": "Uganda Independence Day 2024",
+        "share_text": "Happy Independence Day, Uganda! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Уганда",
+        "hover_text": "Ден на независимостта на Уганда 2024 г.",
+        "share_text": "Честит Ден на независимостта на Уганда! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ယူဂန်ဒါ လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ ယူဂန်းဒါးနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ ဖြစ်ပါစေ၊ ယူဂန်ဒါ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència d'Uganda",
+        "hover_text": "Dia de la Independència d'Uganda 2024",
+        "share_text": "Feliç Dia de la Independència, Uganda! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "烏干達獨立日",
+        "hover_text": "2024 年烏干達獨立日",
+        "share_text": "烏干達，獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "烏干達獨立紀念日",
+        "hover_text": "2024 烏干達獨立紀念日",
+        "share_text": "烏干達，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "乌干达独立日",
+        "hover_text": "2024 年乌干达独立日",
+        "share_text": "乌干达，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Ugande",
+        "hover_text": "Dan neovisnosti Ugande 2024.",
+        "share_text": "Sretan Dan neovisnosti, Ugando! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Ugandy",
+        "hover_text": "Den nezávislosti Ugandy 2024",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Ugando! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Ugandas uafhængighedsdag",
+        "hover_text": "Ugandas uafhængighedsdag 2024",
+        "share_text": "Glædelig uafhængighedsdag, Uganda! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Oeganda",
+        "hover_text": "Onafhankelijkheidsdag Oeganda 2024",
+        "share_text": "Fijne Onafhankelijkheidsdag, Oeganda #GoogleDoodle"
+      },
+      "et": {
+        "query": "Uganda iseseisvuspäev",
+        "hover_text": "Uganda 2024. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Uganda! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Ugandan itsenäisyyspäivä",
+        "hover_text": "Ugandan itsenäisyyspäivä 2024",
+        "share_text": "Hyvää itsenäisyyspäivää, Uganda! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance de l'Ouganda",
+        "hover_text": "Fête de l'Indépendance de l'Ouganda 2024",
+        "share_text": "Fête de l'Indépendance de l'Ouganda ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance de l'Ouganda",
+        "hover_text": "Fête de l'Indépendance de l'Ouganda 2024",
+        "share_text": "Joyeux jour de l'indépendance de l'Ouganda! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Uganda",
+        "hover_text": "Día da Independencia de Uganda 2024",
+        "share_text": "Feliz Día da Independencia, Uganda! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "უგანდას დამოუკიდებლობის დღე",
+        "hover_text": "უგანდის დამოუკიდებლობის დღე — 2024",
+        "share_text": "ვულოცავთ უგანდას დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Uganda",
+        "hover_text": "Unabhängigkeitstag Uganda 2024",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Uganda! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας της Ουγκάντας",
+        "hover_text": "Ημέρα Ανεξαρτησίας της Ουγκάντας 2024",
+        "share_text": "Εορτασμός για την Ημέρα Ανεξαρτησίας της Ουγκάντας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "યુગાંડાનો સ્વતંત્રતા દિવસ",
+        "hover_text": "યુગાન્ડાનો સ્વતંત્રતા દિવસ 2024",
+        "share_text": "યુગાંડાના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של אוגנדה",
+        "hover_text": "יום העצמאות של אוגנדה 2024",
+        "share_text": "יום עצמאות שמח, אוגנדה! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "युगांडा का स्वतंत्रता दिवस",
+        "hover_text": "युगांडा का स्वतंत्रता दिवस 2024",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, युगांडा! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Uganda függetlenségének napja",
+        "hover_text": "Uganda függetlenségének napja, 2024",
+        "share_text": "Boldog függetlenség napját, Uganda! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Úganda",
+        "hover_text": "Sjálfstæðisdagur Úganda 2024",
+        "share_text": "Gleðilegan sjálfstæðisdag, Úganda! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Uganda",
+        "hover_text": "Hari Kemerdekaan Uganda 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Uganda! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse Uganda",
+        "hover_text": null,
+        "share_text": "Lá Saoirse Uganda faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza dell'Uganda",
+        "hover_text": "Festa dell'indipendenza dell'Uganda 2024",
+        "share_text": "Buona festa dell'indipendenza, Uganda! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ウガンダ独立記念日",
+        "hover_text": "2024 年ウガンダ独立記念日",
+        "share_text": "ウガンダ独立記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಉಗಾಂಡಾದ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಉಗಾಂಡಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು ಉಗಾಂಡಾ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Уганданың Тәуелсіздік күні",
+        "hover_text": "Уганданың Тәуелсіздік күні – 2024",
+        "share_text": "Тәуелсіздік күні құтты болсын, Уганда! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាបុណ្យ​ឯករាជ្យ​ជាតិ​​អ៊ូហ្គង់ដា",
+        "hover_text": "ទិវាឯករាជ្យជាតិអ៊ូហ្កង់ដាឆ្នាំ 2024",
+        "share_text": "អបអរទិវាបុណ្យ​ឯករាជ្យ​ជាតិ​​អ៊ូហ្គង់ដា! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "우간다 독립기념일",
+        "hover_text": "2024년 우간다 독립기념일",
+        "share_text": "우간다 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Уганданын Эгемендүүлүк күнү",
+        "hover_text": "Уганданын Эгемендүүлүк күнү — 2024",
+        "share_text": "Эгемендүүлүк күнүң менен, Уганда! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດອູກັນດາ",
+        "hover_text": "ວັນປະກາດເອກະລາດຢູການດາ 2024",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດອູກັນດາ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Uganda",
+        "hover_text": "Día de la Independencia de Uganda 2024",
+        "share_text": "¡Feliz Día de la Independencia, Uganda! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Ugandas Neatkarības diena",
+        "hover_text": "Ugandas Neatkarības diena — 2024",
+        "share_text": "Sveicam Neatkarības dienā, Uganda! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Ugandos nepriklausomybės diena",
+        "hover_text": "Ugandos nepriklausomybės diena, 2024 m.",
+        "share_text": "Sveikiname Ugandą su nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Уганда",
+        "hover_text": "Ден на независноста на Уганда, 2024 г.",
+        "share_text": "Среќен Ден на независноста, Уганда! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Ogandà",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny fahaleovantena ry Ogandà ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Uganda",
+        "hover_text": "Hari Kemerdekaan Uganda 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Uganda! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഉഗാണ്ടൻ സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "ഉഗാണ്ടൻ സ്വാതന്ത്ര്യദിനം 2024",
+        "share_text": "സ്വാതന്ത്ര്യദിനാശംസകൾ, ഉഗാണ്ട! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "युगांडाचा स्वातंत्र्यदिन",
+        "hover_text": "युगांडाचा स्वातंत्र्यदिन २०२४",
+        "share_text": "युगांडाला स्वातंत्र्यदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Уганда улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2024 оны Угандагийн Тусгаар тогтнолын өдөр",
+        "share_text": "Уганда улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "युगान्डाको स्वतन्त्रता दिवस",
+        "hover_text": "युगान्डाको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, युगान्डा! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Ugandas frigjøringsdag",
+        "hover_text": "Ugandas frigjøringsdag 2024",
+        "share_text": "Gratulerer med frigjøringsdagen, Uganda! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଉଗାଣ୍ଡାର ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": null,
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, ଉଗାଣ୍ଡା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال اوگاندا",
+        "hover_text": "روز استقلال ۲۰۲۴ اوگاندا",
+        "share_text": "روز استقلال مبارک، اوگاندا! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Niepodległości Ugandy",
+        "hover_text": "Dzień Niepodległości Ugandy 2024",
+        "share_text": "Uganda obchodzi Święto Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência de Uganda",
+        "hover_text": "Dia da Independência de Uganda 2024",
+        "share_text": "Feliz Dia da Independência, Uganda! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência do Uganda",
+        "hover_text": "Dia da Independência do Uganda de 2024",
+        "share_text": "Feliz dia da independência, Uganda! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਯੂਗਾਂਡਾ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ",
+        "hover_text": "ਯੂਗਾਂਡਾ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2024",
+        "share_text": "ਯੂਗਾਂਡਾ ਦੇ ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței în Uganda",
+        "hover_text": "Ziua Independenței în Uganda 2024",
+        "share_text": "La mulți ani de Ziua Independenței, Uganda! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Уганды",
+        "hover_text": "День независимости Уганды – 2024",
+        "share_text": "День независимости Уганды #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Уганде",
+        "hover_text": "Дан независности Уганде 2024.",
+        "share_text": "Честитамо Дан независности Уганди! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Ugande",
+        "hover_text": "Dan nezavisnosti Ugande 2024.",
+        "share_text": "Čestitamo Dan nezavisnosti Ugandi! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepandans Uganda",
+        "hover_text": null,
+        "share_text": "Bonn zournen lendepandans, Uganda! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "උගණ්ඩාවේ නිදහස් දිනය",
+        "hover_text": "උගන්ඩාවේ නිදහස් දිනය 2024",
+        "share_text": "සුබ නිදහස් දිනයක්, උගණ්ඩාව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Ugandy",
+        "hover_text": "Deň nezávislosti Ugandy 2024",
+        "share_text": "Šťastný Deň nezávislosti, Uganda! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Ugande",
+        "hover_text": "Dan neodvisnosti Ugande 2024",
+        "share_text": "Vesel dan neodvisnosti, Uganda! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madax banaanida Yugaandha",
+        "hover_text": null,
+        "share_text": "Maalinta Madax banaanida Farxalada leh, Yugaandha! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la Uganda",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Tokoloho la Uganda! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Uganda",
+        "hover_text": "Día de la Independencia de Uganda 2024",
+        "share_text": "¡Feliz Día de la Independencia de Uganda! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Uganda",
+        "hover_text": "Sikukuu ya Uhuru wa Uganda 2024",
+        "share_text": "Heri za Sikukuu ya Uhuru wa Uganda! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Ugandas självständighetsdag",
+        "hover_text": "Ugandas självständighetsdag 2024",
+        "share_text": "Vi firar Ugandas självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "உகாண்டாவின் சுதந்திர தினம்",
+        "hover_text": "உகாண்டாவின் சுதந்திர தினம் 2024",
+        "share_text": "சுதந்திர தின வாழ்த்துகள், உகாண்டா! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఉగాండా స్వాతంత్య్ర దినోత్సవం",
+        "hover_text": "ఉగాండా స్వాతంత్య్ర దినోత్సవం 2024",
+        "share_text": "స్వాతంత్య్ర దినోత్సవ శుభాకాంక్షలు, ఉగాండా! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของอูกันดา",
+        "hover_text": "วันประกาศอิสรภาพของยูกันดาปี 2024",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของอูกันดา #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Uganda",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, Uganda! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Uganda Bağımsızlık Günü",
+        "hover_text": "2024 Uganda Bağımsızlık Günü",
+        "share_text": "Uganda Bağımsızlık Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Уганди",
+        "hover_text": "День незалежності Уганди у 2024 році",
+        "share_text": "З Днем незалежності, Угандо! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوگنڈا کا یوم آزادی",
+        "hover_text": "یوگنڈا کا یوم آزادی 2024",
+        "share_text": "یوگنڈا کا یوم آزادی مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Uganda mustaqillik kuni",
+        "hover_text": "Uganda Mustaqillik kuni 2024",
+        "share_text": "Mustaqillik kuning muborak, Uganda! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Quốc khánh Uganda",
+        "hover_text": "Ngày Quốc khánh Uganda năm 2024",
+        "share_text": "Mừng ngày Quốc khánh Uganda! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lokuzimela lase-Uganda",
+        "hover_text": "Usuku Lokuzimela lwase-Uganda lwango-2024",
+        "share_text": "Sinifisela Usuku Oluhle Lokuzimela lase-Uganda! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Uganda Independence Day",
+    "share_text": "Happy Independence Day, Uganda! #GoogleDoodle"
+  },
+  {
     "name": "german-unity-day-2024",
     "title": "German Unity Day 2024",
     "url": "//www.google.com/logos/doodles/2024/german-unity-day-2024-6753651837110304-l.png",
