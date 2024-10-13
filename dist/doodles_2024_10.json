@@ -1,5 +1,504 @@
 [
   {
+    "name": "lithuania-parliamentary-elections-2024",
+    "title": "Lithuania Parliamentary Elections 2024",
+    "url": "//www.google.com/logos/doodles/2024/lithuania-national-elections-2024-6753651837110551-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/cSzcb4s4QTRaFqe-6rOQaeDfj8YuqRarJJeY3AU3fRCnm1wquQS1L_AjqTKyapzQGFWRzm7gicb8kPX9YEDUJzgMQNzKDkmXWgeWtABWJ9-3gNE8njLc",
+    "high_res_url": "//www.google.com/logos/doodles/2024/lithuania-national-elections-2024-6753651837110551-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      10,
+      13
+    ],
+    "translations": {
+      "en": {
+        "query": "Lithuania Parliamentary Elections",
+        "hover_text": "Lithuania Parliamentary Elections 2024",
+        "share_text": "Lithuania Parliamentary Elections 2024! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Litaue se nasionale verkiesing",
+        "hover_text": "Litaue se nasionale verkiesing 2024",
+        "share_text": "Litaue se nasionale verkiesing 2024! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Zgjedhjet kombëtare në Lituani",
+        "hover_text": "Zgjedhjet kombëtare në Lituani, 2024",
+        "share_text": "Zgjedhjet kombëtare në Lituani, 2024! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የሊቱዌንያ የፓርላማ ምርጫዎች",
+        "hover_text": "የሊቱዌንያ የፓርላማ ምርጫዎች 2024",
+        "share_text": "የሊቱዌንያ የፓርላማ ምርጫዎች 2024! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "الانتخابات الوطنية في ليتوانيا",
+        "hover_text": "الانتخابات الوطنية في ليتوانيا 2024",
+        "share_text": "انطلقت اليوم الانتخابات الوطنية في ليتوانيا لعام 2024.‏ ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Լիտվայի համապետական ընտրություններ",
+        "hover_text": "Լիտվայի համապետական ընտրություններ 2024",
+        "share_text": "Լիտվայի համապետական ընտրություններ 2024 #GoogleDoodle"
+      },
+      "az": {
+        "query": "Litva Milli Seçkiləri",
+        "hover_text": "2024 Litva Milli Seçkiləri",
+        "share_text": "2024 Litva Milli Seçkiləri! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "লিথুয়ানিয়ার জাতীয় নির্বাচন",
+        "hover_text": "লিথুয়ানিয়ার জাতীয় নির্বাচন ২০২৪",
+        "share_text": "লিথুয়ানিয়ার জাতীয় নির্বাচন ২০২৪! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Lituaniako hauteskunde orokorrak",
+        "hover_text": "2024ko Lituaniako hauteskunde orokorrak",
+        "share_text": "2024ko Lituaniako hauteskunde orokorrak #GoogleDoodle"
+      },
+      "be": {
+        "query": "Выбары ў Сейм Літвы",
+        "hover_text": "Выбары ў Сейм Літвы 2024",
+        "share_text": "Выбары ў Сейм Літвы 2024! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Nacionalni izbori u Litvaniji",
+        "hover_text": "Nacionalni izbori u Litvaniji 2024.",
+        "share_text": "Nacionalni izbori u Litvaniji 2024! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Lithuania national elections",
+        "hover_text": "Lithuania national elections 2024",
+        "share_text": "Lithuania national elections 2024! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Национални избори в Литва",
+        "hover_text": "Национални избори в Литва 2024 г.",
+        "share_text": "Национални избори в Литва 2024 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "လစ်သူဝေးနီးယားနိုင်ငံလုံးဆိုင်ရာ ရွေးကောက်ပွဲများ",
+        "hover_text": "၂၀၂၄ လစ်သူဝေးနီးယားနိုင်ငံလုံးဆိုင်ရာ ရွေးကောက်ပွဲများ",
+        "share_text": "၂၀၂၄ လစ်သူဝေးနီးယားနိုင်ငံလုံးဆိုင်ရာ ရွေးကောက်ပွဲများ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Eleccions nacionals a Lituània",
+        "hover_text": "Eleccions nacionals a Lituània 2024",
+        "share_text": "Eleccions nacionals a Lituània 2024 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "立陶宛議會選舉",
+        "hover_text": "2024 年立陶宛議會選舉",
+        "share_text": "2024 年立陶宛議會選舉！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "立陶宛全國大選",
+        "hover_text": "2024 立陶宛全國大選",
+        "share_text": "2024 立陶宛全國大選登場！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "立陶宛全国大选",
+        "hover_text": "2024 年立陶宛全国大选",
+        "share_text": "2024 年立陶宛全国大选！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Državni izbori u Litvi",
+        "hover_text": "Državni izbori u Litvi 2024.",
+        "share_text": "Državni izbori u Litvi 2024.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Litevské volby",
+        "hover_text": "Litevské volby 2024",
+        "share_text": "Konají se litevské volby 2024! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Valg i Litauen",
+        "hover_text": "Valg i Litauen 2024",
+        "share_text": "Valg i Litauen 2024 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Nationale verkiezingen Litouwen",
+        "hover_text": "Nationale verkiezingen Litouwen 2024",
+        "share_text": "De nationale verkiezingen in Litouwen van 2024! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Leedu parlamendivalimised",
+        "hover_text": "Leedu 2024. aasta parlamendivalimised",
+        "share_text": "Leedu 2024. aasta parlamendivalimised! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Liettuan parlamenttivaalit",
+        "hover_text": "Liettuan parlamenttivaalit 2024",
+        "share_text": "Liettuan parlamenttivaalit 2024 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Élections nationales en Lituanie",
+        "hover_text": "Élections nationales 2024 en Lituanie",
+        "share_text": "Élections nationales 2024 en Lituanie #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Élections nationales en Lituanie",
+        "hover_text": "Élections nationales de 2024 en Lituanie",
+        "share_text": "Élections nationales de 2024 en Lituanie! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Eleccións parlamentarias en Lituania",
+        "hover_text": "Eleccións parlamentarias en Lituania 2024",
+        "share_text": "Eleccións parlamentarias en Lituania 2024! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ლიეტუვას ეროვნული არჩევნები",
+        "hover_text": "ლიეტუვას 2024 წლის ეროვნული არჩევნები",
+        "share_text": "ლიეტუვას 2024 წლის ეროვნული არჩევნები! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Parlamentswahl in Litauen",
+        "hover_text": "Parlamentswahl in Litauen 2024",
+        "share_text": "Parlamentswahl in Litauen 2024 #GoogleDoodle"
+      },
+      "el": {
+        "query": "Εθνικές εκλογές στη Λιθουανία",
+        "hover_text": "Εθνικές εκλογές στη Λιθουανία 2024",
+        "share_text": "Εθνικές εκλογές στη Λιθουανία 2024! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "લિથુઆનિયાની રાષ્ટ્રીય ચૂંટણીઓ",
+        "hover_text": "લિથુઆનિયાની રાષ્ટ્રીય ચૂંટણીઓ 2024",
+        "share_text": "લિથુઆનિયાની રાષ્ટ્રીય ચૂંટણીઓ 2024! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "הבחירות הארציות בליטא",
+        "hover_text": "הבחירות הארציות בליטא 2024",
+        "share_text": "הבחירות הארציות בליטא 2024 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "लिथुआनिया का राष्ट्रीय चुनाव",
+        "hover_text": "लिथुआनिया का राष्ट्रीय चुनाव 2024",
+        "share_text": "लिथुआनिया का राष्ट्रीय चुनाव 2024! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Parlamenti választás Litvániában",
+        "hover_text": "Parlamenti választás Litvániában, 2024",
+        "share_text": "Parlamenti választás Litvániában, 2024. #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þingkosningar í Litháen",
+        "hover_text": "Þingkosningar í Litháen 2024",
+        "share_text": "Þingkosningar í Litháen 2024! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Pemilu Nasional Lituania",
+        "hover_text": "Pemilu Nasional Lituania 2024",
+        "share_text": "Pemilu Nasional Lituania 2024 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Elezioni parlamentari in Lituania",
+        "hover_text": "Elezioni parlamentari 2024 in Lituania",
+        "share_text": "Elezioni parlamentari 2024 in Lituania! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "リトアニア総選挙",
+        "hover_text": "2024 年リトアニア総選挙",
+        "share_text": "2024 年リトアニア総選挙 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಲಿಥುವೇನಿಯಾ ರಾಷ್ಟ್ರೀಯ ಚುನಾವಣೆಗಳು",
+        "hover_text": "ಲಿಥುವೇನಿಯಾ ರಾಷ್ಟ್ರೀಯ ಚುನಾವಣೆಗಳು 2024",
+        "share_text": "ಲಿಥುವೇನಿಯಾ ರಾಷ್ಟ್ರೀಯ ಚುನಾವಣೆಗಳು 2024! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Литвадағы жалпыұлттық сайлау",
+        "hover_text": "Литвадағы 2024 жылғы жалпыұлттық сайлау",
+        "share_text": "Литвадағы 2024 жылғы жалпыұлттық сайлау! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការបោះឆ្នោតថ្នាក់ជាតិលីទុយអានី",
+        "hover_text": "ការបោះឆ្នោតថ្នាក់ជាតិលីទុយអានីឆ្នាំ 2024",
+        "share_text": "ការបោះឆ្នោតថ្នាក់ជាតិលីទុយអានីឆ្នាំ 2024! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "리투아니아 총선",
+        "hover_text": "2024년 리투아니아 총선",
+        "share_text": "2024년 리투아니아 총선 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Литвадагы Улуттук шайлоо",
+        "hover_text": "Литвадагы Улуттук шайлоо – 2024",
+        "share_text": "Литвадагы Улуттук шайлоо – 2024! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ການເລືອກຕັ້ງແຫ່ງຊາດຂອງລິທົວເນຍ",
+        "hover_text": "ການເລືອກຕັ້ງແຫ່ງຊາດຂອງລິທົວເນຍປີ 2024",
+        "share_text": "ການເລືອກຕັ້ງແຫ່ງຊາດຂອງລິທົວເນຍປີ 2024! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Elecciones nacionales de Lituania",
+        "hover_text": "Elecciones nacionales de Lituania 2024",
+        "share_text": "Elecciones nacionales de Lituania 2024 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Lietuvas Seima vēlēšanas",
+        "hover_text": "Parlamenta vēlēšanas Lietuvā — 2024",
+        "share_text": "Parlamenta vēlēšanas Lietuvā — 2024! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Seimo rinkimai 2024",
+        "hover_text": "Lietuvos Respublikos Seimo rinkimai 2024",
+        "share_text": "Lietuvos Respublikos Seimo rinkimai #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Национални избори во Литванија",
+        "hover_text": "Национални избори во Литванија, 2024 г.",
+        "share_text": "Национални избори во Литванија, 2024 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Pilihan Raya Parlimen Lithuania",
+        "hover_text": "Pilihan Raya Parlimen Lithuania 2024",
+        "share_text": "Pilihan Raya Parlimen Lithuania 2024! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ലിത്വേനിയ ദേശീയ തിരഞ്ഞെടുപ്പ്",
+        "hover_text": "ലിത്വേനിയ ദേശീയ തിരഞ്ഞെടുപ്പ് 2024",
+        "share_text": "ലിത്വേനിയ ദേശീയ തിരഞ്ഞെടുപ്പ് 2024! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "लिथुआनियामधील संसदीय निवडणुका",
+        "hover_text": "लिथुआनियामधील संसदीय निवडणुका २०२४",
+        "share_text": "लिथुआनियामधील संसदीय निवडणुका २०२४! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Литвагийн парламентын сонгууль",
+        "hover_text": "2024 оны Литвагийн парламентын сонгууль",
+        "share_text": "2024 оны Литвагийн парламентын сонгууль! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "लिथुआनियाको राष्ट्रिय निर्वाचन",
+        "hover_text": "लिथुआनियाको राष्ट्रिय निर्वाचन २०२४",
+        "share_text": "लिथुआनियाको राष्ट्रिय निर्वाचन २०२४! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Valget i Litauen",
+        "hover_text": "Valget i Litauen 2024",
+        "share_text": "Valget i Litauen 2024! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "Lithuania National Elections",
+        "hover_text": "انتخابات ملی ۲۰۲۴ لیتوانی!",
+        "share_text": "انتخابات ملی ۲۰۲۴ لیتوانی! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Wybory parlamentarne na Litwie",
+        "hover_text": "Wybory parlamentarne 2024 na Litwie",
+        "share_text": "Wybory parlamentarne 2024 na Litwie #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Eleições nacionais da Lituânia",
+        "hover_text": "Eleições nacionais da Lituânia 2024",
+        "share_text": "Eleições nacionais da Lituânia 2024 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Eleições Parlamentares da Lituânia",
+        "hover_text": "Eleições Parlamentares da Lituânia de 2024",
+        "share_text": "Eleições Parlamentares da Lituânia de 2024! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਲਿਥੁਆਨੀਆ ਦੀਆਂ ਰਾਸ਼ਟਰੀ ਚੋਣਾਂ",
+        "hover_text": "ਲਿਥੁਆਨੀਆ ਦੀਆਂ ਰਾਸ਼ਟਰੀ ਚੋਣਾਂ 2024",
+        "share_text": "ਲਿਥੁਆਨੀਆ ਦੀਆਂ ਰਾਸ਼ਟਰੀ ਚੋਣਾਂ 2024! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Alegeri naționale în Lituania",
+        "hover_text": "Alegeri naționale în Lituania 2024",
+        "share_text": "Alegeri naționale în Lituania 2024! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Парламентские выборы в Литве",
+        "hover_text": "Парламентские выборы в Литве – 2024",
+        "share_text": "Парламентские выборы в Литве – 2024 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Општи избори у Литванији",
+        "hover_text": "Општи избори у Литванији 2024.",
+        "share_text": "Општи избори у Литванији 2024! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Opšti izbori u Litvaniji",
+        "hover_text": "Opšti izbori u Litvaniji 2024.",
+        "share_text": "Opšti izbori u Litvaniji 2024! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ලිතුවේනියාවේ ජාතික මැතිවරණය",
+        "hover_text": "ලිතුවේනියාවේ ජාතික මැතිවරණය 2024",
+        "share_text": "ලිතුවේනියාවේ ජාතික මැතිවරණය 2024! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Celoštátne voľby v Litve",
+        "hover_text": "Celoštátne voľby v Litve 2024",
+        "share_text": "Celoštátne voľby v Litve 2024! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Parlamentarne volitve v Litvi",
+        "hover_text": "Parlamentarne volitve v Litvi 2024",
+        "share_text": "Parlamentarne volitve v Litvi 2024! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Elecciones generales de Lituania",
+        "hover_text": "Elecciones generales de Lituania 2024",
+        "share_text": "Elecciones generales de Lituania 2024 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Uchaguzi wa Kitaifa Litwania",
+        "hover_text": "Uchaguzi wa Kitaifa Litwania 2024",
+        "share_text": "Uchaguzi wa Kitaifa Litwania 2024! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Nationella val i Litauen",
+        "hover_text": "Nationella val i Litauen 2024",
+        "share_text": "Nationella val i Litauen 2024 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "லிதுவேனியா தேசியத் தேர்தல்கள்",
+        "hover_text": "லிதுவேனியா தேசியத் தேர்தல்கள் 2024",
+        "share_text": "லிதுவேனியா தேசியத் தேர்தல்கள் 2024! #GoogleDoodle"
+      },
+      "te": {
+        "query": "లిథువేనియా జాతీయ ఎన్నికలు",
+        "hover_text": "లిథువేనియా జాతీయ ఎన్నికలు 2024",
+        "share_text": "లిథువేనియా జాతీయ ఎన్నికలు 2024! #GoogleDoodle"
+      },
+      "th": {
+        "query": "การเลือกตั้งรัฐสภาลิทัวเนีย",
+        "hover_text": "การเลือกตั้งรัฐสภาลิทัวเนียปี 2024",
+        "share_text": "การเลือกตั้งรัฐสภาลิทัวเนียปี 2024! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Litvanya Ulusal Seçimleri",
+        "hover_text": "2024 Litvanya Ulusal Seçimleri",
+        "share_text": "2024 Litvanya Ulusal Seçimleri #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Парламентські вибори в Литві",
+        "hover_text": "Парламентські вибори в Литві у 2024 році",
+        "share_text": "Парламентські вибори в Литві у 2024 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "لتھووینیا کے پارلیمانی انتخابات",
+        "hover_text": "لتھووینیا کے پارلیمانی انتخابات 2024",
+        "share_text": "لتھووینیا کے پارلیمانی انتخابات 2024! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Litva Parlament saylovlari",
+        "hover_text": "Litva Parlament saylovlari 2024",
+        "share_text": "Litva Parlament saylovlari 2024! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Bầu cử quốc gia ở Lithuania",
+        "hover_text": "Bầu cử quốc gia ở Lithuania năm 2024",
+        "share_text": "Bầu cử quốc gia ở Lithuania năm 2024! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ukhetho Lukazwelonke lwaseLithuania",
+        "hover_text": "Ukhetho Lukazwelonke lwaseLithuania lwango-2024",
+        "share_text": "Ukhetho Lukazwelonke lwaseLithuania lwango-2024! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Lithuania Parliamentary Elections",
+    "share_text": "Lithuania Parliamentary Elections 2024! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-lizzie-emeh",
     "title": "Celebrating Lizzie Emeh",
     "url": "//www.google.com/logos/doodles/2024/celebrating-lizzie-emeh-6753651837110557.3-l.png",
