@@ -623,9 +623,9 @@
         "share_text": "Fijne Onafhankelijkheidsdag, Azerbeidzjan #GoogleDoodle"
       },
       "et": {
-        "query": "Aserbaidžaani iseseisvuspäev",
-        "hover_text": null,
-        "share_text": "Head iseseisvuspäeva, Aserbaidžaan! #GoogleDoodle"
+        "query": null,
+        "hover_text": "Aserbaidžaani 2024. aasta taasiseseisvumispäev",
+        "share_text": ""
       },
       "fi": {
         "query": "Azerbaidžanin itsenäisyyspäivä",
@@ -753,9 +753,9 @@
         "share_text": "Sveicam Neatkarības dienā, Azerbaidžāna! #GoogleDoodle"
       },
       "lt": {
-        "query": "Azerbaidžano nepriklausomybės diena",
-        "hover_text": null,
-        "share_text": "Sveikiname Azerbaidžaną su Nepriklausomybės diena! #GoogleDoodle"
+        "query": null,
+        "hover_text": "Azerbaidžano nepriklausomybės atkūrimo diena, 2024 m.",
+        "share_text": ""
       },
       "mk": {
         "query": "Ден на независноста на Азербејџан",
@@ -973,9 +973,9 @@
         "share_text": "یوم آزادی مبارک ہو، آذربائیجان! GoogleDoodle#"
       },
       "uz": {
-        "query": "Ozarbayjon Mustaqillik kuni",
+        "query": "Ozarbayjon Mustaqilligining barpo etilishi kuni",
         "hover_text": null,
-        "share_text": "Mustaqillik kuni muborak, Ozarbayjon! #GoogleDoodle"
+        "share_text": "Ozarbayjon Mustaqilligining barpo etilishi kuni bilan! #GoogleDoodle"
       },
       "vi": {
         "query": "Ngày Quốc khánh Azerbaijan",
