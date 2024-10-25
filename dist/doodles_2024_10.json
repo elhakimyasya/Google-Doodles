@@ -1,5 +1,504 @@
 [
   {
+    "name": "celebrating-krishnakumar-kunnath",
+    "title": "Celebrating Krishnakumar Kunnath",
+    "url": "//www.google.com/logos/doodles/2024/celebrating-krishnakumar-kunnath-6753651837110276.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/tpwj3bc2J1tMhbOtD054dS_zzjAOaQ9fgPbksEPbZjcf26zWGhisA6jatlmsjSGfCBvkCn2T4m7y0m3lkOHGPYOy546WRYG2A_tkGF5wuIoBdcuFh0ex7A",
+    "high_res_url": "//www.google.com/logos/doodles/2024/celebrating-krishnakumar-kunnath-6753651837110276-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      10,
+      25
+    ],
+    "translations": {
+      "en": {
+        "query": "Krishnakumar Kunnath \"KK\"",
+        "hover_text": "Celebrating Krishnakumar Kunnath \"KK\"",
+        "share_text": "Celebrating Krishnakumar Kunnath \"KK\"! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Krishnakumar Kunnath “KK”",
+        "hover_text": "Ter viering van Krishnakumar Kunnath “KK”",
+        "share_text": "Ter viering van Krishnakumar Kunnath “KK”! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Krishnakumar Kunnath \"KK\"",
+        "hover_text": "Përkujtojmë Krishnakumar Kunnath \"KK\"",
+        "share_text": "Përkujtojmë Krishnakumar Kunnath \"KK\"! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ክሪሽናኩማር ኩናዝ «KK»",
+        "hover_text": "ክሪሽናኩማር ኩናዝ «KK»ን በማክበር ላይ",
+        "share_text": "ክሪሽናኩማር ኩናዝ «KK»ን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "\"كريشنا كومار كوناث\" المعروف باسم \"KK\"",
+        "hover_text": "نحتفل بذكرى المغنّي \"كريشنا كومار كوناث\" المعروف باسم \"KK\"",
+        "share_text": "نحتفل اليوم بذكرى المغنّي \"كريشنا كومار كوناث\" المعروف باسم \"KK\". ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Կրիշնակումար Կուննաթ «KK»",
+        "hover_text": "Տոնենք Կրիշնակումար Կուննաթի «KK» օրը",
+        "share_text": "Տոնենք Կրիշնակումար Կուննաթի «KK» օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Krishnakumar Kunnath \"KK\"",
+        "hover_text": "Krishnakumar Kunnath \"KK\" günü",
+        "share_text": "Krishnakumar Kunnath \"KK\" günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "কৃষ্ণকুমার কুন্নাথ \"কেকে\"",
+        "hover_text": "কৃষ্ণকুমার কুন্নাথ \"কেকে\"-র স্মৃতিতে উদযাপন করা হচ্ছে",
+        "share_text": "কৃষ্ণকুমার কুন্নাথ \"কেকে\"-র স্মৃতিতে উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Krishnakumar Kunnath (\"KK\")",
+        "hover_text": "Krishnakumar Kunnathen (\"KK\") omenez",
+        "share_text": "Krishnakumar Kunnathen (\"KK\") omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Крышнакумар Кунатх, або \"КК\"",
+        "hover_text": "Ушаноўваем Крышнакумара Кунатха (\"КК\")",
+        "share_text": "Ушаноўваем Крышнакумара Кунатха (\"КК\")! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Krishnakumar Kunnath \"KK\"",
+        "hover_text": "Slavimo Krishnakumara Kunnatha \"KK\"",
+        "share_text": "Slavimo Krishnakumara Kunnatha \"KK\"! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Krishnakumar Kunnath 'KK'",
+        "hover_text": "Celebrating Krishnakumar Kunnath 'KK'",
+        "share_text": "Celebrating Krishnakumar Kunnath 'KK' #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Кришнакумар Кунат – KK",
+        "hover_text": "Честване на Кришнакумар Кунат – KK",
+        "share_text": "Честване на Кришнакумар Кунат – KK! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Krishnakumar Kunnath “KK”",
+        "hover_text": "Krishnakumar Kunnath “KK” ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "Krishnakumar Kunnath “KK” ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Krishnakumar Kunnath \"KK\"",
+        "hover_text": "Homenatge a Krishnakumar Kunnath \"KK\"",
+        "share_text": "Homenatge a Krishnakumar Kunnath \"KK\" #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Krishnakumar Kunnath \"KK\"",
+        "hover_text": "紀念 Krishnakumar Kunnath {KK}",
+        "share_text": "紀念 Krishnakumar Kunnath {KK}！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "克利什那庫馬爾梅農 (KK)",
+        "hover_text": "紀念克利什那庫馬爾梅農 (KK)",
+        "share_text": "紀念克利什那庫馬爾梅農 (KK)！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "克利什那库马尔·梅农“KK”",
+        "hover_text": "纪念克利什那库马尔·梅农“KK”",
+        "share_text": "纪念克利什那库马尔·梅农“KK”！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Krishnakumar Kunnath \"KK\"",
+        "hover_text": "U čast Krishnakumara Kunnatha \"KK-a\"",
+        "share_text": "U čast Krishnakumara Kunnatha \"KK-a\"! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Krishnakumar Kunnath „KK“",
+        "hover_text": "Dnes si připomínáme Krishnakumara Kunnatha „KK“",
+        "share_text": "Dnes si připomínáme Krishnakumara Kunnatha „KK“! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Krishnakumar Kunnath \"KK\"",
+        "hover_text": "Vi hylder Krishnakumar Kunnath \"KK\"",
+        "share_text": "Vi hylder Krishnakumar Kunnath \"KK\" #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Krishnakumar Kunnath (KK)",
+        "hover_text": "Doodle ter ere van Krishnakumar Kunnath (KK)",
+        "share_text": "Een doodle ter ere van Krishnakumar Kunnath (KK)! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Krishnakumar Kunnath ehk „KK“",
+        "hover_text": "Mälestame Krishnakumar Kunnathi ehk „KK-d“",
+        "share_text": "Mälestame Krishnakumar Kunnathi ehk „KK-d“! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Krishnakumar Kunnath \"KK\"",
+        "hover_text": "Krishnakumar Kunnath \"KK\"",
+        "share_text": "Krishnakumar Kunnath \"KK\" #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Krishnakumar Kunnath \"KK\"",
+        "hover_text": "Hommage à Krishnakumar Kunnath alias KK",
+        "share_text": "Hommage à Krishnakumar Kunnath alias KK ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Krishnakumar Kunnath « KK »",
+        "hover_text": "Célébration de Krishnakumar Kunnath « KK »",
+        "share_text": "Célébration de Krishnakumar Kunnath « KK »! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Krishnakumar Kunnath \"KK\"",
+        "hover_text": "Homenaxe a Krishnakumar Kunnath \"KK\"",
+        "share_text": "Homenaxe a Krishnakumar Kunnath \"KK\"! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "კრიშნაკუმარ კუნათი, „კკ“",
+        "hover_text": "აღვნიშნავთ კრიშნაკუმარ კუნათის, „კკ“-ის, დღეს",
+        "share_text": "აღვნიშნავთ კრიშნაკუმარ კუნათის, „კკ“-ის, დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Krishnakumar Kunnath „KK“",
+        "hover_text": "Zu Ehren von Krishnakumar Kunnath „KK“",
+        "share_text": "Zu Ehren von Krishnakumar Kunnath „KK“ #GoogleDoodle"
+      },
+      "el": {
+        "query": "Krishnakumar Kunnath \"KK\"",
+        "hover_text": "Τιμούμε τον Krishnakumar Kunnath \"KK\"",
+        "share_text": "Τιμούμε τον Krishnakumar Kunnath \"KK\"! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "કૃષ્ણકુમાર કુન્નથ \"KK\"",
+        "hover_text": "કૃષ્ણકુમાર કુન્નથ \"KK\"ની યાદમાં",
+        "share_text": "કૃષ્ણકુમાર કુન્નથ \"KK\"ની યાદમાં! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Krishnakumar Kunnath \"KK\"",
+        "hover_text": "מחווה לקרישנקומאר קונאת (KK)",
+        "share_text": "מחווה לקרישנקומאר קונאת (KK) GoogleDoodle#"
+      },
+      "hi": {
+        "query": "कृष्णकुमार कुन्नथ \"केके\"",
+        "hover_text": "कृष्णकुमार कुन्नथ \"केके\" की याद में",
+        "share_text": "कृष्णकुमार कुन्नथ \"केके\" की याद में! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Krishnakumar Kunnath „KK”",
+        "hover_text": "Krishnakumar Kunnath „KK” ünneplése",
+        "share_text": "Krishnakumar Kunnath „KK” ünneplése. #GoogleDoodle"
+      },
+      "is": {
+        "query": "Krishnakumar Kunnath „KK“",
+        "hover_text": "Við heiðrum Krishnakumar Kunnath „KK“",
+        "share_text": "Við heiðrum Krishnakumar Kunnath „KK“! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Krishnakumar Kunnath \"KK\"",
+        "hover_text": "Mengenang Krishnakumar Kunnath \"KK\"",
+        "share_text": "Mengenang Krishnakumar Kunnath \"KK\" #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Krishnakumar Kunnath \"KK\"",
+        "hover_text": "In onore di Krishnakumar Kunnath \"KK\"",
+        "share_text": "In onore di Krishnakumar Kunnath \"KK\"! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "KK（クリシュナクマール・クナート）",
+        "hover_text": "KK（クリシュナクマール・クナート）を称えて",
+        "share_text": "KK（クリシュナクマール・クナート）を称えて #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಕೃಷ್ಣಕುಮಾರ್ ಕುನ್ನತ್ \"ಕೆಕೆ\"",
+        "hover_text": "ಕೃಷ್ಣಕುಮಾರ್ ಕುನ್ನತ್ \"ಕೆಕೆ\" ಅವರನ್ನು ಸ್ಮರಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಕೃಷ್ಣಕುಮಾರ್ ಕುನ್ನತ್ \"ಕೆಕೆ\" ಅವರನ್ನು ಸ್ಮರಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Кришнакумар Куннатт \"KK\"",
+        "hover_text": "Кришнакумар Куннатт \"KK\" күні",
+        "share_text": "Кришнакумар Куннатт \"KK\" күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Krishnakumar Kunnath \"KK\"",
+        "hover_text": "អបអរទិវារំលឹក Krishnakumar Kunnath \"KK\"",
+        "share_text": "អបអរទិវារំលឹក Krishnakumar Kunnath \"KK\"! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Krishnakumar Kunnath 'KK'",
+        "hover_text": "Krishnakumar Kunnath 'KK'를 기억하며",
+        "share_text": "Krishnakumar Kunnath 'KK'를 기억하며 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Кришнакумар Куннатх \"KK\"",
+        "hover_text": "Кришнакумар Куннатх \"KK\" күнүн майрамдоо",
+        "share_text": "Кришнакумар Куннатх \"KK\" күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Krishnakumar Kunnath \"KK\"",
+        "hover_text": "ວັນລະນຶກເຖິງ Krishnakumar Kunnath \"KK\"",
+        "share_text": "ວັນລະນຶກເຖິງ Krishnakumar Kunnath \"KK\"! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Krishnakumar Kunnath \"KK\"",
+        "hover_text": "Celebrando a Krishnakumar Kunnath \"KK\"",
+        "share_text": "¡Celebrando a Krishnakumar Kunnath \"KK\"! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Krišnakumars Kunnats (“KK”)",
+        "hover_text": "Krišnakumara Kunnata (“KK”) godināšana",
+        "share_text": "Krišnakumara Kunnata (“KK”) godināšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Krishnakumaras Kunnathas (KK)",
+        "hover_text": "Krishnakumaro Kunnatho (KK) minėjimas",
+        "share_text": "Krishnakumaro Kunnatho (KK) minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Krishnakumar Kunnath (KK)",
+        "hover_text": "Во чест на Krishnakumar Kunnath (KK)",
+        "share_text": "Во чест на Krishnakumar Kunnath (KK)! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Krishnakumar Kunnath \"KK\"",
+        "hover_text": "Meraikan Krishnakumar Kunnath \"KK\"",
+        "share_text": "Meraikan Krishnakumar Kunnath \"KK\"! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Krishnakumar Kunnath \"KK\"",
+        "hover_text": "\"KK\" എന്ന Krishnakumar Kunnath-നെ ആദരിക്കുന്നു",
+        "share_text": "\"KK\" എന്ന Krishnakumar Kunnath-നെ ആദരിക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "कृष्णकुमार कुन्नथ \"केके\"",
+        "hover_text": "कृष्णकुमार कुन्नथ \"केके\" यांच्या स्मरणार्थ",
+        "share_text": "कृष्णकुमार कुन्नथ \"केके\" यांच्या स्मरणार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Кришнакумар Куннат \"KK\"",
+        "hover_text": "Кришнакумар Куннат \"KK\"-ийн өдрийг тэмдэглэж байна",
+        "share_text": "Кришнакумар Куннат \"KK\"-ийн өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "कृष्ण कुमार कुन्नथ \"केके\"",
+        "hover_text": "कृष्ण कुमार कुन्नथ \"केके\" को सम्झना",
+        "share_text": "कृष्ण कुमार कुन्नथ \"केके\" को सम्झना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Krishnakumar Kunnath («KK»)",
+        "hover_text": "Vi minnes Krishnakumar Kunnath («KK»)",
+        "share_text": "Vi minnes Krishnakumar Kunnath («KK»)! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "",
+        "hover_text": "",
+        "share_text": "#GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "کریشناکومار کونات معروف به «کِی‌کِی»",
+        "hover_text": "بزرگداشت کریشناکومار کونات معروف به «کِی‌کِی»",
+        "share_text": "بزرگداشت کریشناکومار کونات معروف به «کِی‌کِی»! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Krishnakumar Kunnath „KK\"",
+        "hover_text": "Wspominamy Krishnakumara Kunnatha „KK”",
+        "share_text": "Wspominamy Krishnakumara Kunnatha „KK”. #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Krishnakumar Kunnath \"KK\"",
+        "hover_text": "Celebrando as contribuições de Krishnakumar Kunnath \"KK\" para a música",
+        "share_text": "Celebrando as contribuições de Krishnakumar Kunnath \"KK\" para a música #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Krishnakumar Kunnath \"KK\"",
+        "hover_text": "Celebração de Krishnakumar Kunnath \"KK\"",
+        "share_text": "Celebração de Krishnakumar Kunnath \"KK\"! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਕ੍ਰਿਸ਼ਨਾਕੁਮਾਰ ਕੁੰਨਥ \"ਕੇ ਕੇ\"",
+        "hover_text": "ਕ੍ਰਿਸ਼ਨਾਕੁਮਾਰ ਕੁੰਨਥ \"ਕੇ ਕੇ\" ਦੀ ਯਾਦ ਵਿੱਚ",
+        "share_text": "ਕ੍ਰਿਸ਼ਨਾਕੁਮਾਰ ਕੁੰਨਥ \"ਕੇ ਕੇ\" ਦੀ ਯਾਦ ਵਿੱਚ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Krishnakumar Kunnath „KK”",
+        "hover_text": "În cinstea lui Krishnakumar Kunnath „KK”",
+        "share_text": "În cinstea lui Krishnakumar Kunnath „KK”! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Кришнакумар Куннатх (КК)",
+        "hover_text": "День Кришнакумара Куннатха (КК)",
+        "share_text": "День Кришнакумара Куннатха (КК) #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Кришнакумар Кунат КК",
+        "hover_text": "Славимо Кришнакумара Куната КК",
+        "share_text": "Славимо Кришнакумара Куната КК #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Krišnakumar Kunat KK",
+        "hover_text": "Slavimo Krišnakumara Kunata KK",
+        "share_text": "Slavimo Krišnakumara Kunata KK #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ක්‍රිෂ්ණකුමාර් කුන්නත් \"කේකේ\"",
+        "hover_text": "ක්‍රිෂ්ණකුමාර් කුන්නත් \"කේකේ\" සමරමින්",
+        "share_text": "ක්‍රිෂ්ණකුමාර් කුන්නත් \"කේකේ\" සමරමින්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Krishnakumar Kunnath „KK“",
+        "hover_text": "Pripomíname si Krishnakumara Kunnatha prezývaného „KK“",
+        "share_text": "Pripomíname si Krishnakumara Kunnatha prezývaného „KK“. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Krishnakumar Kunnath »KK«",
+        "hover_text": "Slavimo Krishnakumarja Kunnatha »KK-ja«",
+        "share_text": "Slavimo Krishnakumarja Kunnathja »KK-ja«! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Krishnakumar Kunnath (KK)",
+        "hover_text": "Homenaje a Krishnakumar Kunnath (KK)",
+        "share_text": "Hoy rendimos homenaje a Krishnakumar Kunnath (KK) #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Krishnakumar Kunnath \"KK\"",
+        "hover_text": "Tunamwenzi Krishnakumar Kunnath \"KK\"",
+        "share_text": "Tunamwenzi Krishnakumar Kunnath \"KK\"! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Krishnakumar Kunnath ”KK”",
+        "hover_text": "Vi hyllar Krishnakumar Kunnath ”KK”",
+        "share_text": "Vi hyllar Krishnakumar Kunnath ”KK”! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "கிருஷ்ணகுமார் குன்னத் \"KK\"",
+        "hover_text": "கிருஷ்ணகுமார் குன்னத் \"KK\"வைக் கொண்டாடுவோம்",
+        "share_text": "கிருஷ்ணகுமார் குன்னத் \"KK\"வைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "కృష్ణకుమార్ కున్నత్ \"కెకె\"",
+        "hover_text": "కృష్ణకుమార్ కున్నత్ \"కెకె\" వేడుకలు",
+        "share_text": "కృష్ణకుమార్ కున్నత్ \"కెకె\" వేడుకలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Krishnakumar Kunnath \"KK\"",
+        "hover_text": "วันรำลึกถึง Krishnakumar Kunnath \"KK\"",
+        "share_text": "วันรำลึกถึง Krishnakumar Kunnath \"KK\" #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Krishnakumar Kunnath \"KK\"",
+        "hover_text": "Krishnakumar Kunnath \"KK\"yi Anıyoruz",
+        "share_text": "Krishnakumar Kunnath \"KK\"'yi anıyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Крішнакумар Куннатх (відомий як KK)",
+        "hover_text": "Ушановуємо Крішнакумара Куннатха (відомого як KK)",
+        "share_text": "Ушановуємо Крішнакумара Куннатха (відомого як KK)! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "‫Krishnakumar Kunnath \"KK\"‎",
+        "hover_text": "‫Krishnakumar Kunnath \"KK\"‎ کی یاد میں",
+        "share_text": "‫Krishnakumar Kunnath \"KK\"‎ کی یاد میں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Krishnakumar Kunnath \"KK\"",
+        "hover_text": "Krishnakumar Kunnath \"KK\" kuni",
+        "share_text": "Krishnakumar Kunnath \"KK\" kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Krishnakumar Kunnath \"KK\"",
+        "hover_text": "Tôn vinh Krishnakumar Kunnath \"KK\"",
+        "share_text": "Tôn vinh Krishnakumar Kunnath \"KK\"! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "UKrishnakumar Kunnath \"KK\"",
+        "hover_text": "Sibungaza uKrishnakumar Kunnath \"KK\"",
+        "share_text": "Sibungaza uKrishnakumar Kunnath \"KK\"! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Krishnakumar Kunnath \"KK\"",
+    "share_text": "Celebrating Krishnakumar Kunnath \"KK\"! #GoogleDoodle"
+  },
+  {
     "name": "rise-of-the-half-moon",
     "title": "Rise of the Half Moon",
     "url": "//www.google.com/logos/doodles/2024/rise-of-the-half-moon-6753651837110583.8-l.png",
@@ -1027,9 +1526,9 @@
         "share_text": "Gëzuar Ditën e Pavarësisë, Azerbajxhan! #GoogleDoodle"
       },
       "am": {
-        "query": "የአዘርባጃን የነጻነት ቀን",
-        "hover_text": null,
-        "share_text": "መልካም የነጻነት ቀን፣ አዘርባጃን! #GoogleDoodle"
+        "query": "የአዘርባይጃን የነፃነት መመለስ ቀን",
+        "hover_text": "የአዘርባይጃን የነፃነት መመለስ ቀን 2024",
+        "share_text": "መልካም የአዘርባይጃን የነፃነት መመለስ ቀን! #GoogleDoodle"
       },
       "ar": {
         "query": "عيد استقلال أذربيجان",
@@ -1052,9 +1551,9 @@
         "share_text": "স্বাধীনতা দিবসের শুভেচ্ছা, আজারবাইজান! #GoogleDoodle"
       },
       "eu": {
-        "query": "Azerbaijango Independentzia Eguna",
+        "query": "Azerbaijango Independentziaren Berrezarpen Eguna",
         "hover_text": null,
-        "share_text": "Independentzia Egun zoriontsua izan, Azerbaijan! #GoogleDoodle"
+        "share_text": "Independentziaren Berrezarpen Egun zoriontsua izan, Azerbaijan! #GoogleDoodle"
       },
       "be": {
         "query": "Дзень аднаўлення незалежнасці Азербайджана",
@@ -1062,9 +1561,9 @@
         "share_text": "З Днём аднаўлення незалежнасці Азербайджана! #GoogleDoodle"
       },
       "bs": {
-        "query": "Dan nezavisnosti Azerbejdžana",
-        "hover_text": null,
-        "share_text": "Sretan Dan nezavisnosti, Azerbejdžane! #GoogleDoodle"
+        "query": "Dan obnove nezavisnosti Azerbajdžana",
+        "hover_text": "Dan obnove nezavisnosti Azerbajdžana 2024.",
+        "share_text": "Sretan Dan obnove nezavisnosti, Azerbajdžan! #GoogleDoodle"
       },
       "en-GB": {
         "query": "Day of Restoration of Independence of Azerbaijan",
@@ -1077,9 +1576,9 @@
         "share_text": "Честит Ден на независимостта на Азербайджан! #GoogleDoodle"
       },
       "my": {
-        "query": "အဇာဘိုင်ဂျန် လွတ်လပ်ရေးနေ့",
-        "hover_text": null,
-        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ ဖြစ်ပါစေ အဇာဘိုင်ဂျန်။ #GoogleDoodle"
+        "query": "အဇာဘိုင်ဂျန်နိုင်ငံ လွတ်လပ်ရေးပြန်လည်ရယူသည့်နေ့",
+        "hover_text": "၂၀၂၄ အဇာဘိုင်ဂျန်နိုင်ငံ လွတ်လပ်ရေးပြန်လည်ရယူသည့်နေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးပြန်လည်ရယူသည့်နေ့ ဖြစ်ပါစေ အဇာဘိုင်ဂျန်နိုင်ငံ။ #GoogleDoodle"
       },
       "ca": {
         "query": "Dia de la Independència de l'Azerbaidjan",
@@ -1087,9 +1586,9 @@
         "share_text": "Feliç Dia de la Independència, Azerbaidjan! #GoogleDoodle"
       },
       "zh-HK": {
-        "query": "阿塞拜疆獨立日",
+        "query": "亞塞拜疆恢復獨立日",
         "hover_text": null,
-        "share_text": "阿塞拜疆，獨立日快樂！#GoogleDoodle"
+        "share_text": "亞塞拜疆，恢復獨立日快樂！#GoogleDoodle"
       },
       "zh-TW": {
         "query": "亞塞拜然獨立紀念日",
@@ -1097,14 +1596,14 @@
         "share_text": "亞塞拜然，獨立紀念日快樂！#GoogleDoodle"
       },
       "zh-CN": {
-        "query": "阿塞拜疆独立日",
+        "query": "阿塞拜疆恢复独立日",
         "hover_text": null,
-        "share_text": "阿塞拜疆，独立日快乐！#GoogleDoodle"
+        "share_text": "阿塞拜疆，恢复独立日快乐！#GoogleDoodle"
       },
       "hr": {
-        "query": "Dan neovisnosti Azerbajdžana",
-        "hover_text": null,
-        "share_text": "Sretan Dan neovisnosti, Azerbajdžanu! #GoogleDoodle"
+        "query": "Dan obnove nezavisnosti Azerbajdžana",
+        "hover_text": "Dan obnove nezavisnosti Azerbajdžana 2024.",
+        "share_text": "Sretan Dan obnove nezavisnosti, Azerbajdžan! #GoogleDoodle"
       },
       "cs": {
         "query": "Den nezávislosti Ázerbájdžánu",
@@ -1112,19 +1611,19 @@
         "share_text": "Vše nejlepší ke Dni nezávislosti, Ázerbájdžáne! #GoogleDoodle"
       },
       "da": {
-        "query": "Aserbajdsjans uafhængighedsdag",
+        "query": "Uafhængighedsdag for Aserbajdsjan",
         "hover_text": null,
-        "share_text": "Vi fejrer Aserbajdsjans uafhængighedsdag! #GoogleDoodle"
+        "share_text": "Glædelig uafhængighedsdag til Aserbajdsjan #GoogleDoodle"
       },
       "nl": {
         "query": "Dag van Onafhankelijkheidsherstel van Azerbeidzjan",
-        "hover_text": null,
+        "hover_text": "Dag van Onafhankelijkheidsherstel van Azerbeidzjan 2024",
         "share_text": "Fijne Dag van Onafhankelijkheidsherstel, Azerbeidzjan! #GoogleDoodle"
       },
       "et": {
-        "query": null,
+        "query": "Aserbaidžaani taasiseseisvumispäev",
         "hover_text": "Aserbaidžaani 2024. aasta taasiseseisvumispäev",
-        "share_text": ""
+        "share_text": "Head Aserbaidžaani taasiseseisvumispäeva! #GoogleDoodle"
       },
       "fi": {
         "query": "Azerbaidžanin itsenäisyyspäivä",
@@ -1188,7 +1687,7 @@
       },
       "is": {
         "query": "Sjálfstæðisdagur Aserbaídsjans",
-        "hover_text": null,
+        "hover_text": "Sjálfstæðisdagur Aserbaídsjans 2024",
         "share_text": "Gleðilegan sjálfstæðisdag, Aserbaídsjan! #GoogleDoodle"
       },
       "id": {
@@ -1202,9 +1701,9 @@
         "share_text": "Lá Saoirse na hAsarbaiseáine faoi mhaise duit! #GoogleDoodle"
       },
       "it": {
-        "query": "Festa dell'indipendenza dell'Azerbaigian",
+        "query": "Festa della riconquista dell'indipendenza dell'Azerbaigian",
         "hover_text": null,
-        "share_text": "Buona festa dell'indipendenza, Azerbaigian! #GoogleDoodle"
+        "share_text": "Buona festa della riconquista dell'indipendenza, Azerbaigian! #GoogleDoodle"
       },
       "ja": {
         "query": "アゼルバイジャン独立記念日",
@@ -1227,9 +1726,9 @@
         "share_text": "អបអរ​ទិវា​បុណ្យ​ឯករាជ្យ​ជាតិ​អាស៊ែបៃហ្សង់! #GoogleDoodle"
       },
       "ko": {
-        "query": "아제르바이잔 독립기념일",
+        "query": "아제르바이잔 공화국 독립 회복 기념일",
         "hover_text": null,
-        "share_text": "아제르바이잔 독립기념일 기념 #Google기념일로고"
+        "share_text": "아제르바이잔 공화국 독립 회복 기념일 기념 #GoogleDoodle"
       },
       "ky": {
         "query": "Азербайжандын Эгемендүүлүк күнү",
@@ -1247,9 +1746,9 @@
         "share_text": "¡Feliz Día de la Independencia, Azerbaiyán! #GoogleDoodle"
       },
       "lv": {
-        "query": "Azerbaidžānas Neatkarības diena",
-        "hover_text": null,
-        "share_text": "Sveicam Neatkarības dienā, Azerbaidžāna! #GoogleDoodle"
+        "query": "Azerbaidžānas Neatkarības atjaunošanas diena",
+        "hover_text": "Azerbaidžānas neatkarības atjaunošanas diena — 2024",
+        "share_text": "Sveicam Neatkarības atjaunošanas dienā, Azerbaidžāna! #GoogleDoodle"
       },
       "lt": {
         "query": null,
@@ -1267,9 +1766,9 @@
         "share_text": "Tsarà Fetin'ny fahaleovantena ry Azerbaijano ! #GoogleDoodle"
       },
       "ms": {
-        "query": "Hari Kemerdekaan Azerbaijan",
-        "hover_text": null,
-        "share_text": "Selamat Hari Kemerdekaan, Azerbaijan! #GoogleDoodle"
+        "query": "Hari Deklarasi Kemerdekaan Azerbaijan",
+        "hover_text": "Hari Deklarasi Kemerdekaan Azerbaijan 2024",
+        "share_text": "Selamat Hari Deklarasi Kemerdekaan Azerbaijan! #GoogleDoodle"
       },
       "ml": {
         "query": "അസർബൈജാൻ സ്വാതന്ത്ര്യദിനം",
@@ -1287,9 +1786,9 @@
         "share_text": "अझरबैजानला स्वातंत्र्यदिनाच्या शुभेच्छा! #GoogleDoodle"
       },
       "mn": {
-        "query": "Азербайжан улсын Тусгаар тогтнолын өдөр",
-        "hover_text": null,
-        "share_text": "Азербайжан улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+        "query": "Азербайжан Улсын Тусгаар тогтнолоо сэргээн мандуулсан өдөр",
+        "hover_text": "2024 оны Азербайжан Улсын Тусгаар тогтнолоо сэргээн мандуулсан өдөр",
+        "share_text": "Азербайжаны иргэдэд Тусгаар тогтнолоо сэргээн мандуулсан өдрийн мэнд хүргэе! #GoogleDoodle"
       },
       "ne": {
         "query": "अजरबैजानको स्वतन्त्रता दिवस",
@@ -1297,9 +1796,9 @@
         "share_text": "स्वतन्त्रता दिवसको शुभकामना, अजरबैजान! #GoogleDoodle"
       },
       "no": {
-        "query": "Aserbajdsjans frigjøringsdag",
-        "hover_text": null,
-        "share_text": "Gratulerer med frigjøringsdagen, Aserbajdsjan! #GoogleDoodle"
+        "query": null,
+        "hover_text": "Aserbajdsjans frigjøringsdag 2024",
+        "share_text": ""
       },
       "nn": {
         "query": null,
@@ -1337,9 +1836,9 @@
         "share_text": "Feliz Dia da Independência, Azerbaijão! #GoogleDoodle"
       },
       "pt-PT": {
-        "query": "Dia da independência do Azerbaijão",
-        "hover_text": null,
-        "share_text": "Feliz dia da independência, Azerbaijão! #GoogleDoodle"
+        "query": "Dia da Restauração da Independência do Azerbaijão",
+        "hover_text": "Dia da Restauração da Independência do Azerbaijão de 2024",
+        "share_text": "Feliz Dia da Restauração da Independência do Azerbaijão! #GoogleDoodle"
       },
       "pa": {
         "query": "ਅਜ਼ਰਬਾਈਜ਼ਾਨ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ",
@@ -1362,14 +1861,14 @@
         "share_text": "День восстановления независимости Азербайджана! #GoogleDoodle"
       },
       "sr": {
-        "query": "Дан независности Азербејџана",
-        "hover_text": null,
-        "share_text": "Честитамо Дан независности Азербејџана! #GoogleDoodle"
+        "query": "Дан обнове државности Азербејџана",
+        "hover_text": "Дан обнове државности Азербејџана 2024.",
+        "share_text": "Срећан Дан обнове државности Азербејџану! #GoogleDoodle"
       },
       "sr-Latn": {
-        "query": "Dan nezavisnosti Azerbejdžana",
-        "hover_text": null,
-        "share_text": "Čestitamo Dan nezavisnosti Azerbejdžana! #GoogleDoodle"
+        "query": "Dan obnove državnosti Azerbejdžana",
+        "hover_text": "Dan obnove državnosti Azerbejdžana 2024.",
+        "share_text": "Srećan Dan obnove državnosti Azerbejdžanu! #GoogleDoodle"
       },
       "sr-ME": {
         "query": null,
@@ -1442,9 +1941,9 @@
         "share_text": "స్వాతంత్య్ర దినోత్సవ శుభాకాంక్షలు, అజర్‌బైజాన్! #GoogleDoodle"
       },
       "th": {
-        "query": "วันประกาศอิสรภาพของอาเซอร์ไบจาน",
-        "hover_text": null,
-        "share_text": "สุขสันต์วันประกาศอิสรภาพของอาเซอร์ไบจาน #GoogleDoodle"
+        "query": "วันประกาศเอกราชของอาเซอร์ไบจาน",
+        "hover_text": "วันประกาศเอกราชของอาเซอร์ไบจานปี 2024",
+        "share_text": "สุขสันต์วันประกาศเอกราชของอาเซอร์ไบจาน! #GoogleDoodle"
       },
       "tn": {
         "query": "Letsatsi la Boipuso la Azerbaijan",
@@ -1462,24 +1961,24 @@
         "share_text": ""
       },
       "uk": {
-        "query": "День незалежності Азербайджану",
-        "hover_text": null,
-        "share_text": "З Днем незалежності, Азербайджане! #GoogleDoodle"
+        "query": "День відновлення незалежності Азербайджану",
+        "hover_text": "День відновлення незалежності Азербайджану 2024 року",
+        "share_text": "З Днем відновлення незалежності, Азербайджане! #GoogleDoodle"
       },
       "ur": {
-        "query": "آذربائیجان کا یوم آزادی",
-        "hover_text": null,
-        "share_text": "یوم آزادی مبارک ہو، آذربائیجان! GoogleDoodle#"
+        "query": null,
+        "hover_text": "آذربائیجان کی آزادی کی بحالی کا دن 2024",
+        "share_text": ""
       },
       "uz": {
         "query": "Ozarbayjon Mustaqilligining barpo etilishi kuni",
-        "hover_text": null,
+        "hover_text": "Ozarbayjon Mustaqilligining barpo etilishi kuni 2024",
         "share_text": "Ozarbayjon Mustaqilligining barpo etilishi kuni bilan! #GoogleDoodle"
       },
       "vi": {
-        "query": "Ngày Quốc khánh Azerbaijan",
-        "hover_text": null,
-        "share_text": "Chào mừng Ngày Quốc khánh Azerbaijan! #GoogleDoodle"
+        "query": "Ngày Độc lập Azerbaijan",
+        "hover_text": "Ngày Độc lập Azerbaijan năm 2024",
+        "share_text": "Mừng Ngày Độc lập Azerbaijan! #GoogleDoodle"
       },
       "wo": {
         "query": null,
