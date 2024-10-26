@@ -1,5 +1,504 @@
 [
   {
+    "name": "austria-national-day-2024",
+    "title": "Austria National Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/austria-national-day-2024-6753651837110309-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/NFia6HRcSN4DsPc9o74JM8ZQMBQP_B33LSKrF48pZr0eVuLs0DCaH4o7gxTxnHraFkPuHRrDi72GbP_03zeI0p_ctmP0Ygb8gsf05ypo9p5TX3SMUHnbcQU",
+    "high_res_url": "//www.google.com/logos/doodles/2024/austria-national-day-2024-6753651837110309-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      10,
+      26
+    ],
+    "translations": {
+      "en": {
+        "query": "Austria National Day",
+        "hover_text": "Austria National Day 2024",
+        "share_text": "Happy National Day, Austria! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Oostenryk se nasionale dag",
+        "hover_text": "Oostenryk se nasionale dag 2024",
+        "share_text": "Gelukkige nasionale dag, Oostenryk! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita Kombëtare e Austrisë",
+        "hover_text": "Dita Kombëtare e Austrisë, 2024",
+        "share_text": "Gëzuar Festën Kombëtare, Austri! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የኦስትሪያ ብሔራዊ ቀን",
+        "hover_text": "የኦስትሪያ ብሔራዊ ቀን 2024",
+        "share_text": "መልካም ብሔራዊ ቀን ኦስትሪያ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "العيد الوطني للنمسا",
+        "hover_text": "العيد الوطني للنمسا 2024",
+        "share_text": "العيد الوطني لأستراليا ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ավստրիայի ազգային տոն",
+        "hover_text": "Ավստրիայի ազգային տոն 2024",
+        "share_text": "Շնորհավո՛ր Ավստրիայի ազգային տոնը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Avstriyanın Müstəqillik Günü",
+        "hover_text": "2024 Avstriyanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Avstriya! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "অস্ট্রিয়ার জাতীয় দিবস",
+        "hover_text": "অস্ট্রিয়ার জাতীয় দিবস ২০২৪",
+        "share_text": "অস্ট্রিয়ার জাতীয় দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Austriako Egun Nazionala",
+        "hover_text": "2024ko Austriako Egun Nazionala",
+        "share_text": "Egun Nazional zoriontsua izan, Austria! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Нацыянальны дзень Аўстрыі",
+        "hover_text": "Нацыянальны дзень Аўстрыі 2024",
+        "share_text": "З Нацыянальным днём, Аўстрыя! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan državnosti Austrije",
+        "hover_text": "Dan državnosti Austrije 2024.",
+        "share_text": "Sretan Dan državnosti, Austrijo! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Austria National Day",
+        "hover_text": "Austria National Day 2024",
+        "share_text": "Happy National Day, Austria! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Национален празник на Австрия",
+        "hover_text": "Национален празник на Австрия 2024 г.",
+        "share_text": "Честит национален празник на Австрия! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဩစတြီးယား အမျိုးသားနေ့",
+        "hover_text": "၂၀၂၄ သြစတြီးယားနိုင်ငံ အမျိုးသားနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် အမျိုးသားနေ့ဖြစ်ပါစေ၊ ဩစတြီးယား။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia Nacional d'Àustria",
+        "hover_text": "Dia Nacional d'Àustria 2024",
+        "share_text": "Feliç Dia Nacional, Àustria! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "奧地利國慶日",
+        "hover_text": "2024 年奧地利國慶日",
+        "share_text": "奧地利，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "奧地利國慶日",
+        "hover_text": "2024 奧地利國慶日",
+        "share_text": "奧地利，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "奥地利国庆日",
+        "hover_text": "2024 年奥地利国庆节",
+        "share_text": "奥地利，国庆日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Austrijski dan državnosti",
+        "hover_text": "Dan državnosti Austrije 2024.",
+        "share_text": "Sretan Dan državnosti, Austrijo! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Státní svátek Rakouska",
+        "hover_text": "Den rakouské státnosti 2024",
+        "share_text": "Vše nejlepší ke státnímu svátku, Rakousko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Østrigs nationaldag",
+        "hover_text": "Østrigs nationaldag 2024",
+        "share_text": "Glædelig nationaldag, Østrig! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Nationale feestdag van Oostenrijk",
+        "hover_text": "Nationale feestdag van Oostenrijk 2024",
+        "share_text": "Fijne nationale feestdag, Oostenrijk! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Austria rahvuspüha",
+        "hover_text": "Austria 2024. aasta rahvuspüha",
+        "share_text": "Head rahvuspüha, Austria! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Itävallan kansallispäivä",
+        "hover_text": "Itävallan kansallispäivä 2024",
+        "share_text": "Hyvää kansallispäivää, Itävalta! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête nationale de l'Autriche",
+        "hover_text": "Fête nationale de l'Autriche 2024",
+        "share_text": "Fête nationale de l'Autriche ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête nationale de l'Autriche",
+        "hover_text": "Fête nationale de l'Autriche 2024",
+        "share_text": "Joyeuse fête nationale de l'Autriche! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día Nacional de Austria",
+        "hover_text": "Día Nacional de Austria 2024",
+        "share_text": "Feliz Día Nacional, Austria! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ავსტრიის ეროვნული დღესასწაული",
+        "hover_text": "ავსტრიის ეროვნული დღესასწაული — 2024",
+        "share_text": "ვულოცავთ ავსტრიას ეროვნულ დღესასწაულს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Österreichischer Nationalfeiertag",
+        "hover_text": "Österreichischer Nationalfeiertag 2024",
+        "share_text": "Alles Gute zum Nationalfeiertag, Österreich! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Εθνική Ημέρα Αυστρίας",
+        "hover_text": "Εθνική Ημέρα Αυστρίας 2024",
+        "share_text": "Γιορτάζουμε την Εθνική Ημέρα της Αυστρίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ઑસ્ટ્રિયાનો રાષ્ટ્રીય દિવસ",
+        "hover_text": "ઑસ્ટ્રિયાનો રાષ્ટ્રીય દિવસ 2024",
+        "share_text": "ઑસ્ટ્રિયાના રાષ્ટ્રીય દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "החג הלאומי של אוסטריה",
+        "hover_text": "החג הלאומי של אוסטריה 2024",
+        "share_text": "חג לאומי שמח לאוסטריה! ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "ऑस्ट्रिया का राष्ट्रीय दिवस",
+        "hover_text": "ऑस्ट्रिया का राष्ट्रीय दिवस 2024",
+        "share_text": "राष्ट्रीय दिवस की शुभकामनाएं, ऑस्ट्रिया! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Ausztria nemzeti ünnepe",
+        "hover_text": "Ausztria nemzeti ünnepe, 2024",
+        "share_text": "Minden jót Ausztria nemzeti ünnepén! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þjóðhátíðardagur Austurríkis",
+        "hover_text": "Þjóðhátíðardagur Austurríkis 2024",
+        "share_text": "Gleðilegan þjóðhátíðardag, Austurríki! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Nasional Austria",
+        "hover_text": "Hari Nasional Austria 2024",
+        "share_text": "Selamat Hari Nasional, Austria! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Náisiúnta na hOstaire",
+        "hover_text": null,
+        "share_text": "Lá Náisiúnta na hOstaire faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa nazionale dell'Austria",
+        "hover_text": "Festa nazionale dell'Austria 2024",
+        "share_text": "Buona festa nazionale, Austria! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "オーストリア建国記念日",
+        "hover_text": "2024 年オーストリア建国記念日",
+        "share_text": "オーストリア建国記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಆಸ್ಟ್ರಿಯಾದ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಆಸ್ಟ್ರಿಯಾದ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಆಸ್ಟ್ರಿಯಾ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Австрияның Ұлттық күні",
+        "hover_text": "Аустрияның Ұлттық күні — 2024",
+        "share_text": "Ұлттық күн құтты болсын, Австрия! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យជាតិ​អូទ្រីស",
+        "hover_text": "ទិវា​បុណ្យជាតិ​អូទ្រីស​ឆ្នាំ 2024",
+        "share_text": "អបអរទិវាបុណ្យជាតិ​អូទ្រីស! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "오스트리아 국경일",
+        "hover_text": "2024년 오스트리아 국경일",
+        "share_text": "오스트리아 국경일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Австриянын Улуттук күнү",
+        "hover_text": "Австриянын Улуттук күнү — 2024",
+        "share_text": "Улуттук күнүң менен, Австралия! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຊາດອອສເຕຣຍ",
+        "hover_text": "ວັນຊາດອອສເຕຣຍປີ 2024",
+        "share_text": "ສຸກສັນວັນຊາດອອສເຕຣຍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día Nacional de Austria",
+        "hover_text": "Día Nacional de Austria 2024",
+        "share_text": "¡Feliz Día Nacional de Austria! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Austrijas nacionālie svētki",
+        "hover_text": "Austrijas Nacionālie svētki — 2024",
+        "share_text": "Sveicam nacionālajos svētkos, Austrija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Austrijos nacionalinė diena",
+        "hover_text": "Austrijos nacionalinė diena, 2024 m.",
+        "share_text": "Sveikiname Austriją su Nacionaline diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на државноста на Австрија",
+        "hover_text": "Ден на државноста на Австрија, 2024 г.",
+        "share_text": "Среќен Ден на државноста, Австрија! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetim-pirenen'i Aotirisy",
+        "hover_text": null,
+        "share_text": "Tsarà fetim-pirenena ry Aotirisy ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kebangsaan Austria",
+        "hover_text": "Hari Kebangsaan Austria 2024",
+        "share_text": "Selamat Menyambut Hari Kebangsaan, Austria! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഓസ്‌ട്രിയൻ ദേശീയ ദിനം",
+        "hover_text": "ഓസ്‌ട്രിയൻ ദേശീയ ദിനം 2024",
+        "share_text": "ദേശീയ ദിനാശംസകൾ, ഓസ്ട്രിയ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "ऑस्ट्रियाचा राष्ट्रीय दिवस",
+        "hover_text": "ऑस्ट्रियाचा राष्ट्रीय दिन २०२४",
+        "share_text": "ऑस्ट्रियाला राष्ट्रीय दिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Австри улсын Үндэсний баярын өдөр",
+        "hover_text": "2024 оны Австри Улсын Үндэсний баярын өдөр",
+        "share_text": "Австри улсын ард иргэдэд Үндэсний баярын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "अस्ट्रियाको राष्ट्रिय दिवस",
+        "hover_text": "अस्ट्रियाको राष्ट्रिय दिवस २०२४",
+        "share_text": "राष्ट्रिय दिवसको शुभकामना, अस्ट्रिया! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Østerrikes nasjonaldag",
+        "hover_text": "Østerrikes nasjonaldag 2024",
+        "share_text": "Gratulerer med nasjonaldagen, Østerrike! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଅଷ୍ଟ୍ରିଆର ରାଷ୍ଟ୍ରୀୟ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ରାଷ୍ଟ୍ରୀୟ ଦିବସର ଶୁଭେଚ୍ଛା, ଅଷ୍ଟ୍ରିଆ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز ملی اتریش",
+        "hover_text": "روز ملی ۲۰۲۴ اتریش",
+        "share_text": "روز ملی اتریش مبارک! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Narodowe Austrii",
+        "hover_text": "Święto Narodowe Austrii 2024",
+        "share_text": "Austria obchodzi Święto Narodowe #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia Nacional da Áustria",
+        "hover_text": "Dia Nacional da Áustria 2024",
+        "share_text": "Feliz Dia Nacional, Áustria! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia nacional da Áustria",
+        "hover_text": "Dia Nacional da Áustria de 2024",
+        "share_text": "Feliz dia nacional, Áustria! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਆਸਟਰੀਆ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ",
+        "hover_text": "ਆਸਟਰੀਆ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ 2024",
+        "share_text": "ਆਸਟਰੀਆ ਦੇ ਰਾਸ਼ਟਰੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Națională a Austriei",
+        "hover_text": "Ziua Națională a Austriei 2024",
+        "share_text": "La mulți ani de Ziua Națională, Austria! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Национальный праздник Австрии",
+        "hover_text": "Национальный день Австрии – 2024",
+        "share_text": "Национальный праздник Австрии #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан државности Аустрије",
+        "hover_text": "Дан државности Аустрије 2024.",
+        "share_text": "Честитамо Дан државности Аустрији! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan državnosti Austrije",
+        "hover_text": "Dan državnosti Austrije 2024.",
+        "share_text": "Čestitamo Dan državnosti Austriji! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Nasyon Lotris",
+        "hover_text": null,
+        "share_text": "Bonn zournen nasyonal, Austria! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ඕස්ට්‍රියාවේ ජාතික දිනය",
+        "hover_text": "ඕස්ට්‍රියාවේ ජාතික දිනය 2024",
+        "share_text": "ශුභ ජාතික දිනයක්, ඕස්ට්‍රියාව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Štátny sviatok Rakúska",
+        "hover_text": "Národný deň Rakúska 2024",
+        "share_text": "Šťastný štátny sviatok, Rakúsko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan državnosti Avstrije",
+        "hover_text": "Dan državnosti Avstrije 2024",
+        "share_text": "Vesel dan državnosti, Avstrija. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Qaranka Austria",
+        "hover_text": null,
+        "share_text": "Maalinta Qaranka Farxada leh, Usteeriya! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Naha la Austria",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Naha la Austria! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día Nacional de Austria",
+        "hover_text": "Día Nacional de Austria 2024",
+        "share_text": "¡Feliz Día Nacional de Austria! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Kitaifa ya Austria",
+        "hover_text": "Sikukuu ya Kitaifa ya Austria 2024",
+        "share_text": "Heri ya Sikukuu ya Kitaifa, Austria! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Österrikes nationaldag",
+        "hover_text": "Österrikes nationaldag 2024",
+        "share_text": "Vi firar Österrikes nationaldag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஆஸ்திரிய தேசிய தினம்",
+        "hover_text": "ஆஸ்திரியாவின் தேசிய தினம் 2024",
+        "share_text": "ஆஸ்திரியாவின் தேசிய தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఆస్ట్రియా జాతీయ దినోత్సవం",
+        "hover_text": "ఆస్ట్రియా జాతీయ దినోత్సవం 2024",
+        "share_text": "జాతీయ దినోత్సవ శుభాకాంక్షలు, ఆస్ట్రియా! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันชาติออสเตรีย",
+        "hover_text": "วันชาติออสเตรียปี 2024",
+        "share_text": "สุขสันต์วันชาติออสเตรีย #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Setšhaba la Austria",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Setšhaba, Austria! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Avusturya Ulusal Günü",
+        "hover_text": "2024 Avusturya Ulusal Günü",
+        "share_text": "Avusturya Ulusal Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Національний день Австрії",
+        "hover_text": "Національний день Австрії у 2024 році",
+        "share_text": "З Національним днем, Австріє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "آسٹریا کا قومی دن",
+        "hover_text": "آسٹریا کا قومی دن 2024",
+        "share_text": "آسٹریا کا قومی دن مبارک ہو! ‎#GoogleDoodle"
+      },
+      "uz": {
+        "query": "Avstriya milliy bayrami",
+        "hover_text": "Avstriya Milliy bayrami 2024",
+        "share_text": "Astriya milliy bayrami muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Áo",
+        "hover_text": "Ngày Quốc khánh Áo năm 2024",
+        "share_text": "Chúc mừng quốc khánh Áo! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lokazwelonke e-Austria",
+        "hover_text": "Usuku Lukazwelonke lwase-Austria lwango-2024",
+        "share_text": "Usuku oluhlu lokazwelonke, Austria! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Austria National Day",
+    "share_text": "Happy National Day, Austria! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-krishnakumar-kunnath",
     "title": "Celebrating Krishnakumar Kunnath",
     "url": "//www.google.com/logos/doodles/2024/celebrating-krishnakumar-kunnath-6753651837110276.2-l.png",
@@ -1516,9 +2015,9 @@
         "share_text": "Happy Day of Restoration of Independence of, Azerbaijan! #GoogleDoodle"
       },
       "af": {
-        "query": "Azerbeidjan se onafhanklikheidsdag",
-        "hover_text": null,
-        "share_text": "Gelukkige Onafhanklikheidsdag, Azerbeidjan! #GoogleDoodle"
+        "query": "Dag van die Herinstelling van Onafhanklikheid van Azerbeidjan",
+        "hover_text": "Dag van die Herinstelling van Onafhanklikheid van Azerbeidjan 2024",
+        "share_text": "Gelukkige Dag van die Herinstelling van Onafhanklikheid, Azerbeidjan! #GoogleDoodle"
       },
       "sq": {
         "query": "Dita e Pavarësisë së Azerbajxhanit",
@@ -1531,14 +2030,14 @@
         "share_text": "መልካም የአዘርባይጃን የነፃነት መመለስ ቀን! #GoogleDoodle"
       },
       "ar": {
-        "query": "عيد استقلال أذربيجان",
-        "hover_text": null,
-        "share_text": "نتمنّى عيد استقلال سعيدًا لأذربيجان. ‎#GoogleDoodle"
+        "query": "عيد استعادة الاستقلال في أذربيجان",
+        "hover_text": "عيد استعادة الاستقلال في أذربيجان 2024",
+        "share_text": "أطيب الأمنيات لأذربيجان بمناسبة يوم استعادة الاستقلال. ‎#GoogleDoodle"
       },
       "hy": {
-        "query": "Ադրբեջանի անկախության օր",
-        "hover_text": null,
-        "share_text": "Շնորհավո՛ր Ադրբեջանի անկախության օրը #GoogleDoodle"
+        "query": "Ադրբեջանի անկախության վերականգնման օր",
+        "hover_text": "Ադրբեջանի անկախության վերականգնման օր 2024",
+        "share_text": "Շնորհավո՛ր Ադրբեջանի անկախության վերականգնման օրը։ #GoogleDoodle"
       },
       "az": {
         "query": "Azərbaycanda Müstəqilliyin Bərpası Günü",
@@ -1546,24 +2045,24 @@
         "share_text": "Müstəqilliyinin Bərpası Günü Mübarək, Azərbaycan! #GoogleDoodle"
       },
       "bn": {
-        "query": "আজারবাইজানের স্বাধীনতা দিবস",
-        "hover_text": null,
-        "share_text": "স্বাধীনতা দিবসের শুভেচ্ছা, আজারবাইজান! #GoogleDoodle"
+        "query": "আজারবাইজানের স্বাধীনতা পুনরুদ্ধার দিবস",
+        "hover_text": "আজারবাইজানের স্বাধীনতা পুনরুদ্ধার দিবস, ২০২৪",
+        "share_text": "স্বাধীনতা পুনরুদ্ধার দিবসের শুভেচ্ছা, আজারবাইজান! #GoogleDoodle"
       },
       "eu": {
         "query": "Azerbaijango Independentziaren Berrezarpen Eguna",
-        "hover_text": null,
+        "hover_text": "2024ko Azerbaijango Independentziaren Berrezarpen Eguna",
         "share_text": "Independentziaren Berrezarpen Egun zoriontsua izan, Azerbaijan! #GoogleDoodle"
       },
       "be": {
         "query": "Дзень аднаўлення незалежнасці Азербайджана",
-        "hover_text": null,
+        "hover_text": "Дзень аднаўлення незалежнасці Азербайджана 2024",
         "share_text": "З Днём аднаўлення незалежнасці Азербайджана! #GoogleDoodle"
       },
       "bs": {
-        "query": "Dan obnove nezavisnosti Azerbajdžana",
-        "hover_text": "Dan obnove nezavisnosti Azerbajdžana 2024.",
-        "share_text": "Sretan Dan obnove nezavisnosti, Azerbajdžan! #GoogleDoodle"
+        "query": "Dan obnove nezavisnosti Azerbejdžana",
+        "hover_text": "Dan obnove nezavisnosti Azerbejdžana 2024.",
+        "share_text": "Sretan Dan obnove nezavisnosti Azerbejdžana! #GoogleDoodle"
       },
       "en-GB": {
         "query": "Day of Restoration of Independence of Azerbaijan",
@@ -1571,9 +2070,9 @@
         "share_text": "Happy Day of Restoration of Independence of, Azerbaijan! #GoogleDoodle"
       },
       "bg": {
-        "query": "Ден на независимостта на Азербайджан",
-        "hover_text": null,
-        "share_text": "Честит Ден на независимостта на Азербайджан! #GoogleDoodle"
+        "query": "Ден на възстановяване на независимостта на Азербайджан",
+        "hover_text": "Ден на възстановяване на независимостта на Азербайджан 2024 г.",
+        "share_text": "Честит Ден на възстановяване на независимостта на Азербайджан! #GoogleDoodle"
       },
       "my": {
         "query": "အဇာဘိုင်ဂျန်နိုင်ငံ လွတ်လပ်ရေးပြန်လည်ရယူသည့်နေ့",
@@ -1581,23 +2080,23 @@
         "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးပြန်လည်ရယူသည့်နေ့ ဖြစ်ပါစေ အဇာဘိုင်ဂျန်နိုင်ငံ။ #GoogleDoodle"
       },
       "ca": {
-        "query": "Dia de la Independència de l'Azerbaidjan",
-        "hover_text": null,
-        "share_text": "Feliç Dia de la Independència, Azerbaidjan! #GoogleDoodle"
+        "query": "Dia de la Restauració de la Independència de l'Azerbaidjan",
+        "hover_text": "Dia de la Restauració de la Independència de l'Azerbaidjan 2024",
+        "share_text": "Feliç Dia de la Restauració de la Independència, Azerbaidjan! #GoogleDoodle"
       },
       "zh-HK": {
         "query": "亞塞拜疆恢復獨立日",
-        "hover_text": null,
+        "hover_text": "2024 年亞塞拜疆恢復獨立日",
         "share_text": "亞塞拜疆，恢復獨立日快樂！#GoogleDoodle"
       },
       "zh-TW": {
-        "query": "亞塞拜然獨立紀念日",
-        "hover_text": null,
-        "share_text": "亞塞拜然，獨立紀念日快樂！#GoogleDoodle"
+        "query": "亞塞拜然恢復獨立紀念日",
+        "hover_text": "2024 亞塞拜然恢復獨立紀念日",
+        "share_text": "亞塞拜然，恢復獨立紀念日快樂！#GoogleDoodle"
       },
       "zh-CN": {
         "query": "阿塞拜疆恢复独立日",
-        "hover_text": null,
+        "hover_text": "2024 年阿塞拜疆恢复独立日",
         "share_text": "阿塞拜疆，恢复独立日快乐！#GoogleDoodle"
       },
       "hr": {
@@ -1606,13 +2105,13 @@
         "share_text": "Sretan Dan obnove nezavisnosti, Azerbajdžan! #GoogleDoodle"
       },
       "cs": {
-        "query": "Den nezávislosti Ázerbájdžánu",
-        "hover_text": null,
-        "share_text": "Vše nejlepší ke Dni nezávislosti, Ázerbájdžáne! #GoogleDoodle"
+        "query": "Den obnovení nezávislosti Ázerbájdžánu",
+        "hover_text": "Den obnovení nezávislosti Ázerbájdžánu 2024",
+        "share_text": "Vše nejlepší ke Dni obnovení nezávislosti, Ázerbájdžáne! #GoogleDoodle"
       },
       "da": {
         "query": "Uafhængighedsdag for Aserbajdsjan",
-        "hover_text": null,
+        "hover_text": "Årsdagen for Aserbajdsjans genvindelse af uafhængighed 2024",
         "share_text": "Glædelig uafhængighedsdag til Aserbajdsjan #GoogleDoodle"
       },
       "nl": {
@@ -1626,44 +2125,44 @@
         "share_text": "Head Aserbaidžaani taasiseseisvumispäeva! #GoogleDoodle"
       },
       "fi": {
-        "query": "Azerbaidžanin itsenäisyyspäivä",
-        "hover_text": null,
-        "share_text": "Hyvää itsenäisyyspäivää, Azerbaidžan! #GoogleDoodle"
+        "query": "Azerbaidžanin itsenäisyyden palauttamispäivä",
+        "hover_text": "Azerbaidžanin itsenäisyyden palauttamispäivä 2024",
+        "share_text": "Hyvää itsenäisyyden palauttamispäivää, Azerbaidžan! #GoogleDoodle"
       },
       "fr": {
-        "query": "Fête de l'Indépendance de l'Azerbaïdjan",
-        "hover_text": null,
-        "share_text": "Fête de l'Indépendance de l'Azerbaïdjan ! #GoogleDoodle"
+        "query": "Jour du rétablissement de l'indépendance de l'Azerbaïdjan",
+        "hover_text": "Jour du rétablissement de l'indépendance de l'Azerbaïdjan 2024",
+        "share_text": "Jour du rétablissement de l'indépendance de l'Azerbaïdjan ! #GoogleDoodle"
       },
       "fr-CA": {
-        "query": "Jour de l'indépendance de l'Azerbaïdjan",
-        "hover_text": null,
-        "share_text": "Joyeux jour de l'indépendance de l'Azerbaïdjan! #GoogleDoodle"
+        "query": "Fête de la Restauration de l'indépendance de l'Azerbaïdjan",
+        "hover_text": "Fête de la Restauration de l'indépendance de l'Azerbaïdjan 2024",
+        "share_text": "Joyeuse fête de la Restauration de l'indépendance de l'Azerbaïdjan! #GoogleDoodle"
       },
       "gl": {
-        "query": "Día da Independencia de Acerbaixán",
-        "hover_text": null,
-        "share_text": "Feliz Día da Independencia, Acerbaixán! #GoogleDoodle"
+        "query": "Día da Restauración da Independencia de Acerbaixán",
+        "hover_text": "Día da Restauración da Independencia de Acerbaixán 2024",
+        "share_text": "Feliz Día da Restauración da Independencia, Acerbaixán! #GoogleDoodle"
       },
       "ka": {
-        "query": "აზერბაიჯანის დამოუკიდებლობის დღე",
-        "hover_text": null,
-        "share_text": "ვულოცავთ აზერბაიჯანს დამოუკიდებლობის დღეს! #GoogleDoodle"
+        "query": "აზერბაიჯანის დამოუკიდებლობის აღდგენის დღე",
+        "hover_text": "აზერბაიჯანის დამოუკიდებლობის აღდგენის დღე – 2024",
+        "share_text": "აზერბაიჯანს ვულოცავთ დამოუკიდებლობის აღდგენის დღეს! #GoogleDoodle"
       },
       "de": {
-        "query": "Unabhängigkeitstag Aserbaidschan",
-        "hover_text": null,
-        "share_text": "Alles Gute zum Unabhängigkeitstag in Aserbaidschan! #GoogleDoodle"
+        "query": "Tag der Wiederherstellung der Unabhängigkeit von Aserbaidschan",
+        "hover_text": "Tag der Wiederherstellung der Unabhängigkeit von Aserbaidschan 2024",
+        "share_text": "Alles Gute zur Wiederherstellung der Unabhängigkeit, Aserbaidschan #GoogleDoodle"
       },
       "el": {
-        "query": "Ημέρα Ανεξαρτησίας Αζερμπαϊτζάν",
-        "hover_text": null,
-        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας του Αζερμπαϊτζάν! #GoogleDoodle"
+        "query": "Ημέρα Αποκατάστασης της Ανεξαρτησίας του Αζερμπαϊτζάν",
+        "hover_text": "Ημέρα Αποκατάστασης της Ανεξαρτησίας του Αζερμπαϊτζάν 2024",
+        "share_text": "Τιμούμε την Ημέρα Αποκατάστασης της Ανεξαρτησίας του Αζερμπαϊτζάν! #GoogleDoodle"
       },
       "gu": {
-        "query": "અઝરબૈજાનનો સ્વતંત્રતા દિવસ",
-        "hover_text": null,
-        "share_text": "અઝરબૈજાનના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+        "query": "અઝરબૈજાનની સ્વતંત્રતાની પુનઃસ્થાપનાનો દિવસ",
+        "hover_text": "અઝરબૈજાનની સ્વતંત્રતાની પુનઃસ્થાપનાનો દિવસ 2024",
+        "share_text": "અઝરબૈજાનની સ્વતંત્રતાની પુનઃસ્થાપના દિવસની શુભેચ્છા! #GoogleDoodle"
       },
       "ht": {
         "query": null,
@@ -1676,13 +2175,13 @@
         "share_text": "יום עצמאות שמח אזרבייג'ן! GoogleDoodle#"
       },
       "hi": {
-        "query": "अज़रबैजान का स्वतंत्रता दिवस",
-        "hover_text": null,
-        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, अज़रबैजान! #GoogleDoodle"
+        "query": "अज़रबैजान के इंडिपेंडेंस रेस्टोरेशन डे की शुभकामनाएं",
+        "hover_text": "अज़रबैजान के स्वतंत्रता बहाली दिवस 2024 की शुभकामनाएं",
+        "share_text": "अज़रबैजान के इंडिपेंडेंस रेस्टोरेशन डे की शुभकामनाएं! #GoogleDoodle"
       },
       "hu": {
         "query": "A függetlenség visszaállításának napja Azerbajdzsánban",
-        "hover_text": null,
+        "hover_text": "A függetlenség visszaállításának napja Azerbajdzsánban, 2024",
         "share_text": "Minden jót a függetlenség visszaállításának napján, Azerbajdzsán! #GoogleDoodle"
       },
       "is": {
@@ -1691,9 +2190,9 @@
         "share_text": "Gleðilegan sjálfstæðisdag, Aserbaídsjan! #GoogleDoodle"
       },
       "id": {
-        "query": "Hari Kemerdekaan Azerbaijan",
-        "hover_text": null,
-        "share_text": "Selamat Hari Kemerdekaan, Azerbaijan! #GoogleDoodle"
+        "query": "Hari Restorasi Kemerdekaan Azerbaijan",
+        "hover_text": "Hari Restorasi Kemerdekaan Azerbaijan 2024",
+        "share_text": "Selamat Hari Restorasi Kemerdekaan, Azerbaijan! #GoogleDoodle"
       },
       "ga": {
         "query": "Lá Saoirse na hAsarbaiseáine",
@@ -1702,48 +2201,48 @@
       },
       "it": {
         "query": "Festa della riconquista dell'indipendenza dell'Azerbaigian",
-        "hover_text": null,
+        "hover_text": "Festa della riconquista dell'indipendenza dell'Azerbaigian 2024",
         "share_text": "Buona festa della riconquista dell'indipendenza, Azerbaigian! #GoogleDoodle"
       },
       "ja": {
         "query": "アゼルバイジャン独立記念日",
-        "hover_text": null,
-        "share_text": "アゼルバイジャン独立記念日を祝おう#GoogleDoodle"
+        "hover_text": "2024 年アゼルバイジャン独立記念日",
+        "share_text": "アゼルバイジャン独立記念日を祝おう！#GoogleDoodle"
       },
       "kn": {
-        "query": "ಅಜರ್ಬೈಜಾನ್‌ನ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
-        "hover_text": null,
-        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಅಜರ್ಬೈಜಾನ್‌ನ! #GoogleDoodle"
+        "query": "ಅಜರ್‌ಬೈಜಾನ್ ದೇಶದ ಸ್ವಾತಂತ್ರ್ಯ ಮರುಸ್ಥಾಪನಾ ದಿನ",
+        "hover_text": "ಅಜರ್‌ಬೈಜಾನ್ ದೇಶದ ಸ್ವಾತಂತ್ರ್ಯ ಮರುಸ್ಥಾಪನಾ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಅಜರ್‌ಬೈಜಾನ್ ದೇಶದ ಸ್ವಾತಂತ್ರ್ಯ ಮರುಸ್ಥಾಪನಾ ದಿನದ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
       },
       "kk": {
-        "query": "Әзірбайжанның Тәуелсіздік күні",
-        "hover_text": null,
-        "share_text": "Тәуелсіздік күні құтты болсын, Әзірбайжан! #GoogleDoodle"
+        "query": "Әзірбайжанның тәуелсіздігін қалпына келтіру күні",
+        "hover_text": "Әзірбайжанның Тәуелсіздігін қалпына келтіру күні – 2024",
+        "share_text": "Тәуелсіздікті қалпына келтіру күні құтты болсын, Әзірбайжан! #GoogleDoodle"
       },
       "km": {
-        "query": "ទិវា​បុណ្យ​ឯករាជ្យជាតិ​អាស៊ែបៃហ្សង់",
-        "hover_text": null,
-        "share_text": "អបអរ​ទិវា​បុណ្យ​ឯករាជ្យ​ជាតិ​អាស៊ែបៃហ្សង់! #GoogleDoodle"
+        "query": "ទិវាស្ដារឯករាជ្យជាតិអាស៊ែបៃហ្សង់",
+        "hover_text": "ទិវាស្ដារឯករាជ្យជាតិអាស៊ែបៃហ្សង់ឆ្នាំ 2024",
+        "share_text": "អបអរទិវាស្ដារឯករាជ្យជាតិអាស៊ែបៃហ្សង់! #GoogleDoodle"
       },
       "ko": {
         "query": "아제르바이잔 공화국 독립 회복 기념일",
-        "hover_text": null,
+        "hover_text": "2024년 아제르바이잔 독립기념일",
         "share_text": "아제르바이잔 공화국 독립 회복 기념일 기념 #GoogleDoodle"
       },
       "ky": {
-        "query": "Азербайжандын Эгемендүүлүк күнү",
-        "hover_text": null,
-        "share_text": "Эгемендүүлүк күнүң менен, Азербайжан! #GoogleDoodle"
+        "query": "Азербайжандын көз карандысыздыгын калыбына келтирүү күнү",
+        "hover_text": "Азербайжандын көз карандысыздыгын калыбына келтирүү күнү – 2024",
+        "share_text": "Көз карандысыздыкты калыбына келтирүү күнүң менен, Азербайжан! #GoogleDoodle"
       },
       "lo": {
-        "query": "ວັນປະກາດເອກະລານອາເຊີໄບຈານ",
-        "hover_text": null,
-        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດອາເຊີໄບຈານ! #GoogleDoodle"
+        "query": "ວັນຟື້ນຟູເອກະລາດຂອງອາເຊີໄບຈານ",
+        "hover_text": "ວັນປະກາດເອກະລາດຂອງອາເຊີໄບຈານປີ 2024",
+        "share_text": "ສຸກສັນວັນຟື້ນຟູເອກະລາດຂອງອາເຊີໄບຈານ! #GoogleDoodle"
       },
       "es-419": {
-        "query": "Día de la Independencia de Azerbaiyán",
-        "hover_text": null,
-        "share_text": "¡Feliz Día de la Independencia, Azerbaiyán! #GoogleDoodle"
+        "query": "Día de la Restauración de la Independencia de Azerbaiyán",
+        "hover_text": "Día de la Restauración de la Independencia de Azerbaiyán 2024",
+        "share_text": "¡Feliz Día de la Restauración de la Independencia, Azerbaiyán! #GoogleDoodle"
       },
       "lv": {
         "query": "Azerbaidžānas Neatkarības atjaunošanas diena",
@@ -1751,14 +2250,14 @@
         "share_text": "Sveicam Neatkarības atjaunošanas dienā, Azerbaidžāna! #GoogleDoodle"
       },
       "lt": {
-        "query": null,
+        "query": "Azerbaidžano nepriklausomybės atkūrimo diena",
         "hover_text": "Azerbaidžano nepriklausomybės atkūrimo diena, 2024 m.",
-        "share_text": ""
+        "share_text": "Sveikiname Azerbaidžaną su Nepriklausomybės atkūrimo diena! #GoogleDoodle"
       },
       "mk": {
-        "query": "Ден на независноста на Азербејџан",
-        "hover_text": null,
-        "share_text": "Среќен Ден на независноста, Азербејџан! #GoogleDoodle"
+        "query": "Ден на воспоставувањето на независноста на Азербејџан",
+        "hover_text": "Ден на воспоставувањето на независноста на Азербејџан, 2024 г.",
+        "share_text": "Среќен Ден на воспоставувањето на независноста на Азербејџан! #GoogleDoodle"
       },
       "mg": {
         "query": "Fetin'ny fahaleovantenan'i Azerbaijano",
@@ -1771,9 +2270,9 @@
         "share_text": "Selamat Hari Deklarasi Kemerdekaan Azerbaijan! #GoogleDoodle"
       },
       "ml": {
-        "query": "അസർബൈജാൻ സ്വാതന്ത്ര്യദിനം",
-        "hover_text": null,
-        "share_text": "സ്വാതന്ത്ര്യ ദിനാശംസകൾ, അസർബൈജാൻ! #GoogleDoodle"
+        "query": "അസർബൈജാന്റെ സ്വാതന്ത്ര്യ പുനഃസ്ഥാപന ദിനം",
+        "hover_text": "അസർബൈജാന്റെ സ്വാതന്ത്ര്യ പുനഃസ്ഥാപന ദിനം 2024",
+        "share_text": "സ്വാതന്ത്ര്യ പുനഃസ്ഥാപന ദിനാശംസകൾ, അസർബൈജാൻ! #GoogleDoodle"
       },
       "mt": {
         "query": null,
@@ -1781,9 +2280,9 @@
         "share_text": ""
       },
       "mr": {
-        "query": "अझरबैजानचा स्वातंत्र्यदिन",
-        "hover_text": null,
-        "share_text": "अझरबैजानला स्वातंत्र्यदिनाच्या शुभेच्छा! #GoogleDoodle"
+        "query": "अझरबैजानचा डे ऑफ रिस्टोरेशन ऑफ इंडिपेडन्स",
+        "hover_text": "अझरबैजानचा डे ऑफ रिस्टोरेशन ऑफ इंडिपेडन्स २०२४",
+        "share_text": "अझरबैजान, डे ऑफ रिस्टोरेशन ऑफ इंडिपेडन्सच्या हार्दिक शुभेच्छा! #GoogleDoodle"
       },
       "mn": {
         "query": "Азербайжан Улсын Тусгаар тогтнолоо сэргээн мандуулсан өдөр",
@@ -1791,14 +2290,14 @@
         "share_text": "Азербайжаны иргэдэд Тусгаар тогтнолоо сэргээн мандуулсан өдрийн мэнд хүргэе! #GoogleDoodle"
       },
       "ne": {
-        "query": "अजरबैजानको स्वतन्त्रता दिवस",
-        "hover_text": null,
-        "share_text": "स्वतन्त्रता दिवसको शुभकामना, अजरबैजान! #GoogleDoodle"
+        "query": "अजरबैजानको स्वतन्त्रता पुनर्स्थापना दिवस",
+        "hover_text": "अजरबैजानको स्वतन्त्रता पुनर्स्थापना दिवस २०२४",
+        "share_text": "अजरबैजानको स्वतन्त्रता पुनर्स्थापना दिवसको शुभकामना! #GoogleDoodle"
       },
       "no": {
-        "query": null,
+        "query": "Aserbajdsjans frigjøringsdag",
         "hover_text": "Aserbajdsjans frigjøringsdag 2024",
-        "share_text": ""
+        "share_text": "Gratulerer med frigjøringsdagen, Aserbajdsjan! #GoogleDoodle"
       },
       "nn": {
         "query": null,
@@ -1821,19 +2320,19 @@
         "share_text": ""
       },
       "fa": {
-        "query": "روز استقلال آذربایجان",
-        "hover_text": null,
-        "share_text": "روز استقلال مبارک، آذربایجان! ‎#GoogleDoodle"
+        "query": "روز بازگرداندن استقلال آذربایجان",
+        "hover_text": "روز بازگرداندن استقلال ۲۰۲۴ آذربایجان",
+        "share_text": "روز بازگرداندن استقلال آذربایجان مبارک! ‎#GoogleDoodle"
       },
       "pl": {
-        "query": "Dzień Niepodległości Azerbejdżanu",
-        "hover_text": null,
-        "share_text": "Azerbejdżan obchodzi Dzień Niepodległości #GoogleDoodle"
+        "query": "Dzień odzyskania niepodległości przez Azerbejdżan",
+        "hover_text": "Dzień Odzyskania Niepodległości Azerbejdżanu 2024",
+        "share_text": "Świętujemy odzyskanie niepodległości przez Azerbejdżan #GoogleDoodle"
       },
       "pt-BR": {
-        "query": "Dia da Independência do Azerbaijão",
-        "hover_text": null,
-        "share_text": "Feliz Dia da Independência, Azerbaijão! #GoogleDoodle"
+        "query": "Dia da restauração da independência do Azerbaijão",
+        "hover_text": "Dia da restauração da independência do Azerbaijão 2024",
+        "share_text": "Feliz Dia da restauração da independência, Azerbaijão! #GoogleDoodle"
       },
       "pt-PT": {
         "query": "Dia da Restauração da Independência do Azerbaijão",
@@ -1841,14 +2340,14 @@
         "share_text": "Feliz Dia da Restauração da Independência do Azerbaijão! #GoogleDoodle"
       },
       "pa": {
-        "query": "ਅਜ਼ਰਬਾਈਜ਼ਾਨ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ",
-        "hover_text": null,
-        "share_text": "ਅਜ਼ਰਬਾਈਜ਼ਾਨ ਦੇ ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+        "query": "Day of Restoration of Independence of Azerbaijan",
+        "hover_text": "ਅਜ਼ਰਬਾਈਜ਼ਾਨ ਦੀ ਅਜ਼ਾਦੀ ਦਾ ਪੁਨਰ ਸਥਾਪਨ ਦਿਵਸ 2024",
+        "share_text": "ਅਜ਼ਰਬਾਈਜ਼ਾਨ ਦੀ ਅਜ਼ਾਦੀ ਦੇ ਪੁਨਰ ਸਥਾਪਨ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
       },
       "ro": {
-        "query": "Ziua Independenței în Azerbaidjan",
-        "hover_text": null,
-        "share_text": "La mulți ani de Ziua Independenței, Azerbaidjan! #GoogleDoodle"
+        "query": "Ziua Restabilirii Independenței în Azerbaidjan",
+        "hover_text": "Ziua Restabilirii Independenței Azerbaidjanului 2024",
+        "share_text": "La mulți ani de Ziua Restabilirii Independenței, Azerbaidjan! #GoogleDoodle"
       },
       "ro-MD": {
         "query": null,
@@ -1886,19 +2385,19 @@
         "share_text": ""
       },
       "si": {
-        "query": "අසර්බයිජාන නිදහස් දිනය",
-        "hover_text": null,
-        "share_text": "ප්‍රීතිමත් නිදහස් දිනයක්, අසර්බයිජානය! #GoogleDoodle"
+        "query": "අසර්බයිජානයේ නිදහස ප්‍රතිෂ්ඨාපනය කිරීමේ දිනය",
+        "hover_text": "අසර්බයිජානයේ නිදහස ප්‍රතිෂ්ඨාපනය කිරීමේ දිනය 2024",
+        "share_text": "ප්‍රීතිමත් නිදහස ප්‍රතිෂ්ඨාපනය කිරීමේ දවසක්, අසර්බයිජානය! #GoogleDoodle"
       },
       "sk": {
-        "query": "Deň nezávislosti Azerbajdžanu",
-        "hover_text": null,
-        "share_text": "Šťastný Deň nezávislosti, Azerbajdžan! #GoogleDoodle"
+        "query": "Deň obnovenia nezávislosti Azerbajdžanu",
+        "hover_text": "Deň obnovenia nezávislosti Azerbajdžanu 2024",
+        "share_text": "Šťastný Deň obnovenia nezávislosti, Azerbajdžan. #GoogleDoodle"
       },
       "sl": {
-        "query": "Dan neodvisnosti Azerbajdžana",
-        "hover_text": null,
-        "share_text": "Vesel dan neodvisnosti, Azerbajdžan! #GoogleDoodle"
+        "query": "Dan ponovne vzpostavitve neodvisnosti Azerbajdžana",
+        "hover_text": "Dan ponovne vzpostavitve neodvisnosti Azerbajdžana 2024",
+        "share_text": "Vesel dan ponovne vzpostavitve neodvisnosti, Azerbajdžan. #GoogleDoodle"
       },
       "so": {
         "query": "Maalinta Madax banaanida Asarbayjaan",
@@ -1911,19 +2410,19 @@
         "share_text": "Mahlohonolo a Letsatsi la Boipuso,  Azerbaijan! #GoogleDoodle"
       },
       "es": {
-        "query": "Día de la Independencia de Azerbaiyán",
-        "hover_text": null,
-        "share_text": "¡Feliz Día de la Independencia de Azerbaiyán! #GoogleDoodle"
+        "query": "Día del Restablecimiento de la Independencia de Azerbaiyán",
+        "hover_text": "Día del Restablecimiento de la Independencia de Azerbaiyán 2024",
+        "share_text": "¡Feliz Día del Restablecimiento de la Independencia de Azerbaiyán! #GoogleDoodle"
       },
       "sw": {
-        "query": "Sikukuu ya Uhuru wa Azabajani",
-        "hover_text": null,
-        "share_text": "Heri za Sikukuu ya Uhuru, Azabajani! #GoogleDoodle"
+        "query": "Sikukuu ya Kurejeshwa kwa Uhuru wa Azabajani",
+        "hover_text": "Sikukuu ya Kurejeshwa kwa Uhuru wa Azabajani 2024",
+        "share_text": "Heri ya Sikukuu ya Kurejeshwa kwa Uhuru wa Azabajani! #GoogleDoodle"
       },
       "sv": {
-        "query": "Azerbajdzjans självständighetsdag",
-        "hover_text": null,
-        "share_text": "Vi firar Azerbajdzjans självständighetsdag #GoogleDoodle"
+        "query": "Dagen för återställandet av Azerbajdzjans självständighet",
+        "hover_text": "Dagen för återställandet av Azerbajdzjans självständighet 2024",
+        "share_text": "Vi firar dagen för återställandet av Azerbajdzjans självständighet! #GoogleDoodle"
       },
       "tg": {
         "query": null,
@@ -1931,14 +2430,14 @@
         "share_text": ""
       },
       "ta": {
-        "query": "அஜர்பைஜானின் சுதந்திர தினம்",
-        "hover_text": null,
-        "share_text": "அஜர்பைஜானின் சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+        "query": "Day of Restoration of Independence of Azerbaijan",
+        "hover_text": "அஜர்பைஜான் சுதந்திர தினம் 2024",
+        "share_text": "அஜர்பைஜான் சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
       },
       "te": {
-        "query": "అజర్‌బైజాన్ స్వాతంత్య్ర దినోత్సవం",
-        "hover_text": null,
-        "share_text": "స్వాతంత్య్ర దినోత్సవ శుభాకాంక్షలు, అజర్‌బైజాన్! #GoogleDoodle"
+        "query": "అజర్‌బైజాన్ స్వాతంత్య్ర పునరుద్ధరణ దినోత్సవం",
+        "hover_text": "అజర్‌బైజాన్ స్వాతంత్య్ర పునరుద్ధరణ దినోత్సవం 2024",
+        "share_text": "అజర్‌బైజాన్ ప్రజలకు స్వాతంత్య్ర పునరుద్ధరణ దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
       },
       "th": {
         "query": "วันประกาศเอกราชของอาเซอร์ไบจาน",
@@ -1951,9 +2450,9 @@
         "share_text": "Itumelele Letsatsi la Boipuso, Azerbaijan! #GoogleDoodle"
       },
       "tr": {
-        "query": "Azerbaycan Bağımsızlık Günü",
-        "hover_text": null,
-        "share_text": "Azerbaycan Bağımsızlık Günü Kutlaması #GoogleDoodle"
+        "query": "Azerbaycan Bağımsızlığın Yeniden Sağlanması Günü",
+        "hover_text": "2024 Azerbaycan Bağımsızlığın Yeniden Sağlanması Günü",
+        "share_text": "Azerbaycan Bağımsızlığın Yeniden Sağlanması Günü'nü kutluyoruz. #GoogleDoodle"
       },
       "tk": {
         "query": null,
@@ -1966,9 +2465,9 @@
         "share_text": "З Днем відновлення незалежності, Азербайджане! #GoogleDoodle"
       },
       "ur": {
-        "query": null,
+        "query": "آذربائیجان کی آزادی کی بحالی کا دن",
         "hover_text": "آذربائیجان کی آزادی کی بحالی کا دن 2024",
-        "share_text": ""
+        "share_text": "آذربائیجان کی آزادی کی بحالی کا دن مبارک ہو! GoogleDoodle#"
       },
       "uz": {
         "query": "Ozarbayjon Mustaqilligining barpo etilishi kuni",
@@ -1986,9 +2485,9 @@
         "share_text": ""
       },
       "zu": {
-        "query": "Usuku Lokuzimela lwase-Azerbaijan",
-        "hover_text": null,
-        "share_text": "Jabulela Usuku Lokuzimela, Azerbaijan! #GoogleDoodle"
+        "query": "Usuku Lokubuyiselwa Kwenkululeko yase-Azerbaijan",
+        "hover_text": "Usuku Lokubuyiselwa Kwenkululeko yase-Azerbaijan lwango-2024",
+        "share_text": "Usuku Oluhle Lokubuyiselwa Kwenkululeko Yase-Azerbaijan! #GoogleDoodle"
       }
     },
     "translated_blog_posts": {},
