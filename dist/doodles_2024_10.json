@@ -1,5 +1,509 @@
 [
   {
+    "name": "turkiye-national-day-2024",
+    "title": "Türkiye National Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/turkiye-national-day-2024-6753651837110310.2-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/zemK5p9T6BX_84S-EIerEEsK6wxKIs1gp2xWz7CUnmoZC-ngZ6niftkVDN1N8mr1bV2K7b6bzsoUJ2m8kvXhh2LlVbbS4c-7RtKaX5ItsiZpUqm8eTk1Tw",
+    "high_res_url": "//www.google.com/logos/doodles/2024/turkiye-national-day-2024-6753651837110310-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      10,
+      29
+    ],
+    "translations": {
+      "en": {
+        "query": "Türkiye National Day",
+        "hover_text": "Türkiye National Day 2024",
+        "share_text": "Happy Türkiye National Day, Turkey! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Turkye se nasionale dag",
+        "hover_text": "Türkiye se nasionale dag 2024",
+        "share_text": "Gelukkige nasionale dag, Türkiye! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita Kombëtare e Turqisë",
+        "hover_text": "Dita Kombëtare e Turqisë, 2024",
+        "share_text": "Gëzuar Ditën Kombëtare, Turqi! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የቱርክ ብሔራዊ ቀን",
+        "hover_text": "የቱርኪዬ ብሔራዊ ቀን 2024",
+        "share_text": "መልካም የቱርኪዬ ብሔራዊ ቀን፣ ቱርኪዬ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "العيد الوطني لتركيا",
+        "hover_text": "العيد الوطني لتركيا 2024",
+        "share_text": "نتمنّى عيدًا وطنيًا سعيدًا لتركيا. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Թուրքիայի ազգային տոն",
+        "hover_text": "Թուրքիայի ազգային տոն 2024",
+        "share_text": "Շնորհավո՛ր Թուրքիայի ազգային տոնը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Türkiyənin Müstəqillik Günü",
+        "hover_text": "2024 Türkiyənin Müstəqillik Günü",
+        "share_text": "Türkiyə Müstəqillik Günün Mübarək, Türkiyə! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "তুরস্কের জাতীয় দিবস",
+        "hover_text": "তুরস্কের জাতীয় দিবস, ২০২৪",
+        "share_text": "জাতীয় দিবসের শুভেচ্ছা, তুরস্ক! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Turkiako Egun Nazionala",
+        "hover_text": "2024ko Turkiako Egun Nazionala",
+        "share_text": "Egun Nazional zoriontsua izan, Turkia! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Нацыянальны дзень Турцыі",
+        "hover_text": "Нацыянальны дзень Турцыі 2024",
+        "share_text": "З Нацыянальным днём, Турцыя! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan državnosti Turske",
+        "hover_text": "Dan državnosti Turske 2024.",
+        "share_text": "Sretan Dan državnosti, Turska! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Türkiye National Day",
+        "hover_text": "Türkiye National Day 2024",
+        "share_text": "Happy National Day, Turkey! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на Републиката на Турция",
+        "hover_text": "Ден на републиката в Турция 2024 г.",
+        "share_text": "Честит Ден на републиката, Турция! #GoogleDoodle"
+      },
+      "my": {
+        "query": "တူရကီနိုင်ငံ အမျိုးသားနေ့",
+        "hover_text": "၂၀၂၄ တူရကီနိုင်ငံ အမျိုးသားနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် အမျိုးသားနေ့ဖြစ်ပါစေ တူရကီနိုင်ငံ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia Nacional de Turquia",
+        "hover_text": "Dia Nacional de Turquia 2024",
+        "share_text": "Feliç Dia Nacional, Turquia! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "土耳其國慶日",
+        "hover_text": "2024 年土耳其國慶日",
+        "share_text": "土耳其，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "土耳其共和國日",
+        "hover_text": "2024 土耳其國慶日",
+        "share_text": "土耳其，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "土耳其国庆节",
+        "hover_text": "2024 年土耳其国庆节",
+        "share_text": "欢庆土耳其国庆节！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan državnosti Turske",
+        "hover_text": "Dan državnosti Turske 2024.",
+        "share_text": "Sretan Dan državnosti, Tursko! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den turecké státnosti",
+        "hover_text": "Den turecké státnosti 2024",
+        "share_text": "Vše nejlepší ke Dni státnosti, Turecko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Tyrkiets nationaldag",
+        "hover_text": "Tyrkiets nationaldag 2024",
+        "share_text": "Vi fejrer Tyrkiets nationaldag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Nationale feestdag Turkije",
+        "hover_text": "Turkse Dag van de Republiek 2024",
+        "share_text": "Fijne nationale feestdag, Turkije! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Türgi rahvuspüha",
+        "hover_text": "Türgi 2024. aasta rahvuspüha",
+        "share_text": "Head rahvuspüha, Türgi! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Turkin kansallispäivä",
+        "hover_text": "Turkin kansallispäivä 2024",
+        "share_text": "Hyvää kansallispäivää, Turkki! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de la République en Turquie",
+        "hover_text": "Fête de la République 2024 en Turquie",
+        "share_text": "Fête de la République en Turquie ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête nationale de la Türkiye",
+        "hover_text": "Fête nationale de la Türkiye 2024",
+        "share_text": "Joyeuse fête nationale de la Türkiye! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día Nacional de Turquía",
+        "hover_text": "Día Nacional de Turquía 2024",
+        "share_text": "Feliz Día Nacional, Turquía! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "თურქეთის ეროვნული დღესასწაული",
+        "hover_text": "თურქეთის ეროვნული დღესასწაული — 2024",
+        "share_text": "ვულოცავთ თურქეთს ეროვნულ დღესასწაულს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Tag der Republik in der Türkei",
+        "hover_text": "Tag der Republik in der Türkei 2024",
+        "share_text": "Heute wird der Tag der Republik in der Türkei gefeiert. #GoogleDoodle"
+      },
+      "el": {
+        "query": "Εθνική Ημέρα Τουρκίας",
+        "hover_text": "Εθνική Ημέρα της Τουρκίας 2024",
+        "share_text": "Γιορτάζουμε την Εθνική Ημέρα της Τουρκίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "તુર્કિયેનો રાષ્ટ્રીય દિવસ",
+        "hover_text": "તુર્કિયેનો રાષ્ટ્રીય દિવસ 2024",
+        "share_text": "તુર્કિયેના રાષ્ટ્રીય દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "החג הלאומי של טורקיה",
+        "hover_text": "החג הלאומי של טורקיה 2024",
+        "share_text": "חוגגים את החג הלאומי של טורקיה. GoogleDoodle#"
+      },
+      "hi": {
+        "query": "तुर्किये का गणतंत्र दिवस",
+        "hover_text": "तुर्किये का गणतंत्र दिवस 2024",
+        "share_text": "गणतंत्र दिवस की शुभकामनाएं, तुर्किये! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Törökország nemzeti ünnepe",
+        "hover_text": "Törökország nemzeti ünnepe, 2024",
+        "share_text": "Minden jót Törökország nemzeti ünnepén! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þjóðhátíðardagur Tyrklands",
+        "hover_text": "Þjóðhátíðardagur Tyrklands 2024",
+        "share_text": "Gleðilegan þjóðhátíðardag, Tyrkland! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Republik Turkiye",
+        "hover_text": "Hari Republik Turkiye 2024",
+        "share_text": "Selamat Hari Republik, Turkiye! #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Festa della Repubblica della Turchia",
+        "hover_text": "Festa della Repubblica della Turchia 2024",
+        "share_text": "Buona festa della Repubblica, Turchia! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "トルコ建国記念日",
+        "hover_text": "2024 年トルコ建国記念日",
+        "share_text": "トルコ建国記念日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ತುರ್ಕಿಯೆ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ತುರ್ಕಿಯೆ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ತುರ್ಕಿಯೆ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Түркияның Республика күні",
+        "hover_text": "Түркияның Республика күні – 2024",
+        "share_text": "Республика күні құтты болсын, Түркия! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យជាតិតួកគី",
+        "hover_text": "ទិវា​បុណ្យជាតិតួកគីឆ្នាំ 2024",
+        "share_text": "អបអរទិវា​បុណ្យជាតិតួកគី! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "튀르키예 공화국 창건기념일",
+        "hover_text": "2024년 튀르키예 국경일",
+        "share_text": "튀르키예 국경일 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Түркиянын Улуттук күнү",
+        "hover_text": "Түркиянын Улуттук күнү — 2024",
+        "share_text": "Улуттук күнүң менен, Түркия! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຊາດຕຸຣກີ",
+        "hover_text": "ວັນຊາດຕຸຣກີ 2024",
+        "share_text": "ສຸກສັນວັນຊາດຕຸຣກີ, ຕຸຣກີ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la República de Türkiye",
+        "hover_text": "Día Nacional de Türkiye 2024",
+        "share_text": "¡Feliz Día Nacional, Türkiye! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Turcijas nacionālie svētki",
+        "hover_text": "Turcijas Nacionālie svētki — 2024",
+        "share_text": "Sveicam Nacionālajos svētkos, Turcija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Turkijos nacionalinė diena",
+        "hover_text": "Turkijos nacionalinė diena, 2024 m.",
+        "share_text": "Sveikiname Turkiją su Nacionaline diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на државноста на Турција",
+        "hover_text": "Ден на државноста на Турција, 2024 г.",
+        "share_text": "Среќен Ден на државноста, Турција! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Hari Kebangsaan Türkiye",
+        "hover_text": "Hari Kebangsaan Turkiye 2024",
+        "share_text": "Selamat Menyambut Hari Kebangsaan, Turkiye! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "തുർക്കിയൻ ദേശീയ ദിനം",
+        "hover_text": "തുർക്കിയൻ ദേശീയ ദിനം 2024",
+        "share_text": "തുർക്കിയൻ ദേശീയ ദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "तुर्कियेचा राष्ट्रीय दिन",
+        "hover_text": "तुर्कियेचा राष्ट्रीय दिन २०२४",
+        "share_text": "तुर्कियेला राष्ट्रीय दिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Турк Улсын Үндэсний баярын өдөр",
+        "hover_text": "2024 оны Туркийн Үндэсний баярын өдөр",
+        "share_text": "Туркийн иргэдэд Үндэсний баярын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "टर्किएको राष्ट्रिय दिवस",
+        "hover_text": "टर्किएको राष्ट्रिय दिवस २०२४",
+        "share_text": "राष्ट्रिय दिवसको शुभकामना, टर्किए! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Tyrkias nasjonaldag",
+        "hover_text": "Tyrkias nasjonaldag 2024",
+        "share_text": "Gratulerer med nasjonaldagen, Tyrkia! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ତୁର୍କୀର ଜାତୀୟ ଦିବସ",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز ملی ترکیه",
+        "hover_text": "روز ملی ۲۰۲۴ ترکیه",
+        "share_text": "روز ملی ترکیه مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Republiki Turcji",
+        "hover_text": "Święto Narodowe Turcji 2024",
+        "share_text": "Turcja obchodzi Święto Narodowe #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da República da Turquia",
+        "hover_text": "Dia da República da Turquia 2024",
+        "share_text": "Feliz Dia Nacional, Turquia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia Nacional da Turquia",
+        "hover_text": "Dia Nacional da Turquia de 2024",
+        "share_text": "Feliz Dia Nacional, Turquia! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਤੁਰਕੀ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ",
+        "hover_text": "ਤੁਰਕੀ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ 2024",
+        "share_text": "ਤੁਰਕੀ ਦੇ ਰਾਸ਼ਟਰੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਤੁਰਕੀ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Națională a Turciei",
+        "hover_text": "Ziua Națională a Turciei 2024",
+        "share_text": "La mulți ani de Ziua Națională, Turcia! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День Республики в Турции",
+        "hover_text": "День Республики в Турции – 2024",
+        "share_text": "День Республики в Турции – 2024 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан државности Турске",
+        "hover_text": "Дан државности Турске 2024.",
+        "share_text": "Честитамо Дан државности Турској! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan državnosti Turske",
+        "hover_text": "Dan državnosti Turske 2024.",
+        "share_text": "Čestitamo Dan državnosti Turskoj! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "තුර්කි ජාතික දිනය",
+        "hover_text": "තුර්කි ජාතික දිනය 2024",
+        "share_text": "ප්‍රීතිමත් ජාතික දිනයක්, තුර්කිය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Národný deň Turecka",
+        "hover_text": "Národný deň Turecka 2024",
+        "share_text": "Šťastný národný deň, Turecko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan državnosti Turčije",
+        "hover_text": "Dan državnosti Turčije 2024",
+        "share_text": "Vesel dan državnosti, Turčija! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día de la República de Turquía",
+        "hover_text": "Día de la República de Turquía 2024",
+        "share_text": "¡Feliz Día Nacional de Turquía! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Kitaifa ya Uturuki",
+        "hover_text": "Sikukuu ya Kitaifa ya Uturuki 2024",
+        "share_text": "Heri ya Sikukuu ya Kitaifa, Uturuki! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Turkiets nationaldag",
+        "hover_text": "Turkiets nationaldag 2024",
+        "share_text": "Vi firar Turkiets nationaldag. #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Türkiye National Day",
+        "hover_text": "துர்க்கியேவின் தேசிய தினம் 2024",
+        "share_text": "தேசிய தின வாழ்த்துகள், துர்க்கியே! #GoogleDoodle"
+      },
+      "te": {
+        "query": "తుర్కియే జాతీయ దినోత్సవం",
+        "hover_text": "తుర్కియే జాతీయ దినోత్సవం 2024",
+        "share_text": "తుర్కియే దేశ ప్రజలకు జాతీయ దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันชาติตุรกี",
+        "hover_text": "วันชาติตุรกี 2024",
+        "share_text": "สุขสันต์วันชาติตุรกี! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": " 29 Ekim Cumhuriyet Bayramı",
+        "hover_text": "Türkiye Cumhuriyet Bayramı 2024",
+        "share_text": " Cumhuriyet Bayramı Kutlu Olsun! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Національний день Туреччини",
+        "hover_text": "Національний день Туреччини у 2024 році",
+        "share_text": "З Національним днем, Туреччино! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "ترکیہ کا قومی دن",
+        "hover_text": "ترکیہ کا قومی دن 2024",
+        "share_text": "ترکیہ کا قومی دن مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Turkiya Milliy bayrami",
+        "hover_text": "Turkiya Milliy bayrami 2024",
+        "share_text": "Turkiya Milliy kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Quốc khánh Thổ Nhĩ Kỳ",
+        "hover_text": "Ngày Quốc khánh Thổ Nhĩ Kỳ năm 2024",
+        "share_text": "Mừng Ngày Quốc khánh Thổ Nhĩ Kỳ! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lukazwelonke lwase-Türkiye",
+        "hover_text": "Usuku Lukazwelonke lwaseTürkiye lwango-2024",
+        "share_text": "Usuku Lukazwelonke Oluhle lwaseTürkiye, Turkey! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {
+      "tr": {
+        "language": "tr",
+        "blog_post": "<p>Bug&uuml;n&uuml;n Doodle&rsquo;ı T&uuml;rkiye&rsquo;nin Cumhuriyet Bayramı&rsquo;nı kutluyor! Tarihte 1923 yılında tam da bug&uuml;n, T&uuml;rkiye B&uuml;y&uuml;k Millet Meclisi cumhuriyeti resmi olarak ilan etti ve &uuml;lkenin bağımsızlık m&uuml;cadelesine liderlik eden Mustafa Kemal Atat&uuml;rk ilk cumhurbaşkanı olarak se&ccedil;ildi.&nbsp;</p>\r\n\r\n<p>Bu &ouml;zel g&uuml;nde devlet erkanı ve vatandaşlar T&uuml;rkiye Cumhuriyeti&rsquo;nin kurucusu Atat&uuml;rk&rsquo;&uuml; anmak i&ccedil;in Ankara&rsquo;da Anıtkabir&rsquo;i ziyaret ederek mozolesine &ccedil;elenk bırakır. İnsanlar kutlamalar i&ccedil;in caddelerde ve stadyumlarda toplanır, akşam ise geleneksel olarak fener alayları d&uuml;zenlenir.</p>\r\n\r\n<p>Tıpkı bug&uuml;n&uuml;n Doodle sanat eserinde olduğu gibi, &uuml;lkenin her yerinde, kırmızı-beyaz T&uuml;rk bayrağı g&ouml;klerde dalgalanır. Akşam, hayranlık uyandıran havai fişek g&ouml;sterisi kutlamaları g&ouml;ky&uuml;z&uuml;n&uuml; aydınlatır.</p>\r\n\r\n<p>Cumhuriyet Bayramı kutlu olsun T&uuml;rkiye!</p>\r\n"
+      }
+    },
+    "query": "Türkiye National Day",
+    "share_text": "Happy Türkiye National Day, Turkey! #GoogleDoodle"
+  },
+  {
     "name": "japan-general-elections-2024",
     "title": "Japan General Elections 2024",
     "url": "//www.google.com/logos/doodles/2024/japan-general-elections-2024-6753651837110597-l.png",
@@ -84,9 +588,9 @@
         "share_text": "၂၀၂၄ ဂျပန်နိုင်ငံ အထွေထွေရွေးကောက်ပွဲများ။ #GoogleDoodle"
       },
       "ca": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "eleccions al japó com pots votar",
+        "hover_text": "Eleccions generals al Japó 2024",
+        "share_text": "Eleccions generals al Japó 2024 #GoogleDoodle"
       },
       "zh-HK": {
         "query": "日本選舉投票方式",
@@ -99,9 +603,9 @@
         "share_text": "2024 日本大選登場！#GoogleDoodle"
       },
       "zh-CN": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "日本大选投票方式",
+        "hover_text": "2024 年日本大选",
+        "share_text": "2024 年日本大选！#GoogleDoodle"
       },
       "hr": {
         "query": null,
@@ -109,14 +613,14 @@
         "share_text": ""
       },
       "cs": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "jak volit v japonsku",
+        "hover_text": "Japonské volby 2024",
+        "share_text": "Konají se japonské volby 2024! #GoogleDoodle"
       },
       "da": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "hvordan stemmer man til det japanske valg",
+        "hover_text": "Valg i Japan 2024",
+        "share_text": "Valg i Japan 2024 #GoogleDoodle"
       },
       "nl": {
         "query": null,
@@ -194,9 +698,9 @@
         "share_text": "Kosningar í Japan 2024! #GoogleDoodle"
       },
       "id": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "cara memberikan suara dalam pemilu jepang",
+        "hover_text": "Pemilu Jepang 2024",
+        "share_text": "Pemilu Jepang 2024 #GoogleDoodle"
       },
       "ga": {
         "query": null,
@@ -439,9 +943,9 @@
         "share_text": ""
       },
       "te": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "జపాన్ ఎన్నికల్లో ఓటు వేయడం ఎలా",
+        "hover_text": "జపాన్ సార్వత్రిక ఎన్నికలు 2024",
+        "share_text": "జపాన్ సార్వత్రిక ఎన్నికలు 2024! #GoogleDoodle"
       },
       "th": {
         "query": "วิธีลงคะแนนเสียงเลือกตั้งของญี่ปุ่น",
