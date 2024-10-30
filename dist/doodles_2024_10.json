@@ -1,5 +1,504 @@
 [
   {
+    "name": "halloween-2024",
+    "title": "Halloween 2024",
+    "url": "//www.google.com/logos/doodles/2024/halloween-2024-6753651837110311.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/REGrQy-IFMgG7RtwpN8uHMPPLk6c5AOk6ih_yrj5nRgk4kt6t1v2YwQh_9Ek1FA4fN01nM_RT-2gBtv4PxOuNk6QdHqdsPa5N8LOs9myWVkihqCqFHXOSQ",
+    "high_res_url": "//www.google.com/logos/doodles/2024/halloween-2024-6753651837110311.2-2xa.gif",
+    "high_res_width": 995,
+    "high_res_height": 460,
+    "run_date_array": [
+      2024,
+      10,
+      30
+    ],
+    "translations": {
+      "en": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2024",
+        "share_text": "Happy Halloween! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2024",
+        "share_text": "Gelukkige Halloween! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Hallouin",
+        "hover_text": "Hallouin, 2024",
+        "share_text": "Gëzuar Hallouinin! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ሃሎዊን",
+        "hover_text": "ሃሎዊን 2024",
+        "share_text": "መልካም ሃሎዊን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "الهالوين",
+        "hover_text": "هالوين 2024",
+        "share_text": "نتمنى لكم عيد هالوين سعيدًا. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Հելոուին",
+        "hover_text": "Հելոուին 2024",
+        "share_text": "Ուրա՛խ հելոուին #GoogleDoodle"
+      },
+      "az": {
+        "query": "Hellouin",
+        "hover_text": "2024 Hellouin",
+        "share_text": "Hellouin bayramınız mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "হ্যালোউইন",
+        "hover_text": "হ্যালোউইন ২০২৪",
+        "share_text": "হ্যালোউইনের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Arimen Gaua",
+        "hover_text": "2024ko Arimen Gaua",
+        "share_text": "Gau beltz zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Хэлаўін",
+        "hover_text": "Хэлаўін 2024",
+        "share_text": "З Хэлаўінам! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Noć vještica",
+        "hover_text": "Noć vještica 2024.",
+        "share_text": "Sretna Noć vještica! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2024",
+        "share_text": "Happy Halloween #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Хелоуин",
+        "hover_text": "Хелоуин 2024 г.",
+        "share_text": "Честит Хелоуин! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဟောလိုးဝင်း",
+        "hover_text": "၂၀၂၄ ဟောလိုးဝင်း",
+        "share_text": "ပျော်ရွှင်ဖွယ် ဟောလိုးဝင်းဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2024",
+        "share_text": "Feliç Halloween! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "萬聖節",
+        "hover_text": "2024 年萬聖節",
+        "share_text": "萬聖節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "萬聖節",
+        "hover_text": "2024 萬聖節",
+        "share_text": "萬聖節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "万圣节",
+        "hover_text": "2024 年万圣节",
+        "share_text": "万圣节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Noć vještica",
+        "hover_text": "Noć vještica 2024.",
+        "share_text": "Sretna Noć vještica! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2024",
+        "share_text": "Veselý Halloween! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2024",
+        "share_text": "Glædelig Halloween! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2024",
+        "share_text": "Fijne Halloween! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2024",
+        "share_text": "Head halloweeni! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2024",
+        "share_text": "Hyvää Halloweenia! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2024",
+        "share_text": "Joyeux Halloween ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2024",
+        "share_text": "Joyeuse Halloween! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Samaín",
+        "hover_text": "Samaín 2024",
+        "share_text": "Feliz Halloween! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ჰელოუინი",
+        "hover_text": "ჰელოუინი 2024",
+        "share_text": "გილოცავთ ჰელოუინს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2024",
+        "share_text": "Happy Halloween! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Χάλοουϊν",
+        "hover_text": "Χάλοουϊν 2024",
+        "share_text": "Ευτυχισμένο Χάλοουϊν! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "હેલોવીન",
+        "hover_text": "હેલોવીન 2024",
+        "share_text": "હેલોવીનની શુભેચ્છાઓ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "ליל כל הקדושים",
+        "hover_text": "האלווין 2024",
+        "share_text": "ליל כל הקדושים שמח! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "हैलोवीन",
+        "hover_text": "हैलोवीन 2024",
+        "share_text": "हैलोवीन की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Halloween",
+        "hover_text": "Halloween, 2024",
+        "share_text": "Boldog halloweent! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Hrekkjavaka",
+        "hover_text": "Hrekkjavaka 2024",
+        "share_text": "Gleðilega hrekkjavöku! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2024",
+        "share_text": "Selamat Halloween! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Oíche Shamhna",
+        "hover_text": null,
+        "share_text": "Oíche Shamhna faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2024",
+        "share_text": "Buon Halloween! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ハロウィーン",
+        "hover_text": "2024 年ハロウィーン",
+        "share_text": "ハロウィーンを祝おう #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಹ್ಯಾಲೋವೀನ್",
+        "hover_text": "ಹ್ಯಾಲೋವೀನ್ 2024",
+        "share_text": "ಹ್ಯಾಲೋವೀನ್ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Хеллоуин",
+        "hover_text": "Хэллоуин — 2024",
+        "share_text": "Хэллоуин құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "បុណ្យហាឡូវីន",
+        "hover_text": "បុណ្យ​ហាឡូវីន​ឆ្នាំ 2024",
+        "share_text": "អបអរ​បុណ្យ​ហាឡូវីន! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "핼러윈",
+        "hover_text": "2024년 핼러윈",
+        "share_text": "핼러윈 축제 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Хэллоуин",
+        "hover_text": "Хэллоуин – 2024",
+        "share_text": "Хэллоуин кут болсун! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ຮາໂລວີນ",
+        "hover_text": "ວັນຮາໂລວີນປີ 2024",
+        "share_text": "ສຸກສັນວັນຮາໂລວີນ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2024",
+        "share_text": "¡Feliz Halloween! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Visu svēto diena",
+        "hover_text": "Halovīns — 2024",
+        "share_text": "Sveicam Visu svēto dienas priekšvakarā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Helovinas",
+        "hover_text": "Helovinas 2024",
+        "share_text": "Linksmo Helovino! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ноќ на вештерките",
+        "hover_text": "Ноќ на вештерките, 2024 г.",
+        "share_text": "Среќна Ноќ на вештерките! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Halloween",
+        "hover_text": null,
+        "share_text": "Tsarà Halloween ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2024",
+        "share_text": "Selamat Hari Halloween! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഹാലോവീൻ",
+        "hover_text": "ഹാലോവീൻ 2024",
+        "share_text": "ഹാലോവീൻ ആശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "हॅलोविन",
+        "hover_text": "हॅलोवीन २०२४",
+        "share_text": "हॅलोविनच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Сүнсний баяр",
+        "hover_text": "2024 оны Сүнсний баяр",
+        "share_text": "Сүнсний баярын мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "ह्यालोविन",
+        "hover_text": "ह्यालोविन २०२४",
+        "share_text": "ह्यालोविनको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2024",
+        "share_text": "Happy Halloween! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ହାଲୋୱିନ୍",
+        "hover_text": null,
+        "share_text": "ହାଲୋୱିନର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "هالووین",
+        "hover_text": "هالووین ۲۰۲۴",
+        "share_text": "هالووین مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2024",
+        "share_text": "Obchodzimy Halloween #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia das Bruxas",
+        "hover_text": "Halloween 2024",
+        "share_text": "Feliz Dia das Bruxas! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia das bruxas",
+        "hover_text": "Dia das Bruxas de 2024",
+        "share_text": "Feliz Dia das Bruxas! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਹੈਲੋਵੀਨ",
+        "hover_text": "ਹੈਲੋਵੀਨ 2024",
+        "share_text": "ਹੈਲੋਵੀਨ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2024",
+        "share_text": "Halloween fericit! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Хеллоуин",
+        "hover_text": "Хеллоуин – 2024",
+        "share_text": "Хеллоуин #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Ноћ вештица",
+        "hover_text": "Ноћ вештица 2024.",
+        "share_text": "Срећна Ноћ вештица! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Noć veštica",
+        "hover_text": "Noć veštica 2024.",
+        "share_text": "Srećna Noć veštica! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Halloween",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "හැලොවීන්",
+        "hover_text": "හැලොවීන් 2024",
+        "share_text": "ප්‍රීතිමත් හැලොවීන්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2024",
+        "share_text": "Šťastný Halloween! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Noč čarovnic",
+        "hover_text": "Noč čarovnic 2024",
+        "share_text": "Veselo noč čarovnic! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Halawiin",
+        "hover_text": null,
+        "share_text": "Hallawiin Farxad leh! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Halloween",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2024",
+        "share_text": "¡Feliz Halloween! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2024",
+        "share_text": "Heri ya Sikukuu ya Halloween! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Halloween",
+        "hover_text": "Halloween 2024",
+        "share_text": "Glad halloween! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஹாலோவீன்",
+        "hover_text": "ஹாலோவீன் 2024",
+        "share_text": "ஹலோவீன் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "హాలోవీన్",
+        "hover_text": "హాలోవీన్ 2024",
+        "share_text": "హాలోవీన్ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันฮาโลวีน",
+        "hover_text": "วันฮาโลวีนปี 2024",
+        "share_text": "สุขสันต์วันฮาโลวีน #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Halloween",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Cadılar Bayramı",
+        "hover_text": "2024 Cadılar Bayramı",
+        "share_text": "Cadılar Bayramı Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Хелловін",
+        "hover_text": "Гелловін у 2024 році",
+        "share_text": "Вітаємо з Хелловіном! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "ہالووین",
+        "hover_text": "ہالووین 2024",
+        "share_text": "ہالووین مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Hellouin",
+        "hover_text": "Hellouin 2024",
+        "share_text": "Hellouin #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Halloween",
+        "hover_text": "Lễ hội Halloween năm 2024",
+        "share_text": "Mừng lễ hội Halloween! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "I-Halloween",
+        "hover_text": "IHalloween 2024",
+        "share_text": "Halala Halloween! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Halloween",
+    "share_text": "Happy Halloween! #GoogleDoodle"
+  },
+  {
     "name": "turkiye-national-day-2024",
     "title": "Türkiye National Day 2024",
     "url": "//www.google.com/logos/doodles/2024/turkiye-national-day-2024-6753651837110310.2-law.gif",
@@ -523,9 +1022,9 @@
         "share_text": "Japan General Elections 2024! #GoogleDoodle"
       },
       "af": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "hoe om in japan se verkiesing te stem",
+        "hover_text": "Japan se algemene verkiesing 2024",
+        "share_text": "Japan se algemene verkiesing 2024! #GoogleDoodle"
       },
       "sq": {
         "query": "si të votosh për zgjedhjet në japoni",
@@ -538,14 +1037,14 @@
         "share_text": "የጃፓን አጠቃላይ ምርጫዎች 2024! #GoogleDoodle"
       },
       "ar": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "كيفية التصويت في انتخابات اليابان",
+        "hover_text": "الانتخابات العامة في اليابان 2024",
+        "share_text": "انطلقت الانتخابات العامة في اليابان لعام 2024. ‎#GoogleDoodle"
       },
       "hy": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "ճապոնիա ընտրություններ ինչպես քվեարկել",
+        "hover_text": "Ճապոնիայի համընդհանուր ընտրություններ 2024",
+        "share_text": "Ճապոնիայի համընդհանուր ընտրություններ 2024 #GoogleDoodle"
       },
       "az": {
         "query": "yaponiya seçkilərində səs vermək qaydası",
@@ -553,9 +1052,9 @@
         "share_text": "2024 Yaponiya Ümumi Seçkiləri! #GoogleDoodle"
       },
       "bn": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "জাপানে কীভাবে ভোট দিতে হয়",
+        "hover_text": "জাপানের সাধারণ নির্বাচন, ২০২৪",
+        "share_text": "জাপানের সাধারণ নির্বাচন, ২০২৪! #GoogleDoodle"
       },
       "eu": {
         "query": "Japoniako hauteskundeetan nola bozkatu",
@@ -568,19 +1067,19 @@
         "share_text": "Усеагульныя выбары ў Японіі 2024! #GoogleDoodle"
       },
       "bs": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "kako glasati na izborima u japanu",
+        "hover_text": "Opći izbori u Japanu 2024.",
+        "share_text": "Opći izbori u Japanu 2024! #GoogleDoodle"
       },
       "en-GB": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "japan election how to vote",
+        "hover_text": "Japan general elections 2024",
+        "share_text": "Japan general elections 2024! #GoogleDoodle"
       },
       "bg": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "как да гласувате на изборите в Япония",
+        "hover_text": "Общи избори в Япония 2024 г.",
+        "share_text": "Общи избори в Япония 2024 г.! #GoogleDoodle"
       },
       "my": {
         "query": "ဂျပန်နိုင်ငံ ရွေးကောက်ပွဲ မဲပေးနည်း",
@@ -593,9 +1092,9 @@
         "share_text": "Eleccions generals al Japó 2024 #GoogleDoodle"
       },
       "zh-HK": {
-        "query": "日本選舉投票方式",
-        "hover_text": "2024 日本大選",
-        "share_text": "2024 日本大選登場！#GoogleDoodle"
+        "query": "日本選舉投票方法",
+        "hover_text": "2024 年日本大選",
+        "share_text": "2024 年日本大選！#GoogleDoodle"
       },
       "zh-TW": {
         "query": "日本選舉投票方式",
@@ -608,9 +1107,9 @@
         "share_text": "2024 年日本大选！#GoogleDoodle"
       },
       "hr": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "izbori u japanu kako glasati",
+        "hover_text": "Opći izbori u Japanu 2024.",
+        "share_text": "Opći izbori u Japanu 2024.! #GoogleDoodle"
       },
       "cs": {
         "query": "jak volit v japonsku",
@@ -623,9 +1122,9 @@
         "share_text": "Valg i Japan 2024 #GoogleDoodle"
       },
       "nl": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "japan verkiezingen hoe kun je stemmen",
+        "hover_text": "Algemene verkiezingen Japan 2024",
+        "share_text": "De algemene verkiezingen in Japan van 2024! #GoogleDoodle"
       },
       "et": {
         "query": "jaapani valimised kuidas hääletada",
@@ -638,9 +1137,9 @@
         "share_text": "Japanin vaalit 2024 #GoogleDoodle"
       },
       "fr": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "comment voter aux élections du Japon",
+        "hover_text": "Élections générales 2024 au Japon",
+        "share_text": "Élections générales 2024 au Japon #GoogleDoodle"
       },
       "fr-CA": {
         "query": "comment voter pour les élections au japon",
@@ -648,14 +1147,14 @@
         "share_text": "Élections générales de 2024 au Japon! #GoogleDoodle"
       },
       "gl": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "como votar nas eleccións xaponesas",
+        "hover_text": "Eleccións xerais do Xapón 2024",
+        "share_text": "Eleccións xerais do Xapón 2024! #GoogleDoodle"
       },
       "ka": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "როგორ უნდა მისცეთ ხმა იაპონიის არჩევნებში",
+        "hover_text": "იაპონიის საყოველთაო არჩევნები — 2024",
+        "share_text": "იაპონიის საყოველთაო არჩევნები — 2024! #GoogleDoodle"
       },
       "de": {
         "query": "Wie wird in Japan gewählt",
@@ -663,9 +1162,9 @@
         "share_text": "Parlamentswahl in Japan 2024 #GoogleDoodle"
       },
       "el": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "εκλογές στην ιαπωνία πώς να ψηφίσετε",
+        "hover_text": "Γενικές εκλογές στην Ιαπωνία 2024",
+        "share_text": "Γενικές εκλογές στην Ιαπωνία 2024! #GoogleDoodle"
       },
       "gu": {
         "query": "જાપાનની ચૂંટણીમાં મત આપવાની રીત",
@@ -678,19 +1177,19 @@
         "share_text": ""
       },
       "iw": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "הבחירות ביפן: איך מצביעים?",
+        "hover_text": "הבחירות הכלליות ביפן 2024",
+        "share_text": "הבחירות הכלליות ביפן 2024 GoogleDoodle#"
       },
       "hi": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "जापान के चुनाव में कैसे वोट करें",
+        "hover_text": "जापान के आम चुनाव 2024",
+        "share_text": "जापान के आम चुनाव 2024! #GoogleDoodle"
       },
       "hu": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "japán választások hogyan lehet szavazni",
+        "hover_text": "Általános választások Japánban, 2024",
+        "share_text": "Általános választások Japánban, 2024! #GoogleDoodle"
       },
       "is": {
         "query": "hvernig á að kjósa í Japan",
@@ -723,9 +1222,9 @@
         "share_text": "ಜಪಾನ್ ಸಾರ್ವತ್ರಿಕ ಚುನಾವಣೆಗಳು 2024! #GoogleDoodle"
       },
       "kk": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "жапония сайлау дауыс беру әдісі",
+        "hover_text": "Жапониядағы жалпы сайлау – 2024",
+        "share_text": "Жапониядағы жалпы сайлау – 2024! #GoogleDoodle"
       },
       "km": {
         "query": "ការបោះឆ្នោតនៅជប៉ុន របៀបបោះឆ្នោត",
@@ -738,14 +1237,14 @@
         "share_text": "2024년 일본 총선 #GoogleDoodle"
       },
       "ky": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "жапониядагы шайлоодо кантип добуш берүү керек",
+        "hover_text": "Жапониядагы жалпы шайлоо — 2024",
+        "share_text": "Жапониядагы жалпы шайлоо – 2024! #GoogleDoodle"
       },
       "lo": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "ວິທີລົງຄະແນນສຽງການເລືອກຕັ້ງຍີ່ປຸ່ນ",
+        "hover_text": "ການເລືອກຕັ້ງທົ່ວໄປຍີ່ປຸ່ນ 2024",
+        "share_text": "ການເລືອກຕັ້ງທົ່ວໄປຍີ່ປຸ່ນ 2024! #GoogleDoodle"
       },
       "es-419": {
         "query": "cómo votar en las elecciones de japón",
@@ -763,9 +1262,9 @@
         "share_text": "Japonijos visuotiniai rinkimai, 2024 m.! #GoogleDoodle"
       },
       "mk": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "како се гласа на изборите во Јапонија",
+        "hover_text": "Општи избори во Јапонија, 2024 г.",
+        "share_text": "Општи избори во Јапонија, 2024 г.! #GoogleDoodle"
       },
       "mg": {
         "query": null,
@@ -778,9 +1277,9 @@
         "share_text": "Pilihan Raya Umum Jepun 2024! #GoogleDoodle"
       },
       "ml": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "ജാപ്പനീസ് തിരഞ്ഞെടുപ്പിൽ എങ്ങനെ വോട്ട് ചെയ്യാം",
+        "hover_text": "ജാപ്പനീസ് പൊതുതിരഞ്ഞെടുപ്പ് 2024",
+        "share_text": "ജാപ്പനീസ് പൊതുതിരഞ്ഞെടുപ്പ് 2024! #GoogleDoodle"
       },
       "mt": {
         "query": null,
@@ -788,9 +1287,9 @@
         "share_text": ""
       },
       "mr": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "जपानच्या निवडणुकीमध्ये मतदान कसे करावे",
+        "hover_text": "जपानच्या सर्वसाधारण निवडणुका २०२४",
+        "share_text": "जपानच्या सर्वसाधारण निवडणुका २०२४! #GoogleDoodle"
       },
       "mn": {
         "query": "японы сонгууль хэрхэн санал өгөх вэ",
@@ -803,9 +1302,9 @@
         "share_text": "जापानको आम निर्वाचन २०२४! #GoogleDoodle"
       },
       "no": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "hvordan stemmer man i valget i Japan",
+        "hover_text": "Valget i Japan 2024",
+        "share_text": "Valget i Japan 2024! #GoogleDoodle"
       },
       "nn": {
         "query": null,
@@ -828,34 +1327,34 @@
         "share_text": ""
       },
       "fa": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "نحوه رأی دادن در انتخابات ژاپن",
+        "hover_text": "انتخابات عمومی ۲۰۲۴ ژاپن",
+        "share_text": "انتخابات عمومی ۲۰۲۴ ژاپن! ‎#GoogleDoodle"
       },
       "pl": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "jak głosować w wyborach w japonii",
+        "hover_text": "Wybory powszechne 2024 w Japonii",
+        "share_text": "Wybory powszechne 2024 w Japonii #GoogleDoodle"
       },
       "pt-BR": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "como votar nas eleições no Japão",
+        "hover_text": "Eleições gerais do Japão 2024",
+        "share_text": "Eleições gerais do Japão 2024! #GoogleDoodle"
       },
       "pt-PT": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "eleições no japão como votar",
+        "hover_text": "Eleições Gerais do Japão de 2024",
+        "share_text": "Eleições Gerais do Japão de 2024! #GoogleDoodle"
       },
       "pa": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "japan election how to vote",
+        "hover_text": "ਜਪਾਨ ਦੀਆਂ ਆਮ ਚੋਣਾਂ 2024",
+        "share_text": "ਜਪਾਨ ਦੀਆਂ ਆਮ ਚੋਣਾਂ 2024! #GoogleDoodle"
       },
       "ro": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "alegeri japonia cum votez",
+        "hover_text": "Alegeri generale în Japonia 2024",
+        "share_text": "Alegeri generale în Japonia 2024! #GoogleDoodle"
       },
       "ro-MD": {
         "query": null,
@@ -863,9 +1362,9 @@
         "share_text": ""
       },
       "ru": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "выборы в японии как проголосовать",
+        "hover_text": "Парламентские выборы в Японии – 2024",
+        "share_text": "Парламентские выборы в Японии – 2024 #GoogleDoodle"
       },
       "sr": {
         "query": "како да гласате на изборима у Јапану",
@@ -893,19 +1392,19 @@
         "share_text": ""
       },
       "si": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "ජපාන මැතිවරණයට ඡන්දය දෙන ආකාරය",
+        "hover_text": "ජපාන මහ මැතිවරණය 2024",
+        "share_text": "ජපාන මහ මැතිවරණය 2024! #GoogleDoodle"
       },
       "sk": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "ako voliť v Japonsku",
+        "hover_text": "Všeobecné voľby v Japonsku 2024",
+        "share_text": "Všeobecné voľby v Japonsku 2024. #GoogleDoodle"
       },
       "sl": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "volitve na japonskem potek glasovanja",
+        "hover_text": "Splošne volitve na Japonskem 2024",
+        "share_text": "Splošne volitve na Japonskem 2024. #GoogleDoodle"
       },
       "so": {
         "query": null,
@@ -918,14 +1417,14 @@
         "share_text": ""
       },
       "es": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "elecciones en japón cómo votar",
+        "hover_text": "Elecciones generales en Japón 2024",
+        "share_text": "Elecciones generales en Japón 2024 #GoogleDoodle"
       },
       "sw": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "jinsi ya kupiga kura katika uchaguzi wa Japani",
+        "hover_text": "Uchaguzi Mkuu wa Japani 2024",
+        "share_text": "Uchaguzi Mkuu wa Japani 2024! #GoogleDoodle"
       },
       "sv": {
         "query": "japanska valet hur man röstar",
@@ -938,9 +1437,9 @@
         "share_text": ""
       },
       "ta": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "japan election how to vote",
+        "hover_text": "ஜப்பான் பொதுத் தேர்தல்கள் 2024",
+        "share_text": "ஜப்பான் பொதுத் தேர்தல்கள் 2024! #GoogleDoodle"
       },
       "te": {
         "query": "జపాన్ ఎన్నికల్లో ఓటు వేయడం ఎలా",
@@ -958,9 +1457,9 @@
         "share_text": ""
       },
       "tr": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "japonya seçimlerinde oy verme",
+        "hover_text": "2024 Japonya Genel Seçimleri",
+        "share_text": "2024 Japonya Genel Seçimleri #GoogleDoodle"
       },
       "tk": {
         "query": null,
@@ -973,9 +1472,9 @@
         "share_text": "Загальні вибори в Японії у 2024 році! #GoogleDoodle"
       },
       "ur": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "جاپان انتخابات میں ووٹ کرنے کا طریقہ",
+        "hover_text": "جاپان کے 2024 کے عام انتخابات",
+        "share_text": "جاپان کے 2024 کے عام انتخابات! GoogleDoodle#"
       },
       "uz": {
         "query": "yaponiya saylovlarida qanday ovoz berish mumkin",
@@ -993,9 +1492,9 @@
         "share_text": ""
       },
       "zu": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "indlela yokuvota yokhetho lwasejapan",
+        "hover_text": "Ukhetho Lukazwelonke lwaseJapan lwango-2024",
+        "share_text": "Ukhetho Lukazwelonke lwaseJapan lwango-2024! #GoogleDoodle"
       }
     },
     "translated_blog_posts": {},
@@ -3173,9 +3672,9 @@
         "share_text": ""
       },
       "iw": {
-        "query": "יום העצמאות של אזרבייג'ן",
-        "hover_text": null,
-        "share_text": "יום עצמאות שמח אזרבייג'ן! GoogleDoodle#"
+        "query": "יום חידוש העצמאות של אזרבייג'ן",
+        "hover_text": "יום חידוש העצמאות של אזרבייג'ן 2024",
+        "share_text": "חוגגים את יום חידוש העצמאות של אזרבייג'ן ‎#GoogleDoodle"
       },
       "hi": {
         "query": "अज़रबैजान के इंडिपेंडेंस रेस्टोरेशन डे की शुभकामनाएं",
