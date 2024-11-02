@@ -1,1 +1,501 @@
-[]
+[
+  {
+    "name": "day-of-the-dead-2024",
+    "title": "Day of the Dead 2024",
+    "url": "//www.google.com/logos/doodles/2024/day-of-the-dead-2024-6753651837110312-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/UfsIWjBUD1ulNSL90T0f_jGiif_nLUYtegk9V_6wMGEQ6_DgKT6yWEuDsBY5MTj-9eUI57WlzVRTOUBifFB4I4VyJ5tHW_o9Gn5RJrQA8D76BunCZKd6q6o",
+    "high_res_url": "//www.google.com/logos/doodles/2024/day-of-the-dead-2024-6753651837110312-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2024,
+      11,
+      1
+    ],
+    "translations": {
+      "en": {
+        "query": "Day of the Dead",
+        "hover_text": "Day of the Dead 2024",
+        "share_text": "Happy Day of the Dead! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Dag van die Dooies",
+        "hover_text": "Dag van die Dooies 2024",
+        "share_text": "Gelukkige Dag van die Dooies! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e të Vdekurve",
+        "hover_text": "Dita e të Vdekurve, 2024",
+        "share_text": "Gëzuar Ditën e të Vdekurve! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የሙታን መታሰቢያ ቀን",
+        "hover_text": "የሙታን መታሰቢያ ቀን 2024",
+        "share_text": "መልካም የሙታን ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "يوم الموتى",
+        "hover_text": "يوم الموتى 2024",
+        "share_text": "نحتفل بيوم الموتى. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Մեռյալների օր",
+        "hover_text": "Մեռյալների օր 2024",
+        "share_text": "Մեռյալների օր #GoogleDoodle"
+      },
+      "az": {
+        "query": "Ölülər Günü",
+        "hover_text": "2024 Ölənlərinin Anım Günü",
+        "share_text": "Ölənləri Anım Günü münasibətilə ölənlərinizə rəhmət diləyirik! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "মৃতদের স্মরণ করার দিবস",
+        "hover_text": "মৃতদের স্মরণ করার দিবস ২০২৪",
+        "share_text": "মৃতদের স্মরণ করার দিন! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Heriotzaren Eguna",
+        "hover_text": "2024ko Hilen Eguna",
+        "share_text": "Santu guztien egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень мёртвых",
+        "hover_text": "Дзень мёртвых 2024",
+        "share_text": "З Днём мёртвых! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan mrtvih",
+        "hover_text": "Dan mrtvih 2024.",
+        "share_text": "Sretan Dan mrtvih! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Day of the Dead",
+        "hover_text": "Day of the Dead 2024",
+        "share_text": "Happy Day of the Dead! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на мъртвите",
+        "hover_text": "Ден на мъртвите 2024 г.",
+        "share_text": "Честит Ден на мъртвите! #GoogleDoodle"
+      },
+      "my": {
+        "query": "သေဆုံးသူများနေ့",
+        "hover_text": "သေဆုံးသူများနေ့ ၂၀၂၄",
+        "share_text": "ပျော်ရွှင်ဖွယ် သေဆုံးသူများနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia dels Morts",
+        "hover_text": "Dia dels Morts 2024",
+        "share_text": "Feliç Dia dels Morts! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "亡靈節",
+        "hover_text": "2024 年亡靈節",
+        "share_text": "亡靈節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "亡靈節",
+        "hover_text": "2024 亡靈節",
+        "share_text": "亡靈節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "亡灵节",
+        "hover_text": "2024 年亡灵节",
+        "share_text": "亡灵节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan mrtvih",
+        "hover_text": "Dan mrtvih 2024.",
+        "share_text": "Sretan Dan mrtvih! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den mrtvých",
+        "hover_text": "Den mrtvých 2024",
+        "share_text": "Veselý Den mrtvých! #GoogleDoodle"
+      },
+      "da": {
+        "query": "De dødes dag",
+        "hover_text": "De dødes dag 2024",
+        "share_text": "Glædelig De dødes dag! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Dag van de Doden",
+        "hover_text": "Dag van de Doden 2024",
+        "share_text": "Fijne Dag van de Doden #GoogleDoodle"
+      },
+      "et": {
+        "query": "Surnute päev",
+        "hover_text": "2024. aasta surnutepäev",
+        "share_text": "Head surnutepäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Kuolleiden päivä",
+        "hover_text": "Kuolleiden päivä 2024",
+        "share_text": "Hyvää kuolleiden päivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Jour des morts",
+        "hover_text": "Jour des Morts 2024",
+        "share_text": "Jour des morts ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour des Morts",
+        "hover_text": "Jour des Morts 2024",
+        "share_text": "Joyeux jour des Morts! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día dos Mortos",
+        "hover_text": "Día dos Mortos 2024",
+        "share_text": "Feliz Día dos Mortos! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "გარდაცვლილთა დღე",
+        "hover_text": "გარდაცვლილთა დღე 2024",
+        "share_text": "გილოცავთ მიცვალებულთა დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Tag der Toten",
+        "hover_text": "Día de los Muertos 2024",
+        "share_text": "Alles Gute zum Tag der Toten! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα των Νεκρών",
+        "hover_text": "Ημέρα των Νεκρών 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα των Νεκρών! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "મૃત સ્વજનોનો દિવસ",
+        "hover_text": "મૃત સ્વજનોનો દિવસ 2024",
+        "share_text": "મૃત સ્વજનોના દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום המתים",
+        "hover_text": "חג 'יום המתים' 2024",
+        "share_text": "יום המתים שמח! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "डे ऑफ़ द डेड",
+        "hover_text": "डे ऑफ़ द डेड 2024",
+        "share_text": "डे ऑफ़ द डेड की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Halottak napja",
+        "hover_text": "Halottak napja, 2024",
+        "share_text": "Minden jót a halottak napján! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Dagur hinna dauðu",
+        "hover_text": "Dagur hinna dauðu 2024",
+        "share_text": "Gleðilegan dag hinna dauðu! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Raya Kematian",
+        "hover_text": "Hari Raya Kematian 2024",
+        "share_text": "Selamat Hari Raya Kematian! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá na Marbh",
+        "hover_text": null,
+        "share_text": "Lá na Marbh faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Giorno dei morti",
+        "hover_text": "Giorno dei morti 2024",
+        "share_text": "Felice giorno dei morti! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "死者の日",
+        "hover_text": "2024 年死者の日",
+        "share_text": "死者の日を祝おう #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಡೇ ಆಫ್ ದಿ ಡೆಡ್",
+        "hover_text": "ಡೇ ಆಫ್ ದಿ ಡೆಡ್ 2024",
+        "share_text": "ಡೇ ಆಫ್ ದಿ ಡೆಡ್ ನ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Өлілер күні",
+        "hover_text": "Өлілер күні — 2024",
+        "share_text": "Өлілерді еске алу күні #GoogleDoodle"
+      },
+      "km": {
+        "query": "ពិធីបុណ្យរំលឹកដល់​​សាច់ញាតិដែល​ចែកឋាន",
+        "hover_text": "ពិធីបុណ្យ​រំលឹកដល់​អ្នក​ចែកឋាន​ឆ្នាំ 2024",
+        "share_text": "អបអរ​ពិធីបុណ្យ​រំលឹកដល់​អ្នក​ចែកឋាន! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "망자의 날",
+        "hover_text": "2024년 망자의 날",
+        "share_text": "망자의 날 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Өлүктөрдүн күнү",
+        "hover_text": "Маркумдардын күнү – 2024",
+        "share_text": "Өлүктөрдүн күнү – 2022 кут болсун! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນແຫ່ງຄວາມຕາຍ",
+        "hover_text": "ວັນແຫ່ງຄວາມຕາຍປີ 2024",
+        "share_text": "ສຸກສັນວັນແຫ່ງຄວາມຕາຍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de Muertos",
+        "hover_text": "Día de Muertos 2024",
+        "share_text": "¡Feliz Día de Muertos! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Mirušo diena",
+        "hover_text": "Mirušo diena — 2024",
+        "share_text": "Sveicam Mirušo dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Mirusiųjų diena",
+        "hover_text": "Mirusiųjų diena, 2024 m.",
+        "share_text": "Linksmos Mirusiųjų dienos! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на мртвите",
+        "hover_text": "Ден на мртвите, 2024 г.",
+        "share_text": "Среќен Ден на мртвите! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny maty",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny maty ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kematian",
+        "hover_text": "Hari Kematian 2024",
+        "share_text": "Selamat Menyambut Hari Kematian! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഡേ ഓഫ് ദി ഡെഡ്",
+        "hover_text": "ഡേ ഓഫ് ദ ഡെഡ് 2024",
+        "share_text": "ഡേ ഓഫ് ദ ഡെഡ് ആശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "स्वर्गवासी लोकांना आठवण्याचा दिवस",
+        "hover_text": "डे ऑफ द डेड २०२४",
+        "share_text": "स्वर्गवासी लोकांना आठवण्याचा दिवस! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Нас барагсдын өдөр",
+        "hover_text": "2024 оны Үхэгсдийн өдөр",
+        "share_text": "Нас барагсдын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "मृतक दिवस",
+        "hover_text": "मृतक दिवस २०२४",
+        "share_text": "मृतक दिवसको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "De dødes dag",
+        "hover_text": "De dødes dag 2024",
+        "share_text": "Vi feirer de dødes dag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ମୃତକଙ୍କୁ ସ୍ମରଣ କରିବା ଦିବସ",
+        "hover_text": null,
+        "share_text": "ମୃତକଙ୍କୁ ସ୍ମରଣ କରିବା ଦିବସର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز مردگان",
+        "hover_text": "روز مردگان ۲۰۲۴",
+        "share_text": "روز مردگان مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Zmarłych",
+        "hover_text": "Święto Zmarłych 2024",
+        "share_text": "Obchodzimy Święto Zmarłych #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia de Finados",
+        "hover_text": "Dia de Finados 2024",
+        "share_text": "Feliz Dia dos Mortos! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia dos mortos",
+        "hover_text": "Dia dos Mortos de 2024",
+        "share_text": "Feliz dia dos mortos! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਮਰੇ ਲੋਕਾਂ ਦਾ ਦਿਨ",
+        "hover_text": "ਮੁਰਦਿਆਂ ਦਾ ਦਿਨ 2024",
+        "share_text": "ਮਰੇ ਲੋਕਾਂ ਦੇ ਦਿਨ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Morților",
+        "hover_text": "Ziua Morților 2024",
+        "share_text": "Ziua Morților #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День мертвых",
+        "hover_text": "День мертвых – 2024",
+        "share_text": "День мертвых #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан мртвих",
+        "hover_text": "Дан мртвих 2024.",
+        "share_text": "Срећан Дан мртвих! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan mrtvih",
+        "hover_text": "Dan mrtvih 2024.",
+        "share_text": "Srećan Dan mrtvih! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen bann mor",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "මිය ගිය අයගේ දිනය",
+        "hover_text": "මළවුන්ගේ දිනය 2024",
+        "share_text": "ප්‍රීතිමත් මළවුන්ගේ දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň mŕtvych",
+        "hover_text": "Deň mŕtvych 2024",
+        "share_text": "Šťastný Deň mŕtvych! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan spomina na mrtve",
+        "hover_text": "Dan spomina na mrtve 2024",
+        "share_text": "Vesel dan spomina na mrtve! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Dadka dhintay",
+        "hover_text": null,
+        "share_text": "Maalinta Dadka Dhintay oo Farxad leh! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Bafu",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día de Muertos",
+        "hover_text": "Día de Muertos 2024",
+        "share_text": "¡Feliz Día de Muertos! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Wafu",
+        "hover_text": "Sikukuu ya Wafu 2024",
+        "share_text": "Heri ya Sikukuu ya Wafu! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "De dödas dag",
+        "hover_text": "De dödas dag 2024",
+        "share_text": "Vi firar de dödas dag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "இறந்தோர் தினம்",
+        "hover_text": "இறந்தோர் நினைவேந்தல் தினம் 2024",
+        "share_text": "இறந்தோரை நினைவுகூர்வோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "డే ఆఫ్ ది డెడ్",
+        "hover_text": "డే ఆఫ్ ది డెడ్ 2024",
+        "share_text": "డే ఆఫ్ ది డెడ్ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันแห่งความตาย",
+        "hover_text": "วันแห่งความตายปี 2024",
+        "share_text": "สุขสันต์วันแห่งความตาย #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Baswi",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Ölüler Günü",
+        "hover_text": "2024 Ölüler Günü",
+        "share_text": "Ölüler Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День мертвих",
+        "hover_text": "День мертвих у 2024 році",
+        "share_text": "З Днем мертвих! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم مرحومین",
+        "hover_text": "یوم مرحومین 2024",
+        "share_text": "یوم مرحومین مبارک! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Marhumlar kuni",
+        "hover_text": "Marhumlar kuni 2024",
+        "share_text": "Marhumlar kuni bilan #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày tưởng niệm người đã khuất",
+        "hover_text": "Ngày tưởng niệm người đã khuất năm 2024",
+        "share_text": "Ngày Tưởng niệm người đã khuất! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lokufa",
+        "hover_text": "Usuku Lwabangasekho lwango-2024",
+        "share_text": "Usuku Oluhle Lwabafile! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Day of the Dead",
+    "share_text": "Happy Day of the Dead! #GoogleDoodle"
+  }
+]
