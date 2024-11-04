@@ -1,5 +1,504 @@
 [
   {
+    "name": "united-states-elections-2024-1",
+    "title": "United States Elections 2024 (1)",
+    "url": "//www.google.com/logos/doodles/2024/united-states-elections-2024-6753651837110316.4-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/4vyWB8pxZdIq9Nh4AI2xYGsEgXt6QEFF9DhX778PO6yQAQHfAmxFp0GPhIdvKYm5Kv_tb9aGgHkZrGWIl6O5BpdkTUaKjJu1Gsqvqqa8ESGgnBIi1fCh",
+    "high_res_url": "//www.google.com/logos/doodles/2024/united-states-presidential-elections-2024-6753651837110316-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      11,
+      3
+    ],
+    "translations": {
+      "en": {
+        "query": "how to vote in the US",
+        "hover_text": "United States Elections 2024",
+        "share_text": "United States Elections 2024! #GoogleDoodle"
+      },
+      "af": {
+        "query": "hoe om in die Verenigde State van Amerika te stem",
+        "hover_text": "Die Verenigde State se verkiesing 2024",
+        "share_text": "Die Verenigde State se verkiesing 2024! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "si të votosh në SHBA",
+        "hover_text": "Zgjedhjet në SHBA, 2024",
+        "share_text": "Zgjedhjet në SHBA, 2024! #GoogleDoodle"
+      },
+      "am": {
+        "query": "በአሜሪካ ውስጥ እንዴት ድምፅ መስጠት እንደሚቻል",
+        "hover_text": "የአሜሪካ የ2024 ምርጫ",
+        "share_text": "የአሜሪካ የ2024 ምርጫ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "كيفية التصويت في الولايات المتحدة",
+        "hover_text": "الانتخابات الأمريكية 2024",
+        "share_text": "انطلقت اليوم الانتخابات الأمريكية لعام 2024. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "ինչպես քվեարկել ԱՄՆ-ում",
+        "hover_text": "Ամերիկայի Միացյալ Նահանգների ընտրություններ 2024",
+        "share_text": "Ամերիկայի Միացյալ Նահանգների ընտրություններ 2024 #GoogleDoodle"
+      },
+      "az": {
+        "query": "ABŞ-da səs vermək qaydası",
+        "hover_text": "2024 ABŞ Seçkiləri",
+        "share_text": "2024 ABŞ Seçkiləri! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "মার্কিন যুক্তরাষ্ট্রে কীভাবে ভোট দিতে হয়",
+        "hover_text": "মার্কিন যুক্তরাষ্ট্রের নির্বাচন ২০২৪",
+        "share_text": "মার্কিন যুক্তরাষ্ট্রের নির্বাচন ২০২৪! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "AEBn bozkatzeko argibideak",
+        "hover_text": "Ameriketako Estatu Batuetako 2024ko hauteskundeak",
+        "share_text": "Ameriketako Estatu Batuetako 2024ko hauteskundeak #GoogleDoodle"
+      },
+      "be": {
+        "query": "як прагаласаваць у ЗША",
+        "hover_text": "Выбары ў ЗША 2024",
+        "share_text": "Выбары ў ЗША 2024! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "kako glasati u sad-u",
+        "hover_text": "Izbori u Sjedinjenim Američkim Državama 2024.",
+        "share_text": "Izbori u Sjedinjenim Američkim Državama 2024! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "how to vote in the US",
+        "hover_text": "United States elections 2024",
+        "share_text": "United States elections 2024! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "как да гласувате в САЩ",
+        "hover_text": "Избори в САЩ 2024 г.",
+        "share_text": "Избори в САЩ 2024 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ယူအက်စ်တွင် မဲပေးနည်း",
+        "hover_text": "၂၀၂၄ အမေရိကန်ပြည်ထောင်စု ရွေးကောက်ပွဲများ",
+        "share_text": "၂၀၂၄ အမေရိကန်ပြည်ထောင်စု ရွေးကောက်ပွဲများ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "com es pot votar als EUA",
+        "hover_text": "Eleccions dels Estats Units 2024",
+        "share_text": "Eleccions dels Estats Units 2024 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "如何在美國投票",
+        "hover_text": "2024 年美國大選",
+        "share_text": "2024 年美國大選！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "如何在美國投票",
+        "hover_text": "2024 美國大選",
+        "share_text": "2024 美國大選登場！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "如何在美国境内投票",
+        "hover_text": "2024 年美国选举",
+        "share_text": "2024 年美国选举！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "kako glasati u SAD-u",
+        "hover_text": "Izbori u Sjedinjenim Američkim Državama 2024.",
+        "share_text": "Izbori u Sjedinjenim Američkim Državama 2024. #GoogleDoodle"
+      },
+      "cs": {
+        "query": "jak volit v USA",
+        "hover_text": "Volby v USA 2024",
+        "share_text": "Konají se volby v USA 2024! #GoogleDoodle"
+      },
+      "da": {
+        "query": "hvordan stemmer man i USA",
+        "hover_text": "Valg i USA 2024",
+        "share_text": "Valg i USA 2024 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "hoe je kunt stemmen in de VS",
+        "hover_text": "Amerikaanse verkiezingen 2024",
+        "share_text": "De Amerikaanse verkiezingen van 2024! #GoogleDoodle"
+      },
+      "et": {
+        "query": "kuidas USA-s hääletada",
+        "hover_text": "Ameerika Ühendriikide 2024. aasta valimised",
+        "share_text": "Ameerika Ühendriikide 2024. aasta valimised #GoogleDoodle"
+      },
+      "fi": {
+        "query": "miten äänestää yhdysvalloissa",
+        "hover_text": "Yhdysvaltain vaalit 2024",
+        "share_text": "Yhdysvaltain vaalit 2024 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "comment voter aux États-Unis",
+        "hover_text": "Élections 2024 aux États-Unis",
+        "share_text": "Élections 2024 aux États-Unis #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "comment voter aux États-Unis",
+        "hover_text": "Élections américaines de 2024",
+        "share_text": "Élections américaines de 2024! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "como votar nos EUA",
+        "hover_text": "Eleccións dos Estados Unidos 2024",
+        "share_text": "Eleccións dos Estados Unidos 2024! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "როგორ უნდა მისცეთ ხმა აშშ-ში",
+        "hover_text": "ამერიკის შეერთებული შტატების არჩევნები — 2024",
+        "share_text": "ამერიკის შეერთებული შტატების არჩევნები — 2024! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Wie wird in den USA gewählt",
+        "hover_text": "Wahlen in den USA 2024",
+        "share_text": "Wahlen in den USA 2024 #GoogleDoodle"
+      },
+      "el": {
+        "query": "πώς μπορείτε να ψηφίσετε στις ΗΠΑ",
+        "hover_text": "Εκλογές Ηνωμένων Πολιτειών 2024",
+        "share_text": "Εκλογές Ηνωμένων Πολιτειών 2024! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "યુએસમાં મત આપવાની રીત",
+        "hover_text": "યુનાઇટેડ સ્ટેટ્સની ચૂંટણીઓ 2024",
+        "share_text": "યુનાઇટેડ સ્ટેટ્સની ચૂંટણીઓ 2024! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "איך מצביעים בארה\"ב",
+        "hover_text": "יום הבחירות בארצות הברית 2024",
+        "share_text": "יום הבחירות בארצות הברית 2024 ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "अमेरिका में वोट देने का तरीका",
+        "hover_text": "अमेरिका के चुनाव 2024",
+        "share_text": "अमेरिका के चुनाव 2024! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "hogyan lehet szavazni az USA-ban",
+        "hover_text": "Választások az Amerikai Egyesült Államokban, 2024",
+        "share_text": "Választások az Amerikai Egyesült Államokban, 2024. #GoogleDoodle"
+      },
+      "is": {
+        "query": "hvernig greiði ég atkvæði í Bandaríkjunum",
+        "hover_text": "Kosningar í Bandaríkjunum 2024",
+        "share_text": "Kosningar í Bandaríkjunum 2024! #GoogleDoodle"
+      },
+      "id": {
+        "query": "cara memberikan suara di Amerika Serikat",
+        "hover_text": "Pemilu Amerika Serikat 2024",
+        "share_text": "Pemilu Amerika Serikat 2024 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "come votare negli Stati Uniti",
+        "hover_text": "Elezioni 2024 negli Stati Uniti",
+        "share_text": "Elezioni 2024 negli Stati Uniti #GoogleDoodle"
+      },
+      "ja": {
+        "query": "米国内 投票方法",
+        "hover_text": "2024 年米国選挙",
+        "share_text": "2024 年米国選挙！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಯುಎಸ್‌ನಲ್ಲಿ ಮತ ಚಲಾಯಿಸುವುದು ಹೇಗೆ",
+        "hover_text": "ಯುನೈಟೆಡ್ ಸ್ಟೇಟ್ಸ್ ಚುನಾವಣೆ 2024",
+        "share_text": "ಯುನೈಟೆಡ್ ಸ್ಟೇಟ್ಸ್ ಚುನಾವಣೆ 2024! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "АҚШ-та дауыс беру жолы",
+        "hover_text": "2024 жылғы АҚШ сайлауы",
+        "share_text": "2024 жылғы АҚШ сайлауы #GoogleDoodle"
+      },
+      "km": {
+        "query": "របៀបបោះឆ្នោតនៅសហរដ្ឋអាមេរិក",
+        "hover_text": "ការបោះឆ្នោតនៅសហរដ្ឋអាមេរិកឆ្នាំ 2024",
+        "share_text": "ការបោះឆ្នោតនៅសហរដ្ឋអាមេរិកឆ្នាំ 2024! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "미국 내 투표 방법",
+        "hover_text": "2024년 미국 선거",
+        "share_text": "2024년 미국 선거 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "АКШда кантип добуш берүү керек",
+        "hover_text": "АКШдагы шайлоо – 2024",
+        "share_text": "АКШдагы шайлоо – 2024! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວິທີການລົງຄະແນນສຽງໃນສະຫະລັດ",
+        "hover_text": "ການເລືອກຕັ້ງສະຫະລັດ 2024",
+        "share_text": "ການເລືອກຕັ້ງສະຫະລັດ 2024! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "cómo votar en estados unidos",
+        "hover_text": "Elecciones presidenciales de Estados Unidos 2024",
+        "share_text": "Elecciones presidenciales de Estados Unidos 2024 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "kā balsot ASV",
+        "hover_text": "Vēlēšanas ASV — 2024",
+        "share_text": "Vēlēšanas ASV — 2024! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "kaip balsuoti JAV",
+        "hover_text": "Jungtinių Valstijų rinkimai, 2024 m.",
+        "share_text": "Jungtinių Valstijų rinkimai, 2024 m.! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "како се гласа во САД",
+        "hover_text": "Избори во Соединетите Американски Држави, 2024 г.",
+        "share_text": "Избори во Соединетите Американски Држави, 2024 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "cara mengundi di AS",
+        "hover_text": "Pilihan Raya Amerika Syarikat 2024",
+        "share_text": "Pilihan Raya Amerika Syarikat 2024! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "യുഎസിൽ എങ്ങനെ വോട്ട് ചെയ്യാം",
+        "hover_text": "അമേരിക്കൻ തിരഞ്ഞെടുപ്പ് 2024",
+        "share_text": "അമേരിക്കൻ തിരഞ്ഞെടുപ്പ് 2024! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "यूएसमध्ये मतदान कसे करावे",
+        "hover_text": "युनायटेड स्टेट्समधील निवडणुका २०२४",
+        "share_text": "युनायटेड स्टेट्समधील निवडणुका २०२४! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "АНУ-д хэрхэн санал өгөх вэ",
+        "hover_text": "2024 оны Америкийн Нэгдсэн Улсын сонгууль",
+        "share_text": "2024 оны Америкийн Нэгдсэн Улсын сонгууль! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "संयुक्त राज्य अमेरिकामा मतदान गर्ने तरिका",
+        "hover_text": "संयुक्त राज्य अमेरिकाको निर्वाचन २०२४",
+        "share_text": "संयुक्त राज्य अमेरिकाको निर्वाचन २०२४! #GoogleDoodle"
+      },
+      "no": {
+        "query": "hvordan stemmer man i USA",
+        "hover_text": "Valget i USA 2024",
+        "share_text": "Valget i USA 2024! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "نحوه رأی دادن در ایالات متحده",
+        "hover_text": "انتخابات ۲۰۲۴ ایالات متحده",
+        "share_text": "انتخابات ۲۰۲۴ ایالات متحده! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "jak głosować w Stanach Zjednoczonych",
+        "hover_text": "Wybory 2024 w Stanach Zjednoczonych",
+        "share_text": "Wybory 2024 w Stanach Zjednoczonych #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "como votar nos Estados Unidos",
+        "hover_text": "Eleições dos Estados Unidos 2024",
+        "share_text": "Eleições dos Estados Unidos 2024 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "como votar nos EUA",
+        "hover_text": "Eleições dos Estados Unidos de 2024",
+        "share_text": "Eleições dos Estados Unidos de 2024! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "how to vote in the US",
+        "hover_text": "ਸੰਯੁਕਤ ਰਾਜ ਦੀਆਂ ਚੋਣਾਂ 2024",
+        "share_text": "ਸੰਯੁਕਤ ਰਾਜ ਦੀਆਂ ਚੋਣਾਂ 2024! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "cum votez în S.U.A.",
+        "hover_text": "Alegeri în Statele Unite ale Americii 2024",
+        "share_text": "Alegeri în Statele Unite ale Americii 2024! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Как проголосовать в США",
+        "hover_text": "Выборы в США – 2024",
+        "share_text": "Выборы в США – 2024 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "како да гласате у САД",
+        "hover_text": "Избори у Сједињеним Америчким Државама 2024.",
+        "share_text": "Избори у Сједињеним Америчким Државама 2024! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "kako da glasate u SAD",
+        "hover_text": "Izbori u Sjedinjenim Američkim Državama 2024.",
+        "share_text": "Izbori u Sjedinjenim Američkim Državama 2024! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "එක්සත් ජනපදයේ ඡන්දය දෙන ආකාරය",
+        "hover_text": "එක්සත් ජනපද මැතිවරණය 2024",
+        "share_text": "එක්සත් ජනපද මැතිවරණය 2024! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "ako voliť v USA",
+        "hover_text": "Voľby v USA 2024",
+        "share_text": "Voľby v USA 2024. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "kako glasovati v ZDA",
+        "hover_text": "Volitve v Združenih državah 2024",
+        "share_text": "Volitve v Združenih državah 2024. #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "cómo votar en estados unidos",
+        "hover_text": "Elecciones presidenciales de Estados Unidos 2024",
+        "share_text": "Elecciones presidenciales de Estados Unidos 2024 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "jinsi ya kupiga kura Marekani",
+        "hover_text": "Uchaguzi wa Marekani 2024",
+        "share_text": "Uchaguzi wa Marekani 2024! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "hur gör man för att rösta i USA",
+        "hover_text": "Val i USA 2024",
+        "share_text": "Val i USA 2024 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "அமெரிக்கத் தேர்தலில் வாக்களிப்பது எப்படி?",
+        "hover_text": "அமெரிக்கத் தேர்தல்கள் 2024",
+        "share_text": "அமெரிக்கத் தேர்தல்கள் 2024! #GoogleDoodle"
+      },
+      "te": {
+        "query": "USలో జరిగే ఎన్నికల్లో ఓటు వేయడం ఎలా",
+        "hover_text": "యునైటెడ్ స్టేట్స్ ఎన్నికలు 2024",
+        "share_text": "యునైటెడ్ స్టేట్స్ ఎన్నికలు 2024! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วิธีลงคะแนนเสียงในสหรัฐอเมริกา",
+        "hover_text": "การเลือกตั้งของสหรัฐอเมริกาปี 2024",
+        "share_text": "การเลือกตั้งของสหรัฐอเมริกาปี 2024 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "ABD'de nasıl oy kullanılır?",
+        "hover_text": "2024 Amerika Birleşik Devletleri Seçimleri",
+        "share_text": "2024 Amerika Birleşik Devletleri Seçimleri #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "як проголосувати в США",
+        "hover_text": "Вибори в США у 2024 році",
+        "share_text": "Вибори в США у 2024 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "امریکہ میں ووٹ کرنے کا طریقہ",
+        "hover_text": "ریاستہائے متحدہ امریکہ کے انتخابات 2024",
+        "share_text": "ریاستہائے متحدہ امریکہ کے انتخابات 2024 GoogleDoodle#"
+      },
+      "uz": {
+        "query": "AQSHda qanday ovoz beriladi",
+        "hover_text": "AQSH saylovlari 2024",
+        "share_text": "AQSH saylovlari 2024 #GoogleDoodle"
+      },
+      "vi": {
+        "query": "cách bỏ phiếu ở Hoa Kỳ",
+        "hover_text": "Bầu cử tại Hoa Kỳ năm 2024",
+        "share_text": "Bầu cử tại Hoa Kỳ năm 2024! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "indlela yokuvota e-US",
+        "hover_text": "Ukhetho Lwase-United States Lwango-2024",
+        "share_text": "Ukhetho Lwase-United States Lwango-2024! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "how to vote in the US",
+    "share_text": "United States Elections 2024! #GoogleDoodle"
+  },
+  {
     "name": "day-of-the-dead-2024",
     "title": "Day of the Dead 2024",
     "url": "//www.google.com/logos/doodles/2024/day-of-the-dead-2024-6753651837110312-l.png",
