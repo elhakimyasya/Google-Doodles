@@ -1,5 +1,504 @@
 [
   {
+    "name": "united-states-elections-2024-3",
+    "title": "United States Elections 2024 (3)",
+    "url": "//www.google.com/logos/doodles/2024/united-states-elections-2024-6753651837110596.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/LCWSIvgBuv7cCahxCBmdd5qDkcU34zayTngHLIE19dk2n5KYmAKrImxAdOCvYj-EbiFrbhIXxJatQwhFIdrobEzJmloVbDjl5AxrAMH6zuzL1PePdC8yaQ",
+    "high_res_url": "//www.google.com/logos/doodles/2024/united-states-presidential-elections-2024-6753651837110596-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      11,
+      5
+    ],
+    "translations": {
+      "en": {
+        "query": "election results",
+        "hover_text": "United States Elections 2024",
+        "share_text": "United States Elections 2024! #GoogleDoodle"
+      },
+      "af": {
+        "query": "verkiesinguitslae",
+        "hover_text": "Die Verenigde State se verkiesing 2024",
+        "share_text": "Die Verenigde State se verkiesing 2024! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "rezultatet e zgjedhjeve",
+        "hover_text": "Zgjedhjet në SHBA, 2024",
+        "share_text": "Zgjedhjet në SHBA, 2024! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የምርጫ ውጤቶች",
+        "hover_text": "የአሜሪካ የ2024 ምርጫ",
+        "share_text": "የአሜሪካ የ2024 ምርጫ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "نتائج الانتخابات",
+        "hover_text": "الانتخابات الأمريكية 2024",
+        "share_text": "انطلقت اليوم الانتخابات الأمريكية لعام 2024. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "ընտրությունների արդյունքներ",
+        "hover_text": "Ամերիկայի Միացյալ Նահանգների ընտրություններ 2024",
+        "share_text": "Ամերիկայի Միացյալ Նահանգների ընտրություններ 2024 #GoogleDoodle"
+      },
+      "az": {
+        "query": "seçki nəticələri",
+        "hover_text": "2024 ABŞ Seçkiləri",
+        "share_text": "2024 ABŞ Seçkiləri! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "নির্বাচনের ফলাফল",
+        "hover_text": "মার্কিন যুক্তরাষ্ট্রের নির্বাচন ২০২৪",
+        "share_text": "মার্কিন যুক্তরাষ্ট্রের নির্বাচন ২০২৪! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "hauteskundeen emaitzak",
+        "hover_text": "Ameriketako Estatu Batuetako 2024ko hauteskundeak",
+        "share_text": "Ameriketako Estatu Batuetako 2024ko hauteskundeak #GoogleDoodle"
+      },
+      "be": {
+        "query": "вынікі выбараў",
+        "hover_text": "Выбары ў ЗША 2024",
+        "share_text": "Выбары ў ЗША 2024! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "rezultati izbora",
+        "hover_text": "Izbori u Sjedinjenim Američkim Državama 2024.",
+        "share_text": "Izbori u Sjedinjenim Američkim Državama 2024! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "election results",
+        "hover_text": "United States elections 2024",
+        "share_text": "United States elections 2024! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "резултати от изборите",
+        "hover_text": "Избори в САЩ 2024 г.",
+        "share_text": "Избори в САЩ 2024 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ရွေးကောက်ပွဲ ရလဒ်များ",
+        "hover_text": "၂၀၂၄ အမေရိကန်ပြည်ထောင်စု ရွေးကောက်ပွဲများ",
+        "share_text": "၂၀၂၄ အမေရိကန်ပြည်ထောင်စု ရွေးကောက်ပွဲများ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "resultats electorals",
+        "hover_text": "Eleccions dels Estats Units 2024",
+        "share_text": "Eleccions dels Estats Units 2024 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "選舉結果",
+        "hover_text": "2024 年美國大選",
+        "share_text": "2024 年美國大選！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "選舉結果",
+        "hover_text": "2024 美國大選",
+        "share_text": "2024 美國大選登場！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "选举结果",
+        "hover_text": "2024 年美国选举",
+        "share_text": "2024 年美国选举！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "izborni rezultati",
+        "hover_text": "Izbori u Sjedinjenim Američkim Državama 2024.",
+        "share_text": "Izbori u Sjedinjenim Američkim Državama 2024. #GoogleDoodle"
+      },
+      "cs": {
+        "query": "výsledky voleb",
+        "hover_text": "Volby v USA 2024",
+        "share_text": "Konají se volby v USA 2024! #GoogleDoodle"
+      },
+      "da": {
+        "query": "valgresultater",
+        "hover_text": "Valg i USA 2024",
+        "share_text": "Valg i USA 2024 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "verkiezingsuitslagen",
+        "hover_text": "Amerikaanse verkiezingen 2024",
+        "share_text": "De Amerikaanse verkiezingen van 2024! #GoogleDoodle"
+      },
+      "et": {
+        "query": "valimistulemused",
+        "hover_text": "Ameerika Ühendriikide 2024. aasta valimised",
+        "share_text": "Ameerika Ühendriikide 2024. aasta valimised #GoogleDoodle"
+      },
+      "fi": {
+        "query": "vaalitulokset",
+        "hover_text": "Yhdysvaltain vaalit 2024",
+        "share_text": "Yhdysvaltain vaalit 2024 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "résultats des élections",
+        "hover_text": "Élections 2024 aux États-Unis",
+        "share_text": "Élections 2024 aux États-Unis #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "résultats des élections",
+        "hover_text": "Élections américaines de 2024",
+        "share_text": "Élections américaines de 2024! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "resultados electorais",
+        "hover_text": "Eleccións dos Estados Unidos 2024",
+        "share_text": "Eleccións dos Estados Unidos 2024! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "არჩევნების შედეგები",
+        "hover_text": "ამერიკის შეერთებული შტატების არჩევნები — 2024",
+        "share_text": "ამერიკის შეერთებული შტატების არჩევნები — 2024! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Wahlergebnisse",
+        "hover_text": "Wahlen in den USA 2024",
+        "share_text": "Wahlen in den USA 2024 #GoogleDoodle"
+      },
+      "el": {
+        "query": "αποτελέσματα εκλογών",
+        "hover_text": "Εκλογές Ηνωμένων Πολιτειών 2024",
+        "share_text": "Εκλογές Ηνωμένων Πολιτειών 2024! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ચૂંટણીના પરિણામો",
+        "hover_text": "યુનાઇટેડ સ્ટેટ્સની ચૂંટણીઓ 2024",
+        "share_text": "યુનાઇટેડ સ્ટેટ્સની ચૂંટણીઓ 2024! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "תוצאות הבחירות",
+        "hover_text": "יום הבחירות בארצות הברית 2024",
+        "share_text": "יום הבחירות בארצות הברית 2024 ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "चुनाव के नतीजे",
+        "hover_text": "अमेरिका के चुनाव 2024",
+        "share_text": "अमेरिका के चुनाव 2024! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "választási eredmények",
+        "hover_text": "Választások az Amerikai Egyesült Államokban, 2024",
+        "share_text": "Választások az Amerikai Egyesült Államokban, 2024. #GoogleDoodle"
+      },
+      "is": {
+        "query": "kosningaúrslit",
+        "hover_text": "Kosningar í Bandaríkjunum 2024",
+        "share_text": "Kosningar í Bandaríkjunum 2024! #GoogleDoodle"
+      },
+      "id": {
+        "query": "hasil pemilu",
+        "hover_text": "Pemilu Amerika Serikat 2024",
+        "share_text": "Pemilu Amerika Serikat 2024 #GoogleDoodle"
+      },
+      "ga": {
+        "query": "torthaí toghcháin",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "risultati elettorali",
+        "hover_text": "Elezioni 2024 negli Stati Uniti",
+        "share_text": "Elezioni 2024 negli Stati Uniti #GoogleDoodle"
+      },
+      "ja": {
+        "query": "選挙結果",
+        "hover_text": "2024 年米国選挙",
+        "share_text": "2024 年米国選挙！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಚುನಾವಣಾ ಫಲಿತಾಂಶಗಳು",
+        "hover_text": "ಯುನೈಟೆಡ್ ಸ್ಟೇಟ್ಸ್ ಚುನಾವಣೆ 2024",
+        "share_text": "ಯುನೈಟೆಡ್ ಸ್ಟೇಟ್ಸ್ ಚುನಾವಣೆ 2024! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "сайлау нәтижелері",
+        "hover_text": "2024 жылғы АҚШ сайлауы",
+        "share_text": "2024 жылғы АҚШ сайлауы #GoogleDoodle"
+      },
+      "km": {
+        "query": "លទ្ធផល​បោះឆ្នោត",
+        "hover_text": "ការបោះឆ្នោតនៅសហរដ្ឋអាមេរិកឆ្នាំ 2024",
+        "share_text": "ការបោះឆ្នោតនៅសហរដ្ឋអាមេរិកឆ្នាំ 2024! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "선거 결과",
+        "hover_text": "2024년 미국 선거",
+        "share_text": "2024년 미국 선거 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "шайлоонун натыйжалары",
+        "hover_text": "АКШдагы шайлоо – 2024",
+        "share_text": "АКШдагы шайлоо – 2024! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ຜົນການເລືອກຕັ້ງ",
+        "hover_text": "ການເລືອກຕັ້ງສະຫະລັດ 2024",
+        "share_text": "ການເລືອກຕັ້ງສະຫະລັດ 2024! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "resultados elecciones 2024 de Estados Unidos",
+        "hover_text": "Elecciones presidenciales de Estados Unidos 2024",
+        "share_text": "Elecciones presidenciales de Estados Unidos 2024 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "vēlēšanu rezultāti",
+        "hover_text": "Vēlēšanas ASV — 2024",
+        "share_text": "Vēlēšanas ASV — 2024! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "rinkimų rezultatai",
+        "hover_text": "Jungtinių Valstijų rinkimai, 2024 m.",
+        "share_text": "Jungtinių Valstijų rinkimai, 2024 m.! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "резултати од изборите",
+        "hover_text": "Избори во Соединетите Американски Држави, 2024 г.",
+        "share_text": "Избори во Соединетите Американски Држави, 2024 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "voka-pifidianana",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "keputusan pilihan raya",
+        "hover_text": "Pilihan Raya Amerika Syarikat 2024",
+        "share_text": "Pilihan Raya Amerika Syarikat 2024! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "തിരഞ്ഞെടുപ്പ് ഫലങ്ങൾ",
+        "hover_text": "അമേരിക്കൻ തിരഞ്ഞെടുപ്പ് 2024",
+        "share_text": "അമേരിക്കൻ തിരഞ്ഞെടുപ്പ് 2024! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "निवडणुकीचे निकाल",
+        "hover_text": "युनायटेड स्टेट्समधील निवडणुका २०२४",
+        "share_text": "युनायटेड स्टेट्समधील निवडणुका २०२४! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "сонгуулийн үр дүн",
+        "hover_text": "2024 оны Америкийн Нэгдсэн Улсын сонгууль",
+        "share_text": "2024 оны Америкийн Нэгдсэн Улсын сонгууль! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "निर्वाचनको मत परिणाम",
+        "hover_text": "संयुक्त राज्य अमेरिकाको निर्वाचन २०२४",
+        "share_text": "संयुक्त राज्य अमेरिकाको निर्वाचन २०२४! #GoogleDoodle"
+      },
+      "no": {
+        "query": "valgresultater",
+        "hover_text": "Valget i USA 2024",
+        "share_text": "Valget i USA 2024! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ନିର୍ବାଚନ ଫଳାଫଳ",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "نتایج انتخابات",
+        "hover_text": "انتخابات ۲۰۲۴ ایالات متحده",
+        "share_text": "انتخابات ۲۰۲۴ ایالات متحده! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Wyniki wyborów",
+        "hover_text": "Wybory 2024 w Stanach Zjednoczonych",
+        "share_text": "Wybory 2024 w Stanach Zjednoczonych #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "resultados das eleições",
+        "hover_text": "Eleições dos Estados Unidos 2024",
+        "share_text": "Eleições dos Estados Unidos 2024 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "resultados eleitorais",
+        "hover_text": "Eleições dos Estados Unidos de 2024",
+        "share_text": "Eleições dos Estados Unidos de 2024! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਚੋਣ ਨਤੀਜੇ",
+        "hover_text": "ਸੰਯੁਕਤ ਰਾਜ ਦੀਆਂ ਚੋਣਾਂ 2024",
+        "share_text": "ਸੰਯੁਕਤ ਰਾਜ ਦੀਆਂ ਚੋਣਾਂ 2024! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "rezultatele alegerilor",
+        "hover_text": "Alegeri în Statele Unite ale Americii 2024",
+        "share_text": "Alegeri în Statele Unite ale Americii 2024! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Результаты выборов",
+        "hover_text": "Выборы в США – 2024",
+        "share_text": "Выборы в США – 2024 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "изборни резултати",
+        "hover_text": "Избори у Сједињеним Америчким Државама 2024.",
+        "share_text": "Избори у Сједињеним Америчким Државама 2024! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "izborni rezultati",
+        "hover_text": "Izbori u Sjedinjenim Američkim Državama 2024.",
+        "share_text": "Izbori u Sjedinjenim Američkim Državama 2024! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "bann rezilta eleksyon",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "මැතිවරණ ප්‍රතිඵල",
+        "hover_text": "එක්සත් ජනපද මැතිවරණය 2024",
+        "share_text": "එක්සත් ජනපද මැතිවරණය 2024! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "výsledky volieb",
+        "hover_text": "Voľby v USA 2024",
+        "share_text": "Voľby v USA 2024. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "rezultati volitev",
+        "hover_text": "Volitve v Združenih državah 2024",
+        "share_text": "Volitve v Združenih državah 2024. #GoogleDoodle"
+      },
+      "so": {
+        "query": "natiijooyinka doorashada",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": "dipoelo tsa dikgetho",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "resultados elecciones 2024 de Estados Unidos",
+        "hover_text": "Elecciones presidenciales de Estados Unidos 2024",
+        "share_text": "Elecciones presidenciales de Estados Unidos 2024 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "matokeo ya uchaguzi",
+        "hover_text": "Uchaguzi wa Marekani 2024",
+        "share_text": "Uchaguzi wa Marekani 2024! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "valresultat",
+        "hover_text": "Val i USA 2024",
+        "share_text": "Val i USA 2024 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "தேர்தல் முடிவுகள்",
+        "hover_text": "அமெரிக்கத் தேர்தல்கள் 2024",
+        "share_text": "அமெரிக்கத் தேர்தல்கள் 2024! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఎన్నికల ఫలితాలు",
+        "hover_text": "యునైటెడ్ స్టేట్స్ ఎన్నికలు 2024",
+        "share_text": "యునైటెడ్ స్టేట్స్ ఎన్నికలు 2024! #GoogleDoodle"
+      },
+      "th": {
+        "query": "ผลการเลือกตั้ง",
+        "hover_text": "การเลือกตั้งของสหรัฐอเมริกาปี 2024",
+        "share_text": "การเลือกตั้งของสหรัฐอเมริกาปี 2024 #GoogleDoodle"
+      },
+      "tn": {
+        "query": "maduo a ditlhopho",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "seçim sonuçları",
+        "hover_text": "2024 Amerika Birleşik Devletleri Seçimleri",
+        "share_text": "2024 Amerika Birleşik Devletleri Seçimleri #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "результати виборів",
+        "hover_text": "Вибори в США у 2024 році",
+        "share_text": "Вибори в США у 2024 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "الیکشن کے نتائج",
+        "hover_text": "ریاستہائے متحدہ امریکہ کے انتخابات 2024",
+        "share_text": "ریاستہائے متحدہ امریکہ کے انتخابات 2024 GoogleDoodle#"
+      },
+      "uz": {
+        "query": "saylov natijalari",
+        "hover_text": "AQSH saylovlari 2024",
+        "share_text": "AQSH saylovlari 2024 #GoogleDoodle"
+      },
+      "vi": {
+        "query": "kết quả bầu cử",
+        "hover_text": "Bầu cử tại Hoa Kỳ năm 2024",
+        "share_text": "Bầu cử tại Hoa Kỳ năm 2024! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "imiphumela yokhetho",
+        "hover_text": "Ukhetho Lwase-United States Lwango-2024",
+        "share_text": "Ukhetho Lwase-United States Lwango-2024! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "election results",
+    "share_text": "United States Elections 2024! #GoogleDoodle"
+  },
+  {
     "name": "united-states-elections-2024-2",
     "title": "United States Elections 2024 (2)",
     "url": "//www.google.com/logos/doodles/2024/united-states-elections-2024-6753651837110595.2-l.png",
