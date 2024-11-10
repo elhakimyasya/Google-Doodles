@@ -1,5 +1,504 @@
 [
   {
+    "name": "fathers-day-nov-10-2024",
+    "title": "Father's Day (Nov 10) 2024",
+    "url": "//www.google.com/logos/doodles/2024/fathers-day-nov-10-2024-6753651837110412-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/WzHm-WG-n8vczYKld3G2wuhOCU430GGDXT8CkT_FANYAfbed8h-SI5itWx0urFrTgZuAJGVccuN9pJle88sWswOA2WcHvKO2Da2E8y4wzBuwGLSTRfNHpg",
+    "high_res_url": "//www.google.com/logos/doodles/2024/fathers-day-nov-10-2024-6753651837110412-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      11,
+      10
+    ],
+    "translations": {
+      "en": {
+        "query": "Father's Day",
+        "hover_text": "Father's Day (Nov 10) 2024",
+        "share_text": "Happy Father's Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Vadersdag",
+        "hover_text": "Vadersdag (10 November) 2024",
+        "share_text": "Gelukkige Vadersdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Babait",
+        "hover_text": "Dita e Babait, 2024",
+        "share_text": "Gëzuar Ditën e Babait! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአባቶች ቀን",
+        "hover_text": "የአባቶች ቀን (ኖቬምበር 10) 2024",
+        "share_text": "መልካም የአባቶች ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد الأب",
+        "hover_text": "عيد الأب 2024",
+        "share_text": "عيد أب سعيد. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Հայրերի օր",
+        "hover_text": "Հայրերի օր 2024 (նոյեմբերի 10)",
+        "share_text": "Շնորհավո՛ր հայրերի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Atalar Günü",
+        "hover_text": "Atalar Günü (10 noyabr) 2024",
+        "share_text": "Atalar Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "পিতৃ দিবস",
+        "hover_text": "পিতৃ দিবস ২০২৪ (১০ নভেম্বর)",
+        "share_text": "ফাদার্স ডের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Aitaren Eguna",
+        "hover_text": "2024ko Aitaren Eguna (azaroaren 10a)",
+        "share_text": "Aitaren Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень бацькі",
+        "hover_text": "Дзень бацькі 10 лістапада 2024 года",
+        "share_text": "З Днём бацькі! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva (10. nov) 2024.",
+        "share_text": "Sretan Dan očeva! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Father's Day",
+        "hover_text": "Father's Day 2024",
+        "share_text": "Happy Father's Day! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на бащата",
+        "hover_text": "Ден на бащата 2024 г.",
+        "share_text": "Честит Ден на бащата! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အဖေများနေ့",
+        "hover_text": "၂၀၂၄ အဖေများနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် ဖခင်များနေ့ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia del Pare",
+        "hover_text": "Dia del Pare 2024",
+        "share_text": "Feliç Dia del Pare! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "父親節",
+        "hover_text": "2024 年父親節",
+        "share_text": "父親節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "父親節",
+        "hover_text": "2024 父親節",
+        "share_text": "父親節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "父亲节",
+        "hover_text": "2024 年父亲节",
+        "share_text": "父亲节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva 2024. (10. studenog)",
+        "share_text": "Sretan Dan očeva! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den otců",
+        "hover_text": "Den otců 2024",
+        "share_text": "Veselý Den otců! #GoogleDoodle"
+      },
+      "da": {
+        "query": "fars dag",
+        "hover_text": "Fars dag 2024 (10. november)",
+        "share_text": "Glædelig fars dag! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Vaderdag",
+        "hover_text": "Vaderdag 2024",
+        "share_text": "Fijne Vaderdag! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Isadepäev",
+        "hover_text": "Isadepäev 2024",
+        "share_text": "Head isadepäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Isänpäivä",
+        "hover_text": "Isänpäivä 2024 (10.11.)",
+        "share_text": "Hyvää isänpäivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête des Pères",
+        "hover_text": "Fête des Pères 2024",
+        "share_text": "Joyeuse fête des Pères ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête des Pères",
+        "hover_text": "Fête des Pères 2024",
+        "share_text": "Joyeuse fête des Pères! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día do Pai",
+        "hover_text": "Día do Pai 2024 (10 de novembro)",
+        "share_text": "Feliz Día do Pai! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მამის დღე",
+        "hover_text": "მამის დღე — 2024 (10 ნოემბერი)",
+        "share_text": "გილოცავთ მამის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Vatertag",
+        "hover_text": "Vatertag 2024",
+        "share_text": "Alles Liebe zum Vatertag! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Γιορτή του Πατέρα",
+        "hover_text": "Γιορτή του Πατέρα (10 Νοεμβρίου) 2024",
+        "share_text": "Πολλές ευχές για τη Γιορτή του Πατέρα! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "પિતૃ દિવસ",
+        "hover_text": "ફાધર્સ ડે (10 નવેમ્બર) 2024",
+        "share_text": "ફાધર્સ ડેની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום האב",
+        "hover_text": "יום האב 2024",
+        "share_text": "יום האב שמח! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "फ़ादर्स डे",
+        "hover_text": "फ़ादर्स डे (10 नवंबर) 2024",
+        "share_text": "फ़ादर्स डे की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Apák napja",
+        "hover_text": "Apák napja, 2024",
+        "share_text": "Boldog apák napját! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Feðradagurinn",
+        "hover_text": "Feðradagurinn (10. nóvember) 2024",
+        "share_text": "Gleðilegan feðradag! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Ayah",
+        "hover_text": "Hari Ayah 2024",
+        "share_text": "Selamat Hari Ayah! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá na nAithreacha",
+        "hover_text": null,
+        "share_text": "Lá na nAithreacha faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa del papà",
+        "hover_text": "Festa del papà 2024",
+        "share_text": "Buona festa del papà! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "父の日",
+        "hover_text": "2024 年父の日",
+        "share_text": "父の日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ತಂದೆಯಂದಿರ ದಿನ",
+        "hover_text": "ತಂದೆಯಂದಿರ ದಿನ 2024 (ನವೆಂಬರ್ 10)",
+        "share_text": "ತಂದೆಯಂದಿರ ದಿನಾಚರಣೆ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Әкелер күні",
+        "hover_text": "Әкелер күні – 2024 (10 қараша)",
+        "share_text": "Әкелер күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​រំលឹកគុណឪពុក",
+        "hover_text": "ទិវា​ឪពុក (ថ្ងៃទី 10 ខែវិច្ឆិកា) ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​រំលឹកគុណ​ឪពុក​! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "아버지의 날",
+        "hover_text": "2024년 아버지의 날",
+        "share_text": "아버지날 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Аталар күнү",
+        "hover_text": "Аталар күнү — 2024 (10-ноябрь)",
+        "share_text": "Аталар күнү менен куттуктайбыз! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນພໍ່",
+        "hover_text": "ວັນພໍ່ປີ 2024",
+        "share_text": "ສຸກສັນວັນພໍ່! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día del Padre",
+        "hover_text": "Día del Padre 2024",
+        "share_text": "¡Feliz Día del Padre! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Tēva diena",
+        "hover_text": "Tēva diena — 2024. gada 10. novembris",
+        "share_text": "Sveicam Tēva dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Tėvo diena",
+        "hover_text": "Tėvo diena, 2024 m. (lapkričio 10 d.)",
+        "share_text": "Linksmos Tėvo dienos! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на таткото",
+        "hover_text": "Ден на таткото, 2024 г.",
+        "share_text": "Среќен ден на таткото! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny ray",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny ray ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Bapa",
+        "hover_text": "Hari Bapa 2024",
+        "share_text": "Selamat Hari Bapa! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "പിതൃദിനം",
+        "hover_text": "പിതൃദിനം 2024 (നവംബർ 10)",
+        "share_text": "പിതൃദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "पितृदिन",
+        "hover_text": "फादर्स डे (१० नोव्हेंबर) २०२४",
+        "share_text": "फादर्स डे च्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Аавуудын өдөр",
+        "hover_text": "2024 оны Аавуудын өдөр (11-р сарын 10)",
+        "share_text": "Аавуудын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "बुवाको मुख हेर्ने दिन",
+        "hover_text": "बुवाको मुख हेर्ने दिन २०२४ (नोभेम्बर १०)",
+        "share_text": "बुवाको मुख हेर्ने दिनको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Farsdag",
+        "hover_text": "Farsdag 2024",
+        "share_text": "Gratulerer med farsdagen! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ପିତୃ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ପିତୃ ଦିବସର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز پدر",
+        "hover_text": "روز پدر ۲۰۲۴",
+        "share_text": "روز پدر مبارک! #GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Ojca",
+        "hover_text": "Dzień Ojca 2024",
+        "share_text": "Obchodzimy Dzień Ojca #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia dos Pais",
+        "hover_text": "Dia dos Pais 2024",
+        "share_text": "Feliz Dia dos Pais! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia do pai",
+        "hover_text": "Dia do Pai de 2024",
+        "share_text": "Feliz dia do pai! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਪਿਓ ਦਿਵਸ",
+        "hover_text": "ਪਿਤਾ ਦਿਵਸ (10 ਨਵੰਬਰ) 2024",
+        "share_text": "ਪਿਤਾ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Tatălui",
+        "hover_text": "Ziua Tatălui 2024",
+        "share_text": "La mulți ani de Ziua Tatălui! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День отца",
+        "hover_text": "День отца – 2024",
+        "share_text": "С Днем отца! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан очева",
+        "hover_text": "Дан очева (10. новембар) 2024.",
+        "share_text": "Срећан Дан очева! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva (10. novembar) 2024.",
+        "share_text": "Srećan Dan očeva! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Papa",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "පියවරුන්ගේ දිනය",
+        "hover_text": "පියවරුන්ගේ දිනය 2024 (නොවැ 10)",
+        "share_text": "ප්‍රීතිමත් පියවරුන්ගේ දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň otcov",
+        "hover_text": "Deň otcov 2024",
+        "share_text": "Šťastný Deň otcov! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan očetov",
+        "hover_text": "Dan očetov 2024",
+        "share_text": "Vesel dan očetov! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Aabbaha",
+        "hover_text": null,
+        "share_text": "Maalinta Aabbaha oo Farxada leh #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Botate",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día del Padre",
+        "hover_text": "Día del Padre 2024",
+        "share_text": "¡Feliz Día del Padre! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Akina Baba",
+        "hover_text": "Siku ya Akina Baba 2024",
+        "share_text": "Heri za Sikukuu ya Akina Baba! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Fars dag",
+        "hover_text": "Fars dag 2024",
+        "share_text": "Grattis på fars dag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "தந்தையர் தினம்",
+        "hover_text": "தந்தையர் தினம் 2024",
+        "share_text": "தந்தையர் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "పితృ దినోత్సవం",
+        "hover_text": "ఫాదర్స్ డే 2024 (నవంబర్ 10)",
+        "share_text": "ఫాదర్స్ డే శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันพ่อ",
+        "hover_text": "วันพ่อปี 2024",
+        "share_text": "สุขสันต์วันพ่อ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la ga Rre",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Babalar Günü",
+        "hover_text": "2024 Babalar Günü",
+        "share_text": "Babalar Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День батька",
+        "hover_text": "День батька у 2024 році",
+        "share_text": "З Днем батька! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم پِدر",
+        "hover_text": "یوم پدر 2024 (10 نومبر)",
+        "share_text": "یوم والد مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Otalar kuni",
+        "hover_text": "Otalar kuni 2024 (10-noyabr)",
+        "share_text": "Otalar kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày của cha",
+        "hover_text": "Ngày của Cha năm 2024 (ngày 10 tháng 11)",
+        "share_text": "Mừng Ngày của Cha! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lobaba",
+        "hover_text": "Usuku Lobaba lwango-2024 (10 Nov)",
+        "share_text": "Sinifisela Usuku Lobaba Oluhle! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Father's Day",
+    "share_text": "Happy Father's Day! #GoogleDoodle"
+  },
+  {
     "name": "cambodia-independence-day-2024",
     "title": "Cambodia Independence Day 2024",
     "url": "//www.google.com/logos/doodles/2024/cambodia-independence-day-2024-6753651837110317-law.gif",
