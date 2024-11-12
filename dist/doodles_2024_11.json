@@ -1,5 +1,504 @@
 [
   {
+    "name": "veterans-day-2024",
+    "title": "Veterans Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/veterans-day-2024-6753651837110460.4-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/JV_rQgL82V1ZNxdnkIhVwOpVJUBMhwasxrY6CLosY_d7E25VT_a3BC2lkmCYUeoB2huavORpsS9eUXs4_ozsxcMNXI0_SEsaZp6mnwWq-d-_w_fZfORXk7I",
+    "high_res_url": "//www.google.com/logos/doodles/2024/veterans-day-2024-6753651837110460.5-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      11,
+      11
+    ],
+    "translations": {
+      "en": {
+        "query": "Veterans Day",
+        "hover_text": "Veterans Day 2024",
+        "share_text": "Happy Veterans Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Veteranedag",
+        "hover_text": "Oudsoldatedag 2024",
+        "share_text": "Gelukkige Oudsoldatedag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Veteranëve",
+        "hover_text": "Dita e Veteranëve, 2024",
+        "share_text": "Gëzuar Ditën e Veteranëve! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የቀድሞ ወታደሮች ቀን",
+        "hover_text": "የአርበኛዎች ቀን 2024",
+        "share_text": "መልካም የአርበኛዎች ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "يوم المحاربين القدامى",
+        "hover_text": "يوم المحاربين القدامى 2024",
+        "share_text": "أطيب الأمنيات بمناسبة يوم المحاربين القدامى! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Վետերանների օր",
+        "hover_text": "Վետերանների օր 2024",
+        "share_text": "Շնորհավո՛ր Վետերանների օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Veteranlar Günü",
+        "hover_text": "2024 Veteranlar Günü",
+        "share_text": "Veteranlar Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "প্রাক্তন সৈনিকদের দিবস",
+        "hover_text": "ভেটেরান ডে ২০২৪",
+        "share_text": "ভেটেরান ডে-র শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Beteranoen Eguna",
+        "hover_text": "2024ko Beteranoen Eguna",
+        "share_text": "Beteranoen Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень ветэранаў",
+        "hover_text": "Дзень ветэранаў 2024",
+        "share_text": "З Днём ветэранаў! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan veterana",
+        "hover_text": "Dan veterana 2024.",
+        "share_text": "Sretan Dan veterana! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Veterans Day",
+        "hover_text": "Veterans Day 2024",
+        "share_text": "Happy Veterans Day! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на ветераните",
+        "hover_text": "Ден на ветераните 2024 г.",
+        "share_text": "Честит Ден на ветераните! #GoogleDoodle"
+      },
+      "my": {
+        "query": "စစ်မှုထမ်းဟောင်းများနေ့",
+        "hover_text": "၂၀၂၄ စစ်မှုထမ်းဟောင်းများနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် စစ်မှုထမ်းဟောင်းများနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia dels Veterans",
+        "hover_text": "Dia dels Veterans 2024",
+        "share_text": "Feliç Dia dels Veterans! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "退伍軍人節",
+        "hover_text": "2024 年退伍軍人節",
+        "share_text": "退伍軍人節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "退伍軍人節",
+        "hover_text": "2024 退伍軍人節",
+        "share_text": "退伍軍人節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "退伍军人节",
+        "hover_text": "2024 年退伍军人节",
+        "share_text": "退伍军人节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan veterana",
+        "hover_text": "Dan veterana 2024.",
+        "share_text": "Sretan Dan veterana! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den válečných veteránů",
+        "hover_text": "Den válečných veteránů 2024",
+        "share_text": "Všechno nejlepší ke Dni válečných veteránů! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Veteranernes dag",
+        "hover_text": "Veteranernes dag 2024",
+        "share_text": "Vi fejrer veteranernes dag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Veteranendag",
+        "hover_text": "Veteranendag 2024",
+        "share_text": "Fijne Veteranendag! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Veteranide päev",
+        "hover_text": "2024. aasta veteranide päev",
+        "share_text": "Head veteranide päeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Veteraanipäivä",
+        "hover_text": "Veteraanipäivä 2024",
+        "share_text": "Hyvää veteraanipäivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Journée des anciens combattants",
+        "hover_text": "Journée des vétérans 2024",
+        "share_text": "Journée des vétérans #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour du Souvenir",
+        "hover_text": "Jour du Souvenir 2024",
+        "share_text": "Joyeux jour du Souvenir! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día dos Veteranos",
+        "hover_text": "Día dos Veteranos 2024",
+        "share_text": "Feliz Día dos Veteranos! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ვეტერანთა დღე",
+        "hover_text": "ვეტერანთა დღე — 2024",
+        "share_text": "გილოცავთ ვეტერანთა დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Veterans Day",
+        "hover_text": "Veteranentag 2024",
+        "share_text": "Wir feiern den Veteranentag #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα των Βετεράνων",
+        "hover_text": "Ημέρα των Βετεράνων 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα των Βετεράνων! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "વેટરન ડે",
+        "hover_text": "વેટરન્સ ડે 2024",
+        "share_text": "વેટરન્સ ડેની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום יוצאי הצבא",
+        "hover_text": "יום הווטרנים 2024",
+        "share_text": "חוגגים את יום הווטרנים GoogleDoodle#"
+      },
+      "hi": {
+        "query": "भूतपूर्व सैनिक दिवस",
+        "hover_text": "पूर्व सैनिक दिवस (वेटरन्स डे) 2024",
+        "share_text": "पूर्व सैनिक दिवस (वेटरन्स डे) की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Veteránok napja",
+        "hover_text": "Veteránok napja, 2024",
+        "share_text": "Boldog veteránok napját! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Vopnahlésdagurinn",
+        "hover_text": "Vopnahlésdagurinn 2024",
+        "share_text": "Gleðilegan vopnahlésdag! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Veteran",
+        "hover_text": "Hari Veteran 2024",
+        "share_text": "Selamat Hari Veteran! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá na nIarshaighdiúirí",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Giorno dei veterani",
+        "hover_text": "Giorno dei veterani 2024",
+        "share_text": "Felice giorno dei veterani! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "退役軍人の日",
+        "hover_text": "2024 年退役軍人の日",
+        "share_text": "退役軍人の日を祝して！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ವೆಟೆರನ್ಸ್ ಡೇ",
+        "hover_text": "ವೆಟೆರೆನ್ಸ್ ಡೇ 2024",
+        "share_text": "ವೆಟೆರೆನ್ಸ್ ಡೇ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Ардагерлер күні",
+        "hover_text": "Ардагерлер күні – 2024",
+        "share_text": "Ардагерлер күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវារំលឹក​គុណអតីតយុទ្ធជន",
+        "hover_text": "ទិវាអតីតយុទ្ធជនឆ្នាំ 2024",
+        "share_text": "រីករាយ​ទិវាអតីត​យុទ្ធជន! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "재향 군인의 날",
+        "hover_text": "2024년 재향군인의 날",
+        "share_text": "재향군인의 날 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Ветерандар күнү",
+        "hover_text": "Ардагерлер күнү – 2024",
+        "share_text": "Ардагерлер күнүңүз менен! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນທະຫານຜ່ານເສິກ",
+        "hover_text": "ວັນທະຫານຜ່ານເສິກ 2024",
+        "share_text": "ສຸກສັນວັນທະຫານຜ່ານເສິກ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de los Veteranos",
+        "hover_text": "Día de los Veteranos 2024",
+        "share_text": "Conmemorando el Día de los Veteranos #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Veterānu diena",
+        "hover_text": "Veterānu diena — 2024",
+        "share_text": "Priecīgu Veterānu dienu! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Veteranų diena",
+        "hover_text": "Veteranų diena, 2024 m.",
+        "share_text": "Linksmos Veteranų dienos! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на ветераните",
+        "hover_text": "Ден на ветераните, 2024 г.",
+        "share_text": "Среќен Ден на ветераните! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Andron'ny bekotromaroholatra",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Hari Veteran",
+        "hover_text": "Hari Veteran 2024",
+        "share_text": "Selamat Hari Veteran! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "വെറ്ററൻസ് ദിനം",
+        "hover_text": "വെറ്ററൻസ് ദിനം 2024",
+        "share_text": "വെറ്ററൻസ് ദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "माजी सैनिकांचा सन्मान दिन",
+        "hover_text": "व्हेटरन्स डे २०२४",
+        "share_text": "व्हेटरन्स डेच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Ахмад дайчдын өдөр",
+        "hover_text": "2024 оны Ахмад дайчдын өдөр",
+        "share_text": "Ахмад дайчдын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "भूतपूर्व सैनिक दिवस",
+        "hover_text": "भूतपूर्व सैनिक दिवस २०२४",
+        "share_text": "भूतपूर्व सैनिक दिवसको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Veterandagen",
+        "hover_text": "Veteran's Day 2024",
+        "share_text": "Gratulerer med Veteran's Day! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଭେଟେରାନ୍‌ଙ୍କ ଦିବସ",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز کهنه‌سربازان",
+        "hover_text": "روز کهنه‌سربازان ۲۰۲۴",
+        "share_text": "روز کهنه‌سربازان مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Weterana",
+        "hover_text": "Dzień Weteranów 2024",
+        "share_text": "Obchodzimy Dzień Weteranów #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia dos Veteranos",
+        "hover_text": "Dia dos Veteranos 2024",
+        "share_text": "Feliz Dia dos Veteranos! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia dos veteranos",
+        "hover_text": "Dia dos Veteranos de 2024",
+        "share_text": "Feliz Dia dos Veteranos! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਸਾਬਕਾ ਫ਼ੌਜੀਆਂ ਦਾ ਦਿਨ",
+        "hover_text": "ਸਾਬਕਾ ਫ਼ੌਜੀ ਦਿਵਸ 2024",
+        "share_text": "ਸਾਬਕਾ ਫ਼ੌਜੀ ਦਿਵਸ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Veteranilor",
+        "hover_text": "Ziua Veteranilor 2024",
+        "share_text": "La mulți ani de Ziua Veteranilor! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День ветеранов",
+        "hover_text": "День ветеранов – 2024",
+        "share_text": "День ветеранов #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан ветерана",
+        "hover_text": "Дан ветерана 2024.",
+        "share_text": "Срећан Дан ветерана! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan veterana",
+        "hover_text": "Dan veterana 2024.",
+        "share_text": "Srećan Dan veterana! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Veteran",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "කෘතහස්ත දිනය",
+        "hover_text": "විරු දිනය 2024",
+        "share_text": "ප්‍රීතිමත් විරු දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň veteránov",
+        "hover_text": "Deň veteránov 2024",
+        "share_text": "Šťastný Deň veteránov! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan veteranov",
+        "hover_text": "Dan veteranov 2024",
+        "share_text": "Vesel dan veteranov! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Qofka ka tirsanaa ciidankii hore",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": "Letsatsi la Bahlale",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día de los Veteranos",
+        "hover_text": "Día de los Veteranos 2024",
+        "share_text": "¡Feliz Día de los Veteranos! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Wanajeshi Waliostaafu",
+        "hover_text": "Sikukuu ya Wanajeshi Waliostaafu 2024",
+        "share_text": "Heri ya Sikukuu ya Wanajeshi Waliostaafu! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Veterans Day",
+        "hover_text": "Veterans Day 2024",
+        "share_text": "Vi firar Veterans Day! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "முன்னாள் ராணுவ வீரர்கள் தினம்",
+        "hover_text": "முன்னாள் ராணுவ வீரர்கள் தினம் 2024",
+        "share_text": "முன்னாள் ராணுவ வீரர்கள் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "మాజీ సైనికుల దినోత్సవం",
+        "hover_text": "వెటరన్స్ డే 2024",
+        "share_text": "హ్యాపీ వెటరన్స్ డే! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันทหารผ่านศึก",
+        "hover_text": "วันทหารผ่านศึกปี 2024",
+        "share_text": "วันทหารผ่านศึก #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Bagaka ba Bogologolo",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Gaziler Günü",
+        "hover_text": "2024 Gaziler Günü",
+        "share_text": "Gaziler Günü'nü kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День ветеранів",
+        "hover_text": "День ветеранів у 2024 році",
+        "share_text": "З Днем ветеранів! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "ویٹرنز ڈے",
+        "hover_text": "ویٹرنز ڈے 2024",
+        "share_text": "ویٹرنز ڈے مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Faxriylar kuni",
+        "hover_text": "Veteranlar kuni 2024",
+        "share_text": "Veteranlar kuni bilan! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày cựu chiến binh",
+        "hover_text": "Ngày Cựu chiến binh Hoa Kỳ năm 2024",
+        "share_text": "Mừng Ngày Cựu chiến binh Hoa Kỳ! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lomakadebona",
+        "hover_text": "Usuku Lomakadebona lwango-2024",
+        "share_text": "Usuku Oluhle Lomakadebona! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Veterans Day",
+    "share_text": "Happy Veterans Day! #GoogleDoodle"
+  },
+  {
     "name": "poland-national-day-2024",
     "title": "Poland National Day 2024",
     "url": "//www.google.com/logos/doodles/2024/poland-national-day-2024-6753651837110318-law.gif",
