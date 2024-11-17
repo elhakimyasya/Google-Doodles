@@ -1,5 +1,1003 @@
 [
   {
+    "name": "slovakia-freedom-and-democracy-day-2024",
+    "title": "Slovakia Freedom and Democracy Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/slovakia-freedom-and-democracy-day-2024-6753651837110321-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/ZZYsNJM5ysllJ--LejuoHbCGuVEh8Kxs3VAxQu1G2V6Y1xPe6QpT6dO3YDkShdTZMtPCuncX6khSnGGYlBIH2_evdVH7gd6LJs6ydhifkrjrKSrDIGUk",
+    "high_res_url": "//www.google.com/logos/doodles/2024/slovakia-freedom-and-democracy-day-2024-6753651837110321-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      11,
+      17
+    ],
+    "translations": {
+      "en": {
+        "query": "Slovakia Freedom and Democracy Day",
+        "hover_text": "Slovakia Freedom and Democracy Day 2024",
+        "share_text": "Happy Freedom and Democracy Day, Slovakia! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Slowakye se Dag van Vryheid en Demokrasie",
+        "hover_text": "Slowakye se dag van vryheid en demokrasie 2024",
+        "share_text": "Gelukkige Dag van Vryheid en Demokrasie, Slowakye! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Lirisë dhe Demokracisë së Sllovakisë",
+        "hover_text": "Dita e Lirisë dhe Demokracisë së Sllovakisë, 2024",
+        "share_text": "Gëzuar Ditën e Lirisë dhe Demokracisë, Sllovaki! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የስሎቫኪያ ነጻነት እና ዲሞክራሲ ቀን",
+        "hover_text": "የስሎቫኪያ ነፃነት እና ዲሞክራሲ ቀን 2024",
+        "share_text": "መልካም የነጻነት እና ዲሞክራሲ ቀን ስሎቫኪያ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد الحرية والديموقراطية السلوفاكي",
+        "hover_text": "عيد النضال من أجل الحرية والديمقراطية في سلوفاكيا 2024",
+        "share_text": "عيد سعيد للحرية والديموقراطية في سلوفاكيا #GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ազատության և ժողովրդավարության օր Սլովակիայում",
+        "hover_text": "Սլովակիայի ազատության և ժողովրդավարության օր 2024",
+        "share_text": "Շնորհավո՛ր Ազատության և ժողովրդավարության օրը, Սլովակիա: #GoogleDoodle"
+      },
+      "az": {
+        "query": "Slovakiya Azadlıq və Demokratiya Günü",
+        "hover_text": "2024 Slovakiyanın Azadlıq və Demokratiya Günü",
+        "share_text": "Slovakiya, Azadlıq və Demokratiya Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "স্লোভাকিয়ার স্বাধীনতা এবং গণতন্ত্র দিবস",
+        "hover_text": "স্লোভাকিয়ার স্বাধীনতা এবং গণতন্ত্র দিবস ২০২৪",
+        "share_text": "স্বাধীনতা এবং গণতন্ত্র দিবস, স্লোভাকিয়া! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Eslovakiako Askatasunaren eta Demokraziaren Eguna",
+        "hover_text": "2024ko Eslovakiako Askatasunaren eta Demokraziaren Eguna",
+        "share_text": "Askatasunaren eta Demokraziaren Egun zoriontsua izan, Eslovakia! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень барацьбы за свабоду і дэмакратыю ў Славакіі",
+        "hover_text": "Дзень барацьбы за свабоду і дэмакратыю ў Славакіі 2024",
+        "share_text": "Шчаслівага Дня барацьбы за свабоду і дэмакратыю, Славакія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan slobode i demokratije u Slovačkoj",
+        "hover_text": "Dan slobode i demokratije u Slovačkoj 2024.",
+        "share_text": "Sretan Dan slobode i demokratije Slovačkoj! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Slovakia Freedom and Democracy Day",
+        "hover_text": "Slovakia Freedom and Democracy Day 2024",
+        "share_text": "Happy Freedom and Democracy Day, Slovakia! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на свободата и демокрацията в Словакия",
+        "hover_text": "Ден на свободата и демокрацията в Словакия 2024 г.",
+        "share_text": "Честит Ден на свободата и демокрацията на Словакия! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဆလိုဗက်ကီးယား လွတ်လပ်ရေးနှင့် ဒီမိုကရေစီနေ့",
+        "hover_text": "၂၀၂၄ ဆလိုဗက်ကီးယားနိုင်ငံ လွတ်လပ်ရေးနှင့် ဒီမိုကရေစီနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနှင့် ဒီမိုကရေစီနေ့ဖြစ်ပါစေ၊ ဆလိုဗက်ကီးယား။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Llibertat i la Democràcia d'Eslovàquia",
+        "hover_text": "Dia de la Llibertat i la Democràcia d'Eslovàquia 2024",
+        "share_text": "Feliç Dia de la Llibertat i la Democràcia, Eslovàquia! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "斯洛伐克自由民主奮鬥日",
+        "hover_text": "2024 年斯洛伐克自由民主奮鬥日",
+        "share_text": "斯洛伐克，自由民主奮鬥日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "斯洛伐克自由民主日",
+        "hover_text": "2024 斯洛伐克自由民主日",
+        "share_text": "斯洛伐克，自由民主日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "斯洛伐克自由民主抗争日",
+        "hover_text": "2024 年斯洛伐克自由民主抗争日",
+        "share_text": "自由民主抗争日快乐，斯洛伐克！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan slobode i demokracije u Slovačkoj",
+        "hover_text": "Dan slobode i demokracije u Slovačkoj 2024.",
+        "share_text": "Sretan Dan slobode i demokracije, Slovačka! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Slovenský Den boje za svobodu a demokracii",
+        "hover_text": "Slovenský Den boje za svobodu a demokracii 2024",
+        "share_text": "Všechno nejlepší ke Dni boje za svobodu a demokracii, Slovensko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Frihedens og demokratiets dag i Slovakiet",
+        "hover_text": "Frihedens og demokratiets dag i Slovakiet 2024",
+        "share_text": "Vi fejrer frihedens og demokratiets dag i Slovakiet. #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Dag van de vrijheid en democratie Slowakije",
+        "hover_text": "Dag van vrijheid en democratie Slowakije 2024",
+        "share_text": "Fijne dag van de vrijheid en democratie, Slowakije #GoogleDoodle"
+      },
+      "et": {
+        "query": "Slovakkia vabaduse ja demokraatia päev",
+        "hover_text": "Slovakkia 2024. aasta vabaduse ja demokraatia päev",
+        "share_text": "Head vabaduse ja demokraatia päeva, Slovakkia! Google Doodle"
+      },
+      "fi": {
+        "query": "Slovakian vapauden ja demokratian päivä",
+        "hover_text": "Slovakian vapauden ja demokratian päivä 2024",
+        "share_text": "Hyvää vapauden ja demokratian päivää, Slovakia! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Journée de lutte pour la liberté et de la démocratie en Slovaquie",
+        "hover_text": "Journée de la lutte pour la liberté et la démocratie 2024 en Slovaquie",
+        "share_text": "Journée de lutte pour la liberté et de la démocratie en Slovaquie ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Journée de lutte pour la liberté et la démocratie en Slovaquie",
+        "hover_text": "Journée de lutte pour la liberté et la démocratie en Slovaquie 2024",
+        "share_text": "Joyeuse journée de lutte pour la liberté et la démocratie, Slovaquie! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Liberdade e a Democracia en Eslovaquia",
+        "hover_text": "Día da Liberdade e a Democracia de Eslovaquia 2024",
+        "share_text": "Feliz Día da Liberdade e a Democracia, Eslovaquia! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "სლოვაკეთის თავისუფლებისა და დემოკრატიის დღე",
+        "hover_text": "სლოვაკეთის თავისუფლებისა და დემოკრატიის დღე — 2024",
+        "share_text": "სლოვაკეთო, გილოცავთ თავისუფლებისა და დემოკრატიის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Slowakischer Tag des Kampfes für Freiheit und Demokratie",
+        "hover_text": "Tag des Kampfes für Freiheit und Demokratie in der Slowakei 2024",
+        "share_text": "Alles Gute zum Tag des Kampfes für Freiheit und Demokratie in der Slowakei! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ελευθερίας και Δημοκρατίας της Σλοβακίας",
+        "hover_text": "Ημέρα Ελευθερίας και Δημοκρατίας της Σλοβακίας 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα Ελευθερίας και Δημοκρατίας της Σλοβακίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "સ્લોવાકિયાનો સ્વતંત્રતા અને લોકશાહી દિવસ",
+        "hover_text": "સ્લોવાકિયાનો સ્વતંત્રતા અને લોકશાહી દિવસ 2024",
+        "share_text": "સ્વતંત્રતા અને લોકશાહી દિવસની શુભેચ્છા, સ્લોવાકિયા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום המאבק לחופש ולדמוקרטיה של סלובקיה",
+        "hover_text": "יום המאבק לחופש ולדמוקרטיה בסלובקיה 2024",
+        "share_text": "יום שמח למאבק לחופש ולדמוקרטיה, סלובקיה! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "स्लोवाकिया का स्वतंत्रता और लोकतंत्र दिवस",
+        "hover_text": "स्लोवाकिया का स्वतंत्रता और लोकतंत्र दिवस 2024",
+        "share_text": "स्वतंत्रता और लोकतंत्र दिवस की शुभकामनाएं, स्लोवाकिया! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A szabadság és demokrácia napja Szlovákiában",
+        "hover_text": "A szabadság és demokrácia napja Szlovákiában, 2024",
+        "share_text": "Boldog szabadság és demokrácia napját, Szlovákia! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Frelsis- og lýðveldisdagur Slóvakíu",
+        "hover_text": "Frelsis- og lýðveldisdagur Slóvakíu 2024",
+        "share_text": "Gleðilegan frelsis- og lýðveldisdag, Slóvakía! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kebebasan dan Demokrasi Slovakia",
+        "hover_text": "Hari Kebebasan dan Demokrasi Slovakia 2024",
+        "share_text": "Hari Kebebasan dan Demokrasi, Slovakia! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse agus Daonlathais na Slóvaice",
+        "hover_text": null,
+        "share_text": "Lá Saoirse agus Daonlathais na Slóvaice faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Giorno della libertà e della democrazia della Slovacchia",
+        "hover_text": "Festa della libertà e della democrazia della Slovacchia 2024",
+        "share_text": "Buona festa della libertà e della democrazia, Slovacchia! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "自由と民主主義闘争記念日（スロバキア）",
+        "hover_text": "2024 年自由と民主主義闘争記念日（スロバキア）",
+        "share_text": "自由と民主主義闘争記念日（スロバキア）を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಸ್ಲೊವಾಕಿಯಾ ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಗಣರಾಜ್ಯ ದಿನ",
+        "hover_text": "ಸ್ಲೊವಾಕಿಯಾ ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಗಣರಾಜ್ಯ ದಿನ 2024",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಗಣರಾಜ್ಯ ದಿನದ ಶುಭಾಶಯಗಳು, ಸ್ಲೊವಾಕಿಯಾ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Словакия азаттық және демократия күні",
+        "hover_text": "Словакияның Азаттық және демократия күні – 2024",
+        "share_text": "Азаттық және демократия күнімен, Словакия! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យ​សេរីភាព និង​ប្រជាធិបតេយ្យ​នៅ​ស្លូវ៉ាគី",
+        "hover_text": "ទិវា​បុណ្យ​សេរីភាព និង​ប្រជាធិបតេយ្យស្លូវ៉ាគី​ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​បុណ្យ​សេរីភាព និង​ប្រជាធិបតេយ្យ​នៅ​ស្លូវ៉ាគី! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "슬로바키아 자유 및 민주주의의 날",
+        "hover_text": "2024년 슬로바키아 자유 및 민주주의의 날",
+        "share_text": "슬로바키아 자유 및 민주주의의 날 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Словакиянын Эркиндик жана демократия күнү",
+        "hover_text": "Словакиянын Эркиндик жана демократия күнү — 2024",
+        "share_text": "Эркиндик жана демократия күнүң менен, Словакия! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນອິດສະລະພາບ ແລະ ປະຊາທິປະໄຕສະໂລວາເກຍ",
+        "hover_text": "ວັນປະກາດອິດສະຫຼະພາບ ແລະ ປະຊາທິປະໄຕຂອງສະໂລວາເກຍປີ 2024",
+        "share_text": "ສຸກສັນວັນອິດສະລະພາບ ແລະ ປະຊາທິປະໄຕ, ສະໂລວາເກຍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Lucha por la Libertad y la Democracia en Eslovaquia",
+        "hover_text": "Día de la Libertad y la Democracia de Eslovaquia 2024",
+        "share_text": "¡Feliz Día de la Lucha por la Libertad y la Democracia, Eslovaquia! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Slovākijas brīvības un demokrātijas diena",
+        "hover_text": "Slovākijas Brīvības un demokrātijas diena — 2024",
+        "share_text": "Priecīgu brīvības un demokrātijas dienu, Slovākija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Slovakijos laisvės ir demokratijos diena",
+        "hover_text": "Slovakijos laisvės ir demokratijos diena, 2024 m.",
+        "share_text": "Su Laisvės ir demokratijos diena, Slovakija! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на слободата и демократијата на Словачка",
+        "hover_text": "Ден на слободата и демократијата на Словачка, 2024 г.",
+        "share_text": "Среќен Ден на слободата и демократијата, Словачка! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Andron'ny fahafahana sy ny demokrasia Slôvakiana",
+        "hover_text": null,
+        "share_text": "Tsarà Andron'ny fahafahana sy ny demokrasia ry Slôvakia ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kebebasan dan Demokrasi Slovakia",
+        "hover_text": "Hari Kebebasan dan Demokrasi Slovakia 2024",
+        "share_text": "Selamat Menyambut Hari Kebebasan dan Demokrasi, Slovakia! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "സ്ലോവാക്യൻ സ്വാതന്ത്ര്യ, ജനാധിപത്യ ദിനം",
+        "hover_text": "സ്ലോവാക്യൻ സ്വാതന്ത്ര്യ, ജനാധിപത്യ ദിനം 2024",
+        "share_text": "സ്വാതന്ത്ര്യ, ജനാധിപത്യ ദിനാശംസകൾ സ്ലോവാക്യ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "स्लोव्हाकियाचा स्वातंत्र्य आणि लोकशाही दिन",
+        "hover_text": "स्लोव्हाकियाचा स्वातंत्र्य आणि लोकशाही दिन २०२४",
+        "share_text": "स्वातंत्र्य आणि लोकशाही दिनाच्या शुभेच्छा, स्लोव्हाकिया! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Словак улсын Эрх чөлөө, ардчиллын өдөр",
+        "hover_text": "2024 оны Словак Улсын Эрх чөлөө, ардчиллын өдөр",
+        "share_text": "Словак улсын ард иргэдэд Эрх чөлөө, ардчиллын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "स्लोभाकिया स्वतन्त्रता तथा प्रजातन्त्र दिवस",
+        "hover_text": "स्लोभाकियाको स्वतन्त्रता तथा प्रजातन्त्र दिवस २०२४",
+        "share_text": "स्वतन्त्रता तथा प्रजातन्त्र दिवसको शुभकामना, स्लोभाकिया! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Slovakias Kamp for frihet og demokrati-dagen",
+        "hover_text": "Kamp for frihet og demokrati-dagen i Slovakia 2024",
+        "share_text": "Gratulerer med Kamp for frihet og demokrati-dagen, Slovakia! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ସ୍ଲୋଭାକିଆ ସ୍ବାଧୀନତା ଏବଂ ଗଣତନ୍ତ୍ର ଦିବସ",
+        "hover_text": null,
+        "share_text": "ସ୍ବାଧୀନତା ଏବଂ ଗଣତନ୍ତ୍ର ଦିବସର ଶୁଭେଚ୍ଛା, ସ୍ଲୋଭାକିଆ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز آزادی و دموکراسی اسلواکی",
+        "hover_text": "روز آزادی و دموکراسی ۲۰۲۴ اسلواکی",
+        "share_text": "روز آزادی و دموکراسی اسلواکی مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Walki o Wolność i Demokrację na Słowacji",
+        "hover_text": "Dzień Walki o Wolność i Demokrację 2024 na Słowacji",
+        "share_text": "Słowacja obchodzi Dzień Walki o Wolność i Demokrację #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Liberdade e Democracia da Eslováquia",
+        "hover_text": "Dia da Liberdade e Democracia da Eslováquia 2024",
+        "share_text": "Feliz Dia da Liberdade e Democracia, Eslováquia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da liberdade e democracia da Eslováquia",
+        "hover_text": "Dia da Liberdade e Democracia da Eslováquia de 2024",
+        "share_text": "Feliz dia da liberdade e democracia, Eslováquia! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਸਲੋਵਾਕੀਆ ਦਾ ਅਜ਼ਾਦੀ ਅਤੇ ਲੋਕਤੰਤਰ ਦਿਹਾੜਾ",
+        "hover_text": "ਸਲੋਵਾਕੀਆ ਦਾ ਅਜ਼ਾਦੀ ਅਤੇ ਲੋਕਤੰਤਰ ਦਿਵਸ 2024",
+        "share_text": "ਅਜ਼ਾਦੀ ਅਤੇ ਲੋਕਤੰਤਰ ਦਿਹਾੜੇ ਦੀਆਂ ਵਧਾਈਆਂ, ਸਲੋਵਾਕੀਆ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua libertății și a democrației în Slovacia",
+        "hover_text": "Ziua Libertății și a Democrației în Slovacia 2024",
+        "share_text": "La mulți ani de Ziua libertății și a democrației în Slovacia! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День борьбы за свободу и демократию в Словакии",
+        "hover_text": "День борьбы за свободу и демократию в Словакии – 2024",
+        "share_text": "День борьбы за свободу и демократию в Словакии #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан слободе и демократије у Словачкој",
+        "hover_text": "Дан слободе и демократије у Словачкој 2024.",
+        "share_text": "Честитамо Дан слободе и демократије Словачкој! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan slobode i demokratije u Slovačkoj",
+        "hover_text": "Dan slobode i demokratije u Slovačkoj 2024.",
+        "share_text": "Čestitamo Dan slobode i demokratije Slovačkoj! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Laliberte e Lademokrasi Slovakia",
+        "hover_text": null,
+        "share_text": "Bonn Zournen Laliberte e Lademokrasi, Slovakia! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ස්ලොවැකියාවේ නිදහස් සහ ප්‍රජාතන්ත්‍රවාදී දිනය",
+        "hover_text": "ස්ලොවැකියාවේ නිදහස් සහ ප්‍රජාතන්ත්‍රවාදී දිනය 2024",
+        "share_text": "සුබ නිදහස් සහ ප්‍රජාතන්ත්‍රවාදී දිනයක්, ස්ලොවැකියාව! #Googleඩූඩල්"
+      },
+      "sk": {
+        "query": "Deň boja za slobodu a demokraciu na Slovensku",
+        "hover_text": "Deň boja za slobodu a demokraciu Slovenska 2024",
+        "share_text": "Šťastný Deň boja za slobodu a demokraciu, Slovensko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan svobode in demokracije na Slovaškem",
+        "hover_text": "Dan svobode in demokracije na Slovaškem 2024",
+        "share_text": "Vesel dan svobode in demokracije, Slovaška! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Islofaakia Maalinta Xoriyada iyo Dimuqraadiyadda",
+        "hover_text": null,
+        "share_text": "Maalinta Farxada leh ee Xoriyada iyo Dimuqraadiyadda, Islofaakiya! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Tokoloho ya Slovakia le Letsatsi la Demokerasi",
+        "hover_text": null,
+        "share_text": "Thabela Tokoloho le Letsatsi la Demokerasi, Slovakia! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Libertad y la Democracia de Eslovaquia",
+        "hover_text": "Día de la Libertad y la Democracia de Eslovaquia 2024",
+        "share_text": "¡Feliz Día de la Libertad y la Democracia de Eslovaquia! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru na Demokrasia ya Slovakia",
+        "hover_text": "Sikukuu ya Uhuru na Demokrasia ya Slovakia 2024",
+        "share_text": "Heri ya Sikukuu ya Uhuru na Demokrasia, Slovakia! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Dagen för friheten och demokratin i Slovakien",
+        "hover_text": "Frihetens och demokratins dag i Slovakien 2024",
+        "share_text": "Vi firar Slovakien på dagen för friheten och demokratin #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஸ்லோவாக்கியாவின் சுதந்திரம் மற்றும் குடியரசு தினம்",
+        "hover_text": "ஸ்லோவாக்கியாவின் சுதந்திரம் மற்றும் மக்களாட்சி தினம் 2024",
+        "share_text": "ஸ்லோவாக்கியாவின் சுதந்திரம் மற்றும் குடியரசு தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "స్లోవేకియా స్వేచ్ఛ మరియు ప్రజాస్వామ్య దినోత్సవం",
+        "hover_text": "స్లోవేకియా ఫ్రీడమ్ అండ్ డెమోక్రసీ డే 2024",
+        "share_text": "స్వేచ్ఛ మరియు ప్రజాస్వామ్య దినోత్సవం, స్లోవేకియా! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันแห่งเสรีภาพและประชาธิปไตยของสโลวาเกีย",
+        "hover_text": "วันแห่งเสรีภาพและประชาธิปไตยของสโลวาเกียปี 2024",
+        "share_text": "สุขสันต์วันแห่งเสรีภาพและประชาธิปไตย สโลวาเกีย! #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Kgololesego le Temokerasi la Slovakia",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Kgololesego le Temokerasi, Slovakia! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Slovakya Özgürlük ve Demokrasi Günü",
+        "hover_text": "2024 Slovakya Özgürlük ve Demokrasi için Mücadele Günü",
+        "share_text": "Slovakya Özgürlük ve Demokrasi Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День свободи й демократії Словаччини",
+        "hover_text": "День свободи й демократії Словаччини у 2024 році",
+        "share_text": "З Днем свободи й демократії, Словаччино! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "سلوواکیہ کی آزادی اور جمہوریت کا دن",
+        "hover_text": "سلوواکیہ کی آزادی اور جمہوریت کا دن 2024",
+        "share_text": "سلوواکیہ کی آزادی اور جمہوریت کا دن مبارک ہو! ‎#GoogleDoodle‎"
+      },
+      "uz": {
+        "query": "Slovakiyada ozodlik va demokratiya kuni",
+        "hover_text": "Slovakiyada Ozodlik va demokratiya kuni 2024",
+        "share_text": "Ozodlik va demokratiya kuning bilan, Slovakiya! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Tự do và Dân chủ của Slovakia",
+        "hover_text": "Ngày Tự do và Dân chủ của Slovakia năm 2024",
+        "share_text": "Chào mừng ngày Tự do và Dân chủ của Slovakia! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lwenkululeko nolwentando yeningi lwase-Slovakia",
+        "hover_text": "Usuku Lwenkululeko Nolwentando Yeningi lwaseSlovakia lwango-2024",
+        "share_text": "Sinifisela usuku oluhle lwenkululeko nolwentando yeningi, Slovakia! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Slovakia Freedom and Democracy Day",
+    "share_text": "Happy Freedom and Democracy Day, Slovakia! #GoogleDoodle"
+  },
+  {
+    "name": "czech-republic-freedom-and-democracy-day-2024",
+    "title": "Czech Republic Freedom and Democracy Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/czech-republic-freedom-and-democracy-day-2024-6753651837110320-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/GvWTKUhcdKfbvTlZV8PuVkvQnE8ArDQqboVAQlBAuGtPIgOZ4CFtgLGQgmySEp-Ooj26MysQM1HAK8LB65fIe_VbZenQjo0-mJPvM_GmuBU5tf1dY7946dI",
+    "high_res_url": "//www.google.com/logos/doodles/2024/czech-republic-freedom-and-democracy-day-2024-6753651837110320-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      11,
+      17
+    ],
+    "translations": {
+      "en": {
+        "query": "Czech Republic Freedom and Democracy Day",
+        "hover_text": "Czech Republic Freedom and Democracy Day 2024",
+        "share_text": "Happy Czech Republic Freedom and Democracy Day, Czechia! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Tsjeggiese Republiek se dag van vryheid en demokrasie",
+        "hover_text": "Tsjeggië se dag van vryheid en demokrasie 2024",
+        "share_text": "Gelukkige Dag van vryheid en demokrasie, Tsjeggië! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Lirisë dhe Demokracisë së Republikës Çeke",
+        "hover_text": "Dita e Lirisë dhe Demokracisë së Republikës Çeke, 2024",
+        "share_text": "Gëzuar Ditën e Lirisë dhe Demokracisë, Republika Çeke! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የቼክ ሪፐብሊክ ነጻነት እና ዲሞክራሲ ቀን",
+        "hover_text": "የቼክ ሪፐብሊክ ነፃነት እና ዲሞክራሲ ቀን 2024",
+        "share_text": "መልካም የቼክ ሪፐብሊክ ነፃነት እና ዲሞክራሲ ቀን ቼኪያ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "يوم الحرية والديمقراطية التشيكي",
+        "hover_text": "عيد النضال من أجل الحرية والديمقراطية في جمهورية التشيك 2024",
+        "share_text": "أطيب الأمنيات بمناسبة عيد النضال من أجل الحرية والديمقراطية في جمهورية التشيك. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Չեխիայի ազատության և ժողովրդավարության օր",
+        "hover_text": "Չեխիայի Հանրապետության ազատության և ժողովրդավարության օր 2024",
+        "share_text": "Շնորհավո՛ր Չեխիայի Հանրապետության ազատության և ժողովրդավարության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Çex Respublikasının Azadlıq və Demokratiya Günü",
+        "hover_text": "2024 Çex Respublikasının Azadlıq və Demokratiya Günü",
+        "share_text": "Çex Respublikasının Azadlıq və Demokratiya Günü mübarək, Çexiya! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "চেক রিপাবলিকের স্বাধীনতা এবং গণতন্ত্র দিবস",
+        "hover_text": "চেক রিপাবলিকের স্বাধীনতা এবং গণতন্ত্র দিবস ২০২৪",
+        "share_text": "চেক রিপাবলিকের স্বাধীনতা এবং গণতন্ত্র দিবসের শুভেচ্ছা, চেকিয়া! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Txekiar Errepublikako Askatasunaren eta Demokraziaren Eguna",
+        "hover_text": "2024ko Txekiar Errepublikako Askatasunaren eta Demokraziaren Eguna",
+        "share_text": "Txekiar Errepublikako Askatasunaren eta Demokraziaren Egun zoriontsua izan, Txekia! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень барацьбы за свабоду і дэмакратыю ў Чэхіі",
+        "hover_text": "Дзень барацьбы за свабоду і дэмакратыю ў Чэшскай Рэспубліцы 2024",
+        "share_text": "З Днём барацьбы за свабоду і дэмакратыю, Чэхія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan slobode i demokratije u Češkoj Republici",
+        "hover_text": "Dan slobode i demokratije u Češkoj 2024.",
+        "share_text": "Sretan Dan slobode i demokratije, Češka! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Czech Republic Freedom and Democracy Day",
+        "hover_text": "Czechia Freedom and Democracy Day 2024",
+        "share_text": "Happy Czech Republic Freedom and Democracy Day, Czechia! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на свободата и демокрацията в Чехия",
+        "hover_text": "Ден на свободата и демокрацията в Чешката република 2024 г.",
+        "share_text": "Честит Ден на свободата и демокрацията на Чешката република! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ချက်သမ္မတနိုင်ငံ လွတ်လပ်ရေးနှင့် ဒီမိုကရေစီနေ့",
+        "hover_text": "၂၀၂၄ ချက်ကီယားနိုင်ငံ လွတ်လပ်ရေးနှင့် ဒီမိုကရေစီနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနှင့် ဒီမိုကရေစီနေ့ဖြစ်ပါစေ ချက်ကီယား။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Llibertat i la Democràcia de la República Txeca",
+        "hover_text": "Dia de la Llibertat i la Democràcia de la República Txeca 2024",
+        "share_text": "Feliç Dia de la Llibertat i la Democràcia, Txèquia! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "捷克共和國自由民主奮鬥日",
+        "hover_text": "2024 年捷克共和國自由民主奮鬥日",
+        "share_text": "捷克，捷克共和國自由民主奮鬥日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "捷克共和國自由民主日",
+        "hover_text": "2024 捷克共和國自由民主日",
+        "share_text": "捷克，自由民主日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "捷克自由民主抗争日",
+        "hover_text": "2024 年捷克自由民主抗争日",
+        "share_text": "欢庆捷克自由民主抗争日！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan slobode i demokracije u Češkoj",
+        "hover_text": "Dan slobode i demokracije u Češkoj 2024.",
+        "share_text": "Sretan Dan slobode i demokracije, Češka! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Český Den boje za svobodu a demokracii",
+        "hover_text": "Český Den boje za svobodu a demokracii 2024",
+        "share_text": "Všechno nejlepší ke Dni boje za svobodu a demokracii, Česko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Frihedens og demokratiets dag i Tjekkiet",
+        "hover_text": "Frihedens og demokratiets dag i Tjekkiet 2024",
+        "share_text": "Vi fejrer frihedens og demokratiets dag i Tjekkiet #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Dag van de vrijheid en democratie Tsjechië",
+        "hover_text": "Dag van vrijheid en democratie Tsjechië 2024",
+        "share_text": "Fijne Dag van de vrijheid en democratie, Tsjechië! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Tšehhi vabaduse ja demokraatia päev",
+        "hover_text": "Tšehhi Vabariigi 2024. aasta vabaduse ja demokraatia päev",
+        "share_text": "Head vabaduse ja demokraatia päeva, Tšehhi! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Tšekin tasavallan vapauden ja demokratian päivä",
+        "hover_text": "Tšekin vapauden ja demokratian päivä 2024",
+        "share_text": "Hyvää Tšekin vapauden ja demokratian päivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Journée de lutte pour la liberté et la démocratie en République tchèque",
+        "hover_text": "Journée de la lutte pour la liberté et la démocratie 2024 en Tchéquie",
+        "share_text": "Journée de la lutte pour la liberté et la démocratie en Tchéquie ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Journée de lutte pour la liberté et la démocratie en République tchèque",
+        "hover_text": "Journée de lutte pour la liberté et la démocratie en République tchèque 2024",
+        "share_text": "Joyeuse journée de lutte pour la liberté et la démocratie, République tchèque! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Liberdade e a Democracia da República Checa",
+        "hover_text": "Día da Liberdade e a Democracia da República Checa 2024",
+        "share_text": "Chequia, desfruta do Día da Liberdade e a Democracia da República Checa! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ჩეხეთის რესპუბლიკის თავისუფლებისა და დემოკრატიის დღე",
+        "hover_text": "ჩეხეთის რესპუბლიკის თავისუფლებისა და დემოკრატიის დღე — 2024",
+        "share_text": "ჩეხეთს ვულოცავთ ჩეხეთის რესპუბლიკის თავისუფლებისა და დემოკრატიის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Tag des Kampfes für Freiheit und Demokratie in Tschechien",
+        "hover_text": "Tag des Kampfes für Freiheit und Demokratie in Tschechien 2024",
+        "share_text": "Alles Gute zum Tag des Kampfes für Freiheit und Demokratie in Tschechien! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ελευθερίας και Δημοκρατίας της Τσεχίας",
+        "hover_text": "Ημέρα Ελευθερίας και Δημοκρατίας της Τσεχίας 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα Ελευθερίας και Δημοκρατίας της Τσεχίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ચેક રિપબ્લિકનો સ્વતંત્રતા અને લોકશાહી દિવસ",
+        "hover_text": "ચેક રિપબ્લિકનો સ્વતંત્રતા અને લોકશાહી દિવસ 2024",
+        "share_text": "ચેક રિપબ્લિકને સ્વતંત્રતા અને લોકશાહી દિવસની શુભેચ્છા, ચેકિયા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום המאבק לחופש ולדמוקרטיה של צ'כיה 2020",
+        "hover_text": "יום המאבק לחופש ולדמוקרטיה בצ'כיה 2024",
+        "share_text": "יום שמח למאבק לחופש ולדמוקרטיה, צ'כיה! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "चेक रिपब्लिक का स्वतंत्रता और लोकतंत्र दिवस",
+        "hover_text": "चेक गणराज्य का स्वतंत्रता और लोकतंत्र दिवस 2024",
+        "share_text": "चेक गणराज्य के स्वतंत्रता और लोकतंत्र दिवस की शुभकामनाएं, चेकिया! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A szabadság és demokrácia napja Csehországban",
+        "hover_text": "A szabadság és demokrácia napja Csehországban, 2024",
+        "share_text": "Minden jót a szabadság és demokrácia napján, Csehország! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Frelsis- og lýðveldisdagur Tékklands",
+        "hover_text": "Frelsis- og lýðveldisdagur Tékklands 2024",
+        "share_text": "Gleðilegan frelsis- og lýðveldisdag, Tékkland! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kebebasan dan Demokrasi Republik Ceko",
+        "hover_text": "Hari Kebebasan dan Demokrasi Republik Ceko 2024",
+        "share_text": "Selamat Hari Kebebasan dan Demokrasi, Republik Ceko! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse agus Daonlathais Phoblacht na Seice",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Festa della libertà e della democrazia della Repubblica Ceca",
+        "hover_text": "Festa della libertà e della democrazia della Repubblica Ceca 2024",
+        "share_text": "Buona festa della libertà e della democrazia, Repubblica Ceca! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "自由と民主主義闘争記念日（チェコ共和国）",
+        "hover_text": "2024 年自由と民主主義闘争記念日（チェコ共和国）",
+        "share_text": "自由と民主主義闘争記念日（チェコ共和国）を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಜೆಕ್ ಗಣರಾಜ್ಯ ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಪ್ರಜಾಪ್ರಭುತ್ವ ದಿನ",
+        "hover_text": "ಜೆಕ್ ಗಣರಾಜ್ಯ ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಗಣರಾಜ್ಯ ದಿನ 2024",
+        "share_text": "ಜೆಕ್ ಗಣರಾಜ್ಯ ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಗಣರಾಜ್ಯ ದಿನದ ಶುಭಾಶಯಗಳು, ಝೆಕಿಯಾ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Чех Республикасы Азаттық және демократия күні",
+        "hover_text": "Чех Республикасының Азаттық және демократия күні – 2024",
+        "share_text": "Азаттық және демократия күні құтты болсын, Чехия! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យ​សេរីភាព និង​ប្រជាធិបតេយ្យ​នៃសាធារណរដ្ឋឆេក",
+        "hover_text": "ទិវា​បុណ្យ​សេរីភាព និង​ប្រជាធិបតេយ្យ​នៃសាធារណរដ្ឋឆែក​ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវាបុណ្យ​សេរីភាព និង​ប្រជាធិបតេយ្យ​នៃ​សាធារណរដ្ឋឆែក​! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "체코 공화국 자유 및 민주주의의 날",
+        "hover_text": "2024년 체코 자유 및 민주주의의 날",
+        "share_text": "체코 자유 및 민주주의의 날 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Чех Респбуликасынын Эркиндик жана демократия күнү",
+        "hover_text": "Чех Республикасынын Эркиндик жана демократия күнү — 2024",
+        "share_text": "Эркиндик жана демократия күнүң менен, Чехия! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດອິດສະລະພາບ ແລະ ປະຊາທິປະໄຕສາທາລະນະລັດເຊກ",
+        "hover_text": "ວັນປະກາດອິດສະຫຼະພາບ ແລະ ປະຊາທິປະໄຕຂອງສາທາລະນະລັດເຊກປີ 2024",
+        "share_text": "ສຸກສັນວັນອິດສະຫຼະພາບ ແລະ ປະຊາທິປະໄຕຂອງສາທາລະນະລັດເຊກ, ເຊກເກຍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Lucha por la Libertad y la Democracia de República Checa",
+        "hover_text": "Día de la Libertad y la Democracia de República Checa 2024",
+        "share_text": "¡Feliz Día de la Libertad y la Democracia, República Checa! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Čehijas brīvības un demokrātijas diena",
+        "hover_text": "Čehijas Brīvības un demokrātijas diena — 2024",
+        "share_text": "Priecīgu Brīvības un demokrātijas dienu, Čehija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Čekijos Respublikos laisvės ir demokratijos diena",
+        "hover_text": "Čekijos Respublikos laisvės ir demokratijos diena, 2024 m.",
+        "share_text": "Su Laisvės ir demokratijos diena, Čekijos Respublika! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на слободата и демократијата на Република Чешка",
+        "hover_text": "Ден на слободата и демократијата на Република Чешка, 2024 г.",
+        "share_text": "Среќен Ден на слободата и демократијата, Чешка! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahafahana sy ny demokrasian'ny Repoblika Tseky",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Hari Kebebasan dan Demokrasi Republik Czech",
+        "hover_text": "Hari Kebebasan dan Demokrasi Republik Czech 2024",
+        "share_text": "Selamat Menyambut Hari Kebebasan dan Demokrasi, Republik Czech! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ചെക്ക് റിപ്പബ്ലിക്കൻ സ്വാതന്ത്ര്യ, ജനാധിപത്യ ദിനം",
+        "hover_text": "ചെക്ക് റിപ്പബ്ലിക്ക് സ്വാതന്ത്ര്യ, ജനാധിപത്യ ദിനം 2024",
+        "share_text": "ചെക്ക് റിപ്പബ്ലിക്ക് സ്വാതന്ത്ര്യ, ജനാധിപത്യ ദിനാശംസകൾ ചെക്ക്യ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "झेक रिपब्लिकचा स्वातंत्र्य आणि लोकशाही दिन",
+        "hover_text": "झेक रिपब्लिकचा स्वातंत्र्य आणि लोकशाही दिन २०२४",
+        "share_text": "झेक रिपब्लिकला स्वातंत्र्य आणि लोकशाही दिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Бүгд найрамдах Чех улсын Эрх чөлөө, ардчиллын өдөр",
+        "hover_text": "2024 оны Бүгд Найрамдах Чех Улсын Эрх чөлөө, ардчиллын өдөр",
+        "share_text": "Чех Улсын ард иргэдэд Бүгд Найрамдах Чех Улсын Эрх чөлөө, ардчиллын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "चेक गणतन्त्रको स्वतन्त्रता तथा प्रजातन्त्र दिवस",
+        "hover_text": "चेक गणतन्त्रको स्वतन्त्रता तथा प्रजातन्त्र दिवस २०२४",
+        "share_text": "चेक गणतन्त्रको स्वतन्त्रता तथा प्रजातन्त्र दिवसको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Kamp for frihet og demokrati-dagen i Tsjekkia",
+        "hover_text": "Kamp for frihet og demokrati-dagen i Tsjekkia 2024",
+        "share_text": "Gratulerer med Kamp for frihet og demokrati-dagen, Tsjekkia! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଚେକ୍ ରିପବ୍ଲିକର ସ୍ୱାଧୀନତା ଏବଂ ଗଣତନ୍ତ୍ର ଦିବସ",
+        "hover_text": null,
+        "share_text": "ଚେକ ରିପବ୍ଲିକର ସ୍ୱାଧୀନତା ଏବଂ ଗଣତନ୍ତ୍ର ଦିବସର ଶୁଭେଚ୍ଛା, ଚେକିଆ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز آزادی و دموکراسی جمهوری چک",
+        "hover_text": "روز آزادی و دموکراسی ۲۰۲۴ جمهوری چک",
+        "share_text": "روز آزادی و دموکراسی جمهوری چک مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Walki o Wolność i Demokrację w Czechach",
+        "hover_text": "Dzień Walki o Wolność i Demokrację 2024 w Czechach",
+        "share_text": "Czechy obchodzą Dzień Walki o Wolność i Demokrację #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Liberdade e Democracia da República Tcheca",
+        "hover_text": "Dia da Liberdade e Democracia da República Tcheca 2024",
+        "share_text": "Feliz Dia da Liberdade e Democracia, República Tcheca! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da liberdade e democracia da Chéquia",
+        "hover_text": "Dia da Liberdade e Democracia da República Checa de 2024",
+        "share_text": "Feliz Dia da Liberdade e Democracia, Chéquia! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਚੈੱਕ ਗਣਰਾਜ ਦਾ ਆਜ਼ਾਦੀ ਅਤੇ ਲੋਕਤੰਤਰ ਦਿਹਾੜਾ",
+        "hover_text": "ਚੈੱਕ ਗਣਰਾਜ ਦਾ ਅਜ਼ਾਦੀ ਅਤੇ ਲੋਕਤੰਤਰ ਦਿਵਸ 2024",
+        "share_text": "ਅਜ਼ਾਦੀ ਅਤੇ ਲੋਕਤੰਤਰ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਚੈਕੀਆ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua libertății și a democrației în Republica Cehă",
+        "hover_text": "Ziua Libertății și a Democrației în Cehia 2024",
+        "share_text": "La mulți ani de Ziua Libertății și a Democrației în Cehia! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День борьбы за свободу и демократию в Чехии",
+        "hover_text": "День борьбы за свободу и демократию в Чехии – 2024",
+        "share_text": "День борьбы за свободу и демократию в Чехии #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан слободе и демократије у Чешкој Републици",
+        "hover_text": "Дан слободе и демократије у Чешкој 2024.",
+        "share_text": "Честитамо Дан слободе и демократије Чешкој Републици! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan slobode i demokratije u Češkoj Republici",
+        "hover_text": "Dan slobode i demokratije u Češkoj 2024.",
+        "share_text": "Čestitamo Dan slobode i demokratije Češkoj Republici! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen laliberte e la demokrasi Repiblik Czech",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "චෙක් ජනරජයේ නිදහස් සහ ප්‍රජාතන්ත්‍රවාදී දිනය",
+        "hover_text": "චෙක් ජනරජයේ නිදහස් සහ ප්‍රජාතන්ත්‍රවාදී දිනය 2024",
+        "share_text": "ප්‍රීතිමත් චෙක් ජනරජයේ නිදහස් සහ ප්‍රජාතන්ත්‍රවාදී දිනයක්, චෙකියාව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň boja za slobodu a demokraciu Českej republiky",
+        "hover_text": "Deň boja za slobodu a demokraciu Českej republiky 2024",
+        "share_text": "Šťastný Deň boja za slobodu a demokraciu, Česko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan svobode in demokracije na Češkem",
+        "hover_text": "Dan svobode in demokracije na Češkem 2024",
+        "share_text": "Vesel dan svobode in demokracije, Češka! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Xoriyada iyo Dimuqraadiyada Jamhuuriyadda Czech",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho ya Repabliki ya Czech le la Demokerasi",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día de la Libertad y la Democracia de Chequia",
+        "hover_text": "Día de la Libertad y la Democracia de la República Checa 2024",
+        "share_text": "¡Feliz Día de la Libertad y la Democracia de la República Checa! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru na Demokrasia ya Jamhuri ya Cheki",
+        "hover_text": "Sikukuu ya Uhuru na Demokrasia ya Jamhuri ya Zechia 2024",
+        "share_text": "Heri ya Sikukuu ya Uhuru na Demokrasia, Zechia! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Frihetens och demokratins dag i Tjeckien",
+        "hover_text": "Frihetens och demokratins dag i Tjeckien 2024",
+        "share_text": "Vi firar Tjeckien på dagen för friheten och demokratin #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "செக் குடியரசின் சுதந்திரம் மற்றும் குடியரசு தினம்",
+        "hover_text": "செக் குடியரசின் சுதந்திரம் மற்றும் மக்களாட்சி தினம் 2024",
+        "share_text": "இனிய சுதந்திரம் மற்றும் குடியரசு தின வாழ்த்துகள், செக்கியா (செக் குடியரசு)! #GoogleDoodle"
+      },
+      "te": {
+        "query": "చెక్ రిపబ్లిక్ స్వేచ్ఛ, ప్రజాస్వామ్య దినోత్సవం",
+        "hover_text": "చెక్ రిపబ్లిక్ ఫ్రీడమ్ అండ్ డెమోక్రసీ డే 2024",
+        "share_text": "చెకియా దేశ ప్రజలందరికీ, చెక్ రిపబ్లిక్ ఫ్రీడమ్ అండ్ డెమోక్రసీ డే శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันแห่งเสรีภาพและประชาธิปไตยของสาธารณรัฐเช็ก",
+        "hover_text": "วันแห่งเสรีภาพและประชาธิปไตยของสาธารณรัฐเช็กปี 2024",
+        "share_text": "สุขสันต์วันแห่งเสรีภาพและประชาธิปไตยของสาธารณรัฐเช็ก เช็กเกีย! #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Kgololesego le Temokerasi ya Czech Republic",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Çek Cumhuriyeti Özgürlük ve Demokrasi Günü",
+        "hover_text": "2024 Çek Cumhuriyeti Özgürlük ve Demokrasi için Mücadele Günü",
+        "share_text": "Çek Cumhuriyeti Özgürlük ve Demokrasi Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День свободи й демократії Чехії",
+        "hover_text": "День свободи й демократії Чеської Республіки у 2024 році",
+        "share_text": "З Днем свободи й демократії, Чехіє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "چیک جمہوریہ کی آزادی اور جمہوریت کا دن",
+        "hover_text": "چیک ریپبلک کی آزادی اور جمہوریت کا دن 2024",
+        "share_text": "چیک ریپبلک کی آزادی اور جمہوریت کا دن مبارک ہو، چیک ریپبلک! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Chexiyada ozodlik va demokratiya kuni",
+        "hover_text": "Chexiya Respublikasi Ozodlik va demokratiya kuni 2024",
+        "share_text": "Ozodlik va demokratiya kuning bilan, Chexiya! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Tự do và Dân chủ của Cộng hòa Séc",
+        "hover_text": "Ngày Tự do và Dân chủ của Cộng hòa Séc năm 2024",
+        "share_text": "Chào mừng ngày Tự do và Dân chủ của Cộng hoà Séc! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lwenkululeko Nolwentando Yeningi e-Czech Republic",
+        "hover_text": "Usuku Lwenkululeko Nolwentando Yeningi lwaseCzech Republic lwango-2024",
+        "share_text": "Sinifisela usuku oluhle lwenkululeko nolwentando yeningi Czech Republic! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Czech Republic Freedom and Democracy Day",
+    "share_text": "Happy Czech Republic Freedom and Democracy Day, Czechia! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-the-kayak",
     "title": "Celebrating the Kayak",
     "url": "//www.google.com/logos/doodles/2024/celebrating-the-kayak-6753651837110586.2-l.png",
