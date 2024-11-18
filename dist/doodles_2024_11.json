@@ -1,5 +1,2001 @@
 [
   {
+    "name": "morocco-independence-day-2024",
+    "title": "Morocco Independence Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/morocco-independence-day-2024-6753651837110323-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/6rhsUyXnkBSzqQMeNjCPgW_Lq1BzWxqP43pvjvqontvGYTznFycqyxCnlKyF5SstMXNK5wKXO4N3RETSarESs_f1rh91WoX0qEIe0HdizF5QUl5_Lpbqhpo",
+    "high_res_url": "//www.google.com/logos/doodles/2024/morocco-independence-day-2024-6753651837110323-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      11,
+      18
+    ],
+    "translations": {
+      "en": {
+        "query": "Morocco Independence Day",
+        "hover_text": "Morocco Independence Day 2024",
+        "share_text": "Happy Independence Day, Morocco! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Marokko se onafhanklikheidsdag",
+        "hover_text": "Marokko se Onafhanklikheidsdag 2024",
+        "share_text": "Gelukkige Onafhanklikheidsdag, Marokko! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë e Marokut",
+        "hover_text": "Dita e Pavarësisë së Marokut, 2024",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Marok! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የሞሪኮ ነጻነት ቀን",
+        "hover_text": "የሞሮኮ ነፃነት ቀን 2024",
+        "share_text": "መልካም ነጻነት ቀን ሞሮኮ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال المغرب",
+        "hover_text": "عيد استقلال المغرب 2024",
+        "share_text": "عيد استقلال المغرب ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Մարոկկոյի անկախության օր",
+        "hover_text": "Մարոկկոյի անկախության օր 2024",
+        "share_text": "Շնորհավո՛ր Մարոկկոյի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Mərakeşin Müstəqillik Günü",
+        "hover_text": "2024 Mərakeşin Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Mərakeş! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "মরক্কোর স্বাধীনতা দিবস",
+        "hover_text": "মরক্কোর স্বাধীনতা দিবস ২০২৪",
+        "share_text": "মরক্কোর স্বাধীনতা দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Marokoko Independentzia Eguna",
+        "hover_text": "2024ko Marokoko Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Maroko! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Марока",
+        "hover_text": "Дзень незалежнасці Марока 2024",
+        "share_text": "З Днём незалежнасці, Марока! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Maroka",
+        "hover_text": "Dan nezavisnosti Maroka 2024.",
+        "share_text": "Sretan Dan nezavisnosti, Maroko! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Morocco Independence Day",
+        "hover_text": "Morocco Independence Day 2024",
+        "share_text": "Happy Independence Day, Morocco! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Мароко",
+        "hover_text": "Ден на независимостта на Мароко 2024 г.",
+        "share_text": "Честит Ден на независимостта на Мароко! #GoogleDoodle"
+      },
+      "my": {
+        "query": "မော်ရိုကို လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ မော်ရိုကိုနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်‌ဖွယ် လွတ်လပ်ရေးနေ့ဖြစ်ပါစေ၊ မော်ရိုကို။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència del Marroc",
+        "hover_text": "Dia de la Independència del Marroc 2024",
+        "share_text": "Feliç Dia de la Independència, Marroc! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "摩洛哥獨立日",
+        "hover_text": "2024 年摩洛哥獨立日",
+        "share_text": "摩洛哥，獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "摩洛哥獨立紀念日",
+        "hover_text": "2024 摩洛哥獨立紀念日",
+        "share_text": "摩洛哥，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "摩洛哥独立日",
+        "hover_text": "2024 年摩洛哥独立日",
+        "share_text": "摩洛哥，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Maroka",
+        "hover_text": "Dan neovisnosti Maroka 2024.",
+        "share_text": "Sretan Dan neovisnosti, Maroko! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Maroka",
+        "hover_text": "Den nezávislosti Maroka 2024",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Maroko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Marokkos uafhængighedsdag",
+        "hover_text": "Marokkos uafhængighedsdag 2024",
+        "share_text": "Glædelig uafhængighedsdag, Marokko! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Marokko",
+        "hover_text": "Onafhankelijkheidsdag Marokko 2024",
+        "share_text": "Fijne Onafhankelijkheidsdag, Marokko! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Maroko iseseisvuspäev",
+        "hover_text": "Maroko 2024. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Maroko! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Marokon itsenäisyyspäivä",
+        "hover_text": "Marokon itsenäisyyspäivä 2024",
+        "share_text": "Hyvää itsenäisyyspäivää, Marokko! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance du Maroc",
+        "hover_text": "Fête de l'Indépendance du Maroc 2024",
+        "share_text": "Fête de l'Indépendance du Maroc! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance du Maroc",
+        "hover_text": "Fête de l'Indépendance du Maroc 2024",
+        "share_text": "Joyeux jour de l'indépendance du Maroc! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Marrocos",
+        "hover_text": "Día da Independencia de Marrocos 2024",
+        "share_text": "Feliz Día da Independencia, Marrocos! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მაროკოს დამოუკიდებლობის დღე",
+        "hover_text": "მაროკოს დამოუკიდებლობის დღე — 2024",
+        "share_text": "ვულოცავთ მაროკოს დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Marokko",
+        "hover_text": "Unabhängigkeitstag Marokko 2024",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Marokko! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας Μαρόκου",
+        "hover_text": "Ημέρα Ανεξαρτησίας του Μαρόκου 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας του Μαρόκου! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "મોરોક્કોનો સ્વતંત્રતા દિવસ",
+        "hover_text": "મોરોક્કોનો સ્વતંત્રતા દિવસ 2024",
+        "share_text": "મોરોક્કોના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של מרוקו",
+        "hover_text": "יום העצמאות של מרוקו 2024",
+        "share_text": "יום עצמאות שמח, מרוקו! ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "मोरक्को का स्वतंत्रता दिवस",
+        "hover_text": "मोरक्को का स्वतंत्रता दिवस 2024",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, मोरक्को! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Marokkó függetlenségének napja",
+        "hover_text": "Marokkó függetlenségének napja, 2024",
+        "share_text": "Boldog függetlenség napját, Marokkó! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Marokkó",
+        "hover_text": "Sjálfstæðisdagur Marokkó 2024",
+        "share_text": "Gleðilegan sjálfstæðisdag, Marokkó! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Maroko",
+        "hover_text": "Hari Kemerdekaan Maroko 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Maroko! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse Mharacó",
+        "hover_text": null,
+        "share_text": "Lá Saoirse Mharacó faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza del Marocco",
+        "hover_text": "Festa dell'indipendenza del Marocco 2024",
+        "share_text": "Buona festa dell'indipendenza, Marocco! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "モロッコ独立記念日",
+        "hover_text": "2024 年モロッコ独立記念日",
+        "share_text": "モロッコ独立記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಮೊರಾಕ್ಕೋ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಮೊರಾಕ್ಕೋ ಸ್ವಾತಂತ್ರ್ಯ ದಿನ 2024",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಮೊರಾಕ್ಕೋ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Марокконың Тәуелсіздік күні",
+        "hover_text": "Марокконың Тәуелсіздік күні – 2024",
+        "share_text": "Тәуелсіздік күні құтты болсын, Марокко! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យឯករាជ្យជាតិម៉ារ៉ុក",
+        "hover_text": "ទិវា​បុណ្យឯករាជ្យជាតិម៉ារ៉ុក​ឆ្នាំ 2024",
+        "share_text": "អបអរទិវា​បុណ្យឯករាជ្យជាតិ​ម៉ារ៉ុក! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "모로코 독립기념일",
+        "hover_text": "2024년 모로코 독립기념일",
+        "share_text": "모로코 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Морокконун Эгемендүүлүк күнү",
+        "hover_text": "Марокконун Эгемендүүлүк күнү — 2024",
+        "share_text": "Эгемендүүлүк күнүң менен, Морокко! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດມໍຣອກໂຄ",
+        "hover_text": "ວັນປະກາດເອກະລາດມໍຣັອກໂຄ 2024",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດມໍຣອກໂຄ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Marruecos",
+        "hover_text": "Día de la Independencia de Marruecos 2024",
+        "share_text": "¡Feliz Día de la Independencia de Marruecos! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Marokas neatkarības diena",
+        "hover_text": "Marokas Neatkarības diena — 2024",
+        "share_text": "Sveicam neatkarības dienā, Maroka! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Maroko nepriklausomybės diena",
+        "hover_text": "Maroko nepriklausomybės diena, 2024 m.",
+        "share_text": "Sveikiname Maroką su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Мароко",
+        "hover_text": "Ден на независноста на Мароко, 2024 г.",
+        "share_text": "Среќен Ден на независноста, Мароко! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Maraoka",
+        "hover_text": null,
+        "share_text": "Tsarà fetin'ny fahaleovantena ry Maraoka ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Maghribi",
+        "hover_text": "Hari Kemerdekaan Maghribi 2024",
+        "share_text": "Selamat Menyambut Hari Kemerdekaan, Maghribi! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "മൊറോക്കോ സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "മൊറോക്കോ സ്വാതന്ത്ര്യദിനം 2024",
+        "share_text": "സ്വാതന്ത്ര്യ ദിനാശംസകൾ, മൊറോക്കോ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "मोरोक्कोचा स्वातंत्र्यदिन",
+        "hover_text": "मोरोक्कोचा स्वातंत्र्यदिन २०२४",
+        "share_text": "मोरोक्कोला स्वातंत्र्यदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Марокко улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2024 оны Марокко Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Марокко улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "मोरक्कोको स्वतन्त्रता दिवस",
+        "hover_text": "मोरक्कोको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, मोरक्को! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Marokkos frigjøringsdag",
+        "hover_text": "Marokkos frigjøringsdag 2024",
+        "share_text": "Gratulerer med frigjøringsdagen, Marokko! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ମୋରୋକ୍କୋର ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": null,
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, ମୋରୋକ୍କୋ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال مراکش",
+        "hover_text": "روز استقلال ۲۰۲۴ مراکش",
+        "share_text": "روز استقلال مراکش مبارک! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Niepodległości Maroka",
+        "hover_text": "Dzień Niepodległości Maroka 2024",
+        "share_text": "Maroko obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência do Marrocos",
+        "hover_text": "Dia da Independência do Marrocos 2024",
+        "share_text": "Feliz Dia da Independência, Marrocos! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência de Marrocos",
+        "hover_text": "Dia da Independência de Marrocos de 2024",
+        "share_text": "Feliz dia da independência, Marrocos! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਮੋਰੋਕੋ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ",
+        "hover_text": "ਮੋਰੱਕੋ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2024",
+        "share_text": "ਮੋਰੋਕੋ ਦੇ ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței în Maroc",
+        "hover_text": "Ziua Independenței Marocului 2024",
+        "share_text": "La mulți ani de Ziua Independenței, Maroc! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Марокко",
+        "hover_text": "День независимости Марокко – 2024",
+        "share_text": "День независимости Марокко #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Марока",
+        "hover_text": "Дан независности Марока 2024.",
+        "share_text": "Честитамо Дан независности Мороку! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Maroka",
+        "hover_text": "Dan nezavisnosti Maroka 2024.",
+        "share_text": "Čestitamo Dan nezavisnosti Moroku! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepandans Morocco",
+        "hover_text": null,
+        "share_text": "Bonn zournen lendepandans, Morocco! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "මොරොක්කෝවේ නිදහස් දිනය",
+        "hover_text": "මොරොක්කෝවේ නිදහස් දිනය 2024",
+        "share_text": "ශුභ නිදහස් දිනයක්, මොරොක්කෝව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Maroka",
+        "hover_text": "Deň nezávislosti Maroka 2024",
+        "share_text": "Šťastný Deň nezávislosti, Maroko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Maroka",
+        "hover_text": "Dan neodvisnosti Maroka 2024",
+        "share_text": "Vesel dan neodvisnosti, Maroko. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madax banaanida Moroko",
+        "hover_text": null,
+        "share_text": "Maalinta Madax banaanida Farxada leh, Moroko! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la Morocco",
+        "hover_text": null,
+        "share_text": "Thabela Letsasi la Tokoloho la Morocco! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Marruecos",
+        "hover_text": "Día de la Independencia de Marruecos 2024",
+        "share_text": "¡Feliz Día de la Independencia de Marruecos! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Moroko",
+        "hover_text": "Sikukuu ya Uhuru wa Moroko 2024",
+        "share_text": "Heri ya Sikukuu ya Uhuru, Moroko! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Marockos självständighetsdag",
+        "hover_text": "Marockos självständighetsdag 2024",
+        "share_text": "Vi firar Marockos självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "மொரோக்கோ சுதந்திர தினம்",
+        "hover_text": "மொராக்கோவின் சுதந்திர தினம் 2024",
+        "share_text": "மொரோக்கோவின் சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "మొరాకో స్వాతంత్య్ర దినోత్సవం",
+        "hover_text": "మొరాకో స్వాతంత్య్ర దినోత్సవం 2024",
+        "share_text": "స్వాతంత్య్ర దినోత్సవ శుభాకాంక్షలు, మొరాకో! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของโมร็อกโก",
+        "hover_text": "วันประกาศอิสรภาพของโมร็อกโกปี 2024",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของโมร็อกโก #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Morocco",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, Morocco! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Fas Bağımsızlık Günü",
+        "hover_text": "2024 Fas Bağımsızlık Bayramı",
+        "share_text": "Fas Bağımsızlık Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Марокко",
+        "hover_text": "День незалежності Марокко у 2024 році",
+        "share_text": "З Днем незалежності, Марокко! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "مراکش کا یوم آزادی",
+        "hover_text": "مراکش کا یوم آزادی 2024",
+        "share_text": "مراکش کا یوم آزادی مبارک ہو! ‎#GoogleDoodle"
+      },
+      "uz": {
+        "query": "Marokash mustaqillik kuni",
+        "hover_text": "Marokash Mustaqillik kuni 2024",
+        "share_text": "Mustaqillik kuning muborak, Marokash! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Morocco",
+        "hover_text": "Ngày Quốc khánh Morocco năm 2024",
+        "share_text": "Chúc mừng quốc khánh Morocco! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lokuzimela lwase-Morocco",
+        "hover_text": "Usuku Lokuzimela lwaseMorocco lwango-2024",
+        "share_text": "Usuku oluhle lokuzimela, Morocco! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Morocco Independence Day",
+    "share_text": "Happy Independence Day, Morocco! #GoogleDoodle"
+  },
+  {
+    "name": "latvia-independence-day-2024",
+    "title": "Latvia Independence Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/latvia-independence-day-2024-6753651837110322-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/bavIsApYZ6-c4DjlPt77dmMoE6S0jt_Ht5KYBXtyGFIpKU120csfitdmOUQ9QExIUPjtIH5robx3S8bIcQehhoryeP-LGotzTHRtNekiQCCJluJRDRLEAw",
+    "high_res_url": "//www.google.com/logos/doodles/2024/latvia-independence-day-2024-6753651837110322-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      11,
+      18
+    ],
+    "translations": {
+      "en": {
+        "query": "Latvia Independence Day",
+        "hover_text": "Latvia Independence Day 2024",
+        "share_text": "Happy Independence Day, Latvia! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Letland se onafhanklikheidsdag",
+        "hover_text": "Letland se Onafhanklikheidsdag 2024",
+        "share_text": "Gelukkige Onafhanklikheidsdag, Letland! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë e Letonisë",
+        "hover_text": "Dita e Pavarësisë së Letonisë, 2024",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Letoni! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የላትቪያ ነጻነት ቀን",
+        "hover_text": "የላትቪያ ነፃነት ቀን 2024",
+        "share_text": "መልካም ነጻነት ቀን ላትቪያ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال لاتفيا",
+        "hover_text": "عيد استقلال لاتفيا 2024",
+        "share_text": "عيد استقلال لاتفيا ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Լատվիայի անկախության օր",
+        "hover_text": "Լատվիայի անկախության օր 2024",
+        "share_text": "Շնորհավո՛ր Լատվիայի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Latviyanın Müstəqillik Günü",
+        "hover_text": "2024 Latviyanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Latviya! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "লাতভিয়ার স্বাধীনতা দিবস",
+        "hover_text": "লাটভিয়ার স্বাধীনতা দিবস ২০২৪",
+        "share_text": "লাতভিয়ার স্বাধীনতা দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Letoniako Independentzia Eguna",
+        "hover_text": "2024ko Letoniako Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Letonia! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Латвіі",
+        "hover_text": "Дзень незалежнасці Латвіі 2024",
+        "share_text": "З Днём незалежнасці, Латвія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Latvije",
+        "hover_text": "Dan nezavisnosti Latvije 2024.",
+        "share_text": "Sretan Dan nezavisnosti, Latvijo! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Latvia Independence Day",
+        "hover_text": "Latvia Independence Day 2024",
+        "share_text": "Happy Independence Day, Latvia! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Латвия",
+        "hover_text": "Ден на независимостта на Латвия 2024 г.",
+        "share_text": "Честит Ден на независимостта на Латвия! #GoogleDoodle"
+      },
+      "my": {
+        "query": "လတ်ဗီးယား လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ လတ်ဗီးယားနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်‌ဖွယ် လွတ်လပ်ရေးနေ့ဖြစ်ပါစေ၊ လတ်ဗီးယား။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència de Letònia",
+        "hover_text": "Dia de la Independència de Letònia 2024",
+        "share_text": "Feliç Dia de la Independència, Letònia! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "拉脫維亞獨立日",
+        "hover_text": "2024 年拉脫維亞獨立日",
+        "share_text": "拉脫維亞，獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "拉脫維亞獨立紀念日",
+        "hover_text": "2024 拉脫維亞獨立紀念日",
+        "share_text": "拉脫維亞，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "拉脱维亚独立日",
+        "hover_text": "2024 年拉脱维亚独立日",
+        "share_text": "拉脱维亚，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Latvije",
+        "hover_text": "Dan neovisnosti Latvije 2024.",
+        "share_text": "Sretan Dan neovisnosti, Latvijo! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Lotyšska",
+        "hover_text": "Den nezávislosti Lotyšska 2024",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Lotyšsko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Letlands uafhængighedsdag",
+        "hover_text": "Letlands uafhængighedsdag 2024",
+        "share_text": "Glædelig uafhængighedsdag, Letland! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Letland",
+        "hover_text": "Onafhankelijkheidsdag Letland 2024",
+        "share_text": "Fijne Onafhankelijkheidsdag, Letland! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Läti iseseisvuspäev",
+        "hover_text": "Läti 2024. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Läti! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Latvian itsenäisyyspäivä",
+        "hover_text": "Latvian itsenäisyyspäivä 2024",
+        "share_text": "Hyvää itsenäisyyspäivää, Latvia! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance de la Lettonie",
+        "hover_text": "Fête de l'Indépendance de la Lettonie 2024",
+        "share_text": "Fête de l'Indépendance de la Lettonie ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance de la Lettonie",
+        "hover_text": "Fête de l'Indépendance de la Lettonie 2024",
+        "share_text": "Joyeux jour de l'indépendance de la Lettonie! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Letonia",
+        "hover_text": "Día da Independencia de Letonia 2024",
+        "share_text": "Feliz Día da Independencia, Letonia! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ლატვიის დამოუკიდებლობის დღე",
+        "hover_text": "ლატვიის დამოუკიდებლობის დღე — 2024",
+        "share_text": "ვულოცავთ ლატვიას დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Lettland",
+        "hover_text": "Unabhängigkeitstag Lettland 2024",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Lettland! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας της Λετονίας",
+        "hover_text": "Ημέρα Ανεξαρτησίας της Λετονίας 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας της Λετονίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "લાતવિયાનો સ્વતંત્રતા દિવસ",
+        "hover_text": "લાતવિયાનો સ્વતંત્રતા દિવસ 2024",
+        "share_text": "લાતવિયાના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של לטביה",
+        "hover_text": "יום העצמאות של לטביה 2024",
+        "share_text": "יום עצמאות שמח, לטביה! ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "लैटविया का स्वतंत्रता दिवस",
+        "hover_text": "लातविया का स्वतंत्रता दिवस 2024",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, लातविया! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Lettország függetlenségének napja",
+        "hover_text": "Lettország függetlenségének napja, 2024",
+        "share_text": "Boldog függetlenség napját, Lettország! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þjóðhátíðardagur Lettlands 2019",
+        "hover_text": "Sjálfstæðisdagur Lettlands 2024",
+        "share_text": "Gleðilegan sjálfstæðisdag, Lettland! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Latvia",
+        "hover_text": "Hari Kemerdekaan Latvia 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Latvia! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse na Laitvia",
+        "hover_text": null,
+        "share_text": "Lá Saoirse na Laitvia faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza della Lettonia",
+        "hover_text": "Festa dell'indipendenza della Lettonia 2024",
+        "share_text": "Buona festa dell'indipendenza, Lettonia! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ラトビア独立記念日",
+        "hover_text": "2024 年ラトビア独立記念日",
+        "share_text": "ラトビア独立記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಲಾಟ್ವಿಯಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಲಾಟ್ವಿಯಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನ 2024",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಲಾಟ್ವಿಯಾ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Латвияның Тәуелсіздік күні",
+        "hover_text": "Латвияның Тәуелсіздік күні – 2024",
+        "share_text": "Тәуелсіздік күні құтты болсын, Латвия! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យឯករាជ្យជាតិ​ឡេតូនី",
+        "hover_text": "ទិវា​បុណ្យឯករាជ្យជាតិ​ឡេតូនី​ឆ្នាំ 2024",
+        "share_text": "អបអរទិវា​បុណ្យឯករាជ្យជាតិឡេតូនី! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "라트비아 독립기념일",
+        "hover_text": "2024년 라트비아 독립기념일",
+        "share_text": "라트비아 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Латвиянын Эгемендүүлүк күнү",
+        "hover_text": "Латвиянын Эгемендүүлүк күнү — 2024",
+        "share_text": "Эгемендүүлүк күнүң менен, Латвия! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດລັດເວຍ",
+        "hover_text": "ວັນປະກາດເອກະລາດລັດເວຍ 2024",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດລັດເວຍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Letonia",
+        "hover_text": "Día de la Independencia de Letonia 2024",
+        "share_text": "¡Feliz Día de la Independencia de Letonia! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Latvijas Neatkarības Proklamēšanas Diena",
+        "hover_text": "Latvijas Neatkarības Proklamēšanas Diena 2024",
+        "share_text": "Priecīgu Neatkarības proklamēšanas dienu, Latvija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Latvijos nepriklausomybės diena",
+        "hover_text": "Latvijos nepriklausomybės diena, 2024 m.",
+        "share_text": "Sveikiname Latviją su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Латвија",
+        "hover_text": "Ден на независноста на Латвија, 2024 г.",
+        "share_text": "Среќен Ден на независноста, Латвија! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Lativia",
+        "hover_text": null,
+        "share_text": "Tsarà fetin'ny fahaleovantena ry Lativia ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Latvia",
+        "hover_text": "Hari Kemerdekaan Latvia 2024",
+        "share_text": "Selamat Menyambut Hari Kemerdekaan, Latvia! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ലാത്വിയ സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "ലാത്വിയ സ്വാതന്ത്ര്യദിനം 2024",
+        "share_text": "സ്വാതന്ത്ര്യ ദിനാശംസകൾ, ലാത്വിയ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "लाटव्हियाचा स्वातंत्र्यदिन",
+        "hover_text": "लाटव्हियाचा स्वातंत्र्यदिन २०२४",
+        "share_text": "लात्व्हियाला स्वातंत्र्यदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Латви улсын тусгаар тогтнолын өдөр",
+        "hover_text": "2024 оны Латви Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Латви улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "लात्भिया को स्वतन्त्रता दिवस",
+        "hover_text": "लात्भियाको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, लात्भिया! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Latvias frigjøringsdag",
+        "hover_text": "Latvias frigjøringsdag 2024",
+        "share_text": "Gratulerer med frigjøringsdagen, Latvia! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଲାଟଭିଆର ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": null,
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, ଲାଟିଭିଆ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال لتونی",
+        "hover_text": "روز استقلال ۲۰۲۴ لتونی",
+        "share_text": "روز استقلال لتونی مبارک! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Niepodległości Łotwy",
+        "hover_text": "Dzień Niepodległości Łotwy 2024",
+        "share_text": "Łotwa obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência da Letônia",
+        "hover_text": "Dia da Independência da Letônia 2024",
+        "share_text": "Feliz Dia da Independência, Letônia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência da Letónia",
+        "hover_text": "Dia da Independência da Letónia de 2024",
+        "share_text": "Feliz dia da independência, Letónia! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਲਾਤਵੀਆ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ",
+        "hover_text": "ਲਾਤਵੀਆ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2024",
+        "share_text": "ਲਾਤਵੀਆ ਦੇ ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței Letoniei",
+        "hover_text": "Ziua Independenței Letoniei 2024",
+        "share_text": "La mulți ani de Ziua Independenței, Letonia! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Латвии",
+        "hover_text": "День независимости Латвии – 2024",
+        "share_text": "День независимости Латвии #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Летоније",
+        "hover_text": "Дан независности Летоније 2024.",
+        "share_text": "Честитамо Дан независности Летонији! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Letonije",
+        "hover_text": "Dan nezavisnosti Letonije 2024.",
+        "share_text": "Čestitamo Dan nezavisnosti Letoniji! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepandans Latvia",
+        "hover_text": null,
+        "share_text": "Bonn zournen lendepandans, Latvia! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ලැට්වියාවේ නිදහස් දිනය",
+        "hover_text": "ලැට්වියාවේ නිදහස් දිනය 2024",
+        "share_text": "ශුභ නිදහස් දිනයක්, ලැට්වියාව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Lotyšska",
+        "hover_text": "Deň nezávislosti Lotyšska 2024",
+        "share_text": "Šťastný Deň nezávislosti, Lotyšsko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Latvije",
+        "hover_text": "Dan neodvisnosti Latvije 2024",
+        "share_text": "Vesel dan neodvisnosti, Latvija. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madax banaanida Laatfiya",
+        "hover_text": null,
+        "share_text": "Maalinta Madax banaanida Farxada leh, Laatfiya! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la Latvia",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Tokoloho la Latvia! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Letonia",
+        "hover_text": "Día de la Independencia de Letonia 2024",
+        "share_text": "¡Feliz Día de la Independencia de Letonia! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Latvia",
+        "hover_text": "Sikukuu ya Uhuru wa Lativia 2024",
+        "share_text": "Heri ya Sikukuu ya Uhuru, Lativia! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Lettlands självständighetsdag",
+        "hover_text": "Lettlands självständighetsdag 2024",
+        "share_text": "Vi firar Lettlands självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "லாத்வியாவின் சுதந்திர தினம்",
+        "hover_text": "லாத்வியாவின் சுதந்திர தினம் 2024",
+        "share_text": "லாட்வியாவின் சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "లాట్వియా స్వాతంత్ర దినోత్సవం",
+        "hover_text": "లాట్వియా స్వాతంత్య్ర దినోత్సవం 2024",
+        "share_text": "స్వాతంత్య్ర దినోత్సవ శుభాకాంక్షలు, లాట్వియా! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของลัตเวีย",
+        "hover_text": "วันประกาศอิสรภาพของลัตเวียปี 2024",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของลัตเวีย #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Latvia",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, Latvia! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Letonya Bağımsızlık Günü",
+        "hover_text": "2024 Letonya Bağımsızlık Günü",
+        "share_text": "Letonya Bağımsızlık Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Латвії",
+        "hover_text": "День незалежності Латвії у 2024 році",
+        "share_text": "З Днем незалежності, Латвіє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "لٹویا کا یوم آزادی",
+        "hover_text": "لٹویا کا یوم آزادی 2024",
+        "share_text": "لٹویا کا یوم آزادی مبارک ہو! ‎#GoogleDoodle"
+      },
+      "uz": {
+        "query": "Latviya mustaqillik kuni",
+        "hover_text": "Latviya Mustaqillik kuni 2024",
+        "share_text": "Mustaqillik kuning muborak, Latviya! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Latvia",
+        "hover_text": "Ngày Quốc khánh Latvia năm 2024",
+        "share_text": "Chúc mừng quốc khánh Latvia! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lokuzimela lwase-Latvia",
+        "hover_text": "Usuku Lokuzimela lwaseLatvia lwango-2024",
+        "share_text": "Sinifisela usuku oluhle lokuzimela, Latvia! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Latvia Independence Day",
+    "share_text": "Happy Independence Day, Latvia! #GoogleDoodle"
+  },
+  {
+    "name": "celebrating-anni-albers",
+    "title": "Celebrating Anni Albers",
+    "url": "//www.google.com/logos/doodles/2024/celebrating-anni-albers-6753651837110337.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/W6jOlLfh3h_U4cPyaySQfUBaPCyJRn8yz1iKvxOjh66T0Er7y9heveSGNmxpzAbBaPMrAOe0diM7bGC3c0WhyLteQxKMiuCZ4K-n0dpd-1zVcA2Y84ygkQ",
+    "high_res_url": "//www.google.com/logos/doodles/2024/celebrating-anni-albers-6753651837110337.2-2xa.gif",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2024,
+      11,
+      18
+    ],
+    "translations": {
+      "en": {
+        "query": "Anni Albers",
+        "hover_text": "Celebrating Anni Albers",
+        "share_text": "Celebrating Anni Albers! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Anni Albers",
+        "hover_text": "Ter viering van Anni Albers",
+        "share_text": "Ter viering van Anni Albers! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Anni Albers",
+        "hover_text": "Përkujtojmë Anni Albers",
+        "share_text": "Përkujtojmë Anni Albers! #GoogleDoodle"
+      },
+      "am": {
+        "query": "አኒ አልበርስ",
+        "hover_text": "አኒ አልበርስን በማክበር ላይ",
+        "share_text": "አኒ አልበርስን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "\"أنّي ألبيرز\"",
+        "hover_text": "نحتفل اليوم بذكرى \"أنّي ألبيرز\"",
+        "share_text": "نحتفل اليوم بذكرى \"أنّي ألبيرز\"! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Աննի Ալբերս",
+        "hover_text": "Տոնենք Աննի Ալբերսի օրը",
+        "share_text": "Տոնենք Աննի Ալբերսի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Anni Albers",
+        "hover_text": "Anni Albers günü",
+        "share_text": "Anni Albers günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "অ্যানি অ্যালবার্স",
+        "hover_text": "অ্যানি অ্যালবার্সের স্মরণে উদযাপন করা হচ্ছে",
+        "share_text": "অ্যানি অ্যালবার্সের স্মরণে উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Anni Albers",
+        "hover_text": "Anni Albersen omenez",
+        "share_text": "Anni Albersen omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Ані Альберс",
+        "hover_text": "Ушаноўваем Ані Альберс",
+        "share_text": "Ушаноўваем Ані Альберс! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Anni Albers",
+        "hover_text": "Slavimo Anni Albers",
+        "share_text": "Slavimo Anni Albers! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Anni Albers",
+        "hover_text": "Celebrating Anni Albers",
+        "share_text": "Celebrating Anni Albers #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ани Алберс",
+        "hover_text": "Честване на Ани Алберс",
+        "share_text": "Честване на Ани Алберс! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Anni Albers",
+        "hover_text": "Anni Albers ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "Anni Albers ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Anni Albers",
+        "hover_text": "Homenatge a Anni Albers",
+        "share_text": "Homenatge a Anni Albers #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Anni Albers",
+        "hover_text": "紀念 Anni Albers",
+        "share_text": "紀念 Anni Albers！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "安妮亞伯斯",
+        "hover_text": "紀念安妮亞伯斯",
+        "share_text": "紀念安妮亞伯斯！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "安妮·阿尔伯斯",
+        "hover_text": "纪念安妮·阿尔伯斯",
+        "share_text": "纪念安妮·阿尔伯斯！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Anni Albers",
+        "hover_text": "U čast Anni Albers",
+        "share_text": "U čast Anni Albers! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Anni Albers",
+        "hover_text": "Pocta Anně Albers",
+        "share_text": "Dnes oslavujeme Anni Albers! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Anni Albers",
+        "hover_text": "Vi hylder Anni Albers",
+        "share_text": "Vi hylder Anni Albers #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Anni Albers",
+        "hover_text": "Doodle ter ere van Anni Albers",
+        "share_text": "Doodle ter ere van Anni Albers! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Anni Albers",
+        "hover_text": "Mälestame Anni Albersit",
+        "share_text": "Mälestame Anni Albersit! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Anni Albers",
+        "hover_text": "Anni Albers",
+        "share_text": "Anni Albers #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Anni Albers",
+        "hover_text": "Hommage à Anni Albers",
+        "share_text": "Hommage à Anni Albers ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Anni Albers",
+        "hover_text": "Célébration d'Anni Albers",
+        "share_text": "Célébration d'Anni Albers! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Anni Albers",
+        "hover_text": "Homenaxe a Anni Albers",
+        "share_text": "Homenaxe a Anni Albers! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ანი ალბერსი",
+        "hover_text": "აღვნიშნავთ ანი ალბერსის დღეს",
+        "share_text": "აღვნიშნავთ ანი ალბერსის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Anni Albers",
+        "hover_text": "Zu Ehren von Anni Albers",
+        "share_text": "Zu Ehren von Anni Albers #GoogleDoodle"
+      },
+      "el": {
+        "query": "Anni Albers",
+        "hover_text": "Τιμούμε την Anni Albers",
+        "share_text": "Τιμούμε την Anni Albers! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ઍની એલ્બર્સ",
+        "hover_text": "ઍની એલ્બર્સની યાદમાં",
+        "share_text": "ઍની એલ્બર્સની યાદમાં! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "אנני אלברס",
+        "hover_text": "מחווה לאנני אלברס",
+        "share_text": "מחווה לאנני אלברס GoogleDoodle#"
+      },
+      "hi": {
+        "query": "एनी अल्बर्स",
+        "hover_text": "एनी अल्बर्स की याद में",
+        "share_text": "एनी अल्बर्स की याद में! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Anni Albers",
+        "hover_text": "Anni Albers ünneplése",
+        "share_text": "Anni Albers ünneplése. #GoogleDoodle"
+      },
+      "is": {
+        "query": "Anni Albers",
+        "hover_text": "Við heiðrum Anni Albers",
+        "share_text": "Við heiðrum Anni Albers! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Anni Albers",
+        "hover_text": "Mengenang Anni Albers",
+        "share_text": "Mengenang Anni Albers #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Anni Albers",
+        "hover_text": "In onore di Anni Albers",
+        "share_text": "In onore di Anni Albers! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "アンニ・アルバース",
+        "hover_text": "アンニ・アルバースを称えて",
+        "share_text": "アンニ・アルバースを称えて #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಅನ್ನಿ ಆಲ್ಬರ್ಸ್",
+        "hover_text": "ಅನ್ನಿ ಆಲ್ಬರ್ಸ್ ಅವರನ್ನು ಸ್ಮರಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಅನ್ನಿ ಆಲ್ಬರ್ಸ್ ಅವರನ್ನು ಸ್ಮರಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Анни Альберс",
+        "hover_text": "Анни Альберс күні",
+        "share_text": "Анни Альберс күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Anni Albers",
+        "hover_text": "អបអរទិវារំលឹកដល់ Anni Albers",
+        "share_text": "អបអរទិវារំលឹកដល់ Anni Albers! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "Anni Albers",
+        "hover_text": "Anni Albers를 기억하며",
+        "share_text": "Anni Albers를 기억하며 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Энни Альберс",
+        "hover_text": "Энни Альберс күнүн майрамдоо",
+        "share_text": "Энни Альберс күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Anni Albers",
+        "hover_text": "ວັນລະນຶກເຖິງ Anni Albers",
+        "share_text": "ວັນລະນຶກເຖິງ Anni Albers! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Anni Albers",
+        "hover_text": "Celebrando a Anni Albers",
+        "share_text": "¡Celebrando a Anni Albers! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Annija Albersa",
+        "hover_text": "Annijas Albersas godināšana",
+        "share_text": "Annijas Albersas godināšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Anni Albers",
+        "hover_text": "Anni Albers minėjimas",
+        "share_text": "Anni Albers minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Anni Albers",
+        "hover_text": "Во чест на Anni Albers",
+        "share_text": "Во чест на Anni Albers! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Anni Albers",
+        "hover_text": "Meraikan Anni Albers",
+        "share_text": "Meraikan Anni Albers! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Anni Albers",
+        "hover_text": "Anni Albers-നെ ആദരിക്കുന്നു",
+        "share_text": "Anni Albers-നെ ആദരിക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "ॲनी ॲल्बर्स",
+        "hover_text": "ॲनी ॲल्बर्स यांच्या स्मरणार्थ",
+        "share_text": "ॲनी ॲल्बर्स यांच्या स्मरणार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Анни Алберс",
+        "hover_text": "Анни Алберсын өдрийг тэмдэглэж байна",
+        "share_text": "Анни Алберсын өдрийг тэмдэглэж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Anni Albers",
+        "hover_text": "Anni Albers को सम्झना",
+        "share_text": "Anni Albers को सम्झना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Anni Albers",
+        "hover_text": "Vi minnes Anni Albers",
+        "share_text": "Vi minnes Anni Albers! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "آنی آلبرز",
+        "hover_text": "بزرگداشت آنی آلبرز",
+        "share_text": "بزرگداشت آنی آلبرز! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Anni Albers",
+        "hover_text": "Wspominamy Anni Albers",
+        "share_text": "Wspominamy Anni Albers #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Anni Albers",
+        "hover_text": "Celebração da vida de Anni Albers",
+        "share_text": "Celebração da vida de Anni Albers #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Anni Albers",
+        "hover_text": "Celebração de Anni Albers",
+        "share_text": "Celebração de Anni Albers! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Anni Albers",
+        "hover_text": "ਐਨੀ ਐਲਬਰਸ ਦੀ ਯਾਦ ਵਿੱਚ",
+        "share_text": "ਐਨੀ ਐਲਬਰਸ ਦੀ ਯਾਦ ਵਿੱਚ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Anni Albers",
+        "hover_text": "În cinstea lui Anni Albers",
+        "share_text": "În cinstea lui Anni Albers! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Анни Альберс",
+        "hover_text": "День Анни Альберс",
+        "share_text": "День Анни Альберс #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Ани Алберс",
+        "hover_text": "Славимо Ани Алберс",
+        "share_text": "Славимо Ани Алберс! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Ani Albers",
+        "hover_text": "Slavimo Ani Albers",
+        "share_text": "Slavimo Ani Albers! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ඇනි ඇල්බර්ස්",
+        "hover_text": "ඇනි ඇල්බර්ස් සැමරීම",
+        "share_text": "ඇනි ඇල්බර්ස් සැමරීම! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Anni Albersová",
+        "hover_text": "Pripomíname si Anni Albersovú",
+        "share_text": "Pripomíname si Anni Albersovú. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Anni Albers",
+        "hover_text": "Slavimo Anni Albers",
+        "share_text": "Slavimo Anni Albers! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Anni Albers",
+        "hover_text": "Homenaje a Anni Albers",
+        "share_text": "Hoy rendimos homenaje a Anni Albers #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Anni Albers",
+        "hover_text": "Tunamwenzi Anni Albers",
+        "share_text": "Tunamwenzi Anni Albers! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Anni Albers",
+        "hover_text": "Vi hyllar Anni Albers",
+        "share_text": "Vi hyllar Anni Albers #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "அன்னி ஆல்பர்ஸ்",
+        "hover_text": "அன்னி ஆல்பர்ஸைக் கொண்டாடுவோம்",
+        "share_text": "அன்னி ஆல்பர்ஸைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఆనీ ఆల్బర్స్",
+        "hover_text": "ఆనీ ఆల్బర్స్ వేడుకలు",
+        "share_text": "ఆనీ ఆల్బర్స్ వేడుకలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "Anni Albers",
+        "hover_text": "วันรำลึกถึง Anni Albers",
+        "share_text": "วันรำลึกถึง Anni Albers #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Anni Albers",
+        "hover_text": "Anni Albers'i Anıyoruz",
+        "share_text": "Anni Albers'i anıyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Анні Альберс",
+        "hover_text": "Ушановуємо Анні Альберс",
+        "share_text": "Ушановуємо Анні Альберс! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Anni Albers",
+        "hover_text": "Anni Albers کی یاد میں",
+        "share_text": "Anni Albers کی یاد میں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Anni Albers",
+        "hover_text": "Anni Albers kuni",
+        "share_text": "Anni Albers! kuni #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Anni Albers",
+        "hover_text": "Tôn vinh Anni Albers",
+        "share_text": "Tôn vinh Anni Albers! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "U-Anni Alberts",
+        "hover_text": "Sibungaza u-Anni Albers",
+        "share_text": "Sibungaza u-Anni Albers! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Anni Albers",
+    "share_text": "Celebrating Anni Albers! #GoogleDoodle"
+  },
+  {
+    "name": "oman-national-day-2024",
+    "title": "Oman National Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/oman-national-day-2024-6753651837110324-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/G8vGRunODbh5VbG7DtDTJ44ZOOYewnby-U1-3qYMTQIkFQb62-TCSd6Y0-AC42tQ_ri1TBkruR8Wor9dT201QgGHkviU4Wh1Tn2btbLFXdOB8AOTd0gtMA",
+    "high_res_url": "//www.google.com/logos/doodles/2024/oman-national-day-2024-6753651837110324-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      11,
+      18
+    ],
+    "translations": {
+      "en": {
+        "query": "Oman National Day",
+        "hover_text": "Oman National Day 2024",
+        "share_text": "Happy National Day, Oman! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Oman se nasionale dag",
+        "hover_text": "Oman se Nasionale dag 2024",
+        "share_text": "Gelukkige nasionale dag, Oman! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita Kombëtare e Omanit",
+        "hover_text": "Dita Kombëtare e Omanit, 2024",
+        "share_text": "Gëzuar Festën Kombëtare, Oman! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የኦማን ብሔራዊ ቀን",
+        "hover_text": "የኦማን ብሔራዊ ቀን 2024",
+        "share_text": "መልካም ብሔራዊ ቀን ኦማን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "العيد الوطني لعُمان",
+        "hover_text": "العيد الوطني لعُمان 2024",
+        "share_text": "العيد الوطني لسلطنة عُمان ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Օմանի ազգային տոն",
+        "hover_text": "Օմանի ազգային տոն 2024",
+        "share_text": "Շնորհավո՛ր Օմանի ազգային տոնը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Omanın Müstəqillik Günü",
+        "hover_text": "2024 Omanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Oman! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ওমানের জাতীয় দিবস",
+        "hover_text": "ওমানের জাতীয় দিবস ২০২৪",
+        "share_text": "ওমানের জাতীয় দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Omango Egun Nazionala",
+        "hover_text": "2024ko Omango Egun Nazionala",
+        "share_text": "Egun Nazional zoriontsua izan, Oman! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Нацыянальны дзень Амана",
+        "hover_text": "Нацыянальны дзень Амана 2024",
+        "share_text": "З Нацыянальным днём, Аман! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan državnosti Omana",
+        "hover_text": "Dan državnosti Omana 2024.",
+        "share_text": "Sretan Dan državnosti, Omane! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Oman National Day",
+        "hover_text": "Oman National Day 2024",
+        "share_text": "Happy National Day, Oman! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Национален празник на Оман",
+        "hover_text": "Национален празник на Оман 2024 г.",
+        "share_text": "Честит национален празник на Оман! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အိုမန် အမျိုးသားနေ့",
+        "hover_text": "၂၀၂၄ အိုမန်နိုင်ငံ အမျိုးသားနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် အမျိုးသားနေ့ဖြစ်ပါစေ၊ အိုမန်။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia Nacional d'Oman",
+        "hover_text": "Dia Nacional d'Oman 2024",
+        "share_text": "Feliç Dia Nacional, Oman! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "阿曼國慶日",
+        "hover_text": "2024 年阿曼國慶日",
+        "share_text": "阿曼，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "阿曼國慶日",
+        "hover_text": "2024 阿曼國慶日",
+        "share_text": "阿曼，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "阿曼国庆日",
+        "hover_text": "2024 年阿曼国庆节",
+        "share_text": "阿曼，国庆日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan državnosti Omana",
+        "hover_text": "Dan državnosti Omana 2024.",
+        "share_text": "Sretan Dan državnosti, Omane! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Státní svátek Ománu",
+        "hover_text": "Den ománské státnosti 2024",
+        "share_text": "Vše nejlepší ke státnímu svátku, Ománe! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Omans nationaldag",
+        "hover_text": "Omans nationaldag 2024",
+        "share_text": "Glædelig nationaldag, Oman! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Nationale feestdag Oman",
+        "hover_text": "Nationale feestdag Oman 2024",
+        "share_text": "Fijne nationale feestdag, Oman! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Omaani rahvuspüha",
+        "hover_text": "Omaani 2024. aasta rahvuspüha",
+        "share_text": "Head rahvuspüha, Omaan! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Omanin kansallispäivä",
+        "hover_text": "Omanin kansallispäivä 2024",
+        "share_text": "Hyvää kansallispäivää, Oman! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête nationale d'Oman",
+        "hover_text": "Fête nationale d'Oman 2024",
+        "share_text": "Fête nationale d'Oman ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête nationale d'Oman",
+        "hover_text": "Fête nationale d'Oman 2024",
+        "share_text": "Joyeuse fête nationale d'Oman! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día Nacional de Omán",
+        "hover_text": "Día Nacional de Omán 2024",
+        "share_text": "Feliz Día Nacional, Omán! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ომანის ეროვნული დღესასწაული",
+        "hover_text": "ომანის ეროვნული დღესასწაული — 2024",
+        "share_text": "ვულოცავთ ომანს ეროვნულ დღესასწაულს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Nationalfeiertag Oman",
+        "hover_text": "Nationalfeiertag Oman 2024",
+        "share_text": "Alles Gute zum Nationalfeiertag in Oman! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Εθνική Ημέρα Ομάν",
+        "hover_text": "Εθνική Ημέρα του Ομάν 2024",
+        "share_text": "Γιορτάζουμε την Εθνική Ημέρα του Ομάν! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ઓમાનનો રાષ્ટ્રીય દિવસ",
+        "hover_text": "ઓમાનનો રાષ્ટ્રીય દિવસ 2024",
+        "share_text": "ઓમાનના રાષ્ટ્રીય દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "החג הלאומי של עומאן",
+        "hover_text": "החג הלאומי של עומאן 2024",
+        "share_text": "חג לאומי שמח עומאן! ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "ओमान का राष्ट्रीय दिवस",
+        "hover_text": "ओमान का राष्ट्रीय दिवस 2024",
+        "share_text": "राष्ट्रीय दिवस की शुभकामनाएं, ओमान! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Omán nemzeti ünnepe",
+        "hover_text": "Omán nemzeti ünnepe, 2024",
+        "share_text": "Minden jót Omán nemzeti ünnepén! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þjóðhátíðardagur Óman",
+        "hover_text": "Þjóðhátíðardagur Óman 2024",
+        "share_text": "Gleðilegan þjóðhátíðardag, Óman! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Nasional Oman",
+        "hover_text": "Hari Nasional Oman 2024",
+        "share_text": "Selamat Hari Nasional, Oman! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Náisiúnta Óman",
+        "hover_text": null,
+        "share_text": "Lá Náisiúnta Óman faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa nazionale dell'Oman",
+        "hover_text": "Festa nazionale dell'Oman 2024",
+        "share_text": "Buona festa nazionale, Oman! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "オマーン建国記念日",
+        "hover_text": "2024 年オマーン建国記念日",
+        "share_text": "オマーン建国記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಓಮನ್ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಓಮನ್ ರಾಷ್ಟ್ರೀಯ ದಿನ 2024",
+        "share_text": "ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಓಮನ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Оманның Ұлттық күні",
+        "hover_text": "Оманның Ұлттық күні – 2024",
+        "share_text": "Ұлттық күн құтты болсын, Оман! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាបុណ្យជាតិ​អូម៉ង់",
+        "hover_text": "ទិវា​បុណ្យជាតិ​អូម៉ង់​ឆ្នាំ 2024",
+        "share_text": "អបអរទិវាបុណ្យជាតិអូម៉ង់! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "오만 국경일",
+        "hover_text": "2024년 오만 국경일",
+        "share_text": "오만 국경일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Омандын Улуттук күнү",
+        "hover_text": "Омандын Улуттук күнү — 2024",
+        "share_text": "Улуттук күнүң менен, Оман! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຊາດໂອມານ",
+        "hover_text": "ວັນຊາດໂອມານ 2024",
+        "share_text": "ສຸກສັນວັນຊາດໂອມານ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día Nacional de Omán",
+        "hover_text": "Día Nacional de Omán 2024",
+        "share_text": "¡Feliz Día Nacional de Omán! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Omānas nacionālie svētki",
+        "hover_text": "Omānas Nacionālie svētki — 2024",
+        "share_text": "Sveicam nacionālajos svētkos, Omāna! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Omano nacionalinė diena",
+        "hover_text": "Omano nacionalinė diena, 2024 m.",
+        "share_text": "Sveikiname Omaną su Nacionaline diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на државноста на Оман",
+        "hover_text": "Ден на државноста на Оман, 2024 г.",
+        "share_text": "Среќен Ден на државноста, Оман! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetim-pirenena Omàna",
+        "hover_text": null,
+        "share_text": "Tsarà Fetim-pirenena ry Omàna ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kebangsaan Oman",
+        "hover_text": "Hari Kebangsaan Oman 2024",
+        "share_text": "Selamat Hari Kebangsaan, Oman! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഒമാൻ ദേശീയ ദിനം",
+        "hover_text": "ഒമാൻ ദേശീയ ദിനം 2024",
+        "share_text": "ദേശീയ ദിനാശംസകൾ, ഒമാൻ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "ओमानचा राष्ट्रीय दिन",
+        "hover_text": "ओमानचा राष्ट्रीय दिन २०२४",
+        "share_text": "ओमानला राष्ट्रीय दिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Оман улсын Үндэсний баярын өдөр",
+        "hover_text": "2024 оны Оман Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Оман улсын ард иргэдэд Үндэсний баярын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "ओमानको राष्ट्रिय दिवस",
+        "hover_text": "ओमानको राष्ट्रिय दिवस २०२४",
+        "share_text": "राष्ट्रिय दिवसको शुभकामना, ओमान! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Omans nasjonaldag",
+        "hover_text": "Omans nasjonaldag 2024",
+        "share_text": "Gratulerer med nasjonaldagen, Oman! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଓମାନର ରାଷ୍ଟ୍ରୀୟ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ରାଷ୍ଟ୍ରୀୟ ଦିବସର ଶୁଭେଚ୍ଛା, ଓମାନ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز ملی عمان",
+        "hover_text": "روز ملی ۲۰۲۴ عمان",
+        "share_text": "روز ملی عمان مبارک! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto narodowe Omanu",
+        "hover_text": "Święto Narodowe Omanu 2024",
+        "share_text": "Oman obchodzi Święto Narodowe #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia Nacional do Omã",
+        "hover_text": "Dia Nacional do Omã 2024",
+        "share_text": "Feliz Dia Nacional, Omã! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia nacional de Omã",
+        "hover_text": "Dia Nacional de Omã de 2024",
+        "share_text": "Feliz dia nacional, Omã! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਓਮਾਨ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ",
+        "hover_text": "ਓਮਾਨ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ 2024",
+        "share_text": "ਓਮਾਨ ਦੇ ਰਾਸ਼ਟਰੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Națională a Omanului",
+        "hover_text": "Ziua Națională a Omanului 2024",
+        "share_text": "Ziua Națională în Oman #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Национальный праздник Омана",
+        "hover_text": "Национальный праздник Омана – 2024",
+        "share_text": "Национальный праздник Омана #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан државности Омана",
+        "hover_text": "Дан државности Омана 2024.",
+        "share_text": "Честитамо Дан државности Оману! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan državnosti Omana",
+        "hover_text": "Dan državnosti Omana 2024.",
+        "share_text": "Čestitamo Dan državnosti Omanu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Nasyonal Oman",
+        "hover_text": null,
+        "share_text": "Bonn zournen nasyonal, Oman! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ඕමානයේ ජාතික දිනය",
+        "hover_text": "ඕමානයේ ජාතික දිනය 2024",
+        "share_text": "ශුභ ජාතික දිනයක්, ඕමානය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Štátny sviatok Ománu",
+        "hover_text": "Národný deň Ománu 2024",
+        "share_text": "Šťastný štátny sviatok, Omán! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan državnosti Omana",
+        "hover_text": "Dan državnosti Omana 2024",
+        "share_text": "Vesel dan državnosti, Oman. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Qaranka Cumaan",
+        "hover_text": null,
+        "share_text": "Maalinta Qaranka Farxada leh, Cumaan! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Naha la Oman",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Naha, Oman! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día Nacional de Omán",
+        "hover_text": "Día Nacional de Omán 2024",
+        "share_text": "¡Feliz Día Nacional de Omán! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Kitaifa ya Omani",
+        "hover_text": "Sikukuu ya Kitaifa ya Omani 2024",
+        "share_text": "Heri ya Sikukuu ya Kitaifa, Omani! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Omans nationaldag",
+        "hover_text": "Omans nationaldag 2024",
+        "share_text": "Vi firar Omans nationaldag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஓமன் தேசிய தினம்",
+        "hover_text": "ஓமன் தேசிய தினம் 2024",
+        "share_text": "ஓமனின் தேசிய தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఒమన్ జాతీయ దినోత్సవం",
+        "hover_text": "ఒమన్ జాతీయ దినోత్సవం 2024",
+        "share_text": "జాతీయ దినోత్సవ శుభాకాంక్షలు, ఒమన్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันชาติโอมาน",
+        "hover_text": "วันชาติโอมานปี 2024",
+        "share_text": "สุขสันต์วันชาติโอมาน #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Setšhaba la Oman",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Setšhaba, Oman! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Umman Ulusal Günü",
+        "hover_text": "2024 Umman Ulusal Günü",
+        "share_text": "Umman Ulusal Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Національний день Оману",
+        "hover_text": "Національний день Оману у 2024 році",
+        "share_text": "З Національним днем, Омане! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "عمان کا قومی دن",
+        "hover_text": "عمان کا قومی دن 2024",
+        "share_text": "عمان کا قومی دن مبارک ہو! ‎#GoogleDoodle"
+      },
+      "uz": {
+        "query": "Ummon milliy bayrami",
+        "hover_text": "Ummon Milliy bayrami 2024",
+        "share_text": "Ummon milliy bayrami muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Oman",
+        "hover_text": "Ngày Quốc khánh Oman năm 2024",
+        "share_text": "Chúc mừng quốc khánh Oman! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lezwe lase-Oman",
+        "hover_text": "Usuku Lezwe lwase-Oman lwango-2024",
+        "share_text": "Usuku oluhle lezwe, Oman! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Oman National Day",
+    "share_text": "Happy National Day, Oman! #GoogleDoodle"
+  },
+  {
     "name": "slovakia-freedom-and-democracy-day-2024",
     "title": "Slovakia Freedom and Democracy Day 2024",
     "url": "//www.google.com/logos/doodles/2024/slovakia-freedom-and-democracy-day-2024-6753651837110321-law.gif",
@@ -1017,152 +3013,152 @@
         "share_text": "Celebrating the Kayak! #GoogleDoodle"
       },
       "af": {
-        "query": "Kajak",
+        "query": null,
         "hover_text": "Ter viering van die kajak",
         "share_text": "Ter viering van die kajak! #GoogleDoodle"
       },
       "sq": {
-        "query": "Kaike",
+        "query": null,
         "hover_text": "Festojmë për kaiken",
         "share_text": "Festojmë për kaiken! #GoogleDoodle"
       },
       "am": {
-        "query": "ካያክ",
+        "query": null,
         "hover_text": "ካያክን በማክበር ላይ",
         "share_text": "ካያክን በማክበር ላይ! #GoogleDoodle"
       },
       "ar": {
-        "query": "قارب كاياك",
+        "query": null,
         "hover_text": "نحتفل اليوم بقارب الكاياك",
         "share_text": "نحتفل اليوم بقارب الكاياك! ‎#GoogleDoodle"
       },
       "hy": {
-        "query": "Կայակ",
+        "query": null,
         "hover_text": "Տոնենք կայակի օրը",
         "share_text": "Տոնենք կայակի օրը #GoogleDoodle"
       },
       "az": {
-        "query": "Qayıq yarışı",
+        "query": null,
         "hover_text": "Qayıq yarışı günü",
         "share_text": "Qayıq yarışı günü! #GoogleDoodle"
       },
       "bn": {
-        "query": "কায়াক",
+        "query": null,
         "hover_text": "কায়াকের ঐতিহ্য উদযাপন করা হচ্ছে",
         "share_text": "কায়াকের ঐতিহ্য উদযাপন করা হচ্ছে! #GoogleDoodle"
       },
       "eu": {
-        "query": "Kayaka",
+        "query": null,
         "hover_text": "Kayakaren omenez",
         "share_text": "Kayakaren omenez #GoogleDoodle"
       },
       "be": {
-        "query": "Байдарка",
+        "query": null,
         "hover_text": "Ушаноўваем байдарку",
         "share_text": "Ушаноўваем байдарку! #GoogleDoodle"
       },
       "bs": {
-        "query": "Kajak",
+        "query": null,
         "hover_text": "Slavimo kajak",
         "share_text": "Slavimo kajak! #GoogleDoodle"
       },
       "en-GB": {
-        "query": "Kayak",
+        "query": null,
         "hover_text": "Celebrating the Kayak",
         "share_text": "Celebrating the Kayak! #GoogleDoodle"
       },
       "bg": {
-        "query": "Каяк",
+        "query": null,
         "hover_text": "Честване на каяка",
         "share_text": "Честване на каяка! #GoogleDoodle"
       },
       "my": {
-        "query": "ကယပ်လှေ",
+        "query": null,
         "hover_text": "ကယပ်လှေကို ဂုဏ်ပြုခြင်း",
         "share_text": "ကယပ်လှေကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
       },
       "ca": {
-        "query": "Caiac",
+        "query": null,
         "hover_text": "Homenatge al caiac",
         "share_text": "Homenatge al caiac #GoogleDoodle"
       },
       "zh-HK": {
-        "query": "獨木舟",
+        "query": null,
         "hover_text": "坐在獨木舟上乘風破浪",
         "share_text": "坐在獨木舟上乘風破浪！#GoogleDoodle"
       },
       "zh-TW": {
-        "query": "獨木舟",
+        "query": null,
         "hover_text": "紀念獨木舟問世",
         "share_text": "紀念獨木舟問世！#GoogleDoodle"
       },
       "zh-CN": {
-        "query": "皮艇",
+        "query": null,
         "hover_text": "实用又轻巧的皮艇",
         "share_text": "实用又轻巧的皮艇！#GoogleDoodle"
       },
       "hr": {
-        "query": "Kajak",
+        "query": null,
         "hover_text": "Slavimo kajak",
         "share_text": "Slavimo kajak! #GoogleDoodle"
       },
       "cs": {
-        "query": "Kajak",
+        "query": null,
         "hover_text": "Oslavujeme kajak",
         "share_text": "Oslavujeme kajak! #GoogleDoodle"
       },
       "da": {
-        "query": "Kajak",
+        "query": null,
         "hover_text": "En hyldest til kajakken",
         "share_text": "En hyldest til kajakken #GoogleDoodle"
       },
       "nl": {
-        "query": "Kajak",
+        "query": null,
         "hover_text": "Doodle ter ere van de kajak",
         "share_text": "Een doodle ter ere van de kajak! #GoogleDoodle"
       },
       "et": {
-        "query": "Süst",
+        "query": null,
         "hover_text": "Tunneme rõõmu süstast",
         "share_text": "Tunneme rõõmu süstast! #GoogleDoodle"
       },
       "fi": {
-        "query": "Kajakki",
+        "query": null,
         "hover_text": "Kajakki",
         "share_text": "Kajakki #GoogleDoodle"
       },
       "fr": {
-        "query": "Kayak",
+        "query": null,
         "hover_text": "Le kayak à l'honneur",
         "share_text": "Le kayak à l'honneur ! #GoogleDoodle"
       },
       "fr-CA": {
-        "query": "Kayak",
+        "query": null,
         "hover_text": "Célébration du kayak",
         "share_text": "Célébration du kayak! #GoogleDoodle"
       },
       "gl": {
-        "query": "Caiac",
+        "query": null,
         "hover_text": "Homenaxe ao caiac",
         "share_text": "Homenaxe ao caiac! #GoogleDoodle"
       },
       "ka": {
-        "query": "კაიაკი",
+        "query": null,
         "hover_text": "აღვნიშნავთ კაიაკის დღეს",
         "share_text": "აღვნიშნავთ კაიაკის დღეს! #GoogleDoodle"
       },
       "de": {
-        "query": "Kajak",
+        "query": null,
         "hover_text": "Wir feiern die Erfindung des Kajaks",
         "share_text": "Wir feiern die Erfindung des Kajaks #GoogleDoodle"
       },
       "el": {
-        "query": "Καγιάκ",
+        "query": null,
         "hover_text": "Τιμούμε το Καγιάκ",
         "share_text": "Τιμούμε το Καγιάκ! #GoogleDoodle"
       },
       "gu": {
-        "query": "કાયાક",
+        "query": null,
         "hover_text": "કાયાકની યાદમાં",
         "share_text": "કાયાકની યાદમાં! #GoogleDoodle"
       },
@@ -1172,27 +3168,27 @@
         "share_text": ""
       },
       "iw": {
-        "query": "קיאק",
+        "query": null,
         "hover_text": "מחווה לקיאק",
         "share_text": "מחווה לקיאק GoogleDoodle#"
       },
       "hi": {
-        "query": "कायाक",
+        "query": null,
         "hover_text": "कायाक का जश्न",
         "share_text": "कायाक का जश्न! #GoogleDoodle"
       },
       "hu": {
-        "query": "Kajak",
+        "query": null,
         "hover_text": "A kajak ünneplése",
         "share_text": "A kajak ünneplése. #GoogleDoodle"
       },
       "is": {
-        "query": "Kajak",
+        "query": null,
         "hover_text": "Við fögnum kajaknum",
         "share_text": "Við fögnum kajaknum! #GoogleDoodle"
       },
       "id": {
-        "query": "Kayak",
+        "query": null,
         "hover_text": "Merayakan Kayak",
         "share_text": "Merayakan Kayak #GoogleDoodle"
       },
@@ -1202,62 +3198,62 @@
         "share_text": ""
       },
       "it": {
-        "query": "Kayak",
+        "query": null,
         "hover_text": "Un omaggio al kayak",
         "share_text": "Un omaggio al kayak! #GoogleDoodle"
       },
       "ja": {
-        "query": "カヤック",
+        "query": null,
         "hover_text": "カヤックを称えて",
         "share_text": "カヤックを称えて #GoogleDoodle"
       },
       "kn": {
-        "query": "ಕಯಾಕ್",
+        "query": null,
         "hover_text": "ಕಯಾಕ್ ಅನ್ನು ಸಂಭ್ರಮಿಸಲಾಗುತ್ತಿದೆ",
         "share_text": "ಕಯಾಕ್ ಅನ್ನು ಸಂಭ್ರಮಿಸಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
       },
       "kk": {
-        "query": "Каяк",
+        "query": null,
         "hover_text": "Каяк күні",
         "share_text": "Каяк күні құтты болсын! #GoogleDoodle"
       },
       "km": {
-        "query": "ទូកកាយ៉ាក់",
+        "query": null,
         "hover_text": "អបអរទិវារំលឹកទូកកាយ៉ាក់",
         "share_text": "អបអរទិវារំលឹកទូកកាយ៉ាក់! #GoogleDoodle"
       },
       "ko": {
-        "query": "카약",
+        "query": null,
         "hover_text": "카약 기념",
         "share_text": "카약 기념 #GoogleDoodle"
       },
       "ky": {
-        "query": "Кайак",
+        "query": null,
         "hover_text": "Кайак күнүн майрамдоо",
         "share_text": "Кайак күнүн майрамдоо! #GoogleDoodle"
       },
       "lo": {
-        "query": "ເຮືອຄາຍັກ",
+        "query": null,
         "hover_text": "ວັນສະເຫຼີມສະຫຼອງເຮືອຄາຍັກ",
         "share_text": "ວັນສະເຫຼີມສະຫຼອງເຮືອຄາຍັກ! #GoogleDoodle"
       },
       "es-419": {
-        "query": "Kayak",
+        "query": null,
         "hover_text": "Celebrando el kayak",
         "share_text": "Celebrando el kayak #GoogleDoodle"
       },
       "lv": {
-        "query": "Kajaks",
+        "query": null,
         "hover_text": "Kajaka godināšana",
         "share_text": "Kajaka godināšana! #GoogleDoodle"
       },
       "lt": {
-        "query": "Plaukimas baidarėmis",
+        "query": null,
         "hover_text": "Plaukimo baidarėmis minėjimas",
         "share_text": "Plaukimo baidarėmis minėjimas! #GoogleDoodle"
       },
       "mk": {
-        "query": "Кајак",
+        "query": null,
         "hover_text": "Во чест на кајакот",
         "share_text": "Во чест на кајакот! #GoogleDoodle"
       },
@@ -1267,12 +3263,12 @@
         "share_text": ""
       },
       "ms": {
-        "query": "Kayak",
+        "query": null,
         "hover_text": "Meraikan Kayak",
         "share_text": "Meraikan Kayak! #GoogleDoodle"
       },
       "ml": {
-        "query": "കയാക്",
+        "query": null,
         "hover_text": "കയാക് ആഘോഷമാക്കുന്നു",
         "share_text": "കയാക് ആഘോഷമാക്കുന്നു! #GoogleDoodle"
       },
@@ -1282,22 +3278,22 @@
         "share_text": ""
       },
       "mr": {
-        "query": "कायाक",
+        "query": null,
         "hover_text": "कायाकच्या सन्मानार्थ",
         "share_text": "कायाकच्या सन्मानार्थ! #GoogleDoodle"
       },
       "mn": {
-        "query": "Каяк завь",
+        "query": null,
         "hover_text": "Каяк завийг тэмдэглэж байна",
         "share_text": "Каяк завийг тэмдэглэж байна! #GoogleDoodle"
       },
       "ne": {
-        "query": "कायाक",
+        "query": null,
         "hover_text": "कायाकको सम्झना",
         "share_text": "कायाकको सम्झना! #GoogleDoodle"
       },
       "no": {
-        "query": "Kajakk",
+        "query": null,
         "hover_text": "Vi feirer kajakken",
         "share_text": "Vi feirer kajakken! #GoogleDoodle"
       },
@@ -1322,32 +3318,32 @@
         "share_text": ""
       },
       "fa": {
-        "query": "کایاک",
+        "query": null,
         "hover_text": "بزرگداشت کایاک",
         "share_text": "بزرگداشت کایاک! ‎#GoogleDoodle"
       },
       "pl": {
-        "query": "Kajak",
+        "query": null,
         "hover_text": "Pływamy kajakiem",
         "share_text": "Pływamy kajakiem #GoogleDoodle"
       },
       "pt-BR": {
-        "query": "Caiaque",
+        "query": null,
         "hover_text": "Viva o caiaque",
         "share_text": "Viva o caiaque! #GoogleDoodle"
       },
       "pt-PT": {
-        "query": "Caiaque",
+        "query": null,
         "hover_text": "Celebração do Caiaque!",
         "share_text": "Celebração do Caiaque! #GoogleDoodle"
       },
       "pa": {
-        "query": "ਕਾਯਾਕ",
+        "query": null,
         "hover_text": "ਕਾਯਾਕ ਦੇ ਜਸ਼ਨ ਵਿੱਚ",
         "share_text": "ਕਾਯਾਕ ਦੇ ਜਸ਼ਨ ਵਿੱਚ! #GoogleDoodle"
       },
       "ro": {
-        "query": "Caiac",
+        "query": null,
         "hover_text": "În cinstea caiacului",
         "share_text": "În cinstea caiacului! #GoogleDoodle"
       },
@@ -1357,17 +3353,17 @@
         "share_text": ""
       },
       "ru": {
-        "query": "каяк",
+        "query": null,
         "hover_text": "День каяка",
         "share_text": "День каяка #GoogleDoodle"
       },
       "sr": {
-        "query": "Кајак",
+        "query": null,
         "hover_text": "Славимо кајак",
         "share_text": "Славимо кајак! #GoogleDoodle"
       },
       "sr-Latn": {
-        "query": "Kajak",
+        "query": null,
         "hover_text": "Slavimo kajak",
         "share_text": "Slavimo kajak! #GoogleDoodle"
       },
@@ -1387,17 +3383,17 @@
         "share_text": ""
       },
       "si": {
-        "query": "කයාක්",
+        "query": null,
         "hover_text": "කයාක් සැමරීම",
         "share_text": "කයාක් සැමරීම! #GoogleDoodle"
       },
       "sk": {
-        "query": "Kajak",
+        "query": null,
         "hover_text": "Oslavujeme kajak",
         "share_text": "Oslavujeme kajak #GoogleDoodle"
       },
       "sl": {
-        "query": "Kajak",
+        "query": null,
         "hover_text": "Slavimo kajak",
         "share_text": "Slavimo kajak. #GoogleDoodle"
       },
@@ -1412,17 +3408,17 @@
         "share_text": ""
       },
       "es": {
-        "query": "Kayak",
+        "query": null,
         "hover_text": "Homenaje al kayak",
         "share_text": "Hoy rendimos homenaje al kayak #GoogleDoodle"
       },
       "sw": {
-        "query": "Kayaki",
+        "query": null,
         "hover_text": "Tunaienzi Kayaki",
         "share_text": "Tunaienzi Kayaki! #GoogleDoodle"
       },
       "sv": {
-        "query": "Kajak",
+        "query": null,
         "hover_text": "Vi hyllar kajaken",
         "share_text": "Vi hyllar kajaken #GoogleDoodle"
       },
@@ -1432,17 +3428,17 @@
         "share_text": ""
       },
       "ta": {
-        "query": "Kayak",
+        "query": null,
         "hover_text": "கயாக்கைக் கொண்டாடுவோம்",
         "share_text": "கயாக்கைக் கொண்டாடுவோம்! #GoogleDoodle"
       },
       "te": {
-        "query": "కయాక్",
+        "query": null,
         "hover_text": "కయాక్ వేడుకలు చేసుకుందాం",
         "share_text": "కయాక్ వేడుకలు చేసుకుందాం! #GoogleDoodle"
       },
       "th": {
-        "query": "คายัค",
+        "query": null,
         "hover_text": "วันเฉลิมฉลองคายัค",
         "share_text": "วันเฉลิมฉลองคายัค! #GoogleDoodle"
       },
@@ -1452,7 +3448,7 @@
         "share_text": ""
       },
       "tr": {
-        "query": "Kano",
+        "query": null,
         "hover_text": "Kanoyu Kutluyoruz",
         "share_text": "Kano'yu kutluyoruz. #GoogleDoodle"
       },
@@ -1462,22 +3458,22 @@
         "share_text": ""
       },
       "uk": {
-        "query": "Каяк",
+        "query": null,
         "hover_text": "Присвячено каяку",
         "share_text": "Присвячено каяку! #GoogleDoodle"
       },
       "ur": {
-        "query": "Kayak",
+        "query": null,
         "hover_text": "‫Kayak کی یاد میں",
         "share_text": "‫Kayak کی یاد میں! GoogleDoodle#"
       },
       "uz": {
-        "query": "Kayak",
+        "query": null,
         "hover_text": "Kayak kuni",
         "share_text": "Kayak kuni! #GoogleDoodle"
       },
       "vi": {
-        "query": "Thuyền Kayak",
+        "query": null,
         "hover_text": "Tôn vinh thuyền Kayak",
         "share_text": "Tôn vinh thuyền Kayak! #GoogleDoodle"
       },
@@ -1487,7 +3483,7 @@
         "share_text": ""
       },
       "zu": {
-        "query": "IKayak",
+        "query": null,
         "hover_text": "Sibungaza iKayak",
         "share_text": "Sibungaza iKayak! #GoogleDoodle"
       }
