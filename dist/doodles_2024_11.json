@@ -1,5 +1,504 @@
 [
   {
+    "name": "lebanon-independence-day-2024",
+    "title": "Lebanon Independence Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/lebanon-independence-day-2024-6753651837110326.2-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/GB5UX5TMecBrT-rBngDfvEpUJh2S6e86U_GfyGbgvKSliSWxpnXZjADVTx5L9GJUXCSV3pOziUKkvvFTbF6EMt3DtAjkyanJnJHpgYArlrZK6BH-89JYsqs",
+    "high_res_url": "//www.google.com/logos/doodles/2024/lebanon-independence-day-2024-6753651837110326-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      11,
+      22
+    ],
+    "translations": {
+      "en": {
+        "query": "Lebanon Independence Day",
+        "hover_text": "Lebanon Independence Day 2024",
+        "share_text": "Happy Independence Day, Lebanon! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Libanon se onafhanklikheidsdag",
+        "hover_text": "Libanon se onafhanklikheidsdag 2024",
+        "share_text": "Gelukkige Onafhanklikheidsdag, Libanon! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë e Libanit",
+        "hover_text": "Dita e Pavarësisë së Libanit, 2024",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Liban! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የሊባኖስ ነጻነት ቀን",
+        "hover_text": "የሊባኖስ ነፃነት ቀን 2024",
+        "share_text": "መልካም ነጻነት ቀን ሊባኖስ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال لبنان",
+        "hover_text": "عيد استقلال لبنان 2024",
+        "share_text": "عيد استقلال لبنان ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Լիբանանի անկախության օր",
+        "hover_text": "Լիբանանի անկախության օր 2024",
+        "share_text": "Շնորհավո՛ր Լիբանանի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Livanın Müstəqillik Günü",
+        "hover_text": "2024 Livanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Livan! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "লেবাননের স্বাধীনতা দিবস",
+        "hover_text": "লেবাননের স্বাধীনতা দিবস ২০২৪",
+        "share_text": "লেবাননের স্বাধীনতা দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Libanoko Independentzia Eguna",
+        "hover_text": "2024ko Libanoko Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Libano! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Лівана",
+        "hover_text": "Дзень незалежнасці Лівана 2024",
+        "share_text": "З Днём незалежнасці, Ліван! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Libana",
+        "hover_text": "Dan nezavisnosti Libana 2024.",
+        "share_text": "Sretan Dan nezavisnosti, Libane! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Lebanon Independence Day",
+        "hover_text": "Lebanon Independence Day 2024",
+        "share_text": "Happy Independence Day, Lebanon! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Ливан",
+        "hover_text": "Ден на независимостта на Ливан 2024 г.",
+        "share_text": "Честит Ден на независимостта на Ливан! #GoogleDoodle"
+      },
+      "my": {
+        "query": "လက်ဘနွန် လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ လက်ဘနွန်နိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်‌ဖွယ် လွတ်လပ်ရေးနေ့ဖြစ်ပါစေ၊ လက်ဘနွန်။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència del Líban",
+        "hover_text": "Dia de la Independència del Líban 2024",
+        "share_text": "Feliç Dia de la Independència, Líban! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "黎巴嫩獨立日",
+        "hover_text": "2024 年黎巴嫩獨立日",
+        "share_text": "黎巴嫩，獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "黎巴嫩獨立紀念日",
+        "hover_text": "2024 黎巴嫩獨立紀念日",
+        "share_text": "黎巴嫩，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "黎巴嫩独立日",
+        "hover_text": "2024 年黎巴嫩独立日",
+        "share_text": "黎巴嫩，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Libanona",
+        "hover_text": "Dan neovisnosti Libanona 2024.",
+        "share_text": "Sretan Dan neovisnosti, Libanon! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Libanonu",
+        "hover_text": "Den nezávislosti Libanonu 2024",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Libanone! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Libanons uafhængighedsdag",
+        "hover_text": "Libanons uafhængighedsdag 2024",
+        "share_text": "Glædelig uafhængighedsdag, Libanon! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Libanon",
+        "hover_text": "Onafhankelijkheidsdag Libanon 2024",
+        "share_text": "Fijne Onafhankelijkheidsdag, Libanon! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Liibanoni iseseisvuspäev",
+        "hover_text": "Liibanoni 2024. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Liibanon! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Libanonin itsenäisyyspäivä",
+        "hover_text": "Libanonin itsenäisyyspäivä 2024",
+        "share_text": "Hyvää itsenäisyyspäivää, Libanon! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance du Liban",
+        "hover_text": "Fête de l'Indépendance du Liban 2024",
+        "share_text": "Fête de l'Indépendance du Liban! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance du Liban",
+        "hover_text": "Fête de l'Indépendance du Liban 2024",
+        "share_text": "Joyeux jour de l'indépendance du Liban! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia do Líbano",
+        "hover_text": "Día da Independencia do Líbano 2024",
+        "share_text": "Feliz Día da Independencia, Líbano! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ლიბანის დამოუკიდებლობის დღე",
+        "hover_text": "ლიბანის დამოუკიდებლობის დღე — 2024",
+        "share_text": "ვულოცავთ ლიბანს დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Libanon",
+        "hover_text": "Unabhängigkeitstag Libanon 2024",
+        "share_text": "Alles Gute zum Unabhängigkeitstag im Libanon! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας Λιβάνου",
+        "hover_text": "Ημέρα Ανεξαρτησίας του Λιβάνου 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας του Λιβάνου! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "લેબનનનો સ્વતંત્રતા દિવસ",
+        "hover_text": "લેબનોનનો સ્વતંત્રતા દિવસ 2024",
+        "share_text": "લેબનનના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של לבנון",
+        "hover_text": "יום העצמאות של לבנון 2024",
+        "share_text": "יום עצמאות שמח, לבנון! ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "लेबनान का स्वतंत्रता दिवस",
+        "hover_text": "लेबनान का स्वतंत्रता दिवस 2024",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, लेबनान! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Libanon függetlenségének napja",
+        "hover_text": "Libanon függetlenségének napja, 2024",
+        "share_text": "Boldog függetlenség napját, Libanon! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Líbanon",
+        "hover_text": "Sjálfstæðisdagur Líbanon 2024",
+        "share_text": "Gleðilegan sjálfstæðisdag, Líbanon! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Lebanon",
+        "hover_text": "Hari Kemerdekaan Lebanon 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Lebanon! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse na Liobáine",
+        "hover_text": null,
+        "share_text": "Lá Saoirse na Liobáine faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza del Libano",
+        "hover_text": "Festa dell'indipendenza del Libano 2024",
+        "share_text": "Buona festa dell'indipendenza, Libano! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "レバノン独立記念日",
+        "hover_text": "2024 年レバノン独立記念日",
+        "share_text": "レバノン独立記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಲೆಬನಾನ್ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಲೆಬನಾನ್ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಲೆಬನಾನ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Ливанның Тәуелсіздік күні",
+        "hover_text": "Ливанның Тәуелсіздік күні – 2024",
+        "share_text": "Тәуелсіздік күні құтты болсын, Ливан! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យឯករាជ្យជាតិ​លីបង់",
+        "hover_text": "ទិវាបុណ្យឯករាជ្យជាតិលីបង់ឆ្នាំ 2024",
+        "share_text": "អបអរទិវា​បុណ្យឯករាជ្យជាតិ​លីបង់! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "레바논 독립기념일",
+        "hover_text": "2024년 레바논 독립기념일",
+        "share_text": "레바논 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Ливандын Эгемендүүлүк күнү",
+        "hover_text": "Ливандын Эгемендүүлүк күнү — 2024",
+        "share_text": "Эгемендүүлүк күнүң менен, Ливан! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດເລບານອນ",
+        "hover_text": "ວັນປະກາດເອກະລາດເລບານອນ 2024",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດເລບານອນ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Líbano",
+        "hover_text": "Día de la Independencia del Líbano 2024",
+        "share_text": "¡Feliz Día de la Independencia de Líbano! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Libānas neatkarības diena",
+        "hover_text": "Libānas Neatkarības diena — 2024",
+        "share_text": "Sveicam neatkarības dienā, Libāna! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Libano nepriklausomybės diena",
+        "hover_text": "Libano nepriklausomybės diena, 2024 m.",
+        "share_text": "Sveikiname Libaną su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Либан",
+        "hover_text": "Ден на независноста на Либан, 2024 г.",
+        "share_text": "Среќен Ден на независноста, Либан! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Libanona",
+        "hover_text": null,
+        "share_text": "Tsarà fetin'ny fahaleovantena ry Libanona ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Lubnan",
+        "hover_text": "Hari Kemerdekaan Lubnan 2024",
+        "share_text": "Selamat Menyambut Hari Kemerdekaan, Lubnan! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ലെബനൻ സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "ലെബനൻ സ്വാതന്ത്ര്യദിനം 2024",
+        "share_text": "സ്വാതന്ത്ര്യ ദിനാശംസകൾ, ലെബനന്‍! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "लेबनानचा स्वातंत्र्यदिन",
+        "hover_text": "लेबनॉनचा स्वातंत्र्यदिन २०२४",
+        "share_text": "लेबनानला स्वातंत्र्यदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Ливан улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2024 оны Ливан Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Ливан улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "लेबनानको स्वतन्त्रता दिवस",
+        "hover_text": "लेबनानको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, लेबनान! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Libanons frigjøringsdag",
+        "hover_text": "Libanons frigjøringsdag 2024",
+        "share_text": "Gratulerer med frigjøringsdagen, Libanon! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଲେବାନନ୍‌ର ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": null,
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, ଲେବାନନ୍! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال لبنان",
+        "hover_text": "روز استقلال ۲۰۲۴ لبنان",
+        "share_text": "روز استقلال لبنان مبارک! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Niepodległości Libanu",
+        "hover_text": "Dzień Niepodległości Libanu 2024",
+        "share_text": "Liban obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência do Líbano",
+        "hover_text": "Dia da Independência do Líbano 2024",
+        "share_text": "Feliz Dia da Independência, Líbano! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência do Líbano",
+        "hover_text": "Dia da Independência do Líbano de 2024",
+        "share_text": "Feliz dia da independência, Líbano! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਲੇਬਨਾਨ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ",
+        "hover_text": "ਲਿਬਨਾਨ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2024",
+        "share_text": "ਲੇਬਨਾਨ ਦੇ ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței Libanului",
+        "hover_text": "Ziua Independenței Libanului 2024",
+        "share_text": "La mulți ani de Ziua Independenței, Liban! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Ливана",
+        "hover_text": "День независимости Ливана – 2024",
+        "share_text": "День независимости Ливана #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Либана",
+        "hover_text": "Дан независности Либана 2024.",
+        "share_text": "Честитамо Дан независности Лебанону! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Libana",
+        "hover_text": "Dan nezavisnosti Libana 2024.",
+        "share_text": "Čestitamo Dan nezavisnosti Lebanonu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepandans Lebanon",
+        "hover_text": null,
+        "share_text": "Bonn zournen lendepandans, Lebanon! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ලෙබනනයේ නිදහස් දිනය",
+        "hover_text": "ලෙබනනයේ නිදහස් දිනය 2024",
+        "share_text": "ශුභ නිදහස් දිනයක්, ලෙබනනය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Libanonu",
+        "hover_text": "Deň nezávislosti Libanonu 2024",
+        "share_text": "Šťastný Deň nezávislosti, Libanon! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Libanona",
+        "hover_text": "Dan neodvisnosti Libanona 2024",
+        "share_text": "Vesel dan neodvisnosti, Libanon. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madax banaanida Lubnaan",
+        "hover_text": null,
+        "share_text": "Maalinta Madax banaanida Farxada leh, Lubnaan! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la Lebanon",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Tokoloho la Lebanon! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia del Líbano",
+        "hover_text": "Día de la Independencia del Líbano 2024",
+        "share_text": "¡Feliz Día de la Independencia del Líbano! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Lebanoni",
+        "hover_text": "Sikukuu ya Uhuru wa Lebanoni 2024",
+        "share_text": "Heri ya Sikukuu ya Uhuru, Lebanon! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Libanons självständighetsdag",
+        "hover_text": "Libanons självständighetsdag 2024",
+        "share_text": "Vi firar Libanons självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "லெபனான் சுதந்திர தினம்",
+        "hover_text": "லெபனானின் சுதந்திர தினம் 2024",
+        "share_text": "லெபனானின் சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "లెబనాన్ స్వాతంత్య్ర దినోత్సవం",
+        "hover_text": "లెబనాన్ స్వాతంత్య్ర దినోత్సవం 2024",
+        "share_text": "స్వాతంత్య్ర దినోత్సవ శుభాకాంక్షలు, లెబనాన్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของเลบานอน",
+        "hover_text": "วันประกาศเอกราชของเลบานอนปี 2024",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของเลบานอน #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Lebanona",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, Lebanon! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Lübnan Bağımsızlık Günü",
+        "hover_text": "2024 Lübnan Bağımsızlık Günü",
+        "share_text": "Lübnan Bağımsızlık Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Лівану",
+        "hover_text": "День незалежності Лівану у 2024 році",
+        "share_text": "З Днем незалежності, Ліване! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "لبنان کا یوم آزادی",
+        "hover_text": "لبنان کا یوم آزادی 2024",
+        "share_text": "لبنان کا یوم آزادی مبارک ہو! ‎#GoogleDoodle"
+      },
+      "uz": {
+        "query": "Livan mustaqillik kuni",
+        "hover_text": "Livan Mustaqillik kuni 2024",
+        "share_text": "Mustaqillik kuning muborak, Livan! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Lebanon",
+        "hover_text": "Ngày Quốc khánh Lebanon năm 2024",
+        "share_text": "Chúc mừng quốc khánh Lebanon! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lokuzimela e-Lebanon",
+        "hover_text": "Usuku Lokuzimela lwaseLebanon lwango-2024",
+        "share_text": "Usuku oluhle lokuzimela, Lebanon! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Lebanon Independence Day",
+    "share_text": "Happy Independence Day, Lebanon! #GoogleDoodle"
+  },
+  {
     "name": "rise-of-the-half-moon-november",
     "title": "Rise of the Half Moon November",
     "url": "//www.google.com/logos/doodles/2024/rise-of-the-half-moon-november-6753651837110598-l.png",
@@ -3517,12 +4016,12 @@
         "share_text": "Ter viering van die kajak! #GoogleDoodle"
       },
       "sq": {
-        "query": null,
+        "query": "Muaji Kombëtar i Trashëgimisë së Indigjenëve Amerikanë",
         "hover_text": "Festojmë për kaiken",
         "share_text": "Festojmë për kaiken! #GoogleDoodle"
       },
       "am": {
-        "query": null,
+        "query": "ብሔራዊ ተፈጥሯዊ የአሜሪካ ቅርስ ወር",
         "hover_text": "ካያክን በማክበር ላይ",
         "share_text": "ካያክን በማክበር ላይ! #GoogleDoodle"
       },
@@ -3532,12 +4031,12 @@
         "share_text": "نحتفل اليوم بقارب الكاياك! ‎#GoogleDoodle"
       },
       "hy": {
-        "query": null,
+        "query": "Բնիկ ամերիկացիների ժառանգության ամիս",
         "hover_text": "Տոնենք կայակի օրը",
         "share_text": "Տոնենք կայակի օրը #GoogleDoodle"
       },
       "az": {
-        "query": null,
+        "query": "Milli Yerli Amerikalıların İrsi Ayı",
         "hover_text": "Qayıq yarışı günü",
         "share_text": "Qayıq yarışı günü! #GoogleDoodle"
       },
@@ -3552,7 +4051,7 @@
         "share_text": "Kayakaren omenez #GoogleDoodle"
       },
       "be": {
-        "query": null,
+        "query": "Нацыянальны месяц спадчыны карэнных народаў Амерыкі",
         "hover_text": "Ушаноўваем байдарку",
         "share_text": "Ушаноўваем байдарку! #GoogleDoodle"
       },
@@ -3582,12 +4081,12 @@
         "share_text": "Homenatge al caiac #GoogleDoodle"
       },
       "zh-HK": {
-        "query": null,
+        "query": "美國原住民傳統月",
         "hover_text": "坐在獨木舟上乘風破浪",
         "share_text": "坐在獨木舟上乘風破浪！#GoogleDoodle"
       },
       "zh-TW": {
-        "query": null,
+        "query": "美國原住民傳統月",
         "hover_text": "紀念獨木舟問世",
         "share_text": "紀念獨木舟問世！#GoogleDoodle"
       },
@@ -3602,7 +4101,7 @@
         "share_text": "Slavimo kajak! #GoogleDoodle"
       },
       "cs": {
-        "query": null,
+        "query": "Měsíc dědictví původních obyvatel Ameriky",
         "hover_text": "Oslavujeme kajak",
         "share_text": "Oslavujeme kajak! #GoogleDoodle"
       },
@@ -3617,7 +4116,7 @@
         "share_text": "Een doodle ter ere van de kajak! #GoogleDoodle"
       },
       "et": {
-        "query": null,
+        "query": "Põlisameeriklaste pärandi kuu",
         "hover_text": "Tunneme rõõmu süstast",
         "share_text": "Tunneme rõõmu süstast! #GoogleDoodle"
       },
@@ -3657,7 +4156,7 @@
         "share_text": "Τιμούμε το Καγιάκ! #GoogleDoodle"
       },
       "gu": {
-        "query": null,
+        "query": "નેશનલ નેટિવ અમેરિકન હેરિટેજ મંથ",
         "hover_text": "કાયાકની યાદમાં",
         "share_text": "કાયાકની યાદમાં! #GoogleDoodle"
       },
@@ -3682,12 +4181,12 @@
         "share_text": "A kajak ünneplése. #GoogleDoodle"
       },
       "is": {
-        "query": null,
+        "query": "Mánuður arfleifðar frumbyggja Ameríku",
         "hover_text": "Við fögnum kajaknum",
         "share_text": "Við fögnum kajaknum! #GoogleDoodle"
       },
       "id": {
-        "query": null,
+        "query": "Bulan Budaya Penduduk Asli Amerika",
         "hover_text": "Merayakan Kayak",
         "share_text": "Merayakan Kayak #GoogleDoodle"
       },
@@ -3702,7 +4201,7 @@
         "share_text": "Un omaggio al kayak! #GoogleDoodle"
       },
       "ja": {
-        "query": null,
+        "query": "ネイティブ アメリカン文化遺産月間",
         "hover_text": "カヤックを称えて",
         "share_text": "カヤックを称えて #GoogleDoodle"
       },
@@ -3717,7 +4216,7 @@
         "share_text": "Каяк күні құтты болсын! #GoogleDoodle"
       },
       "km": {
-        "query": null,
+        "query": "ខែបេតិកភណ្ឌជាតិជនជាតិដើមអាមេរិក",
         "hover_text": "អបអរទិវារំលឹកទូកកាយ៉ាក់",
         "share_text": "អបអរទិវារំលឹកទូកកាយ៉ាក់! #GoogleDoodle"
       },
@@ -3742,7 +4241,7 @@
         "share_text": "Celebrando el kayak #GoogleDoodle"
       },
       "lv": {
-        "query": null,
+        "query": "Amerikas pirmiedzīvotāju mantojuma mēnesis",
         "hover_text": "Kajaka godināšana",
         "share_text": "Kajaka godināšana! #GoogleDoodle"
       },
@@ -3762,7 +4261,7 @@
         "share_text": ""
       },
       "ms": {
-        "query": null,
+        "query": "Bulan Warisan Kebangsaan Orang Asli Amerika",
         "hover_text": "Meraikan Kayak",
         "share_text": "Meraikan Kayak! #GoogleDoodle"
       },
@@ -3782,7 +4281,7 @@
         "share_text": "कायाकच्या सन्मानार्थ! #GoogleDoodle"
       },
       "mn": {
-        "query": null,
+        "query": "Үндэсний Уугуул Америкийн Өв соёлын сар",
         "hover_text": "Каяк завийг тэмдэглэж байна",
         "share_text": "Каяк завийг тэмдэглэж байна! #GoogleDoodle"
       },
@@ -3832,7 +4331,7 @@
         "share_text": "Viva o caiaque! #GoogleDoodle"
       },
       "pt-PT": {
-        "query": null,
+        "query": "Mês da Herança Ameríndia Nacional",
         "hover_text": "Celebração do Caiaque!",
         "share_text": "Celebração do Caiaque! #GoogleDoodle"
       },
@@ -3857,12 +4356,12 @@
         "share_text": "День каяка #GoogleDoodle"
       },
       "sr": {
-        "query": null,
+        "query": "Месец наслеђа америчких староседелаца",
         "hover_text": "Славимо кајак",
         "share_text": "Славимо кајак! #GoogleDoodle"
       },
       "sr-Latn": {
-        "query": null,
+        "query": "Mesec nasleđa američkih starosedelaca",
         "hover_text": "Slavimo kajak",
         "share_text": "Slavimo kajak! #GoogleDoodle"
       },
@@ -3917,7 +4416,7 @@
         "share_text": "Tunaienzi Kayaki! #GoogleDoodle"
       },
       "sv": {
-        "query": null,
+        "query": "National Native American Heritage Month",
         "hover_text": "Vi hyllar kajaken",
         "share_text": "Vi hyllar kajaken #GoogleDoodle"
       },
@@ -3937,7 +4436,7 @@
         "share_text": "కయాక్ వేడుకలు చేసుకుందాం! #GoogleDoodle"
       },
       "th": {
-        "query": null,
+        "query": "เดือนแห่งมรดกทางวัฒนธรรมของชนพื้นเมืองอเมริกัน",
         "hover_text": "วันเฉลิมฉลองคายัค",
         "share_text": "วันเฉลิมฉลองคายัค! #GoogleDoodle"
       },
@@ -3957,7 +4456,7 @@
         "share_text": ""
       },
       "uk": {
-        "query": null,
+        "query": "Місяць національної спадщини американських індіанців",
         "hover_text": "Присвячено каяку",
         "share_text": "Присвячено каяку! #GoogleDoodle"
       },
