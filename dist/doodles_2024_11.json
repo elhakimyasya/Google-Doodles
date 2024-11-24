@@ -1,5 +1,504 @@
 [
   {
+    "name": "romania-presidential-elections-2024",
+    "title": "Romania Presidential Elections 2024",
+    "url": "//www.google.com/logos/doodles/2024/temp-romania-presidential-elections-2024-6753651837110313-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/e3yg_3T-fS5lqgcIdInrfbH6Dj1QaG52hcOMB5bqqV2E8PmBo1MrdYq_nku-3aPADhwqrJnp0v5GN3rNHHp6mWlGTI_fD8-TwwuPaOGtdMvTaR18nPTUHg",
+    "high_res_url": "//www.google.com/logos/doodles/2024/temp-romania-presidential-elections-2024-6753651837110313-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      11,
+      24
+    ],
+    "translations": {
+      "en": {
+        "query": "2024 Romania Elections",
+        "hover_text": "Romania Presidential Elections 2024",
+        "share_text": "Romania Presidential Elections 2024 #GoogleDoodle"
+      },
+      "af": {
+        "query": "Roemenië se presidensiële verkiesing",
+        "hover_text": "Roemenië se presidensiële verkiesing 2024",
+        "share_text": "Roemenië se presidensiële verkiesing 2024 #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Zgjedhjet presidenciale në Rumani",
+        "hover_text": "Zgjedhjet presidenciale në Rumani, 2024",
+        "share_text": "Zgjedhjet presidenciale në Rumani, 2024 #GoogleDoodle"
+      },
+      "am": {
+        "query": "የሮማንያ የፕሬዝዳንት ምርጫዎች",
+        "hover_text": "የሮማንያ የፕሬዝዳንት ምርጫዎች 2024",
+        "share_text": "የሮማንያ የፕሬዝዳንት ምርጫዎች 2024 #GoogleDoodle"
+      },
+      "ar": {
+        "query": "الانتخابات الرئاسية في رومانيا",
+        "hover_text": "الانتخابات الرئاسية في رومانيا 2024",
+        "share_text": "انطلقت اليوم الانتخابات الرئاسية في رومانيا لعام 2024.‏ ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ռումինիայի նախագահական ընտրություններ",
+        "hover_text": "Ռումինիայի նախագահական ընտրություններ 2024",
+        "share_text": "Ռումինիայի նախագահական ընտրություններ 2024 #GoogleDoodle"
+      },
+      "az": {
+        "query": "Rumıniya Prezident Seçkiləri",
+        "hover_text": "2024 Rumıniya Prezident Seçkiləri",
+        "share_text": "2024 Rumıniya Prezident Seçkiləri #GoogleDoodle"
+      },
+      "bn": {
+        "query": "রোমানিয়ার রাষ্ট্রপতি নির্বাচন",
+        "hover_text": "রোমানিয়ার রাষ্ট্রপতি নির্বাচন ২০২৪",
+        "share_text": "রোমানিয়ার রাষ্ট্রপতি নির্বাচন ২০২৪ #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Errumaniako lehendakaritza-hauteskundeak",
+        "hover_text": "2024ko Errumaniako lehendakaritza-hauteskundeak",
+        "share_text": "2024ko Errumaniako lehendakaritza-hauteskundeak #GoogleDoodle"
+      },
+      "be": {
+        "query": "Выбары прэзідэнта Румыніі",
+        "hover_text": "Выбары прэзідэнта Румыніі 2024",
+        "share_text": "Выбары прэзідэнта Румыніі 2024 #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Predsjednički izbori u Rumuniji",
+        "hover_text": "Predsjednički izbori u Rumuniji 2024.",
+        "share_text": "Predsjednički izbori u Rumuniji 2024. #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Romania presidential elections",
+        "hover_text": "Romania presidential elections 2024",
+        "share_text": "Romania presidential elections 2024 #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Президентски избори в Румъния",
+        "hover_text": "Президентски избори в Румъния 2024 г.",
+        "share_text": "Президентски избори в Румъния 2024 г. #GoogleDoodle"
+      },
+      "my": {
+        "query": "ရိုမေးနီးယားနိုင်ငံ သမ္မတရွေးကောက်ပွဲများ",
+        "hover_text": "၂၀၂၄ ရိုမေးနီးယားနိုင်ငံ သမ္မတရွေးကောက်ပွဲများ",
+        "share_text": "၂၀၂၄ ရိုမေးနီးယားနိုင်ငံ သမ္မတရွေးကောက်ပွဲများ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Eleccions presidencials a Romania",
+        "hover_text": "Eleccions presidencials a Romania 2024",
+        "share_text": "Eleccions presidencials a Romania 2024 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "羅馬尼亞總統選舉",
+        "hover_text": "2024 年羅馬尼亞總統選舉",
+        "share_text": "2024 年羅馬尼亞總統選舉 #GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "羅馬尼亞總統大選",
+        "hover_text": "2024 羅馬尼亞總統大選",
+        "share_text": "2024 羅馬尼亞總統大選 #GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "罗马尼亚总统选举",
+        "hover_text": "2024 年罗马尼亚总统选举",
+        "share_text": "2024 年罗马尼亚总统选举 #GoogleDoodle"
+      },
+      "hr": {
+        "query": "Predsjednički izbori u Rumunjskoj",
+        "hover_text": "Predsjednički izbori u Rumunjskoj 2024.",
+        "share_text": "Predsjednički izbori u Rumunjskoj 2024. #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Rumunské prezidentské volby",
+        "hover_text": "Rumunské prezidentské volby 2024",
+        "share_text": "Rumunské prezidentské volby 2024 #GoogleDoodle"
+      },
+      "da": {
+        "query": "Præsidentvalg i Rumænien",
+        "hover_text": "Præsidentvalg i Rumænien 2024",
+        "share_text": "Præsidentvalg i Rumænien 2024 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Presidentsverkiezingen Roemenië",
+        "hover_text": "Presidentsverkiezingen Roemenië 2024",
+        "share_text": "Presidentsverkiezingen Roemenië 2024 #GoogleDoodle"
+      },
+      "et": {
+        "query": "Rumeenia presidendivalimised",
+        "hover_text": "Rumeenia 2024. aasta presidendivalimised",
+        "share_text": "Rumeenia 2024. aasta presidendivalimised #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Romanian presidentinvaalit",
+        "hover_text": "Romanian presidentinvaalit 2024",
+        "share_text": "Romanian presidentinvaalit 2024 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Élections présidentielles en Roumanie",
+        "hover_text": "Élections présidentielles 2024 en Roumanie",
+        "share_text": "Élections présidentielles 2024 en Roumanie #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Élections présidentielles de la Roumanie",
+        "hover_text": "Élections présidentielles de la Roumanie 2024",
+        "share_text": "Élections présidentielles de la Roumanie 2024 #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Eleccións presidenciais de Romanía",
+        "hover_text": "Eleccións presidenciais de Romanía 2024",
+        "share_text": "Eleccións presidenciais de Romanía 2024 #GoogleDoodle"
+      },
+      "ka": {
+        "query": "რუმინეთის საპრეზიდენტო არჩევნები",
+        "hover_text": "რუმინეთის საპრეზიდენტო არჩევნები — 2024",
+        "share_text": "რუმინეთის საპრეზიდენტო არჩევნები — 2024 #GoogleDoodle"
+      },
+      "de": {
+        "query": "Präsidentschaftswahl in Rumänien",
+        "hover_text": "Präsidentschaftswahl in Rumänien 2024",
+        "share_text": "Präsidentschaftswahl in Rumänien 2024 #GoogleDoodle"
+      },
+      "el": {
+        "query": "Προεδρικές εκλογές στη Ρουμανία",
+        "hover_text": "Προεδρικές εκλογές στη Ρουμανία 2024",
+        "share_text": "Προεδρικές εκλογές στη Ρουμανία 2024 #GoogleDoodle"
+      },
+      "gu": {
+        "query": "રોમાનિયાની પ્રમુખપદની ચૂંટણીઓ",
+        "hover_text": "રોમાનિયાની પ્રમુખપદની ચૂંટણીઓ 2024",
+        "share_text": "રોમાનિયાની પ્રમુખપદની ચૂંટણીઓ 2024 #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "הבחירות לנשיאות ברומניה",
+        "hover_text": "הבחירות לנשיאות ברומניה 2024",
+        "share_text": "הבחירות לנשיאות ברומניה 2024 ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "रोमानिया का राष्ट्रपति चुनाव",
+        "hover_text": "रोमानिया का राष्ट्रपति चुनाव 2024",
+        "share_text": "रोमानिया का राष्ट्रपति चुनाव 2024 #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Elnökválasztás Romániában",
+        "hover_text": "Elnökválasztás Romániában, 2024",
+        "share_text": "Elnökválasztás Romániában, 2024 #GoogleDoodle"
+      },
+      "is": {
+        "query": "Forsetakosningar í Rúmeníu",
+        "hover_text": "Forsetakosningar í Rúmeníu 2024",
+        "share_text": "Forsetakosningar í Rúmeníu 2024 #GoogleDoodle"
+      },
+      "id": {
+        "query": "Pemilu Presiden Rumania",
+        "hover_text": "Pemilu Presiden Rumania 2024",
+        "share_text": "Pemilu Presiden Rumania 2024 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Elezioni presidenziali in Romania",
+        "hover_text": "Elezioni presidenziali 2024 in Romania",
+        "share_text": "Elezioni presidenziali 2024 in Romania #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ルーマニア大統領選挙",
+        "hover_text": "2024 年ルーマニア大統領選挙",
+        "share_text": "2024 年ルーマニア大統領選挙 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ರೊಮೇನಿಯಾ ಅಧ್ಯಕ್ಷೀಯ ಚುನಾವಣೆಗಳು",
+        "hover_text": "ರೊಮೇನಿಯಾ ಅಧ್ಯಕ್ಷೀಯ ಚುನಾವಣೆಗಳು 2024",
+        "share_text": "ರೊಮೇನಿಯಾ ಅಧ್ಯಕ್ಷೀಯ ಚುನಾವಣೆಗಳು 2024 #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Румыниядағы Президент сайлауы",
+        "hover_text": "Румыниядағы Президент сайлауы — 2024",
+        "share_text": "Румыниядағы Президент сайлауы — 2024 #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការបោះឆ្នោតជ្រើសរើសប្រធានាធិបតីរូម៉ានី",
+        "hover_text": "ការបោះឆ្នោតជ្រើសរើសប្រធានាធិបតីរូម៉ានីឆ្នាំ 2024",
+        "share_text": "ការបោះឆ្នោតជ្រើសរើសប្រធានាធិបតីរូម៉ានីឆ្នាំ 2024 #GoogleDoodle"
+      },
+      "ko": {
+        "query": "루마니아 대통령 선거",
+        "hover_text": "2024년 루마니아 대통령 선거",
+        "share_text": "2024년 루마니아 대통령 선거 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Румыниядагы Президенттик шайлоо",
+        "hover_text": "Румыниядагы Президенттик шайлоо – 2024",
+        "share_text": "Румыниядагы Президенттик шайлоо – 2024 #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ການເລືອກຕັ້ງປະທານາທິບໍດີໂຣມາເນຍ",
+        "hover_text": "ການເລືອກຕັ້ງປະທານາທິບໍດີໂຣມາເນຍປີ 2024",
+        "share_text": "ການເລືອກຕັ້ງປະທານາທິບໍດີໂຣມາເນຍປີ 2024 #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Elecciones presidenciales de Rumania",
+        "hover_text": "Elecciones presidenciales de Rumania 2024",
+        "share_text": "Elecciones presidenciales de Rumania 2024 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Prezidenta vēlēšanas Rumānijā",
+        "hover_text": "Prezidenta vēlēšanas Rumānijā — 2024",
+        "share_text": "Prezidenta vēlēšanas Rumānijā — 2024 #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Rumunijos prezidento rinkimai",
+        "hover_text": "Rumunijos prezidento rinkimai, 2024 m.",
+        "share_text": "Rumunijos prezidento rinkimai, 2024 m. #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Претседателски избори во Романија",
+        "hover_text": "Претседателски избори во Романија, 2024 г.",
+        "share_text": "Претседателски избори во Романија, 2024 г. #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Pilihan Raya Presiden Romania",
+        "hover_text": "Pilihan Raya Presiden Romania 2024",
+        "share_text": "Pilihan Raya Presiden Romania 2024 #GoogleDoodle"
+      },
+      "ml": {
+        "query": "റൊമാനിയൻ പ്രസിഡൻഷ്യൽ തിരഞ്ഞെടുപ്പ്",
+        "hover_text": "റൊമാനിയൻ പ്രസിഡൻഷ്യൽ തിരഞ്ഞെടുപ്പ് 2024",
+        "share_text": "റൊമാനിയൻ പ്രസിഡൻഷ്യൽ തിരഞ്ഞെടുപ്പ് 2024 #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "रोमानियामधील राष्ट्राध्यक्षीय निवडणुका",
+        "hover_text": "रोमानियामधील राष्ट्राध्यक्षीय निवडणुका २०२४",
+        "share_text": "रोमानियामधील राष्ट्राध्यक्षीय निवडणुका २०२४ #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Румыны ерөнхийлөгчийн сонгууль",
+        "hover_text": "2024 оны Румыны ерөнхийлөгчийн сонгууль",
+        "share_text": "2024 оны Румыны ерөнхийлөгчийн сонгууль #GoogleDoodle"
+      },
+      "ne": {
+        "query": "रोमानियाको राष्ट्रपतीय निर्वाचन",
+        "hover_text": "रोमानियाको राष्ट्रपतीय निर्वाचन २०२४",
+        "share_text": "रोमानियाको राष्ट्रपतीय निर्वाचन २०२४ #GoogleDoodle"
+      },
+      "no": {
+        "query": "Presidentvalget i Romania",
+        "hover_text": "Presidentvalget i Romania 2024",
+        "share_text": "Presidentvalget i Romania 2024 #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "Romania Presidential Elections",
+        "hover_text": "انتخابات ریاست جمهوری ۲۰۲۴ رومانی",
+        "share_text": "انتخابات ریاست جمهوری ۲۰۲۴ رومانی ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Wybory prezydenckie w Rumunii",
+        "hover_text": "Wybory prezydenckie 2024 w Rumunii",
+        "share_text": "Wybory prezydenckie 2024 w Rumunii #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Eleições presidenciais da Romênia",
+        "hover_text": "Eleições presidenciais da Romênia 2024",
+        "share_text": "Eleições presidenciais da Romênia 2024 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Eleições Presidenciais na Roménia",
+        "hover_text": "Eleições Presidenciais na Roménia de 2024",
+        "share_text": "Eleições Presidenciais na Roménia de 2024 #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Romania Presidential Elections",
+        "hover_text": "ਰੋਮਾਨੀਆ ਦੀਆਂ ਰਾਸ਼ਟਰਪਤੀ ਚੋਣਾਂ 2024",
+        "share_text": "ਰੋਮਾਨੀਆ ਦੀਆਂ ਰਾਸ਼ਟਰਪਤੀ ਚੋਣਾਂ 2024 #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Alegeri în România",
+        "hover_text": "Alegeri prezidențiale în România 2024",
+        "share_text": "Alegeri prezidențiale în România 2024 #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "президентские выборы в румынии",
+        "hover_text": "Президентские выборы в Румынии – 2024",
+        "share_text": "Президентские выборы в Румынии – 2024 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Председнички избори у Румунији",
+        "hover_text": "Председнички избори у Румунији 2024.",
+        "share_text": "Председнички избори у Румунији 2024. #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Predsednički izbori u Rumuniji",
+        "hover_text": "Predsednički izbori u Rumuniji 2024.",
+        "share_text": "Predsednički izbori u Rumuniji 2024. #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "රුමේනියාවේ ජනාධිපතිවරණය",
+        "hover_text": "රුමේනියාවේ ජනාධිපතිවරණය 2024",
+        "share_text": "රුමේනියාවේ ජනාධිපතිවරණය 2024 #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Prezidentské voľby v Rumunsku",
+        "hover_text": "Prezidentské voľby v Rumunsku 2024",
+        "share_text": "Prezidentské voľby v Rumunsku 2024 #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Romunske predsedniške volitve",
+        "hover_text": "Romunske predsedniške volitve 2024",
+        "share_text": "Romunske predsedniške volitve 2024 #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Elecciones presidenciales de Rumanía",
+        "hover_text": "Elecciones presidenciales de Rumanía 2024",
+        "share_text": "Elecciones presidenciales de Rumanía 2024 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Uchaguzi wa Urais wa Romania",
+        "hover_text": "Uchaguzi wa Urais wa Romania 2024",
+        "share_text": "Uchaguzi wa Urais wa Romania 2024 #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Presidentval i Rumänien",
+        "hover_text": "Presidentval i Rumänien 2024",
+        "share_text": "Presidentval i Rumänien 2024 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ரொமேனியா அதிபர் தேர்தல்கள்",
+        "hover_text": "ரொமேனியா அதிபர் தேர்தல்கள் 2024",
+        "share_text": "ரொமேனியா அதிபர் தேர்தல்கள் 2024 #GoogleDoodle"
+      },
+      "te": {
+        "query": "రొమేనియా అధ్యక్ష ఎన్నికలు",
+        "hover_text": "రొమేనియా అధ్యక్ష ఎన్నికలు 2024",
+        "share_text": "రొమేనియా అధ్యక్ష ఎన్నికలు 2024 #GoogleDoodle"
+      },
+      "th": {
+        "query": "การเลือกตั้งประธานาธิบดีโรมาเนีย",
+        "hover_text": "การเลือกตั้งประธานาธิบดีโรมาเนียปี 2024",
+        "share_text": "การเลือกตั้งประธานาธิบดีโรมาเนียปี 2024 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Romanya Cumhurbaşkanlığı Seçimleri",
+        "hover_text": "2024 Romanya Cumhurbaşkanlığı Seçimleri",
+        "share_text": "2024 Romanya Cumhurbaşkanlığı Seçimleri #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Президентські вибори в Румунії",
+        "hover_text": "Президентські вибори в Румунії у 2024 році",
+        "share_text": "Президентські вибори в Румунії у 2024 році #GoogleDoodle"
+      },
+      "ur": {
+        "query": "رومانیہ کے صدارتی انتخابات",
+        "hover_text": "رومانیہ کے صدارتی انتخابات 2024",
+        "share_text": "رومانیہ کے صدارتی انتخابات 2024 GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Ruminiyada prezidentlik saylovi",
+        "hover_text": "Ruminiyada prezidentlik saylovi 2024",
+        "share_text": "Ruminiyada prezidentlik saylovi 2024 #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Bầu cử tổng thống Romania",
+        "hover_text": "Bầu cử tổng thống Romania năm 2024",
+        "share_text": "Bầu cử tổng thống Romania năm 2024 #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ukhetho Lukamongameli lwaseRomania",
+        "hover_text": "Ukhetho Lukamongameli lwaseRomania lwango-2024",
+        "share_text": "Ukhetho Lukamongameli lwaseRomania lwango-2024 #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "2024 Romania Elections",
+    "share_text": "Romania Presidential Elections 2024 #GoogleDoodle"
+  },
+  {
     "name": "celebrating-raul-seixas",
     "title": "Celebrating Raul Seixas",
     "url": "//www.google.com/logos/doodles/2024/celebrating-raul-seixas-6753651837110242-l.png",
