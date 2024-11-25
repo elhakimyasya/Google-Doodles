@@ -1,5 +1,504 @@
 [
   {
+    "name": "celebrating-chess",
+    "title": "Celebrating Chess",
+    "url": "//www.google.com/logos/doodles/2024/celebrating-chess-6753651837110594-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/8Ex5TMLI3BiZIYZ2Q2qK4xbv9XIouPkMbiPo6Rp888yGx5aHdDUHvXEWx3UeNK9Lg1JUBR9sslXD0ep6Eg79eaG_UYYuHX0X8A9Q5ey6Pj1mrlgTR1xO",
+    "high_res_url": "//www.google.com/logos/doodles/2024/celebrating-chess-6753651837110594-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      11,
+      25
+    ],
+    "translations": {
+      "en": {
+        "query": "Chess",
+        "hover_text": "Celebrating Chess",
+        "share_text": "Celebrating Chess! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Skaak",
+        "hover_text": "Ter viering van skaak",
+        "share_text": "Ter viering van skaak! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Shahu",
+        "hover_text": "Festojmë shahun",
+        "share_text": "Festojmë shahun! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ቼዝ",
+        "hover_text": "ቼዝን በማክበር ላይ",
+        "share_text": "ቼዝን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "شطرنج",
+        "hover_text": "نحتفل بلعبة الشطرنج",
+        "share_text": "نحتفل اليوم بلعبة الشطرنج. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Շախմատ",
+        "hover_text": "Տոնենք շախմատի օրը",
+        "share_text": "Տոնենք շախմատի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Şahmat",
+        "hover_text": "Şahmat günü",
+        "share_text": "Şahmat günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "দাবা",
+        "hover_text": "দাবার ঐতিহ্য উদযাপন করা হচ্ছে",
+        "share_text": "দাবার ঐতিহ্য উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Xakea",
+        "hover_text": "Xakearen omenez",
+        "share_text": "Xakearen omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Шахматы",
+        "hover_text": "Ушаноўваем шахматы",
+        "share_text": "Ушаноўваем шахматы! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Šah",
+        "hover_text": "Slavimo šah",
+        "share_text": "Slavimo šah! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Chess",
+        "hover_text": "Celebrating Chess",
+        "share_text": "Celebrating Chess #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Шах",
+        "hover_text": "Честване на Световното първенство по шах",
+        "share_text": "Честване на Световното първенство по шах! #GoogleDoodle"
+      },
+      "my": {
+        "query": "စစ်တုရင်",
+        "hover_text": "စစ်တုရင်ကို ဂုဏ်ပြုခြင်း",
+        "share_text": "စစ်တုရင်ကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Escacs",
+        "hover_text": "Homenatge als escacs",
+        "share_text": "Homenatge als escacs #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "國際象棋",
+        "hover_text": "以國際象棋對弈考驗智謀",
+        "share_text": "以國際象棋對弈考驗智謀！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "西洋棋",
+        "hover_text": "享受西洋棋樂趣",
+        "share_text": "享受西洋棋樂趣！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "国际象棋",
+        "hover_text": "国际象棋，“棋”乐无穷",
+        "share_text": "国际象棋，“棋”乐无穷！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Šah",
+        "hover_text": "Slavimo šah",
+        "share_text": "Slavimo šah! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Šachy",
+        "hover_text": "Oslavujeme šachy",
+        "share_text": "Oslavujeme šachy! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Skak",
+        "hover_text": "En hyldest til skak",
+        "share_text": "En hyldest til skak #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Schaken",
+        "hover_text": "Doodle ter ere van schaken",
+        "share_text": "Een doodle ter ere van schaken! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Male",
+        "hover_text": "Tunneme rõõmu malest",
+        "share_text": "Tunneme rõõmu malest! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Shakki",
+        "hover_text": "Shakki",
+        "share_text": "Shakki #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Jeu d'échecs",
+        "hover_text": "Le jeu d'échecs à l'honneur",
+        "share_text": "Le jeu d'échecs à l'honneur ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jeu d'échecs",
+        "hover_text": "Célébration du jeu d'échecs",
+        "share_text": "Célébrons le jeu d'échecs! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Xadrez",
+        "hover_text": "Homenaxe ao xadrez",
+        "share_text": "Homenaxe ao xadrez! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ჭადრაკი",
+        "hover_text": "აღვნიშნავთ ჭადრაკის დღეს",
+        "share_text": "აღვნიშნავთ ჭადრაკის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Schach",
+        "hover_text": "Wir feiern das Schachspiel",
+        "share_text": "Wir feiern das Schachspiel #GoogleDoodle"
+      },
+      "el": {
+        "query": "Σκάκι",
+        "hover_text": "Τιμούμε το σκάκι",
+        "share_text": "Τιμούμε το σκάκι! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ચેસ",
+        "hover_text": "ચેસ રમતની ઉજવણી કરી રહ્યાં છીએ",
+        "share_text": "ચેસ રમતની ઉજવણી કરી રહ્યાં છીએ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "שחמט",
+        "hover_text": "מחווה למשחק השחמט",
+        "share_text": "מחווה למשחק השחמט GoogleDoodle#"
+      },
+      "hi": {
+        "query": "शतरंज",
+        "hover_text": "शतरंज का जश्न",
+        "share_text": "शतरंज का जश्न! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Sakk",
+        "hover_text": "A sakk ünneplése",
+        "share_text": "A sakk ünneplése! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Skák",
+        "hover_text": "Við fögnum skák",
+        "share_text": "Við fögnum skák! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Catur",
+        "hover_text": "Merayakan Catur",
+        "share_text": "Merayakan Catur #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Scacchi",
+        "hover_text": "Un omaggio agli scacchi",
+        "share_text": "Un omaggio agli scacchi! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "チェス",
+        "hover_text": "チェスを称えて",
+        "share_text": "チェスを称えて #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಚೆಸ್",
+        "hover_text": "ಚೆಸ್ ಅನ್ನು ಸಂಭ್ರಮಿಸಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಚೆಸ್ ಅನ್ನು ಸಂಭ್ರಮಿಸಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Шахмат",
+        "hover_text": "Шахмат күні",
+        "share_text": "Шахмат күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "អុក",
+        "hover_text": "អបអរល្បែងអុក",
+        "share_text": "អបអរល្បែងអុក! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "체스",
+        "hover_text": "체스 기념",
+        "share_text": "체스 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Шахмат",
+        "hover_text": "Шахмат күнүн майрамдоо",
+        "share_text": "Шахмат күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ໝາກເສິກ",
+        "hover_text": "ວັນສະເຫຼີມສະຫຼອງໝາກເສິກ",
+        "share_text": "ວັນສະເຫຼີມສະຫຼອງໝາກເສິກ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Ajedrez",
+        "hover_text": "Celebrando el ajedrez",
+        "share_text": "¡Celebrando el ajedrez! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Šahs",
+        "hover_text": "Šaha godināšana",
+        "share_text": "Šaha godināšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Šachmatai",
+        "hover_text": "Šachmatų minėjimas",
+        "share_text": "Šachmatų minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Шах",
+        "hover_text": "Во чест на шахот",
+        "share_text": "Во чест на шахот! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Catur",
+        "hover_text": "Meraikan Catur",
+        "share_text": "Meraikan Catur! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ചെസ്സ്",
+        "hover_text": "ചെസ്സ് ആഘോഷമാക്കുന്നു",
+        "share_text": "ചെസ്സ് ആഘോഷമാക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "बुद्धिबळ",
+        "hover_text": "बुद्धिबळाच्या सन्मानार्थ",
+        "share_text": "बुद्धिबळाच्या सन्मानार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Шатар",
+        "hover_text": "Шатрыг алдаршуулж байна",
+        "share_text": "Шатрыг алдаршуулж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "चेस",
+        "hover_text": "चेसको उत्सव",
+        "share_text": "चेसको उत्सव! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Sjakk",
+        "hover_text": "Vi feirer sjakk",
+        "share_text": "Vi feirer sjakk! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "شطرنج",
+        "hover_text": "نکوداشت شطرنج",
+        "share_text": "نکوداشت شطرنج! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Szachy",
+        "hover_text": "Gramy w szachy",
+        "share_text": "Gramy w szachy #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Xadrez",
+        "hover_text": "Viva o xadrez",
+        "share_text": "Viva o xadrez! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Xadrez",
+        "hover_text": "Celebração do Xadrez",
+        "share_text": "Celebração do Xadrez! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਸ਼ਤਰੰਜ",
+        "hover_text": "ਸ਼ਤਰੰਜ ਦੇ ਜਸ਼ਨ ਵਿੱਚ",
+        "share_text": "ਸ਼ਤਰੰਜ ਦੇ ਜਸ਼ਨ ਵਿੱਚ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "șah",
+        "hover_text": "Sărbătorim șahul",
+        "share_text": "Sărbătorim șahul! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "шахматы",
+        "hover_text": "День шахмат",
+        "share_text": "День шахмат #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Шах",
+        "hover_text": "Славимо шах",
+        "share_text": "Славимо шах! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Šah",
+        "hover_text": "Slavimo šah",
+        "share_text": "Slavimo šah! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "චෙස්",
+        "hover_text": "චෙස් සමරමින්",
+        "share_text": "චෙස් සමරමින්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Šach",
+        "hover_text": "Oslavujeme šach",
+        "share_text": "Oslavujeme šach. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Šah",
+        "hover_text": "Slavimo šah",
+        "share_text": "Slavimo šah! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Ajedrez",
+        "hover_text": "Homenaje al ajedrez",
+        "share_text": "Hoy rendimos homenaje al ajedrez #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sataranji",
+        "hover_text": "Tunaenzi Sataranji",
+        "share_text": "Tunaenzi Sataranji! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Schack",
+        "hover_text": "Vi hyllar schack",
+        "share_text": "Vi hyllar schack! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "சதுரங்க விளையாட்டு",
+        "hover_text": "சதுரங்க விளையாட்டைக் கொண்டாடுவோம்",
+        "share_text": "சதுரங்க விளையாட்டைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "చెస్",
+        "hover_text": "చెస్ వేడుకలు",
+        "share_text": "చెస్ వేడుకలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "หมากรุก",
+        "hover_text": "วันเฉลิมฉลองหมากรุก",
+        "share_text": "วันเฉลิมฉลองหมากรุก! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Satranç",
+        "hover_text": "Satrancı Kutluyoruz",
+        "share_text": "Satrancı kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Шахи",
+        "hover_text": "Присвячено шахам",
+        "share_text": "Присвячено шахам! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "شطرنج",
+        "hover_text": "شطرنج کا جشن",
+        "share_text": "شطرنج کا جشن! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Shaxmat",
+        "hover_text": "Shaxmat kuni",
+        "share_text": "Shaxmat kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Cờ vua",
+        "hover_text": "Tôn vinh cờ vua",
+        "share_text": "Tôn vinh cờ vua! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "IChess",
+        "hover_text": "Sibungaza iChess",
+        "share_text": "Sibungaza iChess! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Chess",
+    "share_text": "Celebrating Chess! #GoogleDoodle"
+  },
+  {
     "name": "romania-presidential-elections-2024",
     "title": "Romania Presidential Elections 2024",
     "url": "//www.google.com/logos/doodles/2024/temp-romania-presidential-elections-2024-6753651837110313-l.png",
@@ -19,137 +518,137 @@
         "share_text": "Romania Presidential Elections 2024 #GoogleDoodle"
       },
       "af": {
-        "query": "Roemenië se presidensiële verkiesing",
+        "query": null,
         "hover_text": "Roemenië se presidensiële verkiesing 2024",
         "share_text": "Roemenië se presidensiële verkiesing 2024 #GoogleDoodle"
       },
       "sq": {
-        "query": "Zgjedhjet presidenciale në Rumani",
+        "query": null,
         "hover_text": "Zgjedhjet presidenciale në Rumani, 2024",
         "share_text": "Zgjedhjet presidenciale në Rumani, 2024 #GoogleDoodle"
       },
       "am": {
-        "query": "የሮማንያ የፕሬዝዳንት ምርጫዎች",
+        "query": null,
         "hover_text": "የሮማንያ የፕሬዝዳንት ምርጫዎች 2024",
         "share_text": "የሮማንያ የፕሬዝዳንት ምርጫዎች 2024 #GoogleDoodle"
       },
       "ar": {
-        "query": "الانتخابات الرئاسية في رومانيا",
+        "query": null,
         "hover_text": "الانتخابات الرئاسية في رومانيا 2024",
         "share_text": "انطلقت اليوم الانتخابات الرئاسية في رومانيا لعام 2024.‏ ‎#GoogleDoodle"
       },
       "hy": {
-        "query": "Ռումինիայի նախագահական ընտրություններ",
+        "query": null,
         "hover_text": "Ռումինիայի նախագահական ընտրություններ 2024",
         "share_text": "Ռումինիայի նախագահական ընտրություններ 2024 #GoogleDoodle"
       },
       "az": {
-        "query": "Rumıniya Prezident Seçkiləri",
+        "query": null,
         "hover_text": "2024 Rumıniya Prezident Seçkiləri",
         "share_text": "2024 Rumıniya Prezident Seçkiləri #GoogleDoodle"
       },
       "bn": {
-        "query": "রোমানিয়ার রাষ্ট্রপতি নির্বাচন",
+        "query": null,
         "hover_text": "রোমানিয়ার রাষ্ট্রপতি নির্বাচন ২০২৪",
         "share_text": "রোমানিয়ার রাষ্ট্রপতি নির্বাচন ২০২৪ #GoogleDoodle"
       },
       "eu": {
-        "query": "Errumaniako lehendakaritza-hauteskundeak",
+        "query": null,
         "hover_text": "2024ko Errumaniako lehendakaritza-hauteskundeak",
         "share_text": "2024ko Errumaniako lehendakaritza-hauteskundeak #GoogleDoodle"
       },
       "be": {
-        "query": "Выбары прэзідэнта Румыніі",
+        "query": null,
         "hover_text": "Выбары прэзідэнта Румыніі 2024",
         "share_text": "Выбары прэзідэнта Румыніі 2024 #GoogleDoodle"
       },
       "bs": {
-        "query": "Predsjednički izbori u Rumuniji",
+        "query": null,
         "hover_text": "Predsjednički izbori u Rumuniji 2024.",
         "share_text": "Predsjednički izbori u Rumuniji 2024. #GoogleDoodle"
       },
       "en-GB": {
-        "query": "Romania presidential elections",
+        "query": null,
         "hover_text": "Romania presidential elections 2024",
         "share_text": "Romania presidential elections 2024 #GoogleDoodle"
       },
       "bg": {
-        "query": "Президентски избори в Румъния",
+        "query": null,
         "hover_text": "Президентски избори в Румъния 2024 г.",
         "share_text": "Президентски избори в Румъния 2024 г. #GoogleDoodle"
       },
       "my": {
-        "query": "ရိုမေးနီးယားနိုင်ငံ သမ္မတရွေးကောက်ပွဲများ",
+        "query": null,
         "hover_text": "၂၀၂၄ ရိုမေးနီးယားနိုင်ငံ သမ္မတရွေးကောက်ပွဲများ",
         "share_text": "၂၀၂၄ ရိုမေးနီးယားနိုင်ငံ သမ္မတရွေးကောက်ပွဲများ #GoogleDoodle"
       },
       "ca": {
-        "query": "Eleccions presidencials a Romania",
+        "query": null,
         "hover_text": "Eleccions presidencials a Romania 2024",
         "share_text": "Eleccions presidencials a Romania 2024 #GoogleDoodle"
       },
       "zh-HK": {
-        "query": "羅馬尼亞總統選舉",
+        "query": null,
         "hover_text": "2024 年羅馬尼亞總統選舉",
         "share_text": "2024 年羅馬尼亞總統選舉 #GoogleDoodle"
       },
       "zh-TW": {
-        "query": "羅馬尼亞總統大選",
+        "query": null,
         "hover_text": "2024 羅馬尼亞總統大選",
         "share_text": "2024 羅馬尼亞總統大選 #GoogleDoodle"
       },
       "zh-CN": {
-        "query": "罗马尼亚总统选举",
+        "query": null,
         "hover_text": "2024 年罗马尼亚总统选举",
         "share_text": "2024 年罗马尼亚总统选举 #GoogleDoodle"
       },
       "hr": {
-        "query": "Predsjednički izbori u Rumunjskoj",
+        "query": null,
         "hover_text": "Predsjednički izbori u Rumunjskoj 2024.",
         "share_text": "Predsjednički izbori u Rumunjskoj 2024. #GoogleDoodle"
       },
       "cs": {
-        "query": "Rumunské prezidentské volby",
+        "query": null,
         "hover_text": "Rumunské prezidentské volby 2024",
         "share_text": "Rumunské prezidentské volby 2024 #GoogleDoodle"
       },
       "da": {
-        "query": "Præsidentvalg i Rumænien",
+        "query": null,
         "hover_text": "Præsidentvalg i Rumænien 2024",
         "share_text": "Præsidentvalg i Rumænien 2024 #GoogleDoodle"
       },
       "nl": {
-        "query": "Presidentsverkiezingen Roemenië",
+        "query": null,
         "hover_text": "Presidentsverkiezingen Roemenië 2024",
         "share_text": "Presidentsverkiezingen Roemenië 2024 #GoogleDoodle"
       },
       "et": {
-        "query": "Rumeenia presidendivalimised",
+        "query": null,
         "hover_text": "Rumeenia 2024. aasta presidendivalimised",
         "share_text": "Rumeenia 2024. aasta presidendivalimised #GoogleDoodle"
       },
       "fi": {
-        "query": "Romanian presidentinvaalit",
+        "query": null,
         "hover_text": "Romanian presidentinvaalit 2024",
         "share_text": "Romanian presidentinvaalit 2024 #GoogleDoodle"
       },
       "fr": {
-        "query": "Élections présidentielles en Roumanie",
+        "query": null,
         "hover_text": "Élections présidentielles 2024 en Roumanie",
         "share_text": "Élections présidentielles 2024 en Roumanie #GoogleDoodle"
       },
       "fr-CA": {
-        "query": "Élections présidentielles de la Roumanie",
+        "query": null,
         "hover_text": "Élections présidentielles de la Roumanie 2024",
         "share_text": "Élections présidentielles de la Roumanie 2024 #GoogleDoodle"
       },
       "gl": {
-        "query": "Eleccións presidenciais de Romanía",
+        "query": null,
         "hover_text": "Eleccións presidenciais de Romanía 2024",
         "share_text": "Eleccións presidenciais de Romanía 2024 #GoogleDoodle"
       },
       "ka": {
-        "query": "რუმინეთის საპრეზიდენტო არჩევნები",
+        "query": null,
         "hover_text": "რუმინეთის საპრეზიდენტო არჩევნები — 2024",
         "share_text": "რუმინეთის საპრეზიდენტო არჩევნები — 2024 #GoogleDoodle"
       },
@@ -159,12 +658,12 @@
         "share_text": "Präsidentschaftswahl in Rumänien 2024 #GoogleDoodle"
       },
       "el": {
-        "query": "Προεδρικές εκλογές στη Ρουμανία",
+        "query": null,
         "hover_text": "Προεδρικές εκλογές στη Ρουμανία 2024",
         "share_text": "Προεδρικές εκλογές στη Ρουμανία 2024 #GoogleDoodle"
       },
       "gu": {
-        "query": "રોમાનિયાની પ્રમુખપદની ચૂંટણીઓ",
+        "query": null,
         "hover_text": "રોમાનિયાની પ્રમુખપદની ચૂંટણીઓ 2024",
         "share_text": "રોમાનિયાની પ્રમુખપદની ચૂંટણીઓ 2024 #GoogleDoodle"
       },
@@ -174,27 +673,27 @@
         "share_text": ""
       },
       "iw": {
-        "query": "הבחירות לנשיאות ברומניה",
+        "query": null,
         "hover_text": "הבחירות לנשיאות ברומניה 2024",
         "share_text": "הבחירות לנשיאות ברומניה 2024 ‎#GoogleDoodle"
       },
       "hi": {
-        "query": "रोमानिया का राष्ट्रपति चुनाव",
+        "query": null,
         "hover_text": "रोमानिया का राष्ट्रपति चुनाव 2024",
         "share_text": "रोमानिया का राष्ट्रपति चुनाव 2024 #GoogleDoodle"
       },
       "hu": {
-        "query": "Elnökválasztás Romániában",
+        "query": null,
         "hover_text": "Elnökválasztás Romániában, 2024",
         "share_text": "Elnökválasztás Romániában, 2024 #GoogleDoodle"
       },
       "is": {
-        "query": "Forsetakosningar í Rúmeníu",
+        "query": null,
         "hover_text": "Forsetakosningar í Rúmeníu 2024",
         "share_text": "Forsetakosningar í Rúmeníu 2024 #GoogleDoodle"
       },
       "id": {
-        "query": "Pemilu Presiden Rumania",
+        "query": null,
         "hover_text": "Pemilu Presiden Rumania 2024",
         "share_text": "Pemilu Presiden Rumania 2024 #GoogleDoodle"
       },
@@ -204,62 +703,62 @@
         "share_text": ""
       },
       "it": {
-        "query": "Elezioni presidenziali in Romania",
+        "query": null,
         "hover_text": "Elezioni presidenziali 2024 in Romania",
         "share_text": "Elezioni presidenziali 2024 in Romania #GoogleDoodle"
       },
       "ja": {
-        "query": "ルーマニア大統領選挙",
+        "query": null,
         "hover_text": "2024 年ルーマニア大統領選挙",
         "share_text": "2024 年ルーマニア大統領選挙 #GoogleDoodle"
       },
       "kn": {
-        "query": "ರೊಮೇನಿಯಾ ಅಧ್ಯಕ್ಷೀಯ ಚುನಾವಣೆಗಳು",
+        "query": null,
         "hover_text": "ರೊಮೇನಿಯಾ ಅಧ್ಯಕ್ಷೀಯ ಚುನಾವಣೆಗಳು 2024",
         "share_text": "ರೊಮೇನಿಯಾ ಅಧ್ಯಕ್ಷೀಯ ಚುನಾವಣೆಗಳು 2024 #GoogleDoodle"
       },
       "kk": {
-        "query": "Румыниядағы Президент сайлауы",
+        "query": null,
         "hover_text": "Румыниядағы Президент сайлауы — 2024",
         "share_text": "Румыниядағы Президент сайлауы — 2024 #GoogleDoodle"
       },
       "km": {
-        "query": "ការបោះឆ្នោតជ្រើសរើសប្រធានាធិបតីរូម៉ានី",
+        "query": null,
         "hover_text": "ការបោះឆ្នោតជ្រើសរើសប្រធានាធិបតីរូម៉ានីឆ្នាំ 2024",
         "share_text": "ការបោះឆ្នោតជ្រើសរើសប្រធានាធិបតីរូម៉ានីឆ្នាំ 2024 #GoogleDoodle"
       },
       "ko": {
-        "query": "루마니아 대통령 선거",
+        "query": null,
         "hover_text": "2024년 루마니아 대통령 선거",
         "share_text": "2024년 루마니아 대통령 선거 #GoogleDoodle"
       },
       "ky": {
-        "query": "Румыниядагы Президенттик шайлоо",
+        "query": null,
         "hover_text": "Румыниядагы Президенттик шайлоо – 2024",
         "share_text": "Румыниядагы Президенттик шайлоо – 2024 #GoogleDoodle"
       },
       "lo": {
-        "query": "ການເລືອກຕັ້ງປະທານາທິບໍດີໂຣມາເນຍ",
+        "query": null,
         "hover_text": "ການເລືອກຕັ້ງປະທານາທິບໍດີໂຣມາເນຍປີ 2024",
         "share_text": "ການເລືອກຕັ້ງປະທານາທິບໍດີໂຣມາເນຍປີ 2024 #GoogleDoodle"
       },
       "es-419": {
-        "query": "Elecciones presidenciales de Rumania",
+        "query": null,
         "hover_text": "Elecciones presidenciales de Rumania 2024",
         "share_text": "Elecciones presidenciales de Rumania 2024 #GoogleDoodle"
       },
       "lv": {
-        "query": "Prezidenta vēlēšanas Rumānijā",
+        "query": null,
         "hover_text": "Prezidenta vēlēšanas Rumānijā — 2024",
         "share_text": "Prezidenta vēlēšanas Rumānijā — 2024 #GoogleDoodle"
       },
       "lt": {
-        "query": "Rumunijos prezidento rinkimai",
+        "query": null,
         "hover_text": "Rumunijos prezidento rinkimai, 2024 m.",
         "share_text": "Rumunijos prezidento rinkimai, 2024 m. #GoogleDoodle"
       },
       "mk": {
-        "query": "Претседателски избори во Романија",
+        "query": null,
         "hover_text": "Претседателски избори во Романија, 2024 г.",
         "share_text": "Претседателски избори во Романија, 2024 г. #GoogleDoodle"
       },
@@ -269,12 +768,12 @@
         "share_text": ""
       },
       "ms": {
-        "query": "Pilihan Raya Presiden Romania",
+        "query": null,
         "hover_text": "Pilihan Raya Presiden Romania 2024",
         "share_text": "Pilihan Raya Presiden Romania 2024 #GoogleDoodle"
       },
       "ml": {
-        "query": "റൊമാനിയൻ പ്രസിഡൻഷ്യൽ തിരഞ്ഞെടുപ്പ്",
+        "query": null,
         "hover_text": "റൊമാനിയൻ പ്രസിഡൻഷ്യൽ തിരഞ്ഞെടുപ്പ് 2024",
         "share_text": "റൊമാനിയൻ പ്രസിഡൻഷ്യൽ തിരഞ്ഞെടുപ്പ് 2024 #GoogleDoodle"
       },
@@ -284,22 +783,22 @@
         "share_text": ""
       },
       "mr": {
-        "query": "रोमानियामधील राष्ट्राध्यक्षीय निवडणुका",
+        "query": null,
         "hover_text": "रोमानियामधील राष्ट्राध्यक्षीय निवडणुका २०२४",
         "share_text": "रोमानियामधील राष्ट्राध्यक्षीय निवडणुका २०२४ #GoogleDoodle"
       },
       "mn": {
-        "query": "Румыны ерөнхийлөгчийн сонгууль",
+        "query": null,
         "hover_text": "2024 оны Румыны ерөнхийлөгчийн сонгууль",
         "share_text": "2024 оны Румыны ерөнхийлөгчийн сонгууль #GoogleDoodle"
       },
       "ne": {
-        "query": "रोमानियाको राष्ट्रपतीय निर्वाचन",
+        "query": null,
         "hover_text": "रोमानियाको राष्ट्रपतीय निर्वाचन २०२४",
         "share_text": "रोमानियाको राष्ट्रपतीय निर्वाचन २०२४ #GoogleDoodle"
       },
       "no": {
-        "query": "Presidentvalget i Romania",
+        "query": null,
         "hover_text": "Presidentvalget i Romania 2024",
         "share_text": "Presidentvalget i Romania 2024 #GoogleDoodle"
       },
@@ -324,27 +823,27 @@
         "share_text": ""
       },
       "fa": {
-        "query": "Romania Presidential Elections",
+        "query": null,
         "hover_text": "انتخابات ریاست جمهوری ۲۰۲۴ رومانی",
         "share_text": "انتخابات ریاست جمهوری ۲۰۲۴ رومانی ‎#GoogleDoodle"
       },
       "pl": {
-        "query": "Wybory prezydenckie w Rumunii",
+        "query": null,
         "hover_text": "Wybory prezydenckie 2024 w Rumunii",
         "share_text": "Wybory prezydenckie 2024 w Rumunii #GoogleDoodle"
       },
       "pt-BR": {
-        "query": "Eleições presidenciais da Romênia",
+        "query": null,
         "hover_text": "Eleições presidenciais da Romênia 2024",
         "share_text": "Eleições presidenciais da Romênia 2024 #GoogleDoodle"
       },
       "pt-PT": {
-        "query": "Eleições Presidenciais na Roménia",
+        "query": null,
         "hover_text": "Eleições Presidenciais na Roménia de 2024",
         "share_text": "Eleições Presidenciais na Roménia de 2024 #GoogleDoodle"
       },
       "pa": {
-        "query": "Romania Presidential Elections",
+        "query": null,
         "hover_text": "ਰੋਮਾਨੀਆ ਦੀਆਂ ਰਾਸ਼ਟਰਪਤੀ ਚੋਣਾਂ 2024",
         "share_text": "ਰੋਮਾਨੀਆ ਦੀਆਂ ਰਾਸ਼ਟਰਪਤੀ ਚੋਣਾਂ 2024 #GoogleDoodle"
       },
@@ -359,17 +858,17 @@
         "share_text": ""
       },
       "ru": {
-        "query": "президентские выборы в румынии",
+        "query": null,
         "hover_text": "Президентские выборы в Румынии – 2024",
         "share_text": "Президентские выборы в Румынии – 2024 #GoogleDoodle"
       },
       "sr": {
-        "query": "Председнички избори у Румунији",
+        "query": null,
         "hover_text": "Председнички избори у Румунији 2024.",
         "share_text": "Председнички избори у Румунији 2024. #GoogleDoodle"
       },
       "sr-Latn": {
-        "query": "Predsednički izbori u Rumuniji",
+        "query": null,
         "hover_text": "Predsednički izbori u Rumuniji 2024.",
         "share_text": "Predsednički izbori u Rumuniji 2024. #GoogleDoodle"
       },
@@ -389,17 +888,17 @@
         "share_text": ""
       },
       "si": {
-        "query": "රුමේනියාවේ ජනාධිපතිවරණය",
+        "query": null,
         "hover_text": "රුමේනියාවේ ජනාධිපතිවරණය 2024",
         "share_text": "රුමේනියාවේ ජනාධිපතිවරණය 2024 #GoogleDoodle"
       },
       "sk": {
-        "query": "Prezidentské voľby v Rumunsku",
+        "query": null,
         "hover_text": "Prezidentské voľby v Rumunsku 2024",
         "share_text": "Prezidentské voľby v Rumunsku 2024 #GoogleDoodle"
       },
       "sl": {
-        "query": "Romunske predsedniške volitve",
+        "query": null,
         "hover_text": "Romunske predsedniške volitve 2024",
         "share_text": "Romunske predsedniške volitve 2024 #GoogleDoodle"
       },
@@ -414,17 +913,17 @@
         "share_text": ""
       },
       "es": {
-        "query": "Elecciones presidenciales de Rumanía",
+        "query": null,
         "hover_text": "Elecciones presidenciales de Rumanía 2024",
         "share_text": "Elecciones presidenciales de Rumanía 2024 #GoogleDoodle"
       },
       "sw": {
-        "query": "Uchaguzi wa Urais wa Romania",
+        "query": null,
         "hover_text": "Uchaguzi wa Urais wa Romania 2024",
         "share_text": "Uchaguzi wa Urais wa Romania 2024 #GoogleDoodle"
       },
       "sv": {
-        "query": "Presidentval i Rumänien",
+        "query": null,
         "hover_text": "Presidentval i Rumänien 2024",
         "share_text": "Presidentval i Rumänien 2024 #GoogleDoodle"
       },
@@ -434,17 +933,17 @@
         "share_text": ""
       },
       "ta": {
-        "query": "ரொமேனியா அதிபர் தேர்தல்கள்",
+        "query": null,
         "hover_text": "ரொமேனியா அதிபர் தேர்தல்கள் 2024",
         "share_text": "ரொமேனியா அதிபர் தேர்தல்கள் 2024 #GoogleDoodle"
       },
       "te": {
-        "query": "రొమేనియా అధ్యక్ష ఎన్నికలు",
+        "query": null,
         "hover_text": "రొమేనియా అధ్యక్ష ఎన్నికలు 2024",
         "share_text": "రొమేనియా అధ్యక్ష ఎన్నికలు 2024 #GoogleDoodle"
       },
       "th": {
-        "query": "การเลือกตั้งประธานาธิบดีโรมาเนีย",
+        "query": null,
         "hover_text": "การเลือกตั้งประธานาธิบดีโรมาเนียปี 2024",
         "share_text": "การเลือกตั้งประธานาธิบดีโรมาเนียปี 2024 #GoogleDoodle"
       },
@@ -454,7 +953,7 @@
         "share_text": ""
       },
       "tr": {
-        "query": "Romanya Cumhurbaşkanlığı Seçimleri",
+        "query": null,
         "hover_text": "2024 Romanya Cumhurbaşkanlığı Seçimleri",
         "share_text": "2024 Romanya Cumhurbaşkanlığı Seçimleri #GoogleDoodle"
       },
@@ -464,22 +963,22 @@
         "share_text": ""
       },
       "uk": {
-        "query": "Президентські вибори в Румунії",
+        "query": null,
         "hover_text": "Президентські вибори в Румунії у 2024 році",
         "share_text": "Президентські вибори в Румунії у 2024 році #GoogleDoodle"
       },
       "ur": {
-        "query": "رومانیہ کے صدارتی انتخابات",
+        "query": null,
         "hover_text": "رومانیہ کے صدارتی انتخابات 2024",
         "share_text": "رومانیہ کے صدارتی انتخابات 2024 GoogleDoodle#"
       },
       "uz": {
-        "query": "Ruminiyada prezidentlik saylovi",
+        "query": null,
         "hover_text": "Ruminiyada prezidentlik saylovi 2024",
         "share_text": "Ruminiyada prezidentlik saylovi 2024 #GoogleDoodle"
       },
       "vi": {
-        "query": "Bầu cử tổng thống Romania",
+        "query": null,
         "hover_text": "Bầu cử tổng thống Romania năm 2024",
         "share_text": "Bầu cử tổng thống Romania năm 2024 #GoogleDoodle"
       },
@@ -489,7 +988,7 @@
         "share_text": ""
       },
       "zu": {
-        "query": "Ukhetho Lukamongameli lwaseRomania",
+        "query": null,
         "hover_text": "Ukhetho Lukamongameli lwaseRomania lwango-2024",
         "share_text": "Ukhetho Lukamongameli lwaseRomania lwango-2024 #GoogleDoodle"
       }
