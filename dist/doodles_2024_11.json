@@ -1,5 +1,1003 @@
 [
   {
+    "name": "ireland-general-elections-2024",
+    "title": "Ireland General Elections 2024",
+    "url": "//www.google.com/logos/doodles/2024/ireland-general-elections-2024-6753651837110642-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/qpp-dA4Yd8sQyesfiMPi_nqW94JzmxOblZTlmfUuNtgeOE6FDZ0mRL_9a3XjlzzaN-ApwL4fk6wwx1yt2ShmWpLmb_yIQN9gKqRvvCy0TlsKP_LRMYt3Ag",
+    "high_res_url": "//www.google.com/logos/doodles/2024/ireland-general-elections-2024-6753651837110642-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      11,
+      29
+    ],
+    "translations": {
+      "en": {
+        "query": "2024 Ireland Elections",
+        "hover_text": "Ireland General Elections 2024",
+        "share_text": "Ireland General Elections 2024! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sq": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "am": {
+        "query": "የ2024 የአየርላንድ ምርጫዎች",
+        "hover_text": "የአየርላንድ አጠቃላይ ምርጫዎች 2024",
+        "share_text": "የአየርላንድ አጠቃላይ ምርጫዎች 2024! #GoogleDoodle"
+      },
+      "ar": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hy": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "az": {
+        "query": "2024 İrlandiya Seçkiləri",
+        "hover_text": "2024 İrlandiya Ümumi Seçkiləri",
+        "share_text": "2024 İrlandiya Ümumi Seçkiləri! #GoogleDoodle"
+      },
+      "bn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "eu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "be": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "bs": {
+        "query": "Izbori u Irskoj 2024.",
+        "hover_text": "Opći izbori u Irskoj 2024.",
+        "share_text": "Opći izbori u Irskoj 2024! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "2024 Ireland Elections",
+        "hover_text": "Ireland General Elections 2024",
+        "share_text": "Ireland General Elections 2024! #GoogleDoodle"
+      },
+      "bg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "my": {
+        "query": "၂၀၂၄ အိုင်ယာလန်နိုင်ငံ ရွေးကောက်ပွဲများ",
+        "hover_text": "၂၀၂၄ အိုင်ယာလန်နိုင်ငံ အထွေထွေရွေးကောက်ပွဲများ",
+        "share_text": "၂၀၂၄ အိုင်ယာလန်နိုင်ငံ အထွေထွေရွေးကောက်ပွဲများ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zh-HK": {
+        "query": "2024 年愛爾蘭選舉",
+        "hover_text": "2024 年愛爾蘭大選",
+        "share_text": "2024 年愛爾蘭大選！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "2024 愛爾蘭大選",
+        "hover_text": "2024 愛爾蘭大選",
+        "share_text": "2024 愛爾蘭大選登場！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "cs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "da": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "nl": {
+        "query": "Verkiezingen Ierland 2024",
+        "hover_text": "Algemene verkiezingen Ierland 2024",
+        "share_text": "Algemene verkiezingen Ierland 2024! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Iirimaa 2024. aasta valimised",
+        "hover_text": "Iirimaa 2024. aasta üldvalimised",
+        "share_text": "Iirimaa 2024. aasta üldvalimised! #GoogleDoodle"
+      },
+      "fi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ka": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "de": {
+        "query": "Wahlen in Irland 2024",
+        "hover_text": "Parlamentswahl in Irland 2024",
+        "share_text": "Parlamentswahl in Irland 2024 #GoogleDoodle"
+      },
+      "el": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "gu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "הבחירות באירלנד 2024",
+        "hover_text": "הבחירות הכלליות באירלנד 2024",
+        "share_text": "הבחירות הכלליות באירלנד 2024 GoogleDoodle#"
+      },
+      "hi": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "hu": {
+        "query": "Választások Írországban, 2024",
+        "hover_text": "Általános választások Írországban, 2024",
+        "share_text": "Általános választások Írországban, 2024! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Kosningar á Írlandi 2024",
+        "hover_text": "Þingkosningar á Írlandi 2024",
+        "share_text": "Þingkosningar á Írlandi 2024! #GoogleDoodle"
+      },
+      "id": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ga": {
+        "query": "Olltoghchán 2024",
+        "hover_text": "Olltoghchán 2024",
+        "share_text": "Olltoghchán 2024 #GoogleDoodle"
+      },
+      "it": {
+        "query": "Elezioni 2024 in Irlanda",
+        "hover_text": "Elezioni generali 2024 in Irlanda",
+        "share_text": "Elezioni generali 2024 in Irlanda! #GoogleDoodle"
+      },
+      "ja": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "kn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "kk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "km": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ko": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ky": {
+        "query": "Ирландиядагы шайлоо – 2024",
+        "hover_text": "Ирландиядагы жалпы шайлоо – 2024",
+        "share_text": "Ирландиядагы жалпы шайлоо – 2024! #GoogleDoodle"
+      },
+      "lo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "lv": {
+        "query": "Vēlēšanas Īrijā — 2024",
+        "hover_text": "Vispārējās vēlēšanas Īrijā — 2024",
+        "share_text": "Vispārējās vēlēšanas Īrijā — 2024! #GoogleDoodle"
+      },
+      "lt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ml": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mn": {
+        "query": "2024 оны Ирландын сонгууль",
+        "hover_text": "2024 оны Ирландын бүх нийтийн сонгууль",
+        "share_text": "2024 оны Ирландын бүх нийтийн сонгууль! #GoogleDoodle"
+      },
+      "ne": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "no": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pl": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": "Eleições da Irlanda 2024",
+        "hover_text": "Eleições gerais da Irlanda 2024",
+        "share_text": "Eleições gerais da Irlanda 2024 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Eleições da Irlanda de 2024",
+        "hover_text": "Eleições Gerais da Irlanda de 2024",
+        "share_text": "Eleições Gerais da Irlanda de 2024! #GoogleDoodle"
+      },
+      "pa": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ro": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sr": {
+        "query": "Избори у Ирској 2024.",
+        "hover_text": "Општи избори у Ирској 2024.",
+        "share_text": "Општи избори у Ирској 2024! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Izbori u Irskoj 2024.",
+        "hover_text": "Opšti izbori u Irskoj 2024.",
+        "share_text": "Opšti izbori u Irskoj 2024! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sl": {
+        "query": "Volitve na Irskem 2024",
+        "hover_text": "Splošne volitve na Irskem 2024",
+        "share_text": "Splošne volitve na Irskem 2024. #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sw": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sv": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "te": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "th": {
+        "query": "วันเลือกตั้งของไอร์แลนด์ปี 2024",
+        "hover_text": "วันเลือกตั้งทั่วไปของไอร์แลนด์ปี 2024",
+        "share_text": "วันเลือกตั้งทั่วไปของไอร์แลนด์ปี 2024 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Вибори в Ірландії у 2024 році",
+        "hover_text": "Загальні вибори в Ірландії у 2024 році",
+        "share_text": "Загальні вибори в Ірландії у 2024 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "آئرلینڈ کے انتخابات 2024",
+        "hover_text": "آئرلینڈ کے عام انتخابات 2024",
+        "share_text": "آئرلینڈ کے عام انتخابات 2024! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "2024 Irlandiya saylovlari",
+        "hover_text": "Irlandiyada umumxalq saylovlari 2024",
+        "share_text": "Irlandiyada umumxalq saylovlari 2024! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Tổng tuyển cử ở Ireland năm 2024",
+        "hover_text": "Tổng tuyển cử ở Ireland năm 2024",
+        "share_text": "Tổng tuyển cử ở Ireland năm 2024! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "2024 Ireland Elections",
+    "share_text": "Ireland General Elections 2024! #GoogleDoodle"
+  },
+  {
+    "name": "thanksgiving-2024",
+    "title": "Thanksgiving 2024",
+    "url": "//www.google.com/logos/doodles/2024/thanksgiving-2024-6753651837110329-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/V1bvkfv5Mrfo41_d9q9eB1TC1UzdDz3p2IIkUyBx0KzIFFAK_CzMHw8LASGP3ImBOJ5wt0Y0o5m40Q2xsYfIHJGiVebyCb8DrtGZmdOx9NJuVmv9zHPIQw",
+    "high_res_url": "//www.google.com/logos/doodles/2024/thanksgiving-2024-6753651837110329-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      11,
+      28
+    ],
+    "translations": {
+      "en": {
+        "query": "Thanksgiving",
+        "hover_text": "Thanksgiving 2024",
+        "share_text": "Happy Thanksgiving! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Thanksgiving",
+        "hover_text": "Dankseggingsdag 2024",
+        "share_text": "Gelukkige Dankseggingsdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Falënderimeve",
+        "hover_text": "Dita e Falënderimeve, 2024",
+        "share_text": "Gëzuar Ditën e Falënderimeve! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የምስጋና ቀን",
+        "hover_text": "የምስጋና ቀን 2024",
+        "share_text": "መልካም የምስጋና ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد الشكر",
+        "hover_text": "عيد الشكر 2024",
+        "share_text": "أجمل الأمنيات بمناسبة عيد الشكر. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Գոհաբանության օր",
+        "hover_text": "Գոհաբանության օր 2024",
+        "share_text": "Շնորհավո՛ր գոհաբանության օր #GoogleDoodle"
+      },
+      "az": {
+        "query": "Şükranlıq günü",
+        "hover_text": "2024 Şükran Günü",
+        "share_text": "Şükran Gününüz mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "থ্যাঙ্কসগিভিং দিবস",
+        "hover_text": "থ্যাঙ্কসগিভিং দিবস ২০২৪",
+        "share_text": "থ্যাঙ্কসগিভিং দিবসের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Esker-emate eguna",
+        "hover_text": "2024ko Eskerrak Emateko Eguna",
+        "share_text": "Esker-emate egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень падзякi",
+        "hover_text": "Дзень падзякі 2024",
+        "share_text": "З Днём падзякі! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan zahvalnosti",
+        "hover_text": "Dan zahvalnosti 2024.",
+        "share_text": "Sretan Dan zahvalnosti! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Thanksgiving",
+        "hover_text": "Thanksgiving 2024",
+        "share_text": "Happy Thanksgiving! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на благодарността",
+        "hover_text": "Ден на благодарността 2024 г.",
+        "share_text": "Честит Ден на благодарността! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ကျေးဇူးတော်နေ့",
+        "hover_text": "၂၀၂၄ ကျေးဇူးတော်နေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် ကျေးဇူးတော်နေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia d'Acció de Gràcies",
+        "hover_text": "Dia d'Acció de Gràcies 2024",
+        "share_text": "Feliç Dia d'Acció de Gràcies! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "感恩節",
+        "hover_text": "2024 年感恩節",
+        "share_text": "感恩節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "感恩節",
+        "hover_text": "2024 感恩節",
+        "share_text": "感恩節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "感恩节",
+        "hover_text": "2024 年感恩节",
+        "share_text": "感恩节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan zahvalnosti",
+        "hover_text": "Dan zahvalnosti 2024.",
+        "share_text": "Sretan Dan zahvalnosti! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Díkůvzdání",
+        "hover_text": "Díkůvzdání 2024",
+        "share_text": "Veselé Díkůvzdání! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Thanksgiving",
+        "hover_text": "Thanksgiving 2024",
+        "share_text": "Glædelig Thanksgiving! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Thanksgiving",
+        "hover_text": "Thanksgiving 2024",
+        "share_text": "Fijne Thanksgiving! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Tänupüha",
+        "hover_text": "2024. aasta tänupüha",
+        "share_text": "Head tänupüha! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Kiitospäivä",
+        "hover_text": "Kiitospäivä 2024",
+        "share_text": "Hyvää kiitospäivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Thanksgiving",
+        "hover_text": "Thanksgiving 2024",
+        "share_text": "Joyeux Thanksgiving ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Action de grâces",
+        "hover_text": "Action de grâces 2024",
+        "share_text": "Joyeuse Action de grâce! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Acción de Grazas",
+        "hover_text": "Acción de Grazas 2024",
+        "share_text": "Feliz Día de Acción de Grazas! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მადლიერების დღე",
+        "hover_text": "მადლიერების დღე — 2024",
+        "share_text": "გილოცავთ მადლიერების დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Thanksgiving",
+        "hover_text": "Thanksgiving 2024",
+        "share_text": "Frohes Thanksgiving! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα των Ευχαριστιών",
+        "hover_text": "Ημέρα των Ευχαριστιών 2024",
+        "share_text": "Χαρούμενη Ημέρα των Ευχαριστιών! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "થેંક્સગિવિંગ",
+        "hover_text": "થેંક્સગિવિંગ 2024",
+        "share_text": "થેંક્સગિવિંગની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "חג ההודיה",
+        "hover_text": "חג ההודיה 2024",
+        "share_text": "חג הודיה שמח! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "थैंक्सगिविंग",
+        "hover_text": "थैंक्सगिविंग 2024",
+        "share_text": "थैंक्सगिविंग की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Hálaadás",
+        "hover_text": "Hálaadás, 2024",
+        "share_text": "Boldog hálaadást! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þakkargjörðarhátíð",
+        "hover_text": "Þakkargjörðarhátíð 2024",
+        "share_text": "Gleðilega þakkargjörðarhátíð! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Thanksgiving",
+        "hover_text": "Thanksgiving 2024",
+        "share_text": "Selamat Thanksgiving! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá an Altaithe",
+        "hover_text": null,
+        "share_text": "Lá an Altaithe faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Giorno del ringraziamento",
+        "hover_text": "Giorno del ringraziamento 2024",
+        "share_text": "Felice festa del ringraziamento! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "感謝祭",
+        "hover_text": "2024 年感謝祭",
+        "share_text": "感謝祭を祝おう #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಥ್ಯಾಂಕ್ಸ್‌ಗೀವಿಂಗ್‌",
+        "hover_text": "ಥ್ಯಾಂಕ್ಸ್‌ಗೀವಿಂಗ್ 2024",
+        "share_text": "ಥ್ಯಾಂಕ್ಸ್‌ಗೀವಿಂಗ್‌ನ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Алғыс айту күні",
+        "hover_text": "Алғыс айту күні – 2024",
+        "share_text": "Алғыс айту күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "បុណ្យថ្លែង​អំណរគុណ",
+        "hover_text": "បុណ្យថ្លែង​អំណរគុណ​ឆ្នាំ 2024",
+        "share_text": "អបអរ​បុណ្យថ្លែង​អំណរគុណ! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "추수감사절",
+        "hover_text": "2024년 추수감사절",
+        "share_text": "풍성한 추수감사절 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Ыраазычылык билдирүү күнү",
+        "hover_text": "Ыраазычылык билдирүү күнү – 2024",
+        "share_text": "Ыраазычылык билдирүү күнүңүз менен! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຂອບໃຈພະເຈົ້າ",
+        "hover_text": "ວັນຂອບໃຈພະເຈົ້າປີ 2024",
+        "share_text": "ສຸກສັນວັນຂອບໃຈພະເຈົ້າ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de Acción de Gracias",
+        "hover_text": "Día de Acción de Gracias 2024",
+        "share_text": "¡Feliz Día de Acción de Gracias! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Pateicības diena",
+        "hover_text": "Pateicības diena — 2024",
+        "share_text": "Priecīgu Pateicības dienu! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Padėkos diena",
+        "hover_text": "Padėkos diena, 2024 m.",
+        "share_text": "Linksmos Padėkos dienos! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на благодарноста",
+        "hover_text": "Ден на благодарноста, 2024 г.",
+        "share_text": "Среќен Ден на благодарноста! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Andro fisaorana",
+        "hover_text": null,
+        "share_text": "Tsarà Andro fisaorana ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Kesyukuran",
+        "hover_text": "Hari Kesyukuran 2024",
+        "share_text": "Selamat Hari Kesyukuran! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "താങ്ക്‌സ്‌ഗിവിംഗ്",
+        "hover_text": "താങ്ക്സ്‍ഗിവിംഗ് 2024",
+        "share_text": "താങ്ക്‌സ്‌ഗിവിംഗ് ആശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "थँक्सगिव्हिंग",
+        "hover_text": "थँक्सगिव्हिंग २०२४",
+        "share_text": "थँक्सगिव्हिंगच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Талархлын баяр",
+        "hover_text": "2024 оны Талархлын баяр",
+        "share_text": "Талархлын баярын мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "थ्याङ्क्सगिभिङ दिवस",
+        "hover_text": "थ्याङ्क्सगिभिङ २०२४",
+        "share_text": "थ्याङ्क्सगिभिङको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Thanksgiving",
+        "hover_text": "Thanksgiving 2024",
+        "share_text": "God Thanksgiving! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଥ୍ୟାଙ୍କସ୍‌ଗିଭିଂ",
+        "hover_text": null,
+        "share_text": "ଥେଙ୍କସଗିଭିଂର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز شکرگزاری",
+        "hover_text": "روز شکرگزاری ۲۰۲۴",
+        "share_text": "روز شکرگزاری مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Dziękczynienia",
+        "hover_text": "Święto Dziękczynienia 2024",
+        "share_text": "Szczęśliwego Święta Dziękczynienia! #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Ação de graças",
+        "hover_text": "Dia de Ação de Graças 2024",
+        "share_text": "Feliz Dia de Ação de Graças! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia de Ação de Graças",
+        "hover_text": "Dia de Ação de Graças de 2024",
+        "share_text": "Feliz Dia de Ação de Graças! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਧੰਨਵਾਦ ਦਿਵਸ",
+        "hover_text": "ਥੈਂਕਸਗਿਵਿੰਗ 2024",
+        "share_text": "ਧੰਨਵਾਦ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Recunoștinței",
+        "hover_text": "Ziua Recunoștinței 2024",
+        "share_text": "La mulți ani de Ziua Recunoștinței! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День благодарения",
+        "hover_text": "День благодарения – 2024",
+        "share_text": "День благодарения #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан захвалности",
+        "hover_text": "Дан захвалности 2024.",
+        "share_text": "Срећан Дан захвалности! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan zahvalnosti",
+        "hover_text": "Dan zahvalnosti 2024.",
+        "share_text": "Srećan Dan zahvalnosti! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Thanksgiving",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "තුති පිදීම",
+        "hover_text": "තුති පිදීම 2024",
+        "share_text": "ප්‍රීතිමත් තුති පිදීමක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň vďakyvzdania",
+        "hover_text": "Deň vďakyvzdania 2024",
+        "share_text": "Šťastné vďakyvzdanie! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Zahvalni dan",
+        "hover_text": "Zahvalni dan 2024",
+        "share_text": "Vesel zahvalni dan! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Thanksgiving",
+        "hover_text": null,
+        "share_text": "Mahadcelinta oo Farxada leh #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Diteboho",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Acción de Gracias",
+        "hover_text": "Día de Acción de Gracias 2024",
+        "share_text": "¡Feliz Día de Acción de Gracias! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Shukrani",
+        "hover_text": "Sikukuu ya shukrani 2024",
+        "share_text": "Heri ya Siku ya Shukrani! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Thanksgiving",
+        "hover_text": "Thanksgiving 2024",
+        "share_text": "Glad Thanksgiving! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "நன்றி தெரிவித்தல் தினம்",
+        "hover_text": "நன்றி தெரிவித்தல் தினம் 2024",
+        "share_text": "தேங்க்ஸ்கிவ்விங் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "థాంక్స్‌గివింగ్",
+        "hover_text": "థ్యాంక్స్‌గివింగ్ 2024",
+        "share_text": "థ్యాంక్స్‌గివింగ్ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันขอบคุณพระเจ้า",
+        "hover_text": "วันขอบคุณพระเจ้าปี 2024",
+        "share_text": "สุขสันต์วันขอบคุณพระเจ้า #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Neoditebogo",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Şükran Günü",
+        "hover_text": "2024 Şükran Günü",
+        "share_text": "Şükran Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День подяки",
+        "hover_text": "День подяки у 2024 році",
+        "share_text": "З Днем подяки! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم تشکر",
+        "hover_text": "یوم تشکر 2024",
+        "share_text": "یوم تشکر مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Shukronalik kuni",
+        "hover_text": "Shukronalik kuni 2024",
+        "share_text": "Shukronalik kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Lễ tạ ơn",
+        "hover_text": "Lễ Tạ ơn năm 2024",
+        "share_text": "Mừng Lễ Tạ ơn! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ukubonga",
+        "hover_text": "Ukubonga kwango-2024",
+        "share_text": "Sinifisela Ukubonga Okumnandi! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Thanksgiving",
+    "share_text": "Happy Thanksgiving! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-lancelot-ribeiro",
     "title": "Celebrating Lancelot Ribeiro",
     "url": "//www.google.com/logos/doodles/2024/celebrating-lancelot-ribeiro-6753651837110330.3-l.png",
@@ -1027,7 +2025,7 @@
         "share_text": "Zgjedhjet presidenciale në Rumani, 2024 #GoogleDoodle"
       },
       "am": {
-        "query": null,
+        "query": "የ2024 የሮማንያ ምርጫዎች",
         "hover_text": "የሮማንያ የፕሬዝዳንት ምርጫዎች 2024",
         "share_text": "የሮማንያ የፕሬዝዳንት ምርጫዎች 2024 #GoogleDoodle"
       },
@@ -1062,7 +2060,7 @@
         "share_text": "Выбары прэзідэнта Румыніі 2024 #GoogleDoodle"
       },
       "bs": {
-        "query": null,
+        "query": "Izbori u Rumuniji 2024.",
         "hover_text": "Predsjednički izbori u Rumuniji 2024.",
         "share_text": "Predsjednički izbori u Rumuniji 2024. #GoogleDoodle"
       },
@@ -1077,7 +2075,7 @@
         "share_text": "Президентски избори в Румъния 2024 г. #GoogleDoodle"
       },
       "my": {
-        "query": null,
+        "query": "၂၀၂၄ ရိုမေးနီးယားနိုင်ငံ ရွေးကောက်ပွဲများ",
         "hover_text": "၂၀၂၄ ရိုမေးနီးယားနိုင်ငံ သမ္မတရွေးကောက်ပွဲများ",
         "share_text": "၂၀၂၄ ရိုမေးနီးယားနိုင်ငံ သမ္မတရွေးကောက်ပွဲများ #GoogleDoodle"
       },
@@ -1092,7 +2090,7 @@
         "share_text": "2024 年羅馬尼亞總統選舉 #GoogleDoodle"
       },
       "zh-TW": {
-        "query": null,
+        "query": "2024 羅馬尼亞大選",
         "hover_text": "2024 羅馬尼亞總統大選",
         "share_text": "2024 羅馬尼亞總統大選 #GoogleDoodle"
       },
@@ -1122,7 +2120,7 @@
         "share_text": "Presidentsverkiezingen Roemenië 2024 #GoogleDoodle"
       },
       "et": {
-        "query": null,
+        "query": "Rumeenia 2024. aasta valimised",
         "hover_text": "Rumeenia 2024. aasta presidendivalimised",
         "share_text": "Rumeenia 2024. aasta presidendivalimised #GoogleDoodle"
       },
@@ -1172,7 +2170,7 @@
         "share_text": ""
       },
       "iw": {
-        "query": null,
+        "query": "הבחירות ברומניה 2024",
         "hover_text": "הבחירות לנשיאות ברומניה 2024",
         "share_text": "הבחירות לנשיאות ברומניה 2024 ‎#GoogleDoodle"
       },
@@ -1182,7 +2180,7 @@
         "share_text": "रोमानिया का राष्ट्रपति चुनाव 2024 #GoogleDoodle"
       },
       "hu": {
-        "query": null,
+        "query": "Választások Romániában, 2024",
         "hover_text": "Elnökválasztás Romániában, 2024",
         "share_text": "Elnökválasztás Romániában, 2024 #GoogleDoodle"
       },
@@ -1202,7 +2200,7 @@
         "share_text": ""
       },
       "it": {
-        "query": null,
+        "query": "Elezioni 2024 in Romania",
         "hover_text": "Elezioni presidenziali 2024 in Romania",
         "share_text": "Elezioni presidenziali 2024 in Romania #GoogleDoodle"
       },
@@ -1232,7 +2230,7 @@
         "share_text": "2024년 루마니아 대통령 선거 #GoogleDoodle"
       },
       "ky": {
-        "query": null,
+        "query": "Румыниядагы шайлоо – 2024",
         "hover_text": "Румыниядагы Президенттик шайлоо – 2024",
         "share_text": "Румыниядагы Президенттик шайлоо – 2024 #GoogleDoodle"
       },
@@ -1287,7 +2285,7 @@
         "share_text": "रोमानियामधील राष्ट्राध्यक्षीय निवडणुका २०२४ #GoogleDoodle"
       },
       "mn": {
-        "query": null,
+        "query": "2024 оны Румыны сонгууль",
         "hover_text": "2024 оны Румыны ерөнхийлөгчийн сонгууль",
         "share_text": "2024 оны Румыны ерөнхийлөгчийн сонгууль #GoogleDoodle"
       },
@@ -1332,12 +2330,12 @@
         "share_text": "Wybory prezydenckie 2024 w Rumunii #GoogleDoodle"
       },
       "pt-BR": {
-        "query": null,
+        "query": "Eleições da Romênia 2024",
         "hover_text": "Eleições presidenciais da Romênia 2024",
         "share_text": "Eleições presidenciais da Romênia 2024 #GoogleDoodle"
       },
       "pt-PT": {
-        "query": null,
+        "query": "Eleições da Roménia de 2024",
         "hover_text": "Eleições Presidenciais na Roménia de 2024",
         "share_text": "Eleições Presidenciais na Roménia de 2024 #GoogleDoodle"
       },
@@ -1362,12 +2360,12 @@
         "share_text": "Президентские выборы в Румынии – 2024 #GoogleDoodle"
       },
       "sr": {
-        "query": null,
+        "query": "Избори у Румунији 2024.",
         "hover_text": "Председнички избори у Румунији 2024.",
         "share_text": "Председнички избори у Румунији 2024. #GoogleDoodle"
       },
       "sr-Latn": {
-        "query": null,
+        "query": "Izbori u Rumuniji 2024.",
         "hover_text": "Predsednički izbori u Rumuniji 2024.",
         "share_text": "Predsednički izbori u Rumuniji 2024. #GoogleDoodle"
       },
@@ -1397,7 +2395,7 @@
         "share_text": "Prezidentské voľby v Rumunsku 2024 #GoogleDoodle"
       },
       "sl": {
-        "query": null,
+        "query": "Volitve v Romuniji 2024",
         "hover_text": "Romunske predsedniške volitve 2024",
         "share_text": "Romunske predsedniške volitve 2024 #GoogleDoodle"
       },
@@ -1462,12 +2460,12 @@
         "share_text": ""
       },
       "uk": {
-        "query": null,
+        "query": "Вибори в Румунії у 2024 році",
         "hover_text": "Президентські вибори в Румунії у 2024 році",
         "share_text": "Президентські вибори в Румунії у 2024 році #GoogleDoodle"
       },
       "ur": {
-        "query": null,
+        "query": "رومانیہ کے انتخابات 2024",
         "hover_text": "رومانیہ کے صدارتی انتخابات 2024",
         "share_text": "رومانیہ کے صدارتی انتخابات 2024 GoogleDoodle#"
       },
@@ -1477,7 +2475,7 @@
         "share_text": "Ruminiyada prezidentlik saylovi 2024 #GoogleDoodle"
       },
       "vi": {
-        "query": null,
+        "query": "Bầu cử tổng thống Romania năm 2024",
         "hover_text": "Bầu cử tổng thống Romania năm 2024",
         "share_text": "Bầu cử tổng thống Romania năm 2024 #GoogleDoodle"
       },
@@ -6402,7 +7400,7 @@
         "share_text": ""
       },
       "es": {
-        "query": "Mes Nacional de la Herencia Indígena Estadounidense",
+        "query": "Mes Nacional de la Herencia Indígena",
         "hover_text": "Homenaje al kayak",
         "share_text": "Hoy rendimos homenaje al kayak #GoogleDoodle"
       },
