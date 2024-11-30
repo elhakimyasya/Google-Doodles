@@ -1,5 +1,504 @@
 [
   {
+    "name": "st-andrews-day-2024",
+    "title": "St. Andrew's Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/st-andrews-day-2024-6753651837110331-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/3WL3XCi0CQieKp1lTZWu5KoRvtIedv0V4HZtkxxbJD4kDZANUhryDRIylHxvWu2Gv5vLEjQDhO9HTR1EklkGpKUfXNKaCn8f5IxPWwmfe4dUv0FB4r4Lrg",
+    "high_res_url": "//www.google.com/logos/doodles/2024/st-andrews-day-2024-6753651837110331-2x.png",
+    "high_res_width": 909,
+    "high_res_height": 460,
+    "run_date_array": [
+      2024,
+      11,
+      30
+    ],
+    "translations": {
+      "en": {
+        "query": "St. Andrew's Day",
+        "hover_text": "St. Andrew's Day 2024",
+        "share_text": "Happy St. Andrew's Day, United Kingdom! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Sint Andreasdag",
+        "hover_text": "Sint Andreasdag 2024",
+        "share_text": "Gelukkige Sint Andreasdag, Verenigde Koninkryk! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Shën Andreut",
+        "hover_text": "Dita e Shën Andreut, 2024",
+        "share_text": "Gëzuar Ditën e Shën Andreut, Mbretëri e Bashkuar! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የቅዱስ አንድሪያስ ቀን",
+        "hover_text": "የቅዱስ እንድሪያስ ቀን 2024",
+        "share_text": "መልካም የቅዱስ እንድሪያስ ቀን፣ ዩናይትድ ኪንግደም! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد القديس أندرو",
+        "hover_text": "يوم القديس \"أندراوس\" 2024",
+        "share_text": "نحتفل اليوم بعيد القديس \"أندراوس\" في المملكة المتحدة. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Սբ. Անդրեասի օր",
+        "hover_text": "Սուրբ Անդրեասի օր 2024",
+        "share_text": "Շնորհավո՛ր Սուրբ Անդրեասի օրը Միացյալ Թագավորությունում #GoogleDoodle"
+      },
+      "az": {
+        "query": "Müqəddəs Andrey günü",
+        "hover_text": "2024 Müqəddəs Andrey Günü",
+        "share_text": "Müqəddəs Andrey Günün Mübarək, Birləşmiş Krallıq! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "সেন্ট অ্যান্ড্রুজ দিবস",
+        "hover_text": "সেন্ট অ্যান্ড্রুজ দিবস ২০২৪",
+        "share_text": "সেন্ট অ্যান্ড্রুজ দিবসের শুভেচ্ছা, যুক্তরাজ্য! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "San Andres eguna",
+        "hover_text": "2024ko San Andres eguna",
+        "share_text": "San Andres egun zoriontsua izan, Erresuma Batua! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Андрэеў дзень",
+        "hover_text": "Андрэеў дзень 2024",
+        "share_text": "З Андрэевым днём, Вялікабрытанія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan sv. Andrije",
+        "hover_text": "Dan svetog Andrije 2024.",
+        "share_text": "Sretan Dan svetog Andrije, Ujedinjeno Kraljevstvo! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "St Andrew's Day",
+        "hover_text": "St. Andrew's Day 2024",
+        "share_text": "Happy St. Andrew's Day #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Андреевден",
+        "hover_text": "Свети Андрю 2024 г.",
+        "share_text": "Честит Ден на Свети Андрю на Обединеното кралство! #GoogleDoodle"
+      },
+      "my": {
+        "query": "စိန့်အန်ဒရူးနေ့",
+        "hover_text": "၂၀၂၄ စိန့်အန်ဒရူးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် စိန့်အန်ဒရူးနေ့ ဖြစ်ပါစေ ယူနိုက်တက်ကင်းဒမ်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de Sant Andreu",
+        "hover_text": "Dia de Sant Andreu 2024",
+        "share_text": "Feliç Dia de Sant Andreu, Regne Unit! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "聖安德魯日",
+        "hover_text": "2024 年聖安德烈日",
+        "share_text": "英國，聖安德烈日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "聖安德魯節",
+        "hover_text": "2024 聖安德魯節",
+        "share_text": "英國，聖安德魯節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "圣安德鲁日",
+        "hover_text": "2024 年圣安德鲁日",
+        "share_text": "欢庆英国圣安德鲁日！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan sv. Andrije",
+        "hover_text": "Dan sv. Andrije 2024.",
+        "share_text": "Sretan Dan sv. Andrije, Ujedinjeno Kraljevstvo! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den sv. Ondřeje",
+        "hover_text": "Den sv. Ondřeje 2024",
+        "share_text": "Šťastný den sv. Ondřeje, Spojené království! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Skt. Andrews dag",
+        "hover_text": "Skt. Andrews dag 2024",
+        "share_text": "Vi fejrer Storbritanniens Skt. Andrews dag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "St. Andrew's Day",
+        "hover_text": "St. Andrew's Day 2024",
+        "share_text": "Fijne St. Andrew's Day, Verenigd Koninkrijk! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Andresepäev",
+        "hover_text": "2024. aasta andresepäev",
+        "share_text": "Head andresepäeva, Ühendkuningriik! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Pyhän Andreaksen päivä",
+        "hover_text": "Pyhän Andreaksen päivä 2024",
+        "share_text": "Hyvää Pyhän Andreaksen päivää, Yhdistynyt kuningaskunta! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de la Saint-André",
+        "hover_text": "Fête de la St Andrew 2024",
+        "share_text": "Fête de la St Andrew au Royaume-Uni ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête de la Saint-André",
+        "hover_text": "Fête de la Saint-André 2024",
+        "share_text": "Joyeuse fête de la Saint-André du Royaume-Uni! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día de San Andrés",
+        "hover_text": "Día de Santo Andrés 2024",
+        "share_text": "Feliz Día de Santo Andrés, Reino Unido! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "წმ. ანდრიას დღე",
+        "hover_text": "წმ. ანდრიას დღე — 2024",
+        "share_text": "გაერთიანებულ სამეფოს ვულოცავთ წმ. ანდრიას დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "St. Andrew's Day (Schottland)",
+        "hover_text": "St. Andrew’s Day 2024",
+        "share_text": "Alles Gute zum St. Andrew's Day, Vereinigtes Königreich! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα του Αγίου Ανδρέα",
+        "hover_text": "Ημέρα του Αγίου Ανδρέα 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα του Αγίου Ανδρέα του Ηνωμένου Βασιλείου! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "St. Andrew દિવસ",
+        "hover_text": "સેઇન્ટ એંડ્ર્યુ ડે 2024",
+        "share_text": "સેઇન્ટ એંડ્ર્યુ ડેની શુભેચ્છા, યુનાઇટેડ કિંગડમ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום אנדראס הקדוש",
+        "hover_text": "יום אנדרו הקדוש 2024",
+        "share_text": "מציינים את יום אנדרו הקדוש בבריטניה GoogleDoodle#"
+      },
+      "hi": {
+        "query": "सेंट एंड्र्यू डे",
+        "hover_text": "सेंट ऐंड्रूज़ डे 2024",
+        "share_text": "सेंट ऐंड्रूज़ डे की शुभकामनाएं, यूनाइटेड किंगडम! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Szent András napja",
+        "hover_text": "Szent András napja, 2024",
+        "share_text": "Boldog Szent András napját az Egyesült Királyságban! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Dagur heilags Andrésar",
+        "hover_text": "Dagur heilags Andrésar 2024",
+        "share_text": "Gleðilegan dag heilags Andrésar, Bretland! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari St. Andreas",
+        "hover_text": "Hari St. Andreas 2024",
+        "share_text": "Selamat Hari St. Andreas, Inggris Raya! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá San Aindrias",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Festa di Sant'Andrea",
+        "hover_text": "Festa di Sant'Andrea 2024",
+        "share_text": "Buona festa di Sant'Andrea, Regno Unito! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "聖アンデレの日",
+        "hover_text": "2024 年聖アンデレの日",
+        "share_text": "英国聖アンデレの日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಸೇಂಟ್ ಆಂಡ್ರ್ಯೂಸ್ ದಿನ",
+        "hover_text": "ಸೇಂಟ್ ಆಂಡ್ರ್ಯೂ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಸೇಂಟ್ ಆಂಡ್ರ್ಯೂ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಯುನೈಟೆಡ್ ಕಿಂಗ್‌ಡಮ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Әулие Эндрю күні",
+        "hover_text": "Әулие Эндрю күні – 2024",
+        "share_text": "Әулие Эндрю күні құтты болсын, Біріккен Корольдік! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាបុណ្យ St. Andrew",
+        "hover_text": "ទិវាបុណ្យ St. Andrew ឆ្នាំ 2024",
+        "share_text": "អបអរទិវាបុណ្យ St. Andrew ចក្រភពអង់គ្លេស! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "성 안드레아 축일",
+        "hover_text": "2024년 성 안드레아 축일",
+        "share_text": "영국 성 안드레아 축일 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Ыйык Андрей күнү",
+        "hover_text": "Ыйык Андрей күнү – 2024",
+        "share_text": "Ыйык Андрей күнү менен, Улуу Британия! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນເຊນແອນດຣູ",
+        "hover_text": "ວັນນັກບຸນແອນດຣູວ໌ປີ 2024",
+        "share_text": "ສຸກສັນວັນນັກບຸນແອນດຣູວ໌ແຫ່ງສະຫະລາຊະອານາຈັກ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de San Andrés",
+        "hover_text": "Día de San Andrés 2024",
+        "share_text": "¡Feliz Día de San Andrés, Reino Unido! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Svētā Andreja diena",
+        "hover_text": "Svētā Andreja diena — 2024",
+        "share_text": "Sveicam Svētā Andreja dienā, Apvienotā Karaliste! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Šv. Andriejaus diena",
+        "hover_text": "Šv. Andriejaus diena, 2024 m.",
+        "share_text": "Sveikiname Jungtinę Karalystę su Šv. Andriejaus diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на Свети Ендрус",
+        "hover_text": "Св. Андреја, 2024 г.",
+        "share_text": "Среќен Св. Андреја, Обединето Кралство! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'i Md. Andrew",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Hari St. Andrew",
+        "hover_text": "Hari St. Andrew 2024",
+        "share_text": "Selamat Hari St. Andrew, United Kingdom! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "സെന്റ്. ആൻഡ്ര്യൂ ദിനം",
+        "hover_text": "സെന്റ് ആൻഡ്രൂസ് ദിനം 2024",
+        "share_text": "സെന്റ് ആൻഡ്രൂസ് ദിനാശംസകൾ, യുണൈറ്റഡ് കിംഗ്‌ഡം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "सेंट.ॲन्ड्रू डे",
+        "hover_text": "सेंट अँड्र्यूज डे २०२४",
+        "share_text": "युनायटेड किंगडमला सेंट अँड्र्यूज डे च्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Гэгээн Андрейгийн өдөр",
+        "hover_text": "2024 оны Гэгээн Андрейгийн өдөр",
+        "share_text": "Их Британи, Умард Ирландын Нэгдсэн Хаант Улсын иргэдэд Гэгээн Андрейгийн өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "St. Andrew दिवस",
+        "hover_text": "St. Andrew दिवस २०२४",
+        "share_text": "संयुक्त अधिराज्यको St. Andrew दिवसको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "St. Andrew's Day",
+        "hover_text": "St. Andrew's Day 2024",
+        "share_text": "Gratulerer med St. Andrew's Day, Storbritannia! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ସେଣ୍ଟ ଆଣ୍ଡ୍ର୍ୟୁଙ୍କ ଦିବସ",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز سنت اندرو",
+        "hover_text": "روز سنت اَندرو ۲۰۲۴",
+        "share_text": "روز سنت اَندرو بر مردم پادشاهی متحده خجسته! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Św. Andrzeja",
+        "hover_text": "Andrzejki 2024",
+        "share_text": "Wielka Brytania obchodzi Andrzejki #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia de Santo André",
+        "hover_text": "Dia do Santo André 2024",
+        "share_text": "Feliz Dia do Santo André, Reino Unido! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia de Santo André",
+        "hover_text": "Dia de Santo André de 2024",
+        "share_text": "Feliz Dia de Santo André, Reino Unido! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਸੇਂਟ ਐਂਡਰਿਊ ਦਿਵਸ",
+        "hover_text": "St. Andrew's Day 2024",
+        "share_text": "ਸੇਂਟ ਐਂਡਰਿਊ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਯੂਨਾਈਟਡ ਕਿੰਗਡਮ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Sf. Andrei",
+        "hover_text": "Ziua Sfântului Andrei 2024",
+        "share_text": "Regatul Unit, la mulți ani de ziua Sfântului Andrei! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День святого Андрея",
+        "hover_text": "День святого Андрея – 2024",
+        "share_text": "День святого Андрея в Великобритании #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан Светог Андрије 2019.",
+        "hover_text": "Дан Светог Андрије 2024.",
+        "share_text": "Срећан дан Светог Андрије, Уједињено Краљевство! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan Svetog Andrije 2019.",
+        "hover_text": "Dan Svetog Andrije 2024.",
+        "share_text": "Srećan dan Svetog Andrije, Ujedinjeno Kraljevstvo! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen sen Andrew",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ශාන්ත ඇණ්ඩෲ දිනය",
+        "hover_text": "ශාන්ත ඇන්ඩෘ දිනය 2024",
+        "share_text": "ප්‍රීතිමත් ශාන්ත ඇන්ඩෘගේ දිනයක්, එක්සත් රාජධානිය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň sv. Ondreja",
+        "hover_text": "Deň sv. Ondreja 2024",
+        "share_text": "Šťastný Deň sv. Ondreja, Spojené kráľovstvo! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan Sv. Andreja",
+        "hover_text": "Dan sv. Andreja 2024",
+        "share_text": "Vesel dan sv. Andreja, Združeno kraljestvo! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta St. Andrew",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": "Letsatsi la St. Andrew",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día de San Andrés",
+        "hover_text": "Día de San Andrés 2024",
+        "share_text": "¡Feliz Día de San Andrés, Reino Unido! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Mtakatifu Andrea",
+        "hover_text": "Sikukuu ya Mtakatifu Andrea 2024",
+        "share_text": "Heri ya Sikukuu ya Mtakatifu Andrea, Uingereza! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Sankt Andreas dag",
+        "hover_text": "St. Andrew's Day 2024",
+        "share_text": "Förenade kungariket firar St. Andrew's Day #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "புனிதர் ஆண்ட்ரூ தினம்",
+        "hover_text": "செயின்ட் ஆண்ட்ரூ தினம் 2024",
+        "share_text": "செயின்ட் ஆண்ட்ரூ தின வாழ்த்துகள், யுனைடெட் கிங்டம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "సెయింట్ ఆండ్రూస్ దినోత్సవం",
+        "hover_text": "సెయింట్ ఆండ్రూస్ డే 2024",
+        "share_text": "యునైటెడ్ కింగ్‌డమ్ ప్రజలకు సెయింట్ ఆండ్రూస్ డే శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันนักบุญแอนดรูว์",
+        "hover_text": "วันนักบุญแอนดรูว์ปี 2024",
+        "share_text": "สุขสันต์วันนักบุญแอนดรูว์แห่งสหราชอาณาจักร! #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la ga Moitsehepi Andrew",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "St. Andrew Günü",
+        "hover_text": "2024 Aziz Andrew Günü",
+        "share_text": "Birleşik Krallık'ın Aziz Andrew Günü'nü kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День Св. Андрія",
+        "hover_text": "День святого Андрія у 2024 році",
+        "share_text": "З Днем святого Андрія, Велика Британіє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم سنت اینڈریو",
+        "hover_text": "یوم St. Andrew ‏2024",
+        "share_text": "یوم St. Andrew کی مبارک باد، سلطنت متحدہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "St. Andrew kuni",
+        "hover_text": "Avliyo Andrew kuni 2024",
+        "share_text": "Avliyo Andrew kuni muborak, Birlashgan Qirollik! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Thánh Andrew",
+        "hover_text": "Ngày Thánh Andrew năm 2024",
+        "share_text": "Mừng Ngày Thánh Andrew tại Vương Quốc Anh! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku luka-St. Andrew",
+        "hover_text": "Usuku luka-St. Andrew luka-2024",
+        "share_text": "Sinifisela Usuku Oluhle luka-St. Andrew, United Kingdom! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "St. Andrew's Day",
+    "share_text": "Happy St. Andrew's Day, United Kingdom! #GoogleDoodle"
+  },
+  {
     "name": "ireland-general-elections-2024",
     "title": "Ireland General Elections 2024",
     "url": "//www.google.com/logos/doodles/2024/ireland-general-elections-2024-6753651837110642-l.png",
@@ -19,14 +518,14 @@
         "share_text": "Ireland General Elections 2024! #GoogleDoodle"
       },
       "af": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Ierland se verkiesing 2024",
+        "hover_text": "Ierland se algemene verkiesing 2024",
+        "share_text": "Ierland se algemene verkiesing 2024! #GoogleDoodle"
       },
       "sq": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Zgjedhjet në Irlandë, 2024",
+        "hover_text": "Zgjedhjet e përgjithshme në Irlandë, 2024",
+        "share_text": "Zgjedhjet e përgjithshme në Irlandë, 2024! #GoogleDoodle"
       },
       "am": {
         "query": "የ2024 የአየርላንድ ምርጫዎች",
@@ -34,14 +533,14 @@
         "share_text": "የአየርላንድ አጠቃላይ ምርጫዎች 2024! #GoogleDoodle"
       },
       "ar": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "انتخابات أيرلندا 2024",
+        "hover_text": "انتخابات أيرلندا العامة 2024",
+        "share_text": "انطلقت انتخابات أيرلندا العامة لعام 2024. ‎#GoogleDoodle"
       },
       "hy": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Ընտրություններ Իռլանդիայում 2024",
+        "hover_text": "Իռլանդիայի համընդհանուր ընտրություններ 2024",
+        "share_text": "Իռլանդիայի համընդհանուր ընտրություններ 2024 #GoogleDoodle"
       },
       "az": {
         "query": "2024 İrlandiya Seçkiləri",
@@ -49,19 +548,19 @@
         "share_text": "2024 İrlandiya Ümumi Seçkiləri! #GoogleDoodle"
       },
       "bn": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "২০২৪-এর আয়ারল্যান্ডের নির্বাচন",
+        "hover_text": "আয়ারল্যান্ডের সাধারণ নির্বাচন ২০২৪",
+        "share_text": "আয়ারল্যান্ডের সাধারণ নির্বাচন ২০২৪! #GoogleDoodle"
       },
       "eu": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "2024ko Irlandako hauteskundeak",
+        "hover_text": "2024ko Irlandako hauteskunde orokorrak",
+        "share_text": "2024ko Irlandako hauteskunde orokorrak #GoogleDoodle"
       },
       "be": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Выбары ў Ірландыі 2024",
+        "hover_text": "Усеагульныя выбары ў Ірландыі 2024",
+        "share_text": "Усеагульныя выбары ў Ірландыі 2024! #GoogleDoodle"
       },
       "bs": {
         "query": "Izbori u Irskoj 2024.",
@@ -74,9 +573,9 @@
         "share_text": "Ireland General Elections 2024! #GoogleDoodle"
       },
       "bg": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Избори в Ирландия 2024 г.",
+        "hover_text": "Общи избори в Ирландия 2024 г.",
+        "share_text": "Общи избори в Ирландия 2024 г.! #GoogleDoodle"
       },
       "my": {
         "query": "၂၀၂၄ အိုင်ယာလန်နိုင်ငံ ရွေးကောက်ပွဲများ",
@@ -84,9 +583,9 @@
         "share_text": "၂၀၂၄ အိုင်ယာလန်နိုင်ငံ အထွေထွေရွေးကောက်ပွဲများ။ #GoogleDoodle"
       },
       "ca": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Eleccions a Irlanda 2024",
+        "hover_text": "Eleccions generals a Irlanda 2024",
+        "share_text": "Eleccions generals a Irlanda 2024 #GoogleDoodle"
       },
       "zh-HK": {
         "query": "2024 年愛爾蘭選舉",
@@ -99,24 +598,24 @@
         "share_text": "2024 愛爾蘭大選登場！#GoogleDoodle"
       },
       "zh-CN": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "2024 年爱尔兰大选",
+        "hover_text": "2024 年爱尔兰大选",
+        "share_text": "2024 年爱尔兰大选！#GoogleDoodle"
       },
       "hr": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Izbori u Irskoj 2024.",
+        "hover_text": "Opći izbori u Irskoj 2024.",
+        "share_text": "Opći izbori u Irskoj 2024.! #GoogleDoodle"
       },
       "cs": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Irské volby 2024",
+        "hover_text": "Všeobecné volby v Irsku 2024",
+        "share_text": "Konají se všeobecné volby v Irsku 2024! #GoogleDoodle"
       },
       "da": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Valg i Irland 2024",
+        "hover_text": "Valg i Irland 2024",
+        "share_text": "Valg i Irland 2024 #GoogleDoodle"
       },
       "nl": {
         "query": "Verkiezingen Ierland 2024",
@@ -129,29 +628,29 @@
         "share_text": "Iirimaa 2024. aasta üldvalimised! #GoogleDoodle"
       },
       "fi": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Irlannin vaalit 2024",
+        "hover_text": "Irlannin vaalit 2024",
+        "share_text": "Irlannin vaalit 2024 #GoogleDoodle"
       },
       "fr": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Élections 2024 en Irlande",
+        "hover_text": "Élections générales 2024 en Irlande",
+        "share_text": "Élections générales 2024 en Irlande #GoogleDoodle"
       },
       "fr-CA": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Élections en Irlande 2024",
+        "hover_text": "Élections générales en Irlande 2024",
+        "share_text": "Élections générales en Irlande 2024! #GoogleDoodle"
       },
       "gl": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Eleccións de Irlanda 2024",
+        "hover_text": "Eleccións xerais de Irlanda 2024",
+        "share_text": "Eleccións xerais de Irlanda 2024! #GoogleDoodle"
       },
       "ka": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "ირლანდიის არჩევნები — 2024",
+        "hover_text": "ირლანდიის საყოველთაო არჩევნები — 2024",
+        "share_text": "ირლანდიის საყოველთაო არჩევნები — 2024! #GoogleDoodle"
       },
       "de": {
         "query": "Wahlen in Irland 2024",
@@ -159,14 +658,14 @@
         "share_text": "Parlamentswahl in Irland 2024 #GoogleDoodle"
       },
       "el": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Εκλογές στην Ιρλανδία 2024",
+        "hover_text": "Γενικές εκλογές στην Ιρλανδία 2024",
+        "share_text": "Γενικές εκλογές στην Ιρλανδία 2024! #GoogleDoodle"
       },
       "gu": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "2024ની આયર્લૅન્ડની ચૂંટણી",
+        "hover_text": "2024ની આયર્લૅન્ડની સામાન્ય ચૂંટણી",
+        "share_text": "2024ની આયર્લૅન્ડની સામાન્ય ચૂંટણી! #GoogleDoodle"
       },
       "ht": {
         "query": null,
@@ -179,9 +678,9 @@
         "share_text": "הבחירות הכלליות באירלנד 2024 GoogleDoodle#"
       },
       "hi": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "आयरलैंड के 2024 के चुनाव",
+        "hover_text": "आयरलैंड के आम चुनाव 2024",
+        "share_text": "आयरलैंड के आम चुनाव 2024! #GoogleDoodle"
       },
       "hu": {
         "query": "Választások Írországban, 2024",
@@ -194,9 +693,9 @@
         "share_text": "Þingkosningar á Írlandi 2024! #GoogleDoodle"
       },
       "id": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Pemilu Irlandia 2024",
+        "hover_text": "Pemilu Irlandia 2024",
+        "share_text": "Pemilu Irlandia 2024 #GoogleDoodle"
       },
       "ga": {
         "query": "Olltoghchán 2024",
@@ -209,29 +708,29 @@
         "share_text": "Elezioni generali 2024 in Irlanda! #GoogleDoodle"
       },
       "ja": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "2024 年アイルランド総選挙",
+        "hover_text": "2024 年アイルランド総選挙",
+        "share_text": "2024 年アイルランド総選挙！#GoogleDoodle"
       },
       "kn": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "2024 ರ ಐರ್ಲೆಂಡ್ ಚುನಾವಣೆಗಳು",
+        "hover_text": "ಐರ್ಲೆಂಡ್ ಸಾರ್ವತ್ರಿಕ ಚುನಾವಣೆಗಳು 2024",
+        "share_text": "ಐರ್ಲೆಂಡ್ ಸಾರ್ವತ್ರಿಕ ಚುನಾವಣೆಗಳು 2024! #GoogleDoodle"
       },
       "kk": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "2024 жылғы Ирландиядағы сайлау",
+        "hover_text": "2024 жылғы Ирландиядағы жалпы сайлау",
+        "share_text": "2024 жылғы Ирландиядағы жалпы сайлау #GoogleDoodle"
       },
       "km": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "ការបោះឆ្នោតនៅអៀរឡង់ឆ្នាំ 2024",
+        "hover_text": "ការបោះឆ្នោត​ថ្នាក់ជាតិ​នៅអៀរឡង់ឆ្នាំ 2024",
+        "share_text": "ការបោះឆ្នោត​ថ្នាក់ជាតិ​នៅអៀរឡង់ឆ្នាំ 2024! #GoogleDoodle"
       },
       "ko": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "2024년 아일랜드 선거",
+        "hover_text": "2024년 아일랜드 총선",
+        "share_text": "2024년 아일랜드 총선 기념 #GoogleDoodle"
       },
       "ky": {
         "query": "Ирландиядагы шайлоо – 2024",
@@ -239,14 +738,14 @@
         "share_text": "Ирландиядагы жалпы шайлоо – 2024! #GoogleDoodle"
       },
       "lo": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "ການເລືອກຕັ້ງໄອຣ໌ແລນ 2024",
+        "hover_text": "ການເລືອກຕັ້ງທົ່ວໄປໄອຣ໌ແລນ 2024",
+        "share_text": "ການເລືອກຕັ້ງທົ່ວໄປໄອຣ໌ແລນ 2024! #GoogleDoodle"
       },
       "es-419": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Elecciones de Irlanda 2024",
+        "hover_text": "Elecciones generales de Irlanda 2024",
+        "share_text": "Elecciones generales de Irlanda 2024 #GoogleDoodle"
       },
       "lv": {
         "query": "Vēlēšanas Īrijā — 2024",
@@ -254,14 +753,14 @@
         "share_text": "Vispārējās vēlēšanas Īrijā — 2024! #GoogleDoodle"
       },
       "lt": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "2024 m. Airijos rinkimai",
+        "hover_text": "2024 m. Airijos visuotiniai rinkimai",
+        "share_text": "2024 m. Airijos visuotiniai rinkimai! #GoogleDoodle"
       },
       "mk": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Избори во Ирска, 2024 г.",
+        "hover_text": "Општи избори во Ирска, 2024 г.",
+        "share_text": "Општи избори во Ирска, 2024 г.! #GoogleDoodle"
       },
       "mg": {
         "query": null,
@@ -269,14 +768,14 @@
         "share_text": ""
       },
       "ms": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Pilihan Raya Ireland 2024",
+        "hover_text": "Pilihan Raya Umum Ireland 2024",
+        "share_text": "Pilihan Raya Umum Ireland 2024! #GoogleDoodle"
       },
       "ml": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "അയർലൻഡ് തിരഞ്ഞെടുപ്പ് 2024",
+        "hover_text": "അയർലൻഡ് പൊതുതിരഞ്ഞെടുപ്പ് 2024",
+        "share_text": "അയർലൻഡ് പൊതുതിരഞ്ഞെടുപ്പ് 2024! #GoogleDoodle"
       },
       "mt": {
         "query": null,
@@ -284,9 +783,9 @@
         "share_text": ""
       },
       "mr": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "आयर्लंड येथील २०२४ मधील निवडणुका",
+        "hover_text": "आयर्लंड येथील सर्वसाधारण निवडणुका २०२४",
+        "share_text": "आयर्लंड येथील सर्वसाधारण निवडणुका २०२४! #GoogleDoodle"
       },
       "mn": {
         "query": "2024 оны Ирландын сонгууль",
@@ -294,14 +793,14 @@
         "share_text": "2024 оны Ирландын бүх нийтийн сонгууль! #GoogleDoodle"
       },
       "ne": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "आयरल्यान्डको निर्वाचन २०२४",
+        "hover_text": "आयरल्यान्डको आम निर्वाचन २०२४",
+        "share_text": "आयरल्यान्डको आम निर्वाचन २०२४! #GoogleDoodle"
       },
       "no": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Valg i Irland 2024",
+        "hover_text": "Valget i Irland 2024",
+        "share_text": "Valget i Irland 2024! #GoogleDoodle"
       },
       "nn": {
         "query": null,
@@ -324,14 +823,14 @@
         "share_text": ""
       },
       "fa": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "انتخابات ۲۰۲۴ ایرلند",
+        "hover_text": "انتخابات سراسری ۲۰۲۴ ایرلند",
+        "share_text": "انتخابات سراسری ۲۰۲۴ ایرلند! ‎#GoogleDoodle"
       },
       "pl": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Wybory 2024 w Irlandii",
+        "hover_text": "Wybory powszechne 2024 w Irlandii",
+        "share_text": "Wybory powszechne 2024 w Irlandii #GoogleDoodle"
       },
       "pt-BR": {
         "query": "Eleições da Irlanda 2024",
@@ -344,14 +843,14 @@
         "share_text": "Eleições Gerais da Irlanda de 2024! #GoogleDoodle"
       },
       "pa": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "2024 Ireland Elections",
+        "hover_text": "ਆਇਰਲੈਂਡ ਦੀਆਂ ਆਮ ਚੋਣਾਂ 2024",
+        "share_text": "ਆਇਰਲੈਂਡ ਦੀਆਂ ਆਮ ਚੋਣਾਂ 2024! #GoogleDoodle"
       },
       "ro": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "alegeri în Irlanda 2024",
+        "hover_text": "alegeri generale în Irlanda 2024",
+        "share_text": "Alegeri generale în Irlanda 2024! #GoogleDoodle"
       },
       "ro-MD": {
         "query": null,
@@ -359,9 +858,9 @@
         "share_text": ""
       },
       "ru": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Выборы в Ирландии – 2024",
+        "hover_text": "Всеобщие выборы в Ирландии – 2024",
+        "share_text": "Всеобщие выборы в Ирландии – 2024 #GoogleDoodle"
       },
       "sr": {
         "query": "Избори у Ирској 2024.",
@@ -389,14 +888,14 @@
         "share_text": ""
       },
       "si": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "2024 අයර්ලන්ත මැතිවරණය",
+        "hover_text": "අයර්ලන්ත මහ මැතිවරණය 2024",
+        "share_text": "අයර්ලන්ත මහ මැතිවරණය 2024! #GoogleDoodle"
       },
       "sk": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Írske voľby 2024",
+        "hover_text": "Írske všeobecné voľby 2024",
+        "share_text": "Írske všeobecné voľby 2024. #GoogleDoodle"
       },
       "sl": {
         "query": "Volitve na Irskem 2024",
@@ -414,19 +913,19 @@
         "share_text": ""
       },
       "es": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Elecciones en Irlanda 2024",
+        "hover_text": "Elecciones generales en Irlanda 2024",
+        "share_text": "Elecciones generales en Irlanda 2024 #GoogleDoodle"
       },
       "sw": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Uchaguzi wa Ayalandi 2024",
+        "hover_text": "Uchaguzi Mkuu wa Ayalandi 2024",
+        "share_text": "Uchaguzi Mkuu wa Ayalandi 2024! #GoogleDoodle"
       },
       "sv": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Val i Irland 2024",
+        "hover_text": "Allmänna val i Irland 2024",
+        "share_text": "Allmänna val i Irland 2024 #GoogleDoodle"
       },
       "tg": {
         "query": null,
@@ -434,14 +933,14 @@
         "share_text": ""
       },
       "ta": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "2024 அயர்லாந்து தேர்தல்கள்",
+        "hover_text": "அயர்லாந்து பொதுத் தேர்தல்கள் 2024",
+        "share_text": "அயர்லாந்து பொதுத் தேர்தல்கள் 2024! #GoogleDoodle"
       },
       "te": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "2024 ఐర్లాండ్ ఎన్నికలు",
+        "hover_text": "ఐర్లాండ్ సార్వత్రిక ఎన్నికలు 2024",
+        "share_text": "ఐర్లాండ్ సార్వత్రిక ఎన్నికలు 2024! #GoogleDoodle"
       },
       "th": {
         "query": "วันเลือกตั้งของไอร์แลนด์ปี 2024",
@@ -454,9 +953,9 @@
         "share_text": ""
       },
       "tr": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "2024 İrlanda Seçimleri",
+        "hover_text": "2024 İrlanda Genel Seçimleri",
+        "share_text": "2024 İrlanda Genel Seçimleri. #GoogleDoodle"
       },
       "tk": {
         "query": null,
@@ -489,9 +988,9 @@
         "share_text": ""
       },
       "zu": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Ukhetho lwase-Ireland lwango-2024",
+        "hover_text": "Ukhetho Lukazwelonke lwase-Ireland lwango-2024",
+        "share_text": "Ukhetho Lukazwelonke lwase-Ireland lwango-2024! #GoogleDoodle"
       }
     },
     "translated_blog_posts": {},
@@ -2015,12 +2514,12 @@
         "share_text": "Romania Presidential Elections 2024 #GoogleDoodle"
       },
       "af": {
-        "query": null,
+        "query": "Roemenië se verkiesing 2024",
         "hover_text": "Roemenië se presidensiële verkiesing 2024",
         "share_text": "Roemenië se presidensiële verkiesing 2024 #GoogleDoodle"
       },
       "sq": {
-        "query": null,
+        "query": "Zgjedhjet në Rumani, 2024",
         "hover_text": "Zgjedhjet presidenciale në Rumani, 2024",
         "share_text": "Zgjedhjet presidenciale në Rumani, 2024 #GoogleDoodle"
       },
@@ -2030,12 +2529,12 @@
         "share_text": "የሮማንያ የፕሬዝዳንት ምርጫዎች 2024 #GoogleDoodle"
       },
       "ar": {
-        "query": null,
+        "query": "انتخابات رومانيا 2024",
         "hover_text": "الانتخابات الرئاسية في رومانيا 2024",
         "share_text": "انطلقت اليوم الانتخابات الرئاسية في رومانيا لعام 2024.‏ ‎#GoogleDoodle"
       },
       "hy": {
-        "query": null,
+        "query": "Ընտրություններ Ռումինիայում 2024",
         "hover_text": "Ռումինիայի նախագահական ընտրություններ 2024",
         "share_text": "Ռումինիայի նախագահական ընտրություններ 2024 #GoogleDoodle"
       },
@@ -2045,17 +2544,17 @@
         "share_text": "2024 Rumıniya Prezident Seçkiləri #GoogleDoodle"
       },
       "bn": {
-        "query": null,
+        "query": "২০২৪-এর রোমানিয়ার নির্বাচন",
         "hover_text": "রোমানিয়ার রাষ্ট্রপতি নির্বাচন ২০২৪",
         "share_text": "রোমানিয়ার রাষ্ট্রপতি নির্বাচন ২০২৪ #GoogleDoodle"
       },
       "eu": {
-        "query": null,
+        "query": "2024ko Errumaniako hauteskundeak",
         "hover_text": "2024ko Errumaniako lehendakaritza-hauteskundeak",
         "share_text": "2024ko Errumaniako lehendakaritza-hauteskundeak #GoogleDoodle"
       },
       "be": {
-        "query": null,
+        "query": "Выбары ў Румыніі 2024",
         "hover_text": "Выбары прэзідэнта Румыніі 2024",
         "share_text": "Выбары прэзідэнта Румыніі 2024 #GoogleDoodle"
       },
@@ -2065,12 +2564,12 @@
         "share_text": "Predsjednički izbori u Rumuniji 2024. #GoogleDoodle"
       },
       "en-GB": {
-        "query": null,
+        "query": "2024 Romania Elections",
         "hover_text": "Romania presidential elections 2024",
         "share_text": "Romania presidential elections 2024 #GoogleDoodle"
       },
       "bg": {
-        "query": null,
+        "query": "Избори в Румъния 2024 г.",
         "hover_text": "Президентски избори в Румъния 2024 г.",
         "share_text": "Президентски избори в Румъния 2024 г. #GoogleDoodle"
       },
@@ -2080,7 +2579,7 @@
         "share_text": "၂၀၂၄ ရိုမေးနီးယားနိုင်ငံ သမ္မတရွေးကောက်ပွဲများ #GoogleDoodle"
       },
       "ca": {
-        "query": null,
+        "query": "Eleccions a Romania 2024",
         "hover_text": "Eleccions presidencials a Romania 2024",
         "share_text": "Eleccions presidencials a Romania 2024 #GoogleDoodle"
       },
@@ -2095,22 +2594,22 @@
         "share_text": "2024 羅馬尼亞總統大選 #GoogleDoodle"
       },
       "zh-CN": {
-        "query": null,
+        "query": "2024 年罗马尼亚大选",
         "hover_text": "2024 年罗马尼亚总统选举",
         "share_text": "2024 年罗马尼亚总统选举 #GoogleDoodle"
       },
       "hr": {
-        "query": null,
+        "query": "Predsjednički izbori u Rumunjskoj 2024.",
         "hover_text": "Predsjednički izbori u Rumunjskoj 2024.",
         "share_text": "Predsjednički izbori u Rumunjskoj 2024. #GoogleDoodle"
       },
       "cs": {
-        "query": null,
+        "query": "Volby v Rumunsku 2024",
         "hover_text": "Rumunské prezidentské volby 2024",
         "share_text": "Rumunské prezidentské volby 2024 #GoogleDoodle"
       },
       "da": {
-        "query": null,
+        "query": "Valg i Rumænien 2024",
         "hover_text": "Præsidentvalg i Rumænien 2024",
         "share_text": "Præsidentvalg i Rumænien 2024 #GoogleDoodle"
       },
@@ -2125,27 +2624,27 @@
         "share_text": "Rumeenia 2024. aasta presidendivalimised #GoogleDoodle"
       },
       "fi": {
-        "query": null,
+        "query": "Romanian vaalit 2024",
         "hover_text": "Romanian presidentinvaalit 2024",
         "share_text": "Romanian presidentinvaalit 2024 #GoogleDoodle"
       },
       "fr": {
-        "query": null,
+        "query": "Élections 2024 en Roumanie",
         "hover_text": "Élections présidentielles 2024 en Roumanie",
         "share_text": "Élections présidentielles 2024 en Roumanie #GoogleDoodle"
       },
       "fr-CA": {
-        "query": null,
+        "query": "Élections en Roumanie 2024",
         "hover_text": "Élections présidentielles de la Roumanie 2024",
         "share_text": "Élections présidentielles de la Roumanie 2024 #GoogleDoodle"
       },
       "gl": {
-        "query": null,
+        "query": "Eleccións de Romanía 2024",
         "hover_text": "Eleccións presidenciais de Romanía 2024",
         "share_text": "Eleccións presidenciais de Romanía 2024 #GoogleDoodle"
       },
       "ka": {
-        "query": null,
+        "query": "რუმინეთის არჩევნები – 2024",
         "hover_text": "რუმინეთის საპრეზიდენტო არჩევნები — 2024",
         "share_text": "რუმინეთის საპრეზიდენტო არჩევნები — 2024 #GoogleDoodle"
       },
@@ -2155,12 +2654,12 @@
         "share_text": "Präsidentschaftswahl in Rumänien 2024 #GoogleDoodle"
       },
       "el": {
-        "query": null,
+        "query": "Εκλογές στη Ρουμανία 2024",
         "hover_text": "Προεδρικές εκλογές στη Ρουμανία 2024",
         "share_text": "Προεδρικές εκλογές στη Ρουμανία 2024 #GoogleDoodle"
       },
       "gu": {
-        "query": null,
+        "query": "2024ની રોમાનિયાની ચૂંટણી",
         "hover_text": "રોમાનિયાની પ્રમુખપદની ચૂંટણીઓ 2024",
         "share_text": "રોમાનિયાની પ્રમુખપદની ચૂંટણીઓ 2024 #GoogleDoodle"
       },
@@ -2175,7 +2674,7 @@
         "share_text": "הבחירות לנשיאות ברומניה 2024 ‎#GoogleDoodle"
       },
       "hi": {
-        "query": null,
+        "query": "रोमानिया के 2024 के चुनाव",
         "hover_text": "रोमानिया का राष्ट्रपति चुनाव 2024",
         "share_text": "रोमानिया का राष्ट्रपति चुनाव 2024 #GoogleDoodle"
       },
@@ -2190,12 +2689,12 @@
         "share_text": "Forsetakosningar í Rúmeníu 2024 #GoogleDoodle"
       },
       "id": {
-        "query": null,
+        "query": "Pemilu Rumania 2024",
         "hover_text": "Pemilu Presiden Rumania 2024",
         "share_text": "Pemilu Presiden Rumania 2024 #GoogleDoodle"
       },
       "ga": {
-        "query": null,
+        "query": "Toghcháin na Rómáine 2024",
         "hover_text": null,
         "share_text": ""
       },
@@ -2205,27 +2704,27 @@
         "share_text": "Elezioni presidenziali 2024 in Romania #GoogleDoodle"
       },
       "ja": {
-        "query": null,
+        "query": "2024 年ルーマニア総選挙",
         "hover_text": "2024 年ルーマニア大統領選挙",
         "share_text": "2024 年ルーマニア大統領選挙 #GoogleDoodle"
       },
       "kn": {
-        "query": null,
+        "query": "2024 ರ ರೊಮೇನಿಯಾ ಚುನಾವಣೆಗಳು",
         "hover_text": "ರೊಮೇನಿಯಾ ಅಧ್ಯಕ್ಷೀಯ ಚುನಾವಣೆಗಳು 2024",
         "share_text": "ರೊಮೇನಿಯಾ ಅಧ್ಯಕ್ಷೀಯ ಚುನಾವಣೆಗಳು 2024 #GoogleDoodle"
       },
       "kk": {
-        "query": null,
+        "query": "2024 жылғы Румыниядағы сайлау",
         "hover_text": "Румыниядағы Президент сайлауы — 2024",
         "share_text": "Румыниядағы Президент сайлауы — 2024 #GoogleDoodle"
       },
       "km": {
-        "query": null,
+        "query": "ការបោះឆ្នោតនៅរូម៉ានីឆ្នាំ 2024",
         "hover_text": "ការបោះឆ្នោតជ្រើសរើសប្រធានាធិបតីរូម៉ានីឆ្នាំ 2024",
         "share_text": "ការបោះឆ្នោតជ្រើសរើសប្រធានាធិបតីរូម៉ានីឆ្នាំ 2024 #GoogleDoodle"
       },
       "ko": {
-        "query": null,
+        "query": "2024년 루마니아 선거",
         "hover_text": "2024년 루마니아 대통령 선거",
         "share_text": "2024년 루마니아 대통령 선거 #GoogleDoodle"
       },
@@ -2235,12 +2734,12 @@
         "share_text": "Румыниядагы Президенттик шайлоо – 2024 #GoogleDoodle"
       },
       "lo": {
-        "query": null,
+        "query": "ການເລືອກຕັ້ງໂຣມາເນຍ 2024",
         "hover_text": "ການເລືອກຕັ້ງປະທານາທິບໍດີໂຣມາເນຍປີ 2024",
         "share_text": "ການເລືອກຕັ້ງປະທານາທິບໍດີໂຣມາເນຍປີ 2024 #GoogleDoodle"
       },
       "es-419": {
-        "query": null,
+        "query": "Elecciones de Rumania 2024",
         "hover_text": "Elecciones presidenciales de Rumania 2024",
         "share_text": "Elecciones presidenciales de Rumania 2024 #GoogleDoodle"
       },
@@ -2250,12 +2749,12 @@
         "share_text": "Prezidenta vēlēšanas Rumānijā — 2024 #GoogleDoodle"
       },
       "lt": {
-        "query": null,
+        "query": "2024 m. Rumunijos rinkimai",
         "hover_text": "Rumunijos prezidento rinkimai, 2024 m.",
         "share_text": "Rumunijos prezidento rinkimai, 2024 m. #GoogleDoodle"
       },
       "mk": {
-        "query": null,
+        "query": "Избори во Романија, 2024 г.",
         "hover_text": "Претседателски избори во Романија, 2024 г.",
         "share_text": "Претседателски избори во Романија, 2024 г. #GoogleDoodle"
       },
@@ -2265,12 +2764,12 @@
         "share_text": ""
       },
       "ms": {
-        "query": null,
+        "query": "Pilihan Raya Romania 2024",
         "hover_text": "Pilihan Raya Presiden Romania 2024",
         "share_text": "Pilihan Raya Presiden Romania 2024 #GoogleDoodle"
       },
       "ml": {
-        "query": null,
+        "query": "റൊമാനിയ തിരഞ്ഞെടുപ്പ് 2024",
         "hover_text": "റൊമാനിയൻ പ്രസിഡൻഷ്യൽ തിരഞ്ഞെടുപ്പ് 2024",
         "share_text": "റൊമാനിയൻ പ്രസിഡൻഷ്യൽ തിരഞ്ഞെടുപ്പ് 2024 #GoogleDoodle"
       },
@@ -2280,7 +2779,7 @@
         "share_text": ""
       },
       "mr": {
-        "query": null,
+        "query": "रोमानिया येथील २०२४ मधील निवडणुका",
         "hover_text": "रोमानियामधील राष्ट्राध्यक्षीय निवडणुका २०२४",
         "share_text": "रोमानियामधील राष्ट्राध्यक्षीय निवडणुका २०२४ #GoogleDoodle"
       },
@@ -2290,12 +2789,12 @@
         "share_text": "2024 оны Румыны ерөнхийлөгчийн сонгууль #GoogleDoodle"
       },
       "ne": {
-        "query": null,
+        "query": "रोमानियाको निर्वाचन २०२४",
         "hover_text": "रोमानियाको राष्ट्रपतीय निर्वाचन २०२४",
         "share_text": "रोमानियाको राष्ट्रपतीय निर्वाचन २०२४ #GoogleDoodle"
       },
       "no": {
-        "query": null,
+        "query": "Valget i Romania 2024",
         "hover_text": "Presidentvalget i Romania 2024",
         "share_text": "Presidentvalget i Romania 2024 #GoogleDoodle"
       },
@@ -2320,12 +2819,12 @@
         "share_text": ""
       },
       "fa": {
-        "query": null,
+        "query": "انتخابات ۲۰۲۴ رومانی",
         "hover_text": "انتخابات ریاست جمهوری ۲۰۲۴ رومانی",
         "share_text": "انتخابات ریاست جمهوری ۲۰۲۴ رومانی ‎#GoogleDoodle"
       },
       "pl": {
-        "query": null,
+        "query": "Wybory 2024 w Rumunii",
         "hover_text": "Wybory prezydenckie 2024 w Rumunii",
         "share_text": "Wybory prezydenckie 2024 w Rumunii #GoogleDoodle"
       },
@@ -2340,7 +2839,7 @@
         "share_text": "Eleições Presidenciais na Roménia de 2024 #GoogleDoodle"
       },
       "pa": {
-        "query": null,
+        "query": "2024 Romania Elections",
         "hover_text": "ਰੋਮਾਨੀਆ ਦੀਆਂ ਰਾਸ਼ਟਰਪਤੀ ਚੋਣਾਂ 2024",
         "share_text": "ਰੋਮਾਨੀਆ ਦੀਆਂ ਰਾਸ਼ਟਰਪਤੀ ਚੋਣਾਂ 2024 #GoogleDoodle"
       },
@@ -2355,7 +2854,7 @@
         "share_text": ""
       },
       "ru": {
-        "query": null,
+        "query": "Выборы в Румынии – 2024",
         "hover_text": "Президентские выборы в Румынии – 2024",
         "share_text": "Президентские выборы в Румынии – 2024 #GoogleDoodle"
       },
@@ -2385,12 +2884,12 @@
         "share_text": ""
       },
       "si": {
-        "query": null,
+        "query": "2024 රුමේනියා මැතිවරණය",
         "hover_text": "රුමේනියාවේ ජනාධිපතිවරණය 2024",
         "share_text": "රුමේනියාවේ ජනාධිපතිවරණය 2024 #GoogleDoodle"
       },
       "sk": {
-        "query": null,
+        "query": "Rumunské voľby 2024",
         "hover_text": "Prezidentské voľby v Rumunsku 2024",
         "share_text": "Prezidentské voľby v Rumunsku 2024 #GoogleDoodle"
       },
@@ -2410,17 +2909,17 @@
         "share_text": ""
       },
       "es": {
-        "query": null,
+        "query": "Elecciones en Rumanía 2024",
         "hover_text": "Elecciones presidenciales de Rumanía 2024",
         "share_text": "Elecciones presidenciales de Rumanía 2024 #GoogleDoodle"
       },
       "sw": {
-        "query": null,
+        "query": "Uchaguzi wa Romania 2024",
         "hover_text": "Uchaguzi wa Urais wa Romania 2024",
         "share_text": "Uchaguzi wa Urais wa Romania 2024 #GoogleDoodle"
       },
       "sv": {
-        "query": null,
+        "query": "Val i Rumänien 2024",
         "hover_text": "Presidentval i Rumänien 2024",
         "share_text": "Presidentval i Rumänien 2024 #GoogleDoodle"
       },
@@ -2430,12 +2929,12 @@
         "share_text": ""
       },
       "ta": {
-        "query": null,
+        "query": "2024 ரோமானியா தேர்தல்கள்",
         "hover_text": "ரொமேனியா அதிபர் தேர்தல்கள் 2024",
         "share_text": "ரொமேனியா அதிபர் தேர்தல்கள் 2024 #GoogleDoodle"
       },
       "te": {
-        "query": null,
+        "query": "2024 రొమేనియా ఎన్నికలు",
         "hover_text": "రొమేనియా అధ్యక్ష ఎన్నికలు 2024",
         "share_text": "రొమేనియా అధ్యక్ష ఎన్నికలు 2024 #GoogleDoodle"
       },
@@ -2450,7 +2949,7 @@
         "share_text": ""
       },
       "tr": {
-        "query": null,
+        "query": "2024 Romanya Seçimleri",
         "hover_text": "2024 Romanya Cumhurbaşkanlığı Seçimleri",
         "share_text": "2024 Romanya Cumhurbaşkanlığı Seçimleri #GoogleDoodle"
       },
@@ -2485,7 +2984,7 @@
         "share_text": ""
       },
       "zu": {
-        "query": null,
+        "query": "Ukhetho lwaseRomania lwango-2024",
         "hover_text": "Ukhetho Lukamongameli lwaseRomania lwango-2024",
         "share_text": "Ukhetho Lukamongameli lwaseRomania lwango-2024 #GoogleDoodle"
       }
