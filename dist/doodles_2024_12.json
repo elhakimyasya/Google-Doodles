@@ -1,5 +1,1003 @@
 [
   {
+    "name": "fathers-day-dec-5-2024",
+    "title": "Father's Day (Dec 5) 2024",
+    "url": "//www.google.com/logos/doodles/2024/fathers-day-dec-5-2024-6753651837110415-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/rv3kWUl0ltPBPtExrLNVX8c63LBWqEDgXETCPR6v4KQx-Ith1MsDZRKVTK0LMHi3nEi44X0L6ENi2wNX1T12tjQXEs3c-RBDhuEs4odDSjTXqbT6mBxC23g",
+    "high_res_url": "//www.google.com/logos/doodles/2024/fathers-day-dec-5-2024-6753651837110415-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      12,
+      5
+    ],
+    "translations": {
+      "en": {
+        "query": "Father's Day",
+        "hover_text": "Father's Day (Dec 5) 2024",
+        "share_text": "Happy Father's Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Vadersdag",
+        "hover_text": "Vadersdag (5 Desember) 2024",
+        "share_text": "Gelukkige Vadersdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Babait",
+        "hover_text": "Dita e Babait, 2024",
+        "share_text": "Gëzuar Ditën e Babait! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአባቶች ቀን",
+        "hover_text": "የአባቶች ቀን (ዲሴምበር 5) 2024",
+        "share_text": "መልካም የአባቶች ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد الأب",
+        "hover_text": "عيد الأب 2024",
+        "share_text": "عيد أب سعيد. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Հայրերի օր",
+        "hover_text": "Հայրերի օր 2024 (դեկտեմբերի 5)",
+        "share_text": "Շնորհավո՛ր հայրերի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Atalar Günü",
+        "hover_text": "Atalar Günü (5 dekabr) 2024",
+        "share_text": "Atalar Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "পিতৃ দিবস",
+        "hover_text": "পিতৃ দিবস (৫ ডিসেম্বর) ২০২৪",
+        "share_text": "ফাদার্স ডের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Aitaren Eguna",
+        "hover_text": "2024ko Aitaren Eguna (abenduaren 5a)",
+        "share_text": "Aitaren Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень бацькі",
+        "hover_text": "Дзень бацькі 2024 (5 снежня)",
+        "share_text": "З Днём бацькі! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva (5. dec) 2024.",
+        "share_text": "Sretan Dan očeva! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Father's Day",
+        "hover_text": "Father's Day 2024",
+        "share_text": "Happy Father's Day! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на бащата",
+        "hover_text": "Ден на бащата 2024 г.",
+        "share_text": "Честит Ден на бащата! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အဖေများနေ့",
+        "hover_text": "၂၀၂၄ အဖေများနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် ဖခင်များနေ့ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia del Pare",
+        "hover_text": "Dia del Pare 2024",
+        "share_text": "Feliç Dia del Pare! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "父親節",
+        "hover_text": "2024 年父親節",
+        "share_text": "父親節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "父親節",
+        "hover_text": "2024 父親節",
+        "share_text": "父親節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "父亲节",
+        "hover_text": "2024 年父亲节",
+        "share_text": "父亲节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva 2024. (5. prosinca)",
+        "share_text": "Sretan Dan očeva! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den otců",
+        "hover_text": "Den otců 2024",
+        "share_text": "Veselý Den otců! #GoogleDoodle"
+      },
+      "da": {
+        "query": "fars dag",
+        "hover_text": "Fars dag 2024 (5. december)",
+        "share_text": "Glædelig fars dag! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Vaderdag",
+        "hover_text": "Vaderdag 2024",
+        "share_text": "Fijne Vaderdag! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Isadepäev",
+        "hover_text": "2024. aasta isadepäev",
+        "share_text": "Head isadepäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Isänpäivä",
+        "hover_text": "Isänpäivä 2024 (5.12.)",
+        "share_text": "Hyvää isänpäivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête des Pères",
+        "hover_text": "Fête des Pères 2024",
+        "share_text": "Joyeuse fête des Pères ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête des Pères",
+        "hover_text": "Fête des Pères 2024",
+        "share_text": "Joyeuse fête des Pères! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día do Pai",
+        "hover_text": "Día do Pai 2024 (5 de decembro)",
+        "share_text": "Feliz Día do Pai! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მამის დღე",
+        "hover_text": "მამის დღე 2024 (5 დეკემბერი)",
+        "share_text": "გილოცავთ მამის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Vatertag",
+        "hover_text": "Vatertag 2024",
+        "share_text": "Alles Liebe zum Vatertag! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Γιορτή του Πατέρα",
+        "hover_text": "Γιορτή του Πατέρα (5 Δεκεμβρίου) 2024",
+        "share_text": "Πολλές ευχές για τη Γιορτή του Πατέρα! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "પિતૃ દિવસ",
+        "hover_text": "ફાધર્સ ડે (5 ડિસેમ્બર) 2024",
+        "share_text": "ફાધર્સ ડેની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום האב",
+        "hover_text": "יום האב 2024",
+        "share_text": "יום האב שמח! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "फ़ादर्स डे",
+        "hover_text": "फ़ादर्स डे (5 दिसंबर) 2024",
+        "share_text": "फ़ादर्स डे की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Apák napja",
+        "hover_text": "Apák napja, 2024",
+        "share_text": "Boldog apák napját! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Feðradagurinn",
+        "hover_text": "Feðradagurinn 2024 (5. desember)",
+        "share_text": "Gleðilegan feðradag! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Ayah",
+        "hover_text": "Hari Ayah 2024",
+        "share_text": "Selamat Hari Ayah! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá na nAithreacha",
+        "hover_text": null,
+        "share_text": "Lá na nAithreacha faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa del papà",
+        "hover_text": "Festa del papà 2024",
+        "share_text": "Buona festa del papà! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "父の日",
+        "hover_text": "2024 年父の日",
+        "share_text": "父の日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ತಂದೆಯಂದಿರ ದಿನ",
+        "hover_text": "ತಂದೆಯರ ದಿನ 2024 (ಡಿಸೆಂಬರ್ 5)",
+        "share_text": "ತಂದೆಯಂದಿರ ದಿನಾಚರಣೆ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Әкелер күні",
+        "hover_text": "Әкелер күні – 2024 (5 желтоқсан)",
+        "share_text": "Әкелер күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​រំលឹកគុណឪពុក",
+        "hover_text": "ទិវា​ឪពុក (ថ្ងៃទី 05 ខែធ្នូ) ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវា​រំលឹកគុណ​ឪពុក​! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "아버지의 날",
+        "hover_text": "2024년 아버지의 날",
+        "share_text": "아버지날 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Аталар күнү",
+        "hover_text": "Аталар күнү – 2024 (5-декабрь)",
+        "share_text": "Аталар күнү менен куттуктайбыз! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນພໍ່",
+        "hover_text": "ວັນພໍ່ປີ 2024",
+        "share_text": "ສຸກສັນວັນພໍ່! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día del Padre",
+        "hover_text": "Día del Padre 2024",
+        "share_text": "¡Feliz Día del Padre! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Tēva diena",
+        "hover_text": "Tēva diena — 2024. gada 5. decembris",
+        "share_text": "Sveicam Tēva dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Tėvo diena",
+        "hover_text": "Tėvo diena, 2024 m. (gruodžio 5 d.)",
+        "share_text": "Linksmos Tėvo dienos! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на таткото",
+        "hover_text": "Ден на таткото, 2024 г.",
+        "share_text": "Среќен ден на таткото! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny ray",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny ray ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Bapa",
+        "hover_text": "Hari Bapa 2024",
+        "share_text": "Selamat Hari Bapa! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "പിതൃദിനം",
+        "hover_text": "പിതൃദിനം (ഡിസംബർ 5) 2024",
+        "share_text": "പിതൃദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "पितृदिन",
+        "hover_text": "फादर्स डे (५ डिसेंबर) २०२४",
+        "share_text": "फादर्स डे च्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Аавуудын өдөр",
+        "hover_text": "2024 оны Аавуудын өдөр (12-р сарын 5)",
+        "share_text": "Аавуудын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "बुवाको मुख हेर्ने दिन",
+        "hover_text": "बुवाको मुख हेर्ने दिन २०२४ (डिसेम्बर ५)",
+        "share_text": "बुवाको मुख हेर्ने दिनको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Farsdag",
+        "hover_text": "Farsdag 2024",
+        "share_text": "Gratulerer med farsdagen! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ପିତୃ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ପିତୃ ଦିବସର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز پدر",
+        "hover_text": "روز پدر ۲۰۲۴",
+        "share_text": "روز پدر مبارک! #GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Ojca",
+        "hover_text": "Dzień Ojca 2024",
+        "share_text": "Obchodzimy Dzień Ojca #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia dos Pais",
+        "hover_text": "Dia dos Pais 2024",
+        "share_text": "Feliz Dia dos Pais! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia do pai",
+        "hover_text": "Dia do Pai de 2024",
+        "share_text": "Feliz dia do pai! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਪਿਓ ਦਿਵਸ",
+        "hover_text": "ਪਿਤਾ ਦਿਵਸ (5 ਦਸੰਬਰ) 2024",
+        "share_text": "ਪਿਤਾ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Tatălui",
+        "hover_text": "Ziua Tatălui 2024",
+        "share_text": "La mulți ani de Ziua Tatălui! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День отца",
+        "hover_text": "День отца – 2024",
+        "share_text": "С Днем отца! #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан очева",
+        "hover_text": "Дан очева (5. децембар) 2024.",
+        "share_text": "Срећан Дан очева! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan očeva",
+        "hover_text": "Dan očeva (5. decembar) 2024.",
+        "share_text": "Srećan Dan očeva! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Papa",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "පියවරුන්ගේ දිනය",
+        "hover_text": "පියවරුන්ගේ දිනය 2024 (දෙසැ 05)",
+        "share_text": "ප්‍රීතිමත් පියවරුන්ගේ දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň otcov",
+        "hover_text": "Deň otcov 2024",
+        "share_text": "Šťastný Deň otcov! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan očetov",
+        "hover_text": "Dan očetov 2024",
+        "share_text": "Vesel dan očetov! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Aabbaha",
+        "hover_text": null,
+        "share_text": "Maalinta Aabbaha oo Farxada leh #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Botate",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día del Padre",
+        "hover_text": "Día del Padre 2024",
+        "share_text": "¡Feliz Día del Padre! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Akina Baba",
+        "hover_text": "Siku ya Akina Baba 2024",
+        "share_text": "Heri za Sikukuu ya Akina Baba! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Fars dag",
+        "hover_text": "Fars dag 2024",
+        "share_text": "Grattis på fars dag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "தந்தையர் தினம்",
+        "hover_text": "தந்தையர் தினம் 2024",
+        "share_text": "தந்தையர் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "పితృ దినోత్సవం",
+        "hover_text": "ఫాదర్స్ డే (డిసెంబర్ 5) 2024",
+        "share_text": "ఫాదర్స్ డే శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันพ่อ",
+        "hover_text": "วันพ่อปี 2024",
+        "share_text": "สุขสันต์วันพ่อ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la ga Rre",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Babalar Günü",
+        "hover_text": "2024 Babalar Günü",
+        "share_text": "Babalar Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День батька",
+        "hover_text": "День батька у 2024 році",
+        "share_text": "З Днем батька! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم پِدر",
+        "hover_text": "یوم والد (5 دسمبر) 2024",
+        "share_text": "یوم والد مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Otalar kuni",
+        "hover_text": "Otalar kuni 2024 (5-dekabr)",
+        "share_text": "Otalar kuni muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày của cha",
+        "hover_text": "Ngày của Cha năm 2024 (ngày 5 tháng 12)",
+        "share_text": "Mừng Ngày của Cha! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lobaba",
+        "hover_text": "Usuku loBaba lwango-2024 (5 Dis)",
+        "share_text": "Sinifisela Usuku Lobaba Oluhle! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Father's Day",
+    "share_text": "Happy Father's Day! #GoogleDoodle"
+  },
+  {
+    "name": "celebrating-the-giant-kelp-forests-of-the-great-southern-reef",
+    "title": "Celebrating the Giant Kelp Forests of the Great Southern Reef",
+    "url": "//www.google.com/logos/doodles/2024/celebrating-the-giant-kelp-forests-of-the-great-southern-reef-6753651837110206-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/znPMXR9r-eAfzJSgkhA8_1_l_5YjGABvMSvpzJSfd0XJT5gT8YQJO4ejVJuMWk13oN-XLWfKdD4nFVaOPyhCNJ9l8-Qhu9zlm_w1DRGuUI3RAEYTRp0q",
+    "high_res_url": "//www.google.com/logos/doodles/2024/celebrating-the-giant-kelp-forests-of-the-great-southern-reef-6753651837110206-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      12,
+      5
+    ],
+    "translations": {
+      "en": {
+        "query": "Giant Kelp forests of the Great Southern Reef",
+        "hover_text": "Celebrating the Giant Kelp Forests of the Great Southern Reef",
+        "share_text": "Celebrating the Giant Kelp Forests of the Great Southern Reef! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Reusekelpvelde van die Groot Suiderrif",
+        "hover_text": "Ter viering van die reusekelpwoude van die Groot Suiderrif",
+        "share_text": "Ter viering van die reusekelpwoude van die Groot Suiderrif #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Pyjet e leshterikëve gjigantë të Great Southern Reef",
+        "hover_text": "Festojmë për pyjet e leshterikëve gjigantë të Great Southern Reef",
+        "share_text": "Festojmë për pyjet e leshterikëve gjigantë të Great Southern Reef #GoogleDoodle"
+      },
+      "am": {
+        "query": "የታላቁ የደቡብ የባህር ወለል ግዙፍ የኬልፕ ጫካዎች",
+        "hover_text": "የታላቁ የደቡብ የባህር ወለል ግዙፍ የኬልፕ ጫካዎችን በማክበር ላይ",
+        "share_text": "የታላቁ የደቡብ የባህር ወለል ግዙፍ የኬልፕ ጫካዎችን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "غابات أعشاب البحر الضخمة في الشعاب المرجانية الجنوبية الكبرى",
+        "hover_text": "نحتفل بغابات أعشاب البحر الضخمة في الشعاب المرجانية الجنوبية الكبرى",
+        "share_text": "نحتفل اليوم بغابات أعشاب البحر الضخمة في الشعاب المرجانية الجنوبية الكبرى. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Մեծ հարավային խութի հսկա ջրիմուռների անտառներ",
+        "hover_text": "Տոնենք Մեծ հարավային խութի հսկա ջրիմուռների անտառների օրը",
+        "share_text": "Տոնենք Մեծ հարավային խութի հսկա ջրիմուռների անտառների օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Böyük Cənub rifinin nəhəng Kelp meşələri",
+        "hover_text": "Böyük Cənub rifinin nəhəng Kelp meşələri günü",
+        "share_text": "Böyük Cənub rifinin nəhəng Kelp meşələri günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "গ্রেট সাউদার্ন রিফের অন্তর্গত অরণ্যধর্মী বিপুলাকার কেল্প বাস্তুতন্ত্র",
+        "hover_text": "গ্রেট সাউদার্ন রিফের অন্তর্গত অরণ্যধর্মী বিপুলাকার কেল্প বাস্তুতন্ত্রের ঐতিহ্য উদযাপন করা হচ্ছে",
+        "share_text": "গ্রেট সাউদার্ন রিফের অন্তর্গত অরণ্যধর্মী বিপুলাকার কেল্প বাস্তুতন্ত্রের ঐতিহ্য উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Hegoaldeko Koral Hesi Handiko kelp baso erraldoiak",
+        "hover_text": "Hegoaldeko Koral Hesi Handiko kelp baso erraldoien omenez",
+        "share_text": "Hegoaldeko Koral Hesi Handiko kelp baso erraldoien omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": "Гіганцкія зараснікі багавіння Вялікага Бар’ернага рыфа",
+        "hover_text": "Ушаноўваем гіганцкія зараснікі багавіння Вялікага Бар’ернага рыфа",
+        "share_text": "Ушаноўваем гіганцкія зараснікі багавіння Вялікага Бар’ернага рыфа! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Ogromne šume kelpa u Velikom koralnom grebenu",
+        "hover_text": "Slavimo ogromne šume kelpa u Velikom koralnom grebenu",
+        "share_text": "Slavimo ogromne šume kelpa u Velikom koralnom grebenu! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Giant kelp forests of the Great Southern Reef",
+        "hover_text": "Celebrating the giant kelp forests of the Great Southern Reef",
+        "share_text": "Celebrating the giant kelp forests of the Great Southern Reef! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Гигантските гори от кафяви водорасли в Големия южен риф",
+        "hover_text": "Честване на гигантските гори от кафяви водорасли в Големия южен риф",
+        "share_text": "Честване на гигантските гори от кафяви водорасли в Големия южен риф! #GoogleDoodle"
+      },
+      "my": {
+        "query": "တောင်ပိုင်းကျောက်တန်းကြီးရှိ ကြီးမားသော ပင်လယ်ရေမှော်သစ်တောများ",
+        "hover_text": "တောင်ပိုင်းကျောက်တန်းကြီးရှိ ကြီးမားသော ပင်လယ်ရေမှော်သစ်တောများကို ဂုဏ်ပြုခြင်း",
+        "share_text": "တောင်ပိုင်းကျောက်တန်းကြီးရှိ ကြီးမားသော ပင်လယ်ရေမှော်သစ်တောများကို ဂုဏ်ပြုခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Boscos de laminarials gegants del Gran Escull del Sud",
+        "hover_text": "Homenatge als boscos de laminarials gegants del Gran Escull del Sud",
+        "share_text": "Homenatge als boscos de laminarials gegants del Gran Escull del Sud #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "Great Southern Reef 巨藻林",
+        "hover_text": "欣賞 Great Southern Reef 巨藻林的壯麗景象",
+        "share_text": "欣賞 Great Southern Reef 巨藻林的壯麗景象！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "澳洲大南礁的巨大海藻林",
+        "hover_text": "歌頌澳洲大南礁巨大海藻林之美",
+        "share_text": "歌頌澳洲大南礁巨大海藻林之美！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "大南礁巨型海藻森林",
+        "hover_text": "珍贵的大南礁巨型海藻森林",
+        "share_text": "珍贵的大南礁巨型海藻森林！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Ogromne šume kelpa u Velikom koraljnom grebenu",
+        "hover_text": "Divimo se ogromnim šumama kelpa na Velikom koraljnom grebenu",
+        "share_text": "Slavimo ogromne šume kelpa na Velikom koraljnom grebenu! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Obří chaluhové lesy Velkého jižního útesu",
+        "hover_text": "Oslavujeme obří chaluhové lesy Velkého jižního útesu",
+        "share_text": "Oslavujeme obří chaluhové lesy Velkého jižního útesu! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Store tangskove i Great Southern Reef",
+        "hover_text": "En hyldest til de store tangskove i Great Southern Reef",
+        "share_text": "En hyldest til de store tangskove i Great Southern Reef #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Reuzenkelpwouden van het Great Southern Reef",
+        "hover_text": "Doodle ter ere van de reuzenkelpwouden van het Great Southern Reef",
+        "share_text": "Doodle ter ere van de reuzenkelpwouden van het Great Southern Reef! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Austraalia lõunaosa korallrahu hiiglaslikud lehtadrumetsad",
+        "hover_text": "Räägime Austraalia lõunaosa korallrahu hiiglaslikest lehtadrumetsadest",
+        "share_text": "Räägime Austraalia lõunaosa korallrahu hiiglaslikest lehtadrumetsadest! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Eteläisen Ison Valliriutan valtava merilevämetsä",
+        "hover_text": "Eteläisen Ison Valliriutan valtava merilevämetsä",
+        "share_text": "Eteläisen Ison Valliriutan valtava merilevämetsä #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Forêts de kelp géant du Great Southern Reef",
+        "hover_text": "Les forêts de kelp géant du Great Southern Reef à l'honneur",
+        "share_text": "Les forêts de kelp géant du Great Southern Reef à l'honneur ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Forêts de laminaires géantes de la Grande Barrière de corail du sud",
+        "hover_text": "Célébration des forêts de laminaires géantes de la Grande Barrière de corail du sud",
+        "share_text": "Célébration des forêts de laminaires géantes de la Grande Barrière de corail du sud! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Bosques de algas xigantes da Gran Barreira de Coral do Sur",
+        "hover_text": "Homenaxe aos bosques de algas xigantes da Gran Barreira de Coral do Sur",
+        "share_text": "Homenaxe aos bosques de algas xigantes da Gran Barreira de Coral do Sur! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "დიდი სამხრეთ რიფის გიგანტური წყალმცენარეების ტყეები",
+        "hover_text": "აღვნიშნავთ დიდი სამხრეთ რიფის გიგანტური წყალმცენარეების ტყეების დღეს",
+        "share_text": "აღვნიშნავთ დიდი სამხრეთ რიფის გიგანტური წყალმცენარეების ტყეების დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Riesige Kelpwälder im Great Southern Reef",
+        "hover_text": "Das heutige Doodle ist den großen Kelpwäldern des Great Southern Reef vor Australien gewidmet",
+        "share_text": "Das heutige Doodle ist den großen Kelpwäldern des Great Southern Reef vor Australien gewidmet #GoogleDoodle"
+      },
+      "el": {
+        "query": "Τεράστια δάση φυκιών του Νότιου Μεγάλου Υφάλου",
+        "hover_text": "Τιμούμε τα τεράστια δάση φυκιών του Νότιου Μεγάλου Υφάλου",
+        "share_text": "Τιμούμε τα τεράστια δάση φυκιών του Νότιου Μεγάλου Υφάλου! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ગ્રેટ સધર્ન રીફના વિશાળ સમુદ્રી ઘાસના જંગલો",
+        "hover_text": "ગ્રેટ સધર્ન રીફના વિશાળ સમુદ્રી ઘાસના જંગલોની ઉજવણી",
+        "share_text": "ગ્રેટ સધર્ન રીફના વિશાળ સમુદ્રી ઘાસના જંગલોની ઉજવણી! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "Giant Kelp forests of the Great Southern Reef",
+        "hover_text": "מחווה ליערות הקלפ הענקיים בשונית הדרומית הגדולה",
+        "share_text": "מחווה ליערות הקלפ הענקיים בשונית הדרומית הגדולה GoogleDoodle#"
+      },
+      "hi": {
+        "query": "ग्रेट सदर्न रीफ़ के विशाल केल्प फ़ॉरेस्ट",
+        "hover_text": "ग्रेट सदर्न रीफ़ के विशाल केल्प फ़ॉरेस्ट की शान में",
+        "share_text": "ग्रेट सदर्न रीफ़ के विशाल केल्प फ़ॉरेस्ट की शान में! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A déli Nagy-korallzátony óriási hínárerdeje",
+        "hover_text": "A déli Nagy-korallzátony óriási hínárerdejének ünneplése",
+        "share_text": "A déli Nagy-korallzátony óriási hínárerdejének ünneplése. #GoogleDoodle"
+      },
+      "is": {
+        "query": "Gríðarstórir þaraskógar Suðurrrifsins mikla",
+        "hover_text": "Við fögnum hinum gríðarstóru þaraskógum Suðurrifsins mikla",
+        "share_text": "Við fögnum hinum gríðarstóru þaraskógum Suðurrifsins mikla! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hutan Kelp Raksasa Great Southern Reef",
+        "hover_text": "Merayakan Hutan Kelp Raksasa Great Southern Reef",
+        "share_text": "Merayakan Hutan Kelp Raksasa Great Southern Reef #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Gigantesche foreste di kelp della Grande barriera corallina meridionale",
+        "hover_text": "Un omaggio alle gigantesche foreste di kelp della Grande barriera corallina meridionale",
+        "share_text": "Un omaggio alle gigantesche foreste di kelp della Grande barriera corallina meridionale! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "グレート サザン リーフの巨大なケルプの森",
+        "hover_text": "グレート サザン リーフの巨大なケルプの森を称えて",
+        "share_text": "グレート サザン リーフの巨大なケルプの森を称えて #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಗ್ರೇಟ್ ಸದರ್ನ್ ರೀಫ್‌ನ ದೈತ್ಯ ಕೆಲ್ಪ್ ಕಾಡುಗಳು",
+        "hover_text": "ಗ್ರೇಟ್ ಸದರ್ನ್ ರೀಫ್‌ನ ದೈತ್ಯ ಕೆಲ್ಪ್ ಕಾಡುಗಳನ್ನು ಗೌರವಿಸಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಗ್ರೇಟ್ ಸದರ್ನ್ ರೀಫ್‌ನ ದೈತ್ಯ ಕೆಲ್ಪ್ ಕಾಡುಗಳನ್ನು ಗೌರವಿಸಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Үлкен оңтүстік рифіндегі алып балдырлы орман",
+        "hover_text": "Үлкен оңтүстік рифіндегі алып балдырлы орман күні",
+        "share_text": "Үлкен оңтүстік рифіндегі алып балдырлы орман күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ព្រៃសារាយសមុទ្រយក្សនៅមហាតំបន់ថ្មប៉ប្រះទឹកភាគខាងត្បូង",
+        "hover_text": "អបអរសាទរព្រៃសារាយសមុទ្រយក្សនៅមហាតំបន់ថ្មប៉ប្រះទឹកភាគខាងត្បូង",
+        "share_text": "អបអរសាទរព្រៃសារាយសមុទ្រយក្សនៅមហាតំបន់ថ្មប៉ប្រះទឹកភាគខាងត្បូង! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "그레이트 서던 리프의 거대한 다시마숲",
+        "hover_text": "그레이트 서던 리프의 거대한 다시마숲을 기념하며",
+        "share_text": "그레이트 서던 리프의 거대한 다시마숲을 기념하며 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Улуу Түштүк рифинин Ири балыр токойлору",
+        "hover_text": "Улуу Түштүк рифинин Ири балыр токойлорунун күнүн майрамдоо",
+        "share_text": "Улуу Түштүк рифинин Ири балыр токойлорунун күнүн майрамдоо #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ປ່າເຄລ໌ປຂະໜາດໃຫຍ່ໃຕ້ແນວປະກາລັງເກຣດທ໌ຊາວເທີນຣີຟ",
+        "hover_text": "ວັນສະເຫຼີມສະຫຼອງປ່າເຄລ໌ປຂະໜາດໃຫຍ່ໃຕ້ແນວປະກາລັງເກຣດທ໌ຊາວເທີນຣີຟ",
+        "share_text": "ວັນສະເຫຼີມສະຫຼອງປ່າເຄລ໌ປຂະໜາດໃຫຍ່ໃຕ້ແນວປະກາລັງເກຣດທ໌ຊາວເທີນຣີຟ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Bosques marinos de algas gigantes en el Gran Arrecife del Sur",
+        "hover_text": "Celebrando los bosques marinos de algas gigantes en el Gran Arrecife del Sur",
+        "share_text": "Celebrando los bosques marinos de algas gigantes en el Gran Arrecife del Sur #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Giant Kelp forests of the Great Southern Reef",
+        "hover_text": "Lielā Dienvidu rifa lamināriju mežu godināšana",
+        "share_text": "Godinām Lielā Dienvidu rifa lamināriju mežus! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Milžiniški rudadumblių miškai Didžiajame pietiniame rife",
+        "hover_text": "Milžiniškų rudadumblių miškų Didžiajame pietiniame rife minėjimas",
+        "share_text": "Milžiniškų rudadumblių miškų Didžiajame pietiniame rife minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Шуми со џиновски келп на Големиот Јужен Гребен",
+        "hover_text": "Во чест на шумите со џиновски келп на Големиот Јужен Гребен",
+        "share_text": "Во чест на шумите со џиновски келп на Големиот Јужен Гребен #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Hutan Kelp gergasi di Great Southern Reef",
+        "hover_text": "Meraikan Hutan Kelp Gergasi di Great Southern Reef",
+        "share_text": "Meraikan Hutan Kelp Gergasi di Great Southern Reef! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഗ്രേറ്റ് സതേൺ റീഫിലെ കൂറ്റൻ കെൽപ് വനങ്ങൾ",
+        "hover_text": "ഗ്രേറ്റ് സതേൺ റീഫിലെ കൂറ്റൻ കെൽപ് വനങ്ങൾ ആഘോഷമാക്കുന്നു",
+        "share_text": "ഗ്രേറ്റ് സതേൺ റീഫിലെ കൂറ്റൻ കെൽപ് വനങ്ങൾ ആഘോഷമാക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "ग्रेट सदर्न रीफ येथील भव्य केल्प जंगले",
+        "hover_text": "ग्रेट सदर्न रीफ येथील विस्तीर्ण केल्प जंगलांच्या सन्मानार्थ",
+        "share_text": "ग्रेट सदर्न रीफ येथील विस्तीर्ण केल्प जंगलांच्या सन्मानार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Өмнөдийн их шүрэн хадны аварга хүрэн замгийн шугуй",
+        "hover_text": "Өмнөдийн их хадан хясааны Аварга хүрэн замгийн шугуйг алдаршуулж байна",
+        "share_text": "Өмнөдийн их хадан хясааны Аварга хүрэн замгийн шугуйг алдаршуулж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "ग्रेट साउदर्न रिफको विशाल केल्प जङ्गल",
+        "hover_text": "ग्रेट साउदर्न रिफको विशाल केल्प जङ्गलको उत्सव",
+        "share_text": "ग्रेट साउदर्न रिफको विशाल केल्प जङ्गलको उत्सव! #GoogleDoodle"
+      },
+      "no": {
+        "query": "De enorme tareskogene ved Great Southern Reef",
+        "hover_text": "Vi feirer de enorme tareskogene ved Great Southern Reef",
+        "share_text": "Vi feirer de enorme tareskogene ved Great Southern Reef! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "جنگل‌های عظیم کتانجک در «آبسنگ بزرگ جنوبی»",
+        "hover_text": "روز «جنگل‌های عظیم کتانجک در آبسنگ بزرگ جنوبی»",
+        "share_text": "روز «جنگل‌های عظیم کتانجک در آبسنگ بزرگ جنوبی»! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Lasy wodorostów w Regionie Południowym Wielkiej Rafy Koralowej",
+        "hover_text": "Podziwiamy gigantyczne lasy wodorostów w Regionie Południowym Wielkiej Rafy Koralowej",
+        "share_text": "Podziwiamy gigantyczne lasy wodorostów w Regionie Południowym Wielkiej Rafy Koralowej #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Florestas de algas gigantes do Grande Recife do Sul",
+        "hover_text": "Viva as florestas de algas gigantes do Grande Recife do Sul, na Oceania",
+        "share_text": "Viva as florestas de algas gigantes do Grande Recife do Sul, na Oceania #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Florestas de algas gigantes da Grande Barreira de Coral do Sul",
+        "hover_text": "Celebração das Florestas de Algas Gigantes da Grande Barreira de Coral do Sul",
+        "share_text": "Celebração das Florestas de Algas Gigantes da Grande Barreira de Coral do Sul! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Giant Kelp forests of the Great Southern Reef",
+        "hover_text": "ਦੱਖਣੀ ਤੱਟ ਦੀ ਮਹਾਨ ਚਟਾਨ ਦੇ ਸਮੁੰਦਰੀ ਘਾਹ ਵਾਲੇ ਵਿਸ਼ਾਲ ਜੰਗਲਾਂ ਦੀ ਸਿਫ਼ਤ ਵਿੱਚ",
+        "share_text": "ਦੱਖਣੀ ਤੱਟ ਦੀ ਮਹਾਨ ਚਟਾਨ ਦੇ ਸਮੁੰਦਰੀ ਘਾਹ ਵਾਲੇ ਵਿਸ਼ਾਲ ਜੰਗਲਾਂ ਦੀ ਸਿਫ਼ਤ ਵਿੱਚ #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Pădurile de varec gigant din Marea Barieră de Corali",
+        "hover_text": "În cinstea pădurilor de varec gigant din Marele Recif de Sud",
+        "share_text": "În cinstea pădurilor de varec gigant din Marele Recif de Sud! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Гигантские леса водорослей на Большом Южном рифе",
+        "hover_text": "День гигантских лесов водорослей на Большом Южном рифе",
+        "share_text": "День гигантских лесов водорослей на Большом Южном рифе #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Шуме џиновских морских алги на Великом јужном гребену",
+        "hover_text": "Славимо шуме џиновских морских алги на Великом јужном гребену",
+        "share_text": "Славимо шуме џиновских морских алги на Великом јужном гребену! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Šume džinovskih morskih algi na Velikom južnom grebenu",
+        "hover_text": "Slavimo šume džinovskih morskih algi na Velikom južnom grebenu",
+        "share_text": "Slavimo šume džinovskih morskih algi na Velikom južnom grebenu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "මහා දක්ෂිණ ගල්පරයේ යෝධ කෙල්ප් වනාන්තර",
+        "hover_text": "මහා දක්ෂිණ ගල්පරයේ යෝධ කෙල්ප් වනාන්තර සැමරීම",
+        "share_text": "මහා දක්ෂිණ ගල්පරයේ යෝධ කෙල්ප් වනාන්තර සැමරීම! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Obrovské chaluhové lesy vo Veľkej južnej bariére",
+        "hover_text": "Toto logo je venované obrovským chaluhovým lesom vo Veľkej južnej bariére",
+        "share_text": "Toto logo je venované obrovským chaluhovým lesom vo Veľkej južnej bariére. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Gozdovi velikih morskih alg na Velikem južnem grebenu",
+        "hover_text": "Slavimo gozdove velikih morskih alg na Velikem južnem grebenu",
+        "share_text": "Slavimo gozdove velikih morskih alg na Velikem južnem grebenu! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Bosques de quelpo gigante del Gran Arrecife del Sur",
+        "hover_text": "Homenaje a los bosques de quelpo gigante del Gran Arrecife del Sur",
+        "share_text": "Hoy rendimos homenaje a los bosques de quelpo gigante del Gran Arrecife del Sur #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Misitu Mikubwa ya Mwani ya Great Southern Reef",
+        "hover_text": "Tunaenzi Misitu Mikubwa ya Mwani ya Great Southern Reef",
+        "share_text": "Tunaenzi Misitu Mikubwa ya Mwani ya Great Southern Reef! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Vi hyllar Jättekelpskogarna i Australiens Great Southern Reef",
+        "hover_text": "Vi hyllar de stora kelpskogarna i Australiens Great Southern Reef",
+        "share_text": "Vi hyllar de stora kelpskogarna i Australiens Great Southern Reef #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Giant Kelp forests of the Great Southern Reef",
+        "hover_text": "கிரேட் சதர்ன் ரீஃபின் மிகப் பெரிய கெல்ப் காடுகளைக் கொண்டாடுவோம்",
+        "share_text": "கிரேட் சதர்ன் ரீஃபின் மிகப் பெரிய கெல்ப் காடுகளைக் கொண்டாடுவோம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "గ్రేట్ సదర్న్ రీఫ్‌నకు చెందిన జెయింట్ కెల్ప్ ఫారెస్ట్‌లు",
+        "hover_text": "గ్రేట్ సదర్న్ రీఫ్‌నకు చెందిన జెయింట్ కెల్ప్ ఫారెస్ట్‌ల గొప్పదనాన్ని ప్రపంచానికి చాటుదాం",
+        "share_text": "గ్రేట్ సదర్న్ రీఫ్‌నకు చెందిన జెయింట్ కెల్ప్ ఫారెస్ట్‌ల గొప్పదనాన్ని ప్రపంచానికి చాటుదాం! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันเฉลิมฉลองป่าเคลป์ขนาดใหญ่ใต้แนวปะการัง Great Southern Reef",
+        "hover_text": "วันเฉลิมฉลองป่าเคลป์ขนาดใหญ่ใต้แนวปะการัง Great Southern Reef",
+        "share_text": "วันเฉลิมฉลองป่าเคลป์ขนาดใหญ่ใต้แนวปะการัง Great Southern Reef! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Büyük Güney Resifi'nin Devasa Kelp Yosunu Ormanları",
+        "hover_text": "Büyük Güney Resifi'nin Devasa Kelp Yosunu Ormanlarını Kutluyoruz",
+        "share_text": "Büyük Güney Resifi'nin devasa kelp yosunu ormanlarını kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Ліси бурих водоростей Великого Південного рифу",
+        "hover_text": "Присвячено лісам бурих водоростей Великого Південного рифу",
+        "share_text": "Присвячено лісам бурих водоростей Великого Південного рифу! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "‫Great Southern Reef کی لمبی دریائی گھاس کے جنگلات",
+        "hover_text": "‫Great Southern Reef کی لمبی دریائی گھاس کے جنگلات کی یاد میں",
+        "share_text": "‫Great Southern Reef کی لمبی دریائی گھاس کے جنگلات کی یاد میں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Buyuk Janubiy rifning ulkan Kelp oʻrmonlari",
+        "hover_text": "Buyuk Janubiy rifning ulkan Kelp oʻrmonlari kuni",
+        "share_text": "Buyuk Janubiy rifning ulkan Kelp oʻrmonlari kuni #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Rừng tảo bẹ khổng lồ tại Rạn san hô Great Southern",
+        "hover_text": "Tôn vinh Rừng tảo bẹ khổng lồ tại Rạn san hô Great Southern Reef",
+        "share_text": "Tôn vinh Rừng tảo bẹ khổng lồ tại Rạn san hô Great Southern Reef #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Amahlathi amakhulu eKelp yeGreat Southern Reef",
+        "hover_text": "Sibungaza amahlathi amakhulu eKelp yeGreat Southern Reef",
+        "share_text": "Sibungaza amahlathi amakhulu eKelp yeGreat Southern Reef! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Giant Kelp forests of the Great Southern Reef",
+    "share_text": "Celebrating the Giant Kelp Forests of the Great Southern Reef! #GoogleDoodle"
+  },
+  {
     "name": "uae-national-day-2024",
     "title": "UAE National Day 2024",
     "url": "//www.google.com/logos/doodles/2024/uae-national-day-2024-6753651837110334-law.gif",
