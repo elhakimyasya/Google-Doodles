@@ -1,5 +1,504 @@
 [
   {
+    "name": "jamhuri-day-2024",
+    "title": "Jamhuri Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/jamhuri-day-2024-6753651837110343-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/AONB7hX25hweomFSdhX60EkLbOPCoY_9m-KlYaWUGFItA8zRkAcydWBgEvlcNHWiZNTKM3_TMGXK1iy0MFjrOt8-xP4BzJfZht2FkxqpOBzwpkmkOJ8ljw",
+    "high_res_url": "//www.google.com/logos/doodles/2024/jamhuri-day-2024-6753651837110343-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      12,
+      12
+    ],
+    "translations": {
+      "en": {
+        "query": "Jamhuri Day",
+        "hover_text": "Jamhuri Day 2024",
+        "share_text": "Happy Jamhuri Day, Kenya! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Jamhuri-dag",
+        "hover_text": "Jamhuri-dag 2024",
+        "share_text": "Gelukkige Jamhuri-dag, Kenia! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Republikës së Kenias",
+        "hover_text": "Dita e Republikës së Kenias, 2024",
+        "share_text": "Gëzuar Ditën e Republikës, Kenia! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ጃምሁሪ ቀን",
+        "hover_text": "ጃምሁሪ ቀን 2024",
+        "share_text": "መልካም ጃምሁሪ ቀን፣ ኬንያ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "يوم الجمهورية",
+        "hover_text": "يوم الجمهورية في كينيا 2024",
+        "share_text": "نتمنّى لكينيا يوم جمهورية سعيدًا. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ջամհուրիի օր",
+        "hover_text": "Ջամհուրիի օր 2024",
+        "share_text": "Շնորհավո՛ր Ջամհուրիի օրը, Քենիա #GoogleDoodle"
+      },
+      "az": {
+        "query": "Camhuri Günü",
+        "hover_text": "2024 Camhuri Günü",
+        "share_text": "Camhuri Günün Mübarək Keniya! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "জামহুরি দিবস",
+        "hover_text": "জামহুরি ডে ২০২৪",
+        "share_text": "জামহুরি ডে-র শুভেচ্ছা, কেনিয়া! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Jamhuri eguna",
+        "hover_text": "2024ko Jamhuri eguna",
+        "share_text": "Jamhuri egun zoriontsua izan, Kenya! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень Джамхуры",
+        "hover_text": "Дзень Рэспублікі (Кенія) 2024",
+        "share_text": "З Днём Рэспублікі, Кенія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Praznik Jamhuri",
+        "hover_text": "Praznik Jamhuri 2024.",
+        "share_text": "Sretan Jamhuri, Kenija! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Jamhuri Day",
+        "hover_text": "Jamhuri Day 2024",
+        "share_text": "Happy Jamhuri Day, Kenya! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Национален празник на Кения",
+        "hover_text": "Национален празник на Кения 2024 г.",
+        "share_text": "Честит национален празник на Кения! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ကင်ညာသမ္မတနိုင်ငံနေ့",
+        "hover_text": "၂၀၂၄ ကင်ညာသမ္မတနိုင်ငံနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် သမ္မတနိုင်ငံနေ့ဖြစ်ပါစေ ကင်ညာ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de Jamhuri",
+        "hover_text": "Dia de Jamhuri 2024",
+        "share_text": "Feliç Dia de Jamhuri, Kenya! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "肯亞獨立日",
+        "hover_text": "2024 年肯尼亞獨立日",
+        "share_text": "肯尼亞，獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "肯亞共和紀念日",
+        "hover_text": "2024 肯亞獨立紀念日",
+        "share_text": "肯亞共和紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "肯尼亚独立日",
+        "hover_text": "2024 年肯尼亚独立日",
+        "share_text": "欢庆肯尼亚独立日！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan Republike (Jamhuri)",
+        "hover_text": "Dan Republike (Jamhuri) 2024.",
+        "share_text": "Sretan Dan Republike (Jamhuri), Kenijo! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Jamhuri",
+        "hover_text": "Den jamhuri 2024",
+        "share_text": "Vše nejlepší ke Dni jamhuri, Keňo! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Jamhuri-dag",
+        "hover_text": "Jamhuri-dag 2024",
+        "share_text": "Glædelig Jamhuri-dag, Kenya! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Jamhuri-dag",
+        "hover_text": "Onafhankelijkheidsdag Kenia (Jamhuri-dag) 2024",
+        "share_text": "Fijne Jamhuri-dag, Kenia! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Jamhuri päev",
+        "hover_text": "2024. aasta jamhuri päev",
+        "share_text": "Head jamhuri päeva, Keenia! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Jamhuri-päivä",
+        "hover_text": "Jamhuri-päivä 2024",
+        "share_text": "Hyvää Jamhuri-päivää, Kenia! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Jamhuri Day",
+        "hover_text": "Jamhuri Day 2024",
+        "share_text": "Jamhuri Day au Kenya ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête nationale kényane",
+        "hover_text": "Fête nationale du Kenya 2024",
+        "share_text": "Joyeuse fête nationale, Kenya! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Jamhuri Day",
+        "hover_text": "Día de Jamhuri 2024",
+        "share_text": "Feliz Día de Jamhuri, Kenya! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ჯამჰურის დღე",
+        "hover_text": "ჯამჰურის დღე — 2024",
+        "share_text": "ვულოცავთ კენიას ჯამჰურის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Kenia",
+        "hover_text": "Unabhängigkeitstag Kenia 2024",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Kenia! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Jamhuri",
+        "hover_text": "Ημέρα Jamhuri 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα Jamhuri της Κένυας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "Jamhuri Day",
+        "hover_text": "જામુરી દિવસ (કેન્યાનો પ્રજાસત્તાક દિવસ) 2024",
+        "share_text": "કેન્યાના પ્રજાસત્તાક દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "חג הג'אמהורי",
+        "hover_text": "יום העצמאות של קניה 2024",
+        "share_text": "יום עצמאות שמח, קניה GoogleDoodle#"
+      },
+      "hi": {
+        "query": "जम्हूरी दिवस",
+        "hover_text": "जम्हूरी दिवस 2024",
+        "share_text": "जम्हूरी दिवस की शुभकामनाएं, केन्या! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Jamhuri-nap (Köztársaság napja Kenyában)",
+        "hover_text": "Jamhuri-nap, 2024",
+        "share_text": "Minden jót a Jamhuri-napon, Kenya! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Jamhuri-dagur",
+        "hover_text": "Jamhuri-dagurinn 2024",
+        "share_text": "Gleðilegan Jamhuri-dag, Kenía! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Jamhuri",
+        "hover_text": "Hari Jamhuri 2024",
+        "share_text": "Selamat Hari Jamhuri, Kenya! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Jamhuri",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Jamhuri Day",
+        "hover_text": "Jamhuri Day 2024",
+        "share_text": "Buon Jamhuri Day, Kenya! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ジャムフリデイ",
+        "hover_text": "2024 年ジャムフリデイ",
+        "share_text": "ケニアのジャムフリデイを祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಜಮ್ಹೂರಿ ಡೇ",
+        "hover_text": "ಜಮ್ಹೂರಿ ಡೇ 2024",
+        "share_text": "ಜಮ್ಹೂರಿ ಡೇ ಶುಭಾಶಯಗಳು, ಕೀನ್ಯಾ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Кенияның Республика күні",
+        "hover_text": "Джамхури күні –2024",
+        "share_text": "Джамхури күні құтты болсын, Кения! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យឯករាជ្យជាតិ​​កេនយ៉ា",
+        "hover_text": "ទិវាបុណ្យឯករាជ្យជាតិកេនយ៉ាឆ្នាំ 2024",
+        "share_text": "រីករាយទិវាបុណ្យឯករាជ្យជាតិកេនយ៉ា! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "케냐 독립기념일",
+        "hover_text": "2024년 케냐 독립기념일",
+        "share_text": "케냐 독립기념일 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Жамхури күнү",
+        "hover_text": "Жамхури күнү — 2024",
+        "share_text": "Жамхури күнүң менен, Кения! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຊາດເຄນຢາ",
+        "hover_text": "ວັນຊາດເຄນຢາ 2024",
+        "share_text": "ສຸກສັນວັນຊາດເຄນຢາ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Jamhuri Day (Día Nacional de Kenia)",
+        "hover_text": "Jamhuri Day (Día Nacional de Kenia) 2024",
+        "share_text": "¡Feliz Jamhuri Day, Kenia! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Kenijas Neatkarības diena",
+        "hover_text": "Kenijas Neatkarības diena — 2024",
+        "share_text": "Sveicam Neatkarības dienā, Kenija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Jamhuri diena",
+        "hover_text": "Kenijos Respublikos diena, 2024 m.",
+        "share_text": "Sveikiname Keniją su Respublikos diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на републиката на Кенија",
+        "hover_text": "Ден на републиката, 2024 г.",
+        "share_text": "Среќен Ден на републиката, Кенија! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Andron'ny Jamhuri",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Hari Jamhuri",
+        "hover_text": "Hari Jamhuri 2024",
+        "share_text": "Selamat Hari Jamhuri, Kenya! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ജംഹൂരി ദിനം",
+        "hover_text": "ജംഹൂരി ദിനം 2024",
+        "share_text": "ജംഹൂരി ദിനാശംസകൾ, കെനിയ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "जॅमहुरी डे",
+        "hover_text": "जमहुरी डे २०२४",
+        "share_text": "केन्याला जमहुरी डे च्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Жамхуригийн өдөр",
+        "hover_text": "2024 оны Жамхуригийн өдөр",
+        "share_text": "Кени Улсын ард иргэдэд Жамхуригийн өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "जामुरी दिवस",
+        "hover_text": "जामुरी दिवस २०२४",
+        "share_text": "जामुरी दिवस २०२३ को शुभकामना, केन्या! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Kenyas nasjonaldag",
+        "hover_text": "Kenyas nasjonaldag 2024",
+        "share_text": "Gratulerer med nasjonaldagen, Kenya! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଜାମ୍‍ହୁରୀ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ଜାମହୁରୀ ଦିବସର ଶୁଭେଚ୍ଛା, କେନିଆ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز جامهوری",
+        "hover_text": "روز جمهوری ۲۰۲۴",
+        "share_text": "روز جمهوری کنیا مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Jamhuri",
+        "hover_text": "Dzień Niepodległości Kenii 2024",
+        "share_text": "Kenia obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia de Jamhuri",
+        "hover_text": "Dia de Jamhuri 2024",
+        "share_text": "Feliz Dia de Jamhuri, Quênia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia de Jamhuri",
+        "hover_text": "Dia de Jamhuri de 2024",
+        "share_text": "Feliz Dia de Jamhuri (Quénia)! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਜਮਹੂਰੀ ਦਿਵਸ",
+        "hover_text": "ਜਮਹੂਰੀ ਦਿਵਸ 2024",
+        "share_text": "ਜਮਹੂਰੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਕੀਨੀਆ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Jamhuri",
+        "hover_text": "Ziua Jamhuri 2024",
+        "share_text": "La mulți ani de Ziua Jamhuri, Kenya! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День Республики в Кении",
+        "hover_text": "День Республики в Кении – 2024",
+        "share_text": "День Республики в Кении #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан републике у Кенији",
+        "hover_text": "Дан републике у Кенији 2024.",
+        "share_text": "Честитамо Дан републике Кенији! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan republike u Keniji",
+        "hover_text": "Dan republike u Keniji 2024.",
+        "share_text": "Čestitamo Dan republike Keniji! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Jamhuri",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ජම්හූරි දිනය",
+        "hover_text": "ජම්හූරි දිනය 2024",
+        "share_text": "ප්‍රීතිමත් ජම්හූරි දිනයක්, කෙන්යාව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Jamhuri Day",
+        "hover_text": "Deň republiky 2024",
+        "share_text": "Šťastný deň republiky, Keňa. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan republike v Keniji",
+        "hover_text": "Dan republike v Keniji 2024",
+        "share_text": "Vesel dan republike, Kenija! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Jamhuuriga",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": "Letsatsi la Jamhuri",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Jamhuri Day",
+        "hover_text": "Día de Jamhuri 2024",
+        "share_text": "¡Feliz Jamhuri Day de Kenia! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Jamhuri",
+        "hover_text": "Sikukuu ya Jamhuri 2024",
+        "share_text": "Heri ya Sikukuu ya Jamhuri, Kenya! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Jamhuridagen",
+        "hover_text": "Jamhuridagen 2024",
+        "share_text": "Vi firar Kenyas jamhuridag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஜம்ஹூரி தினம்",
+        "hover_text": "ஜம்ஹூரி தினம் 2024",
+        "share_text": "கென்யாவின் ஜம்ஹூரி தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "జంహూరి (కెన్యా గణతంత్ర) దినోత్సవం",
+        "hover_text": "జంహూరి దినోత్సవం 2024",
+        "share_text": "జంహూరి దినోత్సవ శుభాకాంక్షలు! (కెన్యా గణతంత్ర దినోత్సవం) #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันชาติเคนยา",
+        "hover_text": "วันชาติเคนยาปี 2024",
+        "share_text": "สุขสันต์วันชาติเคนยา #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Jamhuri",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Jamhuri Günü",
+        "hover_text": "2024 Jamhuri Günü",
+        "share_text": "Kenya Jamhuri Günü'nü kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День Джамхурі",
+        "hover_text": "День Джамхурі у 2024 році",
+        "share_text": "З Днем Джамхурі, Кеніє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "یوم Jamhuri",
+        "hover_text": "یوم جمہوریہ 2024",
+        "share_text": "یوم جمہوریہ مبارک ہو، کینیا! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Keniyada Respublika kuni",
+        "hover_text": "Keniyada Respublika kuni 2024",
+        "share_text": "Respublika kuning muborak, Keniya! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Kenya",
+        "hover_text": "Ngày Quốc khánh Kenya năm 2024",
+        "share_text": "Chào mừng ngày Quốc khánh Kenya! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku luka-Jamhuri",
+        "hover_text": "Usuku lweJamhuri lwango-2024",
+        "share_text": "Sikufisela usuku oluhle lwe-Jamhuri, Kenya! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Jamhuri Day",
+    "share_text": "Happy Jamhuri Day, Kenya! #GoogleDoodle"
+  },
+  {
     "name": "tanzania-independence-day-2024",
     "title": "Tanzania Independence Day 2024",
     "url": "//www.google.com/logos/doodles/2024/tanzania-independence-day-2024-6753651837110339-law.gif",
