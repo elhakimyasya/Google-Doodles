@@ -1,5 +1,1003 @@
 [
   {
+    "name": "bahrain-national-day-2024",
+    "title": "Bahrain National Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/bahrain-national-day-2024-6753651837110345.2-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/BwfPliMCLGEqfBHBgvDxdWH2S4sTr1UhkAf9iBgtAkorrmQu3dkRvQ70unngObSU_M60NYF3bbNbNMAOIdtANfk-HSbUoC3Vv7IGgKQI66zEpXfZylheH5c",
+    "high_res_url": "//www.google.com/logos/doodles/2024/bahrain-national-day-2024-6753651837110345-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      12,
+      16
+    ],
+    "translations": {
+      "en": {
+        "query": "Bahrain National Day",
+        "hover_text": "Bahrain National Day 2024",
+        "share_text": "Happy National Day, Bahrain! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Bahrein se nasionale dag",
+        "hover_text": "Bahrein se nasionale dag 2024",
+        "share_text": "Gelukkige nasionale dag, Bahrein! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita Kombëtare e Bahreinit",
+        "hover_text": "Dita Kombëtare e Bahrejnit, 2024",
+        "share_text": "Gëzuar Ditën Kombëtare, Bahrein! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የባሕሬን ብሔራዊ ቀን",
+        "hover_text": "የባህሬን ብሔራዊ ቀን 2024",
+        "share_text": "መልካም ብሔራዊ ቀን፣ ባሕሬን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "العيد الوطني للبحرين",
+        "hover_text": "العيد الوطني للبحرين 2024",
+        "share_text": "عيد وطني سعيد للبحرين ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Բահրեյնի ազգային տոն",
+        "hover_text": "Բահրեյնի ազգային տոն 2024",
+        "share_text": "Շնորհավո՛ր Բահրեյնի ազգային տոնը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Bəhreyn Müstəqillik Günü",
+        "hover_text": "2024 Bəhreynin Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Bəhreyn! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "বাহরিনের জাতীয় দিবস",
+        "hover_text": "বাহরিনের জাতীয় দিবস ২০২৪",
+        "share_text": "বাহরিনের মানুষদের জাতীয় দিবসের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Bahraingo Egun Nazionala",
+        "hover_text": "2024ko Bahraingo Egun Nazionala",
+        "share_text": "Egun Nazional zoriontsua izan, Bahrain! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Нацыянальны дзень Бахрэйна",
+        "hover_text": "Нацыянальны дзень Бахрэйна 2024",
+        "share_text": "З Нацыянальным днём, Бахрэйн! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan državnosti Bahraina",
+        "hover_text": "Dan državnosti Bahreina 2024.",
+        "share_text": "Sretan Dan državnosti, Bahrain! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Bahrain National Day",
+        "hover_text": "Bahrain National Day 2024",
+        "share_text": "Happy National Day, Bahrain! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Национален празник на Бахрейн",
+        "hover_text": "Национален празник на Бахрейн 2024 г.",
+        "share_text": "Честит национален празник на Бахрейн! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဘာရိန်း အမျိုးသားနေ့",
+        "hover_text": "၂၀၂၄ ဘာရိန်းနိုင်ငံ အမျိုးသားနေ့",
+        "share_text": "ဘာရိန်း အမျိုးသားနေ့မှာ ပျော်ရွှင်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia Nacional de Bahrain",
+        "hover_text": "Dia Nacional de Bahrain 2024",
+        "share_text": "Feliç Dia Nacional, Bahrain! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "巴林國慶日",
+        "hover_text": "2024 年巴林國慶日",
+        "share_text": "巴林，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "巴林國慶日",
+        "hover_text": "2024 巴林國慶日",
+        "share_text": "巴林，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "巴林国庆日",
+        "hover_text": "2024 年巴林国庆节",
+        "share_text": "巴林，国庆日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan državnosti Bahreina",
+        "hover_text": "Dan državnosti Bahreina 2024.",
+        "share_text": "Sretan Dan državnosti, Bahreine! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Státní svátek Bahrajnu",
+        "hover_text": "Den bahrajnské státnosti 2024",
+        "share_text": "Vše nejlepší ke státnímu svátku, Bahrajne! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Bahrains nationaldag",
+        "hover_text": "Bahrains nationaldag 2024",
+        "share_text": "Glædelig nationaldag, Bahrain! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Nationale feestdag Bahrein",
+        "hover_text": "Nationale feestdag Bahrein 2024",
+        "share_text": "Fijne nationale feestdag, Bahrein #GoogleDoodle"
+      },
+      "et": {
+        "query": "Bahreini rahvuspüha",
+        "hover_text": "Bahreini 2024. aasta rahvuspüha",
+        "share_text": "Head rahvuspüha, Bahrein! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Bahrainin kansallispäivä",
+        "hover_text": "Bahrainin kansallispäivä 2024",
+        "share_text": "Hyvää kansallispäivää, Bahrain! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête nationale de Bahreïn",
+        "hover_text": "Fête nationale de Bahreïn 2024",
+        "share_text": "Fête nationale de Bahreïn ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête nationale de Bahreïn",
+        "hover_text": "Fête nationale de Bahreïn 2024",
+        "share_text": "Joyeuse fête nationale de Bahreïn! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día Nacional de Bahrain",
+        "hover_text": "Día Nacional de Bahrain 2024",
+        "share_text": "Feliz Día Nacional, Bahrain! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ბაჰრეინის ეროვნული დღესასწაული",
+        "hover_text": "ბაჰრეინის ეროვნული დღესასწაული — 2024",
+        "share_text": "ვულოცავთ ბაჰრეინს ეროვნულ დღესასწაულს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Nationalfeiertag Bahrain",
+        "hover_text": "Nationalfeiertag Bahrain 2024",
+        "share_text": "Alles Gute zum Nationalfeiertag in Bahrain! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Εθνική Ημέρα Μπαχρέιν",
+        "hover_text": "Εθνική Ημέρα του Μπαχρέιν 2024",
+        "share_text": "Γιορτάζουμε την Εθνική Ημέρα του Μπαχρέιν! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "બેહરીનનો રાષ્ટ્રીય દિવસ",
+        "hover_text": "બેહરીનનો રાષ્ટ્રીય દિવસ 2024",
+        "share_text": "રાષ્ટ્રીય દિવસની શુભેચ્છા, બેહરીન! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "החג הלאומי של בחריין",
+        "hover_text": "החג הלאומי של בחריין 2024",
+        "share_text": "חג לאומי שמח לבחריין! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "बहरीन का राष्ट्रीय दिवस",
+        "hover_text": "बहरीन का राष्ट्रीय दिवस 2024",
+        "share_text": "राष्ट्रीय दिवस की शुभकामनाएं, बहरीन! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Bahrein nemzeti ünnepe",
+        "hover_text": "Bahrein nemzeti ünnepe, 2024",
+        "share_text": "Boldog függetlenség napját, Bahrein! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þjóðhátíðardagur Barein",
+        "hover_text": "Þjóðhátíðardagur Barein 2024",
+        "share_text": "Gleðilegan þjóðhátíðardag, Barein! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Nasional Bahrain",
+        "hover_text": "Hari Nasional Bahrain 2024",
+        "share_text": "Selamat Hari Nasional, Bahrain. #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Náisiúnta na Bairéine",
+        "hover_text": null,
+        "share_text": "Lá Náisiúnta na Bairéine faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa nazionale del Bahrein",
+        "hover_text": "Festa nazionale del Bahrein 2024",
+        "share_text": "Buona festa nazionale, Bahrein! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "バーレーン建国記念日",
+        "hover_text": "2024 年バーレーン建国記念日",
+        "share_text": "バーレーン建国記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಬಹರೈನ್ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಬಹ್ರೇನ್ ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ರಾಷ್ಟ್ರೀಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಬಹರೈನ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Бахрейннің Ұлттық күні",
+        "hover_text": "Бахрейннің Ұлттық күні – 2024",
+        "share_text": "Ұлттық күн құтты болсын, Бахрейн! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាបុណ្យជាតិបារ៉ែន​",
+        "hover_text": "ទិវាបុណ្យជាតិបារ៉ែន​ឆ្នាំ 2024",
+        "share_text": "អបអរ​ទិវាបុណ្យជាតិបារ៉ែន! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "바레인 국경일",
+        "hover_text": "2024년 바레인 국경일",
+        "share_text": "바레인 국경일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Бахрейндин Улуттук күнү",
+        "hover_text": "Бахрейндин Улуттук күнү – 2024",
+        "share_text": "Улуттук күнүң менен, Бахрейн! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຊາດບາເຣນ",
+        "hover_text": "ວັນຊາດບາເຣນ 2024",
+        "share_text": "ສຸກສັນວັນຊາດບາເຣນ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día Nacional de Bahréin",
+        "hover_text": "Día Nacional de Bahréin 2024",
+        "share_text": "¡Feliz Día Nacional de Bahréin! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Bahreinas Nacionālie svētki",
+        "hover_text": "Bahreinas Nacionālie svētki — 2024",
+        "share_text": "Sveicam Nacionālajos svētkos, Bahreina! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Bahreino nacionalinė diena",
+        "hover_text": "Bahreino nacionalinė diena, 2024 m.",
+        "share_text": "Sveikiname Bahreiną su nacionaline diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на државноста на Бахреин",
+        "hover_text": "Ден на државноста на Бахреин, 2024 г.",
+        "share_text": "Среќен Ден на државноста, Бахреин! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetim-pirenen'i Baharaina",
+        "hover_text": null,
+        "share_text": "Tsarà fetim-pirenena ry Baharaina ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kebangsaan Bahrain",
+        "hover_text": "Hari Kebangsaan Bahrain 2024",
+        "share_text": "Selamat Menyambut Hari Kebangsaan, Bahrain! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ബഹ്‌റെെൻ ദേശീയ ദിനം",
+        "hover_text": "ബഹ്റൈൻ ദേശീയ ദിനം 2024",
+        "share_text": "ദേശീയ ദിനാശംസകൾ, ബഹ്‌റെെൻ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "बहरीनचा राष्ट्रीय दिन",
+        "hover_text": "बहारीनचा राष्ट्रीय दिन २०२४",
+        "share_text": "बहरीनला राष्ट्रीय दिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Бахрейн улсын Үндэсний баярын өдөр",
+        "hover_text": "2024 оны Бахрейн Улсын Үндэсний баярын өдөр",
+        "share_text": "Бахрейн улсын ард иргэдэд Үндэсний баярын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "बहराइनको राष्ट्रिय दिवस",
+        "hover_text": "बहाराइनको राष्ट्रिय दिवस २०२४",
+        "share_text": "राष्ट्रिय दिवसको शुभकामना, बहराइन! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Bahrains nasjonaldag",
+        "hover_text": "Bahrains nasjonaldag 2024",
+        "share_text": "Gratulerer med nasjonaldagen, Bahrain! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ବାହାରିନ ରାଷ୍ଟ୍ରୀୟ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ରାଷ୍ଟ୍ରୀୟ ଦିବସର ଶୁଭେଚ୍ଛା, ବାହାରିନ୍! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز ملی بحرین",
+        "hover_text": "روز ملی ۲۰۲۴ بحرین",
+        "share_text": "روز ملی بحرین مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Narodowe Bahrajnu",
+        "hover_text": "Święto Narodowe Bahrajnu 2024",
+        "share_text": "Bahrajn obchodzi Święto Narodowe #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia Nacional do Barein",
+        "hover_text": "Dia Nacional do Barein 2024",
+        "share_text": "Feliz Dia Nacional, Barein! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia Nacional do Barém",
+        "hover_text": "Dia Nacional do Barém de 2024",
+        "share_text": "Feliz Dia Nacional, Barém! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਬਹਿਰੀਨ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ",
+        "hover_text": "ਬਹਿਰੀਨ ਦਾ ਰਾਸ਼ਟਰੀ ਦਿਵਸ 2024",
+        "share_text": "ਬਹਿਰੀਨ ਦੇ ਰਾਸ਼ਟਰੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Națională a Bahrainului",
+        "hover_text": "Ziua Națională a Bahrainului 2024",
+        "share_text": "La mulți ani de Ziua Națională, Bahrain! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Национальный день Бахрейна",
+        "hover_text": "Национальный день Бахрейна – 2024",
+        "share_text": "Национальный день Бахрейна #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан државности Бахреина",
+        "hover_text": "Дан државности Бахреина 2024.",
+        "share_text": "Честитамо Дан државности Бахреину! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan državnosti Bahreina",
+        "hover_text": "Dan državnosti Bahreina 2024.",
+        "share_text": "Čestitamo Dan državnosti Bahreinu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Nasyonal Bahrain",
+        "hover_text": null,
+        "share_text": "Bonn zournen nasyonal, Bahrain! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "බහරේන් ජාතික දිනය",
+        "hover_text": "බහරේන් ජාතික දිනය 2024",
+        "share_text": "සුබ ජාතික දිනයක්, බහරේනය! #Googleඩූඩල්"
+      },
+      "sk": {
+        "query": "Štátny sviatok Bahrajnu",
+        "hover_text": "Národný deň Bahrajnu 2024",
+        "share_text": "Šťastný štátny sviatok, Bahrajn! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan državnosti Bahrajna",
+        "hover_text": "Dan državnosti Bahrajna 2024",
+        "share_text": "Vesel dan državnosti, Bahrajn. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Qaranka Baxrayn",
+        "hover_text": null,
+        "share_text": "Maalinta Qaranka Farxada leh, Baxrayn! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Naha la Bahrain",
+        "hover_text": null,
+        "share_text": "Thabela Letsatsi la Naha, Bahrain! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día Nacional de Baréin",
+        "hover_text": "Día Nacional de Baréin 2024",
+        "share_text": "¡Feliz Día Nacional de Baréin! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Kitaifa ya Bahareni",
+        "hover_text": "Sikukuu ya Kitaifa ya Bahareni 2024",
+        "share_text": "Heri ya Sikukuu ya Kitaifa, Bahareni! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Bahrains nationaldag",
+        "hover_text": "Bahrains nationaldag 2024",
+        "share_text": "Vi firar Bahrains nationaldag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "பஹ்ரைன் தேசிய தினம்",
+        "hover_text": "பஹ்ரைனின் தேசிய தினம் 2024",
+        "share_text": "பஹ்ரைன் தேசிய தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "బహ్రెయిన్ జాతీయ దినోత్సవం",
+        "hover_text": "బహ్రెయిన్ జాతీయ దినోత్సవం 2024",
+        "share_text": "జాతీయ దినోత్సవ శుభాకాంక్షలు, బహ్రెయిన్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันชาติบาห์เรน",
+        "hover_text": "วันชาติบาห์เรนปี 2024",
+        "share_text": "วันชาติบาห์เรน #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Setšhaba la Bahrain",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Setšhaba, Bahrain! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Bahreyn Ulusal Günü",
+        "hover_text": "2024 Bahreyn Milli Günü",
+        "share_text": "Bahreyn Ulusal Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Національний день Бахрейну",
+        "hover_text": "Національний день Бахрейну у 2024 році",
+        "share_text": "З Національним днем, Бахрейне! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "بحرین کا قومی دن",
+        "hover_text": "بحرین کا قومی دن 2024",
+        "share_text": "بحرین کا قومی دن مبارک ہو! #GoogleDoodle"
+      },
+      "uz": {
+        "query": "Bahrayn milliy bayrami",
+        "hover_text": "Bahrayn Milliy bayrami 2024",
+        "share_text": "Bahrayn milliy bayrami muborak! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Bahrain",
+        "hover_text": "Ngày Quốc khánh Bahrain năm 2024",
+        "share_text": "Chúc mừng quốc khánh Bahrain! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lukazwelonke lwase-Bahrain",
+        "hover_text": "Usuku Lukazwelonke LwaseBahrain Lwango-2024",
+        "share_text": "Sinifisela usuku lukazwelonke oluhle, Bahrain! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Bahrain National Day",
+    "share_text": "Happy National Day, Bahrain! #GoogleDoodle"
+  },
+  {
+    "name": "kazakhstan-independence-day-2024",
+    "title": "Kazakhstan Independence Day 2024",
+    "url": "//www.google.com/logos/doodles/2024/kazakhstan-independence-day-2024-6753651837110346-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/7kXKXJWDaD3r6cQirIccMRl0PqZRb33bWrIcTcXydh9O2vYgmL8BdAoTYtJM-tD-g9eqVpRNsytBMGJ6meO8lcTvBVK72es16ZRPYWi6ION7t9ohiNx4",
+    "high_res_url": "//www.google.com/logos/doodles/2024/kazakhstan-independence-day-2024-6753651837110346-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      12,
+      16
+    ],
+    "translations": {
+      "en": {
+        "query": "Kazakhstan Independence Day",
+        "hover_text": "Kazakhstan Independence Day 2024",
+        "share_text": "Happy Independence Day, Kazakhstan! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Kazakstan se onafhanklikheidsdag",
+        "hover_text": "Kazakstan se onafhanklikheidsdag 2024",
+        "share_text": "Gelukkige onafhanklikheidsdag, Kazakstan! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë së Kazakistanit",
+        "hover_text": "Dita e Pavarësisë së Kazakistanit, 2024",
+        "share_text": "Gëzuar Ditën e Pavarësisë, Kazakistan! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የካዛክስታን ነፃነት ቀን",
+        "hover_text": "የካዛኪስታን የነፃነት ቀን 2024",
+        "share_text": "መልካም የነጻነት ቀን ካዛክስታን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال كازاخستان",
+        "hover_text": "عيد استقلال كازاخستان 2024",
+        "share_text": "نتمنّى لكازاخستان عيد استقلال سعيدًا. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ղազախստանի անկախության օր",
+        "hover_text": "Ղազախստանի անկախության օր 2024",
+        "share_text": "Շնորհավո՛ր Ղազախստանի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Qazaxıstanın Müstəqillik Günü",
+        "hover_text": "2024 Qazaxıstanın Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Qazaxıstan! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "কাজাকস্তানের স্বাধীনতা দিবস",
+        "hover_text": "কাজাখস্তানের স্বাধীনতা দিবস ২০২৪",
+        "share_text": "স্বাধীনতা দিবসের শুভেচ্ছা, কাজাকস্তান! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Kazakhstango Independentzia Eguna",
+        "hover_text": "2024ko Kazakhstango Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Kazakhstan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Казахстана",
+        "hover_text": "Дзень незалежнасці Казахстана 2024",
+        "share_text": "З Днём незалежнасці, Казахстан! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Kazahstana",
+        "hover_text": "Dan nezavisnosti Kazahstana 2024.",
+        "share_text": "Sretan Dan nezavisnosti, Kazahstane! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Kazakhstan Independence Day",
+        "hover_text": "Kazakhstan Independence Day 2024",
+        "share_text": "Happy Independence Day, Kazakhstan! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Казахстан",
+        "hover_text": "Ден на независимостта на Казахстан 2024 г.",
+        "share_text": "Честит Ден на независимостта на Казахстан! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ကာဇက်စတန် လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ ကာဇက်စတန်နိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ဖြစ်ပါစေ ကာဇက်စတန်၊။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència del Kazakhstan",
+        "hover_text": "Dia de la Independència del Kazakhstan 2024",
+        "share_text": "Feliç Dia de la Independència, Kazakhstan! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "哈薩克獨立日",
+        "hover_text": "2024 年哈薩克獨立日",
+        "share_text": "哈薩克，獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "哈薩克獨立紀念日",
+        "hover_text": "2024 哈薩克獨立紀念日",
+        "share_text": "哈薩克，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "哈萨克斯坦独立日",
+        "hover_text": "2024 年哈萨克斯坦独立日",
+        "share_text": "哈萨克斯坦，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Kazahstana",
+        "hover_text": "Dan neovisnosti Kazahstana 2024.",
+        "share_text": "Sretan Dan neovisnosti, Kazahstane! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Kazachstánu",
+        "hover_text": "Den nezávislosti Kazachstánu 2024",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Kazachstáne! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Kasakhstans uafhængighedsdag",
+        "hover_text": "Kasakhstans uafhængighedsdag 2024",
+        "share_text": "Glædelig uafhængighedsdag, Kasakhstan! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Kazachstan",
+        "hover_text": "Onafhankelijkheidsdag Kazachstan 2024",
+        "share_text": "Fijne Onafhankelijkheidsdag, Kazachstan #GoogleDoodle"
+      },
+      "et": {
+        "query": "Kasahstani iseseisvuspäev",
+        "hover_text": "Kasahstani 2024. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Kasahstan! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Kazakstanin itsenäisyyspäivä",
+        "hover_text": "Kazakstanin itsenäisyyspäivä 2024",
+        "share_text": "Hyvää itsenäisyyspäivää, Kazakstan! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance du Kazakhstan",
+        "hover_text": "Fête de l'Indépendance du Kazakhstan 2024",
+        "share_text": "Fête de l'Indépendance du Kazakhstan ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance du Kazakhstan",
+        "hover_text": "Fête de l'Indépendance du Kazakhstan 2024",
+        "share_text": "Joyeux jour de l'indépendance du Kazakhstan! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Kazakistán",
+        "hover_text": "Día da Independencia de Kazakistán 2024",
+        "share_text": "Feliz Día da Independencia, Kazakistán! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ყაზახეთის დამოუკიდებლობის დღე",
+        "hover_text": "ყაზახეთის დამოუკიდებლობის დღე — 2024",
+        "share_text": "ვულოცავთ დამოუკიდებლობის დღეს ყაზახეთს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Kasachstan",
+        "hover_text": "Unabhängigkeitstag Kasachstan 2024",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Kasachstan! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας Καζακστάν",
+        "hover_text": "Ημέρα Ανεξαρτησίας του Καζακστάν 2024",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας του Καζακστάν! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "કઝાખસ્તાનનો સ્વતંત્રતા દિવસ",
+        "hover_text": "કઝાખસ્તાનનો સ્વતંત્રતા દિવસ 2024",
+        "share_text": "કઝાખસ્તાનના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של קזחסטן",
+        "hover_text": "יום העצמאות של קזחסטן 2024",
+        "share_text": "יום עצמאות שמח, קזחסטן! ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "कज़ाकिस्तान का स्वतंत्रता दिवस",
+        "hover_text": "कज़ाकिस्तान का स्वतंत्रता दिवस 2024",
+        "share_text": "स्वतंत्रता दिवस की शुभकामनाएं, कज़ाकिस्तान! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Kazahsztán függetlenségének napja",
+        "hover_text": "Kazahsztán függetlenségének napja, 2024",
+        "share_text": "Minden jót a függetlenség napján, Kazahsztán! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Kasakstan",
+        "hover_text": "Sjálfstæðisdagur Kasakstan 2024",
+        "share_text": "Gleðilegan sjálfstæðisdag, Kasakstan! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Kazakhstan",
+        "hover_text": "Hari Kemerdekaan Kazakhstan 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Kazakhstan! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse na Casacstáine",
+        "hover_text": null,
+        "share_text": "Lá Saoirse na Casacstáine faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza del Kazakistan",
+        "hover_text": "Festa dell'indipendenza del Kazakistan 2024",
+        "share_text": "Buona festa dell'indipendenza, Kazakistan! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "カザフスタン独立記念日",
+        "hover_text": "2024 年カザフスタン独立記念日",
+        "share_text": "カザフスタン独立記念日を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಕಝಾಕಿಸ್ತಾನ್ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಕಝಾಖಿಸ್ತಾನ್ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2024",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಕಝಾಕಿಸ್ತಾನ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Қазақстанның Тәуелсіздік күні",
+        "hover_text": "Қазақстанның Тәуелсіздік күні – 2024",
+        "share_text": "Тәуелсіздік күні құтты болсын, Қазақстан! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យ​ឯករាជ្យ​ជាតិកាហ្សាក់ស្ថាន",
+        "hover_text": "ទិវា​បុណ្យ​ឯករាជ្យ​ជាតិកាហ្សាក់ស្ថាន​ឆ្នាំ 2024",
+        "share_text": "អបអរទិវា​បុណ្យឯករាជ្យជាតិ​កាហ្សាក់ស្ថាន! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "카자흐스탄 독립기념일",
+        "hover_text": "2024년 카자흐스탄 독립기념일",
+        "share_text": "카자흐스탄 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Казакстандын Эгемендүүлүк күнү",
+        "hover_text": "Казакстандын Эгемендүүлүк күнү — 2024",
+        "share_text": "Эгемендүүлүк күнүң менен, Казакстан! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດຄາຊັກສະຖານ",
+        "hover_text": "ວັນປະກາດເອກະລາດຄາຊັກສຖານ 2024",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດຄາຊັກສະຖານ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Kazajistán",
+        "hover_text": "Día de la Independencia de Kazajistán 2024",
+        "share_text": "¡Feliz Día de la Independencia, Kazajistán! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Kazahstānas Neatkarības diena",
+        "hover_text": "Kazahstānas Neatkarības diena — 2024",
+        "share_text": "Sveicam Neatkarības dienā, Kazahstāna! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Kazachijos nepriklausomybės diena",
+        "hover_text": "Kazachstano nepriklausomybės diena, 2024 m.",
+        "share_text": "Sveikiname Kazachiją su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Казахстан",
+        "hover_text": "Ден на независноста на Казахстан, 2024 г.",
+        "share_text": "Среќен Ден на независноста, Казахстан! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Kazakistano",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny fahaleovantena ry Kazakistano ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Kazakhstan",
+        "hover_text": "Hari Kemerdekaan Kazakhstan 2024",
+        "share_text": "Selamat Hari Kemerdekaan, Kazakhstan! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "കാസാഖിസ്ഥാൻ സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "കസാഖിസ്ഥാൻ സ്വാതന്ത്ര്യദിനം 2024",
+        "share_text": "സ്വാതന്ത്ര്യ ദിനാശംസകൾ, കാസാഖിസ്ഥാൻ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "कझाकस्तानचा स्वातंत्र्यदिन",
+        "hover_text": "कझाकस्तानचा स्वातंत्र्यदिन २०२४",
+        "share_text": "कझाकस्तानला स्वातंत्र्यदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Казахстан улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2024 оны Казахстан Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Казахстан улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "काजाकस्तानको स्वतन्त्रता दिवस",
+        "hover_text": "कजाख्स्तानको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, काजाकस्तान! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Kasakhstans frigjøringsdag",
+        "hover_text": "Kasakhstans frigjøringsdag 2024",
+        "share_text": "Gratulerer med frigjøringsdagen, Kasakhstan! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "କାଜାଖାସ୍ତାନର ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": null,
+        "share_text": "ସ୍ୱାଧୀନତା ଦିବସର ଶୁଭେଚ୍ଛା, କାଜାଖାସ୍ତାନ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال قزاقستان",
+        "hover_text": "روز استقلال ۲۰۲۴ قزاقستان",
+        "share_text": "روز استقلال قزاقستان مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Niepodległości Kazachstanu",
+        "hover_text": "Dzień Niepodległości Kazachstanu 2024",
+        "share_text": "Kazachstan obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência do Cazaquistão",
+        "hover_text": "Dia da Independência do Cazaquistão 2024",
+        "share_text": "Feliz Dia da Independência, Cazaquistão! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência do Cazaquistão",
+        "hover_text": "Dia da Independência do Cazaquistão de 2024",
+        "share_text": "Feliz dia da independência, Cazaquistão! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਕਜ਼ਾਖਸਤਾਨ ਦਾ ਆਜ਼ਾਦੀ ਦਿਵਸ",
+        "hover_text": "ਕਜ਼ਾਖਸਤਾਨ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2024",
+        "share_text": "ਆਜ਼ਾਦੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਕਜ਼ਾਖਸਤਾਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței în Kazahstan",
+        "hover_text": "Ziua Independenței în Kazahstan 2024",
+        "share_text": "La mulți ani de Ziua Independenței, Kazahstan! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Казахстана – 2021",
+        "hover_text": "День независимости Казахстана – 2024",
+        "share_text": "День независимости Казахстана #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Казахстана",
+        "hover_text": "Дан независности Казахстана 2024.",
+        "share_text": "Честитамо Дан независности Казахстану! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Kazahstana",
+        "hover_text": "Dan nezavisnosti Kazahstana 2024.",
+        "share_text": "Čestitamo Dan nezavisnosti Kazahstanu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepandans Kazakhstan",
+        "hover_text": null,
+        "share_text": "Bonn zournen lendepandans, Kazakhstan! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "කසකස්තානයේ නිදහස් දිනය",
+        "hover_text": "කසකස්තානයේ නිදහස් දිනය 2024",
+        "share_text": "ප්‍රීතිමත් නිදහස් දිනයක්, කසකස්තානය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Kazachstanu",
+        "hover_text": "Deň nezávislosti Kazachstanu 2024",
+        "share_text": "Šťastný Deň nezávislosti, Kazachstan! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Kazahstana",
+        "hover_text": "Dan neodvisnosti Kazahstana 2024",
+        "share_text": "Vesel dan neodvisnosti, Kazahstan! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maaalinta Xoriyada Kazakhstan",
+        "hover_text": null,
+        "share_text": "Maalinta Xornimada Farxada oo leh, Kazakhstan! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Boipuso la Kazakhstan",
+        "hover_text": null,
+        "share_text": "Mahlohonolo a Letsatsi la Boipuso, Kazakhstan! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Kazajistán",
+        "hover_text": "Día de la Independencia de Kazajistán 2024",
+        "share_text": "¡Feliz Día de la Independencia de Kazajistán! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Kazakistani",
+        "hover_text": "Sikukuu ya Uhuru wa Kazakistani 2024",
+        "share_text": "Heri za Sikukuu ya Uhuru, Kazakistani! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Kazakstans självständighetsdag",
+        "hover_text": "Kazakstans självständighetsdag 2024",
+        "share_text": "Vi firar Kazakstans självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "கஜகஸ்தானின் சுதந்திர தினம்",
+        "hover_text": "கஜகஸ்தானின் சுதந்திர தினம் 2024",
+        "share_text": "கஜகஸ்தானின் சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "కజకిస్థాన్ స్వాతంత్య్ర దినోత్సవం",
+        "hover_text": "కజకిస్థాన్ స్వాతంత్య్ర దినోత్సవం 2024",
+        "share_text": "స్వాతంత్య్ర దినోత్సవ శుభాకాంక్షలు, కజకిస్థాన్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของคาซัคสถาน",
+        "hover_text": "วันประกาศเอกราชของคาซัคสถานปี 2024",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของคาซัคสถาน #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Kazakhstan Independence Day",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Boipuso, Kazakhstan! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Kazakistan Bağımsızlık Günü",
+        "hover_text": "2024 Kazakistan Bağımsızlık Günü",
+        "share_text": "Kazakistan Bağımsızlık Günü Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Казахстану",
+        "hover_text": "День незалежності Казахстану у 2024 році",
+        "share_text": "З Днем незалежності, Казахстане! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "قزاخستان کا یوم آزادی",
+        "hover_text": "قازقستان کا یوم آزادی 2024",
+        "share_text": "قزاخستان کا یوم آزادی مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Qozogʻiston Mustaqillik kuni",
+        "hover_text": "Qozogʻiston Mustaqillik kuni 2024",
+        "share_text": "Mustaqillik kuni muborak, Qozogʻiston! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Chào mừng Ngày Độc lập Kazakhstan",
+        "hover_text": "Ngày Độc lập Kazakhstan năm 2024",
+        "share_text": "Chào mừng Ngày Độc lập Kazakhstan! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lokuzimela lwase-Kazakhstan",
+        "hover_text": "Usuku Lokuzimela LwaseKazakhstan Lwango-2024",
+        "share_text": "Usuku Oluhle Lokuzimela, Kazakhstan! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Kazakhstan Independence Day",
+    "share_text": "Happy Independence Day, Kazakhstan! #GoogleDoodle"
+  },
+  {
     "name": "jamhuri-day-2024",
     "title": "Jamhuri Day 2024",
     "url": "//www.google.com/logos/doodles/2024/jamhuri-day-2024-6753651837110343-law.gif",
