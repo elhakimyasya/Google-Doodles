@@ -1,5 +1,504 @@
 [
   {
+    "name": "year-in-search-2024",
+    "title": "Year in Search 2024",
+    "url": "//www.google.com/logos/doodles/2024/year-in-search-2024-global-6753651837110649.4-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/FvN7CNLcczU8L6xdoxmCM1AN1ia9jWISnVW_5hNGofskk3BAorEYlup2gYStEs7ZvRcPSi40tKP8PW_NSjTvFNRMVMr_6uP0OpP58IMRls5Zws-R5yzyyg",
+    "high_res_url": "//www.google.com/logos/doodles/2024/year-in-search-2024-global-6753651837110649-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      12,
+      20
+    ],
+    "translations": {
+      "en": {
+        "query": "Year in Search 2024",
+        "hover_text": "Year in Search 2024",
+        "share_text": "Year in Search 2024! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Jaar in Search",
+        "hover_text": "Jaar in Search 2024",
+        "share_text": "Jaar in Search 2024! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Viti në \"Kërko\"",
+        "hover_text": "Viti në \"Kërko\", 2024",
+        "share_text": "Viti në \"Kërko\", 2024! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ዓመቱ በፍለጋ",
+        "hover_text": "ዓመቱ በፍለጋ 2024",
+        "share_text": "ዓመቱ በፍለጋ 2024! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "البحث هذا العام",
+        "hover_text": "البحث هذا العام 2024",
+        "share_text": "إليكم أبرز مواضيع البحث هذا العام 2024! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Տարին Որոնման մեջ",
+        "hover_text": "Տարին Որոնման մեջ 2024",
+        "share_text": "Տարին Որոնման մեջ 2024 #GoogleDoodle"
+      },
+      "az": {
+        "query": "İlin Axtarış Trendləri",
+        "hover_text": "2024-cü İlin Axtarış Trendləri",
+        "share_text": "2024-cü İlin Axtarış Trendləri! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ফিরে দেখা সাল",
+        "hover_text": "ফিরে দেখা সাল ২০২৪",
+        "share_text": "ফিরে দেখা সাল ২০২৪! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Urtea bilaketetan",
+        "hover_text": "2024. urtea bilaketetan",
+        "share_text": "2024. urtea bilaketetan #GoogleDoodle"
+      },
+      "be": {
+        "query": "Год у пошуку",
+        "hover_text": "Год у пошуку 2024",
+        "share_text": "Год у пошуку 2024! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Godina u Pretraživanju",
+        "hover_text": "Godina u Pretraživanju 2024.",
+        "share_text": "Godina u Pretraživanju 2024! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Year in Search",
+        "hover_text": "Year in Search 2024",
+        "share_text": "Year in Search 2024 #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Годината в Google Търсене",
+        "hover_text": "Годината в Google Търсене (2024 г.)",
+        "share_text": "Годината в Google Търсене (2024 г.)! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဤခုနှစ်တွင် ရှာဖွေမှု",
+        "hover_text": "၂၀၂၄ ခုနှစ်တွင် ရှာဖွေမှု",
+        "share_text": "၂၀၂၄ ခုနှစ်တွင် ရှာဖွေမှု။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "L'any en cerques",
+        "hover_text": "L'any en cerques 2024",
+        "share_text": "L'any en cerques 2024 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "年度搜尋排行榜",
+        "hover_text": "2024 年度搜尋排行榜",
+        "share_text": "2024 年度搜尋排行榜！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "年度搜尋排行榜",
+        "hover_text": "2024 年度搜尋排行榜",
+        "share_text": "瀏覽 2024 年度搜尋排行榜！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "年度热搜榜",
+        "hover_text": "2024 年度热搜榜",
+        "share_text": "2024 年度热搜榜！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Godina u pretraživanju",
+        "hover_text": "Godina u pretraživanju 2024.",
+        "share_text": "Godina u pretraživanju 2024.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Rok ve vyhledávání",
+        "hover_text": "Rok 2024 ve vyhledávání",
+        "share_text": "Rok 2024 ve vyhledávání! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Årets søgninger",
+        "hover_text": "Årets søgninger i 2024",
+        "share_text": "Årets søgninger i 2024 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Year in Search",
+        "hover_text": "Year in Search 2024",
+        "share_text": "Year in Search 2024! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Aasta otsingus",
+        "hover_text": "2024. aasta otsingus",
+        "share_text": "2024. aasta otsingus! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Hakujen vuosi",
+        "hover_text": "Hakujen vuosi 2024",
+        "share_text": "Hakujen vuosi 2024 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "L'année en recherches",
+        "hover_text": "L'année 2024 en recherches",
+        "share_text": "L'année 2024 en recherches ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "L'année en recherches",
+        "hover_text": "L'année 2024 en recherches",
+        "share_text": "L'année 2024 en recherches! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "O ano en buscas",
+        "hover_text": "O ano en buscas 2024",
+        "share_text": "O ano en buscas 2024! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "წელი Search-ში",
+        "hover_text": "2024 წელი Search-ში",
+        "share_text": "2024 წელი Search-ში! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Jahresrückblick",
+        "hover_text": "Jahresrückblick 2024",
+        "share_text": "Jahresrückblick 2024 #GoogleDoodle"
+      },
+      "el": {
+        "query": "Οι αναζητήσεις του έτους",
+        "hover_text": "Οι αναζητήσεις του έτους 2024",
+        "share_text": "Οι αναζητήσεις του έτους 2024! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "Searchમાં આ વર્ષે",
+        "hover_text": "Search, વર્ષ 2024માં",
+        "share_text": "Search, વર્ષ 2024માં! #GoogleDoodle"
+      },
+      "ht": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "iw": {
+        "query": "השנה האחרונה בחיפוש Google",
+        "hover_text": "השנה האחרונה בחיפוש Google‏: 2024",
+        "share_text": "השנה האחרונה בחיפוש Google‏: 2024 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "Year in Search",
+        "hover_text": "Year in Search 2024",
+        "share_text": "Year in Search 2024! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Az év keresései",
+        "hover_text": "Az év keresései 2024-ben",
+        "share_text": "Az év keresései 2024-ben! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Leitarorð ársins",
+        "hover_text": "Leitarorð ársins 2024",
+        "share_text": "Leitarorð ársins 2024! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Setahun Search",
+        "hover_text": "Setahun Search 2024",
+        "share_text": "Setahun Search 2024 #GoogleDoodle"
+      },
+      "ga": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "it": {
+        "query": "Un anno di ricerche",
+        "hover_text": "Un anno di ricerche 2024",
+        "share_text": "Un anno di ricerche 2024! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "Year in Search: 検索で振り返る 1 年",
+        "hover_text": "Year in Search: 検索で振り返る 2024",
+        "share_text": "Year in Search: 検索で振り返る 2024！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ವರ್ಷದಲ್ಲಿ Search",
+        "hover_text": "2024 ನೇ ವರ್ಷದಲ್ಲಿ Search",
+        "share_text": "2024 ನೇ ವರ್ಷದಲ್ಲಿ Search #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Year in Search",
+        "hover_text": "2024 жылғы Year in Search",
+        "share_text": "2024 жылғы Year in Search шықты! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការស្វែងរកប្រចាំឆ្នាំ",
+        "hover_text": "ការស្វែងរកប្រចាំឆ្នាំ 2024",
+        "share_text": "ការស្វែងរកប្រចាំឆ្នាំ 2024! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "올해의 검색어",
+        "hover_text": "2024년 올해의 검색어",
+        "share_text": "2024년 올해의 검색어 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Бир жылдын ичинде көп изделген нерселер",
+        "hover_text": "2024-жылы көп изделген нерселер",
+        "share_text": "2024-жылы көп изделген нерселер! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ໜຶ່ງປີກັບການຊອກຫາ",
+        "hover_text": "ໜຶ່ງປີກັບການຊອກຫາຂອງປີ 2024",
+        "share_text": "ໜຶ່ງປີກັບການຊອກຫາຂອງປີ 2024! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "El año en búsquedas",
+        "hover_text": "El año en búsquedas 2024",
+        "share_text": "¡El año en búsquedas 2024! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Gads meklēšanā",
+        "hover_text": "2024. gads meklēšanā",
+        "share_text": "2024. gads meklēšanā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Metų paieškos",
+        "hover_text": "Metų paieškos, 2024 m.",
+        "share_text": "Metų paieškos, 2024 m.! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Изминатата година во „Пребарување“",
+        "hover_text": "Изминатата година во „Пребарување“, 2024 г.",
+        "share_text": "Изминатата година во „Пребарување“, 2024 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Google Search Sepanjang Tahun",
+        "hover_text": "Google Search Sepanjang Tahun 2024",
+        "share_text": "Google Search Sepanjang Tahun 2024! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "പോയ വർഷം തിരഞ്ഞത്",
+        "hover_text": "2024-ൽ തിരഞ്ഞത്",
+        "share_text": "2024-ൽ തിരഞ്ഞത്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "mr": {
+        "query": "शोध मधील वर्ष",
+        "hover_text": "शोध मधील वर्ष २०२४",
+        "share_text": "शोध मधील वर्ष २०२४! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Хайлтын жил",
+        "hover_text": "2024 оны хайлтын жил",
+        "share_text": "2024 оны хайлтын жил! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Year in Search",
+        "hover_text": "Year in Search 2024",
+        "share_text": "Year in Search 2024! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Søkeåret",
+        "hover_text": "Søkeåret 2024",
+        "share_text": "Søkeåret 2024! #GoogleDoodle"
+      },
+      "nn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ny": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "or": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ps": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "fa": {
+        "query": "یک سال جستجو",
+        "hover_text": "«یک سال جستجوی» ۲۰۲۴",
+        "share_text": "«یک سال جستجوی» ۲۰۲۴! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Rok w wyszukiwarce",
+        "hover_text": "Rok 2024 w wyszukiwarce",
+        "share_text": "Rok 2024 w wyszukiwarce #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Pesquisas do ano",
+        "hover_text": "Pesquisas do ano 2024",
+        "share_text": "Pesquisas do ano 2024 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "O ano em Pesquisa",
+        "hover_text": "O ano em Pesquisa de 2024",
+        "share_text": "O ano em Pesquisa de 2024! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Year in Search",
+        "hover_text": "2024 ਸਾਲ ਦੀਆਂ ਖੋਜਾਂ",
+        "share_text": "2024 ਸਾਲ ਦੀਆਂ ਖੋਜਾਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Căutările anului",
+        "hover_text": "Căutările anului 2024",
+        "share_text": "Căutările anului 2024! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Год в поиске",
+        "hover_text": "Год в поиске – 2024",
+        "share_text": "Год в поиске – 2024 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Година у Претрази",
+        "hover_text": "Година у Претрази 2024.",
+        "share_text": "Година у Претрази 2024! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Godina u Pretrazi",
+        "hover_text": "Godina u Pretrazi 2024.",
+        "share_text": "Godina u Pretrazi 2024! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "crs": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "si": {
+        "query": "සෙවීම් වසර",
+        "hover_text": "සෙවීම් වසර 2024",
+        "share_text": "සෙවීම් වසර 2024! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Rok vo vyhľadávaní",
+        "hover_text": "Rok 2024 vo vyhľadávaní",
+        "share_text": "Rok 2024 vo vyhľadávaní. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Leto v iskanju",
+        "hover_text": "Leto 2024 v iskanju",
+        "share_text": "Leto 2024 v iskanju! #GoogleDoodle"
+      },
+      "so": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "st": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "es": {
+        "query": "El año en búsquedas",
+        "hover_text": "El año en búsquedas 2024",
+        "share_text": "¡El año en búsquedas 2024! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Yaliyotafutwa Mwaka Huu",
+        "hover_text": "Yaliyotafutwa Mwaka 2024",
+        "share_text": "Yaliyotafutwa Mwaka 2024! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Året med Sök",
+        "hover_text": "Året med Sök 2024",
+        "share_text": "Året med Sök 2024! #GoogleDoodle"
+      },
+      "tg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Year in Search",
+        "hover_text": "ஆண்டுத் தேடல் 2024",
+        "share_text": "ஆண்டுத் தேடல் 2024! #GoogleDoodle"
+      },
+      "te": {
+        "query": "సంవత్సరంలో Search",
+        "hover_text": "2024 సంవత్సరంలో Search",
+        "share_text": "2024 సంవత్సరంలో Search! #GoogleDoodle"
+      },
+      "th": {
+        "query": "หนึ่งปีกับการค้นหา",
+        "hover_text": "หนึ่งปีกับการค้นหา 2024",
+        "share_text": "หนึ่งปีกับการค้นหา 2024! #GoogleDoodle"
+      },
+      "tn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Yılın Arama Trendleri",
+        "hover_text": "2024 Yılının Arama Trendleri",
+        "share_text": "2024 Yılının Arama Trendleri #GoogleDoodle"
+      },
+      "tk": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Рік у пошуку",
+        "hover_text": "Рік у пошуку – 2024",
+        "share_text": "Рік у пошуку – 2024! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "سال بھر کی تلاش پر ایک نظر",
+        "hover_text": "‫2024 کی سال بھر کی تلاش پر ایک نظر",
+        "share_text": "‫2024 کی سال بھر کی تلاش پر ایک نظر! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Qidiruv hisoboti",
+        "hover_text": "Qidiruv hisoboti 2024",
+        "share_text": "Qidiruv hisoboti 2024! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Xu hướng tìm kiếm nổi bật",
+        "hover_text": "Xu hướng tìm kiếm nổi bật năm 2024",
+        "share_text": "Xu hướng tìm kiếm nổi bật năm 2024! #GoogleDoodle"
+      },
+      "wo": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usesho Onyakeni",
+        "hover_text": "Usesho Onyakeni ka-2024",
+        "share_text": "Usesho Onyakeni ka-2024! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Year in Search 2024",
+    "share_text": "Year in Search 2024! #GoogleDoodle"
+  },
+  {
     "name": "qatar-national-day-2024",
     "title": "Qatar National Day 2024",
     "url": "//www.google.com/logos/doodles/2024/qatar-national-day-2024-6753651837110347-law.gif",
