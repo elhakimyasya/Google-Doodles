@@ -1,5 +1,504 @@
 [
   {
+    "name": "rise-of-the-half-moon-december",
+    "title": "Rise of the Half Moon December",
+    "url": "//www.google.com/logos/doodles/2024/rise-of-the-half-moon-december-6753651837110600.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/OqIrBEXT_iO9LGlRRBNpm3gfssp5evoXX5dMiTbiFdbSYmnkRs1jYoYM_uosTtMZthxdukjJHPkS-O-OceuoasPDqjUFFibPt8mnjxfukMe0GPFyVD9x3g",
+    "high_res_url": "//www.google.com/logos/doodles/2024/rise-of-the-half-moon-december-6753651837110600-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2024,
+      12,
+      22
+    ],
+    "translations": {
+      "en": {
+        "query": "lunar phases",
+        "hover_text": "Rise of the Half Moon",
+        "share_text": "Rise of the Half Moon! #GoogleDoodle"
+      },
+      "af": {
+        "query": "maanfases",
+        "hover_text": "Opkoms van die halfmaan",
+        "share_text": "Opkoms van die halfmaan! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "fazat hënore",
+        "hover_text": "Lindja e Gjysmëhënës",
+        "share_text": "Lindja e Gjysmëhënës! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የጨረቃ ሁኔታዎች",
+        "hover_text": "የግማሽ ጨረቃ መውጣት",
+        "share_text": "የግማሽ ጨረቃ መውጣት! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "أطوار القمر",
+        "hover_text": "بزوغ نصف القمر",
+        "share_text": "نحتفل اليوم ببزوغ نصف القمر! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "լուսնի փուլեր",
+        "hover_text": "Կիսալուսնի հայտնություն",
+        "share_text": "Կիսալուսնի հայտնություն #GoogleDoodle"
+      },
+      "az": {
+        "query": "ay fazaları",
+        "hover_text": "Yarım Ayın Doğuşu",
+        "share_text": "Yarım Ayın Doğuşu! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "লুনার ফেজ",
+        "hover_text": "অর্ধ চন্দ্রের উদয়",
+        "share_text": "অর্ধ চন্দ্রের উদয়! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "ilargiaren aldiak",
+        "hover_text": "Ilargierdiaren igoera",
+        "share_text": "Ilargierdiaren igoera #GoogleDoodle"
+      },
+      "be": {
+        "query": "фазы Месяца",
+        "hover_text": "Узыход паўмесяца",
+        "share_text": "Узыход паўмесяца! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "mjesečeve mijene",
+        "hover_text": "Izlazak polumjeseca",
+        "share_text": "Izlazak polumjeseca! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Lunar phases",
+        "hover_text": "Rise of the Half Moon",
+        "share_text": "Rise of the Half Moon! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "фази на Луната",
+        "hover_text": "Нощта на полулунието",
+        "share_text": "Нощта на полулунието! #GoogleDoodle"
+      },
+      "my": {
+        "query": "လပြည့်လကွယ်ပြောင်းလဲမှုများ",
+        "hover_text": "လခြမ်းတစ်ဝက် ပေါ်ထွက်လာခြင်း",
+        "share_text": "လခြမ်းတစ်ဝက် ပေါ်ထွက်လာခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "fases lunars",
+        "hover_text": "Ascens de la mitja lluna",
+        "share_text": "Ascens de la mitja lluna #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "月相",
+        "hover_text": "上弦望月",
+        "share_text": "上弦望月！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "月相",
+        "hover_text": "弦月升起",
+        "share_text": "仰望弦月升起！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "月相",
+        "hover_text": "半月卡牌大战",
+        "share_text": "半月卡牌大战！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "mjesečeve mijene",
+        "hover_text": "Izlazak Polumjeseca",
+        "share_text": "Izlazak Polumjeseca! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "fáze měsíce",
+        "hover_text": "Půlměsíc vychází",
+        "share_text": "Půlměsíc vychází! #GoogleDoodle"
+      },
+      "da": {
+        "query": "månens faser",
+        "hover_text": "Halvmånens opgang",
+        "share_text": "Halvmånens opgang #GoogleDoodle"
+      },
+      "nl": {
+        "query": "maanfasen",
+        "hover_text": "Opkomst van de halve maan",
+        "share_text": "Opkomst van de halve maan! #GoogleDoodle"
+      },
+      "et": {
+        "query": "kuufaasid",
+        "hover_text": "Poolkuu tõus",
+        "share_text": "Poolkuu tõus! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "kuun vaiheet",
+        "hover_text": "Puolikuun nousu",
+        "share_text": "Puolikuun nousu #GoogleDoodle"
+      },
+      "fr": {
+        "query": "phases lunaires",
+        "hover_text": "Lever de la demi-lune",
+        "share_text": "Lever de la demi-lune ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "phases de la Lune",
+        "hover_text": "Célébrons le dernier quartier de la lune",
+        "share_text": "Célébrons le dernier quartier de la lune! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "fases lunares",
+        "hover_text": "O ascenso da Media Lúa",
+        "share_text": "O ascenso da Media Lúa! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მთვარის ფაზები",
+        "hover_text": "ნახევარმთვარის ამოსვლა",
+        "share_text": "ნახევარმთვარის ამოსვლა! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Mondphasen",
+        "hover_text": "Aufgang des Halbmondes",
+        "share_text": "Aufgang des Halbmondes #GoogleDoodle"
+      },
+      "el": {
+        "query": "σεληνιακές φάσεις",
+        "hover_text": "Η Ημισέληνος ανατέλλει",
+        "share_text": "Η Ημισέληνος ανατέλλει! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ચંદ્રકળાઓ",
+        "hover_text": "હાફ મૂનનો ઉદય",
+        "share_text": "હાફ મૂનનો ઉદય! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "מופעי הירח",
+        "hover_text": "עלייתו של חצי הירח",
+        "share_text": "עלייתו של חצי הירח GoogleDoodle#"
+      },
+      "hi": {
+        "query": "लूनर फ़ेज़",
+        "hover_text": "राइज़ ऑफ़ द हाफ़-मून",
+        "share_text": "राइज़ ऑफ़ द हाफ़-मून! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "holdciklusok",
+        "hover_text": "A félhold felemelkedése",
+        "share_text": "A félhold felemelkedése! #GoogleDoodle"
+      },
+      "is": {
+        "query": "tunglkvartil",
+        "hover_text": "Vaxandi hálfmáni",
+        "share_text": "Vaxandi hálfmáni! #GoogleDoodle"
+      },
+      "id": {
+        "query": "fase bulan",
+        "hover_text": "Munculnya Bulan Paruh",
+        "share_text": "Munculnya Bulan Paruh #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "fasi lunari",
+        "hover_text": "Il sorgere della Mezza Luna",
+        "share_text": "Il sorgere della Mezza Luna! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "月の満ち欠け",
+        "hover_text": "半月の夜",
+        "share_text": "半月の夜！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಲೂನಾರ್ ಫೇಸ್‌ಗಳು",
+        "hover_text": "ರೈಸ್ ಆಫ್ ದಿ ಹಾಫ್ ಮೂನ್",
+        "share_text": "ರೈಸ್ ಆಫ್ ದಿ ಹಾಫ್ ಮೂನ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "ай фазалары",
+        "hover_text": "Жарты айдың көтерілуі",
+        "share_text": "Жарты айдың көтерілуі #GoogleDoodle"
+      },
+      "km": {
+        "query": "វគ្គព្រះចន្ទ",
+        "hover_text": "ការរះឡើងនៃព្រះចន្ទកន្លះវង់",
+        "share_text": "ការរះឡើងនៃព្រះចន្ទកន្លះវង់! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "달의 위상",
+        "hover_text": "떠오르는 반달",
+        "share_text": "떠오르는 반달 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Ай фазалары",
+        "hover_text": "Жарым айдын чыгышы",
+        "share_text": "Жарым айдын чыгышы! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ຂັ້ນຕອນດວງເດືອນ",
+        "hover_text": "ການຂຶ້ນຂອງເດືອນເຄິ່ງດວງ",
+        "share_text": "ການຂຶ້ນຂອງເດືອນເຄິ່ງດວງ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "fases lunares",
+        "hover_text": "La salida de la media luna",
+        "share_text": "La salida de la media luna #GoogleDoodle"
+      },
+      "lv": {
+        "query": "mēness fāzes",
+        "hover_text": "Pusmēness pie apvāršņa",
+        "share_text": "Pusmēness pie apvāršņa! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Mėnulio ciklai",
+        "hover_text": "Pusmėnulio patekėjimas",
+        "share_text": "Pusmėnulio patekėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "месечеви мени",
+        "hover_text": "Изгревањето на Полумесечината",
+        "share_text": "Изгревањето на Полумесечината! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "fasa bulan",
+        "hover_text": "Kebangkitan Half Moon",
+        "share_text": "Kebangkitan Half Moon! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ലൂണാർ ഫെയ്‌സുകൾ",
+        "hover_text": "റൈസ് ഓഫ് ദ ഹാഫ് മൂൺ",
+        "share_text": "റൈസ് ഓഫ് ദ ഹാഫ് മൂൺ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "चंद्राच्या कला",
+        "hover_text": "राइझ ऑफ द हाफ मून",
+        "share_text": "राइझ ऑफ द हाफ मून! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "сарны үеүд",
+        "hover_text": "Тал сарны мандалт",
+        "share_text": "Тал сарны мандалт! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "चन्द्रमाका कला",
+        "hover_text": "राइज अफ द हाफ मुन",
+        "share_text": "राइज अफ द हाफ मुन! #GoogleDoodle"
+      },
+      "no": {
+        "query": "månefaser",
+        "hover_text": "Halvmånens fremvekst",
+        "share_text": "Halvmånens fremvekst! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "گام‌های ماه",
+        "hover_text": "طلوع «ماه نیمه»",
+        "share_text": "طلوع «ماه نیمه»! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "fazy Księżyca",
+        "hover_text": "Wschód Półksiężyca",
+        "share_text": "Wschód Półksiężyca #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "fases da lua",
+        "hover_text": "Ascensão da Meia-lua",
+        "share_text": "Ascensão da Meia-lua #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "fases lunares",
+        "hover_text": "Ascensão da Meia-Lua",
+        "share_text": "Ascensão da Meia-Lua! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "lunar phases",
+        "hover_text": "ਰਾਈਜ਼ ਆਫ਼ ਦਾ ਹਾਫ਼ ਮੂਨ",
+        "share_text": "ਰਾਈਜ਼ ਆਫ਼ ਦਾ ਹਾਫ਼ ਮੂਨ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "faze lunare",
+        "hover_text": "Răsăritul Semilunii",
+        "share_text": "Răsăritul Semilunii! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Фазы Луны",
+        "hover_text": "Восход полумесяца",
+        "share_text": "Восход полумесяца #GoogleDoodle"
+      },
+      "sr": {
+        "query": "месечеве мене",
+        "hover_text": "Растући полумесец",
+        "share_text": "Растући полумесец! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "mesečeve mene",
+        "hover_text": "Rastući polumesec",
+        "share_text": "Rastući polumesec! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "චන්ද්‍ර අවධීන්",
+        "hover_text": "අර්ධ සඳෙහි නැගීම",
+        "share_text": "අර්ධ සඳෙහි නැගීම! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "lunárne fázy",
+        "hover_text": "Vychádza polmesiac",
+        "share_text": "Vychádza polmesiac! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "lunine mene",
+        "hover_text": "Vzhajanje polmeseca",
+        "share_text": "Vzhajanje polmeseca #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "fases lunares",
+        "hover_text": "La salida de la Media Luna",
+        "share_text": "La salida de la Media Luna #GoogleDoodle"
+      },
+      "sw": {
+        "query": "awamu za mwezi",
+        "hover_text": "Kuchomoza kwa Nusu Mwezi",
+        "share_text": "Kuchomoza kwa Nusu Mwezi! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "månfaser",
+        "hover_text": "Halvmånens uppgång",
+        "share_text": "Halvmånens uppgång! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "நிலவின் கலைகள்",
+        "hover_text": "ரைஸ் ஆஃப் தி ஹாஃப் மூன்",
+        "share_text": "ரைஸ் ஆஃப் தி ஹாஃப் மூன்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "లూనార్ ఫేజ్‌లు",
+        "hover_text": "రైజ్ ఆఫ్ ద హాఫ్ మూన్",
+        "share_text": "రైజ్ ఆఫ్ ద హాఫ్ మూన్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "ข้างขึ้นข้างแรม",
+        "hover_text": "วันพระจันทร์ครึ่งดวง",
+        "share_text": "วันพระจันทร์ครึ่งดวง! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "ayın evreleri",
+        "hover_text": "Yarım Ayın Yükselişi",
+        "share_text": "Yarım Ayın Yükselişi #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "фази Місяця",
+        "hover_text": "Сходження півмісяця",
+        "share_text": "Сходження півмісяця! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "قمری مراحل",
+        "hover_text": "نصف چاند کا عروج",
+        "share_text": "نصف چاند کا عروج! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "oy sikllari",
+        "hover_text": "Yarim oy chiqishi",
+        "share_text": "Yarim oy chiqishi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "các pha mặt trăng",
+        "hover_text": "Khi Trăng Bán Nguyệt trỗi dậy",
+        "share_text": "Khi Trăng Bán Nguyệt trỗi dậy! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "izigaba zenyanga",
+        "hover_text": "IRise of the Half Moon",
+        "share_text": "IRise of the Half Moon! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "lunar phases",
+    "share_text": "Rise of the Half Moon! #GoogleDoodle"
+  },
+  {
     "name": "year-in-search-2024",
     "title": "Year in Search 2024",
     "url": "//www.google.com/logos/doodles/2024/year-in-search-2024-global-6753651837110649.4-l.png",
