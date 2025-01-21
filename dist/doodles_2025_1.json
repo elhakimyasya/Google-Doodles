@@ -1,5 +1,504 @@
 [
   {
+    "name": "dr-martin-luther-king-jr-day-2025",
+    "title": "Dr. Martin Luther King Jr. Day 2025",
+    "url": "//www.google.com/logos/doodles/2025/dr-martin-luther-king-jr-day-2025-6753651837110587-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/Ku-svRbPgQ99LyhUco8hLybCXd66SgSLRj5DSlbW2D5OtTOhMDOi-T8nzFMT3DU0UUgfOyRoiBK6a7CT3Ze_QvpHMKbzpBBQBsF1zzyE2pqXS7SHeP3Lsw",
+    "high_res_url": "//www.google.com/logos/doodles/2025/dr-martin-luther-king-jr-day-2025-6753651837110587.2-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2025,
+      1,
+      20
+    ],
+    "translations": {
+      "en": {
+        "query": "Dr. Martin Luther King Jr. Day",
+        "hover_text": "Dr. Martin Luther King Jr. Day 2025",
+        "share_text": "Dr. Martin Luther King Jr. Day 2025! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Dr. Martin Luther King jr.-dag",
+        "hover_text": "Dr. Martin Luther King jr.-dag 2025",
+        "share_text": "Dr. Martin Luther King jr.-dag 2025 #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Dr. Martin Luther King Jr.",
+        "hover_text": "Dita e Dr. Martin Luther King Jr., 2025",
+        "share_text": "Dita e Dr. Martin Luther King Jr., 2025! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የዶ/ር ማርቲን ሉተር ኪንግ ጁኒየር ቀን",
+        "hover_text": "የዶ/ር ማርቲን ሉተር ኪንግ ጁኒየር ቀን 2025",
+        "share_text": "የዶ/ር ማርቲን ሉተር ኪንግ ጁኒየር ቀን 2025! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "يوم الدكتور \"مارتن لوثر كينغ الابن\"",
+        "hover_text": "يوم الدكتور \"مارتن لوثر كينغ الابن\" 2025",
+        "share_text": "نحتفل اليوم بذكرى الدكتور \"مارتن لوثر كينغ الابن\" لعام 2025. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Մարտին Լյութեր Քինգի օրը",
+        "hover_text": "Մարտին Լյութեր Քինգի օր 2025",
+        "share_text": "Մարտին Լյութեր Քինգի օր 2025 #GoogleDoodle"
+      },
+      "az": {
+        "query": "Dr. Martin Lüter Kinq Günü",
+        "hover_text": "2025 Dr. Martin Lüter Kinq Günü",
+        "share_text": "2025 Dr. Martin Lüter Kinq Günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ডঃ মার্টিন লুথার কিং জুনিয়র দিবস",
+        "hover_text": "ডঃ মার্টিন লুথার কিং জুনিয়র ডে ২০২৫",
+        "share_text": "ডঃ মার্টিন লুথার কিং জুনিয়র ডে ২০২৫! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Martin Luther King juniorren eguna",
+        "hover_text": "2025eko Martin Luther King semearen eguna",
+        "share_text": "2025eko Martin Luther King semearen eguna #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень Марціна Лютэра Кінга",
+        "hover_text": "Дзень Марціна Лютэра Кінга ў 2025 годзе",
+        "share_text": "Дзень Марціна Лютэра Кінга ў 2025 годзе! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan Dr. Martina Luthera Kinga Jr.",
+        "hover_text": "Dan dr. Martina Luthera Kinga Jr. 2025.",
+        "share_text": "Dan dr. Martina Luthera Kinga Jr. 2025! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Dr Martin Luther King Jr. Day",
+        "hover_text": "Dr Martin Luther King Jr Day 2025",
+        "share_text": "Dr Martin Luther King Jr Day 2025 #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на д-р Мартин Лутър Кинг-младши",
+        "hover_text": "Ден на д-р Мартин Лутър Кинг-младши 2025 г.",
+        "share_text": "Ден на д-р Мартин Лутър Кинг-младши 2025 г. #GoogleDoodle"
+      },
+      "my": {
+        "query": "Dr. Martin Luther King Jr. နေ့",
+        "hover_text": "၂၀၂၅ Dr. Martin Luther King Jr. နေ့",
+        "share_text": "၂၀၂၅ Dr. Martin Luther King Jr. နေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia del Dr. Martin Luther King Jr.",
+        "hover_text": "Dia del Dr. Martin Luther King Jr. 2025",
+        "share_text": "Dia del Dr. Martin Luther King Jr. 2025 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "馬丁·路德·金博士紀念日",
+        "hover_text": "2025 年馬丁路德金博士紀念日",
+        "share_text": "2025 年馬丁路德金博士紀念日！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "馬丁路德金恩博士紀念日",
+        "hover_text": "2025 馬丁路德金恩博士紀念日",
+        "share_text": "慶祝 2025 馬丁路德金恩博士紀念日！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "马丁·路德·金博士纪念日",
+        "hover_text": "2025 年马丁·路德·金博士纪念日",
+        "share_text": "2025 年马丁·路德·金博士纪念日！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan dr. Martina Luthera Kinga Jr.",
+        "hover_text": "Dan dr. Martina Luthera Kinga Jr. 2025.",
+        "share_text": "Dan dr. Martina Luthera Kinga Jr. 2025.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den Dr. Martina Luthera Kinga Jr.",
+        "hover_text": "Den Dr. Martina Luthera Kinga Jr. 2025",
+        "share_text": "Slavíme Den Dr. Martina Luthera Kinga Jr. 2025! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Dr. Martin Luther King Jr. Day",
+        "hover_text": "Dr. Martin Luther King Jr. Day 2025",
+        "share_text": "Dr. Martin Luther King Jr. Day 2025 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Dr. Martin Luther King Jr. Day",
+        "hover_text": "Dr. Martin Luther King Jr. Day 2025",
+        "share_text": "Dr. Martin Luther King Jr. Day 2025 #GoogleDoodle"
+      },
+      "et": {
+        "query": "Dr Martin Luther King jr päev",
+        "hover_text": "2025. aasta dr Martin Luther King jr päev",
+        "share_text": "2025. aasta dr Martin Luther King jr päev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Martin Luther King, Jr:n päivä",
+        "hover_text": "Martin Luther King, Jr:n päivä 2025",
+        "share_text": "Martin Luther King, Jr:n päivä 2025 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Jour de Martin Luther King Jr.",
+        "hover_text": "Jour de Martin Luther King Jr. 2025",
+        "share_text": "Jour de Martin Luther King Jr. 2025 #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour du Dʳ Martin Luther King Jr.",
+        "hover_text": "Journée du Dʳ Martin Luther King Jr. 2025",
+        "share_text": "Journée du Dʳ Martin Luther King Jr. 2025! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día de Martin Luther King Jr.",
+        "hover_text": "Día do Dr. Martin Luther King Jr. 2025",
+        "share_text": "Día do Dr. Martin Luther King Jr. 2025! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "დოქ. მარტინ ლუთერ კინგ უმცროსის დღე",
+        "hover_text": "მარტინ ლუთერ კინგ უმცროსის დღე — 2025",
+        "share_text": "მარტინ ლუთერ კინგ უმცროსის დღე — 2025 #GoogleDoodle"
+      },
+      "de": {
+        "query": "Dr. Martin Luther King Jr. Day",
+        "hover_text": "Dr. Martin Luther King Jr. Day 2025",
+        "share_text": "Dr. Martin Luther King Jr. Day 2025 #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Dr. Martin Luther King Jr.",
+        "hover_text": "Ημέρα Dr. Martin Luther King Jr. 2025",
+        "share_text": "Ημέρα Dr. Martin Luther King Jr. 2025! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ડૉ. માર્ટિન લ્યુથર કિંગ જુનિયર દિવસ",
+        "hover_text": "2025માં ડૉ. માર્ટિન લ્યુથર કિંગ જુનિયર દિવસ",
+        "share_text": "2025માં ડૉ. માર્ટિન લ્યુથર કિંગ જુનિયર દિવસ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום ד\"ר מרטין לותר קינג הבן",
+        "hover_text": "יום ד\"ר מרטין לותר קינג הבן 2025",
+        "share_text": "יום ד\"ר מרטין לותר קינג הבן 2025 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "डॉ. मार्टिन लूथर किंग जूनियर दिवस",
+        "hover_text": "डॉ॰ मार्टिन लूथर किंग जूनियर दिवस 2025",
+        "share_text": "डॉ॰ मार्टिन लूथर किंग जूनियर दिवस 2025! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Dr. Martin Luther King Jr. napja",
+        "hover_text": "Dr. Martin Luther King Jr. napja, 2025",
+        "share_text": "Dr. Martin Luther King Jr. napja, 2025. #GoogleDoodle"
+      },
+      "is": {
+        "query": "Dagur dr. Martin Luther King Jr.",
+        "hover_text": "Dagur dr. Martin Luther King Jr. 2025",
+        "share_text": "Dagur dr. Martin Luther King Jr. 2025! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Dr. Martin Luther King Jr.",
+        "hover_text": "Hari Dr. Martin Luther King Jr. 2025",
+        "share_text": "Hari Dr. Martin Luther King Jr. 2025 #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá an Dr Martin Luther King Óg",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Martin Luther King Day",
+        "hover_text": "Martin Luther King Day 2025",
+        "share_text": "Martin Luther King Day 2025! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "マーティン・ルーサー・キング・ジュニア記念日",
+        "hover_text": "2025 年マーティン・ルーサー・キング・ジュニア記念日",
+        "share_text": "2025 年マーティン・ルーサー・キング・ジュニア記念日！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಡಾ. ಮಾರ್ಟಿನ್ ಲೂಥರ್ ಕಿಂಗ್ ಜೂನಿಯರ್ ದಿನಾಚರಣೆ",
+        "hover_text": "ಡಾ. ಮಾರ್ಟಿನ್ ಲೂಥರ್ ಕಿಂಗ್ ಜೂನಿಯರ್ ದಿನಾಚರಣೆ 2025",
+        "share_text": "ಡಾ. ಮಾರ್ಟಿನ್ ಲೂಥರ್ ಕಿಂಗ್ ಜೂನಿಯರ್ ದಿನಾಚರಣೆ 2025! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Кіші Мартин Лютер Кинг күні",
+        "hover_text": "Кіші Мартин Лютер Кинг күні – 2025",
+        "share_text": "Кіші Мартин Лютер Кинг күні – 2025 #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវារំលឹកវេជ្ជបណ្ឌិត Martin Luther King Jr.",
+        "hover_text": "ទិវារំលឹកបណ្ឌិត Martin Luther King Jr. ឆ្នាំ 2025",
+        "share_text": "ទិវារំលឹកបណ្ឌិត Martin Luther King Jr. ឆ្នាំ 2025! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "마틴 루터 킹 주니어의 날",
+        "hover_text": "2025년 마틴 루터 킹 주니어 탄생일",
+        "share_text": "2025년 마틴 루터 킹 주니어 탄생일 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Доктор Мартин Лютер Кинг-кенже күнү",
+        "hover_text": "Кенже доктор Мартин Лютер Кингдин күнү — 2025",
+        "share_text": "Кенже доктор Мартин Лютер Кингдин күнү — 2025! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນ Dr. Martin Luther King Jr.",
+        "hover_text": "ວັນ Dr. Martin Luther King Jr. 2025",
+        "share_text": "ວັນ Dr. Martin Luther King Jr. 2025! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de Martin Luther King Jr.",
+        "hover_text": "Día de Martin Luther King Jr. 2025",
+        "share_text": "Día de Martin Luther King Jr. 2025 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Dr. Mārtina Lutera Kinga juniora diena",
+        "hover_text": "Dr. Mārtina Lutera Kinga juniora diena — 2025",
+        "share_text": "Dr. Mārtina Lutera Kinga juniora diena — 2025! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Dr. Martino Lutherio Kingo Jaunesniojo diena",
+        "hover_text": "Dr. Martino Lutherio Kingo Jaunesniojo diena, 2025 m.",
+        "share_text": "Dr. Martino Lutherio Kingo Jaunesniojo diena, 2025 m.! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на д-р Мартин Лутер Кинг Јуниор",
+        "hover_text": "Ден на д-р Мартин Лутер Кинг Јуниор, 2025 г.",
+        "share_text": "Ден на д-р Мартин Лутер Кинг Јуниор, 2025 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Andron'i Dr. Martin Luther King Jr.",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Hari Dr. Martin Luther King Jr.",
+        "hover_text": "Hari Dr. Martin Luther King Jr. 2025",
+        "share_text": "Hari Dr. Martin Luther King Jr. 2025! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഡോ. മാർട്ടിൻ ലൂഥർ കിംഗ് ജൂനിയർ ദിനം",
+        "hover_text": "Dr. Martin Luther King Jr. ദിനം 2025",
+        "share_text": "Dr. Martin Luther King Jr. ദിനം 2025! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "डॉ. मार्टिन लूथर किंग जूनियर दिवस",
+        "hover_text": "डॉ. मार्टिन ल्युथर किंग ज्युनियर डे २०२५",
+        "share_text": "डॉ. मार्टिन ल्युथर किंग ज्युनियर डे २०२५! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Др. Бага Мартин Лютер Кингийн өдөр",
+        "hover_text": "2025 оны Др. Бага Мартин Лютер Кингийн өдөр",
+        "share_text": "2025 оны Др. Бага Мартин Лютер Кингийн өдөр! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "डा. Martin Luther King Jr. दिवस",
+        "hover_text": "डा. Martin Luther King Jr. दिवस २०२५",
+        "share_text": "डा. Martin Luther King Jr. दिवस २०२५! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Dr. Martin Luther King Jr.-dagen",
+        "hover_text": "Dr. Martin Luther King Jr.-dagen 2025",
+        "share_text": "Dr. Martin Luther King Jr.-dagen 2025 #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଡା. ମାର୍ଟିନ ଲୁଥର କିଙ୍ଗ ଜୁନିଅର ଦିବସ",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز دکتر مارتین لوتر کینگ جونیور",
+        "hover_text": "روز دکتر «مارتین لوتر کینگ جونیور» ۲۰۲۵",
+        "share_text": "روز دکتر «مارتین لوتر کینگ جونیور» ۲۰۲۵! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Martina Luthera Kinga Jr.",
+        "hover_text": "Dzień Martina Luthera Kinga Jr. 2025",
+        "share_text": "Dzień Martina Luthera Kinga Jr. 2025 #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia de Martin Luther King Jr.",
+        "hover_text": "Dia de Martin Luther King Jr. 2025",
+        "share_text": "Dia de Martin Luther King Jr. 2025! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia de Dr. Martin Luther King Jr.",
+        "hover_text": "Dia do Dr. Martin Luther King Jr. de 2025",
+        "share_text": "Dia do Dr. Martin Luther King Jr. de 2025! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਡਾ. ਮਾਰਟਿਨ ਲੂਥਰ ਕਿੰਗ ਜੂਨੀਅਰ ਦਿਵਸ",
+        "hover_text": "ਡਾ. ਮਾਰਟਿਨ ਲੂਥਰ ਕਿੰਗ ਜੂਨੀਅਰ ਦਿਵਸ 2025",
+        "share_text": "ਡਾ. ਮਾਰਟਿਨ ਲੂਥਰ ਕਿੰਗ ਜੂਨੀਅਰ ਦਿਵਸ 2025! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua lui Dr. Martin Luther King Jr.",
+        "hover_text": "Ziua lui Dr. Martin Luther King Jr. 2025",
+        "share_text": "Ziua lui Dr. Martin Luther King Jr. 2025! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День Мартина Лютера Кинга – младшего",
+        "hover_text": "День Мартина Лютера Кинга – 2025",
+        "share_text": "День Мартина Лютера Кинга – 2025 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан Мартина Лутера Кинга",
+        "hover_text": "Дан Мартина Лутера Кинга 2025.",
+        "share_text": "Дан Мартина Лутера Кинга 2025! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan Martina Lutera Kinga",
+        "hover_text": "Dan Martina Lutera Kinga 2025.",
+        "share_text": "Dan Martina Lutera Kinga 2025! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ආචාර්ය මාර්ටින් ලූතර් කිං ජූනියර් දිනය",
+        "hover_text": "ආචාර්ය මාර්ටින් ලූතර් කිං ජූනියර් දිනය 2025",
+        "share_text": "ආචාර්ය මාර්ටින් ලූතර් කිං ජූනියර් දිනය 2025! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň Dr. Martina Luthera Kinga ml.",
+        "hover_text": "Deň Dr. Martina Luthera Kinga ml. v roku 2025",
+        "share_text": "Deň Dr. Martina Luthera Kinga ml. v roku 2025. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan dr. Martina Luthra Kinga mlajšega",
+        "hover_text": "Dan dr. Martina Luthra Kinga mlajšega 2025",
+        "share_text": "Dan dr. Martina Luthra Kinga mlajšega 2025! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Digtoor Martin Luther King Jr",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día del Dr. Martin Luther King Jr.",
+        "hover_text": "Día del Dr. Martin Luther King Jr. 2025",
+        "share_text": "Día del Dr. Martin Luther King Jr. 2025 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Dkt. Martin Luther King Jr.",
+        "hover_text": "Sikukuu ya Dkt. Martin Luther King Jr. 2025",
+        "share_text": "Sikukuu ya Dkt. Martin Luther King Jr. 2025! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Martin Luther King-dagen",
+        "hover_text": "Martin Luther King-dagen 2025",
+        "share_text": "Martin Luther King-dagen 2025! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "டாக்டர் மார்ட்டின் லூதர் கிங் ஜூனியர் தினம்",
+        "hover_text": "டாக்டர் மார்ட்டின் லூதர் கிங் ஜூனியர் தினம் 2025",
+        "share_text": "டாக்டர் மார்ட்டின் லூதர் கிங் ஜூனியர் தினம் 2025! #GoogleDoodle"
+      },
+      "te": {
+        "query": "డా. మార్టిన్ లూథర్ కింగ్ జూనియర్ దినోత్సవం",
+        "hover_text": "డాక్టర్ మార్టిన్ లూథర్ కింగ్ జూనియర్ దినోత్సవం 2025",
+        "share_text": "డాక్టర్ మార్టిన్ లూథర్ కింగ్ జూనియర్ దినోత్సవం 2025! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันรำลึกถึงดร. มาร์ติน ลูเธอร์คิง จูเนียร์",
+        "hover_text": "วันรำลึกถึง ดร. มาร์ติน ลูเธอร์ คิง จูเนียร์ ปี 2025",
+        "share_text": "วันรำลึกถึง ดร. มาร์ติน ลูเธอร์ คิง จูเนียร์ ปี 2025 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Dr. Martin Luther King Jr. Günü",
+        "hover_text": "2025 Dr. Martin Luther King Jr. Günü",
+        "share_text": "2025 Dr. Martin Luther King Jr. Günü #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День доктора Мартіна Лютера Кінга молодшого",
+        "hover_text": "День доктора Мартіна Лютера Кінга-молодшого у 2025 році",
+        "share_text": "День доктора Мартіна Лютера Кінга-молодшого у 2025 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "ڈاکٹر مارٹن لوتھر کنگ جونیئر ڈے",
+        "hover_text": "ڈاکٹر مارٹن لوتھر کنگ جونیئر ڈے 2025",
+        "share_text": "ڈاکٹر مارٹن لوتھر کنگ جونیئر ڈے 2025! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Dr. Kichik Martin Lyuter King kuni",
+        "hover_text": "Dr. Kichik Martin Lyuter King kuni 2025",
+        "share_text": "Dr. Kichik Martin Lyuter King kuni 2025! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Martin Luther King Jr.",
+        "hover_text": "Ngày Dr. Martin Luther King Jr. năm 2025",
+        "share_text": "Ngày Dr. Martin Luther King Jr. năm 2025! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku luka-Dkt. Martin Luther King Jr.",
+        "hover_text": "Usuku luka-Dkt. Martin Luther King Jr. lwango-2025",
+        "share_text": "Usuku luka-Dkt. Martin Luther King Jr. lwango-2025! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Dr. Martin Luther King Jr. Day",
+    "share_text": "Dr. Martin Luther King Jr. Day 2025! #GoogleDoodle"
+  },
+  {
     "name": "new-years-day-2025",
     "title": "New Year's Day 2025",
     "url": "//www.google.com/logos/doodles/2025/new-years-day-2025-6753651837110593.2-law.gif",
