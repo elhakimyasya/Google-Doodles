@@ -1,5 +1,504 @@
 [
   {
+    "name": "india-republic-day-2025",
+    "title": "India Republic Day 2025",
+    "url": "//www.google.com/logos/doodles/2025/india-republic-day-2025-6753651837110590.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/aLNz30QDfMCMseg4aLWcnqQ0IADQFOguNm-vH7bcn2zvPWI-Z89xnSUTESSnTapx8LgijkeU20cinlunc_9awAm1tc91HdkcdJhySv46NbtO24LkUK-p5w",
+    "high_res_url": "//www.google.com/logos/doodles/2025/india-republic-day-2025-6753651837110590-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2025,
+      1,
+      26
+    ],
+    "translations": {
+      "en": {
+        "query": "India Republic Day",
+        "hover_text": "India Republic Day 2025",
+        "share_text": "India Republic Day 2025! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Indië se republiekdag",
+        "hover_text": "Indië se republiekdag 2025",
+        "share_text": "Indië se republiekdag 2025! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Republikës e Indisë",
+        "hover_text": "Dita e Republikës së Indisë, 2025",
+        "share_text": "Dita e Republikës së Indisë, 2025! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የህንድ ሪፐብሊክ ቀን",
+        "hover_text": "የሕንድ ሪፐብሊክ ቀን 2025",
+        "share_text": "የሕንድ ሪፐብሊክ ቀን 2025! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "اليوم الجمهوري للهند",
+        "hover_text": "اليوم الجمهوري للهند 2025",
+        "share_text": "أطيب الأمنيات بمناسبة اليوم الجمهوري للهند لعام 2025. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Հնդկաստանի հանրապետության տոն",
+        "hover_text": "Հնդկաստանի Հանրապետության օր 2025",
+        "share_text": "Հնդկաստանի Հանրապետության օր 2025 #GoogleDoodle"
+      },
+      "az": {
+        "query": "Hindistanın Respublika Günü",
+        "hover_text": "2025 Hindistanın Respublika Günü",
+        "share_text": "2025 Hindistanın Respublika Günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ভারতের প্রজাতন্ত্র দিবস",
+        "hover_text": "ভারতের প্রজাতন্ত্র দিবস ২০২৫",
+        "share_text": "ভারতের প্রজাতন্ত্র দিবস ২০২৫! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Indiako Errepublikaren Eguna",
+        "hover_text": "2025eko Indiako Errepublikaren Eguna",
+        "share_text": "2025eko Indiako Errepublikaren Eguna #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень Рэспублікі Індыя",
+        "hover_text": "Дзень Рэспублікі Індыя 2025",
+        "share_text": "Дзень Рэспублікі Індыя 2025! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan Republike Indije",
+        "hover_text": "Dan Republike Indije 2025.",
+        "share_text": "Dan Republike Indije 2025! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "India Republic Day",
+        "hover_text": "India Republic Day 2025",
+        "share_text": "India Republic Day 2025! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на Индийската република",
+        "hover_text": "Ден на Индийската република 2025 г.",
+        "share_text": "Ден на Индийската република 2025 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အိန္ဒိယ သမ္မတနိုင်ငံနေ့",
+        "hover_text": "၂၀၂၅ အိန္ဒိယ သမ္မတနိုင်ငံနေ့",
+        "share_text": "၂၀၂၅ အိန္ဒိယ သမ္မတနိုင်ငံနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la República de l'Índia",
+        "hover_text": "Dia de la República de l'Índia 2025",
+        "share_text": "Dia de la República de l'Índia 2025 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "印度共和國日",
+        "hover_text": "2025 年印度共和國日",
+        "share_text": "2025 年印度共和國日！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "印度共和紀念日",
+        "hover_text": "2025 年印度共和紀念日",
+        "share_text": "慶祝 2025 年印度共和紀念日！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "印度共和日",
+        "hover_text": "2025 年印度共和国日",
+        "share_text": "2025 年印度共和国日！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan Republike Indije",
+        "hover_text": "Dan Republike Indije 2025.",
+        "share_text": "Dan Republike Indije 2025.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den Indické republiky",
+        "hover_text": "Den Indické republiky 2025",
+        "share_text": "Slavíme Den Indické republiky 2025! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Republikkens dag i Indien",
+        "hover_text": "Republikkens dag i Indien 2025",
+        "share_text": "Republikkens dag i Indien 2025 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Dag van de Republiek India",
+        "hover_text": "Dag van de Republiek India 2025",
+        "share_text": "Dag van de Republiek India 2025! #GoogleDoodle"
+      },
+      "et": {
+        "query": "India Vabariigi päev",
+        "hover_text": "India 2025. aasta vabariigi päev",
+        "share_text": "India 2025. aasta vabariigi päev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Intian tasavallan päivä",
+        "hover_text": "Intian tasavallan päivä 2025",
+        "share_text": "Intian tasavallan päivä 2025 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Jour de la république indienne",
+        "hover_text": "Jour de la république indienne 2025",
+        "share_text": "Jour de la république indienne 2025 #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête de la République de l'Inde",
+        "hover_text": "Fête de la République de l'Inde 2025",
+        "share_text": "Fête de la République de l'Inde 2025! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da República da India",
+        "hover_text": "Día da República da India 2025",
+        "share_text": "Día da República da India 2025! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ინდოეთის რესპუბლიკის დღე",
+        "hover_text": "ინდოეთის რესპუბლიკის დღე — 2025",
+        "share_text": "ინდოეთის რესპუბლიკის დღე — 2025! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Tag der Republik (Indien)",
+        "hover_text": "Tag der Republik 2025 (Indien)",
+        "share_text": "Tag der Republik 2025 (Indien) #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Δημοκρατίας της Ινδίας",
+        "hover_text": "Ημέρα Δημοκρατίας της Ινδίας 2025",
+        "share_text": "Ημέρα Δημοκρατίας της Ινδίας 2025! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ભારતનો ગણતંત્ર દિવસ",
+        "hover_text": "ભારતનો ગણતંત્ર દિવસ 2025",
+        "share_text": "ભારતનો ગણતંત્ર દિવસ 2025! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום הרפובליקה בהודו",
+        "hover_text": "יום הרפובליקה בהודו 2025",
+        "share_text": "יום הרפובליקה בהודו 2025 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "भारत का गणतंत्र दिवस",
+        "hover_text": "भारत का गणतंत्र दिवस 2025",
+        "share_text": "भारत का गणतंत्र दिवस 2025! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A köztársaság napja Indiában",
+        "hover_text": "A köztársaság napja Indiában, 2025",
+        "share_text": "A köztársaság napja Indiában, 2025! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Lýðveldisdagur Indlands",
+        "hover_text": "Lýðveldisdagur Indlands 2025",
+        "share_text": "Lýðveldisdagur Indlands 2025 #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan India",
+        "hover_text": "Hari Republik India 2025",
+        "share_text": "Hari Republik India 2025 #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Phoblacht na hIndia",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Festa della Repubblica dell'India",
+        "hover_text": "Festa della Repubblica dell'India 2025",
+        "share_text": "Festa della Repubblica dell'India 2025! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "インド共和国記念日",
+        "hover_text": "2025 年インド共和国記念日",
+        "share_text": "2025 年インド共和国記念日！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಭಾರತದ ಗಣರಾಜ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಭಾರತದ ಗಣರಾಜ್ಯ ದಿನಾಚರಣೆ 2025",
+        "share_text": "ಭಾರತದ ಗಣರಾಜ್ಯ ದಿನಾಚರಣೆ 2025! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Үндістанның Республика күні",
+        "hover_text": "Үндістанның Республика күні – 2025",
+        "share_text": "Үндістанның Республика күні – 2025 #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យរំលឹក​នៃការប្រកាស​សាធារណរដ្ឋ​ឥណ្ឌា",
+        "hover_text": "ទិវាសាធារណរដ្ឋ​ឥណ្ឌា​ឆ្នាំ 2025",
+        "share_text": "ទិវាសាធារណរដ្ឋ​ឥណ្ឌា​ឆ្នាំ 2025! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "인도 공화국의 날",
+        "hover_text": "2025년 인도 공화국의 날",
+        "share_text": "2025년 인도 공화국의 날 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Индиянын Республика күнү",
+        "hover_text": "Индиянын Республика күнү – 2025",
+        "share_text": "Индиянын Республика күнү – 2025! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຊາດອິນເດຍ",
+        "hover_text": "ວັນຊາດອິນເດຍ 2025",
+        "share_text": "ວັນຊາດອິນເດຍ 2025! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la República de la India",
+        "hover_text": "Día de la República de la India 2025",
+        "share_text": "Día de la República de la India 2025 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Indijas Republikas diena",
+        "hover_text": "Indijas Republikas diena — 2025",
+        "share_text": "Indijas Republikas diena — 2025 #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Indijos Respublikos diena",
+        "hover_text": "Indijos Respublikos diena, 2025 m.",
+        "share_text": "Indijos Respublikos diena, 2025 m.! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на републиката на Индија",
+        "hover_text": "Ден на републиката на Индија, 2025 г.",
+        "share_text": "Ден на републиката на Индија, 2025 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny Repoblikan'i India",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Hari Republik India",
+        "hover_text": "Hari Republik India 2025",
+        "share_text": "Hari Republik India 2025! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഇന്ത്യൻ റിപ്പബ്ലിക്ക് ദിവസം",
+        "hover_text": "ഇന്ത്യൻ റിപ്പബ്ലിക്ക് ദിനം 2025",
+        "share_text": "ഇന്ത്യൻ റിപ്പബ്ലിക്ക് ദിനം 2025! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "भारताचा प्रजासत्ताक दिन",
+        "hover_text": "भारताचा प्रजासत्ताकदिन २०२५",
+        "share_text": "भारताचा प्रजासत्ताकदिन २०२५! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Бүгд Найрамдах Энэхтэг улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2025 оны Бүгд Найрамдах Энэтхэг Улс байгуулагдсан өдөр",
+        "share_text": "2025 оны Бүгд Найрамдах Энэтхэг Улс байгуулагдсан өдөр! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "भारतको गणतन्त्र दिवस",
+        "hover_text": "भारतको गणतन्त्र दिवस २०२५",
+        "share_text": "भारतको गणतन्त्र दिवस २०२५! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Republikkens dag (India)",
+        "hover_text": "Republikkens dag 2025 (India)",
+        "share_text": "Republikkens dag 2025 (India) #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଭାରତର ସାଧାରଣତନ୍ତ୍ର ଦିବସ",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز جمهوری هند",
+        "hover_text": "روز جمهوری ۲۰۲۵ هند",
+        "share_text": "روز جمهوری ۲۰۲۵ هند! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Republiki w Indiach",
+        "hover_text": "Dzień Republiki w Indiach 2025",
+        "share_text": "Dzień Republiki w Indiach 2025 #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da República da Índia",
+        "hover_text": "Dia da República da Índia 2025",
+        "share_text": "Dia da República da Índia 2025 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da República da Índia",
+        "hover_text": "Dia da República da Índia de 2025",
+        "share_text": "Dia da República da Índia de 2025! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਭਾਰਤ ਦਾ ਗਣਤੰਤਰ ਦਿਵਸ",
+        "hover_text": "ਭਾਰਤ ਦਾ ਗਣਤੰਤਰ ਦਿਵਸ 2025",
+        "share_text": "ਭਾਰਤ ਦਾ ਗਣਤੰਤਰ ਦਿਵਸ 2025! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Republicii în India",
+        "hover_text": "Ziua Republicii în India 2025",
+        "share_text": "Ziua Republicii în India 2025! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День Республики Индии",
+        "hover_text": "День республики в Индии – 2025",
+        "share_text": "День республики в Индии – 2025 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан Републике Индије",
+        "hover_text": "Дан Републике Индије 2025.",
+        "share_text": "Дан Републике Индије 2025! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan Republike Indije",
+        "hover_text": "Dan Republike Indije 2025.",
+        "share_text": "Dan Republike Indije 2025! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Larepiblik Lenn",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ඉන්දියානු ජනරජ දිනය",
+        "hover_text": "ඉන්දියානු ජනරජ දිනය 2025",
+        "share_text": "ඉන්දියානු ජනරජ දිනය 2025! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň republiky Indie",
+        "hover_text": "Deň Indickej republiky 2025",
+        "share_text": "Deň Indickej republiky 2025. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Indijski dan republike",
+        "hover_text": "Dan republike v Indiji 2025",
+        "share_text": "Dan republike v Indiji 2025! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Jamhuuriyada Hindiya",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": "Letsatsi la Repabliki ya India",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día de la República de la India",
+        "hover_text": "Día de la República de la India 2025",
+        "share_text": "Día de la República de la India 2025 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Jamhuri ya India",
+        "hover_text": "Sikukuu ya Jamhuri ya India 2025",
+        "share_text": "Sikukuu ya Jamhuri ya India 2025! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Republikens dag i Indien",
+        "hover_text": "Republikens dag i Indien 2025",
+        "share_text": "Republikens dag i Indien 2025 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "இந்தியக் குடியரசு தினம்",
+        "hover_text": "இந்தியக் குடியரசு தினம் 2025",
+        "share_text": "இந்தியக் குடியரசு தினம் 2025! #GoogleDoodle"
+      },
+      "te": {
+        "query": "భారత గణతంత్ర దినోత్సవం",
+        "hover_text": "భారత గణతంత్ర దినోత్సవం 2025",
+        "share_text": "భారత గణతంత్ర దినోత్సవం 2025! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันสาธารณรัฐอินเดีย",
+        "hover_text": "วันสาธารณรัฐอินเดียปี 2025",
+        "share_text": "วันสาธารณรัฐอินเดียปี 2025! #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Ripaboliki ya India",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Hindistan Cumhuriyet Günü",
+        "hover_text": "2025 Hindistan Cumhuriyet Bayramı",
+        "share_text": "2025 Hindistan Cumhuriyet Bayramı #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День республіки в Індії",
+        "hover_text": "День республіки в Індії у 2025 році",
+        "share_text": "День республіки в Індії у 2025 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "ہندوستان کا یوم جمہوریہ",
+        "hover_text": "ہندوستان کا یوم جمہوریہ 2025",
+        "share_text": "ہندوستان کا یوم جمہوریہ 2025! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Hindiston Respublikasi deb eʼlon qilingan kun",
+        "hover_text": "Hindiston Respublika kuni 2025",
+        "share_text": "Hindiston Respublika kuni 2025! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Cộng hòa Ấn Độ",
+        "hover_text": "Ngày Cộng hoà Ấn Độ năm 2025",
+        "share_text": "Ngày Cộng hoà Ấn Độ năm 2025! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "I-India Republic Day",
+        "hover_text": "Usuku lwe-India Republic lwango-2025",
+        "share_text": "Usuku lwe-India Republic lwango-2025! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "India Republic Day",
+    "share_text": "India Republic Day 2025! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-the-rise-of-the-half-moon-jan",
     "title": "Celebrating The Rise of the Half Moon (Jan)",
     "url": "//www.google.com/logos/doodles/2025/celebrating-the-rise-of-the-half-moon-jan-6753651837110604-l.png",
