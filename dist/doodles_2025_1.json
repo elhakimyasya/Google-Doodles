@@ -1,5 +1,1003 @@
 [
   {
+    "name": "lunar-new-year-2025-south-korea",
+    "title": "Lunar New Year 2025 (South Korea)",
+    "url": "//www.google.com/logos/doodles/2025/lunar-new-year-2025-south-korea-6753651837110589-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/WuU0UDiOcSjSOQ1pCifenH6pOBbaDOtDtUsdniPXgQ7j2uDT4J4DQOXo1ZwOTt9FKkGCe5DuukUdAG6FMo2d_qBMp6ZgdYPjWJvXkLQgq6SeGvg7cHqcqzk",
+    "high_res_url": "//www.google.com/logos/doodles/2025/lunar-new-year-2025-south-korea-6753651837110589-2xa.gif",
+    "high_res_width": 870,
+    "high_res_height": 400,
+    "run_date_array": [
+      2025,
+      1,
+      29
+    ],
+    "translations": {
+      "en": {
+        "query": "Year of the Snake Google Game",
+        "hover_text": "Lunar New Year 2025",
+        "share_text": "Lunar New Year 2025! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Google-speletjie: Jaar van die Slang",
+        "hover_text": "Nuwe Maanjaar 2025",
+        "share_text": "Nuwe Maanjaar 2025! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Loja në Google e Vitit të gjarprit",
+        "hover_text": "Viti i Ri Hënor, 2025",
+        "share_text": "Viti i Ri Hënor, 2025! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የSnake Google ጨዋታ ዓመት",
+        "hover_text": "የጨረቃ አዲስ ዓመት 2025",
+        "share_text": "የጨረቃ አዲስ ዓመት 2025! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "لعبة \"عام الثعبان\" من Google",
+        "hover_text": "رأس السنة القمرية 2025",
+        "share_text": "أطيب الأمنيات بمناسبة رأس السنة القمرية لعام 2025! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "«Օձի տարի» Google-ի խաղ",
+        "hover_text": "Չինական Նոր տարի 2025",
+        "share_text": "Չինական Նոր տարի 2025 #GoogleDoodle"
+      },
+      "az": {
+        "query": "İlan ili Google oyunu",
+        "hover_text": "2025 Ay Təqvimi ilə Yeni İl",
+        "share_text": "2025 Ay Təqvimi ilə Yeni İl #GoogleDoodle"
+      },
+      "bn": {
+        "query": "Google-এর 'ইয়ার অফ দ্য স্নেক' গেম",
+        "hover_text": "লুনার নিউ ইয়ার ২০২৫",
+        "share_text": "লুনার নিউ ইয়ার ২০২৫! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Google-ren sugearen urterako jokoa",
+        "hover_text": "2025eko ilargi-egutegiko Urteberri-eguna",
+        "share_text": "2025eko ilargi-egutegiko Urteberri-eguna #GoogleDoodle"
+      },
+      "be": {
+        "query": "Гульня ад Google: Year of the Snake",
+        "hover_text": "Новы год па месячным календары 2025",
+        "share_text": "Новы год па месячным календары 2025! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Google igra Godina zmije",
+        "hover_text": "Lunarna nova godina 2025.",
+        "share_text": "Lunarna nova godina 2025! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Year of the Snake Google Game",
+        "hover_text": "Lunar New Year 2025",
+        "share_text": "Lunar New Year 2025 #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Игра на Google за годината на змията",
+        "hover_text": "Лунна Нова година 2025 г.",
+        "share_text": "Лунна Нова година 2025 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "မြွေနှစ် Google ဂိမ်း",
+        "hover_text": "၂၀၂၅ တရုတ်နှစ်သစ်ကူး",
+        "share_text": "၂၀၂၅ တရုတ်နှစ်သစ်ကူး။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Joc de Google de l'Any de la Serp",
+        "hover_text": "Any Nou Lunar 2025",
+        "share_text": "Any Nou Lunar 2025 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "蛇年 Google 遊戲",
+        "hover_text": "2025 年農曆新年",
+        "share_text": "2025 年農曆新年！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "Google 蛇年遊戲",
+        "hover_text": "2025 農曆新年",
+        "share_text": "2025 農曆新年快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "蛇年 Google 游戏",
+        "hover_text": "2025 年农历新年",
+        "share_text": "2025 年农历新年！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Google igra – Godina zmaja",
+        "hover_text": "Lunarna nova godina 2025.",
+        "share_text": "Lunarna nova godina 2025.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Hra od Googlu: Rok Hada",
+        "hover_text": "Lunární Nový rok 2025",
+        "share_text": "Slavíme lunární Nový rok 2025! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Google-spil for slangens år",
+        "hover_text": "Kinesisk nytår 2025",
+        "share_text": "Kinesisk nytår 2025 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Jaar van de Slang Google-game",
+        "hover_text": "Chinees Nieuwjaar 2025",
+        "share_text": "Chinees Nieuwjaar 2025! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Mao aasta Google'i mäng",
+        "hover_text": "2025. aasta kuukalendri uusaasta",
+        "share_text": "2025. aasta kuukalendri uusaasta! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Googlen peli Year of the Snake",
+        "hover_text": "Kuukalenterin mukainen uusivuosi 2025",
+        "share_text": "Kuukalenterin mukainen uusivuosi 2025 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Jeu Google sur l'Année du Serpent",
+        "hover_text": "Nouvel An lunaire 2025",
+        "share_text": "Nouvel An lunaire 2025 ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jeu Google de l'année du serpent",
+        "hover_text": "Nouvel An lunaire 2025",
+        "share_text": "Nouvel An lunaire 2025 #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Xogo de Google para conmemorar o ano da serpe",
+        "hover_text": "Aninovo Lunar 2025",
+        "share_text": "Aninovo Lunar 2025! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "Google თამაში გველის წელი",
+        "hover_text": "ახალი 2025 წელი მთვარის კალენდრის მიხედვით",
+        "share_text": "ახალი 2025 წელი მთვარის კალენდრის მიხედვით! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Google-Spiel zum Jahr der Schlange",
+        "hover_text": "Mond-Neujahr 2025",
+        "share_text": "Mond-Neujahr 2025 #GoogleDoodle"
+      },
+      "el": {
+        "query": "Παιχνίδι της Google για το Έτος του φιδιού",
+        "hover_text": "Σεληνιακό Νέο Έτος 2025",
+        "share_text": "Σεληνιακό Νέο Έτος 2025! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "યિઅર ઑફ ધ સ્નેક Google ગેમ",
+        "hover_text": "લુનાર નવું વર્ષ 2025",
+        "share_text": "લુનાર નવું વર્ષ 2025! #GoogleDoodle"
+      },
+      "ht": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "iw": {
+        "query": "משחק סנייק ב-Google בהשראת שנת הנחש",
+        "hover_text": "ראש השנה הסיני 2025",
+        "share_text": "ראש השנה הסיני 2025 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "ईयर ऑफ़ द स्नेक' के मौके पर Google गेम",
+        "hover_text": "लूनर न्यू ईयर 2025",
+        "share_text": "लूनर न्यू ईयर 2025! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A Snake című Google-játék éve",
+        "hover_text": "Holdújév, 2025",
+        "share_text": "Holdújév, 2025! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Google-leikur í tilefni af ári snáksins",
+        "hover_text": "Nýtt tunglár 2025",
+        "share_text": "Nýtt tunglár 2025! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Game Google Bertemakan Tahun Ular",
+        "hover_text": "Tahun Baru Imlek 2025",
+        "share_text": "Tahun Baru Imlek 2025 #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Bliain Nua Ghealaí",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "it": {
+        "query": "Gioco Anno del Serpente di Google",
+        "hover_text": "Capodanno lunare 2025",
+        "share_text": "Capodanno lunare 2025! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "巳年 Google ゲーム",
+        "hover_text": "2025 年旧正月",
+        "share_text": "2025 年旧正月#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಸ್ನೇಕ್ ವರ್ಷದ Google ಗೇಮ್",
+        "hover_text": "ಚಾಂದ್ರಮಾನ ಹೊಸ ವರ್ಷ 2025",
+        "share_text": "ಚಾಂದ್ರಮಾನ ಹೊಸ ವರ್ಷ 2025! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Жылан жылына арналған Google ойыны",
+        "hover_text": "Қытай жаңа жылы – 2025",
+        "share_text": "Қытай жаңа жылы – 2025 #GoogleDoodle"
+      },
+      "km": {
+        "query": "ហ្គេម Google ឆ្នាំម្សាញ់",
+        "hover_text": "បុណ្យចូលឆ្នាំចិនឆ្នាំ 2025",
+        "share_text": "បុណ្យចូលឆ្នាំចិនឆ្នាំ 2025! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "뱀의 해 Google 게임",
+        "hover_text": "2025년 설날",
+        "share_text": "2025년 설날 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Google'дун Жылан оюнунун жылы",
+        "hover_text": "Кытай жаңы жылы – 2025",
+        "share_text": "Кытай жаңы жылы – 2025! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ເກມ Google ສໍາລັບປີງູ",
+        "hover_text": "ກຸດຈີນ 2025",
+        "share_text": "ກຸດຈີນ 2025! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Juego de Google del año de la serpiente",
+        "hover_text": "Año Nuevo Lunar 2025",
+        "share_text": "Año Nuevo Lunar 2025 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Google spēle \"Čūskas gads\"",
+        "hover_text": "Jaunais gads pēc Mēness kalendāra — 2025",
+        "share_text": "Jaunais gads pēc Mēness kalendāra — 2025! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "„Google“ gyvatėlės žaidimo metai",
+        "hover_text": "Naujieji metai pagal Mėnulio kalendorių, 2025 m.",
+        "share_text": "Naujieji metai pagal Mėnulio kalendorių, 2025 m. #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Игра на Google – Година на змијата",
+        "hover_text": "Лунарна Нова година, 2025 г.",
+        "share_text": "Лунарна Нова година, 2025 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Taom-baovaon'ny Volana",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Permainan Google Tahun Ular",
+        "hover_text": "Tahun Baru Cina 2025",
+        "share_text": "Tahun Baru Cina 2025! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Snake Google Game-ന്റെ വർഷം",
+        "hover_text": "ലൂണാർ ന്യൂ ഇയർ 2025",
+        "share_text": "ലൂണാർ ന്യൂ ഇയർ 2025! #GoogleDoodle"
+      },
+      "mt": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "mr": {
+        "query": "Year of the Snake हा Google गेम",
+        "hover_text": "नवीन चांद्रवर्ष २०२५",
+        "share_text": "नवीन चांद्रवर्ष २०२५! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Могой жилийн Google-н тоглоом",
+        "hover_text": "2025 оны Цагаан сар",
+        "share_text": "2025 оны Цагаан сар! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "सर्प वर्षका अवसरमा बनाइएको Google गेम",
+        "hover_text": "चिनियाँ नयाँ वर्ष २०२५",
+        "share_text": "चिनियाँ नयाँ वर्ष २०२५! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Slangens år – Google-spill",
+        "hover_text": "Kinesisk nyttår 2025",
+        "share_text": "Kinesisk nyttår 2025! #GoogleDoodle"
+      },
+      "nn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ny": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଲୁନାର୍ ନବବର୍ଷ",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ps": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "fa": {
+        "query": "بازی «سال مار» از Google",
+        "hover_text": "سال نو قمری ۲۰۲۵",
+        "share_text": "سال نو قمری ۲۰۲۵! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Gra Google na Rok Węża",
+        "hover_text": "Księżycowy Nowy Rok 2025",
+        "share_text": "Księżycowy Nowy Rok 2025 #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Jogo do Google para o Ano da Serpente",
+        "hover_text": "Ano Novo Lunar 2025",
+        "share_text": "Ano Novo Lunar 2025 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Jogo Google do Ano da Serpente",
+        "hover_text": "Ano Novo Lunar de 2025",
+        "share_text": "Ano Novo Lunar de 2025! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Year of the Snake Google ਗੇਮ",
+        "hover_text": "ਲੂਨਰ ਨਵਾਂ ਸਾਲ 2025",
+        "share_text": "ਲੂਨਰ ਨਵਾਂ ਸਾਲ 2025! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "anul șarpelui joc de la Google",
+        "hover_text": "Anul Nou Lunar 2025",
+        "share_text": "Anul Nou Lunar 2025! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Игра Google к году змеи",
+        "hover_text": "Новый год по лунному календарю – 2025",
+        "share_text": "Новый год по лунному календарю – 2025 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Google игра година Змије",
+        "hover_text": "Лунарна Нова година 2025.",
+        "share_text": "Лунарна Нова година 2025! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Google igra godina Zmije",
+        "hover_text": "Lunarna Nova godina 2025.",
+        "share_text": "Lunarna Nova godina 2025! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Nouvel an Liner",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "si": {
+        "query": "සර්ප වසර Google ක්‍රීඩාව",
+        "hover_text": "චන්ද්‍ර නව වසර 2025",
+        "share_text": "චන්ද්‍ර නව වසර 2025! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Hra od Googlu na rok hada",
+        "hover_text": "Lunárny nový rok 2025",
+        "share_text": "Lunárny nový rok 2025. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Googlova igra za leto kače",
+        "hover_text": "Lunarno novo leto 2025",
+        "share_text": "Lunarno novo leto 2025! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Sanadka Qamariga ah ee Cusub",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "st": {
+        "query": "Selemo se Setjha la Ngwedi",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "es": {
+        "query": "Juego de Google del año de la serpiente",
+        "hover_text": "Año Nuevo Lunar 2025",
+        "share_text": "Año Nuevo Lunar 2025 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Mwaka wa Mchezo wa Nyoka kwenye Google",
+        "hover_text": "Mwaka Mpya Unaoandamana na Mwezi 2025",
+        "share_text": "Mwaka Mpya Unaoandamana na Mwezi 2025! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Google-spel för ormens år",
+        "hover_text": "Månnyåret 2025",
+        "share_text": "Månnyåret 2025! #GoogleDoodle"
+      },
+      "tg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Year of the Snake Google Game",
+        "hover_text": "சந்திரப் புத்தாண்டு 2025",
+        "share_text": "சந்திரப் புத்தாண்டு 2025! #GoogleDoodle"
+      },
+      "te": {
+        "query": "స్నేక్ ఇయర్' Google గేమ్",
+        "hover_text": "చాంద్రమాన నూతన సంవత్సరం 2025",
+        "share_text": "చాంద్రమాన నూతన సంవత్సరం 2025! #GoogleDoodle"
+      },
+      "th": {
+        "query": "เกมต้อนรับปีมะเส็งจาก Google",
+        "hover_text": "วันตรุษจีนปี 2025",
+        "share_text": "วันตรุษจีนปี 2025! #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Ngwaga o Mosha wa Ngwedi",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Yılan Yılı Google Oyunu",
+        "hover_text": "2025 Çin Yeni Yılı",
+        "share_text": "2025 Çin Yeni Yılı #GoogleDoodle"
+      },
+      "tk": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Гра Google \"Рік Змії\"",
+        "hover_text": "Місячний Новий рік у 2025 році",
+        "share_text": "Місячний Новий рік у 2025 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "اسنیک Google گیم کا سال",
+        "hover_text": "نیا قمری سال 2025",
+        "share_text": "نیا قمری سال 20255! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Ilon yili uchun Google oʻyini",
+        "hover_text": "Oy yangi yili 2025",
+        "share_text": "Oy yangi yili 2025! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Trò chơi của Google về năm Ất Tỵ",
+        "hover_text": "Tết Nguyên Đán năm 2025",
+        "share_text": "Tết Nguyên Đán năm 2025! #GoogleDoodle"
+      },
+      "wo": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Umdlalo WeGoogle othi Year of the Snake",
+        "hover_text": "Unyaka Omusha weLunar yango-2025",
+        "share_text": "Unyaka Omusha weLunar yango-2025! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Year of the Snake Google Game",
+    "share_text": "Lunar New Year 2025! #GoogleDoodle"
+  },
+  {
+    "name": "lunar-new-year-2025",
+    "title": "Lunar New Year 2025",
+    "url": "//www.google.com/logos/doodles/2025/lunar-new-year-2025-6753651837110588.3-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/ILeERUJ0SupUO7u1v-6n1Rr0n9fNL0gLyDY-5FOgIBWJ4UiJIqA7QRUal_SUJfzLR1TmFGcit_yy4Hs5H--S62K-UiuGmjbCFylW2xnX3xXr6U0uM9gJYg",
+    "high_res_url": "//www.google.com/logos/doodles/2025/lunar-new-year-2025-6753651837110588.4-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2025,
+      1,
+      29
+    ],
+    "translations": {
+      "en": {
+        "query": "Year of the Snake Google Game",
+        "hover_text": "Lunar New Year 2025",
+        "share_text": "Lunar New Year 2025! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Google-speletjie: Jaar van die Slang",
+        "hover_text": "Nuwe Maanjaar 2025",
+        "share_text": "Nuwe Maanjaar 2025! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Loja në Google e Vitit të gjarprit",
+        "hover_text": "Viti i Ri Hënor, 2025",
+        "share_text": "Viti i Ri Hënor, 2025! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የSnake Google ጨዋታ ዓመት",
+        "hover_text": "የጨረቃ አዲስ ዓመት 2025",
+        "share_text": "የጨረቃ አዲስ ዓመት 2025! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "لعبة \"عام الثعبان\" من Google",
+        "hover_text": "رأس السنة القمرية 2025",
+        "share_text": "أطيب الأمنيات بمناسبة رأس السنة القمرية لعام 2025! ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "«Օձի տարի» Google-ի խաղ",
+        "hover_text": "Չինական Նոր տարի 2025",
+        "share_text": "Չինական Նոր տարի 2025 #GoogleDoodle"
+      },
+      "az": {
+        "query": "İlan ili Google oyunu",
+        "hover_text": "2025 Ay Təqvimi ilə Yeni İl",
+        "share_text": "2025 Ay Təqvimi ilə Yeni İl #GoogleDoodle"
+      },
+      "bn": {
+        "query": "Google-এর 'ইয়ার অফ দ্য স্নেক' গেম",
+        "hover_text": "লুনার নিউ ইয়ার ২০২৫",
+        "share_text": "লুনার নিউ ইয়ার ২০২৫! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Google-ren sugearen urterako jokoa",
+        "hover_text": "2025eko ilargi-egutegiko Urteberri-eguna",
+        "share_text": "2025eko ilargi-egutegiko Urteberri-eguna #GoogleDoodle"
+      },
+      "be": {
+        "query": "Гульня ад Google: Year of the Snake",
+        "hover_text": "Новы год па месячным календары 2025",
+        "share_text": "Новы год па месячным календары 2025! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Google igra Godina zmije",
+        "hover_text": "Lunarna nova godina 2025.",
+        "share_text": "Lunarna nova godina 2025! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Year of the Snake Google Game",
+        "hover_text": "Lunar New Year 2025",
+        "share_text": "Lunar New Year 2025 #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Игра на Google за годината на змията",
+        "hover_text": "Лунна Нова година 2025 г.",
+        "share_text": "Лунна Нова година 2025 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "မြွေနှစ် Google ဂိမ်း",
+        "hover_text": "၂၀၂၅ တရုတ်နှစ်သစ်ကူး",
+        "share_text": "၂၀၂၅ တရုတ်နှစ်သစ်ကူး။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Joc de Google de l'Any de la Serp",
+        "hover_text": "Any Nou Lunar 2025",
+        "share_text": "Any Nou Lunar 2025 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "蛇年 Google 遊戲",
+        "hover_text": "2025 年農曆新年",
+        "share_text": "2025 年農曆新年！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "Google 蛇年遊戲",
+        "hover_text": "2025 農曆新年",
+        "share_text": "2025 農曆新年快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "蛇年 Google 游戏",
+        "hover_text": "2025 年农历新年",
+        "share_text": "2025 年农历新年！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Google igra – Godina zmaja",
+        "hover_text": "Lunarna nova godina 2025.",
+        "share_text": "Lunarna nova godina 2025.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Hra od Googlu: Rok Hada",
+        "hover_text": "Lunární Nový rok 2025",
+        "share_text": "Slavíme lunární Nový rok 2025! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Google-spil for slangens år",
+        "hover_text": "Kinesisk nytår 2025",
+        "share_text": "Kinesisk nytår 2025 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Jaar van de Slang Google-game",
+        "hover_text": "Chinees Nieuwjaar 2025",
+        "share_text": "Chinees Nieuwjaar 2025! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Mao aasta Google'i mäng",
+        "hover_text": "2025. aasta kuukalendri uusaasta",
+        "share_text": "2025. aasta kuukalendri uusaasta! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Googlen peli Year of the Snake",
+        "hover_text": "Kuukalenterin mukainen uusivuosi 2025",
+        "share_text": "Kuukalenterin mukainen uusivuosi 2025 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Jeu Google sur l'Année du Serpent",
+        "hover_text": "Nouvel An lunaire 2025",
+        "share_text": "Nouvel An lunaire 2025 ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jeu Google de l'année du serpent",
+        "hover_text": "Nouvel An lunaire 2025",
+        "share_text": "Nouvel An lunaire 2025 #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Xogo de Google para conmemorar o ano da serpe",
+        "hover_text": "Aninovo Lunar 2025",
+        "share_text": "Aninovo Lunar 2025! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "Google თამაში გველის წელი",
+        "hover_text": "ახალი 2025 წელი მთვარის კალენდრის მიხედვით",
+        "share_text": "ახალი 2025 წელი მთვარის კალენდრის მიხედვით! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Jahr der Schlange Google Spiel",
+        "hover_text": "Mond-Neujahr 2025",
+        "share_text": "Mond-Neujahr 2025 #GoogleDoodle"
+      },
+      "el": {
+        "query": "Παιχνίδι της Google για το Έτος του φιδιού",
+        "hover_text": "Σεληνιακό Νέο Έτος 2025",
+        "share_text": "Σεληνιακό Νέο Έτος 2025! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "યિઅર ઑફ ધ સ્નેક Google ગેમ",
+        "hover_text": "લુનાર નવું વર્ષ 2025",
+        "share_text": "લુનાર નવું વર્ષ 2025! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "משחק סנייק ב-Google בהשראת שנת הנחש",
+        "hover_text": "ראש השנה הסיני 2025",
+        "share_text": "ראש השנה הסיני 2025 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "'ईयर ऑफ़ द स्नेक' के मौके पर Google गेम",
+        "hover_text": "लूनर न्यू ईयर 2025",
+        "share_text": "लूनर न्यू ईयर 2025! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A Snake című Google-játék éve",
+        "hover_text": "Holdújév, 2025",
+        "share_text": "Holdújév, 2025! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Google-leikur í tilefni af ári snáksins",
+        "hover_text": "Nýtt tunglár 2025",
+        "share_text": "Nýtt tunglár 2025! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Game Google Bertemakan Tahun Ular",
+        "hover_text": "Tahun Baru Imlek 2025",
+        "share_text": "Tahun Baru Imlek 2025 #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Bliain Nua Ghealaí",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Gioco Anno del Serpente di Google",
+        "hover_text": "Capodanno lunare 2025",
+        "share_text": "Capodanno lunare 2025! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "巳年 Google ゲーム",
+        "hover_text": "2025 年旧正月",
+        "share_text": "2025 年旧正月#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಸ್ನೇಕ್ ವರ್ಷದ Google ಗೇಮ್",
+        "hover_text": "ಚಾಂದ್ರಮಾನ ಹೊಸ ವರ್ಷ 2025",
+        "share_text": "ಚಾಂದ್ರಮಾನ ಹೊಸ ವರ್ಷ 2025! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Жылан жылына арналған Google ойыны",
+        "hover_text": "Қытай жаңа жылы – 2025",
+        "share_text": "Қытай жаңа жылы – 2025 #GoogleDoodle"
+      },
+      "km": {
+        "query": "ហ្គេម Google ឆ្នាំម្សាញ់",
+        "hover_text": "បុណ្យចូលឆ្នាំចិនឆ្នាំ 2025",
+        "share_text": "បុណ្យចូលឆ្នាំចិនឆ្នាំ 2025! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "뱀의 해 Google 게임",
+        "hover_text": "2025년 설날",
+        "share_text": "2025년 설날 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Google'дун Жылан оюнунун жылы",
+        "hover_text": "Кытай жаңы жылы – 2025",
+        "share_text": "Кытай жаңы жылы – 2025! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ເກມ Google ສໍາລັບປີງູ",
+        "hover_text": "ກຸດຈີນ 2025",
+        "share_text": "ກຸດຈີນ 2025! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Juego de Google del año de la serpiente",
+        "hover_text": "Año Nuevo Lunar 2025",
+        "share_text": "Año Nuevo Lunar 2025 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Google spēle \"Čūskas gads\"",
+        "hover_text": "Jaunais gads pēc Mēness kalendāra — 2025",
+        "share_text": "Jaunais gads pēc Mēness kalendāra — 2025! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "„Google“ gyvatėlės žaidimo metai",
+        "hover_text": "Naujieji metai pagal Mėnulio kalendorių, 2025 m.",
+        "share_text": "Naujieji metai pagal Mėnulio kalendorių, 2025 m. #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Игра на Google – Година на змијата",
+        "hover_text": "Лунарна Нова година, 2025 г.",
+        "share_text": "Лунарна Нова година, 2025 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Taom-baovaon'ny Volana",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Permainan Google Tahun Ular",
+        "hover_text": "Tahun Baru Cina 2025",
+        "share_text": "Tahun Baru Cina 2025! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "Snake Google Game-ന്റെ വർഷം",
+        "hover_text": "ലൂണാർ ന്യൂ ഇയർ 2025",
+        "share_text": "ലൂണാർ ന്യൂ ഇയർ 2025! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "Year of the Snake हा Google गेम",
+        "hover_text": "नवीन चांद्रवर्ष २०२५",
+        "share_text": "नवीन चांद्रवर्ष २०२५! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Могой жилийн Google-н тоглоом",
+        "hover_text": "2025 оны Цагаан сар",
+        "share_text": "2025 оны Цагаан сар! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "सर्प वर्षका अवसरमा बनाइएको Google गेम",
+        "hover_text": "चिनियाँ नयाँ वर्ष २०२५",
+        "share_text": "चिनियाँ नयाँ वर्ष २०२५! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Slangens år – Google-spill",
+        "hover_text": "Kinesisk nyttår 2025",
+        "share_text": "Kinesisk nyttår 2025! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଲୁନାର୍ ନବବର୍ଷ",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "بازی «سال مار» از Google",
+        "hover_text": "سال نو قمری ۲۰۲۵",
+        "share_text": "سال نو قمری ۲۰۲۵! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Gra Google na Rok Węża",
+        "hover_text": "Księżycowy Nowy Rok 2025",
+        "share_text": "Księżycowy Nowy Rok 2025 #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Jogo do Google para o Ano da Serpente",
+        "hover_text": "Ano Novo Lunar 2025",
+        "share_text": "Ano Novo Lunar 2025 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Jogo Google do Ano da Serpente",
+        "hover_text": "Ano Novo Lunar de 2025",
+        "share_text": "Ano Novo Lunar de 2025! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Year of the Snake Google ਗੇਮ",
+        "hover_text": "ਲੂਨਰ ਨਵਾਂ ਸਾਲ 2025",
+        "share_text": "ਲੂਨਰ ਨਵਾਂ ਸਾਲ 2025! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "anul șarpelui joc de la Google",
+        "hover_text": "Anul Nou Lunar 2025",
+        "share_text": "Anul Nou Lunar 2025! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Игра Google к году змеи",
+        "hover_text": "Новый год по лунному календарю – 2025",
+        "share_text": "Новый год по лунному календарю – 2025 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Google игра година Змије",
+        "hover_text": "Лунарна Нова година 2025.",
+        "share_text": "Лунарна Нова година 2025! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Google igra godina Zmije",
+        "hover_text": "Lunarna Nova godina 2025.",
+        "share_text": "Lunarna Nova godina 2025! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Nouvel an Liner",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "සර්ප වසර Google ක්‍රීඩාව",
+        "hover_text": "චන්ද්‍ර නව වසර 2025",
+        "share_text": "චන්ද්‍ර නව වසර 2025! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Hra od Googlu na rok hada",
+        "hover_text": "Lunárny nový rok 2025",
+        "share_text": "Lunárny nový rok 2025. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Googlova igra za leto kače",
+        "hover_text": "Lunarno novo leto 2025",
+        "share_text": "Lunarno novo leto 2025! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Sanadka Qamariga ah ee Cusub",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": "Selemo se Setjha la Ngwedi",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Juego de Google del año de la serpiente",
+        "hover_text": "Año Nuevo Lunar 2025",
+        "share_text": "Año Nuevo Lunar 2025 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Mwaka wa Mchezo wa Nyoka kwenye Google",
+        "hover_text": "Mwaka Mpya Unaoandamana na Mwezi 2025",
+        "share_text": "Mwaka Mpya Unaoandamana na Mwezi 2025! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Google-spel för ormens år",
+        "hover_text": "Månnyåret 2025",
+        "share_text": "Månnyåret 2025! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Year of the Snake Google Game",
+        "hover_text": "சந்திரப் புத்தாண்டு 2025",
+        "share_text": "சந்திரப் புத்தாண்டு 2025! #GoogleDoodle"
+      },
+      "te": {
+        "query": "'స్నేక్ ఇయర్' Google గేమ్",
+        "hover_text": "చాంద్రమాన నూతన సంవత్సరం 2025",
+        "share_text": "చాంద్రమాన నూతన సంవత్సరం 2025! #GoogleDoodle"
+      },
+      "th": {
+        "query": "เกมต้อนรับปีมะเส็งจาก Google",
+        "hover_text": "วันตรุษจีนปี 2025",
+        "share_text": "วันตรุษจีนปี 2025! #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Ngwaga o Mosha wa Ngwedi",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Yılan Yılı Google Oyunu",
+        "hover_text": "2025 Çin Yeni Yılı",
+        "share_text": "2025 Çin Yeni Yılı #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Гра Google \"Рік Змії\"",
+        "hover_text": "Місячний Новий рік у 2025 році",
+        "share_text": "Місячний Новий рік у 2025 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "اسنیک Google گیم کا سال",
+        "hover_text": "نیا قمری سال 2025",
+        "share_text": "نیا قمری سال 20255! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Ilon yili uchun Google oʻyini",
+        "hover_text": "Oy yangi yili 2025",
+        "share_text": "Oy yangi yili 2025! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Trò chơi của Google về năm Ất Tỵ",
+        "hover_text": "Tết Nguyên Đán năm 2025",
+        "share_text": "Tết Nguyên Đán năm 2025! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Umdlalo WeGoogle othi Year of the Snake",
+        "hover_text": "Unyaka Omusha weLunar yango-2025",
+        "share_text": "Unyaka Omusha weLunar yango-2025! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Year of the Snake Google Game",
+    "share_text": "Lunar New Year 2025! #GoogleDoodle"
+  },
+  {
     "name": "india-republic-day-2025",
     "title": "India Republic Day 2025",
     "url": "//www.google.com/logos/doodles/2025/india-republic-day-2025-6753651837110590.2-l.png",
