@@ -1,5 +1,504 @@
 [
   {
+    "name": "waitangi-day-2025",
+    "title": "Waitangi Day 2025",
+    "url": "//www.google.com/logos/doodles/2025/waitangi-day-2025-6753651837110591.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/ER-3sDLCSANR-vbNH1w6CThmJ7HJdM4HW7VRya8g1gmnT9fkAagZUMwUVqEGzZsJ0ryJLygE8KJ5X7-8IZxfLfF_aXpzMjxlfqNr0xyjmUxU8z_Rk5Ia",
+    "high_res_url": "//www.google.com/logos/doodles/2025/waitangi-day-2025-6753651837110591-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2025,
+      2,
+      6
+    ],
+    "translations": {
+      "en": {
+        "query": "Waitangi Day",
+        "hover_text": "Waitangi Day 2025",
+        "share_text": "Waitangi Day 2025! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Waitangi-dag",
+        "hover_text": "Waitangi-dag 2025",
+        "share_text": "Waitangi-dag 2025! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Waitangi",
+        "hover_text": "Dita e Uaitangit, 2025",
+        "share_text": "Dita e Uaitangit, 2025! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የዋይታንጊ ቀን",
+        "hover_text": "የዋይታንጊ ቀን 2025",
+        "share_text": "የዋይታንጊ ቀን 2025! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد نيوزيلندا الوطني",
+        "hover_text": "عيد نيوزيلندا الوطني (وايتانغي) 2025",
+        "share_text": "نتمنّى لنيوزيلندا عيدًا وطنيًا سعيدًا لعام 2025. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Վայթանգիի օր",
+        "hover_text": "Վայթանգիի օր 2025",
+        "share_text": "Վայթանգիի օր 2025 #GoogleDoodle"
+      },
+      "az": {
+        "query": "Vaytanqi Günü",
+        "hover_text": "2025 Vaytanqi Günü",
+        "share_text": "2025 Vaytanqi Günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ওয়েতাঙ্গি দিবস",
+        "hover_text": "ওয়াইটাঙ্গি ডে ২০২৫",
+        "share_text": "ওয়াইটাঙ্গি ডে ২০২৫! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Waitangi Eguna",
+        "hover_text": "2025eko Waitangiko Eguna",
+        "share_text": "2025eko Waitangiko Eguna #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень Вайтангі",
+        "hover_text": "Дзень Вайтангі 2025",
+        "share_text": "Дзень Вайтангі 2025! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Waitangi dan",
+        "hover_text": "Dan Waitangija 2025.",
+        "share_text": "Dan Waitangija 2025! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Waitangi Day",
+        "hover_text": "Waitangi Day 2025",
+        "share_text": "Waitangi Day 2025! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Уайтанги",
+        "hover_text": "Уайтанги 2025 г.",
+        "share_text": "Уайтанги 2025 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "Waitangi နေ့",
+        "hover_text": "၂၀၂၅ နယူးဇီလန်နိုင်ငံ အမျိုးသားနေ့",
+        "share_text": "၂၀၂၅ နယူးဇီလန်နိုင်ငံ အမျိုးသားနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de Waitangi",
+        "hover_text": "Dia de Waitangi 2025",
+        "share_text": "Dia de Waitangi 2025 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "懷唐伊日",
+        "hover_text": "2025 年懷唐伊日",
+        "share_text": "2025 年懷唐伊日！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "懷唐伊日",
+        "hover_text": "2025 懷唐伊日",
+        "share_text": "紀念 2025 懷唐伊日！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "怀唐伊日",
+        "hover_text": "2025 年怀唐伊日",
+        "share_text": "2025 年怀唐伊日！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan Waitangi",
+        "hover_text": "Dan Waitangi 2025.",
+        "share_text": "Dan Waitangi 2025.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den Waitangi",
+        "hover_text": "Den Waitangi 2025",
+        "share_text": "Slavíme Den Waitangi 2025! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Waitangidag",
+        "hover_text": "Waitangidag 2025",
+        "share_text": "Waitangidag 2025 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Waitangi-dag",
+        "hover_text": "Waitangi Day 2025",
+        "share_text": "Waitangi Day 2025! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Waitangi päev",
+        "hover_text": "2025. aasta Waitangi päev",
+        "share_text": "2025. aasta Waitangi päev #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Waitangi-päivä",
+        "hover_text": "Waitangi-päivä 2025",
+        "share_text": "Waitangi-päivä 2025 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Commémoration de la signature du traité de Waitangi",
+        "hover_text": "Commémoration de la signature du traité de Waitangi 2025",
+        "share_text": "Commémoration de la signature du traité de Waitangi 2025 #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Waitangi Day",
+        "hover_text": "Journée de Waitangi 2025",
+        "share_text": "Journée de Waitangi 2025! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día de Waitangi",
+        "hover_text": "Día de Waitangi 2025",
+        "share_text": "Día de Waitangi 2025! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ვაიტანგის დღე",
+        "hover_text": "ვაიტანგის დღე — 2025",
+        "share_text": "ვაიტანგის დღე — 2025! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Waitangi Day",
+        "hover_text": "Waitangi Day 2025",
+        "share_text": "Waitangi Day 2025 #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Γουαϊτάνγκι",
+        "hover_text": "Ημέρα Γουαϊτάνγκι 2025",
+        "share_text": "Ημέρα Γουαϊτάνγκι 2025! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "વૈતાંગી દિવસ",
+        "hover_text": "વૈતાંગી દિવસ 2025",
+        "share_text": "વૈતાંગી દિવસ 2025! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום ואיטאנגי",
+        "hover_text": "יום וואיטאנגי 2025",
+        "share_text": "יום וואיטאנגי 2025 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "वाइटेंगी दिवस",
+        "hover_text": "वाइटांगी डे 2025",
+        "share_text": "वाइटांगी डे 2025! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Waitangi-nap",
+        "hover_text": "Waitangi-nap, 2025",
+        "share_text": "Waitangi-nap, 2025! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Waitangi-dagurinn 2020",
+        "hover_text": "Waitangi-dagurinn 2025",
+        "share_text": "Waitangi-dagurinn 2025! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Waitangi",
+        "hover_text": "Hari Waitangi 2025",
+        "share_text": "Hari Waitangi 2025 #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Waitangi, 2020",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Waitangi Day",
+        "hover_text": "Waitangi Day 2025",
+        "share_text": "Waitangi Day 2025! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ワイタンギ条約記念日",
+        "hover_text": "2025 年ワイタンギ条約記念日",
+        "share_text": "2025 年ワイタンギ条約記念日 #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ವೈತಾಂಗಿ ದಿನಾಚರಣೆ",
+        "hover_text": "ವೈತಾಂಗಿ ದಿನಾಚರಣೆ 2025",
+        "share_text": "ವೈತಾಂಗಿ ದಿನಾಚರಣೆ 2025! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Вайтанги күні",
+        "hover_text": "Вайтанги күні – 2025",
+        "share_text": "2025 жылғы Вайтанги күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាបុណ្យវៃ​តាំង​ហ្គី",
+        "hover_text": "ពិធីបុណ្យវៃតាំងហ្គីឆ្នាំ 2025",
+        "share_text": "ពិធីបុណ្យវៃតាំងហ្គីឆ្នាំ 2025! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "와이탕이 데이",
+        "hover_text": "2025년 와이탕이 데이",
+        "share_text": "2025년 와이탕이 데이 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Вайтанги күнү",
+        "hover_text": "Вайтанги күнү – 2025",
+        "share_text": "Вайтанги күнү – 2025! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຊາດນິວຊີແລນ",
+        "hover_text": "ວັນຊາດນິວຊີແລນປີ 2025",
+        "share_text": "ວັນຊາດນິວຊີແລນປີ 2025! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de Waitangi",
+        "hover_text": "Día de Waitangi 2025",
+        "share_text": "Día de Waitangi 2025 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Vaitangi diena",
+        "hover_text": "Vaitangi diena — 2025",
+        "share_text": "Vaitangi diena — 2025 #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Vaitangi diena (nacionalinė Naujosios Zelandijos šventė)",
+        "hover_text": "Vaitangi diena, 2025 m. (nacionalinė Naujosios Zelandijos šventė)",
+        "share_text": "Vaitangi diena, 2025 m. (nacionalinė Naujosios Zelandijos šventė)! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ваитанги ден",
+        "hover_text": "Ден на Ваитанги, 2025 г.",
+        "share_text": "Ден на Ваитанги, 2025 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Andron'ny Waitangi",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Hari Waitangi",
+        "hover_text": "Hari Waitangi 2025",
+        "share_text": "Hari Waitangi 2025! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "വയ്‌താംഗി ദിനം 2019",
+        "hover_text": "വയ്‌താംഗി ദിനം 2025",
+        "share_text": "വയ്‌താംഗി ദിനം 2025! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "वैतांगी डे",
+        "hover_text": "वैतँगी डे २०२५",
+        "share_text": "वैतँगी डे २०२५! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Вайтангигийн өдөр",
+        "hover_text": "2025 оны Вайтангигийн өдөр",
+        "share_text": "2025 оны Вайтангигийн өдөр! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "वाइटाङ्गी दिवस",
+        "hover_text": "वाइटाङ्गी दिवस २०२५",
+        "share_text": "वाइटाङ्गी दिवस २०२५! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Waitangi-dagen",
+        "hover_text": "Waitangi-dagen 2025",
+        "share_text": "Waitangi-dagen 2025! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ୱେଇଟାଙ୍ଗି ଦିବସ",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز وایتانگی",
+        "hover_text": "روز ملی نیوزیلند، وایتانگی ۲۰۲۵",
+        "share_text": "روز ملی نیوزیلند، وایتانگی ۲۰۲۵! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Waitangi 2020",
+        "hover_text": "Święto Waitangi 2025",
+        "share_text": "Święto Waitangi 2025 #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia de Waitangi 2020",
+        "hover_text": "Dia de Waitangi 2025",
+        "share_text": "Dia de Waitangi 2025 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia de Waitangi",
+        "hover_text": "Dia de Waitangi de 2025",
+        "share_text": "Dia de Waitangi de 2025! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਵਾਏਤਾਂਗੀ ਦਿਵਸ",
+        "hover_text": "ਵਾਈਟੈਂਗੀ ਦਿਵਸ 2025",
+        "share_text": "ਵਾਈਟੈਂਗੀ ਦਿਵਸ 2025! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Waitangi",
+        "hover_text": "Ziua Waitangi 2025",
+        "share_text": "Ziua Waitangi 2025! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День Вайтанги – 2020",
+        "hover_text": "День Вайтанги – 2025",
+        "share_text": "День Вайтанги – 2025 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан Ваитанги",
+        "hover_text": "Дан Ваитанги 2025.",
+        "share_text": "Дан Ваитанги 2025! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan Vaitangi",
+        "hover_text": "Dan Vaitangi 2025.",
+        "share_text": "Dan Vaitangi 2025! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Waitangi",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "වයිතාන්ගි දිනය",
+        "hover_text": "වයිටාංගි දිනය 2025",
+        "share_text": "වයිටාංගි දිනය 2025! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň Waitangi",
+        "hover_text": "Deň Waitangi 2025",
+        "share_text": "Deň Waitangi 2025. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan Waitangija",
+        "hover_text": "Dan Waitangija 2025",
+        "share_text": "Dan Waitangija 2025! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Waitangi",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": "Letsatsi la Waitangi",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día de Waitangi",
+        "hover_text": "Día de Waitangi 2025",
+        "share_text": "Día de Waitangi 2025 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Waitangi",
+        "hover_text": "Sikukuu ya Waitangi 2025",
+        "share_text": "Sikukuu ya Waitangi 2025! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Waitangi-dagen",
+        "hover_text": "Waitangidagen 2025",
+        "share_text": "Waitangidagen 2025 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "வெயிட்டாங்கி தினம்",
+        "hover_text": "வைட்டங்கி தினம் 2025",
+        "share_text": "வைட்டங்கி தினம் 2025! #GoogleDoodle"
+      },
+      "te": {
+        "query": "వెయిటాంగి డే",
+        "hover_text": "వైతాంగి డే 2025",
+        "share_text": "వైతాంగి డే 2025! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันไวทังกิ",
+        "hover_text": "วันไวทังกิปี 2025",
+        "share_text": "วันไวทังกิปี 2025! #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Waitangi la 2020",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Waitangi Günü",
+        "hover_text": "2025 Waitangi Günü",
+        "share_text": "2025 Waitangi Günü #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День Вайтангі",
+        "hover_text": "День Вайтангі у 2025 році",
+        "share_text": "День Вайтангі у 2025 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "Waitangi Day",
+        "hover_text": "ویتینگی ڈے 2025",
+        "share_text": "ویتینگی ڈے 2025! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Vaytangi kuni",
+        "hover_text": "Vaytangi kuni 2025",
+        "share_text": "Vaytangi kuni 2025! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Waitangi (Quốc khánh New Zealand)",
+        "hover_text": "Ngày Waitangi (Quốc khánh New Zealand) năm 2025",
+        "share_text": "Ngày Waitangi (Quốc khánh New Zealand) năm 2025! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lwe-Waitangi",
+        "hover_text": "Usuku lweWaitangi lwango-2025",
+        "share_text": "Usuku lweWaitangi lwango-2025! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Waitangi Day",
+    "share_text": "Waitangi Day 2025! #GoogleDoodle"
+  },
+  {
     "name": "celebrating-house-music",
     "title": "Celebrating House Music",
     "url": "//www.google.com/logos/doodles/2025/celebrating-house-music-6753651837110601.2-l.png",
@@ -44,9 +543,9 @@
         "share_text": ""
       },
       "az": {
-        "query": "Afrika-Amerika Tarixi Ayı",
-        "hover_text": null,
-        "share_text": ""
+        "query": "Haus musiqisi",
+        "hover_text": "2025 Afrika-Amerika Tarixi Ayı",
+        "share_text": "2025 Afrika-Amerika Tarixi Ayı! #GoogleDoodle"
       },
       "bn": {
         "query": "কৃষ্ণাঙ্গদের ইতিহাস স্মরণ করার মাস",
@@ -54,7 +553,7 @@
         "share_text": ""
       },
       "eu": {
-        "query": "Afroamerikarren Historiaren Hilabetea",
+        "query": "House musika",
         "hover_text": null,
         "share_text": ""
       },
@@ -64,9 +563,9 @@
         "share_text": ""
       },
       "bs": {
-        "query": "Mjesec historije Afroamerikanaca",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Mjesec historije Afroamerikanaca 2025.",
+        "share_text": "Mjesec historije Afroamerikanaca 2025.! #GoogleDoodle"
       },
       "en-GB": {
         "query": "Black History Month",
@@ -79,9 +578,9 @@
         "share_text": ""
       },
       "my": {
-        "query": "လူမည်းသမိုင်းလ",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "၂၀၂၅ လူမည်းသမိုင်းလ",
+        "share_text": "၂၀၂၅ လူမည်းသမိုင်းလ။ #GoogleDoodle"
       },
       "ca": {
         "query": null,
@@ -89,14 +588,14 @@
         "share_text": "Mes de la Història Negra 2025 #GoogleDoodle"
       },
       "zh-HK": {
-        "query": "黑人歷史月",
-        "hover_text": null,
-        "share_text": ""
+        "query": "浩室音樂",
+        "hover_text": "2025 黑人歷史月",
+        "share_text": "2025 黑人歷史月快樂！#GoogleDoodle"
       },
       "zh-TW": {
-        "query": "黑人歷史月",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "2025 黑人歷史月",
+        "share_text": "2025 黑人歷史月快樂！#GoogleDoodle"
       },
       "zh-CN": {
         "query": "黑人历史月",
@@ -114,12 +613,12 @@
         "share_text": ""
       },
       "da": {
-        "query": "Black History Month",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Black History Month 2025",
+        "share_text": "Black History Month 2025 #GoogleDoodle"
       },
       "nl": {
-        "query": "Black History Month",
+        "query": "House",
         "hover_text": null,
         "share_text": ""
       },
@@ -184,9 +683,9 @@
         "share_text": ""
       },
       "hu": {
-        "query": "A feketék történelmének emlékhónapja",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "A feketék történelmének emlékhónapja, 2025",
+        "share_text": "A feketék történelmének emlékhónapja, 2025! #GoogleDoodle"
       },
       "is": {
         "query": null,
@@ -194,9 +693,9 @@
         "share_text": "Mánuður sögu svartra 2025! #GoogleDoodle"
       },
       "id": {
-        "query": "Bulan Sejarah Kulit Hitam",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Bulan Sejarah Kulit Hitam 2025",
+        "share_text": "Bulan Sejarah Kulit Hitam 2025 #GoogleDoodle"
       },
       "ga": {
         "query": null,
@@ -204,14 +703,14 @@
         "share_text": ""
       },
       "it": {
-        "query": "Mese della storia della comunità nera",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Mese della storia della comunità nera 2025",
+        "share_text": "Mese della storia della comunità nera 2025! #GoogleDoodle"
       },
       "ja": {
-        "query": "黒人歴史月間",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "2025 年黒人歴史月間",
+        "share_text": "2025 年黒人歴史月間！#GoogleDoodle"
       },
       "kn": {
         "query": "ಬ್ಲ್ಯಾಕ್ ಹಿಸ್ಟರಿ ತಿಂಗಳು",
@@ -234,9 +733,9 @@
         "share_text": ""
       },
       "ky": {
-        "query": "Афро-америкалыктардын тарыхына арналган ай",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Афро-америкалыктардын тарыхына арналган ай — 2025",
+        "share_text": "Афро-америкалыктардын тарыхына арналган ай — 2025! #GoogleDoodle"
       },
       "lo": {
         "query": "ເດືອນປະຫວັດສາດຄົນຜິວດຳ",
@@ -249,7 +748,7 @@
         "share_text": ""
       },
       "lv": {
-        "query": null,
+        "query": "Hausmūzika",
         "hover_text": "Afroamerikāņu vēstures mēnesis — 2025",
         "share_text": "Afroamerikāņu vēstures mēnesis — 2025! #GoogleDoodle"
       },
@@ -284,14 +783,14 @@
         "share_text": ""
       },
       "mr": {
-        "query": "कृष्णवर्णीयांचा इतिहास महिना",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "कृष्णवर्णीयांचा इतिहास महिना २०२५",
+        "share_text": "कृष्णवर्णीयांचा इतिहास महिना २०२५! #GoogleDoodle"
       },
       "mn": {
-        "query": "Хар арьстны түүхийн сар",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "2025 оны Хар арьстны түүхийн сар",
+        "share_text": "2025 оны Хар арьстны түүхийн сар! #GoogleDoodle"
       },
       "ne": {
         "query": "ब्ल्याक हिस्ट्री मन्थ",
@@ -339,7 +838,7 @@
         "share_text": ""
       },
       "pt-PT": {
-        "query": null,
+        "query": "Música house",
         "hover_text": "Mês da História Negra de 2025",
         "share_text": "Mês da História Negra de 2025! #GoogleDoodle"
       },
@@ -364,14 +863,14 @@
         "share_text": ""
       },
       "sr": {
-        "query": "Месец црначке историје",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Месец црначке историје 2025.",
+        "share_text": "Месец црначке историје 2025! #GoogleDoodle"
       },
       "sr-Latn": {
-        "query": "Mesec crnačke istorije",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Mesec crnačke istorije 2025.",
+        "share_text": "Mesec crnačke istorije 2025! #GoogleDoodle"
       },
       "sr-ME": {
         "query": null,
@@ -419,9 +918,9 @@
         "share_text": ""
       },
       "sw": {
-        "query": "Mwezi wa Historia ya Waamerika wenye Asili ya Afrika",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Mwezi wa Historia ya Waamerika wenye Asili ya Afrika 2025",
+        "share_text": "Mwezi wa Historia ya Waamerika wenye Asili ya Afrika 2025! #GoogleDoodle"
       },
       "sv": {
         "query": "Black History Month",
@@ -444,7 +943,7 @@
         "share_text": ""
       },
       "th": {
-        "query": "เดือนประวัติศาสตร์คนผิวดำ",
+        "query": "ดนตรีเฮาส์",
         "hover_text": null,
         "share_text": ""
       },
@@ -464,24 +963,24 @@
         "share_text": ""
       },
       "uk": {
-        "query": "Місяць афроамериканської історії",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Місяць афроамериканської історії у 2025 році",
+        "share_text": "Місяць афроамериканської історії у 2025 році! #GoogleDoodle"
       },
       "ur": {
-        "query": "بلیک ہسٹری کا مہینہ",
+        "query": "ہاؤس موسیقی",
         "hover_text": null,
         "share_text": ""
       },
       "uz": {
-        "query": null,
+        "query": "Haus musiqa",
         "hover_text": "Afroamerikaliklar tarixi oyi 2025",
         "share_text": "Afroamerikaliklar tarixi oyi 2025! #GoogleDoodle"
       },
       "vi": {
-        "query": "Tháng Lịch sử người Mỹ gốc Phi",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Tháng Lịch sử người Mỹ gốc Phi năm 2025",
+        "share_text": "Tháng Lịch sử người Mỹ gốc Phi năm 2025! #GoogleDoodle"
       },
       "wo": {
         "query": null,
