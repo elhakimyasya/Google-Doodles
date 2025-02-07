@@ -1,5 +1,504 @@
 [
   {
+    "name": "celebrating-gumbo",
+    "title": "Celebrating Gumbo",
+    "url": "//www.google.com/logos/doodles/2025/celebrating-gumbo-6753651837110605.5-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/Fvd1GY5Xabfw4q_LmpiUYuN2gaZlCfew0G_BqFfJk3PfLswv2rxO6YJjpGPsAEs9gkCqYqc0iTk_5xBSg8IusrWNjDRnHSpbt8Fn4WysrkkdQjPcBpq1dg",
+    "high_res_url": "//www.google.com/logos/doodles/2025/celebrating-gumbo-6753651837110605.3-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2025,
+      2,
+      6
+    ],
+    "translations": {
+      "en": {
+        "query": "Gumbo",
+        "hover_text": "Celebrating Gumbo",
+        "share_text": "Celebrating Gumbo! #GoogleDoodle"
+      },
+      "af": {
+        "query": null,
+        "hover_text": "Ter viering van Gumbo",
+        "share_text": "Ter viering van Gumbo! #GoogleDoodle"
+      },
+      "sq": {
+        "query": null,
+        "hover_text": "Festojmë me gambo",
+        "share_text": "Festojmë me gambo! #GoogleDoodle"
+      },
+      "am": {
+        "query": null,
+        "hover_text": "ገምቦን በማክበር ላይ",
+        "share_text": "ገምቦን በማክበር ላይ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": null,
+        "hover_text": "نحتفل اليوم بحساء البامية (غومبو)",
+        "share_text": "نحتفل اليوم بحساء البامية (غومبو). ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": null,
+        "hover_text": "Տոնենք գամբոյի օրը",
+        "share_text": "Տոնենք գամբոյի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": null,
+        "hover_text": "Gumbo günü",
+        "share_text": "Gumbo günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": null,
+        "hover_text": "গাম্বোর ঐতিহ্য উদযাপন করা হচ্ছে",
+        "share_text": "গাম্বোর ঐতিহ্য উদযাপন করা হচ্ছে! #GoogleDoodle"
+      },
+      "eu": {
+        "query": null,
+        "hover_text": "Gumbo-aren omenez",
+        "share_text": "Gumbo-aren omenez #GoogleDoodle"
+      },
+      "be": {
+        "query": null,
+        "hover_text": "Ушаноўваем гамба",
+        "share_text": "Ушаноўваем гамба! #GoogleDoodle"
+      },
+      "bs": {
+        "query": null,
+        "hover_text": "Slavimo gumbo",
+        "share_text": "Slavimo gumbo! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": null,
+        "hover_text": "Celebrating Gumbo",
+        "share_text": "Celebrating Gumbo! #GoogleDoodle"
+      },
+      "bg": {
+        "query": null,
+        "hover_text": "Честване на гъмбо",
+        "share_text": "Честване на гъмбо! #GoogleDoodle"
+      },
+      "my": {
+        "query": null,
+        "hover_text": "ဂမ်ဘိုဟင်းလျာကို ဆင်နွှဲခြင်း",
+        "share_text": "ဂမ်ဘိုဟင်းလျာကို ဆင်နွှဲခြင်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": null,
+        "hover_text": "Homenatge al gumbo",
+        "share_text": "Homenatge al gumbo #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": null,
+        "hover_text": "品嚐美味的秋葵濃湯",
+        "share_text": "品嚐美味的秋葵濃湯！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": null,
+        "hover_text": "品嚐美味秋葵濃湯",
+        "share_text": "品嚐美味秋葵濃湯！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": null,
+        "hover_text": "美味秋葵汤",
+        "share_text": "美味秋葵汤！#GoogleDoodle"
+      },
+      "hr": {
+        "query": null,
+        "hover_text": "Slavimo Gumbo",
+        "share_text": "Slavimo gumbo! #GoogleDoodle"
+      },
+      "cs": {
+        "query": null,
+        "hover_text": "Oslavujeme pokrm gumbo",
+        "share_text": "Oslavujeme pokrm gumbo! #GoogleDoodle"
+      },
+      "da": {
+        "query": null,
+        "hover_text": "En hyldest til gumbo",
+        "share_text": "En hyldest til gumbo #GoogleDoodle"
+      },
+      "nl": {
+        "query": null,
+        "hover_text": "Doodle ter ere van gumbo",
+        "share_text": "Doodle ter ere van gumbo! #GoogleDoodle"
+      },
+      "et": {
+        "query": null,
+        "hover_text": "Tunneme rõõmu gumbost",
+        "share_text": "Tunneme rõõmu gumbost! #GoogleDoodle"
+      },
+      "fi": {
+        "query": null,
+        "hover_text": "Gumbo",
+        "share_text": "Gumbo #GoogleDoodle"
+      },
+      "fr": {
+        "query": null,
+        "hover_text": "Le gombo à l'honneur",
+        "share_text": "Le gombo à l'honneur ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": null,
+        "hover_text": "Célébration du gombo",
+        "share_text": "Célébration du gombo! #GoogleDoodle"
+      },
+      "gl": {
+        "query": null,
+        "hover_text": "Homenaxe ao gumbo",
+        "share_text": "Homenaxe ao gumbo! #GoogleDoodle"
+      },
+      "ka": {
+        "query": null,
+        "hover_text": "ეძღვნება გუმბოს",
+        "share_text": "ეძღვნება გუმბოს! #GoogleDoodle"
+      },
+      "de": {
+        "query": null,
+        "hover_text": "Wir feiern Gumbo",
+        "share_text": "Wir feiern Gumbo #GoogleDoodle"
+      },
+      "el": {
+        "query": null,
+        "hover_text": "Τιμούμε το Gumbo",
+        "share_text": "Τιμούμε το Gumbo! #GoogleDoodle"
+      },
+      "gu": {
+        "query": null,
+        "hover_text": "ગમ્બોની ઉજવણી કરી રહ્યાં છીએ",
+        "share_text": "ગમ્બોની ઉજવણી કરી રહ્યાં છીએ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": null,
+        "hover_text": "מחווה לגמבו",
+        "share_text": "מחווה לגמבו GoogleDoodle#"
+      },
+      "hi": {
+        "query": null,
+        "hover_text": "गम्बो का जश्न",
+        "share_text": "गम्बो का जश्न! #GoogleDoodle"
+      },
+      "hu": {
+        "query": null,
+        "hover_text": "A gumbó ünneplése",
+        "share_text": "A gumbó ünneplése! #GoogleDoodle"
+      },
+      "is": {
+        "query": null,
+        "hover_text": "Við fögnum Gumbo",
+        "share_text": "Við fögnum Gumbo! #GoogleDoodle"
+      },
+      "id": {
+        "query": null,
+        "hover_text": "Merayakan Gumbo",
+        "share_text": "Merayakan Gumbo #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": null,
+        "hover_text": "Un omaggio al gumbo",
+        "share_text": "Un omaggio al gumbo! #GoogleDoodle"
+      },
+      "ja": {
+        "query": null,
+        "hover_text": "ガンボを称えて",
+        "share_text": "ガンボを称えて！#GoogleDoodle"
+      },
+      "kn": {
+        "query": null,
+        "hover_text": "ಗಂಬೋವನ್ನು ಸಂಭ್ರಮಿಸಲಾಗುತ್ತಿದೆ",
+        "share_text": "ಗಂಬೋವನ್ನು ಸಂಭ್ರಮಿಸಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": null,
+        "hover_text": "Гамбо күні",
+        "share_text": "Гамбо күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": null,
+        "hover_text": "អបអរទិវារំលឹកដល់ហ្កាំបូ",
+        "share_text": "អបអរទិវារំលឹកដល់ហ្កាំបូ! #GoogleDoodle"
+      },
+      "ko": {
+        "query": null,
+        "hover_text": "검보 기념",
+        "share_text": "검보 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": null,
+        "hover_text": "Гамбо күнүн майрамдоо",
+        "share_text": "Гамбо күнүн майрамдоо! #GoogleDoodle"
+      },
+      "lo": {
+        "query": null,
+        "hover_text": "ວັນສະເຫຼີມສະຫຼອງກຳໂບ",
+        "share_text": "ວັນສະເຫຼີມສະຫຼອງກຳໂບ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": null,
+        "hover_text": "Celebrando el gumbo",
+        "share_text": "Celebrando el gumbo #GoogleDoodle"
+      },
+      "lv": {
+        "query": null,
+        "hover_text": "Gambo godināšana",
+        "share_text": "Gambo godināšana! #GoogleDoodle"
+      },
+      "lt": {
+        "query": null,
+        "hover_text": "Gumbo troškinio minėjimas",
+        "share_text": "Gumbo troškinio minėjimas! #GoogleDoodle"
+      },
+      "mk": {
+        "query": null,
+        "hover_text": "Во чест на Gumbo",
+        "share_text": "Во чест на Gumbo! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": null,
+        "hover_text": "Meraikan Gumbo",
+        "share_text": "Meraikan Gumbo! #GoogleDoodle"
+      },
+      "ml": {
+        "query": null,
+        "hover_text": "ഗമ്പോ ആഘോഷിക്കുന്നു",
+        "share_text": "ഗമ്പോ ആഘോഷിക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": null,
+        "hover_text": "गंबोच्या सन्मानार्थ",
+        "share_text": "गंबोच्या सन्मानार्थ! #GoogleDoodle"
+      },
+      "mn": {
+        "query": null,
+        "hover_text": "Гамбог алдаршуулж байна",
+        "share_text": "Гамбог алдаршуулж байна! #GoogleDoodle"
+      },
+      "ne": {
+        "query": null,
+        "hover_text": "गुम्बो महोत्सव",
+        "share_text": "गुम्बो महोत्सव! #GoogleDoodle"
+      },
+      "no": {
+        "query": null,
+        "hover_text": "Vi feirer matretten gumbo",
+        "share_text": "Vi feirer matretten gumbo! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": null,
+        "hover_text": "روز گامبو",
+        "share_text": "روز گامبو! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": null,
+        "hover_text": "Delektujemy się gumbo",
+        "share_text": "Delektujemy się gumbo #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": null,
+        "hover_text": "Viva o gumbo, ensopado tradicional da Louisiana",
+        "share_text": "Viva o gumbo, ensopado tradicional da Louisiana! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": null,
+        "hover_text": "Celebração do Gumbo",
+        "share_text": "Celebração do Gumbo! #GoogleDoodle"
+      },
+      "pa": {
+        "query": null,
+        "hover_text": "ਗੁੰਬੋ ਦੀ ਸਿਫ਼ਤ ਵਿੱਚ",
+        "share_text": "ਗੁੰਬੋ ਦੀ ਸਿਫ਼ਤ ਵਿੱਚ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": null,
+        "hover_text": "Sărbătorim gumbo",
+        "share_text": "Sărbătorim gumbo! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": null,
+        "hover_text": "День гамбо",
+        "share_text": "День гамбо #GoogleDoodle"
+      },
+      "sr": {
+        "query": null,
+        "hover_text": "Славимо гамбо",
+        "share_text": "Славимо гамбо! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": null,
+        "hover_text": "Slavimo gambo",
+        "share_text": "Slavimo gambo! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": null,
+        "hover_text": "ගම්බෝ සැමරීම",
+        "share_text": "ගම්බෝ සැමරීම! #GoogleDoodle"
+      },
+      "sk": {
+        "query": null,
+        "hover_text": "Oslavujeme gumbo",
+        "share_text": "Oslavujeme gumbo. #GoogleDoodle"
+      },
+      "sl": {
+        "query": null,
+        "hover_text": "Slavimo gumbo",
+        "share_text": "Slavimo gumbo. #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": null,
+        "hover_text": "Homenaje al gumbo",
+        "share_text": "Hoy rendimos homenaje al gumbo #GoogleDoodle"
+      },
+      "sw": {
+        "query": null,
+        "hover_text": "Tunaenzi Gumbo",
+        "share_text": "Tunaenzi Gumbo! #GoogleDoodle"
+      },
+      "sv": {
+        "query": null,
+        "hover_text": "Vi hyllar gumbo",
+        "share_text": "Vi hyllar gumbo #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": null,
+        "hover_text": "கம்போவைக் கொண்டாடுவோம்",
+        "share_text": "கம்போவைக் கொண்டாடுவோம் #GoogleDoodle"
+      },
+      "te": {
+        "query": null,
+        "hover_text": "గంబో వేడుకలు",
+        "share_text": "గంబో వేడుకలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": null,
+        "hover_text": "วันเฉลิมฉลองกัมโบ",
+        "share_text": "วันเฉลิมฉลองกัมโบ! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": null,
+        "hover_text": "Gumbo'yu Kutluyoruz",
+        "share_text": "Gumbo'yu kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": null,
+        "hover_text": "Присвячено гамбо",
+        "share_text": "Присвячено гамбо! #GoogleDoodle"
+      },
+      "ur": {
+        "query": null,
+        "hover_text": "گمبو کی یاد میں",
+        "share_text": "گمبو کی یاد میں! GoogleDoodle#"
+      },
+      "uz": {
+        "query": null,
+        "hover_text": "Gumbo kuni",
+        "share_text": "Gumbo kuni! #GoogleDoodle"
+      },
+      "vi": {
+        "query": null,
+        "hover_text": "Tôn vinh món Gumbo",
+        "share_text": "Tôn vinh món Gumbo! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": null,
+        "hover_text": "Sibungaza IGumbo",
+        "share_text": "Sibungaza IGumbo! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Gumbo",
+    "share_text": "Celebrating Gumbo! #GoogleDoodle"
+  },
+  {
     "name": "waitangi-day-2025",
     "title": "Waitangi Day 2025",
     "url": "//www.google.com/logos/doodles/2025/waitangi-day-2025-6753651837110591.2-l.png",
@@ -518,29 +1017,29 @@
         "share_text": "Black History Month 2025! #GoogleDoodle"
       },
       "af": {
-        "query": "Swartgeskiedenismaand",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Swartgeskiedenismaand 2025",
+        "share_text": "Swartgeskiedenismaand 2025! #GoogleDoodle"
       },
       "sq": {
-        "query": "Muaji i Historisë së Personave me Ngjyrë",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Muaji i Historisë së Personave me Ngjyrë, 2025",
+        "share_text": "Muaji i Historisë së Personave me Ngjyrë, 2025! #GoogleDoodle"
       },
       "am": {
-        "query": null,
+        "query": "ሀውስ ሙዚቃ",
         "hover_text": "የጥቁር ታሪክ ወር 2025",
         "share_text": "የጥቁር ታሪክ ወር 2025! #GoogleDoodle"
       },
       "ar": {
-        "query": "شهر الاحتفال بإنجازات ذوي البشرة السوداء",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "شهر الاحتفال بإنجازات ذوي البشرة السوداء 2025",
+        "share_text": "إنّه شهر الاحتفال بإنجازات ذوي البشرة السوداء لعام 2025. ‎#GoogleDoodle"
       },
       "hy": {
-        "query": "Աֆրոամերիկյան պատմության միամսյակ",
-        "hover_text": null,
-        "share_text": ""
+        "query": "Հաուս երաժշտություն",
+        "hover_text": "Աֆրոամերիկյան պատմության միամսյակ 2025",
+        "share_text": "Աֆրոամերիկյան պատմության միամսյակ 2025 #GoogleDoodle"
       },
       "az": {
         "query": "Haus musiqisi",
@@ -548,19 +1047,19 @@
         "share_text": "2025 Afrika-Amerika Tarixi Ayı! #GoogleDoodle"
       },
       "bn": {
-        "query": "কৃষ্ণাঙ্গদের ইতিহাস স্মরণ করার মাস",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "কৃষ্ণাঙ্গদের ইতিহাস স্মরণ করার মাস ২০২৫",
+        "share_text": "কৃষ্ণাঙ্গদের ইতিহাস স্মরণ করার মাস ২০২৫! #GoogleDoodle"
       },
       "eu": {
         "query": "House musika",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "2025eko Afroamerikarren Historiaren Hilabetea",
+        "share_text": "2025eko Afroamerikarren Historiaren Hilabetea #GoogleDoodle"
       },
       "be": {
-        "query": "Месяц афраамерыканскай гісторыі",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Месяц афраамерыканскай гісторыі 2025",
+        "share_text": "Месяц афраамерыканскай гісторыі 2025! #GoogleDoodle"
       },
       "bs": {
         "query": null,
@@ -568,104 +1067,104 @@
         "share_text": "Mjesec historije Afroamerikanaca 2025.! #GoogleDoodle"
       },
       "en-GB": {
-        "query": "Black History Month",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Black History Month 2025",
+        "share_text": "Black History Month 2025! #GoogleDoodle"
       },
       "bg": {
-        "query": "Месец на афроамериканската история",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Месец на афроамериканската история 2025 г.",
+        "share_text": "Месец на афроамериканската история 2025 г.! #GoogleDoodle"
       },
       "my": {
-        "query": null,
+        "query": "ဟောက်စ်ဂီတ",
         "hover_text": "၂၀၂၅ လူမည်းသမိုင်းလ",
         "share_text": "၂၀၂၅ လူမည်းသမိုင်းလ။ #GoogleDoodle"
       },
       "ca": {
-        "query": null,
+        "query": "Música house",
         "hover_text": "Mes de la Història Negra 2025",
         "share_text": "Mes de la Història Negra 2025 #GoogleDoodle"
       },
       "zh-HK": {
         "query": "浩室音樂",
-        "hover_text": "2025 黑人歷史月",
-        "share_text": "2025 黑人歷史月快樂！#GoogleDoodle"
+        "hover_text": "2025 年黑人歷史月",
+        "share_text": "2025 年黑人歷史月！#GoogleDoodle"
       },
       "zh-TW": {
-        "query": null,
+        "query": "浩室音樂",
         "hover_text": "2025 黑人歷史月",
         "share_text": "2025 黑人歷史月快樂！#GoogleDoodle"
       },
       "zh-CN": {
-        "query": "黑人历史月",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "2025 年黑人历史月",
+        "share_text": "2025 年黑人历史月！#GoogleDoodle"
       },
       "hr": {
-        "query": "Mjesec crnačke povijesti",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Mjesec crnačke povijesti 2025.",
+        "share_text": "Mjesec crnačke povijesti 2025.! #GoogleDoodle"
       },
       "cs": {
-        "query": "Měsíc černošské historie",
-        "hover_text": null,
-        "share_text": ""
+        "query": "House",
+        "hover_text": "Měsíc černošské historie 2025",
+        "share_text": "Slavíme Měsíc černošské historie 2025! #GoogleDoodle"
       },
       "da": {
-        "query": null,
+        "query": "Housemusik",
         "hover_text": "Black History Month 2025",
         "share_text": "Black History Month 2025 #GoogleDoodle"
       },
       "nl": {
         "query": "House",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Black History Month 2025",
+        "share_text": "Black History Month 2025! #GoogleDoodle"
       },
       "et": {
-        "query": null,
+        "query": "House-muusika",
         "hover_text": "Afroameerika ajaloo kuu 2025",
         "share_text": "Afroameerika ajaloo kuu 2025! #GoogleDoodle"
       },
       "fi": {
-        "query": "Black History Month",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Black History Month 2025",
+        "share_text": "Black History Month 2025 #GoogleDoodle"
       },
       "fr": {
-        "query": "Black History Month",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Black History Month 2025",
+        "share_text": "Black History Month 2025 ! #GoogleDoodle"
       },
       "fr-CA": {
-        "query": "Mois de l'histoire des Noirs",
-        "hover_text": null,
-        "share_text": ""
+        "query": "Musique house",
+        "hover_text": "Mois de l'histoire des Noirs 2025",
+        "share_text": "Mois de l'histoire des Noirs 2025! #GoogleDoodle"
       },
       "gl": {
         "query": "Música house",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Mes da Historia Negra 2025",
+        "share_text": "Mes da Historia Negra 2025! #GoogleDoodle"
       },
       "ka": {
-        "query": "შავკანიანთა ისტორიის თვე",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "შავკანიანთა ისტორიის თვე — 2025",
+        "share_text": "შავკანიანთა ისტორიის თვე — 2025! #GoogleDoodle"
       },
       "de": {
-        "query": "Black History Month",
-        "hover_text": null,
-        "share_text": ""
+        "query": "House",
+        "hover_text": "Black History Month 2025",
+        "share_text": "Black History Month 2025 #GoogleDoodle"
       },
       "el": {
-        "query": "Μήνας ιστορίας των μαύρων",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Μήνας ιστορίας των μαύρων 2025",
+        "share_text": "Μήνας ιστορίας των μαύρων 2025! #GoogleDoodle"
       },
       "gu": {
-        "query": "બ્લેક હિસ્ટરી મન્થ",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "બ્લેક હિસ્ટરી મન્થ 2025",
+        "share_text": "બ્લેક હિસ્ટરી મન્થ 2025! #GoogleDoodle"
       },
       "ht": {
         "query": null,
@@ -673,27 +1172,27 @@
         "share_text": ""
       },
       "iw": {
-        "query": "חודש ההיסטוריה האפרו-אמריקאית",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "חודש ההיסטוריה האפרו-אמריקאית 2025",
+        "share_text": "חודש ההיסטוריה האפרו-אמריקאית 2025 GoogleDoodle#"
       },
       "hi": {
-        "query": "ब्लैक हिस्ट्री मंथ",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "ब्लैक हिस्ट्री मंथ 2025",
+        "share_text": "ब्लैक हिस्ट्री मंथ 2025! #GoogleDoodle"
       },
       "hu": {
-        "query": null,
+        "query": "House zene",
         "hover_text": "A feketék történelmének emlékhónapja, 2025",
         "share_text": "A feketék történelmének emlékhónapja, 2025! #GoogleDoodle"
       },
       "is": {
-        "query": null,
+        "query": "Hústónlist",
         "hover_text": "Mánuður sögu svartra 2025",
         "share_text": "Mánuður sögu svartra 2025! #GoogleDoodle"
       },
       "id": {
-        "query": null,
+        "query": "Musik House",
         "hover_text": "Bulan Sejarah Kulit Hitam 2025",
         "share_text": "Bulan Sejarah Kulit Hitam 2025 #GoogleDoodle"
       },
@@ -703,34 +1202,34 @@
         "share_text": ""
       },
       "it": {
-        "query": null,
+        "query": "Musica house",
         "hover_text": "Mese della storia della comunità nera 2025",
         "share_text": "Mese della storia della comunità nera 2025! #GoogleDoodle"
       },
       "ja": {
-        "query": null,
+        "query": "ハウス ミュージック",
         "hover_text": "2025 年黒人歴史月間",
         "share_text": "2025 年黒人歴史月間！#GoogleDoodle"
       },
       "kn": {
-        "query": "ಬ್ಲ್ಯಾಕ್ ಹಿಸ್ಟರಿ ತಿಂಗಳು",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "ಬ್ಲ್ಯಾಕ್ ಹಿಸ್ಟರಿ ತಿಂಗಳು 2025",
+        "share_text": "ಬ್ಲ್ಯಾಕ್ ಹಿಸ್ಟರಿ ತಿಂಗಳು 2025! #GoogleDoodle"
       },
       "kk": {
-        "query": "Қара нәсілділер тарихының айы",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Қара нәсілділер тарихының айы – 2025",
+        "share_text": "Қара нәсілділер тарихының айы – 2025! #GoogleDoodle"
       },
       "km": {
-        "query": "ខែប្រវត្តិសាស្ត្រ​ជនជាតិ​ស្បែកខ្មៅ",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "ខែប្រវត្តិសាស្ត្រ​ជនជាតិ​ស្បែកខ្មៅឆ្នាំ 2025",
+        "share_text": "ខែប្រវត្តិសាស្ត្រ​ជនជាតិ​ស្បែកខ្មៅឆ្នាំ 2025! #GoogleDoodle"
       },
       "ko": {
-        "query": "흑인 역사의 달",
-        "hover_text": null,
-        "share_text": ""
+        "query": "하우스 음악",
+        "hover_text": "2025년 흑인 역사의 달",
+        "share_text": "2025년 흑인 역사의 달 기념 #GoogleDoodle"
       },
       "ky": {
         "query": null,
@@ -738,14 +1237,14 @@
         "share_text": "Афро-америкалыктардын тарыхына арналган ай — 2025! #GoogleDoodle"
       },
       "lo": {
-        "query": "ເດືອນປະຫວັດສາດຄົນຜິວດຳ",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "ເດືອນປະຫວັດສາດຄົນຜິວດຳ 2025",
+        "share_text": "ເດືອນປະຫວັດສາດຄົນຜິວດຳ 2025! #GoogleDoodle"
       },
       "es-419": {
-        "query": "Mes de la Historia Negra",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Mes de la Historia Negra 2025",
+        "share_text": "Mes de la Historia Negra 2025 #GoogleDoodle"
       },
       "lv": {
         "query": "Hausmūzika",
@@ -753,14 +1252,14 @@
         "share_text": "Afroamerikāņu vēstures mēnesis — 2025! #GoogleDoodle"
       },
       "lt": {
-        "query": "Juodaodžių istorijos mėnuo",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Juodaodžių istorijos mėnuo, 2025 m.",
+        "share_text": "Juodaodžių istorijos mėnuo, 2025 m.! #GoogleDoodle"
       },
       "mk": {
-        "query": "Месец на историјата на Афроамериканците",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Месец на историјата на Афроамериканците, 2025 г.",
+        "share_text": "Месец на историјата на Афроамериканците, 2025 г.! #GoogleDoodle"
       },
       "mg": {
         "query": null,
@@ -773,9 +1272,9 @@
         "share_text": "Bulan Sejarah Orang Kulit Hitam 2025! #GoogleDoodle"
       },
       "ml": {
-        "query": "ബ്ലാക്ക് ഹിസ്റ്ററി മാസം",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "ബ്ലാക്ക് ഹിസ്റ്ററി മാസം 2025",
+        "share_text": "ബ്ലാക്ക് ഹിസ്റ്ററി മാസം 2025! #GoogleDoodle"
       },
       "mt": {
         "query": null,
@@ -783,24 +1282,24 @@
         "share_text": ""
       },
       "mr": {
-        "query": null,
+        "query": "हाउस संगीत",
         "hover_text": "कृष्णवर्णीयांचा इतिहास महिना २०२५",
         "share_text": "कृष्णवर्णीयांचा इतिहास महिना २०२५! #GoogleDoodle"
       },
       "mn": {
-        "query": null,
+        "query": "Хаус хөгжим",
         "hover_text": "2025 оны Хар арьстны түүхийн сар",
         "share_text": "2025 оны Хар арьстны түүхийн сар! #GoogleDoodle"
       },
       "ne": {
-        "query": "ब्ल्याक हिस्ट्री मन्थ",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "ब्ल्याक हिस्ट्री मन्थ २०२५",
+        "share_text": "ब्ल्याक हिस्ट्री मन्थ २०२५! #GoogleDoodle"
       },
       "no": {
-        "query": "Black History Month",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Black History Month 2025",
+        "share_text": "Black History Month 2025! #GoogleDoodle"
       },
       "nn": {
         "query": null,
@@ -823,19 +1322,19 @@
         "share_text": ""
       },
       "fa": {
-        "query": "ماه تاریخ سیاه‌پوستان",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "ماه تاریخ سیاه‌پوستان ۲۰۲۵",
+        "share_text": "ماه تاریخ سیاه‌پوستان ۲۰۲۵! ‎#GoogleDoodle"
       },
       "pl": {
-        "query": "Miesiąc Czarnej Historii",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Miesiąc Czarnej Historii 2025",
+        "share_text": "Miesiąc Czarnej Historii 2025 #GoogleDoodle"
       },
       "pt-BR": {
-        "query": "Mês da História Negra",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Mês da História Negra 2025",
+        "share_text": "Mês da História Negra 2025! #GoogleDoodle"
       },
       "pt-PT": {
         "query": "Música house",
@@ -843,14 +1342,14 @@
         "share_text": "Mês da História Negra de 2025! #GoogleDoodle"
       },
       "pa": {
-        "query": "ਬਲੈਕ ਹਿਸਟਰੀ ਵਾਲਾ ਮਹੀਨਾ",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "ਬਲੈਕ ਹਿਸਟਰੀ ਵਾਲਾ ਮਹੀਨਾ 2025",
+        "share_text": "ਬਲੈਕ ਹਿਸਟਰੀ ਵਾਲਾ ਮਹੀਨਾ 2025! #GoogleDoodle"
       },
       "ro": {
-        "query": "Luna dedicată istoriei afro-americane",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Luna dedicată istoriei afro-americane 2025",
+        "share_text": "Luna dedicată istoriei afro-americane 2025! #GoogleDoodle"
       },
       "ro-MD": {
         "query": null,
@@ -858,17 +1357,17 @@
         "share_text": ""
       },
       "ru": {
-        "query": "месяц афроамериканской истории",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Месяц афроамериканской истории – 2025",
+        "share_text": "Месяц афроамериканской истории – 2025 #GoogleDoodle"
       },
       "sr": {
-        "query": null,
+        "query": "Хаус музика",
         "hover_text": "Месец црначке историје 2025.",
         "share_text": "Месец црначке историје 2025! #GoogleDoodle"
       },
       "sr-Latn": {
-        "query": null,
+        "query": "Haus muzika",
         "hover_text": "Mesec crnačke istorije 2025.",
         "share_text": "Mesec crnačke istorije 2025! #GoogleDoodle"
       },
@@ -888,19 +1387,19 @@
         "share_text": ""
       },
       "si": {
-        "query": "කළු ඉතිහාස මාසය",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "කළු ඉතිහාස මාසය 2025",
+        "share_text": "කළු ඉතිහාස මාසය 2025! #GoogleDoodle"
       },
       "sk": {
-        "query": "Mesiac černošskej histórie",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Mesiac černošskej histórie 2025",
+        "share_text": "Mesiac černošskej histórie 2025. #GoogleDoodle"
       },
       "sl": {
-        "query": "Mesec črnske zgodovine",
-        "hover_text": null,
-        "share_text": ""
+        "query": "glasbena zvrst House",
+        "hover_text": "Mesec črnske zgodovine 2025",
+        "share_text": "Mesec črnske zgodovine 2025! #GoogleDoodle"
       },
       "so": {
         "query": null,
@@ -914,18 +1413,18 @@
       },
       "es": {
         "query": "Música house",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "Mes de la Historia Negra 2025",
+        "share_text": "Mes de la Historia Negra 2025 #GoogleDoodle"
       },
       "sw": {
-        "query": null,
+        "query": "Muziki wa Mtindo wa House",
         "hover_text": "Mwezi wa Historia ya Waamerika wenye Asili ya Afrika 2025",
         "share_text": "Mwezi wa Historia ya Waamerika wenye Asili ya Afrika 2025! #GoogleDoodle"
       },
       "sv": {
-        "query": "Black History Month",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Black History Month 2025",
+        "share_text": "Black History Month 2025 #GoogleDoodle"
       },
       "tg": {
         "query": null,
@@ -933,19 +1432,19 @@
         "share_text": ""
       },
       "ta": {
-        "query": "கருப்பின வரலாறு மாதம்",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "கருப்பின வரலாறு மாதம் 2025",
+        "share_text": "கருப்பின வரலாறு மாதம் 2025! #GoogleDoodle"
       },
       "te": {
-        "query": "బ్లాక్ హిస్టరీ నెల",
-        "hover_text": null,
-        "share_text": ""
+        "query": "హౌస్ మ్యూజిక్",
+        "hover_text": "బ్లాక్ హిస్టరీ నెల 2025",
+        "share_text": "బ్లాక్ హిస్టరీ నెల 2025! #GoogleDoodle"
       },
       "th": {
         "query": "ดนตรีเฮาส์",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "เดือนประวัติศาสตร์คนผิวดำปี 2025",
+        "share_text": "เดือนประวัติศาสตร์คนผิวดำปี 2025! #GoogleDoodle"
       },
       "tn": {
         "query": null,
@@ -953,9 +1452,9 @@
         "share_text": ""
       },
       "tr": {
-        "query": "Siyahi Amerikalıların Tarihini Anma Ayı",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "2025 Siyahi Amerikalıların Tarihini Anma Ayı",
+        "share_text": "2025 Siyahi Amerikalıların Tarihini Anma Ayı #GoogleDoodle"
       },
       "tk": {
         "query": null,
@@ -969,8 +1468,8 @@
       },
       "ur": {
         "query": "ہاؤس موسیقی",
-        "hover_text": null,
-        "share_text": ""
+        "hover_text": "بلیک ہسٹری کا مہینہ 2025",
+        "share_text": "بلیک ہسٹری کا مہینہ 2025! GoogleDoodle#"
       },
       "uz": {
         "query": "Haus musiqa",
@@ -988,9 +1487,9 @@
         "share_text": ""
       },
       "zu": {
-        "query": "Inyanga Yomlando Wabansundu",
-        "hover_text": null,
-        "share_text": ""
+        "query": null,
+        "hover_text": "Inyanga Yomlando Wabansundu yango-2025",
+        "share_text": "Inyanga Yomlando Wabansundu yango-2025! #GoogleDoodle"
       }
     },
     "translated_blog_posts": {},
