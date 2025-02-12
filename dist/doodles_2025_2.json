@@ -1,5 +1,504 @@
 [
   {
+    "name": "lantern-festival-2025",
+    "title": "Lantern Festival 2025",
+    "url": "//www.google.com/logos/doodles/2025/lantern-festival-2025-6753651837110608.3-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/c2zzPI2Izz4IAWEs2iTqiQOB1qU3QsExUH8ah4PATWfMaYbATEw3SNk0runV5UrE5FSDvyYdLdwewBRNbgmNLpe-9dhZVmjEVxo7yl1xdKAmd6Wq85pyVQ",
+    "high_res_url": "//www.google.com/logos/doodles/2025/lantern-festival-2025-6753651837110608.2-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2025,
+      2,
+      12
+    ],
+    "translations": {
+      "en": {
+        "query": "lantern festival",
+        "hover_text": "Lantern Festival 2025",
+        "share_text": "Lantern Festival 2025! #GoogleDoodle"
+      },
+      "af": {
+        "query": "lanternfees",
+        "hover_text": "Lanternfees 2025",
+        "share_text": "Lanternfees 2025! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "festivali i fanarëve",
+        "hover_text": "Festivali i Fanarëve, 2025",
+        "share_text": "Festivali i Fanarëve, 2025! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የፋኖስ ፌስቲቫል",
+        "hover_text": "የፋኖስ ፌስቲቫል 2025",
+        "share_text": "የፋኖስ ፌስቲቫል 2025! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "مهرجان الفوانيس",
+        "hover_text": "مهرجان الفوانيس 2025",
+        "share_text": "نحتفل اليوم بمهرجان الفوانيس 2025. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "լապտերների տոն",
+        "hover_text": "Լապտերների տոն 2025",
+        "share_text": "Լապտերների տոն 2025 #GoogleDoodle"
+      },
+      "az": {
+        "query": "fənər festivalı",
+        "hover_text": "2025 Fənər Festivalı",
+        "share_text": "2025 Fənər Festivalı! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ফানুস উৎসব",
+        "hover_text": "ফানুস উৎসব ২০২৫",
+        "share_text": "ফানুস উৎসব ২০২৫! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "argiontzien jaialdia",
+        "hover_text": "2025eko argiontzien jaialdia",
+        "share_text": "2025eko argiontzien jaialdia #GoogleDoodle"
+      },
+      "be": {
+        "query": "свята ліхтароў",
+        "hover_text": "Свята ліхтароў 2025",
+        "share_text": "Свята ліхтароў 2025! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "festival lampiona",
+        "hover_text": "Festival lampiona 2025.",
+        "share_text": "Festival lampiona 2025! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "lantern festival",
+        "hover_text": "Lantern Festival 2025",
+        "share_text": "Lantern Festival 2025 #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Празник на фенерите",
+        "hover_text": "Празник на фенерите 2025 г.",
+        "share_text": "Празник на фенерите 2025 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "မီးပုံးပွဲတော်",
+        "hover_text": "၂၀၂၅ မီးပုံးပွဲတော်",
+        "share_text": "၂၀၂၅ မီးပုံးပွဲတော်။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "festival dels fanals",
+        "hover_text": "Festival dels Fanals 2025",
+        "share_text": "Festival dels Fanals 2025 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "元宵節",
+        "hover_text": "2025 年元宵節",
+        "share_text": "2025 年元宵節！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "元宵節",
+        "hover_text": "2025 元宵節",
+        "share_text": "2025 元宵節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "元宵节",
+        "hover_text": "2025 年元宵节",
+        "share_text": "2025 年元宵节！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "festival lampiona",
+        "hover_text": "Festival lampiona 2025.",
+        "share_text": "Festival lampiona 2025.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "svátek lampionů",
+        "hover_text": "Svátek lampionů 2025",
+        "share_text": "Slavíme svátek lampionů 2025! #GoogleDoodle"
+      },
+      "da": {
+        "query": "lanternefestival",
+        "hover_text": "Lanternefestival 2025",
+        "share_text": "Lanternefestival 2025 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "lantaarnfestival",
+        "hover_text": "Lantaarnfestival 2025",
+        "share_text": "Lantaarnfestival 2025! #GoogleDoodle"
+      },
+      "et": {
+        "query": "laternafestival",
+        "hover_text": "2025. aasta laternafestival",
+        "share_text": "2025. aasta laternafestival! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "lyhtyjuhla",
+        "hover_text": "Lyhtyjuhla 2025",
+        "share_text": "Lyhtyjuhla 2025 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "fête des lanternes",
+        "hover_text": "Fête des lanternes 2025",
+        "share_text": "Fête des lanternes 2025 ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "fête des lanternes",
+        "hover_text": "Fête des lanternes 2025",
+        "share_text": "Fête des lanternes 2025! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "festival dos farois",
+        "hover_text": "Festival dos Farois 2025",
+        "share_text": "Festival dos Farois 2025! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ფარნების ფესტივალი",
+        "hover_text": "ფარნების ფესტივალი — 2025",
+        "share_text": "ფარნების ფესტივალი — 2025! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Laternenfest",
+        "hover_text": "Laternenfest 2025",
+        "share_text": "Laternenfest 2025 #GoogleDoodle"
+      },
+      "el": {
+        "query": "γιορτή των φαναριών",
+        "hover_text": "Γιορτή των Φαναριών 2025",
+        "share_text": "Γιορτή των Φαναριών 2025! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "કંદીલ મહોત્સવ",
+        "hover_text": "કંદીલ મહોત્સવ 2025",
+        "share_text": "કંદીલ મહોત્સવ 2025! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "פסטיבל הפנסים",
+        "hover_text": "פסטיבל הפנסים 2025",
+        "share_text": "פסטיבל הפנסים 2025 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "लैंटर्न फ़ेस्टिवल",
+        "hover_text": "लैंटर्न फ़ेस्टिवल 2025",
+        "share_text": "लैंटर्न फ़ेस्टिवल 2025! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Lampionfesztivál",
+        "hover_text": "Lampionfesztivál, 2025",
+        "share_text": "Lampionfesztivál, 2025! #GoogleDoodle"
+      },
+      "is": {
+        "query": "ljóskerahátíð",
+        "hover_text": "Ljóskerahátíð 2025",
+        "share_text": "Ljóskerahátíð 2025! #GoogleDoodle"
+      },
+      "id": {
+        "query": "festival lampion",
+        "hover_text": "Festival Lampion 2025",
+        "share_text": "Festival Lampion 2025 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "festa delle lanterne",
+        "hover_text": "Festa delle lanterne 2025",
+        "share_text": "Festa delle lanterne 2025! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ランタン フェスティバル",
+        "hover_text": "2025 年ランタン フェスティバル",
+        "share_text": "2025 年ランタン フェスティバル#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಲ್ಯಾಂಟರ್ನ್ ಉತ್ಸವ",
+        "hover_text": "ಲ್ಯಾಂಟರ್ನ್ ಉತ್ಸವ 2025",
+        "share_text": "ಲ್ಯಾಂಟರ್ನ್ ಉತ್ಸವ 2025! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "шамдар фестивалі",
+        "hover_text": "Шамдар фестивалі – 2025",
+        "share_text": "2025 жылғы Шамдар фестивалі құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ពិធីបុណ្យ​បង្ហោះ​គោម",
+        "hover_text": "ពិធីបុណ្យ​បង្ហោះ​គោមឆ្នាំ 2025",
+        "share_text": "ពិធីបុណ្យ​បង្ហោះ​គោមឆ្នាំ 2025! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "2025년 등불 축제",
+        "hover_text": "2025년 등불 축제",
+        "share_text": "2025년 등불 축제 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Кытай шамдарынын фестивалы",
+        "hover_text": "Кытай шамдарынын фестивалы – 2025",
+        "share_text": "Кытай шамдарынын фестивалы – 2025! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ເທດສະການໂຄມໄຟ",
+        "hover_text": "ເທດສະການໂຄມໄຟປີ 2025",
+        "share_text": "ເທດສະການໂຄມໄຟປີ 2025! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "festival de los faroles",
+        "hover_text": "Festival de los Faroles 2025",
+        "share_text": "Festival de los Faroles 2025 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "laternu festivāls",
+        "hover_text": "Laternu festivāls — 2025",
+        "share_text": "Laternu festivāls — 2025 #GoogleDoodle"
+      },
+      "lt": {
+        "query": "žibintų festivalis",
+        "hover_text": "Žibintų festivalis, 2025 m.",
+        "share_text": "Žibintų festivalis, 2025 m.! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "фестивал на фенерите",
+        "hover_text": "Фестивал на фенерите, 2025 г.",
+        "share_text": "Фестивал на фенерите, 2025 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "pesta tanglung",
+        "hover_text": "Pesta Tanglung 2025",
+        "share_text": "Pesta Tanglung 2025! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ലാന്റേൺ ഫെസ്റ്റിവൽ",
+        "hover_text": "ലാന്റേൺ ഫെസ്റ്റിവൽ 2025",
+        "share_text": "ലാന്റേൺ ഫെസ്റ്റിവൽ 2025! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "कंदील महोत्सव",
+        "hover_text": "कंदील महोत्सव २०२५",
+        "share_text": "कंदील महोत्सव २०२५! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "дэнлүүний баяр",
+        "hover_text": "2025 оны Дэнлүүний баяр",
+        "share_text": "2025 оны Дэнлүүний баяр! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "ल्यान्टर्न महोत्सव",
+        "hover_text": "ल्यान्टर्न महोत्सव २०२५",
+        "share_text": "ल्यान्टर्न महोत्सव २०२५! #GoogleDoodle"
+      },
+      "no": {
+        "query": "lanternefestivalen",
+        "hover_text": "Lanternefestivalen 2025",
+        "share_text": "Lanternefestivalen 2025! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "جشن فانوس",
+        "hover_text": "جشن فانوس ۲۰۲۵",
+        "share_text": "جشن فانوس ۲۰۲۵! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "święto lampionów",
+        "hover_text": "Święto Lampionów 2025",
+        "share_text": "Święto Lampionów 2025 #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "festival das lanternas",
+        "hover_text": "Festival das Lanternas 2025",
+        "share_text": "Festival das Lanternas 2025 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "festival das lanternas",
+        "hover_text": "Festival das Lanternas de 2025",
+        "share_text": "Festival das Lanternas de 2025! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਲਾਲਟੈਣ ਤਿਉਹਾਰ",
+        "hover_text": "ਲਾਲਟੈਣ ਤਿਉਹਾਰ 2025",
+        "share_text": "ਲਾਲਟੈਣ ਤਿਉਹਾਰ 2025! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "festivalul lampioanelor",
+        "hover_text": "Festivalul Lampioanelor 2025",
+        "share_text": "Festivalul Lampioanelor 2025! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "праздник фонарей",
+        "hover_text": "Праздник фонарей – 2025",
+        "share_text": "Праздник фонарей – 2025 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "фестивал лампиона",
+        "hover_text": "Фестивал лампиона 2025.",
+        "share_text": "Фестивал лампиона 2025! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "festival lampiona",
+        "hover_text": "Festival lampiona 2025.",
+        "share_text": "Festival lampiona 2025! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ලන්තෑරුම් උත්සවය",
+        "hover_text": "ලන්තෑරුම් උත්සවය 2025",
+        "share_text": "ලන්තෑරුම් උත්සවය 2025! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "festival lampiónov",
+        "hover_text": "Festival lampiónov 2025",
+        "share_text": "Festival lampiónov 2025. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "festival papirnatih svetilk",
+        "hover_text": "Festival papirnatih svetilk 2025",
+        "share_text": "Festival papirnatih svetilk 2025. #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "festival de los farolillos",
+        "hover_text": "Festival de los Farolillos 2025",
+        "share_text": "Festival de los Farolillos 2025 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "tamasha la kandili",
+        "hover_text": "Tamasha la Kandili 2025",
+        "share_text": "Tamasha la Kandili 2025! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "lyktfestivalen",
+        "hover_text": "Lyktfestivalen 2025",
+        "share_text": "Lyktfestivalen 2025 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "lantern festival",
+        "hover_text": "விளக்குத் திருவிழா 2025",
+        "share_text": "விளக்குத் திருவிழா 2025! #GoogleDoodle"
+      },
+      "te": {
+        "query": "లాంతరు పండుగ",
+        "hover_text": "లాంతరు పండుగ 2025",
+        "share_text": "లాంతరు పండుగ 2025! #GoogleDoodle"
+      },
+      "th": {
+        "query": "เทศกาลโคมไฟ",
+        "hover_text": "เทศกาลโคมไฟปี 2025",
+        "share_text": "เทศกาลโคมไฟปี 2025! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "fener festivali",
+        "hover_text": "2025 Fener Festivali",
+        "share_text": "2025 Fener Festivali #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Свято ліхтарів",
+        "hover_text": "Свято ліхтарів у 2025 році",
+        "share_text": "Свято ліхтарів у 2025 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "لالٹین فیسٹیول",
+        "hover_text": "لالٹین فیسٹیول 2025",
+        "share_text": "لالٹین فیسٹیول 2025! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "fonarlar festivali",
+        "hover_text": "Fonarlar festivali 2025",
+        "share_text": "Fonarlar festivali 2025! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "lễ hội đèn lồng",
+        "hover_text": "Lễ hội Đèn lồng năm 2025",
+        "share_text": "Lễ hội Đèn lồng năm 2025! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "umkhosi welantern",
+        "hover_text": "Umkhosi WeLantern Wango-2025",
+        "share_text": "Umkhosi WeLantern Wango-2025! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "lantern festival",
+    "share_text": "Lantern Festival 2025! #GoogleDoodle"
+  },
+  {
     "name": "mothers-day-2025-feb-9",
     "title": "Mother's Day 2025 (Feb 9)",
     "url": "//www.google.com/logos/doodles/2025/mothers-day-2025-feb-9-6753651837110607-l.png",
@@ -523,12 +1022,12 @@
         "share_text": "Ter viering van Gumbo! #GoogleDoodle"
       },
       "sq": {
-        "query": null,
-        "hover_text": "Festojmë me gambo",
-        "share_text": "Festojmë me gambo! #GoogleDoodle"
+        "query": "Gumbo",
+        "hover_text": "Festojmë me gumbo",
+        "share_text": "Festojmë me gumbo! #GoogleDoodle"
       },
       "am": {
-        "query": null,
+        "query": "ጉምቦ",
         "hover_text": "ገምቦን በማክበር ላይ",
         "share_text": "ገምቦን በማክበር ላይ! #GoogleDoodle"
       },
@@ -553,7 +1052,7 @@
         "share_text": "গাম্বোর ঐতিহ্য উদযাপন করা হচ্ছে! #GoogleDoodle"
       },
       "eu": {
-        "query": null,
+        "query": "Gumbo",
         "hover_text": "Gumbo-aren omenez",
         "share_text": "Gumbo-aren omenez #GoogleDoodle"
       },
@@ -563,7 +1062,7 @@
         "share_text": "Ушаноўваем гамба! #GoogleDoodle"
       },
       "bs": {
-        "query": null,
+        "query": "Gumbo",
         "hover_text": "Slavimo gumbo",
         "share_text": "Slavimo gumbo! #GoogleDoodle"
       },
@@ -578,7 +1077,7 @@
         "share_text": "Честване на гъмбо! #GoogleDoodle"
       },
       "my": {
-        "query": null,
+        "query": "ဂမ်ဘိုဟင်းလျာ",
         "hover_text": "ဂမ်ဘိုဟင်းလျာကို ဆင်နွှဲခြင်း",
         "share_text": "ဂမ်ဘိုဟင်းလျာကို ဆင်နွှဲခြင်း။ #GoogleDoodle"
       },
@@ -588,12 +1087,12 @@
         "share_text": "Homenatge al gumbo #GoogleDoodle"
       },
       "zh-HK": {
-        "query": null,
+        "query": "秋葵濃湯",
         "hover_text": "品嚐美味的秋葵濃湯",
         "share_text": "品嚐美味的秋葵濃湯！#GoogleDoodle"
       },
       "zh-TW": {
-        "query": null,
+        "query": "秋葵濃湯",
         "hover_text": "品嚐美味秋葵濃湯",
         "share_text": "品嚐美味秋葵濃湯！#GoogleDoodle"
       },
@@ -608,7 +1107,7 @@
         "share_text": "Slavimo gumbo! #GoogleDoodle"
       },
       "cs": {
-        "query": null,
+        "query": "Gumbo",
         "hover_text": "Oslavujeme pokrm gumbo",
         "share_text": "Oslavujeme pokrm gumbo! #GoogleDoodle"
       },
@@ -623,7 +1122,7 @@
         "share_text": "Doodle ter ere van gumbo! #GoogleDoodle"
       },
       "et": {
-        "query": null,
+        "query": "Gumbo",
         "hover_text": "Tunneme rõõmu gumbost",
         "share_text": "Tunneme rõõmu gumbost! #GoogleDoodle"
       },
@@ -643,7 +1142,7 @@
         "share_text": "Célébration du gombo! #GoogleDoodle"
       },
       "gl": {
-        "query": null,
+        "query": "Gumbo",
         "hover_text": "Homenaxe ao gumbo",
         "share_text": "Homenaxe ao gumbo! #GoogleDoodle"
       },
@@ -688,12 +1187,12 @@
         "share_text": "A gumbó ünneplése! #GoogleDoodle"
       },
       "is": {
-        "query": null,
+        "query": "Gumbo",
         "hover_text": "Við fögnum Gumbo",
         "share_text": "Við fögnum Gumbo! #GoogleDoodle"
       },
       "id": {
-        "query": null,
+        "query": "Gumbo",
         "hover_text": "Merayakan Gumbo",
         "share_text": "Merayakan Gumbo #GoogleDoodle"
       },
@@ -718,7 +1217,7 @@
         "share_text": "ಗಂಬೋವನ್ನು ಸಂಭ್ರಮಿಸಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
       },
       "kk": {
-        "query": null,
+        "query": "Гамбо",
         "hover_text": "Гамбо күні",
         "share_text": "Гамбо күні құтты болсын! #GoogleDoodle"
       },
@@ -728,7 +1227,7 @@
         "share_text": "អបអរទិវារំលឹកដល់ហ្កាំបូ! #GoogleDoodle"
       },
       "ko": {
-        "query": null,
+        "query": "검보",
         "hover_text": "검보 기념",
         "share_text": "검보 기념 #GoogleDoodle"
       },
@@ -753,7 +1252,7 @@
         "share_text": "Gambo godināšana! #GoogleDoodle"
       },
       "lt": {
-        "query": null,
+        "query": "Gumbo troškinys",
         "hover_text": "Gumbo troškinio minėjimas",
         "share_text": "Gumbo troškinio minėjimas! #GoogleDoodle"
       },
@@ -783,17 +1282,17 @@
         "share_text": ""
       },
       "mr": {
-        "query": null,
+        "query": "गंबो",
         "hover_text": "गंबोच्या सन्मानार्थ",
         "share_text": "गंबोच्या सन्मानार्थ! #GoogleDoodle"
       },
       "mn": {
-        "query": null,
+        "query": "Гамбо",
         "hover_text": "Гамбог алдаршуулж байна",
         "share_text": "Гамбог алдаршуулж байна! #GoogleDoodle"
       },
       "ne": {
-        "query": null,
+        "query": "गुम्बो",
         "hover_text": "गुम्बो महोत्सव",
         "share_text": "गुम्बो महोत्सव! #GoogleDoodle"
       },
@@ -833,7 +1332,7 @@
         "share_text": "Delektujemy się gumbo #GoogleDoodle"
       },
       "pt-BR": {
-        "query": null,
+        "query": "Gumbo",
         "hover_text": "Viva o gumbo, ensopado tradicional da Louisiana",
         "share_text": "Viva o gumbo, ensopado tradicional da Louisiana! #GoogleDoodle"
       },
@@ -863,12 +1362,12 @@
         "share_text": "День гамбо #GoogleDoodle"
       },
       "sr": {
-        "query": null,
+        "query": "Гамбо",
         "hover_text": "Славимо гамбо",
         "share_text": "Славимо гамбо! #GoogleDoodle"
       },
       "sr-Latn": {
-        "query": null,
+        "query": "Gambo",
         "hover_text": "Slavimo gambo",
         "share_text": "Slavimo gambo! #GoogleDoodle"
       },
@@ -893,7 +1392,7 @@
         "share_text": "ගම්බෝ සැමරීම! #GoogleDoodle"
       },
       "sk": {
-        "query": null,
+        "query": "Gumbo",
         "hover_text": "Oslavujeme gumbo",
         "share_text": "Oslavujeme gumbo. #GoogleDoodle"
       },
@@ -943,7 +1442,7 @@
         "share_text": "గంబో వేడుకలు! #GoogleDoodle"
       },
       "th": {
-        "query": null,
+        "query": "กัมโบ",
         "hover_text": "วันเฉลิมฉลองกัมโบ",
         "share_text": "วันเฉลิมฉลองกัมโบ! #GoogleDoodle"
       },
@@ -963,7 +1462,7 @@
         "share_text": ""
       },
       "uk": {
-        "query": null,
+        "query": "Гамбо",
         "hover_text": "Присвячено гамбо",
         "share_text": "Присвячено гамбо! #GoogleDoodle"
       },
@@ -978,7 +1477,7 @@
         "share_text": "Gumbo kuni! #GoogleDoodle"
       },
       "vi": {
-        "query": null,
+        "query": "Món gumbo",
         "hover_text": "Tôn vinh món Gumbo",
         "share_text": "Tôn vinh món Gumbo! #GoogleDoodle"
       },
