@@ -1017,7 +1017,7 @@
         "share_text": "Celebrating Gumbo! #GoogleDoodle"
       },
       "af": {
-        "query": null,
+        "query": "Gumbo",
         "hover_text": "Ter viering van Gumbo",
         "share_text": "Ter viering van Gumbo! #GoogleDoodle"
       },
@@ -1032,22 +1032,22 @@
         "share_text": "ገምቦን በማክበር ላይ! #GoogleDoodle"
       },
       "ar": {
-        "query": null,
+        "query": "حساء البامية (غومبو)",
         "hover_text": "نحتفل اليوم بحساء البامية (غومبو)",
         "share_text": "نحتفل اليوم بحساء البامية (غومبو). ‎#GoogleDoodle"
       },
       "hy": {
-        "query": null,
+        "query": "Գամբո",
         "hover_text": "Տոնենք գամբոյի օրը",
         "share_text": "Տոնենք գամբոյի օրը #GoogleDoodle"
       },
       "az": {
-        "query": null,
+        "query": "Gumbo",
         "hover_text": "Gumbo günü",
         "share_text": "Gumbo günü! #GoogleDoodle"
       },
       "bn": {
-        "query": null,
+        "query": "গাম্বো",
         "hover_text": "গাম্বোর ঐতিহ্য উদযাপন করা হচ্ছে",
         "share_text": "গাম্বোর ঐতিহ্য উদযাপন করা হচ্ছে! #GoogleDoodle"
       },
@@ -1067,12 +1067,12 @@
         "share_text": "Slavimo gumbo! #GoogleDoodle"
       },
       "en-GB": {
-        "query": null,
+        "query": "Gumbo",
         "hover_text": "Celebrating Gumbo",
         "share_text": "Celebrating Gumbo! #GoogleDoodle"
       },
       "bg": {
-        "query": null,
+        "query": "Гъмбо",
         "hover_text": "Честване на гъмбо",
         "share_text": "Честване на гъмбо! #GoogleDoodle"
       },
@@ -1082,7 +1082,7 @@
         "share_text": "ဂမ်ဘိုဟင်းလျာကို ဆင်နွှဲခြင်း။ #GoogleDoodle"
       },
       "ca": {
-        "query": null,
+        "query": "Gumbo",
         "hover_text": "Homenatge al gumbo",
         "share_text": "Homenatge al gumbo #GoogleDoodle"
       },
@@ -1097,12 +1097,12 @@
         "share_text": "品嚐美味秋葵濃湯！#GoogleDoodle"
       },
       "zh-CN": {
-        "query": null,
+        "query": "秋葵汤",
         "hover_text": "美味秋葵汤",
         "share_text": "美味秋葵汤！#GoogleDoodle"
       },
       "hr": {
-        "query": null,
+        "query": "Gumbo",
         "hover_text": "Slavimo Gumbo",
         "share_text": "Slavimo gumbo! #GoogleDoodle"
       },
@@ -1112,7 +1112,7 @@
         "share_text": "Oslavujeme pokrm gumbo! #GoogleDoodle"
       },
       "da": {
-        "query": null,
+        "query": "Gumbo",
         "hover_text": "En hyldest til gumbo",
         "share_text": "En hyldest til gumbo #GoogleDoodle"
       },
@@ -1127,17 +1127,17 @@
         "share_text": "Tunneme rõõmu gumbost! #GoogleDoodle"
       },
       "fi": {
-        "query": null,
+        "query": "Gumbo",
         "hover_text": "Gumbo",
         "share_text": "Gumbo #GoogleDoodle"
       },
       "fr": {
-        "query": null,
+        "query": "Gombo",
         "hover_text": "Le gombo à l'honneur",
         "share_text": "Le gombo à l'honneur ! #GoogleDoodle"
       },
       "fr-CA": {
-        "query": null,
+        "query": "Gombo",
         "hover_text": "Célébration du gombo",
         "share_text": "Célébration du gombo! #GoogleDoodle"
       },
@@ -1147,22 +1147,22 @@
         "share_text": "Homenaxe ao gumbo! #GoogleDoodle"
       },
       "ka": {
-        "query": null,
+        "query": "გუმბო",
         "hover_text": "ეძღვნება გუმბოს",
         "share_text": "ეძღვნება გუმბოს! #GoogleDoodle"
       },
       "de": {
-        "query": null,
+        "query": "Gumbo",
         "hover_text": "Wir feiern Gumbo",
         "share_text": "Wir feiern Gumbo #GoogleDoodle"
       },
       "el": {
-        "query": null,
+        "query": "Gumbo",
         "hover_text": "Τιμούμε το Gumbo",
         "share_text": "Τιμούμε το Gumbo! #GoogleDoodle"
       },
       "gu": {
-        "query": null,
+        "query": "ગમ્બો",
         "hover_text": "ગમ્બોની ઉજવણી કરી રહ્યાં છીએ",
         "share_text": "ગમ્બોની ઉજવણી કરી રહ્યાં છીએ! #GoogleDoodle"
       },
@@ -1172,17 +1172,17 @@
         "share_text": ""
       },
       "iw": {
-        "query": null,
+        "query": "תבשיל גמבו",
         "hover_text": "מחווה לגמבו",
         "share_text": "מחווה לגמבו GoogleDoodle#"
       },
       "hi": {
-        "query": null,
+        "query": "गम्बो",
         "hover_text": "गम्बो का जश्न",
         "share_text": "गम्बो का जश्न! #GoogleDoodle"
       },
       "hu": {
-        "query": null,
+        "query": "Gumbó",
         "hover_text": "A gumbó ünneplése",
         "share_text": "A gumbó ünneplése! #GoogleDoodle"
       },
@@ -1202,17 +1202,17 @@
         "share_text": ""
       },
       "it": {
-        "query": null,
+        "query": "Gumbo",
         "hover_text": "Un omaggio al gumbo",
         "share_text": "Un omaggio al gumbo! #GoogleDoodle"
       },
       "ja": {
-        "query": null,
+        "query": "ガンボ",
         "hover_text": "ガンボを称えて",
         "share_text": "ガンボを称えて！#GoogleDoodle"
       },
       "kn": {
-        "query": null,
+        "query": "ಗಂಬೋ",
         "hover_text": "ಗಂಬೋವನ್ನು ಸಂಭ್ರಮಿಸಲಾಗುತ್ತಿದೆ",
         "share_text": "ಗಂಬೋವನ್ನು ಸಂಭ್ರಮಿಸಲಾಗುತ್ತಿದೆ! #GoogleDoodle"
       },
@@ -1222,7 +1222,7 @@
         "share_text": "Гамбо күні құтты болсын! #GoogleDoodle"
       },
       "km": {
-        "query": null,
+        "query": "ហ្កាំបូ",
         "hover_text": "អបអរទិវារំលឹកដល់ហ្កាំបូ",
         "share_text": "អបអរទិវារំលឹកដល់ហ្កាំបូ! #GoogleDoodle"
       },
@@ -1232,17 +1232,17 @@
         "share_text": "검보 기념 #GoogleDoodle"
       },
       "ky": {
-        "query": null,
+        "query": "Гамбо",
         "hover_text": "Гамбо күнүн майрамдоо",
         "share_text": "Гамбо күнүн майрамдоо! #GoogleDoodle"
       },
       "lo": {
-        "query": null,
+        "query": "ກຳໂບ",
         "hover_text": "ວັນສະເຫຼີມສະຫຼອງກຳໂບ",
         "share_text": "ວັນສະເຫຼີມສະຫຼອງກຳໂບ! #GoogleDoodle"
       },
       "es-419": {
-        "query": null,
+        "query": "Gumbo",
         "hover_text": "Celebrando el gumbo",
         "share_text": "Celebrando el gumbo #GoogleDoodle"
       },
@@ -1257,7 +1257,7 @@
         "share_text": "Gumbo troškinio minėjimas! #GoogleDoodle"
       },
       "mk": {
-        "query": null,
+        "query": "Gumbo",
         "hover_text": "Во чест на Gumbo",
         "share_text": "Во чест на Gumbo! #GoogleDoodle"
       },
@@ -1272,7 +1272,7 @@
         "share_text": "Meraikan Gumbo! #GoogleDoodle"
       },
       "ml": {
-        "query": null,
+        "query": "ഗമ്പോ",
         "hover_text": "ഗമ്പോ ആഘോഷിക്കുന്നു",
         "share_text": "ഗമ്പോ ആഘോഷിക്കുന്നു! #GoogleDoodle"
       },
@@ -1297,7 +1297,7 @@
         "share_text": "गुम्बो महोत्सव! #GoogleDoodle"
       },
       "no": {
-        "query": null,
+        "query": "Gumbo",
         "hover_text": "Vi feirer matretten gumbo",
         "share_text": "Vi feirer matretten gumbo! #GoogleDoodle"
       },
@@ -1322,12 +1322,12 @@
         "share_text": ""
       },
       "fa": {
-        "query": null,
+        "query": "گامبو",
         "hover_text": "روز گامبو",
         "share_text": "روز گامبو! ‎#GoogleDoodle"
       },
       "pl": {
-        "query": null,
+        "query": "Gumbo",
         "hover_text": "Delektujemy się gumbo",
         "share_text": "Delektujemy się gumbo #GoogleDoodle"
       },
@@ -1342,12 +1342,12 @@
         "share_text": "Celebração do Gumbo! #GoogleDoodle"
       },
       "pa": {
-        "query": null,
+        "query": "Gumbo",
         "hover_text": "ਗੁੰਬੋ ਦੀ ਸਿਫ਼ਤ ਵਿੱਚ",
         "share_text": "ਗੁੰਬੋ ਦੀ ਸਿਫ਼ਤ ਵਿੱਚ! #GoogleDoodle"
       },
       "ro": {
-        "query": null,
+        "query": "gumbo",
         "hover_text": "Sărbătorim gumbo",
         "share_text": "Sărbătorim gumbo! #GoogleDoodle"
       },
@@ -1357,7 +1357,7 @@
         "share_text": ""
       },
       "ru": {
-        "query": null,
+        "query": "Гамбо",
         "hover_text": "День гамбо",
         "share_text": "День гамбо #GoogleDoodle"
       },
@@ -1387,7 +1387,7 @@
         "share_text": ""
       },
       "si": {
-        "query": null,
+        "query": "ගම්බෝ",
         "hover_text": "ගම්බෝ සැමරීම",
         "share_text": "ගම්බෝ සැමරීම! #GoogleDoodle"
       },
@@ -1397,7 +1397,7 @@
         "share_text": "Oslavujeme gumbo. #GoogleDoodle"
       },
       "sl": {
-        "query": null,
+        "query": "Gumbo",
         "hover_text": "Slavimo gumbo",
         "share_text": "Slavimo gumbo. #GoogleDoodle"
       },
@@ -1412,7 +1412,7 @@
         "share_text": ""
       },
       "es": {
-        "query": null,
+        "query": "Gumbo",
         "hover_text": "Homenaje al gumbo",
         "share_text": "Hoy rendimos homenaje al gumbo #GoogleDoodle"
       },
@@ -1422,7 +1422,7 @@
         "share_text": "Tunaenzi Gumbo! #GoogleDoodle"
       },
       "sv": {
-        "query": null,
+        "query": "gumbo",
         "hover_text": "Vi hyllar gumbo",
         "share_text": "Vi hyllar gumbo #GoogleDoodle"
       },
@@ -1432,12 +1432,12 @@
         "share_text": ""
       },
       "ta": {
-        "query": null,
+        "query": "Gumbo",
         "hover_text": "கம்போவைக் கொண்டாடுவோம்",
         "share_text": "கம்போவைக் கொண்டாடுவோம் #GoogleDoodle"
       },
       "te": {
-        "query": null,
+        "query": "గంబో",
         "hover_text": "గంబో వేడుకలు",
         "share_text": "గంబో వేడుకలు! #GoogleDoodle"
       },
@@ -1452,7 +1452,7 @@
         "share_text": ""
       },
       "tr": {
-        "query": null,
+        "query": "Gumbo",
         "hover_text": "Gumbo'yu Kutluyoruz",
         "share_text": "Gumbo'yu kutluyoruz. #GoogleDoodle"
       },
@@ -1487,7 +1487,7 @@
         "share_text": ""
       },
       "zu": {
-        "query": null,
+        "query": "IGumbo",
         "hover_text": "Sibungaza IGumbo",
         "share_text": "Sibungaza IGumbo! #GoogleDoodle"
       }
