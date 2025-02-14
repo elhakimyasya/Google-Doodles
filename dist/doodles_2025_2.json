@@ -1,5 +1,1003 @@
 [
   {
+    "name": "womens-premier-league-2025-begins",
+    "title": "Women's Premier League 2025 Begins!",
+    "url": "//www.google.com/logos/doodles/2025/womens-premier-league-2025-begins-6753651837110715.3-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/9ZzDfkAHXLdrym9s9brEP1wMGhl0vQD7LNtU9vXQQqBatgD0MwO9FgrVkv654J6wbUn9N4pTqRMNKdPIoucko1RTcBMT30Y3INkKhaunPixxr18kY93HnQ",
+    "high_res_url": "//www.google.com/logos/doodles/2025/womens-premier-league-2025-begins-6753651837110715.2-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2025,
+      2,
+      14
+    ],
+    "translations": {
+      "en": {
+        "query": "Women's Premier League",
+        "hover_text": "Women's Premier League 2025 Begins!",
+        "share_text": "Women's Premier League 2025 Begins! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Vrouepremierliga",
+        "hover_text": "Vrouepremierliga 2025 begin!",
+        "share_text": "Vrouepremierliga 2025 begin! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Premier League për Femra",
+        "hover_text": "Fillon Premier League për Femra, 2025!",
+        "share_text": "Fillon Premier League për Femra, 2025! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የሴቶች ፕሪሚየር ሊግ",
+        "hover_text": "የ2025 የሴቶች ፕሪሚየር ሊግ ተጀምሯል!",
+        "share_text": "የ2025 የሴቶች ፕሪሚየር ሊግ ተጀምሯል! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "الدوري الممتاز للسيدات",
+        "hover_text": "انطلق الدوري الممتاز للسيدات 2025",
+        "share_text": "انطلق الدوري الممتاز للسيدات لعام 2025. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Կանանց պրեմիեր լիգա",
+        "hover_text": "Կանանց պրեմիեր լիգայի 2025 թվականի մրցաշրջանը մեկնարկում է",
+        "share_text": "Կանանց պրեմիեր լիգայի 2025 թվականի մրցաշրջանը մեկնարկում է #GoogleDoodle"
+      },
+      "az": {
+        "query": "Qadın Premyer Liqası",
+        "hover_text": "2025 Qadın premyer Liqası Başlayır!",
+        "share_text": "2025 Qadın premyer Liqası Başlayır! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "মহিলাদের প্রিমিয়ার লিগ",
+        "hover_text": "শুরু হল মহিলাদের প্রিমিয়ার লিগ ২০২৫!",
+        "share_text": "শুরু হল মহিলাদের প্রিমিয়ার লিগ ২০২৫! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Emakumeen Premier League",
+        "hover_text": "Emakumeen 2025eko Premier League hasi da",
+        "share_text": "Emakumeen 2025eko Premier League hasi da #GoogleDoodle"
+      },
+      "be": {
+        "query": "Жаночая прэм’ер-ліга",
+        "hover_text": "Адкрыццё жаночай прэм’ер-лігі 2025!",
+        "share_text": "Адкрыццё жаночай прэм’ер-лігі 2025! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Ženska premijer liga",
+        "hover_text": "Počinje Ženska premijer liga 2025!",
+        "share_text": "Počinje Ženska premijer liga 2025! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Women's Premier League",
+        "hover_text": "Women's Premier League 2025 begins!",
+        "share_text": "Women's Premier League 2025 begins! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Висша лига за жени",
+        "hover_text": "Висшата лига за жени 2025 г. започва!",
+        "share_text": "Висшата лига за жени 2025 г. започва! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အမျိုးသမီး ပရီးမီးယားလိဂ်",
+        "hover_text": "၂၀၂၅ အမျိုးသမီး ပရီးမီးယားလိဂ် စတင်ပါပြီ။",
+        "share_text": "၂၀၂၅ အမျိုးသမီး ပရီးမီးယားလိဂ် စတင်ပါပြီ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Premier League femenina",
+        "hover_text": "Comença la Premier League femenina 2025",
+        "share_text": "Comença la Premier League femenina 2025 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "女子頂級板球聯賽",
+        "hover_text": "2025 年女子頂級板球聯賽開幕！",
+        "share_text": "2025 年女子頂級板球聯賽開幕！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "英格蘭女子足球超級聯賽",
+        "hover_text": "2025 英格蘭女子足球超級聯賽開打！",
+        "share_text": "2025 英格蘭女子足球超級聯賽開打！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "女子超级联赛",
+        "hover_text": "2025 年女子超级联赛已火热开启！",
+        "share_text": "2025 年女子超级联赛已火热开启！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Ženska Liga prvaka",
+        "hover_text": "Počinje ženska Liga prvaka 2025.!",
+        "share_text": "Počinje ženska Liga prvaka 2025.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Premier League žen",
+        "hover_text": "Premier League žen 2025 právě začíná!",
+        "share_text": "Premier League žen 2025 právě začíná! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Damernes Premier League",
+        "hover_text": "Damernes Premier League 2025 starter nu!",
+        "share_text": "Damernes Premier League 2025 starter nu! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Women's Premier League",
+        "hover_text": "Start van Women's Premier League 2025!",
+        "share_text": "Start van Women's Premier League 2025! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Women's Premier League",
+        "hover_text": "Women's Premier League 2025 alustab!",
+        "share_text": "Women's Premier League 2025 alustab! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Naisten valioliiga",
+        "hover_text": "Naisten valioliiga 2025 käynnistyy!",
+        "share_text": "Naisten valioliiga 2025 käynnistyy! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Women's Premier League",
+        "hover_text": "Début de la Women's Premier League 2025 !",
+        "share_text": "Début de la Women's Premier League 2025 ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Women's Premier League",
+        "hover_text": "La Women's Premier League 2025 commence!",
+        "share_text": "La Women's Premier League 2025 commence! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Premier League feminina",
+        "hover_text": "Comeza a Premier League feminina 2025!",
+        "share_text": "Comeza a Premier League feminina 2025! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ქალთა პრემიერ ლიგა",
+        "hover_text": "ქალთა პრემიერ ლიგა 2025 იწყება!",
+        "share_text": "ქალთა პრემიერ ლიგა 2025 იწყება! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Women's Premier League",
+        "hover_text": "Beginn der Women's Premier League 2025",
+        "share_text": "Beginn der Women's Premier League 2025 #GoogleDoodle"
+      },
+      "el": {
+        "query": "Premier League Γυναικών",
+        "hover_text": "Η Premier League Γυναικών 2025 ξεκινά!",
+        "share_text": "Η Premier League Γυναικών 2025 ξεκινά! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "મહિલાઓની પ્રીમિયર લીગ",
+        "hover_text": "મહિલાઓની પ્રીમિયર લીગ 2025 શરૂ થાય છે!",
+        "share_text": "મહિલાઓની પ્રીમિયર લીગ 2025 શરૂ થાય છે! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "הפריימר ליג לנשים",
+        "hover_text": "הפריימר ליג לנשים 2025 יוצאת לדרך",
+        "share_text": "הפריימר ליג לנשים 2025 יוצאת לדרך GoogleDoodle#"
+      },
+      "hi": {
+        "query": "वीमेन्स प्रीमियर लीग",
+        "hover_text": "शुरू हो गई है वीमेन्स प्रीमियर लीग 2025!",
+        "share_text": "शुरू हो गई है वीमेन्स प्रीमियर लीग 2025! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Női Premier League",
+        "hover_text": "Kezdődik a 2025-ös női Premier League!",
+        "share_text": "Kezdődik a 2025-ös női Premier League! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Úrvalsdeild kvenna",
+        "hover_text": "Úrvalsdeild kvenna 2025 er að hefjast!",
+        "share_text": "Úrvalsdeild kvenna 2025 er að hefjast! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Women's Premier League",
+        "hover_text": "Women's Premier League 2025 Dimulai!",
+        "share_text": "Women's Premier League 2025 Dimulai! #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Women's Premier League",
+        "hover_text": "Inizia la Women's Premier League 2025!",
+        "share_text": "Inizia la Women's Premier League 2025! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "女子プレミアリーグ",
+        "hover_text": "2025 年女子プレミアリーグ開幕！",
+        "share_text": "2025 年女子プレミアリーグ開幕！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಮಹಿಳೆಯರ ಪ್ರೀಮಿಯರ್ ಲೀಗ್",
+        "hover_text": "2025 ರ ಮಹಿಳೆಯರ ಪ್ರೀಮಿಯರ್ ಲೀಗ್ ಪ್ರಾರಂಭವಾಗಲಿದೆ!",
+        "share_text": "2025 ರ ಮಹಿಳೆಯರ ಪ್ರೀಮಿಯರ್ ಲೀಗ್ ಪ್ರಾರಂಭವಾಗಲಿದೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Әйелдер арасындағы премьер-лига",
+        "hover_text": "2025 жылғы әйелдер арасындағы премьер-лига басталды!",
+        "share_text": "2025 жылғы әйелдер арасындағы премьер-лига басталды! #GoogleDoodle"
+      },
+      "km": {
+        "query": "Premier League ផ្នែកនារី",
+        "hover_text": "Premier League ផ្នែកនារីឆ្នាំ 2025 ចាប់ផ្ដើមហើយ!",
+        "share_text": "Premier League ផ្នែកនារីឆ្នាំ 2025 ចាប់ផ្ដើមហើយ! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "여자 프리미어 리그",
+        "hover_text": "2025년 여자 프리미어 리그 개막 기념",
+        "share_text": "2025년 여자 프리미어 리그 개막 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Кыз-келиндер арасындагы премьер-лига",
+        "hover_text": "Кыз-келиндер арасындагы 2025-жылдын премьер-лигасы башталат!",
+        "share_text": "Кыз-келиндер арасындагы 2025-жылдын премьер-лигасы башталат! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ພຣີເມຍຫຼີກຍິງ",
+        "hover_text": "ພຣີເມຍຫຼີກຍິງປີ 2025 ເລີ່ມຂຶ້ນແລ້ວ!",
+        "share_text": "ພຣີເມຍຫຼີກຍິງປີ 2025 ເລີ່ມຂຶ້ນແລ້ວ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Liga Premier Femenina",
+        "hover_text": "Inicio de la Liga Premier Femenina 2025",
+        "share_text": "Inicio de la Liga Premier Femenina 2025 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Sieviešu premjerlīga",
+        "hover_text": "Sākas 2025. gada sieviešu premjerlīga!",
+        "share_text": "Sākas 2025. gada sieviešu premjerlīga! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Moterų aukščiausioji lyga",
+        "hover_text": "Prasideda 2025 m. moterų aukščiausiosios lygos varžybos!",
+        "share_text": "Prasideda 2025 m. moterų aukščiausiosios lygos varžybos! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Женска Премиер лига",
+        "hover_text": "Започнува Женската Премиер лига, 2025 г.!",
+        "share_text": "Започнува Женската Премиер лига, 2025 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Liga Premier Wanita",
+        "hover_text": "Liga Premier Wanita 2025 Bermula!",
+        "share_text": "Liga Premier Wanita 2025 Bermula! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "വിമെൻസ് പ്രീമിയർ ലീഗ്",
+        "hover_text": "വിമെൻസ് പ്രീമിയർ ലീഗ് 2025 ആരംഭിക്കുന്നു!",
+        "share_text": "വിമെൻസ് പ്രീമിയർ ലീഗ് 2025 ആരംഭിക്കുന്നു! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "विमेन्स प्रिमीएर लीग",
+        "hover_text": "विमेन्स प्रिमीएर लीग २०२५ ला सुरुवात होत आहे!",
+        "share_text": "विमेन्स प्रिमीएर लीग २०२५ ला सुरुवात होत आहे! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Эмэгтэйчүүдийн премьер лиг",
+        "hover_text": "2025 оны Эмэгтэйчүүдийн премьер лиг эхэллээ!",
+        "share_text": "2025 оны Эмэгтэйчүүдийн премьер лиг эхэллээ! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "महिला प्रिमियर लिग",
+        "hover_text": "महिला प्रिमियर लिग २०२५ सुरु भएको छ!",
+        "share_text": "महिला प्रिमियर लिग २०२५ सुरु भएको छ! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Premier League for kvinner",
+        "hover_text": "Premier League 2025 for kvinner starter!",
+        "share_text": "Premier League 2025 for kvinner starter! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "لیگ برتر بانوان",
+        "hover_text": "آغاز لیگ برتر بانوان ۲۰۲۵!",
+        "share_text": "آغاز لیگ برتر بانوان ۲۰۲۵! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Women's Premier League",
+        "hover_text": "Ruszają rozgrywki Women's Premier League 2025",
+        "share_text": "Ruszają rozgrywki Women's Premier League 2025 #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Premier League Feminina",
+        "hover_text": "Começa a Premier League Feminina 2025!",
+        "share_text": "Começa a Premier League Feminina 2025! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Premier League feminina",
+        "hover_text": "Início da Premier League feminina de 2025!",
+        "share_text": "Início da Premier League feminina de 2025! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਮਹਿਲਾ ਪ੍ਰੀਮੀਅਰ ਲੀਗ",
+        "hover_text": "ਮਹਿਲਾ ਪ੍ਰੀਮੀਅਰ ਲੀਗ 2025 ਸ਼ੁਰੂ ਹੋ ਗਈ ਹੈ!",
+        "share_text": "ਮਹਿਲਾ ਪ੍ਰੀਮੀਅਰ ਲੀਗ 2025 ਸ਼ੁਰੂ ਹੋ ਗਈ ਹੈ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Women's Premier League",
+        "hover_text": "Începe Women's Premier League 2025!",
+        "share_text": "Începe Women's Premier League 2025! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Женская премьер-лига",
+        "hover_text": "Женская премьер-лига – 2025",
+        "share_text": "Женская премьер-лига – 2025 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Женска Премијер лига у крикету",
+        "hover_text": "Женска Премијер лига 2025. почиње!",
+        "share_text": "Женска Премијер лига 2025. почиње! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Ženska Premijer liga u kriketu",
+        "hover_text": "Ženska Premijer liga 2025. počinje!",
+        "share_text": "Ženska Premijer liga 2025. počinje! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "කාන්තා ප්‍රිමියර් ලීගය",
+        "hover_text": "කාන්තා ප්‍රිමියර් ලීගය 2025 ඇරඹේ!",
+        "share_text": "කාන්තා ප්‍රිමියර් ලීගය 2025 ඇරඹේ! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Premier League žien",
+        "hover_text": "Začína sa Premier League žien 2025.",
+        "share_text": "Začína sa Premier League žien 2025. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Ženska prva liga",
+        "hover_text": "Ženska prva liga 2025 se je začela!",
+        "share_text": "Ženska prva liga 2025 se je začela! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Premier League femenina de cricket",
+        "hover_text": "¡Empieza la Premier League femenina de cricket 2025!",
+        "share_text": "¡Empieza la Premier League femenina de cricket 2025! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Ligi Kuu ya Wanawake",
+        "hover_text": "Ligi Kuu ya Wanawake ya 2025 Inaanza!",
+        "share_text": "Ligi Kuu ya Wanawake ya 2025 Inaanza! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Women's Premier League",
+        "hover_text": "Women's Premier League 2025 börjar!",
+        "share_text": "Women's Premier League 2025 börjar! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "பெண்கள் பிரீமியர் லீக்",
+        "hover_text": "பெண்கள் பிரீமியர் லீக் 2025 தொடங்குகிறது!",
+        "share_text": "பெண்கள் பிரீமியர் லீக் 2025 தொடங்குகிறது! #GoogleDoodle"
+      },
+      "te": {
+        "query": "మహిళల ప్రీమియర్ లీగ్",
+        "hover_text": "మహిళల ప్రీమియర్ లీగ్ 2025 ప్రారంభమైంది!",
+        "share_text": "మహిళల ప్రీమియర్ లీగ్ 2025 ప్రారంభమైంది! #GoogleDoodle"
+      },
+      "th": {
+        "query": "พรีเมียร์ลีกหญิง",
+        "hover_text": "พรีเมียร์ลีกหญิงปี 2025 เริ่มขึ้นแล้ว!",
+        "share_text": "พรีเมียร์ลีกหญิงปี 2025 เริ่มขึ้นแล้ว! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Kadınlar Premier Ligi",
+        "hover_text": "2025 Kadınlar Premier Ligi Başlıyor",
+        "share_text": "2025 Kadınlar Premier Ligi Başlıyor #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Жіноча прем’єр-ліга",
+        "hover_text": "Жіноча прем’єр-ліга у 2025 році розпочинається.",
+        "share_text": "Жіноча прем’єр-ліга у 2025 році розпочинається! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "خواتین کا پریمیئر لیگ",
+        "hover_text": "خواتین کا پریمیئر لیگ 2025 کی شروعات!",
+        "share_text": "خواتین کا پریمیئر لیگ 2025 کی شروعات! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Ayollar Premyer ligasi",
+        "hover_text": "Ayollar Premyer ligasi 2025 boshlandi!",
+        "share_text": "Ayollar Premyer ligasi 2025 boshlandi! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Giải Ngoại hạng bóng gậy nữ Ấn Độ",
+        "hover_text": "Giải Ngoại hạng bóng gậy nữ Ấn Độ năm 2025 khởi tranh!",
+        "share_text": "Giải Ngoại hạng bóng gậy nữ Ấn Độ năm 2025 khởi tranh! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "IPremier League yabesifazane",
+        "hover_text": "IPremier League Yabesifazane yango-2025 Iyaqala!",
+        "share_text": "IPremier League Yabesifazane yango-2025 Iyaqala! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Women's Premier League",
+    "share_text": "Women's Premier League 2025 Begins! #GoogleDoodle"
+  },
+  {
+    "name": "valentines-day-2025",
+    "title": "Valentine's Day 2025",
+    "url": "//www.google.com/logos/doodles/2025/valentines-day-2025-6753651837110609.5-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/W0BjsSq4XcK83dSF6iBZ_mKvh27pM6elG2gxNSh-eThj_rwS4ej9GQRB9X7-5DeMQx0EjRWrVLwZ0C9BEBK1VZ4zU1JCL1r4acOkao9BIxXqqd5k6h9h16I",
+    "high_res_url": "//www.google.com/logos/doodles/2025/valentines-day-2025-6753651837110609.2-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2025,
+      2,
+      14
+    ],
+    "translations": {
+      "en": {
+        "query": "Valentine's Day",
+        "hover_text": "Valentine's Day 2025",
+        "share_text": "Valentine's Day 2025! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Valentynsdag",
+        "hover_text": "Valentynsdag 2025",
+        "share_text": "Valentynsdag 2025! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Shën Valentinit",
+        "hover_text": "Dita e Shën Valentinit, 2025",
+        "share_text": "Dita e Shën Valentinit, 2025! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የፍቅረኞች ቀን",
+        "hover_text": "የፍቅረኞች ቀን 2025",
+        "share_text": "የፍቅረኞች ቀን 2025! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد الحب",
+        "hover_text": "عيد الحبّ 2025",
+        "share_text": "يصادف اليوم عيد الحبّ لعام 2025. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Վալենտինի օր",
+        "hover_text": "Վալենտինի օր 2025",
+        "share_text": "Վալենտինի օր 2025 #GoogleDoodle"
+      },
+      "az": {
+        "query": "Sevgililər Günü",
+        "hover_text": "2025 Sevgililər Günü",
+        "share_text": "2025 Sevgililər Günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ভ্যালেন্টাইনস ডে",
+        "hover_text": "ভ্যালেন্টাইনস ডে ২০২৫",
+        "share_text": "ভ্যালেন্টাইনস ডে ২০২৫! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "San Valentin eguna",
+        "hover_text": "2025eko San Valentin eguna",
+        "share_text": "2025eko San Valentin eguna #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень святога Валянціна",
+        "hover_text": "Дзень святога Валянціна – 2025",
+        "share_text": "Дзень святога Валянціна – 2025! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Valentinovo",
+        "hover_text": "Dan zaljubljenih 2025.",
+        "share_text": "Dan zaljubljenih 2025! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Valentine's Day",
+        "hover_text": "Valentine's Day 2025",
+        "share_text": "Valentine's Day 2025 #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на влюбените",
+        "hover_text": "Свети Валентин 2025 г.",
+        "share_text": "Свети Валентин 2025 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ချစ်သူများနေ့",
+        "hover_text": "၂၀၂၅ ချစ်သူများနေ့",
+        "share_text": "၂၀၂၅ ချစ်သူများနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de Sant Valentí",
+        "hover_text": "Dia de Sant Valentí 2025",
+        "share_text": "Dia de Sant Valentí 2025 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "情人節",
+        "hover_text": "2025 年情人節",
+        "share_text": "2025 年情人節！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "情人節",
+        "hover_text": "2025 情人節",
+        "share_text": "2025 情人節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "情人节",
+        "hover_text": "2025 年情人节",
+        "share_text": "2025 年情人节！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Valentinovo",
+        "hover_text": "Valentinovo 2025.",
+        "share_text": "Valentinovo 2025.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den sv. Valentýna",
+        "hover_text": "Den svatého Valentýna 2025",
+        "share_text": "Slavíme Den svatého Valentýna 2025! #GoogleDoodle"
+      },
+      "da": {
+        "query": "valentinsdag",
+        "hover_text": "Valentinsdag 2025",
+        "share_text": "Valentinsdag 2025 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Valentijnsdag",
+        "hover_text": "Valentijnsdag 2025",
+        "share_text": "Valentijnsdag 2025! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Sõbrapäev",
+        "hover_text": "2025. aasta sõbrapäev",
+        "share_text": "2025. aasta sõbrapäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Ystävänpäivä",
+        "hover_text": "Ystävänpäivä 2025",
+        "share_text": "Ystävänpäivä 2025 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Saint-Valentin",
+        "hover_text": "Saint-Valentin 2025",
+        "share_text": "Saint-Valentin 2025 ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Saint-Valentin",
+        "hover_text": "Saint-Valentin 2025",
+        "share_text": "Saint-Valentin 2025! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día de San Valentín",
+        "hover_text": "Día de San Valentín 2025",
+        "share_text": "Día de San Valentín 2025! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "წმინდა ვალენტინის დღე",
+        "hover_text": "ვალენტინობა — 2025",
+        "share_text": "ვალენტინობა — 2025! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Valentinstag",
+        "hover_text": "Valentinstag 2025",
+        "share_text": "Valentinstag 2025 #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα του Αγίου Βαλεντίνου",
+        "hover_text": "Ημέρα του Αγίου Βαλεντίνου 2025",
+        "share_text": "Ημέρα του Αγίου Βαλεντίνου 2025! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "વેલેન્ટાઇન ડે",
+        "hover_text": "વૅલેન્ટાઇન ડે 2025",
+        "share_text": "વૅલેન્ટાઇન ડે 2025! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "חג האהבה",
+        "hover_text": "ולנטיין דיי 2025",
+        "share_text": "ולנטיין דיי 2025 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "वैलेंटाइन डे",
+        "hover_text": "वैलेंटाइन डे 2025",
+        "share_text": "वैलेंटाइन डे 2025! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Valentin-nap",
+        "hover_text": "Valentin-nap, 2025",
+        "share_text": "Valentin-nap, 2025! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Valentínusardagurinn",
+        "hover_text": "Valentínusardagur 2025",
+        "share_text": "Valentínusardagur 2025! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kasih Sayang",
+        "hover_text": "Hari Valentine 2025",
+        "share_text": "Hari Valentine 2025 #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá San Vailintín",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "San Valentino",
+        "hover_text": "San Valentino 2025",
+        "share_text": "San Valentino 2025! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "バレンタイン デー",
+        "hover_text": "2025 年バレンタイン デー",
+        "share_text": "2025 年バレンタイン デー！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಪ್ರೇಮಿಗಳ ದಿನ",
+        "hover_text": "ಪ್ರೇಮಿಗಳ ದಿನ 2025",
+        "share_text": "ಪ್ರೇಮಿಗಳ ದಿನ 2025! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Әулие Валентин күні",
+        "hover_text": "Валентин күні – 2025",
+        "share_text": "2025 жылғы Валентин күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាបុណ្យ​នៃ​ក្ដី​ស្រឡាញ់",
+        "hover_text": "ទិវាបុណ្យ​នៃ​ក្ដី​ស្រឡាញ់ឆ្នាំ 2025",
+        "share_text": "ទិវាបុណ្យ​នៃ​ក្ដី​ស្រឡាញ់ឆ្នាំ 2025! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "밸런타인데이",
+        "hover_text": "2025년 밸런타인데이",
+        "share_text": "2025년 밸런타인데이 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Ыйык Валентин күнү",
+        "hover_text": "Ыйык Валентин күнү – 2025",
+        "share_text": "Ыйык Валентин күнү – 2025! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນວາເລນທາຍ",
+        "hover_text": "ວັນວາເລນທາຍປີ 2025",
+        "share_text": "ວັນວາເລນທາຍປີ 2025! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de San Valentín",
+        "hover_text": "Día de San Valentín 2025",
+        "share_text": "Día de San Valentín 2025 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Valentīna diena",
+        "hover_text": "Valentīna diena — 2025",
+        "share_text": "Valentīna diena — 2025! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Valentino diena",
+        "hover_text": "Valentino diena, 2025 m.",
+        "share_text": "Valentino diena, 2025 m.! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на вљубените",
+        "hover_text": "Ден на вљубените, 2025 г.",
+        "share_text": "Ден на вљубените, 2025 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny mpifankatia",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Hari Valentine",
+        "hover_text": "Hari Valentine 2025",
+        "share_text": "Hari Valentine 2025! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "വാലന്‍റൈന്‍സ് ദിനം",
+        "hover_text": "പ്രണയ ദിനം 2025",
+        "share_text": "പ്രണയ ദിനം 2025! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "व्हॅलेंटाईन डे",
+        "hover_text": "व्हॅलेंटाइन्स डे २०२५",
+        "share_text": "व्हॅलेंटाइन्स डे २०२५! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Валентины баяр",
+        "hover_text": "2025 оны Валентины өдөр",
+        "share_text": "2025 оны Валентины өдөр! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "प्रणय दिवस",
+        "hover_text": "प्रणय दिवस २०२५",
+        "share_text": "प्रणय दिवस २०२५! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Valentinsdagen",
+        "hover_text": "Valentinsdagen 2025",
+        "share_text": "Valentinsdagen 2025! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଭେଲେଣ୍ଟାଇନ୍‍ ଡେ",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز ولنتاین",
+        "hover_text": "روز عشاق ۲۰۲۵",
+        "share_text": "روز عشاق ۲۰۲۵! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Walentynki",
+        "hover_text": "Walentynki 2025",
+        "share_text": "Walentynki 2025 #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia dos Namorados",
+        "hover_text": "Dia dos Namorados 2025",
+        "share_text": "Dia dos Namorados 2025 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia dos namorados",
+        "hover_text": "Dia dos Namorados de 2025",
+        "share_text": "Dia dos Namorados de 2025! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਵੈਲੇਨਟਾਈਨ ਡੇ",
+        "hover_text": "ਵੈਲੇਨਟਾਈਨ ਡੇ 2025",
+        "share_text": "ਵੈਲੇਨਟਾਈਨ ਡੇ 2025! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Îndrăgostiților",
+        "hover_text": "Ziua Îndrăgostiților 2025",
+        "share_text": "Ziua Îndrăgostiților 2025! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Дня святого Валентина",
+        "hover_text": "День святого Валентина – 2025",
+        "share_text": "День святого Валентина – 2025 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан заљубљених",
+        "hover_text": "Дан заљубљених 2025.",
+        "share_text": "Дан заљубљених 2025! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan zaljubljenih",
+        "hover_text": "Dan zaljubljenih 2025.",
+        "share_text": "Dan zaljubljenih 2025! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen sen valanten",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "වැලන්ටයින් දිනය",
+        "hover_text": "ආදරවන්තයින්ගේ දිනය 2025",
+        "share_text": "ආදරවන්තයින්ගේ දිනය 2025! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň svätého Valentína",
+        "hover_text": "Deň svätého Valentína 2025",
+        "share_text": "Deň svätého Valentína 2025. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Valentinovo",
+        "hover_text": "Valentinovo 2025",
+        "share_text": "Valentinovo 2025. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Falayntayn",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": "Letsatsi le Valentine",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día de San Valentín",
+        "hover_text": "Día de San Valentín 2025",
+        "share_text": "Día de San Valentín 2025 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Wapendanao",
+        "hover_text": "Siku ya Wapendanao 2025",
+        "share_text": "Siku ya Wapendanao 2025! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Alla hjärtans dag",
+        "hover_text": "Alla hjärtans dag 2025",
+        "share_text": "Alla hjärtans dag 2025 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "காதலர் தினம்",
+        "hover_text": "காதலர் தினம் 2025",
+        "share_text": "காதலர் தினம் 2025! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ప్రేమికుల దినోత్సవం",
+        "hover_text": "ప్రేమికుల దినోత్సవం 2025",
+        "share_text": "ప్రేమికుల దినోత్సవం 2025! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันวาเลนไทน์",
+        "hover_text": "วันวาเลนไทน์ปี 2025",
+        "share_text": "วันวาเลนไทน์ปี 2025! #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Valentine",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Sevgililer Günü",
+        "hover_text": "2025 Sevgililer Günü",
+        "share_text": "2025 Sevgililer Günü #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День святого Валентина",
+        "hover_text": "День святого Валентина у 2025 році",
+        "share_text": "День святого Валентина у 2025 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "ویلینٹائنز ڈے",
+        "hover_text": "ویلینٹائن ڈے 2025",
+        "share_text": "ویلینٹائن ڈے 2025! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Valentin kuni",
+        "hover_text": "Valentin kuni 2025",
+        "share_text": "Valentin kuni 2025! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày lễ tình nhân",
+        "hover_text": "Ngày lễ Tình nhân năm 2025",
+        "share_text": "Ngày lễ Tình nhân năm 2025! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku le-Valentine",
+        "hover_text": "Usuku Lwezithandani Lwango-2025",
+        "share_text": "Usuku Lwezithandani Lwango-2025! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Valentine's Day",
+    "share_text": "Valentine's Day 2025! #GoogleDoodle"
+  },
+  {
     "name": "lantern-festival-2025",
     "title": "Lantern Festival 2025",
     "url": "//www.google.com/logos/doodles/2025/lantern-festival-2025-6753651837110608.3-l.png",
@@ -2031,8 +3029,8 @@
       },
       "ar": {
         "query": "موسيقى الهاوس",
-        "hover_text": "شهر الاحتفال بإنجازات ذوي البشرة السوداء 2025",
-        "share_text": "إنّه شهر الاحتفال بإنجازات ذوي البشرة السوداء لعام 2025. ‎#GoogleDoodle"
+        "hover_text": "شهر الاحتفال بإنجازات العرق الأسود 2025",
+        "share_text": "إنّه شهر الاحتفال بإنجازات العرق الأسود لعام 2025. ‎#GoogleDoodle"
       },
       "hy": {
         "query": "Հաուս երաժշտություն",
