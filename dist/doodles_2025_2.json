@@ -1,5 +1,504 @@
 [
   {
+    "name": "lithuania-independence-day-2025",
+    "title": "Lithuania Independence Day 2025",
+    "url": "//www.google.com/logos/doodles/2025/lithuania-independence-day-2025-6753651837110724-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/EOjbDuDr1DLJE5TzCwSZAto2EuH5jvl-N3_Zs6j8nhxzmavhW6h7UOJFXt02g-9llMAUChOUIFq8iPtmi2m6pe2pCbswW-Ck7Fwz7MSGasgl45x3xEz-",
+    "high_res_url": "//www.google.com/logos/doodles/2025/lithuania-independence-day-2025-6753651837110724-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2025,
+      2,
+      16
+    ],
+    "translations": {
+      "en": {
+        "query": "Lithuania Independence Day",
+        "hover_text": "Lithuania Independence Day 2025",
+        "share_text": "Happy Independence Day, Lithuania! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Litaue se onafhanklikheidsdag",
+        "hover_text": "Litaue se onafhanklikheidsdag 2025",
+        "share_text": "Gelukkige onafhanklikheidsdag, Litaue! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë së Lituanisë",
+        "hover_text": "Dita e Pavarësisë së Lituanisë, 2025",
+        "share_text": "Gëzuar Festën e Pavarësisë, Lituani! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የሊቱዌኒያ ነጻነት ቀን",
+        "hover_text": "የሊቱዌኒያ ነፃነት ቀን 2025",
+        "share_text": "መልካም የነጻነት ቀን ሊቱዌኒያ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال ليتوانيا",
+        "hover_text": "عيد استقلال ليتوانيا لعام 2025",
+        "share_text": "الاحتفال بعيد الاستقلال، ليتوانيا ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Լիտվայի անկախության օր",
+        "hover_text": "Լիտվայի անկախության օր 2025",
+        "share_text": "Շնորհավո՛ր Լիտվայի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Litvanın Müstəqllik Günü",
+        "hover_text": "2025 Litvanın Müstəqillik Günü",
+        "share_text": "Müstəqllik Günün Mübarək, Litva! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "লিথুয়ানিয়ার স্বাধীনতা দিবস",
+        "hover_text": "লিথুয়ানিয়ার স্বাধীনতা দিবস ২০২৪",
+        "share_text": "লিথুয়ানিয়ার স্বাধীনতা দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Lituaniako Independentzia Eguna",
+        "hover_text": "2025ko Lituaniako Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Lituania! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Літвы",
+        "hover_text": "Дзень незалежнасці Літвы 2025",
+        "share_text": "З Днём незалежнасці, Літва! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Litvanije",
+        "hover_text": "Dan nezavisnosti Litvanije 2025.",
+        "share_text": "Sretan Dan nezavisnosti, Litvanijo! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Lithuania Independence Day",
+        "hover_text": "Lithuania Independence Day 2025",
+        "share_text": "Happy Independence Day, Lithuania! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Литва",
+        "hover_text": "Ден на независимостта на Литва 2025 г.",
+        "share_text": "Честит Ден на независимостта на Литва! #GoogleDoodle"
+      },
+      "my": {
+        "query": "လစ်သူဝေးနီးယား လွပ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ လစ်သူဝေးနီးယားနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်သော လွတ်လပ်ရေးနေ့ဖြစ်ပါစေ၊ လစ်သူဝေးနီးယား။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència de Lituània",
+        "hover_text": "Dia de la Independència de Lituània 2025",
+        "share_text": "Feliç Dia de la Independència, Lituània! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "立陶宛獨立日",
+        "hover_text": "2025 年立陶宛獨立日",
+        "share_text": "立陶宛獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "立陶宛獨立紀念日",
+        "hover_text": "2025 年立陶宛獨立紀念日",
+        "share_text": "立陶宛，國慶日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "立陶宛独立日",
+        "hover_text": "2025 年立陶宛独立日",
+        "share_text": "立陶宛，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Litve",
+        "hover_text": "Dan neovisnosti Litve 2025.",
+        "share_text": "Sretan Dan neovisnosti, Litvo! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Litvy",
+        "hover_text": "Den nezávislosti Litvy 2025",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Litvo! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Litauens uafhængighedsdag",
+        "hover_text": "Litauens uafhængighedsdag 2025",
+        "share_text": "Glædelig uafhængighedsdag, Litauen! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Litouwen",
+        "hover_text": "Onafhankelijkheidsdag Litouwen 2025",
+        "share_text": "Fijne Onafhankelijkheidsdag aan iedereen in Litouwen #GoogleDoodle"
+      },
+      "et": {
+        "query": "Leedu iseseisvuspäev",
+        "hover_text": "Leedu 2025. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Leedu! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Liettuan itsenäisyyspäivä",
+        "hover_text": "Liettuan itsenäisyyspäivä 2025",
+        "share_text": "Hyvää Liettuan itsenäisyyspäivää #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance de la Lituanie",
+        "hover_text": "Fête de l'Indépendance de la Lituanie 2025",
+        "share_text": "Fête de l'Indépendance de la Lituanie #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance de la Lituanie",
+        "hover_text": "Fête de l'Indépendance de la Lituanie 2025",
+        "share_text": "Joyeux jour de l'indépendance de la Lituanie! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Lituania",
+        "hover_text": "Día da Independencia de Lituania 2025",
+        "share_text": "Feliz Día da Independencia, Lituania! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ლიეტუვის დამოუკიდებლობის დღე",
+        "hover_text": "ლიეტუვის დამოუკიდებლობის დღე — 2025",
+        "share_text": "ვულოცავთ ლიეტუვას დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Litauen",
+        "hover_text": "Unabhängigkeitstag Litauen 2025",
+        "share_text": "Alles Gute zum Unabhängigkeitstag, Litauen! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας Λιθουανίας",
+        "hover_text": "Ημέρα Ανεξαρτησίας Λιθουανίας 2025",
+        "share_text": "Εορτασμός για την Ημέρα Ανεξαρτησίας της Λιθουανίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "લિથુઆનિયાનો સ્વતંત્રતા દિવસ",
+        "hover_text": "લિથુઆનિયાનો સ્વતંત્રતા દિવસ 2025",
+        "share_text": "લિથુઆનિયાના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של ליטא",
+        "hover_text": "יום העצמאות של ליטא 2025",
+        "share_text": "יום העצמאות שמח לליטא! ‎#GoogleDoodle"
+      },
+      "hi": {
+        "query": "लिथुआनिया का स्‍वतंत्रता दिवस",
+        "hover_text": "लिथुआनिया का स्वतंत्रता दिवस 2025",
+        "share_text": "स्वतंत्रता दिवस मुबारक हो, लिथुआनिया! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Litvánia függetlenségének napja",
+        "hover_text": "Litvánia függetlenségének napja, 2025",
+        "share_text": "Minden jót a függetlenség napján, Litvánia! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Litháens",
+        "hover_text": "Sjálfstæðisdagur Litháens 2025",
+        "share_text": "Gleðilegan sjálfstæðisdag, Litháen! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Lituania",
+        "hover_text": "Hari Kemerdekaan Lituania 2025",
+        "share_text": "Selamat Hari Kemerdekaan, Lituania! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse na Liotuáine",
+        "hover_text": "",
+        "share_text": "Lá Saoirse na Liotuáine faoi mhaise daoibh. #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza lituana",
+        "hover_text": "Festa dell'indipendenza della Lituania 2025",
+        "share_text": "Buona festa dell'indipendenza, Lituania! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "リトアニア独立記念日",
+        "hover_text": "2025 年リトアニア独立記念日",
+        "share_text": "リトアニア独立記念日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಲಿಥುನಿಯ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಲಿಥುವೇನಿಯಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2025",
+        "share_text": "ಲಿಥುನಿಯ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಷಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Литваның Тәуелсіздік күні",
+        "hover_text": "Литваның Тәуелсіздік күні – 2025",
+        "share_text": "Литва, Тәуелсіздік күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យ​ឯករាជ្យជាតិ​លីទុយអានី​",
+        "hover_text": "ទិវាបុណ្យឯករាជ្យជាតិលីទុយអានីឆ្នាំ 2025",
+        "share_text": "អបអរទិវា​បុណ្យឯករាជ្យជាតិលីទុយអានី! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "리투아니아 독립기념일",
+        "hover_text": "2025년 리투아니아 독립기념일",
+        "share_text": "리투아니아 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Литванын Эгемендүүлүк күнү",
+        "hover_text": "Литванын Эгемендүүлүк күнү – 2025",
+        "share_text": "Эгемендүүлүк күнүң менен, Литва! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດລິທົວເນຍ",
+        "hover_text": "ວັນປະກາດເອກະລາດລິທົວເນຍ 2025",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດ, ລິທົວເນຍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Lituania",
+        "hover_text": "Día de la Independencia de Lituania 2025",
+        "share_text": "Feliz Día de la Independencia de Lituania #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Lietuvas Neatkarības diena",
+        "hover_text": "Lietuvas Neatkarības diena — 2025",
+        "share_text": "Sveicam Lietuvu neatkarības dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Lietuvos valstybės atkūrimo diena",
+        "hover_text": "Lietuvos valstybės atkūrimo diena, 2025 m.",
+        "share_text": "Su valstybės atkūrimo diena, Lietuva! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Литванија",
+        "hover_text": "Ден на независноста на Литванија, 2025 г.",
+        "share_text": "Среќен Ден на независноста, Литванија! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetim-pirenena Litoaniana",
+        "hover_text": "",
+        "share_text": "Tsarà Fetim-pirenena ry Litoania ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Lithuania",
+        "hover_text": "Hari Kemerdekaan Lithuania 2025",
+        "share_text": "Selamat Hari Kemerdekaan, Lithuania! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ലിത്വേനിയയുടെ സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "ലിത്വേനിയൻ സ്വാതന്ത്ര്യദിനം 2025",
+        "share_text": "സ്വാതന്ത്ര്യദിനാശംസകള്‍, ലിത്വേനിയ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "mr": {
+        "query": "लिथिओनियाचा स्वातंत्र्यदिन",
+        "hover_text": "लिथुआनियाचा स्वातंत्र्यदिन २०२४",
+        "share_text": "लुथुएनियाला स्वातंत्र्यदिनाच्या शुभेच्छा! #Googleडूडल"
+      },
+      "mn": {
+        "query": "Литва улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2025 оны Литва Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Литва улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "लिथुआनियाको स्वतन्त्रता दिवस",
+        "hover_text": "लिथुआनियाको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, लिथुआनिया! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Litauens frigjøringsdag",
+        "hover_text": "Litauens uavhengighetsdag 2025",
+        "share_text": "Gratulerer med frigjøringsdagen, Litauen! #GoogleDoodle"
+      },
+      "nn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ny": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଲିଥୁନିଆ ସ୍ବାଧିନତା ଦିବସ",
+        "hover_text": "",
+        "share_text": "ସ୍ବାଧିନତା ଦିବସର ଶୁଭେଚ୍ଛା, ଲିଥୁନିଆ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال لیتوانی",
+        "hover_text": "روز استقلال لیتوانی ۲۰۲۴",
+        "share_text": "روز استقلال لیتوانی مبارک! ‎‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Niepodległości Litwy",
+        "hover_text": "Święto Niepodległości Litwy 2025",
+        "share_text": "Szczęśliwego Święta Niepodległości Litwy! #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência da Lituânia",
+        "hover_text": "Dia da Independência da Lituânia 2025",
+        "share_text": "Feliz Dia da Independência, Lituânia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência da Lituânia",
+        "hover_text": "Dia da Independência da Lituânia de 2025",
+        "share_text": "Feliz dia da independência, Lituânia! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਲਿਥੂਆਨੀਆ ਦਾ ਸੁਤੰਤਰਤਾ ਦਿਵਸ",
+        "hover_text": "ਲਿਥੁਆਨੀਆ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2025",
+        "share_text": "ਸੁਤੰਤਰਤਾ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਲਿਥੂਆਨੀਆ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței Lituaniei",
+        "hover_text": "Ziua Independenței Lituaniei – 2025",
+        "share_text": "La mulți ani de Ziua Independenței, Lituania! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Литвы",
+        "hover_text": "День независимости Литвы – 2025",
+        "share_text": "День независимости Литвы #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Литваније",
+        "hover_text": "Дан независности Литваније 2025.",
+        "share_text": "Честитамо Дан државности Литванији! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Litvanije",
+        "hover_text": "Dan nezavisnosti Litvanije 2025.",
+        "share_text": "Čestitamo Dan državnosti Litvaniji! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Lendepandans Lithuania",
+        "hover_text": "",
+        "share_text": "Bonn fet lendepandans, Lithuania! #GoogleDoodle"
+      },
+      "sn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "si": {
+        "query": "ලිතුවේනියාවේ නිදහස් දිනය",
+        "hover_text": "ලිතුවේනියාවේ නිදහස් දිනය 2025",
+        "share_text": "සුබ නිදහස් දිනයක්, ලිතුවේනියාව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Litvy",
+        "hover_text": "Deň nezávislosti Litvy 2025",
+        "share_text": "Šťastný Deň nezávislosti, Litva! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Litovski dan neodvisnosti",
+        "hover_text": "Dan neodvisnosti Litve 2025",
+        "share_text": "Vesel dan državnosti, Litva. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta madax banaanida Lithuania",
+        "hover_text": "",
+        "share_text": "Maalinta Madax Banaanida Farxada leh Lithuania! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la Lithuania",
+        "hover_text": "",
+        "share_text": "Happy Independence Day, Lithuania! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Lituania",
+        "hover_text": "Día de la Independencia de Lituania 2025",
+        "share_text": "¡Feliz Día de la Independencia de Lituania! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Litwania",
+        "hover_text": "Sikukuu ya Uhuru wa Litwania 2025",
+        "share_text": "Heri za Sikukuu ya Uhuru, Litwania! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Litauens självständighetsdag",
+        "hover_text": "Litauens självständighetsdag 2025",
+        "share_text": "Vi firar Litauens självständighetsdag! #GoogleDoodle"
+      },
+      "tg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ta": {
+        "query": "லிதுவேனிய சுதந்திர தினம்",
+        "hover_text": "லிதுவேனியாவின் சுதந்திர தினம் 2025",
+        "share_text": "இனிய லிதுவேனிய சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "లిథుయేనియా స్వాతంత్ర్య దినోత్సవం",
+        "hover_text": "లిథువేనియా స్వాతంత్య్ర దినోత్సవం 2025",
+        "share_text": "స్వాతంత్ర్య దినోత్సవ శుభాకాంక్షలు, లుధియానా! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของลิทัวเนีย",
+        "hover_text": "วันประกาศอิสรภาพของลิทัวเนียปี 2025",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของลิทัวเนีย #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Lithuania",
+        "hover_text": "",
+        "share_text": "Itumeleleng Letsatsi la Boipuso, Lithuania! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Litvanya Bağımsızlık Günü",
+        "hover_text": "2025 Litvanya Bağımsızlık Günü",
+        "share_text": "Litvanya Bağımsızlık Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Литви",
+        "hover_text": "День незалежності Литви у 2025 році",
+        "share_text": "З Днем незалежності, Литво! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "لتھوانیا کا یوم آزادی",
+        "hover_text": "لتھوانیا کا 2025 کا یوم آزادی",
+        "share_text": "لیتھوانیا کے یوم آزادی کی مبارکباد! ‎#GoogleDoodle"
+      },
+      "uz": {
+        "query": "Litva mustaqillik kuni",
+        "hover_text": "Litva Mustaqillik kuni 2025",
+        "share_text": "Mustaqillik kuning muborak, Litva! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Lithuania",
+        "hover_text": "Ngày Quốc khánh Lithuania năm 2025",
+        "share_text": "Chúc mừng quốc khánh Lithuania! #GoogleDoodle"
+      },
+      "wo": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lokuzimela le-Lithuania",
+        "hover_text": "Usuku Lokuzimela lwase-Lithuania lwango-2025",
+        "share_text": "Usuku Oluhle Lokuzimela, Lithuania! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Lithuania Independence Day",
+    "share_text": "Happy Independence Day, Lithuania! #GoogleDoodle"
+  },
+  {
     "name": "womens-premier-league-2025-begins",
     "title": "Women's Premier League 2025 Begins!",
     "url": "//www.google.com/logos/doodles/2025/womens-premier-league-2025-begins-6753651837110715.3-l.png",
