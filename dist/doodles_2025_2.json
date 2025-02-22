@@ -1,5 +1,504 @@
 [
   {
+    "name": "german-federal-election-2025",
+    "title": "German Federal Election 2025",
+    "url": "//www.google.com/logos/doodles/2025/german-federal-election-2025-6753651837110659-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/x7dE2oHcXj_kXS_t69JCVYDY5bbjrfv7_NaQDQx3tocf5GXis8LEWiS8c7JnKMoYmfsdQ7N75Hg-Kondn5RrNC3gCTmLXCI9QffYmYmatHSENbgjE46zUfY",
+    "high_res_url": "//www.google.com/logos/doodles/2025/german-federal-election-2025-6753651837110659-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2025,
+      2,
+      22
+    ],
+    "translations": {
+      "en": {
+        "query": "German Federal Election 2025",
+        "hover_text": "German Federal Election 2025",
+        "share_text": "German Federal Election 2025! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Duitse federale verkiesing 2025",
+        "hover_text": "Duitse federale verkiesing 2025",
+        "share_text": "Duitse federale verkiesing 2025! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Zgjedhjet federale në Gjermani, 2025",
+        "hover_text": "Zgjedhjet federale në Gjermani, 2025",
+        "share_text": "Zgjedhjet federale në Gjermani, 2025! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የ2025 የጀርመን ፌደራል ምርጫ",
+        "hover_text": "የ2025 የጀርመን ፌደራል ምርጫ",
+        "share_text": "የጀርመን ፌደራል ምርጫ 2025! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "الانتخابات الفيدرالية الألمانية 2025",
+        "hover_text": "الانتخابات الفيدرالية الألمانية 2025",
+        "share_text": "انطلقت الانتخابات الفيدرالية الألمانية لعام 2025. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Գերմանիայի դաշնային ընտրություններ 2025",
+        "hover_text": "Գերմանիայի դաշնային ընտրություններ 2025",
+        "share_text": "Գերմանիայի դաշնային ընտրություններ 2025 #GoogleDoodle"
+      },
+      "az": {
+        "query": "2025 Almaniya Federal Seçkiləri",
+        "hover_text": "2025 Almaniya Federal Seçkiləri",
+        "share_text": "2025 Almaniya Federal Seçkiləri! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "জার্মান ফেডারেল নির্বাচন ২০২৫",
+        "hover_text": "জার্মান ফেডারেল নির্বাচন ২০২৫",
+        "share_text": "জার্মান ফেডারেল নির্বাচন ২০২৫! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "2025eko Alemaniako hauteskunde federalak",
+        "hover_text": "2025eko Alemaniako hauteskunde federalak",
+        "share_text": "2025eko Alemaniako hauteskunde federalak #GoogleDoodle"
+      },
+      "be": {
+        "query": "Федэральныя выбары ў Германіі ў 2025 годзе",
+        "hover_text": "Федэральныя выбары ў Германіі ў 2025 годзе",
+        "share_text": "Федэральныя выбары ў Германіі ў 2025 годзе! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Savezni izbori u Njemačkoj 2025.",
+        "hover_text": "Savezni izbori u Njemačkoj 2025.",
+        "share_text": "Savezni izbori u Njemačkoj 2025.! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "German federal election 2025",
+        "hover_text": "German federal election 2025",
+        "share_text": "German federal election 2025! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Федерални избори в Германия 2025 г.",
+        "hover_text": "Федерални избори в Германия 2025 г.",
+        "share_text": "Федерални избори в Германия 2025 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "၂၀၂၅ ဂျာမန်ဖက်ဒရယ် ရွေးကောက်ပွဲ",
+        "hover_text": "၂၀၂၅ ဂျာမန်ဖက်ဒရယ် ရွေးကောက်ပွဲ",
+        "share_text": "၂၀၂၅ ဂျာမန်ဖက်ဒရယ် ရွေးကောက်ပွဲ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Eleccions federals d'Alemanya de 2025",
+        "hover_text": "Eleccions federals d'Alemanya de 2025",
+        "share_text": "Eleccions federals d'Alemanya de 2025 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "2025 年德國聯邦大選",
+        "hover_text": "2025 年德國聯邦大選",
+        "share_text": "2025 年德國聯邦大選！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "2025 德國聯邦大選",
+        "hover_text": "2025 德國聯邦大選",
+        "share_text": "2025 德國聯邦大選登場！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "2025 年德国联邦大选",
+        "hover_text": "2025 年德国联邦大选",
+        "share_text": "2025 年德国联邦选举！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Savezni izbori u Njemačkoj 2025.",
+        "hover_text": "Savezni izbori u Njemačkoj 2025.",
+        "share_text": "Savezni izbori u Njemačkoj 2025.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Federální volby 2025 v Německu",
+        "hover_text": "Federální volby 2025 v Německu",
+        "share_text": "Konají se volby do spolkového sněmu v Německu 2025! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Valg i Tyskland 2025",
+        "hover_text": "Valg i Tyskland 2025",
+        "share_text": "Valg i Tyskland 2025 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Duitse federale verkiezingen 2025",
+        "hover_text": "Duitse federale verkiezingen 2025",
+        "share_text": "De Duitse federale verkiezingen 2025! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Saksamaa 2025. aasta föderaalsed valimised",
+        "hover_text": "Saksamaa 2025. aasta föderaalsed valimised",
+        "share_text": "Saksamaa 2025. aasta föderaalsed valimised! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Saksan liittopäivävaalit 2025",
+        "hover_text": "Saksan liittopäivävaalit 2025",
+        "share_text": "Saksan liittopäivävaalit 2025 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Élections fédérales 2025 en Allemagne",
+        "hover_text": "Élections fédérales 2025 en Allemagne",
+        "share_text": "Élections fédérales 2025 en Allemagne #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Élections fédérales allemandes de 2025",
+        "hover_text": "Élections fédérales allemandes de 2025",
+        "share_text": "Élections fédérales allemandes de 2025! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Eleccións federais alemás 2025",
+        "hover_text": "Eleccións federais alemás 2025",
+        "share_text": "Eleccións federais alemás 2025! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "გერმანიის ფედერალური არჩევნები 2025!",
+        "hover_text": "გერმანიის ფედერალური არჩევნები 2025!",
+        "share_text": "გერმანიის ფედერალური არჩევნები 2025! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Wie wähle ich bei der Bundestagswahl",
+        "hover_text": "Bundestagswahl 2025",
+        "share_text": "Bundestagswahl 2025! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ομοσπονδιακές εκλογές στη Γερμανία 2025",
+        "hover_text": "Ομοσπονδιακές εκλογές στη Γερμανία 2025",
+        "share_text": "Ομοσπονδιακές εκλογές στη Γερμανία 2025! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "જર્મન ફેડરલની ચૂંટણી 2025",
+        "hover_text": "જર્મન ફેડરલની ચૂંટણી 2025",
+        "share_text": "જર્મન ફેડરલની ચૂંટણી 2025! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "הבחירות הכלליות בגרמניה לשנת 2025",
+        "hover_text": "הבחירות הכלליות בגרמניה לשנת 2025",
+        "share_text": "הבחירות הכלליות בגרמניה לשנת 2025 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "जर्मनी का फ़ेडरल चुनाव 2025",
+        "hover_text": "जर्मनी का फ़ेडरल चुनाव 2025",
+        "share_text": "जर्मनी का फ़ेडरल चुनाव 2025! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Német szövetségi választás, 2025",
+        "hover_text": "Német szövetségi választás, 2025",
+        "share_text": "Német szövetségi választás, 2025! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Þingkosningar í Þýskalandi 2025",
+        "hover_text": "Þingkosningar í Þýskalandi 2025",
+        "share_text": "Þingkosningar í Þýskalandi 2025! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Pemilu Federal Jerman 2025",
+        "hover_text": "Pemilu Federal Jerman 2025",
+        "share_text": "Pemilu Federal Jerman 2025 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Elezioni federali tedesche 2025",
+        "hover_text": "Elezioni federali tedesche 2025",
+        "share_text": "Elezioni federali tedesche 2025! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "2025 年ドイツ連邦選挙",
+        "hover_text": "2025 年ドイツ連邦選挙",
+        "share_text": "2025 年ドイツ連邦選挙！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಜರ್ಮನ್ ಫೆಡರಲ್ ಚುನಾವಣೆ 2025",
+        "hover_text": "ಜರ್ಮನ್ ಫೆಡರಲ್ ಚುನಾವಣೆ 2025",
+        "share_text": "ಜರ್ಮನ್ ಫೆಡರಲ್ ಚುನಾವಣೆ 2025! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "2025 жылғы Германиядағы федералдық сайлау",
+        "hover_text": "2025 жылғы Германиядағы федералдық сайлау",
+        "share_text": "2025 жылғы Германиядағы федералдық сайлау #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការបោះឆ្នោតសហព័ន្ធអាល្លឺម៉ង់ឆ្នាំ 2025",
+        "hover_text": "ការបោះឆ្នោតសហព័ន្ធអាល្លឺម៉ង់ឆ្នាំ 2025",
+        "share_text": "ការបោះឆ្នោតសហព័ន្ធអាល្លឺម៉ង់ឆ្នាំ 2025! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "2025년 독일 연방 선거",
+        "hover_text": "2025년 독일 연방 선거",
+        "share_text": "2025년 독일 연방의회 선거 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Германиядагы 2025-жылкы федералдык шайлоо",
+        "hover_text": "Германиядагы 2025-жылкы федералдык шайлоо",
+        "share_text": "Германиядагы федералдык шайлоо – 2025! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ການເລືອກຕັ້ງລັດຖະບານກາງເຢຍລະມັນ 2025",
+        "hover_text": "ການເລືອກຕັ້ງລັດຖະບານກາງເຢຍລະມັນ 2025",
+        "share_text": "ການເລືອກຕັ້ງລັດຖະບານກາງເຢຍລະມັນ 2025! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Elecciones federales de Alemania 2025",
+        "hover_text": "Elecciones federales de Alemania 2025",
+        "share_text": "Elecciones federales de Alemania 2025 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "2025. gada federālās vēlēšanas Vācijā",
+        "hover_text": "2025. gada federālās vēlēšanas Vācijā",
+        "share_text": "2025. gada federālās vēlēšanas Vācijā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "2025 m. Vokietijos federaliniai rinkimai",
+        "hover_text": "2025 m. Vokietijos federaliniai rinkimai",
+        "share_text": "2025 m. Vokietijos federaliniai rinkimai! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Сојузни избори во Германија, 2025 г.",
+        "hover_text": "Сојузни избори во Германија, 2025 г.",
+        "share_text": "Сојузни избори во Германија, 2025 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Pilihan Raya Persekutuan Jerman 2025",
+        "hover_text": "Pilihan Raya Persekutuan Jerman 2025",
+        "share_text": "Pilihan Raya Persekutuan Jerman 2025! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ജർമ്മൻ ഫെഡറൽ തിരഞ്ഞെടുപ്പ് 2025",
+        "hover_text": "ജർമ്മൻ ഫെഡറൽ തിരഞ്ഞെടുപ്പ് 2025",
+        "share_text": "ജർമ്മൻ ഫെഡറൽ തിരഞ്ഞെടുപ്പ് 2025! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "जर्मन फेडरल निवडणूक २०२५",
+        "hover_text": "जर्मन फेडरल निवडणूक २०२५",
+        "share_text": "जर्मन फेडरल निवडणूक २०२५! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "2025 оны Германы холбооны сонгууль",
+        "hover_text": "2025 оны Германы холбооны сонгууль",
+        "share_text": "2025 оны Германы холбооны сонгууль! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "जर्मनीको सङ्घीय निर्वाचन २०२५",
+        "hover_text": "जर्मनीको सङ्घीय निर्वाचन २०२५",
+        "share_text": "जर्मनीको सङ्घीय निर्वाचन २०२५! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Parlamentsvalget i Tyskland 2025",
+        "hover_text": "Parlamentsvalget i Tyskland 2025",
+        "share_text": "Parlamentsvalget i Tyskland 2025! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "انتخابات فدرال ۲۰۲۵ آلمان",
+        "hover_text": "انتخابات فدرال ۲۰۲۵ آلمان",
+        "share_text": "انتخابات فدرال ۲۰۲۵ آلمان! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Wybory parlamentarne 2025 w Niemczech",
+        "hover_text": "Wybory parlamentarne 2025 w Niemczech",
+        "share_text": "Wybory parlamentarne 2025 w Niemczech #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Eleições federais da Alemanha 2025",
+        "hover_text": "Eleições federais da Alemanha 2025",
+        "share_text": "Eleições federais da Alemanha 2025 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Eleições Federais da Alemanha de 2025",
+        "hover_text": "Eleições Federais da Alemanha de 2025",
+        "share_text": "Eleições Federais da Alemanha de 2025! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "German Federal Election 2025",
+        "hover_text": "German Federal Election 2025",
+        "share_text": "ਜਰਮਨੀ ਦੀਆਂ ਸੰਘੀ ਚੋਣਾਂ 2025! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Alegeri parlamentare în Germania 2025",
+        "hover_text": "Alegeri parlamentare în Germania 2025",
+        "share_text": "Alegeri parlamentare în Germania 2025! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Парламентские выборы в Германии – 2025",
+        "hover_text": "Парламентские выборы в Германии – 2025",
+        "share_text": "Парламентские выборы в Германии – 2025 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Савезни избори у Немачкој 2025.",
+        "hover_text": "Савезни избори у Немачкој 2025.",
+        "share_text": "Савезни избори у Немачкој 2025! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Savezni izbori u Nemačkoj 2025.",
+        "hover_text": "Savezni izbori u Nemačkoj 2025.",
+        "share_text": "Savezni izbori u Nemačkoj 2025! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ජර්මානු ෆෙඩරල් මැතිවරණය 2025",
+        "hover_text": "ජර්මානු ෆෙඩරල් මැතිවරණය 2025",
+        "share_text": "ජර්මානු ෆෙඩරල් මැතිවරණය 2025! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Nemecké federálne voľby 2025",
+        "hover_text": "Nemecké federálne voľby 2025",
+        "share_text": "Voľby do Nemeckého spolkového snemu 2025. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Nemške zvezne volitve 2025",
+        "hover_text": "Nemške zvezne volitve 2025",
+        "share_text": "Nemške zvezne volitve 2025! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Elecciones federales de Alemania 2025",
+        "hover_text": "Elecciones federales de Alemania 2025",
+        "share_text": "Hoy se celebran las elecciones federales de Alemania 2025 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Uchaguzi wa Serikali ya Ujerumani 2025",
+        "hover_text": "Uchaguzi wa Serikali ya Ujerumani 2025",
+        "share_text": "Uchaguzi wa Serikali ya Ujerumani 2025! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Valet till förbundsdagen i Tyskland 2025",
+        "hover_text": "Valet till förbundsdagen i Tyskland 2025",
+        "share_text": "Valet till förbundsdagen i Tyskland 2025! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஜெர்மன் கூட்டாட்சித் தேர்தல் 2025",
+        "hover_text": "ஜெர்மன் கூட்டாட்சித் தேர்தல் 2025",
+        "share_text": "ஜெர்மன் கூட்டாட்சித் தேர்தல் 2025! #GoogleDoodle"
+      },
+      "te": {
+        "query": "జర్మనీ ఫెడరల్ ఎన్నికలు 2025",
+        "hover_text": "జర్మనీ ఫెడరల్ ఎన్నికలు 2025",
+        "share_text": "జర్మనీ ఫెడరల్ ఎన్నికలు 2025! #GoogleDoodle"
+      },
+      "th": {
+        "query": "การเลือกตั้งสหพันธรัฐในเยอรมนีปี 2025",
+        "hover_text": "การเลือกตั้งสหพันธรัฐในเยอรมนีปี 2025",
+        "share_text": "การเลือกตั้งสหพันธรัฐในเยอรมนีปี 2025 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "2025 Almanya Federal Seçimi",
+        "hover_text": "2025 Almanya Federal Seçimi",
+        "share_text": "2025 Almanya Federal Seçimleri #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Федеральні вибори в Німеччині у 2025 році",
+        "hover_text": "Федеральні вибори в Німеччині у 2025 році",
+        "share_text": "Федеральні вибори в Німеччині у 2025 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "جرمن وفاقی انتخابات 2025",
+        "hover_text": "جرمن وفاقی انتخابات 2025",
+        "share_text": "جرمن وفاقی انتخابات 2025! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Germaniya federal saylovi 2025",
+        "hover_text": "Germaniya federal saylovi 2025",
+        "share_text": "Germaniya federal saylovi 2025! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Bầu cử Liên bang Đức năm 2025",
+        "hover_text": "Bầu cử Liên bang Đức năm 2025",
+        "share_text": "Bầu cử Liên bang Đức năm 2025! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ukhetho LweGerman Federal Lwango-2025",
+        "hover_text": "Ukhetho LweGerman Federal Lwango-2025",
+        "share_text": "Ukhetho lweGerman Federal lwango-2025! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "German Federal Election 2025",
+    "share_text": "German Federal Election 2025! #GoogleDoodle"
+  },
+  {
     "name": "rise-of-the-half-moon-february",
     "title": "Rise of the Half Moon February",
     "url": "//www.google.com/logos/doodles/2025/celebrating-the-rise-of-the-half-moon-feb-6753651837110610.4-l.png",
