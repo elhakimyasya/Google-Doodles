@@ -1,5 +1,1003 @@
 [
   {
+    "name": "estonia-independence-day-2025",
+    "title": "Estonia Independence Day 2025",
+    "url": "//www.google.com/logos/doodles/2025/estonia-independence-day-2025-6753651837110723-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/REWpnB_OMYQ1_EkfO19kCbXrTJvG5EFMNFHe5KEvluAuC-r3NSPcm-HZlO2Fuvr4Olq50cda6sa9VkL7F4bmmGmIm9TlFXKsXSUgYEd3pqSfPS6u6cQ7CQ",
+    "high_res_url": "//www.google.com/logos/doodles/2025/estonia-independence-day-2025-6753651837110723-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2025,
+      2,
+      24
+    ],
+    "translations": {
+      "en": {
+        "query": "Estonia Independence Day",
+        "hover_text": "Estonia Independence Day 2025",
+        "share_text": "Happy Independence Day, Estonia! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Estland se onafhanklikheidsdag",
+        "hover_text": "Estland se onafhanklikheidsdag 2025",
+        "share_text": "Gelukkige onafhanklikheidsdag, Estland! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Pavarësisë së Estonisë",
+        "hover_text": "Dita e Pavarësisë së Estonisë, 2025",
+        "share_text": "Gëzuar Festën e Pavarësisë, Estoni! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የኤስቶኒያ ነጻነት ቀን",
+        "hover_text": "የኢስቶኒያ የነፃነት ቀን 2025",
+        "share_text": "መልካም የነጻነት ቀን ኤስቶኒያ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال أستونيا",
+        "hover_text": "عيد استقلال إستونيا لعام 2025",
+        "share_text": "الاحتفال بعيد استقلال إستونيا #GoogleDoodle"
+      },
+      "hy": {
+        "query": "Էստոնիայի անկախության օր",
+        "hover_text": "Էստոնիայի անկախության օր 2025",
+        "share_text": "Շնորհավո՛ր Էստոնիայի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Estoniyanın Müstəqillik Günü",
+        "hover_text": "2025 Estoniyanın Müstəqillik Günü",
+        "share_text": "Müstəqllik Günün Mübarək, Estoniya! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "এস্তোনিয়া স্বাধীনতা দিবস",
+        "hover_text": "এস্তোনিয়ার স্বাধীনতা দিবস ২০২৪",
+        "share_text": "এস্তোনিয়ার স্বাধীনতা দিবসের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Estoniako Independentzia Eguna",
+        "hover_text": "2025ko Estoniako Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Estonia! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Эстоніі",
+        "hover_text": "Дзень незалежнасці Эстоніі 2025",
+        "share_text": "З Днём незалежнасці, Эстонія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Estonije",
+        "hover_text": "Dan nezavisnosti Estonije 2025.",
+        "share_text": "Sretan Dan nezavisnosti, Estonijo! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Estonia Independence Day",
+        "hover_text": "Estonia Independence Day 2025",
+        "share_text": "Happy Independence Day, Estonia! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Естония",
+        "hover_text": "Ден на независимостта на Естония 2025 г.",
+        "share_text": "Честит Ден на независимостта на Естония! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အက်စ်တိုးနီးယား လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ အက်စတိုးနီးယားနိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် လွတ်လပ်ရေးနေ့ဖြစ်ပါစေ၊ အက်စ်တိုးနီးယား။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència d'Estònia",
+        "hover_text": "Dia de la Independència d'Estònia 2025",
+        "share_text": "Feliç Dia de la Independència, Estònia! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "愛沙尼亞獨立日",
+        "hover_text": "2025 年愛沙尼亞獨立日",
+        "share_text": "愛沙尼亞，獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "愛沙尼亞獨立紀念日",
+        "hover_text": "2025 年愛沙尼亞獨立紀念日",
+        "share_text": "愛沙尼亞，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "爱沙尼亚独立日",
+        "hover_text": "2025 年爱沙尼亚独立日",
+        "share_text": "爱沙尼亚，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Estonije",
+        "hover_text": "Dan neovisnosti Estonije 2025.",
+        "share_text": "Sretan Dan neovisnosti, Estonijo! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Estonska",
+        "hover_text": "Den nezávislosti Estonska 2025",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Estonsko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Estlands uafhængighedsdag",
+        "hover_text": "Estlands uafhængighedsdag 2025",
+        "share_text": "Glædelig uafhængighedsdag, Estland! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Estland",
+        "hover_text": "Onafhankelijkheidsdag Estland 2025",
+        "share_text": "Fijne Onafhankelijkheidsdag, Estland #GoogleDoodle"
+      },
+      "et": {
+        "query": "Eesti Vabariigi aastapäev",
+        "hover_text": "Head Eesti Vabariigi 107. aastapäeva!",
+        "share_text": "Head Eesti Vabariigi 107. aastapäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Viron itsenäisyyspäivä",
+        "hover_text": "Viron itsenäisyyspäivä 2025",
+        "share_text": "Hyvää itsenäisyyspäivää, Viro! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de l'Indépendance de l'Estonie",
+        "hover_text": "Fête de l'Indépendance de l'Estonie 2025",
+        "share_text": "Fête de l'Indépendance de l'Estonie ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance de l'Estonie",
+        "hover_text": "Fête de l'indépendance de l'Estonie 2025",
+        "share_text": "Joyeuse fête de l'indépendance, Estonie! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Estonia",
+        "hover_text": "Día da Independencia de Estonia 2025",
+        "share_text": "Feliz Día da Independencia, Estonia! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ესტონეთის დამოუკიდებლობის დღე",
+        "hover_text": "ესტონეთის დამოუკიდებლობის დღე — 2025",
+        "share_text": "ვულოცავთ ესტონეთს დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Estland",
+        "hover_text": "Unabhängigkeitstag Estland 2025",
+        "share_text": "Alles Gute zum Unabhängigkeitstag in Estland! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας της Εσθονίας",
+        "hover_text": "Ημέρα Ανεξαρτησίας της Εσθονίας 2025",
+        "share_text": "Γιορτάζουμε την Ημέρα Ανεξαρτησίας της Εσθονίας! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "એસ્ટોનિયાનો સ્વતંત્રતા દિવસ",
+        "hover_text": "એસ્ટોનિયાનો સ્વતંત્રતા દિવસ 2025",
+        "share_text": "સ્વતંત્રતા દિવસની શુભેચ્છા, એસ્ટોનિયા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של אסטוניה",
+        "hover_text": "יום העצמאות של אסטוניה 2025",
+        "share_text": "יום עצמאות שמח לאסטוניה! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "एस्टोनिया का स्वतंत्रता दिवस",
+        "hover_text": "एस्टोनिया का स्वतंत्रता दिवस 2025",
+        "share_text": "स्वतंत्रता दिवस मुबारक हो, एस्टोनिया! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Észtország függetlenségének napja",
+        "hover_text": "Észtország függetlenségének napja, 2025",
+        "share_text": "Minden jót a függetlenség napján, Észtország! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Eistlands",
+        "hover_text": "Sjálfstæðisdagur Eistlands 2025",
+        "share_text": "Gleðilegan sjálfstæðisdag, Eistland! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Estonia",
+        "hover_text": "Hari Kemerdekaan Estonia 2025",
+        "share_text": "Selamat Hari Kemerdekaan, Estonia! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse na hEastóine",
+        "hover_text": "",
+        "share_text": "Lá Saoirse na hEastóine faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza dell'Estonia",
+        "hover_text": "Festa dell'indipendenza dell'Estonia 2025",
+        "share_text": "Buona festa dell'indipendenza, Estonia! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "エストニア独立記念日",
+        "hover_text": "2025 年エストニア独立記念日",
+        "share_text": "エストニア独立記念日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಎಸ್ಟೋನಿಯಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಎಸ್ಟೋನಿಯಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2025",
+        "share_text": "ಎಸ್ಟೋನಿಯಾ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಷಯಗಳು #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Эстонияның Тәуелсіздік күні",
+        "hover_text": "Эстонияның Тәуелсіздік күні –2025",
+        "share_text": "Тәуелсіздік күні құтты болсын, Эстония! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាបុណ្យ​ឯករាជ្យជាតិ​អេស្តូនី",
+        "hover_text": "ទិវាបុណ្យឯករាជ្យជាតិអេស្តូនីឆ្នាំ 2025",
+        "share_text": "អបអរទិវា​បុណ្យឯករាជ្យ​ជាតិអេស្តូនី! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "에스토니아 독립기념일",
+        "hover_text": "2025년 에스토니아 독립기념일",
+        "share_text": "에스토니아 독립기념일 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Эстониянын Эгемендүүлүк күнү",
+        "hover_text": "Эстониянын Эгемендүүлүк күнү – 2025",
+        "share_text": "Эгемендүүлүк күнүң менен, Эстония! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດເອສໂຕເນຍ",
+        "hover_text": "ວັນປະກາດເອກະລາດເອສໂຕເນຍ 2025",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດ, ເອສໂຕເນຍ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Estonia",
+        "hover_text": "Día de la Independencia de Estonia 2025",
+        "share_text": "¡Feliz Día de la Independencia, Estonia! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Igaunijas neatkarības diena",
+        "hover_text": "Igaunijas Neatkarības diena — 2025",
+        "share_text": "Sveicam Neatkarības dienā, Igaunija! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Estijos nepriklausomybės diena",
+        "hover_text": "Estijos nepriklausomybės diena, 2025 m.",
+        "share_text": "Sveikiname Estiją su Nepriklausomybės diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Естонија",
+        "hover_text": "Ден на независноста на Естонија, 2025 г.",
+        "share_text": "Среќен Ден на независноста, Естонија! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetim-pirenena Estoniana",
+        "hover_text": "",
+        "share_text": "Tsarà Fetin'ny fahaleovantena ry Estonia ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Estonia",
+        "hover_text": "Hari Kemerdekaan Estonia 2025",
+        "share_text": "Selamat Hari Kemerdekaan, Estonia! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "എസ്തോണിയയുടെ സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "എസ്തോണിയൻ സ്വാതന്ത്ര്യ ദിനം 2025",
+        "share_text": "സ്വാതന്ത്ര്യദിനാശംസകൾ, എസ്തോണിയ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "mr": {
+        "query": "इस्टोनियाचा स्वातंत्र्यदिन",
+        "hover_text": "इस्टोनियाचा स्वातंत्र्यदिन २०२४",
+        "share_text": "स्वातंत्र्यदिनाच्या शुभेच्छा, एस्टोनिया! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Эстони улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2025 оны Эстони Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Эстони улсын ард иргэдэд Тусгаар тогтнолын өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "एस्टोनियाको स्वतन्त्रता दिवस",
+        "hover_text": "एस्टोनियाको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, एस्टोनिया! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Estlands frigjøringsdag",
+        "hover_text": "Estlands uavhengighetsdag 2025",
+        "share_text": "Gratulerer med frigjøringsdagen, Estland! #GoogleDoodle"
+      },
+      "nn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ny": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଏଷ୍ଟୋନିଆ ସ୍ବାଧିନତା ଦିବସ",
+        "hover_text": "",
+        "share_text": "ସ୍ୱାଧିନତା ଦିବସର ଶୁଭେଚ୍ଛା, ଏଷ୍ଟୋନିଆ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال استونی",
+        "hover_text": "روز استقلال استونی - ۲۰۲۴",
+        "share_text": "روز استقلال استونی مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Niepodległości Estonii",
+        "hover_text": "Święto Niepodległości Estonii 2025",
+        "share_text": "Estonia obchodzi Dzień Niepodległości #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência da Estônia",
+        "hover_text": "Dia da Independência da Estônia 2025",
+        "share_text": "Feliz Dia da Independência, Estônia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência da Estónia",
+        "hover_text": "Dia da Independência da Estónia de 2025",
+        "share_text": "Feliz dia da independência, Estónia! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਇਸਤੋਨੀਆ ਦਾ ਸੁਤੰਤਰਤਾ ਦਿਵਸ",
+        "hover_text": "ਇਸਤੋਨੀਆ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2025",
+        "share_text": "ਇਸਤੋਨੀਆ ਦੇ ਸੁਤੰਤਰਤਾ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței în Estonia",
+        "hover_text": "Ziua Independenței în Estonia – 2025",
+        "share_text": "La mulți ani de Ziua Independenței, Estonia! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Эстонии",
+        "hover_text": "День независимости Эстонии – 2025",
+        "share_text": "День независимости Эстонии #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Естоније",
+        "hover_text": "Дан независности Естоније 2025.",
+        "share_text": "Честитамо Дан независности Естонији! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Estonije",
+        "hover_text": "Dan nezavisnosti Estonije 2025.",
+        "share_text": "Čestitamo Dan nezavisnosti Estoniji! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepandans Estonya",
+        "hover_text": "",
+        "share_text": "Bonn zournen lendepandans, Estonia! #GoogleDoodle"
+      },
+      "sn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "si": {
+        "query": "එස්තෝනියා නිදහස් දිනය",
+        "hover_text": "එස්තෝනියාවේ නිදහස් දිනය 2025",
+        "share_text": "සුබ නිදහස් දිනයක්, එස්තෝනියාව! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Estónska",
+        "hover_text": "Deň nezávislosti Estónska 2025",
+        "share_text": "Šťastný Deň nezávislosti, Estónsko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan neodvisnosti Estonije",
+        "hover_text": "Dan neodvisnosti Estonije 2025",
+        "share_text": "Vesel dan neodvisnosti, Estonija. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Xornimada Estonia",
+        "hover_text": "",
+        "share_text": "Maalinta Madax Banaanida, Estonia! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la Estonia",
+        "hover_text": "",
+        "share_text": "Thabela Letsatsi la Tokoloho la Estonia! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Estonia",
+        "hover_text": "Día de la Independencia de Estonia 2025",
+        "share_text": "¡Feliz Día de la Independencia de Estonia! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Estonia",
+        "hover_text": "Sikukuu ya Uhuru wa Estonia mwaka 2025",
+        "share_text": "Heri ya Sikukuu ya Uhuru, Estonia! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Estlands självständighetsdag",
+        "hover_text": "Estlands självständighetsdag 2025",
+        "share_text": "Vi firar Estlands självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ta": {
+        "query": "எஸ்தோனியாவின் சுதந்திர தினம்",
+        "hover_text": "எஸ்டோனியாவின் சுதந்திர தினம் 2025",
+        "share_text": "எஸ்தோனியாவின் சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఎస్టోనియా స్వాతంత్ర్య దినోత్సవం",
+        "hover_text": "ఎస్టోనియా స్వాతంత్య్ర దినోత్సవం 2025",
+        "share_text": "స్వాతంత్ర్య దినోత్సవ శుభాకాంక్షలు, ఎస్టోనియా! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของเอสโตเนีย",
+        "hover_text": "วันประกาศอิสรภาพของเอสโตเนียปี 2025",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพเอสโตเนีย #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Estonia",
+        "hover_text": "",
+        "share_text": "Itumelele Letsatsi la Boipuso, Estonia! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Estonya Bağımsızlık Günü",
+        "hover_text": "2025 Estonya Bağımsızlık Günü",
+        "share_text": "Estonya Bağımsızlık Günü Kutlaması. #GoogleDoodle"
+      },
+      "tk": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Естонії",
+        "hover_text": "День незалежності Естонії у 2025 році",
+        "share_text": "З Днем незалежності, Естоніє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "ایسٹونیا کا یوم آزادی",
+        "hover_text": "استونیا کا یوم آزادی 2025",
+        "share_text": "ایسٹونیا کا یوم آزادی مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Estoniya mustaqillik kuni",
+        "hover_text": "Estoniya Mustaqillik kuni 2025",
+        "share_text": "Mustaqillik kuning muborak, Estoniya! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Estonia năm 2019",
+        "hover_text": "Ngày Quốc khánh Estonia năm 2025",
+        "share_text": "Chúc mừng ngày Quốc khánh Estonia! #GoogleDoodle"
+      },
+      "wo": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lokuzimela le-Estonia",
+        "hover_text": "Usuku Lokuzimela lwase-Estonia lwango-2025",
+        "share_text": "Sinifisela usuku oluhle lokuzimela, Estonia! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Estonia Independence Day",
+    "share_text": "Happy Independence Day, Estonia! #GoogleDoodle"
+  },
+  {
+    "name": "german-federal-election-2025-2",
+    "title": "German Federal Election 2025 (2)",
+    "url": "//www.google.com/logos/doodles/2025/german-federal-election-2025-2-6753651837110658-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/CvofPzW4m6eIz4-OujfU2fdyv92E3g4BEYfZTcQ3i70CLU_PIok45wyj-lQYbjNi7maNZgEZQNqpBwV-WoF3ynrIr07JHmHu5cL8u7iUpm9rrJMaJ8UXAg",
+    "high_res_url": "//www.google.com/logos/doodles/2025/german-federal-election-2025-2-6753651837110658-2x.png",
+    "high_res_width": 1150,
+    "high_res_height": 460,
+    "run_date_array": [
+      2025,
+      2,
+      23
+    ],
+    "translations": {
+      "en": {
+        "query": "2025 Germany Federal election results",
+        "hover_text": "German Federal Election 2025",
+        "share_text": "German Federal Election 2025! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Uitslae van Duitse federale verkiesing 2025",
+        "hover_text": "Duitse federale verkiesing 2025",
+        "share_text": "Duitse federale verkiesing 2025! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Rezultatet e zgjedhjeve federale në Gjermani, 2025",
+        "hover_text": "Zgjedhjet federale në Gjermani, 2025",
+        "share_text": "Zgjedhjet federale në Gjermani, 2025! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የ2025 የጀርመን ፌደራል ምርጫ ውጤቶች",
+        "hover_text": "የ2025 የጀርመን ፌደራል ምርጫ",
+        "share_text": "የጀርመን ፌደራል ምርጫ 2025! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "نتائج الانتخابات الفيدرالية الألمانية 2025",
+        "hover_text": "الانتخابات الفيدرالية الألمانية 2025",
+        "share_text": "انطلقت الانتخابات الفيدرالية الألمانية لعام 2025. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Գերմանիայի դաշնային ընտրությունների արդյունքներ 2025",
+        "hover_text": "Գերմանիայի դաշնային ընտրություններ 2025",
+        "share_text": "Գերմանիայի դաշնային ընտրություններ 2025 #GoogleDoodle"
+      },
+      "az": {
+        "query": "2025 Almaniya Federal seçkilərinin nəticələri",
+        "hover_text": "2025 Almaniya Federal Seçkiləri",
+        "share_text": "2025 Almaniya Federal Seçkiləri! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "২০২৫ সালের জার্মানির ফেডারেল নির্বাচনের ফলাফল",
+        "hover_text": "জার্মান ফেডারেল নির্বাচন ২০২৫",
+        "share_text": "জার্মান ফেডারেল নির্বাচন ২০২৫! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "2025eko Alemaniako hauteskunde federalen emaitzak",
+        "hover_text": "2025eko Alemaniako hauteskunde federalak",
+        "share_text": "2025eko Alemaniako hauteskunde federalak #GoogleDoodle"
+      },
+      "be": {
+        "query": "Вынікі федэральных выбараў у Германіі ў 2025 годзе",
+        "hover_text": "Федэральныя выбары ў Германіі ў 2025 годзе",
+        "share_text": "Федэральныя выбары ў Германіі ў 2025 годзе! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Rezultati saveznih izbora u Njemačkoj 2025.",
+        "hover_text": "Savezni izbori u Njemačkoj 2025.",
+        "share_text": "Savezni izbori u Njemačkoj 2025.! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "2025 Germany federal election results",
+        "hover_text": "German federal election 2025",
+        "share_text": "German federal election 2025! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Резултати от федералните избори в Германия 2025 г.",
+        "hover_text": "Федерални избори в Германия 2025 г.",
+        "share_text": "Федерални избори в Германия 2025 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "၂၀၂၅ ဂျာမနီနိုင်ငံ ဖက်ဒရယ်ရွေးကောက်ပွဲ ရလဒ်များ",
+        "hover_text": "၂၀၂၅ ဂျာမန်ဖက်ဒရယ် ရွေးကောက်ပွဲ",
+        "share_text": "၂၀၂၅ ဂျာမန်ဖက်ဒရယ် ရွေးကောက်ပွဲ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Resultats de les eleccions federals d'Alemanya de 2025",
+        "hover_text": "Eleccions federals d'Alemanya de 2025",
+        "share_text": "Eleccions federals d'Alemanya de 2025 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "2025 德國聯邦選舉結果",
+        "hover_text": "2025 年德國聯邦大選",
+        "share_text": "2025 年德國聯邦大選！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "2025 德國聯邦選舉結果揭曉",
+        "hover_text": "2025 德國聯邦大選",
+        "share_text": "2025 德國聯邦大選登場！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "2025 年德国联邦大选结果",
+        "hover_text": "2025 年德国联邦大选",
+        "share_text": "2025 年德国联邦选举！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Rezultati saveznih izbora u Njemačkoj 2025.",
+        "hover_text": "Savezni izbori u Njemačkoj 2025.",
+        "share_text": "Savezni izbori u Njemačkoj 2025.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Výsledky voleb do spolkového sněmu v Německu 2025",
+        "hover_text": "Federální volby 2025 v Německu",
+        "share_text": "Konají se volby do spolkového sněmu v Německu 2025! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Resultater fra det tyske forbundsdagsvalg i 2025",
+        "hover_text": "Valg i Tyskland 2025",
+        "share_text": "Valg i Tyskland 2025 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Uitslagen Duitse federale verkiezingen 2025",
+        "hover_text": "Duitse federale verkiezingen 2025",
+        "share_text": "De Duitse federale verkiezingen 2025! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Saksamaa 2025. aasta föderaalvalimiste tulemused",
+        "hover_text": "Saksamaa 2025. aasta föderaalsed valimised",
+        "share_text": "Saksamaa 2025. aasta föderaalsed valimised! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Saksan liittopäivävaalien 2025 tulokset",
+        "hover_text": "Saksan liittopäivävaalit 2025",
+        "share_text": "Saksan liittopäivävaalit 2025 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Résultats des élections fédérales 2025 en Allemagne",
+        "hover_text": "Élections fédérales 2025 en Allemagne",
+        "share_text": "Élections fédérales 2025 en Allemagne #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Résultats des élections fédérales allemandes de 2025",
+        "hover_text": "Élections fédérales allemandes de 2025",
+        "share_text": "Élections fédérales allemandes de 2025! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Resultados das eleccións federais alemás 2025",
+        "hover_text": "Eleccións federais alemás 2025",
+        "share_text": "Eleccións federais alemás 2025! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "გერმანიის 2025 წლის ფედერალური არჩევნების შედეგები",
+        "hover_text": "გერმანიის ფედერალური არჩევნები 2025!",
+        "share_text": "გერმანიის ფედერალური არჩევნები 2025! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Wahlergebnisse Bundestagswahl 2025",
+        "hover_text": "Bundestagswahl 2025",
+        "share_text": "Bundestagswahl 2025! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Αποτελέσματα ομοσπονδιακών εκλογών στη Γερμανία 2025",
+        "hover_text": "Ομοσπονδιακές εκλογές στη Γερμανία 2025",
+        "share_text": "Ομοσπονδιακές εκλογές στη Γερμανία 2025! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "જર્મનીની ફેડરલની ચૂંટણી 2025ના પરિણામો",
+        "hover_text": "જર્મન ફેડરલની ચૂંટણી 2025",
+        "share_text": "જર્મન ફેડરલની ચૂંટણી 2025! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "תוצאות הבחירות הכלליות בגרמניה 2025",
+        "hover_text": "הבחירות הכלליות בגרמניה לשנת 2025",
+        "share_text": "הבחירות הכלליות בגרמניה לשנת 2025 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "जर्मनी के राष्ट्रीय चुनाव 2025 के नतीजे",
+        "hover_text": "जर्मनी का फ़ेडरल चुनाव 2025",
+        "share_text": "जर्मनी का फ़ेडरल चुनाव 2025! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A 2025-ös németországi szövetségi választások eredményei",
+        "hover_text": "Német szövetségi választás, 2025",
+        "share_text": "Német szövetségi választás, 2025! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Niðurstöður þingkosninga í Þýskalandi 2025",
+        "hover_text": "Þingkosningar í Þýskalandi 2025",
+        "share_text": "Þingkosningar í Þýskalandi 2025! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hasil pemilu Federal Jerman 2025",
+        "hover_text": "Pemilu Federal Jerman 2025",
+        "share_text": "Pemilu Federal Jerman 2025 #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Risultati delle elezioni federali 2025 in Germania",
+        "hover_text": "Elezioni federali tedesche 2025",
+        "share_text": "Elezioni federali tedesche 2025! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "2025 年ドイツ連邦選挙結果",
+        "hover_text": "2025 年ドイツ連邦選挙",
+        "share_text": "2025 年ドイツ連邦選挙！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "2025 ರ ಜರ್ಮನಿ ಫೆಡರಲ್ ಚುನಾವಣಾ ಫಲಿತಾಂಶಗಳು",
+        "hover_text": "ಜರ್ಮನ್ ಫೆಡರಲ್ ಚುನಾವಣೆ 2025",
+        "share_text": "ಜರ್ಮನ್ ಫೆಡರಲ್ ಚುನಾವಣೆ 2025! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "2025 жылғы Германиядағы федералдық сайлаудың нәтижелері",
+        "hover_text": "2025 жылғы Германиядағы федералдық сайлау",
+        "share_text": "2025 жылғы Германиядағы федералдық сайлау #GoogleDoodle"
+      },
+      "km": {
+        "query": "លទ្ធផលបោះឆ្នោតសហព័ន្ធអាល្លឺម៉ង់ឆ្នាំ 2025",
+        "hover_text": "ការបោះឆ្នោតសហព័ន្ធអាល្លឺម៉ង់ឆ្នាំ 2025",
+        "share_text": "ការបោះឆ្នោតសហព័ន្ធអាល្លឺម៉ង់ឆ្នាំ 2025! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "2025년 독일 연방의회 선거 결과",
+        "hover_text": "2025년 독일 연방 선거",
+        "share_text": "2025년 독일 연방의회 선거 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Германиядагы 2025-ж. федералдык шайлоонун жыйынтыктары",
+        "hover_text": "Германиядагы 2025-жылкы федералдык шайлоо",
+        "share_text": "Германиядагы федералдык шайлоо – 2025! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ຜົນການເລືອກຕັ້ງສະຫະພັນທະລັດເຢຍລະມັນປີ 2025",
+        "hover_text": "ການເລືອກຕັ້ງລັດຖະບານກາງເຢຍລະມັນ 2025",
+        "share_text": "ການເລືອກຕັ້ງລັດຖະບານກາງເຢຍລະມັນ 2025! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Resultados de las elecciones federales de Alemania 2025",
+        "hover_text": "Elecciones federales de Alemania 2025",
+        "share_text": "Elecciones federales de Alemania 2025 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "2025. gada Vācijas federālo vēlēšanu rezultāti",
+        "hover_text": "2025. gada federālās vēlēšanas Vācijā",
+        "share_text": "2025. gada federālās vēlēšanas Vācijā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "2025 m. Vokietijos federalinių rinkimų rezultatai",
+        "hover_text": "2025 m. Vokietijos federaliniai rinkimai",
+        "share_text": "2025 m. Vokietijos federaliniai rinkimai! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Резултати од сојузните избори во Германија, 2025 г.",
+        "hover_text": "Сојузни избори во Германија, 2025 г.",
+        "share_text": "Сојузни избори во Германија, 2025 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Keputusan pilihan raya Persekutuan Jerman 2025",
+        "hover_text": "Pilihan Raya Persekutuan Jerman 2025",
+        "share_text": "Pilihan Raya Persekutuan Jerman 2025! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "2025 ജർമ്മനി ഫെഡറൽ തിരഞ്ഞെടുപ്പ് ഫലങ്ങൾ",
+        "hover_text": "ജർമ്മൻ ഫെഡറൽ തിരഞ്ഞെടുപ്പ് 2025",
+        "share_text": "ജർമ്മൻ ഫെഡറൽ തിരഞ്ഞെടുപ്പ് 2025! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "२०२५ मधील जर्मनीतील फेडरल निवडणुकीचे निकाल",
+        "hover_text": "जर्मन फेडरल निवडणूक २०२५",
+        "share_text": "जर्मन फेडरल निवडणूक २०२५! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "2025 оны Германы холбооны сонгуулийн дүн",
+        "hover_text": "2025 оны Германы холбооны сонгууль",
+        "share_text": "2025 оны Германы холбооны сонгууль! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "जर्मनीको सङ्घीय निर्वाचन २०२५ का मत परिणामहरू",
+        "hover_text": "जर्मनीको सङ्घीय निर्वाचन २०२५",
+        "share_text": "जर्मनीको सङ्घीय निर्वाचन २०२५! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Resultatene fra forbundsdagsvalget i Tyskland 2025",
+        "hover_text": "Parlamentsvalget i Tyskland 2025",
+        "share_text": "Parlamentsvalget i Tyskland 2025! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "نتایج انتخابات فدرال ۲۰۲۵ آلمان",
+        "hover_text": "انتخابات فدرال ۲۰۲۵ آلمان",
+        "share_text": "انتخابات فدرال ۲۰۲۵ آلمان! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Wyniki wyborów parlamentarnych 2025 w Niemczech",
+        "hover_text": "Wybory parlamentarne 2025 w Niemczech",
+        "share_text": "Wybory parlamentarne 2025 w Niemczech #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Resultados das eleições federais da Alemanha 2025",
+        "hover_text": "Eleições federais da Alemanha 2025",
+        "share_text": "Eleições federais da Alemanha 2025 #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Resultados das Eleições Federais da Alemanha de 2025",
+        "hover_text": "Eleições Federais da Alemanha de 2025",
+        "share_text": "Eleições Federais da Alemanha de 2025! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "2025 Germany Federal election results",
+        "hover_text": "German Federal Election 2025",
+        "share_text": "ਜਰਮਨੀ ਦੀਆਂ ਸੰਘੀ ਚੋਣਾਂ 2025! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Rezultatele alegerilor federale din Germania 2025",
+        "hover_text": "Alegeri parlamentare în Germania 2025",
+        "share_text": "Alegeri parlamentare în Germania 2025! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Результаты парламентских выборов в Германии – 2025",
+        "hover_text": "Парламентские выборы в Германии – 2025",
+        "share_text": "Парламентские выборы в Германии – 2025 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Резултати савезних избора у Немачкој 2025.",
+        "hover_text": "Савезни избори у Немачкој 2025.",
+        "share_text": "Савезни избори у Немачкој 2025! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Rezultati saveznih izbora u Nemačkoj 2025.",
+        "hover_text": "Savezni izbori u Nemačkoj 2025.",
+        "share_text": "Savezni izbori u Nemačkoj 2025! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "2025 ජර්මනියේ ෆෙඩරල් මැතිවරණ ප්‍රතිඵල",
+        "hover_text": "ජර්මානු ෆෙඩරල් මැතිවරණය 2025",
+        "share_text": "ජර්මානු ෆෙඩරල් මැතිවරණය 2025! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Výsledky volieb do Nemeckého spolkového snemu 2025",
+        "hover_text": "Nemecké federálne voľby 2025",
+        "share_text": "Voľby do Nemeckého spolkového snemu 2025. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Rezultati nemških zveznih volitev 2025",
+        "hover_text": "Nemške zvezne volitve 2025",
+        "share_text": "Nemške zvezne volitve 2025! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Resultados de las elecciones federales de Alemania 2025",
+        "hover_text": "Elecciones federales de Alemania 2025",
+        "share_text": "Hoy se celebran las elecciones federales de Alemania 2025 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Matokeo ya uchaguzi wa Ujerumani 2025",
+        "hover_text": "Uchaguzi wa Serikali ya Ujerumani 2025",
+        "share_text": "Uchaguzi wa Serikali ya Ujerumani 2025! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Valresultat för förbundsdagen i Tyskland 2025",
+        "hover_text": "Valet till förbundsdagen i Tyskland 2025",
+        "share_text": "Valet till förbundsdagen i Tyskland 2025! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "2025 Germany Federal election results",
+        "hover_text": "ஜெர்மன் கூட்டாட்சித் தேர்தல் 2025",
+        "share_text": "ஜெர்மன் கூட்டாட்சித் தேர்தல் 2025! #GoogleDoodle"
+      },
+      "te": {
+        "query": "2025 జర్మనీ ఫెడరల్ ఎన్నికల ఫలితాలు",
+        "hover_text": "జర్మనీ ఫెడరల్ ఎన్నికలు 2025",
+        "share_text": "జర్మనీ ఫెడరల్ ఎన్నికలు 2025! #GoogleDoodle"
+      },
+      "th": {
+        "query": "ผลการเลือกตั้งระดับสหพันธรัฐในเยอรมนีปี 2025",
+        "hover_text": "การเลือกตั้งสหพันธรัฐในเยอรมนีปี 2025",
+        "share_text": "การเลือกตั้งสหพันธรัฐในเยอรมนีปี 2025 #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "2025 Almanya Federal seçim sonuçları",
+        "hover_text": "2025 Almanya Federal Seçimi",
+        "share_text": "2025 Almanya Federal Seçimleri #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Результати федеральних виборів у Німеччині у 2025 році",
+        "hover_text": "Федеральні вибори в Німеччині у 2025 році",
+        "share_text": "Федеральні вибори в Німеччині у 2025 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "‫2025 کے جرمنی کے وفاقی انتخابات کے نتائج",
+        "hover_text": "جرمن وفاقی انتخابات 2025",
+        "share_text": "جرمن وفاقی انتخابات 2025! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "2025-yil Germaniya federal saylov natijalari",
+        "hover_text": "Germaniya federal saylovi 2025",
+        "share_text": "Germaniya federal saylovi 2025! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Kết quả bầu cử Liên bang Đức năm 2025",
+        "hover_text": "Bầu cử Liên bang Đức năm 2025",
+        "share_text": "Bầu cử Liên bang Đức năm 2025! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Imiphumela yokhetho yango-2025 yeGermany Federal",
+        "hover_text": "Ukhetho LweGerman Federal Lwango-2025",
+        "share_text": "Ukhetho lweGerman Federal lwango-2025! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "2025 Germany Federal election results",
+    "share_text": "German Federal Election 2025! #GoogleDoodle"
+  },
+  {
     "name": "german-federal-election-2025",
     "title": "German Federal Election 2025",
     "url": "//www.google.com/logos/doodles/2025/german-federal-election-2025-6753651837110659-l.png",
