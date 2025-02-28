@@ -1,5 +1,504 @@
 [
   {
+    "name": "family-day-2025",
+    "title": "Family Day 2025",
+    "url": "//www.google.com/logos/doodles/2025/mothers-day-2025-feb-28-6753651837110614-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/ipkTqEdnk8Xpv2JID20eHgqqvYfp1_UydwkwzgbhqDeH-qrl3YoJG_mRuZ7wFtAx58m68aEZsWaJzbbpODKpFLlskxLzJBuvteksX5f45M3Uk6h80XrtJg",
+    "high_res_url": "//www.google.com/logos/doodles/2025/mothers-day-2025-feb-28-6753651837110614-2x.png",
+    "high_res_width": 929,
+    "high_res_height": 400,
+    "run_date_array": [
+      2025,
+      2,
+      28
+    ],
+    "translations": {
+      "en": {
+        "query": "Family Day Israel",
+        "hover_text": "Family Day 2025",
+        "share_text": "Happy Family Day 2025! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Israel-gesinsdag",
+        "hover_text": "Gesinsdag 2025",
+        "share_text": "Gelukkige Gesinsdag 2025! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Familjes në Izrael",
+        "hover_text": "Dita e Familjes, 2025",
+        "share_text": "Gëzuar Ditën e Familjes, 2025! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የቤተሰብ ቀን እስራኤል",
+        "hover_text": "የቤተሰብ ቀን 2025",
+        "share_text": "መልካም የቤተሰብ ቀን 2025! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "يوم الأسرة",
+        "hover_text": "يوم الأسرة 2025",
+        "share_text": "الاحتفال بيوم الأسرة لعام 2025 ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ընտանիքի օր (Իսրայել)",
+        "hover_text": "Ընտանիքի օր 2025",
+        "share_text": "Շնորհավո՛ր ընտանիքի օրը 2025 #GoogleDoodle"
+      },
+      "az": {
+        "query": "İsrail Ailə Günü",
+        "hover_text": "2025 Ailə Günü",
+        "share_text": "2025 Ailə Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "ফ্যামিলি ডে ইজরায়েল",
+        "hover_text": "ফ্যামিলি ডে ২০২৫",
+        "share_text": "শুভ ফ্যামিলি ডে ২০২৫! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Israelgo Familien Eguna",
+        "hover_text": "2025eko Familien Eguna",
+        "share_text": "2025eko Familien Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень сям’і ў Ізраілі",
+        "hover_text": "Дзень сям’і 2025",
+        "share_text": "З Днём сям'і 2025! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan porodice u Izraelu",
+        "hover_text": "Dan porodice 2025.",
+        "share_text": "Sretan Dan porodice 2025! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Family Day Israel",
+        "hover_text": "Family Day 2025",
+        "share_text": "Happy Family Day 2025! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на семейството в Израел",
+        "hover_text": "Ден на семейството 2025 г.",
+        "share_text": "Честит Ден на семейството 2025 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အစ္စရေးနိုင်ငံ မိသားစုနေ့",
+        "hover_text": "၂၀၂၅ မိသားစုနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် ၂၀၂၅ မိသားစုနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Família (Israel)",
+        "hover_text": "Dia de la Família 2025",
+        "share_text": "Feliç Dia de la Família 2025! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "以色列家庭日",
+        "hover_text": "2025 年家庭日",
+        "share_text": "2025 年家庭日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "以色列家庭日",
+        "hover_text": "2025 家庭日",
+        "share_text": "2025 家庭日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "以色列家庭日",
+        "hover_text": "2025 年家庭日",
+        "share_text": "2025 年家庭日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan obitelji u Izraelu",
+        "hover_text": "Dan obitelji 2025.",
+        "share_text": "Sretan Dan obitelji 2025.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den rodiny (Izrael)",
+        "hover_text": "Den rodiny 2025",
+        "share_text": "Vše nejlepší ke Dni rodiny 2025! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Israels familiedag",
+        "hover_text": "Familiedag 2025",
+        "share_text": "Glædelig familiedag 2025! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Gezinsdag Israël",
+        "hover_text": "Gezinsdag 2025",
+        "share_text": "Fijne Gezinsdag 2025! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Iisraeli perekonnapäev",
+        "hover_text": "2025. aasta perekonnapäev",
+        "share_text": "Head 2025. aasta perekonnapäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Perheen päivä (Israel)",
+        "hover_text": "Perheen päivä 2025",
+        "share_text": "Hyvää perheen päivää 2025! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Journée de la famille en Israël",
+        "hover_text": "Journée de la famille 2025",
+        "share_text": "Journée de la famille 2025 ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Journée de la Famille en Israël",
+        "hover_text": "Journée de la Famille 2025",
+        "share_text": "Bonne journée de la Famille 2025! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Familia en Israel",
+        "hover_text": "Día da Familia 2025",
+        "share_text": "Feliz Día da Familia 2025! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ოჯახის დღე ისრაელში",
+        "hover_text": "ოჯახის დღე — 2025",
+        "share_text": "გილოცავთ 2025 წლის ოჯახის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Familientag in Israel",
+        "hover_text": "Familientag 2025",
+        "share_text": "Wir feiern den Familientag 2025 #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα της Οικογένειας στο Ισραήλ",
+        "hover_text": "Ημέρα της Οικογένειας 2025",
+        "share_text": "Χαρούμενη Ημέρα της Οικογένειας 2025! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ઇઝરાઇલમાં ઉજવાતો ફૅમિલી ડે",
+        "hover_text": "ફૅમિલી ડે 2025",
+        "share_text": "ફૅમિલી ડે 2025ની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום המשפחה",
+        "hover_text": "יום המשפחה 2025",
+        "share_text": "יום המשפחה 2025 שמח! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "इज़रायल का फ़ैमिली डे",
+        "hover_text": "फ़ैमिली डे 2025",
+        "share_text": "फ़ैमिली डे 2025 की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Családok napja (Izrael)",
+        "hover_text": "Családok napja, 2025",
+        "share_text": "Boldog családok napját 2025-ben! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Fjölskyldudagurinn í Ísrael",
+        "hover_text": "Fjölskyldudagurinn 2025",
+        "share_text": "Gleðilegan fjölskyldudag 2025! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Keluarga Israel",
+        "hover_text": "Hari Keluarga 2025",
+        "share_text": "Selamat Hari Keluarga 2025! #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Giorno della famiglia in Israele",
+        "hover_text": "Giorno della famiglia 2025",
+        "share_text": "Felice giorno della famiglia 2025! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ファミリーデー（イスラエル）",
+        "hover_text": "2025 年ファミリーデー",
+        "share_text": "2025 年ファミリーデーを祝おう #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಇಸ್ರೇಲ್ ಕುಟುಂಬ ದಿನ",
+        "hover_text": "ಕುಟುಂಬ ದಿನ 2025",
+        "share_text": "ಕುಟುಂಬ ದಿನಾಚಾರಣೆ 2025 ರ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Израильдегі Отбасы күні",
+        "hover_text": "Отбасы күні – 2025",
+        "share_text": "2025 жылғы отбасы күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​គ្រួសារនៅអ៊ីស្រាអែល",
+        "hover_text": "ទិវា​គ្រួសារ​ឆ្នាំ 2025",
+        "share_text": "អបអរ​ទិវា​គ្រួសារ​ឆ្នាំ 2025! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "이스라엘 가족의 날",
+        "hover_text": "2025년 가족의 날",
+        "share_text": "2025년 가족의 날 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Израилдеги Үй-бүлө күнү",
+        "hover_text": "Үй-бүлө күнү – 2025",
+        "share_text": "2025-жылкы Үй-бүлө күнүңүз менен! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນຄອບຄົວຂອງອິສຣາເອວ",
+        "hover_text": "ວັນຄອບຄົວປີ 2025",
+        "share_text": "ສຸກສັນວັນຄອບຄົວປີ 2025! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Familia en Israel",
+        "hover_text": "Día de la Familia 2025",
+        "share_text": "¡Feliz Día de la Familia 2025! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Ģimenes diena Izraēlā",
+        "hover_text": "Ģimenes diena — 2025",
+        "share_text": "Sveicam Ģimenes dienā — 2025! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Šeimos diena (Izraelis)",
+        "hover_text": "Šeimos diena, 2025 m.",
+        "share_text": "Linksmos Šeimos dienos, 2025 m.! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на семејството на Израел",
+        "hover_text": "Ден на семејството, 2025 г.",
+        "share_text": "Среќен Ден на семејството, 2025 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Hari Keluarga Israel",
+        "hover_text": "Hari Keluarga 2025",
+        "share_text": "Selamat Hari Keluarga 2025! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ഇസ്രയേൽ കുടുംബ ദിനം",
+        "hover_text": "കുടുംബ ദിനം 2025",
+        "share_text": "2025 കുടുംബ ദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "इस्रायलमधील फॅमिली डे",
+        "hover_text": "फॅमिली डे २०२५",
+        "share_text": "फॅमिली डे २०२५ च्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Израил Улсын Гэр бүлийн өдөр",
+        "hover_text": "2025 оны Гэр бүлийн өдөр",
+        "share_text": "2025 оны Гэр бүлийн өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "परिवार दिवस इजरायल",
+        "hover_text": "परिवार दिवस २०२५",
+        "share_text": "परिवार दिवस २०२५ को शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Familiedagen (Israel)",
+        "hover_text": "Familiedagen",
+        "share_text": "Gratulerer med familiedagen 2025 #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز خانواده اسرائیل",
+        "hover_text": "روز خانواده ۲۰۲۵",
+        "share_text": "روز خانواده ۲۰۲۵ مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Rodziny w Izraelu",
+        "hover_text": "Dzień Rodziny 2025",
+        "share_text": "Świętujemy Dzień Rodziny 2025 #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Família (Israel)",
+        "hover_text": "Dia da Família 2025",
+        "share_text": "Feliz Dia da Família 2025! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da Família de Israel",
+        "hover_text": "Dia da Família de 2025",
+        "share_text": "Feliz Dia da Família de 2025! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Family Day Israel",
+        "hover_text": "ਪਰਿਵਾਰ ਦਿਵਸ 2025",
+        "share_text": "ਪਰਿਵਾਰ ਦਿਵਸ 2025 ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Familiei în Israel",
+        "hover_text": "Ziua Familiei 2025",
+        "share_text": "La mulți ani de Ziua Familiei 2025! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День семьи (Израиль)",
+        "hover_text": "День семьи – 2025",
+        "share_text": "День семьи – 2025 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан породице у Израелу",
+        "hover_text": "Дан породице 2025.",
+        "share_text": "Срећан Дан породице 2025! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan porodice u Izraelu",
+        "hover_text": "Dan porodice 2025.",
+        "share_text": "Srećan Dan porodice 2025! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ඊශ්‍රායලයේ පවුල් දිනය",
+        "hover_text": "පවුල් දිනය 2025",
+        "share_text": "සුබ පවුල් දිනයක් 2025! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň rodiny v Izraeli",
+        "hover_text": "Deň rodiny 2025",
+        "share_text": "Šťastný Deň rodiny 2025. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan družine (Izrael)",
+        "hover_text": "Dan družine 2025",
+        "share_text": "Vesel dan družine 2025! #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día de la Familia en Israel",
+        "hover_text": "Día de la Familia 2025",
+        "share_text": "¡Feliz Día de la Familia 2025! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Familia nchini Israeli",
+        "hover_text": "Sikukuu ya Familia 2025",
+        "share_text": "Heri ya Sikukuu ya Familia 2025! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Familjedagen i Israel",
+        "hover_text": "Familjedagen 2025",
+        "share_text": "Glad familjedag 2025! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Family Day Israel",
+        "hover_text": "குடும்ப தினம் 2025",
+        "share_text": "குடும்ப தின வாழ்த்துகள் 2025! #GoogleDoodle"
+      },
+      "te": {
+        "query": "ఇజ్రాయిల్ కుటుంబ దినోత్సవం",
+        "hover_text": "కుటుంబ దినోత్సవం 2025",
+        "share_text": "2025 కుటుంబ దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันครอบครัวอิสราเอล",
+        "hover_text": "วันครอบครัวปี 2025",
+        "share_text": "สุขสันต์วันครอบครัว 2025! #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "İsrail Aile Günü",
+        "hover_text": "2025 Aile Günü",
+        "share_text": "2025 Aile Günü'nü kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День сім’ї в Ізраїлі",
+        "hover_text": "День сім’ї у 2025 році",
+        "share_text": "З Днем сім’ї у 2025 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "فیملی ڈے اسرائیل",
+        "hover_text": "فیملی ڈے 2025",
+        "share_text": "فیملی ڈے 2025 مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Isroil Oila kuni",
+        "hover_text": "Oila kuni 2025",
+        "share_text": "Oila kuni muborak – 2025! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày Gia đình Israel",
+        "hover_text": "Ngày Gia đình năm 2025",
+        "share_text": "Mừng Ngày Gia đình năm 2025! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku Lomndeni lwaka-Israel",
+        "hover_text": "Usuku Lomndeni lwango-2025",
+        "share_text": "Sikufisela Usuku Lomndeni Oluhle lwango-2025! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Family Day Israel",
+    "share_text": "Happy Family Day 2025! #GoogleDoodle"
+  },
+  {
     "name": "estonia-independence-day-2025",
     "title": "Estonia Independence Day 2025",
     "url": "//www.google.com/logos/doodles/2025/estonia-independence-day-2025-6753651837110723-law.gif",
