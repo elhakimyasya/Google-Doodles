@@ -1,5 +1,504 @@
 [
   {
+    "name": "international-womens-day-2025",
+    "title": "International Women's Day 2025",
+    "url": "//www.google.com/logos/doodles/2025/international-womens-day-2025-6753651837110620.4-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/7JSfh_-ka-0hv1ShZW3OJc7DTkig4gDr3Ta1izO5U_cAuchz3oNDJOimrR79kxJloYvj9zKYK0zWYSAE04IevA_vnGc7hD9F0mGv6lcvrxf8Mif4VasE",
+    "high_res_url": "//www.google.com/logos/doodles/2025/international-womens-day-2025-6753651837110620.3-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2025,
+      3,
+      8
+    ],
+    "translations": {
+      "en": {
+        "query": "Women in STEM fields",
+        "hover_text": "International Women's Day 2025",
+        "share_text": "International Women's Day 2025! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Vroue in vakgebiede wetenskap, tegnologie, ingenieurswese en wiskunde",
+        "hover_text": "Internasionale Vrouedag 2025",
+        "share_text": "Internasionale Vrouedag 2025! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Gratë në fushat e STEM",
+        "hover_text": "Dita Ndërkombëtare e Gruas, 2025",
+        "share_text": "Dita Ndërkombëtare e Gruas, 2025! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ሴቶች በSTEM መስኮች ውስጥ",
+        "hover_text": "ዓለም አቀፍ የሴቶች ቀን 2025",
+        "share_text": "ዓለም አቀፍ የሴቶች ቀን 2025! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "النساء في مجالات العلوم والتكنولوجيا والهندسة والرياضيات",
+        "hover_text": "اليوم العالمي للمرأة 2025",
+        "share_text": "نحتفل باليوم العالمي للمرأة لعام 2025. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Կանայք STEM ոլորտներում",
+        "hover_text": "Կանանց միջազգային օր 2025",
+        "share_text": "Կանանց միջազգային օր 2025 #GoogleDoodle"
+      },
+      "az": {
+        "query": "STEM sahələrindəki qadınlar",
+        "hover_text": "2025 Beynəlxalq Qadınlar Günü",
+        "share_text": "2025 Beynəlxalq Qadınlar Günü! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "বিজ্ঞান, প্রযুক্তি, ইঞ্জিনিয়ারিং ও গণিত (STEM) বিষয়ক ক্ষেত্রগুলিতে মহিলাদের অবদান",
+        "hover_text": "আন্তর্জাতিক নারী দিবস ২০২৫",
+        "share_text": "আন্তর্জাতিক নারী দিবস ২০২৫! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Emakumeak zientzian, teknologian, ingeniaritzan eta matematikan",
+        "hover_text": "2025eko Emakumeen Nazioarteko Eguna",
+        "share_text": "2025eko Emakumeen Nazioarteko Eguna #GoogleDoodle"
+      },
+      "be": {
+        "query": "Жанчыны ў галіне навукі, тэхналогіі, інжынернай справы і матэматыкі",
+        "hover_text": "Міжнародны жаночы дзень 2025",
+        "share_text": "Міжнародны жаночы дзень 2025! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Žene u područjima STEM-a",
+        "hover_text": "Međunarodni dan žena 2025.",
+        "share_text": "Međunarodni dan žena 2025! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Women in STEM fields",
+        "hover_text": "International Women's Day 2025",
+        "share_text": "International Women's Day 2025 #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Жени в областта на науката, технологиите, инженерството и математиката (STEM)",
+        "hover_text": "Международен ден на жената 2025 г.",
+        "share_text": "Международен ден на жената 2025 г.! #GoogleDoodle"
+      },
+      "my": {
+        "query": "STEM နယ်ပယ်ရှိ အမျိုးသမီးများ",
+        "hover_text": "၂၀၂၅ အပြည်ပြည်ဆိုင်ရာ အမျိုးသမီးများနေ့",
+        "share_text": "၂၀၂၅ အပြည်ပြည်ဆိုင်ရာ အမျိုးသမီးများနေ့။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dones en àmbits de STEM",
+        "hover_text": "Dia Internacional de la Dona 2025",
+        "share_text": "Dia Internacional de la Dona 2025 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "國際婦女節",
+        "hover_text": "2025 年國際婦女節",
+        "share_text": "2025 年國際婦女節！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "STEM 領域傑出女性",
+        "hover_text": "2025 國際婦女節",
+        "share_text": "2025 國際婦女節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "科学、技术、工程和数学领域的女性",
+        "hover_text": "2025 年国际妇女节",
+        "share_text": "2025 年国际妇女节！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Žene u STEM-u",
+        "hover_text": "Međunarodni dan žena 2025.",
+        "share_text": "Međunarodni dan žena 2025.! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Ženy v oborech STEM",
+        "hover_text": "Mezinárodní den žen 2025",
+        "share_text": "Slavíme Mezinárodní den žen 2025! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Kvindernes Internationale Kampdag",
+        "hover_text": "Kvindernes internationale kampdag 2025",
+        "share_text": "Kvindernes internationale kampdag 2025 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Vrouwen in STEM-vakgebieden",
+        "hover_text": "Internationale Vrouwendag 2025",
+        "share_text": "Internationale Vrouwendag 2025! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Naiste saavutused STEM-valdkondades",
+        "hover_text": "2025. aasta rahvusvaheline naistepäev",
+        "share_text": "2025. aasta rahvusvaheline naistepäev! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Naiset LUMA-aloilla",
+        "hover_text": "Kansainvälinen naistenpäivä 2025",
+        "share_text": "Kansainvälinen naistenpäivä 2025 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Les femmes dans les sciences, les technologies, l'ingénierie et les mathématiques",
+        "hover_text": "Journée internationale des droits des femmes 2025",
+        "share_text": "Journée internationale des droits des femmes 2025 ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Femmes dans les domaines des STIM",
+        "hover_text": "Journée internationale des femmes 2025",
+        "share_text": "Journée internationale des femmes 2025! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Mulleres en disciplinas CTEM",
+        "hover_text": "Día Internacional da Muller 2025",
+        "share_text": "Día Internacional da Muller 2025! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ქალები STEM დარგებში",
+        "hover_text": "ქალთა საერთაშორისო დღე — 2025",
+        "share_text": "ქალთა საერთაშორისო დღე — 2025! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Frauen in MINT-Fächern",
+        "hover_text": "Internationaler Frauentag 2025",
+        "share_text": "Internationaler Frauentag 2025 #GoogleDoodle"
+      },
+      "el": {
+        "query": "Γυναίκες στους κλάδους STEM",
+        "hover_text": "Παγκόσμια Ημέρα της Γυναίκας 2025",
+        "share_text": "Παγκόσμια Ημέρα της Γυναίκας 2025! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "STEMના ક્ષેત્રોમાં મહિલાઓ",
+        "hover_text": "આંતરરાષ્ટ્રીય મહિલા દિવસ 2025",
+        "share_text": "આંતરરાષ્ટ્રીય મહિલા દિવસ 2025! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "נשים בתחומי המדע והטכנולוגיה",
+        "hover_text": "יום האישה הבינלאומי 2025",
+        "share_text": "יום האישה הבינלאומי 2025 GoogleDoodle#"
+      },
+      "hi": {
+        "query": "साइंस, टेक्नोलॉजी, इंजीनियरिंग, और मैथमेटिक्स (एसटीईएम) के क्षेत्र में महिलाएं",
+        "hover_text": "अंतरराष्ट्रीय महिला दिवस 2025",
+        "share_text": "अंतरराष्ट्रीय महिला दिवस 2025! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Műszaki és természettudományos szakokon tevékenykedő nők",
+        "hover_text": "Nemzetközi nőnap, 2025",
+        "share_text": "Nemzetközi nőnap, 2025! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Konur í STEM-greinum",
+        "hover_text": "Alþjóðlegur baráttudagur kvenna 2025",
+        "share_text": "Alþjóðlegur baráttudagur kvenna 2025! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Peran perempuan di bidang STEM",
+        "hover_text": "Hari Perempuan Internasional 2025",
+        "share_text": "Hari Perempuan Internasional 2025 #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Idirnáisiúnta na mBan",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Donne nelle discipline STEM",
+        "hover_text": "Giornata internazionale della donna 2025",
+        "share_text": "Giornata internazionale della donna 2025! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "STEM 分野における女性",
+        "hover_text": "2025 年国際女性デー",
+        "share_text": "2025 年国際女性デー！ #GoogleDoodle"
+      },
+      "kn": {
+        "query": "STEM ಫೀಲ್ಡ್‌ಗಳಲ್ಲಿ ಮಹಿಳೆಯರು",
+        "hover_text": "ಅಂತಾರಾಷ್ಟ್ರೀಯ ಮಹಿಳಾ ದಿನ 2025",
+        "share_text": "ಅಂತಾರಾಷ್ಟ್ರೀಯ ಮಹಿಳಾ ದಿನ 2025! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "STEM саласындағы әйелдер",
+        "hover_text": "Халықаралық әйелдер күні – 2025",
+        "share_text": "2025 жылғы Халықаралық әйелдер күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ស្ត្រីក្នុងវិស័យ STEM",
+        "hover_text": "ទិវា​សិទ្ធិនារី​អន្តរជាតិ​ឆ្នាំ 2025",
+        "share_text": "ទិវា​សិទ្ធិនារី​អន្តរជាតិ​ឆ្នាំ 2025! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "STEM 분야의 여성들",
+        "hover_text": "2025년 세계 여성의 날",
+        "share_text": "2025년 세계 여성의 날 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Так илимдер (STEM) жаатындагы аялдар",
+        "hover_text": "Эл аралык аялдар күнү – 2025",
+        "share_text": "Эл аралык аялдар күнү – 2025! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ແມ່ຍິງໃນຂະແໜງການ STEM",
+        "hover_text": "ວັນແມ່ຍິງສາກົນ 2025",
+        "share_text": "ວັນແມ່ຍິງສາກົນ 2025! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Mujeres en campos de CTIM",
+        "hover_text": "Día Internacional de la Mujer 2025",
+        "share_text": "Día Internacional de la Mujer 2025 #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Starptautiskā sieviešu diena",
+        "hover_text": "Starptautiskā sieviešu diena — 2025",
+        "share_text": "Starptautiskā sieviešu diena — 2025! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Tarptautinė moters diena",
+        "hover_text": "Tarptautinė moters diena, 2025 m.",
+        "share_text": "Tarptautinė moters diena, 2025 m.! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Жени што се занимаваат со наука, технологија, инженерство и математика",
+        "hover_text": "Меѓународен ден на жената, 2025 г.",
+        "share_text": "Меѓународен ден на жената, 2025 г.! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Andro iraisam-pirenena ho an'ny vehivavy",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Wanita dalam bidang STEM",
+        "hover_text": "Hari Wanita Sedunia 2025",
+        "share_text": "Hari Wanita Sedunia 2025! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "STEM മേഖലകളിലുള്ള സ്ത്രീകൾ",
+        "hover_text": "അന്താരാഷ്ട്ര വനിതാ ദിനം 2025",
+        "share_text": "അന്താരാഷ്ട്ര വനിതാ ദിനം 2025! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "STEM क्षेत्रांमधील महिला",
+        "hover_text": "आंतरराष्ट्रीय महिला दिन २०२५",
+        "share_text": "आंतरराष्ट्रीय महिला दिन २०२५! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Шинжлэх ухаан, технологи, инженерчлэл, математикийн салбарууд дахь эмэгтэйчүүд",
+        "hover_text": "2025 оны Олон улсын эмэгтэйчүүдийн эрхийг хамгаалах өдөр",
+        "share_text": "2025 оны Олон улсын эмэгтэйчүүдийн эрхийг хамгаалах өдөр! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "STEM क्षेत्रहरूमा आबद्ध महिलाहरू",
+        "hover_text": "अन्तर्राष्ट्रिय नारी दिवस २०२५",
+        "share_text": "अन्तर्राष्ट्रिय नारी दिवस २०२५! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Kvinner i realfag",
+        "hover_text": "Den internasjonale kvinnedagen 2025",
+        "share_text": "Den internasjonale kvinnedagen 2025! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଆନ୍ତର୍ଜାତିକ ମହିଳା ଦିବସ",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "زنان فعال در رشته‌های علوم، فناوری، مهندسی، و ریاضیات",
+        "hover_text": "روز جهانی زن ۲۰۲۵",
+        "share_text": "روز جهانی زن ۲۰۲۵! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Osiągnięcia kobiet w naukach przyrodniczych, technice, inżynierii i matematyce",
+        "hover_text": "Międzynarodowy Dzień Kobiet 2025",
+        "share_text": "Międzynarodowy Dzień Kobiet 2025 #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Mulheres nas áreas de STEM",
+        "hover_text": "Dia Internacional da Mulher 2025",
+        "share_text": "O Doodle de hoje em homenagem ao Dia Internacional da Mulher destaca como as mulheres moldaram as áreas de ciência, tecnologia, engenharia e matemática (STEM) com suas descobertas. #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Mulheres em áreas CTEM",
+        "hover_text": "Dia Internacional da Mulher de 2025",
+        "share_text": "Dia Internacional da Mulher de 2025! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Women in STEM fields",
+        "hover_text": "ਅੰਤਰਰਾਸ਼ਟਰੀ ਮਹਿਲਾ ਦਿਵਸ 2025",
+        "share_text": "ਅੰਤਰਰਾਸ਼ਟਰੀ ਮਹਿਲਾ ਦਿਵਸ 2025! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Femei în domeniile științei, tehnologiei, ingineriei și matematicii (STEM)",
+        "hover_text": "Ziua Internațională a Femeii 2025",
+        "share_text": "Ziua Internațională a Femeii 2025! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Вклад женщин в точные науки",
+        "hover_text": "Международный женский день – 2025",
+        "share_text": "Международный женский день – 2025 #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Жене у природним наукама, технологији, инжењерингу и математици",
+        "hover_text": "Међународни дан жена 2025.",
+        "share_text": "Међународни дан жена 2025! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Žene u prirodnim naukama, tehnologiji, inženjeringu i matematici",
+        "hover_text": "Međunarodni dan žena 2025.",
+        "share_text": "Međunarodni dan žena 2025! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "International Women's Day",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "STEM ක්ෂේත්‍රවල කාන්තාවන්",
+        "hover_text": "ජාත්‍යන්තර කාන්තා දිනය 2025",
+        "share_text": "ජාත්‍යන්තර කාන්තා දිනය 2025! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Ženy v odboroch STEM",
+        "hover_text": "Medzinárodný deň žien 2025",
+        "share_text": "Medzinárodný deň žien 2025. #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Ženske na področjih naravoslovja, tehnologije, inženiringa in matematike",
+        "hover_text": "Mednarodni dan žena 2025",
+        "share_text": "Mednarodni dan žena 2025! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Caalamiga ah ee Haweenka",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": "Letsatsi la Basadi la Lefatshe",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Mujeres en los campos de STEM (CTIM)",
+        "hover_text": "Día Internacional de la Mujer 2025",
+        "share_text": "Hoy es el Día Internacional de la Mujer 2025 #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Wanawake walio katika taaluma za Sayansi, Teknolojia, Uhandisi na Hisabati (STEM)",
+        "hover_text": "Siku ya Wanawake Duniani 2025",
+        "share_text": "Siku ya Wanawake Duniani 2025! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Kvinnor inom STEM-områden",
+        "hover_text": "Internationella kvinnodagen 2025",
+        "share_text": "Internationella kvinnodagen 2025 #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "STEM துறைகளில் பெண்கள்",
+        "hover_text": "சர்வதேச மகளிர் தினம் 2025",
+        "share_text": "சர்வதேச மகளிர் தினம் 2025! #GoogleDoodle"
+      },
+      "te": {
+        "query": "STEM రంగాల్లో తమ సత్తా చాటిన మహిళలు",
+        "hover_text": "అంతర్జాతీయ మహిళా దినోత్సవం 2025",
+        "share_text": "అంతర్జాతీయ మహిళా దినోత్సవం 2025! #GoogleDoodle"
+      },
+      "th": {
+        "query": "ผู้หญิงในวงการ STEM",
+        "hover_text": "วันสตรีสากลปี 2025",
+        "share_text": "วันสตรีสากลปี 2025! #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Basadi la Ditšhabatšhaba",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "STEM alanındaki kadınlar",
+        "hover_text": "2025 Dünya Kadınlar Günü",
+        "share_text": "2025 Dünya Kadınlar Günü #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Жінки в галузях STEM",
+        "hover_text": "Міжнародний жіночий день у 2025 році",
+        "share_text": "Міжнародний жіночий день у 2025 році! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "‫STEM فیلڈز میں خواتین",
+        "hover_text": "عالمی یوم خواتین 2025",
+        "share_text": "عالمی یوم خواتین 2025! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "STEM sohasidagi ayollar",
+        "hover_text": "Xalqaro xotin-qizlar kuni 2025",
+        "share_text": "Xalqaro xotin-qizlar kuni 2025! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Phụ nữ trong các ngành STEM",
+        "hover_text": "Ngày Quốc tế Phụ nữ năm 2025",
+        "share_text": "Ngày Quốc tế Phụ nữ năm 2025! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Abesifazane abasemikhakheni ye-STEM",
+        "hover_text": "Usuku Lwamazwe Ngamazwe Lwabesifazane Lwango-2025",
+        "share_text": "Usuku Lwamazwe Ngamazwe Lwabesifazane Lwango-2025! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Women in STEM fields",
+    "share_text": "International Women's Day 2025! #GoogleDoodle"
+  },
+  {
     "name": "mothers-day-2025-march-3",
     "title": "Mother's Day 2025 (March 3)",
     "url": "//www.google.com/logos/doodles/2025/mothers-day-2025-march-3-6753651837110618-l.png",
