@@ -1,5 +1,504 @@
 [
   {
+    "name": "nowruz-2025",
+    "title": "Nowruz 2025",
+    "url": "//www.google.com/logos/doodles/2025/nowruz-2025-6753651837110627-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/WJuoeQEBpWhksijggljzXrWqoISTIpLV_OtgMicSLFWqRF_aDGOR7-kBhqJAIXdny62Jy_yT82xYpsbJXg24EIKuYjQWACONZl8viIi54PVnM6XFg7zNLQ",
+    "high_res_url": "//www.google.com/logos/doodles/2025/nowruz-2025-6753651837110627-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2025,
+      3,
+      20
+    ],
+    "translations": {
+      "en": {
+        "query": "Nowruz",
+        "hover_text": "Nowruz 2025",
+        "share_text": "Happy Nowruz! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Persiese Nuwejaar (Nowruz)",
+        "hover_text": "Nowruz (Persiese Nuwejaar) 2025",
+        "share_text": "Gelukkige Nowruz (Persiese Nuwejaar)! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Novruzi",
+        "hover_text": "Novruzi, 2025",
+        "share_text": "Gëzuar Novruzin, 2021! #GoogleDoodle"
+      },
+      "am": {
+        "query": "ኖውሩዝ",
+        "hover_text": "ኖውሩዝ 2025",
+        "share_text": "መልካም ኖውሩዝ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "النَّيروز",
+        "hover_text": "عيد النَّيروز 2025",
+        "share_text": "أطيب الأمنيات بعيد النَّيروز. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Նովրուզ",
+        "hover_text": "Նովրուզ 2025",
+        "share_text": "Շնորհավո՛ր Նովրուզ #GoogleDoodle"
+      },
+      "az": {
+        "query": "Novruz",
+        "hover_text": "2025 Novruz Bayramı",
+        "share_text": "Novruz Bayramınız Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "নওরোজ",
+        "hover_text": "নওরোজ ২০২৪",
+        "share_text": "নওরোজের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Noruz-a",
+        "hover_text": "2025ko Noruz-a",
+        "share_text": "Noruz zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Наўруз",
+        "hover_text": "Наўруз 2025",
+        "share_text": "Са святам Наўруз! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Novruz",
+        "hover_text": "Novruz 2025.",
+        "share_text": "Sretan Novruz! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Nowruz",
+        "hover_text": "Nowruz 2025",
+        "share_text": "Happy Nowruz #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Норуз",
+        "hover_text": "Норуз 2025 г.",
+        "share_text": "Честит Норуз! #GoogleDoodle"
+      },
+      "my": {
+        "query": "အီရန် နှစ်သစ်ကူးနေ့",
+        "hover_text": "၂၀၂၄ အီရန်နိုင်ငံ နှစ်သစ်ကူးနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် အီရန် နှစ်သစ်ကူးနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Noruz",
+        "hover_text": "Noruz 2025",
+        "share_text": "Feliç Noruz! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "納吾肉孜節",
+        "hover_text": "2025 年納吾肉孜節",
+        "share_text": "納吾肉孜節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "波斯新年",
+        "hover_text": "2025 年諾魯茲節",
+        "share_text": "波斯新年快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "纳吾肉孜节",
+        "hover_text": "2025 年诺鲁孜节",
+        "share_text": "诺鲁孜节快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Novruz",
+        "hover_text": "Nowruz 2025.",
+        "share_text": "Sretan Novruz! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Nourúz",
+        "hover_text": "Nourúz 2025",
+        "share_text": "Šťastný svátek Nourúz! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Novruz",
+        "hover_text": "Nowruz 2025",
+        "share_text": "Glædelig Novruz #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Noroez",
+        "hover_text": "Noroez 2025",
+        "share_text": "Prettig Noroez 2021 #GoogleDoodle"
+      },
+      "et": {
+        "query": "Nowruz",
+        "hover_text": "Nowruz 2025",
+        "share_text": "Head Nowruzi! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Noruz",
+        "hover_text": "Nowruz 2025",
+        "share_text": "Hyvää nowruzia 2021! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Norouz",
+        "hover_text": "Norouz 2025",
+        "share_text": "Joyeux Norouz 2021 ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Norouz",
+        "hover_text": "Nawroz 2025",
+        "share_text": "Joyeuse Nawroz! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Nouruz",
+        "hover_text": "Nouruz 2025",
+        "share_text": "Feliz Nouruz! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ნოვრუზი",
+        "hover_text": "ნოვრუზი 2025",
+        "share_text": "გილოცავთ ნოვრუზს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Nouruz",
+        "hover_text": "Nouruz 2025",
+        "share_text": "Ein schönes Nouruz-Fest! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Nowruz",
+        "hover_text": "Nowruz 2025",
+        "share_text": "Χαρούμενο Nowruz 2021! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "નવરોઝ",
+        "hover_text": "નવરોઝ 2025",
+        "share_text": "નવરોઝની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "iw": {
+        "query": "נורוז",
+        "hover_text": "נורוז 2025",
+        "share_text": "נורוז שמח! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "नौरोज़",
+        "hover_text": "नवरोज़ 2025",
+        "share_text": "नवरोज़ की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Perzsa újév",
+        "hover_text": "Perzsa újév, 2025",
+        "share_text": "Boldog perzsa újévet! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Nowruz",
+        "hover_text": "Nowruz 2025",
+        "share_text": "Gleðilegt Nowruz! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Nowruz",
+        "hover_text": "Nowruz 2025",
+        "share_text": "Selamat Merayakan Nowruz! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Nowruz",
+        "hover_text": "Nowruz 2025",
+        "share_text": "Nowruz faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Nowruz",
+        "hover_text": "Nowruz 2025",
+        "share_text": "Buon Nowruz! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "ノウルーズ",
+        "hover_text": "2025 年ノウルーズ",
+        "share_text": "ノウルーズを祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ನೌರಜ್",
+        "hover_text": "ನೌರುಜ್ 2025",
+        "share_text": "ನೌರಜ್ ನ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Наурыз",
+        "hover_text": "Наурыз – 2025",
+        "share_text": "Наурыз құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ថ្ងៃចូលឆ្នាំ​របស់​អ៊ីរ៉ង់",
+        "hover_text": "ទិវាបុណ្យណូរូសឆ្នាំ 2025",
+        "share_text": "អបអរ​ទិវាបុណ្យ​ណូរូស! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "누루즈",
+        "hover_text": "2025년 노루즈",
+        "share_text": "누루즈 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Нооруз",
+        "hover_text": "Нооруз – 2025",
+        "share_text": "Нооруз майрамыңыз менен! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "Nowruz",
+        "hover_text": "ເທດສະການໂນຣູຊ 2025",
+        "share_text": "ສຸກສັນວັນປີໃໝ່ຊາວອີຣານ 2021! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Nouruz",
+        "hover_text": "Nouruz 2025",
+        "share_text": "¡Feliz Nouruz! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Novrūzs",
+        "hover_text": "Novrūzs — 2025",
+        "share_text": "Priecīgus Novrūza svētkus! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Novrūzas",
+        "hover_text": "Novrūzas, 2025 m.",
+        "share_text": "Linksmo Novrūzo! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Новруз",
+        "hover_text": "Новруз, 2025 г.",
+        "share_text": "Среќна Новруз! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Nowruz",
+        "hover_text": "",
+        "share_text": "Tsarà Nowruz ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Nowruz",
+        "hover_text": "Nowruz 2025",
+        "share_text": "Selamat Menyambut Nowruz! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "നൗറൂസ്",
+        "hover_text": "നൗറൂസ് 2025",
+        "share_text": "നൗറൂസ് ആശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "mr": {
+        "query": "Nowruz",
+        "hover_text": "नवरोझ २०२४",
+        "share_text": "नौरूझच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Наурызын баяр",
+        "hover_text": "2025 оны Наурызын баяр",
+        "share_text": "2021 оны Наурызын баярын мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "Nowruz",
+        "hover_text": "Nowruz २०२४",
+        "share_text": "Nowruz को शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Nowruz",
+        "hover_text": "Nowruz 2025",
+        "share_text": "God Nowruz! #GoogleDoodle"
+      },
+      "nn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ny": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "or": {
+        "query": "ନୌରଜ୍‌",
+        "hover_text": "",
+        "share_text": "ନୌରଜର ଶୁଭେଚ୍ଛା! #GoogleDoodle"
+      },
+      "ps": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "fa": {
+        "query": "نوروز",
+        "hover_text": "نوروز ۲۰۲۴",
+        "share_text": "نوروز مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Nouruz",
+        "hover_text": "Nouruz 2025",
+        "share_text": "Obchodzimy Nouruz #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Nowruz",
+        "hover_text": "Nowruz 2025",
+        "share_text": "Feliz Nowruz! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Nowruz",
+        "hover_text": "Nowruz de 2025",
+        "share_text": "Feliz Nowruz! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਨਵਰੋਜ਼",
+        "hover_text": "ਨੌਰੋਜ਼ 2025",
+        "share_text": "ਨਵਰੋਜ਼ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Nowruz",
+        "hover_text": "Nowruz 2025",
+        "share_text": "Nowruz fericit – 2021! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Новруз",
+        "hover_text": "Новруз – 2025",
+        "share_text": "Новруз #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Новруз",
+        "hover_text": "Новруз 2025.",
+        "share_text": "Срећан Новруз! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Novruz",
+        "hover_text": "Novruz 2025.",
+        "share_text": "Srećan Novruz! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Nowruz",
+        "hover_text": "",
+        "share_text": "Bonn Nowruz! #GoogleDoodle"
+      },
+      "sn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "si": {
+        "query": "නොව්රුස්",
+        "hover_text": "නොව්රුස් 2025",
+        "share_text": "ප්‍රීතිමත් නොව්රුස්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Nowruz",
+        "hover_text": "Nourúz 2025",
+        "share_text": "Šťastný Nowruz! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Nauruz",
+        "hover_text": "Nauruz 2025",
+        "share_text": "Vesel nauruz 2021! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Nowruz",
+        "hover_text": "",
+        "share_text": "Nowruz farxad leh! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Nowruz",
+        "hover_text": "",
+        "share_text": "Thabela Selemo se Setjha sa Nowruz sa 2020! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Nouruz",
+        "hover_text": "Nouruz 2025",
+        "share_text": "¡Feliz Nouruz! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Mwaka Mpya wa Kiajemi",
+        "hover_text": "Mwaka Mpya wa Kiajemi 2025",
+        "share_text": "Heri za Mwaka Mpya wa Kiajemi! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Nouruz",
+        "hover_text": "Nouruz 2025",
+        "share_text": "Glad nouruz! #GoogleDoodle"
+      },
+      "tg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ta": {
+        "query": "நவ்ருஸ்",
+        "hover_text": "நவ்ரூஸ் 2025",
+        "share_text": "நவ்ரூஸ் வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "నౌరుజ్",
+        "hover_text": "నవ్‌రూజ్ 2025",
+        "share_text": "నౌరుజ్ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "เทศกาลเนารูซ",
+        "hover_text": "เทศกาลโนว์รูซปี 2025",
+        "share_text": "สุขสันต์วันเนารูซปี 2021 #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Nowruz",
+        "hover_text": "",
+        "share_text": "Itumeleleng Nowruz! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Nevruz",
+        "hover_text": "2025 Nevruz",
+        "share_text": "Nevruz Kutlaması #GoogleDoodle"
+      },
+      "tk": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Наврез",
+        "hover_text": "Новруз у 2025 році",
+        "share_text": "Щасливого Наврезу! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "نو روز",
+        "hover_text": "نو روز 2025",
+        "share_text": "نو روز مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Navroʻz",
+        "hover_text": "Navroʻz 2025",
+        "share_text": "Navroʻz ayyomi muborak! – 2021! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Tết Ba Tư",
+        "hover_text": "Tết Ba Tư năm 2025",
+        "share_text": "Mừng Tết Ba Tư! #GoogleDoodle"
+      },
+      "wo": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Nowruz",
+        "hover_text": "I-Nowruz yango-2025",
+        "share_text": "Jabulela i-Nowruz! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Nowruz",
+    "share_text": "Happy Nowruz! #GoogleDoodle"
+  },
+  {
     "name": "fathers-day-2025-march-19",
     "title": "Father's Day 2025 (March 19)",
     "url": "//www.google.com/logos/doodles/2025/fathers-day-2025-march-19-6753651837110625-law.gif",
@@ -570,7 +1069,7 @@
       "en-GB": {
         "query": "Lunar phases",
         "hover_text": "Rise of the Half Moon",
-        "share_text": "Rise of the Half Moon! #GoogleDoodle"
+        "share_text": "Rise of the Half Moon #GoogleDoodle"
       },
       "bg": {
         "query": "фази на Луната",
@@ -640,7 +1139,7 @@
       "fr-CA": {
         "query": "phases de la Lune",
         "hover_text": "Lever du dernier quartier de la lune",
-        "share_text": "#GoogleDoodle"
+        "share_text": "Lever du dernier quartier de la lune! #GoogleDoodle"
       },
       "gl": {
         "query": "fases lunares",
