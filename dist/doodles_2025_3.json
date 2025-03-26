@@ -1,5 +1,504 @@
 [
   {
+    "name": "bangladesh-independence-day-2025",
+    "title": "Bangladesh Independence Day 2025",
+    "url": "//www.google.com/logos/doodles/2025/bangladesh-independence-day-2025-6753651837110725-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/oqZafYE6ctXdyvawRKiu5QiLlq1AzsBFAB44OiEC0Gec5pdZOZa9X2Snq91sK-yek9krTE7lsh0YdIb9mlqMAPbFx0nAV6gIqCfpb6shUSDCNq4JnIs6Bg",
+    "high_res_url": "//www.google.com/logos/doodles/2025/bangladesh-independence-day-2025-6753651837110725-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2025,
+      3,
+      26
+    ],
+    "translations": {
+      "en": {
+        "query": "Bangladesh Independence Day",
+        "hover_text": "Bangladesh Independence Day 2025",
+        "share_text": "Happy Independence Day, Bangladesh! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Bangladesj se onafhanklikheidsdag",
+        "hover_text": "Bangladesj se onafhanklikheidsdag 2025",
+        "share_text": "Gelukkige Onafhanklikheidsdag, Bangladesj! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Festa e Pavarësisë së Bangladeshit",
+        "hover_text": "Dita e Pavarësisë së Bangladeshit, 2025",
+        "share_text": "Gëzuar Festën e Pavarësisë, Bangladesh! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የባንግላዴሽ ነጻነት ቀን",
+        "hover_text": "የባንግላዴሽ የነፃነት ቀን 2025",
+        "share_text": "መልካም ብሔራዊ ቀን ባንግላዴሽ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد استقلال بنغلاديش",
+        "hover_text": "عيد استقلال بنغلاديش 2025",
+        "share_text": "عيد استقلال بنغلاديش ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Բանգլադեշի անկախության օր",
+        "hover_text": "Բանգլադեշի անկախության օր 2025",
+        "share_text": "Շնորհավո՛ր Բանգլադեշի անկախության օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "Banqladeşin Müstəqillik Günü",
+        "hover_text": "2025 Banqladeşin Müstəqillik Günü",
+        "share_text": "Müstəqillik Günün Mübarək, Banqladeş! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "বাংলাদেশের স্বাধীনতা দিবস",
+        "hover_text": "বাংলাদেশের স্বাধীনতা দিবস ২০২৫ ",
+        "share_text": "বাংলাদেশের স্বাধীনতা দিবস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Bangladeshko Independentzia Eguna",
+        "hover_text": "2025ko Bangladeshko Independentzia Eguna",
+        "share_text": "Independentzia Egun zoriontsua izan, Bangladesh! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень незалежнасці Бангладэш",
+        "hover_text": "Дзень незалежнасці Бангладэш 2025",
+        "share_text": "З Днём незалежнасці, Бангладэш! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nezavisnosti Bangladeša",
+        "hover_text": "Dan nezavisnosti Bangladeša 2025.",
+        "share_text": "Sretan Dan nezavisnosti, Bangladeš! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Bangladesh Independence Day",
+        "hover_text": "Bangladesh Independence Day 2025",
+        "share_text": "Happy Independence Day, Bangladesh! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на независимостта на Бангладеш",
+        "hover_text": "Ден на независимостта на Бангладеш 2025 г.",
+        "share_text": "Честит Ден на независимостта на Бангладеш! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဘင်္ဂလားဒေ့ရှ် လွတ်လပ်ရေးနေ့",
+        "hover_text": "၂၀၂၄ ဘင်္ဂလားဒေ့ရှ်နိုင်ငံ လွတ်လပ်ရေးနေ့",
+        "share_text": "ပျော်ရွှင်သော ဘင်္ဂလားဒေ့ရှ် လွတ်လပ်ရေးနေ့ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Independència de Bangladesh",
+        "hover_text": "Dia de la Independència de Bangladesh 2025",
+        "share_text": "Feliç Dia de la Independència, Bangladesh! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "孟加拉獨立日",
+        "hover_text": "2025 年孟加拉獨立日",
+        "share_text": "孟加拉獨立日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "孟加拉獨立紀念日",
+        "hover_text": "2025 年孟加拉獨立紀念日",
+        "share_text": "孟加拉，獨立紀念日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "孟加拉国独立日",
+        "hover_text": "2025 年孟加拉国独立日",
+        "share_text": "孟加拉国，独立日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan neovisnosti Bangladeša",
+        "hover_text": "Dan neovisnosti Bangladeša 2025.",
+        "share_text": "Sretan Dan neovisnosti, Bangladešu! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den nezávislosti Bangladéše",
+        "hover_text": "Den nezávislosti Bangladéše 2025",
+        "share_text": "Vše nejlepší ke Dni nezávislosti, Bangladéši! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Bangladeshs uafhængighedsdag",
+        "hover_text": "Bangladeshs uafhængighedsdag 2025",
+        "share_text": "Glædelig uafhængighedsdag, Bangladesh! #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Onafhankelijkheidsdag Bangladesh",
+        "hover_text": "Onafhankelijkheidsdag Bangladesh 2025",
+        "share_text": "Fijne Onafhankelijkheidsdag aan iedereen in Bangladesh #GoogleDoodle"
+      },
+      "et": {
+        "query": "Bangladeshi iseseisvuspäev",
+        "hover_text": "Bangladeshi 2025. aasta iseseisvuspäev",
+        "share_text": "Head iseseisvuspäeva, Bangladesh! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Bangladeshin itsenäisyyspäivä",
+        "hover_text": "Bangladeshin itsenäisyyspäivä 2025",
+        "share_text": "Hyvää Bangladeshin itsenäisyyspäivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Jour de l'indépendance du Bangladesh",
+        "hover_text": "Fête de l'Indépendance du Bangladesh 2025",
+        "share_text": "Fête de l'Indépendance du Bangladesh #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de l'indépendance du Bangladesh",
+        "hover_text": "Fête de l'Indépendance du Bangladesh 2025",
+        "share_text": "Joyeux jour de l'indépendance, Bangladesh! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Independencia de Bangladesh",
+        "hover_text": "Día da Independencia de Bangladesh 2025",
+        "share_text": "Feliz Día da Independencia, Bangladesh! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "ბანგლადეშის დამოუკიდებლობის დღე",
+        "hover_text": "ბანგლადეშის დამოუკიდებლობის დღე — 2025",
+        "share_text": "ვულოცავთ ბანგლადეშს დამოუკიდებლობის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Unabhängigkeitstag Bangladesch",
+        "hover_text": "Unabhängigkeitstag Bangladesch 2025",
+        "share_text": "Alles Gute zum Unabhängigkeitstag, Bangladesch! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Ανεξαρτησίας Μπαγκλαντές",
+        "hover_text": "Ημέρα Ανεξαρτησίας του Μπαγκλαντές 2025",
+        "share_text": "Εορτασμός για την Ημέρα Ανεξαρτησίας του Μπαγκλαντές! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "બાંગ્લાદેશનો સ્વતંત્રતા દિવસ",
+        "hover_text": "બાંગ્લાદેશનો સ્વતંત્રતા દિવસ 2025",
+        "share_text": "બાંગ્લાદેશના સ્વતંત્રતા દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום העצמאות של בנגלדש",
+        "hover_text": "יום העצמאות של בנגלדש 2025",
+        "share_text": "יום עצמאות שמח לבנגלדש! #GoogleDoodle"
+      },
+      "hi": {
+        "query": "बांग्लादेश का स्वतंत्रता दिवस",
+        "hover_text": "बांग्लादेश का स्वतंत्रता दिवस 2025",
+        "share_text": "स्वतंत्रता दिवस मुबारक हो, बांग्लादेश! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Banglades függetlenségének napja",
+        "hover_text": "Banglades függetlenségének napja, 2025",
+        "share_text": "Minden jót a függetlenség napján, Banglades! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Sjálfstæðisdagur Bangladess",
+        "hover_text": "Fullveldisdagur Bangladess 2025",
+        "share_text": "Gleðilegan sjálfstæðisdag Bangladess! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kemerdekaan Bangladesh",
+        "hover_text": "Hari Kemerdekaan Bangladesh 2025",
+        "share_text": "Selamat Hari Kemerdekaan, Bangladesh! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Saoirse na Banglaidéise",
+        "hover_text": "",
+        "share_text": "Lá Saoirse na Banglaidéise faoi mhaise duit. #GoogleDoodle"
+      },
+      "it": {
+        "query": "Festa dell'indipendenza del Bangladesh 2020",
+        "hover_text": "Festa dell'indipendenza del Bangladesh 2025",
+        "share_text": "Buona festa dell'indipendenza, Bangladesh! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "バングラデシュ独立記念日",
+        "hover_text": "2025 年バングラデシュ独立記念日",
+        "share_text": "バングラデシュ独立記念日です！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಬಾಂಗ್ಲಾ ದೇಶದ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ",
+        "hover_text": "ಬಾಂಗ್ಲಾದೇಶದ ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆ 2025",
+        "share_text": "ಸ್ವಾತಂತ್ರ್ಯ ದಿನಾಚರಣೆಯ ಶುಭಾಷಯಗಳು, ಬಾಂಗ್ಲಾದೇಶ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Бангладештің Тәуелсіздік күні",
+        "hover_text": "Бангладештің Тәуелсіздік күні – 2025",
+        "share_text": "Бангладеш, Тәуелсіздік күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យឯករាជ្យជាតិ​បង់ក្លាដែស",
+        "hover_text": "ទិវា​បុណ្យឯករាជ្យជាតិ​បង់ក្លាដែសឆ្នាំ 2025",
+        "share_text": "អបអរ​ទិវា​បុណ្យឯករាជ្យជាតិ​បង់ក្លាដែស! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "방글라데시 독립기념일",
+        "hover_text": "2025년 방글라데시 독립기념일",
+        "share_text": "방글라데시 독립기념일 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Бангладештин Эгемендүүлүк күнү",
+        "hover_text": "Бангладештин Эгемендүүлүк күнү – 2025",
+        "share_text": "Эгемендүүлүк күнүң менен, Бангладеш! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນປະກາດເອກະລາດບັງຄະລາເທດ",
+        "hover_text": "ວັນປະກາດເອກະລາດບັງຄະລາເທດ 2025",
+        "share_text": "ສຸກສັນວັນປະກາດເອກະລາດ, ບັງຄະລາເທດ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Independencia de Bangladés",
+        "hover_text": "Día de la Independencia de Bangladés 2025",
+        "share_text": "¡Feliz Día de la Independencia de Bangladés! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Bangladešas neatkarības diena — 2010",
+        "hover_text": "Bangladešas Neatkarības diena — 2025",
+        "share_text": "Sveicam Bangladešu neatkarības dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Bangladešo nepriklausomybės diena",
+        "hover_text": "Bangladešo nepriklausomybės diena, 2025 m.",
+        "share_text": "Laimingos Nepriklausomybės dienos, Bangladeše! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста на Бангладеш",
+        "hover_text": "Ден на независноста на Бангладеш, 2025 г.",
+        "share_text": "Среќен Ден на независноста на Бангладеш! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'ny fahaleovantenan'i Bengladesy",
+        "hover_text": "",
+        "share_text": "Tsarà Fetim-pirenena ry Bengladesy ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Kemerdekaan Bangladesh",
+        "hover_text": "Hari Kemerdekaan Bangladesh 2025",
+        "share_text": "Selamat Hari Kemerdekaan, Bangladesh! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ബംഗ്ലാദേശ് സ്വാതന്ത്ര്യദിനം",
+        "hover_text": "ബംഗ്ലാദേശ് സ്വാതന്ത്ര്യദിനം 2025",
+        "share_text": "സ്വാതന്ത്ര്യദിനാശംസകൾ, ബംഗ്ലാദേശ്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "mr": {
+        "query": "बांग्लादेशचा स्वातंत्र्यदिन",
+        "hover_text": "बांग्लादेशचा स्वातंत्र्यदिन २०२४",
+        "share_text": "स्वातंत्र्यदिनाच्या शुभेच्छा, बांग्लादेश! #Googleडूडल"
+      },
+      "mn": {
+        "query": "Бангладеш улсын Тусгаар тогтнолын өдөр",
+        "hover_text": "2025 оны Бангладеш Улсын Тусгаар тогтнолын өдөр",
+        "share_text": "Бангладеш улсын ард иргэдэд Тусгаар тогтнолын баярын мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "बङ्गलादेशको स्वतन्त्रता दिवस",
+        "hover_text": "बङ्गलादेशको स्वतन्त्रता दिवस २०२४",
+        "share_text": "स्वतन्त्रता दिवसको शुभकामना, बङ्गलादेश! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Frigjøringsdagen i Bangladesh",
+        "hover_text": "Bangladeshs uavhengighetsdag 2025",
+        "share_text": "Gratulerer med frigjøringsdagen, Bangladesh! #GoogleDoodle"
+      },
+      "nn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ny": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "or": {
+        "query": "ବାଂଲାଦେଶର ସ୍ୱାଧୀନତା ଦିବସ",
+        "hover_text": "",
+        "share_text": "ଶୁଭ ସ୍ୱାଧୀନତା ଦିବସ, ବାଂଲାଦେଶ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز استقلال بنگلادش",
+        "hover_text": "روز استقلال بنگلادش - ۲۰۲۴",
+        "share_text": "روز استقلال بنگلادش مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Niepodległości Bangladeszu",
+        "hover_text": "Dzień Niepodległości Bangladeszu 2025",
+        "share_text": "Szczęśliwego Święta Niepodległości Bangladeszu #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Independência de Bangladesh",
+        "hover_text": "Dia da Independência de Bangladesh 2025",
+        "share_text": "Feliz Dia da Independência, Bangladesh! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da independência do Bangladexe",
+        "hover_text": "Dia da Independência do Bangladexe de 2025",
+        "share_text": "Feliz dia da independência, Bangladexe! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਬੰਗਲਾਦੇਸ਼ ਦਾ ਆਜ਼ਾਦੀ ਦਿਹਾੜਾ",
+        "hover_text": "ਬੰਗਲਾਦੇਸ਼ ਦਾ ਅਜ਼ਾਦੀ ਦਿਵਸ 2025",
+        "share_text": "ਬੰਗਲਾਦੇਸ਼ ਦੇ ਆਜ਼ਾਦੀ ਦਿਹਾੜੇ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Independenței în Bangladesh",
+        "hover_text": "Ziua Independenței în Bangladesh – 2025",
+        "share_text": "La mulți ani de Ziua Independenței, Bangladesh! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День независимости Бангладеш",
+        "hover_text": "День независимости Бангладеш – 2025",
+        "share_text": "День независимости Бангладеш #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан независности Бангладеша",
+        "hover_text": "Дан независности Бангладеша 2025.",
+        "share_text": "Честитамо Дан независности Бангладешу! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan nezavisnosti Bangladeša",
+        "hover_text": "Dan nezavisnosti Bangladeša 2025.",
+        "share_text": "Čestitamo Dan nezavisnosti Bangladešu! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen lendepans Banglades",
+        "hover_text": "",
+        "share_text": "Lazournen lendepandans, Banglades #GoogleDoodle"
+      },
+      "sn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "si": {
+        "query": "බංගලාදේශයේ නිදහස් දිනය",
+        "hover_text": "බංග්ලාදේශයේ නිදහස් දිනය 2025",
+        "share_text": "සුබ නිදහස් දිනයක්, බංගලාදේශය! #Googleඩූඩල්"
+      },
+      "sk": {
+        "query": "Deň nezávislosti Bangladéša",
+        "hover_text": "Deň nezávislosti Bangladéša 2025",
+        "share_text": "Šťastný Deň nezávislosti, Bangladéš! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Bangladeški dan neodvisnosti",
+        "hover_text": "Bangladeški dan neodvisnosti 2025",
+        "share_text": "Vesel dan neodvisnosti, Bangladeš. #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Madax banaanida Bangaladesh",
+        "hover_text": "",
+        "share_text": "Maalinta madax banaanida Farxada leh e Bangladesh! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Tokoloho la Bangladesh",
+        "hover_text": "",
+        "share_text": "Thabela Letsatsi la Tokoloho, Bangladesh! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día de la Independencia de Bangladés",
+        "hover_text": "Día de la Independencia de Bangladés 2025",
+        "share_text": "¡Feliz Día de la Independencia de Bangladés! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Sikukuu ya Uhuru wa Bangladeshi",
+        "hover_text": "Sikukuu ya Uhuru wa Bangladeshi 2025",
+        "share_text": "Heri za Sikukuu ya Uhuru, Bangladeshi! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Bangladeshs självständighetsdag",
+        "hover_text": "Bangladeshs självständighetsdag 2025",
+        "share_text": "Vi firar Bangladeshs självständighetsdag #GoogleDoodle"
+      },
+      "tg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ta": {
+        "query": "வங்காளதேசத்தின் சுதந்திர தினம்",
+        "hover_text": "வங்கதேசத்தின் சுதந்திர தினம் 2025",
+        "share_text": "வங்காளதேச சுதந்திர தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "బంగ్లాదేశ్ స్వాతంత్య్ర దినోత్సవం",
+        "hover_text": "బంగ్లాదేశ్ స్వాతంత్య్ర దినోత్సవం 2025",
+        "share_text": "స్వాతంత్ర దినోత్సవ శుభాకాంక్షలు, బంగ్లాదేశ్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันประกาศอิสรภาพของบังกลาเทศ",
+        "hover_text": "วันประกาศอิสรภาพของบังกลาเทศปี 2025",
+        "share_text": "สุขสันต์วันประกาศอิสรภาพของบังกลาเทศ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Boipuso la Bangladesh",
+        "hover_text": "",
+        "share_text": "Itumelele Letsatsi la Boipuso, Bangladesh! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Bangladeş Bağımsızlık Günü",
+        "hover_text": "2025 Bangladeş Bağımsızlık Günü",
+        "share_text": "Bangladeş Bağımsızlık Günü Kutlaması! #GoogleDoodle"
+      },
+      "tk": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День незалежності Бангладеш",
+        "hover_text": "День незалежності Бангладеш у 2025 році",
+        "share_text": "З Днем незалежності, Бангладеш! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "بنگلہ دیش کا یوم آزادی",
+        "hover_text": "بنگلہ دیش کا یوم آزادی 2025",
+        "share_text": "یوم آزادی بنگلہ دیش مبارک ہو! ‎#GoogleDoodle"
+      },
+      "uz": {
+        "query": "Bangladesh mustaqillik kuni",
+        "hover_text": "Bangladesh Mustaqillik kuni 2025",
+        "share_text": "Mustaqillik kuning muborak, Bangladesh! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày quốc khánh Bangladesh",
+        "hover_text": "Ngày Quốc khánh Bangladesh năm 2025",
+        "share_text": "Chúc mừng quốc khánh Bangladesh! #GoogleDoodle"
+      },
+      "wo": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lokuzimela lwase-Bangladesh",
+        "hover_text": "Usuku Lokuzimela lwase-Bangladesh lwango-2025",
+        "share_text": "Usuku Lokuzimela, e-Bangladesh! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Bangladesh Independence Day",
+    "share_text": "Happy Independence Day, Bangladesh! #GoogleDoodle"
+  },
+  {
     "name": "mothers-day-2025-march-25",
     "title": "Mother's Day 2025 (March 25)",
     "url": "//www.google.com/logos/doodles/2025/mothers-day-2025-march-25-6753651837110635-l.png",
@@ -518,9 +1017,9 @@
         "share_text": "Celebrating Cherry Blossom Season! #GoogleDoodle"
       },
       "af": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Kersiebloeiselseisoen",
+        "hover_text": "Ter viering van die kersiebloeiselseisoen",
+        "share_text": "Ter viering van die kersiebloeiselseisoen! #GoogleDoodle"
       },
       "sq": {
         "query": null,
@@ -528,9 +1027,9 @@
         "share_text": ""
       },
       "am": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "ቼሪ አበባ",
+        "hover_text": "የቼሪ አበባ ወቅትን በማክበር ላይ",
+        "share_text": "የቼሪ አበባ ወቅትን በማክበር ላይ! #GoogleDoodle"
       },
       "ar": {
         "query": null,
@@ -543,9 +1042,9 @@
         "share_text": ""
       },
       "az": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Sakura",
+        "hover_text": "Sakura Mövsümü günü",
+        "share_text": "Sakura Mövsümü günü! #GoogleDoodle"
       },
       "bn": {
         "query": "চেরি ফুল",
@@ -558,9 +1057,9 @@
         "share_text": ""
       },
       "be": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Цвіценне вішні",
+        "hover_text": "Сустракаем сезон цвіцення вішні",
+        "share_text": "Сустракаем сезон цвіцення вішні! #GoogleDoodle"
       },
       "bs": {
         "query": null,
@@ -578,14 +1077,14 @@
         "share_text": ""
       },
       "my": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "ချယ်ရီပန်း",
+        "hover_text": "ချယ်ရီပန်းရာသီကို ဆင်နွှဲခြင်း",
+        "share_text": "ချယ်ရီပန်းရာသီကို ဆင်နွှဲခြင်း။ #GoogleDoodle"
       },
       "ca": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Floració dels cirerers",
+        "hover_text": "Celebrem la temporada de floració dels cirerers",
+        "share_text": "Celebrem la temporada de floració dels cirerers #GoogleDoodle"
       },
       "zh-HK": {
         "query": "櫻花",
@@ -618,19 +1117,19 @@
         "share_text": ""
       },
       "nl": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Kersenbloesem",
+        "hover_text": "Doodle ter ere van de kersenbloesemtijd",
+        "share_text": "Een doodle ter ere van de kersenbloesemtijd! #GoogleDoodle"
       },
       "et": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Kirsiõis",
+        "hover_text": "Tähistame kirsiõite hooaega",
+        "share_text": "Tähistame kirsiõite hooaega! #GoogleDoodle"
       },
       "fi": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Kirsikankukinta",
+        "hover_text": "Kirsikankukinta-aika",
+        "share_text": "Kirsikankukinta-aika #GoogleDoodle"
       },
       "fr": {
         "query": "Cerisier en fleurs",
@@ -638,9 +1137,9 @@
         "share_text": "Célébrons la saison des cerisiers en fleurs !  #GoogleDoodle"
       },
       "fr-CA": {
-        "query": "",
-        "hover_text": "",
-        "share_text": ""
+        "query": "Fleurs de cerisier",
+        "hover_text": "Célébration de la saison des fleurs de cerisier",
+        "share_text": "Célébration de la saison des fleurs de cerisier! #GoogleDoodle"
       },
       "gl": {
         "query": null,
@@ -673,9 +1172,9 @@
         "share_text": ""
       },
       "iw": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "פריחת הדובדבן",
+        "hover_text": "מחווה לעונת פריחת הדובדבן",
+        "share_text": "מחווה לעונת פריחת הדובדבן GoogleDoodle#"
       },
       "hi": {
         "query": null,
@@ -688,9 +1187,9 @@
         "share_text": ""
       },
       "is": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Kirsuberjatré",
+        "hover_text": "Við fögnum árstíðinni þegar kirsuberjatrén blómstra",
+        "share_text": "Við fögnum árstíðinni þegar kirsuberjatrén blómstra! #GoogleDoodle"
       },
       "id": {
         "query": null,
@@ -773,9 +1272,9 @@
         "share_text": "Meraikan Musim Bunga Sakura! #GoogleDoodle"
       },
       "ml": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "ചെറി ബ്ലോസം",
+        "hover_text": "ചെറി ബ്ലോസം സീസൺ ആഘോഷിക്കുന്നു",
+        "share_text": "ചെറി ബ്ലോസം സീസൺ ആഘോഷിക്കുന്നു! #GoogleDoodle"
       },
       "mt": {
         "query": null,
@@ -783,24 +1282,24 @@
         "share_text": ""
       },
       "mr": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "चेरी ब्लॉसम",
+        "hover_text": "चेरी ब्लॉसमच्या हंगामाच्या सन्मानार्थ",
+        "share_text": "चेरी ब्लॉसमच्या हंगामाच्या सन्मानार्थ! #GoogleDoodle"
       },
       "mn": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Интоор цэцэглэх",
+        "hover_text": "Интоор цэцэглэх улирлыг тэмдэглэж байна",
+        "share_text": "Интоор цэцэглэх улирлыг тэмдэглэж байна! #GoogleDoodle"
       },
       "ne": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "चेरीको फूल",
+        "hover_text": "चेरीको फूल फुल्ने सिजनको उत्सव",
+        "share_text": "चेरीको फूल फुल्ने सिजनको उत्सव! #GoogleDoodle"
       },
       "no": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Kirsebærblomst",
+        "hover_text": "Vi feirer kirsebærblomstringen",
+        "share_text": "Vi feirer kirsebærblomstringen! #GoogleDoodle"
       },
       "nn": {
         "query": null,
@@ -918,14 +1417,14 @@
         "share_text": ""
       },
       "sw": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Maua ya Mcheri",
+        "hover_text": "Tunaenzi Msimu wa Maua ya Mcheri",
+        "share_text": "Tunaenzi Msimu wa Maua ya Mcheri! #GoogleDoodle"
       },
       "sv": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Körsbärsblommor",
+        "hover_text": "Fira körsbärsblommornas säsong",
+        "share_text": "Fira körsbärsblommornas säsong! #GoogleDoodle"
       },
       "tg": {
         "query": null,
@@ -938,9 +1437,9 @@
         "share_text": ""
       },
       "te": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "చెర్రీ బ్లాసమ్",
+        "hover_text": "చెర్రీ బ్లాసమ్ సీజన్ వేడుకలు",
+        "share_text": "చెర్రీ బ్లాసమ్ సీజన్ వేడుకలు! #GoogleDoodle"
       },
       "th": {
         "query": null,
@@ -963,9 +1462,9 @@
         "share_text": ""
       },
       "uk": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Цвіт вишні",
+        "hover_text": "Присвячено сезону цвітіння вишні",
+        "share_text": "Присвячено сезону цвітіння вишні! #GoogleDoodle"
       },
       "ur": {
         "query": null,
@@ -973,14 +1472,14 @@
         "share_text": ""
       },
       "uz": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Olcha guli",
+        "hover_text": "Olcha guli mavsumi bilan",
+        "share_text": "Olcha guli mavsumi bilan! #GoogleDoodle"
       },
       "vi": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Hoa anh đào",
+        "hover_text": "Tôn vinh mùa hoa anh đào",
+        "share_text": "Tôn vinh mùa hoa anh đào! #GoogleDoodle"
       },
       "wo": {
         "query": null,
@@ -1516,14 +2015,14 @@
         "share_text": "Women's College Basketball Tournament First Round 2025! #GoogleDoodle"
       },
       "af": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Vroue se “March Madness”",
+        "hover_text": "Eerste ronde 2025 vir vrouekollege-basketbaltoernooi",
+        "share_text": "Eerste ronde 2025 vir vrouekollege-basketbaltoernooi! #GoogleDoodle"
       },
       "sq": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "March Madness për Femra",
+        "hover_text": "Raundi i parë i turneut të basketbollit universitar për femra, 2025",
+        "share_text": "Raundi i parë i turneut të basketbollit universitar për femra, 2025! #GoogleDoodle"
       },
       "am": {
         "query": "የሴቶች ማርች ማድነስ",
@@ -1536,9 +2035,9 @@
         "share_text": "انطلقت الجولة الأولى من بطولة كرة السلة الجامعية للسيدات 2025. ‎#GoogleDoodle"
       },
       "hy": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Ուսանողական սպորտաձևերի ազգային ասոցիացիայի կանանց բասկետբոլի մրցաշար",
+        "hover_text": "Կանանց բասկետբոլի ուսանողական մրցաշարի առաջին փուլ 2025",
+        "share_text": "Կանանց բասկետբոլի ուսանողական մրցաշարի առաջին փուլ 2025 #GoogleDoodle"
       },
       "az": {
         "query": "Qadınlar arasında Basketbol Turniri",
@@ -1546,9 +2045,9 @@
         "share_text": "2025 Qadınlar arasında Kollec Basketbol Turnirinin Finalları! #GoogleDoodle"
       },
       "bn": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "মহিলাদের মার্চ ম্যাডনেস",
+        "hover_text": "মহিলাদের কলেজ বাস্কেটবল টুর্নামেন্টের প্রথম রাউন্ড ২০২৫",
+        "share_text": "মহিলাদের কলেজ বাস্কেটবল টুর্নামেন্টের প্রথম রাউন্ড ২০২৫! #GoogleDoodle"
       },
       "eu": {
         "query": null,
@@ -1556,29 +2055,29 @@
         "share_text": ""
       },
       "be": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Жаночы баскетбольны турнір першага дывізіёна NCAA",
+        "hover_text": "Першы раунд Жаночага баскетбольнага турніру Нацыянальнай асацыяцыі студэнцкага спорту 2025",
+        "share_text": "Першы раунд Жаночага баскетбольнага турніру Нацыянальнай асацыяцыі студэнцкага спорту 2025! #GoogleDoodle"
       },
       "bs": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Martovsko ludilo za žene",
+        "hover_text": "Prvi krug ženskog turnira univerzitetske košarke 2025.",
+        "share_text": "Prvi krug ženskog turnira univerzitetske košarke 2025! #GoogleDoodle"
       },
       "en-GB": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Women’s March Madness",
+        "hover_text": "Women's college basketball tournament first round 2025",
+        "share_text": "Women's college basketball tournament first round 2025! #GoogleDoodle"
       },
       "bg": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Първенство за жени March Madness",
+        "hover_text": "Първи кръг на турнира по колежански баскетбол за жени 2025 г.",
+        "share_text": "Първи кръг на турнира по колежански баскетбол за жени 2025 г.! #GoogleDoodle"
       },
       "my": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "အမျိုးသမီး March Madness",
+        "hover_text": "၂၀၂၅ အမျိုးသမီး ကောလိပ်ဘတ်စကက်ဘောပြိုင်ပွဲ ပထမပွဲစဉ်",
+        "share_text": "၂၀၂၅ အမျိုးသမီး ကောလိပ်ဘတ်စကက်ဘောပြိုင်ပွဲ ပထမပွဲစဉ်။ #GoogleDoodle"
       },
       "ca": {
         "query": "March Madness femení",
@@ -1586,14 +2085,14 @@
         "share_text": "Primera ronda del torneig de bàsquet universitari femení 2025. #GoogleDoodle"
       },
       "zh-HK": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "女子籃球瘋狂三月",
+        "hover_text": "2025 年美國大學女子籃球錦標賽第一輪",
+        "share_text": "2025 年美國大學女子籃球錦標賽第一輪！#GoogleDoodle"
       },
       "zh-TW": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "女籃三月瘋",
+        "hover_text": "2025 美國大學女子籃球錦標賽首輪",
+        "share_text": "2025 美國大學女子籃球錦標賽首輪登場！#GoogleDoodle"
       },
       "zh-CN": {
         "query": "疯狂三月女篮锦标赛",
@@ -1601,14 +2100,14 @@
         "share_text": "2025 年大学女篮锦标赛第一轮！#GoogleDoodle"
       },
       "hr": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Ožujsko ludilo za žene",
+        "hover_text": "Ženski turnir sveučilišne košarke – prvi krug 2025.",
+        "share_text": "Ženski turnir sveučilišne košarke – prvi krug 2025.! #GoogleDoodle"
       },
       "cs": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Women's March Madness",
+        "hover_text": "Ženský basketbalový turnaj studentek 2025 – první kolo",
+        "share_text": "Probíhá ženský basketbalový turnaj studentek 2025 – první kolo! #GoogleDoodle"
       },
       "da": {
         "query": "March Madness-turneringen for kvinder",
@@ -1616,9 +2115,9 @@
         "share_text": "Første runde af kvindernes college-basketballturnering 2025 #GoogleDoodle"
       },
       "nl": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "March Madness vrouwenbasketbal",
+        "hover_text": "Eerste ronde van het collegebasketbaltoernooi vrouwen 2025",
+        "share_text": "De eerste ronde van het collegebasketbaltoernooi voor vrouwen van 2025! #GoogleDoodle"
       },
       "et": {
         "query": "Naiste märtsihullus",
@@ -1631,9 +2130,9 @@
         "share_text": "Naisten yliopistokoripalloturnauksen ensimmäinen kierros 2025. #GoogleDoodle"
       },
       "fr": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "March Madness féminin",
+        "hover_text": "Premier tour du tournoi universitaire de basket-ball féminin 2025",
+        "share_text": "Premier tour du tournoi universitaire de basket-ball féminin 2025 ! #GoogleDoodle"
       },
       "fr-CA": {
         "query": "Tournoi du March Madness féminin",
@@ -1641,14 +2140,14 @@
         "share_text": "Championnat NCAA de basketball féminin, premier tour 2025! #GoogleDoodle"
       },
       "gl": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Torneo March Madness feminino",
+        "hover_text": "Primeira rolda do Torneo de Baloncesto Universitario feminino 2025",
+        "share_text": "Primeira rolda do Torneo de Baloncesto Universitario feminino 2025! #GoogleDoodle"
       },
       "ka": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "March Madness (ქალები)",
+        "hover_text": "ქალთა სტუდენტური საკალათბურთო ტურნირის პირველი წრე 2025",
+        "share_text": "ქალთა სტუდენტური საკალათბურთო ტურნირის პირველი წრე 2025! #GoogleDoodle"
       },
       "de": {
         "query": "March Madness (Damen)",
@@ -1656,14 +2155,14 @@
         "share_text": "Meisterschaft im College-Basketball (Damen) 2025 – 1. Runde #GoogleDoodle"
       },
       "el": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "March Madness Γυναικών",
+        "hover_text": "Πρώτος γύρος Πανεπιστημιακού Τουρνουά Μπάσκετ Γυναικών του 2025",
+        "share_text": "Πρώτος γύρος Πανεπιστημιακού Τουρνουά Μπάσκετ Γυναικών του 2025! #GoogleDoodle"
       },
       "gu": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "મહિલાઓની March Madness",
+        "hover_text": "મહિલાઓની કૉલેજ બાસ્કેટબૉલ ટુર્નામેન્ટનો પહેલો રાઉન્ડ 2025",
+        "share_text": "મહિલાઓની કૉલેજ બાસ્કેટબૉલ ટુર્નામેન્ટનો પહેલો રાઉન્ડ 2025! #GoogleDoodle"
       },
       "ht": {
         "query": null,
@@ -1671,19 +2170,19 @@
         "share_text": ""
       },
       "iw": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "טורניר אליפות המכללות בכדורסל לנשים (March Madness)",
+        "hover_text": "טורניר אליפות המכללות בכדורסל לנשים, הסיבוב הראשון לשנת 2025",
+        "share_text": "טורניר אליפות המכללות בכדורסל לנשים, הסיבוב הראשון לשנת 2025 GoogleDoodle#"
       },
       "hi": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "विमेन्स मार्च मैडनेस",
+        "hover_text": "वीमेन्स कॉलेज बास्केटबॉल टूर्नामेंट 2025 का पहला राउंड",
+        "share_text": "वीमेन्स कॉलेज बास्केटबॉल टूर्नामेंट 2025 का पहला राउंड! #GoogleDoodle"
       },
       "hu": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "March Madness – női",
+        "hover_text": "Főiskolai női kosárlabdatorna első fordulója, 2025",
+        "share_text": "Főiskolai női kosárlabdatorna első fordulója, 2025! #GoogleDoodle"
       },
       "is": {
         "query": "March Madness kvenna",
@@ -1701,44 +2200,44 @@
         "share_text": ""
       },
       "it": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "March Madness femminile",
+        "hover_text": "Prima fase del Campionato di basket femminile universitario 2025",
+        "share_text": "Prima fase del Campionato di basket femminile universitario 2025! #GoogleDoodle"
       },
       "ja": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "NCAA 女子バスケットボール トーナメント",
+        "hover_text": "2025 年女子カレッジ バスケットボール トーナメント ファースト ラウンド",
+        "share_text": "2025 年女子カレッジ バスケットボール トーナメント ファースト ラウンド！#GoogleDoodle"
       },
       "kn": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "ವಿಮೆನ್ಸ್ ಮಾರ್ಚ್ ಮ್ಯಾಡ್‌ನೆಸ್",
+        "hover_text": "ಮಹಿಳೆಯರ ಕಾಲೇಜ್ ಬಾಸ್ಕೆಟ್‌ಬಾಲ್ ಪಂದ್ಯಾವಳಿಯ ಮೊದಲನೇ ಸುತ್ತು 2025",
+        "share_text": "ಮಹಿಳೆಯರ ಕಾಲೇಜ್ ಬಾಸ್ಕೆಟ್‌ಬಾಲ್ ಪಂದ್ಯಾವಳಿಯ ಮೊದಲನೇ ಸುತ್ತು 2025! #GoogleDoodle"
       },
       "kk": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Әйелдер арасындағы NCAA бірінші дивизионының баскетбол турнирі (March Madness)",
+        "hover_text": "2025 жылғы әйелдер арасындағы университеттік баскетбол турнирінің бірінші айналымы",
+        "share_text": "2025 жылғы әйелдер арасындағы университеттік баскетбол турнирінің бірінші айналымы #GoogleDoodle"
       },
       "km": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "ការប្រកួត​បាល់បោះ​ផ្នែកនារី",
+        "hover_text": "ការប្រកួតបាល់បោះ​ផ្នែកនារី​​កម្រិតមហាវិទ្យាល័យ​ ជុំ​ទីមួយ ឆ្នាំ 2025",
+        "share_text": "ការប្រកួតបាល់បោះ​ផ្នែកនារី​​កម្រិតមហាវិទ្យាល័យ​ ជុំ​ទីមួយ ឆ្នាំ 2025! #GoogleDoodle"
       },
       "ko": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "NCAA 여자 농구 토너먼트",
+        "hover_text": "2025년 여자 대학 농구 토너먼트 1라운드",
+        "share_text": "2025년 여자 대학 농구 토너먼트 1라운드 기념 #GoogleDoodle"
       },
       "ky": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Биринчи NCAA дивизионунун кыз-келиндердин арасындагы баскетбол турнири",
+        "hover_text": "Биринчи NCAA дивизионунун кыз-келиндердин арасындагы баскетбол турниринин биринчи туру – 2025",
+        "share_text": "Биринчи NCAA дивизионунун кыз-келиндердин арасындагы баскетбол турниринин биринчи туру – 2025! #GoogleDoodle"
       },
       "lo": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "March Madness ຍິງ",
+        "hover_text": "ການແຂ່ງຂັນບານບ້ວງຍິງລະດັບວິທະຍາໄລຮອບທຳອິດປີ 2025",
+        "share_text": "ການແຂ່ງຂັນບານບ້ວງຍິງລະດັບວິທະຍາໄລຮອບທຳອິດປີ 2025! #GoogleDoodle"
       },
       "es-419": {
         "query": "March Madness Femenino",
@@ -1751,9 +2250,9 @@
         "share_text": "2025. gada sieviešu koledžu basketbola turnīra pirmā kārta! #GoogleDoodle"
       },
       "lt": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Moterų turnyras „March Madness“",
+        "hover_text": "Studentų (moterų) krepšinio turnyras, pirmasis turas, 2025 m.",
+        "share_text": "Studentų (moterų) krepšinio turnyras, pirmasis turas, 2025 m.! #GoogleDoodle"
       },
       "mk": {
         "query": null,
@@ -1771,9 +2270,9 @@
         "share_text": "Pusingan Pertama Kejohanan Bola Keranjang Kolej Wanita 2025! #GoogleDoodle"
       },
       "ml": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "വുമൺസ് മാർച്ച് മാഡ്‌നെസ്",
+        "hover_text": "വുമൺസ് കോളേജ് ബാസ്‌ക്കറ്റ്ബോൾ ടൂർണമെന്റ് ഫസ്റ്റ് റൗണ്ട് 2025",
+        "share_text": "വുമൺസ് കോളേജ് ബാസ്‌ക്കറ്റ്ബോൾ ടൂർണമെന്റ് ഫസ്റ്റ് റൗണ്ട് 2025! #GoogleDoodle"
       },
       "mt": {
         "query": null,
@@ -1791,14 +2290,14 @@
         "share_text": "2025 оны Эмэгтэйчүүдийн коллежийн сагсан бөмбөгийн тэмцээний эхний тойрог! #GoogleDoodle"
       },
       "ne": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "वुमेन्स मार्च म्याडनेस",
+        "hover_text": "कलेजस्तरीय महिला बास्केटबल प्रतियोगिता २०२५ को पहिलो चरण",
+        "share_text": "कलेजस्तरीय महिला बास्केटबल प्रतियोगिता २०२५ को पहिलो चरण! #GoogleDoodle"
       },
       "no": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "March Madness (kvinner)",
+        "hover_text": "College-basketballturneringen for kvinner 2025 – første runde",
+        "share_text": "College-basketballturneringen for kvinner 2025 – første runde! #GoogleDoodle"
       },
       "nn": {
         "query": null,
@@ -1821,34 +2320,34 @@
         "share_text": ""
       },
       "fa": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "مسابقات March Madness زنان",
+        "hover_text": "دور اول مسابقات ۲۰۲۵ بسکتبال زنان دانشکده‌ها",
+        "share_text": "دور اول مسابقات ۲۰۲۵ بسکتبال زنان دانشکده‌ها! ‎#GoogleDoodle"
       },
       "pl": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Turniej March Madness kobiet",
+        "hover_text": "Pierwsza runda turnieju kobiet w uniwersyteckiej lidze koszykówki 2025",
+        "share_text": "Pierwsza runda turnieju kobiet w uniwersyteckiej lidze koszykówki 2025 #GoogleDoodle"
       },
       "pt-BR": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Campeonato de Basquete Feminino da NCAA — Divisão I",
+        "hover_text": "Primeira rodada do Campeonato de Basquete Universitário Feminino 2025",
+        "share_text": "Primeira rodada do Campeonato de Basquete Universitário Feminino 2025 #GoogleDoodle"
       },
       "pt-PT": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Torneio March Madness Feminino",
+        "hover_text": "Primeira Ronda do Torneio Universitário de Basquetebol Feminino de 2025",
+        "share_text": "Primeira Ronda do Torneio Universitário de Basquetebol Feminino de 2025! #GoogleDoodle"
       },
       "pa": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Women’s March Madness",
+        "hover_text": "ਮਹਿਲਾਵਾਂ ਦੇ ਕਾਲਜ ਬਾਸਕਟਬਾਲ ਟੂਰਨਾਮੈਂਟ ਦਾ ਪਹਿਲਾਂ ਰਾਊਂਡ 2025",
+        "share_text": "ਮਹਿਲਾਵਾਂ ਦੇ ਕਾਲਜ ਬਾਸਕਟਬਾਲ ਟੂਰਨਾਮੈਂਟ ਦਾ ਪਹਿਲਾਂ ਰਾਊਂਡ 2025! #GoogleDoodle"
       },
       "ro": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Campionatul de baschet feminin NCAA",
+        "hover_text": "Prima rundă a turneului de baschet universitar feminin 2025",
+        "share_text": "Prima rundă a turneului de baschet universitar feminin 2025! #GoogleDoodle"
       },
       "ro-MD": {
         "query": null,
@@ -1856,19 +2355,19 @@
         "share_text": ""
       },
       "ru": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Женский баскетбольный турнир первого дивизиона NCAA",
+        "hover_text": "Первый раунд Женского баскетбольного турнира первого дивизиона NCAA – 2025",
+        "share_text": "Первый раунд Женского баскетбольного турнира первого дивизиона NCAA – 2025 #GoogleDoodle"
       },
       "sr": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Мартовско лудило за жене",
+        "hover_text": "Прва рунда турнира у женској колеџ кошарци 2025.",
+        "share_text": "Прва рунда турнира у женској колеџ кошарци 2025! #GoogleDoodle"
       },
       "sr-Latn": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Martovsko ludilo za žene",
+        "hover_text": "Prva runda turnira u ženskoj koledž košarci 2025.",
+        "share_text": "Prva runda turnira u ženskoj koledž košarci 2025! #GoogleDoodle"
       },
       "sr-ME": {
         "query": null,
@@ -1886,19 +2385,19 @@
         "share_text": ""
       },
       "si": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "කාන්තා ගමන් සංගීත පිස්සුව",
+        "hover_text": "2025 කාන්තා විද්‍යාල පැසිපන්දු තරඟාවලියේ පළමු වටය",
+        "share_text": "2025 කාන්තා විද්‍යාල පැසිපන්දු තරඟාවලියේ පළමු වටය! #GoogleDoodle"
       },
       "sk": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "March Madness – ženy",
+        "hover_text": "Vysokoškolský basketbalový turnaj žien 2025, prvé kolo",
+        "share_text": "Vysokoškolský basketbalový turnaj žien 2025, prvé kolo. #GoogleDoodle"
       },
       "sl": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Turnir March Madness za ženske",
+        "hover_text": "Prvi krog univerzitetnega turnirja v košarki za ženske 2025",
+        "share_text": "Prvi krog univerzitetnega turnirja v košarki za ženske 2025! #GoogleDoodle"
       },
       "so": {
         "query": null,
@@ -1921,9 +2420,9 @@
         "share_text": "Raundi ya Kwanza ya Mashindano ya Wanawake ya 2025 ya Mpira wa Vikapu wa Chuoni! #GoogleDoodle"
       },
       "sv": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "March Madness för damer",
+        "hover_text": "Första omgången av damernas collegeturnering i basket 2025",
+        "share_text": "Första omgången av damernas collegeturnering i basket 2025! #GoogleDoodle"
       },
       "tg": {
         "query": null,
@@ -1931,14 +2430,14 @@
         "share_text": ""
       },
       "ta": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "பெண்களுக்கான மார்ச் மேட்னஸ்",
+        "hover_text": "பெண்களுக்கான கல்லூரிக் கூடைப்பந்துப் போட்டித் தொடரின் முதல் சுற்று 2025",
+        "share_text": "பெண்களுக்கான கல்லூரிக் கூடைப்பந்துப் போட்டித் தொடரின் முதல் சுற்று 2025! #GoogleDoodle"
       },
       "te": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "విమెన్స్ 'మార్చ్ మ్యాడ్‌నెస్'",
+        "hover_text": "విమెన్స్ కాలేజ్ బాస్కెట్‌బాల్ టోర్నమెంట్ మొదటి రౌండ్ 2025",
+        "share_text": "విమెన్స్ కాలేజ్ బాస్కెట్‌బాల్ టోర్నమెంట్ మొదటి రౌండ్ 2025! #GoogleDoodle"
       },
       "th": {
         "query": "March Madness หญิง",
@@ -1951,9 +2450,9 @@
         "share_text": ""
       },
       "tr": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Kadınlar Mart Çılgınlığı",
+        "hover_text": "2025 Kadınlar Kolej Basketbol Turnuvası Birinci Turu",
+        "share_text": "2025 Kadınlar Kolej Basketbol Turnuvası Birinci Turu #GoogleDoodle"
       },
       "tk": {
         "query": null,
@@ -1986,9 +2485,9 @@
         "share_text": ""
       },
       "zu": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "I-Women's March Madness",
+        "hover_text": "Umzuliswano Wokuqala Womqhudelwano Wasekolishi Wabesifazane We-Basketball Ka-2025",
+        "share_text": "Umzuliswano Wokuqala Womqhudelwano Wasekolishi Wabesifazane We-Basketball Ka-2025! #GoogleDoodle"
       }
     },
     "translated_blog_posts": {},
@@ -2514,14 +3013,14 @@
         "share_text": "Men's College Basketball Tournament First Round 2025! #GoogleDoodle"
       },
       "af": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Mans se “March Madness”",
+        "hover_text": "Eerste ronde 2025 vir manskollege-basketbaltoernooi",
+        "share_text": "Eerste ronde 2025 vir manskollege-basketbaltoernooi! #GoogleDoodle"
       },
       "sq": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "March Madness për Meshkuj",
+        "hover_text": "Raundi i parë i turneut të basketbollit universitar për meshkuj, 2025",
+        "share_text": "Raundi i parë i turneut të basketbollit universitar për meshkuj, 2025! #GoogleDoodle"
       },
       "am": {
         "query": "የወንዶች ማርች ማድነስ",
@@ -2534,9 +3033,9 @@
         "share_text": "انطلقت الجولة الأولى من بطولة كرة السلة الجامعية للرجال 2025. ‎#GoogleDoodle"
       },
       "hy": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Ուսանողական սպորտաձևերի ազգային ասոցիացիայի տղամարդկանց բասկետբոլի մրցաշար",
+        "hover_text": "Տղամարդկանց բասկետբոլի ուսանողական մրցաշարի առաջին փուլ 2025",
+        "share_text": "Տղամարդկանց բասկետբոլի ուսանողական մրցաշարի առաջին փուլ 2025 #GoogleDoodle"
       },
       "az": {
         "query": "Kişilər arasında Basketbol Turniri",
@@ -2544,9 +3043,9 @@
         "share_text": "2025 Kişilər arasında Kollec Basketbol Turnirinin Birinci Turu! #GoogleDoodle"
       },
       "bn": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "পুরুষদের মার্চ ম্যাডনেস",
+        "hover_text": "পুরুষদের কলেজ বাস্কেটবল টুর্নামেন্টের প্রথম রাউন্ড ২০২৫",
+        "share_text": "পুরুষদের কলেজ বাস্কেটবল টুর্নামেন্টের প্রথম রাউন্ড ২০২৫! #GoogleDoodle"
       },
       "eu": {
         "query": null,
@@ -2554,29 +3053,29 @@
         "share_text": ""
       },
       "be": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Мужчынскі баскетбольны турнір першага дывізіёна NCAA",
+        "hover_text": "Першы раунд Мужчынскага баскетбольнага турніру Нацыянальнай асацыяцыі студэнцкага спорту 2025",
+        "share_text": "Першы раунд Мужчынскага баскетбольнага турніру Нацыянальнай асацыяцыі студэнцкага спорту 2025! #GoogleDoodle"
       },
       "bs": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Martovsko ludilo za muškarce",
+        "hover_text": "Prvi krug muškog turnira univerzitetske košarke 2025.",
+        "share_text": "Prvi krug muškog turnira univerzitetske košarke 2025! #GoogleDoodle"
       },
       "en-GB": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Men’s March Madness",
+        "hover_text": "Men's college basketball tournament first round 2025",
+        "share_text": "Men's college basketball tournament first round 2025! #GoogleDoodle"
       },
       "bg": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Първенство за мъже March Madness",
+        "hover_text": "Първи кръг на турнира по колежански баскетбол за мъже 2025 г.",
+        "share_text": "Първи кръг на турнира по колежански баскетбол за мъже 2025 г.! #GoogleDoodle"
       },
       "my": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "အမျိုးသား March Madness",
+        "hover_text": "၂၀၂၅ အမျိုးသား ကောလိပ်ဘတ်စကက်ဘောပြိုင်ပွဲ ပထမပွဲစဉ်",
+        "share_text": "၂၀၂၅ အမျိုးသား ကောလိပ်ဘတ်စကက်ဘောပြိုင်ပွဲ ပထမပွဲစဉ်။ #GoogleDoodle"
       },
       "ca": {
         "query": "March Madness masculí",
@@ -2584,14 +3083,14 @@
         "share_text": "Primera ronda del torneig de bàsquet universitari masculí 2025. #GoogleDoodle"
       },
       "zh-HK": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "男子籃球瘋狂三月",
+        "hover_text": "2025 年美國大學男子籃球錦標賽第一輪",
+        "share_text": "2025 年美國大學男子籃球錦標賽第一輪！#GoogleDoodle"
       },
       "zh-TW": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "男籃三月瘋",
+        "hover_text": "2025 美國大學男子籃球錦標賽首輪",
+        "share_text": "2025 美國大學男子籃球錦標賽首輪登場！#GoogleDoodle"
       },
       "zh-CN": {
         "query": "疯狂三月男篮锦标赛",
@@ -2599,14 +3098,14 @@
         "share_text": "2025 年大学男篮锦标赛第一轮！#GoogleDoodle"
       },
       "hr": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Ožujsko ludilo za muškarce",
+        "hover_text": "Muški turnir sveučilišne košarke – prvi krug 2025.",
+        "share_text": "Muški turnir sveučilišne košarke – prvi krug 2025.! #GoogleDoodle"
       },
       "cs": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Men's March Madness",
+        "hover_text": "Mužský basketbalový turnaj studentů 2025 – první kolo",
+        "share_text": "Probíhá mužský basketbalový turnaj studentů 2025 – první kolo! #GoogleDoodle"
       },
       "da": {
         "query": "March Madness-turneringen for mænd",
@@ -2614,9 +3113,9 @@
         "share_text": "Første runde af mændenes college-basketballturnering 2025 #GoogleDoodle"
       },
       "nl": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "March Madness mannenbasketbal",
+        "hover_text": "Eerste ronde van het collegebasketbaltoernooi mannen 2025",
+        "share_text": "De eerste ronde van het collegebasketbaltoernooi voor mannen van 2025! #GoogleDoodle"
       },
       "et": {
         "query": "Meeste märtsihullus",
@@ -2629,9 +3128,9 @@
         "share_text": "Miesten yliopistokoripalloturnauksen ensimmäinen kierros 2025. #GoogleDoodle"
       },
       "fr": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "March Madness masculin",
+        "hover_text": "Premier tour du tournoi universitaire de basket-ball masculin 2025",
+        "share_text": "Premier tour du tournoi universitaire de basket-ball masculin 2025 ! #GoogleDoodle"
       },
       "fr-CA": {
         "query": "Tournoi du March Madness masculin",
@@ -2639,14 +3138,14 @@
         "share_text": "Championnat NCAA de basketball masculin, premier tour 2025! #GoogleDoodle"
       },
       "gl": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Torneo March Madness masculino",
+        "hover_text": "Primeira rolda do Torneo de Baloncesto Universitario Masculino 2025",
+        "share_text": "Primeira rolda do Torneo de Baloncesto Universitario masculino 2025! #GoogleDoodle"
       },
       "ka": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "March Madness (მამაკაცები)",
+        "hover_text": "მამაკაცთა სტუდენტური საკალათბურთო ტურნირის პირველი წრე 2025",
+        "share_text": "მამაკაცთა სტუდენტური საკალათბურთო ტურნირის პირველი წრე 2025! #GoogleDoodle"
       },
       "de": {
         "query": "March Madness (Herren)",
@@ -2654,14 +3153,14 @@
         "share_text": "Meisterschaft im College-Basketball (Herren) 2025 – 1. Runde #GoogleDoodle"
       },
       "el": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "March Madness Ανδρών",
+        "hover_text": "Πρώτος γύρος Πανεπιστημιακού Τουρνουά Μπάσκετ Ανδρών του 2025",
+        "share_text": "Πρώτος γύρος Πανεπιστημιακού Τουρνουά Μπάσκετ Ανδρών του 2025! #GoogleDoodle"
       },
       "gu": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "પુરૂષોની March Madness",
+        "hover_text": "પુરૂષોની કૉલેજ બાસ્કેટબૉલ ટુર્નામેન્ટનો પહેલો રાઉન્ડ 2025",
+        "share_text": "પુરૂષોની કૉલેજ બાસ્કેટબૉલ ટુર્નામેન્ટનો પહેલો રાઉન્ડ 2025! #GoogleDoodle"
       },
       "ht": {
         "query": null,
@@ -2669,19 +3168,19 @@
         "share_text": ""
       },
       "iw": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "טורניר אליפות המכללות בכדורסל לגברים (March Madness)",
+        "hover_text": "טורניר אליפות המכללות בכדורסל לגברים, הסיבוב הראשון לשנת 2025",
+        "share_text": "טורניר אליפות המכללות בכדורסל לגברים, הסיבוב הראשון לשנת 2025 GoogleDoodle#"
       },
       "hi": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "मेन्स मार्च मैडनेस",
+        "hover_text": "मेन्स कॉलेज बास्केटबॉल टूर्नामेंट 2025 का पहला राउंड",
+        "share_text": "मेन्स कॉलेज बास्केटबॉल टूर्नामेंट 2025 का पहला राउंड! #GoogleDoodle"
       },
       "hu": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "March Madness – férfi",
+        "hover_text": "Főiskolai férfi kosárlabdatorna első fordulója, 2025",
+        "share_text": "Főiskolai férfi kosárlabdatorna első fordulója, 2025! #GoogleDoodle"
       },
       "is": {
         "query": "March Madness karla",
@@ -2699,44 +3198,44 @@
         "share_text": ""
       },
       "it": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "March Madness maschile",
+        "hover_text": "Prima fase del Campionato di basket maschile universitario 2025",
+        "share_text": "Prima fase del Campionato di basket maschile universitario 2025! #GoogleDoodle"
       },
       "ja": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "NCAA 男子バスケットボール トーナメント",
+        "hover_text": "2025 年男子カレッジ バスケットボール トーナメント ファースト ラウンド",
+        "share_text": "2025 年男子カレッジ バスケットボール トーナメント ファースト ラウンド！#GoogleDoodle"
       },
       "kn": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "ಮೆನ್ಸ್ ಮಾರ್ಚ್ ಮ್ಯಾಡ್‌ನೆಸ್",
+        "hover_text": "ಪುರುಷರ ಕಾಲೇಜ್ ಬಾಸ್ಕೆಟ್‌ಬಾಲ್ ಪಂದ್ಯಾವಳಿಯ ಮೊದಲನೇ ಸುತ್ತು 2025",
+        "share_text": "ಪುರುಷರ ಕಾಲೇಜ್ ಬಾಸ್ಕೆಟ್‌ಬಾಲ್ ಪಂದ್ಯಾವಳಿಯ ಮೊದಲನೇ ಸುತ್ತು 2025! #GoogleDoodle"
       },
       "kk": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Ерлер арасындағы NCAA бірінші дивизионының баскетбол турнирі (March Madness)",
+        "hover_text": "2025 жылғы ерлер арасындағы университеттік баскетбол турнирінің бірінші айналымы",
+        "share_text": "2025 жылғы ерлер арасындағы университеттік баскетбол турнирінің бірінші айналымы #GoogleDoodle"
       },
       "km": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "ការប្រកួត​បាល់បោះ​ផ្នែក​បុរស",
+        "hover_text": "ការប្រកួតបាល់បោះ​ផ្នែកបុរស​​កម្រិត​មហាវិទ្យាល័យ​ ជុំ​ទីមួយ ឆ្នាំ 2025",
+        "share_text": "ការប្រកួតបាល់បោះផ្នែក​បុរស​​កម្រិតមហាវិទ្យាល័យ​ ជុំ​ទីមួយ ឆ្នាំ 2025! #GoogleDoodle"
       },
       "ko": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "NCAA 남자 농구 토너먼트",
+        "hover_text": "2025년 남자 대학 농구 토너먼트 1라운드",
+        "share_text": "2025년 남자 대학 농구 토너먼트 1라운드 기념 #GoogleDoodle"
       },
       "ky": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Биринчи NCAA дивизионунун эркектердин арасындагы баскетбол турнири",
+        "hover_text": "Биринчи NCAA дивизионунун эркектердин арасындагы баскетбол турниринин биринчи туру – 2025",
+        "share_text": "Биринчи NCAA дивизионунун эркектердин арасындагы баскетбол турниринин биринчи туру – 2025! #GoogleDoodle"
       },
       "lo": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "March Madness ຊາຍ",
+        "hover_text": "ການແຂ່ງຂັນບານບ້ວງຊາຍລະດັບວິທະຍາໄລຮອບທຳອິດປີ 2025",
+        "share_text": "ການແຂ່ງຂັນບານບ້ວງຊາຍລະດັບວິທະຍາໄລຮອບທຳອິດປີ 2025! #GoogleDoodle"
       },
       "es-419": {
         "query": "March Madness Masculino",
@@ -2749,9 +3248,9 @@
         "share_text": "2025. gada vīriešu koledžu basketbola turnīra pirmā kārta! #GoogleDoodle"
       },
       "lt": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Vyrų turnyras „March Madness“",
+        "hover_text": "Studentų (vyrų) krepšinio turnyras, pirmasis turas, 2025 m.",
+        "share_text": "Studentų (vyrų) krepšinio turnyras, pirmasis turas, 2025 m.! #GoogleDoodle"
       },
       "mk": {
         "query": null,
@@ -2769,9 +3268,9 @@
         "share_text": "Pusingan Pertama Kejohanan Bola Keranjang Kolej Lelaki 2025! #GoogleDoodle"
       },
       "ml": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "മെൻസ് മാർച്ച് മാഡ്‌നെസ്",
+        "hover_text": "മെൻസ് കോളേജ് ബാസ്‌ക്കറ്റ്ബോൾ ടൂർണമെന്റ് ഫസ്റ്റ് റൗണ്ട് 2025",
+        "share_text": "മെൻസ് കോളേജ് ബാസ്‌ക്കറ്റ്ബോൾ ടൂർണമെന്റ് ഫസ്റ്റ് റൗണ്ട് 2025! #GoogleDoodle"
       },
       "mt": {
         "query": null,
@@ -2789,14 +3288,14 @@
         "share_text": "2025 оны Эрэгтэйчүүдийн коллежийн сагсан бөмбөгийн тэмцээний эхний тойрог! #GoogleDoodle"
       },
       "ne": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "मेन्स मार्च म्याडनेस",
+        "hover_text": "कलेजस्तरीय पुरुष बास्केटबल प्रतियोगिता २०२५ को पहिलो चरण",
+        "share_text": "कलेजस्तरीय पुरुष बास्केटबल प्रतियोगिता २०२५ को पहिलो चरण! #GoogleDoodle"
       },
       "no": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "March Madness (menn)",
+        "hover_text": "College-basketballturneringen for herrer 2025 – første runde",
+        "share_text": "College-basketballturneringen for herrer 2025 – første runde! #GoogleDoodle"
       },
       "nn": {
         "query": null,
@@ -2819,34 +3318,34 @@
         "share_text": ""
       },
       "fa": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "مسابقات March Madness مردان",
+        "hover_text": "دور اول مسابقات ۲۰۲۵ بسکتبال مردان دانشکده‌ها",
+        "share_text": "دور اول مسابقات ۲۰۲۵ بسکتبال مردان دانشکده‌ها! ‎#GoogleDoodle"
       },
       "pl": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Turniej March Madness mężczyzn",
+        "hover_text": "Pierwsza runda turnieju mężczyzn w uniwersyteckiej lidze koszykówki 2025",
+        "share_text": "Pierwsza runda turnieju mężczyzn w uniwersyteckiej lidze koszykówki 2025 #GoogleDoodle"
       },
       "pt-BR": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Campeonato de Basquete Masculino da NCAA — Divisão I",
+        "hover_text": "Primeira rodada do Campeonato de Basquete Universitário Masculino 2025",
+        "share_text": "Primeira rodada do Campeonato de Basquete Universitário Masculino 2025 #GoogleDoodle"
       },
       "pt-PT": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Torneio March Madness Masculino",
+        "hover_text": "Primeira Ronda do Torneio Universitário de Basquetebol Masculino de 2025",
+        "share_text": "Primeira Ronda do Torneio Universitário de Basquetebol Masculino de 2025! #GoogleDoodle"
       },
       "pa": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Men’s March Madness",
+        "hover_text": "ਪੁਰਸ਼ਾਂ ਦੇ ਕਾਲਜ ਬਾਸਕਟਬਾਲ ਟੂਰਨਾਮੈਂਟ ਦਾ ਪਹਿਲਾਂ ਰਾਊਂਡ 2025",
+        "share_text": "ਪੁਰਸ਼ਾਂ ਦੇ ਕਾਲਜ ਬਾਸਕਟਬਾਲ ਟੂਰਨਾਮੈਂਟ ਦਾ ਪਹਿਲਾਂ ਰਾਊਂਡ 2025! #GoogleDoodle"
       },
       "ro": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Campionatul de baschet masculin NCAA",
+        "hover_text": "Prima rundă a turneului de baschet universitar masculin 2025",
+        "share_text": "Prima rundă a turneului de baschet universitar masculin 2025! #GoogleDoodle"
       },
       "ro-MD": {
         "query": null,
@@ -2854,19 +3353,19 @@
         "share_text": ""
       },
       "ru": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Мужской баскетбольный турнир первого дивизиона NCAA",
+        "hover_text": "Первый раунд Мужского баскетбольного турнира первого дивизиона NCAA – 2025",
+        "share_text": "Первый раунд Мужского баскетбольного турнира первого дивизиона NCAA – 2025 #GoogleDoodle"
       },
       "sr": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Мартовско лудило за мушкарце",
+        "hover_text": "Прва рунда турнира у мушкој колеџ кошарци 2025.",
+        "share_text": "Прва рунда турнира у мушкој колеџ кошарци 2025! #GoogleDoodle"
       },
       "sr-Latn": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Martovsko ludilo za muškarce",
+        "hover_text": "Prva runda turnira u muškoj koledž košarci 2025.",
+        "share_text": "Prva runda turnira u muškoj koledž košarci 2025! #GoogleDoodle"
       },
       "sr-ME": {
         "query": null,
@@ -2884,19 +3383,19 @@
         "share_text": ""
       },
       "si": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "පිරිමි ගමන් සංගීත පිස්සුව",
+        "hover_text": "2025 පිරිමි විද්‍යාල පැසිපන්දු තරඟාවලියේ පළමු වටය",
+        "share_text": "2025 පිරිමි විද්‍යාල පැසිපන්දු තරඟාවලියේ පළමු වටය! #GoogleDoodle"
       },
       "sk": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "March Madness – muži",
+        "hover_text": "Vysokoškolský basketbalový turnaj mužov 2025, prvé kolo",
+        "share_text": "Vysokoškolský basketbalový turnaj mužov 2025, prvé kolo. #GoogleDoodle"
       },
       "sl": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Turnir March Madness za moške",
+        "hover_text": "Prvi krog univerzitetnega turnirja v košarki za moške 2025",
+        "share_text": "Prvi krog univerzitetnega turnirja v košarki za moške 2025! #GoogleDoodle"
       },
       "so": {
         "query": null,
@@ -2919,9 +3418,9 @@
         "share_text": "Raundi ya Kwanza ya Mashindano ya Wanaume ya 2025 ya Mpira wa Vikapu wa Chuoni! #GoogleDoodle"
       },
       "sv": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "March Madness för herrar",
+        "hover_text": "Första omgången av herrarnas collegeturnering i basket 2025",
+        "share_text": "Första omgången av herrarnas collegeturnering i basket 2025! #GoogleDoodle"
       },
       "tg": {
         "query": null,
@@ -2929,14 +3428,14 @@
         "share_text": ""
       },
       "ta": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "ஆண்களுக்கான மார்ச் மேட்னஸ்",
+        "hover_text": "ஆண்களுக்கான கல்லூரிக் கூடைப்பந்துப் போட்டித் தொடரின் முதல் சுற்று 2025",
+        "share_text": "ஆண்களுக்கான கல்லூரிக் கூடைப்பந்துப் போட்டித் தொடரின் முதல் சுற்று 2025! #GoogleDoodle"
       },
       "te": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "మెన్స్ 'మార్చ్ మ్యాడ్‌నెస్'",
+        "hover_text": "మెన్స్ కాలేజ్ బాస్కెట్‌బాల్ టోర్నమెంట్ మొదటి రౌండ్ 2025",
+        "share_text": "మెన్స్ కాలేజ్ బాస్కెట్‌బాల్ టోర్నమెంట్ మొదటి రౌండ్ 2025! #GoogleDoodle"
       },
       "th": {
         "query": "March Madness ชาย",
@@ -2949,9 +3448,9 @@
         "share_text": ""
       },
       "tr": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "Erkekler Mart Çılgınlığı",
+        "hover_text": "2025 Erkekler Kolej Basketbol Turnuvası Birinci Turu",
+        "share_text": "2025 Erkekler Kolej Basketbol Turnuvası Birinci Turu #GoogleDoodle"
       },
       "tk": {
         "query": null,
@@ -2984,9 +3483,9 @@
         "share_text": ""
       },
       "zu": {
-        "query": null,
-        "hover_text": null,
-        "share_text": ""
+        "query": "I-Men's March Madness",
+        "hover_text": "Umzuliswano Wokuqala Womqhudelwano Wasekolishi Wabesilisa We-Basketball Ka-2025",
+        "share_text": "Umzuliswano Wokuqala Womqhudelwano Wasekolishi Wabesilisa We-Basketball Ka-2025! #GoogleDoodle"
       }
     },
     "translated_blog_posts": {},
