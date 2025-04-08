@@ -1,5 +1,504 @@
 [
   {
+    "name": "mens-college-basketball-championship-2025",
+    "title": "Men's College Basketball Championship 2025",
+    "url": "//www.google.com/logos/doodles/2025/mens-college-basketball-tournament-first-round-2025-copy-6753651837110769-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/teLWrUc3PLZsesh5O4nyLefp3MKL_A4MbMIhulMca6jsN6_pVLJAAfVbDUNV8vVn2A26lKPvJI-bebr5XoXvgfIFWmL7thFk0lo2A5duv65qT6OjTg8unQ",
+    "high_res_url": "//www.google.com/logos/doodles/2025/mens-college-basketball-tournament-first-round-2025-copy-6753651837110769-2xa.gif",
+    "high_res_width": 782,
+    "high_res_height": 313,
+    "run_date_array": [
+      2025,
+      4,
+      7
+    ],
+    "translations": {
+      "en": {
+        "query": "Men’s March Madness",
+        "hover_text": "Men's College Basketball Championship 2025",
+        "share_text": "Men's College Basketball Championship 2025! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Mans se “March Madness”",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sq": {
+        "query": "March Madness për Meshkuj",
+        "hover_text": "Kampionati i basketbollit universitar për meshkuj, 2025",
+        "share_text": "Kampionati i basketbollit universitar për meshkuj, 2025! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የወንዶች ማርች ማድነስ",
+        "hover_text": "የወንዶች የኮሌጅ ቅርጫት ኳስ ሻምፒዮና 2025",
+        "share_text": "የወንዶች የኮሌጅ ቅርጫት ኳስ ሻምፒዮና 2025! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "بطولة March Madness للرجال",
+        "hover_text": "بطولة كرة السلة الجامعية للرجال 2025",
+        "share_text": "انطلقت بطولة كرة السلة الجامعية للرجال لعام 2025. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Ուսանողական սպորտաձևերի ազգային ասոցիացիայի տղամարդկանց բասկետբոլի մրցաշար",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "az": {
+        "query": "Kişilər arasında Basketbol Turniri",
+        "hover_text": "2025 Kişilər arasında Kollec Basketbol Çempionatı",
+        "share_text": "2025 Kişilər arasında Kollec Basketbol Çempionatı! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "পুরুষদের মার্চ ম্যাডনেস",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "eu": {
+        "query": "",
+        "hover_text": "2025eko gizonezkoen unibertsitateko saskibaloi-txapelketa",
+        "share_text": "2025eko gizonezkoen unibertsitateko saskibaloi-txapelketa #GoogleDoodle"
+      },
+      "be": {
+        "query": "Мужчынскі баскетбольны турнір першага дывізіёна NCAA",
+        "hover_text": "Чэмпіянат мужчынскага дывізіёна па баскетболе Нацыянальнай асацыяцыі студэнцкага спорту 2025",
+        "share_text": "Чэмпіянат мужчынскага дывізіёна па баскетболе Нацыянальнай асацыяцыі студэнцкага спорту 2025! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Martovsko ludilo za muškarce",
+        "hover_text": "Muško prvenstvo univerzitetske košarke 2025.",
+        "share_text": "Muško prvenstvo univerzitetske košarke 2025! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Men’s March Madness",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "bg": {
+        "query": "Първенство за мъже March Madness",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "my": {
+        "query": "အမျိုးသား March Madness",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ca": {
+        "query": "March Madness masculí",
+        "hover_text": "Campionat de bàsquet universitari masculí 2025",
+        "share_text": "Campionat de bàsquet universitari masculí 2025 #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "男子籃球瘋狂三月",
+        "hover_text": "2025 年美國大學男子籃球錦標賽",
+        "share_text": "2025 年美國大學男子籃球錦標賽！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "男籃三月瘋",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "zh-CN": {
+        "query": "疯狂三月男篮锦标赛",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "hr": {
+        "query": "Ožujsko ludilo za muškarce",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "cs": {
+        "query": "Men's March Madness",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "da": {
+        "query": "March Madness-turneringen for mænd",
+        "hover_text": "Mændenes college-basketballmesterskab 2025",
+        "share_text": "Mændenes college-basketballmesterskab 2025 #GoogleDoodle"
+      },
+      "nl": {
+        "query": "March Madness mannenbasketbal",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "et": {
+        "query": "Meeste märtsihullus",
+        "hover_text": "Meeste kolledžikorvpalli meistrivõistlused 2025",
+        "share_text": "Meeste kolledžikorvpalli meistrivõistlused 2025! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Miesten March Madness",
+        "hover_text": "Miesten College Basketball -mestaruuskisat 2025",
+        "share_text": "Miesten College Basketball -mestaruuskisat 2025 #GoogleDoodle"
+      },
+      "fr": {
+        "query": "March Madness masculin",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "fr-CA": {
+        "query": "Tournoi du March Madness masculin",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "gl": {
+        "query": "Torneo March Madness masculino",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ka": {
+        "query": "March Madness (მამაკაცები)",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "de": {
+        "query": "March Madness (Herren)",
+        "hover_text": "Meisterschaft im College-Basketball (Herren) 2025",
+        "share_text": "Meisterschaft im College-Basketball (Herren) 2025 #GoogleDoodle"
+      },
+      "el": {
+        "query": "March Madness Ανδρών",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "gu": {
+        "query": "પુરૂષોની March Madness",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ht": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "iw": {
+        "query": "טורניר אליפות המכללות בכדורסל לגברים (March Madness)",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "hi": {
+        "query": "मेन्स मार्च मैडनेस",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "hu": {
+        "query": "March Madness – férfi",
+        "hover_text": "Főiskolai férfi kosárlabda-bajnokság, 2025",
+        "share_text": "Főiskolai férfi kosárlabda-bajnokság, 2025. #GoogleDoodle"
+      },
+      "is": {
+        "query": "March Madness karla",
+        "hover_text": "Háskólakörfuboltamót karla 2025",
+        "share_text": "Háskólakörfuboltamót karla 2025! #GoogleDoodle"
+      },
+      "id": {
+        "query": "March Madness Putra",
+        "hover_text": "Kejuaraan Bola Basket Putra NCAA 2025",
+        "share_text": "Kejuaraan Bola Basket Putra NCAA 2025 #GoogleDoodle"
+      },
+      "ga": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "it": {
+        "query": "March Madness maschile",
+        "hover_text": "Campionato di basket maschile universitario 2025",
+        "share_text": "Campionato di basket maschile universitario 2025! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "NCAA 男子バスケットボール トーナメント",
+        "hover_text": "2025 年男子カレッジ バスケットボール チャンピオンシップ",
+        "share_text": "2025 年男子カレッジ バスケットボール チャンピオンシップ！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಮೆನ್ಸ್ ಮಾರ್ಚ್ ಮ್ಯಾಡ್‌ನೆಸ್",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "kk": {
+        "query": "Ерлер арасындағы NCAA бірінші дивизионының баскетбол турнирі (March Madness)",
+        "hover_text": "2025 жылғы ерлер арасындағы университеттік баскетбол чемпионаты",
+        "share_text": "2025 жылғы ерлер арасындағы университеттік баскетбол чемпионаты #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការប្រកួត​បាល់បោះ​ផ្នែក​បុរស",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ko": {
+        "query": "NCAA 남자 농구 토너먼트",
+        "hover_text": "2025년 남자 대학 농구 챔피언십",
+        "share_text": "2025년 남자 대학 농구 챔피언십 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Биринчи NCAA дивизионунун эркектердин арасындагы баскетбол турнири",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "lo": {
+        "query": "March Madness ຊາຍ",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "es-419": {
+        "query": "March Madness Masculino",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "lv": {
+        "query": "Turnīrs “Men's March Madness”",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "lt": {
+        "query": "Vyrų turnyras „March Madness“",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "mk": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "mg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ms": {
+        "query": "March Madness Lelaki",
+        "hover_text": "Kejohanan Bola Keranjang Kolej Lelaki 2025",
+        "share_text": "Kejohanan Bola Keranjang Kolej Lelaki 2025! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "മെൻസ് മാർച്ച് മാഡ്‌നെസ്",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "mt": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "mr": {
+        "query": "मेन्स मार्च मॅडनेस",
+        "hover_text": "पुरुषांची कॉलेज बास्केटबॉल चँपियनशिप २०२५",
+        "share_text": "पुरुषांची कॉलेज बास्केटबॉल चँपियनशिप २०२५! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Эрэгтэйчүүдийн March Madness",
+        "hover_text": "2025 оны Эрэгтэйчүүдийн коллежийн сагсан бөмбөгийн аварга шалгаруулах тэмцээн",
+        "share_text": "2025 оны Эрэгтэйчүүдийн коллежийн сагсан бөмбөгийн аварга шалгаруулах тэмцээн! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "मेन्स मार्च म्याडनेस",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "no": {
+        "query": "March Madness (menn)",
+        "hover_text": "College-basketballmesterskap for herrer 2025",
+        "share_text": "College-basketballmesterskap for herrer 2025! #GoogleDoodle"
+      },
+      "nn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ny": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "or": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ps": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "fa": {
+        "query": "مسابقات March Madness مردان",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "pl": {
+        "query": "Turniej March Madness mężczyzn",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "pt-BR": {
+        "query": "Campeonato de Basquete Masculino da NCAA — Divisão I",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "pt-PT": {
+        "query": "Torneio March Madness Masculino",
+        "hover_text": "Campeonato Universitário de Basquetebol Masculino de 2025",
+        "share_text": "Campeonato Universitário de Basquetebol Masculino de 2025! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "Men’s March Madness",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ro": {
+        "query": "Campionatul de baschet masculin NCAA",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ro-MD": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Мужской баскетбольный турнир первого дивизиона NCAA",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sr": {
+        "query": "Мартовско лудило за мушкарце",
+        "hover_text": "Првенство у мушкој колеџ кошарци 2025.",
+        "share_text": "Првенство у мушкој колеџ кошарци 2025! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Martovsko ludilo za muškarce",
+        "hover_text": "Prvenstvo u muškoj koledž košarci 2025.",
+        "share_text": "Prvenstvo u muškoj koledž košarci 2025! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "crs": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "si": {
+        "query": "පිරිමි ගමන් සංගීත පිස්සුව",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sk": {
+        "query": "March Madness – muži",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sl": {
+        "query": "Turnir March Madness za moške",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "so": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "st": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "es": {
+        "query": "March Madness masculino",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sw": {
+        "query": "Mashidano ya Wanaume ya Mpira wa Vikapu wa Chuoni",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sv": {
+        "query": "March Madness för herrar",
+        "hover_text": "Herrarnas collegemästerskap i basket 2025",
+        "share_text": "Herrarnas collegemästerskap i basket 2025! #GoogleDoodle"
+      },
+      "tg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ta": {
+        "query": "ஆண்களுக்கான மார்ச் மேட்னஸ்",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "te": {
+        "query": "మెన్స్ 'మార్చ్ మ్యాడ్‌నెస్'",
+        "hover_text": "మెన్స్ కాలేజ్ బాస్కెట్‌బాల్ ఛాంపియన్‌షిప్ 2025",
+        "share_text": "మెన్స్ కాలేజ్ బాస్కెట్‌బాల్ ఛాంపియన్‌షిప్ 2025! #GoogleDoodle"
+      },
+      "th": {
+        "query": "March Madness ชาย",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "tn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Erkekler Mart Çılgınlığı",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "tk": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Турнір із чоловічого баскетболу Національної асоціації студентського спорту",
+        "hover_text": "Чемпіонат із чоловічого баскетболу Національної асоціації студентського спорту у 2025 р.",
+        "share_text": "Чемпіонат із чоловічого баскетболу Національної асоціації студентського спорту у 2025 р.! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "مردوں کا March Madness",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "uz": {
+        "query": "Erkaklar March Madness turniri",
+        "hover_text": "Erkaklar oʻrtasida 2025-yilgi Kollej basketbol chempionati",
+        "share_text": "Erkaklar oʻrtasida 2025-yilgi Kollej basketbol chempionati! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Giải bóng rổ nam March Madness",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "wo": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "zu": {
+        "query": "I-Men's March Madness",
+        "hover_text": "",
+        "share_text": ""
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Men’s March Madness",
+    "share_text": "Men's College Basketball Championship 2025! #GoogleDoodle"
+  },
+  {
     "name": "womens-college-basketball-championship-2025",
     "title": "Women's College Basketball Championship 2025",
     "url": "//www.google.com/logos/doodles/2025/womens-college-basketball-tournament-first-round-2025-copy-6753651837110768-law.gif",
