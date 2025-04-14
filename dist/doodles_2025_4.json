@@ -1,5 +1,504 @@
 [
   {
+    "name": "world-quantum-day",
+    "title": "World Quantum Day",
+    "url": "//www.google.com/logos/doodles/2025/world-quantum-day-6753651837110770.2-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/9MPlKT1sCQdogheeZ0ufwBRrV0Y3yn6LA0nAZriKHBvO8ZmhYHMb2O5uiazkgYl8lUeMQUeMRzYEH3ypPuhu2EtOQuDgXW7blsmc-nNi0N6EalA-2dBpMg",
+    "high_res_url": "//www.google.com/logos/doodles/2025/world-quantum-day-6753651837110770.2-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2025,
+      4,
+      14
+    ],
+    "translations": {
+      "en": {
+        "query": "Quantum Superposition",
+        "hover_text": "Celebrating World Quantum Day",
+        "share_text": "Celebrating World Quantum Day!  #GoogleDoodle"
+      },
+      "af": {
+        "query": "Kwantumsuperposisie",
+        "hover_text": "Ter viering van Wêreldkwantumdag",
+        "share_text": "Ter viering van Wêreldkwantumdag!  #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Mbivendosja kuantike",
+        "hover_text": "Festojmë Ditën Botërore të Kuantit",
+        "share_text": "Festojmë Ditën Botërore të Kuantit!  #GoogleDoodle"
+      },
+      "am": {
+        "query": "የኳንተም ልዕለ አቀማመጥ",
+        "hover_text": "የዓለም የኳንተም ቀንን በማክበር ላይ",
+        "share_text": "የዓለም የኳንተም ቀንን በማክበር ላይ!  #GoogleDoodle"
+      },
+      "ar": {
+        "query": "التراكب الكمي",
+        "hover_text": "نحتفل بيوم الكم العالمي",
+        "share_text": "لنحتفل معًا بيوم الكم العالمي!  ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Քվանտային վերադրում",
+        "hover_text": "Տոնենք քվանտի միջազգային օրը",
+        "share_text": "Տոնենք քվանտի միջազգային օրը  #GoogleDoodle"
+      },
+      "az": {
+        "query": "Kvant superpozisiyası",
+        "hover_text": "Dünya Kvant günü",
+        "share_text": "Dünya Kvant günü!  #GoogleDoodle"
+      },
+      "bn": {
+        "query": "কোয়ান্টাম সুপারপজিশন",
+        "hover_text": "বিশ্ব কোয়ান্টাম দিবস উদযাপন করা হচ্ছে",
+        "share_text": "বিশ্ব কোয়ান্টাম দিবস উদযাপন করা হচ্ছে!  #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Gainjartze kuantikoa",
+        "hover_text": "Kuantuaren Nazioarteko Egunaren omenez",
+        "share_text": "Kuantuaren Nazioarteko Egunaren omenez  #GoogleDoodle"
+      },
+      "be": {
+        "query": "Квантавая суперпазіцыя",
+        "hover_text": "Святкуем Сусветны квантавы дзень",
+        "share_text": "Святкуем Сусветны квантавы дзень!  #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Kvantna superpozicija",
+        "hover_text": "Slavimo Svjetski dan kvantne nauke i tehnologije",
+        "share_text": "Slavimo Svjetski dan kvantne nauke i tehnologije!  #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Quantum Superposition",
+        "hover_text": "Celebrating World Quantum Day",
+        "share_text": "Celebrating World Quantum Day!  #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Квантова суперпозиция",
+        "hover_text": "Честване на Световния ден на кванта",
+        "share_text": "Честване на Световния ден на кванта!  #GoogleDoodle"
+      },
+      "my": {
+        "query": "ကွမ်တမ် ထပ်၍နေရာချထားခြင်း",
+        "hover_text": "ကမ္ဘာ့ကွမ်တမ်နေ့ကို ဆင်နွှဲခြင်း",
+        "share_text": "ကမ္ဘာ့ကွမ်တမ်နေ့ကို ဆင်နွှဲခြင်း။  #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Superposició quàntica",
+        "hover_text": "Celebrem el Dia Mundial de la Quàntica",
+        "share_text": "Celebrem el Dia Mundial de la Quàntica  #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "量子疊加原理",
+        "hover_text": "慶祝世界量子日",
+        "share_text": "慶祝世界量子日！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "量子疊加態",
+        "hover_text": "歡慶世界量子日",
+        "share_text": "世界量子日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "量子叠加",
+        "hover_text": "庆祝世界量子日",
+        "share_text": "庆祝世界量子日！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Kvantna superpozicija",
+        "hover_text": "Slavimo Svjetski kvantni dan",
+        "share_text": "Slavimo Svjetski kvantni dan!  #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Kvantová superpozice",
+        "hover_text": "Slavíme Mezinárodní den kvantové fyziky",
+        "share_text": "Slavíme Mezinárodní den kvantové fyziky!  #GoogleDoodle"
+      },
+      "da": {
+        "query": "Kvantemekanisk superposition",
+        "hover_text": "Vi fejrer World Quantum Day",
+        "share_text": "Vi fejrer World Quantum Day  #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Kwantumsuperpositie",
+        "hover_text": "Doodle ter ere van Wereldkwantumdag",
+        "share_text": "Een doodle ter ere van Wereldkwantumdag!  #GoogleDoodle"
+      },
+      "et": {
+        "query": "Kvantsuperpositsioon",
+        "hover_text": "Ülemaailmse kvantpäeva tähistamine",
+        "share_text": "Ülemaailmse kvantpäeva tähistamine  #GoogleDoodle"
+      },
+      "fi": {
+        "query": "kvanttisuperpositio",
+        "hover_text": "Kansainvälinen kvanttipäivä",
+        "share_text": "Kansainvälinen kvanttipäivä! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Superposition quantique",
+        "hover_text": "C'est la Journée mondiale de la science et de la technologie quantiques",
+        "share_text": "C'est la Journée mondiale de la science et de la technologie quantiques !  #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Superposition quantique",
+        "hover_text": "Journée mondiale de la quantique",
+        "share_text": "Célébrons la Journée mondiale de la quantique!  #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Superposición cuántica",
+        "hover_text": "Celebración do Día Mundial da Cuántica",
+        "share_text": "Celebración do Día Mundial da Cuántica!  #GoogleDoodle"
+      },
+      "ka": {
+        "query": "კვანტური სუპერპოზიცია",
+        "hover_text": "აღვნიშნავთ კვანტის მსოფლიო დღეს",
+        "share_text": "აღვნიშნავთ კვანტის მსოფლიო დღეს!  #GoogleDoodle"
+      },
+      "de": {
+        "query": "Quantenüberlagerung",
+        "hover_text": "Wir feiern den Welttag der Quanten",
+        "share_text": "#GoogleDoodle"
+      },
+      "el": {
+        "query": "Κβαντική υπέρθεση",
+        "hover_text": "Γιορτάζουμε την Παγκόσμια Ημέρα Κβαντικής",
+        "share_text": "Γιορτάζουμε την Παγκόσμια Ημέρα Κβαντικής!  #GoogleDoodle"
+      },
+      "gu": {
+        "query": "ક્વૉન્ટમ સુપરપોઝિશન",
+        "hover_text": "વિશ્વ ક્વૉન્ટમ દિવસની ઉજવણી",
+        "share_text": "વિશ્વ ક્વૉન્ટમ દિવસની ઉજવણી!  #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "סופרפוזיציה קוונטית",
+        "hover_text": "לציון יום הקוונטים העולמי",
+        "share_text": "לציון יום הקוונטים העולמי  GoogleDoodle#"
+      },
+      "hi": {
+        "query": "क्वांटम सुपरपोज़िशन",
+        "hover_text": "वर्ल्ड क्वांटम डे का जश्न",
+        "share_text": "वर्ल्ड क्वांटम डे का जश्न!  #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Kvantum-szuperpozíció",
+        "hover_text": "A kvantum napjának ünneplése",
+        "share_text": "A kvantum napjának ünneplése!  #GoogleDoodle"
+      },
+      "is": {
+        "query": "Yfirlagning í skammtafræði",
+        "hover_text": "Við fögnum degi skammtafræðinnar",
+        "share_text": "Við fögnum degi skammtafræðinnar!  #GoogleDoodle"
+      },
+      "id": {
+        "query": "Superposisi Kuantum",
+        "hover_text": "Merayakan Hari Kuantum Sedunia",
+        "share_text": "Merayakan Hari Kuantum Sedunia  #GoogleDoodle"
+      },
+      "ga": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Sovrapposizione quantistica",
+        "hover_text": "Un omaggio alla Giornata mondiale dei quanti",
+        "share_text": "Un omaggio alla Giornata mondiale dei quanti!  #GoogleDoodle"
+      },
+      "ja": {
+        "query": "量子重ね合わせ",
+        "hover_text": "世界量子デーを祝して",
+        "share_text": "世界量子デーを祝して！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಕ್ವಾಂಟಮ್ ಸೂಪರ್‌ಪೊಸಿಶನ್",
+        "hover_text": "ವಿಶ್ವ ಕ್ವಾಂಟಮ್ ದಿನವನ್ನು ಆಚರಿಸಲಾಗುತ್ತಿದೆ",
+        "share_text": "ವಿಶ್ವ ಕ್ವಾಂಟಮ್ ದಿನವನ್ನು ಆಚರಿಸಲಾಗುತ್ತಿದೆ!  #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Кванттық суперпозиция",
+        "hover_text": "Дүниежүзілік квант күні",
+        "share_text": "Дүниежүзілік квант күні құтты болсын!  #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការផ្គួបកង់ទិច",
+        "hover_text": "អបអរទិវាកង់ទិចពិភពលោក",
+        "share_text": "អបអរទិវាកង់ទិចពិភពលោក!  #GoogleDoodle"
+      },
+      "ko": {
+        "query": "양자 중첩",
+        "hover_text": "세계 양자의 날 기념",
+        "share_text": "세계 양자의 날 기념  #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Кванттык суперпозиция",
+        "hover_text": "Дүйнөлүк кванттык физика күнүн майрамдайлы",
+        "share_text": "Дүйнөлүк кванттык физика күнүн майрамдайлы!  #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ທິດສະດີການທັບຊ້ອນຄວນຕຳ",
+        "hover_text": "ສະເຫຼີມສະຫຼອງໃຫ້ກັບວັນຄວນຕຳໂລກ",
+        "share_text": "ສະເຫຼີມສະຫຼອງໃຫ້ກັບວັນຄວນຕຳໂລກ!  #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Superposición cuántica",
+        "hover_text": "Día Mundial de la Cuántica",
+        "share_text": "¡Día Mundial de la Cuántica! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Kvantu superpozīcija",
+        "hover_text": "Godinām Pasaules kvantu dienu",
+        "share_text": "Godinām Pasaules kvantu dienu!  #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Kvantinė superpozicija",
+        "hover_text": "Minime Pasaulinę kvantinę dieną",
+        "share_text": "Minime Pasaulinę kvantinę dieną! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Квантна суперпозиција",
+        "hover_text": "Во чест на Светскиот ден на квантноста",
+        "share_text": "Во чест на Светскиот ден на квантноста!  #GoogleDoodle"
+      },
+      "mg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Superposisi Kuantum",
+        "hover_text": "Meraikan Hari Kuantum Sedunia",
+        "share_text": "Meraikan Hari Kuantum Sedunia!  #GoogleDoodle"
+      },
+      "ml": {
+        "query": "ക്വാണ്ടം സൂപ്പർപൊസിഷൻ",
+        "hover_text": "ലോക ക്വാണ്ടം ദിനം ആഘോഷമാക്കുന്നു",
+        "share_text": "ലോക ക്വാണ്ടം ദിനം ആഘോഷമാക്കുന്നു!  #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "क्वांटम सुपरपोझिशन",
+        "hover_text": "जागतिक क्वांटम दिन साजरा करत आहे",
+        "share_text": "जागतिक क्वांटम दिन साजरा करत आहे!  #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Квантын суперпозиц",
+        "hover_text": "Дэлхийн квантын өдрийг тэмдэглэж байна",
+        "share_text": "Дэлхийн квантын өдрийг тэмдэглэж байна!  #GoogleDoodle"
+      },
+      "ne": {
+        "query": "क्वान्टम सुपरपोजिसन",
+        "hover_text": "विश्व क्वान्टम दिवसको उत्सव",
+        "share_text": "विश्व क्वान्टम दिवसको उत्सव!  #GoogleDoodle"
+      },
+      "no": {
+        "query": "Kvantesuperposisjon",
+        "hover_text": "Vi feirer verdens kvantedag",
+        "share_text": "Vi feirer verdens kvantedag!  #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "برهم‌نهی کوانتومی",
+        "hover_text": "به‌مناسب روز جهانی کوانتوم",
+        "share_text": "به‌مناسب روز جهانی کوانتوم!  ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Superpozycja kwantowa",
+        "hover_text": "Obchodzimy Światowy Dzień Kwantów",
+        "share_text": "Obchodzimy Światowy Dzień Kwantów  #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Superposição Quântica",
+        "hover_text": "Comemorando o Dia Mundial Quântico",
+        "share_text": "Comemorando o Dia Mundial Quântico!  #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Sobreposição Quântica",
+        "hover_text": "Celebração do Dia Mundial Quântico",
+        "share_text": "Celebração do Dia Mundial Quântico!  #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਕੁਆਂਟਮ ਸੁਪਰਪੁਜੀਸ਼ਨ",
+        "hover_text": "ਵਿਸ਼ਵ ਕੁਆਂਟਮ ਦਿਵਸ ਦੇ ਜਸ਼ਨ ਵਜੋਂ",
+        "share_text": "ਵਿਸ਼ਵ ਕੁਆਂਟਮ ਦਿਵਸ ਦੇ ਜਸ਼ਨ ਵਜੋਂ!  #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Superpoziție cuantică",
+        "hover_text": "Sărbătorim Ziua Mondială a Științei Cuantice",
+        "share_text": "Sărbătorim Ziua Mondială a Științei Cuantice!  #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "Квантовая суперпозиция",
+        "hover_text": "Всемирный день квантовой физики",
+        "share_text": "Всемирный день квантовой физики  #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Квантна суперпозиција",
+        "hover_text": "Славимо Светски дан квантне механике",
+        "share_text": "Славимо Светски дан квантне механике!  #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Kvantna superpozicija",
+        "hover_text": "Slavimo Svetski dan kvantne mehanike",
+        "share_text": "Slavimo Svetski dan kvantne mehanike!  #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ක්වොන්ටම් අධිස්ථාපනය",
+        "hover_text": "ලෝක ක්වොන්ටම් දිනය සැමරීම",
+        "share_text": "ලෝක ක්වොන්ටම් දිනය සැමරීම!  #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Kvantová superpozícia",
+        "hover_text": "Pripomíname si Svetový deň kvantovej vedy",
+        "share_text": "Pripomíname si Svetový deň kvantovej vedy!  #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Kvantna superpozicija",
+        "hover_text": "Slavimo svetovni kvantni dan",
+        "share_text": "Slavimo svetovni kvantni dan!  #GoogleDoodle"
+      },
+      "so": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Superposición cuántica",
+        "hover_text": "Día Mundial de la Cuántica",
+        "share_text": "¡Día Mundial de la Cuántica! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Kwanta yenye Uwezekano Mwingi",
+        "hover_text": "Kuadhimisha Siku ya Kwanta Duniani",
+        "share_text": "Kuadhimisha Siku ya Kwanta Duniani!  #GoogleDoodle"
+      },
+      "sv": {
+        "query": "kvantsuperposition ",
+        "hover_text": "Kvantum Dagen",
+        "share_text": "Kvantum Dagen #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "குவாண்டம் சூப்பர்பொசிஷன்",
+        "hover_text": "உலகக் குவாண்டம் தினத்தைக் கொண்டாடுவோம்",
+        "share_text": "உலகக் குவாண்டம் தினம்!  #GoogleDoodle"
+      },
+      "te": {
+        "query": "క్వాంటం సూపర్‌పొజిషన్",
+        "hover_text": "ప్రపంచ క్వాంటం దినోత్సవ వేడుకలు",
+        "share_text": "ప్రపంచ క్వాంటం దినోత్సవ వేడుకలు!  #GoogleDoodle"
+      },
+      "th": {
+        "query": "ทฤษฎีการทับซ้อนควอนตัม",
+        "hover_text": "เฉลิมฉลองให้กับวันควอนตัมโลก",
+        "share_text": "เฉลิมฉลองให้กับวันควอนตัมโลก!  #GoogleDoodle"
+      },
+      "tn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Kuantum Süperpozisyonu",
+        "hover_text": "Dünya Kuantum Günü Kutlaması",
+        "share_text": "Dünya Kuantum Günü'nü kutluyoruz.  #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Квантова суперпозиція",
+        "hover_text": "Присвячено Всесвітньому квантовому дню",
+        "share_text": "Присвячено Всесвітньому квантовому дню!  #GoogleDoodle"
+      },
+      "ur": {
+        "query": "کوانٹم سپرپوزیشن",
+        "hover_text": "ورلڈ کوانٹم ڈے کا جشن",
+        "share_text": "ورلڈ کوانٹم ڈے کا جشن!  GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Kvant superpozitsiyasi",
+        "hover_text": "Butunjahon kvant kuni",
+        "share_text": "Butunjahon kvant kuni!  #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Chồng chập lượng tử",
+        "hover_text": "Tôn vinh Ngày Lượng tử Thế giới",
+        "share_text": "Tôn vinh Ngày Lượng tử Thế giới!  #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "IQuantum Superposition",
+        "hover_text": "Sibungaza Usuku Lomhlaba LweQuantum",
+        "share_text": "Sibungaza Usuku Lomhlaba LweQuantum!  #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Quantum Superposition",
+    "share_text": "Celebrating World Quantum Day!  #GoogleDoodle"
+  },
+  {
     "name": "mens-college-basketball-championship-2025",
     "title": "Men's College Basketball Championship 2025",
     "url": "//www.google.com/logos/doodles/2025/mens-college-basketball-tournament-first-round-2025-copy-6753651837110769-law.gif",
