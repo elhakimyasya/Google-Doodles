@@ -1,5 +1,504 @@
 [
   {
+    "name": "earth-day-2025",
+    "title": "Earth Day 2025",
+    "url": "//www.google.com/logos/doodles/2025/earth-day-2025-6753651837110746-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/VjEdyjZpVSZ4DSiAFAqUo3_HEsWfeCtbn-NyXPgRNeElB55Ija82QTMZ8Wc6_2MJHSR3PPmpF9tHW1cUYo8kVL0n15UNy76iceIrL5T5QB74Y1CxFMYS5w",
+    "high_res_url": "//www.google.com/logos/doodles/2025/earth-day-2025-6753651837110746.2-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2025,
+      4,
+      22
+    ],
+    "translations": {
+      "en": {
+        "query": "Earth Day",
+        "hover_text": "Earth Day 2025 (images via Google Earth)",
+        "share_text": "Happy Earth Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "klimaatsveranderingvordering",
+        "hover_text": "Aardedag 2025",
+        "share_text": "Gelukkige Aardedag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "progresi në lidhje me ndryshimin e klimës",
+        "hover_text": "Dita e Tokës, 2025",
+        "share_text": "Gëzuar Ditën e Tokës! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የአየር ንብረት ለውጥ ሂደት",
+        "hover_text": "የመሬት ቀን 2025",
+        "share_text": "መልካም የመሬት ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "التقدّم المحرز في مجال التغيّر المناخي",
+        "hover_text": "يوم الأرض 2025",
+        "share_text": "نحتفل اليوم بيوم الأرض. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "կլիմայի փոփոխության ընթացքը",
+        "hover_text": "Երկիր մոլորակի օր 2025",
+        "share_text": "Շնորհավո՛ր Երկիր մոլորակի օրը #GoogleDoodle"
+      },
+      "az": {
+        "query": "iqlim dəyişikliyinin gedişatı",
+        "hover_text": "2025 Yer Kürəsi Günü",
+        "share_text": "Yer Kürəsi Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "জলবায়ু পরিবর্তনে অগ্রগতি",
+        "hover_text": "আর্থ ডে ২০২৪",
+        "share_text": "আর্থ ডে-র শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "klima-aldaketaren garapena",
+        "hover_text": "2025ko Lurraren Eguna",
+        "share_text": "Lurraren Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "поспехі ў барацьбе са змяненнем клімату",
+        "hover_text": "Дзень Зямлі 2025",
+        "share_text": "З Днём Зямлі! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "napredak klimatskih promjena",
+        "hover_text": "Dan planete Zemlje 2025.",
+        "share_text": "Sretan Dan planete Zemlje! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Earth Day",
+        "hover_text": "Earth Day 2025",
+        "share_text": "Happy Earth Day #GoogleDoodle"
+      },
+      "bg": {
+        "query": "развитие на климатичните изменения",
+        "hover_text": "Ден на Земята 2025 г.",
+        "share_text": "Честит Ден на Земята! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ရာသီဥတုပြောင်းလဲမှု အခြေအနေ",
+        "hover_text": "၂၀၂၄ မြေကမ္ဘာနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် မြေကမ္ဘာနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "progrés en canvi climàtic",
+        "hover_text": "Dia de la Terra 2025",
+        "share_text": "Feliç Dia de la Terra! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "對抗氣候變化惡化",
+        "hover_text": "2025 年世界地球日",
+        "share_text": "世界地球日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "氣候變遷對抗進程",
+        "hover_text": "2025 地球日",
+        "share_text": "歡慶地球日！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "气候变化状况",
+        "hover_text": "2025 年世界地球日",
+        "share_text": "欢庆世界地球日！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "napredak klimatskih promjena",
+        "hover_text": "Dan planeta Zemlje 2025.",
+        "share_text": "Sretan Dan planeta Zemlje! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "vývoj změny klimatu",
+        "hover_text": "Den Země 2025",
+        "share_text": "Šťastný Den Země! #GoogleDoodle"
+      },
+      "da": {
+        "query": "fremskridt i forbindelse med klimamål",
+        "hover_text": "Jordens dag 2025",
+        "share_text": "Vi fejrer Jordens dag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "voortgang van de strijd tegen klimaatverandering",
+        "hover_text": "Dag van de Aarde 2025",
+        "share_text": "Fijne Dag van de Aarde! #GoogleDoodle"
+      },
+      "et": {
+        "query": "edusammud kliimamuutuse vastases võitluses",
+        "hover_text": "Maa päev 2025",
+        "share_text": "Head Maa päeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "ilmastonmuutoksen eteneminen",
+        "hover_text": "Maan päivä 2025",
+        "share_text": "Hyvää Maan päivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Jour de la Terre 2025",
+        "hover_text": "Jour de la Terre 2025",
+        "share_text": "Jour de la Terre ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Jour de la Terre",
+        "hover_text": "Jour de la Terre 2025",
+        "share_text": "\"Bon Jour de la Terre! \r\n#GoogleDoodle\""
+      },
+      "gl": {
+        "query": "avance do cambio climático",
+        "hover_text": "Día da Terra 2025",
+        "share_text": "Feliz Día da Terra! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "კლიმატის ცვლილების პროგრესი",
+        "hover_text": "დედამიწის დღე — 2025",
+        "share_text": "გილოცავთ დედამიწის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Tag der Erde",
+        "hover_text": "Tag der Erde 2025",
+        "share_text": "Fröhlichen Tag der Erde! #GoogleDoodle"
+      },
+      "el": {
+        "query": "πρόοδος σχετικά με την κλιματική αλλαγή",
+        "hover_text": "Ημέρα της Γης 2025",
+        "share_text": "Χαρούμενη Ημέρα της Γης! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "પર્યાવરણમાં ફેરફારની પ્રગતિ",
+        "hover_text": "પૃથ્વી દિવસ 2025",
+        "share_text": "પૃથ્વી દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "iw": {
+        "query": "ההתקדמות בשינויי האקלים",
+        "hover_text": "יום כדור הארץ 2025",
+        "share_text": "יום כדור הארץ GoogleDoodle#"
+      },
+      "hi": {
+        "query": "जलवायु परिवर्तन के ख़िलाफ़ आगे बढ़ने का सफ़र",
+        "hover_text": "पृथ्वी दिवस 2025",
+        "share_text": "पृथ्वी दिवस की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "a klímaváltozás elleni küzdelem helyzete",
+        "hover_text": "A Föld napja, 2025",
+        "share_text": "Boldog Föld napját! #GoogleDoodle"
+      },
+      "is": {
+        "query": "árangur á sviði loftslagsbreytinga",
+        "hover_text": "Dagur jarðar 2025",
+        "share_text": "Gleðilegan dag jarðarinnar! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Bumi",
+        "hover_text": "Hari Bumi 2025",
+        "share_text": "Selamat Hari Bumi 2025! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá an Domhain",
+        "hover_text": "Lá an Domhain, 2025",
+        "share_text": "Lá an Domhain, 2025! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Giornata della Terra",
+        "hover_text": "Giornata della Terra 2025",
+        "share_text": "Buona Giornata della Terra! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "アースデイ",
+        "hover_text": "2025 年 アースデイ",
+        "share_text": "アースデイ #GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಹವಾಮಾನ ಬದಲಾವಣೆಯನ್ನು ಎದುರಿಸಲು ತೆಗೆದುಕೊಂಡ ಕ್ರಮಗಳ ಪ್ರಗತಿ",
+        "hover_text": "ಭೂಮಿ ದಿನ 2025",
+        "share_text": "ಭೂಮಿ ದಿನದ ಶುಭಾಶಯಗಳು! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "климаттың өзгеру барысы",
+        "hover_text": "Жер күні – 2025",
+        "share_text": "Жер күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ការវិវឌ្ឍនៃបម្រែបម្រួលអាកាសធាតុ",
+        "hover_text": "ទិវា​ផែនដី​ឆ្នាំ 2025",
+        "share_text": "អបអរ​ទិវា​ផែនដី! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "기후변화 대응 진행 상황",
+        "hover_text": "2025년 지구의 날",
+        "share_text": "지구의 날 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "климаттын өзгөрүүсүндөгү прогресс",
+        "hover_text": "Жер күнү – 2025",
+        "share_text": "Жер күнү менен куттуктайбыз! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ຄວາມກ້າວໜ້າດ້ານການປ່ຽນແປງພູມອາກາດ",
+        "hover_text": "ວັນຄຸ້ມຄອງໂລກ 2025",
+        "share_text": "ສຸກສັນວັນຄຸ້ມຄອງໂລກ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "progreso del cambio climático",
+        "hover_text": "Día de la Tierra 2025",
+        "share_text": "¡Feliz Día de la Tierra! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "klimata pārmaiņu progress",
+        "hover_text": "Zemes diena — 2025",
+        "share_text": "Priecīgu Zemes dienu! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "kova su kliamto kaita",
+        "hover_text": "Žemės diena, 2025 m.",
+        "share_text": "Linksmos Žemės dienos! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "напредок во справувањето со климатските промени",
+        "hover_text": "Ден на планетата Земја, 2025 г.",
+        "share_text": "Среќен Ден на планетата Земја! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Andron'ny tany",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ms": {
+        "query": "kemajuan perubahan cuaca",
+        "hover_text": "Hari Bumi 2025",
+        "share_text": "Selamat Hari Bumi! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "കാലാവസ്ഥാ വ്യതിയാനം സംബന്ധിച്ച പുരോഗതി",
+        "hover_text": "ഭൗമ ദിനം 2025",
+        "share_text": "ഭൗമദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "mr": {
+        "query": "हवामानबदल",
+        "hover_text": "वसुंधरादिन २०२४",
+        "share_text": "वसुंधरादिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "цаг уурын өөрчлөлтийн явц",
+        "hover_text": "2025 оны Эх дэлхийн өдөр",
+        "share_text": "Эх дэлхийн өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "जलवायु परिवर्तनको समस्या समाधानमा भएको प्रगति",
+        "hover_text": "पृथ्वी दिवस २०२४",
+        "share_text": "पृथ्वी दिवसको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "fremdrift for klimaendringer",
+        "hover_text": "Jordens dag 2025",
+        "share_text": "Hurra for jordens dag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ny": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "or": {
+        "query": "ଧରିତ୍ରୀ ଦିବସ",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ps": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "fa": {
+        "query": "پیشرفت تغییر اقلیمی",
+        "hover_text": "روز زمین ۲۰۲۴",
+        "share_text": "روز زمین مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "postęp w zakresie zmian klimatycznych",
+        "hover_text": "Dzień Ziemi 2025",
+        "share_text": "Obchodzimy Dzień Ziemi #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia da Terra 2025",
+        "hover_text": "Dia da Terra 2025",
+        "share_text": "Feliz Dia da Terra! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "progresso no combate às alterações climáticas",
+        "hover_text": "Dia da Terra de 2025",
+        "share_text": "Feliz Dia da Terra! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "climate change progress",
+        "hover_text": "ਧਰਤੀ ਦਿਵਸ 2025",
+        "share_text": "ਧਰਤੀ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "progresul privind schimbarea climatică",
+        "hover_text": "Ziua Pământului 2025",
+        "share_text": "La mulți ani de Ziua Pământului! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ru": {
+        "query": "прогресс в борьбе с изменением климата",
+        "hover_text": "День Земли – 2025",
+        "share_text": "День Земли #GoogleDoodle"
+      },
+      "sr": {
+        "query": "напредак у броби против климатских промена",
+        "hover_text": "Дан планете Земље 2025.",
+        "share_text": "Срећан Дан планете Земље! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "napredak u brobi protiv klimatskih promena",
+        "hover_text": "Dan planete Zemlje 2025.",
+        "share_text": "Srećan Dan planete Zemlje! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen Later",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "si": {
+        "query": "දේශගුණික විපර්යාස ප්‍රගතිය",
+        "hover_text": "මිහිතල දිනය 2025",
+        "share_text": "ප්‍රීතිමත් මිහිතල දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "postup klimatických zmien",
+        "hover_text": "Deň Zeme 2025",
+        "share_text": "Oslavujeme Deň Zeme! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "napredek podnebnih sprememb",
+        "hover_text": "Dan Zemlje 2025",
+        "share_text": "Vesel dan Zemlje! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta Dhulka",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "st": {
+        "query": "Letsatsi la Lefatshe",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "es": {
+        "query": "progreso del cambio climático",
+        "hover_text": "Día de la Tierra 2025",
+        "share_text": "¡Feliz Día de la Tierra! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "hatua zilizofikiwa katika kukabiliana na mabadiliko ya tabianchi",
+        "hover_text": "Siku ya Dunia 2025",
+        "share_text": "Heri za Siku ya Dunia! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "framsteg mot klimatförändringar",
+        "hover_text": "Jordens dag 2025",
+        "share_text": "Vi firar jordens dag #GoogleDoodle"
+      },
+      "tg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ta": {
+        "query": "பருவநிலை மாற்றத்திற்கு எதிரான நடவடிக்கைகள்",
+        "hover_text": "புவி தினம் 2025",
+        "share_text": "புவி தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "గ్లోబల్ వార్మింగ్ ప్రోగ్రెస్",
+        "hover_text": "ధరిత్రి దినోత్సవం 2025",
+        "share_text": "ధరిత్రి దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "ความก้าวหน้าด้านการเปลี่ยนแปลงสภาพภูมิอากาศ",
+        "hover_text": "วันคุ้มครองโลกปี 2025",
+        "share_text": "สุขสันต์วันคุ้มครองโลก #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Lefatshe",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "tr": {
+        "query": "iklim değişikliği ilerleme durumu",
+        "hover_text": "2025 Dünya Günü",
+        "share_text": "Dünya Günü'nü kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "uk": {
+        "query": "боротьба зі зміною клімату",
+        "hover_text": "День Землі у 2025 році",
+        "share_text": "З Днем Землі! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "آب و ہوا میں تبدیلی کی پیشرفت",
+        "hover_text": "یوم ارض 2025",
+        "share_text": "یوم ارض مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "iqlim oʻzgarishi jarayoni",
+        "hover_text": "Xalqaro Yer kuni 2025",
+        "share_text": "Xalqaro Yer kuni bilan! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "tiến trình biến đổi khí hậu",
+        "hover_text": "Ngày Trái Đất năm 2025",
+        "share_text": "Chào mừng Ngày Trái đất! #GoogleDoodle"
+      },
+      "wo": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "zu": {
+        "query": "ukuqhubeka koguquguquko lwesimo sezulu sesikhathi eside",
+        "hover_text": "Usuku Lomhlaba lwango-2025",
+        "share_text": "Sikufisela Usuku Lomhlaba Oluhle! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "Earth Day",
+    "share_text": "Happy Earth Day! #GoogleDoodle"
+  },
+  {
     "name": "nba-playoffs-2025-am",
     "title": "NBA Playoffs 2025 - AM",
     "url": "//www.google.com/logos/doodles/2025/nba-playoffs-2025-am-6753651837110780.2-law.gif",
