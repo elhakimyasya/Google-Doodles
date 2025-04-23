@@ -1,5 +1,1008 @@
 [
   {
+    "name": "st-georges-day-2025",
+    "title": "St. George's Day 2025",
+    "url": "//www.google.com/logos/doodles/2025/st-georges-day-2025-6753651837110749.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/xkDKUvV719eLZ3eS1CDmRdymjhQfOWV19XARvIXOFdAouIz3ehCEExYsapkO9H8tA8-HXpMEC7vYddMaWY8An8GVqXVm72FfLMhampGYzHfz6n6M4UFvk5A",
+    "high_res_url": "//www.google.com/logos/doodles/2025/st-georges-day-2025-6753651837110749.2-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2025,
+      4,
+      23
+    ],
+    "translations": {
+      "en": {
+        "query": "St. George's Day",
+        "hover_text": "St. George's Day 2025",
+        "share_text": "Happy St. George's Day, United Kingdom! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Sint Jorisdag",
+        "hover_text": "Sint Jorisdag 2025",
+        "share_text": "Gelukkige Sint Dawiddag, Verenigde Koninkryk! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Shën Gjergjit",
+        "hover_text": "Dita e Shën Gjergjit, 2025",
+        "share_text": "Gëzuar Ditën e Shën Gjergjit, Mbretëri e Bashkuar! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የቅዱስ ጊዮርጊስ ቀን",
+        "hover_text": "የቅዱስ ጊዮርጊስ ቀን 2025",
+        "share_text": "መልካም የቅዱስ ጊዮርጊስ ቀን፣ ዩናይትድ ኪንግደም! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد القديس جورج",
+        "hover_text": "عيد القديس \"جرجس\" 2025",
+        "share_text": "نحتفل اليوم بعيد القديس \"جرجس\" في المملكة المتحدة. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Սբ. Գևորգի օր",
+        "hover_text": "Սբ. Գևորգի օր 2025",
+        "share_text": "Շնորհավո՛ր Սբ. Գևորգի օրը Միացյալ Թագավորությունում #GoogleDoodle"
+      },
+      "az": {
+        "query": "Müqəddəs Corc Günü",
+        "hover_text": "2025 Müqəddəs Corc Günü",
+        "share_text": "Müqəddəs Corc Günün mübarək, Birləşmiş Krallıq! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "সেন্ট জর্জ দিবস",
+        "hover_text": "সেন্ট জর্জ দিবস ২০২৫",
+        "share_text": "সেন্ট জর্জ দিবসের শুভেচ্ছা, যুক্তরাজ্য! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "San Jurgi eguna",
+        "hover_text": "2025eko San Jurgi eguna",
+        "share_text": "San Jurgi egun zoriontsua izan, Erresuma Batua! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень святога Георгія",
+        "hover_text": "Дзень святога Георгія 2025",
+        "share_text": "З Днём святога Георгія, Вялікабрытанія! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan svetog Jurja",
+        "hover_text": "Dan sv. Jurja 2025.",
+        "share_text": "Sretan Dan sv. Jurja, Ujedinjeno Kraljevstvo! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "St. George's Day",
+        "hover_text": "St. George's Day 2025",
+        "share_text": "Happy St. George's Day #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Гергьовден",
+        "hover_text": "Гергьовден 2025 г.",
+        "share_text": "Честит Ден на Свети Джордж на Обединеното кралство! #GoogleDoodle"
+      },
+      "my": {
+        "query": "စိန့်ဂျော့ဂျ်နေ့",
+        "hover_text": "၂၀၂၅ စိန့်ဂျော့ဂျ်နေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် စိန့်ဂျော့ဂျ်နေ့ ဖြစ်ပါစေ ယူနိုက်တက်ကင်းဒမ်း။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Diada de Sant Jordi",
+        "hover_text": "Diada de Sant Jordi 2025",
+        "share_text": "Feliç Dia de Sant Jordi, Regne Unit! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "聖佐治節",
+        "hover_text": "2025 年聖佐治節",
+        "share_text": "英國，聖佐治節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "聖喬治節",
+        "hover_text": "2025 聖喬治節",
+        "share_text": "英國，聖喬治節快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "圣乔治节",
+        "hover_text": "2025 年圣乔治节",
+        "share_text": "欢庆英国圣乔治节！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Jurjevo",
+        "hover_text": "Jurjevo 2025.",
+        "share_text": "Sretno Jurjevo, Ujedinjeno Kraljevstvo! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den sv. Jiří",
+        "hover_text": "Den sv. Jiří 2025",
+        "share_text": "Šťastný den sv. Jiří, Spojené království! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Skt. Georgs dag",
+        "hover_text": "Skt. Georgs dag 2025",
+        "share_text": "Vi fejrer Storbritanniens Skt. Georgs dag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "St. George's Day",
+        "hover_text": "St. George's Day 2025",
+        "share_text": "Fijne St. George's Day, Verenigd Koninkrijk! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Jüripäev",
+        "hover_text": "2025. aasta jüripäev",
+        "share_text": "Head jüripäeva, Ühendkuningriik! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Pyhän Yrjön päivä",
+        "hover_text": "Pyhän Yrjön päivä 2025",
+        "share_text": "Hyvää Pyhän Yrjön päivää, Yhdistynyt kuningaskunta! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de la Saint-Georges",
+        "hover_text": "Fête de la Saint-Georges 2025",
+        "share_text": "Fête de la Saint-Georges au Royaume-Uni ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête de la Saint-Georges",
+        "hover_text": "Saint-Georges 2025",
+        "share_text": "Joyeuse fête de la Saint-Georges, Royaume-Uni! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día de San Xurxo",
+        "hover_text": "Día de San Xurxo 2025",
+        "share_text": "Feliz Día de San Xurxo, Reino Unido! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "წმ. გიორგის დღე",
+        "hover_text": "წმ. გიორგის დღე — 2025",
+        "share_text": "გაერთიანებულ სამეფოს ვულოცავთ წმ. გიორგის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Georgstag",
+        "hover_text": "Georgstag 2025",
+        "share_text": "Alles Gute zum St. George's Day, Vereinigtes Königreich! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Αγίου Γεωργίου",
+        "hover_text": "Ημέρα Αγίου Γεωργίου 2025",
+        "share_text": "Γιορτάζουμε την Ημέρα του Αγίου Γεωργίου του Ηνωμένου Βασιλείου! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "St. George દિવસ",
+        "hover_text": "સેંટ જ્યોર્જ્સ ડે 2025",
+        "share_text": "સેંટ જ્યોર્જ્સ ડેની શુભેચ્છા, યુનાઇટેડ કિંગડમ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום גאורגיוס הקדוש",
+        "hover_text": "יום ג'ורג' הקדוש 2025",
+        "share_text": "יום גאורגיוס הקדוש שמח לבריטניה GoogleDoodle#"
+      },
+      "hi": {
+        "query": "सेंट जॉर्ज दिवस",
+        "hover_text": "सेंट जॉर्ज्स डे 2025",
+        "share_text": "सेंट जॉर्ज डे की शुभकामनाएं, यूनाइटेड किंगडम! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Szent György napja",
+        "hover_text": "Szent György napja, 2025",
+        "share_text": "Boldog Szent György napját az Egyesült Királyságban! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Dagur heilags Georgs",
+        "hover_text": "Dagur heilags Georgs 2025",
+        "share_text": "Gleðilegan dag heilags Georgs, Bretland! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari St. Georgius",
+        "hover_text": "Hari St. Georgius 2025",
+        "share_text": "Selamat Hari St. Georgius, Inggris Raya! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá Sheoirse",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "it": {
+        "query": "Festa di San Giorgio",
+        "hover_text": "Festa di San Giorgio 2025",
+        "share_text": "Buona festa di San Giorgio, Regno Unito! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "聖ジョージの日",
+        "hover_text": "2025 年セントジョージの日",
+        "share_text": "英国聖ジョージの日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಸೇಂಟ್ ಜಾರ್ಜರ ದಿನ",
+        "hover_text": "ಸೇಂಟ್ ಜಾರ್ಜ್‌ರ ದಿನಾಚರಣೆ 2025",
+        "share_text": "ಸೇಂಟ್ ಜಾರ್ಜ್‌ರ ದಿನಾಚರಣೆಯ ಶುಭಾಶಯಗಳು, ಯುನೈಟೆಡ್ ಕಿಂಗ್‌ಡಮ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Әулие Георгий күні",
+        "hover_text": "Әулие Георгий күні – 2025",
+        "share_text": "Әулие Джордж күні құтты болсын, Біріккен Корольдік! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​បុណ្យ St. George",
+        "hover_text": "ទិវា​បុណ្យ St. George ឆ្នាំ 2025",
+        "share_text": "អបអរទិវាបុណ្យ St. George ចក្រភពអង់គ្លេស! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "성 게오르기우스 축일",
+        "hover_text": "2025년 성 게오르기우스의 날",
+        "share_text": "영국 성 데이비드의 날 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Ыйык Георгий күнү",
+        "hover_text": "Ыйык Георгий күнү – 2025",
+        "share_text": "Ыйык Георгий күнү менен, Улуу Британия! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນເຊນຈອດ",
+        "hover_text": "ວັນເຊນຈອດຈ໌ປີ 2025",
+        "share_text": "ສຸກສັນວັນເຊນຈອດແຫ່ງສະຫະລາຊະອານາຈັກ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de San Jorge",
+        "hover_text": "Día de San Jorge 2025",
+        "share_text": "¡Feliz Día de San Jorge, Reino Unido! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Svētā Jura diena",
+        "hover_text": "Svētā Jura diena — 2025",
+        "share_text": "Sveicam Svētā Jura dienā, Apvienotā Karaliste! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Šv. Jurgio diena",
+        "hover_text": "Šv. Jurgio diena, 2025 m.",
+        "share_text": "Sveikiname Jungtinę Karalystę su Šv. Jurgio diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Денот на св. Ѓорѓија",
+        "hover_text": "Ѓурѓовден, 2025 г.",
+        "share_text": "Среќен Ѓурѓовден, Обединето Кралство! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Fetin'i Md. George",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Hari St. George",
+        "hover_text": "Hari St. George 2025",
+        "share_text": "Selamat Hari St. George, United Kingdom! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "സെന്റ് ജോർജ് ദിനം",
+        "hover_text": "സെന്റ് ജോർജ്ജ് ദിനം 2025",
+        "share_text": "സെന്റ് ജോർജ്ജ് ദിനാശംസകൾ, യുണൈറ്റഡ് കിംഗ്‌ഡം! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "सेंट. जॉर्ज दिन २०१९",
+        "hover_text": "सेंट जॉर्जेस डे २०२५",
+        "share_text": "युनायटेड किंगडमला सेंट जॉर्जेस डे च्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Гэгээн Георгийн өдөр",
+        "hover_text": "2025 оны Гэгээн Георгийн Өдөр",
+        "share_text": "Их Британи, Умард Ирландын Нэгдсэн Хаант Улсын ард иргэдэд Гэгээн Георгийн өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "सेन्ट जर्ज दिवस",
+        "hover_text": "St. George दिवस २०२५",
+        "share_text": "संयुक्त अधिराज्यको St. George दिवसको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "St. George's Day",
+        "hover_text": "Sankt Jørgens dag 2025",
+        "share_text": "God Sankt Jørgens dag, Storbritannia! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "ସେଣ୍ଟ ଜର୍ଜ ଦିବସ 2019",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز سنت جورج",
+        "hover_text": "روز «سنت جورج» ۲۰۲۵",
+        "share_text": "روز سنت جورج مبارک، بریتانیا! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Św. Jerzego",
+        "hover_text": "Dzień Świętego Jerzego 2025",
+        "share_text": "Wielka Brytania obchodzi Dzień Świętego Jerzego #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia de São Jorge",
+        "hover_text": "Dia de São Jorge 2025",
+        "share_text": "Feliz Dia de São Jorge, Reino Unido! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia de São Jorge",
+        "hover_text": "Dia de São Jorge de 2025",
+        "share_text": "Feliz Dia de São Jorge, Reino Unido! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਸੇਂਟ ਜਾਰਜ ਦਾ ਦਿਨ",
+        "hover_text": "ਸੇਂਟ ਜਾਰਜ ਦਿਵਸ 2025",
+        "share_text": "ਸੇਂਟ ਜਾਰਜ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਯੂਨਾਈਟਡ ਕਿੰਗਡਮ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Sf. Gheorghe",
+        "hover_text": "Ziua Sfântului Gheorghe 2025",
+        "share_text": "Regatul Unit, la mulți ani de ziua Sfântului Gheorghe! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День святого Георгия",
+        "hover_text": "День святого Георгия – 2025",
+        "share_text": "День святого Георгия в Великобритании #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан светог Ђорђа",
+        "hover_text": "Дан светог Ђорђа 2025.",
+        "share_text": "Срећан дан Светог Ђорђа, Уједињено Краљевство! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan svetog Đorđa",
+        "hover_text": "Dan svetog Đorđa 2025.",
+        "share_text": "Srećan dan Svetog Đorđa, Ujedinjeno Kraljevstvo! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen sen zorz",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "ශාන්ත ජෝර්ජ් දිනය",
+        "hover_text": "ශාන්ත ජෝර්ජ් දිනය 2025",
+        "share_text": "ප්‍රීතිමත් ශාන්ත ජෝර්ජ්ගේ දිනයක්, එක්සත් රාජධානිය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň sv. Juraja",
+        "hover_text": "Deň sv. Juraja 2025",
+        "share_text": "Šťastný Deň sv. Juraja, Spojené kráľovstvo! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Jurjevo",
+        "hover_text": "Jurjevo 2025",
+        "share_text": "Veselo Jurjevo, Združeno kraljestvo! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta St. George",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "st": {
+        "query": "Letsatsi la St. George",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día de San Jorge",
+        "hover_text": "Día de San Jorge 2025",
+        "share_text": "¡Feliz Día de San Jorge, Reino Unido! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Mtakatifu George",
+        "hover_text": "Sikukuu ya Mtakatifu George 2025",
+        "share_text": "Heri ya Sikukuu ya Mtakatifu George, Uingereza! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Sankt Georgs dag",
+        "hover_text": "Sankt Georgsdagen 2025",
+        "share_text": "Vi firar St. George's Day, Förenade kungariket! #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "புனிதர் ஜார்ஜ் தினம்",
+        "hover_text": "செயின்ட் ஜார்ஜ் தினம் 2025",
+        "share_text": "செயின்ட் ஜார்ஜ் தின வாழ்த்துகள், யுனைடெட் கிங்டம்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "సెయింట్ జార్జ్ దినోత్సవం",
+        "hover_text": "సెయింట్ జార్జ్ దినోత్సవం 2025",
+        "share_text": "యునైటెడ్ కింగ్‌డమ్ ప్రజలకు సెయింట్ జార్జ్స్ డే శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันนักบุญจอร์จ",
+        "hover_text": "วันนักบุญจอร์จปี 2025",
+        "share_text": "สุขสันต์วันนักบุญจอร์จแห่งสหราชอาณาจักร #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la Moitshepi George",
+        "hover_text": null,
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Aziz George Günü",
+        "hover_text": "2025 Aya Yorgi ve Dilek Günü",
+        "share_text": "Birleşik Krallık'ın Aziz David Günü'nü kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "Юр’їв день",
+        "hover_text": "День святого Юрія у 2025 році",
+        "share_text": "З Днем святого Георгія, Велика Британіє! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "سنت George کا دن",
+        "hover_text": "‫St. George کا دن 2025",
+        "share_text": "یوم St. George کی مبارک باد، سلطنت متحدہ! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Avliyo Georgiy kuni",
+        "hover_text": "Avliyo Georgiy kuni 2025",
+        "share_text": "Avliyo Georgiy kuni muborak, Birlashgan Qirollik! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày thánh George",
+        "hover_text": "Ngày hội Thánh George năm 2025",
+        "share_text": "Mừng Ngày Thánh George tại Vương Quốc Anh! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku luka-St.George",
+        "hover_text": "Usuku luka-St. George lwango-2025",
+        "share_text": "Sinifisela Usuku Oluhle luka-St. David, United Kingdom! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "St. George's Day",
+    "share_text": "Happy St. George's Day, United Kingdom! #GoogleDoodle"
+  },
+  {
+    "name": "turkiye-national-sovereignty-and-childrens-day-2025",
+    "title": "Türkiye National Sovereignty and Children's Day 2025",
+    "url": "//www.google.com/logos/doodles/2025/turkiye-national-sovereignty-and-childrens-day-2025-6753651837110736.2-law.gif",
+    "alternate_url": "https://lh3.googleusercontent.com/aDAfZ5Vc1MBcKOa4FhfJ5hXsBb-dZomoEnFkpzJ3Zn16iSbt6M4qcx8Tyqqc3KidX-vVX0-N5nN3xEtO8JI5VWDl_T2p5lpyDZHwPpp43reAGxgt5pM1fQ",
+    "high_res_url": "//www.google.com/logos/doodles/2025/turkiye-national-sovereignty-and-childrens-day-2025-6753651837110736.4-2xa.gif",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2025,
+      4,
+      23
+    ],
+    "translations": {
+      "en": {
+        "query": "Türkiye National Sovereignty and Children's Day",
+        "hover_text": "Türkiye National Sovereignty and Children's Day 2025",
+        "share_text": "Happy Türkiye National Sovereignty and Children's Day! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Turkye se Nasionale Soewereiniteit- en Kinderdag",
+        "hover_text": "Turkye se Nasionale Soewereiniteit- en Kinderdag 2025",
+        "share_text": "Turkye se Nasionale Soewereiniteit- en Kinderdag! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Sovranitetit Kombëtar dhe e Fëmijëve e Turqisë",
+        "hover_text": "Dita e Sovranitetit Kombëtar dhe e Fëmijëve e Turqisë, 2025",
+        "share_text": "Gëzuar Ditën e Sovranitetit Kombëtar dhe të Fëmijëve të Turqisë! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የቱርክ ብሔራዊ የሉዓላዊነት እና የልጆች ቀን",
+        "hover_text": "የቱርክ ብሔራዊ የሉዓላዊነት እና የልጆች ቀን 2025",
+        "share_text": "መልካም የቱርክ ብሔራዊ የሉዓላዊነት እና የልጆች ቀን! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "يوم السيادة الوطنية وعيد الطفولة في تركيا",
+        "hover_text": "يوم السيادة الوطنية وعيد الطفولة في تركيا 2025",
+        "share_text": "أجمل الأمنيات بيوم السيادة الوطنية وعيد الطفولة في تركيا. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Թուրքիայի ազգային ինքնիշխանության և երեխաների օր",
+        "hover_text": "Թուրքիայի ազգային ինքնիշխանության և երեխաների օր 2025",
+        "share_text": "Թուրքիայի ազգային ինքնիշխանության և երեխաների օր #GoogleDoodle"
+      },
+      "az": {
+        "query": "Türkiyə Milli Suverenlik və Uşaqlar Günü",
+        "hover_text": "2025 Türkiyə Milli Suverenlik və Uşaqlar Günü",
+        "share_text": "Türkiyə Milli Suverenlik və Uşaqlar Gününüz Mübarək! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "তুরস্কের জাতীয় সার্বভৌমত্ব এবং শিশু দিবস",
+        "hover_text": "তুরস্কের জাতীয় সার্বভৌমত্ব এবং শিশু দিবস ২০২৪",
+        "share_text": "তুরস্কের জাতীয় সার্বভৌমত্ব এবং শিশু দিবসের শুভেচ্ছা! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Turkiako Subiranotasun Nazionalaren eta Haurren Eguna",
+        "hover_text": "2025ko Turkiako Subiranotasun Nazionalaren eta Haurren Eguna",
+        "share_text": "Turkiako Subiranotasun Nazionalaren eta Haurren Egun zoriontsua izan! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень нацыянальнай незалежнасці і дзяцей у Турцыі",
+        "hover_text": "Дзень нацыянальнай незалежнасці і дзяцей у Турцыі 2025",
+        "share_text": "Дзень нацыянальнай незалежнасці і дзяцей у Турцыі! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan nacionalnog suvereniteta i djeteta Turske",
+        "hover_text": "Dan nacionalnog suvereniteta i djeteta Turske 2025.",
+        "share_text": "Sretan Dan nacionalnog suvereniteta i djeteta Turske! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "Türkiye National Sovereignty and Children's Day",
+        "hover_text": "Türkiye National Sovereignty and Children's Day 2025",
+        "share_text": "Happy Türkiye National Sovereignty and Children's Day! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на националния суверенитет и Ден на детето в Турция",
+        "hover_text": "Ден на националния суверенитет и Ден на детето в Турция 2025 г.",
+        "share_text": "Честит Ден на националния суверенитет и Ден на детето в Турция! #GoogleDoodle"
+      },
+      "my": {
+        "query": "တူရကီ နိုင်ငံတော် အချုပ်အခြာအာဏာနှင့် ကလေးများနေ့",
+        "hover_text": "၂၀၂၄ တူရကီ နိုင်ငံတော် အချုပ်အခြာအာဏာနှင့် ကလေးများနေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် တူရကီ နိုင်ငံတော် အချုပ်အခြာအာဏာနှင့် ကလေးများနေ့ ဖြစ်ပါစေ။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia de la Sobirania Nacional i de la Infància de Turquia",
+        "hover_text": "Dia de la Sobirania Nacional i de la Infància de Turquia 2025",
+        "share_text": "Feliç Dia de la Sobirania Nacional i de la Infància de Turquia! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "土耳其國家主權暨兒童節",
+        "hover_text": "2025 年土耳其國家主權暨兒童節",
+        "share_text": "土耳其國家主權暨兒童節快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "土耳其國家主權暨兒童節",
+        "hover_text": "2025 年土耳其國家主權暨兒童節",
+        "share_text": "歡慶土耳其國家主權暨兒童節！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "土耳其国家主权日与儿童节",
+        "hover_text": "2025 年土耳其国家主权与儿童节",
+        "share_text": "欢庆土耳其国家主权与儿童节！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Dan nacionalne suverenosti i Dan djeteta u Turskoj",
+        "hover_text": "Dan nacionalne suverenosti i Dan djeteta u Turskoj 2025.",
+        "share_text": "Sretan Dan nacionalne suverenosti i Dan djeteta u Turskoj! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Den turecké národní suverenity a Den dětí",
+        "hover_text": "Den turecké národní suverenity a Den dětí 2025",
+        "share_text": "Den turecké národní suverenity a Den dětí! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Tyrkiets nationale suverænitets- og børnedag",
+        "hover_text": "Tyrkiets nationale suverænitets- og børnedag 2025",
+        "share_text": "Vi fejrer Tyrkiets nationale suverænitets- og børnedag #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Dag van Nationale Soevereiniteit en Dag van het Kind in Turkije",
+        "hover_text": "Dag van Nationale Soevereiniteit en Dag van het Kind in Turkije 2025",
+        "share_text": "Fijne Dag van Nationale Soevereiniteit en Dag van het Kind in Turkije! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Türgi riiklik suveräänsus- ja lastekaitsepäev",
+        "hover_text": "Türgi 2025. aasta riiklik suveräänsus- ja lastekaitsepäev",
+        "share_text": "Head Türgi riiklikku suveräänsus- ja lastekaitsepäeva! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Turkin itsenäisyyden ja lasten päivä",
+        "hover_text": "Turkin itsenäisyyden ja lasten päivä 2025",
+        "share_text": "Hyvää Turkin itsenäisyyden ja lasten päivää! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête de la souveraineté nationale et des enfants en Turquie",
+        "hover_text": "Fête de la souveraineté nationale et des enfants 2025 en Turquie",
+        "share_text": "Fête de la souveraineté nationale et des enfants en Turquie ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête de la souveraineté nationale et des enfants en Türkiye",
+        "hover_text": "Fête de la souveraineté nationale et des enfants en Türkiye 2025",
+        "share_text": "Joyeuse fête de la souveraineté nationale et des enfants en Türkiye! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día da Soberanía Nacional e da Infancia de Turquía",
+        "hover_text": "Día da Soberanía Nacional e da Infancia de Turquía 2025",
+        "share_text": "Feliz Día da Soberanía Nacional e da Infancia de Turquía! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "თურქეთის ეროვნული სუვერენიტეტის და ბავშვთა დაცვის დღე",
+        "hover_text": "თურქეთის ეროვნული სუვერენიტეტის და ბავშვთა დაცვის დღე — 2025",
+        "share_text": "ვულოცავთ თურქეთს ეროვნული სუვერენიტეტის და ბავშვთა დაცვის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Feiertag der Nationalen Souveränität und des Kindes in der Türkei",
+        "hover_text": "Feiertag der Nationalen Souveränität und des Kindes 2025 in der Türkei",
+        "share_text": "Frohen Feiertag der Nationalen Souveränität und des Kindes in der Türkei! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα Εθνικής Κυριαρχίας και Ημέρα του Παιδιού της Τουρκίας",
+        "hover_text": "Ημέρα Εθνικής Κυριαρχίας και Ημέρα του Παιδιού της Τουρκίας 2025",
+        "share_text": "Χαρούμενη Ημέρα Εθνικής Κυριαρχίας και Ημέρα του Παιδιού, Τουρκία! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "તુર્કિયેનો રાષ્ટ્રીય સાર્વભૌમત્વ અને બાળ દિવસ",
+        "hover_text": "તુર્કિયેનો રાષ્ટ્રીય સાર્વભૌમત્વ અને બાળ દિવસ 2025",
+        "share_text": "તુર્કિયેના રાષ્ટ્રીય સાર્વભૌમત્વ અને બાળ દિવસની શુભેચ્છા! #GoogleDoodle"
+      },
+      "ht": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום הילד והריבונות הלאומית בטורקיה",
+        "hover_text": "יום הילד והריבונות הלאומית בטורקיה 2025",
+        "share_text": "יום הילד והריבונות הלאומית שמח לטורקיה GoogleDoodle#"
+      },
+      "hi": {
+        "query": "तुर्किये का राष्ट्रीय संप्रभुता और बाल दिवस",
+        "hover_text": "तुर्किये का राष्ट्रीय संप्रभुता और बाल दिवस 2025",
+        "share_text": "तुर्किये के राष्ट्रीय संप्रभुता और बाल दिवस की शुभकामनाएं! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "Törökország nemzeti függetlenségének napja és gyermeknap",
+        "hover_text": "Törökország nemzeti függetlenségének napja és gyermeknap, 2025",
+        "share_text": "Minden jót Törökország nemzeti függetlenségének napja és gyermeknap alkalmából! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Fullveldis- og barnadagur Tyrklands",
+        "hover_text": "Fullveldis- og barnadagur Tyrklands 2025",
+        "share_text": "Gleðilegan fullveldis- og barnadag Tyrklands! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Kedaulatan Nasional dan Anak Turkiye",
+        "hover_text": "Hari Kedaulatan Nasional dan Anak Turkiye 2025",
+        "share_text": "Selamat Hari Kedaulatan Nasional dan Anak Turkiye! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "it": {
+        "query": "Giornata dei bambini e della sovranità nazionale della Turchia",
+        "hover_text": "Giornata della sovranità nazionale e dei bambini della Turchia 2025",
+        "share_text": "Buona giornata della sovranità nazionale e dei bambini della Turchia! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "トルコ国民主権と子どもの日",
+        "hover_text": "2025 年トルコ国民主権と子どもの日",
+        "share_text": "トルコ国民主権と子どもの日を祝おう！#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ತುರ್ಕಿಯೆ ರಾಷ್ಟ್ರೀಯ ಸಾರ್ವಭೌಮತ್ವ ಮತ್ತು ಮಕ್ಕಳ ದಿನಾಚರಣೆ",
+        "hover_text": "ತುರ್ಕಿಯೆ ರಾಷ್ಟ್ರೀಯ ಸಾರ್ವಭೌಮತ್ವ ಮತ್ತು ಮಕ್ಕಳ ದಿನಾಚರಣೆ 2025",
+        "share_text": "ತುರ್ಕಿಯೆ ರಾಷ್ಟ್ರೀಯ ಸಾರ್ವಭೌಮತ್ವ ಮತ್ತು ಮಕ್ಕಳ ದಿನಾಚರಣೆ! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Түркиядағы Ұлттық егемендік пен балалар күні",
+        "hover_text": "Түркиядағы Ұлттық егемендік пен балалар күні – 2025",
+        "share_text": "Түркиядағы Ұлттық егемендік пен балалар күні құтты болсын! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវា​អធិបតេយ្យភាពជាតិ និងសិទ្ធិកុមារនៅតួកគី",
+        "hover_text": "ទិវា​អធិបតេយ្យភាពជាតិ និងសិទ្ធិកុមារនៅតួកគី ឆ្នាំ 2025",
+        "share_text": "អបអរទិវា​អធិបតេយ្យភាពជាតិ និងសិទ្ធិកុមារនៅតួកគី #GoogleDoodle"
+      },
+      "ko": {
+        "query": "튀르키예 국가 주권 및 어린이날",
+        "hover_text": "2025년 튀르키예 국가 주권 및 어린이날",
+        "share_text": "튀르키예 국가 주권 및 어린이날 기념 #GoogleDoodle"
+      },
+      "ky": {
+        "query": "Түркиянын Улуттук эгемендүүлүк жана Балдар күнү",
+        "hover_text": "Түркиянын Улуттук эгемендүүлүк жана Балдар күнү — 2025",
+        "share_text": "Улуттук эгемендүүлүк жана Балдар күнү менен куттуктайбыз, Түркия! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນກໍ່ຕັ້ງສະພາແຫ່ງຊາດ ແລະ ວັນເດັກນ້ອຍຂອງຕຸຣກີ",
+        "hover_text": "ວັນກໍ່ຕັ້ງສະພາແຫ່ງຊາດ ແລະ ວັນເດັກນ້ອຍຂອງຕຸຣກີ 2025",
+        "share_text": "ສຸກສັນວັນກໍ່ຕັ້ງສະພາແຫ່ງຊາດ ແລະ ວັນເດັກນ້ອຍຂອງຕຸຣກີ #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día de la Soberanía Nacional y de la Infancia de Türkiye",
+        "hover_text": "Día de la Soberanía Nacional y del Niño de Türkiye 2025",
+        "share_text": "¡Feliz Día de la Soberanía Nacional y del Niño de Türkiye! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Turcijas Valsts suverenitātes un Bērnu diena",
+        "hover_text": "Turcijas Valsts suverenitātes un Bērnu diena — 2025",
+        "share_text": "Sveicam Turcijas Valsts suverenitātes un Bērnu dienā! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Turkijos nacionalinė suverenumo ir vaikų diena",
+        "hover_text": "Turkijos nacionalinė suverenumo ir vaikų diena, 2025 m.",
+        "share_text": "Linksmos Nacionalinės suverenumo ir vaikų dienos, Turkija! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на независноста и ден на децата во Турција",
+        "hover_text": "Ден на независноста и ден на децата во Турција, 2025 г.",
+        "share_text": "Среќен Ден на независноста и ден на децата во Турција! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ms": {
+        "query": "Hari Kedaulatan Negara dan Kanak-kanak Turkiye",
+        "hover_text": "Hari Kedaulatan Negara dan Kanak-kanak Turkiye 2025",
+        "share_text": "Selamat Hari Kedaulatan Negara dan Kanak-kanak Turkiye! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "തുർക്കിയ ദേശീയ പരമാധികാര ദിനവും ശിശുദിനവും",
+        "hover_text": "തുർക്കിയ ദേശീയ പരമാധികാര ദിനവും ശിശുദിനവും 2025",
+        "share_text": "തുർക്കിയ ദേശീയ പരമാധികാര, ശിശുദിനാശംസകൾ! #GoogleDoodle"
+      },
+      "mt": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "mr": {
+        "query": "तुर्कियेचा राष्ट्रीय सार्वभौमत्व दिन आणि बालदिन",
+        "hover_text": "तुर्कियेचा राष्ट्रीय सार्वभौमत्वदिन आणि बालदिन २०२४",
+        "share_text": "तुर्कियेला राष्ट्रीय सार्वभौमत्वदिन आणि बालदिनाच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Турк Улсын Үндэсний тусгаар тогтнол болон хүүхдийн эрхийг хамгаалах өдөр",
+        "hover_text": "2025 оны Турк Улсын Үндэсний тусгаар тогтнол болон Хүүхдийн эрхийг хамгаалах өдөр",
+        "share_text": "Турк Улсын Үндэсний тусгаар тогтнол болон Хүүхдийн эрхийг хамгаалах өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "टर्किएको राष्ट्रिय सार्वभौमिकता तथा बाल दिवस",
+        "hover_text": "टर्किएको राष्ट्रिय सार्वभौमिकता तथा बाल दिवस २०२४",
+        "share_text": "टर्किएको राष्ट्रिय सार्वभौमिकता तथा बाल दिवसको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Tyrkias uavhengighetsdag og barnas dag",
+        "hover_text": "Tyrkias uavhengighetsdag og barnas dag 2025",
+        "share_text": "Hurra for Tyrkias uavhengighetsdag og barnas dag! #GoogleDoodle"
+      },
+      "nn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ny": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "or": {
+        "query": "ତୁର୍କୀର ଜାତୀୟ ସାର୍ବଭୌମତ୍ୱ ଦିବସ ଏବଂ ଶିଶୁ ଦିବସ",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ps": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز حاکمیت ملی و عید کودک ترکیه",
+        "hover_text": "روز حاکمیت ملی و عید کودک ترکیه - ۲۰۲۴",
+        "share_text": "روز حاکمیت ملی و عید کودک ترکیه مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Święto Niepodległości i Dzień Dziecka w Turcji",
+        "hover_text": "Święto Niepodległości i Dzień Dziecka w Turcji 2025",
+        "share_text": "Obchodzimy Święto Niepodległości i Dzień Dziecka w Turcji #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia das Crianças e da Soberania Nacional da Turquia",
+        "hover_text": "Dia das Crianças e da Soberania Nacional da Turquia 2025",
+        "share_text": "Feliz Dia das Crianças e da Soberania Nacional da Turquia! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia da soberania nacional e da criança da Turquia",
+        "hover_text": "Dia da Criança e da Soberania Nacional da Turquia de 2025",
+        "share_text": "Feliz Dia da Criança e da Soberania Nacional da Turquia! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਤੁਰਕੀ ਦੀ ਰਾਸ਼ਟਰੀ ਪ੍ਰਭੂਸੱਤਾ ਅਤੇ ਬਾਲ ਦਿਵਸ",
+        "hover_text": "ਤੁਰਕੀ ਦੀ ਰਾਸ਼ਟਰੀ ਪ੍ਰਭੂਸੱਤਾ ਅਤੇ ਬਾਲ ਦਿਵਸ 2025",
+        "share_text": "ਤੁਰਕੀ ਦੀ ਰਾਸ਼ਟਰੀ ਪ੍ਰਭੂਸੱਤਾ ਅਤੇ ਬਾਲ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Suveranității Naționale și Ziua Copilului în Turcia",
+        "hover_text": "Ziua Suveranității Naționale și Ziua Copilului în Turcia – 2025",
+        "share_text": "La mulți ani de Ziua Suveranității Naționale și Ziua Copilului în Turcia! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День национальной независимости и детей в Турции",
+        "hover_text": "Праздник национального суверенитета и День детей в Турции – 2025",
+        "share_text": "Праздник национального суверенитета и День детей в Турции #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан државног суверенитета и детета у Турској",
+        "hover_text": "Дан државног суверенитета и детета у Турској 2025.",
+        "share_text": "Срећан Дан државног суверенитета и детета у Турској! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan državnog suvereniteta i deteta u Turskoj",
+        "hover_text": "Dan državnog suvereniteta i deteta u Turskoj 2025.",
+        "share_text": "Srećan Dan državnog suvereniteta i deteta u Turskoj! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "crs": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "sn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "si": {
+        "query": "තුර්කියේ ජාතික ස්වාධිපත්‍ය සහ ළමා දිනය",
+        "hover_text": "තුර්කියේ ජාතික ස්වාධිපත්‍ය සහ ළමා දිනය 2025",
+        "share_text": "ප්‍රීතිමත් තුර්කියේ ජාතික ස්වාධිපත්‍ය සහ ළමා දිනයක්! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň národnej suverenity Turecka a Deň detí",
+        "hover_text": "Deň nezávislosti a detí v Turecku 2025",
+        "share_text": "Šťastný Deň nezávislosti a detí v Turecku! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan suverenosti in dan otroka v Turčiji",
+        "hover_text": "Dan suverenosti in dan otroka v Turčiji 2025",
+        "share_text": "Vesel dan suverenosti in dan otroka v Turčiji! #GoogleDoodle"
+      },
+      "so": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "st": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "es": {
+        "query": "Día de la Soberanía Nacional y la Infancia de Turquía",
+        "hover_text": "Día Nacional de la Soberanía y la Infancia de Turquía 2025",
+        "share_text": "¡Feliz Día de la Soberanía Nacional y la Infancia de Turquía! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Watoto na Utawala wa Kitaifa ya Uturuki",
+        "hover_text": "Siku ya Watoto na Utawala wa Kitaifa Uturuki 2025",
+        "share_text": "Heri ya Siku ya Watoto na Utawala wa Kitaifa Uturuki! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Turkiets nationella självständighets- och barndag",
+        "hover_text": "Turkiets nationella självständighets- och barndag 2025",
+        "share_text": "Vi firar Turkiets nationella självständighets- och barndag #GoogleDoodle"
+      },
+      "tg": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "ta": {
+        "query": "Türkiye National Sovereignty and Children's Day",
+        "hover_text": "துர்க்கியே தேசிய இறையாண்மை மற்றும் குழந்தைகள் தினம் 2025",
+        "share_text": "துர்க்கியே தேசிய இறையாண்மை மற்றும் குழந்தைகள் தின வாழ்த்துகள்! #GoogleDoodle"
+      },
+      "te": {
+        "query": "తుర్కియే జాతీయ సార్వభౌమాధికార మరియు బాలల దినోత్సవం",
+        "hover_text": "తుర్కియే జాతీయ సార్వభౌమాధికార దినోత్సవం, బాలల దినోత్సవం 2025",
+        "share_text": "తుర్కియే జాతీయ సార్వభౌమాధికార దినోత్సవం, బాలల దినోత్సవ శుభాకాంక్షలు! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันก่อตั้งสภาแห่งชาติและวันเด็กของตุรกี",
+        "hover_text": "วันอธิปไตยแห่งชาติและวันเด็กของตุรกีปี 2025",
+        "share_text": "สุขสันต์วันอธิปไตยแห่งชาติและวันเด็กของตุรกี #GoogleDoodle"
+      },
+      "tn": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "tr": {
+        "query": "Ulusal Egemenlik ve Çocuk Bayramı",
+        "hover_text": "2025 Ulusal Egemenlik ve Çocuk Bayramı",
+        "share_text": "Ulusal Egemenlik ve Çocuk Bayramı'nı kutluyoruz. #GoogleDoodle"
+      },
+      "tk": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День національного суверенітету й захисту дітей у Туреччині",
+        "hover_text": "День національного суверенітету й захисту дітей у Туреччині у 2025 році",
+        "share_text": "З Днем національного суверенітету й захисту дітей у Туреччині! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "ترکیہ کا قومی اقتدار اور بچوں کا دن",
+        "hover_text": "ترکیہ کا قومی اقتدار اور بچوں کا دن 2025",
+        "share_text": "ترکیہ کا قومی اقتدار اور بچوں کا دن مبارک ہو! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Turkiyada milliy mustaqillik va bolalar kuni",
+        "hover_text": "Turkiyada Milliy mustaqillik va bolalar kuni 2025",
+        "share_text": "Milliy Mustaqillik va bolalar kuni muborak, Turkiya #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày lễ Chủ quyền Quốc gia và Ngày Thiếu nhi Thổ Nhĩ Kỳ",
+        "hover_text": "Ngày lễ Chủ quyền Quốc gia và Ngày Thiếu nhi Thổ Nhĩ Kỳ năm 2025",
+        "share_text": "Ngày lễ Chủ quyền Quốc gia và Ngày Thiếu nhi Thổ Nhĩ Kỳ! #GoogleDoodle"
+      },
+      "wo": {
+        "query": "",
+        "hover_text": "",
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Ubukhosi Bukazwelonke Base-Tϋrkiye kanye noSuku Lwezingane",
+        "hover_text": "Ubukhosi Bukazwelonke Base-Tϋrkiye kanye Nosuku Lwezingane lwango-2025",
+        "share_text": "Sikufisela Usuku Oluhle Lobukhosi Bukazwelonke Base-Tϋrkiye Nolwezingane! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {
+      "tr": {
+        "language": "tr",
+        "blog_post": "<p>Bug&uuml;n&uuml;n Doodle&#39;ı T&uuml;rkiye&rsquo;nin Ulusal Egemenlik ve &Ccedil;ocuk Bayramı&#39;nı kutluyor. T&uuml;rkiye, her yıl 23 Nisan&#39;da d&uuml;nyanın d&ouml;rt bir yanından binlerce &ccedil;ocuğa ev sahipliği yapıyor ve bir araya gelerek kutlama yapmalarına ve k&uuml;lt&uuml;rel etkileşimde bulunmalarına fırsat veriyor.</p>\r\n\r\n<p>1920 yılında bug&uuml;n, T&uuml;rk milleti Ankara&#39;da T&uuml;rkiye B&uuml;y&uuml;k Millet Meclisi&#39;ni kurarak T&uuml;rkiye Cumhuriyeti&#39;nin kurulması yolunda olduk&ccedil;a &ouml;nemli bir adım attı. T&uuml;rkiye&#39;nin bağımsızlığını kutlamanın yanı sıra, tam dokuz yıl sonra meclis, Mustafa Kemal Atat&uuml;rk&#39;&uuml;n teklifi &uuml;zerine 23 Nisan&#39;ı &ccedil;ocuklara armağan ederek ulusal bayram ilan etti. B&ouml;ylece T&uuml;rkiye, resmen bir &Ccedil;ocuk Bayramı kutlayan ilk &uuml;lke oldu.</p>\r\n\r\n<p>T&uuml;rkiye her yıl d&uuml;nyanın d&ouml;rt bir yanından &ccedil;ocukları da ziyarete ve şenliklere katılmaya davet ediyor. Kutlamalar, &ccedil;ocukların şarkı s&ouml;yleyip dans edebileceği ilgi &ccedil;ekici festivallerden, okul &ccedil;ocuklarının bir g&uuml;n boyunca TBMM&#39;de sandalyeyi devralması ve &uuml;lkeyi y&ouml;netmesi gibi sembolik jestlere kadar uzanıyor ve &ccedil;ocukların geleceğimiz olduğunu bize hatırlatıyor.&nbsp;</p>\r\n\r\n<p>23 Nisan Ulusal Egemenlik ve &Ccedil;ocuk Bayramı Kutlu Olsun T&uuml;rkiye!</p>\r\n"
+      }
+    },
+    "query": "Türkiye National Sovereignty and Children's Day",
+    "share_text": "Happy Türkiye National Sovereignty and Children's Day! #GoogleDoodle"
+  },
+  {
     "name": "earth-day-2025",
     "title": "Earth Day 2025",
     "url": "//www.google.com/logos/doodles/2025/earth-day-2025-6753651837110746-l.png",
