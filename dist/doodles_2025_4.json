@@ -1,5 +1,504 @@
 [
   {
+    "name": "kings-day-2025",
+    "title": "King's Day 2025",
+    "url": "//www.google.com/logos/doodles/2025/kings-day-2025-6753651837110726.2-l.png",
+    "alternate_url": "https://lh3.googleusercontent.com/jr3tjWJb1Kexc_GZBjkEht6005nca7WZwp2MRL8FdBBHVm8glU2oFgR9geX0VHgQGPY1wARrXNnk2Gfz72iJmRrK7dU1vQli6OpZSkKnaQd5rhnE8v0FavU",
+    "high_res_url": "//www.google.com/logos/doodles/2025/kings-day-2025-6753651837110726.2-2x.png",
+    "high_res_width": 1000,
+    "high_res_height": 400,
+    "run_date_array": [
+      2025,
+      4,
+      26
+    ],
+    "translations": {
+      "en": {
+        "query": "King's Day",
+        "hover_text": "King's Day 2025",
+        "share_text": "Happy King's Day, Netherlands! #GoogleDoodle"
+      },
+      "af": {
+        "query": "Koningsdag",
+        "hover_text": "Koningsdag 2025",
+        "share_text": "Gelukkige Koningsdag, Nederland! #GoogleDoodle"
+      },
+      "sq": {
+        "query": "Dita e Mbretit",
+        "hover_text": "Dita e Mbretit, 2025",
+        "share_text": "Gëzuar Ditën e Mbretit, Holandë! #GoogleDoodle"
+      },
+      "am": {
+        "query": "የንጉስ ቀን",
+        "hover_text": "የንጉሥ ቀን 2025",
+        "share_text": "መልካም የንጉስ ቀን ኔዘርላንድስ! #GoogleDoodle"
+      },
+      "ar": {
+        "query": "عيد الملِك",
+        "hover_text": "يوم الملِك 2025",
+        "share_text": "أطيب التمنيات لهولندا بمناسبة يوم الملِك. ‎#GoogleDoodle"
+      },
+      "hy": {
+        "query": "Թագավորի օր",
+        "hover_text": "Թագավորի օր 2025",
+        "share_text": "Շնորհավո՛ր Թագավորի օրը, Նիդեռլանդներ #GoogleDoodle"
+      },
+      "az": {
+        "query": "Kral Günü",
+        "hover_text": "2025 Kral Günü",
+        "share_text": "Kral Günün Mübarək, Niderland! #GoogleDoodle"
+      },
+      "bn": {
+        "query": "কিংস ডে",
+        "hover_text": "কিংস ডে ২০২৫",
+        "share_text": "কিংস ডের শুভেচ্ছা, নেদারল্যান্ডস! #GoogleDoodle"
+      },
+      "eu": {
+        "query": "Erregearen Eguna",
+        "hover_text": "2025eko Erregearen Eguna",
+        "share_text": "Erregearen Egun zoriontsua izan, Herbehereak! #GoogleDoodle"
+      },
+      "be": {
+        "query": "Дзень каралёў",
+        "hover_text": "Дзень караля 2025",
+        "share_text": "З Днём караля, Нідэрланды! #GoogleDoodle"
+      },
+      "bs": {
+        "query": "Dan kralja",
+        "hover_text": "Dan kralja 2025.",
+        "share_text": "Sretan Dan kralja Nizozemske! #GoogleDoodle"
+      },
+      "en-GB": {
+        "query": "King's Day",
+        "hover_text": "King's Day 2025",
+        "share_text": "Happy King's Day, Netherlands! #GoogleDoodle"
+      },
+      "bg": {
+        "query": "Ден на краля",
+        "hover_text": "Ден на краля 2025 г.",
+        "share_text": "Честит Ден на краля на Нидерландия! #GoogleDoodle"
+      },
+      "my": {
+        "query": "ဘုရင်မင်းမြတ်နေ့",
+        "hover_text": "၂၀၂၅ ဘုရင်မင်းမြတ်နေ့",
+        "share_text": "ပျော်ရွှင်ဖွယ် ဘုရင်မင်းမြတ်နေ့ ဖြစ်ပါစေ၊ နယ်သာလန်။ #GoogleDoodle"
+      },
+      "ca": {
+        "query": "Dia del Rei",
+        "hover_text": "Dia del Rei 2025",
+        "share_text": "Feliç Dia del Rei, Països Baixos! #GoogleDoodle"
+      },
+      "zh-HK": {
+        "query": "國王日",
+        "hover_text": "2025 年國王日",
+        "share_text": "荷蘭，國王日快樂！#GoogleDoodle"
+      },
+      "zh-TW": {
+        "query": "國王日",
+        "hover_text": "2025 國王日",
+        "share_text": "荷蘭，國王日快樂！#GoogleDoodle"
+      },
+      "zh-CN": {
+        "query": "荷兰国王日",
+        "hover_text": "2025 年国王节",
+        "share_text": "荷兰，国王日快乐！#GoogleDoodle"
+      },
+      "hr": {
+        "query": "Kraljev dan",
+        "hover_text": "Kraljev dan 2025.",
+        "share_text": "Sretan Kraljev dan, Nizozemska! #GoogleDoodle"
+      },
+      "cs": {
+        "query": "Králův den",
+        "hover_text": "Králův den 2025",
+        "share_text": "Vše nejlepší ke Královu dni, Nizozemsko! #GoogleDoodle"
+      },
+      "da": {
+        "query": "Kongens dag",
+        "hover_text": "Kongens dag 2025",
+        "share_text": "Glædelig Kongens dag, Nederlandene #GoogleDoodle"
+      },
+      "nl": {
+        "query": "Koningsdag",
+        "hover_text": "Koningsdag 2025",
+        "share_text": "Fijne Koningsdag Nederland! #GoogleDoodle"
+      },
+      "et": {
+        "query": "Kuninga päev",
+        "hover_text": "2025. aasta kuningapäev",
+        "share_text": "Head kuningapäeva, Holland! #GoogleDoodle"
+      },
+      "fi": {
+        "query": "Kuninkaan päivä",
+        "hover_text": "Kuninkaan päivä 2025",
+        "share_text": "Hyvää kuninkaan päivää, Alankomaat! #GoogleDoodle"
+      },
+      "fr": {
+        "query": "Fête du Roi",
+        "hover_text": "Fête du Roi 2025",
+        "share_text": "Fête du Roi aux Pays-Bas ! #GoogleDoodle"
+      },
+      "fr-CA": {
+        "query": "Fête du Roi",
+        "hover_text": "Fête du Roi 2025",
+        "share_text": "Joyeuse fête du Roi, Pays-Bas! #GoogleDoodle"
+      },
+      "gl": {
+        "query": "Día do Rei",
+        "hover_text": "Día do Rei 2025",
+        "share_text": "Feliz Día do Rei, Países Baixos! #GoogleDoodle"
+      },
+      "ka": {
+        "query": "მეფის დღე",
+        "hover_text": "მეფის დღე — 2025",
+        "share_text": "ვულოცავთ ნიდერლანდებს მეფის დღეს! #GoogleDoodle"
+      },
+      "de": {
+        "query": "Königstag",
+        "hover_text": "Königstag 2025",
+        "share_text": "Alles Gute zum Königstag in den Niederlanden! #GoogleDoodle"
+      },
+      "el": {
+        "query": "Ημέρα του Βασιλιά",
+        "hover_text": "Ημέρα του Βασιλιά 2025",
+        "share_text": "Ευχόμαστε Χαρούμενη Ημέρα του Βασιλιά στην Ολλανδία! #GoogleDoodle"
+      },
+      "gu": {
+        "query": "કિંગ દિવસ",
+        "hover_text": "કિંગ્સ ડે 2025",
+        "share_text": "કિંગ્સ ડેની શુભેચ્છા, નૅધરલૅન્ડ્સ! #GoogleDoodle"
+      },
+      "ht": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "iw": {
+        "query": "יום המלך",
+        "hover_text": "יום המלך 2025",
+        "share_text": "יום המלך שמח, הולנד! GoogleDoodle#"
+      },
+      "hi": {
+        "query": "किंग दिवस",
+        "hover_text": "किंग्स डे 2025",
+        "share_text": "किंग्स डे की शुभकामनाएं, नीदरलैंड्स! #GoogleDoodle"
+      },
+      "hu": {
+        "query": "A Király napja",
+        "hover_text": "A Király napja, 2025",
+        "share_text": "Boldog Király napját, Hollandia! #GoogleDoodle"
+      },
+      "is": {
+        "query": "Konungsdagurinn",
+        "hover_text": "Konungsdagurinn 2025",
+        "share_text": "Gleðilegan konungsdag, Holland! #GoogleDoodle"
+      },
+      "id": {
+        "query": "Hari Raja",
+        "hover_text": "Hari Raja 2025",
+        "share_text": "Selamat Hari Raja, Belanda! #GoogleDoodle"
+      },
+      "ga": {
+        "query": "Lá an Rí",
+        "hover_text": null,
+        "share_text": "Lá Rí na hÍsiltíre faoi mhaise duit! #GoogleDoodle"
+      },
+      "it": {
+        "query": "Giorno del Re",
+        "hover_text": "Giorno del Re 2025",
+        "share_text": "Felice giorno del Re, Paesi Bassi! #GoogleDoodle"
+      },
+      "ja": {
+        "query": "国王の日",
+        "hover_text": "2025 年国王の日",
+        "share_text": "国王の日（オランダ）を祝おう#GoogleDoodle"
+      },
+      "kn": {
+        "query": "ಕಿಂಗ್ಸ್ ದಿನ",
+        "hover_text": "ಕಿಂಗ್ಸ್ ಡೇ 2025",
+        "share_text": "ರಾಜರ ದಿನದ ಶುಭಾಶಯಗಳು, ನೆದರ್ಲೆಂಡ್ಸ್! #GoogleDoodle"
+      },
+      "kk": {
+        "query": "Патша күні",
+        "hover_text": "Король күні – 2025",
+        "share_text": "Король күні құтты болсын, Нидерланд! #GoogleDoodle"
+      },
+      "km": {
+        "query": "ទិវាចម្រើន​ព្រះជន្ម​ស្តេច",
+        "hover_text": "ទិវាចម្រើន​ព្រះជន្ម​ស្តេច​ឆ្នាំ 2025",
+        "share_text": "អបអរទិវាចម្រើន​ព្រះជន្ម​ស្តេចហូឡង់! #GoogleDoodle"
+      },
+      "ko": {
+        "query": "국왕의 날",
+        "hover_text": "2025년 국왕 탄생일",
+        "share_text": "네덜란드 왕의 날 기념 #Google기념일로고"
+      },
+      "ky": {
+        "query": "Падышанын күнү",
+        "hover_text": "Падышанын күнү – 2025",
+        "share_text": "Нидерланддар, Падышанын күнү менен куттуктайбыз! #GoogleDoodle"
+      },
+      "lo": {
+        "query": "ວັນກະສັດ",
+        "hover_text": "ວັນກະສັດປີ 2025",
+        "share_text": "ສຸກສັນວັນກະສັດ, ເນເທີແລນ! #GoogleDoodle"
+      },
+      "es-419": {
+        "query": "Día del Rey",
+        "hover_text": "Día del Rey 2025",
+        "share_text": "¡Felíz Día del Rey, Países Bajos! #GoogleDoodle"
+      },
+      "lv": {
+        "query": "Karaļa diena",
+        "hover_text": "Karaļa diena — 2025",
+        "share_text": "Sveicam Karaļa dienā, Nīderlande! #GoogleDoodle"
+      },
+      "lt": {
+        "query": "Karaliaus diena",
+        "hover_text": "Karaliaus diena, 2025 m.",
+        "share_text": "Sveikiname Nyderlandus su Karaliaus diena! #GoogleDoodle"
+      },
+      "mk": {
+        "query": "Ден на кралот",
+        "hover_text": "Ден на кралот, 2025 г.",
+        "share_text": "Среќен ден на кралот, Холандија! #GoogleDoodle"
+      },
+      "mg": {
+        "query": "Andron'ny mpanjaka",
+        "hover_text": null,
+        "share_text": "Tsarà Fetin'ny mpanjaka ry Peibà ! #GoogleDoodle"
+      },
+      "ms": {
+        "query": "Hari Raja",
+        "hover_text": "Hari Raja 2025",
+        "share_text": "Selamat Hari Raja, Belanda! #GoogleDoodle"
+      },
+      "ml": {
+        "query": "കിംഗ്‌സ് ദിനം",
+        "hover_text": "കിംഗ്‌സ് ഡേ 2025",
+        "share_text": "കിംഗ്‌സ് ഡേ ആശംസകൾ, നെതർലൻഡ്‌സ്! #GoogleDoodle"
+      },
+      "mt": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "mr": {
+        "query": "राजाचा दिवस",
+        "hover_text": "किंग्ज डे २०२५",
+        "share_text": "नेदरलँड्स येथील किंग्ज डेच्या शुभेच्छा! #GoogleDoodle"
+      },
+      "mn": {
+        "query": "Хааны өдөр",
+        "hover_text": "2025 оны Хааны өдөр",
+        "share_text": "Нидерланд улсын ард иргэдэд Хааны өдрийн мэнд хүргэе! #GoogleDoodle"
+      },
+      "ne": {
+        "query": "राजाको दिवस",
+        "hover_text": "किङ्ग्स डे २०२५",
+        "share_text": "नेदरल्यान्डका राजाको जन्म दिनको शुभकामना! #GoogleDoodle"
+      },
+      "no": {
+        "query": "Kongens dag",
+        "hover_text": "Kongens dag 2025",
+        "share_text": "Gratulerer med Kongens dag, Nederland! #GoogleDoodle"
+      },
+      "nn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ny": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "or": {
+        "query": "କିଙ୍ଗ୍‌ଙ୍କ ଦିବସ",
+        "hover_text": null,
+        "share_text": "ରାଜାଙ୍କ ଦିବସର ଶୁଭେଚ୍ଛା, ନେଦରଲ୍ୟାଣ୍ଡ! #GoogleDoodle"
+      },
+      "ps": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "fa": {
+        "query": "روز ملکه",
+        "hover_text": "روز پادشاه ۲۰۲۵",
+        "share_text": "روز پادشاه هلند مبارک! ‎#GoogleDoodle"
+      },
+      "pl": {
+        "query": "Dzień Króla",
+        "hover_text": "Dzień Króla 2025",
+        "share_text": "Holandia obchodzi Dzień Króla #GoogleDoodle"
+      },
+      "pt-BR": {
+        "query": "Dia do Rei",
+        "hover_text": "Dia do Rei 2025",
+        "share_text": "Feliz Dia do Rei, Países Baixos! #GoogleDoodle"
+      },
+      "pt-PT": {
+        "query": "Dia do Rei",
+        "hover_text": "Dia do Rei de 2025",
+        "share_text": "Feliz dia do rei, Países Baixos! #GoogleDoodle"
+      },
+      "pa": {
+        "query": "ਕਿੰਗ ਦਾ ਦਿਨ",
+        "hover_text": "ਕਿੰਗਸ ਡੇ 2025",
+        "share_text": "ਕਿੰਗਸ ਦਿਵਸ ਦੀਆਂ ਵਧਾਈਆਂ, ਨੀਦਰਲੈਂਡ! #GoogleDoodle"
+      },
+      "ro": {
+        "query": "Ziua Regelui",
+        "hover_text": "Ziua Regelui 2025",
+        "share_text": "La mulți ani de Ziua Regelui, Țările de Jos! #GoogleDoodle"
+      },
+      "ro-MD": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ru": {
+        "query": "День короля",
+        "hover_text": "День короля – 2025",
+        "share_text": "День короля в Нидерландах #GoogleDoodle"
+      },
+      "sr": {
+        "query": "Дан краља",
+        "hover_text": "Дан краља 2025.",
+        "share_text": "Честитамо Дан краља Холандији! #GoogleDoodle"
+      },
+      "sr-Latn": {
+        "query": "Dan kralja",
+        "hover_text": "Dan kralja 2025.",
+        "share_text": "Čestitamo Dan kralja Holandiji! #GoogleDoodle"
+      },
+      "sr-ME": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "crs": {
+        "query": "Lazournen King",
+        "hover_text": null,
+        "share_text": "Bonn zournen Lerwa, Netherlands! #GoogleDoodle"
+      },
+      "sn": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "si": {
+        "query": "රජ දිනය",
+        "hover_text": "රජුගේ දිනය 2025",
+        "share_text": "ප්‍රීතිමත් රජුගේ දිනයක්, නෙදර්ලන්තය! #GoogleDoodle"
+      },
+      "sk": {
+        "query": "Deň kráľa",
+        "hover_text": "Deň kráľa 2025",
+        "share_text": "Šťastný Deň kráľa, Holandsko! #GoogleDoodle"
+      },
+      "sl": {
+        "query": "Dan kralja",
+        "hover_text": "Kraljevi dan 2025",
+        "share_text": "Vesel dan kralja, Nizozemska! #GoogleDoodle"
+      },
+      "so": {
+        "query": "Maalinta King",
+        "hover_text": null,
+        "share_text": "Maalinta Boqorka Farxada leh, Netherlands! #GoogleDoodle"
+      },
+      "st": {
+        "query": "Letsatsi la Babusi",
+        "hover_text": null,
+        "share_text": "Mahlohonolo a Letsatsi la Morena, Netherlands! #GoogleDoodle"
+      },
+      "es": {
+        "query": "Día del Rey",
+        "hover_text": "Día del Rey 2025",
+        "share_text": "¡Feliz Día del Rey de los Países Bajos! #GoogleDoodle"
+      },
+      "sw": {
+        "query": "Siku ya Mfalme",
+        "hover_text": "Maadhimisho ya Siku ya Kuzaliwa kwa Mfalme 2025",
+        "share_text": "Heri za Sikukuu ya Mfalme, Uholanzi! #GoogleDoodle"
+      },
+      "sv": {
+        "query": "Koningsdag",
+        "hover_text": "Koningsdag 2025",
+        "share_text": "Koningsdag i Nederländerna #GoogleDoodle"
+      },
+      "tg": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "ta": {
+        "query": "கிங்ஸ் தினம்",
+        "hover_text": "அரசர் தினம் 2025",
+        "share_text": "கிங்ஸ் தின வாழ்த்துகள் நெதர்லாந்து! #GoogleDoodle"
+      },
+      "te": {
+        "query": "కింగ్స్ డే",
+        "hover_text": "కింగ్స్ డే 2025",
+        "share_text": "కింగ్స్ డే శుభాకాంక్షలు, నెదర్లాండ్స్! #GoogleDoodle"
+      },
+      "th": {
+        "query": "วันพระราชสมภพ",
+        "hover_text": "วันพระราชาปี 2025",
+        "share_text": "สุขสันต์วันพระราชสมภพของเนเธอร์แลนด์ #GoogleDoodle"
+      },
+      "tn": {
+        "query": "Letsatsi la ga King",
+        "hover_text": null,
+        "share_text": "Itumelele Letsatsi la Kgosi, Netherlands! #GoogleDoodle"
+      },
+      "tr": {
+        "query": "Kral Günü",
+        "hover_text": "2025 Kral Günü",
+        "share_text": "Kral Günü Kutlaması, Hollanda #GoogleDoodle"
+      },
+      "tk": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "uk": {
+        "query": "День короля",
+        "hover_text": "День короля у 2025 році",
+        "share_text": "З днем короля, Нідерланди! #GoogleDoodle"
+      },
+      "ur": {
+        "query": "کنگس ڈے",
+        "hover_text": "کنگز ڈے 2025",
+        "share_text": "کنگس ڈے مبارک ہو، نیدر لینڈز! GoogleDoodle#"
+      },
+      "uz": {
+        "query": "Qirol kuni",
+        "hover_text": "Qirol kuni 2025",
+        "share_text": "Qirol kuni muborak, Niderlandiya! #GoogleDoodle"
+      },
+      "vi": {
+        "query": "Ngày của vua",
+        "hover_text": "Ngày Nhà vua năm 2025",
+        "share_text": "Chúc mừng lễ hội nhà Vua ở Hà Lan! #GoogleDoodle"
+      },
+      "wo": {
+        "query": null,
+        "hover_text": null,
+        "share_text": ""
+      },
+      "zu": {
+        "query": "Usuku lwenkosi",
+        "hover_text": "Usuku lweNkosi lwango-2025",
+        "share_text": "Sikufisela Usuku lweNkosi Oluhle, Netherlands! #GoogleDoodle"
+      }
+    },
+    "translated_blog_posts": {},
+    "query": "King's Day",
+    "share_text": "Happy King's Day, Netherlands! #GoogleDoodle"
+  },
+  {
     "name": "rise-of-the-half-moon-april",
     "title": "Rise of the Half Moon April",
     "url": "//www.google.com/logos/doodles/2025/rise-of-the-half-moon-april-6753651837110767.2-l.png",
